@@ -1,15 +1,16 @@
+#
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=utf-8\n"
-"Language: pt\n"
-"Language-Team: Portuguese, Brazilian\n"
-"Last-Translator: \n"
-"MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: 2026-07-07\n"
 "Project-Id-Version: yakuza-3-remastered\n"
 "Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-07-07\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgctxt "180"
 msgid ""
@@ -35,7 +36,7 @@ msgstr ""
 
 msgctxt "240"
 msgid "Not hungry, huh?"
-msgstr ""
+msgstr "Non hai fame, eh?"
 
 msgctxt "252"
 msgid "......"
@@ -79,7 +80,7 @@ msgstr ""
 
 msgctxt "372"
 msgid "What's up?"
-msgstr ""
+msgstr "Che c'è?"
 
 msgctxt "384"
 msgid "Is not having parents... a bad thing?"
@@ -87,7 +88,7 @@ msgstr ""
 
 msgctxt "396"
 msgid "Huh?"
-msgstr ""
+msgstr "Eh?"
 
 msgctxt "408"
 msgid ""
@@ -107,7 +108,7 @@ msgstr ""
 
 msgctxt "444"
 msgid "Uh-huh..."
-msgstr ""
+msgstr "Uh-uh..."
 
 msgctxt "456"
 msgid "They... They said my parents can't come 'cause they're dead."
@@ -115,7 +116,7 @@ msgstr ""
 
 msgctxt "468"
 msgid "(That's awful...)"
-msgstr ""
+msgstr "È terribile..."
 
 msgctxt "480"
 msgid "Everyone knows I live here with you, Uncle Kaz."
@@ -188,7 +189,7 @@ msgstr ""
 
 msgctxt "660"
 msgid "Huh?"
-msgstr ""
+msgstr "Eh?"
 
 msgctxt "672"
 msgid "Me, Haruka, and everyone else."
@@ -196,17 +197,17 @@ msgstr ""
 
 msgctxt "684"
 msgid "I don't get it."
-msgstr ""
+msgstr "Non capisco."
 
 msgctxt "696"
 msgid ""
-"Listen. Families come in all shapes and sizes. Having a \"real\" mom and "
-"dad isn't what matters here."
+"Listen. Families come in all shapes and sizes. Having a \"real\" mom and dad"
+" isn't what matters here."
 msgstr ""
 
 msgctxt "708"
 msgid "But..."
-msgstr ""
+msgstr "Ma..."
 
 msgctxt "720"
 msgid ""
@@ -240,7 +241,7 @@ msgstr ""
 
 msgctxt "792"
 msgid "Huh?"
-msgstr ""
+msgstr "Eh?"
 
 msgctxt "804"
 msgid ""
@@ -330,7 +331,7 @@ msgstr ""
 
 msgctxt "1032"
 msgid "Not hungry, huh?"
-msgstr ""
+msgstr "Non hai fame, eh?"
 
 msgctxt "1044"
 msgid "Something happen at school?"

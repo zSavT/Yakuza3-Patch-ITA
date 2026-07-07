@@ -1,15 +1,16 @@
+#
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=utf-8\n"
-"Language: pt\n"
-"Language-Team: Portuguese, Brazilian\n"
-"Last-Translator: \n"
-"MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: 2026-07-07\n"
 "Project-Id-Version: yakuza-3-remastered\n"
 "Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-07-07\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgctxt "152"
 msgid ""
@@ -41,7 +42,7 @@ msgstr ""
 
 msgctxt "272"
 msgid "Oh, uh... Okay."
-msgstr ""
+msgstr "Oh, ehm... Ok...?"
 
 msgctxt "284"
 msgid ""
@@ -69,7 +70,7 @@ msgstr ""
 
 msgctxt "344"
 msgid "You got <Color:8>150,000 yen<Color:Default>."
-msgstr ""
+msgstr "Hai ottenuto <Color:8>150.000 yen<Color:Default>."
 
 msgctxt "368"
 msgid "Let's hightail it outta here, m'dudes!"
@@ -85,7 +86,7 @@ msgstr ""
 
 msgctxt "476"
 msgid "Ow!"
-msgstr ""
+msgstr "Ahi!"
 
 msgctxt "512"
 msgid "Ooowww! It huuurts!"
@@ -133,7 +134,7 @@ msgstr ""
 
 msgctxt "632"
 msgid "Huh?"
-msgstr ""
+msgstr "Eh?"
 
 msgctxt "644"
 msgid ""
@@ -151,7 +152,7 @@ msgstr ""
 
 msgctxt "692"
 msgid "Ack!"
-msgstr ""
+msgstr "Ah!"
 
 msgctxt "716"
 msgid "Augh! Please, let us go!"
@@ -176,7 +177,8 @@ msgid "Who are you calling Aniki? You made your bed, now lie in it."
 msgstr ""
 
 msgctxt "776"
-msgid "Folks from Okinawa gotta look out for each other! Please, we'll do anything!"
+msgid ""
+"Folks from Okinawa gotta look out for each other! Please, we'll do anything!"
 msgstr ""
 
 msgctxt "788"
@@ -247,7 +249,7 @@ msgstr ""
 
 msgctxt "12692"
 msgid "Kamurocho Punks"
-msgstr ""
+msgstr "Teppisti di Kamurocho"
 
 msgctxt "12696"
 msgid "Kiryu"
@@ -327,7 +329,7 @@ msgstr ""
 
 msgctxt "12772"
 msgid "Idle"
-msgstr ""
+msgstr "Inattivo"
 
 msgctxt "12776"
 msgid "Talk_Gakkari"

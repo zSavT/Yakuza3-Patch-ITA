@@ -1,15 +1,16 @@
+#
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=utf-8\n"
-"Language: pt\n"
-"Language-Team: Portuguese, Brazilian\n"
-"Last-Translator: \n"
-"MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: 2026-07-07\n"
 "Project-Id-Version: yakuza-3-remastered\n"
 "Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-07-07\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgctxt "164"
 msgid "I'm sorry about the ruckus."
@@ -53,7 +54,7 @@ msgstr ""
 
 msgctxt "272"
 msgid "Huh?"
-msgstr ""
+msgstr "Eh?"
 
 msgctxt "284"
 msgid "Forget it, it's not important."
@@ -77,7 +78,7 @@ msgstr ""
 
 msgctxt "332"
 msgid "What's that supposed to mean?"
-msgstr ""
+msgstr "Che cosa vorresti dire?"
 
 msgctxt "344"
 msgid ""
@@ -93,7 +94,7 @@ msgstr ""
 
 msgctxt "368"
 msgid "Is that right?"
-msgstr ""
+msgstr "È così?"
 
 msgctxt "380"
 msgid ""
@@ -171,7 +172,7 @@ msgstr ""
 
 msgctxt "548"
 msgid "Oh, sorry."
-msgstr ""
+msgstr "Oh, scusa."
 
 msgctxt "560"
 msgid "Truth is, I actually live in Okinawa."
@@ -179,7 +180,7 @@ msgstr ""
 
 msgctxt "572"
 msgid "Wait, really!?"
-msgstr ""
+msgstr "Aspetta, sul serio?"
 
 msgctxt "584"
 msgid "That's perfect! Would you come with me to Okinawa?"
@@ -187,7 +188,7 @@ msgstr ""
 
 msgctxt "596"
 msgid "Wait, what?"
-msgstr ""
+msgstr "Ma che?"
 
 msgctxt "608"
 msgid ""

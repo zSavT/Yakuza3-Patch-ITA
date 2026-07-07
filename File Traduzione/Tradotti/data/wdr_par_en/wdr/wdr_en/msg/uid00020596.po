@@ -1,15 +1,16 @@
+#
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=utf-8\n"
-"Language: pt\n"
-"Language-Team: Portuguese, Brazilian\n"
-"Last-Translator: \n"
-"MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: 2026-07-07\n"
 "Project-Id-Version: yakuza-3-remastered\n"
 "Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-07-07\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgctxt "108"
 msgid ""
@@ -29,11 +30,11 @@ msgstr ""
 
 msgctxt "144"
 msgid "Just leave me alone!"
-msgstr ""
+msgstr "Lasciami in pace!"
 
 msgctxt "156"
 msgid "But..."
-msgstr ""
+msgstr "Ma..."
 
 msgctxt "168"
 msgid "You want me to go outside? Fine, then let's wrestle!"
@@ -77,7 +78,7 @@ msgstr ""
 
 msgctxt "276"
 msgid "...Yeah."
-msgstr ""
+msgstr "...Già."
 
 msgctxt "288"
 msgid "Then you can't give it up."
@@ -85,7 +86,7 @@ msgstr ""
 
 msgctxt "300"
 msgid "Huh?"
-msgstr ""
+msgstr "Eh?"
 
 msgctxt "312"
 msgid "Don't lose sight of your dream, no matter what."
@@ -111,7 +112,7 @@ msgstr ""
 
 msgctxt "360"
 msgid "I..."
-msgstr ""
+msgstr "Io..."
 
 msgctxt "372"
 msgid ""
@@ -121,7 +122,7 @@ msgstr ""
 
 msgctxt "384"
 msgid "...Yeah."
-msgstr ""
+msgstr "...Già."
 
 msgctxt "396"
 msgid ""
@@ -153,7 +154,7 @@ msgstr ""
 
 msgctxt "456"
 msgid "Uh..."
-msgstr ""
+msgstr "Ehm..."
 
 msgctxt "516"
 msgid "So, what's this about a special match?"
@@ -201,7 +202,7 @@ msgstr ""
 
 msgctxt "624"
 msgid "Heh, we'll see about that."
-msgstr ""
+msgstr "Eheh. Vedremo un po'."
 
 msgctxt "8464"
 msgid "Rikiya"
@@ -245,7 +246,7 @@ msgstr ""
 
 msgctxt "8504"
 msgid "Idle"
-msgstr ""
+msgstr "Inattivo"
 
 msgctxt "8508"
 msgid "Talk_OK"

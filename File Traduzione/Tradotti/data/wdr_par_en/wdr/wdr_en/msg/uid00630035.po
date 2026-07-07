@@ -1,19 +1,20 @@
+#
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=utf-8\n"
-"Language: pt\n"
-"Language-Team: Portuguese, Brazilian\n"
-"Last-Translator: \n"
-"MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: 2026-07-07\n"
 "Project-Id-Version: yakuza-3-remastered\n"
 "Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-07-07\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgctxt "248"
 msgid "(Let's see here...)"
-msgstr ""
+msgstr "(Vediamo un po'...)"
 
 msgctxt "260"
 msgid "(Now what's a good song...?)"
@@ -29,11 +30,11 @@ msgstr ""
 
 msgctxt "308"
 msgid "(Well, guess it's time to leave.)"
-msgstr ""
+msgstr "(Mi sa che è ora di andare.)"
 
 msgctxt "320"
 msgid "(Let's see here...)"
-msgstr ""
+msgstr "(Vediamo un po'...)"
 
 msgctxt "332"
 msgid "(Now what's a good song...?)"
@@ -45,7 +46,7 @@ msgstr ""
 
 msgctxt "368"
 msgid "(Well, guess it's time to leave.)"
-msgstr ""
+msgstr "(Mi sa che è ora di andare.)"
 
 msgctxt "380"
 msgid "Sing Karaoke"
@@ -53,7 +54,7 @@ msgstr ""
 
 msgctxt "392"
 msgid "View Rankings"
-msgstr ""
+msgstr "Visualizza classifiche"
 
 msgctxt "404"
 msgid "Reminisce"
@@ -65,7 +66,7 @@ msgstr ""
 
 msgctxt "428"
 msgid "Leave"
-msgstr ""
+msgstr "Andarsene"
 
 msgctxt "440"
 msgid "Sing Karaoke"
@@ -73,7 +74,7 @@ msgstr ""
 
 msgctxt "452"
 msgid "View Rankings"
-msgstr ""
+msgstr "Visualizza classifiche"
 
 msgctxt "464"
 msgid "How to Play"
@@ -81,7 +82,7 @@ msgstr ""
 
 msgctxt "476"
 msgid "Leave"
-msgstr ""
+msgstr "Andarsene"
 
 msgctxt "1988"
 msgid "Kiryu"

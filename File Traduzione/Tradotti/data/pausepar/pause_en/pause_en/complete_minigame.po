@@ -1,15 +1,16 @@
+#
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=utf-8\n"
-"Language: pt\n"
-"Language-Team: Portuguese, Brazilian\n"
-"Last-Translator: \n"
-"MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: 2026-07-07\n"
 "Project-Id-Version: yakuza-3-remastered\n"
 "Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-07-07\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgctxt "338\tNAME"
 msgid "Aroma Massage"
@@ -17,11 +18,11 @@ msgstr ""
 
 msgctxt "354\tNAME"
 msgid "Darts"
-msgstr ""
+msgstr "Freccette"
 
 msgctxt "362\tNAME"
 msgid "Pool"
-msgstr ""
+msgstr "Biliardo"
 
 msgctxt "369\tNAME"
 msgid "Karaoke"
@@ -33,19 +34,19 @@ msgstr ""
 
 msgctxt "389\tNAME"
 msgid "Cee-lo"
-msgstr ""
+msgstr "Cee-lo"
 
 msgctxt "398\tNAME"
 msgid "Cho-han"
-msgstr ""
+msgstr "Cho-Han"
 
 msgctxt "408\tNAME"
 msgid "Koi-koi"
-msgstr ""
+msgstr "Koi-koi"
 
 msgctxt "418\tNAME"
 msgid "Oicho-kabu"
-msgstr ""
+msgstr "Oicho-kabu"
 
 msgctxt "431\tNAME"
 msgid "Roulette"
@@ -57,7 +58,7 @@ msgstr ""
 
 msgctxt "450\tNAME"
 msgid "Blackjack"
-msgstr ""
+msgstr "Manganello"
 
 msgctxt "461\tNAME"
 msgid "JUFO Catcher"
@@ -65,7 +66,7 @@ msgstr ""
 
 msgctxt "476\tNAME"
 msgid "Answer×Answer"
-msgstr ""
+msgstr "AnswerxAnswer"
 
 msgctxt "493\tNAME"
 msgid "Shogi"
@@ -77,7 +78,7 @@ msgstr ""
 
 msgctxt "511\tNAME"
 msgid "Batting Center"
-msgstr ""
+msgstr "Gabbie di battuta"
 
 msgctxt "528\tNAME"
 msgid "Golf"
@@ -85,11 +86,11 @@ msgstr ""
 
 msgctxt "535\tNAME"
 msgid "Fishing"
-msgstr ""
+msgstr "Pesca"
 
 msgctxt "545\tNAME"
 msgid "Shooting"
-msgstr ""
+msgstr "Tiro"
 
 msgctxt "556\tEXP"
 msgid "Get the highest rank in every course."
@@ -405,7 +406,7 @@ msgstr ""
 
 msgctxt "1659\tSTRING"
 msgid "10-Frame Score"
-msgstr ""
+msgstr "Punteggio 10 frame"
 
 msgctxt "1675\tSTRING"
 msgid "s"
@@ -413,7 +414,7 @@ msgstr ""
 
 msgctxt "1677\tSTRING"
 msgid "Total Points"
-msgstr ""
+msgstr "Punti totali"
 
 msgctxt "1691\tSTRING"
 msgid "s"
@@ -421,7 +422,7 @@ msgstr ""
 
 msgctxt "1693\tSTRING"
 msgid "Total Points"
-msgstr ""
+msgstr "Punti totali"
 
 msgctxt "1707\tSTRING"
 msgid "s"
@@ -429,7 +430,7 @@ msgstr ""
 
 msgctxt "1709\tSTRING"
 msgid "Total Points"
-msgstr ""
+msgstr "Punti totali"
 
 msgctxt "1723\tSTRING"
 msgid "s"
@@ -437,7 +438,7 @@ msgstr ""
 
 msgctxt "1725\tSTRING"
 msgid "Total Points"
-msgstr ""
+msgstr "Punti totali"
 
 msgctxt "1739\tSTRING"
 msgid "s"
@@ -445,7 +446,7 @@ msgstr ""
 
 msgctxt "1741\tSTRING"
 msgid "Total Chips"
-msgstr ""
+msgstr "Fiches totali"
 
 msgctxt "1754\tSTRING"
 msgid "s"
@@ -469,11 +470,11 @@ msgstr ""
 
 msgctxt "1816\tSTRING"
 msgid "Prizes Won"
-msgstr ""
+msgstr "Premi Vinti"
 
 msgctxt "1827\tSTRING"
 msgid "Unknown."
-msgstr ""
+msgstr "Sconosciuto."
 
 msgctxt "1836\tSTRING"
 msgid "Speed Quiz"
@@ -497,7 +498,7 @@ msgstr ""
 
 msgctxt "1946\tSTRING"
 msgid "Total Wins"
-msgstr ""
+msgstr "Vittorie totali"
 
 msgctxt "1958\tSTRING"
 msgid "s"
@@ -517,7 +518,7 @@ msgstr ""
 
 msgctxt "2004\tSTRING"
 msgid "Easy Game"
-msgstr ""
+msgstr "Gioco Facile"
 
 msgctxt "2015\tSTRING"
 msgid "s"
@@ -525,7 +526,7 @@ msgstr ""
 
 msgctxt "2017\tSTRING"
 msgid "Normal Game"
-msgstr ""
+msgstr "Gioco normale"
 
 msgctxt "2030\tSTRING"
 msgid "s"
@@ -533,7 +534,7 @@ msgstr ""
 
 msgctxt "2032\tSTRING"
 msgid "Hard Game"
-msgstr ""
+msgstr "Partita Difficile"
 
 msgctxt "2043\tSTRING"
 msgid "s"
@@ -541,7 +542,7 @@ msgstr ""
 
 msgctxt "2045\tSTRING"
 msgid "Extra Hard Game"
-msgstr ""
+msgstr "Gioco Extra Difficile"
 
 msgctxt "2062\tSTRING"
 msgid "s"
@@ -549,7 +550,7 @@ msgstr ""
 
 msgctxt "2064\tSTRING"
 msgid "Score"
-msgstr ""
+msgstr "Punteggio"
 
 msgctxt "2071\tSTRING"
 msgid "s"
@@ -557,15 +558,15 @@ msgstr ""
 
 msgctxt "2073\tSTRING"
 msgid "Fish Caught"
-msgstr ""
+msgstr "Pesci Catturati"
 
 msgctxt "2085\tSTRING"
 msgid "Unknown"
-msgstr ""
+msgstr "Sconosciuto"
 
 msgctxt "2093\tSTRING"
 msgid "Level"
-msgstr ""
+msgstr "Livello"
 
 msgctxt "2100\tSTRING"
 msgid "s"

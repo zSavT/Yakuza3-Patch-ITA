@@ -1,15 +1,16 @@
+#
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=utf-8\n"
-"Language: pt\n"
-"Language-Team: Portuguese, Brazilian\n"
-"Last-Translator: \n"
-"MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: 2026-07-07\n"
 "Project-Id-Version: yakuza-3-remastered\n"
 "Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-07-07\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgctxt "466\tNAME_SHORT"
 msgid "[Independent Individual Name]"
@@ -181,7 +182,7 @@ msgstr ""
 
 msgctxt "1770\tNAME_SHORT"
 msgid "People of Kamurocho"
-msgstr ""
+msgstr "Abitanti di Kamurocho"
 
 msgctxt "1792\tNAME_SHORT"
 msgid "Date"
@@ -241,7 +242,7 @@ msgstr ""
 
 msgctxt "1929\tNAME_SHORT"
 msgid "Snake Flower Triad"
-msgstr ""
+msgstr "Triade del Fiore di Serpente"
 
 msgctxt "1950\tNAME_SHORT"
 msgid "Tamashiro"
@@ -301,7 +302,7 @@ msgstr ""
 
 msgctxt "2066\tOTHER_NAME_SHORT"
 msgid "The Florist"
-msgstr ""
+msgstr "Il fioraio"
 
 msgctxt "2080\tOTHER_NAME_SHORT"
 msgid "Mama"
@@ -361,7 +362,7 @@ msgstr ""
 
 msgctxt "2197\tOTHER_NAME_SHORT"
 msgid "Stranger"
-msgstr ""
+msgstr "Sconosciuto"
 
 msgctxt "2208\tOTHER_NAME_SHORT"
 msgid "Foreigner"
@@ -373,7 +374,7 @@ msgstr ""
 
 msgctxt "2229\tOTHER_NAME_SHORT"
 msgid "CIA Agent"
-msgstr ""
+msgstr "Agente della CIA"
 
 msgctxt "2241\tOTHER_NAME_SHORT"
 msgid "Daigo"
@@ -593,7 +594,7 @@ msgstr ""
 
 msgctxt "2732\tOTHER_NAME_SHORT"
 msgid "CIA Agent"
-msgstr ""
+msgstr "Agente della CIA"
 
 msgctxt "2744\tOTHER_NAME_SHORT"
 msgid "Toma"
@@ -621,7 +622,7 @@ msgstr ""
 
 msgctxt "4348\tEXPLANATION"
 msgid "Sworn Brothers"
-msgstr ""
+msgstr "Fratelli di sangue"
 
 msgctxt "4365\tEXPLANATION"
 msgid "Aids the Tojo Clan"
@@ -673,7 +674,7 @@ msgstr ""
 
 msgctxt "4551\tEXPLANATION"
 msgid "Likes"
-msgstr ""
+msgstr "Cosa ama"
 
 msgctxt "4559\tEXPLANATION"
 msgid "Employs"
@@ -703,7 +704,7 @@ msgstr ""
 
 msgctxt "4634\tEXPLANATION"
 msgid "Dislikes"
-msgstr ""
+msgstr "Cosa odia"
 
 msgctxt "4645\tEXPLANATION"
 msgid "Adores"
@@ -735,7 +736,7 @@ msgstr ""
 
 msgctxt "4744\tEXPLANATION"
 msgid "Funds"
-msgstr ""
+msgstr "Fondi"
 
 msgctxt "4752\tEXPLANATION"
 msgid "Fed Up With"

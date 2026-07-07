@@ -1,15 +1,16 @@
+#
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=utf-8\n"
-"Language: pt\n"
-"Language-Team: Portuguese, Brazilian\n"
-"Last-Translator: \n"
-"MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: 2026-07-07\n"
 "Project-Id-Version: yakuza-3-remastered\n"
 "Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-07-07\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgctxt "328"
 msgid "This is no time to be chatting with the driver."
@@ -17,7 +18,7 @@ msgstr ""
 
 msgctxt "376"
 msgid "Hello?"
-msgstr ""
+msgstr "Salve?"
 
 msgctxt "388"
 msgid "Kazuma? It's me, Joji."
@@ -45,7 +46,7 @@ msgstr ""
 
 msgctxt "448"
 msgid "What's that?"
-msgstr ""
+msgstr "Cos'è?"
 
 msgctxt "460"
 msgid ""
@@ -83,7 +84,7 @@ msgstr ""
 
 msgctxt "544"
 msgid "Hm."
-msgstr ""
+msgstr "Mh."
 
 msgctxt "556"
 msgid "Worst comes to worst, you may even have to fight them."
@@ -113,11 +114,11 @@ msgstr ""
 
 msgctxt "664"
 msgid "(I seriously don't have 710 yen for the taxi...?)"
-msgstr ""
+msgstr "(Ma dico sul serio? Non ho nemmeno 710 yen per il taxi...?)"
 
 msgctxt "676"
 msgid "The minimum fare is 710 yen. Where would you like to go?"
-msgstr ""
+msgstr "La tariffa minima è di 710 yen. Dove desidera andare?"
 
 msgctxt "712"
 msgid "Are you sure? It will cost you about 30,000 yen to get there."
@@ -129,11 +130,14 @@ msgstr ""
 
 msgctxt "748"
 msgid "Very well, sir."
-msgstr ""
+msgstr "Molto bene, signore."
 
 msgctxt "760"
-msgid "I'm afraid you don't have enough money, sir. Please come again when you do."
+msgid ""
+"I'm afraid you don't have enough money, sir. Please come again when you do."
 msgstr ""
+"Mi dispiace, signore, ma non ha abbastanza contanti. La prego di tornare "
+"quando li avrà."
 
 msgctxt "772"
 msgid "Very well, sir. Yokoda Airfield it is."
@@ -145,11 +149,11 @@ msgstr ""
 
 msgctxt "916"
 msgid "Very well, sir."
-msgstr ""
+msgstr "Molto bene, signore."
 
 msgctxt "976"
 msgid "Very well, sir."
-msgstr ""
+msgstr "Molto bene, signore."
 
 msgctxt "988"
 msgid "(Guess this is goodbye for now...)"
@@ -205,11 +209,11 @@ msgstr ""
 
 msgctxt "1168"
 msgid "(I seriously don't have 710 yen for the taxi...?)"
-msgstr ""
+msgstr "(Ma dico sul serio? Non ho nemmeno 710 yen per il taxi...?)"
 
 msgctxt "1180"
 msgid "The minimum fare is 710 yen. Where would you like to go?"
-msgstr ""
+msgstr "La tariffa minima è di 710 yen. Dove desidera andare?"
 
 msgctxt "1216"
 msgid "Are you sure? It will cost you about 30,000 yen to get there."
@@ -221,11 +225,14 @@ msgstr ""
 
 msgctxt "1252"
 msgid "Very well, sir."
-msgstr ""
+msgstr "Molto bene, signore."
 
 msgctxt "1264"
-msgid "I'm afraid you don't have enough money, sir. Please come again when you do."
+msgid ""
+"I'm afraid you don't have enough money, sir. Please come again when you do."
 msgstr ""
+"Mi dispiace, signore, ma non ha abbastanza contanti. La prego di tornare "
+"quando li avrà."
 
 msgctxt "1276"
 msgid "Very well, sir. Yokoda Airfield it is."
@@ -237,15 +244,15 @@ msgstr ""
 
 msgctxt "1420"
 msgid "Very well, sir."
-msgstr ""
+msgstr "Molto bene, signore."
 
 msgctxt "1480"
 msgid "Very well, sir."
-msgstr ""
+msgstr "Molto bene, signore."
 
 msgctxt "1492"
 msgid "Yes"
-msgstr ""
+msgstr "            Sì            "
 
 msgctxt "1504"
 msgid "No"
@@ -261,7 +268,7 @@ msgstr ""
 
 msgctxt "1540"
 msgid "Yes"
-msgstr ""
+msgstr "            Sì            "
 
 msgctxt "1552"
 msgid "No"
@@ -277,7 +284,7 @@ msgstr ""
 
 msgctxt "12104"
 msgid "Man's Voice"
-msgstr ""
+msgstr "Voce maschile"
 
 msgctxt "12108"
 msgid "Kazama"
@@ -293,7 +300,7 @@ msgstr ""
 
 msgctxt "12120"
 msgid "Taxi Driver"
-msgstr ""
+msgstr "Tassista"
 
 msgctxt "12124"
 msgid "Kamuro Taxi"
@@ -317,7 +324,7 @@ msgstr ""
 
 msgctxt "12144"
 msgid "dummy"
-msgstr ""
+msgstr "dummy"
 
 msgctxt "12148"
 msgid "0"

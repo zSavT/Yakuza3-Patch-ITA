@@ -1,15 +1,16 @@
+#
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=utf-8\n"
-"Language: pt\n"
-"Language-Team: Portuguese, Brazilian\n"
-"Last-Translator: \n"
-"MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: 2026-07-07\n"
 "Project-Id-Version: yakuza-3-remastered\n"
 "Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-07-07\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgctxt "3748"
 msgid "Hey, Kiryu-san, do you, like, go out to these kind of clubs often?"
@@ -21,8 +22,8 @@ msgstr ""
 
 msgctxt "3772"
 msgid ""
-"Really? I just started working here, so like, I'm still kinda confused "
-"about how it all works."
+"Really? I just started working here, so like, I'm still kinda confused about"
+" how it all works."
 msgstr ""
 
 msgctxt "3784"
@@ -50,7 +51,8 @@ msgid "Belly dancing? What's that like?"
 msgstr ""
 
 msgctxt "3856"
-msgid "It's a dance that's like, all about twisting and shaking your hips and butt."
+msgid ""
+"It's a dance that's like, all about twisting and shaking your hips and butt."
 msgstr ""
 
 msgctxt "3868"
@@ -58,7 +60,8 @@ msgid "Shaking your butt..."
 msgstr ""
 
 msgctxt "3880"
-msgid "Hahaha! ♪ Ohmigosh, Kiryu-san, the look on your face is just priceless!"
+msgid ""
+"Hahaha! ♪ Ohmigosh, Kiryu-san, the look on your face is just priceless!"
 msgstr ""
 
 msgctxt "3892"
@@ -71,7 +74,7 @@ msgstr ""
 
 msgctxt "3916"
 msgid "Oh, yeah?"
-msgstr ""
+msgstr "Ah, sì?"
 
 msgctxt "3928"
 msgid ""
@@ -89,8 +92,8 @@ msgstr ""
 
 msgctxt "3964"
 msgid ""
-"Anyway, so I was thinking about going out to the birthplace of belly "
-"dancing to do some intense training, so here I am."
+"Anyway, so I was thinking about going out to the birthplace of belly dancing"
+" to do some intense training, so here I am."
 msgstr ""
 
 msgctxt "3976"
@@ -103,14 +106,14 @@ msgstr ""
 
 msgctxt "4000"
 msgid ""
-"Sometimes I worry about it, like, can I really survive over there on my "
-"own? I mean, I'm just kind of chilling over here, not taking things too "
+"Sometimes I worry about it, like, can I really survive over there on my own?"
+" I mean, I'm just kind of chilling over here, not taking things too "
 "seriously."
 msgstr ""
 
 msgctxt "4012"
 msgid "I see..."
-msgstr ""
+msgstr "Capisco..."
 
 msgctxt "4024"
 msgid ""
@@ -135,7 +138,8 @@ msgid "All that to improve your dancing..."
 msgstr ""
 
 msgctxt "4084"
-msgid "Yup. I'm guessing you don't really know much about dancing, huh, Kiryu-san?"
+msgid ""
+"Yup. I'm guessing you don't really know much about dancing, huh, Kiryu-san?"
 msgstr ""
 
 msgctxt "4096"
@@ -148,17 +152,17 @@ msgstr ""
 
 msgctxt "4120"
 msgid ""
-"If you rolled on up in here talking about how much you loved dancing, I'd "
-"be suuuper weirded out. Don't worry about it, okay?"
+"If you rolled on up in here talking about how much you loved dancing, I'd be"
+" suuuper weirded out. Don't worry about it, okay?"
 msgstr ""
 
 msgctxt "4132"
 msgid "Heh, all right."
-msgstr ""
+msgstr "Eh, ci sta."
 
 msgctxt "4144"
 msgid "That's incredible."
-msgstr ""
+msgstr "È incredibile."
 
 msgctxt "4156"
 msgid "I wouldn't call it that..."
@@ -184,7 +188,7 @@ msgstr ""
 
 msgctxt "4216"
 msgid "That makes sense."
-msgstr ""
+msgstr "Ha senso."
 
 msgctxt "4228"
 msgid "So Kiryu-san, what do you do, like, for fun?"
@@ -220,17 +224,17 @@ msgstr ""
 
 msgctxt "4312"
 msgid "How so?"
-msgstr ""
+msgstr "In che senso?"
 
 msgctxt "4324"
 msgid ""
-"Ohmigosh, Kiryu-san! You can't just ask me that! It's suuuch an "
-"embarrassing story!"
+"Ohmigosh, Kiryu-san! You can't just ask me that! It's suuuch an embarrassing"
+" story!"
 msgstr ""
 
 msgctxt "4336"
 msgid "Heh, if you say so."
-msgstr ""
+msgstr "Eh, se lo dici tu."
 
 msgctxt "4348"
 msgid ""
@@ -252,8 +256,8 @@ msgstr ""
 
 msgctxt "4396"
 msgid ""
-"I totally feel that. I'm surprised, though, like, I totally pegged you for "
-"a guy who could down a keg and feel like, nothing."
+"I totally feel that. I'm surprised, though, like, I totally pegged you for a"
+" guy who could down a keg and feel like, nothing."
 msgstr ""
 
 msgctxt "4408"
@@ -319,12 +323,12 @@ msgstr ""
 
 msgctxt "4576"
 msgid "What's wrong?"
-msgstr ""
+msgstr "Che succede?"
 
 msgctxt "4588"
 msgid ""
-"So like, one of my customers started giving me crap about my tattoo! What "
-"is he, my dad?"
+"So like, one of my customers started giving me crap about my tattoo! What is"
+" he, my dad?"
 msgstr ""
 
 msgctxt "4600"
@@ -344,7 +348,7 @@ msgstr ""
 
 msgctxt "4636"
 msgid "Don't worry about him."
-msgstr ""
+msgstr "Non preoccuparti di loro."
 
 msgctxt "4648"
 msgid "I mean, I'm not, I'm just annoyed, okay?"
@@ -356,7 +360,7 @@ msgstr ""
 
 msgctxt "4672"
 msgid "Oooh, really?"
-msgstr ""
+msgstr "Oh, davvero?"
 
 msgctxt "4684"
 msgid "It means something a whole lot different than yours, though."
@@ -368,7 +372,7 @@ msgstr ""
 
 msgctxt "4708"
 msgid "Yeah..."
-msgstr ""
+msgstr "Già..."
 
 msgctxt "4720"
 msgid "......"
@@ -386,7 +390,7 @@ msgstr ""
 
 msgctxt "4756"
 msgid "That's right."
-msgstr ""
+msgstr "Esatto."
 
 msgctxt "4768"
 msgid "Kiryu-san..."
@@ -412,7 +416,7 @@ msgstr ""
 
 msgctxt "4828"
 msgid "...Uh-huh."
-msgstr ""
+msgstr "...Ah-ah."
 
 msgctxt "4840"
 msgid "Ugh, he totally killed my good mood..."
@@ -436,7 +440,7 @@ msgstr ""
 
 msgctxt "4900"
 msgid "Oooh, really?"
-msgstr ""
+msgstr "Oh, davvero?"
 
 msgctxt "4912"
 msgid "It means something a whole lot different than yours, though."
@@ -448,7 +452,7 @@ msgstr ""
 
 msgctxt "4936"
 msgid "Yeah..."
-msgstr ""
+msgstr "Già..."
 
 msgctxt "4948"
 msgid "......"
@@ -497,12 +501,12 @@ msgstr ""
 
 msgctxt "5068"
 msgid "What's wrong?"
-msgstr ""
+msgstr "Che succede?"
 
 msgctxt "5080"
 msgid ""
-"So these construction dudes came in earlier, and they brought their CEO "
-"with them, right?"
+"So these construction dudes came in earlier, and they brought their CEO with"
+" them, right?"
 msgstr ""
 
 msgctxt "5092"
@@ -511,9 +515,9 @@ msgstr ""
 
 msgctxt "5104"
 msgid ""
-"Like, he kept bragging on and on, \"Oh, we built this big hotel! We're "
-"gonna build this apartment complex in Okinawa! You gotta buy three cars "
-"before you get your dream car!\""
+"Like, he kept bragging on and on, \"Oh, we built this big hotel! We're gonna"
+" build this apartment complex in Okinawa! You gotta buy three cars before "
+"you get your dream car!\""
 msgstr ""
 
 msgctxt "5116"
@@ -532,8 +536,8 @@ msgstr ""
 
 msgctxt "5152"
 msgid ""
-"Ugh, I feel bad for the losers who have to listen to him all the time. I "
-"bet they didn't have enough booze to deal with him."
+"Ugh, I feel bad for the losers who have to listen to him all the time. I bet"
+" they didn't have enough booze to deal with him."
 msgstr ""
 
 msgctxt "5164"
@@ -558,7 +562,7 @@ msgstr ""
 
 msgctxt "5224"
 msgid "Heh, all right..."
-msgstr ""
+msgstr "Eh, ci sta."
 
 msgctxt "5236"
 msgid "Just forget about him."
@@ -622,7 +626,7 @@ msgstr ""
 
 msgctxt "5404"
 msgid "Oh, yeah?"
-msgstr ""
+msgstr "Ah, sì?"
 
 msgctxt "5416"
 msgid ""
@@ -668,7 +672,7 @@ msgstr ""
 
 msgctxt "5512"
 msgid "...Huh?"
-msgstr ""
+msgstr "...Eh?"
 
 msgctxt "5524"
 msgid ""
@@ -678,7 +682,7 @@ msgstr ""
 
 msgctxt "5536"
 msgid "I... don't get it."
-msgstr ""
+msgstr "Io... Io non capisco."
 
 msgctxt "5548"
 msgid "Will you make something for me?"
@@ -692,7 +696,7 @@ msgstr ""
 
 msgctxt "5572"
 msgid "Heh, sorry."
-msgstr ""
+msgstr "Eh, scusa."
 
 msgctxt "5584"
 msgid ""
@@ -713,7 +717,8 @@ msgid "Seriously, it's just your imagination..."
 msgstr ""
 
 msgctxt "5632"
-msgid "It's good to do something nice for someone. So I think I can understand."
+msgid ""
+"It's good to do something nice for someone. So I think I can understand."
 msgstr ""
 
 msgctxt "5644"
@@ -748,7 +753,7 @@ msgstr ""
 
 msgctxt "5728"
 msgid "What about you?"
-msgstr ""
+msgstr "E tu?"
 
 msgctxt "5740"
 msgid ""
@@ -802,7 +807,7 @@ msgstr ""
 
 msgctxt "5872"
 msgid "Hmm?"
-msgstr ""
+msgstr "Mmh?"
 
 msgctxt "5884"
 msgid ""
@@ -812,7 +817,7 @@ msgstr ""
 
 msgctxt "5896"
 msgid "You think so?"
-msgstr ""
+msgstr "La pensi così?"
 
 msgctxt "5908"
 msgid ""
@@ -830,13 +835,13 @@ msgstr ""
 
 msgctxt "5944"
 msgid ""
-"I mean, sure, fifty people's pretty big, but it's always the same peeps, "
-"you know?"
+"I mean, sure, fifty people's pretty big, but it's always the same peeps, you"
+" know?"
 msgstr ""
 
 msgctxt "5956"
 msgid "Oh, huh..."
-msgstr ""
+msgstr "Oh, uh..."
 
 msgctxt "5968"
 msgid "How does your body survive that?"
@@ -854,7 +859,7 @@ msgstr ""
 
 msgctxt "6004"
 msgid "Heh, sure."
-msgstr ""
+msgstr "Eh, certo."
 
 msgctxt "6016"
 msgid ""
@@ -872,7 +877,7 @@ msgstr ""
 
 msgctxt "6052"
 msgid "Huh?"
-msgstr ""
+msgstr "Eh?"
 
 msgctxt "6064"
 msgid "I totally forgot to buy some..."
@@ -883,7 +888,8 @@ msgid "Buy some what?"
 msgstr ""
 
 msgctxt "6088"
-msgid "Huh? Oh, I was supposed to buy incense, and it totally just slipped my mind."
+msgid ""
+"Huh? Oh, I was supposed to buy incense, and it totally just slipped my mind."
 msgstr ""
 
 msgctxt "6100"
@@ -898,7 +904,7 @@ msgstr ""
 
 msgctxt "6124"
 msgid "Is that so?"
-msgstr ""
+msgstr "È così?"
 
 msgctxt "6136"
 msgid ""
@@ -935,7 +941,7 @@ msgstr ""
 
 msgctxt "6220"
 msgid "What!?"
-msgstr ""
+msgstr "Cosa!?"
 
 msgctxt "6232"
 msgid "......"
@@ -949,7 +955,7 @@ msgstr ""
 
 msgctxt "6256"
 msgid "...Sorry."
-msgstr ""
+msgstr "S... scusa."
 
 msgctxt "6268"
 msgid "Do I smell good?"
@@ -957,7 +963,7 @@ msgstr ""
 
 msgctxt "6280"
 msgid "Wait, what!?"
-msgstr ""
+msgstr "Aspetta, cosa!?"
 
 msgctxt "6292"
 msgid "How do I smell?"
@@ -973,7 +979,7 @@ msgstr ""
 
 msgctxt "6328"
 msgid "...Sorry."
-msgstr ""
+msgstr "S... scusa."
 
 msgctxt "6340"
 msgid ""
@@ -983,7 +989,7 @@ msgstr ""
 
 msgctxt "6352"
 msgid "Oh, really?"
-msgstr ""
+msgstr "Oh, davvero?"
 
 msgctxt "6364"
 msgid ""
@@ -1007,7 +1013,7 @@ msgstr ""
 
 msgctxt "6412"
 msgid "Really?"
-msgstr ""
+msgstr "Davvero?"
 
 msgctxt "6424"
 msgid ""
@@ -1017,7 +1023,7 @@ msgstr ""
 
 msgctxt "6436"
 msgid "That's impressive."
-msgstr ""
+msgstr "Impressionante."
 
 msgctxt "6448"
 msgid ""
@@ -1027,7 +1033,7 @@ msgstr ""
 
 msgctxt "6460"
 msgid "Huh."
-msgstr ""
+msgstr "Uh."
 
 msgctxt "6472"
 msgid ""
@@ -1051,7 +1057,7 @@ msgstr ""
 
 msgctxt "6520"
 msgid "All right."
-msgstr ""
+msgstr "Va bene."
 
 msgctxt "6532"
 msgid "I always hung out with people older than me, even back then."
@@ -1099,8 +1105,8 @@ msgstr ""
 
 msgctxt "6664"
 msgid ""
-"It wasn't really like a super serious job, I just said what I wanted to, "
-"and made people follow me and stuff. It wasn't a huge deal."
+"It wasn't really like a super serious job, I just said what I wanted to, and"
+" made people follow me and stuff. It wasn't a huge deal."
 msgstr ""
 
 msgctxt "6676"
@@ -1113,7 +1119,7 @@ msgstr ""
 
 msgctxt "6700"
 msgid "Huh..."
-msgstr ""
+msgstr "Eh..."
 
 msgctxt "6712"
 msgid ""
@@ -1123,7 +1129,7 @@ msgstr ""
 
 msgctxt "6724"
 msgid "What happened?"
-msgstr ""
+msgstr "Che è successo?"
 
 msgctxt "6736"
 msgid ""
@@ -1162,7 +1168,7 @@ msgstr ""
 
 msgctxt "6820"
 msgid "...You really think so?"
-msgstr ""
+msgstr "Lo pensi davvero?"
 
 msgctxt "6832"
 msgid "You're two different people. Everyone moves at their own pace."
@@ -1196,7 +1202,7 @@ msgstr ""
 
 msgctxt "6916"
 msgid "Is that how it works?"
-msgstr ""
+msgstr "Funziona così?"
 
 msgctxt "6928"
 msgid ""
@@ -1230,12 +1236,12 @@ msgstr ""
 
 msgctxt "7012"
 msgid "...Yeah."
-msgstr ""
+msgstr "...Già."
 
 msgctxt "7024"
 msgid ""
-"So, maybe she does things at her own pace. Maybe you should've been a "
-"little more patient."
+"So, maybe she does things at her own pace. Maybe you should've been a little"
+" more patient."
 msgstr ""
 
 msgctxt "7036"
@@ -1244,7 +1250,7 @@ msgstr ""
 
 msgctxt "7048"
 msgid "Good idea."
-msgstr ""
+msgstr "Buona idea."
 
 msgctxt "7060"
 msgid ""
@@ -1262,7 +1268,7 @@ msgstr ""
 
 msgctxt "7096"
 msgid "...What's the matter?"
-msgstr ""
+msgstr "Che c'è?"
 
 msgctxt "7108"
 msgid "Nothing, just, like, I've been kinda on edge lately, hahaha."
@@ -1288,7 +1294,7 @@ msgstr ""
 
 msgctxt "7168"
 msgid "Huh."
-msgstr ""
+msgstr "Uh."
 
 msgctxt "7180"
 msgid "I mean, I looove going out and partying with tons of people..."
@@ -1301,12 +1307,13 @@ msgid ""
 msgstr ""
 
 msgctxt "7204"
-msgid "I think it's, like, all the crowds and the noise and stuff in the city..."
+msgid ""
+"I think it's, like, all the crowds and the noise and stuff in the city..."
 msgstr ""
 
 msgctxt "7216"
 msgid "I see..."
-msgstr ""
+msgstr "Capisco..."
 
 msgctxt "7228"
 msgid "So maybe I'll just get on some random train and go to a fancy onsen.."
@@ -1350,7 +1357,7 @@ msgstr ""
 
 msgctxt "7348"
 msgid "I dunno..."
-msgstr ""
+msgstr "Non lo so..."
 
 msgctxt "7360"
 msgid "But, like, if I don't get some time off, I feel like..."
@@ -1358,7 +1365,7 @@ msgstr ""
 
 msgctxt "7372"
 msgid "Huh?"
-msgstr ""
+msgstr "Eh?"
 
 msgctxt "7384"
 msgid "Nothing, just..."
@@ -1374,7 +1381,7 @@ msgstr ""
 
 msgctxt "7420"
 msgid "Not a bad idea."
-msgstr ""
+msgstr "Non è una cattiva idea."
 
 msgctxt "7432"
 msgid "Maybe I'll go with you."
@@ -1414,12 +1421,12 @@ msgstr ""
 
 msgctxt "7528"
 msgid "What happened?"
-msgstr ""
+msgstr "Che è successo?"
 
 msgctxt "7540"
 msgid ""
-"So like, I was at this friend's house, and I threw out a bunch of stuff. "
-"Now she practically wants to kill me."
+"So like, I was at this friend's house, and I threw out a bunch of stuff. Now"
+" she practically wants to kill me."
 msgstr ""
 
 msgctxt "7552"
@@ -1432,7 +1439,7 @@ msgstr ""
 
 msgctxt "7576"
 msgid "Like..."
-msgstr ""
+msgstr "Cioè..."
 
 msgctxt "7588"
 msgid ""
@@ -1502,9 +1509,8 @@ msgstr ""
 
 msgctxt "7768"
 msgid ""
-"Why should I have to? I mean, like, if you saw trash on your friend's "
-"floor, you'd throw it away, right? You wouldn't tell them to do it, would "
-"you?"
+"Why should I have to? I mean, like, if you saw trash on your friend's floor,"
+" you'd throw it away, right? You wouldn't tell them to do it, would you?"
 msgstr ""
 
 msgctxt "7780"
@@ -1513,7 +1519,7 @@ msgstr ""
 
 msgctxt "7792"
 msgid "Well, no..."
-msgstr ""
+msgstr "Beh, no..."
 
 msgctxt "7804"
 msgid "They might have been gross, and certainly needed to be thrown out..."
@@ -1525,7 +1531,7 @@ msgstr ""
 
 msgctxt "7828"
 msgid "I guess..."
-msgstr ""
+msgstr "Credo di sì..."
 
 msgctxt "7840"
 msgid "What am I supposed to do about it now, though?"
@@ -1553,8 +1559,8 @@ msgstr ""
 
 msgctxt "7912"
 msgid ""
-"Look, I know you had good intentions, but you still shouldn't have done "
-"that without asking."
+"Look, I know you had good intentions, but you still shouldn't have done that"
+" without asking."
 msgstr ""
 
 msgctxt "7924"
@@ -1566,7 +1572,8 @@ msgid "Probably."
 msgstr ""
 
 msgctxt "7948"
-msgid "Fine, I'll apologize, but I'm gonna tell her why I threw them out too, okay?"
+msgid ""
+"Fine, I'll apologize, but I'm gonna tell her why I threw them out too, okay?"
 msgstr ""
 
 msgctxt "7960"
@@ -1587,7 +1594,7 @@ msgstr ""
 
 msgctxt "8008"
 msgid "That's good."
-msgstr ""
+msgstr "Bene."
 
 msgctxt "8020"
 msgid "Ohmigosh, ohmigosh, ohmigosh!"
@@ -1598,12 +1605,13 @@ msgid "What? Is everything okay?"
 msgstr ""
 
 msgctxt "8044"
-msgid "It's more than okay! I've almost saved up enough money to go on my trip!"
+msgid ""
+"It's more than okay! I've almost saved up enough money to go on my trip!"
 msgstr ""
 
 msgctxt "8056"
 msgid "That's great."
-msgstr ""
+msgstr "Fantastico."
 
 msgctxt "8068"
 msgid "Hehehe. ♪ Oh, man, what I am gonna, like, do with myself?"
@@ -1611,7 +1619,7 @@ msgstr ""
 
 msgctxt "8080"
 msgid "Hmm?"
-msgstr ""
+msgstr "Mmh?"
 
 msgctxt "8092"
 msgid ""
@@ -1676,7 +1684,8 @@ msgid "Such as?"
 msgstr ""
 
 msgctxt "8272"
-msgid "I mean, I do have a study abroad agency making all the big plans for me..."
+msgid ""
+"I mean, I do have a study abroad agency making all the big plans for me..."
 msgstr ""
 
 msgctxt "8284"
@@ -1699,11 +1708,11 @@ msgstr ""
 
 msgctxt "8332"
 msgid "...Thanks, Kiryu-san. <Color:7>⑮<Color:Default>"
-msgstr ""
+msgstr "Grazie, Kiryu-san! <Color:7>♥<Color:Default>"
 
 msgctxt "8344"
 msgid "What for?"
-msgstr ""
+msgstr "E per cosa?"
 
 msgctxt "8356"
 msgid ""
@@ -1721,10 +1730,11 @@ msgstr ""
 
 msgctxt "8392"
 msgid "Me too..."
-msgstr ""
+msgstr "Anch'io..."
 
 msgctxt "8404"
-msgid "It's gonna suck, moving away from all my friends...  And you, Kiryu-san..."
+msgid ""
+"It's gonna suck, moving away from all my friends...  And you, Kiryu-san..."
 msgstr ""
 
 msgctxt "8416"
@@ -1737,7 +1747,7 @@ msgstr ""
 
 msgctxt "8440"
 msgid "Yeah..."
-msgstr ""
+msgstr "Già..."
 
 msgctxt "8452"
 msgid "Hey, Kiryu-san, can I ask you a super weird question?"
@@ -1817,15 +1827,15 @@ msgstr ""
 
 msgctxt "8668"
 msgid "That's right."
-msgstr ""
+msgstr "Esatto."
 
 msgctxt "8680"
 msgid "...Thanks, Kiryu-san. <Color:7>⑮<Color:Default>"
-msgstr ""
+msgstr "Grazie, Kiryu-san! <Color:7>♥<Color:Default>"
 
 msgctxt "8692"
 msgid "No problem."
-msgstr ""
+msgstr "Figurati."
 
 msgctxt "8704"
 msgid "Are you forcing yourself to cry?"
@@ -1845,20 +1855,21 @@ msgstr ""
 
 msgctxt "8752"
 msgid "Oh..."
-msgstr ""
+msgstr "Oh..."
 
 msgctxt "8764"
 msgid ""
-"Hey, I know this is a random question, buuut, do you like it when girls "
-"fawn on you?"
+"Hey, I know this is a random question, buuut, do you like it when girls fawn"
+" on you?"
 msgstr ""
 
 msgctxt "8776"
 msgid "Why do you ask?"
-msgstr ""
+msgstr "Come mai lo chiedi?"
 
 msgctxt "8788"
-msgid "Uhh, well, I'm like, pretty terrible at being all affectionate like that..."
+msgid ""
+"Uhh, well, I'm like, pretty terrible at being all affectionate like that..."
 msgstr ""
 
 msgctxt "8800"
@@ -1883,8 +1894,8 @@ msgstr ""
 
 msgctxt "8860"
 msgid ""
-"...So, like, for me, there's gotta be something I respect about a guy for "
-"me to fall for him..."
+"...So, like, for me, there's gotta be something I respect about a guy for me"
+" to fall for him..."
 msgstr ""
 
 msgctxt "8872"
@@ -1898,7 +1909,8 @@ msgid "I think I get it."
 msgstr ""
 
 msgctxt "8896"
-msgid "I always end up pushing myself real hard in front of those kinds of guys."
+msgid ""
+"I always end up pushing myself real hard in front of those kinds of guys."
 msgstr ""
 
 msgctxt "8908"
@@ -1915,7 +1927,7 @@ msgstr ""
 
 msgctxt "8944"
 msgid "What's wrong with that?"
-msgstr ""
+msgstr "Che c'è di male?"
 
 msgctxt "8956"
 msgid "You sure it's not a problem?"
@@ -1959,7 +1971,7 @@ msgstr ""
 
 msgctxt "9064"
 msgid "That's right."
-msgstr ""
+msgstr "Esatto."
 
 msgctxt "9076"
 msgid "......"
@@ -1981,14 +1993,15 @@ msgstr ""
 
 msgctxt "9124"
 msgid "Heh, no problem."
-msgstr ""
+msgstr "Eh, nessun problema."
 
 msgctxt "9136"
 msgid "You don't have to force yourself. Just be the way you are."
 msgstr ""
 
 msgctxt "9148"
-msgid "...You know, when you put it that way, maybe I was, like, forcing myself."
+msgid ""
+"...You know, when you put it that way, maybe I was, like, forcing myself."
 msgstr ""
 
 msgctxt "9160"
@@ -2011,7 +2024,7 @@ msgstr ""
 
 msgctxt "9208"
 msgid "Okay."
-msgstr ""
+msgstr "Ok."
 
 msgctxt "9220"
 msgid "Ohmigosh, Kiryu-san, I need you to chime in on this for me."
@@ -2019,7 +2032,7 @@ msgstr ""
 
 msgctxt "9232"
 msgid "What's going on?"
-msgstr ""
+msgstr "Cosa succede?"
 
 msgctxt "9244"
 msgid ""
@@ -2039,19 +2052,21 @@ msgstr ""
 
 msgctxt "9280"
 msgid "Hmm..."
-msgstr ""
+msgstr "Uhm..."
 
 msgctxt "9292"
-msgid "Hahaha! ♪ You're taking this like, so seriously! <Color:7>⑮<Color:Default>"
+msgid ""
+"Hahaha! ♪ You're taking this like, so seriously! <Color:7>⑮<Color:Default>"
 msgstr ""
 
 msgctxt "9304"
-msgid "The whole reason I bring it up is because I am totally that kind of girl."
+msgid ""
+"The whole reason I bring it up is because I am totally that kind of girl."
 msgstr ""
 
 msgctxt "9316"
 msgid "Really?"
-msgstr ""
+msgstr "Davvero?"
 
 msgctxt "9328"
 msgid ""
@@ -2081,7 +2096,7 @@ msgstr ""
 
 msgctxt "9388"
 msgid "Uh-huh."
-msgstr ""
+msgstr "Già."
 
 msgctxt "9400"
 msgid "What do you think about it, Kiryu-san?"
@@ -2111,7 +2126,7 @@ msgstr ""
 
 msgctxt "9472"
 msgid "Hmmm..."
-msgstr ""
+msgstr "Mmmm..."
 
 msgctxt "9484"
 msgid "There are plenty of other fish in the sea."
@@ -2147,7 +2162,7 @@ msgstr ""
 
 msgctxt "9580"
 msgid "I'm not really sure..."
-msgstr ""
+msgstr "Non ne sono del tutto sicuro."
 
 msgctxt "9592"
 msgid ""
@@ -2168,7 +2183,8 @@ msgid "I know how I'd feel."
 msgstr ""
 
 msgctxt "9640"
-msgid "I'd be pretty worried about her, seeing as I'd still have feelings for her."
+msgid ""
+"I'd be pretty worried about her, seeing as I'd still have feelings for her."
 msgstr ""
 
 msgctxt "9652"
@@ -2185,7 +2201,7 @@ msgstr ""
 
 msgctxt "9688"
 msgid "Heh, thanks."
-msgstr ""
+msgstr "Eh, grazie."
 
 msgctxt "9700"
 msgid ""
@@ -2203,7 +2219,7 @@ msgstr ""
 
 msgctxt "9736"
 msgid "Huh?"
-msgstr ""
+msgstr "Eh?"
 
 msgctxt "9748"
 msgid "Contacting him like that might end up hurting him."
@@ -2223,7 +2239,7 @@ msgstr ""
 
 msgctxt "9796"
 msgid "Heh, thanks."
-msgstr ""
+msgstr "Eh, grazie."
 
 msgctxt "9808"
 msgid ""
@@ -2276,7 +2292,8 @@ msgid "Ohmigosh, your reactions are always, like, so hilarious! ♪"
 msgstr ""
 
 msgctxt "9940"
-msgid "I'm trying to cook more like my mom, so I came up with that little recipe. ♪"
+msgid ""
+"I'm trying to cook more like my mom, so I came up with that little recipe. ♪"
 msgstr ""
 
 msgctxt "9952"
@@ -2292,7 +2309,8 @@ msgid "You should make some for me sometime."
 msgstr ""
 
 msgctxt "9988"
-msgid "Hehehe. <Color:7>⑮<Color:Default> Maybe I will. <Color:7>⑮<Color:Default>"
+msgid ""
+"Hehehe. <Color:7>⑮<Color:Default> Maybe I will. <Color:7>⑮<Color:Default>"
 msgstr ""
 
 msgctxt "10000"
@@ -2316,7 +2334,8 @@ msgid "Yeah, but I can imagine what it'd be like..."
 msgstr ""
 
 msgctxt "10060"
-msgid "Oh, please. You can't complain about it if you won't even give it a taste!"
+msgid ""
+"Oh, please. You can't complain about it if you won't even give it a taste!"
 msgstr ""
 
 msgctxt "10072"
@@ -2358,7 +2377,8 @@ msgid "So, what's your room like at home, Kiryu-san?"
 msgstr ""
 
 msgctxt "10180"
-msgid "Nothing too fancy. Just a Japanese-style room with a desk and a small table."
+msgid ""
+"Nothing too fancy. Just a Japanese-style room with a desk and a small table."
 msgstr ""
 
 msgctxt "10192"
@@ -2385,7 +2405,7 @@ msgstr ""
 
 msgctxt "10252"
 msgid "Really?"
-msgstr ""
+msgstr "Davvero?"
 
 msgctxt "10264"
 msgid "Yeah, my friends all tell me it looks some sexy love hotel room. ♪"
@@ -2413,7 +2433,8 @@ msgid ""
 msgstr ""
 
 msgctxt "10324"
-msgid "They're not even bright enough for me to do my makeup in my room, haha."
+msgid ""
+"They're not even bright enough for me to do my makeup in my room, haha."
 msgstr ""
 
 msgctxt "10336"
@@ -2445,7 +2466,7 @@ msgstr ""
 
 msgctxt "10408"
 msgid "I didn't know that."
-msgstr ""
+msgstr "Non lo sapevo."
 
 msgctxt "10420"
 msgid "I mean, it could be all made up. I have no idea! Hehehe."
@@ -2461,7 +2482,7 @@ msgstr ""
 
 msgctxt "10456"
 msgid "Heh, all right, then."
-msgstr ""
+msgstr "Ah. Va bene, allora."
 
 msgctxt "10468"
 msgid "Sounds like a pretty sweet love hotel."
@@ -2473,7 +2494,7 @@ msgstr ""
 
 msgctxt "10492"
 msgid "...What?"
-msgstr ""
+msgstr "...Cosa?"
 
 msgctxt "10504"
 msgid ""
@@ -2494,24 +2515,26 @@ msgid "Ooooh, are you into that kinda thing, Kiryu-san?"
 msgstr ""
 
 msgctxt "10552"
-msgid "From what I hear, red is a good color for bedrooms. Helps you fall asleep."
+msgid ""
+"From what I hear, red is a good color for bedrooms. Helps you fall asleep."
 msgstr ""
 
 msgctxt "10564"
 msgid "Wait, seriously?"
-msgstr ""
+msgstr "Cosa, sul serio?"
 
 msgctxt "10576"
 msgid "I don't know if that's actually true, though."
 msgstr ""
 
 msgctxt "10588"
-msgid "What? Geez, you toootally had me fooled, too! <Color:7>⑮<Color:Default>"
+msgid ""
+"What? Geez, you toootally had me fooled, too! <Color:7>⑮<Color:Default>"
 msgstr ""
 
 msgctxt "10600"
 msgid "Heh, sorry."
-msgstr ""
+msgstr "Eh, scusa."
 
 msgctxt "10612"
 msgid "Ohmigosh, Kiryu-san!"
@@ -2519,7 +2542,7 @@ msgstr ""
 
 msgctxt "10624"
 msgid "What's up?"
-msgstr ""
+msgstr "Che c'è?"
 
 msgctxt "10636"
 msgid "I'm, like, devastated!"
@@ -2537,7 +2560,7 @@ msgstr ""
 
 msgctxt "10672"
 msgid "It's okay."
-msgstr ""
+msgstr "Non fa niente..."
 
 msgctxt "10684"
 msgid "I'd say you're almost too thin."
@@ -2608,7 +2631,8 @@ msgid "Seriously! What kind of person calls their friend a \"ham planet\"!?"
 msgstr ""
 
 msgctxt "10876"
-msgid "You must be pretty good friends if they feel comfortable calling you that."
+msgid ""
+"You must be pretty good friends if they feel comfortable calling you that."
 msgstr ""
 
 msgctxt "10888"
@@ -2617,7 +2641,7 @@ msgstr ""
 
 msgctxt "10900"
 msgid "Heh, good."
-msgstr ""
+msgstr "Heh. Bene."
 
 msgctxt "10912"
 msgid "...Wait."
@@ -2631,7 +2655,7 @@ msgstr ""
 
 msgctxt "10936"
 msgid "Heh. Not really."
-msgstr ""
+msgstr "Eh. Non proprio."
 
 msgctxt "10948"
 msgid "You know, there's like, something special about you, Kiryu-san!"
@@ -2639,7 +2663,7 @@ msgstr ""
 
 msgctxt "10960"
 msgid "Huh? How so?"
-msgstr ""
+msgstr "Eh? In che senso?"
 
 msgctxt "10972"
 msgid "I mean, I won't ask for any details into your past..."
@@ -2657,8 +2681,8 @@ msgstr ""
 
 msgctxt "11008"
 msgid ""
-"And it's not like I'm trying to put them down, either. They have money, "
-"they have goals..."
+"And it's not like I'm trying to put them down, either. They have money, they"
+" have goals..."
 msgstr ""
 
 msgctxt "11020"
@@ -2675,8 +2699,8 @@ msgstr ""
 
 msgctxt "11044"
 msgid ""
-"Meanwhile, here you are, living life your way without rubbing it in "
-"anyone's face."
+"Meanwhile, here you are, living life your way without rubbing it in anyone's"
+" face."
 msgstr ""
 
 msgctxt "11056"
@@ -2707,7 +2731,7 @@ msgstr ""
 
 msgctxt "11128"
 msgid "What?"
-msgstr ""
+msgstr "Cosa?"
 
 msgctxt "11140"
 msgid "You're pretty quick to blush, aren't you?"
@@ -2753,7 +2777,7 @@ msgstr ""
 
 msgctxt "11260"
 msgid "What is it?"
-msgstr ""
+msgstr "E cioè?"
 
 msgctxt "11272"
 msgid "Why are you always using those, like, super cheesy lines with me?"
@@ -2761,7 +2785,7 @@ msgstr ""
 
 msgctxt "11284"
 msgid "Huh?"
-msgstr ""
+msgstr "Eh?"
 
 msgctxt "11296"
 msgid ""
@@ -2825,7 +2849,7 @@ msgstr ""
 
 msgctxt "11440"
 msgid "Maybe you're right..."
-msgstr ""
+msgstr "Forse ha ragione..."
 
 msgctxt "11452"
 msgid "It's hard to hold off on going out."
@@ -2837,8 +2861,8 @@ msgstr ""
 
 msgctxt "11476"
 msgid ""
-"See though, all I've gotta do is have a nice bedrock bath, then my body "
-"will be totally reset and I can go out and party hard again!"
+"See though, all I've gotta do is have a nice bedrock bath, then my body will"
+" be totally reset and I can go out and party hard again!"
 msgstr ""
 
 msgctxt "11488"
@@ -2851,8 +2875,8 @@ msgstr ""
 
 msgctxt "11512"
 msgid ""
-"You better be careful, Kiryu-san, 'cause you might, like, get totally "
-"hooked on how good it feels."
+"You better be careful, Kiryu-san, 'cause you might, like, get totally hooked"
+" on how good it feels."
 msgstr ""
 
 msgctxt "11524"
@@ -2871,7 +2895,7 @@ msgstr ""
 
 msgctxt "11560"
 msgid "Oh yeah?"
-msgstr ""
+msgstr "Ah sì?"
 
 msgctxt "11572"
 msgid "Yeah! It's been like, five years since I've seen her!"
@@ -2900,7 +2924,8 @@ msgid "You miss that?"
 msgstr ""
 
 msgctxt "11644"
-msgid "I dunno if I miss it, but it's just weird, seeing her change like that..."
+msgid ""
+"I dunno if I miss it, but it's just weird, seeing her change like that..."
 msgstr ""
 
 msgctxt "11656"
@@ -2909,7 +2934,7 @@ msgstr ""
 
 msgctxt "11668"
 msgid "Yeah, I guess you're right..."
-msgstr ""
+msgstr "Già, immagino tu abbia ragione."
 
 msgctxt "11680"
 msgid "It's how you change that's important."
@@ -2927,8 +2952,8 @@ msgstr ""
 
 msgctxt "11716"
 msgid ""
-"You don't have to be all shy about it. That was, like, a beautiful "
-"statement right there."
+"You don't have to be all shy about it. That was, like, a beautiful statement"
+" right there."
 msgstr ""
 
 msgctxt "11728"
@@ -2941,10 +2966,11 @@ msgstr ""
 
 msgctxt "11752"
 msgid "I knew you'd get it."
-msgstr ""
+msgstr "Sapevo che ci saresti riuscito."
 
 msgctxt "11764"
-msgid "Yeah. There are a few guys I don't hang out with anymore because of it."
+msgid ""
+"Yeah. There are a few guys I don't hang out with anymore because of it."
 msgstr ""
 
 msgctxt "11776"
@@ -2979,7 +3005,7 @@ msgstr ""
 
 msgctxt "11860"
 msgid "Heh, thanks."
-msgstr ""
+msgstr "Eh, grazie."
 
 msgctxt "11872"
 msgid "It's all up to you."
@@ -3019,7 +3045,7 @@ msgstr ""
 
 msgctxt "11968"
 msgid "There you go."
-msgstr ""
+msgstr "Ecco a te."
 
 msgctxt "11980"
 msgid "Kamurocho's, like, so awesome..."
@@ -3040,11 +3066,13 @@ msgid "Heh, you're not wrong about that."
 msgstr ""
 
 msgctxt "12028"
-msgid "Not too long ago, I would like, totally avoid going anywhere near Kamurocho."
+msgid ""
+"Not too long ago, I would like, totally avoid going anywhere near Kamurocho."
 msgstr ""
 
 msgctxt "12040"
-msgid "But after working here, I feel like I've learned a lot more about the world."
+msgid ""
+"But after working here, I feel like I've learned a lot more about the world."
 msgstr ""
 
 msgctxt "12052"
@@ -3063,7 +3091,7 @@ msgstr ""
 
 msgctxt "12088"
 msgid "Yeah..."
-msgstr ""
+msgstr "Già..."
 
 msgctxt "12100"
 msgid "I definitely feel that."
@@ -3095,7 +3123,7 @@ msgstr ""
 
 msgctxt "12184"
 msgid "You're right."
-msgstr ""
+msgstr "Hai ragione."
 
 msgctxt "12196"
 msgid "I've learned a lot about the world from Kamurocho, too."
@@ -3136,7 +3164,8 @@ msgid "What? What? Come on, you haaave to tell me!"
 msgstr ""
 
 msgctxt "12304"
-msgid "Just keep doing what you're doing and you won't run into trouble. Much."
+msgid ""
+"Just keep doing what you're doing and you won't run into trouble. Much."
 msgstr ""
 
 msgctxt "12316"
@@ -3183,7 +3212,7 @@ msgstr ""
 
 msgctxt "12424"
 msgid "I hope she's okay..."
-msgstr ""
+msgstr "Spero che stia bene..."
 
 msgctxt "12436"
 msgid "I hope so, too."
@@ -3215,7 +3244,7 @@ msgstr ""
 
 msgctxt "12508"
 msgid "No problem."
-msgstr ""
+msgstr "Figurati."
 
 msgctxt "12520"
 msgid ""
@@ -3243,7 +3272,7 @@ msgstr ""
 
 msgctxt "12580"
 msgid "You know..."
-msgstr ""
+msgstr "Sai..."
 
 msgctxt "12592"
 msgid ""
@@ -3263,7 +3292,7 @@ msgstr ""
 
 msgctxt "12628"
 msgid "That's not good..."
-msgstr ""
+msgstr "Non va bene."
 
 msgctxt "12640"
 msgid "Maybe you should stop by her place."
@@ -3286,7 +3315,8 @@ msgid "Sorry for what?"
 msgstr ""
 
 msgctxt "12700"
-msgid "I mean, you went out of your way to come hang out with me, and I'm like..."
+msgid ""
+"I mean, you went out of your way to come hang out with me, and I'm like..."
 msgstr ""
 
 msgctxt "12712"
@@ -3299,20 +3329,21 @@ msgstr ""
 
 msgctxt "12736"
 msgid "Huh? Why not?"
-msgstr ""
+msgstr "Eh? Perché no?"
 
 msgctxt "12748"
-msgid "It's just... When you say stuff like that, it really hits home, you know?"
+msgid ""
+"It's just... When you say stuff like that, it really hits home, you know?"
 msgstr ""
 
 msgctxt "12760"
 msgid "Oh..."
-msgstr ""
+msgstr "Oh..."
 
 msgctxt "12772"
 msgid ""
-"Yeah. But for real, though, I'm really lucky to have you in my life, "
-"Kiryu-san."
+"Yeah. But for real, though, I'm really lucky to have you in my life, Kiryu-"
+"san."
 msgstr ""
 
 msgctxt "12784"
@@ -3327,13 +3358,13 @@ msgstr ""
 
 msgctxt "12808"
 msgid "Oh?"
-msgstr ""
+msgstr "Davvero?"
 
 msgctxt "12820"
 msgid ""
 "You know how I like, get super annoyed when things aren't totally black and "
-"white? And how, sometimes, that annoys me so much that I just make "
-"decisions for people?"
+"white? And how, sometimes, that annoys me so much that I just make decisions"
+" for people?"
 msgstr ""
 
 msgctxt "12832"
@@ -3344,7 +3375,7 @@ msgstr ""
 
 msgctxt "12844"
 msgid "Right..."
-msgstr ""
+msgstr "Giusto..."
 
 msgctxt "12856"
 msgid ""
@@ -3354,7 +3385,7 @@ msgstr ""
 
 msgctxt "12868"
 msgid "What do you mean?"
-msgstr ""
+msgstr "Cosa intendi?"
 
 msgctxt "12880"
 msgid "So, like, I'm being serious here, okay?"
@@ -3412,7 +3443,7 @@ msgstr ""
 
 msgctxt "13024"
 msgid "...Yeah."
-msgstr ""
+msgstr "...Già."
 
 msgctxt "13036"
 msgid "I'm sorry if I ever bothered you with it."
@@ -3430,7 +3461,7 @@ msgstr ""
 
 msgctxt "13072"
 msgid "...Really?"
-msgstr ""
+msgstr "...Davvero?"
 
 msgctxt "13084"
 msgid ""
@@ -3476,7 +3507,7 @@ msgstr ""
 
 msgctxt "13192"
 msgid "All right, then..."
-msgstr ""
+msgstr "Ok, allora."
 
 msgctxt "13204"
 msgid ""
@@ -3490,8 +3521,8 @@ msgstr ""
 
 msgctxt "13228"
 msgid ""
-"I mean, I did, but there are soooo many things I won't even know until I "
-"get there..."
+"I mean, I did, but there are soooo many things I won't even know until I get"
+" there..."
 msgstr ""
 
 msgctxt "13240"
@@ -3523,19 +3554,20 @@ msgid "That's how it happens."
 msgstr ""
 
 msgctxt "13312"
-msgid "I love being active and dancing, but maybe I'm not that athletic, you know?"
+msgid ""
+"I love being active and dancing, but maybe I'm not that athletic, you know?"
 msgstr ""
 
 msgctxt "13324"
 msgid ""
-"Like, I was such a crappy dancer when I started. I got super upset about "
-"it, too!"
+"Like, I was such a crappy dancer when I started. I got super upset about it,"
+" too!"
 msgstr ""
 
 msgctxt "13336"
 msgid ""
-"Hehe. But because I got so upset about it, I got even more serious about "
-"it, and before I knew it, I was ready to go pro!"
+"Hehe. But because I got so upset about it, I got even more serious about it,"
+" and before I knew it, I was ready to go pro!"
 msgstr ""
 
 msgctxt "13348"
@@ -3552,13 +3584,13 @@ msgstr ""
 
 msgctxt "13384"
 msgid ""
-"When you feel that strongly about something, you'll be okay, no matter "
-"where you end up."
+"When you feel that strongly about something, you'll be okay, no matter where"
+" you end up."
 msgstr ""
 
 msgctxt "13396"
 msgid "Yeah, you're right..."
-msgstr ""
+msgstr "Già, hai ragione..."
 
 msgctxt "13408"
 msgid "Looks like you've calmed down a little."
@@ -3616,13 +3648,13 @@ msgstr ""
 
 msgctxt "13540"
 msgid ""
-"Ohmigosh, sometimes you just like, open your mouth, and say stuff that "
-"makes me wanna cry!"
+"Ohmigosh, sometimes you just like, open your mouth, and say stuff that makes"
+" me wanna cry!"
 msgstr ""
 
 msgctxt "13552"
 msgid "Really?"
-msgstr ""
+msgstr "Davvero?"
 
 msgctxt "13564"
 msgid ""
@@ -3670,7 +3702,7 @@ msgstr ""
 
 msgctxt "13684"
 msgid "What's up?"
-msgstr ""
+msgstr "Che c'è?"
 
 msgctxt "13696"
 msgid "I'm gonna be gone for like, two or three years, maybe even longer..."
@@ -3682,7 +3714,7 @@ msgstr ""
 
 msgctxt "13720"
 msgid "Of course."
-msgstr ""
+msgstr "E di che."
 
 msgctxt "13732"
 msgid "Oh, please... You're just saying that, aren't you?"
@@ -3748,7 +3780,7 @@ msgstr ""
 
 msgctxt "13900"
 msgid "Huh? What do you mean?"
-msgstr ""
+msgstr "Eh? Che vuoi dire?"
 
 msgctxt "13912"
 msgid "I mean, I was being pretty serious when I asked that."
@@ -3822,8 +3854,8 @@ msgstr ""
 
 msgctxt "14092"
 msgid ""
-"She was sooo cool back in the day. I do my makeup the same way she did "
-"hers, and I even use the same brand of red lipstick that she likes to use."
+"She was sooo cool back in the day. I do my makeup the same way she did hers,"
+" and I even use the same brand of red lipstick that she likes to use."
 msgstr ""
 
 msgctxt "14104"
@@ -3848,7 +3880,7 @@ msgstr ""
 
 msgctxt "14164"
 msgid "Wait, what!?"
-msgstr ""
+msgstr "Aspetta, cosa!?"
 
 msgctxt "14176"
 msgid "Because you aren't anything like the person you want to be?"
@@ -3896,7 +3928,7 @@ msgstr ""
 
 msgctxt "14308"
 msgid "Huh?"
-msgstr ""
+msgstr "Eh?"
 
 msgctxt "14320"
 msgid "I mean, whenever you talk about your mom, you always smile so fondly."
@@ -3904,7 +3936,7 @@ msgstr ""
 
 msgctxt "14332"
 msgid "Hehehe. <Color:7>⑮<Color:Default>"
-msgstr ""
+msgstr "Eheh. <Color:7>♥<Color:Default>"
 
 msgctxt "14344"
 msgid "Now that was pretty cute."
@@ -3928,7 +3960,7 @@ msgstr ""
 
 msgctxt "14392"
 msgid "Oh, really?"
-msgstr ""
+msgstr "Oh, davvero?"
 
 msgctxt "14404"
 msgid "I mean, nobody knows where belly dancing really started."
@@ -3942,7 +3974,7 @@ msgstr ""
 
 msgctxt "14428"
 msgid "Huh."
-msgstr ""
+msgstr "Uh."
 
 msgctxt "14440"
 msgid ""
@@ -3952,15 +3984,16 @@ msgstr ""
 
 msgctxt "14452"
 msgid "Interesting..."
-msgstr ""
+msgstr "Interessante..."
 
 msgctxt "14464"
-msgid "Don't you think that's like, sooo incredibly cool? <Color:7>⑮<Color:Default>"
+msgid ""
+"Don't you think that's like, sooo incredibly cool? <Color:7>⑮<Color:Default>"
 msgstr ""
 
 msgctxt "14476"
 msgid "Definitely."
-msgstr ""
+msgstr "Assolutamente."
 
 msgctxt "14488"
 msgid ""
@@ -3969,7 +4002,8 @@ msgid ""
 msgstr ""
 
 msgctxt "14500"
-msgid "Like, maybe we should understand all this stuff a little bit better, right?"
+msgid ""
+"Like, maybe we should understand all this stuff a little bit better, right?"
 msgstr ""
 
 msgctxt "14512"
@@ -4044,7 +4078,7 @@ msgstr ""
 
 msgctxt "14704"
 msgid "Yeah..."
-msgstr ""
+msgstr "Già..."
 
 msgctxt "14716"
 msgid "It's got this like, super long history! Isn't that cool!?"
@@ -4052,15 +4086,15 @@ msgstr ""
 
 msgctxt "14728"
 msgid "Yeah."
-msgstr ""
+msgstr "Sì."
 
 msgctxt "14740"
 msgid "Hey, Kiryu-san?"
-msgstr ""
+msgstr "Ehi, Kiryu-san?"
 
 msgctxt "14752"
 msgid "What is it?"
-msgstr ""
+msgstr "E cioè?"
 
 msgctxt "14764"
 msgid ""
@@ -4080,7 +4114,7 @@ msgstr ""
 
 msgctxt "14800"
 msgid "Yeah, what about it?"
-msgstr ""
+msgstr "Sì. E allora?"
 
 msgctxt "14812"
 msgid "So my friend just told me alcohol's a mood depressant!"
@@ -4088,10 +4122,11 @@ msgstr ""
 
 msgctxt "14824"
 msgid "Really?"
-msgstr ""
+msgstr "Davvero?"
 
 msgctxt "14836"
-msgid "Yeah! So it naturally has this downer effect, right? Isn't that crazy!?"
+msgid ""
+"Yeah! So it naturally has this downer effect, right? Isn't that crazy!?"
 msgstr ""
 
 msgctxt "14848"
@@ -4100,7 +4135,7 @@ msgstr ""
 
 msgctxt "14860"
 msgid "That makes sense."
-msgstr ""
+msgstr "Ha senso."
 
 msgctxt "14872"
 msgid "Yeah. I think I'm starting to like, get it."
@@ -4111,7 +4146,8 @@ msgid "Get what?"
 msgstr ""
 
 msgctxt "14896"
-msgid "So, like, alcohol limits your brain activity and how your body moves, right?"
+msgid ""
+"So, like, alcohol limits your brain activity and how your body moves, right?"
 msgstr ""
 
 msgctxt "14908"
@@ -4122,7 +4158,7 @@ msgstr ""
 
 msgctxt "14920"
 msgid "Okay..."
-msgstr ""
+msgstr "Va bene..."
 
 msgctxt "14932"
 msgid ""
@@ -4148,7 +4184,7 @@ msgstr ""
 
 msgctxt "14980"
 msgid "Heh, seriously."
-msgstr ""
+msgstr "Sì, mica scherzo."
 
 msgctxt "14992"
 msgid ""
@@ -4166,17 +4202,17 @@ msgstr ""
 
 msgctxt "15028"
 msgid "Okay then."
-msgstr ""
+msgstr "Ok allora."
 
 msgctxt "15040"
 msgid ""
-"That might be true, but drinking is more than just a chemical reaction. "
-"It's an experience."
+"That might be true, but drinking is more than just a chemical reaction. It's"
+" an experience."
 msgstr ""
 
 msgctxt "15052"
 msgid "Hmm..."
-msgstr ""
+msgstr "Uhm..."
 
 msgctxt "15064"
 msgid "I mean, I kinda get what you're trying to say."
@@ -4208,7 +4244,7 @@ msgstr ""
 
 msgctxt "15136"
 msgid "Sounds like it."
-msgstr ""
+msgstr "Sembrerebbe di sì."
 
 msgctxt "15148"
 msgid "Case closed, then?"
@@ -4222,18 +4258,18 @@ msgstr ""
 
 msgctxt "15172"
 msgid ""
-"I'm kinda relieved that my depressing morning hangovers is the booze and "
-"not me."
+"I'm kinda relieved that my depressing morning hangovers is the booze and not"
+" me."
 msgstr ""
 
 msgctxt "15184"
 msgid "Seriously."
-msgstr ""
+msgstr "Sul serio..."
 
 msgctxt "15196"
 msgid ""
-"But it's not like we're not gonna stop drinking together or anything "
-"because of that. The magic's still there!"
+"But it's not like we're not gonna stop drinking together or anything because"
+" of that. The magic's still there!"
 msgstr ""
 
 msgctxt "15208"
@@ -4248,7 +4284,7 @@ msgstr ""
 
 msgctxt "15232"
 msgid "...Yeah."
-msgstr ""
+msgstr "...Già."
 
 msgctxt "15244"
 msgid "Normal Conversation 29"
@@ -4293,7 +4329,8 @@ msgid ""
 msgstr ""
 
 msgctxt "15400"
-msgid "Kiryu-san... I was, like, super looking forward to going out with you..."
+msgid ""
+"Kiryu-san... I was, like, super looking forward to going out with you..."
 msgstr ""
 
 msgctxt "15412"
@@ -4316,7 +4353,7 @@ msgstr ""
 
 msgctxt "15460"
 msgid "I hope you have a good time! <Color:7>⑮<Color:Default>"
-msgstr ""
+msgstr "Spero tu ti diverta! <Color:7>♥<Color:Default>"
 
 msgctxt "15472"
 msgid "You can totally, like, chill out here."
@@ -4335,7 +4372,8 @@ msgid "We so have to go on another after-hours date again."
 msgstr ""
 
 msgctxt "15520"
-msgid "Thanks for taking me out! It was like, super fun. <Color:7>⑮<Color:Default>"
+msgid ""
+"Thanks for taking me out! It was like, super fun. <Color:7>⑮<Color:Default>"
 msgstr ""
 
 msgctxt "15532"
@@ -4382,7 +4420,7 @@ msgstr ""
 
 msgctxt "15652"
 msgid "Thank you so much!"
-msgstr ""
+msgstr "Grazie mille!"
 
 msgctxt "15664"
 msgid "Ooooh, is this for me?"
@@ -4390,19 +4428,19 @@ msgstr ""
 
 msgctxt "15676"
 msgid "Thank you. <Color:7>⑮<Color:Default>"
-msgstr ""
+msgstr "Grazie. <Color:7>♥<Color:Default>"
 
 msgctxt "15688"
 msgid "Oh, is that... for me?"
-msgstr ""
+msgstr "Ehm, è... per me?"
 
 msgctxt "15700"
 msgid "Thank you..."
-msgstr ""
+msgstr "Grazie..."
 
 msgctxt "15712"
 msgid "Wait, what the hell!?"
-msgstr ""
+msgstr "Aspetta, che diavolo?"
 
 msgctxt "15724"
 msgid "Yeah, I soooo don't want this..."
@@ -4410,7 +4448,7 @@ msgstr ""
 
 msgctxt "15736"
 msgid "Wait, are you serious?"
-msgstr ""
+msgstr "Cosa? Ma dici sul serio?"
 
 msgctxt "15748"
 msgid "Ugh, I can't even right now."
@@ -4430,7 +4468,7 @@ msgstr ""
 
 msgctxt "15808"
 msgid "I'll have this, then."
-msgstr ""
+msgstr "Prendo questo, allora."
 
 msgctxt "15820"
 msgid "Aren't you gonna, like, have a drink?"
@@ -4442,7 +4480,7 @@ msgstr ""
 
 msgctxt "15856"
 msgid "I'll have this, then."
-msgstr ""
+msgstr "Prendo questo, allora."
 
 msgctxt "15868"
 msgid "Aren't you gonna, like, have a drink?"
@@ -4450,7 +4488,7 @@ msgstr ""
 
 msgctxt "15880"
 msgid "Oooh, I like that, too!"
-msgstr ""
+msgstr "Oooh, mi piace un sacco anche quello!"
 
 msgctxt "15892"
 msgid "We've got such good taste."
@@ -4490,7 +4528,7 @@ msgstr ""
 
 msgctxt "16012"
 msgid "I'll have this, then."
-msgstr ""
+msgstr "Prendo questo, allora."
 
 msgctxt "16024"
 msgid "Wait, huh? You don't want anything?"
@@ -4502,7 +4540,7 @@ msgstr ""
 
 msgctxt "16060"
 msgid "I'll have this, then."
-msgstr ""
+msgstr "Prendo questo, allora."
 
 msgctxt "16072"
 msgid "Huh, you sure you don't wanna, like, order anything?"
@@ -4514,7 +4552,7 @@ msgstr ""
 
 msgctxt "16096"
 msgid "We've got such good taste. <Color:7>⑮<Color:Default>"
-msgstr ""
+msgstr "Abbiamo dei gusti così raffinati. <Color:7>♥<Color:Default>"
 
 msgctxt "16108"
 msgid "You're into that kind of food, Kiryu-san?"
@@ -4550,19 +4588,19 @@ msgstr ""
 
 msgctxt "16216"
 msgid "Could you get these for us?"
-msgstr ""
+msgstr "Potrebbe portarci questi?"
 
 msgctxt "16228"
 msgid "Of course. I'll have that for you right away."
-msgstr ""
+msgstr "Certo. Te lo porto subito."
 
 msgctxt "16252"
 msgid "Cheers!"
-msgstr ""
+msgstr "Salute!"
 
 msgctxt "16264"
 msgid "Cheers."
-msgstr ""
+msgstr "Salute."
 
 msgctxt "16276"
 msgid "Heeey! Go ahead and like, chill out!"
@@ -4570,11 +4608,11 @@ msgstr ""
 
 msgctxt "16288"
 msgid "Cheers."
-msgstr ""
+msgstr "Salute."
 
 msgctxt "16300"
 msgid "Cheers."
-msgstr ""
+msgstr "Salute."
 
 msgctxt "16312"
 msgid "You can totally, like, chill out here."
@@ -4590,7 +4628,7 @@ msgstr ""
 
 msgctxt "16348"
 msgid "Here you go!"
-msgstr ""
+msgstr "Ecco a te!"
 
 msgctxt "16372"
 msgid "It was really nice talking to you! <Color:7>⑮<Color:Default>"
@@ -4598,7 +4636,7 @@ msgstr ""
 
 msgctxt "16384"
 msgid "Same."
-msgstr ""
+msgstr "Vergognati."
 
 msgctxt "16396"
 msgid ""
@@ -4608,15 +4646,16 @@ msgstr ""
 
 msgctxt "16408"
 msgid "You got Ranko's business card."
-msgstr ""
+msgstr "Hai ottenuto il biglietto da visita di Rio."
 
 msgctxt "16456"
-msgid "You should totally come back more often, okay? <Color:7>⑮<Color:Default>"
+msgid ""
+"You should totally come back more often, okay? <Color:7>⑮<Color:Default>"
 msgstr ""
 
 msgctxt "16468"
 msgid "You got it."
-msgstr ""
+msgstr "Va bene."
 
 msgctxt "16480"
 msgid ""
@@ -4626,11 +4665,11 @@ msgstr ""
 
 msgctxt "16492"
 msgid "You got Ranko's fancy business card."
-msgstr ""
+msgstr "Hai ottenuto il biglietto da visita elegante di Rio."
 
 msgctxt "16528"
 msgid "Here you go!"
-msgstr ""
+msgstr "Ecco a te!"
 
 msgctxt "16540"
 msgid "......"
@@ -4642,7 +4681,7 @@ msgstr ""
 
 msgctxt "16564"
 msgid "Sure."
-msgstr ""
+msgstr "Certo."
 
 msgctxt "16576"
 msgid "C'mon, drink up!"
@@ -4650,7 +4689,7 @@ msgstr ""
 
 msgctxt "16588"
 msgid "All right."
-msgstr ""
+msgstr "Va bene."
 
 msgctxt "16600"
 msgid "I'm gonna drink with you!"
@@ -4674,7 +4713,7 @@ msgstr ""
 
 msgctxt "16660"
 msgid "Yeah..."
-msgstr ""
+msgstr "Già..."
 
 msgctxt "16672"
 msgid "終了時_アフター_初"
@@ -4712,7 +4751,7 @@ msgstr ""
 
 msgctxt "16768"
 msgid "That was soooo much fun. <Color:7>⑮<Color:Default>"
-msgstr ""
+msgstr "È stato così divertente! <Color:7>♥<Color:Default>"
 
 msgctxt "16780"
 msgid "You better come see me again, okay? <Color:7>⑮<Color:Default>"
@@ -4728,7 +4767,7 @@ msgstr ""
 
 msgctxt "16816"
 msgid "No problem."
-msgstr ""
+msgstr "Figurati."
 
 msgctxt "16828"
 msgid "See you soon, okay?"
@@ -4744,7 +4783,7 @@ msgstr ""
 
 msgctxt "16864"
 msgid "No problem."
-msgstr ""
+msgstr "Figurati."
 
 msgctxt "16876"
 msgid "See you soon, okay?"
@@ -4756,7 +4795,7 @@ msgstr ""
 
 msgctxt "16912"
 msgid "I love you... <Color:7>⑮<Color:Default>"
-msgstr ""
+msgstr "Ti amo. <Color:7>♥<Color:Default>"
 
 msgctxt "16924"
 msgid "Ranko..."
@@ -4776,7 +4815,7 @@ msgstr ""
 
 msgctxt "16972"
 msgid "No problem."
-msgstr ""
+msgstr "Figurati."
 
 msgctxt "16984"
 msgid "See you soon, okay?"
@@ -4792,7 +4831,7 @@ msgstr ""
 
 msgctxt "17020"
 msgid "No problem."
-msgstr ""
+msgstr "Figurati."
 
 msgctxt "17032"
 msgid "See you soon, okay?"
@@ -4808,7 +4847,7 @@ msgstr ""
 
 msgctxt "17068"
 msgid "No problem."
-msgstr ""
+msgstr "Figurati."
 
 msgctxt "17080"
 msgid "See you soon, okay?"
@@ -4852,14 +4891,14 @@ msgstr ""
 
 msgctxt "17296"
 msgid ""
-"Yeah! For me, it's hands. I dunno what it is. Sometimes, when I get drunk, "
-"I even nibble on people's fingers. <Color:7>⑮<Color:Default>"
+"Yeah! For me, it's hands. I dunno what it is. Sometimes, when I get drunk, I"
+" even nibble on people's fingers. <Color:7>⑮<Color:Default>"
 msgstr ""
 
 msgctxt "17308"
 msgid ""
-"So I figured like, maybe you've got your own thing for a certain part of "
-"the body, you know?"
+"So I figured like, maybe you've got your own thing for a certain part of the"
+" body, you know?"
 msgstr ""
 
 msgctxt "17320"
@@ -4870,7 +4909,7 @@ msgstr ""
 
 msgctxt "17332"
 msgid "Let's see..."
-msgstr ""
+msgstr "Vediamo..."
 
 msgctxt "17344"
 msgid "Ohmigosh, did I tell you about the tattoo I have on my chest?"
@@ -4900,8 +4939,8 @@ msgstr ""
 
 msgctxt "17416"
 msgid ""
-"So like, I've been thinking about getting another tattoo. Where do you "
-"think I should put it?"
+"So like, I've been thinking about getting another tattoo. Where do you think"
+" I should put it?"
 msgstr ""
 
 msgctxt "17428"
@@ -4918,7 +4957,7 @@ msgstr ""
 
 msgctxt "17476"
 msgid "That's incredible."
-msgstr ""
+msgstr "È incredibile."
 
 msgctxt "17488"
 msgid "I'm usually fine."
@@ -4934,7 +4973,7 @@ msgstr ""
 
 msgctxt "17524"
 msgid "Don't worry about him."
-msgstr ""
+msgstr "Non preoccuparti di loro."
 
 msgctxt "17536"
 msgid "I completely agree with you."
@@ -4994,7 +5033,7 @@ msgstr ""
 
 msgctxt "17704"
 msgid "That's impressive."
-msgstr ""
+msgstr "Impressionante."
 
 msgctxt "17716"
 msgid "You don't do Para Para anymore?"
@@ -5066,7 +5105,7 @@ msgstr ""
 
 msgctxt "17920"
 msgid "What's wrong with that?"
-msgstr ""
+msgstr "Che c'è di male?"
 
 msgctxt "17932"
 msgid "Why don't you tell them about it, then?"
@@ -5082,7 +5121,7 @@ msgstr ""
 
 msgctxt "17968"
 msgid "I'm not really sure..."
-msgstr ""
+msgstr "Non ne sono del tutto sicuro."
 
 msgctxt "17980"
 msgid "I guess it depends on the time and situation."
@@ -5122,7 +5161,7 @@ msgstr ""
 
 msgctxt "18088"
 msgid "It's okay."
-msgstr ""
+msgstr "Non fa niente..."
 
 msgctxt "18100"
 msgid "You're not fat."
@@ -5174,7 +5213,7 @@ msgstr ""
 
 msgctxt "18244"
 msgid "You're right."
-msgstr ""
+msgstr "Hai ragione."
 
 msgctxt "18256"
 msgid "You can't survive here without that mindset."
@@ -5218,7 +5257,7 @@ msgstr ""
 
 msgctxt "18376"
 msgid "Of course."
-msgstr ""
+msgstr "E di che."
 
 msgctxt "18388"
 msgid "Who knows."
@@ -5266,7 +5305,7 @@ msgstr ""
 
 msgctxt "18520"
 msgid "I got nothing."
-msgstr ""
+msgstr "Non ho niente."
 
 msgctxt "18532"
 msgid "Tell Her About Gelato"
@@ -5414,7 +5453,7 @@ msgstr ""
 
 msgctxt "176868"
 msgid "Attendant"
-msgstr ""
+msgstr "Addetto"
 
 msgctxt "176872"
 msgid "2d_cf_kyaba_meishi_nemu00"

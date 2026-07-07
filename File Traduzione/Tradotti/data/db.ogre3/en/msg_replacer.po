@@ -1,15 +1,16 @@
+#
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=utf-8\n"
-"Language: pt\n"
-"Language-Team: Portuguese, Brazilian\n"
-"Last-Translator: \n"
-"MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: 2026-07-07\n"
 "Project-Id-Version: yakuza-3-remastered\n"
 "Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-07-07\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgctxt "0\t504\t0\tSUS"
 msgid ""
@@ -61,7 +62,7 @@ msgstr ""
 
 msgctxt "0\t593\t12\tCHK"
 msgid "Seiji Nakazato"
-msgstr ""
+msgstr "Seiji nakazato"
 
 msgctxt "0\t608\t13\tCHK"
 msgid "Kiko Hirakawa"
@@ -77,23 +78,23 @@ msgstr ""
 
 msgctxt "0\t651\t16\tCHK"
 msgid "NPC5"
-msgstr ""
+msgstr "PNG5"
 
 msgctxt "0\t656\t17\tCHK"
 msgid "NPC6"
-msgstr ""
+msgstr "PNG6"
 
 msgctxt "0\t661\t18\tCHK"
 msgid "NPC7"
-msgstr ""
+msgstr "PNG7"
 
 msgctxt "0\t666\t19\tCHK"
 msgid "NPC8"
-msgstr ""
+msgstr "PNG8"
 
 msgctxt "0\t671\t20\tCHK"
 msgid "Professional Player"
-msgstr ""
+msgstr "Giocatore professionista"
 
 msgctxt "1\t4488\t0\tSUS"
 msgid ""
@@ -101,7 +102,7 @@ msgstr ""
 
 msgctxt "1\t4489\t1\tCHK"
 msgid "Display Name"
-msgstr ""
+msgstr "Nome visualizzato"
 
 msgctxt "1\t4502\t2\tCHK"
 msgid "Kiryu"
@@ -113,11 +114,11 @@ msgstr ""
 
 msgctxt "1\t4527\t4\tCHK"
 msgid "Gangster Lackey"
-msgstr ""
+msgstr "Scagnozzo del Gangster"
 
 msgctxt "1\t4543\t5\tCHK"
 msgid "Strong Lackey"
-msgstr ""
+msgstr "Scagnozzo forte"
 
 msgctxt "1\t4557\t6\tCHK"
 msgid "Chubby Lackey"
@@ -125,7 +126,7 @@ msgstr ""
 
 msgctxt "1\t4571\t7\tCHK"
 msgid "Boxer Lackey"
-msgstr ""
+msgstr "Scagnozzo pugile"
 
 msgctxt "1\t4584\t8\tCHK"
 msgid "Kickboxer Lackey"
@@ -133,7 +134,7 @@ msgstr ""
 
 msgctxt "1\t4601\t9\tCHK"
 msgid "Snake Flower Triad"
-msgstr ""
+msgstr "Triade del Fiore di Serpente"
 
 msgctxt "1\t4620\t10\tCHK"
 msgid "Goro Majima"
@@ -209,7 +210,7 @@ msgstr ""
 
 msgctxt "1\t4841\t28\tCHK"
 msgid "Otaki Minotaur"
-msgstr ""
+msgstr "Otaki Minotauro"
 
 msgctxt "1\t4856\t29\tCHK"
 msgid "Shoji Yonashiro"
@@ -233,7 +234,7 @@ msgstr ""
 
 msgctxt "1\t4941\t34\tCHK"
 msgid "Hunter Ozawa"
-msgstr ""
+msgstr "Cacciatore Ozawa"
 
 msgctxt "1\t4954\t35\tCHK"
 msgid "Scorpio Kito"
@@ -329,7 +330,7 @@ msgstr ""
 
 msgctxt "1\t5292\t58\tCHK"
 msgid "Mammoth Tatsu"
-msgstr ""
+msgstr "Mammut Tatsu"
 
 msgctxt "1\t5306\t59\tCHK"
 msgid "The Big Dandy"
@@ -385,11 +386,11 @@ msgstr ""
 
 msgctxt "1\t5490\t72\tCHK"
 msgid "Thomas Loyd"
-msgstr ""
+msgstr "Thomas loyd"
 
 msgctxt "1\t5502\t73\tCHK"
 msgid "Justin Woods"
-msgstr ""
+msgstr "Justin woods"
 
 msgctxt "1\t5515\t74\tCHK"
 msgid "Shogo Usui"
@@ -417,7 +418,7 @@ msgstr ""
 
 msgctxt "1\t5587\t80\tCHK"
 msgid "Masayuki Hatae"
-msgstr ""
+msgstr "Masayuki hatae"
 
 msgctxt "1\t5602\t81\tCHK"
 msgid "Keigo Jinno"
@@ -449,19 +450,19 @@ msgstr ""
 
 msgctxt "1\t5702\t88\tCHK"
 msgid "Komaki's Pupil #1"
-msgstr ""
+msgstr "Allievo di Komaki"
 
 msgctxt "1\t5720\t89\tCHK"
 msgid "Komaki's Pupil #2"
-msgstr ""
+msgstr "Allievo di Komaki"
 
 msgctxt "1\t5738\t90\tCHK"
 msgid "Komaki's Pupil #3"
-msgstr ""
+msgstr "Allievo di Komaki"
 
 msgctxt "1\t5756\t91\tCHK"
 msgid "Komaki's Pupil #4"
-msgstr ""
+msgstr "Allievo di Komaki"
 
 msgctxt "1\t5774\t92\tCHK"
 msgid "Batsu"
@@ -565,15 +566,15 @@ msgstr ""
 
 msgctxt "1\t5987\t117\tCHK"
 msgid "Strong Arm Lackey"
-msgstr ""
+msgstr "Scagnozzo pesantemente armato"
 
 msgctxt "1\t6005\t118\tCHK"
 msgid "Hitman Lackey"
-msgstr ""
+msgstr "Scagnozzo sicario"
 
 msgctxt "1\t6019\t119\tCHK"
 msgid "Fat Boxer Lackey"
-msgstr ""
+msgstr "Scagnozzo pugile grasso"
 
 msgctxt "1\t6036\t120\tCHK"
 msgid "Sword-holding Lackey"
@@ -581,11 +582,11 @@ msgstr ""
 
 msgctxt "1\t6057\t121\tCHK"
 msgid "Protector Lackey"
-msgstr ""
+msgstr "Scagnozzo protettore"
 
 msgctxt "1\t6074\t122\tCHK"
 msgid "Karate Lackey"
-msgstr ""
+msgstr "Scagnozzo karateka"
 
 msgctxt "1\t6088\t123\tCHK"
 msgid "Ricky Mask"
@@ -673,27 +674,27 @@ msgstr ""
 
 msgctxt "2\t22768\t13\tCHK"
 msgid "Mysterious Foreigner A"
-msgstr ""
+msgstr "Straniero misterioso A"
 
 msgctxt "2\t22791\t14\tCHK"
 msgid "Mysterious Foreigner B"
-msgstr ""
+msgstr "Straniero misterioso B"
 
 msgctxt "2\t22814\t15\tCHK"
 msgid "Mysterious Foreigner C"
-msgstr ""
+msgstr "Straniero misterioso C"
 
 msgctxt "2\t22837\t16\tCHK"
 msgid "Mysterious Foreigner D"
-msgstr ""
+msgstr "Straniero misterioso D"
 
 msgctxt "2\t22860\t17\tCHK"
 msgid "Mysterious Foreigner E"
-msgstr ""
+msgstr "Straniero misterioso E"
 
 msgctxt "2\t22883\t18\tCHK"
 msgid "Mysterious Foreigner F"
-msgstr ""
+msgstr "Straniero misterioso F"
 
 msgctxt "2\t22906\t19\tCHK"
 msgid "Snake Flower Member"
@@ -701,7 +702,7 @@ msgstr ""
 
 msgctxt "2\t22926\t20\tCHK"
 msgid "Snake Flower Officer"
-msgstr ""
+msgstr "Ufficiale del Fiore di Serpente"
 
 msgctxt "2\t22947\t21\tCHK"
 msgid "CIA Operative"
@@ -709,7 +710,7 @@ msgstr ""
 
 msgctxt "2\t22961\t22\tCHK"
 msgid "CIA Agent"
-msgstr ""
+msgstr "Agente della CIA"
 
 msgctxt "2\t22971\t23\tCHK"
 msgid "Ricky Mask"
@@ -717,11 +718,11 @@ msgstr ""
 
 msgctxt "2\t22982\t24\tCHK"
 msgid "Shady Man A"
-msgstr ""
+msgstr "Uomo sospetto A"
 
 msgctxt "2\t22994\t25\tCHK"
 msgid "Shady Man B"
-msgstr ""
+msgstr "Uomo sospetto B"
 
 msgctxt "2\t23006\t26\tCHK"
 msgid "Yakuza"
@@ -757,51 +758,51 @@ msgstr ""
 
 msgctxt "2\t23103\t34\tCHK"
 msgid "Gang Members"
-msgstr ""
+msgstr "Membri di una gang"
 
 msgctxt "2\t23116\t35\tCHK"
 msgid "Street Punks"
-msgstr ""
+msgstr "Teppisti di strada"
 
 msgctxt "2\t23129\t36\tCHK"
 msgid "Man in Black"
-msgstr ""
+msgstr "Uomo in nero"
 
 msgctxt "2\t23142\t37\tCHK"
 msgid "Wolf"
-msgstr ""
+msgstr "Lupo"
 
 msgctxt "2\t23147\t38\tCHK"
 msgid "Tall Man"
-msgstr ""
+msgstr "Uomo alto"
 
 msgctxt "2\t23156\t39\tCHK"
 msgid "Man with Glasses"
-msgstr ""
+msgstr "Uomo con gli occhiali"
 
 msgctxt "2\t23173\t40\tCHK"
 msgid "Freedom-Loving Drunk"
-msgstr ""
+msgstr "Ubriacone amante della libertà"
 
 msgctxt "2\t23194\t41\tCHK"
 msgid "Fortune Teller's Oldest Son"
-msgstr ""
+msgstr "Figlio maggiore dell'indovino"
 
 msgctxt "2\t23222\t42\tCHK"
 msgid "Fortune Teller's Second Son"
-msgstr ""
+msgstr "Secondo figlio dell'indovino"
 
 msgctxt "2\t23250\t43\tCHK"
 msgid "Fortune Teller's Third Son"
-msgstr ""
+msgstr "Terzo figlio dell'indovino"
 
 msgctxt "2\t23277\t44\tCHK"
 msgid "Fortune Teller's Fourth Son"
-msgstr ""
+msgstr "Quarto figlio dell'indovino"
 
 msgctxt "2\t23305\t45\tCHK"
 msgid "Fortune Teller's Fifth Son"
-msgstr ""
+msgstr "Quinto figlio dell'indovino"
 
 msgctxt "2\t23332\t46\tCHK"
 msgid "Toru"
@@ -809,39 +810,39 @@ msgstr ""
 
 msgctxt "2\t23337\t47\tCHK"
 msgid "Mr. Try and Hit Me"
-msgstr ""
+msgstr "Mister Prova a Colpirmi"
 
 msgctxt "2\t23356\t48\tCHK"
 msgid "Street Vendor-Like Man"
-msgstr ""
+msgstr "Uomo simile a un venditore ambulante"
 
 msgctxt "2\t23379\t49\tCHK"
 msgid "Black-Suited Man 1"
-msgstr ""
+msgstr "Uomo in abito nero 1"
 
 msgctxt "2\t23398\t50\tCHK"
 msgid "Black-Suited Man 2"
-msgstr ""
+msgstr "Uomo in abito nero 2"
 
 msgctxt "2\t23417\t51\tCHK"
 msgid "Black-Suited Man 3"
-msgstr ""
+msgstr "Uomo in abito nero 3"
 
 msgctxt "2\t23436\t52\tCHK"
 msgid "Suspicious Man"
-msgstr ""
+msgstr "Uomo sospetto"
 
 msgctxt "2\t23451\t53\tCHK"
 msgid "Robber"
-msgstr ""
+msgstr "Rapinatore"
 
 msgctxt "2\t23458\t54\tCHK"
 msgid "Head Bag Snatcher"
-msgstr ""
+msgstr "Capo scippatore"
 
 msgctxt "2\t23476\t55\tCHK"
 msgid "Bag Snatcher"
-msgstr ""
+msgstr "Ladro di borse"
 
 msgctxt "2\t23489\t56\tCHK"
 msgid "Man in Camo"
@@ -849,11 +850,11 @@ msgstr ""
 
 msgctxt "2\t23501\t57\tCHK"
 msgid "Man in Red Sportswear"
-msgstr ""
+msgstr "Uomo in tuta rossa"
 
 msgctxt "2\t23523\t58\tCHK"
 msgid "Red"
-msgstr ""
+msgstr "Rosso"
 
 msgctxt "2\t23527\t59\tCHK"
 msgid "Henry"
@@ -869,11 +870,11 @@ msgstr ""
 
 msgctxt "2\t23540\t62\tCHK"
 msgid "President"
-msgstr ""
+msgstr "Presidente"
 
 msgctxt "2\t23550\t63\tCHK"
 msgid "Freeloader"
-msgstr ""
+msgstr "Scroccone"
 
 msgctxt "2\t23561\t64\tCHK"
 msgid "Toguchi"
@@ -897,7 +898,7 @@ msgstr ""
 
 msgctxt "2\t23597\t69\tCHK"
 msgid "Weapons Nut"
-msgstr ""
+msgstr "Fanatico di armi"
 
 msgctxt "2\t23609\t70\tCHK"
 msgid "Sendo"
@@ -905,7 +906,7 @@ msgstr ""
 
 msgctxt "2\t23615\t71\tCHK"
 msgid "Loan Shark"
-msgstr ""
+msgstr "Strozzino"
 
 msgctxt "2\t23626\t72\tCHK"
 msgid "Hiroto"
@@ -913,7 +914,7 @@ msgstr ""
 
 msgctxt "2\t23633\t73\tCHK"
 msgid "Loan Shark Boss"
-msgstr ""
+msgstr "Capo degli strozzini"
 
 msgctxt "2\t23649\t74\tCHK"
 msgid "Hanai"
@@ -933,7 +934,7 @@ msgstr ""
 
 msgctxt "2\t23679\t78\tCHK"
 msgid "Bouncer"
-msgstr ""
+msgstr "Buttafuori"
 
 msgctxt "2\t23687\t79\tCHK"
 msgid "Yamashiro"
@@ -945,7 +946,7 @@ msgstr ""
 
 msgctxt "2\t23706\t81\tCHK"
 msgid "Hirata's Son"
-msgstr ""
+msgstr "Figlio di Hirata"
 
 msgctxt "2\t23719\t82\tCHK"
 msgid "Sawada"
@@ -953,19 +954,19 @@ msgstr ""
 
 msgctxt "2\t23726\t83\tCHK"
 msgid "Bouncer 1"
-msgstr ""
+msgstr "Buttafuori 1"
 
 msgctxt "2\t23736\t84\tCHK"
 msgid "Bouncer 2"
-msgstr ""
+msgstr "Buttafuori 2"
 
 msgctxt "2\t23746\t85\tCHK"
 msgid "Bouncer 3"
-msgstr ""
+msgstr "Buttafuori 3"
 
 msgctxt "2\t23756\t86\tCHK"
 msgid "Bouncer 4"
-msgstr ""
+msgstr "Buttafuori 4"
 
 msgctxt "2\t23766\t87\tCHK"
 msgid "Michio"
@@ -989,7 +990,7 @@ msgstr ""
 
 msgctxt "2\t23804\t92\tCHK"
 msgid "Man in Suit"
-msgstr ""
+msgstr "Uomo in abito"
 
 msgctxt "2\t23816\t93\tCHK"
 msgid "Kaneda"
@@ -1009,39 +1010,39 @@ msgstr ""
 
 msgctxt "2\t23850\t97\tCHK"
 msgid "Homeless Hunter A"
-msgstr ""
+msgstr "Cacciatore di senzatetto A"
 
 msgctxt "2\t23868\t98\tCHK"
 msgid "Homeless Hunter B"
-msgstr ""
+msgstr "Cacciatore di senzatetto B"
 
 msgctxt "2\t23886\t99\tCHK"
 msgid "Homeless Hunter C"
-msgstr ""
+msgstr "Cacciatore di senzatetto C"
 
 msgctxt "2\t23904\t100\tCHK"
 msgid "Homeless Hunter D"
-msgstr ""
+msgstr "Cacciatore di senzatetto D"
 
 msgctxt "2\t23922\t101\tCHK"
 msgid "Homeless Hunter E"
-msgstr ""
+msgstr "Cacciatore di senzatetto E"
 
 msgctxt "2\t23940\t102\tCHK"
 msgid "Head Homeless Hunter"
-msgstr ""
+msgstr "Capo dei cacciatori di senzatetto"
 
 msgctxt "2\t23961\t103\tCHK"
 msgid "Black Suit 1"
-msgstr ""
+msgstr "Uomo in nero 1"
 
 msgctxt "2\t23974\t104\tCHK"
 msgid "Black Suit 2"
-msgstr ""
+msgstr "Uomo in nero 2"
 
 msgctxt "2\t23987\t105\tCHK"
 msgid "Black Suit 3"
-msgstr ""
+msgstr "Uomo in nero 3"
 
 msgctxt "2\t24000\t106\tCHK"
 msgid "Mike"
@@ -1061,31 +1062,31 @@ msgstr ""
 
 msgctxt "2\t24025\t110\tCHK"
 msgid "Tsukishima's Man A"
-msgstr ""
+msgstr "Uomo di Tsukishima A"
 
 msgctxt "2\t24044\t111\tCHK"
 msgid "Tsukishima's Man B"
-msgstr ""
+msgstr "Uomo di Tsukishima B"
 
 msgctxt "2\t24063\t112\tCHK"
 msgid "Tsukishima's Man C"
-msgstr ""
+msgstr "Uomo di Tsukishima C"
 
 msgctxt "2\t24082\t113\tCHK"
 msgid "Tsukishima's Man D"
-msgstr ""
+msgstr "Uomo di Tsukishima D"
 
 msgctxt "2\t24101\t114\tCHK"
 msgid "Tsukishima's Man E"
-msgstr ""
+msgstr "Uomo di Tsukishima E"
 
 msgctxt "2\t24120\t115\tCHK"
 msgid "Tsukishima's Man F"
-msgstr ""
+msgstr "Uomo di Tsukishima F"
 
 msgctxt "2\t24139\t116\tCHK"
 msgid "Senior Kansai Yakuza"
-msgstr ""
+msgstr "Yakuza anziano del Kansai"
 
 msgctxt "2\t24160\t117\tCHK"
 msgid "Senior Yakuza Underling"
@@ -1093,23 +1094,23 @@ msgstr ""
 
 msgctxt "2\t24184\t118\tCHK"
 msgid "Commerce Union President"
-msgstr ""
+msgstr "Presidente del sindacato del commercio"
 
 msgctxt "2\t24209\t119\tCHK"
 msgid "Commerce Union Man A"
-msgstr ""
+msgstr "Uomo del sindacato del commercio A"
 
 msgctxt "2\t24230\t120\tCHK"
 msgid "Commerce Union Man B"
-msgstr ""
+msgstr "Uomo del sindacato del commercio B"
 
 msgctxt "2\t24251\t121\tCHK"
 msgid "Commerce Union Man C"
-msgstr ""
+msgstr "Uomo del sindacato del commercio C"
 
 msgctxt "2\t24272\t122\tCHK"
 msgid "Commerce Union Man D"
-msgstr ""
+msgstr "Uomo del sindacato del commercio D"
 
 msgctxt "2\t24293\t123\tCHK"
 msgid "Kyogoku"
@@ -1117,15 +1118,15 @@ msgstr ""
 
 msgctxt "2\t24301\t124\tCHK"
 msgid "Bodyguard A"
-msgstr ""
+msgstr "Guardia del corpo A"
 
 msgctxt "2\t24313\t125\tCHK"
 msgid "Bodyguard B"
-msgstr ""
+msgstr "Guardia del corpo B"
 
 msgctxt "2\t24325\t126\tCHK"
 msgid "Bodyguard C"
-msgstr ""
+msgstr "Guardia del corpo C"
 
 msgctxt "2\t24337\t127\tCHK"
 msgid "Broker"
@@ -1137,7 +1138,7 @@ msgstr ""
 
 msgctxt "2\t24358\t129\tCHK"
 msgid "Tough Woman"
-msgstr ""
+msgstr "Donna tosta"
 
 msgctxt "2\t24370\t130\tCHK"
 msgid "Jo Amon"
@@ -1169,83 +1170,83 @@ msgstr ""
 
 msgctxt "2\t24419\t137\tCHK"
 msgid "Brawny Man"
-msgstr ""
+msgstr "Uomo muscoloso"
 
 msgctxt "2\t24430\t138\tCHK"
 msgid "New Recruit"
-msgstr ""
+msgstr "Nuova recluta"
 
 msgctxt "2\t24442\t139\tCHK"
 msgid "Chubby Man"
-msgstr ""
+msgstr "Uomo paffuto"
 
 msgctxt "2\t24453\t140\tCHK"
 msgid "Young Man"
-msgstr ""
+msgstr "Giovane"
 
 msgctxt "2\t24463\t141\tCHK"
 msgid "Man Up to No Good"
-msgstr ""
+msgstr "Malintenzionato"
 
 msgctxt "2\t24481\t142\tCHK"
 msgid "Naked Man"
-msgstr ""
+msgstr "Uomo nudo"
 
 msgctxt "2\t24491\t143\tCHK"
 msgid "Handsome Man"
-msgstr ""
+msgstr "Bell'uomo"
 
 msgctxt "2\t24504\t144\tCHK"
 msgid "Blond Man"
-msgstr ""
+msgstr "Uomo biondo"
 
 msgctxt "2\t24514\t145\tCHK"
 msgid "Man in Short Sleeves"
-msgstr ""
+msgstr "Uomo a maniche corte"
 
 msgctxt "2\t24535\t146\tCHK"
 msgid "Man in Parka"
-msgstr ""
+msgstr "Uomo con il parka"
 
 msgctxt "2\t24548\t147\tCHK"
 msgid "Flashy Man"
-msgstr ""
+msgstr "Uomo appariscente"
 
 msgctxt "2\t24559\t148\tCHK"
 msgid "Uniformed Man"
-msgstr ""
+msgstr "Uomo in uniforme"
 
 msgctxt "2\t24573\t149\tCHK"
 msgid "Man in Hat"
-msgstr ""
+msgstr "Uomo col cappello"
 
 msgctxt "2\t24584\t150\tCHK"
 msgid "Masked Man"
-msgstr ""
+msgstr "Uomo mascherato"
 
 msgctxt "2\t24595\t151\tCHK"
 msgid "Chinese Man"
-msgstr ""
+msgstr "Uomo cinese"
 
 msgctxt "2\t24607\t152\tCHK"
 msgid "Martial Artist"
-msgstr ""
+msgstr "Artista marziale"
 
 msgctxt "2\t24622\t153\tCHK"
 msgid "Scary Man"
-msgstr ""
+msgstr "Uomo spaventoso"
 
 msgctxt "2\t24632\t154\tCHK"
 msgid "Motionless Man"
-msgstr ""
+msgstr "Uomo immobile"
 
 msgctxt "2\t24647\t155\tCHK"
 msgid "Man on the Move"
-msgstr ""
+msgstr "Uomo in movimento"
 
 msgctxt "2\t24663\t156\tCHK"
 msgid "Assassin"
-msgstr ""
+msgstr "Assassino"
 
 msgctxt "2\t24672\t157\tCHK"
 msgid "Kuroda"
@@ -1277,7 +1278,7 @@ msgstr ""
 
 msgctxt "2\t24730\t164\tCHK"
 msgid "Sketchy Man"
-msgstr ""
+msgstr "Tizio sospetto"
 
 msgctxt "2\t24742\t165\tCHK"
 msgid "Fumiyoshi"
@@ -1285,11 +1286,11 @@ msgstr ""
 
 msgctxt "2\t24752\t166\tCHK"
 msgid "Shifty-eyed Man"
-msgstr ""
+msgstr "Uomo dallo sguardo furtivo"
 
 msgctxt "2\t24768\t167\tCHK"
 msgid "Shady Man's Underling"
-msgstr ""
+msgstr "Scagnozzo dell'uomo losco"
 
 msgctxt "2\t24790\t168\tCHK"
 msgid "Qiang Ka Long"
@@ -3429,7 +3430,7 @@ msgstr ""
 
 msgctxt "2\t29251\t702\tCHK"
 msgid "Hokama"
-msgstr ""
+msgstr "Drag Queen"
 
 msgctxt "2\t29258\t703\tCHK"
 msgid "Tomori"
@@ -4273,7 +4274,7 @@ msgstr ""
 
 msgctxt "3\t57832\t5\tCHK"
 msgid "Let's do this!"
-msgstr ""
+msgstr "Facciamolo!"
 
 msgctxt "3\t57847\t6\tCHK"
 msgid "Here I go!"
@@ -4301,7 +4302,7 @@ msgstr ""
 
 msgctxt "4\t58652\t4\tCHK"
 msgid "Oh, great!"
-msgstr ""
+msgstr "Oh, fantastico."
 
 msgctxt "4\t58663\t5\tCHK"
 msgid "I can't lose now!"
@@ -4309,11 +4310,11 @@ msgstr ""
 
 msgctxt "4\t58681\t6\tCHK"
 msgid "Let's get started, shall we?"
-msgstr ""
+msgstr "Iniziamo, che ne dici?"
 
 msgctxt "4\t58710\t7\tCHK"
 msgid "Impressive..."
-msgstr ""
+msgstr "Notevole."
 
 msgctxt "4\t58724\t8\tCHK"
 msgid "You seem low on chips..."
@@ -4333,19 +4334,19 @@ msgstr ""
 
 msgctxt "5\t59412\t2\tCHK"
 msgid "Hm..."
-msgstr ""
+msgstr "Mmm..."
 
 msgctxt "5\t59418\t3\tCHK"
 msgid "Not bad."
-msgstr ""
+msgstr "Non male."
 
 msgctxt "5\t59427\t4\tCHK"
 msgid "Looking good!"
-msgstr ""
+msgstr "Promette bene!"
 
 msgctxt "5\t59441\t5\tCHK"
 msgid "I got this!"
-msgstr ""
+msgstr "Questa è mia!"
 
 msgctxt "6\t60104\t0\tSUS"
 msgid ""
@@ -4365,7 +4366,7 @@ msgstr ""
 
 msgctxt "6\t60149\t4\tCHK"
 msgid "Lookin' good!"
-msgstr ""
+msgstr "Promette bene!"
 
 msgctxt "6\t60163\t5\tCHK"
 msgid "It's in the bag!"
@@ -4377,7 +4378,7 @@ msgstr ""
 
 msgctxt "6\t60200\t7\tCHK"
 msgid "Peace out!"
-msgstr ""
+msgstr "Alla prossima!"
 
 msgctxt "6\t60211\t8\tCHK"
 msgid "What? Ya broke!?"
@@ -4401,11 +4402,11 @@ msgstr ""
 
 msgctxt "7\t61037\t3\tCHK"
 msgid "Hmm..."
-msgstr ""
+msgstr "Uhm..."
 
 msgctxt "7\t61044\t4\tCHK"
 msgid "I wonder..."
-msgstr ""
+msgstr "Chissà."
 
 msgctxt "7\t61056\t5\tCHK"
 msgid "This one's mine!"
@@ -4413,7 +4414,7 @@ msgstr ""
 
 msgctxt "7\t61073\t6\tCHK"
 msgid "Let's have some fun!"
-msgstr ""
+msgstr "Divertiamoci!"
 
 msgctxt "7\t61094\t7\tCHK"
 msgid "Play me again soon!"
@@ -4437,7 +4438,7 @@ msgstr ""
 
 msgctxt "8\t61910\t2\tCHK"
 msgid "Ugh..."
-msgstr ""
+msgstr "Uff..."
 
 msgctxt "8\t61917\t3\tCHK"
 msgid "Still hope..."
@@ -4445,7 +4446,7 @@ msgstr ""
 
 msgctxt "8\t61931\t4\tCHK"
 msgid "Okay, okay!"
-msgstr ""
+msgstr "Ok, ok!"
 
 msgctxt "8\t61943\t5\tCHK"
 msgid "All mine!"
@@ -4481,7 +4482,7 @@ msgstr ""
 
 msgctxt "9\t62907\t3\tCHK"
 msgid "Oh, come on!"
-msgstr ""
+msgstr "Oh, andiamo!"
 
 msgctxt "9\t62920\t4\tCHK"
 msgid "Oh, this is good!"
@@ -4653,7 +4654,7 @@ msgstr ""
 
 msgctxt "13\t66957\t6\tCHK"
 msgid "Go easy on me, please."
-msgstr ""
+msgstr "Vacci piano, per favore."
 
 msgctxt "13\t66980\t7\tCHK"
 msgid "I knew this would happen..."
@@ -4689,7 +4690,7 @@ msgstr ""
 
 msgctxt "14\t67858\t5\tCHK"
 msgid "Yeah!"
-msgstr ""
+msgstr "Sì!"
 
 msgctxt "14\t67864\t6\tCHK"
 msgid "I'm pretty good!"
@@ -4701,7 +4702,7 @@ msgstr ""
 
 msgctxt "14\t67903\t8\tCHK"
 msgid "You need more chips!"
-msgstr ""
+msgstr "Ti servono altre fiches!"
 
 msgctxt "14\t67924\t9\tCHK"
 msgid "Loser!"
@@ -4717,7 +4718,7 @@ msgstr ""
 
 msgctxt "15\t68740\t2\tCHK"
 msgid "Aw, man..."
-msgstr ""
+msgstr "Uffa, cavolo..."
 
 msgctxt "15\t68751\t3\tCHK"
 msgid "Still nothing?"
@@ -4761,11 +4762,11 @@ msgstr ""
 
 msgctxt "16\t69635\t3\tCHK"
 msgid "Heh..."
-msgstr ""
+msgstr "Eh..."
 
 msgctxt "16\t69642\t4\tCHK"
 msgid "French Revolution!"
-msgstr ""
+msgstr "Rivoluzione francese!"
 
 msgctxt "16\t69661\t5\tCHK"
 msgid "I'll take you on."
@@ -4773,7 +4774,7 @@ msgstr ""
 
 msgctxt "16\t69679\t6\tCHK"
 msgid "Peasant!"
-msgstr ""
+msgstr "Plebeo!"
 
 msgctxt "16\t69688\t7\tCHK"
 msgid "No chips? Bah!"
@@ -4793,31 +4794,31 @@ msgstr ""
 
 msgctxt "17\t72319\t2\tCHK"
 msgid "Gang Members"
-msgstr ""
+msgstr "Membri di una gang"
 
 msgctxt "17\t72332\t3\tCHK"
 msgid "Shady Man"
-msgstr ""
+msgstr "Tipo Losco"
 
 msgctxt "17\t72342\t4\tCHK"
 msgid "Steet Thugs"
-msgstr ""
+msgstr "Delinquenti di strada"
 
 msgctxt "17\t72354\t5\tCHK"
 msgid "Kamurocho Punks"
-msgstr ""
+msgstr "Teppisti di Kamurocho"
 
 msgctxt "17\t72370\t6\tCHK"
 msgid "Kamurocho Man"
-msgstr ""
+msgstr "Uomo di Kamurocho"
 
 msgctxt "17\t72384\t7\tCHK"
 msgid "Kamurocho Yakuza"
-msgstr ""
+msgstr "Yakuza di Kamurocho"
 
 msgctxt "17\t72401\t8\tCHK"
 msgid "Town Yakuza"
-msgstr ""
+msgstr "Yakuza di città"
 
 msgctxt "17\t72413\t9\tCHK"
 msgid "Downtown Ryukyu Man"
@@ -4829,7 +4830,7 @@ msgstr ""
 
 msgctxt "17\t72440\t11\tCHK"
 msgid "Drunk"
-msgstr ""
+msgstr "Ubriaco"
 
 msgctxt "17\t72446\t12\tCHK"
 msgid "Rikiya Shimabukuro"
@@ -4873,11 +4874,11 @@ msgstr ""
 
 msgctxt "17\t72600\t22\tCHK"
 msgid "Snake Flower Triad"
-msgstr ""
+msgstr "Triade del Fiore di Serpente"
 
 msgctxt "17\t72619\t23\tCHK"
 msgid "Snake Flower Officer"
-msgstr ""
+msgstr "Ufficiale del Fiore di Serpente"
 
 msgctxt "17\t72640\t24\tCHK"
 msgid "Lau Ka Long"
@@ -4901,7 +4902,7 @@ msgstr ""
 
 msgctxt "17\t72720\t29\tCHK"
 msgid "CIA Agent"
-msgstr ""
+msgstr "Agente della CIA"
 
 msgctxt "17\t72730\t30\tCHK"
 msgid "Find Daigo"
@@ -4909,7 +4910,7 @@ msgstr ""
 
 msgctxt "17\t72741\t31\tCHK"
 msgid "Head to the Roof"
-msgstr ""
+msgstr "Corri sul tetto!"
 
 msgctxt "17\t72758\t32\tCHK"
 msgid "Yoshitaka Mine"
@@ -4949,11 +4950,11 @@ msgstr ""
 
 msgctxt "17\t72921\t41\tCHK"
 msgid "Mr. Try and Hit Me"
-msgstr ""
+msgstr "Mister Prova a Colpirmi"
 
 msgctxt "17\t72940\t42\tCHK"
 msgid "Peeping Tom"
-msgstr ""
+msgstr "Guardone"
 
 msgctxt "17\t72952\t43\tCHK"
 msgid "Tuna Fund"
@@ -4973,7 +4974,7 @@ msgstr ""
 
 msgctxt "17\t73012\t47\tCHK"
 msgid "Komaki's Training"
-msgstr ""
+msgstr "Allenamento di Komaki"
 
 msgctxt "17\t73030\t48\tCHK"
 msgid "Visit Majima"
@@ -5005,7 +5006,7 @@ msgstr ""
 
 msgctxt "17\t73155\t55\tCHK"
 msgid "Head to Millennium Tower"
-msgstr ""
+msgstr "Raggiungi la Millennium Tower"
 
 msgctxt "17\t73180\t56\tCHK"
 msgid "Chase Event"
@@ -5033,7 +5034,7 @@ msgstr ""
 
 msgctxt "17\t73262\t62\tCHK"
 msgid "Run from the Cops!"
-msgstr ""
+msgstr "Scappa dalla polizia!"
 
 msgctxt "17\t73281\t63\tCHK"
 msgid "Find Ayako"
@@ -5125,15 +5126,15 @@ msgstr ""
 
 msgctxt "17\t73665\t85\tCHK"
 msgid "Melee"
-msgstr ""
+msgstr "Mischia"
 
 msgctxt "17\t73671\t86\tCHK"
 msgid "One-on-One"
-msgstr ""
+msgstr "Uno contro uno"
 
 msgctxt "17\t73682\t87\tCHK"
 msgid "Challenge"
-msgstr ""
+msgstr "Sfida"
 
 msgctxt "17\t73692\t88\tCHK"
 msgid "Team"
@@ -5141,7 +5142,7 @@ msgstr ""
 
 msgctxt "17\t73697\t89\tCHK"
 msgid "Ultimate"
-msgstr ""
+msgstr "Suprema"
 
 msgctxt "17\t73706\t90\tCHK"
 msgid "Richardson"
@@ -5165,7 +5166,7 @@ msgstr ""
 
 msgctxt "17\t73774\t95\tCHK"
 msgid "Tag"
-msgstr ""
+msgstr "Marchio"
 
 msgctxt "17\t73778\t96\tCHK"
 msgid "Stick to the Script!"
@@ -5197,15 +5198,15 @@ msgstr ""
 
 msgctxt "18\t79907\t6\tCHK"
 msgid "The Dragon of Kansai"
-msgstr ""
+msgstr "Il Drago del Kansai"
 
 msgctxt "18\t79928\t7\tCHK"
 msgid "Two Detectives"
-msgstr ""
+msgstr "Due detective"
 
 msgctxt "18\t79943\t8\tCHK"
 msgid "Revenge"
-msgstr ""
+msgstr "Vendetta"
 
 msgctxt "18\t79951\t9\tCHK"
 msgid "Okinawa Living"
@@ -5285,7 +5286,7 @@ msgstr ""
 
 msgctxt "18\t80276\t28\tCHK"
 msgid "The Fighting Viper"
-msgstr ""
+msgstr "La vipera combattente"
 
 msgctxt "18\t80295\t29\tCHK"
 msgid "Local Style"
@@ -5361,7 +5362,7 @@ msgstr ""
 
 msgctxt "18\t80576\t47\tCHK"
 msgid "Kiryu's Lie"
-msgstr ""
+msgstr "La bugia di Kiryu"
 
 msgctxt "18\t80588\t48\tCHK"
 msgid "The Furry Intruder"
@@ -5381,11 +5382,11 @@ msgstr ""
 
 msgctxt "18\t80649\t52\tCHK"
 msgid "Promise"
-msgstr ""
+msgstr "Prometti!"
 
 msgctxt "18\t80657\t53\tCHK"
 msgid "A New Family"
-msgstr ""
+msgstr "Una nuova famiglia"
 
 msgctxt "18\t80670\t54\tCHK"
 msgid "To Tokyo"
@@ -5437,7 +5438,7 @@ msgstr ""
 
 msgctxt "18\t80849\t66\tCHK"
 msgid "Assassin"
-msgstr ""
+msgstr "Assassino"
 
 msgctxt "18\t80858\t67\tCHK"
 msgid "The Shadow of Conspiracy"
@@ -5465,7 +5466,7 @@ msgstr ""
 
 msgctxt "18\t80973\t73\tCHK"
 msgid "Reunion with Date"
-msgstr ""
+msgstr "Una riunione con Date"
 
 msgctxt "18\t80991\t74\tCHK"
 msgid "New Serena"
@@ -5509,7 +5510,7 @@ msgstr ""
 
 msgctxt "18\t81161\t84\tCHK"
 msgid "The Coliseum"
-msgstr ""
+msgstr "Il Colosseo"
 
 msgctxt "18\t81174\t85\tCHK"
 msgid "The King of the Ring vs. The One-Eyed Demon"
@@ -5521,11 +5522,11 @@ msgstr ""
 
 msgctxt "18\t81229\t87\tCHK"
 msgid "The Legendary Informant"
-msgstr ""
+msgstr "L'informatore leggendario"
 
 msgctxt "18\t81253\t88\tCHK"
 msgid "The Man with the Key"
-msgstr ""
+msgstr "La donna con la chiave"
 
 msgctxt "18\t81274\t89\tCHK"
 msgid "The Snake Flower Strikes"
@@ -5577,7 +5578,7 @@ msgstr ""
 
 msgctxt "18\t81488\t101\tCHK"
 msgid "The Next Day"
-msgstr ""
+msgstr "Il giorno dopo"
 
 msgctxt "18\t81501\t102\tCHK"
 msgid "To Morning Glory"
@@ -5613,7 +5614,7 @@ msgstr ""
 
 msgctxt "18\t81625\t110\tCHK"
 msgid "After the Storm"
-msgstr ""
+msgstr "Dopo la tempesta"
 
 msgctxt "18\t81641\t111\tCHK"
 msgid "Trouble Brewing"
@@ -5753,7 +5754,7 @@ msgstr ""
 
 msgctxt "18\t82184\t145\tCHK"
 msgid "Credits"
-msgstr ""
+msgstr "Titoli di coda"
 
 msgctxt "19\t108056\t0\tSUS"
 msgid ""
@@ -5801,7 +5802,7 @@ msgstr ""
 
 msgctxt "19\t108195\t11\tCHK"
 msgid "Millennium Tower"
-msgstr ""
+msgstr "di Kamurocho."
 
 msgctxt "19\t108212\t12\tCHK"
 msgid "Theater Alley"
@@ -5809,7 +5810,7 @@ msgstr ""
 
 msgctxt "19\t108226\t13\tCHK"
 msgid "Theater Square"
-msgstr ""
+msgstr "in Theater Square."
 
 msgctxt "19\t108241\t14\tCHK"
 msgid "Theater Avenue"
@@ -5817,11 +5818,11 @@ msgstr ""
 
 msgctxt "19\t108256\t15\tCHK"
 msgid "North Theater Square"
-msgstr ""
+msgstr "Theater Square nord"
 
 msgctxt "19\t108277\t16\tCHK"
 msgid "Northwest Theater Square"
-msgstr ""
+msgstr "Theater Square nord-ovest"
 
 msgctxt "19\t108302\t17\tCHK"
 msgid "Park Boulevard"
@@ -5873,7 +5874,7 @@ msgstr ""
 
 msgctxt "19\t108517\t29\tCHK"
 msgid "Public Park 3"
-msgstr ""
+msgstr "Parco pubblico n. 3"
 
 msgctxt "19\t108531\t30\tCHK"
 msgid "Nakamichi Street"
@@ -5909,7 +5910,7 @@ msgstr ""
 
 msgctxt "19\t108697\t38\tCHK"
 msgid "Kyushu No. 1 Star"
-msgstr ""
+msgstr "Kyushu Stella N°1"
 
 msgctxt "19\t108715\t39\tCHK"
 msgid "Ebisu Pawn Kamurocho"
@@ -5925,7 +5926,7 @@ msgstr ""
 
 msgctxt "19\t108760\t42\tCHK"
 msgid "Kotobuki Drugs"
-msgstr ""
+msgstr "Farmacia Kotobuki"
 
 msgctxt "19\t108775\t43\tCHK"
 msgid "Poppo Showa Street"
@@ -5933,7 +5934,7 @@ msgstr ""
 
 msgctxt "19\t108794\t44\tCHK"
 msgid "Hideout"
-msgstr ""
+msgstr "Rifugio"
 
 msgctxt "19\t108802\t45\tCHK"
 msgid "Debolah"
@@ -5945,7 +5946,7 @@ msgstr ""
 
 msgctxt "19\t108821\t47\tCHK"
 msgid "Club SEGA Theater Square"
-msgstr ""
+msgstr "Club SEGA di Theater Square"
 
 msgctxt "19\t108846\t48\tCHK"
 msgid "Club SEGA Nakamichi Street"
@@ -5961,23 +5962,23 @@ msgstr ""
 
 msgctxt "19\t108901\t51\tCHK"
 msgid "Men's Entertainment Booth"
-msgstr ""
+msgstr "Infopoint per adulti"
 
 msgctxt "19\t108927\t52\tCHK"
 msgid "Lottery Sales Lot"
-msgstr ""
+msgstr "Bancarella della lotteria"
 
 msgctxt "19\t108945\t53\tCHK"
 msgid "Vacant Lot"
-msgstr ""
+msgstr "Lotto vuoto"
 
 msgctxt "19\t108956\t54\tCHK"
 msgid "New Serena Alley"
-msgstr ""
+msgstr "Vicolo del New Serena"
 
 msgctxt "19\t108973\t55\tCHK"
 msgid "Millennium Tower Garden"
-msgstr ""
+msgstr "Giardino della Millennium Tower"
 
 msgctxt "19\t108997\t56\tCHK"
 msgid "Kamurocho Weapons Dealer"
@@ -5985,15 +5986,15 @@ msgstr ""
 
 msgctxt "19\t109022\t57\tCHK"
 msgid "New Serena Elevator Hallway"
-msgstr ""
+msgstr "Corridoio dell'ascensore del New Serena"
 
 msgctxt "19\t109050\t58\tCHK"
 msgid "Gambling Hall Corridor"
-msgstr ""
+msgstr "Corridoio della sala da gioco"
 
 msgctxt "19\t109073\t59\tCHK"
 msgid "Gambling Hall"
-msgstr ""
+msgstr "Sala da gioco"
 
 msgctxt "19\t109087\t60\tCHK"
 msgid "Shine"
@@ -6017,7 +6018,7 @@ msgstr ""
 
 msgctxt "19\t109126\t65\tCHK"
 msgid "Rune Casino"
-msgstr ""
+msgstr "Casinò Rune"
 
 msgctxt "19\t109138\t66\tCHK"
 msgid "Earth Angel"
@@ -6033,7 +6034,7 @@ msgstr ""
 
 msgctxt "19\t109168\t69\tCHK"
 msgid "Love in Heart Massage Parlor"
-msgstr ""
+msgstr "Centro massaggi Love in Heart"
 
 msgctxt "19\t109197\t70\tCHK"
 msgid "Volcanic Volcano"
@@ -6049,7 +6050,7 @@ msgstr ""
 
 msgctxt "19\t109262\t73\tCHK"
 msgid "North Millennium Tower"
-msgstr ""
+msgstr "Millennium Tower nord"
 
 msgctxt "19\t109285\t74\tCHK"
 msgid "M Store Kamurocho"
@@ -6065,11 +6066,11 @@ msgstr ""
 
 msgctxt "19\t109322\t77\tCHK"
 msgid "Orchid Palace Mahjong"
-msgstr ""
+msgstr "Sala mahjong Palazzo dell'Orchidea"
 
 msgctxt "19\t109344\t78\tCHK"
 msgid "Ultrascreen"
-msgstr ""
+msgstr "Ultraschermo"
 
 msgctxt "19\t109356\t79\tCHK"
 msgid "Kamurocho"
@@ -6077,11 +6078,11 @@ msgstr ""
 
 msgctxt "19\t109366\t80\tCHK"
 msgid "Purgatory Entrance"
-msgstr ""
+msgstr "Ingresso del Purgatory"
 
 msgctxt "19\t109385\t81\tCHK"
 msgid "West Park Entrance"
-msgstr ""
+msgstr "Ingresso del West Park"
 
 msgctxt "19\t109404\t82\tCHK"
 msgid "Purgatory (West Park)"
@@ -6113,7 +6114,7 @@ msgstr ""
 
 msgctxt "19\t109511\t89\tCHK"
 msgid "HLA Headquarters"
-msgstr ""
+msgstr "Quartier generale HLA"
 
 msgctxt "19\t109528\t90\tCHK"
 msgid "Hotel District"
@@ -6121,7 +6122,7 @@ msgstr ""
 
 msgctxt "19\t109543\t91\tCHK"
 msgid "HLA Back Entrance"
-msgstr ""
+msgstr "Ingresso posteriore HLA"
 
 msgctxt "19\t109561\t92\tCHK"
 msgid "Kamiyama Works Kamurocho"
@@ -6133,11 +6134,11 @@ msgstr ""
 
 msgctxt "19\t109596\t94\tCHK"
 msgid "Serena Alley"
-msgstr ""
+msgstr "Vicolo del Serena"
 
 msgctxt "19\t109609\t95\tCHK"
 msgid "Children's Park"
-msgstr ""
+msgstr "Verso il Children's Park"
 
 msgctxt "19\t109625\t96\tCHK"
 msgid "Kanrai"
@@ -6153,7 +6154,7 @@ msgstr ""
 
 msgctxt "19\t109663\t99\tCHK"
 msgid "Downtown Ryukyu"
-msgstr ""
+msgstr "Centro di Ryukyu"
 
 msgctxt "19\t109679\t100\tCHK"
 msgid "Hatsumachi"
@@ -6241,7 +6242,7 @@ msgstr ""
 
 msgctxt "19\t110031\t121\tCHK"
 msgid "Tamashiro Family Office"
-msgstr ""
+msgstr "Ufficio della famiglia Tamashiro"
 
 msgctxt "19\t110055\t122\tCHK"
 msgid "Ryukyu Weapons Dealer"
@@ -6349,15 +6350,15 @@ msgstr ""
 
 msgctxt "19\t110481\t148\tCHK"
 msgid "Morning Glory Orphanage"
-msgstr ""
+msgstr "Orfanotrofio Morning Glory"
 
 msgctxt "19\t110505\t149\tCHK"
 msgid "Morning Glory Road"
-msgstr ""
+msgstr "Strada del Morning Glory"
 
 msgctxt "19\t110524\t150\tCHK"
 msgid "Morning Glory Beach"
-msgstr ""
+msgstr "Spiaggia del Morning Glory"
 
 msgctxt "19\t110544\t151\tCHK"
 msgid "Hospital"
@@ -6365,23 +6366,23 @@ msgstr ""
 
 msgctxt "19\t110553\t152\tCHK"
 msgid "Millennium Tower Roof"
-msgstr ""
+msgstr "Tetto della Millennium Tower"
 
 msgctxt "19\t110575\t153\tCHK"
 msgid "Purgatory Underground"
-msgstr ""
+msgstr "Sotterranei del Purgatory"
 
 msgctxt "19\t110597\t154\tCHK"
 msgid "Coliseum"
-msgstr ""
+msgstr "Colosseo"
 
 msgctxt "19\t110606\t155\tCHK"
 msgid "Fukuma Casino"
-msgstr ""
+msgstr "Casinò Fukuma"
 
 msgctxt "19\t110620\t156\tCHK"
 msgid "Tojo Clan Headquarters"
-msgstr ""
+msgstr "Quartier generale del clan Tojo"
 
 msgctxt "19\t110643\t157\tCHK"
 msgid "Cemetery"
@@ -6409,7 +6410,7 @@ msgstr ""
 
 msgctxt "19\t110764\t163\tCHK"
 msgid "Kanda's Suite"
-msgstr ""
+msgstr "Suite Kanda"
 
 msgctxt "19\t110778\t164\tCHK"
 msgid "Kanda's Suite (Ruined)"
@@ -6433,11 +6434,11 @@ msgstr ""
 
 msgctxt "19\t110885\t169\tCHK"
 msgid "Monitor Room"
-msgstr ""
+msgstr "Sala monitor"
 
 msgctxt "19\t110898\t170\tCHK"
 msgid "Emoto Medical Clinic"
-msgstr ""
+msgstr "Clinica medica Emoto"
 
 msgctxt "19\t110919\t171\tCHK"
 msgid "Airport"
@@ -6481,7 +6482,7 @@ msgstr ""
 
 msgctxt "19\t111058\t181\tCHK"
 msgid "Office"
-msgstr ""
+msgstr "Ufficio"
 
 msgctxt "19\t111065\t182\tCHK"
 msgid "Private Jet"
@@ -6497,7 +6498,7 @@ msgstr ""
 
 msgctxt "19\t111101\t185\tCHK"
 msgid "Coliseum Lobby"
-msgstr ""
+msgstr "Atrio del Colosseo"
 
 msgctxt "19\t111116\t186\tCHK"
 msgid "Cliff"
@@ -6513,39 +6514,39 @@ msgstr ""
 
 msgctxt "20\t94825\t1\tCHK"
 msgid "Melee Match 1"
-msgstr ""
+msgstr "Incontro in mischia"
 
 msgctxt "20\t94839\t2\tCHK"
 msgid "Melee Match 2"
-msgstr ""
+msgstr "Incontro in mischia"
 
 msgctxt "20\t94853\t3\tCHK"
 msgid "Melee Match 3"
-msgstr ""
+msgstr "Incontro in mischia"
 
 msgctxt "20\t94867\t4\tCHK"
 msgid "Melee Match 4"
-msgstr ""
+msgstr "Incontro in mischia"
 
 msgctxt "20\t94881\t5\tCHK"
 msgid "Melee Match 5"
-msgstr ""
+msgstr "Incontro in mischia"
 
 msgctxt "20\t94895\t6\tCHK"
 msgid "Melee Match 6"
-msgstr ""
+msgstr "Incontro in mischia"
 
 msgctxt "20\t94909\t7\tCHK"
 msgid "Melee Match 7"
-msgstr ""
+msgstr "Incontro in mischia"
 
 msgctxt "20\t94923\t8\tCHK"
 msgid "Melee Match 8"
-msgstr ""
+msgstr "Incontro in mischia"
 
 msgctxt "20\t94937\t9\tCHK"
 msgid "Melee Match 9"
-msgstr ""
+msgstr "Incontro in mischia"
 
 msgctxt "20\t94951\t10\tCHK"
 msgid "Melee Match 10"
@@ -6553,63 +6554,63 @@ msgstr ""
 
 msgctxt "20\t94966\t11\tCHK"
 msgid "One-on-One Match 1"
-msgstr ""
+msgstr "Scontro uno contro uno"
 
 msgctxt "20\t94985\t12\tCHK"
 msgid "One-on-One Match 2"
-msgstr ""
+msgstr "Scontro uno contro uno"
 
 msgctxt "20\t95004\t13\tCHK"
 msgid "One-on-One Match 3"
-msgstr ""
+msgstr "Scontro uno contro uno"
 
 msgctxt "20\t95023\t14\tCHK"
 msgid "One-on-One Match 4"
-msgstr ""
+msgstr "Scontro uno contro uno"
 
 msgctxt "20\t95042\t15\tCHK"
 msgid "One-on-One Match 5"
-msgstr ""
+msgstr "Scontro uno contro uno"
 
 msgctxt "20\t95061\t16\tCHK"
 msgid "Practice Match 1"
-msgstr ""
+msgstr "Incontro di allenamento"
 
 msgctxt "20\t95078\t17\tCHK"
 msgid "Practice Match 2"
-msgstr ""
+msgstr "Incontro di allenamento"
 
 msgctxt "20\t95095\t18\tCHK"
 msgid "Practice Match 3"
-msgstr ""
+msgstr "Incontro di allenamento"
 
 msgctxt "20\t95112\t19\tCHK"
 msgid "Practice Match 4"
-msgstr ""
+msgstr "Incontro di allenamento"
 
 msgctxt "20\t95129\t20\tCHK"
 msgid "Practice Match 5"
-msgstr ""
+msgstr "Incontro di allenamento"
 
 msgctxt "20\t95146\t21\tCHK"
 msgid "Practice Match 6"
-msgstr ""
+msgstr "Incontro di allenamento"
 
 msgctxt "20\t95163\t22\tCHK"
 msgid "Practice Match 7"
-msgstr ""
+msgstr "Incontro di allenamento"
 
 msgctxt "20\t95180\t23\tCHK"
 msgid "Practice Match 8"
-msgstr ""
+msgstr "Incontro di allenamento"
 
 msgctxt "20\t95197\t24\tCHK"
 msgid "Practice Match 9"
-msgstr ""
+msgstr "Incontro di allenamento"
 
 msgctxt "20\t95214\t25\tCHK"
 msgid "Practice Match 10"
-msgstr ""
+msgstr "Incontro di allenamento"
 
 msgctxt "20\t95232\t26\tCHK"
 msgid "Team Match 1"
@@ -6633,23 +6634,23 @@ msgstr ""
 
 msgctxt "20\t95297\t31\tCHK"
 msgid "Ultimate Match 1"
-msgstr ""
+msgstr "Scontro finale 1"
 
 msgctxt "20\t95314\t32\tCHK"
 msgid "Ultimate Match 2"
-msgstr ""
+msgstr "Scontro finale 2"
 
 msgctxt "20\t95331\t33\tCHK"
 msgid "Ultimate Match 3"
-msgstr ""
+msgstr "Scontro finale 3"
 
 msgctxt "20\t95348\t34\tCHK"
 msgid "Ultimate Match 4"
-msgstr ""
+msgstr "Scontro finale 4"
 
 msgctxt "20\t95365\t35\tCHK"
 msgid "Ultimate Match 5"
-msgstr ""
+msgstr "Scontro finale 5"
 
 msgctxt "20\t95382\t36\tCHK"
 msgid "Legendary"
@@ -6763,8 +6764,8 @@ msgstr ""
 
 msgctxt "20\t96820\t56\tCHK"
 msgid ""
-"Match 2: Silver Screen Dragon. Grading Criteria: "
-"<Color:255,255,0,255>Number of Hits<Color:Default>"
+"Match 2: Silver Screen Dragon. Grading Criteria: <Color:255,255,0,255>Number"
+" of Hits<Color:Default>"
 msgstr ""
 
 msgctxt "20\t96920\t57\tCHK"
@@ -6854,15 +6855,13 @@ msgstr ""
 msgctxt "20\t98261\t71\tCHK"
 msgid ""
 "Defeat all enemies within the time limit! You have been granted\n"
-"the Bottomless Deluxe Lighter! <Color:230,12,255,255>[Equipment "
-"Allowed]<Color:Default>"
+"the Bottomless Deluxe Lighter! <Color:230,12,255,255>[Equipment Allowed]<Color:Default>"
 msgstr ""
 
 msgctxt "20\t98413\t72\tCHK"
 msgid ""
 "Confront the Tamashiro Family, and defeat Tetsuo Tamashiro!\n"
-"You cannot use recovery items! <Color:230,12,255,255>[Equipment "
-"Allowed]<Color:Default>"
+"You cannot use recovery items! <Color:230,12,255,255>[Equipment Allowed]<Color:Default>"
 msgstr ""
 
 msgctxt "20\t98561\t73\tCHK"
@@ -6889,7 +6888,7 @@ msgstr ""
 
 msgctxt "20\t98808\t77\tCHK"
 msgid "Defeat all enemies!"
-msgstr ""
+msgstr "Sconfiggi tutti i nemici."
 
 msgctxt "20\t98828\t78\tCHK"
 msgid "Defeat Rikiya Shimabukuro!"
@@ -6950,8 +6949,7 @@ msgstr ""
 msgctxt "20\t99566\t89\tCHK"
 msgid ""
 "Defeat all enemies within the time limit!\n"
-"Don't break any equipment! <Color:230,12,255,255>[Equipment "
-"Allowed]<Color:Default>"
+"Don't break any equipment! <Color:230,12,255,255>[Equipment Allowed]<Color:Default>"
 msgstr ""
 
 msgctxt "20\t99692\t90\tCHK"
@@ -6962,7 +6960,7 @@ msgstr ""
 
 msgctxt "20\t99797\t91\tCHK"
 msgid "Catch Ultimate Mack!"
-msgstr ""
+msgstr "Cattura Mack Supremo."
 
 msgctxt "20\t99818\t92\tCHK"
 msgid ""
@@ -7009,8 +7007,7 @@ msgstr ""
 msgctxt "20\t100453\t99\tCHK"
 msgid ""
 "Defeat all strong enemies!\n"
-"You cannot use recovery items! <Color:230,12,255,255>[Equipment "
-"Allowed]<Color:Default>"
+"You cannot use recovery items! <Color:230,12,255,255>[Equipment Allowed]<Color:Default>"
 msgstr ""
 
 msgctxt "20\t100568\t100\tCHK"
@@ -7051,7 +7048,7 @@ msgstr ""
 
 msgctxt "21\t121888\t8\tCHK"
 msgid "Golf Course"
-msgstr ""
+msgstr "Campo da golf"
 
 msgctxt "21\t121900\t9\tCHK"
 msgid "Touto Hospital"
@@ -7087,7 +7084,7 @@ msgstr ""
 
 msgctxt "21\t122061\t17\tCHK"
 msgid "New Serena Alley"
-msgstr ""
+msgstr "Vicolo del New Serena"
 
 msgctxt "21\t122078\t18\tCHK"
 msgid "Pink Street Entrance"
@@ -7111,11 +7108,11 @@ msgstr ""
 
 msgctxt "21\t122155\t23\tCHK"
 msgid "Millennium Tower Garden"
-msgstr ""
+msgstr "Giardino della Millennium Tower"
 
 msgctxt "21\t122179\t24\tCHK"
 msgid "North Millennium Tower"
-msgstr ""
+msgstr "Millennium Tower nord"
 
 msgctxt "21\t122202\t25\tCHK"
 msgid "Champion District"
@@ -7127,7 +7124,7 @@ msgstr ""
 
 msgctxt "21\t122234\t27\tCHK"
 msgid "Theater Square"
-msgstr ""
+msgstr "in Theater Square."
 
 msgctxt "21\t122249\t28\tCHK"
 msgid "Theater Avenue"
@@ -7139,7 +7136,7 @@ msgstr ""
 
 msgctxt "21\t122279\t30\tCHK"
 msgid "Northwest Theater Square"
-msgstr ""
+msgstr "Theater Square nord-ovest"
 
 msgctxt "21\t122304\t31\tCHK"
 msgid "Park Alley"
@@ -7147,7 +7144,7 @@ msgstr ""
 
 msgctxt "21\t122315\t32\tCHK"
 msgid "Children's Park"
-msgstr ""
+msgstr "Verso il Children's Park"
 
 msgctxt "21\t122331\t33\tCHK"
 msgid "Shichifuku Park"
@@ -7207,7 +7204,7 @@ msgstr ""
 
 msgctxt "21\t122594\t47\tCHK"
 msgid "Millennium Tower"
-msgstr ""
+msgstr "di Kamurocho."
 
 msgctxt "21\t122611\t48\tCHK"
 msgid "West Taihei Boulevard"
@@ -7279,7 +7276,7 @@ msgstr ""
 
 msgctxt "21\t122877\t65\tCHK"
 msgid "Men's Entertainment Booth"
-msgstr ""
+msgstr "Infopoint per adulti"
 
 msgctxt "21\t122903\t66\tCHK"
 msgid "Quickly Tea and Boba"
@@ -7287,7 +7284,7 @@ msgstr ""
 
 msgctxt "21\t122924\t67\tCHK"
 msgid "Public Park 3"
-msgstr ""
+msgstr "Parco pubblico n. 3"
 
 msgctxt "21\t122938\t68\tCHK"
 msgid "Uonawa Fish Stand"
@@ -7319,11 +7316,11 @@ msgstr ""
 
 msgctxt "21\t123011\t75\tCHK"
 msgid "Emoto Medical Clinic"
-msgstr ""
+msgstr "Clinica medica Emoto"
 
 msgctxt "21\t123032\t76\tCHK"
 msgid "Coliseum Lobby"
-msgstr ""
+msgstr "Atrio del Colosseo"
 
 msgctxt "21\t123047\t77\tCHK"
 msgid "Matsuya Taihei Boulevard"
@@ -7335,7 +7332,7 @@ msgstr ""
 
 msgctxt "21\t123095\t79\tCHK"
 msgid "Kyushu No. 1 Star"
-msgstr ""
+msgstr "Kyushu Stella N°1"
 
 msgctxt "21\t123113\t80\tCHK"
 msgid "Ebisu Pawn Kamurocho"
@@ -7347,7 +7344,7 @@ msgstr ""
 
 msgctxt "21\t123151\t82\tCHK"
 msgid "Kotobuki Drugs"
-msgstr ""
+msgstr "Farmacia Kotobuki"
 
 msgctxt "21\t123166\t83\tCHK"
 msgid "Poppo Showa Street"
@@ -7355,7 +7352,7 @@ msgstr ""
 
 msgctxt "21\t123185\t84\tCHK"
 msgid "Hideout"
-msgstr ""
+msgstr "Rifugio"
 
 msgctxt "21\t123193\t85\tCHK"
 msgid "Debolah"
@@ -7363,7 +7360,7 @@ msgstr ""
 
 msgctxt "21\t123201\t86\tCHK"
 msgid "Club SEGA Theater Square"
-msgstr ""
+msgstr "Club SEGA di Theater Square"
 
 msgctxt "21\t123226\t87\tCHK"
 msgid "Club SEGA Nakamichi Street"
@@ -7379,11 +7376,11 @@ msgstr ""
 
 msgctxt "21\t123281\t90\tCHK"
 msgid "Lottery Sales Lot"
-msgstr ""
+msgstr "Bancarella della lotteria"
 
 msgctxt "21\t123299\t91\tCHK"
 msgid "Vacant Lot"
-msgstr ""
+msgstr "Lotto vuoto"
 
 msgctxt "21\t123310\t92\tCHK"
 msgid "Kamurocho Weapons Dealer"
@@ -7391,15 +7388,15 @@ msgstr ""
 
 msgctxt "21\t123335\t93\tCHK"
 msgid "New Serena Elevator Hallway"
-msgstr ""
+msgstr "Corridoio dell'ascensore del New Serena"
 
 msgctxt "21\t123363\t94\tCHK"
 msgid "Gambling Hall Corridor"
-msgstr ""
+msgstr "Corridoio della sala da gioco"
 
 msgctxt "21\t123386\t95\tCHK"
 msgid "Gambling Hall"
-msgstr ""
+msgstr "Sala da gioco"
 
 msgctxt "21\t123400\t96\tCHK"
 msgid "Club Shine"
@@ -7419,7 +7416,7 @@ msgstr ""
 
 msgctxt "21\t123456\t100\tCHK"
 msgid "Rune Casino"
-msgstr ""
+msgstr "Casinò Rune"
 
 msgctxt "21\t123468\t101\tCHK"
 msgid "Earth Angel"
@@ -7431,7 +7428,7 @@ msgstr ""
 
 msgctxt "21\t123490\t103\tCHK"
 msgid "Love in Heart Massage Parlor"
-msgstr ""
+msgstr "Centro massaggi Love in Heart"
 
 msgctxt "21\t123519\t104\tCHK"
 msgid "Volcanic Volcano"
@@ -7459,11 +7456,11 @@ msgstr ""
 
 msgctxt "21\t123621\t110\tCHK"
 msgid "Orchid Palace Mahjong"
-msgstr ""
+msgstr "Sala mahjong Palazzo dell'Orchidea"
 
 msgctxt "21\t123643\t111\tCHK"
 msgid "Ultrascreen"
-msgstr ""
+msgstr "Ultraschermo"
 
 msgctxt "21\t123655\t112\tCHK"
 msgid "Kamurocho"
@@ -7471,11 +7468,11 @@ msgstr ""
 
 msgctxt "21\t123665\t113\tCHK"
 msgid "Purgatory Entrance"
-msgstr ""
+msgstr "Ingresso del Purgatory"
 
 msgctxt "21\t123684\t114\tCHK"
 msgid "West Park Entrance"
-msgstr ""
+msgstr "Ingresso del West Park"
 
 msgctxt "21\t123703\t115\tCHK"
 msgid "Purgatory (West Park)"
@@ -7495,11 +7492,11 @@ msgstr ""
 
 msgctxt "21\t123761\t119\tCHK"
 msgid "HLA Headquarters"
-msgstr ""
+msgstr "Quartier generale HLA"
 
 msgctxt "21\t123778\t120\tCHK"
 msgid "HLA Back Entrance"
-msgstr ""
+msgstr "Ingresso posteriore HLA"
 
 msgctxt "21\t123796\t121\tCHK"
 msgid "Kamiyama Works Kamurocho"
@@ -7531,7 +7528,7 @@ msgstr ""
 
 msgctxt "21\t123893\t128\tCHK"
 msgid "Tamashiro Family Office"
-msgstr ""
+msgstr "Ufficio della famiglia Tamashiro"
 
 msgctxt "21\t123917\t129\tCHK"
 msgid "Ryukyu Weapons Dealer"
@@ -7619,7 +7616,7 @@ msgstr ""
 
 msgctxt "21\t124272\t150\tCHK"
 msgid "Morning Glory Orphanage"
-msgstr ""
+msgstr "Orfanotrofio Morning Glory"
 
 msgctxt "21\t124296\t151\tCHK"
 msgid "Hospital"
@@ -7627,15 +7624,15 @@ msgstr ""
 
 msgctxt "21\t124305\t152\tCHK"
 msgid "Coliseum"
-msgstr ""
+msgstr "Colosseo"
 
 msgctxt "21\t124314\t153\tCHK"
 msgid "Fukuma Casino"
-msgstr ""
+msgstr "Casinò Fukuma"
 
 msgctxt "21\t124328\t154\tCHK"
 msgid "Tojo Clan Headquarters"
-msgstr ""
+msgstr "Quartier generale del clan Tojo"
 
 msgctxt "21\t124351\t155\tCHK"
 msgid "Kazama Family Office"
@@ -7659,11 +7656,11 @@ msgstr ""
 
 msgctxt "22\t133717\t1\tCHK"
 msgid "Bare-Handed Attacks"
-msgstr ""
+msgstr "Attacchi a mani nude"
 
 msgctxt "22\t133737\t2\tCHK"
 msgid "Finishing Blows"
-msgstr ""
+msgstr "Colpi di grazia"
 
 msgctxt "22\t133753\t3\tCHK"
 msgid "Counterattacking when Surrounded"
@@ -7683,15 +7680,15 @@ msgstr ""
 
 msgctxt "22\t133831\t7\tCHK"
 msgid "Heat Actions"
-msgstr ""
+msgstr "Azioni furore"
 
 msgctxt "22\t133844\t8\tCHK"
 msgid "Tutorial Complete"
-msgstr ""
+msgstr "Tutorial completato"
 
 msgctxt "22\t133862\t9\tCHK"
 msgid "Bare-Handed Defense"
-msgstr ""
+msgstr "Difesa a mani nude"
 
 msgctxt "22\t133882\t10\tCHK"
 msgid "Grabbing and Guarding"
@@ -7703,15 +7700,15 @@ msgstr ""
 
 msgctxt "22\t133935\t12\tCHK"
 msgid "Quickstep"
-msgstr ""
+msgstr "Passo rapido"
 
 msgctxt "22\t133945\t13\tCHK"
 msgid "Recovery Stance"
-msgstr ""
+msgstr "Posizione di recupero"
 
 msgctxt "22\t133961\t14\tCHK"
 msgid "Taunt"
-msgstr ""
+msgstr "Provocazione"
 
 msgctxt "22\t133967\t15\tCHK"
 msgid "Bounding Blow"
@@ -7751,11 +7748,11 @@ msgstr ""
 
 msgctxt "22\t134135\t24\tCHK"
 msgid "Practice Match 3"
-msgstr ""
+msgstr "Incontro di allenamento"
 
 msgctxt "22\t134152\t25\tCHK"
 msgid "Practice Match 4"
-msgstr ""
+msgstr "Incontro di allenamento"
 
 msgctxt "22\t134169\t26\tCHK"
 msgid "Combo Review"
@@ -7763,15 +7760,17 @@ msgstr ""
 
 msgctxt "22\t134182\t27\tCHK"
 msgid "%2d more time(s)"
-msgstr ""
+msgstr "Ancora %2d volte"
 
 msgctxt "22\t134199\t28\tCHK"
 msgid "%2d more second(s)"
-msgstr ""
+msgstr "Ancora %2d secondi"
 
 msgctxt "22\t134218\t29\tCHK"
 msgid "Use <Action:Battle_Normal_Attack@Combat> to execute a combo attack"
 msgstr ""
+"Usa <Action:Battle_Normal_Attack@Combat> per eseguire un attacco combo a "
+"mani nude"
 
 msgctxt "22\t134285\t30\tCHK"
 msgid ""
@@ -7785,6 +7784,9 @@ msgid ""
 "<Action:Battle_Drop_Weapon@Combat>, <Action:Battle_Heavy_Attack@Combat>, or "
 "<Action:Battle_Normal_Attack@Combat>"
 msgstr ""
+"Afferra un nemico con <Action:Battle_Drop_Weapon@Combat>, poi attacca con "
+"<Action:Battle_Drop_Weapon@Combat>, <Action:Battle_Heavy_Attack@Combat>, o "
+"<Action:Battle_Normal_Attack@Combat>"
 
 msgctxt "22\t134591\t32\tCHK"
 msgid ""
@@ -7792,29 +7794,39 @@ msgid ""
 "<Action:Battle_Drop_Weapon@Combat>, <Action:Battle_Heavy_Attack@Combat>, or "
 "<Action:Battle_Normal_Attack@Combat>"
 msgstr ""
+"Raccogli un'arma con <Action:Battle_Drop_Weapon@Combat>, poi attacca con "
+"<Action:Battle_Drop_Weapon@Combat>, <Action:Battle_Heavy_Attack@Combat>, o "
+"<Action:Battle_Normal_Attack@Combat>"
 
 msgctxt "22\t134777\t33\tCHK"
 msgid ""
 "Attack to increase <Color:109,193,240,255>Heat Gauge<Color:Default> at top "
 "left of screen"
 msgstr ""
+"Attacca per aumentare l'<Color:109,193,240,255>indicatore "
+"Furore<Color:Default> in alto a sinistra dello schermo"
 
 msgctxt "22\t134867\t34\tCHK"
 msgid ""
 "Grab enemy or hold weapon + <Action:Battle_Heavy_Attack@Combat> to execute "
 "<Color:7>Heat Action<Color:Default>"
 msgstr ""
+"Afferra un nemico o impugna un'arma + <Action:Battle_Heavy_Attack@Combat> "
+"per eseguire un'<Color:7>Azione Furore<Color:Default>"
 
 msgctxt "22\t134978\t35\tCHK"
 msgid "Guard against attacks from the front with <Action:Battle_Guard@Combat>"
-msgstr ""
+msgstr "Para gli attacchi frontali con <Action:Battle_Guard@Combat>"
 
 msgctxt "22\t135049\t36\tCHK"
 msgid ""
 "<Action:Battle_Fight_Stance@Combat> + "
-"<Action:Move_Forward@Combat><Action:Move_Back@Combat><Action:Move_"
-"Left@Combat><Action:Move_Right@Combat> to move in Fighting Stance"
+"<Action:Move_Forward@Combat><Action:Move_Back@Combat><Action:Move_Left@Combat><Action:Move_Right@Combat>"
+" to move in Fighting Stance"
 msgstr ""
+"Usa <Action:Battle_Fight_Stance@Combat> mentre ti muovi con "
+"<Action:Move_Forward@Combat><Action:Move_Back@Combat><Action:Move_Left@Combat><Action:Move_Right@Combat>"
+" per spostarti lateralmente in posizione di combattimento"
 
 msgctxt "22\t135219\t37\tCHK"
 msgid "<Action:Battle_Dodge@Combat> to Quickstep and evade"
@@ -7834,8 +7846,8 @@ msgstr ""
 
 msgctxt "22\t135429\t41\tCHK"
 msgid ""
-"Use <Action:Battle_Heavy_Attack@Combat> to execute a Heat Action and win "
-"the fight!"
+"Use <Action:Battle_Heavy_Attack@Combat> to execute a Heat Action and win the"
+" fight!"
 msgstr ""
 
 msgctxt "22\t135513\t42\tCHK"
@@ -7846,8 +7858,8 @@ msgstr ""
 
 msgctxt "22\t135603\t43\tCHK"
 msgid ""
-"Grab an enemy and use <Action:Battle_Heavy_Attack@Combat> in front of a "
-"step to do a Bowl Crusher!"
+"Grab an enemy and use <Action:Battle_Heavy_Attack@Combat> in front of a step"
+" to do a Bowl Crusher!"
 msgstr ""
 
 msgctxt "22\t135702\t44\tCHK"
@@ -7916,7 +7928,7 @@ msgstr ""
 
 msgctxt "22\t136272\t59\tCHK"
 msgid "Eliminate all enemies"
-msgstr ""
+msgstr "Elimina tutti i nemici."
 
 msgctxt "23\t150680\t0\tSUS"
 msgid ""
@@ -7934,15 +7946,15 @@ msgstr ""
 
 msgctxt "23\t150799\t3\tCHK"
 msgid "In a way."
-msgstr ""
+msgstr "In un certo senso."
 
 msgctxt "23\t150809\t4\tCHK"
 msgid "What?"
-msgstr ""
+msgstr "Cosa?"
 
 msgctxt "23\t150815\t5\tCHK"
 msgid "That's right."
-msgstr ""
+msgstr "Esatto."
 
 msgctxt "23\t150829\t6\tCHK"
 msgid ""
@@ -7986,7 +7998,7 @@ msgstr ""
 
 msgctxt "23\t151249\t14\tCHK"
 msgid "Interesting."
-msgstr ""
+msgstr "Interessante."
 
 msgctxt "23\t151262\t15\tCHK"
 msgid "Meaning what?"
@@ -8000,11 +8012,11 @@ msgstr ""
 
 msgctxt "23\t151330\t17\tCHK"
 msgid "I see."
-msgstr ""
+msgstr "Capisco."
 
 msgctxt "23\t151337\t18\tCHK"
 msgid "Yes."
-msgstr ""
+msgstr "Sì."
 
 msgctxt "23\t151342\t19\tCHK"
 msgid "Not to mention Tamiya's military base."
@@ -8024,11 +8036,11 @@ msgstr ""
 
 msgctxt "23\t151486\t23\tCHK"
 msgid "So that's what's going on."
-msgstr ""
+msgstr "Ah, allora è così che stanno le cose."
 
 msgctxt "23\t151513\t24\tCHK"
 msgid "I suppose."
-msgstr ""
+msgstr "Immagino."
 
 msgctxt "23\t151524\t25\tCHK"
 msgid ""
@@ -8078,7 +8090,7 @@ msgstr ""
 
 msgctxt "23\t151954\t35\tCHK"
 msgid "What are you doing down here?"
-msgstr ""
+msgstr "Che ci fai qui?"
 
 msgctxt "23\t151984\t36\tCHK"
 msgid ""
@@ -8342,7 +8354,7 @@ msgstr ""
 
 msgctxt "24\t159001\t1\tCHK"
 msgid "Emoto Medical Clinic"
-msgstr ""
+msgstr "Clinica medica Emoto"
 
 msgctxt "25\t159352\t0\tSUS"
 msgid ""
@@ -8350,7 +8362,7 @@ msgstr ""
 
 msgctxt "25\t159353\t1\tCHK"
 msgid "What would you like to know?"
-msgstr ""
+msgstr "Cosa vuoi fare adesso?"
 
 msgctxt "26\t159736\t0\tSUS"
 msgid ""
@@ -8568,7 +8580,7 @@ msgstr ""
 
 msgctxt "27\t168758\t40\tCHK"
 msgid "What are you getting at?"
-msgstr ""
+msgstr "Dove vuoi arrivare?"
 
 msgctxt "27\t168783\t41\tCHK"
 msgid "Indeed I am."
@@ -8600,7 +8612,7 @@ msgstr ""
 
 msgctxt "27\t169123\t46\tCHK"
 msgid "Yes."
-msgstr ""
+msgstr "Sì."
 
 msgctxt "27\t169128\t47\tCHK"
 msgid ""
@@ -8634,11 +8646,11 @@ msgstr ""
 
 msgctxt "28\t176190\t3\tCHK"
 msgid "I should've known."
-msgstr ""
+msgstr "Avrei dovuto immaginarlo."
 
 msgctxt "28\t176209\t4\tCHK"
 msgid "Do you know him?"
-msgstr ""
+msgstr "Oh, lo conosci?"
 
 msgctxt "28\t176226\t5\tCHK"
 msgid "Mhm."
@@ -8662,7 +8674,7 @@ msgstr ""
 
 msgctxt "28\t176296\t10\tCHK"
 msgid "It's not?"
-msgstr ""
+msgstr "Non lo è?"
 
 msgctxt "28\t176306\t11\tCHK"
 msgid "His brother Joji was his only surviving relative."
@@ -8682,7 +8694,7 @@ msgstr ""
 
 msgctxt "28\t176532\t14\tCHK"
 msgid "And why's that?"
-msgstr ""
+msgstr "E per quale motivo?"
 
 msgctxt "28\t176548\t15\tCHK"
 msgid "They were walking two conflicting paths in life."
@@ -8738,7 +8750,7 @@ msgstr ""
 
 msgctxt "28\t177114\t26\tCHK"
 msgid "Then what are you talking about?"
-msgstr ""
+msgstr "Di cosa stai parlando?"
 
 msgctxt "28\t177147\t27\tCHK"
 msgid "He's working for the American CIA. "
@@ -8781,7 +8793,8 @@ msgid ""
 msgstr ""
 
 msgctxt "28\t177618\t34\tCHK"
-msgid "No. You see, after Shintaro lost both his parents at a very young age..."
+msgid ""
+"No. You see, after Shintaro lost both his parents at a very young age..."
 msgstr ""
 
 msgctxt "28\t177691\t35\tCHK"
@@ -8864,7 +8877,7 @@ msgstr ""
 
 msgctxt "29\t181662\t6\tCHK"
 msgid "Why?"
-msgstr ""
+msgstr "Perché?"
 
 msgctxt "29\t181667\t7\tCHK"
 msgid ""
@@ -8882,7 +8895,7 @@ msgstr ""
 
 msgctxt "29\t181769\t10\tCHK"
 msgid "What!?"
-msgstr ""
+msgstr "Cosa!?"
 
 msgctxt "29\t181776\t11\tCHK"
 msgid "Mine?"
@@ -8960,7 +8973,7 @@ msgstr ""
 
 msgctxt "30\t187110\t3\tCHK"
 msgid "That's right."
-msgstr ""
+msgstr "Esatto."
 
 msgctxt "30\t187124\t4\tCHK"
 msgid "Why would he do that?"
@@ -9018,7 +9031,7 @@ msgstr ""
 
 msgctxt "30\t187671\t15\tCHK"
 msgid "What do you mean?"
-msgstr ""
+msgstr "Cosa intendi?"
 
 msgctxt "30\t187689\t16\tCHK"
 msgid ""
@@ -9124,7 +9137,7 @@ msgstr ""
 
 msgctxt "31\t196505\t1\tCHK"
 msgid "Precisely."
-msgstr ""
+msgstr "Esattamente."
 
 msgctxt "31\t196516\t2\tCHK"
 msgid "Not sure that makes much sense."
@@ -9138,7 +9151,7 @@ msgstr ""
 
 msgctxt "31\t196612\t4\tCHK"
 msgid "What!?"
-msgstr ""
+msgstr "Cosa!?"
 
 msgctxt "31\t196619\t5\tCHK"
 msgid "To keep the military expansion bill alive."
@@ -9156,7 +9169,7 @@ msgstr ""
 
 msgctxt "31\t196742\t8\tCHK"
 msgid "However..."
-msgstr ""
+msgstr "Però..."
 
 msgctxt "31\t196753\t9\tCHK"
 msgid "Daigo didn't take the bait."
@@ -9200,7 +9213,7 @@ msgstr ""
 
 msgctxt "31\t197161\t17\tCHK"
 msgid "Well all right then."
-msgstr ""
+msgstr "Bene, allora."
 
 msgctxt "31\t197182\t18\tCHK"
 msgid "I can't say I understand the man."
@@ -9344,7 +9357,7 @@ msgstr ""
 
 msgctxt "32\t201193\t1\tCHK"
 msgid "Uncle Kaz!"
-msgstr ""
+msgstr "Zio Kaz!"
 
 msgctxt "32\t201204\t2\tCHK"
 msgid "Caught us some dinner."
@@ -9358,7 +9371,7 @@ msgstr ""
 
 msgctxt "32\t201270\t4\tCHK"
 msgid "Okay!"
-msgstr ""
+msgstr "Va bene!"
 
 msgctxt "33\t202008\t0\tSUS"
 msgid ""
@@ -9386,7 +9399,7 @@ msgstr ""
 
 msgctxt "33\t202128\t6\tCHK"
 msgid "Aniki."
-msgstr ""
+msgstr "Capo"
 
 msgctxt "33\t202135\t7\tCHK"
 msgid "It's the boss."
@@ -9394,7 +9407,7 @@ msgstr ""
 
 msgctxt "33\t202150\t8\tCHK"
 msgid "He..."
-msgstr ""
+msgstr "Ehi..."
 
 msgctxt "33\t202156\t9\tCHK"
 msgid "He's been shot."
@@ -9412,11 +9425,11 @@ msgstr ""
 
 msgctxt "34\t204905\t1\tCHK"
 msgid "Yes, of course."
-msgstr ""
+msgstr "Sì, certo!"
 
 msgctxt "34\t204921\t2\tCHK"
 msgid "Just a moment."
-msgstr ""
+msgstr "Un momento."
 
 msgctxt "34\t204936\t3\tCHK"
 msgid "It's for you, Chairman."
@@ -9424,7 +9437,7 @@ msgstr ""
 
 msgctxt "34\t204960\t4\tCHK"
 msgid "Who is it?"
-msgstr ""
+msgstr "Chi è?"
 
 msgctxt "34\t204971\t5\tCHK"
 msgid ""
@@ -9438,7 +9451,7 @@ msgstr ""
 
 msgctxt "34\t205041\t7\tCHK"
 msgid "Yes."
-msgstr ""
+msgstr "Sì."
 
 msgctxt "34\t205046\t8\tCHK"
 msgid ""
@@ -9448,7 +9461,7 @@ msgstr ""
 
 msgctxt "34\t205088\t9\tCHK"
 msgid "Yes, that's right."
-msgstr ""
+msgstr "Sì. Esatto."
 
 msgctxt "34\t205107\t10\tCHK"
 msgid "The Tojo Clan wants no part in this."
@@ -9466,11 +9479,11 @@ msgstr ""
 
 msgctxt "34\t205216\t13\tCHK"
 msgid "Goodbye."
-msgstr ""
+msgstr "Addio."
 
 msgctxt "34\t205225\t14\tCHK"
 msgid "Chairman."
-msgstr ""
+msgstr "Presidente..."
 
 msgctxt "34\t205235\t15\tCHK"
 msgid ""
@@ -9492,7 +9505,7 @@ msgstr ""
 
 msgctxt "34\t205354\t19\tCHK"
 msgid "Enough!"
-msgstr ""
+msgstr "Basta!"
 
 msgctxt "34\t205362\t20\tCHK"
 msgid "I'm well aware of the potential gains."
@@ -9516,7 +9529,7 @@ msgstr ""
 
 msgctxt "34\t205571\t25\tCHK"
 msgid "Driver."
-msgstr ""
+msgstr "Autista"
 
 msgctxt "34\t205579\t26\tCHK"
 msgid "Take us back to HQ."
@@ -9566,15 +9579,15 @@ msgstr ""
 
 msgctxt "35\t207673\t1\tCHK"
 msgid "Welcome back, sir!"
-msgstr ""
+msgstr "Bentornato, signore!"
 
 msgctxt "35\t207692\t2\tCHK"
 msgid "Chairman."
-msgstr ""
+msgstr "Presidente..."
 
 msgctxt "35\t207702\t3\tCHK"
 msgid "What is it?"
-msgstr ""
+msgstr "E cioè?"
 
 msgctxt "35\t207714\t4\tCHK"
 msgid "Someone's come seeking audience with you."
@@ -9582,15 +9595,15 @@ msgstr ""
 
 msgctxt "35\t207756\t5\tCHK"
 msgid "Who?"
-msgstr ""
+msgstr "Chi è stato?"
 
 msgctxt "35\t207761\t6\tCHK"
 msgid "Well..."
-msgstr ""
+msgstr "Beh..."
 
 msgctxt "35\t207769\t7\tCHK"
 msgid "What!?"
-msgstr ""
+msgstr "Cosa!?"
 
 msgctxt "35\t207776\t8\tCHK"
 msgid "There's no doubt."
@@ -9612,7 +9625,7 @@ msgstr ""
 
 msgctxt "35\t207877\t12\tCHK"
 msgid "All right."
-msgstr ""
+msgstr "Va bene."
 
 msgctxt "36\t209752\t0\tSUS"
 msgid ""
@@ -9632,7 +9645,7 @@ msgstr ""
 
 msgctxt "36\t209815\t4\tCHK"
 msgid "What's this?"
-msgstr ""
+msgstr "Questo cos'è?"
 
 msgctxt "36\t209828\t5\tCHK"
 msgid "Something very important to you."
@@ -9640,7 +9653,7 @@ msgstr ""
 
 msgctxt "36\t209861\t6\tCHK"
 msgid "This is..."
-msgstr ""
+msgstr "Questo è..."
 
 msgctxt "36\t209872\t7\tCHK"
 msgid "A deed to that land in Okinawa."
@@ -9682,7 +9695,7 @@ msgstr ""
 
 msgctxt "36\t210163\t16\tCHK"
 msgid "And..."
-msgstr ""
+msgstr "E poi..."
 
 msgctxt "36\t210170\t17\tCHK"
 msgid "What happens if I do?"
@@ -9716,7 +9729,7 @@ msgstr ""
 
 msgctxt "37\t212457\t1\tCHK"
 msgid "Sir!"
-msgstr ""
+msgstr "Signore!"
 
 msgctxt "37\t212462\t2\tCHK"
 msgid "Where's Nakahara?"
@@ -9728,7 +9741,7 @@ msgstr ""
 
 msgctxt "37\t212504\t4\tCHK"
 msgid "And?"
-msgstr ""
+msgstr "E?"
 
 msgctxt "37\t212509\t5\tCHK"
 msgid ""
@@ -9738,7 +9751,7 @@ msgstr ""
 
 msgctxt "37\t212538\t6\tCHK"
 msgid "Dammit!"
-msgstr ""
+msgstr "Dannazione!"
 
 msgctxt "37\t212546\t7\tCHK"
 msgid "Saki..."
@@ -9746,7 +9759,7 @@ msgstr ""
 
 msgctxt "37\t212554\t8\tCHK"
 msgid "Are you okay?"
-msgstr ""
+msgstr "Stai bene?"
 
 msgctxt "37\t212568\t9\tCHK"
 msgid "We know who did it?"
@@ -9754,7 +9767,7 @@ msgstr ""
 
 msgctxt "37\t212588\t10\tCHK"
 msgid "Nope."
-msgstr ""
+msgstr "No."
 
 msgctxt "37\t212594\t11\tCHK"
 msgid ""
@@ -9788,7 +9801,7 @@ msgstr ""
 
 msgctxt "37\t212816\t17\tCHK"
 msgid "What?"
-msgstr ""
+msgstr "Cosa?"
 
 msgctxt "37\t212822\t18\tCHK"
 msgid "It's gotta be those Tamashiro assholes!"
@@ -9806,15 +9819,15 @@ msgstr ""
 
 msgctxt "37\t212948\t21\tCHK"
 msgid "What's wrong, Saki?"
-msgstr ""
+msgstr "Che succede, Aniki?"
 
 msgctxt "37\t212968\t22\tCHK"
 msgid "Who's that?"
-msgstr ""
+msgstr "Chi è?"
 
 msgctxt "37\t212980\t23\tCHK"
 msgid "What the!?"
-msgstr ""
+msgstr "Ma che!?"
 
 msgctxt "37\t212991\t24\tCHK"
 msgid "Is this the man who shot him?"
@@ -9826,7 +9839,7 @@ msgstr ""
 
 msgctxt "37\t213035\t26\tCHK"
 msgid "Aniki."
-msgstr ""
+msgstr "Capo"
 
 msgctxt "37\t213042\t27\tCHK"
 msgid "You know him, don't you?"
@@ -9834,7 +9847,7 @@ msgstr ""
 
 msgctxt "37\t213067\t28\tCHK"
 msgid "Yeah."
-msgstr ""
+msgstr "Sì."
 
 msgctxt "37\t213073\t29\tCHK"
 msgid "He's the man who brought me up."
@@ -9864,11 +9877,11 @@ msgstr ""
 
 msgctxt "38\t214479\t2\tCHK"
 msgid "Yup."
-msgstr ""
+msgstr "Già."
 
 msgctxt "38\t214484\t3\tCHK"
 msgid "...Right."
-msgstr ""
+msgstr "...Ok."
 
 msgctxt "38\t214494\t4\tCHK"
 msgid "I'm here to say goodbye, too."
@@ -9902,11 +9915,11 @@ msgstr ""
 
 msgctxt "39\t219384\t6\tCHK"
 msgid "Here."
-msgstr ""
+msgstr "Ecco."
 
 msgctxt "39\t219390\t7\tCHK"
 msgid "Thanks."
-msgstr ""
+msgstr "Grazie."
 
 msgctxt "39\t219398\t8\tCHK"
 msgid "You can hang on to it."
@@ -9976,7 +9989,7 @@ msgstr ""
 
 msgctxt "39\t219908\t23\tCHK"
 msgid "About what?"
-msgstr ""
+msgstr "Di cosa?"
 
 msgctxt "39\t219920\t24\tCHK"
 msgid "What happens to Kamurocho."
@@ -9994,7 +10007,7 @@ msgstr ""
 
 msgctxt "39\t220068\t27\tCHK"
 msgid "Fair enough."
-msgstr ""
+msgstr "Giusta osservazione."
 
 msgctxt "39\t220081\t28\tCHK"
 msgid "So? What's worrying you then?"
@@ -10034,11 +10047,11 @@ msgstr ""
 
 msgctxt "39\t220396\t36\tCHK"
 msgid "Well, we should probably get going."
-msgstr ""
+msgstr "Beh, meglio che vada."
 
 msgctxt "39\t220432\t37\tCHK"
 msgid "Right."
-msgstr ""
+msgstr "Giusto."
 
 msgctxt "39\t220439\t38\tCHK"
 msgid "Off to Kamurocho, I assume?"
@@ -10046,7 +10059,7 @@ msgstr ""
 
 msgctxt "39\t220467\t39\tCHK"
 msgid "Yup."
-msgstr ""
+msgstr "Già."
 
 msgctxt "39\t220472\t40\tCHK"
 msgid "Kazuki and Yuya deserve a goodbye."
@@ -10054,11 +10067,11 @@ msgstr ""
 
 msgctxt "39\t220507\t41\tCHK"
 msgid "And..."
-msgstr ""
+msgstr "E poi..."
 
 msgctxt "39\t220514\t42\tCHK"
 msgid "And what?"
-msgstr ""
+msgstr "E poi cosa?"
 
 msgctxt "39\t220524\t43\tCHK"
 msgid "About the Tojo Clan, I'm sure."
@@ -10114,7 +10127,7 @@ msgstr ""
 
 msgctxt "39\t220941\t54\tCHK"
 msgid "You've got that right."
-msgstr ""
+msgstr "Hai proprio ragione."
 
 msgctxt "39\t220964\t55\tCHK"
 msgid "Do you think you can convince him?"
@@ -10222,7 +10235,7 @@ msgstr ""
 
 msgctxt "40\t224937\t1\tCHK"
 msgid "Of course not."
-msgstr ""
+msgstr "Certo che no."
 
 msgctxt "40\t224952\t2\tCHK"
 msgid "We can still come visit."
@@ -10230,7 +10243,7 @@ msgstr ""
 
 msgctxt "40\t224977\t3\tCHK"
 msgid "What's wrong?"
-msgstr ""
+msgstr "Che succede?"
 
 msgctxt "40\t224991\t4\tCHK"
 msgid "I just wanna have fun today."
@@ -10246,7 +10259,7 @@ msgstr ""
 
 msgctxt "40\t225051\t7\tCHK"
 msgid "Of course."
-msgstr ""
+msgstr "E di che."
 
 msgctxt "40\t225062\t8\tCHK"
 msgid "Kamurocho won't know what hit it."
@@ -10286,15 +10299,15 @@ msgstr ""
 
 msgctxt "42\t226537\t3\tCHK"
 msgid "Yeah."
-msgstr ""
+msgstr "Sì."
 
 msgctxt "42\t226543\t4\tCHK"
 msgid "That's actually why I'm here."
-msgstr ""
+msgstr "In realtà è proprio per questo che sono qui."
 
 msgctxt "42\t226573\t5\tCHK"
 msgid "Whaddya mean?"
-msgstr ""
+msgstr "Che vuoi dire?"
 
 msgctxt "42\t226587\t6\tCHK"
 msgid "I need your help."
@@ -10328,7 +10341,7 @@ msgstr ""
 
 msgctxt "43\t227793\t4\tCHK"
 msgid "Fine by me."
-msgstr ""
+msgstr "A me sta bene."
 
 msgctxt "43\t227805\t5\tCHK"
 msgid "Somehow I knew it'd go like this."
@@ -10384,7 +10397,7 @@ msgstr ""
 
 msgctxt "45\t230300\t2\tCHK"
 msgid "Yeah."
-msgstr ""
+msgstr "Sì."
 
 msgctxt "45\t230306\t3\tCHK"
 msgid ""
@@ -10402,11 +10415,11 @@ msgstr ""
 
 msgctxt "45\t230416\t6\tCHK"
 msgid "What's that?"
-msgstr ""
+msgstr "Cos'è?"
 
 msgctxt "45\t230429\t7\tCHK"
 msgid "What do you mean by that?"
-msgstr ""
+msgstr "Cosa intendi?"
 
 msgctxt "45\t230455\t8\tCHK"
 msgid "Daigo..."
@@ -10420,7 +10433,7 @@ msgstr ""
 
 msgctxt "45\t230520\t10\tCHK"
 msgid "I should get going."
-msgstr ""
+msgstr "Dovrei andare."
 
 msgctxt "45\t230540\t11\tCHK"
 msgid "The Tojo Clan's in your hands now."
@@ -10432,7 +10445,7 @@ msgstr ""
 
 msgctxt "45\t230615\t13\tCHK"
 msgid "Eh, whatever!"
-msgstr ""
+msgstr "Eh, fa lo stesso."
 
 msgctxt "45\t230629\t14\tCHK"
 msgid "Goro Majima's..."
@@ -10520,7 +10533,7 @@ msgstr ""
 
 msgctxt "47\t233784\t2\tCHK"
 msgid "Yeah, yeah..."
-msgstr ""
+msgstr "Sì, sì..."
 
 msgctxt "47\t233798\t3\tCHK"
 msgid "Looks like we're all here."
@@ -10528,7 +10541,7 @@ msgstr ""
 
 msgctxt "47\t233825\t4\tCHK"
 msgid "Wait."
-msgstr ""
+msgstr "Aspetta."
 
 msgctxt "47\t233831\t5\tCHK"
 msgid "Where's Izumi?"
@@ -10540,7 +10553,7 @@ msgstr ""
 
 msgctxt "47\t233875\t7\tCHK"
 msgid "Nope."
-msgstr ""
+msgstr "No."
 
 msgctxt "47\t233881\t8\tCHK"
 msgid "I wonder where she went..."
@@ -10598,7 +10611,7 @@ msgstr ""
 
 msgctxt "48\t235577\t1\tCHK"
 msgid "Okay."
-msgstr ""
+msgstr "Ok."
 
 msgctxt "48\t235583\t2\tCHK"
 msgid "I'm gonna keep trying."
@@ -10606,7 +10619,7 @@ msgstr ""
 
 msgctxt "48\t235606\t3\tCHK"
 msgid "Good."
-msgstr ""
+msgstr "Bene."
 
 msgctxt "48\t235612\t4\tCHK"
 msgid "I know I'll never replace your actual dad..."
@@ -10620,7 +10633,7 @@ msgstr ""
 
 msgctxt "48\t235727\t6\tCHK"
 msgid "Uncle Kaz!"
-msgstr ""
+msgstr "Zio Kaz!"
 
 msgctxt "48\t235738\t7\tCHK"
 msgid "Let's go home, okay?"
@@ -10658,7 +10671,7 @@ msgstr ""
 
 msgctxt "49\t237035\t3\tCHK"
 msgid "Okay!"
-msgstr ""
+msgstr "Va bene!"
 
 msgctxt "49\t237041\t4\tCHK"
 msgid "Let's go, Uncle Kaz!"
@@ -10670,7 +10683,7 @@ msgstr ""
 
 msgctxt "49\t237076\t6\tCHK"
 msgid "Sorry."
-msgstr ""
+msgstr "Scusa."
 
 msgctxt "49\t237083\t7\tCHK"
 msgid "All right. Everyone ready?"
@@ -10700,7 +10713,7 @@ msgstr ""
 
 msgctxt "50\t238169\t1\tCHK"
 msgid "Uncle Kaz."
-msgstr ""
+msgstr "Zio Kaz."
 
 msgctxt "50\t238180\t2\tCHK"
 msgid "We got another one."
@@ -10742,7 +10755,7 @@ msgstr ""
 
 msgctxt "51\t241903\t3\tCHK"
 msgid "It's him!"
-msgstr ""
+msgstr "È lui!"
 
 msgctxt "51\t241913\t4\tCHK"
 msgid "Want something, old man?"
@@ -10794,7 +10807,7 @@ msgstr ""
 
 msgctxt "51\t242333\t15\tCHK"
 msgid "Can't say."
-msgstr ""
+msgstr "Non posso dirlo."
 
 msgctxt "51\t242344\t16\tCHK"
 msgid "If you wanna know the truth..."
@@ -10872,7 +10885,7 @@ msgstr ""
 
 msgctxt "51\t242909\t33\tCHK"
 msgid "You heard me!"
-msgstr ""
+msgstr "Mi hai sentito."
 
 msgctxt "51\t242923\t34\tCHK"
 msgid ""
@@ -10894,7 +10907,7 @@ msgstr ""
 
 msgctxt "51\t243075\t38\tCHK"
 msgid "What was that!?"
-msgstr ""
+msgstr "Cosa hai detto?"
 
 msgctxt "51\t243091\t39\tCHK"
 msgid ""
@@ -10918,7 +10931,7 @@ msgstr ""
 
 msgctxt "51\t243275\t43\tCHK"
 msgid "Well?"
-msgstr ""
+msgstr "Allora?"
 
 msgctxt "51\t243281\t44\tCHK"
 msgid "Cute snake you've got there."
@@ -10926,7 +10939,7 @@ msgstr ""
 
 msgctxt "51\t243310\t45\tCHK"
 msgid "What did you say!?"
-msgstr ""
+msgstr "Che hai detto!?"
 
 msgctxt "51\t243329\t46\tCHK"
 msgid "It's not a snake!"
@@ -10978,7 +10991,7 @@ msgstr ""
 
 msgctxt "51\t243722\t57\tCHK"
 msgid "Ready when you are."
-msgstr ""
+msgstr "Pronto quando vuoi."
 
 msgctxt "51\t243742\t58\tCHK"
 msgid "Then bring it!"
@@ -11008,11 +11021,11 @@ msgstr ""
 
 msgctxt "52\t246377\t1\tCHK"
 msgid "Aniki!"
-msgstr ""
+msgstr "Capo"
 
 msgctxt "52\t246384\t2\tCHK"
 msgid "Well?"
-msgstr ""
+msgstr "Allora?"
 
 msgctxt "52\t246390\t3\tCHK"
 msgid "I may be mainland."
@@ -11036,7 +11049,7 @@ msgstr ""
 
 msgctxt "52\t246515\t8\tCHK"
 msgid "...All right."
-msgstr ""
+msgstr "...Va bene."
 
 msgctxt "52\t246529\t9\tCHK"
 msgid "A deal's a deal."
@@ -11054,7 +11067,7 @@ msgstr ""
 
 msgctxt "53\t247721\t1\tCHK"
 msgid "Right this way."
-msgstr ""
+msgstr "Da questa parte."
 
 msgctxt "53\t247737\t2\tCHK"
 msgid "After you."
@@ -11070,7 +11083,7 @@ msgstr ""
 
 msgctxt "53\t247792\t5\tCHK"
 msgid "Hey. Sorry to keep you waiting."
-msgstr ""
+msgstr "Ciao. Scusa l'attesa."
 
 msgctxt "53\t247824\t6\tCHK"
 msgid "So you're Kiryu-san."
@@ -11082,7 +11095,7 @@ msgstr ""
 
 msgctxt "53\t247887\t8\tCHK"
 msgid "There's something I want to ask you."
-msgstr ""
+msgstr "C'è qualcosa che devo chiederti."
 
 msgctxt "53\t247924\t9\tCHK"
 msgid "Lemme guess, the eviction notices?"
@@ -11090,7 +11103,7 @@ msgstr ""
 
 msgctxt "53\t247959\t10\tCHK"
 msgid "That's right."
-msgstr ""
+msgstr "Esatto."
 
 msgctxt "53\t247973\t11\tCHK"
 msgid ""
@@ -11132,7 +11145,7 @@ msgstr ""
 
 msgctxt "54\t250530\t4\tCHK"
 msgid "Whaddya mean!?"
-msgstr ""
+msgstr "Che vuoi dire?"
 
 msgctxt "54\t250545\t5\tCHK"
 msgid "Everything you said makes sense."
@@ -11194,7 +11207,7 @@ msgstr ""
 
 msgctxt "54\t251050\t17\tCHK"
 msgid "Huh!?"
-msgstr ""
+msgstr "Eh!?"
 
 msgctxt "54\t251056\t18\tCHK"
 msgid "So tell me. Will that satisfy you?"
@@ -11448,7 +11461,7 @@ msgstr ""
 
 msgctxt "56\t262729\t5\tCHK"
 msgid "Hm?"
-msgstr ""
+msgstr "Mh?"
 
 msgctxt "56\t262733\t6\tCHK"
 msgid "Then what is it?"
@@ -11484,7 +11497,7 @@ msgstr ""
 
 msgctxt "57\t265076\t5\tCHK"
 msgid "Stop right there."
-msgstr ""
+msgstr "Fermo lì!"
 
 msgctxt "57\t265094\t6\tCHK"
 msgid "...Yeah?"
@@ -11592,7 +11605,7 @@ msgstr ""
 
 msgctxt "59\t268793\t1\tCHK"
 msgid "Fine then."
-msgstr ""
+msgstr "Bene, allora."
 
 msgctxt "59\t268804\t2\tCHK"
 msgid "I'll go talk to Saki myself."
@@ -11608,7 +11621,7 @@ msgstr ""
 
 msgctxt "59\t268902\t5\tCHK"
 msgid "Don't worry."
-msgstr ""
+msgstr "Non preoccuparti."
 
 msgctxt "59\t268915\t6\tCHK"
 msgid "That's a conversation for another time."
@@ -11622,7 +11635,7 @@ msgstr ""
 
 msgctxt "59\t269007\t8\tCHK"
 msgid "You..."
-msgstr ""
+msgstr "Tu..."
 
 msgctxt "59\t269014\t9\tCHK"
 msgid "And I'll be borrowing one of your boys."
@@ -11660,7 +11673,7 @@ msgstr ""
 
 msgctxt "60\t270457\t1\tCHK"
 msgid "Huh?"
-msgstr ""
+msgstr "Eh?"
 
 msgctxt "60\t270462\t2\tCHK"
 msgid "Who's this asshole?"
@@ -11684,7 +11697,7 @@ msgstr ""
 
 msgctxt "60\t270567\t7\tCHK"
 msgid "Sorry."
-msgstr ""
+msgstr "Scusa."
 
 msgctxt "60\t270574\t8\tCHK"
 msgid "But the only way you're gettin' up there..."
@@ -11697,6 +11710,8 @@ msgstr ""
 msgctxt "60\t270636\t10\tCHK"
 msgid "I don't have time for this."
 msgstr ""
+"Non ho tempo\n"
+"per questo."
 
 msgctxt "60\t270664\t11\tCHK"
 msgid "Let me through."
@@ -11840,7 +11855,7 @@ msgstr ""
 
 msgctxt "61\t274435\t29\tCHK"
 msgid "Oh?"
-msgstr ""
+msgstr "Davvero?"
 
 msgctxt "61\t274439\t30\tCHK"
 msgid ""
@@ -11862,7 +11877,7 @@ msgstr ""
 
 msgctxt "61\t274600\t34\tCHK"
 msgid "Huh!?"
-msgstr ""
+msgstr "Eh!?"
 
 msgctxt "61\t274606\t35\tCHK"
 msgid "Now come get some!"
@@ -11896,7 +11911,7 @@ msgstr ""
 
 msgctxt "62\t277801\t1\tCHK"
 msgid "The hell..."
-msgstr ""
+msgstr "Che diavolo...?"
 
 msgctxt "62\t277813\t2\tCHK"
 msgid "Is a guy like you..."
@@ -12034,7 +12049,7 @@ msgstr ""
 
 msgctxt "62\t278691\t33\tCHK"
 msgid "Thank you... Thank you so much...!"
-msgstr ""
+msgstr "Grazie... Grazie di cuore!"
 
 msgctxt "62\t278726\t34\tCHK"
 msgid "Saki... Saki!"
@@ -12058,7 +12073,7 @@ msgstr ""
 
 msgctxt "63\t281254\t2\tCHK"
 msgid "That's enough."
-msgstr ""
+msgstr "Basta così."
 
 msgctxt "63\t281269\t3\tCHK"
 msgid "Oh, no! I'm not done yet!"
@@ -12066,7 +12081,7 @@ msgstr ""
 
 msgctxt "63\t281295\t4\tCHK"
 msgid "What?"
-msgstr ""
+msgstr "Cosa?"
 
 msgctxt "63\t281301\t5\tCHK"
 msgid "Coming through."
@@ -12074,7 +12089,7 @@ msgstr ""
 
 msgctxt "63\t281317\t6\tCHK"
 msgid "What are you guys up to?"
-msgstr ""
+msgstr "Oi, ragazzi, che combinate?"
 
 msgctxt "63\t281342\t7\tCHK"
 msgid "Be my brother, Kiryu."
@@ -12154,7 +12169,7 @@ msgstr ""
 
 msgctxt "64\t284791\t3\tCHK"
 msgid "Yes."
-msgstr ""
+msgstr "Sì."
 
 msgctxt "64\t284796\t4\tCHK"
 msgid "Daigo."
@@ -12162,7 +12177,7 @@ msgstr ""
 
 msgctxt "64\t284803\t5\tCHK"
 msgid "What is it?"
-msgstr ""
+msgstr "E cioè?"
 
 msgctxt "64\t284815\t6\tCHK"
 msgid ""
@@ -12182,7 +12197,7 @@ msgstr ""
 
 msgctxt "64\t284968\t9\tCHK"
 msgid "I understand."
-msgstr ""
+msgstr "Capisco..."
 
 msgctxt "64\t284982\t10\tCHK"
 msgid "But you needn't worry."
@@ -12200,7 +12215,7 @@ msgstr ""
 
 msgctxt "64\t285085\t13\tCHK"
 msgid "Of course."
-msgstr ""
+msgstr "E di che."
 
 msgctxt "64\t285096\t14\tCHK"
 msgid ""
@@ -12240,7 +12255,7 @@ msgstr ""
 
 msgctxt "64\t285379\t22\tCHK"
 msgid "Yeah."
-msgstr ""
+msgstr "Sì."
 
 msgctxt "64\t285385\t23\tCHK"
 msgid "Mind if I ask you somethin'?"
@@ -12248,7 +12263,7 @@ msgstr ""
 
 msgctxt "64\t285414\t24\tCHK"
 msgid "Hm? What's up?"
-msgstr ""
+msgstr "Mmh? Che c'è?"
 
 msgctxt "64\t285429\t25\tCHK"
 msgid ""
@@ -12318,7 +12333,7 @@ msgstr ""
 
 msgctxt "65\t287417\t1\tCHK"
 msgid "Yes?"
-msgstr ""
+msgstr "Sì?"
 
 msgctxt "65\t287422\t2\tCHK"
 msgid ""
@@ -12344,7 +12359,7 @@ msgstr ""
 
 msgctxt "66\t288296\t4\tCHK"
 msgid "Hold on a sec."
-msgstr ""
+msgstr "Aspetta un attimo!"
 
 msgctxt "66\t288311\t5\tCHK"
 msgid ""
@@ -12370,7 +12385,7 @@ msgstr ""
 
 msgctxt "66\t288472\t10\tCHK"
 msgid "Yup."
-msgstr ""
+msgstr "Già."
 
 msgctxt "66\t288477\t11\tCHK"
 msgid "Looks like it was."
@@ -12414,11 +12429,11 @@ msgstr ""
 
 msgctxt "68\t290181\t6\tCHK"
 msgid "...All right."
-msgstr ""
+msgstr "...Va bene."
 
 msgctxt "68\t290195\t7\tCHK"
 msgid "Aniki!"
-msgstr ""
+msgstr "Capo"
 
 msgctxt "68\t290202\t8\tCHK"
 msgid "You won't regret it, I promise!"
@@ -12434,7 +12449,7 @@ msgstr ""
 
 msgctxt "68\t290313\t11\tCHK"
 msgid "Okay!"
-msgstr ""
+msgstr "Va bene!"
 
 msgctxt "68\t290319\t12\tCHK"
 msgid "Haruka."
@@ -12458,7 +12473,7 @@ msgstr ""
 
 msgctxt "68\t290444\t17\tCHK"
 msgid "Uncle Kaz..."
-msgstr ""
+msgstr "Zio Kaz..."
 
 msgctxt "69\t292168\t0\tSUS"
 msgid ""
@@ -12476,7 +12491,7 @@ msgstr ""
 
 msgctxt "69\t292262\t3\tCHK"
 msgid "Whoa, really!?"
-msgstr ""
+msgstr "Wow, davvero?"
 
 msgctxt "69\t292277\t4\tCHK"
 msgid ""
@@ -12558,7 +12573,7 @@ msgstr ""
 
 msgctxt "70\t294330\t3\tCHK"
 msgid "Well all right then."
-msgstr ""
+msgstr "Bene, allora."
 
 msgctxt "70\t294351\t4\tCHK"
 msgid "Cancel it."
@@ -12696,11 +12711,11 @@ msgstr ""
 
 msgctxt "71\t298009\t24\tCHK"
 msgid "Oh yeah?"
-msgstr ""
+msgstr "Ah sì?"
 
 msgctxt "71\t298018\t25\tCHK"
 msgid "Fair enough."
-msgstr ""
+msgstr "Giusta osservazione."
 
 msgctxt "71\t298031\t26\tCHK"
 msgid "If you can't do it..."
@@ -12708,7 +12723,7 @@ msgstr ""
 
 msgctxt "71\t298053\t27\tCHK"
 msgid "You can't do it."
-msgstr ""
+msgstr "Ce la puoi fare."
 
 msgctxt "71\t298070\t28\tCHK"
 msgid "All I wanted was to be partners, Chin-san."
@@ -12720,7 +12735,7 @@ msgstr ""
 
 msgctxt "71\t298150\t30\tCHK"
 msgid "Bye now."
-msgstr ""
+msgstr "Ci vediamo."
 
 msgctxt "71\t298159\t31\tCHK"
 msgid "Let's be pals, Chin-san."
@@ -12794,7 +12809,7 @@ msgstr ""
 
 msgctxt "72\t302052\t9\tCHK"
 msgid "Huh?"
-msgstr ""
+msgstr "Eh?"
 
 msgctxt "72\t302057\t10\tCHK"
 msgid "The meetin', dipshit!"
@@ -12806,7 +12821,7 @@ msgstr ""
 
 msgctxt "72\t302101\t12\tCHK"
 msgid "There ya go!"
-msgstr ""
+msgstr "Eccoti!"
 
 msgctxt "72\t302114\t13\tCHK"
 msgid "That's                                     "
@@ -12834,7 +12849,7 @@ msgstr ""
 
 msgctxt "72\t302363\t19\tCHK"
 msgid "Thank you very much, sir!"
-msgstr ""
+msgstr "Grazie mille, signore!"
 
 msgctxt "72\t302389\t20\tCHK"
 msgid "I'm on top of the goddamn world!"
@@ -12944,7 +12959,7 @@ msgstr ""
 
 msgctxt "73\t305266\t7\tCHK"
 msgid "Very well."
-msgstr ""
+msgstr "Molto bene."
 
 msgctxt "73\t305277\t8\tCHK"
 msgid ""
@@ -13032,7 +13047,7 @@ msgstr ""
 
 msgctxt "75\t308265\t8\tCHK"
 msgid "I can't do that."
-msgstr ""
+msgstr "Non posso."
 
 msgctxt "75\t308282\t9\tCHK"
 msgid ""
@@ -13072,7 +13087,7 @@ msgstr ""
 
 msgctxt "76\t309593\t1\tCHK"
 msgid "So..."
-msgstr ""
+msgstr "Allora..."
 
 msgctxt "76\t309599\t2\tCHK"
 msgid "Kazuma Kiryu's a fuckin' beast."
@@ -13098,7 +13113,7 @@ msgstr ""
 
 msgctxt "76\t309765\t7\tCHK"
 msgid "What!?"
-msgstr ""
+msgstr "Cosa!?"
 
 msgctxt "76\t309772\t8\tCHK"
 msgid "This war's... just gettin' started!"
@@ -13114,7 +13129,7 @@ msgstr ""
 
 msgctxt "77\t310938\t2\tCHK"
 msgid "Yup."
-msgstr ""
+msgstr "Già."
 
 msgctxt "77\t310943\t3\tCHK"
 msgid ""
@@ -13172,7 +13187,7 @@ msgstr ""
 
 msgctxt "78\t314731\t3\tCHK"
 msgid "Yeah."
-msgstr ""
+msgstr "Sì."
 
 msgctxt "78\t314737\t4\tCHK"
 msgid "So? How does it look out there?"
@@ -13194,7 +13209,7 @@ msgstr ""
 
 msgctxt "78\t314874\t8\tCHK"
 msgid "Got it."
-msgstr ""
+msgstr "Capito."
 
 msgctxt "78\t314882\t9\tCHK"
 msgid "I suggest you stay on your guard."
@@ -13210,7 +13225,7 @@ msgstr ""
 
 msgctxt "78\t314986\t12\tCHK"
 msgid "What?"
-msgstr ""
+msgstr "Cosa?"
 
 msgctxt "78\t314992\t13\tCHK"
 msgid "Probably to see if he's still alive."
@@ -13290,7 +13305,7 @@ msgstr ""
 
 msgctxt "79\t317419\t2\tCHK"
 msgid "What do you want?"
-msgstr ""
+msgstr "Che vuoi?"
 
 msgctxt "79\t317437\t3\tCHK"
 msgid "...Guess you don't speak Japanese."
@@ -13302,7 +13317,7 @@ msgstr ""
 
 msgctxt "79\t317502\t5\tCHK"
 msgid "Sorry..."
-msgstr ""
+msgstr "Scusa..."
 
 msgctxt "79\t317511\t6\tCHK"
 msgid "But this might hurt a bit."
@@ -13342,7 +13357,7 @@ msgstr ""
 
 msgctxt "81\t318869\t3\tCHK"
 msgid "There's not much time."
-msgstr ""
+msgstr "Non c'è molto tempo!"
 
 msgctxt "81\t318892\t4\tCHK"
 msgid "But I need you to be aware of what's going on."
@@ -13350,7 +13365,7 @@ msgstr ""
 
 msgctxt "81\t318939\t5\tCHK"
 msgid "Right."
-msgstr ""
+msgstr "Giusto."
 
 msgctxt "81\t318946\t6\tCHK"
 msgid "It concerns today's officers meeting."
@@ -13426,7 +13441,7 @@ msgstr ""
 
 msgctxt "82\t325396\t15\tCHK"
 msgid "Agreed."
-msgstr ""
+msgstr "Concordo."
 
 msgctxt "82\t325404\t16\tCHK"
 msgid "Bunch of fuckin' cowards!"
@@ -13584,7 +13599,7 @@ msgstr ""
 
 msgctxt "82\t326821\t49\tCHK"
 msgid "Oh yeah!?"
-msgstr ""
+msgstr "Ah sì?"
 
 msgctxt "82\t326831\t50\tCHK"
 msgid "By all means, get rid of Kiryu-san."
@@ -13626,7 +13641,7 @@ msgstr ""
 
 msgctxt "82\t327127\t59\tCHK"
 msgid "Morons."
-msgstr ""
+msgstr "Coglioni."
 
 msgctxt "82\t327135\t60\tCHK"
 msgid "Do what ya wanna do."
@@ -13750,7 +13765,7 @@ msgstr ""
 
 msgctxt "83\t331977\t1\tCHK"
 msgid "So that's what's going on..."
-msgstr ""
+msgstr "Ah, allora è così che stanno le cose."
 
 msgctxt "83\t332006\t2\tCHK"
 msgid "Kanda in particular is one to watch for."
@@ -13758,7 +13773,7 @@ msgstr ""
 
 msgctxt "83\t332047\t3\tCHK"
 msgid "Right."
-msgstr ""
+msgstr "Giusto."
 
 msgctxt "83\t332054\t4\tCHK"
 msgid ""
@@ -13830,7 +13845,7 @@ msgstr ""
 
 msgctxt "84\t334274\t8\tCHK"
 msgid "What the...?"
-msgstr ""
+msgstr "Ma che..."
 
 msgctxt "84\t334287\t9\tCHK"
 msgid "Must be a blackout."
@@ -13880,7 +13895,7 @@ msgstr ""
 
 msgctxt "84\t334575\t20\tCHK"
 msgid "Yes."
-msgstr ""
+msgstr "Sì."
 
 msgctxt "84\t334580\t21\tCHK"
 msgid "I need you... to find him."
@@ -13892,7 +13907,7 @@ msgstr ""
 
 msgctxt "84\t334624\t23\tCHK"
 msgid "Of course!"
-msgstr ""
+msgstr "Ma certo!"
 
 msgctxt "84\t334635\t24\tCHK"
 msgid "Kashiwagi-san?"
@@ -13908,11 +13923,11 @@ msgstr ""
 
 msgctxt "85\t335785\t1\tCHK"
 msgid "Hey, you!"
-msgstr ""
+msgstr "Ehi, tu!"
 
 msgctxt "85\t335795\t2\tCHK"
 msgid "Wait!"
-msgstr ""
+msgstr "Aspetta!"
 
 msgctxt "85\t335801\t3\tCHK"
 msgid "Stop! I said stop!"
@@ -13932,11 +13947,11 @@ msgstr ""
 
 msgctxt "86\t336471\t3\tCHK"
 msgid "Looking good."
-msgstr ""
+msgstr "Stai bene."
 
 msgctxt "86\t336485\t4\tCHK"
 msgid "Who's there?"
-msgstr ""
+msgstr "Chi c'è là?"
 
 msgctxt "86\t336498\t5\tCHK"
 msgid "Date-san!"
@@ -13950,7 +13965,7 @@ msgstr ""
 
 msgctxt "86\t336561\t7\tCHK"
 msgid "We need to talk."
-msgstr ""
+msgstr "Dobbiamo parlare"
 
 msgctxt "86\t336578\t8\tCHK"
 msgid ""
@@ -13964,7 +13979,7 @@ msgstr ""
 
 msgctxt "87\t340089\t1\tCHK"
 msgid "Welcome!"
-msgstr ""
+msgstr "Benvenuto!"
 
 msgctxt "87\t340098\t2\tCHK"
 msgid "Not tonight, Mama."
@@ -13992,7 +14007,7 @@ msgstr ""
 
 msgctxt "87\t340305\t8\tCHK"
 msgid "Yup."
-msgstr ""
+msgstr "Già."
 
 msgctxt "87\t340310\t9\tCHK"
 msgid ""
@@ -14018,7 +14033,7 @@ msgstr ""
 
 msgctxt "87\t340448\t14\tCHK"
 msgid "About time."
-msgstr ""
+msgstr "Era ora!"
 
 msgctxt "87\t340460\t15\tCHK"
 msgid "You got the stuff?"
@@ -14034,7 +14049,7 @@ msgstr ""
 
 msgctxt "87\t340525\t18\tCHK"
 msgid "Coming right up."
-msgstr ""
+msgstr "Arriva subito!"
 
 msgctxt "87\t340542\t19\tCHK"
 msgid "There it is. Nice work."
@@ -14058,7 +14073,7 @@ msgstr ""
 
 msgctxt "87\t340700\t24\tCHK"
 msgid "What are you getting at?"
-msgstr ""
+msgstr "Dove vuoi arrivare?"
 
 msgctxt "87\t340725\t25\tCHK"
 msgid "Truth of it is, my title's changed a little."
@@ -14224,7 +14239,7 @@ msgstr ""
 
 msgctxt "88\t345522\t15\tCHK"
 msgid "Agreed."
-msgstr ""
+msgstr "Concordo."
 
 msgctxt "88\t345530\t16\tCHK"
 msgid ""
@@ -14240,7 +14255,7 @@ msgstr ""
 
 msgctxt "88\t345649\t18\tCHK"
 msgid "Okay."
-msgstr ""
+msgstr "Ok."
 
 msgctxt "88\t345655\t19\tCHK"
 msgid ""
@@ -14276,7 +14291,7 @@ msgstr ""
 
 msgctxt "89\t347594\t5\tCHK"
 msgid "Aniki!"
-msgstr ""
+msgstr "Capo"
 
 msgctxt "89\t347601\t6\tCHK"
 msgid ""
@@ -14296,7 +14311,7 @@ msgstr ""
 
 msgctxt "89\t347757\t9\tCHK"
 msgid "Is that so?"
-msgstr ""
+msgstr "È così?"
 
 msgctxt "89\t347769\t10\tCHK"
 msgid ""
@@ -14310,7 +14325,7 @@ msgstr ""
 
 msgctxt "89\t347855\t12\tCHK"
 msgid "What's that supposed to mean?"
-msgstr ""
+msgstr "Che cosa vorresti dire?"
 
 msgctxt "89\t347885\t13\tCHK"
 msgid "It means, fix your eyes on this!"
@@ -14340,11 +14355,11 @@ msgstr ""
 
 msgctxt "90\t350407\t4\tCHK"
 msgid "Huh!?"
-msgstr ""
+msgstr "Eh!?"
 
 msgctxt "90\t350413\t5\tCHK"
 msgid "What is she talking about?"
-msgstr ""
+msgstr "Di cosa stava parlando?"
 
 msgctxt "90\t350440\t6\tCHK"
 msgid ""
@@ -14406,7 +14421,7 @@ msgstr ""
 
 msgctxt "90\t350860\t19\tCHK"
 msgid "Yup."
-msgstr ""
+msgstr "Già."
 
 msgctxt "90\t350865\t20\tCHK"
 msgid ""
@@ -14460,7 +14475,7 @@ msgstr ""
 
 msgctxt "91\t353364\t4\tCHK"
 msgid "Who's askin'?"
-msgstr ""
+msgstr "Chi lo chiede?"
 
 msgctxt "91\t353378\t5\tCHK"
 msgid ""
@@ -14470,7 +14485,7 @@ msgstr ""
 
 msgctxt "91\t353423\t6\tCHK"
 msgid "What the...!?"
-msgstr ""
+msgstr "Ma che..."
 
 msgctxt "91\t353437\t7\tCHK"
 msgid "There's something we need to ask⑬"
@@ -14482,7 +14497,7 @@ msgstr ""
 
 msgctxt "91\t353508\t9\tCHK"
 msgid "Will do."
-msgstr ""
+msgstr "Ci penso io."
 
 msgctxt "91\t353517\t10\tCHK"
 msgid ""
@@ -14582,11 +14597,11 @@ msgstr ""
 
 msgctxt "93\t359271\t7\tCHK"
 msgid "Explain."
-msgstr ""
+msgstr "Si spieghi."
 
 msgctxt "93\t359280\t8\tCHK"
 msgid "Aniki!"
-msgstr ""
+msgstr "Capo"
 
 msgctxt "93\t359287\t9\tCHK"
 msgid "Everything okay with you?"
@@ -14594,7 +14609,7 @@ msgstr ""
 
 msgctxt "93\t359313\t10\tCHK"
 msgid "More or less."
-msgstr ""
+msgstr "Più o meno."
 
 msgctxt "93\t359327\t11\tCHK"
 msgid ""
@@ -14612,7 +14627,7 @@ msgstr ""
 
 msgctxt "93\t359424\t14\tCHK"
 msgid "Yeah."
-msgstr ""
+msgstr "Sì."
 
 msgctxt "93\t359430\t15\tCHK"
 msgid "Hold up. What happened to askin' him stuff?"
@@ -14658,7 +14673,7 @@ msgstr ""
 
 msgctxt "93\t359742\t24\tCHK"
 msgid "All right."
-msgstr ""
+msgstr "Va bene."
 
 msgctxt "93\t359753\t25\tCHK"
 msgid "But I have one condition."
@@ -14670,7 +14685,7 @@ msgstr ""
 
 msgctxt "93\t359804\t27\tCHK"
 msgid "Good."
-msgstr ""
+msgstr "Bene."
 
 msgctxt "93\t359810\t28\tCHK"
 msgid "Now, how about we grab a drink?"
@@ -14752,11 +14767,11 @@ msgstr ""
 
 msgctxt "94\t364009\t1\tCHK"
 msgid "Oh yeah?"
-msgstr ""
+msgstr "Ah sì?"
 
 msgctxt "94\t364018\t2\tCHK"
 msgid "Got it."
-msgstr ""
+msgstr "Capito."
 
 msgctxt "94\t364026\t3\tCHK"
 msgid "You did good."
@@ -14934,7 +14949,7 @@ msgstr ""
 
 msgctxt "96\t369465\t1\tCHK"
 msgid "Majima Family"
-msgstr ""
+msgstr "Famiglia Majima"
 
 msgctxt "96\t369479\t2\tCHK"
 msgid "Majima-san."
@@ -15026,7 +15041,7 @@ msgstr ""
 
 msgctxt "98\t372872\t11\tCHK"
 msgid "Now, the gong!"
-msgstr ""
+msgstr "Ora, il gong!"
 
 msgctxt "98\t372887\t12\tCHK"
 msgid ""
@@ -15090,7 +15105,7 @@ msgstr ""
 
 msgctxt "99\t374733\t4\tCHK"
 msgid "Yeah."
-msgstr ""
+msgstr "Sì."
 
 msgctxt "99\t374739\t5\tCHK"
 msgid "Ya walloped me good, Kiryu-chan."
@@ -15134,7 +15149,7 @@ msgstr ""
 
 msgctxt "101\t376367\t5\tCHK"
 msgid "What!?"
-msgstr ""
+msgstr "Cosa!?"
 
 msgctxt "101\t376374\t6\tCHK"
 msgid "Lau Ka Long..."
@@ -15204,7 +15219,7 @@ msgstr ""
 
 msgctxt "103\t379281\t2\tCHK"
 msgid "Aniki!"
-msgstr ""
+msgstr "Capo"
 
 msgctxt "103\t379288\t3\tCHK"
 msgid "Oh how I've missed you, Kazuma Kiryu."
@@ -15264,11 +15279,11 @@ msgstr ""
 
 msgctxt "104\t381038\t3\tCHK"
 msgid "Aniki!"
-msgstr ""
+msgstr "Capo"
 
 msgctxt "104\t381045\t4\tCHK"
 msgid "What?"
-msgstr ""
+msgstr "Cosa?"
 
 msgctxt "104\t381051\t5\tCHK"
 msgid "But you're... supposed to be dead!"
@@ -15280,7 +15295,7 @@ msgstr ""
 
 msgctxt "104\t381098\t7\tCHK"
 msgid "Answer me."
-msgstr ""
+msgstr "Rispondimi."
 
 msgctxt "104\t381109\t8\tCHK"
 msgid "Are you Shintaro Kazama or not!?"
@@ -15288,7 +15303,7 @@ msgstr ""
 
 msgctxt "104\t381142\t9\tCHK"
 msgid "That's not all."
-msgstr ""
+msgstr "Non è tutto."
 
 msgctxt "104\t381158\t10\tCHK"
 msgid "So you're Kazuma Kiryu."
@@ -15296,7 +15311,7 @@ msgstr ""
 
 msgctxt "104\t381182\t11\tCHK"
 msgid "Yeah."
-msgstr ""
+msgstr "Sì."
 
 msgctxt "104\t381188\t12\tCHK"
 msgid "Beautiful eyes..."
@@ -15328,11 +15343,11 @@ msgstr ""
 
 msgctxt "105\t383831\t2\tCHK"
 msgid "Yeah."
-msgstr ""
+msgstr "Sì."
 
 msgctxt "105\t383837\t3\tCHK"
 msgid "Hm..."
-msgstr ""
+msgstr "Mmm..."
 
 msgctxt "105\t383843\t4\tCHK"
 msgid "Can't help but wonder what he wants."
@@ -15350,7 +15365,7 @@ msgstr ""
 
 msgctxt "105\t383983\t7\tCHK"
 msgid "Not really."
-msgstr ""
+msgstr "Non proprio."
 
 msgctxt "105\t383995\t8\tCHK"
 msgid "Rikiya."
@@ -15382,7 +15397,7 @@ msgstr ""
 
 msgctxt "105\t384175\t15\tCHK"
 msgid "What's up?"
-msgstr ""
+msgstr "Che c'è?"
 
 msgctxt "105\t384186\t16\tCHK"
 msgid "Hey, Kiryu."
@@ -15448,7 +15463,7 @@ msgstr ""
 
 msgctxt "106\t386390\t5\tCHK"
 msgid "Yes."
-msgstr ""
+msgstr "Sì."
 
 msgctxt "106\t386395\t6\tCHK"
 msgid "Kanda!?"
@@ -15520,7 +15535,7 @@ msgstr ""
 
 msgctxt "107\t390336\t11\tCHK"
 msgid "What was that!?"
-msgstr ""
+msgstr "Cosa hai detto?"
 
 msgctxt "107\t390352\t12\tCHK"
 msgid "Perceive this, you little shit!"
@@ -15548,7 +15563,7 @@ msgstr ""
 
 msgctxt "107\t390553\t18\tCHK"
 msgid "Yes, sir."
-msgstr ""
+msgstr "Sì, signore."
 
 msgctxt "107\t390563\t19\tCHK"
 msgid "Mine!"
@@ -15646,7 +15661,7 @@ msgstr ""
 
 msgctxt "108\t397300\t5\tCHK"
 msgid "What do you mean?"
-msgstr ""
+msgstr "Cosa intendi?"
 
 msgctxt "108\t397318\t6\tCHK"
 msgid ""
@@ -15666,7 +15681,7 @@ msgstr ""
 
 msgctxt "108\t397481\t9\tCHK"
 msgid "That so?"
-msgstr ""
+msgstr "Ah sì?"
 
 msgctxt "108\t397490\t10\tCHK"
 msgid "I suggest you take care of yourself."
@@ -15674,7 +15689,7 @@ msgstr ""
 
 msgctxt "108\t397527\t11\tCHK"
 msgid "Farewell."
-msgstr ""
+msgstr "Addio."
 
 msgctxt "108\t397537\t12\tCHK"
 msgid "Mine."
@@ -15724,7 +15739,7 @@ msgstr ""
 
 msgctxt "108\t397820\t23\tCHK"
 msgid "What!?"
-msgstr ""
+msgstr "Cosa!?"
 
 msgctxt "108\t397827\t24\tCHK"
 msgid ""
@@ -15756,7 +15771,7 @@ msgstr ""
 
 msgctxt "108\t398057\t30\tCHK"
 msgid "Excuse me?"
-msgstr ""
+msgstr "Mi scusi?"
 
 msgctxt "108\t398068\t31\tCHK"
 msgid ""
@@ -15884,11 +15899,11 @@ msgstr ""
 
 msgctxt "109\t403331\t5\tCHK"
 msgid "No thanks."
-msgstr ""
+msgstr "No grazie."
 
 msgctxt "109\t403342\t6\tCHK"
 msgid "That's right."
-msgstr ""
+msgstr "Esatto."
 
 msgctxt "109\t403356\t7\tCHK"
 msgid "What's your point?"
@@ -15904,7 +15919,7 @@ msgstr ""
 
 msgctxt "109\t403432\t10\tCHK"
 msgid "Yeah."
-msgstr ""
+msgstr "Sì."
 
 msgctxt "109\t403438\t11\tCHK"
 msgid "I, too, find that the most preferable outcome."
@@ -15930,7 +15945,7 @@ msgstr ""
 
 msgctxt "109\t403574\t16\tCHK"
 msgid "What!?"
-msgstr ""
+msgstr "Cosa!?"
 
 msgctxt "109\t403581\t17\tCHK"
 msgid "Explain yourself, Tamiya."
@@ -16018,7 +16033,7 @@ msgstr ""
 
 msgctxt "110\t409978\t6\tCHK"
 msgid "Indeed."
-msgstr ""
+msgstr "Infatti."
 
 msgctxt "110\t409986\t7\tCHK"
 msgid "But I have no desire to see Toma killed."
@@ -16076,7 +16091,7 @@ msgstr ""
 
 msgctxt "110\t410476\t20\tCHK"
 msgid "Okay."
-msgstr ""
+msgstr "Ok."
 
 msgctxt "110\t410482\t21\tCHK"
 msgid ""
@@ -16104,7 +16119,7 @@ msgstr ""
 
 msgctxt "110\t410700\t26\tCHK"
 msgid "Fair enough."
-msgstr ""
+msgstr "Giusta osservazione."
 
 msgctxt "110\t410713\t27\tCHK"
 msgid "I swear it."
@@ -16134,7 +16149,7 @@ msgstr ""
 
 msgctxt "110\t410895\t33\tCHK"
 msgid "What?"
-msgstr ""
+msgstr "Cosa?"
 
 msgctxt "110\t410901\t34\tCHK"
 msgid "Toma must have planned this from the get-go."
@@ -16158,7 +16173,7 @@ msgstr ""
 
 msgctxt "110\t411036\t39\tCHK"
 msgid "What is it?"
-msgstr ""
+msgstr "E cioè?"
 
 msgctxt "110\t411048\t40\tCHK"
 msgid "You said earlier that you're not interested..."
@@ -16176,11 +16191,11 @@ msgstr ""
 
 msgctxt "110\t411205\t43\tCHK"
 msgid "Am I wrong?"
-msgstr ""
+msgstr "Mi sbaglio?"
 
 msgctxt "110\t411217\t44\tCHK"
 msgid "Guess you have a point."
-msgstr ""
+msgstr "Immagino tu abbia ragione."
 
 msgctxt "110\t411241\t45\tCHK"
 msgid "Well all right."
@@ -16256,8 +16271,8 @@ msgstr ""
 
 msgctxt "110\t412064\t58\tCHK"
 msgid ""
-"Those who reach the top are lifted there by their actions, whether they "
-"will it or not."
+"Those who reach the top are lifted there by their actions, whether they will"
+" it or not."
 msgstr ""
 
 msgctxt "110\t412152\t59\tCHK"
@@ -16302,7 +16317,7 @@ msgstr ""
 
 msgctxt "110\t412431\t68\tCHK"
 msgid "Yeah."
-msgstr ""
+msgstr "Sì."
 
 msgctxt "112\t416408\t0\tSUS"
 msgid ""
@@ -16340,7 +16355,7 @@ msgstr ""
 
 msgctxt "113\t418644\t2\tCHK"
 msgid "Dad!"
-msgstr ""
+msgstr "Papà!"
 
 msgctxt "113\t418649\t3\tCHK"
 msgid ""
@@ -16350,7 +16365,7 @@ msgstr ""
 
 msgctxt "113\t418710\t4\tCHK"
 msgid "Um..."
-msgstr ""
+msgstr "Ehm..."
 
 msgctxt "113\t418716\t5\tCHK"
 msgid "Me and my friends were playing baseball!"
@@ -16392,7 +16407,7 @@ msgstr ""
 
 msgctxt "113\t419015\t14\tCHK"
 msgid "Dad..."
-msgstr ""
+msgstr "Papà..."
 
 msgctxt "113\t419022\t15\tCHK"
 msgid "I'm so sorry..."
@@ -16404,7 +16419,7 @@ msgstr ""
 
 msgctxt "113\t419069\t17\tCHK"
 msgid "Who is it?"
-msgstr ""
+msgstr "Chi è?"
 
 msgctxt "113\t419080\t18\tCHK"
 msgid "Katase, sir."
@@ -16412,7 +16427,7 @@ msgstr ""
 
 msgctxt "113\t419093\t19\tCHK"
 msgid "Come in."
-msgstr ""
+msgstr "Entra pure."
 
 msgctxt "113\t419102\t20\tCHK"
 msgid "Apologies if I interrupted anything."
@@ -16428,15 +16443,15 @@ msgstr ""
 
 msgctxt "113\t419220\t23\tCHK"
 msgid "Then let's go."
-msgstr ""
+msgstr "E allora andiamo!"
 
 msgctxt "113\t419235\t24\tCHK"
 msgid "Chairman..."
-msgstr ""
+msgstr "Presidente..."
 
 msgctxt "113\t419247\t25\tCHK"
 msgid "What is it?"
-msgstr ""
+msgstr "E cioè?"
 
 msgctxt "113\t419259\t26\tCHK"
 msgid ""
@@ -16496,7 +16511,7 @@ msgstr ""
 
 msgctxt "114\t421647\t3\tCHK"
 msgid "Of course."
-msgstr ""
+msgstr "E di che."
 
 msgctxt "114\t421658\t4\tCHK"
 msgid ""
@@ -16516,7 +16531,7 @@ msgstr ""
 
 msgctxt "115\t422409\t1\tCHK"
 msgid "Uncle Kaz!"
-msgstr ""
+msgstr "Zio Kaz!"
 
 msgctxt "115\t422420\t2\tCHK"
 msgid "Nakahara!"
@@ -16556,7 +16571,7 @@ msgstr ""
 
 msgctxt "116\t425447\t6\tCHK"
 msgid "Don't do it!"
-msgstr ""
+msgstr "Non farlo!"
 
 msgctxt "116\t425460\t7\tCHK"
 msgid "Tamiya told me everything."
@@ -16596,7 +16611,7 @@ msgstr ""
 
 msgctxt "116\t425718\t15\tCHK"
 msgid "Not another step."
-msgstr ""
+msgstr "Non un altro passo."
 
 msgctxt "116\t425736\t16\tCHK"
 msgid "Joji."
@@ -16608,7 +16623,7 @@ msgstr ""
 
 msgctxt "116\t425777\t18\tCHK"
 msgid "Kazuma Kiryu, yes?"
-msgstr ""
+msgstr "Sei Kazuma Kiryu-san, vero?"
 
 msgctxt "116\t425796\t19\tCHK"
 msgid "You of all people should know."
@@ -16622,7 +16637,7 @@ msgstr ""
 
 msgctxt "116\t425894\t21\tCHK"
 msgid "What?"
-msgstr ""
+msgstr "Cosa?"
 
 msgctxt "116\t425900\t22\tCHK"
 msgid "And the CIA is my \"chairman.\""
@@ -16654,7 +16669,7 @@ msgstr ""
 
 msgctxt "116\t426091\t29\tCHK"
 msgid "Yeah."
-msgstr ""
+msgstr "Sì."
 
 msgctxt "116\t426097\t30\tCHK"
 msgid "I see why my brother took a shine to you."
@@ -16784,7 +16799,7 @@ msgstr ""
 
 msgctxt "117\t429967\t9\tCHK"
 msgid "But why?"
-msgstr ""
+msgstr "Ma perché?"
 
 msgctxt "117\t429976\t10\tCHK"
 msgid "Tamiya cares about you."
@@ -16792,7 +16807,7 @@ msgstr ""
 
 msgctxt "117\t430000\t11\tCHK"
 msgid "He does?"
-msgstr ""
+msgstr "Davvero?"
 
 msgctxt "117\t430009\t12\tCHK"
 msgid "But... why?"
@@ -16824,11 +16839,11 @@ msgstr ""
 
 msgctxt "117\t430224\t18\tCHK"
 msgid "I'm sorry."
-msgstr ""
+msgstr "Mi dispiace."
 
 msgctxt "117\t430235\t19\tCHK"
 msgid "I'm so sorry!"
-msgstr ""
+msgstr "Mi dispiace tanto!"
 
 msgctxt "117\t430249\t20\tCHK"
 msgid ""
@@ -16866,7 +16881,7 @@ msgstr ""
 
 msgctxt "118\t431846\t4\tCHK"
 msgid "Good."
-msgstr ""
+msgstr "Bene."
 
 msgctxt "118\t431852\t5\tCHK"
 msgid ""
@@ -16922,7 +16937,7 @@ msgstr ""
 
 msgctxt "119\t433774\t8\tCHK"
 msgid "Uncle Kaz!"
-msgstr ""
+msgstr "Zio Kaz!"
 
 msgctxt "119\t433785\t9\tCHK"
 msgid "Taichi! What are you doing here!?"
@@ -16968,7 +16983,7 @@ msgstr ""
 
 msgctxt "120\t437193\t1\tCHK"
 msgid "The hell?"
-msgstr ""
+msgstr "Che diavolo?"
 
 msgctxt "120\t437203\t2\tCHK"
 msgid "Rikiya! Mikio!"
@@ -16994,7 +17009,7 @@ msgstr ""
 
 msgctxt "120\t437367\t7\tCHK"
 msgid "In a way..."
-msgstr ""
+msgstr "In un certo senso."
 
 msgctxt "120\t437379\t8\tCHK"
 msgid "You're all his victims."
@@ -17022,11 +17037,11 @@ msgstr ""
 
 msgctxt "120\t437456\t14\tCHK"
 msgid "Stop!"
-msgstr ""
+msgstr "Fermo!"
 
 msgctxt "120\t437462\t15\tCHK"
 msgid "Please!"
-msgstr ""
+msgstr "Ti prego!"
 
 msgctxt "120\t437470\t16\tCHK"
 msgid "Shut it, you fuckin' brat!"
@@ -17034,7 +17049,7 @@ msgstr ""
 
 msgctxt "120\t437497\t17\tCHK"
 msgid "Please! Stop!"
-msgstr ""
+msgstr "Per favore, fermati!"
 
 msgctxt "120\t437511\t18\tCHK"
 msgid "Uncle Mikio!"
@@ -17066,7 +17081,7 @@ msgstr ""
 
 msgctxt "120\t437646\t25\tCHK"
 msgid "Yes, sir!"
-msgstr ""
+msgstr "Sì, signore!"
 
 msgctxt "120\t437656\t26\tCHK"
 msgid "Mikio! That's enough!"
@@ -17074,7 +17089,7 @@ msgstr ""
 
 msgctxt "120\t437678\t27\tCHK"
 msgid "Dammit..."
-msgstr ""
+msgstr "Merda..."
 
 msgctxt "120\t437688\t28\tCHK"
 msgid "Sorry... I wasn't stronger..."
@@ -17082,7 +17097,7 @@ msgstr ""
 
 msgctxt "120\t437718\t29\tCHK"
 msgid "Not so fast."
-msgstr ""
+msgstr "Fermo lì."
 
 msgctxt "120\t437731\t30\tCHK"
 msgid "We got some unfinished business."
@@ -17122,7 +17137,7 @@ msgstr ""
 
 msgctxt "120\t437955\t38\tCHK"
 msgid "Boss!"
-msgstr ""
+msgstr "Capo!"
 
 msgctxt "120\t437961\t39\tCHK"
 msgid "We're gonna have a nice long talk later, you and me."
@@ -17134,7 +17149,7 @@ msgstr ""
 
 msgctxt "120\t438063\t41\tCHK"
 msgid "What!?"
-msgstr ""
+msgstr "Cosa!?"
 
 msgctxt "120\t438070\t42\tCHK"
 msgid "C'mon. Bring it in!"
@@ -17180,7 +17195,7 @@ msgstr ""
 
 msgctxt "121\t440505\t1\tCHK"
 msgid "All right."
-msgstr ""
+msgstr "Va bene."
 
 msgctxt "121\t440516\t2\tCHK"
 msgid ""
@@ -17194,15 +17209,15 @@ msgstr ""
 
 msgctxt "122\t441609\t1\tCHK"
 msgid "Uncle Kaz."
-msgstr ""
+msgstr "Zio Kaz."
 
 msgctxt "122\t441620\t2\tCHK"
 msgid "Uncle Kaz!"
-msgstr ""
+msgstr "Zio Kaz!"
 
 msgctxt "122\t441631\t3\tCHK"
 msgid "It was so scary!"
-msgstr ""
+msgstr "Che spavento!"
 
 msgctxt "122\t441648\t4\tCHK"
 msgid "Give me a minute here."
@@ -17230,7 +17245,7 @@ msgstr ""
 
 msgctxt "122\t441714\t10\tCHK"
 msgid "Sir..."
-msgstr ""
+msgstr "Signore..."
 
 msgctxt "122\t441721\t11\tCHK"
 msgid "It was all me."
@@ -17242,11 +17257,11 @@ msgstr ""
 
 msgctxt "122\t441759\t13\tCHK"
 msgid "What is it?"
-msgstr ""
+msgstr "E cioè?"
 
 msgctxt "122\t441771\t14\tCHK"
 msgid "Please..."
-msgstr ""
+msgstr "Ti prego..."
 
 msgctxt "122\t441781\t15\tCHK"
 msgid "Save the boss for me."
@@ -17254,7 +17269,7 @@ msgstr ""
 
 msgctxt "122\t441803\t16\tCHK"
 msgid "I will."
-msgstr ""
+msgstr "Certo."
 
 msgctxt "122\t441811\t17\tCHK"
 msgid ""
@@ -17264,7 +17279,7 @@ msgstr ""
 
 msgctxt "122\t441848\t18\tCHK"
 msgid "Glad to... hear it."
-msgstr ""
+msgstr "Mi fa piacere."
 
 msgctxt "122\t441868\t19\tCHK"
 msgid "Answer me, Mikio!"
@@ -17272,7 +17287,7 @@ msgstr ""
 
 msgctxt "122\t441886\t20\tCHK"
 msgid "Dammit...!"
-msgstr ""
+msgstr "Dannazione...!"
 
 msgctxt "122\t441897\t21\tCHK"
 msgid ""
@@ -17290,11 +17305,11 @@ msgstr ""
 
 msgctxt "123\t444601\t1\tCHK"
 msgid "Hello?"
-msgstr ""
+msgstr "Salve?"
 
 msgctxt "123\t444608\t2\tCHK"
 msgid "You mean it!?"
-msgstr ""
+msgstr "Dici sul serio?"
 
 msgctxt "123\t444622\t3\tCHK"
 msgid "Yeah, uh-huh."
@@ -17310,7 +17325,7 @@ msgstr ""
 
 msgctxt "123\t444666\t6\tCHK"
 msgid "Later."
-msgstr ""
+msgstr "A dopo."
 
 msgctxt "123\t444673\t7\tCHK"
 msgid "It's Mikio."
@@ -17322,11 +17337,11 @@ msgstr ""
 
 msgctxt "123\t444710\t9\tCHK"
 msgid "That's incredible."
-msgstr ""
+msgstr "È incredibile."
 
 msgctxt "123\t444729\t10\tCHK"
 msgid "What a relief!"
-msgstr ""
+msgstr "Che sollievo."
 
 msgctxt "123\t444744\t11\tCHK"
 msgid "Well. It's about time I get going."
@@ -17338,7 +17353,7 @@ msgstr ""
 
 msgctxt "123\t444803\t13\tCHK"
 msgid "Yeah."
-msgstr ""
+msgstr "Sì."
 
 msgctxt "123\t444809\t14\tCHK"
 msgid ""
@@ -17348,7 +17363,7 @@ msgstr ""
 
 msgctxt "123\t444874\t15\tCHK"
 msgid "Got it."
-msgstr ""
+msgstr "Capito."
 
 msgctxt "123\t444882\t16\tCHK"
 msgid "Aniki. I'm coming with. Please."
@@ -17360,11 +17375,11 @@ msgstr ""
 
 msgctxt "123\t444918\t18\tCHK"
 msgid "But Aniki!"
-msgstr ""
+msgstr "Ma Aniki!?"
 
 msgctxt "123\t444929\t19\tCHK"
 msgid "I said no!"
-msgstr ""
+msgstr "Ho detto di no!"
 
 msgctxt "123\t444940\t20\tCHK"
 msgid ""
@@ -17402,7 +17417,7 @@ msgstr ""
 
 msgctxt "123\t445230\t28\tCHK"
 msgid "Now's not the time for that."
-msgstr ""
+msgstr "(Non è il momento per questo...)"
 
 msgctxt "123\t445259\t29\tCHK"
 msgid ""
@@ -17450,7 +17465,7 @@ msgstr ""
 
 msgctxt "124\t450409\t1\tCHK"
 msgid "You again?"
-msgstr ""
+msgstr "Ancora tu!?"
 
 msgctxt "124\t450420\t2\tCHK"
 msgid "Just the guy I wanted to see!"
@@ -17474,7 +17489,7 @@ msgstr ""
 
 msgctxt "124\t450545\t7\tCHK"
 msgid "Where is he?"
-msgstr ""
+msgstr "Dov'è?"
 
 msgctxt "124\t450558\t8\tCHK"
 msgid ""
@@ -17530,7 +17545,7 @@ msgstr ""
 
 msgctxt "124\t450917\t20\tCHK"
 msgid "Not so fast!"
-msgstr ""
+msgstr "Non così in fretta!"
 
 msgctxt "124\t450930\t21\tCHK"
 msgid ""
@@ -17552,7 +17567,7 @@ msgstr ""
 
 msgctxt "124\t451077\t25\tCHK"
 msgid "Who's there?"
-msgstr ""
+msgstr "Chi c'è là?"
 
 msgctxt "124\t451090\t26\tCHK"
 msgid ""
@@ -17588,15 +17603,15 @@ msgstr ""
 
 msgctxt "124\t451312\t33\tCHK"
 msgid "The fuck?"
-msgstr ""
+msgstr "Che cazzo!?"
 
 msgctxt "124\t451322\t34\tCHK"
 msgid "You little shit."
-msgstr ""
+msgstr "Brutto stronzo!"
 
 msgctxt "124\t451339\t35\tCHK"
 msgid "I get it now."
-msgstr ""
+msgstr "Ora capisco."
 
 msgctxt "124\t451353\t36\tCHK"
 msgid "Fine. If you want it that bad..."
@@ -17608,11 +17623,11 @@ msgstr ""
 
 msgctxt "124\t451409\t38\tCHK"
 msgid "Boss!"
-msgstr ""
+msgstr "Capo!"
 
 msgctxt "124\t451415\t39\tCHK"
 msgid "Dad!"
-msgstr ""
+msgstr "Papà!"
 
 msgctxt "124\t451420\t40\tCHK"
 msgid "Dad, look out!"
@@ -17638,11 +17653,11 @@ msgstr ""
 
 msgctxt "124\t451577\t45\tCHK"
 msgid "Got it!"
-msgstr ""
+msgstr "Capito!"
 
 msgctxt "124\t451585\t46\tCHK"
 msgid "Right!"
-msgstr ""
+msgstr "Giusto!"
 
 msgctxt "124\t451592\t47\tCHK"
 msgid "How long until the cops show up?"
@@ -17654,7 +17669,7 @@ msgstr ""
 
 msgctxt "124\t451649\t49\tCHK"
 msgid "Great."
-msgstr ""
+msgstr "Ottimo."
 
 msgctxt "124\t451656\t50\tCHK"
 msgid ""
@@ -17668,7 +17683,7 @@ msgstr ""
 
 msgctxt "124\t451747\t52\tCHK"
 msgid "Works for me."
-msgstr ""
+msgstr "Per me va bene."
 
 msgctxt "124\t451761\t53\tCHK"
 msgid "Go on, men! Fuck 'em up!"
@@ -17744,7 +17759,7 @@ msgstr ""
 
 msgctxt "125\t456528\t2\tCHK"
 msgid "Speak for yourself."
-msgstr ""
+msgstr "Parla per te."
 
 msgctxt "125\t456548\t3\tCHK"
 msgid "Saki."
@@ -17816,11 +17831,11 @@ msgstr ""
 
 msgctxt "125\t456906\t19\tCHK"
 msgid "Then..."
-msgstr ""
+msgstr "Allora..."
 
 msgctxt "125\t456914\t20\tCHK"
 msgid "I..."
-msgstr ""
+msgstr "Io..."
 
 msgctxt "125\t456919\t21\tCHK"
 msgid "That's all I need."
@@ -17832,7 +17847,7 @@ msgstr ""
 
 msgctxt "125\t456954\t23\tCHK"
 msgid "Aniki."
-msgstr ""
+msgstr "Capo"
 
 msgctxt "125\t456961\t24\tCHK"
 msgid "We had some good times."
@@ -17860,7 +17875,7 @@ msgstr ""
 
 msgctxt "125\t457089\t30\tCHK"
 msgid "You're..."
-msgstr ""
+msgstr "Tu sei..."
 
 msgctxt "125\t457099\t31\tCHK"
 msgid "A great man."
@@ -17888,7 +17903,7 @@ msgstr ""
 
 msgctxt "125\t457187\t37\tCHK"
 msgid "What about him!?"
-msgstr ""
+msgstr "E lui?"
 
 msgctxt "125\t457204\t38\tCHK"
 msgid "Don't let him win."
@@ -17896,7 +17911,7 @@ msgstr ""
 
 msgctxt "125\t457223\t39\tCHK"
 msgid "I won't!"
-msgstr ""
+msgstr "Non lo farò!"
 
 msgctxt "125\t457232\t40\tCHK"
 msgid "Just don't go!"
@@ -17908,7 +17923,7 @@ msgstr ""
 
 msgctxt "125\t457263\t42\tCHK"
 msgid "I'm... sorry..."
-msgstr ""
+msgstr "Mi... dispiace."
 
 msgctxt "125\t457279\t43\tCHK"
 msgid "Please! Rikiya!"
@@ -17916,7 +17931,7 @@ msgstr ""
 
 msgctxt "125\t457295\t44\tCHK"
 msgid "Come on!"
-msgstr ""
+msgstr "Fatti sotto!"
 
 msgctxt "125\t457304\t45\tCHK"
 msgid "You can't die on me, Rikiya!"
@@ -17980,7 +17995,7 @@ msgstr ""
 
 msgctxt "126\t461245\t7\tCHK"
 msgid "What for?"
-msgstr ""
+msgstr "E per cosa?"
 
 msgctxt "126\t461255\t8\tCHK"
 msgid ""
@@ -17990,7 +18005,7 @@ msgstr ""
 
 msgctxt "126\t461313\t9\tCHK"
 msgid "Guess you're right."
-msgstr ""
+msgstr "Immagino tu abbia ragione."
 
 msgctxt "126\t461333\t10\tCHK"
 msgid "The boss'll be happy, too."
@@ -18020,11 +18035,11 @@ msgstr ""
 
 msgctxt "126\t461566\t16\tCHK"
 msgid "What was that?"
-msgstr ""
+msgstr "Cosa hai detto?"
 
 msgctxt "126\t461581\t17\tCHK"
 msgid "Why, did something good happen?"
-msgstr ""
+msgstr "Ti è successo qualcosa di bello?"
 
 msgctxt "126\t461613\t18\tCHK"
 msgid "Oh yeah, it's⑬"
@@ -18088,11 +18103,11 @@ msgstr ""
 
 msgctxt "127\t464109\t6\tCHK"
 msgid "Thanks for everything."
-msgstr ""
+msgstr "Grazie di tutto."
 
 msgctxt "127\t464132\t7\tCHK"
 msgid "What are you doing?"
-msgstr ""
+msgstr "Che vuoi fare?"
 
 msgctxt "127\t464152\t8\tCHK"
 msgid "This isn't over yet."
@@ -18110,7 +18125,7 @@ msgstr ""
 
 msgctxt "127\t464269\t11\tCHK"
 msgid "Now go."
-msgstr ""
+msgstr "Ora vai."
 
 msgctxt "127\t464277\t12\tCHK"
 msgid "It's just the two of you?"
@@ -18118,7 +18133,7 @@ msgstr ""
 
 msgctxt "127\t464303\t13\tCHK"
 msgid "Yeah."
-msgstr ""
+msgstr "Sì."
 
 msgctxt "127\t464309\t14\tCHK"
 msgid "You're coming, right, Haruka?"
@@ -18144,7 +18159,7 @@ msgstr ""
 
 msgctxt "127\t464458\t19\tCHK"
 msgid "Got it."
-msgstr ""
+msgstr "Capito."
 
 msgctxt "127\t464466\t20\tCHK"
 msgid "And be careful, you hear?"
@@ -18198,7 +18213,7 @@ msgstr ""
 
 msgctxt "128\t466387\t8\tCHK"
 msgid "Hello?"
-msgstr ""
+msgstr "Salve?"
 
 msgctxt "128\t466394\t9\tCHK"
 msgid "No."
@@ -18210,11 +18225,11 @@ msgstr ""
 
 msgctxt "128\t466429\t11\tCHK"
 msgid "Bye."
-msgstr ""
+msgstr "Ciao."
 
 msgctxt "128\t466434\t12\tCHK"
 msgid "Okay, got it."
-msgstr ""
+msgstr "Okay, capito."
 
 msgctxt "129\t468024\t0\tSUS"
 msgid ""
@@ -18222,11 +18237,11 @@ msgstr ""
 
 msgctxt "129\t468025\t1\tCHK"
 msgid "Hey, Uncle Kaz?"
-msgstr ""
+msgstr "Ehi, zio Kaz!"
 
 msgctxt "129\t468041\t2\tCHK"
 msgid "What's up?"
-msgstr ""
+msgstr "Che c'è?"
 
 msgctxt "129\t468052\t3\tCHK"
 msgid "You're here to save Daigo-san, aren't you?"
@@ -18244,7 +18259,7 @@ msgstr ""
 
 msgctxt "129\t468184\t6\tCHK"
 msgid "Uncle Kaz."
-msgstr ""
+msgstr "Zio Kaz."
 
 msgctxt "129\t468195\t7\tCHK"
 msgid "Are you gonna die up here!?"
@@ -18256,7 +18271,7 @@ msgstr ""
 
 msgctxt "129\t468242\t9\tCHK"
 msgid "Huh?"
-msgstr ""
+msgstr "Eh?"
 
 msgctxt "129\t468247\t10\tCHK"
 msgid ""
@@ -18266,11 +18281,11 @@ msgstr ""
 
 msgctxt "129\t468302\t11\tCHK"
 msgid "Uncle Kaz..."
-msgstr ""
+msgstr "Zio Kaz..."
 
 msgctxt "129\t468315\t12\tCHK"
 msgid "I'm sorry."
-msgstr ""
+msgstr "Mi dispiace."
 
 msgctxt "129\t468326\t13\tCHK"
 msgid "It was selfish of me to bring you."
@@ -18282,7 +18297,7 @@ msgstr ""
 
 msgctxt "129\t468397\t15\tCHK"
 msgid "It's okay."
-msgstr ""
+msgstr "Non fa niente..."
 
 msgctxt "129\t468408\t16\tCHK"
 msgid "I'm happy I'm here."
@@ -18316,7 +18331,7 @@ msgstr ""
 
 msgctxt "130\t469636\t2\tCHK"
 msgid "Fine then."
-msgstr ""
+msgstr "Bene, allora."
 
 msgctxt "130\t469647\t3\tCHK"
 msgid ""
@@ -18336,15 +18351,15 @@ msgstr ""
 
 msgctxt "131\t471593\t1\tCHK"
 msgid "It's you."
-msgstr ""
+msgstr "Sei tu..."
 
 msgctxt "131\t471603\t2\tCHK"
 msgid "What are you doing here?"
-msgstr ""
+msgstr "Che ci fai qui?"
 
 msgctxt "131\t471628\t3\tCHK"
 msgid "What?"
-msgstr ""
+msgstr "Cosa?"
 
 msgctxt "131\t471634\t4\tCHK"
 msgid "The roof, huh?"
@@ -18420,7 +18435,7 @@ msgstr ""
 
 msgctxt "132\t483283\t6\tCHK"
 msgid "What!?"
-msgstr ""
+msgstr "Cosa!?"
 
 msgctxt "132\t483290\t7\tCHK"
 msgid "My entire life, nobody believed in me."
@@ -18432,7 +18447,7 @@ msgstr ""
 
 msgctxt "132\t483379\t9\tCHK"
 msgid "Yeah."
-msgstr ""
+msgstr "Sì."
 
 msgctxt "132\t483385\t10\tCHK"
 msgid ""
@@ -18524,7 +18539,7 @@ msgstr ""
 
 msgctxt "132\t484134\t29\tCHK"
 msgid "What do you mean?"
-msgstr ""
+msgstr "Cosa intendi?"
 
 msgctxt "132\t484152\t30\tCHK"
 msgid "Living through that reality made me wonder."
@@ -18578,7 +18593,7 @@ msgstr ""
 
 msgctxt "132\t484554\t42\tCHK"
 msgid "Correct."
-msgstr ""
+msgstr "Esatto."
 
 msgctxt "132\t484563\t43\tCHK"
 msgid "He's nothing more than a tangle of tubes now."
@@ -18618,7 +18633,7 @@ msgstr ""
 
 msgctxt "132\t484816\t51\tCHK"
 msgid "What?"
-msgstr ""
+msgstr "Cosa?"
 
 msgctxt "132\t484822\t52\tCHK"
 msgid "Why do you do it!?"
@@ -18718,7 +18733,7 @@ msgstr ""
 
 msgctxt "132\t485695\t73\tCHK"
 msgid "Fine then."
-msgstr ""
+msgstr "Bene, allora."
 
 msgctxt "132\t485706\t74\tCHK"
 msgid "But fair warning."
@@ -18958,7 +18973,7 @@ msgstr ""
 
 msgctxt "133\t498610\t4\tCHK"
 msgid "Uh-huh."
-msgstr ""
+msgstr "Già."
 
 msgctxt "133\t498618\t5\tCHK"
 msgid "Sir? Are you hurt?"
@@ -18966,7 +18981,7 @@ msgstr ""
 
 msgctxt "133\t498637\t6\tCHK"
 msgid "I'm fine."
-msgstr ""
+msgstr "Sto bene."
 
 msgctxt "133\t498647\t7\tCHK"
 msgid "Chairman, I've been so worried about⑬"
@@ -19088,7 +19103,7 @@ msgstr ""
 
 msgctxt "133\t499435\t34\tCHK"
 msgid "Yes."
-msgstr ""
+msgstr "Sì."
 
 msgctxt "133\t499440\t35\tCHK"
 msgid "Andre Richardson."
@@ -19128,7 +19143,7 @@ msgstr ""
 
 msgctxt "133\t499601\t44\tCHK"
 msgid "What... happened here?"
-msgstr ""
+msgstr "Che è successo qui?"
 
 msgctxt "133\t499624\t45\tCHK"
 msgid "Mine?"
@@ -19136,7 +19151,7 @@ msgstr ""
 
 msgctxt "133\t499630\t46\tCHK"
 msgid "Chairman..."
-msgstr ""
+msgstr "Presidente..."
 
 msgctxt "133\t499642\t47\tCHK"
 msgid "Damn. He's tougher than I thought!"
@@ -19180,7 +19195,7 @@ msgstr ""
 
 msgctxt "133\t499933\t56\tCHK"
 msgid "Uncle Kaz!"
-msgstr ""
+msgstr "Zio Kaz!"
 
 msgctxt "133\t499944\t57\tCHK"
 msgid ""
@@ -19264,7 +19279,7 @@ msgstr ""
 
 msgctxt "133\t500713\t72\tCHK"
 msgid "What!?"
-msgstr ""
+msgstr "Cosa!?"
 
 msgctxt "133\t500720\t73\tCHK"
 msgid "What the fuck!?"
@@ -19278,7 +19293,7 @@ msgstr ""
 
 msgctxt "133\t500779\t75\tCHK"
 msgid "Dammit!"
-msgstr ""
+msgstr "Dannazione!"
 
 msgctxt "133\t500787\t76\tCHK"
 msgid ""
@@ -19350,7 +19365,7 @@ msgstr ""
 
 msgctxt "134\t506585\t1\tCHK"
 msgid "Understood."
-msgstr ""
+msgstr "Ricevuto."
 
 msgctxt "134\t506597\t2\tCHK"
 msgid "I assume you'll be going tonight, then."
@@ -19358,7 +19373,7 @@ msgstr ""
 
 msgctxt "134\t506637\t3\tCHK"
 msgid "I do."
-msgstr ""
+msgstr "Sì."
 
 msgctxt "134\t506643\t4\tCHK"
 msgid "City's gonna be lonely without you."
@@ -19366,7 +19381,7 @@ msgstr ""
 
 msgctxt "134\t506679\t5\tCHK"
 msgid "I look forward to it."
-msgstr ""
+msgstr "Non vedo l'ora."
 
 msgctxt "134\t506701\t6\tCHK"
 msgid "Haruka-chan's here for you."
@@ -19378,7 +19393,7 @@ msgstr ""
 
 msgctxt "134\t506750\t8\tCHK"
 msgid "Farewell."
-msgstr ""
+msgstr "Addio."
 
 msgctxt "134\t506760\t9\tCHK"
 msgid "Hold up, Kiryu."
@@ -19420,7 +19435,7 @@ msgstr ""
 
 msgctxt "134\t506990\t18\tCHK"
 msgid "What?"
-msgstr ""
+msgstr "Cosa?"
 
 msgctxt "134\t506996\t19\tCHK"
 msgid ""
@@ -19438,7 +19453,7 @@ msgstr ""
 
 msgctxt "134\t507127\t22\tCHK"
 msgid "Fair enough."
-msgstr ""
+msgstr "Giusta osservazione."
 
 msgctxt "134\t507140\t23\tCHK"
 msgid "Maybe I could buy into it."
@@ -19490,7 +19505,7 @@ msgstr ""
 
 msgctxt "134\t507472\t34\tCHK"
 msgid "Uncle Kaz!"
-msgstr ""
+msgstr "Zio Kaz!"
 
 msgctxt "134\t507483\t35\tCHK"
 msgid "Uncle Kaz! Uncle Kaz!"
@@ -19550,15 +19565,15 @@ msgstr ""
 
 msgctxt "135\t510048\t3\tCHK"
 msgid "Here it comes!"
-msgstr ""
+msgstr "Eccola!"
 
 msgctxt "135\t510063\t4\tCHK"
 msgid "Can't touch me!"
-msgstr ""
+msgstr "Non mi prendi!"
 
 msgctxt "135\t510079\t5\tCHK"
 msgid "Take this!"
-msgstr ""
+msgstr "Prendi questo!"
 
 msgctxt "135\t510090\t6\tCHK"
 msgid "Hop and a skip!"
@@ -19570,7 +19585,7 @@ msgstr ""
 
 msgctxt "135\t510127\t8\tCHK"
 msgid "Oh, it's nothing."
-msgstr ""
+msgstr "Oh, non è niente."
 
 msgctxt "135\t510145\t9\tCHK"
 msgid "Hey! Come look, Haruka-chan!"
@@ -19678,7 +19693,7 @@ msgstr ""
 
 msgctxt "137\t513951\t3\tCHK"
 msgid "Don't move!"
-msgstr ""
+msgstr "Non muoverti!"
 
 msgctxt "137\t513963\t4\tCHK"
 msgid "Or she gets it."
@@ -19714,7 +19729,7 @@ msgstr ""
 
 msgctxt "137\t514266\t11\tCHK"
 msgid "Excuse me?"
-msgstr ""
+msgstr "Mi scusi?"
 
 msgctxt "137\t514277\t12\tCHK"
 msgid "Listen, Mama."
@@ -19800,7 +19815,7 @@ msgstr ""
 
 msgctxt "138\t516931\t3\tCHK"
 msgid "Yeah."
-msgstr ""
+msgstr "Sì."
 
 msgctxt "138\t516937\t4\tCHK"
 msgid "Then I'm convinced."
@@ -19812,7 +19827,7 @@ msgstr ""
 
 msgctxt "138\t516965\t6\tCHK"
 msgid "Thank you."
-msgstr ""
+msgstr "Grazie."
 
 msgctxt "138\t516976\t7\tCHK"
 msgid ""
@@ -19821,7 +19836,8 @@ msgid ""
 msgstr ""
 
 msgctxt "138\t517068\t8\tCHK"
-msgid "Go forward with the Ryudo Family and don't\\look back. You have my blessing."
+msgid ""
+"Go forward with the Ryudo Family and don't\\look back. You have my blessing."
 msgstr ""
 
 msgctxt "138\t517144\t9\tCHK"
@@ -19842,7 +19858,7 @@ msgstr ""
 
 msgctxt "139\t518585\t1\tCHK"
 msgid "Thank you."
-msgstr ""
+msgstr "Grazie."
 
 msgctxt "139\t518596\t2\tCHK"
 msgid "Isn't that pendant...?"
@@ -19900,7 +19916,7 @@ msgstr ""
 
 msgctxt "140\t520361\t1\tCHK"
 msgid "I..."
-msgstr ""
+msgstr "Io..."
 
 msgctxt "140\t520366\t2\tCHK"
 msgid "I really am Natsumi."
@@ -20008,7 +20024,7 @@ msgstr ""
 
 msgctxt "142\t523392\t3\tCHK"
 msgid "Yeah. You're right."
-msgstr ""
+msgstr "Ah, sì. Hai ragione."
 
 msgctxt "142\t523412\t4\tCHK"
 msgid "Now wait just a minute, assholes!"
@@ -20080,7 +20096,7 @@ msgstr ""
 
 msgctxt "143\t525371\t10\tCHK"
 msgid "I guess so."
-msgstr ""
+msgstr "Immagino di sì."
 
 msgctxt "143\t525383\t11\tCHK"
 msgid ""
@@ -20110,7 +20126,7 @@ msgstr ""
 
 msgctxt "144\t526537\t1\tCHK"
 msgid "Heeey!"
-msgstr ""
+msgstr "Eeehi!"
 
 msgctxt "144\t526544\t2\tCHK"
 msgid "Akimoto-kun!"
@@ -20122,7 +20138,7 @@ msgstr ""
 
 msgctxt "144\t526570\t4\tCHK"
 msgid "Oh, yeah?"
-msgstr ""
+msgstr "Ah, sì?"
 
 msgctxt "144\t526580\t5\tCHK"
 msgid "Hey, Akimoto-kun!"
@@ -20162,7 +20178,7 @@ msgstr ""
 
 msgctxt "145\t528082\t7\tCHK"
 msgid "What!?"
-msgstr ""
+msgstr "Cosa!?"
 
 msgctxt "145\t528089\t8\tCHK"
 msgid "I love you, Akimoto-kun."
@@ -20170,7 +20186,7 @@ msgstr ""
 
 msgctxt "145\t528114\t9\tCHK"
 msgid "I can't believe it..."
-msgstr ""
+msgstr "Non ci posso credere..."
 
 msgctxt "145\t528136\t10\tCHK"
 msgid "Mizuki-chan is actually my little sister!"
@@ -20178,7 +20194,7 @@ msgstr ""
 
 msgctxt "145\t528178\t11\tCHK"
 msgid "Wait."
-msgstr ""
+msgstr "Aspetta."
 
 msgctxt "145\t528184\t12\tCHK"
 msgid "If you were my little sister all along..."
@@ -20228,11 +20244,11 @@ msgstr ""
 
 msgctxt "146\t529604\t5\tCHK"
 msgid "Ow!"
-msgstr ""
+msgstr "Ahi!"
 
 msgctxt "146\t529608\t6\tCHK"
 msgid "That was close!"
-msgstr ""
+msgstr "Per un soffio!"
 
 msgctxt "146\t529624\t7\tCHK"
 msgid ""
@@ -20294,7 +20310,7 @@ msgstr ""
 
 msgctxt "147\t531161\t12\tCHK"
 msgid "I'm sorry."
-msgstr ""
+msgstr "Mi dispiace."
 
 msgctxt "147\t531172\t13\tCHK"
 msgid ""
@@ -20308,7 +20324,7 @@ msgstr ""
 
 msgctxt "147\t531245\t15\tCHK"
 msgid "Yeah."
-msgstr ""
+msgstr "Sì."
 
 msgctxt "147\t531251\t16\tCHK"
 msgid "I love you, Mizuki-chan."
@@ -20346,7 +20362,7 @@ msgstr ""
 
 msgctxt "149\t533593\t1\tCHK"
 msgid "Hey, Kiryu-san."
-msgstr ""
+msgstr "Ehi, Kiryu-san?"
 
 msgctxt "149\t533609\t2\tCHK"
 msgid "I just can't..."
@@ -20358,7 +20374,7 @@ msgstr ""
 
 msgctxt "149\t533642\t4\tCHK"
 msgid "So."
-msgstr ""
+msgstr "Va bene."
 
 msgctxt "149\t533646\t5\tCHK"
 msgid "Teach me how to do it like a pro?"
@@ -20372,7 +20388,7 @@ msgstr ""
 
 msgctxt "149\t533724\t7\tCHK"
 msgid "Hey...!"
-msgstr ""
+msgstr "Ehi..."
 
 msgctxt "149\t533732\t8\tCHK"
 msgid "What kind of game are you playing?"
@@ -20410,7 +20426,7 @@ msgstr ""
 
 msgctxt "149\t534038\t15\tCHK"
 msgid "What the heck?"
-msgstr ""
+msgstr "Che diavolo?"
 
 msgctxt "149\t534053\t16\tCHK"
 msgid ""
@@ -20490,7 +20506,7 @@ msgstr ""
 
 msgctxt "151\t536608\t6\tCHK"
 msgid "That's right."
-msgstr ""
+msgstr "Esatto."
 
 msgctxt "151\t536622\t7\tCHK"
 msgid "It was me all along."
@@ -20548,7 +20564,7 @@ msgstr ""
 
 msgctxt "152\t538395\t11\tCHK"
 msgid "What's gotten into you guys?"
-msgstr ""
+msgstr "Ma che ti è preso?"
 
 msgctxt "152\t538424\t12\tCHK"
 msgid ""
@@ -20620,11 +20636,11 @@ msgstr ""
 
 msgctxt "154\t541193\t1\tCHK"
 msgid "Wait."
-msgstr ""
+msgstr "Aspetta."
 
 msgctxt "154\t541199\t2\tCHK"
 msgid "Dragon! Look out!"
-msgstr ""
+msgstr "Dragon! Attento!"
 
 msgctxt "154\t541217\t3\tCHK"
 msgid "Taichi!"
@@ -20672,7 +20688,7 @@ msgstr ""
 
 msgctxt "155\t542185\t1\tCHK"
 msgid "Take this!"
-msgstr ""
+msgstr "Prendi questo!"
 
 msgctxt "155\t542196\t2\tCHK"
 msgid "Strike!"
@@ -20690,11 +20706,11 @@ msgstr ""
 
 msgctxt "155\t542275\t5\tCHK"
 msgid "Who is he?"
-msgstr ""
+msgstr "Chi è?"
 
 msgctxt "155\t542286\t6\tCHK"
 msgid "Beats me."
-msgstr ""
+msgstr "Non lo so."
 
 msgctxt "155\t542296\t7\tCHK"
 msgid "Why don't you go see if he wants to play?"
@@ -20714,7 +20730,7 @@ msgstr ""
 
 msgctxt "156\t543503\t3\tCHK"
 msgid "Huh!?"
-msgstr ""
+msgstr "Eh!?"
 
 msgctxt "156\t543509\t4\tCHK"
 msgid "How could this happen!?"
@@ -20748,7 +20764,7 @@ msgstr ""
 
 msgctxt "157\t545401\t1\tCHK"
 msgid "Stop!"
-msgstr ""
+msgstr "Fermo!"
 
 msgctxt "157\t545407\t2\tCHK"
 msgid "Whoa, just look at it."
@@ -20756,7 +20772,7 @@ msgstr ""
 
 msgctxt "157\t545430\t3\tCHK"
 msgid "What the heck?"
-msgstr ""
+msgstr "Che diavolo?"
 
 msgctxt "157\t545445\t4\tCHK"
 msgid "You're disgusting."
@@ -20772,15 +20788,15 @@ msgstr ""
 
 msgctxt "157\t545493\t7\tCHK"
 msgid "What was that?"
-msgstr ""
+msgstr "Cosa hai detto?"
 
 msgctxt "157\t545508\t8\tCHK"
 msgid "Take this!"
-msgstr ""
+msgstr "Prendi questo!"
 
 msgctxt "157\t545519\t9\tCHK"
 msgid "What's up with him?"
-msgstr ""
+msgstr "Che gli prende?"
 
 msgctxt "157\t545539\t10\tCHK"
 msgid "Are you hurt, Okada-kun?"
@@ -20792,7 +20808,7 @@ msgstr ""
 
 msgctxt "157\t545595\t12\tCHK"
 msgid "You okay?"
-msgstr ""
+msgstr "Tutto bene?"
 
 msgctxt "157\t545605\t13\tCHK"
 msgid ""
@@ -20802,7 +20818,7 @@ msgstr ""
 
 msgctxt "157\t545643\t14\tCHK"
 msgid "What?"
-msgstr ""
+msgstr "Cosa?"
 
 msgctxt "157\t545649\t15\tCHK"
 msgid "My burn."
@@ -20810,7 +20826,7 @@ msgstr ""
 
 msgctxt "157\t545658\t16\tCHK"
 msgid "Of course not!"
-msgstr ""
+msgstr "Certo che no!"
 
 msgctxt "157\t545673\t17\tCHK"
 msgid "I know this isn't easy for you, Riona..."
@@ -20826,7 +20842,7 @@ msgstr ""
 
 msgctxt "157\t545766\t20\tCHK"
 msgid "I'm so sorry."
-msgstr ""
+msgstr "Mi dispiace tanto!"
 
 msgctxt "157\t545780\t21\tCHK"
 msgid "Huh? For what?"
@@ -20926,7 +20942,7 @@ msgstr ""
 
 msgctxt "159\t549625\t1\tCHK"
 msgid "Everyone!"
-msgstr ""
+msgstr "Tutti"
 
 msgctxt "159\t549635\t2\tCHK"
 msgid ""
@@ -20936,11 +20952,11 @@ msgstr ""
 
 msgctxt "159\t549677\t3\tCHK"
 msgid "This is for you."
-msgstr ""
+msgstr "Questo è per te."
 
 msgctxt "159\t549694\t4\tCHK"
 msgid "What is it?"
-msgstr ""
+msgstr "E cioè?"
 
 msgctxt "159\t549706\t5\tCHK"
 msgid ""
@@ -20954,7 +20970,7 @@ msgstr ""
 
 msgctxt "159\t549758\t7\tCHK"
 msgid "You guys..."
-msgstr ""
+msgstr "Ragazzi..."
 
 msgctxt "159\t549770\t8\tCHK"
 msgid ""
@@ -20994,7 +21010,7 @@ msgstr ""
 
 msgctxt "160\t550921\t1\tCHK"
 msgid "I got you now!"
-msgstr ""
+msgstr "Preso!"
 
 msgctxt "160\t550936\t2\tCHK"
 msgid "Ah!"
@@ -21028,7 +21044,7 @@ msgstr ""
 
 msgctxt "161\t552338\t5\tCHK"
 msgid "But..."
-msgstr ""
+msgstr "Ma..."
 
 msgctxt "161\t552345\t6\tCHK"
 msgid "You heard me! Run!"
@@ -21040,7 +21056,7 @@ msgstr ""
 
 msgctxt "161\t552379\t8\tCHK"
 msgid "Please!"
-msgstr ""
+msgstr "Ti prego!"
 
 msgctxt "161\t552387\t9\tCHK"
 msgid "The shit!?"
@@ -21056,11 +21072,11 @@ msgstr ""
 
 msgctxt "161\t552431\t12\tCHK"
 msgid "You there!"
-msgstr ""
+msgstr "Tu, lì!"
 
 msgctxt "161\t552442\t13\tCHK"
 msgid "Get back here!"
-msgstr ""
+msgstr "Torna qui!"
 
 msgctxt "161\t552457\t14\tCHK"
 msgid "Hey, you okay?"
@@ -21088,7 +21104,7 @@ msgstr ""
 
 msgctxt "161\t552584\t19\tCHK"
 msgid "Yeah, I think so."
-msgstr ""
+msgstr "Già, penso di sì."
 
 msgctxt "161\t552602\t20\tCHK"
 msgid "Mame! Where's Mame!?"
@@ -21112,7 +21128,7 @@ msgstr ""
 
 msgctxt "161\t552680\t25\tCHK"
 msgid "All right, all right."
-msgstr ""
+msgstr "Va bene, va bene."
 
 msgctxt "161\t552702\t26\tCHK"
 msgid "Crap, we gotta leg it!"
@@ -21142,7 +21158,7 @@ msgstr ""
 
 msgctxt "162\t555208\t4\tCHK"
 msgid "Huh!?"
-msgstr ""
+msgstr "Eh!?"
 
 msgctxt "162\t555214\t5\tCHK"
 msgid "But even still..."
@@ -21160,7 +21176,7 @@ msgstr ""
 
 msgctxt "162\t555333\t8\tCHK"
 msgid "So... I'm sorry."
-msgstr ""
+msgstr "Oh... Mi dispiace."
 
 msgctxt "162\t555350\t9\tCHK"
 msgid "Will you ever forgive me?"
@@ -21232,7 +21248,7 @@ msgstr ""
 
 msgctxt "163\t557568\t4\tCHK"
 msgid "What's up?"
-msgstr ""
+msgstr "Che c'è?"
 
 msgctxt "163\t557579\t5\tCHK"
 msgid "Enjoy, everyone!"
@@ -21378,7 +21394,7 @@ msgstr ""
 
 msgctxt "165\t563894\t9\tCHK"
 msgid "However..."
-msgstr ""
+msgstr "Però..."
 
 msgctxt "165\t563905\t10\tCHK"
 msgid "He had tried to force himself on Yumi."
@@ -21498,7 +21514,7 @@ msgstr ""
 
 msgctxt "166\t568681\t1\tCHK"
 msgid "However..."
-msgstr ""
+msgstr "Però..."
 
 msgctxt "166\t568692\t2\tCHK"
 msgid "We were on the run day after day."
@@ -21642,7 +21658,7 @@ msgstr ""
 
 msgctxt "167\t574156\t10\tCHK"
 msgid "However..."
-msgstr ""
+msgstr "Però..."
 
 msgctxt "167\t574167\t11\tCHK"
 msgid "...my father told me everything."
@@ -21770,7 +21786,7 @@ msgstr ""
 
 msgctxt "168\t579403\t7\tCHK"
 msgid "However..."
-msgstr ""
+msgstr "Però..."
 
 msgctxt "168\t579414\t8\tCHK"
 msgid "Yumi's desperate courage..."
@@ -21914,7 +21930,7 @@ msgstr ""
 
 msgctxt "169\t584758\t7\tCHK"
 msgid "Die!"
-msgstr ""
+msgstr "Muori!"
 
 msgctxt "169\t584763\t8\tCHK"
 msgid "Terada was shot."
@@ -22306,7 +22322,7 @@ msgstr ""
 
 msgctxt "172\t601312\t18\tCHK"
 msgid "But..."
-msgstr ""
+msgstr "Ma..."
 
 msgctxt "172\t601319\t19\tCHK"
 msgid ""
@@ -22442,95 +22458,95 @@ msgstr ""
 
 msgctxt "173\t606569\t1\tCHK"
 msgid "Off"
-msgstr ""
+msgstr "No"
 
 msgctxt "173\t606573\t2\tCHK"
 msgid "On"
-msgstr ""
+msgstr "Acceso"
 
 msgctxt "173\t606576\t3\tCHK"
 msgid "10th Kyu"
-msgstr ""
+msgstr "10° Kyu"
 
 msgctxt "173\t606585\t4\tCHK"
 msgid "9th Kyu"
-msgstr ""
+msgstr "9° Kyu"
 
 msgctxt "173\t606593\t5\tCHK"
 msgid "8th Kyu"
-msgstr ""
+msgstr "8° Kyu"
 
 msgctxt "173\t606601\t6\tCHK"
 msgid "7th Kyu"
-msgstr ""
+msgstr "7° Kyu"
 
 msgctxt "173\t606609\t7\tCHK"
 msgid "6th Kyu"
-msgstr ""
+msgstr "6° Kyu"
 
 msgctxt "173\t606617\t8\tCHK"
 msgid "5th Kyu"
-msgstr ""
+msgstr "5° Kyu"
 
 msgctxt "173\t606625\t9\tCHK"
 msgid "4th Kyu"
-msgstr ""
+msgstr "4° Kyu"
 
 msgctxt "173\t606633\t10\tCHK"
 msgid "3rd Kyu"
-msgstr ""
+msgstr "3° Kyu"
 
 msgctxt "173\t606641\t11\tCHK"
 msgid "2nd Kyu"
-msgstr ""
+msgstr "2° Kyu"
 
 msgctxt "173\t606649\t12\tCHK"
 msgid "1st Kyu"
-msgstr ""
+msgstr "1° Kyu"
 
 msgctxt "173\t606657\t13\tCHK"
 msgid "1st Dan"
-msgstr ""
+msgstr "1° Dan"
 
 msgctxt "173\t606665\t14\tCHK"
 msgid "2nd Dan"
-msgstr ""
+msgstr "2° Dan"
 
 msgctxt "173\t606673\t15\tCHK"
 msgid "3rd Dan"
-msgstr ""
+msgstr "3° Dan"
 
 msgctxt "173\t606681\t16\tCHK"
 msgid "4th Dan"
-msgstr ""
+msgstr "4° Dan"
 
 msgctxt "173\t606689\t17\tCHK"
 msgid "5th Dan"
-msgstr ""
+msgstr "5° Dan"
 
 msgctxt "173\t606697\t18\tCHK"
 msgid "6th Dan"
-msgstr ""
+msgstr "6° Dan"
 
 msgctxt "173\t606705\t19\tCHK"
 msgid "7th Dan"
-msgstr ""
+msgstr "7° Dan"
 
 msgctxt "173\t606713\t20\tCHK"
 msgid "8th Dan"
-msgstr ""
+msgstr "8° Dan"
 
 msgctxt "173\t606721\t21\tCHK"
 msgid "9th Dan"
-msgstr ""
+msgstr "9° Dan"
 
 msgctxt "173\t606729\t22\tCHK"
 msgid "10th Dan"
-msgstr ""
+msgstr "10° Dan"
 
 msgctxt "173\t606738\t23\tCHK"
 msgid "Shogi King"
-msgstr ""
+msgstr "Re dello shogi"
 
 msgctxt "173\t606749\t24\tCHK"
 msgid "Yagi"
@@ -22678,7 +22694,7 @@ msgstr ""
 
 msgctxt "173\t607089\t60\tCHK"
 msgid "Solid defense"
-msgstr ""
+msgstr "Difesa solida"
 
 msgctxt "173\t607103\t61\tCHK"
 msgid "Behaves aggressively"
@@ -22714,7 +22730,7 @@ msgstr ""
 
 msgctxt "173\t607302\t69\tCHK"
 msgid "Balanced offense/defense"
-msgstr ""
+msgstr "Attacco/difesa bilanciati"
 
 msgctxt "173\t607327\t70\tCHK"
 msgid "Skilled with rooks"
@@ -22778,55 +22794,55 @@ msgstr ""
 
 msgctxt "173\t607735\t85\tCHK"
 msgid "Shogi is life"
-msgstr ""
+msgstr "Lo Shogi è vita"
 
 msgctxt "173\t607749\t86\tCHK"
 msgid "Challenge 1"
-msgstr ""
+msgstr "Sfida 1"
 
 msgctxt "173\t607761\t87\tCHK"
 msgid "Challenge 2"
-msgstr ""
+msgstr "Sfida 2"
 
 msgctxt "173\t607773\t88\tCHK"
 msgid "Challenge 3"
-msgstr ""
+msgstr "Sfida 3"
 
 msgctxt "173\t607785\t89\tCHK"
 msgid "Challenge 4"
-msgstr ""
+msgstr "Sfida 4"
 
 msgctxt "173\t607797\t90\tCHK"
 msgid "Challenge 5"
-msgstr ""
+msgstr "Sfida 5"
 
 msgctxt "173\t607809\t91\tCHK"
 msgid "Challenge 6"
-msgstr ""
+msgstr "Sfida 6"
 
 msgctxt "173\t607821\t92\tCHK"
 msgid "Challenge 7"
-msgstr ""
+msgstr "Sfida 7"
 
 msgctxt "173\t607833\t93\tCHK"
 msgid "Challenge 8"
-msgstr ""
+msgstr "Sfida 8"
 
 msgctxt "173\t607845\t94\tCHK"
 msgid "Challenge 9"
-msgstr ""
+msgstr "Sfida 9"
 
 msgctxt "173\t607857\t95\tCHK"
 msgid "Challenge 10"
-msgstr ""
+msgstr "Sfida 10"
 
 msgctxt "173\t607870\t96\tCHK"
 msgid "Final Battle"
-msgstr ""
+msgstr "Battaglia finale"
 
 msgctxt "173\t607883\t97\tCHK"
 msgid "Desperation"
-msgstr ""
+msgstr "Disperazione"
 
 msgctxt "174\t615720\t0\tSUS"
 msgid ""
@@ -22834,7 +22850,7 @@ msgstr ""
 
 msgctxt "174\t615721\t1\tCHK"
 msgid "Sexy Dress"
-msgstr ""
+msgstr "Abito sexy"
 
 msgctxt "174\t615732\t2\tCHK"
 msgid "One-piece Dress"
@@ -22850,7 +22866,7 @@ msgstr ""
 
 msgctxt "174\t615773\t5\tCHK"
 msgid "Maid Outfit"
-msgstr ""
+msgstr "Costume da cameriera"
 
 msgctxt "174\t615785\t6\tCHK"
 msgid "Blazer"
@@ -22874,19 +22890,19 @@ msgstr ""
 
 msgctxt "174\t615836\t11\tCHK"
 msgid "Short Hair"
-msgstr ""
+msgstr "Capelli corti"
 
 msgctxt "174\t615847\t12\tCHK"
 msgid "Princess Curls"
-msgstr ""
+msgstr "Boccoli da principessa"
 
 msgctxt "174\t615862\t13\tCHK"
 msgid "Medium"
-msgstr ""
+msgstr "Media"
 
 msgctxt "174\t615869\t14\tCHK"
 msgid "Curly Updo"
-msgstr ""
+msgstr "Raccolto riccio"
 
 msgctxt "174\t615880\t15\tCHK"
 msgid "Bob"
@@ -22898,15 +22914,15 @@ msgstr ""
 
 msgctxt "174\t615892\t17\tCHK"
 msgid "Pony Tail"
-msgstr ""
+msgstr "Coda di cavallo"
 
 msgctxt "174\t615902\t18\tCHK"
 msgid "Straight Updo"
-msgstr ""
+msgstr "Raccolto liscio"
 
 msgctxt "174\t615916\t19\tCHK"
 msgid "Sisterly Updo"
-msgstr ""
+msgstr "Raccolto ordinato"
 
 msgctxt "174\t615930\t20\tCHK"
 msgid "Twin Pony Tails"
@@ -22914,11 +22930,11 @@ msgstr ""
 
 msgctxt "174\t615946\t21\tCHK"
 msgid "Loose Dango Hair"
-msgstr ""
+msgstr "Dango spettinato"
 
 msgctxt "174\t615963\t22\tCHK"
 msgid "Tiara"
-msgstr ""
+msgstr "Tiare"
 
 msgctxt "174\t615969\t23\tCHK"
 msgid "Ribbon"
@@ -22926,23 +22942,23 @@ msgstr ""
 
 msgctxt "174\t615976\t24\tCHK"
 msgid "Headband"
-msgstr ""
+msgstr "Cerchietto"
 
 msgctxt "174\t615985\t25\tCHK"
 msgid "Cat Ears"
-msgstr ""
+msgstr "Orecchie da gatto"
 
 msgctxt "174\t615994\t26\tCHK"
 msgid "Headdress"
-msgstr ""
+msgstr "Copricapo"
 
 msgctxt "174\t616004\t27\tCHK"
 msgid "Framed Glasses"
-msgstr ""
+msgstr "Occhiali con montatura"
 
 msgctxt "174\t616019\t28\tCHK"
 msgid "Frameless Glasses"
-msgstr ""
+msgstr "Occhiali senza montatura"
 
 msgctxt "174\t616037\t29\tCHK"
 msgid "Petite Type"
@@ -22950,19 +22966,19 @@ msgstr ""
 
 msgctxt "174\t616049\t30\tCHK"
 msgid "Showy Rings"
-msgstr ""
+msgstr "Anelli vistosi"
 
 msgctxt "174\t616061\t31\tCHK"
 msgid "Heart"
-msgstr ""
+msgstr "Cuori"
 
 msgctxt "174\t616067\t32\tCHK"
 msgid "Crosses"
-msgstr ""
+msgstr "Croci"
 
 msgctxt "174\t616075\t33\tCHK"
 msgid "Gorgeous"
-msgstr ""
+msgstr "Splendida"
 
 msgctxt "174\t616084\t34\tCHK"
 msgid "Chic"
@@ -22970,15 +22986,15 @@ msgstr ""
 
 msgctxt "174\t616089\t35\tCHK"
 msgid "Skull"
-msgstr ""
+msgstr "Teschio"
 
 msgctxt "174\t616095\t36\tCHK"
 msgid "Ornament"
-msgstr ""
+msgstr "Ornamento"
 
 msgctxt "174\t616104\t37\tCHK"
 msgid "Circle"
-msgstr ""
+msgstr "Cerchio"
 
 msgctxt "174\t616111\t38\tCHK"
 msgid "Rose"
@@ -22994,7 +23010,7 @@ msgstr ""
 
 msgctxt "174\t616143\t41\tCHK"
 msgid "Simple"
-msgstr ""
+msgstr "Semplice"
 
 msgctxt "174\t616150\t42\tCHK"
 msgid "Simple Belt"
@@ -23006,19 +23022,19 @@ msgstr ""
 
 msgctxt "174\t616176\t44\tCHK"
 msgid "Chain"
-msgstr ""
+msgstr "Catena"
 
 msgctxt "174\t616182\t45\tCHK"
 msgid "Cute Nails"
-msgstr ""
+msgstr "Unghie carine"
 
 msgctxt "174\t616193\t46\tCHK"
 msgid "Decorated Nails"
-msgstr ""
+msgstr "Unghie decorate"
 
 msgctxt "174\t616209\t47\tCHK"
 msgid "Gorgeous Nails"
-msgstr ""
+msgstr "Unghie magnifiche"
 
 msgctxt "174\t616224\t48\tCHK"
 msgid "Cool"
@@ -23030,15 +23046,15 @@ msgstr ""
 
 msgctxt "174\t616236\t50\tCHK"
 msgid "Gorgeous Watch"
-msgstr ""
+msgstr "Orologio sfarzoso"
 
 msgctxt "174\t616251\t51\tCHK"
 msgid "Designer Watch"
-msgstr ""
+msgstr "Orologio firmato"
 
 msgctxt "174\t616266\t52\tCHK"
 msgid "Simple Watch"
-msgstr ""
+msgstr "Orologio semplice"
 
 msgctxt "174\t616279\t53\tCHK"
 msgid "A standard dress with sexy trim."
@@ -23059,10 +23075,12 @@ msgid ""
 "A cosplay classic. As you wish,\n"
 "Master. ☆"
 msgstr ""
+"Un classico del cosplay. Come desidera,\n"
+"Padrone. ☆"
 
 msgctxt "174\t616434\t57\tCHK"
 msgid "Chic and mature."
-msgstr ""
+msgstr "Chic e maturo."
 
 msgctxt "174\t616451\t58\tCHK"
 msgid "A flashy, stylish dress."
@@ -23079,16 +23097,20 @@ msgid ""
 "Express your freedom with this\n"
 "relaxed style."
 msgstr ""
+"Esprimi la tua libertà con questo\n"
+"stile rilassato."
 
 msgctxt "174\t616574\t61\tCHK"
 msgid ""
 "Some might call it boyish, but who\n"
 "cares when it looks this good?"
 msgstr ""
+"Qualcuno potrebbe definirlo mascolino,\n"
+"ma che importa quando sta così bene?"
 
 msgctxt "174\t616640\t62\tCHK"
 msgid "Curls fit for royalty.　"
-msgstr ""
+msgstr "Boccoli degni di una regina."
 
 msgctxt "174\t616666\t63\tCHK"
 msgid "An old standby."
@@ -23099,34 +23121,40 @@ msgid ""
 "A fancy look that's sure to raise\n"
 "spirits."
 msgstr ""
+"Un look raffinato che solleverà di\n"
+"certo gli animi."
 
 msgctxt "174\t616725\t65\tCHK"
 msgid "Nice, casual, and clean."
-msgstr ""
+msgstr "Bello, casual e pulito."
 
 msgctxt "174\t616750\t66\tCHK"
 msgid "Au naturel. No ifs, ands, or buts."
-msgstr ""
+msgstr "Al naturale. Senza se e senza ma."
 
 msgctxt "174\t616785\t67\tCHK"
 msgid "Modern and elegant."
-msgstr ""
+msgstr "Moderno ed elegante."
 
 msgctxt "174\t616805\t68\tCHK"
 msgid ""
 "There's nothing classier than this\n"
 "dignified look."
 msgstr ""
+"Non c'è niente di più chic di\n"
+"questo look distinto."
 
 msgctxt "174\t616856\t69\tCHK"
 msgid ""
 "A mature style that really packs a\n"
 "punch."
 msgstr ""
+"Uno stile maturo di grande\n"
+"impatto."
 
 msgctxt "174\t616898\t70\tCHK"
 msgid "Perfect for cosplay!　"
-msgstr ""
+msgstr "Perfetto per il cosplay!"
 
 msgctxt "174\t616922\t71\tCHK"
 msgid ""
@@ -23140,81 +23168,99 @@ msgstr ""
 
 msgctxt "174\t617009\t73\tCHK"
 msgid "Gives off that girly vibe."
-msgstr ""
+msgstr "Dà quell'aria da ragazzina."
 
 msgctxt "174\t617036\t74\tCHK"
 msgid ""
 "A classic, simple headband. Some may\n"
 "say too simple, but they're wrong."
 msgstr ""
+"Un cerchietto classico e semplice. Qualcuno dirà\n"
+"fin troppo semplice, ma si sbaglia."
 
 msgctxt "174\t617108\t75\tCHK"
 msgid "A cosplay necessity."
-msgstr ""
+msgstr "Un must per il cosplay."
 
 msgctxt "174\t617129\t76\tCHK"
 msgid "Casual glasses for everyday use."
-msgstr ""
+msgstr "Occhiali casual per l'uso quotidiano."
 
 msgctxt "174\t617162\t77\tCHK"
 msgid ""
 "The finishing touch on any mature\n"
 "style."
 msgstr ""
+"Il tocco finale per qualsiasi\n"
+"stile maturo."
 
 msgctxt "174\t617203\t78\tCHK"
 msgid "Clean, simple, refreshing."
-msgstr ""
+msgstr "Pulito, semplice, fresco."
 
 msgctxt "174\t617230\t79\tCHK"
 msgid "Inexpensive, but showy."
-msgstr ""
+msgstr "Economici, ma vistosi."
 
 msgctxt "174\t617254\t80\tCHK"
 msgid ""
 "These earrings make you feel like\n"
 "the cutest girl in town."
 msgstr ""
+"Questi orecchini ti fanno sentire la\n"
+"ragazza più carina della città."
 
 msgctxt "174\t617313\t81\tCHK"
 msgid ""
 "An impressively gorgeous pair of\n"
 "earrings."
 msgstr ""
+"Un paio di orecchini di una bellezza\n"
+"impressionante."
 
 msgctxt "174\t617356\t82\tCHK"
 msgid "Perfect for classy gatherings."
-msgstr ""
+msgstr "Perfetti per gli incontri di classe."
 
 msgctxt "174\t617387\t83\tCHK"
 msgid ""
 "Mature earrings punctuated by\n"
 "miniature gold butterflies."
 msgstr ""
+"Orecchini maturi impreziositi da\n"
+"farfalle d'oro in miniatura."
 
 msgctxt "174\t617445\t84\tCHK"
 msgid ""
 "Drive away evil spirits with these\n"
 "talk-of-the-town earrings."
 msgstr ""
+"Allontana gli spiriti maligni con questi\n"
+"orecchini all'ultimo grido."
 
 msgctxt "174\t617507\t85\tCHK"
 msgid ""
 "Great for girls who love to\n"
 "accessorize."
 msgstr ""
+"Ottimi per le ragazze che amano\n"
+"gli accessori."
 
 msgctxt "174\t617548\t86\tCHK"
 msgid ""
 "Polished earrings fit for almost\n"
 "every occasion."
 msgstr ""
+"Orecchini raffinati adatti a quasi\n"
+"ogni occasione."
 
 msgctxt "174\t617597\t87\tCHK"
 msgid ""
 "Makes any outfit just a little bit\n"
 "classier."
 msgstr ""
+"Rende qualsiasi abbigliamento un\n"
+"po' più di classe."
 
 msgctxt "174\t617642\t88\tCHK"
 msgid ""
@@ -23279,24 +23325,32 @@ msgid ""
 "A cute ring accented by the\n"
 "heart-shaped gem in the center."
 msgstr ""
+"Un anello grazioso impreziosito dalla\n"
+"gemma a forma di cuore al centro."
 
 msgctxt "174\t618208\t100\tCHK"
 msgid ""
 "A high-class ring encrusted with a\n"
 "massive blue gemstone."
 msgstr ""
+"Un anello di alta classe con incastonata\n"
+"un'enorme gemma blu."
 
 msgctxt "174\t618266\t101\tCHK"
 msgid ""
 "An ornate ring with a flower pattern\n"
 "emphasizing its extravagant gemstone."
 msgstr ""
+"Un anello decorato con un motivo floreale\n"
+"che enfatizza la sua stravagante gemma."
 
 msgctxt "174\t618341\t102\tCHK"
 msgid ""
 "Looking for that luxurious style?\n"
 "Look no further."
 msgstr ""
+"Cerchi uno stile lussuoso?\n"
+"Sei nel posto giusto."
 
 msgctxt "174\t618392\t103\tCHK"
 msgid "Perfect with a nice suit.　"
@@ -23307,6 +23361,8 @@ msgid ""
 "A cute, girly accessory that pairs\n"
 "well with a simple outfit."
 msgstr ""
+"Un accessorio carino e femminile che si\n"
+"abbina bene a un outfit semplice."
 
 msgctxt "174\t618483\t105\tCHK"
 msgid ""
@@ -23430,7 +23486,7 @@ msgstr ""
 
 msgctxt "175\t623511\t2\tCHK"
 msgid "Whoa..."
-msgstr ""
+msgstr "Caspita..."
 
 msgctxt "175\t623519\t3\tCHK"
 msgid "Uh-oh... Aaaagh!"
@@ -23438,11 +23494,11 @@ msgstr ""
 
 msgctxt "175\t623536\t4\tCHK"
 msgid "Aaaagh!"
-msgstr ""
+msgstr "Aaaargh!"
 
 msgctxt "175\t623544\t5\tCHK"
 msgid "Ow!"
-msgstr ""
+msgstr "Ahi!"
 
 msgctxt "175\t623548\t6\tCHK"
 msgid "Ugh... Huh? Whoa! Safe!"
@@ -23462,7 +23518,7 @@ msgstr ""
 
 msgctxt "175\t623597\t10\tCHK"
 msgid "Ugh..."
-msgstr ""
+msgstr "Uff..."
 
 msgctxt "176\t624520\t0\tSUS"
 msgid ""
@@ -23490,7 +23546,7 @@ msgstr ""
 
 msgctxt "176\t624622\t6\tCHK"
 msgid "*hiccup*"
-msgstr ""
+msgstr "*Hic*"
 
 msgctxt "176\t624631\t7\tCHK"
 msgid "Ah ha ha ha ha!"
@@ -23510,7 +23566,7 @@ msgstr ""
 
 msgctxt "176\t624677\t11\tCHK"
 msgid "Oof!"
-msgstr ""
+msgstr "Uff!"
 
 msgctxt "177\t625752\t0\tSUS"
 msgid ""
@@ -23522,7 +23578,7 @@ msgstr ""
 
 msgctxt "177\t625799\t2\tCHK"
 msgid "Leave me alone..."
-msgstr ""
+msgstr "Lasciami in pace..."
 
 msgctxt "177\t625817\t3\tCHK"
 msgid "What cosplay bar do you work at?"
@@ -23534,11 +23590,11 @@ msgstr ""
 
 msgctxt "177\t625904\t5\tCHK"
 msgid "Eeek!"
-msgstr ""
+msgstr "Iiiih!"
 
 msgctxt "177\t625910\t6\tCHK"
 msgid "Hey, wait!"
-msgstr ""
+msgstr "Ehi, aspetta!"
 
 msgctxt "177\t625921\t7\tCHK"
 msgid "Hmm? Heh heh heh!"
@@ -23594,11 +23650,11 @@ msgstr ""
 
 msgctxt "178\t627157\t6\tCHK"
 msgid "Dammit!"
-msgstr ""
+msgstr "Dannazione!"
 
 msgctxt "178\t627165\t7\tCHK"
 msgid "I'll kill him...!"
-msgstr ""
+msgstr "Lo ammazzo...!"
 
 msgctxt "178\t627183\t8\tCHK"
 msgid "Guh!"
@@ -23626,7 +23682,7 @@ msgstr ""
 
 msgctxt "179\t628157\t2\tCHK"
 msgid "Take one!"
-msgstr ""
+msgstr "Prendi uno"
 
 msgctxt "179\t628167\t3\tCHK"
 msgid "Wha!? Whoa!"
@@ -23634,11 +23690,11 @@ msgstr ""
 
 msgctxt "179\t628179\t4\tCHK"
 msgid "Here you are!"
-msgstr ""
+msgstr "Ecco a lei!"
 
 msgctxt "179\t628193\t5\tCHK"
 msgid "Okay! Let's go!"
-msgstr ""
+msgstr "Perfetto, andiamo!"
 
 msgctxt "179\t628209\t6\tCHK"
 msgid "Nnuh!"
@@ -23658,7 +23714,7 @@ msgstr ""
 
 msgctxt "179\t628230\t10\tCHK"
 msgid "Huh!? Whaaat!?"
-msgstr ""
+msgstr "Eh!? Cosa!?"
 
 msgctxt "180\t629096\t0\tSUS"
 msgid ""
@@ -23666,15 +23722,15 @@ msgstr ""
 
 msgctxt "180\t629097\t1\tCHK"
 msgid "*sigh*"
-msgstr ""
+msgstr "*sospiro*"
 
 msgctxt "180\t629104\t2\tCHK"
 msgid "Oof!"
-msgstr ""
+msgstr "Uff!"
 
 msgctxt "180\t629109\t3\tCHK"
 msgid "Ow..."
-msgstr ""
+msgstr "Ahi..."
 
 msgctxt "180\t629115\t4\tCHK"
 msgid "Guh!"
@@ -23686,15 +23742,15 @@ msgstr ""
 
 msgctxt "180\t629138\t6\tCHK"
 msgid "What the hell!?"
-msgstr ""
+msgstr "Ma che diavolo!?"
 
 msgctxt "180\t629154\t7\tCHK"
 msgid "Eek!"
-msgstr ""
+msgstr "Oddio!"
 
 msgctxt "180\t629159\t8\tCHK"
 msgid "Huh!?"
-msgstr ""
+msgstr "Eh!?"
 
 msgctxt "180\t629165\t9\tCHK"
 msgid "Huh? Oh, uh... Nothing..."
@@ -23722,7 +23778,7 @@ msgstr ""
 
 msgctxt "181\t630097\t4\tCHK"
 msgid "Whoa!"
-msgstr ""
+msgstr "Caspita!"
 
 msgctxt "181\t630103\t5\tCHK"
 msgid "Watch out!"
@@ -23806,7 +23862,7 @@ msgstr ""
 
 msgctxt "183\t632548\t3\tCHK"
 msgid "Here we go!"
-msgstr ""
+msgstr "Ci siamo!"
 
 msgctxt "183\t632560\t4\tCHK"
 msgid "<Italic>Oooh</Italic>!"
@@ -23822,7 +23878,7 @@ msgstr ""
 
 msgctxt "183\t632633\t7\tCHK"
 msgid "Oof!"
-msgstr ""
+msgstr "Uff!"
 
 msgctxt "183\t632638\t8\tCHK"
 msgid "Ha ha ha!"
@@ -23870,15 +23926,15 @@ msgstr ""
 
 msgctxt "184\t633730\t7\tCHK"
 msgid "Hehe..."
-msgstr ""
+msgstr "Eheh..."
 
 msgctxt "184\t633738\t8\tCHK"
 msgid "I love you."
-msgstr ""
+msgstr "Ti amo."
 
 msgctxt "184\t633750\t9\tCHK"
 msgid "*sigh*"
-msgstr ""
+msgstr "*sospiro*"
 
 msgctxt "184\t633757\t10\tCHK"
 msgid "I could look at you all day!"
@@ -23950,7 +24006,7 @@ msgstr ""
 
 msgctxt "185\t635037\t14\tCHK"
 msgid "Kyushu No. 1 Star"
-msgstr ""
+msgstr "Kyushu Stella N°1"
 
 msgctxt "185\t635055\t15\tCHK"
 msgid "Kanrai"
@@ -23985,13 +24041,12 @@ msgid "Meanwhile, in Okinawa"
 msgstr ""
 
 msgctxt "186\t637435\t3\tCHK"
-msgid ""
-"Kamurocho, Tokyo\\n"
-"January 2007"
+msgid "Kamurocho, Tokyo\\nJanuary 2007"
 msgstr ""
 
 msgctxt "186\t637466\t4\tCHK"
-msgid "What are your opinions on military base expansion and resort development?"
+msgid ""
+"What are your opinions on military base expansion and resort development?"
 msgstr ""
 
 msgctxt "186\t637540\t5\tCHK"
@@ -24019,9 +24074,7 @@ msgid "Meanwhile, above Tokyo"
 msgstr ""
 
 msgctxt "186\t637738\t11\tCHK"
-msgid ""
-"Meanwhile, on a special runway at\\n"
-"Okinawa Airport"
+msgid "Meanwhile, on a special runway at\\nOkinawa Airport"
 msgstr ""
 
 msgctxt "186\t637789\t12\tCHK"
@@ -24057,21 +24110,15 @@ msgid "No detailed explanation about the Military Base Expansion Bill..."
 msgstr ""
 
 msgctxt "186\t638186\t20\tCHK"
-msgid ""
-"Six months later\\n"
-"Summer 2007"
+msgid "Six months later\\nSummer 2007"
 msgstr ""
 
 msgctxt "186\t638216\t21\tCHK"
-msgid ""
-"Six months later\\n"
-"March 2008"
+msgid "Six months later\\nMarch 2008"
 msgstr ""
 
 msgctxt "186\t638245\t22\tCHK"
-msgid ""
-"A year later\\n"
-"March 2009"
+msgid "A year later\\nMarch 2009"
 msgstr ""
 
 msgctxt "186\t638270\t23\tCHK"

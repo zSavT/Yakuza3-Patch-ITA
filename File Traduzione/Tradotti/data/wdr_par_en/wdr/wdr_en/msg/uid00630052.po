@@ -1,15 +1,16 @@
+#
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=utf-8\n"
-"Language: pt\n"
-"Language-Team: Portuguese, Brazilian\n"
-"Last-Translator: \n"
-"MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: 2026-07-07\n"
 "Project-Id-Version: yakuza-3-remastered\n"
 "Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-07-07\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgctxt "308"
 msgid "I loooove karaoke! I dunno what I'm gonna sing first..."
@@ -21,7 +22,7 @@ msgstr ""
 
 msgctxt "332"
 msgid "Sounds good."
-msgstr ""
+msgstr "Mi sembra una buona idea."
 
 msgctxt "344"
 msgid "I wonder who's got the high score!"
@@ -45,14 +46,15 @@ msgstr ""
 
 msgctxt "416"
 msgid "Oh, I know that one! It's one of my favorites! ♪"
-msgstr ""
+msgstr "Oh, questa la conosco! È una delle mie preferite!"
 
 msgctxt "428"
 msgid "Not right now."
-msgstr ""
+msgstr "Non adesso."
 
 msgctxt "440"
-msgid "Aww, really? I was really looking forward to hearing you sing, though..."
+msgid ""
+"Aww, really? I was really looking forward to hearing you sing, though..."
 msgstr ""
 
 msgctxt "452"
@@ -61,7 +63,7 @@ msgstr ""
 
 msgctxt "464"
 msgid "Sorry."
-msgstr ""
+msgstr "Scusa."
 
 msgctxt "476"
 msgid "Wow, you're actually pretty good! You sounded so cool!"
@@ -73,7 +75,7 @@ msgstr ""
 
 msgctxt "500"
 msgid "Of course not."
-msgstr ""
+msgstr "Certo che no."
 
 msgctxt "512"
 msgid "Hehehe, just imagining you practicing all by yourself makes me giggle!"
@@ -89,10 +91,11 @@ msgstr ""
 
 msgctxt "548"
 msgid "Thanks..."
-msgstr ""
+msgstr "Grazie..."
 
 msgctxt "560"
-msgid "Wow! That was soooo cool! You really got into it! <Color:7>⑮<Color:Default>"
+msgid ""
+"Wow! That was soooo cool! You really got into it! <Color:7>⑮<Color:Default>"
 msgstr ""
 
 msgctxt "572"
@@ -105,11 +108,11 @@ msgstr ""
 
 msgctxt "596"
 msgid "Oh, I know that one! It's one of my favorites! ♪"
-msgstr ""
+msgstr "Oh, questa la conosco! È una delle mie preferite!"
 
 msgctxt "608"
 msgid "Nah, not right now."
-msgstr ""
+msgstr "Nah, non adesso."
 
 msgctxt "620"
 msgid "Aww, really? I wanted to hear you sing..."
@@ -123,7 +126,7 @@ msgstr ""
 
 msgctxt "644"
 msgid "Oh, yeah? Thanks."
-msgstr ""
+msgstr "Ah sì? Grazie."
 
 msgctxt "656"
 msgid "Sing Karaoke"
@@ -131,7 +134,7 @@ msgstr ""
 
 msgctxt "668"
 msgid "View Rankings"
-msgstr ""
+msgstr "Visualizza classifiche"
 
 msgctxt "680"
 msgid "How to Play"
@@ -139,7 +142,7 @@ msgstr ""
 
 msgctxt "692"
 msgid "Sing"
-msgstr ""
+msgstr "Canta"
 
 msgctxt "704"
 msgid "Don't Sing"
@@ -147,7 +150,7 @@ msgstr ""
 
 msgctxt "716"
 msgid "Sing"
-msgstr ""
+msgstr "Canta"
 
 msgctxt "728"
 msgid "Don't Sing"

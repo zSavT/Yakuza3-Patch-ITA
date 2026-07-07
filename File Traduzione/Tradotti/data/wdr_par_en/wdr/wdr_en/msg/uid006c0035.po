@@ -1,19 +1,20 @@
+#
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=utf-8\n"
-"Language: pt\n"
-"Language-Team: Portuguese, Brazilian\n"
-"Last-Translator: \n"
-"MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: 2026-07-07\n"
 "Project-Id-Version: yakuza-3-remastered\n"
 "Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-07-07\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgctxt "576"
 msgid "Welcome."
-msgstr ""
+msgstr "Benvenuto."
 
 msgctxt "588"
 msgid "Will you be visiting our club today?"
@@ -21,7 +22,7 @@ msgstr ""
 
 msgctxt "600"
 msgid "Welcome."
-msgstr ""
+msgstr "Benvenuto."
 
 msgctxt "612"
 msgid "(Damn, I don't have enough cash on me...)"
@@ -29,19 +30,19 @@ msgstr ""
 
 msgctxt "624"
 msgid "Wait a second."
-msgstr ""
+msgstr "Aspetta un attimo..."
 
 msgctxt "636"
 msgid "What is it, sir?"
-msgstr ""
+msgstr "Cosa desidera, signore?"
 
 msgctxt "648"
 msgid "Sorry, I'll come back later..."
-msgstr ""
+msgstr "Scusa, tornerò più tardi..."
 
 msgctxt "660"
 msgid "(I should bring at least 20,000 yen...)"
-msgstr ""
+msgstr "(Dovrei portare almeno 20.000 yen...)"
 
 msgctxt "684"
 msgid "Thank you, sir."
@@ -53,7 +54,7 @@ msgstr ""
 
 msgctxt "708"
 msgid "Very well. Please come again."
-msgstr ""
+msgstr "Benissimo. Torni a trovarci."
 
 msgctxt "744"
 msgid "Mika-san, then? Right this way, sir."
@@ -85,31 +86,31 @@ msgstr ""
 
 msgctxt "924"
 msgid "Hm..."
-msgstr ""
+msgstr "Mmm..."
 
 msgctxt "936"
 msgid "We look forward to serving you again."
-msgstr ""
+msgstr "Non vediamo l'ora di servirla di nuovo."
 
 msgctxt "960"
 msgid "Here is your bill, sir."
-msgstr ""
+msgstr "Ecco il conto, signore."
 
 msgctxt "972"
 msgid "All right..."
-msgstr ""
+msgstr "Va bene..."
 
 msgctxt "984"
 msgid "Thank you."
-msgstr ""
+msgstr "Grazie."
 
 msgctxt "996"
 msgid "We hope to see you again."
-msgstr ""
+msgstr "Speriamo di rivederti."
 
 msgctxt "1008"
 msgid "Now then..."
-msgstr ""
+msgstr "Bene allora..."
 
 msgctxt "1068"
 msgid "Shall we do it?"
@@ -121,19 +122,19 @@ msgstr ""
 
 msgctxt "1092"
 msgid "(I don't have enough money...)"
-msgstr ""
+msgstr "(Non ho abbastanza soldi...)"
 
 msgctxt "1104"
 msgid "Wait a second!"
-msgstr ""
+msgstr "Aspetta un secondo!"
 
 msgctxt "1116"
 msgid "What's the problem?"
-msgstr ""
+msgstr "Qual è il problema?"
 
 msgctxt "1128"
 msgid "Sorry, I'll come back later..."
-msgstr ""
+msgstr "Scusa, tornerò più tardi..."
 
 msgctxt "1152"
 msgid "Well ain't that nice of ya?"
@@ -177,15 +178,15 @@ msgstr ""
 
 msgctxt "1392"
 msgid "Hm..."
-msgstr ""
+msgstr "Mmm..."
 
 msgctxt "1404"
 msgid "(I don't have enough money...)"
-msgstr ""
+msgstr "(Non ho abbastanza soldi...)"
 
 msgctxt "1416"
 msgid "Wait a second!"
-msgstr ""
+msgstr "Aspetta un secondo!"
 
 msgctxt "1428"
 msgid "What's the problem? Change your mind?"
@@ -193,7 +194,7 @@ msgstr ""
 
 msgctxt "1440"
 msgid "Hm..."
-msgstr ""
+msgstr "Mmm..."
 
 msgctxt "1452"
 msgid "Hope to see you again sometime. Real sorry to see ya go."
@@ -201,11 +202,11 @@ msgstr ""
 
 msgctxt "1476"
 msgid "Enter"
-msgstr ""
+msgstr "Partecipa"
 
 msgctxt "1488"
 msgid "Don't Enter"
-msgstr ""
+msgstr "Non partecipare"
 
 msgctxt "1500"
 msgid "Mika Tsuchiya"
@@ -221,7 +222,7 @@ msgstr ""
 
 msgctxt "1536"
 msgid "On second thought, no thanks."
-msgstr ""
+msgstr "Ripensandoci, no grazie."
 
 msgctxt "1548"
 msgid "Mika Tsuchiya"
@@ -237,7 +238,7 @@ msgstr ""
 
 msgctxt "1584"
 msgid "On second thought, no thanks."
-msgstr ""
+msgstr "Ripensandoci, no grazie."
 
 msgctxt "1596"
 msgid "Whew"
@@ -261,7 +262,7 @@ msgstr ""
 
 msgctxt "1656"
 msgid "On second thought, no thanks."
-msgstr ""
+msgstr "Ripensandoci, no grazie."
 
 msgctxt "1668"
 msgid "Mika Tsuchiya"
@@ -277,7 +278,7 @@ msgstr ""
 
 msgctxt "1704"
 msgid "On second thought, no thanks."
-msgstr ""
+msgstr "Ripensandoci, no grazie."
 
 msgctxt "1716"
 msgid "Mika Tsuchiya"
@@ -293,11 +294,11 @@ msgstr ""
 
 msgctxt "1752"
 msgid "On second thought, no thanks."
-msgstr ""
+msgstr "Ripensandoci, no grazie."
 
 msgctxt "8836"
 msgid "Attendant"
-msgstr ""
+msgstr "Addetto"
 
 msgctxt "8840"
 msgid "M_shp_stand_tlk_ojigi"
@@ -309,7 +310,7 @@ msgstr ""
 
 msgctxt "8848"
 msgid "Waiter"
-msgstr ""
+msgstr "Staff"
 
 msgctxt "8852"
 msgid "P_sitsofaR_tlk_standup"

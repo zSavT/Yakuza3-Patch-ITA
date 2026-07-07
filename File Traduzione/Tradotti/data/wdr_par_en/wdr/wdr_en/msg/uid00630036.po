@@ -1,18 +1,20 @@
+#
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=utf-8\n"
-"Language: pt\n"
-"Language-Team: Portuguese, Brazilian\n"
-"Last-Translator: \n"
-"MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: 2026-07-07\n"
 "Project-Id-Version: yakuza-3-remastered\n"
 "Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-07-07\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgctxt "308"
-msgid "I'm so excited to be doing karaoke with you! Now, what song should we sing?"
+msgid ""
+"I'm so excited to be doing karaoke with you! Now, what song should we sing?"
 msgstr ""
 
 msgctxt "320"
@@ -29,7 +31,7 @@ msgstr ""
 
 msgctxt "368"
 msgid "We're leaving already? Okay..."
-msgstr ""
+msgstr "Te ne vai già? Va bene..."
 
 msgctxt "380"
 msgid "I hope I did okay."
@@ -45,7 +47,7 @@ msgstr ""
 
 msgctxt "416"
 msgid "Oh..."
-msgstr ""
+msgstr "Oh..."
 
 msgctxt "428"
 msgid "Hmph! You made it sooo hard to sing!"
@@ -57,7 +59,7 @@ msgstr ""
 
 msgctxt "452"
 msgid "Heh. Thanks."
-msgstr ""
+msgstr "Beh. Grazie."
 
 msgctxt "464"
 msgid "Uncle Kaz... That was, um..."
@@ -81,7 +83,7 @@ msgstr ""
 
 msgctxt "524"
 msgid "Oh..."
-msgstr ""
+msgstr "Oh..."
 
 msgctxt "536"
 msgid "Wow! You're really cool, Uncle Kaz!"
@@ -97,7 +99,7 @@ msgstr ""
 
 msgctxt "572"
 msgid "View Rankings"
-msgstr ""
+msgstr "Visualizza classifiche"
 
 msgctxt "584"
 msgid "How to Play"
@@ -105,7 +107,7 @@ msgstr ""
 
 msgctxt "596"
 msgid "Sing"
-msgstr ""
+msgstr "Canta"
 
 msgctxt "608"
 msgid "Don't Sing"
@@ -113,7 +115,7 @@ msgstr ""
 
 msgctxt "620"
 msgid "Sing"
-msgstr ""
+msgstr "Canta"
 
 msgctxt "632"
 msgid "Don't Sing"

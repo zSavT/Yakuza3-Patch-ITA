@@ -1,15 +1,16 @@
+#
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=utf-8\n"
-"Language: pt\n"
-"Language-Team: Portuguese, Brazilian\n"
-"Last-Translator: \n"
-"MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: 2026-07-07\n"
 "Project-Id-Version: yakuza-3-remastered\n"
 "Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-07-07\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgctxt "928"
 msgid ""
@@ -49,7 +50,7 @@ msgstr ""
 
 msgctxt "1012"
 msgid "See you later."
-msgstr ""
+msgstr "Ci vediamo."
 
 msgctxt "1024"
 msgid ""
@@ -64,7 +65,7 @@ msgstr ""
 
 msgctxt "1048"
 msgid "I hope so."
-msgstr ""
+msgstr "Spero di sì..."
 
 msgctxt "1072"
 msgid "Welcome, sir. Are you a member of our club?"
@@ -80,7 +81,7 @@ msgstr ""
 
 msgctxt "1108"
 msgid "Uh..."
-msgstr ""
+msgstr "Ehm..."
 
 msgctxt "1120"
 msgid ""
@@ -110,7 +111,7 @@ msgstr ""
 
 msgctxt "1180"
 msgid "Hm?"
-msgstr ""
+msgstr "Mh?"
 
 msgctxt "1192"
 msgid "I hear you don't have a guest pass."
@@ -126,7 +127,7 @@ msgstr ""
 
 msgctxt "1228"
 msgid "Really?"
-msgstr ""
+msgstr "Davvero?"
 
 msgctxt "1240"
 msgid ""
@@ -167,7 +168,7 @@ msgstr ""
 
 msgctxt "1336"
 msgid "Yeah, let's do it."
-msgstr ""
+msgstr "Sì, andiamo."
 
 msgctxt "1348"
 msgid ""
@@ -181,7 +182,7 @@ msgstr ""
 
 msgctxt "1396"
 msgid "Uncle Kaz! Get at least +2 in Competition Mode!"
-msgstr ""
+msgstr "Zio Kaz! Fai almeno +2 nella Modalità Competizione!"
 
 msgctxt "1408"
 msgid "(At least +2 in Competition Mode, eh...? Should I try it?)"
@@ -189,43 +190,43 @@ msgstr ""
 
 msgctxt "1420"
 msgid "Not right now."
-msgstr ""
+msgstr "Non adesso."
 
 msgctxt "1432"
 msgid "All right. Please come again."
-msgstr ""
+msgstr "Va bene. Torni a trovarci."
 
 msgctxt "1444"
 msgid "Aww! But I want to watch you play golf!"
-msgstr ""
+msgstr "Uffa! Ma voglio vederti giocare a golf!"
 
 msgctxt "1456"
 msgid "Sure, I'll enter the competition."
-msgstr ""
+msgstr "Va bene, mi iscrivo alla competizione."
 
 msgctxt "1468"
 msgid "Very well. The fee is 5,000 yen."
-msgstr ""
+msgstr "Benissimo. La quota è di 2.500 yen."
 
 msgctxt "1492"
 msgid "All right."
-msgstr ""
+msgstr "Va bene."
 
 msgctxt "1504"
 msgid "All right. Best of luck to you."
-msgstr ""
+msgstr "Molto bene. Le auguro buona fortuna."
 
 msgctxt "1516"
 msgid "Good luck, Uncle Kaz!"
-msgstr ""
+msgstr "Buona fortuna, zio Kaz!"
 
 msgctxt "1540"
 msgid "(I don't have enough money...)"
-msgstr ""
+msgstr "(Non ho abbastanza soldi...)"
 
 msgctxt "1552"
 msgid "Aww! But I want to watch you play golf!"
-msgstr ""
+msgstr "Uffa! Ma voglio vederti giocare a golf!"
 
 msgctxt "1564"
 msgid "Uncle Kaz! Get at least 400 points in a near-pin contest!"
@@ -237,15 +238,15 @@ msgstr ""
 
 msgctxt "1588"
 msgid "Not right now."
-msgstr ""
+msgstr "Non adesso."
 
 msgctxt "1600"
 msgid "All right. Please come again."
-msgstr ""
+msgstr "Va bene. Torni a trovarci."
 
 msgctxt "1612"
 msgid "Aww! But I want to watch you play golf!"
-msgstr ""
+msgstr "Uffa! Ma voglio vederti giocare a golf!"
 
 msgctxt "1624"
 msgid "I think I'll try the near-pin contest."
@@ -253,27 +254,27 @@ msgstr ""
 
 msgctxt "1636"
 msgid "Very well. The fee is 2,500 yen."
-msgstr ""
+msgstr "Benissimo. La quota è di 2.500 yen."
 
 msgctxt "1660"
 msgid "All right."
-msgstr ""
+msgstr "Va bene."
 
 msgctxt "1672"
 msgid "All right. Best of luck to you."
-msgstr ""
+msgstr "Molto bene. Le auguro buona fortuna."
 
 msgctxt "1684"
 msgid "Good luck, Uncle Kaz!"
-msgstr ""
+msgstr "Buona fortuna, zio Kaz!"
 
 msgctxt "1708"
 msgid "(I don't have enough money...)"
-msgstr ""
+msgstr "(Non ho abbastanza soldi...)"
 
 msgctxt "1720"
 msgid "Aww! But I want to watch you play golf!"
-msgstr ""
+msgstr "Uffa! Ma voglio vederti giocare a golf!"
 
 msgctxt "1732"
 msgid "Uncle Kaz! Get 1,500 points in a near-pin contest!"
@@ -287,15 +288,15 @@ msgstr ""
 
 msgctxt "1756"
 msgid "Not right now."
-msgstr ""
+msgstr "Non adesso."
 
 msgctxt "1768"
 msgid "All right. Please come again."
-msgstr ""
+msgstr "Va bene. Torni a trovarci."
 
 msgctxt "1780"
 msgid "Aww! But I want to watch you play golf!"
-msgstr ""
+msgstr "Uffa! Ma voglio vederti giocare a golf!"
 
 msgctxt "1792"
 msgid "I'd like to try a near-pin contest."
@@ -303,27 +304,27 @@ msgstr ""
 
 msgctxt "1804"
 msgid "Very well. The fee is 2,500 yen."
-msgstr ""
+msgstr "Benissimo. La quota è di 2.500 yen."
 
 msgctxt "1828"
 msgid "All right."
-msgstr ""
+msgstr "Va bene."
 
 msgctxt "1840"
 msgid "All right. Best of luck to you."
-msgstr ""
+msgstr "Molto bene. Le auguro buona fortuna."
 
 msgctxt "1852"
 msgid "Good luck, Uncle Kaz!"
-msgstr ""
+msgstr "Buona fortuna, zio Kaz!"
 
 msgctxt "1876"
 msgid "(I don't have enough money...)"
-msgstr ""
+msgstr "(Non ho abbastanza soldi...)"
 
 msgctxt "1888"
 msgid "Aww! But I want to watch you play golf!"
-msgstr ""
+msgstr "Uffa! Ma voglio vederti giocare a golf!"
 
 msgctxt "1912"
 msgid "Well done. Please come again."
@@ -335,55 +336,55 @@ msgstr ""
 
 msgctxt "1960"
 msgid "Congratulations! Here's your prize."
-msgstr ""
+msgstr "Congratulazioni! Ecco il suo premio."
 
 msgctxt "1972"
 msgid "You got <Color:8>100,000 yen<Color:Default>."
-msgstr ""
+msgstr "Hai ottenuto <Color:8>100.000 yen<Color:Default>."
 
 msgctxt "1984"
 msgid "We hope you'll try again soon!"
-msgstr ""
+msgstr "Speriamo che ritenti presto!"
 
 msgctxt "2008"
 msgid "Congratulations! Here's your prize."
-msgstr ""
+msgstr "Congratulazioni! Ecco il suo premio."
 
 msgctxt "2020"
 msgid "You got <Color:8>50,000 yen<Color:Default>."
-msgstr ""
+msgstr "Hai ottenuto <Color:8>50.000 yen<Color:Default>."
 
 msgctxt "2032"
 msgid "We hope you'll try again soon!"
-msgstr ""
+msgstr "Speriamo che ritenti presto!"
 
 msgctxt "2056"
 msgid "Congratulations. Here's your prize."
-msgstr ""
+msgstr "Congratulazioni. Ecco il tuo premio."
 
 msgctxt "2068"
 msgid "You got <Color:8>20,000 yen<Color:Default>."
-msgstr ""
+msgstr "Hai ottenuto <Color:8>20.000 yen<Color:Default>."
 
 msgctxt "2080"
 msgid "We hope you'll try again soon!"
-msgstr ""
+msgstr "Speriamo che ritenti presto!"
 
 msgctxt "2104"
 msgid "Great work. We hope to see you again soon."
-msgstr ""
+msgstr "Ottimo lavoro. Speriamo di rivederla presto."
 
 msgctxt "2128"
 msgid "Great work. Here's your prize."
-msgstr ""
+msgstr "Ottimo lavoro. Ecco il suo premio."
 
 msgctxt "2152"
 msgid "We hope you'll try again soon!"
-msgstr ""
+msgstr "Speriamo che ritenti presto!"
 
 msgctxt "2176"
 msgid "I'm sorry, sir, but we're closed today."
-msgstr ""
+msgstr "Mi dispiace, signore, oggi siamo chiusi."
 
 msgctxt "2188"
 msgid "Welcome. How can I help you?"
@@ -391,23 +392,23 @@ msgstr ""
 
 msgctxt "2200"
 msgid "Sure, I'll enter the competition."
-msgstr ""
+msgstr "Va bene, mi iscrivo alla competizione."
 
 msgctxt "2212"
 msgid "Very well. The fee is 5,000 yen."
-msgstr ""
+msgstr "Benissimo. La quota è di 2.500 yen."
 
 msgctxt "2236"
 msgid "All right."
-msgstr ""
+msgstr "Va bene."
 
 msgctxt "2248"
 msgid "All right. Best of luck to you."
-msgstr ""
+msgstr "Molto bene. Le auguro buona fortuna."
 
 msgctxt "2272"
 msgid "(I don't have enough money...)"
-msgstr ""
+msgstr "(Non ho abbastanza soldi...)"
 
 msgctxt "2284"
 msgid "I think I'll try the near-pin contest."
@@ -419,43 +420,48 @@ msgstr ""
 
 msgctxt "2308"
 msgid "I'm good for now."
-msgstr ""
+msgstr "Per ora va bene così."
 
 msgctxt "2320"
 msgid "Very well. The fee is 2,500 yen."
-msgstr ""
+msgstr "Benissimo. La quota è di 2.500 yen."
 
 msgctxt "2344"
 msgid "All right."
-msgstr ""
+msgstr "Va bene."
 
 msgctxt "2356"
 msgid "All right. Best of luck to you."
-msgstr ""
+msgstr "Molto bene. Le auguro buona fortuna."
 
 msgctxt "2380"
 msgid "Yeah, let's hear them."
-msgstr ""
+msgstr "Sì, sentiamo le regole."
 
 msgctxt "2392"
 msgid "You will make ten tee shots at the second hole."
-msgstr ""
+msgstr "Effettuerà dieci colpi dal tee alla seconda buca."
 
 msgctxt "2404"
-msgid "The closer your ball gets to the hole, the more points you'll be awarded."
-msgstr ""
+msgid ""
+"The closer your ball gets to the hole, the more points you'll be awarded."
+msgstr "Più la palla si avvicina alla buca, più punti verranno assegnati."
 
 msgctxt "2416"
 msgid ""
 "Each shot is worth between 0 to 150 points⑬depending how close to the hole "
 "it gets⑬while a hole-in-one is worth 300 points."
 msgstr ""
+"Ogni tiro vale da 0 a 150 punti, in base alla distanza dalla buca, mentre "
+"una buca in uno vale 300 punti."
 
 msgctxt "2428"
 msgid ""
 "At the end of the contest, you'll receive a prize based on the number of "
 "points you scored. Try hard and you might win a really nice prize!"
 msgstr ""
+"Al termine della gara riceverà un premio in base al punteggio ottenuto. "
+"Impegnandosi può vincere un bel premio!"
 
 msgctxt "2440"
 msgid ""
@@ -465,11 +471,11 @@ msgstr ""
 
 msgctxt "2452"
 msgid "(I don't have enough money...)"
-msgstr ""
+msgstr "(Non ho abbastanza soldi...)"
 
 msgctxt "2464"
 msgid "I think I'll practice."
-msgstr ""
+msgstr "Quasi quasi faccio un po' di pratica."
 
 msgctxt "2476"
 msgid "Very well. There is no fee for that."
@@ -477,43 +483,43 @@ msgstr ""
 
 msgctxt "2488"
 msgid "What hole would you like to practice?"
-msgstr ""
+msgstr "Su quale buca vuole esercitarsi?"
 
 msgctxt "2500"
 msgid "I'll try the first hole."
-msgstr ""
+msgstr "Provo la prima buca."
 
 msgctxt "2512"
 msgid "I'll try the second hole."
-msgstr ""
+msgstr "Provo la seconda buca."
 
 msgctxt "2524"
 msgid "I'll try the third hole."
-msgstr ""
+msgstr "Provo la terza buca."
 
 msgctxt "2536"
 msgid "I'll try the fourth hole."
-msgstr ""
+msgstr "Provo la quarta buca."
 
 msgctxt "2548"
 msgid "I'll try the fifth hole."
-msgstr ""
+msgstr "Provo la quinta buca."
 
 msgctxt "2560"
 msgid "I'll try the sixth hole."
-msgstr ""
+msgstr "Provo la sesta buca."
 
 msgctxt "2572"
 msgid "I'll try the seventh hole."
-msgstr ""
+msgstr "Provo la settima buca."
 
 msgctxt "2584"
 msgid "I'll try the eighth hole."
-msgstr ""
+msgstr "Provo l'ottava buca."
 
 msgctxt "2596"
 msgid "I'll try the ninth hole."
-msgstr ""
+msgstr "Provo la nona buca."
 
 msgctxt "2608"
 msgid "Very well, sir. Have a good time out there."
@@ -521,67 +527,67 @@ msgstr ""
 
 msgctxt "2632"
 msgid "Not right now."
-msgstr ""
+msgstr "Non adesso."
 
 msgctxt "2644"
 msgid "All right. Please come again."
-msgstr ""
+msgstr "Va bene. Torni a trovarci."
 
 msgctxt "2668"
 msgid "Not Now"
-msgstr ""
+msgstr "Non ora"
 
 msgctxt "2680"
 msgid "Play"
-msgstr ""
+msgstr "Gioca"
 
 msgctxt "2692"
 msgid "Pay the Fee"
-msgstr ""
+msgstr "Paga la quota"
 
 msgctxt "2704"
 msgid "Never Mind"
-msgstr ""
+msgstr "Lascia perdere"
 
 msgctxt "2716"
 msgid "Not Now"
-msgstr ""
+msgstr "Non ora"
 
 msgctxt "2728"
 msgid "Play"
-msgstr ""
+msgstr "Gioca"
 
 msgctxt "2740"
 msgid "Pay"
-msgstr ""
+msgstr "Pagamento"
 
 msgctxt "2752"
 msgid "Never Mind"
-msgstr ""
+msgstr "Lascia perdere"
 
 msgctxt "2764"
 msgid "Not Now"
-msgstr ""
+msgstr "Non ora"
 
 msgctxt "2776"
 msgid "Play"
-msgstr ""
+msgstr "Gioca"
 
 msgctxt "2788"
 msgid "Pay"
-msgstr ""
+msgstr "Pagamento"
 
 msgctxt "2800"
 msgid "Not Now"
-msgstr ""
+msgstr "Non ora"
 
 msgctxt "2812"
 msgid "Never Mind"
-msgstr ""
+msgstr "Lascia perdere"
 
 msgctxt "2824"
 msgid "Enter the Tournament"
-msgstr ""
+msgstr "Iscriviti al torneo"
 
 msgctxt "2836"
 msgid "Enter the Near-Pin Contest"
@@ -589,79 +595,79 @@ msgstr ""
 
 msgctxt "2848"
 msgid "Practice"
-msgstr ""
+msgstr "Allenati"
 
 msgctxt "2860"
 msgid "Pay the Fee"
-msgstr ""
+msgstr "Paga la quota"
 
 msgctxt "2872"
 msgid "Not Now"
-msgstr ""
+msgstr "Non ora"
 
 msgctxt "2884"
 msgid "No thanks."
-msgstr ""
+msgstr "No grazie."
 
 msgctxt "2896"
 msgid "Sure."
-msgstr ""
+msgstr "Certo."
 
 msgctxt "2908"
 msgid "Pay"
-msgstr ""
+msgstr "Pagamento"
 
 msgctxt "2920"
 msgid "Not Now"
-msgstr ""
+msgstr "Non ora"
 
 msgctxt "2932"
 msgid "No thanks."
-msgstr ""
+msgstr "No grazie."
 
 msgctxt "2944"
 msgid "Sure."
-msgstr ""
+msgstr "Certo."
 
 msgctxt "2956"
 msgid "First Hole (Par 4)"
-msgstr ""
+msgstr "Prima buca (Par 4)"
 
 msgctxt "2968"
 msgid "Second Hole (Par 3)"
-msgstr ""
+msgstr "Seconda buca (Par 3)"
 
 msgctxt "2980"
 msgid "Third Hole (Par 4)"
-msgstr ""
+msgstr "Terza buca (Par 4)"
 
 msgctxt "2992"
 msgid "Fourth Hole (Par 4)"
-msgstr ""
+msgstr "Quarta buca (Par 4)"
 
 msgctxt "3004"
 msgid "Fifth Hole (Par 5)"
-msgstr ""
+msgstr "Quinta buca (Par 5)"
 
 msgctxt "3016"
 msgid "Sixth Hole (Par 4)"
-msgstr ""
+msgstr "Sesta buca (Par 4)"
 
 msgctxt "3028"
 msgid "Seventh Hole (Par 3)"
-msgstr ""
+msgstr "Settima buca (Par 3)"
 
 msgctxt "3040"
 msgid "Eighth Hole (Par 4)"
-msgstr ""
+msgstr "Ottava buca (Par 4)"
 
 msgctxt "3052"
 msgid "Ninth Hole (Par 5)"
-msgstr ""
+msgstr "Nona buca (Par 5)"
 
 msgctxt "3064"
 msgid "Not Now"
-msgstr ""
+msgstr "Non ora"
 
 msgctxt "23208"
 msgid "Akasaka"
@@ -681,7 +687,7 @@ msgstr ""
 
 msgctxt "23224"
 msgid "Receptionist"
-msgstr ""
+msgstr "Addetto alla reception"
 
 msgctxt "23228"
 msgid "Talk_Ojigi"
@@ -697,7 +703,7 @@ msgstr ""
 
 msgctxt "23240"
 msgid "Stranger"
-msgstr ""
+msgstr "Sconosciuto"
 
 msgctxt "23244"
 msgid "Talk_Quest"

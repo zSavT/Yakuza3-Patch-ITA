@@ -1,15 +1,16 @@
+#
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=utf-8\n"
-"Language: pt\n"
-"Language-Team: Portuguese, Brazilian\n"
-"Last-Translator: \n"
-"MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: 2026-07-07\n"
 "Project-Id-Version: yakuza-3-remastered\n"
 "Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-07-07\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgctxt "860\tBIRTHDAY"
 msgid "December 22"
@@ -33,7 +34,7 @@ msgstr ""
 
 msgctxt "909\tBIRTHDAY"
 msgid "February 4"
-msgstr ""
+msgstr "9 febbraio"
 
 msgctxt "920\tBIRTHDAY"
 msgid "May 24"
@@ -45,7 +46,7 @@ msgstr ""
 
 msgctxt "940\tBIRTHDAY"
 msgid "January 11"
-msgstr ""
+msgstr "15 Gennaio"
 
 msgctxt "951\tBIRTHDAY"
 msgid "May 4"
@@ -93,15 +94,15 @@ msgstr ""
 
 msgctxt "1259\tCONSTELLATION"
 msgid "Capricorn"
-msgstr ""
+msgstr "Capricorno"
 
 msgctxt "1269\tCONSTELLATION"
 msgid "Aries"
-msgstr ""
+msgstr "Ariete"
 
 msgctxt "1275\tCONSTELLATION"
 msgid "Capricorn"
-msgstr ""
+msgstr "Capricorno"
 
 msgctxt "1285\tCONSTELLATION"
 msgid "Taurus"
@@ -113,7 +114,7 @@ msgstr ""
 
 msgctxt "1298\tCONSTELLATION"
 msgid "Aquarius"
-msgstr ""
+msgstr "Acquario"
 
 msgctxt "1307\tCONSTELLATION"
 msgid "Gemini"
@@ -125,7 +126,7 @@ msgstr ""
 
 msgctxt "1320\tCONSTELLATION"
 msgid "Capricorn"
-msgstr ""
+msgstr "Capricorno"
 
 msgctxt "1330\tCONSTELLATION"
 msgid "Gemini"
@@ -165,7 +166,7 @@ msgstr ""
 
 msgctxt "1473\tFAVORITE"
 msgid "Chicken"
-msgstr ""
+msgstr "Pollo"
 
 msgctxt "1481\tFAVORITE"
 msgid "Pork"
@@ -181,7 +182,7 @@ msgstr ""
 
 msgctxt "1509\tHATE"
 msgid "Fish"
-msgstr ""
+msgstr "Pesce"
 
 msgctxt "1514\tHATE"
 msgid "Bad smells"
