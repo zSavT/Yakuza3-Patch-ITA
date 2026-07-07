@@ -20,8 +20,8 @@ jobs:
 
           echo "🔍 Ricerca automatica delle cartelle nel repository..."
           
-          ORIGINAL_BASE=$(find . -type d -name "File Estratti Originali" | head -n 1)
-          TRANSLATED_BASE=$(find . -type d -name "File Estratti Tradotti" | head -n 1)
+          ORIGINAL_BASE=$(find . -type d -name "Originali" | head -n 1)
+          TRANSLATED_BASE=$(find . -type d -name "Tradotti" | head -n 1)
 
           if [ -z "$ORIGINAL_BASE" ] || [ -z "$TRANSLATED_BASE" ]; then
             echo "❌ Impossibile trovare le cartelle base 'File Estratti Originali' o 'File Estratti Tradotti'."
