@@ -4,7 +4,7 @@ on:
   push:
     branches: [ main ]
     paths:
-      - 'File Traduzione/File Estratti Tradotti/data/**'
+      - 'File Traduzione/Tradotti/data/**'
   pull_request:
     branches: [ main ]
 
