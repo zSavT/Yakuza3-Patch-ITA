@@ -16,7 +16,6 @@ Descrivi cosa succede (es. il gioco si chiude improvvisamente, l'immagine si blo
 *Fornisci dettagli precisi sul momento in cui avviene il crash.*
 
 - **Capitolo:** (es. Capitolo 3)
-- **Personaggio in uso:** (es. Saejima)
 - **Momento esatto:** (es. Durante il caricamento dopo una cutscene, all'apertura del menu, interagendo con un NPC specifico)
 
 ---
