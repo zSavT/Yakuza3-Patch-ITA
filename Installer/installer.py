@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 # -----------------------------------------------------------------------------
-# Installer Patch ITA Yakuza 4 Remastered
+# Installer Patch ITA Yakuza 3 Remastered
 # Autore: SavT
 # Versione: v2.6
 # -----------------------------------------------------------------------------
@@ -67,12 +67,12 @@ HEAD_ICON_PATH = resource_path("assets/head_icon.png")
 YT_ICON = resource_path("assets/youtube.png")
 GH_ICON = resource_path("assets/github.png")
 WEB_ICON = resource_path("assets/web.png")
-VERSIONE = "v1.2"
+VERSIONE = "v0.0.1-alpha"
 ALT_SITE_NAME = "TBA"
 ALT_SITE_URL = "https://www.youtube.com/@zSavT"
-CREDITI = "Patch By SavT e Lowrentio"
-EXE_NAME = "Yakuza4.exe"
-EXE_SUBFOLDER = "Yakuza 4"
+CREDITI = "Patch By SavT"
+EXE_NAME = "Yakuza3.exe"
+EXE_SUBFOLDER = "Yakuza 3"
 
 LICENZA = """1) La presente patch va utilizzata exclusively sul gioco originale legittimamente detenuto per il quale è stata creata.
 2) Questa patch è stata creata senza fini di lucro.
@@ -90,7 +90,7 @@ This patch does not contain copyrighted material, has no functional autonomy, an
 All game rights, intellectual property, logo/names and movies/images are property of Bandai Namco Entertainment Inc.
 """
 YT_URL = "https://www.youtube.com/@zSavT"
-GH_URL = "https://github.com/zSavT/Yakuza4-Patch-ITA"
+GH_URL = "https://github.com/zSavT/Yakuza3-Patch-ITA"
 WEB_URL = "https://savtchannel.altervista.org/"
 DONAZIONI = "https://www.paypal.com/paypalme/verio12"
 
@@ -544,7 +544,7 @@ class WelcomeScreen(QWidget):
             if os.path.exists(IMG_FILE): image_label.setPixmap(QPixmap(IMG_FILE).scaled(300, 180, Qt.AspectRatioMode.KeepAspectRatio, Qt.TransformationMode.SmoothTransformation))
             else: image_label.setText("Immagine non trovata")
         except Exception as e: image_label.setText(f"Err img: {e}")
-        title = QLabel("Installer Patch ITA per Yakuza 4 Remastered"); title.setObjectName("TitleLabel"); title.setAlignment(Qt.AlignmentFlag.AlignCenter); title.setWordWrap(True)
+        title = QLabel("Installer Patch ITA per Yakuza 3 Remastered"); title.setObjectName("TitleLabel"); title.setAlignment(Qt.AlignmentFlag.AlignCenter); title.setWordWrap(True)
         desc = QLabel("Questo programma installerà la traduzione italiana amatoriale."); desc.setObjectName("SubtitleLabel"); desc.setAlignment(Qt.AlignmentFlag.AlignCenter); desc.setWordWrap(True)
         btn_layout = QHBoxLayout(); self.cancel_btn = QPushButton("Esci"); self.cancel_btn.setObjectName("CancelButton")
         try: self.cancel_btn.setIcon(self.style().standardIcon(QStyle.StandardPixmap.SP_DialogCancelButton))
@@ -672,8 +672,8 @@ class InstallScreen(QWidget):
         except Exception as e: print(f"Err title icon: {e}")
         title = QLabel("Selezione Cartella di Installazione"); title.setObjectName("TitleLabel"); title.setAlignment(Qt.AlignmentFlag.AlignCenter)
         title_layout.addStretch(1); title_layout.addWidget(title_icon_label, 0, Qt.AlignmentFlag.AlignVCenter); title_layout.addWidget(title, 0, Qt.AlignmentFlag.AlignVCenter); title_layout.addStretch(1)
-        path_label = QLabel("Installa la patch nella cartella principale di Yakuza 4 Remastered:"); path_label.setObjectName("SubtitleLabel")
-        self.path_input = QLineEdit(); self.path_input.setPlaceholderText("Es: C:/.../Steam/steamapps/common/Yakuza 4")
+        path_label = QLabel("Installa la patch nella cartella principale di Yakuza 3 Remastered:"); path_label.setObjectName("SubtitleLabel")
+        self.path_input = QLineEdit(); self.path_input.setPlaceholderText("Es: C:/.../Steam/steamapps/common/Yakuza 3")
         self.browse_btn = QPushButton(); self.browse_btn.setObjectName("BrowseButton")
         try:
             icon = self.style().standardIcon(QStyle.StandardPixmap.SP_DirOpenIcon); self.browse_btn.setIcon(icon); self.browse_btn.setIconSize(QSize(18, 18))
@@ -718,7 +718,7 @@ class InstallScreen(QWidget):
                 potential_bases = [os.path.expanduser("~/.steam/steam/steamapps/common"), os.path.expanduser("~/.local/share/Steam/steamapps/common"), os.path.expanduser("~/.var/app/com.valvesoftware.Steam/data/Steam/steamapps/common"), "/home/deck/.local/share/Steam/steamapps/common"]
             else:
                 potential_bases = [os.path.expanduser("~/Library/Application Support/Steam/steamapps/common")]
-            found_base = None; target_game_folder = "Yakuza 4"
+            found_base = None; target_game_folder = "Yakuza 3"
             for base_path in potential_bases:
                 if os.path.isdir(os.path.join(base_path, target_game_folder)):
                     found_base = os.path.join(base_path, target_game_folder); break
@@ -735,7 +735,7 @@ class InstallScreen(QWidget):
         current_path = self.path_input.text(); start_dir = current_path
         if not os.path.isdir(current_path): start_dir = os.path.dirname(current_path)
         if not os.path.isdir(start_dir): start_dir = os.path.expanduser("~")
-        folder = QFileDialog.getExistingDirectory(self, "Seleziona la cartella principale di Yakuza 4 Remastered", start_dir)
+        folder = QFileDialog.getExistingDirectory(self, "Seleziona la cartella principale di Yakuza 3 Remastered", start_dir)
         if folder: self.path_input.setText(folder.replace("\\", "/"))
     def update_icon_position(self, value):
         try:
@@ -760,7 +760,7 @@ class InstallerWizard(QWidget):
         self.version_checker = VersionCheckWorker(VERSIONE, GH_URL); self.version_checker.update_found.connect(self.show_update_dialog); self.version_checker.start()
         try: self.setWindowIcon(QIcon(LOGO_ICO))
         except Exception as e: print(f"Error setting window icon: {e}")
-        self.setWindowTitle(f"Installer Patch ITA Yakuza 4 Remastered ({VERSIONE})"); self.setMinimumSize(700, 580)
+        self.setWindowTitle(f"Installer Patch ITA Yakuza 3 Remastered ({VERSIONE})"); self.setMinimumSize(700, 580)
         container = QWidget(self); self.main_layout = QVBoxLayout(self); self.main_layout.setContentsMargins(0, 0, 0, 0); self.main_layout.addWidget(container)
         container_layout = QVBoxLayout(container); container_layout.setContentsMargins(0, 0, 0, 0); self.stack = QStackedWidget(); container_layout.addWidget(self.stack)
         self.welcome = WelcomeScreen(); self.notice = NoticeScreen(); self.check_pkg = PackageCheckScreen(self); self.license = LicenseScreen(); self.install = InstallScreen()
