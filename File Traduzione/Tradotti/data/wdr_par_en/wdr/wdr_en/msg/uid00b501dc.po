@@ -1,0 +1,83 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "204"
+msgid "Hey, are you all right?"
+msgstr ""
+
+msgctxt "216"
+msgid ""
+"Please... I need water... Ughhh... Feels like my\r\n"
+"intestines are on fire..."
+msgstr ""
+
+msgctxt "228"
+msgid ""
+"(I'm sure that's how it feels when you drink yourself into\r\n"
+"a stupor. He'll probably be just fine... but I suppose\r\n"
+"giving him some water wouldn't hurt.)"
+msgstr ""
+
+msgctxt "264"
+msgid ""
+"(Wait a minute, this guy's asking for water. Maybe some\r\n"
+"mineral water would do the trick.)"
+msgstr ""
+
+msgctxt "288"
+msgid "(Maybe not...)"
+msgstr ""
+
+msgctxt "312"
+msgid "(I don't have any water on me... I suppose I could go buy some.)"
+msgstr ""
+
+msgctxt "348"
+msgid "You handed over some <Color:8>Suntory Mineral Water<Color:Default>."
+msgstr ""
+
+msgctxt "396"
+msgid "You handed over some <Color:8>Okinawaya Mineral Water<Color:Default>."
+msgstr ""
+
+msgctxt "444"
+msgid "You handed over some <Color:8>Famous Local Water<Color:Default>."
+msgstr ""
+
+msgctxt "480"
+msgid "Here. Drink this."
+msgstr ""
+
+msgctxt "528"
+msgid "No... Please...!"
+msgstr ""
+
+msgctxt "540"
+msgid "I'm gonna vomit up my intestines... if I don't get a glass of water soon..."
+msgstr ""
+
+msgctxt "564"
+msgid "Give Him Some Water"
+msgstr ""
+
+msgctxt "576"
+msgid "Leave Him Alone"
+msgstr ""
+
+msgctxt "3480"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "3484"
+msgid "Inebriated Man"
+msgstr ""

@@ -1,0 +1,86 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "47\t149"
+msgid "So. Where's Daigo?"
+msgstr ""
+
+msgctxt "162\t218"
+msgid "In Tokyo."
+msgstr ""
+
+msgctxt "219\t307"
+msgid "Rehabbing at Touto Hospital."
+msgstr ""
+
+msgctxt "308\t450"
+msgid ""
+"Touto? But that's practically\\n"
+"on Kamurocho's doorstep."
+msgstr ""
+
+msgctxt "451\t616"
+msgid ""
+"Yes. CIA headquarters\\n"
+"has only known for a few hours now."
+msgstr ""
+
+msgctxt "622\t692"
+msgid "And I just found out myself."
+msgstr ""
+
+msgctxt "703\t864"
+msgid ""
+"If Mine has managed to find out as well,\\n"
+"we may already be too late."
+msgstr ""
+
+msgctxt "1002\t1040"
+msgid "I assume you're going?"
+msgstr ""
+
+msgctxt "1041\t1180"
+msgid ""
+"Yeah. If I hurry, I should be able\\n"
+"to catch the last flight."
+msgstr ""
+
+msgctxt "1181\t1280"
+msgid "Uncle Kaz! Uncle Kiryu!"
+msgstr ""
+
+msgctxt "1455\t1498"
+msgid "Uncle Kaz!"
+msgstr ""
+
+msgctxt "1499\t1559"
+msgid "Taichi! What are you doing here!?"
+msgstr ""
+
+msgctxt "1613\t1683"
+msgid ""
+"This is bad!\\n"
+"This is real bad, Uncle Kaz!"
+msgstr ""
+
+msgctxt "1684\t1810"
+msgid "What is it? What happened!?"
+msgstr ""
+
+msgctxt "1811\t1863"
+msgid "It's Morning Glory!"
+msgstr ""
+
+msgctxt "1864\t1952"
+msgid "They...!"
+msgstr ""

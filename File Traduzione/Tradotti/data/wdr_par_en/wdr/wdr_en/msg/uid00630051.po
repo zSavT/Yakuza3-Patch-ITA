@@ -1,0 +1,155 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "308"
+msgid "Hehe... I just love karaoke! ♪"
+msgstr ""
+
+msgctxt "320"
+msgid ""
+"Oh! Looks like my song is up next. I'm gonna do \"Shooting Star.\" I love "
+"this song!"
+msgstr ""
+
+msgctxt "332"
+msgid "Oh yeah?"
+msgstr ""
+
+msgctxt "344"
+msgid "How are we doing, ranking-wise?"
+msgstr ""
+
+msgctxt "368"
+msgid "What? We're leaving already? But we haven't even sung anything yet!"
+msgstr ""
+
+msgctxt "380"
+msgid ""
+"Hehe! <Color:7>⑮<Color:Default> Thank you, Kiryu-san. You really got me "
+"feeling\r\n"
+"the music. ♪"
+msgstr ""
+
+msgctxt "392"
+msgid "Oh, right. Are you gonna sing, too?"
+msgstr ""
+
+msgctxt "404"
+msgid "I'll sing \"Kamurocho Lullaby,\" then."
+msgstr ""
+
+msgctxt "416"
+msgid "Yeah! That's a good one. Teeheehee... I can't wait! ♪"
+msgstr ""
+
+msgctxt "428"
+msgid "Nah, not right now."
+msgstr ""
+
+msgctxt "440"
+msgid "Oh, really? That's a little disappointing..."
+msgstr ""
+
+msgctxt "452"
+msgid "Sorry, but I just can't go on... What's wrong with me today?"
+msgstr ""
+
+msgctxt "464"
+msgid "Sorry if I pushed you..."
+msgstr ""
+
+msgctxt "476"
+msgid "Who knew you sang so well, Kiryu-san? You're practically a pro! ♪"
+msgstr ""
+
+msgctxt "488"
+msgid "You think so? Thanks."
+msgstr ""
+
+msgctxt "500"
+msgid "Hmm... Is everything okay? It looked like you were having a hard time..."
+msgstr ""
+
+msgctxt "512"
+msgid "Yeah, well..."
+msgstr ""
+
+msgctxt "524"
+msgid ""
+"Whew... I feel like a million yen! <Color:7>⑮<Color:Default> You really got "
+"me feeling the music. ♪"
+msgstr ""
+
+msgctxt "536"
+msgid "Oh, right. Are you gonna sing, too?"
+msgstr ""
+
+msgctxt "548"
+msgid "I'll sing \"Kamurocho Lullaby,\" then."
+msgstr ""
+
+msgctxt "560"
+msgid "Yeah! That's a good one. Teeheehee... I can't wait! ♪"
+msgstr ""
+
+msgctxt "572"
+msgid "Nah, not right now."
+msgstr ""
+
+msgctxt "584"
+msgid "Oh, really? That's a little disappointing..."
+msgstr ""
+
+msgctxt "596"
+msgid "What a voice! It was just so... touching. <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "608"
+msgid "Heh... You think so?"
+msgstr ""
+
+msgctxt "620"
+msgid "Sing Karaoke"
+msgstr ""
+
+msgctxt "632"
+msgid "View Rankings"
+msgstr ""
+
+msgctxt "644"
+msgid "How to Play"
+msgstr ""
+
+msgctxt "656"
+msgid "Sing"
+msgstr ""
+
+msgctxt "668"
+msgid "Don't Sing"
+msgstr ""
+
+msgctxt "680"
+msgid "Sing"
+msgstr ""
+
+msgctxt "692"
+msgid "Don't Sing"
+msgstr ""
+
+msgctxt "5064"
+msgid "Nao"
+msgstr ""
+
+msgctxt "5068"
+msgid "Kiryu"
+msgstr ""

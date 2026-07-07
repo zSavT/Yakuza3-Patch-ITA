@@ -1,0 +1,182 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid "Dammit... We're so screwed..."
+msgstr ""
+
+msgctxt "76"
+msgid "Urgh... I told you this wasn't a good place to do business..."
+msgstr ""
+
+msgctxt "88"
+msgid "Meow... Meooow..."
+msgstr ""
+
+msgctxt "124"
+msgid "Did you hear that? That's a wildcat!"
+msgstr ""
+
+msgctxt "136"
+msgid ""
+"The guy in the red shirt was trying to pick up the Iriomote wildcat from "
+"the seller here."
+msgstr ""
+
+msgctxt "148"
+msgid "He was!?"
+msgstr ""
+
+msgctxt "160"
+msgid "The real dealer's the guy in the cheap suit."
+msgstr ""
+
+msgctxt "172"
+msgid ""
+"It all makes sense now... That's why the cage was empty when I checked the "
+"man in red!"
+msgstr ""
+
+msgctxt "184"
+msgid "You checked before the deal went down."
+msgstr ""
+
+msgctxt "196"
+msgid "Crap."
+msgstr ""
+
+msgctxt "208"
+msgid ""
+"Anyway, looks like we got two birds with one stone this time. I'd say we "
+"made out pretty good."
+msgstr ""
+
+msgctxt "280"
+msgid ""
+"Thank you so much! It's enough that you solved this, but you even handled "
+"it quietly!"
+msgstr ""
+
+msgctxt "292"
+msgid "Did you hand those thugs over to the cops?"
+msgstr ""
+
+msgctxt "304"
+msgid ""
+"I did. The case is already solved, and the cops are willing to wait until "
+"after closing hours to investigate."
+msgstr ""
+
+msgctxt "316"
+msgid ""
+"The detective was pretty upset I didn't report the crime in the first "
+"place, though..."
+msgstr ""
+
+msgctxt "328"
+msgid ""
+"But it sounds like everything turned out okay. And your reputation's still "
+"fine."
+msgstr ""
+
+msgctxt "340"
+msgid "That's right! And it's all thanks to you!"
+msgstr ""
+
+msgctxt "352"
+msgid "Thank you so much for all you've done."
+msgstr ""
+
+msgctxt "364"
+msgid "You got <Color:8>50,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "376"
+msgid "Now, thanks to your efforts, the market can run smoothly again."
+msgstr ""
+
+msgctxt "388"
+msgid "Take this with my gratitude."
+msgstr ""
+
+msgctxt "400"
+msgid "You got <Color:8>30,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "412"
+msgid "Now, thanks to your efforts, the market can run smoothly again."
+msgstr ""
+
+msgctxt "472"
+msgid "You got 3,000 EXP."
+msgstr ""
+
+msgctxt "5108"
+msgid "Man in Hawaiian Shirt"
+msgstr ""
+
+msgctxt "5112"
+msgid "Shady Man"
+msgstr ""
+
+msgctxt "5116"
+msgid "Iriomote Wildcat"
+msgstr ""
+
+msgctxt "5120"
+msgid "P_stand_tlk_child_st"
+msgstr ""
+
+msgctxt "5124"
+msgid "Kyan"
+msgstr ""
+
+msgctxt "5128"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "5132"
+msgid "M_big_stand_tlk_kamae"
+msgstr ""
+
+msgctxt "5136"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "5140"
+msgid "Talk_Udekumi_st"
+msgstr ""
+
+msgctxt "5144"
+msgid "Talk_Udekumi_ed"
+msgstr ""
+
+msgctxt "5148"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "5152"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "5156"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "5160"
+msgid "Sync_Send"
+msgstr ""
+
+msgctxt "5164"
+msgid "Talk_Smile"
+msgstr ""

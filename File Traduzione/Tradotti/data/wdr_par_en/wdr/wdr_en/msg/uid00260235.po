@@ -1,0 +1,236 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "136"
+msgid "Well, uh... Maybe you heard somethin' about it bein' in this area?"
+msgstr ""
+
+msgctxt "148"
+msgid ""
+"Nope, don't think so... Whatever ended up getting buried all those years "
+"ago is probably still in the ground. Besides, isn't the Yamashita treasure "
+"just an urban legend?"
+msgstr ""
+
+msgctxt "160"
+msgid "Yes, well... I s'pose this area has changed quite a bit over the years..."
+msgstr ""
+
+msgctxt "172"
+msgid ""
+"Hrm... Now I'm in a pickle... I need to be headin' back to\r\n"
+"Tochigi next week, and I've no idea where to look next."
+msgstr ""
+
+msgctxt "232"
+msgid "Something wrong, old-timer? I couldn't help but overhear you."
+msgstr ""
+
+msgctxt "244"
+msgid ""
+"Oh... Well... I'm actually on a search. Treasure hunt's\r\n"
+"more like it."
+msgstr ""
+
+msgctxt "256"
+msgid "A treasure hunt? Really?"
+msgstr ""
+
+msgctxt "268"
+msgid ""
+"Why sure... Here, take a look-see. I've got me a map and\r\n"
+"everything."
+msgstr ""
+
+msgctxt "292"
+msgid "How did this end up in your hands?"
+msgstr ""
+
+msgctxt "304"
+msgid ""
+"I've had it this whole time. See, this is a map to the treasure my friends "
+"and I buried while we were stationed in Okinawa during the war."
+msgstr ""
+
+msgctxt "316"
+msgid "Okay. And what was this treasure?"
+msgstr ""
+
+msgctxt "328"
+msgid ""
+"It was... Well, we were being evacuated at the time, so we buried whatever "
+"we couldn't carry to lighten the load."
+msgstr ""
+
+msgctxt "340"
+msgid ""
+"Wait, you never heard of this one? The story of the Yamashita treasure? "
+"Y'know, all that gold the army buried?"
+msgstr ""
+
+msgctxt "352"
+msgid "Well, this map has the location of that very same treasure."
+msgstr ""
+
+msgctxt "364"
+msgid ""
+"We all said we'd come dig it up after the war, but we got so caught up in "
+"the... I guess you'd call it the aftermath, that we never made it back to "
+"what was ours."
+msgstr ""
+
+msgctxt "376"
+msgid "......"
+msgstr ""
+
+msgctxt "388"
+msgid ""
+"Now I know I ain't got much time left in this world...\r\n"
+"But the thought of claimin' the treasure still haunts me..."
+msgstr ""
+
+msgctxt "400"
+msgid ""
+"Please... Will you help an old man find his lost fortune?\r\n"
+"It's right here on this map... I swear it, or I'm as good as dead!"
+msgstr ""
+
+msgctxt "412"
+msgid "Sorry... Maybe some other time."
+msgstr ""
+
+msgctxt "424"
+msgid ""
+"Not like there'll be another time... *sigh* But why should you believe me? "
+"A crazy old coot and his cockamamie war stories..."
+msgstr ""
+
+msgctxt "436"
+msgid "Never you mind. I'll find it myself somehow."
+msgstr ""
+
+msgctxt "496"
+msgid ""
+"Treasure hunting does sound like a nice diversion.\r\n"
+"Okay, I'll help you find what you're looking for."
+msgstr ""
+
+msgctxt "508"
+msgid ""
+"Many thanks, young man. Once we find this treasure, I'll\r\n"
+"make sure you get your share."
+msgstr ""
+
+msgctxt "520"
+msgid ""
+"Well then, here's a copy of the map.\r\n"
+"Let's split up and search."
+msgstr ""
+
+msgctxt "532"
+msgid "You got an <Color:8>Old Map Copy<Color:Default>."
+msgstr ""
+
+msgctxt "556"
+msgid ""
+"Name's Tabayashi, by the way. I'll give you my cell phone\r\n"
+"number, too. Give me a call if you find anything, y'hear?"
+msgstr ""
+
+msgctxt "568"
+msgid ""
+"Got it. I'm Kiryu, by the way. So all I have to do is follow\r\n"
+"this map?"
+msgstr ""
+
+msgctxt "580"
+msgid ""
+"Mhm. Make sure to call me when you find the treasure, too.\r\n"
+"Don't go pullin' any fast ones!"
+msgstr ""
+
+msgctxt "628"
+msgid "I'll help you, old man."
+msgstr ""
+
+msgctxt "640"
+msgid "Maybe some other time."
+msgstr ""
+
+msgctxt "7028"
+msgid "Troubled Old Man"
+msgstr ""
+
+msgctxt "7032"
+msgid "Waitress"
+msgstr ""
+
+msgctxt "7036"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "7040"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "7044"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "7048"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "7052"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "7056"
+msgid "Talk_Send"
+msgstr ""
+
+msgctxt "7060"
+msgid "2d_mn_mm19_map"
+msgstr ""
+
+msgctxt "7064"
+msgid "Talk_Udekumi_st"
+msgstr ""
+
+msgctxt "7068"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "7072"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "7076"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "7080"
+msgid "Talk_Request"
+msgstr ""
+
+msgctxt "7084"
+msgid "Talk_Udekumi_ed"
+msgstr ""
+
+msgctxt "7088"
+msgid "Tabayashi"
+msgstr ""
+
+msgctxt "7092"
+msgid "Talk_Info_F"
+msgstr ""

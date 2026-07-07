@@ -1,0 +1,158 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "124"
+msgid "Ungh... You'll pay for this!"
+msgstr ""
+
+msgctxt "196"
+msgid "What were those guys up to just now...?"
+msgstr ""
+
+msgctxt "208"
+msgid "Looks like they dropped this."
+msgstr ""
+
+msgctxt "220"
+msgid "You got <Color:255,255,200,255>Ryukyu Locker Key No. 44<Color:Default>."
+msgstr ""
+
+msgctxt "256"
+msgid "Nnnnnnnnwwwoooooaaagghhhhh..."
+msgstr ""
+
+msgctxt "268"
+msgid "(Yeah, there's definitely a voice coming out of there.)"
+msgstr ""
+
+msgctxt "280"
+msgid "Hey, old man... Isn't it past your bedtime?"
+msgstr ""
+
+msgctxt "292"
+msgid "......"
+msgstr ""
+
+msgctxt "304"
+msgid ""
+"You better run on home. Lotta crazy shit goes down around here at night, if "
+"you catch my drift."
+msgstr ""
+
+msgctxt "316"
+msgid "Yeah, I guess you're right."
+msgstr ""
+
+msgctxt "328"
+msgid ""
+"That's what I like to hear. And you stay the hell away from\r\n"
+"this place come sundown, got it?"
+msgstr ""
+
+msgctxt "412"
+msgid ""
+"There's a weird sound coming from Locker 44. You boys ever\r\n"
+"hear of the cursed locker rumors going around?"
+msgstr ""
+
+msgctxt "424"
+msgid "Whoa, whoa, whoa!"
+msgstr ""
+
+msgctxt "436"
+msgid "How the hell'd you know about Locker 44!? Who told ya!?"
+msgstr ""
+
+msgctxt "448"
+msgid ""
+"Oh, so there is something suspicious going on here. Thanks for confirming "
+"that."
+msgstr ""
+
+msgctxt "460"
+msgid ""
+"Yeah? Well let me confirm something else for you: anyone who knows about "
+"this locker gets the living shit kicked out of 'em!"
+msgstr ""
+
+msgctxt "484"
+msgid "Leave"
+msgstr ""
+
+msgctxt "496"
+msgid "Ask About the Rumor"
+msgstr ""
+
+msgctxt "4336"
+msgid "Stranger"
+msgstr ""
+
+msgctxt "4340"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "4344"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "4348"
+msgid "Talk_Hirou_st"
+msgstr ""
+
+msgctxt "4352"
+msgid "?"
+msgstr ""
+
+msgctxt "4356"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "4360"
+msgid "Talk_Chohatu"
+msgstr ""
+
+msgctxt "4364"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "4368"
+msgid "Talk_Info_R"
+msgstr ""
+
+msgctxt "4372"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "4376"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "4380"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "4384"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "4388"
+msgid "dummy"
+msgstr ""
+
+msgctxt "4392"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "4396"
+msgid "Talk_No"
+msgstr ""

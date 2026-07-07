@@ -1,0 +1,56 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid "You... strong as ox..."
+msgstr ""
+
+msgctxt "76"
+msgid "Tell me where Lau is, before I show you how strong I really am."
+msgstr ""
+
+msgctxt "88"
+msgid "Boss..."
+msgstr ""
+
+msgctxt "100"
+msgid "He..."
+msgstr ""
+
+msgctxt "112"
+msgid "Well, he..."
+msgstr ""
+
+msgctxt "124"
+msgid "Eep!"
+msgstr ""
+
+msgctxt "136"
+msgid "It just never ends with this guy... Get back here!"
+msgstr ""
+
+msgctxt "1128"
+msgid "Snake Flower Officer"
+msgstr ""
+
+msgctxt "1132"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1136"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "1140"
+msgid "Talk_Surp"
+msgstr ""

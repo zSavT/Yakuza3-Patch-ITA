@@ -1,0 +1,68 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid "Koji!"
+msgstr ""
+
+msgctxt "76"
+msgid "Oh, Uncle Kaz. What's up?"
+msgstr ""
+
+msgctxt "88"
+msgid "Can you three go and wait for me in the dining room?"
+msgstr ""
+
+msgctxt "100"
+msgid "Isn't it kinda early for dinner...?"
+msgstr ""
+
+msgctxt "112"
+msgid "We're gonna have a house meeting."
+msgstr ""
+
+msgctxt "124"
+msgid "Why? What happened?"
+msgstr ""
+
+msgctxt "136"
+msgid "You'll know soon enough. Just go wait for me, okay?"
+msgstr ""
+
+msgctxt "148"
+msgid "All right. C'mon."
+msgstr ""
+
+msgctxt "1720"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1724"
+msgid "Koji"
+msgstr ""
+
+msgctxt "1728"
+msgid "Idle"
+msgstr ""
+
+msgctxt "1732"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "1736"
+msgid "Mitsuo"
+msgstr ""
+
+msgctxt "1740"
+msgid "Shiro"
+msgstr ""

@@ -1,0 +1,72 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "92"
+msgid ""
+"They say there was a shooting at Canal Grande. I hope my favorite hostess "
+"is okay."
+msgstr ""
+
+msgctxt "104"
+msgid ""
+"I wanna pay her a visit, but the club's gonna be closed for a while. "
+"Dammit! I can't stand not knowing!"
+msgstr ""
+
+msgctxt "116"
+msgid "I'm sure she's fine. I heard all the employees were able to get away."
+msgstr ""
+
+msgctxt "128"
+msgid "Oh... That's a relief."
+msgstr ""
+
+msgctxt "140"
+msgid ""
+"Then again, if she did get hurt I could surprise her at the hospital with "
+"some flowers. Maybe then I'll finally get her to like me..."
+msgstr ""
+
+msgctxt "152"
+msgid ""
+"Wait, no! That sounds like I wanted her to get hurt! Ugh. Love is "
+"complicated, man..."
+msgstr ""
+
+msgctxt "164"
+msgid "......"
+msgstr ""
+
+msgctxt "1368"
+msgid "Troubled Regular"
+msgstr ""
+
+msgctxt "1372"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1376"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "1380"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "1384"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "1388"
+msgid "Talk_No"
+msgstr ""

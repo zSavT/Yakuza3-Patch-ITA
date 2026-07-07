@@ -1,0 +1,68 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "92"
+msgid "Hi, Uncle Kaz! This is our new friend, Akira-kun!"
+msgstr ""
+
+msgctxt "104"
+msgid "H-Hello."
+msgstr ""
+
+msgctxt "116"
+msgid "Looks like you guys are having fun."
+msgstr ""
+
+msgctxt "128"
+msgid ""
+"Yeah! We're teaching Akira-kun how to bat, since he's never\r\n"
+"played baseball before. It's not going so good, though..."
+msgstr ""
+
+msgctxt "140"
+msgid ""
+"I know, Uncle Kaz! You hit some balls and we'll try to catch\r\n"
+"them! Sounds fun, right?"
+msgstr ""
+
+msgctxt "152"
+msgid "Heh, yeah I don't mind taking a few swings."
+msgstr ""
+
+msgctxt "164"
+msgid "Awesome! C'mon, Akira-kun! Let's go catch some fly balls!"
+msgstr ""
+
+msgctxt "176"
+msgid "Okay!"
+msgstr ""
+
+msgctxt "1856"
+msgid "Koji"
+msgstr ""
+
+msgctxt "1860"
+msgid "Akira"
+msgstr ""
+
+msgctxt "1864"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "1868"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1872"
+msgid "Talk_Yes"
+msgstr ""

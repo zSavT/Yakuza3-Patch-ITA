@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "124"
+msgid "Hey, you! You've got some nerve bein' drunk in front of me!"
+msgstr ""
+
+msgctxt "136"
+msgid ""
+"My doctor told me I can't drink anymore 'cause it's too hard on my body! "
+"You're just rubbin' it in my face now! You better pay up to apologize!"
+msgstr ""
+
+msgctxt "160"
+msgid "Oh man, my liver..."
+msgstr ""
+
+msgctxt "172"
+msgid "You better go drink enough booze for the both of us...!"
+msgstr ""
+
+msgctxt "184"
+msgid "You got a fiery %s."
+msgstr ""
+
+msgctxt "220"
+msgid "You been drinkin' a lot, man?"
+msgstr ""
+
+msgctxt "1316"
+msgid "Angry Punk"
+msgstr ""
+
+msgctxt "1320"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "1324"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "1328"
+msgid "Sync_Send"
+msgstr ""
+
+msgctxt "1332"
+msgid "Talk_Yes"
+msgstr ""

@@ -1,0 +1,175 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid "*pant* *pant* I'm sorry... I just... couldn't help myself..."
+msgstr ""
+
+msgctxt "76"
+msgid ""
+"I don't know if there is such a thing. Now answer my question! What's the "
+"deal with this Golden Agu pork I keep hearing about?"
+msgstr ""
+
+msgctxt "88"
+msgid "Do I need to spell it out for you? \"Golden Agu\" is a sham, my friend."
+msgstr ""
+
+msgctxt "100"
+msgid ""
+"We buy the pork cheap from China and Australia. Then we\r\n"
+"roast it up or glaze it, and no one knows the difference."
+msgstr ""
+
+msgctxt "112"
+msgid ""
+"Selling this shit on the internet with a flashy brand name\r\n"
+"rakes in ten times the profit."
+msgstr ""
+
+msgctxt "124"
+msgid "So that's what this is about..."
+msgstr ""
+
+msgctxt "136"
+msgid ""
+"Yeah. And now that you know, how about layin' off, huh?\r\n"
+"After all, suckers deserve what they get."
+msgstr ""
+
+msgctxt "160"
+msgid ""
+"What a filthy, filthy man you are! You ought to be ashamed\r\n"
+"of yourself!"
+msgstr ""
+
+msgctxt "196"
+msgid ""
+"Local Okinawans are working themselves to the bone to raise\r\n"
+"up authentic agu pork, and I won't let cowards like you\r\n"
+"sully their reputation!"
+msgstr ""
+
+msgctxt "208"
+msgid ""
+"Oh yeah? And who the hell are you old hacks supposed to be? The local "
+"chapter of the pork patrol? Hah!"
+msgstr ""
+
+msgctxt "220"
+msgid "I suggest you show some respect and apologize."
+msgstr ""
+
+msgctxt "232"
+msgid "Maybe when pigs fly...!"
+msgstr ""
+
+msgctxt "244"
+msgid ""
+"When it comes to the locals who worked hard to raise their\r\n"
+"food, you'd better watch out. Compared to what they're\r\n"
+"capable of, what I did to you was nothing."
+msgstr ""
+
+msgctxt "256"
+msgid "Urgh..."
+msgstr ""
+
+msgctxt "268"
+msgid ""
+"Out with it! We want a public apology! And that's just the\r\n"
+"beginning!"
+msgstr ""
+
+msgctxt "280"
+msgid "Forgive me... I've been nothing but a selfish, greedy hog..."
+msgstr ""
+
+msgctxt "292"
+msgid ""
+"Thanks to you, we finally figured out the secret behind this porcine "
+"phenomenon."
+msgstr ""
+
+msgctxt "304"
+msgid ""
+"Indeed, we appreciate your help. But aren't you a tad\r\n"
+"disappointed I won't be getting any prettier by eating\r\n"
+"high-quality pork, Kiryu-chan?"
+msgstr ""
+
+msgctxt "316"
+msgid "Heh... I guess I am."
+msgstr ""
+
+msgctxt "328"
+msgid ""
+"The other butchers and I would like you to have this as a\r\n"
+"token of our gratitude."
+msgstr ""
+
+msgctxt "340"
+msgid "You got <Color:8>50,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "352"
+msgid "We'll be reporting this swindler to the police now. Thanks again."
+msgstr ""
+
+msgctxt "4656"
+msgid "President"
+msgstr ""
+
+msgctxt "4660"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "4664"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "4668"
+msgid "Middle-Aged Woman"
+msgstr ""
+
+msgctxt "4672"
+msgid "M_big_stand_tlk_kamae"
+msgstr ""
+
+msgctxt "4676"
+msgid "Market Worker"
+msgstr ""
+
+msgctxt "4680"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "4684"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "4688"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "4692"
+msgid "Talk_Sorry"
+msgstr ""
+
+msgctxt "4696"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "4700"
+msgid "Sync_Send"
+msgstr ""

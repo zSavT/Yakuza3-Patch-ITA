@@ -1,0 +1,40 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "132\t255"
+msgid "So. Are you done coming up with excuses?"
+msgstr ""
+
+msgctxt "279\t339"
+msgid "Yuko-san."
+msgstr ""
+
+msgctxt "364\t428"
+msgid "I'm going to ask you once more."
+msgstr ""
+
+msgctxt "474\t541"
+msgid "Were you really the one..."
+msgstr ""
+
+msgctxt "586\t645"
+msgid "Who took Oda-san's life?"
+msgstr ""
+
+msgctxt "781\t841"
+msgid "That's right."
+msgstr ""
+
+msgctxt "871\t939"
+msgid "It was me all along."
+msgstr ""

@@ -1,0 +1,176 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "80"
+msgid "Thank you for everything you've been doing, Kiryu-san."
+msgstr ""
+
+msgctxt "92"
+msgid "This is the information we have on the boss of the Reapers."
+msgstr ""
+
+msgctxt "128"
+msgid ""
+"Thank you very much. I'm sorry I can't come with you. I hope everything "
+"goes well."
+msgstr ""
+
+msgctxt "140"
+msgid ""
+"Whenever you want to go up to the roof of the Millennium Tower just talk to "
+"one of my men."
+msgstr ""
+
+msgctxt "152"
+msgid "Good luck."
+msgstr ""
+
+msgctxt "212"
+msgid "When you're ready, let me know. I'll be waiting for you."
+msgstr ""
+
+msgctxt "272"
+msgid "Kiryu-san! Shinzaki contacted us!"
+msgstr ""
+
+msgctxt "284"
+msgid "He did? What did he have to say?"
+msgstr ""
+
+msgctxt "296"
+msgid "Well..."
+msgstr ""
+
+msgctxt "368"
+msgid "Hello? Ibuki speaking."
+msgstr ""
+
+msgctxt "380"
+msgid "HLA? This is Shinzaki."
+msgstr ""
+
+msgctxt "392"
+msgid "I'm only gonna say this once, so listen up."
+msgstr ""
+
+msgctxt "404"
+msgid "Tell Kazuma Kiryu to come to the roof of the Millennium Tower. Alone."
+msgstr ""
+
+msgctxt "416"
+msgid "He can meet the boss there."
+msgstr ""
+
+msgctxt "428"
+msgid "*beep* *beep* *beep*"
+msgstr ""
+
+msgctxt "440"
+msgid "Wait, hold⑬ Hello!?"
+msgstr ""
+
+msgctxt "452"
+msgid "Hello!?"
+msgstr ""
+
+msgctxt "548"
+msgid "Hmm."
+msgstr ""
+
+msgctxt "560"
+msgid "He wants me to go alone? Fine."
+msgstr ""
+
+msgctxt "572"
+msgid ""
+"Kiryu-san, it's obviously a trap. If you go alone, you'll play right into "
+"their hands."
+msgstr ""
+
+msgctxt "584"
+msgid ""
+"But if I lose out on this opportunity, it'll be hard to track them down "
+"again."
+msgstr ""
+
+msgctxt "596"
+msgid "I know, but..."
+msgstr ""
+
+msgctxt "608"
+msgid "I've beaten the odds on my own before. Don't worry."
+msgstr ""
+
+msgctxt "620"
+msgid "...I understand. You sure you want to go ahead with this?"
+msgstr ""
+
+msgctxt "632"
+msgid "Yeah, I'm sure. Let's end this thing once and for all."
+msgstr ""
+
+msgctxt "668"
+msgid ""
+"Thank you very much. I'm sorry I can't come with you. I hope everything "
+"goes well."
+msgstr ""
+
+msgctxt "680"
+msgid ""
+"Whenever you want to go up to the Millennium Tower roof, just talk to one "
+"of my men."
+msgstr ""
+
+msgctxt "692"
+msgid "Good luck."
+msgstr ""
+
+msgctxt "752"
+msgid "Let me know when you're ready. I'll be waiting for you."
+msgstr ""
+
+msgctxt "5824"
+msgid "Ibuki"
+msgstr ""
+
+msgctxt "5828"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "5832"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "5836"
+msgid "P_stand_tlk_phone_st"
+msgstr ""
+
+msgctxt "5840"
+msgid "Shinzaki"
+msgstr ""
+
+msgctxt "5844"
+msgid "Disconnect Tone"
+msgstr ""
+
+msgctxt "5848"
+msgid "P_stand_tlk_phone_ed"
+msgstr ""
+
+msgctxt "5852"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "5856"
+msgid "Talk_No"
+msgstr ""

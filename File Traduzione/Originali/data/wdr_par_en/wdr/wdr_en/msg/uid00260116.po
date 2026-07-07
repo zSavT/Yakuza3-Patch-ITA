@@ -1,0 +1,78 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid "Hi, Kiryu-san! Is everything all right?"
+msgstr ""
+
+msgctxt "76"
+msgid ""
+"I was following a suspicious-looking guy, but\r\n"
+"I lost him."
+msgstr ""
+
+msgctxt "88"
+msgid "Oh, you did...? Don't worry about it, though."
+msgstr ""
+
+msgctxt "100"
+msgid ""
+"Maybe I'm just imagining this whole \"stalker\" thing... and\r\n"
+"I wouldn't want to waste any more of your time, Kiryu-san."
+msgstr ""
+
+msgctxt "112"
+msgid "Here, for your trouble. Thank you so much!"
+msgstr ""
+
+msgctxt "124"
+msgid "You got <Color:8>10,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "136"
+msgid ""
+"(I'm still a little worried about her, but if\r\n"
+"she says she's okay, I'll leave it at that.)"
+msgstr ""
+
+msgctxt "160"
+msgid "You got 5,000 EXP."
+msgstr ""
+
+msgctxt "1948"
+msgid "Emi"
+msgstr ""
+
+msgctxt "1952"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "1956"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1960"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "1964"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "1968"
+msgid "Talk_Send"
+msgstr ""
+
+msgctxt "1972"
+msgid "Talk_Kosite_st"
+msgstr ""

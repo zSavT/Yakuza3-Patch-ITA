@@ -1,0 +1,64 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "96"
+msgid ""
+"Hey, hold up. Y'know you gotta ask if you can go this way, right? You "
+"didn't?"
+msgstr ""
+
+msgctxt "108"
+msgid ""
+"You're not even gonna pretend you're sorry? Guess I gotta teach you a "
+"lesson then."
+msgstr ""
+
+msgctxt "132"
+msgid "Ouch, ouch! Sorry. Yeah, guess this road is for everyone, huh?"
+msgstr ""
+
+msgctxt "144"
+msgid "You're gonna let me go this time, right?"
+msgstr ""
+
+msgctxt "156"
+msgid "You got a shadowy %s."
+msgstr ""
+
+msgctxt "192"
+msgid "This road is free to use, yep."
+msgstr ""
+
+msgctxt "1324"
+msgid "Angry Punk"
+msgstr ""
+
+msgctxt "1328"
+msgid "P_stand_sync_btl_neck_st"
+msgstr ""
+
+msgctxt "1332"
+msgid "M_ykz_stand_sync_btl_neck_st"
+msgstr ""
+
+msgctxt "1336"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "1340"
+msgid "Sync_Send"
+msgstr ""
+
+msgctxt "1344"
+msgid "Talk_Yes"
+msgstr ""

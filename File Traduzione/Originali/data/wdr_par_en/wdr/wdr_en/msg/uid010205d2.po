@@ -1,0 +1,127 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "88"
+msgid "You the kid, huh? Gimme one."
+msgstr ""
+
+msgctxt "100"
+msgid "Um... here."
+msgstr ""
+
+msgctxt "124"
+msgid ""
+"(That guy looked like some kind of host... Definitely not the\r\n"
+"right age to be her boyfriend, at the very least.)"
+msgstr ""
+
+msgctxt "172"
+msgid "Yo! Hit me up with that envelope!"
+msgstr ""
+
+msgctxt "184"
+msgid "Oh, right. Um... here."
+msgstr ""
+
+msgctxt "208"
+msgid ""
+"(Well that was just your run-of-the-mill punk. Definitely\r\n"
+"not boyfriend material, not to mention the right age.)"
+msgstr ""
+
+msgctxt "256"
+msgid "Hey, kid. I'll take one."
+msgstr ""
+
+msgctxt "268"
+msgid "Right... Here you go."
+msgstr ""
+
+msgctxt "292"
+msgid "(No doubt about it. That guy was yakuza.)"
+msgstr ""
+
+msgctxt "304"
+msgid ""
+"(And decades too old to even think about being Haruka's\r\n"
+"boyfriend...)"
+msgstr ""
+
+msgctxt "328"
+msgid "Haruka? What are you doing here?"
+msgstr ""
+
+msgctxt "340"
+msgid "Oh, um... Uncle Kaz!"
+msgstr ""
+
+msgctxt "352"
+msgid "What were you talking to all those men about?"
+msgstr ""
+
+msgctxt "364"
+msgid ""
+"Oh, er... Just saying how nice the weather is! Nothing better\r\n"
+"than a beautiful sunny day, haha! Anyway, I really should\r\n"
+"get shopping now! It's almost dinnertime!"
+msgstr ""
+
+msgctxt "388"
+msgid "Haruka, wait!"
+msgstr ""
+
+msgctxt "400"
+msgid "(She has to be hiding something...)"
+msgstr ""
+
+msgctxt "412"
+msgid ""
+"(It's just about dinnertime, though, so she'll be heading\r\n"
+"home any minute now. Guess I should do the same.)"
+msgstr ""
+
+msgctxt "4476"
+msgid "Sleazy-looking Host"
+msgstr ""
+
+msgctxt "4480"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "4484"
+msgid "Talk_Send"
+msgstr ""
+
+msgctxt "4488"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "4492"
+msgid "Peppy Punk"
+msgstr ""
+
+msgctxt "4496"
+msgid "Well-dressed Yakuza"
+msgstr ""
+
+msgctxt "4500"
+msgid "P_stand_nml"
+msgstr ""
+
+msgctxt "4504"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "4508"
+msgid "Talk_No"
+msgstr ""

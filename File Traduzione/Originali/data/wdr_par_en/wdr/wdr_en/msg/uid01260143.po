@@ -1,0 +1,207 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "168"
+msgid ""
+"(That's the kid from before. Looks like he still hasn't\r\n"
+"found his mom.)"
+msgstr ""
+
+msgctxt "180"
+msgid "My... *sniffle* My balloon... flew away..."
+msgstr ""
+
+msgctxt "192"
+msgid "So if you've got that red balloon, your mom can find you?"
+msgstr ""
+
+msgctxt "204"
+msgid ""
+"She promised that, as long as I had the red balloon, she'd\r\n"
+"come and get me. And she's never broken a promise before."
+msgstr ""
+
+msgctxt "216"
+msgid "(So he needs his red balloon to reunite with his mother...)"
+msgstr ""
+
+msgctxt "228"
+msgid "Forget about that balloon already. It's long gone."
+msgstr ""
+
+msgctxt "240"
+msgid "No... It can't be..."
+msgstr ""
+
+msgctxt "252"
+msgid "Waauhhh... *sniffle* Mommy..."
+msgstr ""
+
+msgctxt "264"
+msgid "......"
+msgstr ""
+
+msgctxt "336"
+msgid "You got 8,000 EXP."
+msgstr ""
+
+msgctxt "348"
+msgid ""
+"All right. I'll tell you what, I'll get that balloon for you\r\n"
+"if you dry those tears and stay strong. Can you do that for\r\n"
+"me?"
+msgstr ""
+
+msgctxt "360"
+msgid "*sniffle* Okay... You really think you can find my balloon, mister?"
+msgstr ""
+
+msgctxt "372"
+msgid ""
+"You bet. Wait right here and I'll get it back to you in\r\n"
+"no time."
+msgstr ""
+
+msgctxt "384"
+msgid "Okay!"
+msgstr ""
+
+msgctxt "396"
+msgid ""
+"Control the camera with "
+"the<Action:Turn_Camera_Up@Adventure><Action:Turn_Camera_"
+"Down@Adventure><Action:Turn_Camera_Left@Adventure><Action:Turn_Camera_"
+"Right@Adventure>\r\n"
+"in order to keep track of the red balloon."
+msgstr ""
+
+msgctxt "456"
+msgid "(...Is he lost? A kid that age shouldn't be wandering around town alone.)"
+msgstr ""
+
+msgctxt "468"
+msgid "Waaah! My... My balloon flew away!"
+msgstr ""
+
+msgctxt "480"
+msgid "What's the matter, little guy? Are you lost?"
+msgstr ""
+
+msgctxt "492"
+msgid ""
+"Muh... My balloon... *sniffle* It flew away...\r\n"
+"And if I don't have it... I'll never see my mommy again."
+msgstr ""
+
+msgctxt "504"
+msgid "Why do you need a balloon to see your mom?"
+msgstr ""
+
+msgctxt "516"
+msgid "Oh, is that..."
+msgstr ""
+
+msgctxt "528"
+msgid ""
+"Mommy said that if I had a red balloon, she could always\r\n"
+"find me, even if I was really lost... And... and... *sniffle*\r\n"
+"Waaaauuuhhh!"
+msgstr ""
+
+msgctxt "540"
+msgid "(So he needs his red balloon to reunite with his mother...)"
+msgstr ""
+
+msgctxt "552"
+msgid ""
+"Stop crying and start acting your age. I'm sure your mother will get you "
+"another one if you behave like a good boy."
+msgstr ""
+
+msgctxt "564"
+msgid "WAAAAAAAAHHH! I want my mommy!"
+msgstr ""
+
+msgctxt "576"
+msgid ""
+"All right. I'll tell you what, I'll get that balloon for you\r\n"
+"if you dry those tears and stay strong. Can you do that for\r\n"
+"me?"
+msgstr ""
+
+msgctxt "588"
+msgid "*sniffle* Okay... You really think you can find my balloon, mister?"
+msgstr ""
+
+msgctxt "600"
+msgid ""
+"You bet. Wait right here and I'll have it back to you in\r\n"
+"no time."
+msgstr ""
+
+msgctxt "612"
+msgid "Okay!"
+msgstr ""
+
+msgctxt "624"
+msgid ""
+"Control the camera with "
+"the<Action:Turn_Camera_Up@Adventure><Action:Turn_Camera_"
+"Down@Adventure><Action:Turn_Camera_Left@Adventure><Action:Turn_Camera_"
+"Right@Adventure>\r\n"
+"in order to keep track of the red balloon."
+msgstr ""
+
+msgctxt "684"
+msgid "I'll get it back for you, kid."
+msgstr ""
+
+msgctxt "696"
+msgid "Forget about it already."
+msgstr ""
+
+msgctxt "708"
+msgid "I'll get it back for you."
+msgstr ""
+
+msgctxt "720"
+msgid "Stop crying and behave."
+msgstr ""
+
+msgctxt "6848"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "6852"
+msgid "Lost Boy"
+msgstr ""
+
+msgctxt "6856"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "6860"
+msgid "dummy"
+msgstr ""
+
+msgctxt "6864"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "6868"
+msgid "Talk_CryBig_ed"
+msgstr ""
+
+msgctxt "6872"
+msgid "Pursuing the Balloon"
+msgstr ""

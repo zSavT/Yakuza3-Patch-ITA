@@ -1,0 +1,124 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "212"
+msgid ""
+"That was lots of fun. <Color:255,200,200,255>⑮<Color:Default> See you "
+"around! <Color:255,200,200,255>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "224"
+msgid ""
+"That was great! <Color:255,200,200,255>⑮<Color:Default> See you later! "
+"<Color:255,200,200,255>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "356"
+msgid "Mika here."
+msgstr ""
+
+msgctxt "368"
+msgid "I'm over at Aqua Sky. How about meeting me here for a game of darts?"
+msgstr ""
+
+msgctxt "380"
+msgid "Darts? Sounds great. I'll be right there."
+msgstr ""
+
+msgctxt "476"
+msgid ""
+"Sorry to keep you waiting. <Color:255,200,200,255>⑮<Color:Default> Hehe... "
+"You're going down!"
+msgstr ""
+
+msgctxt "536"
+msgid "Nao speaking."
+msgstr ""
+
+msgctxt "548"
+msgid "I'm over at Aqua Sky. How about meeting me here for a game of darts?"
+msgstr ""
+
+msgctxt "560"
+msgid "Darts? Okay, sit tight. I'll be right over."
+msgstr ""
+
+msgctxt "656"
+msgid ""
+"I'm finally here! <Color:255,200,200,255>⑮<Color:Default> Let's go have "
+"some fun!"
+msgstr ""
+
+msgctxt "704"
+msgid "All right, that will be 400 yen for two players."
+msgstr ""
+
+msgctxt "728"
+msgid "Play '01 Game"
+msgstr ""
+
+msgctxt "740"
+msgid "Play Cricket"
+msgstr ""
+
+msgctxt "752"
+msgid "Play Count-Up"
+msgstr ""
+
+msgctxt "764"
+msgid "Play '01 Game"
+msgstr ""
+
+msgctxt "776"
+msgid "Play Cricket"
+msgstr ""
+
+msgctxt "788"
+msgid "Play Count-Up"
+msgstr ""
+
+msgctxt "4636"
+msgid "Mika"
+msgstr ""
+
+msgctxt "4640"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "4644"
+msgid "Nao"
+msgstr ""
+
+msgctxt "4648"
+msgid "dummy"
+msgstr ""
+
+msgctxt "4652"
+msgid "0"
+msgstr ""
+
+msgctxt "4656"
+msgid "P_stand_tlk_phone_st"
+msgstr ""
+
+msgctxt "4660"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "4664"
+msgid "P_stand_tlk_phone_ed"
+msgstr ""
+
+msgctxt "4668"
+msgid "Bartender"
+msgstr ""

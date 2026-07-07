@@ -1,0 +1,50 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "38\t143"
+msgid "You're such an idiot, Akimoto-kun!"
+msgstr ""
+
+msgctxt "163\t207"
+msgid "I'm gonna fall!"
+msgstr ""
+
+msgctxt "208\t225"
+msgid "Oh no!"
+msgstr ""
+
+msgctxt "232\t238"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "267\t273"
+msgid "Mizuki-chan..."
+msgstr ""
+
+msgctxt "361\t421"
+msgid "Mizuki-chan!?"
+msgstr ""
+
+msgctxt "506\t566"
+msgid "Ow!"
+msgstr ""
+
+msgctxt "679\t760"
+msgid "That was close!"
+msgstr ""
+
+msgctxt "773\t929"
+msgid ""
+"If I'd died there, I wouldn't have\\n"
+"been able to kill myself."
+msgstr ""

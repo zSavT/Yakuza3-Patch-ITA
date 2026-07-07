@@ -1,0 +1,48 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "188"
+msgid "Thanks, Uncle Kaz!"
+msgstr ""
+
+msgctxt "212"
+msgid "I'm starving..."
+msgstr ""
+
+msgctxt "236"
+msgid ""
+"Uncle Kaz! It's lunch time! Have you had the <Color:8>Bento Lunch "
+"Set<Color:Default> at convenience stores? They're so good!"
+msgstr ""
+
+msgctxt "248"
+msgid "I'm starving!"
+msgstr ""
+
+msgctxt "272"
+msgid ""
+"Tasty pork and onions wrapped in a fluffy bun... Uncle Kaz! I need a "
+"<Color:8>Steamed Bun<Color:Default>! Right now!"
+msgstr ""
+
+msgctxt "1248"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "1252"
+msgid "HAL_stand_tlk_happy_small"
+msgstr ""
+
+msgctxt "1256"
+msgid "Talk_Think"
+msgstr ""

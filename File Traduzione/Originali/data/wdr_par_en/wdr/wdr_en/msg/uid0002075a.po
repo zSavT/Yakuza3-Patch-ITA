@@ -1,0 +1,86 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid "Pops...! Are... you okay!?"
+msgstr ""
+
+msgctxt "76"
+msgid "The ledgers!"
+msgstr ""
+
+msgctxt "88"
+msgid ""
+"Hahaha! I've got 'em now, so to hell with yer nasty-ass\r\n"
+"restaurant! We're gonna rip this place to shreds!"
+msgstr ""
+
+msgctxt "112"
+msgid "Mikio! Hurry and get those ledgers back!"
+msgstr ""
+
+msgctxt "124"
+msgid "...Okay! Just watch me!"
+msgstr ""
+
+msgctxt "136"
+msgid "Kiryu, please! Go help Mikio!"
+msgstr ""
+
+msgctxt "148"
+msgid "Got it."
+msgstr ""
+
+msgctxt "1716"
+msgid "Mikio"
+msgstr ""
+
+msgctxt "1720"
+msgid "Aragaki"
+msgstr ""
+
+msgctxt "1724"
+msgid "Commerce Union President"
+msgstr ""
+
+msgctxt "1728"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "1732"
+msgid "M_big_stand_tlk_kamae"
+msgstr ""
+
+msgctxt "1736"
+msgid "M_big_stand"
+msgstr ""
+
+msgctxt "1740"
+msgid "Idle"
+msgstr ""
+
+msgctxt "1744"
+msgid "Nakahara"
+msgstr ""
+
+msgctxt "1748"
+msgid "Talk_Info_L"
+msgstr ""
+
+msgctxt "1752"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "1756"
+msgid "Kiryu"
+msgstr ""

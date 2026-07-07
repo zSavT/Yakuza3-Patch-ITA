@@ -1,0 +1,114 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "92"
+msgid "Kiryu-san, thanks for taking the time to meet up with us like this."
+msgstr ""
+
+msgctxt "104"
+msgid "Yeah, we really appreciate it."
+msgstr ""
+
+msgctxt "116"
+msgid "This is Eiji. I think you met before, right?"
+msgstr ""
+
+msgctxt "128"
+msgid "Right. So what did you wanna talk to me about?"
+msgstr ""
+
+msgctxt "140"
+msgid ""
+"Well, it's about the second club. We're wondering if you could talk to "
+"Kazuki-san about it... Maybe help him see a different point of view?"
+msgstr ""
+
+msgctxt "152"
+msgid ""
+"Whether I'd be the manager of the new club or not, I really just wanna get "
+"the Stardust name out there... That's all I've ever been after."
+msgstr ""
+
+msgctxt "164"
+msgid ""
+"Kyogoku-san said he can get us a building, too, and his group is even "
+"willing to provide us with any kind of staff we need."
+msgstr ""
+
+msgctxt "176"
+msgid "I mean, it'd be huge! How can I pass up a chance like this?"
+msgstr ""
+
+msgctxt "188"
+msgid "Did you talk to Kazuki about it?"
+msgstr ""
+
+msgctxt "200"
+msgid ""
+"He wouldn't even listen to me. A second club is out of the question, as far "
+"as he's concerned."
+msgstr ""
+
+msgctxt "212"
+msgid "Then I've got nothing to say to him."
+msgstr ""
+
+msgctxt "224"
+msgid ""
+"But I just know you can do it, Yuya-san! You've been the manager of "
+"Kamurocho's hottest club forever now!"
+msgstr ""
+
+msgctxt "236"
+msgid "So... I think you'd be a great owner, too!"
+msgstr ""
+
+msgctxt "248"
+msgid ""
+"I'd follow you there, bro! And I bet there's a lot of other hosts who'd "
+"love to work in Yokohama if you were the boss, too."
+msgstr ""
+
+msgctxt "260"
+msgid ""
+"Yuya, club affairs are your business, not mine. Kazuki must have his "
+"reasons for saying no."
+msgstr ""
+
+msgctxt "272"
+msgid "I guess you're right. I'll go have another talk with him myself."
+msgstr ""
+
+msgctxt "3064"
+msgid "Yuya"
+msgstr ""
+
+msgctxt "3068"
+msgid "Eiji"
+msgstr ""
+
+msgctxt "3072"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "3076"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "3080"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "3084"
+msgid "Talk_No"
+msgstr ""

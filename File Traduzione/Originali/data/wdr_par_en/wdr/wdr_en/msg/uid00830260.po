@@ -1,0 +1,42 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "120"
+msgid ""
+"Ya need at least 200 tags to play koi-koi. You can buy\r\n"
+"'em at the front."
+msgstr ""
+
+msgctxt "132"
+msgid "Hey, buddy! Wanna play koi-koi?"
+msgstr ""
+
+msgctxt "144"
+msgid "That's what I wanted to hear! Right this way!"
+msgstr ""
+
+msgctxt "168"
+msgid "Is that so? Well, come back when ya feel like it."
+msgstr ""
+
+msgctxt "180"
+msgid "Play"
+msgstr ""
+
+msgctxt "192"
+msgid "Don't Play"
+msgstr ""
+
+msgctxt "932"
+msgid "Gambler"
+msgstr ""

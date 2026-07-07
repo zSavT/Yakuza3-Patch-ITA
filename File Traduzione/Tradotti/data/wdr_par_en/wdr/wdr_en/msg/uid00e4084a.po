@@ -1,0 +1,231 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "136"
+msgid "Hey, you all right? What happened?"
+msgstr ""
+
+msgctxt "148"
+msgid ""
+"Oh, Kiryu-san... Some tough guy I am... I was so excited\r\n"
+"to come here, but look at me now..."
+msgstr ""
+
+msgctxt "208"
+msgid "You lost?"
+msgstr ""
+
+msgctxt "220"
+msgid "Yeah... The fighters here are too damn good."
+msgstr ""
+
+msgctxt "232"
+msgid "You should get those injuries checked out."
+msgstr ""
+
+msgctxt "244"
+msgid "Kiryu-san... Will you join the tournament with me?"
+msgstr ""
+
+msgctxt "256"
+msgid "What?"
+msgstr ""
+
+msgctxt "268"
+msgid ""
+"I heard about something called the Tag Match Grand Prix.\r\n"
+"Will you fight in that with me?"
+msgstr ""
+
+msgctxt "280"
+msgid "Why me?"
+msgstr ""
+
+msgctxt "292"
+msgid "Like I said before... I want to be your apprentice."
+msgstr ""
+
+msgctxt "304"
+msgid ""
+"But if I can't do that, then the least I could do is watch\r\n"
+"you fight and learn a thing or two."
+msgstr ""
+
+msgctxt "316"
+msgid "You really think you can learn something like that?"
+msgstr ""
+
+msgctxt "328"
+msgid "Definitely. I just need to really get in close."
+msgstr ""
+
+msgctxt "340"
+msgid ""
+"The best way to do that is fight together, right? So please,\r\n"
+"team up with me in the Tag Match Grand Prix!"
+msgstr ""
+
+msgctxt "352"
+msgid "(Hmm. This guy might make a good tag match partner...)"
+msgstr ""
+
+msgctxt "364"
+msgid "Sure, why not?"
+msgstr ""
+
+msgctxt "376"
+msgid "For real!? Thank you!"
+msgstr ""
+
+msgctxt "388"
+msgid "No problem."
+msgstr ""
+
+msgctxt "400"
+msgid ""
+"Okay. I'll go ahead and register us as a team for the Grand\r\n"
+"Prix. Just come by the Coliseum anytime!"
+msgstr ""
+
+msgctxt "412"
+msgid "Sure. Just get those injuries looked at, all right?"
+msgstr ""
+
+msgctxt "424"
+msgid ""
+"Oh, right! I will! Once I'm all healed up, let's kick some\r\n"
+"ass, together!"
+msgstr ""
+
+msgctxt "436"
+msgid "You got it."
+msgstr ""
+
+msgctxt "448"
+msgid "See you later!"
+msgstr ""
+
+msgctxt "520"
+msgid "No."
+msgstr ""
+
+msgctxt "532"
+msgid "Why not?"
+msgstr ""
+
+msgctxt "544"
+msgid "Teaming up with you doesn't guarantee we'll win."
+msgstr ""
+
+msgctxt "556"
+msgid ""
+"Plus, if you keep fighting, you'll just put yourself\r\n"
+"into worse shape."
+msgstr ""
+
+msgctxt "568"
+msgid ""
+"That's not true! I know that we'd win if we entered the\r\n"
+"tournament together!"
+msgstr ""
+
+msgctxt "580"
+msgid ""
+"Besides, even on the off chance we didn't win, I still\r\n"
+" wouldn't regret a thing. And I promise I won't slow\r\n"
+"you down. Please! I'm beggin' you!"
+msgstr ""
+
+msgctxt "592"
+msgid "All right, you talked me into it. Sure, why not?"
+msgstr ""
+
+msgctxt "604"
+msgid "For real!? Thank you!"
+msgstr ""
+
+msgctxt "616"
+msgid "You got it."
+msgstr ""
+
+msgctxt "628"
+msgid ""
+"Okay. I'll go ahead and register us as a team for the Grand\r\n"
+"Prix. Just come by the Coliseum anytime!"
+msgstr ""
+
+msgctxt "640"
+msgid "You got it."
+msgstr ""
+
+msgctxt "652"
+msgid ""
+"Oh, right! I will! Once I'm all healed up, let's kick some\r\n"
+"ass, together!"
+msgstr ""
+
+msgctxt "664"
+msgid "You got it."
+msgstr ""
+
+msgctxt "676"
+msgid "See you later!"
+msgstr ""
+
+msgctxt "748"
+msgid "Sure."
+msgstr ""
+
+msgctxt "760"
+msgid "No."
+msgstr ""
+
+msgctxt "6516"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "6520"
+msgid "Keigo Jinno"
+msgstr ""
+
+msgctxt "6524"
+msgid "Idle"
+msgstr ""
+
+msgctxt "6528"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "6532"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "6536"
+msgid "Talk_Request"
+msgstr ""
+
+msgctxt "6540"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "6544"
+msgid "dummy"
+msgstr ""
+
+msgctxt "6548"
+msgid "0"
+msgstr ""
+
+msgctxt "6552"
+msgid "Talk_No"
+msgstr ""

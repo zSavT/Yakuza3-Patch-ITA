@@ -1,0 +1,128 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "378\t440"
+msgid "Hold your horses there!"
+msgstr ""
+
+msgctxt "504\t587"
+msgid "You know this isn't a normal hotel, right?"
+msgstr ""
+
+msgctxt "589\t648"
+msgid "It's couples only in here."
+msgstr ""
+
+msgctxt "649\t680"
+msgid "Huh!?"
+msgstr ""
+
+msgctxt "681\t737"
+msgid "What is she talking about?"
+msgstr ""
+
+msgctxt "741\t853"
+msgid ""
+"You two aren't the most\\n"
+"reputable looking characters, y'know."
+msgstr ""
+
+msgctxt "854\t998"
+msgid ""
+"Can't have some thugs up and\\n"
+"committing crimes in one of my rooms."
+msgstr ""
+
+msgctxt "1012\t1131"
+msgid ""
+"I, uh... guess people only\\n"
+"come here for one thing."
+msgstr ""
+
+msgctxt "1352\t1403"
+msgid "'Scuse me, ma'am?"
+msgstr ""
+
+msgctxt "1422\t1483"
+msgid "We've gotta be a couple to come in, right?"
+msgstr ""
+
+msgctxt "1484\t1531"
+msgid "No couple, no room."
+msgstr ""
+
+msgctxt "1532\t1686"
+msgid ""
+"Well, ain't a duo in town cuter\\n"
+"than me and my aniki here! ♪"
+msgstr ""
+
+msgctxt "1687\t1724"
+msgid "Hold on...!"
+msgstr ""
+
+msgctxt "1725\t1886"
+msgid ""
+"We usually keep it under wraps,\\n"
+"but I just can't keep my hands off of him!"
+msgstr ""
+
+msgctxt "1887\t2044"
+msgid "Ohhh! I had no idea!"
+msgstr ""
+
+msgctxt "2048\t2133"
+msgid "In that case, just a sec."
+msgstr ""
+
+msgctxt "2178\t2340"
+msgid ""
+"401's the only room open.\\n"
+"It's a tight squeeze, but no worry there!"
+msgstr ""
+
+msgctxt "2341\t2379"
+msgid "Appreciate it! ♪"
+msgstr ""
+
+msgctxt "2380\t2447"
+msgid "The elevator's just in the back there."
+msgstr ""
+
+msgctxt "2468\t2535"
+msgid "Enjoy!"
+msgstr ""
+
+msgctxt "2666\t2726"
+msgid "Kanda's on the fourth floor, too."
+msgstr ""
+
+msgctxt "2744\t2775"
+msgid "Yup."
+msgstr ""
+
+msgctxt "2776\t2886"
+msgid ""
+"Kinda run-down place for\\n"
+"the patriarch of a major family, huh?"
+msgstr ""
+
+msgctxt "2887\t3045"
+msgid ""
+"I dunno. Maybe he's just not\\n"
+"too keen on spending his own money."
+msgstr ""
+
+msgctxt "3251\t3345"
+msgid "Can you quit it with that already?"
+msgstr ""

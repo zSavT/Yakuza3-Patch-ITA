@@ -1,0 +1,100 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid "My, that was a good match."
+msgstr ""
+
+msgctxt "76"
+msgid ""
+"We have a small event ready for customers who are here on dates who have "
+"time for a match. Would you be interested in giving it a shot?"
+msgstr ""
+
+msgctxt "88"
+msgid "An event?"
+msgstr ""
+
+msgctxt "100"
+msgid ""
+"That's right, it's called Prize Bank Shot. We have the\r\n"
+"names of some prizes written on the billiard table."
+msgstr ""
+
+msgctxt "112"
+msgid "Make a bank shot onto one to win that prize! Simple, right?"
+msgstr ""
+
+msgctxt "136"
+msgid ""
+"Your lady friend will have to work extra hard for some of these prizes. "
+"What do you say?"
+msgstr ""
+
+msgctxt "148"
+msgid ""
+"Your lady friend will have to work extra hard for some of these prizes. "
+"What do you say?"
+msgstr ""
+
+msgctxt "172"
+msgid ""
+"Hehehe. I wonder what they mean by that. Sounds pretty fun. Good luck, "
+"Kiryu-san!"
+msgstr ""
+
+msgctxt "184"
+msgid ""
+"Ooh, sounds fun. Kiryu-san, you gotta get me a nice prize,\r\n"
+"okay?"
+msgstr ""
+
+msgctxt "196"
+msgid "All right. Let's give it a try."
+msgstr ""
+
+msgctxt "208"
+msgid "Got it!"
+msgstr ""
+
+msgctxt "2204"
+msgid "Bartender"
+msgstr ""
+
+msgctxt "2208"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "2212"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "2216"
+msgid "Talk_Kosite_st"
+msgstr ""
+
+msgctxt "2220"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "2224"
+msgid "Mika"
+msgstr ""
+
+msgctxt "2228"
+msgid "Saya"
+msgstr ""
+
+msgctxt "2232"
+msgid "Talk_Kosite_ed"
+msgstr ""

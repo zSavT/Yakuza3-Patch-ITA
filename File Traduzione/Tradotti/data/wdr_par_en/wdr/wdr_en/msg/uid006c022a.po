@@ -1,0 +1,240 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "124"
+msgid "Hehehe... It's gonna be so hard to pick out what I want..."
+msgstr ""
+
+msgctxt "136"
+msgid "Let's head in and start looking, then."
+msgstr ""
+
+msgctxt "160"
+msgid "Hehehe... It's gonna be so hard to pick out what I want..."
+msgstr ""
+
+msgctxt "172"
+msgid "Hold on a second. I just realized I'm a little short on cash."
+msgstr ""
+
+msgctxt "184"
+msgid "Wait, what? Are you being serious right now?"
+msgstr ""
+
+msgctxt "196"
+msgid "Sorry..."
+msgstr ""
+
+msgctxt "208"
+msgid "Ugh, whatever. I guess I'll just like, go home, then. Bye, Kiryu-san."
+msgstr ""
+
+msgctxt "220"
+msgid "(Guess I should bring some cash next time...)"
+msgstr ""
+
+msgctxt "328"
+msgid "Hehehe... I can't believe you like, actually bought me something."
+msgstr ""
+
+msgctxt "340"
+msgid "It was my pleasure."
+msgstr ""
+
+msgctxt "352"
+msgid ""
+"Thank you sooo much! <Color:7>⑮<Color:Default> I'll take super good care of "
+"this. <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "364"
+msgid "Well, I'll see you later. Stop by the club to see me, okay?"
+msgstr ""
+
+msgctxt "388"
+msgid "Thanks. I'll definitely use this."
+msgstr ""
+
+msgctxt "400"
+msgid "No problem."
+msgstr ""
+
+msgctxt "412"
+msgid "Well, I'll see you later. Stop by the club to see me sometime, okay?"
+msgstr ""
+
+msgctxt "436"
+msgid "......"
+msgstr ""
+
+msgctxt "448"
+msgid "Everything all right?"
+msgstr ""
+
+msgctxt "460"
+msgid "Yeah, uh... I don't think this is really, like, my thing."
+msgstr ""
+
+msgctxt "472"
+msgid "Oh..."
+msgstr ""
+
+msgctxt "484"
+msgid "Well, I'll see you later. Stop by the club to see me, okay?"
+msgstr ""
+
+msgctxt "496"
+msgid ""
+"(Guess she didn't like the gift. Maybe I'll put some more thought into it "
+"next time.)"
+msgstr ""
+
+msgctxt "520"
+msgid ""
+"Major error!\r\n"
+"No flags set for conversation selection!"
+msgstr ""
+
+msgctxt "604"
+msgid "Hehehe... It's gonna be so hard to pick out what I want..."
+msgstr ""
+
+msgctxt "616"
+msgid "Let's head in and start looking, then."
+msgstr ""
+
+msgctxt "640"
+msgid "Hehehe... It's gonna be so hard to pick out what I want..."
+msgstr ""
+
+msgctxt "652"
+msgid "Hold on a second. I just realized I'm a little short on cash."
+msgstr ""
+
+msgctxt "664"
+msgid "Wait, what? Are you being serious right now?"
+msgstr ""
+
+msgctxt "676"
+msgid "Sorry..."
+msgstr ""
+
+msgctxt "688"
+msgid "Ugh, whatever. I guess I'll just like, go home, then. Bye, Kiryu-san."
+msgstr ""
+
+msgctxt "700"
+msgid "(Guess I should bring some cash next time...)"
+msgstr ""
+
+msgctxt "808"
+msgid "Hehehe... I can't believe you like, actually bought me something."
+msgstr ""
+
+msgctxt "820"
+msgid "It was my pleasure."
+msgstr ""
+
+msgctxt "832"
+msgid ""
+"Thank you sooo much! <Color:7>⑮<Color:Default> I'll take super good care of "
+"this. <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "844"
+msgid "We should probably get going. Wanna head to the club now?"
+msgstr ""
+
+msgctxt "856"
+msgid "Yeah, sounds good."
+msgstr ""
+
+msgctxt "880"
+msgid "Thanks for buying me this, Kiryu-san."
+msgstr ""
+
+msgctxt "892"
+msgid "No problem."
+msgstr ""
+
+msgctxt "904"
+msgid "We should probably get going. Wanna head to the club now?"
+msgstr ""
+
+msgctxt "916"
+msgid "Yeah, sounds good."
+msgstr ""
+
+msgctxt "940"
+msgid "......"
+msgstr ""
+
+msgctxt "952"
+msgid "Everything all right?"
+msgstr ""
+
+msgctxt "964"
+msgid "Yeah, uh... I don't think this is really, like, my thing."
+msgstr ""
+
+msgctxt "976"
+msgid "Oh..."
+msgstr ""
+
+msgctxt "988"
+msgid "We should probably get going. Wanna head to the club now?"
+msgstr ""
+
+msgctxt "1000"
+msgid ""
+"(Guess she didn't like the gift. Maybe I'll put some more thought into it "
+"next time.)"
+msgstr ""
+
+msgctxt "1024"
+msgid ""
+"Major error!\r\n"
+"No flags set for conversation selection!"
+msgstr ""
+
+msgctxt "12300"
+msgid "Ranko"
+msgstr ""
+
+msgctxt "12304"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "12308"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "12312"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "12316"
+msgid "dummy"
+msgstr ""
+
+msgctxt "12320"
+msgid "0"
+msgstr ""
+
+msgctxt "12324"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "12328"
+msgid "Talk_No"
+msgstr ""

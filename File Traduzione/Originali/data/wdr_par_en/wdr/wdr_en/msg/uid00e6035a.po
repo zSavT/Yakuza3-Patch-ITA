@@ -1,0 +1,72 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "92"
+msgid ""
+"You're a doctor? Are you a general practitioner? Or do you work in a "
+"hospital?"
+msgstr ""
+
+msgctxt "104"
+msgid "I work in a hospital⑬Touto Hospital, to be exact. Maybe you've heard of it."
+msgstr ""
+
+msgctxt "116"
+msgid "You're kidding! That place is huge! I've seen it on TV!"
+msgstr ""
+
+msgctxt "128"
+msgid "Isn't that where all the big stars and politicians go?"
+msgstr ""
+
+msgctxt "140"
+msgid "Yeah. Actually, we've got a patient like that in the VIP room right now..."
+msgstr ""
+
+msgctxt "152"
+msgid "Really? Who!?"
+msgstr ""
+
+msgctxt "164"
+msgid ""
+"Well, only the doctor in charge knows his identity, but I imagine he's "
+"famous in one way or another. I wonder who it could be..."
+msgstr ""
+
+msgctxt "1428"
+msgid "Doctor-Obsessed Woman"
+msgstr ""
+
+msgctxt "1432"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "1436"
+msgid "Handsome Doctor"
+msgstr ""
+
+msgctxt "1440"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "1444"
+msgid "Talk_Kansin"
+msgstr ""
+
+msgctxt "1448"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "1452"
+msgid "Talk_Think"
+msgstr ""

@@ -1,0 +1,32 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "108"
+msgid "(%s is at the top of her game right now...)"
+msgstr ""
+
+msgctxt "132"
+msgid "(%s seems to be keeping herself occupied...)"
+msgstr ""
+
+msgctxt "156"
+msgid "(%s is attending to quite a few people... She even has a helper.)"
+msgstr ""
+
+msgctxt "676"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "680"
+msgid "Talk_Yes"
+msgstr ""

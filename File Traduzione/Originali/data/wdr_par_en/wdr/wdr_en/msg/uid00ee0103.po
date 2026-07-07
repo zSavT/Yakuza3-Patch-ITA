@@ -1,0 +1,270 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "236"
+msgid "Hello, sir. Are you looking for anything in particular?"
+msgstr ""
+
+msgctxt "296"
+msgid "Huh? You're not going to get anything? Really?"
+msgstr ""
+
+msgctxt "308"
+msgid "Sorry..."
+msgstr ""
+
+msgctxt "332"
+msgid "I'll take this."
+msgstr ""
+
+msgctxt "344"
+msgid "Thank you very much! Let me walk you to the door."
+msgstr ""
+
+msgctxt "368"
+msgid "Hello, sir. Are you looking for anything in particular?"
+msgstr ""
+
+msgctxt "428"
+msgid "Huh? You're not gonna buy anythin'? Yer kiddin' me, right?"
+msgstr ""
+
+msgctxt "440"
+msgid "Sorry..."
+msgstr ""
+
+msgctxt "464"
+msgid "I'll take this."
+msgstr ""
+
+msgctxt "476"
+msgid "Thank you very much! Let me walk you to the door."
+msgstr ""
+
+msgctxt "500"
+msgid "Hello, sir. Are you looking for anything in particular?"
+msgstr ""
+
+msgctxt "560"
+msgid ""
+"Huh? Wait, so if you're not gonna buy anything, why'd we come in here? "
+"Should have gone to eat yakiniku..."
+msgstr ""
+
+msgctxt "572"
+msgid "Sorry..."
+msgstr ""
+
+msgctxt "596"
+msgid "There we go."
+msgstr ""
+
+msgctxt "608"
+msgid "Thank you very much! Let me walk you to the door."
+msgstr ""
+
+msgctxt "632"
+msgid "Hello, sir. Are you looking for anything in particular?"
+msgstr ""
+
+msgctxt "692"
+msgid "Huh? Wait, you're seriously not gonna buy anything? Like, what the heck?"
+msgstr ""
+
+msgctxt "704"
+msgid "Sorry..."
+msgstr ""
+
+msgctxt "728"
+msgid "I'll take this."
+msgstr ""
+
+msgctxt "740"
+msgid "Thank you very much! Let me walk you to the door."
+msgstr ""
+
+msgctxt "764"
+msgid "Hello, sir. Are you looking for anything in particular?"
+msgstr ""
+
+msgctxt "824"
+msgid "Huh? You're not going to get anything? I don't get it..."
+msgstr ""
+
+msgctxt "836"
+msgid "Sorry..."
+msgstr ""
+
+msgctxt "860"
+msgid "I'll take this."
+msgstr ""
+
+msgctxt "872"
+msgid "Thank you very much! Let me walk you to the door."
+msgstr ""
+
+msgctxt "896"
+msgid "Hello, sir. Are you looking for anything in particular?"
+msgstr ""
+
+msgctxt "956"
+msgid "Huh? You're not going to get anything? Is this some kind of cruel joke?"
+msgstr ""
+
+msgctxt "968"
+msgid "Sorry..."
+msgstr ""
+
+msgctxt "992"
+msgid "I'll take this."
+msgstr ""
+
+msgctxt "1004"
+msgid "Thank you very much! Let me walk you to the door."
+msgstr ""
+
+msgctxt "1028"
+msgid "Hello, sir. Are you looking for anything in particular?"
+msgstr ""
+
+msgctxt "1088"
+msgid "Huh? Wait, you're not buying anything? What!? Come on, really!?"
+msgstr ""
+
+msgctxt "1100"
+msgid "Yeah, sorry..."
+msgstr ""
+
+msgctxt "1124"
+msgid "I'll take this."
+msgstr ""
+
+msgctxt "1136"
+msgid "Thank you very much! Let me walk you to the door."
+msgstr ""
+
+msgctxt "1172"
+msgid "Hello, sir. Are you looking for anything in particular?"
+msgstr ""
+
+msgctxt "1208"
+msgid "Will that be all for you, sir?"
+msgstr ""
+
+msgctxt "1220"
+msgid "No, I'm not done yet."
+msgstr ""
+
+msgctxt "1232"
+msgid "All right. Might I ask what you're looking for?"
+msgstr ""
+
+msgctxt "1256"
+msgid "We hope to see you again soon."
+msgstr ""
+
+msgctxt "1268"
+msgid "Yeah, I'm done."
+msgstr ""
+
+msgctxt "1280"
+msgid "Very well, sir. Let me walk you to the door."
+msgstr ""
+
+msgctxt "1316"
+msgid ""
+"Thank you for shopping with us. Pardon me, sir, but you wouldn't happen to "
+"be looking for any foreign brands, would you?"
+msgstr ""
+
+msgctxt "1328"
+msgid "Why do you ask?"
+msgstr ""
+
+msgctxt "1340"
+msgid "Well, every two months, we travel to Europe to purchase name-brand goods."
+msgstr ""
+
+msgctxt "1352"
+msgid ""
+"If you make a reservation with us for certain foreign brands, we will "
+"purchase them for you in Europe."
+msgstr ""
+
+msgctxt "1364"
+msgid ""
+"They've got lots of fancy handbags over there that you can't get over here "
+"in Japan, so if you're hoping to get your hands on one, just let us know."
+msgstr ""
+
+msgctxt "1376"
+msgid ""
+"(You can make special reservations for the fanciest European brands, huh? I "
+"should remember this when I'm over at a cabaret club.)"
+msgstr ""
+
+msgctxt "1400"
+msgid "Yeah, that's it."
+msgstr ""
+
+msgctxt "1412"
+msgid "Not yet."
+msgstr ""
+
+msgctxt "12732"
+msgid "Employee"
+msgstr ""
+
+msgctxt "12736"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "12740"
+msgid "Reimi"
+msgstr ""
+
+msgctxt "12744"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "12748"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "12752"
+msgid "Rin"
+msgstr ""
+
+msgctxt "12756"
+msgid "Kana"
+msgstr ""
+
+msgctxt "12760"
+msgid "Ranko"
+msgstr ""
+
+msgctxt "12764"
+msgid "Miyu"
+msgstr ""
+
+msgctxt "12768"
+msgid "Shiori"
+msgstr ""
+
+msgctxt "12772"
+msgid "Yui"
+msgstr ""
+
+msgctxt "12776"
+msgid "Talk_No"
+msgstr ""

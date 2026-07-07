@@ -1,0 +1,216 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "108"
+msgid "Phew, that was a good workout."
+msgstr ""
+
+msgctxt "120"
+msgid "Well, Akira-kun? That was pretty fun, huh?"
+msgstr ""
+
+msgctxt "132"
+msgid "Yeah!"
+msgstr ""
+
+msgctxt "144"
+msgid "Then we're done warming up! Time to play for real!"
+msgstr ""
+
+msgctxt "156"
+msgid "...For real?"
+msgstr ""
+
+msgctxt "168"
+msgid ""
+"Yup. We don't have enough people for a game or anything,\r\n"
+"but we take turns at bat and everyone else plays defense!"
+msgstr ""
+
+msgctxt "180"
+msgid "Where should we put Akira-kun?"
+msgstr ""
+
+msgctxt "192"
+msgid "How about right field? It's the perfect spot for beginners."
+msgstr ""
+
+msgctxt "204"
+msgid "Good idea. Everyone get into position!"
+msgstr ""
+
+msgctxt "216"
+msgid "W-Wait, what's right field?"
+msgstr ""
+
+msgctxt "228"
+msgid "Seriously? You don't know?"
+msgstr ""
+
+msgctxt "252"
+msgid "Lay off him, Taichi. It's his first time, remember?"
+msgstr ""
+
+msgctxt "276"
+msgid "Right field's over there. Pretty far from the batter."
+msgstr ""
+
+msgctxt "288"
+msgid ""
+"Just stand back there and get the ball if it comes your way.\r\n"
+"Then throw it to Mitsuo, okay? You'll be fine, Akira-kun."
+msgstr ""
+
+msgctxt "300"
+msgid "All right..."
+msgstr ""
+
+msgctxt "312"
+msgid ""
+"All you need is a little confidence, Akira. Just believe in\r\n"
+"yourself. Anyway, I'm gonna head inside for a bit. Keep an\r\n"
+"eye on him, Koji."
+msgstr ""
+
+msgctxt "324"
+msgid "Will do! Let's get you in position, Akira-kun!"
+msgstr ""
+
+msgctxt "396"
+msgid "(Hm? I don't recognize that kid.)"
+msgstr ""
+
+msgctxt "456"
+msgid "Hey, do you live around here?"
+msgstr ""
+
+msgctxt "468"
+msgid "Y-Yeah..."
+msgstr ""
+
+msgctxt "480"
+msgid "Cool! I'm Koji! What's your name?"
+msgstr ""
+
+msgctxt "492"
+msgid "It's Akira."
+msgstr ""
+
+msgctxt "504"
+msgid "Well, Akira, you wanna play with us? You know how to play baseball, right?"
+msgstr ""
+
+msgctxt "516"
+msgid "I, um..."
+msgstr ""
+
+msgctxt "528"
+msgid "C'mon, it'll be fun!"
+msgstr ""
+
+msgctxt "540"
+msgid "Yeah, let's play!"
+msgstr ""
+
+msgctxt "552"
+msgid "But... I've never played before."
+msgstr ""
+
+msgctxt "564"
+msgid ""
+"I bet I'm really bad at it, just like I'm bad at everything\r\n"
+"else. PE's the only time I play sports, and even then I\r\n"
+"always get picked last..."
+msgstr ""
+
+msgctxt "576"
+msgid "Don't worry, we'll teach you!"
+msgstr ""
+
+msgctxt "588"
+msgid "But..."
+msgstr ""
+
+msgctxt "600"
+msgid "We were just saying how we needed another guy, c'mon!"
+msgstr ""
+
+msgctxt "612"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "624"
+msgid "We've got two girls and five boys, so one more boy'll even out the teams!"
+msgstr ""
+
+msgctxt "636"
+msgid "Right, Taichi?"
+msgstr ""
+
+msgctxt "648"
+msgid "Yeah, we'd love for you to join!"
+msgstr ""
+
+msgctxt "672"
+msgid ""
+"Some of the other kids are pretty young, too, so we won't\r\n"
+"go too hard, promise."
+msgstr ""
+
+msgctxt "684"
+msgid "All right, maybe I could play a bit. Thanks!"
+msgstr ""
+
+msgctxt "9860"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "9864"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "9868"
+msgid "Koji"
+msgstr ""
+
+msgctxt "9872"
+msgid "0"
+msgstr ""
+
+msgctxt "9876"
+msgid "Akira"
+msgstr ""
+
+msgctxt "9880"
+msgid "Taichi"
+msgstr ""
+
+msgctxt "9884"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "9888"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "9892"
+msgid "Timid Boy"
+msgstr ""
+
+msgctxt "9896"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "9900"
+msgid "M_cld_sitgrd_tlk_taiiku_ed"
+msgstr ""

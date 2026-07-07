@@ -1,0 +1,141 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "92"
+msgid "Oh, Kiryu-san! Come by to take a load off?"
+msgstr ""
+
+msgctxt "104"
+msgid "What's this line for?"
+msgstr ""
+
+msgctxt "116"
+msgid "Huh? Doesn't everyone love ice cream?"
+msgstr ""
+
+msgctxt "128"
+msgid "Kaede-san! Stop standing around and start taking orders!"
+msgstr ""
+
+msgctxt "140"
+msgid "I'm taking them! Jeez, what's the big rush?"
+msgstr ""
+
+msgctxt "152"
+msgid ""
+"Ma'am! Please let me take over for Kaede-san! We've got\r\n"
+"too many customers waiting!"
+msgstr ""
+
+msgctxt "224"
+msgid "Kaede-san! Why are you making our customers wait!?"
+msgstr ""
+
+msgctxt "236"
+msgid ""
+"I just thought, well, they made the effort to come all\r\n"
+"the way here, the least they deserve is a bit of friendly\r\n"
+"conversation..."
+msgstr ""
+
+msgctxt "248"
+msgid ""
+"This is a business, not a social club! Kaede-san... I don't\r\n"
+"think you're a good fit for this shop."
+msgstr ""
+
+msgctxt "260"
+msgid ""
+"I'll give you the rest of your pay, so don't bother showing\r\n"
+"up tomorrow, or the next day, either, because you're fired!"
+msgstr ""
+
+msgctxt "272"
+msgid "What!? Not again!"
+msgstr ""
+
+msgctxt "344"
+msgid "Ugh... Can't believe I lost another job..."
+msgstr ""
+
+msgctxt "356"
+msgid "Sounds like you need to pull yourself together."
+msgstr ""
+
+msgctxt "368"
+msgid "I was never this busy when I worked part-time in Okinawa..."
+msgstr ""
+
+msgctxt "380"
+msgid ""
+"I've gotta start the job search again... If I don't work,\r\n"
+"I won't even be able to feed myself."
+msgstr ""
+
+msgctxt "392"
+msgid ""
+"See you later, then! I'm gonna see if I can find a job\r\n"
+"around here. I'll text you if something works out."
+msgstr ""
+
+msgctxt "4112"
+msgid "Kaede"
+msgstr ""
+
+msgctxt "4116"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "4120"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "4124"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "4128"
+msgid "Employee"
+msgstr ""
+
+msgctxt "4132"
+msgid "Talk_Info_L"
+msgstr ""
+
+msgctxt "4136"
+msgid "Gelateria Manager"
+msgstr ""
+
+msgctxt "4140"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "4144"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "4148"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "4152"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "4156"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "4160"
+msgid "Talk_Think"
+msgstr ""

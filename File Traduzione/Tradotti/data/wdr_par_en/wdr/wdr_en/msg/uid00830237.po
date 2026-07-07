@@ -1,0 +1,77 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "96"
+msgid "You gonna see the kid off, huh?"
+msgstr ""
+
+msgctxt "108"
+msgid "Yup."
+msgstr ""
+
+msgctxt "120"
+msgid ""
+"Hey, kid. I know things were kinda tough for you today, but\r\n"
+"I hope it didn't color your opinion of Tokyo too bad. Come back someday, "
+"yeah?"
+msgstr ""
+
+msgctxt "132"
+msgid ""
+"Yeah, I will. Thanks for everything. Oh and, uh... take care of Aniki for "
+"me."
+msgstr ""
+
+msgctxt "144"
+msgid ""
+"That's a real hoot, kid. Kiryu doesn't need anyone taking\r\n"
+"care of him. Anyway, have a good flight. Later."
+msgstr ""
+
+msgctxt "156"
+msgid "Come on, Rikiya."
+msgstr ""
+
+msgctxt "168"
+msgid "What're you gonna do with the kid, Kiryu?"
+msgstr ""
+
+msgctxt "180"
+msgid "I'm sending him home. It's too dangerous for him to stay here."
+msgstr ""
+
+msgctxt "192"
+msgid ""
+"Agreed. You might wanna at least take him to the taxi after all\r\n"
+"he's been through, though. It's only fair."
+msgstr ""
+
+msgctxt "204"
+msgid "Yeah, I was planning on it."
+msgstr ""
+
+msgctxt "1888"
+msgid "The Florist"
+msgstr ""
+
+msgctxt "1892"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1896"
+msgid "Rikiya"
+msgstr ""
+
+msgctxt "1900"
+msgid "Talk_Ojigi"
+msgstr ""

@@ -1,0 +1,132 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "80"
+msgid "(Those punks went down easier than swatting flies. Now to go help Date-san!)"
+msgstr ""
+
+msgctxt "104"
+msgid "Tsukishima! Get your filthy hands off Mama!"
+msgstr ""
+
+msgctxt "116"
+msgid "Help!"
+msgstr ""
+
+msgctxt "128"
+msgid ""
+"So you finally remembered, eh? You have any idea\r\n"
+"how hard it was to track your retired ass down?"
+msgstr ""
+
+msgctxt "140"
+msgid "Let her go!"
+msgstr ""
+
+msgctxt "152"
+msgid ""
+"I really was surprised, you know... I go looking for the bar\r\n"
+"where you hang out, and who do I find? The same woman\r\n"
+"I took hostage all those years ago."
+msgstr ""
+
+msgctxt "164"
+msgid "......"
+msgstr ""
+
+msgctxt "176"
+msgid ""
+"So I figured I'd have some fun with the girl that got away\r\n"
+"while we settled our score."
+msgstr ""
+
+msgctxt "188"
+msgid "(Date-san... I'll draw his attention. You finish the job!)"
+msgstr ""
+
+msgctxt "200"
+msgid ""
+"Stay right where you are! I've got a couple friends I'd like\r\n"
+"you to meet."
+msgstr ""
+
+msgctxt "236"
+msgid ""
+"Boys, take care of these two! Just make sure you leave\r\n"
+"Date alive. I want to savor his final moments... in agony."
+msgstr ""
+
+msgctxt "248"
+msgid "What do you plan to do with Mama!?"
+msgstr ""
+
+msgctxt "260"
+msgid ""
+"Ah, that's right. What to do with the lady... Oh, I have a thought. Why "
+"don't I be a gentleman... and take her somewhere special? I guarantee it'll "
+"bring back memories!"
+msgstr ""
+
+msgctxt "272"
+msgid "What!?"
+msgstr ""
+
+msgctxt "284"
+msgid "So long, Date! We'll be waiting... that is, if you make it out in one piece!"
+msgstr ""
+
+msgctxt "296"
+msgid "Date-san! You go after Tsukishima, and I'll clean up here!"
+msgstr ""
+
+msgctxt "308"
+msgid "Good looking out, Kiryu!"
+msgstr ""
+
+msgctxt "332"
+msgid ""
+"All right then. I'm not playing around, so if you don't want to get hurt... "
+"this is your last chance to back down!"
+msgstr ""
+
+msgctxt "4812"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "4816"
+msgid "Date"
+msgstr ""
+
+msgctxt "4820"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "4824"
+msgid "Mama"
+msgstr ""
+
+msgctxt "4828"
+msgid "Tsukishima"
+msgstr ""
+
+msgctxt "4832"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "4836"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "4840"
+msgid "Talk_Chohatu"
+msgstr ""

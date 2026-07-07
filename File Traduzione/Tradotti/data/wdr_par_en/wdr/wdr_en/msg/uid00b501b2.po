@@ -1,0 +1,80 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "92"
+msgid "(I see a ribbon, but...)"
+msgstr ""
+
+msgctxt "104"
+msgid "Excuse me. I'm, uh... I'm guessing your name's not Sakura."
+msgstr ""
+
+msgctxt "116"
+msgid "Nope, I'm Tomo. Who's Sakura?"
+msgstr ""
+
+msgctxt "128"
+msgid "Let me guess... You got that ribbon in a trade with some other girl?"
+msgstr ""
+
+msgctxt "140"
+msgid "Hey, how did you know? Isn't it just the cutest?"
+msgstr ""
+
+msgctxt "152"
+msgid "She wanted my animal backpack, so I swapped for her ribbon."
+msgstr ""
+
+msgctxt "164"
+msgid "(So now we're looking for an animal backpack?)"
+msgstr ""
+
+msgctxt "176"
+msgid "What's wrong, mister? You don't look so hot."
+msgstr ""
+
+msgctxt "188"
+msgid "It's nothing. I'm fine."
+msgstr ""
+
+msgctxt "200"
+msgid "(I guess now I have to look for a girl with an animal backpack.)"
+msgstr ""
+
+msgctxt "1596"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1600"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "1604"
+msgid "Talk_Kamae"
+msgstr ""
+
+msgctxt "1608"
+msgid "Tomo"
+msgstr ""
+
+msgctxt "1612"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "1616"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "1620"
+msgid "SetF_cld_stand_dance_01"
+msgstr ""

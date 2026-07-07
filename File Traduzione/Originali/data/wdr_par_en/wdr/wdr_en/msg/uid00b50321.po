@@ -1,0 +1,122 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "192"
+msgid ""
+"Oh, well ain't this a wild surprise! What're ya doin' all\r\n"
+"the way out here?"
+msgstr ""
+
+msgctxt "204"
+msgid ""
+"I should be asking you. Weren't you supposed to be in\r\n"
+"Kyushu?"
+msgstr ""
+
+msgctxt "216"
+msgid ""
+"Well sure, I was for a while. Walked all over Fukuoka,\r\n"
+"Kumamoto, and Kagoshima tryin' out different ramen joints.\r\n"
+"Then I heard that Okinawa's got some fine-tastin' pork!"
+msgstr ""
+
+msgctxt "228"
+msgid ""
+"So, to make a long story short, I ended up over here, on a quest to find "
+"the best Okinawan soba! Ya wouldn't happen to have any clues for me, now "
+"would ya?"
+msgstr ""
+
+msgctxt "240"
+msgid ""
+"Actually, there's a pretty good Okinawan soba stand over in Kariyushi "
+"Arcade. Why don't you try it out?"
+msgstr ""
+
+msgctxt "252"
+msgid "As a matter of fact, I think I will! Thanks a lot, big guy!"
+msgstr ""
+
+msgctxt "312"
+msgid ""
+"(He came all the way to Okinawa just to research noodles... This guy's a "
+"bit of a noodle himself.)"
+msgstr ""
+
+msgctxt "324"
+msgid ""
+"I'm sure you won't have any trouble finding one on your own. After all, you "
+"got this far, right?"
+msgstr ""
+
+msgctxt "336"
+msgid ""
+"I dunno, I've tried a lot of places already... None of 'em really did "
+"anything for me."
+msgstr ""
+
+msgctxt "348"
+msgid "Well, guess it couldn't hurt to look around some more."
+msgstr ""
+
+msgctxt "360"
+msgid "Still can't find it?"
+msgstr ""
+
+msgctxt "372"
+msgid "Well, I've been looking all over the place, but no dice."
+msgstr ""
+
+msgctxt "384"
+msgid "Tell Him"
+msgstr ""
+
+msgctxt "396"
+msgid "It's a Secret"
+msgstr ""
+
+msgctxt "408"
+msgid "Help Him Out"
+msgstr ""
+
+msgctxt "420"
+msgid "Say Nothing"
+msgstr ""
+
+msgctxt "3356"
+msgid "Ueda"
+msgstr ""
+
+msgctxt "3360"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "3364"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "3368"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "3372"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "3376"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "3380"
+msgid "Talk_Kamae"
+msgstr ""

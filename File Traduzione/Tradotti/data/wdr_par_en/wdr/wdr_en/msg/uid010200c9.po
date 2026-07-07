@@ -1,0 +1,183 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "76"
+msgid "Kiryu-san..."
+msgstr ""
+
+msgctxt "88"
+msgid "Hm? The fuck are you, pretty boy?"
+msgstr ""
+
+msgctxt "100"
+msgid ""
+"You don't know? That's the fourth chairman of the Tojo Clan,\r\n"
+"Kazuma Kiryu-san!"
+msgstr ""
+
+msgctxt "112"
+msgid "Hmmm?"
+msgstr ""
+
+msgctxt "124"
+msgid "Oh... Ohhh! I know you!"
+msgstr ""
+
+msgctxt "136"
+msgid "Then you'll know to back off!"
+msgstr ""
+
+msgctxt "148"
+msgid "Open those ears real good, Fourth Chairman-han."
+msgstr ""
+
+msgctxt "160"
+msgid ""
+"I dunno what you're strollin' in here for, but lemme set\r\n"
+"the record straight."
+msgstr ""
+
+msgctxt "172"
+msgid ""
+"Me and these gentlemen? We're just havin' a friendly little chitchat. Not a "
+"suspicious thing about it, cross my heart n' hope to die."
+msgstr ""
+
+msgctxt "184"
+msgid "So why don't you go runnin' along home?"
+msgstr ""
+
+msgctxt "196"
+msgid "Kazuki. What's going on?"
+msgstr ""
+
+msgctxt "208"
+msgid "This guy came in and started saying he wanted to buy the club."
+msgstr ""
+
+msgctxt "220"
+msgid "Who are you, anyway?"
+msgstr ""
+
+msgctxt "232"
+msgid ""
+"Name's Hasebe, captain of the Nishikiyama Family. Y'know,\r\n"
+"the one wrestin' control of this whole damn city."
+msgstr ""
+
+msgctxt "244"
+msgid "What?"
+msgstr ""
+
+msgctxt "256"
+msgid ""
+"So look, we just wanna borrow your pal's club for a bit.\r\n"
+"We're playin' nice now... but you don't wanna see what\r\n"
+"happens when we don't."
+msgstr ""
+
+msgctxt "268"
+msgid "Why do you need the club?"
+msgstr ""
+
+msgctxt "280"
+msgid "Well that just doesn't even deserve an answer. Now scram, pal."
+msgstr ""
+
+msgctxt "292"
+msgid "So whaddya say?"
+msgstr ""
+
+msgctxt "304"
+msgid "300 mil's a damn mighty pile o' cash. As I think you can see."
+msgstr ""
+
+msgctxt "316"
+msgid ""
+"And hey, it's just one measly month. That time'll fly by\r\n"
+"quicker than a bat outta hell."
+msgstr ""
+
+msgctxt "328"
+msgid "...I think I know what you want it for."
+msgstr ""
+
+msgctxt "340"
+msgid ""
+"You're going to turn this place into your base of operations\r\n"
+"for a yakuza war."
+msgstr ""
+
+msgctxt "352"
+msgid ""
+"Heh. Guess ya don't survive this long in Kamurocho without\r\n"
+"knowin' how its shadier side operates, huh?"
+msgstr ""
+
+msgctxt "364"
+msgid "I also know who your target is: the Kazama Family."
+msgstr ""
+
+msgctxt "376"
+msgid "What!?"
+msgstr ""
+
+msgctxt "388"
+msgid "Heh. You're one smart cookie, buddy."
+msgstr ""
+
+msgctxt "400"
+msgid ""
+"But not smart enough to accept our offer. We got other ways of convincin' "
+"if ya need that little push."
+msgstr ""
+
+msgctxt "6720"
+msgid "Kazuki"
+msgstr ""
+
+msgctxt "6724"
+msgid "Hasebe"
+msgstr ""
+
+msgctxt "6728"
+msgid "Yuya"
+msgstr ""
+
+msgctxt "6732"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "6736"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "6740"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "6744"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "6748"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "6752"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "6756"
+msgid "Talk_Smile"
+msgstr ""

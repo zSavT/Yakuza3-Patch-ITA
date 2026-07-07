@@ -1,0 +1,174 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "224"
+msgid "Oh, perfect timing, Kiryu-san!"
+msgstr ""
+
+msgctxt "236"
+msgid ""
+"I need to go pick up some supplies. Think you could look after the place "
+"while I'm gone?"
+msgstr ""
+
+msgctxt "248"
+msgid "(Guess I could...)"
+msgstr ""
+
+msgctxt "260"
+msgid "Sure, I'll do it. Don't know much about bartending, though..."
+msgstr ""
+
+msgctxt "272"
+msgid ""
+"No problem. There's nobody in here right now anyway, and with a big guy "
+"like you behind the counter, I don't have to worry about security."
+msgstr ""
+
+msgctxt "284"
+msgid "Got it. Don't be long."
+msgstr ""
+
+msgctxt "296"
+msgid "Wonderful. I'll be back soon."
+msgstr ""
+
+msgctxt "332"
+msgid "Sorry. I'm not cut out for bartending."
+msgstr ""
+
+msgctxt "344"
+msgid "Really? I think you'd make a fine bartender."
+msgstr ""
+
+msgctxt "356"
+msgid "Well, let me know if you change your mind."
+msgstr ""
+
+msgctxt "368"
+msgid "Until you help out, I won't be able to make any food for our customers."
+msgstr ""
+
+msgctxt "380"
+msgid "Ouch. So thanks to me, your customers are gonna starve?"
+msgstr ""
+
+msgctxt "392"
+msgid ""
+"That's right. Those poor, hungry souls... Just kidding. But let me know if "
+"you change your mind."
+msgstr ""
+
+msgctxt "416"
+msgid "Oh, Kiryu-san. Think you can look after the place for me?"
+msgstr ""
+
+msgctxt "428"
+msgid "(Watch the bar?)"
+msgstr ""
+
+msgctxt "440"
+msgid "Sure, I'll do it. Don't know much about bartending, though..."
+msgstr ""
+
+msgctxt "452"
+msgid ""
+"No problem. There's nobody in here right now anyway, and with a big guy "
+"like you behind the counter, I don't have to worry about security."
+msgstr ""
+
+msgctxt "464"
+msgid "Got it. Don't be long."
+msgstr ""
+
+msgctxt "476"
+msgid "Wonderful. I'll be back soon."
+msgstr ""
+
+msgctxt "512"
+msgid "Sorry. I'm not cut out for bartending."
+msgstr ""
+
+msgctxt "524"
+msgid "Really? I think you'd make a fine bartender."
+msgstr ""
+
+msgctxt "536"
+msgid "Well, let me know if you change your mind."
+msgstr ""
+
+msgctxt "548"
+msgid "Until you help out, I won't be able to make any food for our customers."
+msgstr ""
+
+msgctxt "560"
+msgid "Ouch. So thanks to me, your customers are gonna starve?"
+msgstr ""
+
+msgctxt "572"
+msgid ""
+"That's right. Those poor, hungry souls... Just kidding. But let me know if "
+"you change your mind."
+msgstr ""
+
+msgctxt "596"
+msgid "Watch the Bar"
+msgstr ""
+
+msgctxt "608"
+msgid "Decline"
+msgstr ""
+
+msgctxt "620"
+msgid "Watch the Bar"
+msgstr ""
+
+msgctxt "632"
+msgid "Decline"
+msgstr ""
+
+msgctxt "5112"
+msgid "Owner of Serena"
+msgstr ""
+
+msgctxt "5116"
+msgid "Talk_Request"
+msgstr ""
+
+msgctxt "5120"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "5124"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "5128"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "5132"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "5136"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "5140"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "5144"
+msgid "Talk_Quest"
+msgstr ""

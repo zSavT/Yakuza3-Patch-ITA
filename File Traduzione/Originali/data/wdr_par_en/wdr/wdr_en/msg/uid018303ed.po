@@ -1,0 +1,38 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid "Tell me where Daigo is!"
+msgstr ""
+
+msgctxt "76"
+msgid ""
+"I don't know anything! Our captain just told us to come\r\n"
+"down here and beat your ass! I was just followin' orders!"
+msgstr ""
+
+msgctxt "88"
+msgid "Your captain? Hm...?"
+msgstr ""
+
+msgctxt "112"
+msgid "Hey, get back here!"
+msgstr ""
+
+msgctxt "1100"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1104"
+msgid "Hakuho Thug"
+msgstr ""

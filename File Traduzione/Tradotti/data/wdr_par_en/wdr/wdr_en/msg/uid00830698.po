@@ -1,0 +1,623 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "1264"
+msgid "Do you want to play darts? One game is 200 yen."
+msgstr ""
+
+msgctxt "1288"
+msgid "(Can't afford it right now...)"
+msgstr ""
+
+msgctxt "1324"
+msgid ""
+"Sir, it seems you are not in possession of a <Color:8>Darts Live Membership "
+"Card<Color:Default>."
+msgstr ""
+
+msgctxt "1336"
+msgid "Yeah, I don't have one."
+msgstr ""
+
+msgctxt "1348"
+msgid "This handy little card lets you keep track of your darts results."
+msgstr ""
+
+msgctxt "1360"
+msgid ""
+"We give them away free to our customers. Don't forget to use it before you "
+"play a game."
+msgstr ""
+
+msgctxt "1372"
+msgid "Here you go."
+msgstr ""
+
+msgctxt "1384"
+msgid "You got a <Color:8>Darts Live Membership Card<Color:Default>."
+msgstr ""
+
+msgctxt "1408"
+msgid ""
+"If you look at the card, you'll notice that you can set the player name "
+"displayed during games, so please take a moment to do that."
+msgstr ""
+
+msgctxt "1432"
+msgid "Okay, you're all done."
+msgstr ""
+
+msgctxt "1444"
+msgid "Thanks."
+msgstr ""
+
+msgctxt "1456"
+msgid "Don't mention it. Now, enjoy your game of darts!"
+msgstr ""
+
+msgctxt "1480"
+msgid ""
+"(I feel a little dizzy from all that booze. Might be hard to play darts "
+"like this.)"
+msgstr ""
+
+msgctxt "1516"
+msgid "You can play one of our employees if you'd like."
+msgstr ""
+
+msgctxt "1528"
+msgid "You can play one of our employees if you'd like."
+msgstr ""
+
+msgctxt "1540"
+msgid "(I think I'll give Mika a try.)"
+msgstr ""
+
+msgctxt "1552"
+msgid "(I think I'll give Nao a try.)"
+msgstr ""
+
+msgctxt "1564"
+msgid ""
+"You want to play someone besides one of our employees? In that case, that "
+"will be 400 yen for two players. Do you still want to play?"
+msgstr ""
+
+msgctxt "1588"
+msgid "Yeah, no problem."
+msgstr ""
+
+msgctxt "1600"
+msgid "Understood."
+msgstr ""
+
+msgctxt "1624"
+msgid "(I don't have enough money...)"
+msgstr ""
+
+msgctxt "1684"
+msgid "All right, then. Which rules will you play with?"
+msgstr ""
+
+msgctxt "1720"
+msgid "'01 game it is! Which number will it be?"
+msgstr ""
+
+msgctxt "1732"
+msgid "'01 game it is! Which number will it be?"
+msgstr ""
+
+msgctxt "1744"
+msgid "'01 game it is! Which number will it be?"
+msgstr ""
+
+msgctxt "1756"
+msgid "'01 game it is! Which number will it be?"
+msgstr ""
+
+msgctxt "1840"
+msgid "All right, then."
+msgstr ""
+
+msgctxt "1864"
+msgid "I see. Please come again."
+msgstr ""
+
+msgctxt "1900"
+msgid "There's a 500 yen fee for replacing a card. Which one would you like?"
+msgstr ""
+
+msgctxt "1924"
+msgid ""
+"Are you sure? You'll lose all your past darts results if you replace your "
+"card."
+msgstr ""
+
+msgctxt "1936"
+msgid ""
+"Are you sure? You'll lose all your past darts results if you replace your "
+"card."
+msgstr ""
+
+msgctxt "1948"
+msgid ""
+"Are you sure? You'll lose all your past darts results if you replace your "
+"card."
+msgstr ""
+
+msgctxt "1960"
+msgid ""
+"Are you sure? You'll lose all your past darts results if you replace your "
+"card."
+msgstr ""
+
+msgctxt "1972"
+msgid ""
+"Are you sure? You'll lose all your past darts results if you replace your "
+"card."
+msgstr ""
+
+msgctxt "1984"
+msgid ""
+"Are you sure? You'll lose all your past darts results if you replace your "
+"card."
+msgstr ""
+
+msgctxt "1996"
+msgid ""
+"Are you sure? You'll lose all your past darts results if you replace your "
+"card."
+msgstr ""
+
+msgctxt "2008"
+msgid ""
+"Are you sure? You'll lose all your past darts results if you replace your "
+"card."
+msgstr ""
+
+msgctxt "2020"
+msgid ""
+"Are you sure? You'll lose all your past darts results if you replace your "
+"card."
+msgstr ""
+
+msgctxt "2032"
+msgid ""
+"Are you sure? You'll lose all your past darts results if you replace your "
+"card."
+msgstr ""
+
+msgctxt "2044"
+msgid "You exchanged your <Color:8>Darts Live Membership Card<Color:Default>."
+msgstr ""
+
+msgctxt "2068"
+msgid "You exchanged your <Color:8>Darts Live Membership Card<Color:Default>."
+msgstr ""
+
+msgctxt "2092"
+msgid "You exchanged your <Color:8>Darts Live Membership Card<Color:Default>."
+msgstr ""
+
+msgctxt "2116"
+msgid "You exchanged your <Color:8>Darts Live Membership Card<Color:Default>."
+msgstr ""
+
+msgctxt "2140"
+msgid "You exchanged your <Color:8>Darts Live Membership Card<Color:Default>."
+msgstr ""
+
+msgctxt "2164"
+msgid "You exchanged your <Color:8>Darts Live Membership Card<Color:Default>."
+msgstr ""
+
+msgctxt "2188"
+msgid "You exchanged your <Color:8>Darts Live Membership Card<Color:Default>."
+msgstr ""
+
+msgctxt "2212"
+msgid "You exchanged your <Color:8>Darts Live Membership Card<Color:Default>."
+msgstr ""
+
+msgctxt "2236"
+msgid "You exchanged your <Color:8>Darts Live Membership Card<Color:Default>."
+msgstr ""
+
+msgctxt "2260"
+msgid "You exchanged your <Color:8>Darts Live Membership Card<Color:Default>."
+msgstr ""
+
+msgctxt "2284"
+msgid "Please enter your name on your new card."
+msgstr ""
+
+msgctxt "2308"
+msgid "Come again sometime."
+msgstr ""
+
+msgctxt "2320"
+msgid "I'm sorry, but there's a 500 yen fee for replacing a card."
+msgstr ""
+
+msgctxt "2332"
+msgid "(Can't afford it right now...)"
+msgstr ""
+
+msgctxt "2344"
+msgid ""
+"We have three different dart games you can choose from. Which rules do you "
+"want to see?"
+msgstr ""
+
+msgctxt "2356"
+msgid ""
+"In this game, the numbers you hit are added to your score.\r\n"
+"\r\n"
+"The player with the highest score at the end of the selected number of "
+"rounds wins.\r\n"
+"\r\n"
+"In Count-Up, both the bull's-eye and double bull's-eye are each worth 50 "
+"points."
+msgstr ""
+
+msgctxt "2368"
+msgid ""
+"\r\n"
+"In this game, the points you hit are deducted from the designated score as "
+"you try to reach exactly zero.\r\n"
+"\r\n"
+"There are a variety of starting scores, such as 301 and 501.\r\n"
+"\r\n"
+"In the '01 Game, both the bull's-eye and double bull's-eye are each worth "
+"50 points."
+msgstr ""
+
+msgctxt "2380"
+msgid ""
+"You bust if you go under zero, at which point your opponent gets to play.\r\n"
+"\r\n"
+"Your points will revert to what they were when the round started."
+msgstr ""
+
+msgctxt "2392"
+msgid ""
+"The first player to reach exactly zero at the end of the assigned number of "
+"rounds wins. You can also win if you close all the numbers before the end "
+"of the assigned number of rounds and your score is higher than your "
+"opponent's.\r\n"
+"\r\n"
+"If neither player can reach zero during the allotted rounds, the player "
+"with fewer remaining points is declared the winner."
+msgstr ""
+
+msgctxt "2404"
+msgid ""
+"In cricket, only the numbers 15 to 20 and the bull's-eye are used.\r\n"
+"\r\n"
+"Singles count as one hit, Doubles count as two hits, and Triples count as "
+"three hits."
+msgstr ""
+
+msgctxt "2416"
+msgid ""
+"Three hits on a number closes it. The points from subsequent hits on a "
+"number you closed are added to your score."
+msgstr ""
+
+msgctxt "2428"
+msgid ""
+"However, if your opponent closes that number as well, you will no longer "
+"get points when you hit it."
+msgstr ""
+
+msgctxt "2440"
+msgid ""
+"You can also win if you close all the numbers before the end of the "
+"assigned number of rounds and your score is higher than your opponent's."
+msgstr ""
+
+msgctxt "2452"
+msgid ""
+"Cricket also has a rule stating that if a 200-point gap opens up between "
+"the players, the one in the lead will no longer get points.\r\n"
+"\r\n"
+"This is known as overkill."
+msgstr ""
+
+msgctxt "2464"
+msgid ""
+"In this state, the overkill player's hit count and points on open numbers "
+"are voided with this exception: hit counts that do not involve points are "
+"valid as usual."
+msgstr ""
+
+msgctxt "2476"
+msgid ""
+"Example) You are winning by 200 points, and your first throw hits 15, your "
+"second throw also hits 15, and your third throw hits double 15: The hit "
+"count of the third throw is limited to one, resulting in a total hit count "
+"of three for the round."
+msgstr ""
+
+msgctxt "2488"
+msgid ""
+"Note that if the score gap is 199 or less, points exceeding 200 are "
+"awarded, and the hit count is also valid.\r\n"
+"\r\n"
+"Example) You are winning by 199 points, and you hit triple 20: Your hit "
+"count is three, and you get 60 points, raising your point total to 259."
+msgstr ""
+
+msgctxt "2500"
+msgid "Play Darts"
+msgstr ""
+
+msgctxt "2512"
+msgid "Read the Rules"
+msgstr ""
+
+msgctxt "2524"
+msgid "Start a New Card"
+msgstr ""
+
+msgctxt "2536"
+msgid "Never mind."
+msgstr ""
+
+msgctxt "2548"
+msgid "Play Kota Hatano (Beginner)"
+msgstr ""
+
+msgctxt "2560"
+msgid "Play Kazuhiro Hirai (Intermediate)"
+msgstr ""
+
+msgctxt "2572"
+msgid "Play Shigeru Honma (Advanced)"
+msgstr ""
+
+msgctxt "2584"
+msgid "Invite Mika Tsuchiya"
+msgstr ""
+
+msgctxt "2596"
+msgid "Invite Nao Kaneshiro"
+msgstr ""
+
+msgctxt "2608"
+msgid "Play Alone"
+msgstr ""
+
+msgctxt "2620"
+msgid "Don't Play"
+msgstr ""
+
+msgctxt "2632"
+msgid "Play Kota Hatano (Beginner)"
+msgstr ""
+
+msgctxt "2644"
+msgid "Play Kazuhiro Hirai (Intermediate)"
+msgstr ""
+
+msgctxt "2656"
+msgid "Play Shigeru Honma (Advanced)"
+msgstr ""
+
+msgctxt "2668"
+msgid "Play Alone"
+msgstr ""
+
+msgctxt "2680"
+msgid "Don't Play"
+msgstr ""
+
+msgctxt "2692"
+msgid "Play"
+msgstr ""
+
+msgctxt "2704"
+msgid "Don't Play"
+msgstr ""
+
+msgctxt "2716"
+msgid "'01 Game"
+msgstr ""
+
+msgctxt "2728"
+msgid "Cricket"
+msgstr ""
+
+msgctxt "2740"
+msgid "Count-Up"
+msgstr ""
+
+msgctxt "2752"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "2764"
+msgid "301"
+msgstr ""
+
+msgctxt "2776"
+msgid "501"
+msgstr ""
+
+msgctxt "2788"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "2800"
+msgid "501"
+msgstr ""
+
+msgctxt "2812"
+msgid "701"
+msgstr ""
+
+msgctxt "2824"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "2836"
+msgid "701"
+msgstr ""
+
+msgctxt "2848"
+msgid "901"
+msgstr ""
+
+msgctxt "2860"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "2872"
+msgid "301"
+msgstr ""
+
+msgctxt "2884"
+msgid "501"
+msgstr ""
+
+msgctxt "2896"
+msgid "701"
+msgstr ""
+
+msgctxt "2908"
+msgid "901"
+msgstr ""
+
+msgctxt "2920"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "2932"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "2944"
+msgid "Replace Card"
+msgstr ""
+
+msgctxt "2956"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "2968"
+msgid "Replace Card"
+msgstr ""
+
+msgctxt "2980"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "2992"
+msgid "Replace Card"
+msgstr ""
+
+msgctxt "3004"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "3016"
+msgid "Replace Card"
+msgstr ""
+
+msgctxt "3028"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "3040"
+msgid "Replace Card"
+msgstr ""
+
+msgctxt "3052"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "3064"
+msgid "Replace Card"
+msgstr ""
+
+msgctxt "3076"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "3088"
+msgid "Replace Card"
+msgstr ""
+
+msgctxt "3100"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "3112"
+msgid "Replace Card"
+msgstr ""
+
+msgctxt "3124"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "3136"
+msgid "Replace Card"
+msgstr ""
+
+msgctxt "3148"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "3160"
+msgid "Replace Card"
+msgstr ""
+
+msgctxt "3172"
+msgid "'01 Game"
+msgstr ""
+
+msgctxt "3184"
+msgid "Cricket"
+msgstr ""
+
+msgctxt "3196"
+msgid "Count-Up"
+msgstr ""
+
+msgctxt "3208"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "21516"
+msgid "Bartender"
+msgstr ""
+
+msgctxt "21520"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "21524"
+msgid "How to Play Count-Up"
+msgstr ""
+
+msgctxt "21528"
+msgid "How to Play '01 Games"
+msgstr ""
+
+msgctxt "21532"
+msgid "How to Play Cricket"
+msgstr ""
+
+msgctxt "21536"
+msgid "About Overkill"
+msgstr ""

@@ -1,0 +1,164 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "466\tNAME_SHORT"
+msgid "[Independent Individual Name]"
+msgstr ""
+
+msgctxt "498\tNAME_SHORT"
+msgid "[Independent Individual Name]"
+msgstr ""
+
+msgctxt "530\tNAME_SHORT"
+msgid "[Independent Individual Name]"
+msgstr ""
+
+msgctxt "562\tNAME_SHORT"
+msgid "[Independent Individual Name]"
+msgstr ""
+
+msgctxt "594\tNAME_SHORT"
+msgid "[Independent Individual Name]"
+msgstr ""
+
+msgctxt "626\tNAME_SHORT"
+msgid "[Independent Individual Name]"
+msgstr ""
+
+msgctxt "658\tNAME_SHORT"
+msgid "[Independent Individual Name]"
+msgstr ""
+
+msgctxt "690\tNAME_SHORT"
+msgid "[Independent Individual Name]"
+msgstr ""
+
+msgctxt "722\tNAME_SHORT"
+msgid "[Independent Individual Name]"
+msgstr ""
+
+msgctxt "754\tNAME_SHORT"
+msgid "Akechi"
+msgstr ""
+
+msgctxt "763\tNAME_SHORT"
+msgid "Usami"
+msgstr ""
+
+msgctxt "771\tNAME_SHORT"
+msgid "Asai"
+msgstr ""
+
+msgctxt "778\tNAME_SHORT"
+msgid "Kinoshita"
+msgstr ""
+
+msgctxt "790\tOTHER_NAME_SHORT"
+msgid "Akechi"
+msgstr ""
+
+msgctxt "799\tOTHER_NAME_SHORT"
+msgid "Oda"
+msgstr ""
+
+msgctxt "805\tOTHER_NAME_SHORT"
+msgid "Usami"
+msgstr ""
+
+msgctxt "813\tOTHER_NAME_SHORT"
+msgid "Kinoshita"
+msgstr ""
+
+msgctxt "825\tOTHER_NAME_SHORT"
+msgid "Asai"
+msgstr ""
+
+msgctxt "832\tOTHER_NAME_SHORT"
+msgid "Imagawa"
+msgstr ""
+
+msgctxt "842\tOTHER_NAME_SHORT"
+msgid "Nozomi"
+msgstr ""
+
+msgctxt "851\tOTHER_NAME_SHORT"
+msgid "Yuko"
+msgstr ""
+
+msgctxt "858\tOTHER_NAME_SHORT"
+msgid "Maeda"
+msgstr ""
+
+msgctxt "866\tOTHER_NAME_SHORT"
+msgid "Oda"
+msgstr ""
+
+msgctxt "872\tOTHER_NAME_SHORT"
+msgid "Usami"
+msgstr ""
+
+msgctxt "880\tOTHER_NAME_SHORT"
+msgid "Kinoshita"
+msgstr ""
+
+msgctxt "892\tOTHER_NAME_SHORT"
+msgid "Maeda"
+msgstr ""
+
+msgctxt "900\tOTHER_NAME_SHORT"
+msgid "Nozomi"
+msgstr ""
+
+msgctxt "909\tOTHER_NAME_SHORT"
+msgid "Oda"
+msgstr ""
+
+msgctxt "915\tOTHER_NAME_SHORT"
+msgid "Imagawa"
+msgstr ""
+
+msgctxt "925\tOTHER_NAME_SHORT"
+msgid "Yuko"
+msgstr ""
+
+msgctxt "1164\tEXPLANATION"
+msgid "Murder"
+msgstr ""
+
+msgctxt "1173\tEXPLANATION"
+msgid "Lover"
+msgstr ""
+
+msgctxt "1181\tEXPLANATION"
+msgid "Witnessed at Scene of Crime"
+msgstr ""
+
+msgctxt "1211\tEXPLANATION"
+msgid "Arrested"
+msgstr ""
+
+msgctxt "1222\tEXPLANATION"
+msgid "Siblings"
+msgstr ""
+
+msgctxt "1233\tEXPLANATION"
+msgid "Cheating"
+msgstr ""
+
+msgctxt "1244\tEXPLANATION"
+msgid "Stole from"
+msgstr ""
+
+msgctxt "1257\tEXPLANATION"
+msgid "Married"
+msgstr ""

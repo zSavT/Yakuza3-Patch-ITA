@@ -1,0 +1,182 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "59\t220"
+msgid ""
+"In any case, I hope we can move on from\\n"
+"this matter both quickly and peaceably."
+msgstr ""
+
+msgctxt "268\t341"
+msgid "We should be going, Toma-kun."
+msgstr ""
+
+msgctxt "344\t379"
+msgid "Yes."
+msgstr ""
+
+msgctxt "417\t460"
+msgid "Daigo."
+msgstr ""
+
+msgctxt "470\t507"
+msgid "What is it?"
+msgstr ""
+
+msgctxt "523\t652"
+msgid ""
+"If the Tojo Clan ever does\\n"
+"decide to come for my land..."
+msgstr ""
+
+msgctxt "661\t743"
+msgid "Just give me a heads up first, okay?"
+msgstr ""
+
+msgctxt "762\t883"
+msgid ""
+"Those kids depend on me\\n"
+"as they would their actual father."
+msgstr ""
+
+msgctxt "886\t933"
+msgid "I understand."
+msgstr ""
+
+msgctxt "942\t1010"
+msgid "But you needn't worry."
+msgstr ""
+
+msgctxt "1012\t1151"
+msgid ""
+"As long as I'm chairman,\\n"
+"the Tojo will stay far away from Okinawa."
+msgstr ""
+
+msgctxt "1156\t1201"
+msgid "You promise?"
+msgstr ""
+
+msgctxt "1204\t1243"
+msgid "Of course."
+msgstr ""
+
+msgctxt "1267\t1369"
+msgid ""
+"I'm well aware of how\\n"
+"resilient you are, Kiryu-san."
+msgstr ""
+
+msgctxt "1371\t1483"
+msgid ""
+"Incurring your wrath would\\n"
+"likely be the last thing I did."
+msgstr ""
+
+msgctxt "1521\t1671"
+msgid ""
+"Toma-kun's dream for Okinawa can wait\\n"
+"until he himself becomes prime minister."
+msgstr ""
+
+msgctxt "1673\t1725"
+msgid "Right, Toma-kun?"
+msgstr ""
+
+msgctxt "1776\t1886"
+msgid "You'll be an old man by then, Kiryu-san."
+msgstr ""
+
+msgctxt "1888\t2022"
+msgid ""
+"And those children of yours will be\\n"
+"about the same age I am now."
+msgstr ""
+
+msgctxt "2024\t2083"
+msgid "Maybe then things will be different."
+msgstr ""
+
+msgctxt "2103\t2186"
+msgid "I still won't be a pushover."
+msgstr ""
+
+msgctxt "2224\t2269"
+msgid "I expect not."
+msgstr ""
+
+msgctxt "2315\t2431"
+msgid "Until next time, Fourth Chairman."
+msgstr ""
+
+msgctxt "2448\t2488"
+msgid "Yeah."
+msgstr ""
+
+msgctxt "2826\t2869"
+msgid "Mind if I ask you somethin'?"
+msgstr ""
+
+msgctxt "2871\t2925"
+msgid "Hm? What's up?"
+msgstr ""
+
+msgctxt "2927\t3113"
+msgid ""
+"By, uh... By fourth chairman...\\n"
+"He didn't mean of the Tojo Clan..."
+msgstr ""
+
+msgctxt "3116\t3180"
+msgid "Did he?"
+msgstr ""
+
+msgctxt "3183\t3243"
+msgid "And if he did?"
+msgstr ""
+
+msgctxt "3280\t3436"
+msgid ""
+"You're shittin' me! Everyone who's anyone's\\n"
+"heard the legends of the fourth chairman!"
+msgstr ""
+
+msgctxt "3450\t3528"
+msgid "The Dragon of Dojima, right?"
+msgstr ""
+
+msgctxt "3594\t3676"
+msgid "Then you're... Kiryu!?"
+msgstr ""
+
+msgctxt "3678\t3782"
+msgid "Next time you pick a fight..."
+msgstr ""
+
+msgctxt "3783\t3915"
+msgid ""
+"You might wanna do a little\\n"
+"more research first, brother."
+msgstr ""
+
+msgctxt "3954\t4106"
+msgid ""
+"Look at me, swearin' an oath with\\n"
+"the biggest fish in the yakuza sea."
+msgstr ""
+
+msgctxt "4112\t4203"
+msgid ""
+"Guess you never know\\n"
+"what life'll throw at you."
+msgstr ""

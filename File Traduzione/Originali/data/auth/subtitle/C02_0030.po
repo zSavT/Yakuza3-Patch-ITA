@@ -1,0 +1,60 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "188\t240"
+msgid "Okay."
+msgstr ""
+
+msgctxt "274\t369"
+msgid "I'm gonna keep trying."
+msgstr ""
+
+msgctxt "418\t473"
+msgid "Good."
+msgstr ""
+
+msgctxt "476\t583"
+msgid "I know I'll never replace your actual dad..."
+msgstr ""
+
+msgctxt "603\t752"
+msgid ""
+"But you've been like a daughter to me\\n"
+"since the moment you walked in."
+msgstr ""
+
+msgctxt "835\t888"
+msgid "Uncle Kaz!"
+msgstr ""
+
+msgctxt "1046\t1144"
+msgid ""
+"Izumi-chan. Everyone's wondering\\n"
+"where you've been."
+msgstr ""
+
+msgctxt "1146\t1207"
+msgid "Let's go home, okay?"
+msgstr ""
+
+msgctxt "1430\t1523"
+msgid "There, there. No more tears."
+msgstr ""
+
+msgctxt "1638\t1717"
+msgid "Oh, and it's curry tonight."
+msgstr ""
+
+msgctxt "1719\t1803"
+msgid "Hope you saved some room."
+msgstr ""

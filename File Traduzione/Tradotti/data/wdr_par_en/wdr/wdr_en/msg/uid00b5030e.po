@@ -1,0 +1,136 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "76"
+msgid "How's it going, Kiryu-san? You here for ramen, too?"
+msgstr ""
+
+msgctxt "88"
+msgid "Oh, you're... Ueda, right? The Acecook guy."
+msgstr ""
+
+msgctxt "172"
+msgid "I thought your ramen got approved. Did something happen?"
+msgstr ""
+
+msgctxt "184"
+msgid ""
+"Nah, I just came to enjoy the atmosphere... oh, and of course that \"gotta "
+"have it\" Kyushu No. 1 Star flavor."
+msgstr ""
+
+msgctxt "196"
+msgid "You really are obsessed with ramen, aren't you?"
+msgstr ""
+
+msgctxt "208"
+msgid ""
+"You better believe it! After all, workin' at Acecook's practically my dream "
+"job. Forget ramen for days⑬they got ramen for decades!"
+msgstr ""
+
+msgctxt "220"
+msgid ""
+"Oh, almost forgot. I brought along one of my ramen samples\r\n"
+"and I really think you oughta have it."
+msgstr ""
+
+msgctxt "232"
+msgid "You got a <Color:8>Kyushu No. 1 Star Ramen Sample<Color:Default>."
+msgstr ""
+
+msgctxt "256"
+msgid "I mean, sure, I'll take it."
+msgstr ""
+
+msgctxt "268"
+msgid ""
+"I gotta say, this sample right here's the whole package! Ever wanted Kyushu "
+"No. 1 Star on the road, or in between bites in the middle of a fight? Well "
+"here ya go!"
+msgstr ""
+
+msgctxt "280"
+msgid ""
+"And with that... I'm headin' back to the office with my\r\n"
+"heart satisfied and my belly full!"
+msgstr ""
+
+msgctxt "352"
+msgid "How's it going, Kiryu-san? Are you here to eat ramen, too?"
+msgstr ""
+
+msgctxt "364"
+msgid "Oh, you're Ueda, right? From Acecook?"
+msgstr ""
+
+msgctxt "448"
+msgid ""
+"By the way, I brought along one of my ramen samples, and I'd\r\n"
+"really like you to have it."
+msgstr ""
+
+msgctxt "460"
+msgid "You got a <Color:8>Kyushu No. 1 Star Ramen Sample<Color:Default>."
+msgstr ""
+
+msgctxt "484"
+msgid ""
+"I swear... Making instant noodles that can compete with what I make in "
+"here? That'll put me outta business!"
+msgstr ""
+
+msgctxt "496"
+msgid "Heh. You should be proud of him for putting a new touch on a classic recipe."
+msgstr ""
+
+msgctxt "508"
+msgid ""
+"I gotta say, this sample right here's the whole package! Ever wanted Kyushu "
+"No. 1 Star on the road, or in between bites in the middle of a fight? Well "
+"here ya go!"
+msgstr ""
+
+msgctxt "520"
+msgid ""
+"And with that... I'm headin' back to the office with my\r\n"
+"heart satisfied and my belly full!"
+msgstr ""
+
+msgctxt "5352"
+msgid "Ueda"
+msgstr ""
+
+msgctxt "5356"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "5360"
+msgid "M_nml_stand"
+msgstr ""
+
+msgctxt "5364"
+msgid "0"
+msgstr ""
+
+msgctxt "5368"
+msgid "Talk_Send"
+msgstr ""
+
+msgctxt "5372"
+msgid "Owner of Kyushu No. 1 Star"
+msgstr ""
+
+msgctxt "5376"
+msgid "Talk_Gakkari"
+msgstr ""

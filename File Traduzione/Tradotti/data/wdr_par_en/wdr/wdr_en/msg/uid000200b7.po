@@ -1,0 +1,585 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "144"
+msgid ""
+"Kashiwagi-san said something to me\r\n"
+"just before he died.\r\n"
+"He said someone in the Tojo Clan was\r\n"
+"trying to take control of the resort deal."
+msgstr ""
+
+msgctxt "156"
+msgid ""
+"I think so, too.\r\n"
+"These four are the only ones in the Tojo\r\n"
+"Clan who could pull this off."
+msgstr ""
+
+msgctxt "168"
+msgid ""
+"Kashiwagi-san said one more thing to me.\r\n"
+"He said that the traitor was working\r\n"
+"with the man who shot Daigo."
+msgstr ""
+
+msgctxt "180"
+msgid "The man who shot Daigo?"
+msgstr ""
+
+msgctxt "192"
+msgid "What is it?"
+msgstr ""
+
+msgctxt "204"
+msgid ""
+"This is the man who shot Daigo and Nakahara⑬the man\r\n"
+"who owns the land targeted by the resort deal."
+msgstr ""
+
+msgctxt "216"
+msgid "What the!?"
+msgstr ""
+
+msgctxt "228"
+msgid "That's Shintaro Kazama! Your foster father!"
+msgstr ""
+
+msgctxt "240"
+msgid "I'm not so sure."
+msgstr ""
+
+msgctxt "252"
+msgid ""
+"So we have this Kazama-san look alike who shot Daigo and Nakahara.\r\n"
+"Those foreigners in black suits."
+msgstr ""
+
+msgctxt "264"
+msgid ""
+"And the helicopter attack.\r\n"
+"Just what are we up against?"
+msgstr ""
+
+msgctxt "276"
+msgid ""
+"Well for the moment, our only option is\r\n"
+"to look for the traitor in the Tojo Clan."
+msgstr ""
+
+msgctxt "288"
+msgid "Yeah."
+msgstr ""
+
+msgctxt "300"
+msgid ""
+" I'll see if I can find out anything about\r\n"
+"the man in the picture.\r\n"
+"You go after Kanda. It seems likely\r\n"
+"that he was behind Kashiwagi's death."
+msgstr ""
+
+msgctxt "312"
+msgid "Got it."
+msgstr ""
+
+msgctxt "324"
+msgid ""
+"From what I hear, Kanda has his men bring a\r\n"
+"woman to his hotel room every night.\r\n"
+"They should know where he is."
+msgstr ""
+
+msgctxt "348"
+msgid ""
+"This porn star wannabe is Goh Hamazaki,\r\n"
+"Patriarch of the Hamazaki Family.\r\n"
+"Also known as the \"Emperor of Yokohama\"."
+msgstr ""
+
+msgctxt "360"
+msgid "Yokohama, eh..."
+msgstr ""
+
+msgctxt "372"
+msgid ""
+"Yeah.\r\n"
+"He took over Yokohama three years ago after the\r\n"
+"Snake Flower Triad was pushed out."
+msgstr ""
+
+msgctxt "384"
+msgid ""
+"This one's a tough nut to crack.\r\n"
+"For some reason, he remains friendly with the\r\n"
+"Chinese gang whose territory he took."
+msgstr ""
+
+msgctxt "396"
+msgid "The Snake Flower Triad..."
+msgstr ""
+
+msgctxt "408"
+msgid ""
+"Yeah.\r\n"
+"Yes. But that's not the only mystery about him."
+msgstr ""
+
+msgctxt "420"
+msgid "His organization only has around ten members."
+msgstr ""
+
+msgctxt "432"
+msgid "What?"
+msgstr ""
+
+msgctxt "444"
+msgid ""
+"You'd normally need at least 500, no, make that\r\n"
+"1,000 men to fight the Snake Flower Triad."
+msgstr ""
+
+msgctxt "456"
+msgid ""
+"But he was able to just waltz into town and take\r\n"
+"over without lifting a finger."
+msgstr ""
+
+msgctxt "468"
+msgid "How is that possible?"
+msgstr ""
+
+msgctxt "480"
+msgid ""
+"He's probably got ties with the Chinese mafia,\r\n"
+"probably helping them smuggle and\r\n"
+"laundering their money."
+msgstr ""
+
+msgctxt "492"
+msgid "Of course, they may just be using him."
+msgstr ""
+
+msgctxt "504"
+msgid "Chinese mafia connections, eh?"
+msgstr ""
+
+msgctxt "516"
+msgid ""
+"I don't have proof, but if the resort deal's\r\n"
+"connected, he may be behind all of this."
+msgstr ""
+
+msgctxt "528"
+msgid ""
+"So you're saying he may be working with the Chinese\r\n"
+"to get a piece of that Okinawa resort."
+msgstr ""
+
+msgctxt "540"
+msgid ""
+"They may even have something like illegal\r\n"
+"gambling in mind."
+msgstr ""
+
+msgctxt "564"
+msgid ""
+"This is Yoshitaka Mine, chairman of the Hakuho\r\n"
+"Clan."
+msgstr ""
+
+msgctxt "576"
+msgid "Yoshitaka Mine..."
+msgstr ""
+
+msgctxt "588"
+msgid ""
+"He's young and rich. Spends most of his time in\r\n"
+"office buildings downtown."
+msgstr ""
+
+msgctxt "600"
+msgid ""
+"He drives expensive foreign cars and looks like\r\n"
+"a young businessman."
+msgstr ""
+
+msgctxt "612"
+msgid ""
+"He made a fortune in insider trading,\r\n"
+"as well as real estate.\r\n"
+"Sort of a white-collar yakuza."
+msgstr ""
+
+msgctxt "624"
+msgid "I get it."
+msgstr ""
+
+msgctxt "636"
+msgid ""
+"He's currently the main source of the Tojo\r\n"
+"Clan's money⑬this guy wipes his ass with cash."
+msgstr ""
+
+msgctxt "648"
+msgid ""
+"Kanda of the Nishikiyama Family in particular has\r\n"
+"been receiving plenty of it."
+msgstr ""
+
+msgctxt "660"
+msgid "How did this guy end up with Kanda?"
+msgstr ""
+
+msgctxt "672"
+msgid ""
+"Until a few years ago, Mine was just a normal\r\n"
+"venture capitalist."
+msgstr ""
+
+msgctxt "684"
+msgid ""
+"It seems that Kanda was the one who convinced\r\n"
+"him to join the yakuza."
+msgstr ""
+
+msgctxt "696"
+msgid ""
+"With Kanda's introduction, Mine established\r\n"
+"ties with Daigo and joined the Tojo Clan."
+msgstr ""
+
+msgctxt "708"
+msgid "So Mine may be working with Kanda then."
+msgstr ""
+
+msgctxt "720"
+msgid ""
+"No, Mine's loyal to the sixth chairman.\r\n"
+"His own organization has gotten a lot stronger recently,\r\n"
+"and he no longer needs Kanda's support."
+msgstr ""
+
+msgctxt "732"
+msgid "I think he's trying to distance himself from Kanda at this point."
+msgstr ""
+
+msgctxt "756"
+msgid ""
+"This cue ball is Tsuyoshi Kanda, Third Patriarch\r\n"
+"of the Nishikiyama Family."
+msgstr ""
+
+msgctxt "768"
+msgid "The Nishikiyama Family, eh?"
+msgstr ""
+
+msgctxt "780"
+msgid "Yeah."
+msgstr ""
+
+msgctxt "792"
+msgid "The same organization that you fought three years ago."
+msgstr ""
+
+msgctxt "804"
+msgid "I've never met him."
+msgstr ""
+
+msgctxt "816"
+msgid ""
+"I'm not surprised.\r\n"
+"He was in prison for two years on a\r\n"
+"sexual assault charge."
+msgstr ""
+
+msgctxt "828"
+msgid ""
+"He's the typical fighting and women loving type.\r\n"
+"He probably wouldn't have been more than a foot\r\n"
+"soldier when Nishikiyama was around."
+msgstr ""
+
+msgctxt "840"
+msgid "So how did he get to be patriarch?"
+msgstr ""
+
+msgctxt "852"
+msgid ""
+"As soon as he got out of prison, he began\r\n"
+"expanding his territory using brute force."
+msgstr ""
+
+msgctxt "864"
+msgid "It was just after the conflict between the Tojo Clan and the Omi Alliance."
+msgstr ""
+
+msgctxt "876"
+msgid ""
+"He came on the scene just as the police were\r\n"
+"backing off the yakuza."
+msgstr ""
+
+msgctxt "888"
+msgid ""
+"He was able to quickly take over the Kazama\r\n"
+"Family's territory."
+msgstr ""
+
+msgctxt "900"
+msgid "What does he want?"
+msgstr ""
+
+msgctxt "912"
+msgid ""
+"Probably to be Tojo Clan chairman.\r\n"
+"What he doesn't have, he takes."
+msgstr ""
+
+msgctxt "924"
+msgid ""
+"Whether it's women or territory, he'll stop at\r\n"
+"nothing to get what he wants."
+msgstr ""
+
+msgctxt "936"
+msgid "Could he have shot Kashiwagi-san?"
+msgstr ""
+
+msgctxt "948"
+msgid "There's a good chance."
+msgstr ""
+
+msgctxt "996"
+msgid "All right, who do you wanna talk about?"
+msgstr ""
+
+msgctxt "1032"
+msgid "Who do you wanna talk about next?"
+msgstr ""
+
+msgctxt "1056"
+msgid "Do you have any other questions?"
+msgstr ""
+
+msgctxt "1248"
+msgid "All right, who do you wanna talk about?"
+msgstr ""
+
+msgctxt "1284"
+msgid "Who do you wanna talk about next?"
+msgstr ""
+
+msgctxt "1308"
+msgid "Do you have any other questions?"
+msgstr ""
+
+msgctxt "13320"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "13324"
+msgid "Date"
+msgstr ""
+
+msgctxt "13328"
+msgid "adv_scene_105/date_071"
+msgstr ""
+
+msgctxt "13332"
+msgid "adv_scene_105/kiryu_305"
+msgstr ""
+
+msgctxt "13336"
+msgid "adv_scene_105/date_072"
+msgstr ""
+
+msgctxt "13340"
+msgid "adv_scene_105/date_073"
+msgstr ""
+
+msgctxt "13344"
+msgid "adv_scene_105/kiryu_306"
+msgstr ""
+
+msgctxt "13348"
+msgid "adv_scene_105/date_074"
+msgstr ""
+
+msgctxt "13352"
+msgid "adv_scene_105/date_075"
+msgstr ""
+
+msgctxt "13356"
+msgid "adv_scene_105/kiryu_307"
+msgstr ""
+
+msgctxt "13360"
+msgid "adv_scene_105/date_076"
+msgstr ""
+
+msgctxt "13364"
+msgid "adv_scene_105/date_077"
+msgstr ""
+
+msgctxt "13368"
+msgid "adv_scene_105/kiryu_308"
+msgstr ""
+
+msgctxt "13372"
+msgid "adv_scene_105/date_078"
+msgstr ""
+
+msgctxt "13376"
+msgid "adv_scene_105/date_079"
+msgstr ""
+
+msgctxt "13380"
+msgid "adv_scene_105/kiryu_309"
+msgstr ""
+
+msgctxt "13384"
+msgid "adv_scene_105/date_080"
+msgstr ""
+
+msgctxt "13388"
+msgid "adv_scene_105/kiryu_310"
+msgstr ""
+
+msgctxt "13392"
+msgid "adv_scene_105/date_081"
+msgstr ""
+
+msgctxt "13396"
+msgid "adv_scene_103/date_049"
+msgstr ""
+
+msgctxt "13400"
+msgid "adv_scene_103/kiryu_296"
+msgstr ""
+
+msgctxt "13404"
+msgid "adv_scene_103/date_050"
+msgstr ""
+
+msgctxt "13408"
+msgid "adv_scene_103/date_051"
+msgstr ""
+
+msgctxt "13412"
+msgid "adv_scene_103/date_052"
+msgstr ""
+
+msgctxt "13416"
+msgid "adv_scene_103/kiryu_297"
+msgstr ""
+
+msgctxt "13420"
+msgid "adv_scene_103/date_053"
+msgstr ""
+
+msgctxt "13424"
+msgid "adv_scene_103/date_054"
+msgstr ""
+
+msgctxt "13428"
+msgid "adv_scene_103/kiryu_298"
+msgstr ""
+
+msgctxt "13432"
+msgid "adv_scene_103/date_055"
+msgstr ""
+
+msgctxt "13436"
+msgid "adv_scene_103/date_056"
+msgstr ""
+
+msgctxt "13440"
+msgid "adv_scene_103/date_057"
+msgstr ""
+
+msgctxt "13444"
+msgid "adv_scene_103/kiryu_299"
+msgstr ""
+
+msgctxt "13448"
+msgid "adv_scene_103/date_058"
+msgstr ""
+
+msgctxt "13452"
+msgid "adv_scene_103/date_059"
+msgstr ""
+
+msgctxt "13456"
+msgid "adv_scene_104/date_060"
+msgstr ""
+
+msgctxt "13460"
+msgid "adv_scene_104/kiryu_300"
+msgstr ""
+
+msgctxt "13464"
+msgid "adv_scene_104/date_061"
+msgstr ""
+
+msgctxt "13468"
+msgid "adv_scene_104/kiryu_301"
+msgstr ""
+
+msgctxt "13472"
+msgid "adv_scene_104/date_062"
+msgstr ""
+
+msgctxt "13476"
+msgid "adv_scene_104/date_063"
+msgstr ""
+
+msgctxt "13480"
+msgid "adv_scene_104/kiryu_302"
+msgstr ""
+
+msgctxt "13484"
+msgid "adv_scene_104/date_064"
+msgstr ""
+
+msgctxt "13488"
+msgid "adv_scene_104/date_065"
+msgstr ""
+
+msgctxt "13492"
+msgid "adv_scene_104/date_066"
+msgstr ""
+
+msgctxt "13496"
+msgid "adv_scene_104/date_067"
+msgstr ""
+
+msgctxt "13500"
+msgid "adv_scene_104/kiryu_303"
+msgstr ""
+
+msgctxt "13504"
+msgid "adv_scene_104/date_068"
+msgstr ""
+
+msgctxt "13508"
+msgid "adv_scene_104/date_069"
+msgstr ""
+
+msgctxt "13512"
+msgid "adv_scene_104/kiryu_304"
+msgstr ""
+
+msgctxt "13516"
+msgid "adv_scene_104/date_070"
+msgstr ""

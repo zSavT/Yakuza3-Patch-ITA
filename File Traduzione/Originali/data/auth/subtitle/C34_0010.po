@@ -1,0 +1,86 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "170\t230"
+msgid "Everyone!"
+msgstr ""
+
+msgctxt "333\t441"
+msgid ""
+"Ayako-chan.\\n"
+"Thanks for always helping me."
+msgstr ""
+
+msgctxt "442\t503"
+msgid "This is for you."
+msgstr ""
+
+msgctxt "558\t602"
+msgid "What is it?"
+msgstr ""
+
+msgctxt "603\t650"
+msgid "\"Shopping Coupon\""
+msgstr ""
+
+msgctxt "713\t860"
+msgid ""
+"Sorry.\\n"
+"And thanks, for everything."
+msgstr ""
+
+msgctxt "870\t927"
+msgid "\"Laundry Coupon\""
+msgstr ""
+
+msgctxt "949\t1020"
+msgid "I've got one, too!"
+msgstr ""
+
+msgctxt "1047\t1107"
+msgid "You guys..."
+msgstr ""
+
+msgctxt "1126\t1284"
+msgid ""
+"Everyone's gonna pitch in and help you, Ayako-chan.\\n"
+"It's the least we can do."
+msgstr ""
+
+msgctxt "1313\t1383"
+msgid "This last one's from me."
+msgstr ""
+
+msgctxt "1419\t1541"
+msgid "A Homework Coupon?"
+msgstr ""
+
+msgctxt "1542\t1659"
+msgid ""
+"Who'd want that!?\\n"
+"You can barely do your own homework!"
+msgstr ""
+
+msgctxt "1660\t1745"
+msgid "Yeah, that's just giving her more work!"
+msgstr ""
+
+msgctxt "1746\t1848"
+msgid "Huh!?"
+msgstr ""
+
+msgctxt "1849\t1999"
+msgid ""
+"Thank you, everyone!\\n"
+"Thank you so much!"
+msgstr ""

@@ -1,0 +1,5525 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "3748"
+msgid "Hey, Kiryu-san, do you, like, go out to these kind of clubs often?"
+msgstr ""
+
+msgctxt "3760"
+msgid "Yeah, I'd say I do."
+msgstr ""
+
+msgctxt "3772"
+msgid ""
+"Really? I just started working here, so like, I'm still kinda confused "
+"about how it all works."
+msgstr ""
+
+msgctxt "3784"
+msgid "I mean, I never thought I'd be working at a place like this, you know?"
+msgstr ""
+
+msgctxt "3796"
+msgid "Why'd you take the job, then?"
+msgstr ""
+
+msgctxt "3808"
+msgid "Why else? I needed the money, duh."
+msgstr ""
+
+msgctxt "3820"
+msgid "Just for the money?"
+msgstr ""
+
+msgctxt "3832"
+msgid "Yeah! And also, I do belly dancing, so there's that, too."
+msgstr ""
+
+msgctxt "3844"
+msgid "Belly dancing? What's that like?"
+msgstr ""
+
+msgctxt "3856"
+msgid "It's a dance that's like, all about twisting and shaking your hips and butt."
+msgstr ""
+
+msgctxt "3868"
+msgid "Shaking your butt..."
+msgstr ""
+
+msgctxt "3880"
+msgid "Hahaha! ♪ Ohmigosh, Kiryu-san, the look on your face is just priceless!"
+msgstr ""
+
+msgctxt "3892"
+msgid "Heh, is it, now?"
+msgstr ""
+
+msgctxt "3904"
+msgid "Well, anyway, I'm a pretty good belly dancer. I wanna go pro someday."
+msgstr ""
+
+msgctxt "3916"
+msgid "Oh, yeah?"
+msgstr ""
+
+msgctxt "3928"
+msgid ""
+"And I wanna go study abroad in Istanbul. It's basically where all the good "
+"belly dancers come from, after all."
+msgstr ""
+
+msgctxt "3940"
+msgid "So that's why you're working here."
+msgstr ""
+
+msgctxt "3952"
+msgid "Yeeeep."
+msgstr ""
+
+msgctxt "3964"
+msgid ""
+"Anyway, so I was thinking about going out to the birthplace of belly "
+"dancing to do some intense training, so here I am."
+msgstr ""
+
+msgctxt "3976"
+msgid "Hopefully you can make the trip there soon."
+msgstr ""
+
+msgctxt "3988"
+msgid "Yeah, but, like..."
+msgstr ""
+
+msgctxt "4000"
+msgid ""
+"Sometimes I worry about it, like, can I really survive over there on my "
+"own? I mean, I'm just kind of chilling over here, not taking things too "
+"seriously."
+msgstr ""
+
+msgctxt "4012"
+msgid "I see..."
+msgstr ""
+
+msgctxt "4024"
+msgid ""
+"Plus, I'd be sooo far away from all my friends over there, and that's kind "
+"of holding me back from going, too."
+msgstr ""
+
+msgctxt "4036"
+msgid "Leaving your comfort zone is never easy."
+msgstr ""
+
+msgctxt "4048"
+msgid "Haha! I totally get that!"
+msgstr ""
+
+msgctxt "4060"
+msgid "And believe me, I've been in that situation plenty of times."
+msgstr ""
+
+msgctxt "4072"
+msgid "All that to improve your dancing..."
+msgstr ""
+
+msgctxt "4084"
+msgid "Yup. I'm guessing you don't really know much about dancing, huh, Kiryu-san?"
+msgstr ""
+
+msgctxt "4096"
+msgid "I don't, sorry."
+msgstr ""
+
+msgctxt "4108"
+msgid "Hahaha! ♪ Ohmigosh, why are you apologizing? You're so funny!"
+msgstr ""
+
+msgctxt "4120"
+msgid ""
+"If you rolled on up in here talking about how much you loved dancing, I'd "
+"be suuuper weirded out. Don't worry about it, okay?"
+msgstr ""
+
+msgctxt "4132"
+msgid "Heh, all right."
+msgstr ""
+
+msgctxt "4144"
+msgid "That's incredible."
+msgstr ""
+
+msgctxt "4156"
+msgid "I wouldn't call it that..."
+msgstr ""
+
+msgctxt "4168"
+msgid "My pride's on the line!"
+msgstr ""
+
+msgctxt "4180"
+msgid "...Could you explain that to me?"
+msgstr ""
+
+msgctxt "4192"
+msgid ""
+"So like, I'm a real sore loser, and I hate when people are better than me. "
+"I've gotta go pro if I wanna protect my pride, you know?"
+msgstr ""
+
+msgctxt "4204"
+msgid "Like, I can't stop now!"
+msgstr ""
+
+msgctxt "4216"
+msgid "That makes sense."
+msgstr ""
+
+msgctxt "4228"
+msgid "So Kiryu-san, what do you do, like, for fun?"
+msgstr ""
+
+msgctxt "4240"
+msgid "...Drink?"
+msgstr ""
+
+msgctxt "4252"
+msgid "Hahaha, ohmigosh, you sounded sooo cool just now! ♪"
+msgstr ""
+
+msgctxt "4264"
+msgid ""
+"Definitely not surprised to hear you say that, Kiryu-san. That's basically "
+"the same as me, too."
+msgstr ""
+
+msgctxt "4276"
+msgid "You like to drink too, then?"
+msgstr ""
+
+msgctxt "4288"
+msgid ""
+"Yeah, I loooove to get drunk. I'm suuuuch a cheap date, but I don't care! "
+"<Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "4300"
+msgid "Sometimes I go way overboard, though..."
+msgstr ""
+
+msgctxt "4312"
+msgid "How so?"
+msgstr ""
+
+msgctxt "4324"
+msgid ""
+"Ohmigosh, Kiryu-san! You can't just ask me that! It's suuuch an "
+"embarrassing story!"
+msgstr ""
+
+msgctxt "4336"
+msgid "Heh, if you say so."
+msgstr ""
+
+msgctxt "4348"
+msgid ""
+"So anyway, how are you the morning after you drink a ton? Do you get all "
+"depressed or are you totally fine?"
+msgstr ""
+
+msgctxt "4360"
+msgid "I'm usually fine."
+msgstr ""
+
+msgctxt "4372"
+msgid "So you can drink a lot without getting, like, sick?"
+msgstr ""
+
+msgctxt "4384"
+msgid "I don't know about that, but I've got some tolerance, sure."
+msgstr ""
+
+msgctxt "4396"
+msgid ""
+"I totally feel that. I'm surprised, though, like, I totally pegged you for "
+"a guy who could down a keg and feel like, nothing."
+msgstr ""
+
+msgctxt "4408"
+msgid "...Don't get me too curious. I just might do it."
+msgstr ""
+
+msgctxt "4420"
+msgid "Sometimes I have a hard time getting up."
+msgstr ""
+
+msgctxt "4432"
+msgid "Hehehe. I totally thought so."
+msgstr ""
+
+msgctxt "4444"
+msgid ""
+"There was this one time, I woke up after a crazy night, and I rolled over "
+"and saw my friend passed out on the floor, with some weird piece of "
+"something in her mouth..."
+msgstr ""
+
+msgctxt "4456"
+msgid "For a second I was like, whoa, maybe I shouldn't do this again, huh?"
+msgstr ""
+
+msgctxt "4468"
+msgid "Heh. Crazy nights like that happen sometimes."
+msgstr ""
+
+msgctxt "4480"
+msgid "Morning? Try afternoon. I'm dead to the world until then."
+msgstr ""
+
+msgctxt "4492"
+msgid "Hahaha, seriously? Ohmigosh, do you get like, blackout drunk?"
+msgstr ""
+
+msgctxt "4504"
+msgid "I mean, I wouldn't say I've never blacked out."
+msgstr ""
+
+msgctxt "4516"
+msgid ""
+"Like, isn't it soooo funny when you're so drunk, you have nooo idea what's "
+"going on?"
+msgstr ""
+
+msgctxt "4528"
+msgid "...Sure."
+msgstr ""
+
+msgctxt "4540"
+msgid "I would so love to see you get blackout drunk, Kiryu-san! ♪"
+msgstr ""
+
+msgctxt "4552"
+msgid "Heh, we'll see."
+msgstr ""
+
+msgctxt "4564"
+msgid "Ugh, what a total buzzkill..."
+msgstr ""
+
+msgctxt "4576"
+msgid "What's wrong?"
+msgstr ""
+
+msgctxt "4588"
+msgid ""
+"So like, one of my customers started giving me crap about my tattoo! What "
+"is he, my dad?"
+msgstr ""
+
+msgctxt "4600"
+msgid "He did? Damn."
+msgstr ""
+
+msgctxt "4612"
+msgid ""
+"I know, right? He started going on and on about \"what would my parents "
+"think\" and how \"people would judge me\" and asking if I were really tough "
+"enough to deal with that."
+msgstr ""
+
+msgctxt "4624"
+msgid "Why doesn't he just, like, mind his own business? Seriously!"
+msgstr ""
+
+msgctxt "4636"
+msgid "Don't worry about him."
+msgstr ""
+
+msgctxt "4648"
+msgid "I mean, I'm not, I'm just annoyed, okay?"
+msgstr ""
+
+msgctxt "4660"
+msgid "I've got a tattoo myself, you know."
+msgstr ""
+
+msgctxt "4672"
+msgid "Oooh, really?"
+msgstr ""
+
+msgctxt "4684"
+msgid "It means something a whole lot different than yours, though."
+msgstr ""
+
+msgctxt "4696"
+msgid "...Is it on your back?"
+msgstr ""
+
+msgctxt "4708"
+msgid "Yeah..."
+msgstr ""
+
+msgctxt "4720"
+msgid "......"
+msgstr ""
+
+msgctxt "4732"
+msgid "Anyway. Getting inked is our own burden to bear, not anyone else's."
+msgstr ""
+
+msgctxt "4744"
+msgid ""
+"You're right... They can complain all they want about it, but it's our "
+"decision, right?"
+msgstr ""
+
+msgctxt "4756"
+msgid "That's right."
+msgstr ""
+
+msgctxt "4768"
+msgid "Kiryu-san..."
+msgstr ""
+
+msgctxt "4780"
+msgid ""
+"I don't think I've ever met someone like you, like, ever. You're so "
+"different. <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "4792"
+msgid "You think so...?"
+msgstr ""
+
+msgctxt "4804"
+msgid "I completely agree with you."
+msgstr ""
+
+msgctxt "4816"
+msgid "Thank you! Like, just mind your own frickin' business, you old fart."
+msgstr ""
+
+msgctxt "4828"
+msgid "...Uh-huh."
+msgstr ""
+
+msgctxt "4840"
+msgid "Ugh, he totally killed my good mood..."
+msgstr ""
+
+msgctxt "4852"
+msgid "......"
+msgstr ""
+
+msgctxt "4864"
+msgid "I think it's great you have a tattoo."
+msgstr ""
+
+msgctxt "4876"
+msgid "Uh, what? You don't have to, like, suck up to me, you know."
+msgstr ""
+
+msgctxt "4888"
+msgid "...I mean, I've got a tattoo, too."
+msgstr ""
+
+msgctxt "4900"
+msgid "Oooh, really?"
+msgstr ""
+
+msgctxt "4912"
+msgid "It means something a whole lot different than yours, though."
+msgstr ""
+
+msgctxt "4924"
+msgid "...Is it on your back?"
+msgstr ""
+
+msgctxt "4936"
+msgid "Yeah..."
+msgstr ""
+
+msgctxt "4948"
+msgid "......"
+msgstr ""
+
+msgctxt "4960"
+msgid "Anyway. Getting inked is our own burden to bear, not anyone else's."
+msgstr ""
+
+msgctxt "4972"
+msgid ""
+"You're right... They can complain all they want about it, but it's our "
+"decision, right?"
+msgstr ""
+
+msgctxt "4984"
+msgid "That's right. Yours means something special to you, doesn't it?"
+msgstr ""
+
+msgctxt "4996"
+msgid "Well, yeah, duh..."
+msgstr ""
+
+msgctxt "5008"
+msgid "Then there's no problem, right?"
+msgstr ""
+
+msgctxt "5020"
+msgid "Kiryu-san..."
+msgstr ""
+
+msgctxt "5032"
+msgid ""
+"I was feeling really crappy about it before, but after talking to\r\n"
+"you, I feel, like, way better. ♪ Thanks for letting me vent,\r\n"
+"Kiryu-san. <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "5044"
+msgid "Heh, no problem. Vent to me anytime."
+msgstr ""
+
+msgctxt "5056"
+msgid "Uggghhh..."
+msgstr ""
+
+msgctxt "5068"
+msgid "What's wrong?"
+msgstr ""
+
+msgctxt "5080"
+msgid ""
+"So these construction dudes came in earlier, and they brought their CEO "
+"with them, right?"
+msgstr ""
+
+msgctxt "5092"
+msgid "That guy was suuuuuch an asshole!"
+msgstr ""
+
+msgctxt "5104"
+msgid ""
+"Like, he kept bragging on and on, \"Oh, we built this big hotel! We're "
+"gonna build this apartment complex in Okinawa! You gotta buy three cars "
+"before you get your dream car!\""
+msgstr ""
+
+msgctxt "5116"
+msgid "Guess you run into those kinds of guys sometimes, huh..."
+msgstr ""
+
+msgctxt "5128"
+msgid ""
+"Ugh, I hate guys who don't know when to shut up! What, does he think he's "
+"like, cool or something?"
+msgstr ""
+
+msgctxt "5140"
+msgid "He's totally not."
+msgstr ""
+
+msgctxt "5152"
+msgid ""
+"Ugh, I feel bad for the losers who have to listen to him all the time. I "
+"bet they didn't have enough booze to deal with him."
+msgstr ""
+
+msgctxt "5164"
+msgid "I'm way more into guys who like, don't talk all that much, you know?"
+msgstr ""
+
+msgctxt "5176"
+msgid "I feel that."
+msgstr ""
+
+msgctxt "5188"
+msgid "Oh, hey, you're kind of like that, huh, Kiryu-san! ♪"
+msgstr ""
+
+msgctxt "5200"
+msgid "I wouldn't say that..."
+msgstr ""
+
+msgctxt "5212"
+msgid "Hehe. <Color:7>⑮<Color:Default> C'mon, you know I'm right."
+msgstr ""
+
+msgctxt "5224"
+msgid "Heh, all right..."
+msgstr ""
+
+msgctxt "5236"
+msgid "Just forget about him."
+msgstr ""
+
+msgctxt "5248"
+msgid "I guess. I mean, he's just a customer, anyway. I gotta do my job."
+msgstr ""
+
+msgctxt "5260"
+msgid "It still really pisses me off..."
+msgstr ""
+
+msgctxt "5272"
+msgid "Understandable."
+msgstr ""
+
+msgctxt "5284"
+msgid "Men are proud creatures like that."
+msgstr ""
+
+msgctxt "5296"
+msgid "......"
+msgstr ""
+
+msgctxt "5308"
+msgid "...So, what, do you like to brag like that too, Kiryu-san?"
+msgstr ""
+
+msgctxt "5320"
+msgid "No. I don't have anything I can brag about, really."
+msgstr ""
+
+msgctxt "5332"
+msgid "......"
+msgstr ""
+
+msgctxt "5344"
+msgid ""
+"You sure about that? 'Cause, like, you seem like you've got a lot going on "
+"behind the scenes, Kiryu-san..."
+msgstr ""
+
+msgctxt "5356"
+msgid "Heh, not these days."
+msgstr ""
+
+msgctxt "5368"
+msgid ""
+"So, Kiryu-san, I bet you're super into someone cooking a nice homemade meal "
+"for you, huh?"
+msgstr ""
+
+msgctxt "5380"
+msgid "...Yeah, that sounds about right."
+msgstr ""
+
+msgctxt "5392"
+msgid "I've, like, finally started to get good at cooking now."
+msgstr ""
+
+msgctxt "5404"
+msgid "Oh, yeah?"
+msgstr ""
+
+msgctxt "5416"
+msgid ""
+"Yeah. My ex-boyfriend was always begging me to cook for him, so I figured "
+"I'd start doing it more often."
+msgstr ""
+
+msgctxt "5428"
+msgid ""
+"I mean, I feel like most people wanna do nice things like that for their "
+"boyfriends and girlfriends, right?"
+msgstr ""
+
+msgctxt "5440"
+msgid "I don't know who wouldn't."
+msgstr ""
+
+msgctxt "5452"
+msgid ""
+"Right! So, like, after that, I started having a ton of fun with it. I feel "
+"like I eat at home way more often than I eat out nowadays."
+msgstr ""
+
+msgctxt "5464"
+msgid "Do you always cook for yourself?"
+msgstr ""
+
+msgctxt "5476"
+msgid ""
+"Hehehe. I probably don't look like the kind of girl who's, like, all "
+"domestic and stuff, right?"
+msgstr ""
+
+msgctxt "5488"
+msgid "Yeah, but I had a feeling you were a good cook all along."
+msgstr ""
+
+msgctxt "5500"
+msgid ""
+"Uh, what? What kind of excuse is that? Like, you know that sounds super "
+"shady, right?"
+msgstr ""
+
+msgctxt "5512"
+msgid "...Huh?"
+msgstr ""
+
+msgctxt "5524"
+msgid ""
+"I mean, it sounds like you assumed I was a crappy cook, but totally changed "
+"your mind as soon as I said I was good."
+msgstr ""
+
+msgctxt "5536"
+msgid "I... don't get it."
+msgstr ""
+
+msgctxt "5548"
+msgid "Will you make something for me?"
+msgstr ""
+
+msgctxt "5560"
+msgid ""
+"Huh? Ohmigosh, Kiryu-san, you can't just, like, ask me to make you food all "
+"of a sudden! ♪"
+msgstr ""
+
+msgctxt "5572"
+msgid "Heh, sorry."
+msgstr ""
+
+msgctxt "5584"
+msgid ""
+"And please, I bet you say that to all the girls. You sound like you've "
+"practiced that line a million times."
+msgstr ""
+
+msgctxt "5596"
+msgid "...It's just your imagination."
+msgstr ""
+
+msgctxt "5608"
+msgid "Yeah, no, now you're being even more shady..."
+msgstr ""
+
+msgctxt "5620"
+msgid "Seriously, it's just your imagination..."
+msgstr ""
+
+msgctxt "5632"
+msgid "It's good to do something nice for someone. So I think I can understand."
+msgstr ""
+
+msgctxt "5644"
+msgid ""
+"Yeah. I'm like, super lazy when it comes to doing something for myself, but "
+"when someone else gets involved, I'm suddenly, like, all for it!"
+msgstr ""
+
+msgctxt "5656"
+msgid "I get that."
+msgstr ""
+
+msgctxt "5668"
+msgid "Sounds like we really think alike, huh?"
+msgstr ""
+
+msgctxt "5680"
+msgid "I guess we do."
+msgstr ""
+
+msgctxt "5692"
+msgid "Hey, so like, what do you do on the weekends, Kiryu-san?"
+msgstr ""
+
+msgctxt "5704"
+msgid "Nothing in particular, really."
+msgstr ""
+
+msgctxt "5716"
+msgid "Huh, okay."
+msgstr ""
+
+msgctxt "5728"
+msgid "What about you?"
+msgstr ""
+
+msgctxt "5740"
+msgid ""
+"Huh? Me? I mean, kinda the same? Though I like to sacrifice all my sleep to "
+"squeeze out as much fun as I can get."
+msgstr ""
+
+msgctxt "5752"
+msgid "...You don't sleep?"
+msgstr ""
+
+msgctxt "5764"
+msgid "Like, I do sleep... but not a whole lot."
+msgstr ""
+
+msgctxt "5776"
+msgid "Heh, to each his own."
+msgstr ""
+
+msgctxt "5788"
+msgid ""
+"There's always some birthday or some kind of occasion going on every week, "
+"so we get like, forty or fifty people to go out and party hard..."
+msgstr ""
+
+msgctxt "5800"
+msgid "I tend to avoid big groups of people."
+msgstr ""
+
+msgctxt "5812"
+msgid "...Oh, huh."
+msgstr ""
+
+msgctxt "5824"
+msgid "I mean, I'm not that surprised. You kind of give off that vibe."
+msgstr ""
+
+msgctxt "5836"
+msgid "I think I like a nice, quiet drink a whole lot better."
+msgstr ""
+
+msgctxt "5848"
+msgid ""
+"Mm-hmm. You know that's like, super cool, right? And it's sooo you. I like "
+"it. <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "5860"
+msgid "Still, though..."
+msgstr ""
+
+msgctxt "5872"
+msgid "Hmm?"
+msgstr ""
+
+msgctxt "5884"
+msgid ""
+"I think you could have a totally awesome time out at a club with the right "
+"crowd. ♪"
+msgstr ""
+
+msgctxt "5896"
+msgid "You think so?"
+msgstr ""
+
+msgctxt "5908"
+msgid ""
+"Yeah! I'll bring you with me one night, you'll see! "
+"<Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "5920"
+msgid "Well... all right."
+msgstr ""
+
+msgctxt "5932"
+msgid "That's a pretty big party."
+msgstr ""
+
+msgctxt "5944"
+msgid ""
+"I mean, sure, fifty people's pretty big, but it's always the same peeps, "
+"you know?"
+msgstr ""
+
+msgctxt "5956"
+msgid "Oh, huh..."
+msgstr ""
+
+msgctxt "5968"
+msgid "How does your body survive that?"
+msgstr ""
+
+msgctxt "5980"
+msgid "Hehehe. Sometimes, it totally doesn't..."
+msgstr ""
+
+msgctxt "5992"
+msgid ""
+"I mean, I try to drink as much water as I can when we go club hopping, but, "
+"you know!"
+msgstr ""
+
+msgctxt "6004"
+msgid "Heh, sure."
+msgstr ""
+
+msgctxt "6016"
+msgid ""
+"Don't worry, though, I've got, like, waaaay more tolerance now because of "
+"it!"
+msgstr ""
+
+msgctxt "6028"
+msgid "That's good, at least..."
+msgstr ""
+
+msgctxt "6040"
+msgid "Uuuuugh! I'm such an idiot!"
+msgstr ""
+
+msgctxt "6052"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "6064"
+msgid "I totally forgot to buy some..."
+msgstr ""
+
+msgctxt "6076"
+msgid "Buy some what?"
+msgstr ""
+
+msgctxt "6088"
+msgid "Huh? Oh, I was supposed to buy incense, and it totally just slipped my mind."
+msgstr ""
+
+msgctxt "6100"
+msgid "Incense? What for?"
+msgstr ""
+
+msgctxt "6112"
+msgid ""
+"For making my room smell good. I love incense, and, well, pretty much "
+"anything that smells good, you know?"
+msgstr ""
+
+msgctxt "6124"
+msgid "Is that so?"
+msgstr ""
+
+msgctxt "6136"
+msgid ""
+"Yeah. I use white musk oil in the bath, then when I get out, I put on this "
+"awesome body cream, and I always put on a little bit of perfume before I go "
+"to bed."
+msgstr ""
+
+msgctxt "6148"
+msgid "You're basically making a smell sandwich."
+msgstr ""
+
+msgctxt "6160"
+msgid ""
+"Hahahah! Ohmigod, Kiryu-san, you're gonna make me pee my\r\n"
+"pants! ♪"
+msgstr ""
+
+msgctxt "6172"
+msgid "...I mean, that's way too many scents on top of one another, right?"
+msgstr ""
+
+msgctxt "6184"
+msgid "Huh!? No way, it's totally fine!"
+msgstr ""
+
+msgctxt "6196"
+msgid "Oh... All right, then."
+msgstr ""
+
+msgctxt "6208"
+msgid "So that's why you smell so good."
+msgstr ""
+
+msgctxt "6220"
+msgid "What!?"
+msgstr ""
+
+msgctxt "6232"
+msgid "......"
+msgstr ""
+
+msgctxt "6244"
+msgid ""
+"Uh, Kiryu-san, it's reeeeally creepy when you lean in to smell me... Could "
+"you like, not?"
+msgstr ""
+
+msgctxt "6256"
+msgid "...Sorry."
+msgstr ""
+
+msgctxt "6268"
+msgid "Do I smell good?"
+msgstr ""
+
+msgctxt "6280"
+msgid "Wait, what!?"
+msgstr ""
+
+msgctxt "6292"
+msgid "How do I smell?"
+msgstr ""
+
+msgctxt "6304"
+msgid "Um, uh... Do you want me to like, sniff you, or something?"
+msgstr ""
+
+msgctxt "6316"
+msgid "That's like, super, super creepy, you know..."
+msgstr ""
+
+msgctxt "6328"
+msgid "...Sorry."
+msgstr ""
+
+msgctxt "6340"
+msgid ""
+"Ohmigod, you have to hear this! One of my old pictures got put in a "
+"magazine!"
+msgstr ""
+
+msgctxt "6352"
+msgid "Oh, really?"
+msgstr ""
+
+msgctxt "6364"
+msgid ""
+"Yeah! There was this special titled \"Para Para: A Look Back\" or something "
+"like that, and they put in a picture of me at a Para Para event!"
+msgstr ""
+
+msgctxt "6376"
+msgid "Oh man, I was so frickin' tan back then! Like, it was obscene."
+msgstr ""
+
+msgctxt "6388"
+msgid "You did Para Para back in the day?"
+msgstr ""
+
+msgctxt "6400"
+msgid ""
+"Yeah, I was a total Paralist! I danced to Para Para music and techno at all "
+"these events at big name clubs..."
+msgstr ""
+
+msgctxt "6412"
+msgid "Really?"
+msgstr ""
+
+msgctxt "6424"
+msgid ""
+"Yeah, I was like, 16, too, hanging out with 22, 23-year-old college "
+"students... I was even the first chair of this special event thing, too."
+msgstr ""
+
+msgctxt "6436"
+msgid "That's impressive."
+msgstr ""
+
+msgctxt "6448"
+msgid ""
+"I dunno, I don't think so. Like, I just did the stuff I always did, and "
+"everything just ended up that way."
+msgstr ""
+
+msgctxt "6460"
+msgid "Huh."
+msgstr ""
+
+msgctxt "6472"
+msgid ""
+"Like, I get super annoyed when stuff doesn't get done, so I just go out and "
+"do it instead. That's how I ended up in that position."
+msgstr ""
+
+msgctxt "6484"
+msgid "Makes sense..."
+msgstr ""
+
+msgctxt "6496"
+msgid "You don't do Para Para any more?"
+msgstr ""
+
+msgctxt "6508"
+msgid ""
+"I mean, nobody really does it anymore, and I hang out with a totally "
+"different crowd now."
+msgstr ""
+
+msgctxt "6520"
+msgid "All right."
+msgstr ""
+
+msgctxt "6532"
+msgid "I always hung out with people older than me, even back then."
+msgstr ""
+
+msgctxt "6544"
+msgid "I had a really hard time making friends with, like, people my own age."
+msgstr ""
+
+msgctxt "6556"
+msgid "......"
+msgstr ""
+
+msgctxt "6568"
+msgid "Man, though... I had, like, so much fun back then."
+msgstr ""
+
+msgctxt "6580"
+msgid "How old are you again? You're reminiscing like an old lady."
+msgstr ""
+
+msgctxt "6592"
+msgid "Hahaha! ♪ Okay, I get that. I'm only 21!"
+msgstr ""
+
+msgctxt "6604"
+msgid "Not that old of a lady, then, heh."
+msgstr ""
+
+msgctxt "6616"
+msgid "What did that \"chair\" job entail?"
+msgstr ""
+
+msgctxt "6628"
+msgid "Hahaha! ♪ Ohmigod, wait, really?"
+msgstr ""
+
+msgctxt "6640"
+msgid "I didn't think you'd actually ask me about that!"
+msgstr ""
+
+msgctxt "6652"
+msgid "Oh."
+msgstr ""
+
+msgctxt "6664"
+msgid ""
+"It wasn't really like a super serious job, I just said what I wanted to, "
+"and made people follow me and stuff. It wasn't a huge deal."
+msgstr ""
+
+msgctxt "6676"
+msgid "Was that it...?"
+msgstr ""
+
+msgctxt "6688"
+msgid "Yeah. I was kinda like their leader."
+msgstr ""
+
+msgctxt "6700"
+msgid "Huh..."
+msgstr ""
+
+msgctxt "6712"
+msgid ""
+"Hey, Kiryu-san, I think I might've, like, really pissed off one of my "
+"friends when we went out to eat the other day..."
+msgstr ""
+
+msgctxt "6724"
+msgid "What happened?"
+msgstr ""
+
+msgctxt "6736"
+msgid ""
+"She was taking like, forever to figure out what she wanted to order, and "
+"kept going back and forth on stuff, so I just went ahead and ordered for "
+"her."
+msgstr ""
+
+msgctxt "6748"
+msgid ""
+"She got like, super pissed at me, and started yelling at me, like, \"Let me "
+"choose what I wanna eat, okay!?\""
+msgstr ""
+
+msgctxt "6760"
+msgid "......"
+msgstr ""
+
+msgctxt "6772"
+msgid "She hasn't called me at all since that happened."
+msgstr ""
+
+msgctxt "6784"
+msgid "That is kind of crossing the line."
+msgstr ""
+
+msgctxt "6796"
+msgid ""
+"Really? Come on, I mean, who wouldn't get annoyed when someone's wasting "
+"your time like that over nothing?"
+msgstr ""
+
+msgctxt "6808"
+msgid "It's still probably going too far."
+msgstr ""
+
+msgctxt "6820"
+msgid "...You really think so?"
+msgstr ""
+
+msgctxt "6832"
+msgid "You're two different people. Everyone moves at their own pace."
+msgstr ""
+
+msgctxt "6844"
+msgid "......"
+msgstr ""
+
+msgctxt "6856"
+msgid "You need to be a little more patient."
+msgstr ""
+
+msgctxt "6868"
+msgid "How long was she taking?"
+msgstr ""
+
+msgctxt "6880"
+msgid ""
+"I mean, she wasn't taking that long. I just got super annoyed with waiting "
+"for her."
+msgstr ""
+
+msgctxt "6892"
+msgid "That's why you ordered for her?"
+msgstr ""
+
+msgctxt "6904"
+msgid "But like, isn't it way easier for everyone if I just do it for her?"
+msgstr ""
+
+msgctxt "6916"
+msgid "Is that how it works?"
+msgstr ""
+
+msgctxt "6928"
+msgid ""
+"No, but I did it for her, you know? I wasn't trying to be a bitch or "
+"anything."
+msgstr ""
+
+msgctxt "6940"
+msgid "......"
+msgstr ""
+
+msgctxt "6952"
+msgid "You don't feel bad about it?"
+msgstr ""
+
+msgctxt "6964"
+msgid "I mean, I did it to help her, you know...?"
+msgstr ""
+
+msgctxt "6976"
+msgid "...Okay, then."
+msgstr ""
+
+msgctxt "6988"
+msgid "......"
+msgstr ""
+
+msgctxt "7000"
+msgid "...You're still worried about it though, aren't you?"
+msgstr ""
+
+msgctxt "7012"
+msgid "...Yeah."
+msgstr ""
+
+msgctxt "7024"
+msgid ""
+"So, maybe she does things at her own pace. Maybe you should've been a "
+"little more patient."
+msgstr ""
+
+msgctxt "7036"
+msgid "Yeah... Maybe I should send her an email..."
+msgstr ""
+
+msgctxt "7048"
+msgid "Good idea."
+msgstr ""
+
+msgctxt "7060"
+msgid ""
+"Sorry to bother you with this super weird issue. I'm kinda glad I vented to "
+"you, though. ♪"
+msgstr ""
+
+msgctxt "7072"
+msgid "Heh, glad to help."
+msgstr ""
+
+msgctxt "7084"
+msgid "Ugh, I wanna go to an onsen so frickin' bad..."
+msgstr ""
+
+msgctxt "7096"
+msgid "...What's the matter?"
+msgstr ""
+
+msgctxt "7108"
+msgid "Nothing, just, like, I've been kinda on edge lately, hahaha."
+msgstr ""
+
+msgctxt "7120"
+msgid "Just a lot of things frustrating you?"
+msgstr ""
+
+msgctxt "7132"
+msgid "Yeah. It's waaay too much to handle."
+msgstr ""
+
+msgctxt "7144"
+msgid "Aww."
+msgstr ""
+
+msgctxt "7156"
+msgid ""
+"Sometimes, like, I just wanna get out of here, you know? Just run away to "
+"some place that's totally not here."
+msgstr ""
+
+msgctxt "7168"
+msgid "Huh."
+msgstr ""
+
+msgctxt "7180"
+msgid "I mean, I looove going out and partying with tons of people..."
+msgstr ""
+
+msgctxt "7192"
+msgid ""
+"And maybe the clubs can get like, a little loud sometimes, but that's not "
+"why I wanna leave."
+msgstr ""
+
+msgctxt "7204"
+msgid "I think it's, like, all the crowds and the noise and stuff in the city..."
+msgstr ""
+
+msgctxt "7216"
+msgid "I see..."
+msgstr ""
+
+msgctxt "7228"
+msgid "So maybe I'll just get on some random train and go to a fancy onsen.."
+msgstr ""
+
+msgctxt "7240"
+msgid "Go, relax."
+msgstr ""
+
+msgctxt "7252"
+msgid "Ugh, I sooo want to..."
+msgstr ""
+
+msgctxt "7264"
+msgid "Going to an onsen is nice, isn't it?"
+msgstr ""
+
+msgctxt "7276"
+msgid "......"
+msgstr ""
+
+msgctxt "7288"
+msgid "Hehehe. You're always so funny, Kiryu-san. <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "7300"
+msgid "Huh? Wait, that was funny?"
+msgstr ""
+
+msgctxt "7312"
+msgid "Yeah, like, you sounded so serious about it. ♪"
+msgstr ""
+
+msgctxt "7324"
+msgid "Heh, did I?"
+msgstr ""
+
+msgctxt "7336"
+msgid "Do you have the time to do that right now?"
+msgstr ""
+
+msgctxt "7348"
+msgid "I dunno..."
+msgstr ""
+
+msgctxt "7360"
+msgid "But, like, if I don't get some time off, I feel like..."
+msgstr ""
+
+msgctxt "7372"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "7384"
+msgid "Nothing, just..."
+msgstr ""
+
+msgctxt "7396"
+msgid "I had this thought."
+msgstr ""
+
+msgctxt "7408"
+msgid "Like, I'd use that time to figure out all my thoughts, you know? ♪"
+msgstr ""
+
+msgctxt "7420"
+msgid "Not a bad idea."
+msgstr ""
+
+msgctxt "7432"
+msgid "Maybe I'll go with you."
+msgstr ""
+
+msgctxt "7444"
+msgid "Hahaha! Ohmigosh, you're sooo hilarious! <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "7456"
+msgid "Heh. I wasn't kidding, though."
+msgstr ""
+
+msgctxt "7468"
+msgid ""
+"Wow. You're like, pretty straightforward about that kind of stuff, huh, "
+"Kiryu-san? <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "7480"
+msgid "Are you saying that's a bad thing?"
+msgstr ""
+
+msgctxt "7492"
+msgid ""
+"Not at all! It's just... I dunno. You're kind of shy, too. Ahh, you're so "
+"complicated! <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "7504"
+msgid "......"
+msgstr ""
+
+msgctxt "7516"
+msgid "Ugh, another one of my friends is pissed at me..."
+msgstr ""
+
+msgctxt "7528"
+msgid "What happened?"
+msgstr ""
+
+msgctxt "7540"
+msgid ""
+"So like, I was at this friend's house, and I threw out a bunch of stuff. "
+"Now she practically wants to kill me."
+msgstr ""
+
+msgctxt "7552"
+msgid "Let me guess. You threw out her things without telling her?"
+msgstr ""
+
+msgctxt "7564"
+msgid "Well, yeah, but for good reasons, you know?"
+msgstr ""
+
+msgctxt "7576"
+msgid "Like..."
+msgstr ""
+
+msgctxt "7588"
+msgid ""
+"She had this pumice stone in her shower that was all moldy, and this old, "
+"gross hairbrush..."
+msgstr ""
+
+msgctxt "7600"
+msgid ""
+"Oh, and her toothbrush was all old and beaten up! It was probably like, two "
+"years old!"
+msgstr ""
+
+msgctxt "7612"
+msgid "It was all stuff that belonged in the trash."
+msgstr ""
+
+msgctxt "7624"
+msgid "Yeah, those are all disgusting."
+msgstr ""
+
+msgctxt "7636"
+msgid "I know, right? I mean, that's why I threw them in the garbage!"
+msgstr ""
+
+msgctxt "7648"
+msgid "Did you really need to go that far, though?"
+msgstr ""
+
+msgctxt "7660"
+msgid "Oh, come on, they were soooo gross."
+msgstr ""
+
+msgctxt "7672"
+msgid "But they weren't yours to throw away, were they?"
+msgstr ""
+
+msgctxt "7684"
+msgid ""
+"So, what, I should get yelled at because I did something nice for a gross "
+"friend?"
+msgstr ""
+
+msgctxt "7696"
+msgid "......"
+msgstr ""
+
+msgctxt "7708"
+msgid "She might not have thought it was very nice of you."
+msgstr ""
+
+msgctxt "7720"
+msgid "...I guess."
+msgstr ""
+
+msgctxt "7732"
+msgid "What am I supposed to do about it now, though?"
+msgstr ""
+
+msgctxt "7744"
+msgid "That's up to you."
+msgstr ""
+
+msgctxt "7756"
+msgid "But why didn't you tell her you threw them out?"
+msgstr ""
+
+msgctxt "7768"
+msgid ""
+"Why should I have to? I mean, like, if you saw trash on your friend's "
+"floor, you'd throw it away, right? You wouldn't tell them to do it, would "
+"you?"
+msgstr ""
+
+msgctxt "7780"
+msgid "Were those things lying around her floor, though?"
+msgstr ""
+
+msgctxt "7792"
+msgid "Well, no..."
+msgstr ""
+
+msgctxt "7804"
+msgid "They might have been gross, and certainly needed to be thrown out..."
+msgstr ""
+
+msgctxt "7816"
+msgid "But maybe she was going to dispose of them on her own."
+msgstr ""
+
+msgctxt "7828"
+msgid "I guess..."
+msgstr ""
+
+msgctxt "7840"
+msgid "What am I supposed to do about it now, though?"
+msgstr ""
+
+msgctxt "7852"
+msgid "That's up to you."
+msgstr ""
+
+msgctxt "7864"
+msgid "Maybe they were special to her in some way."
+msgstr ""
+
+msgctxt "7876"
+msgid "No way, they were all super gross."
+msgstr ""
+
+msgctxt "7888"
+msgid "That may be, but how do you know she wanted them thrown away?"
+msgstr ""
+
+msgctxt "7900"
+msgid "Well... I didn't."
+msgstr ""
+
+msgctxt "7912"
+msgid ""
+"Look, I know you had good intentions, but you still shouldn't have done "
+"that without asking."
+msgstr ""
+
+msgctxt "7924"
+msgid "Guess I should go apologize to her..."
+msgstr ""
+
+msgctxt "7936"
+msgid "Probably."
+msgstr ""
+
+msgctxt "7948"
+msgid "Fine, I'll apologize, but I'm gonna tell her why I threw them out too, okay?"
+msgstr ""
+
+msgctxt "7960"
+msgid "Heh, that's perfectly fine."
+msgstr ""
+
+msgctxt "7972"
+msgid "Uggggh, seriously though! This is soooo dumb..."
+msgstr ""
+
+msgctxt "7984"
+msgid "You've still gotta do it."
+msgstr ""
+
+msgctxt "7996"
+msgid "Yeah... I know... And I think I learned a little something, too."
+msgstr ""
+
+msgctxt "8008"
+msgid "That's good."
+msgstr ""
+
+msgctxt "8020"
+msgid "Ohmigosh, ohmigosh, ohmigosh!"
+msgstr ""
+
+msgctxt "8032"
+msgid "What? Is everything okay?"
+msgstr ""
+
+msgctxt "8044"
+msgid "It's more than okay! I've almost saved up enough money to go on my trip!"
+msgstr ""
+
+msgctxt "8056"
+msgid "That's great."
+msgstr ""
+
+msgctxt "8068"
+msgid "Hehehe. ♪ Oh, man, what I am gonna, like, do with myself?"
+msgstr ""
+
+msgctxt "8080"
+msgid "Hmm?"
+msgstr ""
+
+msgctxt "8092"
+msgid ""
+"I mean, like, now that I have all that money in my bank account, I'm "
+"starting to feel, like, way different..."
+msgstr ""
+
+msgctxt "8104"
+msgid "Like, ohmigosh, it's actually happening, you know?"
+msgstr ""
+
+msgctxt "8116"
+msgid "Makes sense."
+msgstr ""
+
+msgctxt "8128"
+msgid "......"
+msgstr ""
+
+msgctxt "8140"
+msgid "Getting nervous?"
+msgstr ""
+
+msgctxt "8152"
+msgid "Maybe a little..."
+msgstr ""
+
+msgctxt "8164"
+msgid "Heh, I can only imagine why."
+msgstr ""
+
+msgctxt "8176"
+msgid "I kinda don't know what to do about it..."
+msgstr ""
+
+msgctxt "8188"
+msgid "Prepare yourself for the battle ahead."
+msgstr ""
+
+msgctxt "8200"
+msgid "What battle? You're hilarious, Kiryu-san. ♪"
+msgstr ""
+
+msgctxt "8212"
+msgid "...Man, I can't even laugh... I must be pretty nervous, huh?"
+msgstr ""
+
+msgctxt "8224"
+msgid "You sure sound like it. Hang in there."
+msgstr ""
+
+msgctxt "8236"
+msgid "All that planning must be tough."
+msgstr ""
+
+msgctxt "8248"
+msgid "Yeah... There's, like, so much I gotta do."
+msgstr ""
+
+msgctxt "8260"
+msgid "Such as?"
+msgstr ""
+
+msgctxt "8272"
+msgid "I mean, I do have a study abroad agency making all the big plans for me..."
+msgstr ""
+
+msgctxt "8284"
+msgid "I just don't know what I should bring with me, you know?"
+msgstr ""
+
+msgctxt "8296"
+msgid "You could pack light. Bring only what you need."
+msgstr ""
+
+msgctxt "8308"
+msgid ""
+"Oooh, that sounds good! Plus, I could get a whole bunch of fun stuff over "
+"there instead!"
+msgstr ""
+
+msgctxt "8320"
+msgid "See, that works."
+msgstr ""
+
+msgctxt "8332"
+msgid "...Thanks, Kiryu-san. <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "8344"
+msgid "What for?"
+msgstr ""
+
+msgctxt "8356"
+msgid ""
+"I feel sooo much better after talking it over with you. "
+"<Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "8368"
+msgid "Heh, well, good."
+msgstr ""
+
+msgctxt "8380"
+msgid "I'll miss you."
+msgstr ""
+
+msgctxt "8392"
+msgid "Me too..."
+msgstr ""
+
+msgctxt "8404"
+msgid "It's gonna suck, moving away from all my friends...  And you, Kiryu-san..."
+msgstr ""
+
+msgctxt "8416"
+msgid "......"
+msgstr ""
+
+msgctxt "8428"
+msgid "But I've gotta go, you know?"
+msgstr ""
+
+msgctxt "8440"
+msgid "Yeah..."
+msgstr ""
+
+msgctxt "8452"
+msgid "Hey, Kiryu-san, can I ask you a super weird question?"
+msgstr ""
+
+msgctxt "8464"
+msgid "Sure, go for it."
+msgstr ""
+
+msgctxt "8476"
+msgid "Like, have you ever like, really wanted to cry, but totally couldn't?"
+msgstr ""
+
+msgctxt "8488"
+msgid "...I'm not sure, to be honest."
+msgstr ""
+
+msgctxt "8500"
+msgid ""
+"I don't know what's up with me, like... Sometimes, I'm like right there, "
+"right on the verge of tears, but I just can't do it."
+msgstr ""
+
+msgctxt "8512"
+msgid "Maybe I'm afraid of letting all those feelings out or something..."
+msgstr ""
+
+msgctxt "8524"
+msgid "You don't have to hold back."
+msgstr ""
+
+msgctxt "8536"
+msgid "I know... I just, maybe I don't want to be honest with myself..."
+msgstr ""
+
+msgctxt "8548"
+msgid "It's possible."
+msgstr ""
+
+msgctxt "8560"
+msgid "But maybe you're just worrying too much about it."
+msgstr ""
+
+msgctxt "8572"
+msgid "...I guess I might be."
+msgstr ""
+
+msgctxt "8584"
+msgid "......"
+msgstr ""
+
+msgctxt "8596"
+msgid "Don't think so hard about it. Just let the tears flow."
+msgstr ""
+
+msgctxt "8608"
+msgid "......"
+msgstr ""
+
+msgctxt "8620"
+msgid "Tears will come out on their own, when the time is right."
+msgstr ""
+
+msgctxt "8632"
+msgid "...So, what, are you saying I'm like, forcing myself to cry?"
+msgstr ""
+
+msgctxt "8644"
+msgid "That's a possibility."
+msgstr ""
+
+msgctxt "8656"
+msgid ""
+"Huh... Maybe you're right. It's not like there are any rules about when or "
+"where you should cry, after all."
+msgstr ""
+
+msgctxt "8668"
+msgid "That's right."
+msgstr ""
+
+msgctxt "8680"
+msgid "...Thanks, Kiryu-san. <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "8692"
+msgid "No problem."
+msgstr ""
+
+msgctxt "8704"
+msgid "Are you forcing yourself to cry?"
+msgstr ""
+
+msgctxt "8716"
+msgid "...Like, making myself cry on purpose?"
+msgstr ""
+
+msgctxt "8728"
+msgid "Well, I'm not sure, but you said you wanted to cry, so..."
+msgstr ""
+
+msgctxt "8740"
+msgid "No, it's not like that, geez."
+msgstr ""
+
+msgctxt "8752"
+msgid "Oh..."
+msgstr ""
+
+msgctxt "8764"
+msgid ""
+"Hey, I know this is a random question, buuut, do you like it when girls "
+"fawn on you?"
+msgstr ""
+
+msgctxt "8776"
+msgid "Why do you ask?"
+msgstr ""
+
+msgctxt "8788"
+msgid "Uhh, well, I'm like, pretty terrible at being all affectionate like that..."
+msgstr ""
+
+msgctxt "8800"
+msgid "Oh, really? Heh."
+msgstr ""
+
+msgctxt "8812"
+msgid "Hey! What, you think it's like, funny, huh?"
+msgstr ""
+
+msgctxt "8824"
+msgid "Just a little."
+msgstr ""
+
+msgctxt "8836"
+msgid "Ugh, this was like, the one thing I didn't want to happen..."
+msgstr ""
+
+msgctxt "8848"
+msgid "Hahaha. You were saying?"
+msgstr ""
+
+msgctxt "8860"
+msgid ""
+"...So, like, for me, there's gotta be something I respect about a guy for "
+"me to fall for him..."
+msgstr ""
+
+msgctxt "8872"
+msgid ""
+"Wait, no, it's more like, I only end up falling for guys that I really "
+"respect..."
+msgstr ""
+
+msgctxt "8884"
+msgid "I think I get it."
+msgstr ""
+
+msgctxt "8896"
+msgid "I always end up pushing myself real hard in front of those kinds of guys."
+msgstr ""
+
+msgctxt "8908"
+msgid "Like, maybe I don't want to disappoint them or something?"
+msgstr ""
+
+msgctxt "8920"
+msgid "......"
+msgstr ""
+
+msgctxt "8932"
+msgid "Anyway, so like, I have a super hard time loving on guys I respect..."
+msgstr ""
+
+msgctxt "8944"
+msgid "What's wrong with that?"
+msgstr ""
+
+msgctxt "8956"
+msgid "You sure it's not a problem?"
+msgstr ""
+
+msgctxt "8968"
+msgid "I mean, that's just who you are, right?"
+msgstr ""
+
+msgctxt "8980"
+msgid "...Well, yeah."
+msgstr ""
+
+msgctxt "8992"
+msgid "You're right, but, you know..."
+msgstr ""
+
+msgctxt "9004"
+msgid "......"
+msgstr ""
+
+msgctxt "9016"
+msgid "Why don't you tell them about it, then?"
+msgstr ""
+
+msgctxt "9028"
+msgid ""
+"Wait, seriously? But wouldn't dudes be, like, totally weirded out about "
+"that?"
+msgstr ""
+
+msgctxt "9040"
+msgid "Would you be weirded out about it if a guy said that to you?"
+msgstr ""
+
+msgctxt "9052"
+msgid ""
+"Oh, huh... I get it. So maybe I shouldn't be super worried about it then, "
+"huh?"
+msgstr ""
+
+msgctxt "9064"
+msgid "That's right."
+msgstr ""
+
+msgctxt "9076"
+msgid "......"
+msgstr ""
+
+msgctxt "9088"
+msgid "Well, that was easy, huh?"
+msgstr ""
+
+msgctxt "9100"
+msgid "What's wrong with easy?"
+msgstr ""
+
+msgctxt "9112"
+msgid ""
+"Aw, man, like, what's even up with me today? Thanks, Kiryu-san. "
+"<Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "9124"
+msgid "Heh, no problem."
+msgstr ""
+
+msgctxt "9136"
+msgid "You don't have to force yourself. Just be the way you are."
+msgstr ""
+
+msgctxt "9148"
+msgid "...You know, when you put it that way, maybe I was, like, forcing myself."
+msgstr ""
+
+msgctxt "9160"
+msgid "I can't say I'm an expert on this sort of thing..."
+msgstr ""
+
+msgctxt "9172"
+msgid ""
+"But I think that whenever you feel worried or stressed, you're likely "
+"forcing yourself to do something you dislike."
+msgstr ""
+
+msgctxt "9184"
+msgid "...Huh, okay."
+msgstr ""
+
+msgctxt "9196"
+msgid "I mean, I think you're right. I just gotta think about it."
+msgstr ""
+
+msgctxt "9208"
+msgid "Okay."
+msgstr ""
+
+msgctxt "9220"
+msgid "Ohmigosh, Kiryu-san, I need you to chime in on this for me."
+msgstr ""
+
+msgctxt "9232"
+msgid "What's going on?"
+msgstr ""
+
+msgctxt "9244"
+msgid ""
+"So like, what do you think about girls that blow up a guy's phone after he "
+"breaks up with her?"
+msgstr ""
+
+msgctxt "9256"
+msgid "Wait, blow up as in explode?"
+msgstr ""
+
+msgctxt "9268"
+msgid ""
+"No, like... When a girl keeps texting and calling over and over, until you "
+"finally tell her to lay off."
+msgstr ""
+
+msgctxt "9280"
+msgid "Hmm..."
+msgstr ""
+
+msgctxt "9292"
+msgid "Hahaha! ♪ You're taking this like, so seriously! <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "9304"
+msgid "The whole reason I bring it up is because I am totally that kind of girl."
+msgstr ""
+
+msgctxt "9316"
+msgid "Really?"
+msgstr ""
+
+msgctxt "9328"
+msgid ""
+"Yeah! Like, even after they break up with me, I feel like we've still got "
+"this connection between us, and I can't give up on them like that, you know?"
+msgstr ""
+
+msgctxt "9340"
+msgid "Hmm... I can see that, I suppose."
+msgstr ""
+
+msgctxt "9352"
+msgid "My friends used to give me so much crap about it."
+msgstr ""
+
+msgctxt "9364"
+msgid ""
+"Like, \"Dude, that's kind of pathetic. Can't you take a hint? Leave him "
+"alone!\""
+msgstr ""
+
+msgctxt "9376"
+msgid ""
+"They don't complain about it anymore, though. They're just like, \"Well, "
+"that's Ranko for you.\""
+msgstr ""
+
+msgctxt "9388"
+msgid "Uh-huh."
+msgstr ""
+
+msgctxt "9400"
+msgid "What do you think about it, Kiryu-san?"
+msgstr ""
+
+msgctxt "9412"
+msgid "You should probably leave them alone."
+msgstr ""
+
+msgctxt "9424"
+msgid ""
+"What? But, like, how am I supposed to do that when I'm still super in love "
+"with them?"
+msgstr ""
+
+msgctxt "9436"
+msgid "Well, I guess that makes sense..."
+msgstr ""
+
+msgctxt "9448"
+msgid "Uhhh, you're being super confusing. Which is it?"
+msgstr ""
+
+msgctxt "9460"
+msgid "You should definitely leave them alone."
+msgstr ""
+
+msgctxt "9472"
+msgid "Hmmm..."
+msgstr ""
+
+msgctxt "9484"
+msgid "There are plenty of other fish in the sea."
+msgstr ""
+
+msgctxt "9496"
+msgid "Hehe! ♪ I guess that's true!"
+msgstr ""
+
+msgctxt "9508"
+msgid "But you and I are pretty different, huh..."
+msgstr ""
+
+msgctxt "9520"
+msgid "...I suppose."
+msgstr ""
+
+msgctxt "9532"
+msgid "I suppose it's not a problem, then."
+msgstr ""
+
+msgctxt "9544"
+msgid "Wait, what? Hold on..."
+msgstr ""
+
+msgctxt "9556"
+msgid "Kiryu-san, can you, like, make up your mind? Seriously..."
+msgstr ""
+
+msgctxt "9568"
+msgid "......"
+msgstr ""
+
+msgctxt "9580"
+msgid "I'm not really sure..."
+msgstr ""
+
+msgctxt "9592"
+msgid ""
+"What? But, like, how am I supposed to leave them alone when I'm still super "
+"in love with them?"
+msgstr ""
+
+msgctxt "9604"
+msgid "I can understand that, I suppose..."
+msgstr ""
+
+msgctxt "9616"
+msgid "......"
+msgstr ""
+
+msgctxt "9628"
+msgid "I know how I'd feel."
+msgstr ""
+
+msgctxt "9640"
+msgid "I'd be pretty worried about her, seeing as I'd still have feelings for her."
+msgstr ""
+
+msgctxt "9652"
+msgid "......"
+msgstr ""
+
+msgctxt "9664"
+msgid "But contacting her like that might make her unhappy..."
+msgstr ""
+
+msgctxt "9676"
+msgid "Kiryu-san, you're super cool, you know that? <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "9688"
+msgid "Heh, thanks."
+msgstr ""
+
+msgctxt "9700"
+msgid ""
+"I guess I've still got some growing up to do, huh? But that's pretty "
+"obvious. I'm like, barely out of my teens!"
+msgstr ""
+
+msgctxt "9712"
+msgid "......"
+msgstr ""
+
+msgctxt "9724"
+msgid "I guess it depends on the time and situation."
+msgstr ""
+
+msgctxt "9736"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "9748"
+msgid "Contacting him like that might end up hurting him."
+msgstr ""
+
+msgctxt "9760"
+msgid "Maybe... I guess you're right."
+msgstr ""
+
+msgctxt "9772"
+msgid "You don't have to give up. Just don't make it harder for the poor guy."
+msgstr ""
+
+msgctxt "9784"
+msgid "Kiryu-san, you're super cool, you know that? <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "9796"
+msgid "Heh, thanks."
+msgstr ""
+
+msgctxt "9808"
+msgid ""
+"I guess I've still got some growing up to do, huh? But that's pretty "
+"obvious. I'm like, barely out of my teens!"
+msgstr ""
+
+msgctxt "9820"
+msgid "......"
+msgstr ""
+
+msgctxt "9832"
+msgid ""
+"So the other night, my friend stayed over, but like, when I went to make "
+"dinner for her, she got all weirded out..."
+msgstr ""
+
+msgctxt "9844"
+msgid "Why? What happened?"
+msgstr ""
+
+msgctxt "9856"
+msgid "Like, she was totally not into what I made."
+msgstr ""
+
+msgctxt "9868"
+msgid "What'd you make?"
+msgstr ""
+
+msgctxt "9880"
+msgid "Just buttered squid natto!"
+msgstr ""
+
+msgctxt "9892"
+msgid "Buttered... squid... natto?"
+msgstr ""
+
+msgctxt "9904"
+msgid ""
+"Yeah! Like, you mix up a raw egg with the natto, then add some squid and "
+"green onions, and top it off with some butter."
+msgstr ""
+
+msgctxt "9916"
+msgid "...Wow."
+msgstr ""
+
+msgctxt "9928"
+msgid "Ohmigosh, your reactions are always, like, so hilarious! ♪"
+msgstr ""
+
+msgctxt "9940"
+msgid "I'm trying to cook more like my mom, so I came up with that little recipe. ♪"
+msgstr ""
+
+msgctxt "9952"
+msgid "Sounds delicious."
+msgstr ""
+
+msgctxt "9964"
+msgid "It is! At least, I think it's pretty good."
+msgstr ""
+
+msgctxt "9976"
+msgid "You should make some for me sometime."
+msgstr ""
+
+msgctxt "9988"
+msgid "Hehehe. <Color:7>⑮<Color:Default> Maybe I will. <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "10000"
+msgid "I bet you'd be super into it, Kiryu-san. <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "10012"
+msgid "I bet you're right."
+msgstr ""
+
+msgctxt "10024"
+msgid "I'd pass on it, too."
+msgstr ""
+
+msgctxt "10036"
+msgid "Seriously!? Come on, you haven't even tried it!"
+msgstr ""
+
+msgctxt "10048"
+msgid "Yeah, but I can imagine what it'd be like..."
+msgstr ""
+
+msgctxt "10060"
+msgid "Oh, please. You can't complain about it if you won't even give it a taste!"
+msgstr ""
+
+msgctxt "10072"
+msgid "......"
+msgstr ""
+
+msgctxt "10084"
+msgid "It's probably chock-full of energy."
+msgstr ""
+
+msgctxt "10096"
+msgid "Yeah, huh. I bet it's like, super energizing."
+msgstr ""
+
+msgctxt "10108"
+msgid "Sounds like the perfect appetizer for a long night with a lover."
+msgstr ""
+
+msgctxt "10120"
+msgid "...Wait, are you saying what I think you're saying?"
+msgstr ""
+
+msgctxt "10132"
+msgid "I think I am."
+msgstr ""
+
+msgctxt "10144"
+msgid ""
+"...Like, how did you even make the leap from cooking and natto to that? Now "
+"I'm all weirded out."
+msgstr ""
+
+msgctxt "10156"
+msgid "......"
+msgstr ""
+
+msgctxt "10168"
+msgid "So, what's your room like at home, Kiryu-san?"
+msgstr ""
+
+msgctxt "10180"
+msgid "Nothing too fancy. Just a Japanese-style room with a desk and a small table."
+msgstr ""
+
+msgctxt "10192"
+msgid ""
+"Wait seriously!? There's literally nothing else in your room? Like, what "
+"about decorations and stuff?"
+msgstr ""
+
+msgctxt "10204"
+msgid "I mean, I think I've got a bookshelf, too."
+msgstr ""
+
+msgctxt "10216"
+msgid "Hahaha! Ohmigosh, that's crazy! I'm like, almost impressed! ♪"
+msgstr ""
+
+msgctxt "10228"
+msgid "What's your room like, then?"
+msgstr ""
+
+msgctxt "10240"
+msgid "Well, people always say they're super impressed by my room."
+msgstr ""
+
+msgctxt "10252"
+msgid "Really?"
+msgstr ""
+
+msgctxt "10264"
+msgid "Yeah, my friends all tell me it looks some sexy love hotel room. ♪"
+msgstr ""
+
+msgctxt "10276"
+msgid "I mean, I totally know it does, but still."
+msgstr ""
+
+msgctxt "10288"
+msgid "...That does sound impressive."
+msgstr ""
+
+msgctxt "10300"
+msgid ""
+"I didn't do it on purpose, though. I just bought a whole bunch of stuff I "
+"liked, you know?"
+msgstr ""
+
+msgctxt "10312"
+msgid ""
+"Like, I've got red curtains and cushions, a panther print futon, a cute "
+"wooden table, and all the lights have these warm, orangey-yellow light "
+"bulbs."
+msgstr ""
+
+msgctxt "10324"
+msgid "They're not even bright enough for me to do my makeup in my room, haha."
+msgstr ""
+
+msgctxt "10336"
+msgid "How can you sleep in a room like that?"
+msgstr ""
+
+msgctxt "10348"
+msgid "Sometimes I can't. I get too horny."
+msgstr ""
+
+msgctxt "10360"
+msgid "Heh, that can't be good."
+msgstr ""
+
+msgctxt "10372"
+msgid "Ohmigosh, I'm just kidding! ♪ I can sleep totally fine."
+msgstr ""
+
+msgctxt "10384"
+msgid "Oh."
+msgstr ""
+
+msgctxt "10396"
+msgid ""
+"Red's a super good color for a room. It makes you feel warm, it helps you "
+"wake up in the morning, and when it's dark, it looks almost black, so it "
+"makes sleeping way easier."
+msgstr ""
+
+msgctxt "10408"
+msgid "I didn't know that."
+msgstr ""
+
+msgctxt "10420"
+msgid "I mean, it could be all made up. I have no idea! Hehehe."
+msgstr ""
+
+msgctxt "10432"
+msgid "...So it's all made up."
+msgstr ""
+
+msgctxt "10444"
+msgid "Yeah, but hey, everyone says it's like, perfect for me! ♪"
+msgstr ""
+
+msgctxt "10456"
+msgid "Heh, all right, then."
+msgstr ""
+
+msgctxt "10468"
+msgid "Sounds like a pretty sweet love hotel."
+msgstr ""
+
+msgctxt "10480"
+msgid "Hehehe. I'll let you use it, if you want."
+msgstr ""
+
+msgctxt "10492"
+msgid "...What?"
+msgstr ""
+
+msgctxt "10504"
+msgid ""
+"Hahahaha! Ohmigosh, you are sooooo cute when you blush like that! "
+"<Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "10516"
+msgid "Hey, come on..."
+msgstr ""
+
+msgctxt "10528"
+msgid "I bet it's really comfortable."
+msgstr ""
+
+msgctxt "10540"
+msgid "Ooooh, are you into that kinda thing, Kiryu-san?"
+msgstr ""
+
+msgctxt "10552"
+msgid "From what I hear, red is a good color for bedrooms. Helps you fall asleep."
+msgstr ""
+
+msgctxt "10564"
+msgid "Wait, seriously?"
+msgstr ""
+
+msgctxt "10576"
+msgid "I don't know if that's actually true, though."
+msgstr ""
+
+msgctxt "10588"
+msgid "What? Geez, you toootally had me fooled, too! <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "10600"
+msgid "Heh, sorry."
+msgstr ""
+
+msgctxt "10612"
+msgid "Ohmigosh, Kiryu-san!"
+msgstr ""
+
+msgctxt "10624"
+msgid "What's up?"
+msgstr ""
+
+msgctxt "10636"
+msgid "I'm, like, devastated!"
+msgstr ""
+
+msgctxt "10648"
+msgid ""
+"Everyone's been calling me \"fatty,\" or \"piggy,\" or \"one donut short of "
+"a fatpocalypse\"!"
+msgstr ""
+
+msgctxt "10660"
+msgid "Like, ugh! I can't believe it! Seriously!?"
+msgstr ""
+
+msgctxt "10672"
+msgid "It's okay."
+msgstr ""
+
+msgctxt "10684"
+msgid "I'd say you're almost too thin."
+msgstr ""
+
+msgctxt "10696"
+msgid "What!? I'm not thin, like, at all!"
+msgstr ""
+
+msgctxt "10708"
+msgid "Really? Well, I think you look fantastic."
+msgstr ""
+
+msgctxt "10720"
+msgid ""
+"Oh, stop it! <Color:7>⑮<Color:Default> That's totally not what I'm talking "
+"about, okay? <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "10732"
+msgid ""
+"I was just saying, it feels super awful when people make fun of you, you "
+"know?"
+msgstr ""
+
+msgctxt "10744"
+msgid "Heh. I get the picture."
+msgstr ""
+
+msgctxt "10756"
+msgid "You're not fat."
+msgstr ""
+
+msgctxt "10768"
+msgid "You really mean that, Kiryu-san?"
+msgstr ""
+
+msgctxt "10780"
+msgid "Yeah. I don't see any pudgy curves on you at all."
+msgstr ""
+
+msgctxt "10792"
+msgid "......"
+msgstr ""
+
+msgctxt "10804"
+msgid "...At all? Like, not even my boobs? Because they're small?"
+msgstr ""
+
+msgctxt "10816"
+msgid "What? I didn't mean that..."
+msgstr ""
+
+msgctxt "10828"
+msgid "Yeah, but it was, like, totally written all over your face!"
+msgstr ""
+
+msgctxt "10840"
+msgid "I wasn't trying to imply that, I swear."
+msgstr ""
+
+msgctxt "10852"
+msgid "What nice friends."
+msgstr ""
+
+msgctxt "10864"
+msgid "Seriously! What kind of person calls their friend a \"ham planet\"!?"
+msgstr ""
+
+msgctxt "10876"
+msgid "You must be pretty good friends if they feel comfortable calling you that."
+msgstr ""
+
+msgctxt "10888"
+msgid "I guess you're right. And we are pretty good friends. ♪"
+msgstr ""
+
+msgctxt "10900"
+msgid "Heh, good."
+msgstr ""
+
+msgctxt "10912"
+msgid "...Wait."
+msgstr ""
+
+msgctxt "10924"
+msgid ""
+"No, that's not right! Friends or not, doesn't it like, totally bug you when "
+"people make fun of you?"
+msgstr ""
+
+msgctxt "10936"
+msgid "Heh. Not really."
+msgstr ""
+
+msgctxt "10948"
+msgid "You know, there's like, something special about you, Kiryu-san!"
+msgstr ""
+
+msgctxt "10960"
+msgid "Huh? How so?"
+msgstr ""
+
+msgctxt "10972"
+msgid "I mean, I won't ask for any details into your past..."
+msgstr ""
+
+msgctxt "10984"
+msgid ""
+"...But it feels like you've been through a lot of tough times. You're "
+"nothing like the guys I know."
+msgstr ""
+
+msgctxt "10996"
+msgid "......"
+msgstr ""
+
+msgctxt "11008"
+msgid ""
+"And it's not like I'm trying to put them down, either. They have money, "
+"they have goals..."
+msgstr ""
+
+msgctxt "11020"
+msgid ""
+"In fact, every one of them is super driven. All of them have, like, stuff "
+"they wanna pursue, and I admire that."
+msgstr ""
+
+msgctxt "11032"
+msgid ""
+"But when you put them all in a room together, it's like... super "
+"overwhelming. Almost as if everyone's <Italic>trying</Italic> to stand out."
+msgstr ""
+
+msgctxt "11044"
+msgid ""
+"Meanwhile, here you are, living life your way without rubbing it in "
+"anyone's face."
+msgstr ""
+
+msgctxt "11056"
+msgid "Is that how you see me?"
+msgstr ""
+
+msgctxt "11068"
+msgid "Yeah, and you know something?"
+msgstr ""
+
+msgctxt "11080"
+msgid ""
+"I don't think I ever would've imagined meeting someone like you all the way "
+"out here, Kiryu-san. I'm super happy I did. ♪"
+msgstr ""
+
+msgctxt "11092"
+msgid "There's something special about you, too."
+msgstr ""
+
+msgctxt "11104"
+msgid "Huh!? Come on, I just, like, get the party started, that's all."
+msgstr ""
+
+msgctxt "11116"
+msgid "...Heh."
+msgstr ""
+
+msgctxt "11128"
+msgid "What?"
+msgstr ""
+
+msgctxt "11140"
+msgid "You're pretty quick to blush, aren't you?"
+msgstr ""
+
+msgctxt "11152"
+msgid "Wait, what!? Come on, you're like, really gonna make me blush now!"
+msgstr ""
+
+msgctxt "11164"
+msgid "I regret nothing."
+msgstr ""
+
+msgctxt "11176"
+msgid "I'm not that great."
+msgstr ""
+
+msgctxt "11188"
+msgid "Hehehe. ♪ I totally knew you were gonna say that."
+msgstr ""
+
+msgctxt "11200"
+msgid "Seriously, I'm not."
+msgstr ""
+
+msgctxt "11212"
+msgid ""
+"Hahaha! Ohmigosh, and now you're blushing!? You are just like, so cute, you "
+"know that? <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "11224"
+msgid "...Cute? You really think so? Huh."
+msgstr ""
+
+msgctxt "11236"
+msgid "If you fall for me, you'll only get burned."
+msgstr ""
+
+msgctxt "11248"
+msgid "...Kiryu-san."
+msgstr ""
+
+msgctxt "11260"
+msgid "What is it?"
+msgstr ""
+
+msgctxt "11272"
+msgid "Why are you always using those, like, super cheesy lines with me?"
+msgstr ""
+
+msgctxt "11284"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "11296"
+msgid ""
+"Like, if you're just gonna half-ass things with me, you might as well save "
+"it, you know?"
+msgstr ""
+
+msgctxt "11308"
+msgid "...Oh."
+msgstr ""
+
+msgctxt "11320"
+msgid "Ohmigosh, I totally gained a couple pounds! Ugh!"
+msgstr ""
+
+msgctxt "11332"
+msgid ""
+"It's, like, probably because I go out all the time... I've gotta get out to "
+"a spa and do some bedrock bathing!"
+msgstr ""
+
+msgctxt "11344"
+msgid "Bedrock bathing? What's that?"
+msgstr ""
+
+msgctxt "11356"
+msgid ""
+"So there are all these hot rocks, and they put a towel down on it, and you "
+"lay there for like 30 minutes."
+msgstr ""
+
+msgctxt "11368"
+msgid "Really? Does it help with weight gain?"
+msgstr ""
+
+msgctxt "11380"
+msgid ""
+"Yeah! Like, you sweat a whole bunch, and it helps burn off the fat! That's "
+"why you've gotta go bedrock bathing."
+msgstr ""
+
+msgctxt "11392"
+msgid "Men do that in the sauna."
+msgstr ""
+
+msgctxt "11404"
+msgid "The sauna? Oh, yeah, that makes sense."
+msgstr ""
+
+msgctxt "11416"
+msgid ""
+"Yeah, and right after you get out of the sauna, you've got to drink a nice, "
+"cold beer."
+msgstr ""
+
+msgctxt "11428"
+msgid ""
+"Wait, why would you do that? You just sweated off a whole bunch of water, "
+"drinking alcohol's just gonna make it way worse on you."
+msgstr ""
+
+msgctxt "11440"
+msgid "Maybe you're right..."
+msgstr ""
+
+msgctxt "11452"
+msgid "It's hard to hold off on going out."
+msgstr ""
+
+msgctxt "11464"
+msgid "I know, right!? It's soooo hard!"
+msgstr ""
+
+msgctxt "11476"
+msgid ""
+"See though, all I've gotta do is have a nice bedrock bath, then my body "
+"will be totally reset and I can go out and party hard again!"
+msgstr ""
+
+msgctxt "11488"
+msgid "Heh, looks like we've got ourselves a party animal here."
+msgstr ""
+
+msgctxt "11500"
+msgid "I'll join you."
+msgstr ""
+
+msgctxt "11512"
+msgid ""
+"You better be careful, Kiryu-san, 'cause you might, like, get totally "
+"hooked on how good it feels."
+msgstr ""
+
+msgctxt "11524"
+msgid "You've gotta go, hehehe."
+msgstr ""
+
+msgctxt "11536"
+msgid "I guess I do."
+msgstr ""
+
+msgctxt "11548"
+msgid ""
+"Ohmigosh, so yesterday, I ran into one of my friends from like, way back "
+"when I used to do those special events!"
+msgstr ""
+
+msgctxt "11560"
+msgid "Oh yeah?"
+msgstr ""
+
+msgctxt "11572"
+msgid "Yeah! It's been like, five years since I've seen her!"
+msgstr ""
+
+msgctxt "11584"
+msgid ""
+"You know what was even crazier? She was there with her husband and her "
+"toddler! Like, what!?"
+msgstr ""
+
+msgctxt "11596"
+msgid "Was it really that crazy?"
+msgstr ""
+
+msgctxt "11608"
+msgid "Yeah! She was pretty chill, too."
+msgstr ""
+
+msgctxt "11620"
+msgid "She's not the crazy party girl she was way back when..."
+msgstr ""
+
+msgctxt "11632"
+msgid "You miss that?"
+msgstr ""
+
+msgctxt "11644"
+msgid "I dunno if I miss it, but it's just weird, seeing her change like that..."
+msgstr ""
+
+msgctxt "11656"
+msgid "Everyone changes."
+msgstr ""
+
+msgctxt "11668"
+msgid "Yeah, I guess you're right..."
+msgstr ""
+
+msgctxt "11680"
+msgid "It's how you change that's important."
+msgstr ""
+
+msgctxt "11692"
+msgid ""
+"Whoa! Like, the way you said that just now, it totally clicked for me! "
+"<Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "11704"
+msgid "It wasn't that profound."
+msgstr ""
+
+msgctxt "11716"
+msgid ""
+"You don't have to be all shy about it. That was, like, a beautiful "
+"statement right there."
+msgstr ""
+
+msgctxt "11728"
+msgid "Heh. Well, thank you."
+msgstr ""
+
+msgctxt "11740"
+msgid "I know how that feels."
+msgstr ""
+
+msgctxt "11752"
+msgid "I knew you'd get it."
+msgstr ""
+
+msgctxt "11764"
+msgid "Yeah. There are a few guys I don't hang out with anymore because of it."
+msgstr ""
+
+msgctxt "11776"
+msgid "You too, huh... I guess we can never get back to the good old days."
+msgstr ""
+
+msgctxt "11788"
+msgid "No matter how much we miss them."
+msgstr ""
+
+msgctxt "11800"
+msgid "It kind of sucks getting older, huh?"
+msgstr ""
+
+msgctxt "11812"
+msgid "...Maybe a little."
+msgstr ""
+
+msgctxt "11824"
+msgid "But I think it's all up to how well you age."
+msgstr ""
+
+msgctxt "11836"
+msgid "You could be right about that!"
+msgstr ""
+
+msgctxt "11848"
+msgid ""
+"You give out some, like, really good advice, you know. "
+"<Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "11860"
+msgid "Heh, thanks."
+msgstr ""
+
+msgctxt "11872"
+msgid "It's all up to you."
+msgstr ""
+
+msgctxt "11884"
+msgid "......"
+msgstr ""
+
+msgctxt "11896"
+msgid "When your world changes, the people you meet will change, too."
+msgstr ""
+
+msgctxt "11908"
+msgid "You're right! That's like, totally it!"
+msgstr ""
+
+msgctxt "11920"
+msgid "I'm glad you get it."
+msgstr ""
+
+msgctxt "11932"
+msgid ""
+"Like, the way you said that just now, it totally clicked for me! "
+"<Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "11944"
+msgid "Well, it wasn't that profound."
+msgstr ""
+
+msgctxt "11956"
+msgid ""
+"No, like, it's all about how I change myself, right? I've gotta live a life "
+"where I won't let anything get me down!"
+msgstr ""
+
+msgctxt "11968"
+msgid "There you go."
+msgstr ""
+
+msgctxt "11980"
+msgid "Kamurocho's, like, so awesome..."
+msgstr ""
+
+msgctxt "11992"
+msgid "Where's this coming from?"
+msgstr ""
+
+msgctxt "12004"
+msgid ""
+"I dunno! Just, like, no matter how you look at it, it's not something you'd "
+"describe as pretty or beautiful."
+msgstr ""
+
+msgctxt "12016"
+msgid "Heh, you're not wrong about that."
+msgstr ""
+
+msgctxt "12028"
+msgid "Not too long ago, I would like, totally avoid going anywhere near Kamurocho."
+msgstr ""
+
+msgctxt "12040"
+msgid "But after working here, I feel like I've learned a lot more about the world."
+msgstr ""
+
+msgctxt "12052"
+msgid "You can learn about the world in other places, too."
+msgstr ""
+
+msgctxt "12064"
+msgid ""
+"I mean, sure, but like... This town is kind of mysterious, you know what I "
+"mean?"
+msgstr ""
+
+msgctxt "12076"
+msgid "Maybe that's because it's gone through a lot of pretty severe changes."
+msgstr ""
+
+msgctxt "12088"
+msgid "Yeah..."
+msgstr ""
+
+msgctxt "12100"
+msgid "I definitely feel that."
+msgstr ""
+
+msgctxt "12112"
+msgid "All the people and places here look like they've been through a lot."
+msgstr ""
+
+msgctxt "12124"
+msgid "Right. There are some that push back against the change, though."
+msgstr ""
+
+msgctxt "12136"
+msgid "Ohhh... Huh."
+msgstr ""
+
+msgctxt "12148"
+msgid "Want to go see those places with me sometime?"
+msgstr ""
+
+msgctxt "12160"
+msgid " Wait, whaaat!? Hell yeah, I'll go! <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "12172"
+msgid "Sounds like a plan, then."
+msgstr ""
+
+msgctxt "12184"
+msgid "You're right."
+msgstr ""
+
+msgctxt "12196"
+msgid "I've learned a lot about the world from Kamurocho, too."
+msgstr ""
+
+msgctxt "12208"
+msgid "Oooh... I'm kind of, like, scared to ask you about it."
+msgstr ""
+
+msgctxt "12220"
+msgid "It's probably best if you didn't."
+msgstr ""
+
+msgctxt "12232"
+msgid ""
+"Aww, but you know when you say that, it only makes me want to ask you more! "
+"♪"
+msgstr ""
+
+msgctxt "12244"
+msgid "Heh, I bet it does."
+msgstr ""
+
+msgctxt "12256"
+msgid "You can't survive here without that mindset."
+msgstr ""
+
+msgctxt "12268"
+msgid "Huh!? Wait, is this place, like, that scary!?"
+msgstr ""
+
+msgctxt "12280"
+msgid "Heh, who knows?"
+msgstr ""
+
+msgctxt "12292"
+msgid "What? What? Come on, you haaave to tell me!"
+msgstr ""
+
+msgctxt "12304"
+msgid "Just keep doing what you're doing and you won't run into trouble. Much."
+msgstr ""
+
+msgctxt "12316"
+msgid "Ugh, now I'm kinda scared to be here..."
+msgstr ""
+
+msgctxt "12328"
+msgid "...Maybe I took that a little too far."
+msgstr ""
+
+msgctxt "12340"
+msgid "Hey, remember that girl we ran into when we were hanging out?"
+msgstr ""
+
+msgctxt "12352"
+msgid "Yeah, what about her?"
+msgstr ""
+
+msgctxt "12364"
+msgid ""
+"Well, I haven't been able to get in touch with her at all ever since then. "
+"I'm, like, kind of getting worried about her..."
+msgstr ""
+
+msgctxt "12376"
+msgid "......"
+msgstr ""
+
+msgctxt "12388"
+msgid ""
+"She's the same girl from that one story I told you, you know, the one where "
+"I threw out her stuff without asking?"
+msgstr ""
+
+msgctxt "12400"
+msgid "...Ah."
+msgstr ""
+
+msgctxt "12412"
+msgid ""
+"She hasn't called or texted me at all, and I've called and texted her like, "
+"a ton..."
+msgstr ""
+
+msgctxt "12424"
+msgid "I hope she's okay..."
+msgstr ""
+
+msgctxt "12436"
+msgid "I hope so, too."
+msgstr ""
+
+msgctxt "12448"
+msgid ""
+"Yeah. I mean, sure, she's kind of a slob, but she's, like, really fun to "
+"hang out with, and just a nice person overall."
+msgstr ""
+
+msgctxt "12460"
+msgid "She's also saving up to go to Istanbul with me..."
+msgstr ""
+
+msgctxt "12472"
+msgid ""
+"I always worry about her though. Like, if I left her alone somewhere, she'd "
+"probably get suckered into something by some creepy guy."
+msgstr ""
+
+msgctxt "12484"
+msgid "Just let me know if I can help."
+msgstr ""
+
+msgctxt "12496"
+msgid "Thanks, Kiryu-san..."
+msgstr ""
+
+msgctxt "12508"
+msgid "No problem."
+msgstr ""
+
+msgctxt "12520"
+msgid ""
+"I'm really lucky to have you in my life, Kiryu-san. "
+"<Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "12532"
+msgid "I could say the same."
+msgstr ""
+
+msgctxt "12544"
+msgid "If there's any way I can help, you let me know, all right?"
+msgstr ""
+
+msgctxt "12556"
+msgid ""
+"Thanks, Kiryu-san. <Color:7>⑮<Color:Default> That makes me feel like, a "
+"whole lot better..."
+msgstr ""
+
+msgctxt "12568"
+msgid "I'm happy to help."
+msgstr ""
+
+msgctxt "12580"
+msgid "You know..."
+msgstr ""
+
+msgctxt "12592"
+msgid ""
+"She might be kind of a slob, but she's, like, really fun to hang out with, "
+"and just a nice person overall."
+msgstr ""
+
+msgctxt "12604"
+msgid "She's also saving up to go to Istanbul with me..."
+msgstr ""
+
+msgctxt "12616"
+msgid ""
+"I always worry about her though, like, if I left her alone somewhere, she'd "
+"probably get suckered into something by some creepy guy."
+msgstr ""
+
+msgctxt "12628"
+msgid "That's not good..."
+msgstr ""
+
+msgctxt "12640"
+msgid "Maybe you should stop by her place."
+msgstr ""
+
+msgctxt "12652"
+msgid "Yeah... I should go check up on her, huh?"
+msgstr ""
+
+msgctxt "12664"
+msgid "She's also saving up to go to Istanbul with me..."
+msgstr ""
+
+msgctxt "12676"
+msgid "Man, Kiryu-san, I'm so sorry."
+msgstr ""
+
+msgctxt "12688"
+msgid "Sorry for what?"
+msgstr ""
+
+msgctxt "12700"
+msgid "I mean, you went out of your way to come hang out with me, and I'm like..."
+msgstr ""
+
+msgctxt "12712"
+msgid "Don't worry about it. Everyone has off days."
+msgstr ""
+
+msgctxt "12724"
+msgid "Ohmigosh, you can't just say that!"
+msgstr ""
+
+msgctxt "12736"
+msgid "Huh? Why not?"
+msgstr ""
+
+msgctxt "12748"
+msgid "It's just... When you say stuff like that, it really hits home, you know?"
+msgstr ""
+
+msgctxt "12760"
+msgid "Oh..."
+msgstr ""
+
+msgctxt "12772"
+msgid ""
+"Yeah. But for real, though, I'm really lucky to have you in my life, "
+"Kiryu-san."
+msgstr ""
+
+msgctxt "12784"
+msgid "I could say the same."
+msgstr ""
+
+msgctxt "12796"
+msgid ""
+"So, ever since I met you, Kiryu-san, I've started thinking about, like, a "
+"whole lot of things."
+msgstr ""
+
+msgctxt "12808"
+msgid "Oh?"
+msgstr ""
+
+msgctxt "12820"
+msgid ""
+"You know how I like, get super annoyed when things aren't totally black and "
+"white? And how, sometimes, that annoys me so much that I just make "
+"decisions for people?"
+msgstr ""
+
+msgctxt "12832"
+msgid ""
+"Everyone always lets me get away with it 'cause they're like, \"Oh, that's "
+"just Ranko,\" and I'm super grateful for that, right?"
+msgstr ""
+
+msgctxt "12844"
+msgid "Right..."
+msgstr ""
+
+msgctxt "12856"
+msgid ""
+"And like, that's great and all, but lately, I've been thinking a whole lot "
+"about you and the stuff you say."
+msgstr ""
+
+msgctxt "12868"
+msgid "What do you mean?"
+msgstr ""
+
+msgctxt "12880"
+msgid "So, like, I'm being serious here, okay?"
+msgstr ""
+
+msgctxt "12892"
+msgid ""
+"Like, whenever I want something to be black and white, or come down hard on "
+"someone, you're always like..."
+msgstr ""
+
+msgctxt "12904"
+msgid ""
+"\"Sometimes things aren't entirely black and white, they're gray. Think "
+"about it.\""
+msgstr ""
+
+msgctxt "12916"
+msgid "......"
+msgstr ""
+
+msgctxt "12928"
+msgid "Did I steal your heart already? That was fast."
+msgstr ""
+
+msgctxt "12940"
+msgid ""
+"Hahaha! ♪ Oh my gosh, Kiryu-san, it's soooo funny when you say stuff like "
+"that! <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "12952"
+msgid "......"
+msgstr ""
+
+msgctxt "12964"
+msgid "C'mon, you don't have to get all shy about it!"
+msgstr ""
+
+msgctxt "12976"
+msgid "Oh, I'm not."
+msgstr ""
+
+msgctxt "12988"
+msgid "Geez, you can be so hard to read sometimes... I love it."
+msgstr ""
+
+msgctxt "13000"
+msgid "......"
+msgstr ""
+
+msgctxt "13012"
+msgid "Should I stop giving you advice?"
+msgstr ""
+
+msgctxt "13024"
+msgid "...Yeah."
+msgstr ""
+
+msgctxt "13036"
+msgid "I'm sorry if I ever bothered you with it."
+msgstr ""
+
+msgctxt "13048"
+msgid "Pfft... hahaha!"
+msgstr ""
+
+msgctxt "13060"
+msgid ""
+"Ohmigosh, I'm just kidding! <Color:7>⑮<Color:Default> You are so funny! "
+"<Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "13072"
+msgid "...Really?"
+msgstr ""
+
+msgctxt "13084"
+msgid ""
+"It's totally fine, duh! You teach me all sort of good stuff. I always feel "
+"way better after you give me advice. <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "13096"
+msgid "...Well, I'm glad."
+msgstr ""
+
+msgctxt "13108"
+msgid "Is that how I always say it?"
+msgstr ""
+
+msgctxt "13120"
+msgid "Well, no, you do say other stuff..."
+msgstr ""
+
+msgctxt "13132"
+msgid "What other stuff do I say?"
+msgstr ""
+
+msgctxt "13144"
+msgid ""
+"Ohmigosh, Kiryu-san, I can't like, tell you all that! It's waaaay too "
+"embarrassing!"
+msgstr ""
+
+msgctxt "13156"
+msgid "Come on, what else do I tell you?"
+msgstr ""
+
+msgctxt "13168"
+msgid "Hahaha! ♪ You're sooo funny! <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "13180"
+msgid ""
+"I'm really grateful you give me that kind of advice, though. I always learn "
+"stuff from you. <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "13192"
+msgid "All right, then..."
+msgstr ""
+
+msgctxt "13204"
+msgid ""
+"So like, I've been thinking about Istanbul a lot lately. I wonder what it's "
+"like..."
+msgstr ""
+
+msgctxt "13216"
+msgid "...You haven't researched it at all?"
+msgstr ""
+
+msgctxt "13228"
+msgid ""
+"I mean, I did, but there are soooo many things I won't even know until I "
+"get there..."
+msgstr ""
+
+msgctxt "13240"
+msgid "Yeah, I bet."
+msgstr ""
+
+msgctxt "13252"
+msgid ""
+"I know there's no point in stressing out about it, but I still like, wanna "
+"imagine what it's like, you know?"
+msgstr ""
+
+msgctxt "13264"
+msgid "Makes sense."
+msgstr ""
+
+msgctxt "13276"
+msgid "I can't believe I'm actually going..."
+msgstr ""
+
+msgctxt "13288"
+msgid ""
+"At first I was just like, \"Oh, I'll go someday,\" but then I got all "
+"serious about it..."
+msgstr ""
+
+msgctxt "13300"
+msgid "That's how it happens."
+msgstr ""
+
+msgctxt "13312"
+msgid "I love being active and dancing, but maybe I'm not that athletic, you know?"
+msgstr ""
+
+msgctxt "13324"
+msgid ""
+"Like, I was such a crappy dancer when I started. I got super upset about "
+"it, too!"
+msgstr ""
+
+msgctxt "13336"
+msgid ""
+"Hehe. But because I got so upset about it, I got even more serious about "
+"it, and before I knew it, I was ready to go pro!"
+msgstr ""
+
+msgctxt "13348"
+msgid "You must really hate losing."
+msgstr ""
+
+msgctxt "13360"
+msgid "Yeah! I hate losing, or being bad at something..."
+msgstr ""
+
+msgctxt "13372"
+msgid "Nothing wrong with that."
+msgstr ""
+
+msgctxt "13384"
+msgid ""
+"When you feel that strongly about something, you'll be okay, no matter "
+"where you end up."
+msgstr ""
+
+msgctxt "13396"
+msgid "Yeah, you're right..."
+msgstr ""
+
+msgctxt "13408"
+msgid "Looks like you've calmed down a little."
+msgstr ""
+
+msgctxt "13420"
+msgid ""
+"Oh, yeah, I'm always like this. I have to get super, super nervous first "
+"before I end up chilling out."
+msgstr ""
+
+msgctxt "13432"
+msgid "Heh, whatever works."
+msgstr ""
+
+msgctxt "13444"
+msgid "Good luck in Istanbul."
+msgstr ""
+
+msgctxt "13456"
+msgid ""
+"Thanks. I'm gonna dance my butt off over there! Not, like, literally, "
+"though."
+msgstr ""
+
+msgctxt "13468"
+msgid ""
+"My friends are being sooo mean about it, though! They're all taking bets as "
+"to like, how long it'll take for me to give up and come back!"
+msgstr ""
+
+msgctxt "13480"
+msgid "Really? That's cold."
+msgstr ""
+
+msgctxt "13492"
+msgid ""
+"Like, tons of them are betting that I'm gonna come off the plane in tears. "
+"What's their deal!?"
+msgstr ""
+
+msgctxt "13504"
+msgid "I don't think they're rooting for you to fail..."
+msgstr ""
+
+msgctxt "13516"
+msgid ""
+"I think they're going to miss you, and are just hoping you'll come back "
+"soon."
+msgstr ""
+
+msgctxt "13528"
+msgid "......"
+msgstr ""
+
+msgctxt "13540"
+msgid ""
+"Ohmigosh, sometimes you just like, open your mouth, and say stuff that "
+"makes me wanna cry!"
+msgstr ""
+
+msgctxt "13552"
+msgid "Really?"
+msgstr ""
+
+msgctxt "13564"
+msgid ""
+"Geez. If they really are gonna miss me that much, I might really cry from "
+"joy..."
+msgstr ""
+
+msgctxt "13576"
+msgid "So they're happy tears. Good."
+msgstr ""
+
+msgctxt "13588"
+msgid "If it gets tough over there, you can always come back."
+msgstr ""
+
+msgctxt "13600"
+msgid "Uh, I'm so not coming back! I'm not gonna let Istanbul beat me!"
+msgstr ""
+
+msgctxt "13612"
+msgid "Heh, don't force yourself to go if you don't want to."
+msgstr ""
+
+msgctxt "13624"
+msgid "But I do! And I'm like, not forcing myself at all!"
+msgstr ""
+
+msgctxt "13636"
+msgid "Good. I can feel your resolve."
+msgstr ""
+
+msgctxt "13648"
+msgid ""
+"...Thanks, Kiryu-san. <Color:7>⑮<Color:Default> You're always like, so "
+"supportive of me..."
+msgstr ""
+
+msgctxt "13660"
+msgid "Good luck over there."
+msgstr ""
+
+msgctxt "13672"
+msgid "Kiryu-san..."
+msgstr ""
+
+msgctxt "13684"
+msgid "What's up?"
+msgstr ""
+
+msgctxt "13696"
+msgid "I'm gonna be gone for like, two or three years, maybe even longer..."
+msgstr ""
+
+msgctxt "13708"
+msgid "When I come back to Japan, will you come see me again?"
+msgstr ""
+
+msgctxt "13720"
+msgid "Of course."
+msgstr ""
+
+msgctxt "13732"
+msgid "Oh, please... You're just saying that, aren't you?"
+msgstr ""
+
+msgctxt "13744"
+msgid "Not at all. I can't wait to see how you grow and mature."
+msgstr ""
+
+msgctxt "13756"
+msgid "Oh Kiryu-san..."
+msgstr ""
+
+msgctxt "13768"
+msgid "I'm really looking forward to it."
+msgstr ""
+
+msgctxt "13780"
+msgid "Who knows."
+msgstr ""
+
+msgctxt "13792"
+msgid "Wait, what do you mean, \"who knows\"?"
+msgstr ""
+
+msgctxt "13804"
+msgid ""
+"If you think I deserve to spend time with such an incredible woman, then "
+"perhaps."
+msgstr ""
+
+msgctxt "13816"
+msgid ""
+"Hehehe. Ohmigosh, Kiryu-san, you're like, so romantic. "
+"<Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "13828"
+msgid "If any other guy said that to me, I'd be suuuuper creeped out. ♪"
+msgstr ""
+
+msgctxt "13840"
+msgid "I'm looking forward to seeing how you grow and mature."
+msgstr ""
+
+msgctxt "13852"
+msgid "Hehehe. Well, thanks. <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "13864"
+msgid "You're always welcome."
+msgstr ""
+
+msgctxt "13876"
+msgid "I'll go see you in Istanbul."
+msgstr ""
+
+msgctxt "13888"
+msgid ""
+"Wait, are you serious? I didn't think you'd take my question in that "
+"direction..."
+msgstr ""
+
+msgctxt "13900"
+msgid "Huh? What do you mean?"
+msgstr ""
+
+msgctxt "13912"
+msgid "I mean, I was being pretty serious when I asked that."
+msgstr ""
+
+msgctxt "13924"
+msgid "So if you're just saying that and not being serious about it, well..."
+msgstr ""
+
+msgctxt "13936"
+msgid "......"
+msgstr ""
+
+msgctxt "13948"
+msgid "So I talked to my mom over the phone yesterday."
+msgstr ""
+
+msgctxt "13960"
+msgid "Yeah? How is she?"
+msgstr ""
+
+msgctxt "13972"
+msgid ""
+"She's fine, but she's like, worried I'll get sick or something in Istanbul, "
+"so she told me to take care of myself and not push myself too hard."
+msgstr ""
+
+msgctxt "13984"
+msgid "Well, she does have a point."
+msgstr ""
+
+msgctxt "13996"
+msgid ""
+"So anyway, as we were talking, we ended up reminiscing about stuff that "
+"happened like, a long time ago."
+msgstr ""
+
+msgctxt "14008"
+msgid "...Like what?"
+msgstr ""
+
+msgctxt "14020"
+msgid ""
+"Like, how when I was in middle school, I always skipped class, and how some "
+"days, I didn't even come home."
+msgstr ""
+
+msgctxt "14032"
+msgid ""
+"But whenever I did decide to go back home, my mom would always make me "
+"dinner. She wouldn't even ask anything... She'd just say, \"Welcome home.\""
+msgstr ""
+
+msgctxt "14044"
+msgid ""
+"She told me it was because she trusted me. That's why she didn't, like, ask "
+"me why I was so late."
+msgstr ""
+
+msgctxt "14056"
+msgid "But I bet my mom was trying super hard not to say anything..."
+msgstr ""
+
+msgctxt "14068"
+msgid "......"
+msgstr ""
+
+msgctxt "14080"
+msgid "I always wanted to be just like my mom."
+msgstr ""
+
+msgctxt "14092"
+msgid ""
+"She was sooo cool back in the day. I do my makeup the same way she did "
+"hers, and I even use the same brand of red lipstick that she likes to use."
+msgstr ""
+
+msgctxt "14104"
+msgid "She's, like, the perfect woman. <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "14116"
+msgid "I'm nothing like her, though..."
+msgstr ""
+
+msgctxt "14128"
+msgid "You aren't?"
+msgstr ""
+
+msgctxt "14140"
+msgid "No..."
+msgstr ""
+
+msgctxt "14152"
+msgid "Is that why you're down in the dumps?"
+msgstr ""
+
+msgctxt "14164"
+msgid "Wait, what!?"
+msgstr ""
+
+msgctxt "14176"
+msgid "Because you aren't anything like the person you want to be?"
+msgstr ""
+
+msgctxt "14188"
+msgid "...Well, maybe."
+msgstr ""
+
+msgctxt "14200"
+msgid "I'm sure your mom is an amazing woman..."
+msgstr ""
+
+msgctxt "14212"
+msgid "...But you're a pretty amazing woman yourself."
+msgstr ""
+
+msgctxt "14224"
+msgid "Hehehe. <Color:7>⑮<Color:Default> Oh, come on..."
+msgstr ""
+
+msgctxt "14236"
+msgid "Geez, you're getting me all blushy."
+msgstr ""
+
+msgctxt "14248"
+msgid "I don't regret a thing."
+msgstr ""
+
+msgctxt "14260"
+msgid "You should introduce me to her."
+msgstr ""
+
+msgctxt "14272"
+msgid "Ohmigosh, really!? Are you serious!?"
+msgstr ""
+
+msgctxt "14284"
+msgid "......"
+msgstr ""
+
+msgctxt "14296"
+msgid "You sure sound happy."
+msgstr ""
+
+msgctxt "14308"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "14320"
+msgid "I mean, whenever you talk about your mom, you always smile so fondly."
+msgstr ""
+
+msgctxt "14332"
+msgid "Hehehe. <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "14344"
+msgid "Now that was pretty cute."
+msgstr ""
+
+msgctxt "14356"
+msgid ""
+"Wait, what!? Ohmigosh, Kiryu-san, stop it! You're gonna get me all blushy! "
+"<Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "14368"
+msgid "I don't regret a thing."
+msgstr ""
+
+msgctxt "14380"
+msgid ""
+"So there's like, this theory that belly dancing was a special dance that "
+"like, gave good fortune to your descendants or something."
+msgstr ""
+
+msgctxt "14392"
+msgid "Oh, really?"
+msgstr ""
+
+msgctxt "14404"
+msgid "I mean, nobody knows where belly dancing really started."
+msgstr ""
+
+msgctxt "14416"
+msgid ""
+"Some people say it's probably ancient Egypt, where they did that kind of "
+"dance at weddings and stuff."
+msgstr ""
+
+msgctxt "14428"
+msgid "Huh."
+msgstr ""
+
+msgctxt "14440"
+msgid ""
+"Yeah. And to pray for good fortune for her children and grandchildren, the "
+"bride would put her hand on the dancer's swaying belly."
+msgstr ""
+
+msgctxt "14452"
+msgid "Interesting..."
+msgstr ""
+
+msgctxt "14464"
+msgid "Don't you think that's like, sooo incredibly cool? <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "14476"
+msgid "Definitely."
+msgstr ""
+
+msgctxt "14488"
+msgid ""
+"I mean, I know that everything has a deep meaning one way or another, but "
+"it's kind of crazy, don't you think?"
+msgstr ""
+
+msgctxt "14500"
+msgid "Like, maybe we should understand all this stuff a little bit better, right?"
+msgstr ""
+
+msgctxt "14512"
+msgid "I feel that."
+msgstr ""
+
+msgctxt "14524"
+msgid "Hehehe. ♪ Ohmigosh, I'm like, so much more excited about this now!"
+msgstr ""
+
+msgctxt "14536"
+msgid "Hopefully it helps you dance better."
+msgstr ""
+
+msgctxt "14548"
+msgid ""
+"Me too. It's like, everything that's super beautiful in this world always "
+"has some strong emotions attached to it. Don't you think?"
+msgstr ""
+
+msgctxt "14560"
+msgid "Sure, I get that."
+msgstr ""
+
+msgctxt "14572"
+msgid ""
+"When I come back to Japan, I want you to come see me dance. Okay? "
+"<Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "14584"
+msgid "Sure. Let's make it happen."
+msgstr ""
+
+msgctxt "14596"
+msgid "That's so wonderful."
+msgstr ""
+
+msgctxt "14608"
+msgid "I know, right? <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "14620"
+msgid "You're really wonderful, too."
+msgstr ""
+
+msgctxt "14632"
+msgid "Hehehe, of course you'd say that! ♪"
+msgstr ""
+
+msgctxt "14644"
+msgid "I should've known you were looking to run some game at me."
+msgstr ""
+
+msgctxt "14656"
+msgid "Heh. Couldn't help it."
+msgstr ""
+
+msgctxt "14668"
+msgid ""
+"When I come back to Japan, I want you to come see me dance. Okay? "
+"<Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "14680"
+msgid "Sure. Let's make it happen."
+msgstr ""
+
+msgctxt "14692"
+msgid "A dance for your descendants..."
+msgstr ""
+
+msgctxt "14704"
+msgid "Yeah..."
+msgstr ""
+
+msgctxt "14716"
+msgid "It's got this like, super long history! Isn't that cool!?"
+msgstr ""
+
+msgctxt "14728"
+msgid "Yeah."
+msgstr ""
+
+msgctxt "14740"
+msgid "Hey, Kiryu-san?"
+msgstr ""
+
+msgctxt "14752"
+msgid "What is it?"
+msgstr ""
+
+msgctxt "14764"
+msgid ""
+"When I come back to Japan, I want you to come see me dance. Okay? "
+"<Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "14776"
+msgid "Sure. Sounds good to me."
+msgstr ""
+
+msgctxt "14788"
+msgid ""
+"Hey, remember that time we talked about being super depressed the day after "
+"drinking a lot?"
+msgstr ""
+
+msgctxt "14800"
+msgid "Yeah, what about it?"
+msgstr ""
+
+msgctxt "14812"
+msgid "So my friend just told me alcohol's a mood depressant!"
+msgstr ""
+
+msgctxt "14824"
+msgid "Really?"
+msgstr ""
+
+msgctxt "14836"
+msgid "Yeah! So it naturally has this downer effect, right? Isn't that crazy!?"
+msgstr ""
+
+msgctxt "14848"
+msgid "She also said that caffeine's just the opposite⑬it brings you up."
+msgstr ""
+
+msgctxt "14860"
+msgid "That makes sense."
+msgstr ""
+
+msgctxt "14872"
+msgid "Yeah. I think I'm starting to like, get it."
+msgstr ""
+
+msgctxt "14884"
+msgid "Get what?"
+msgstr ""
+
+msgctxt "14896"
+msgid "So, like, alcohol limits your brain activity and how your body moves, right?"
+msgstr ""
+
+msgctxt "14908"
+msgid ""
+"So when something funny happens, you start laughing and just enjoy the "
+"moment."
+msgstr ""
+
+msgctxt "14920"
+msgid "Okay..."
+msgstr ""
+
+msgctxt "14932"
+msgid ""
+"You're freed from these... mental restraints, I guess, so you feel a lot "
+"more relaxed."
+msgstr ""
+
+msgctxt "14944"
+msgid ""
+"And when you sober up, you have to go back to your normal way of thinking, "
+"and life gets all boring again. That's all there is to drinking."
+msgstr ""
+
+msgctxt "14956"
+msgid "Makes sense to me."
+msgstr ""
+
+msgctxt "14968"
+msgid ""
+"Right? I thought the science behind it was gonna be like, way more "
+"complicated..."
+msgstr ""
+
+msgctxt "14980"
+msgid "Heh, seriously."
+msgstr ""
+
+msgctxt "14992"
+msgid ""
+"But now that I know how it all works, it feels like none of it really "
+"matters..."
+msgstr ""
+
+msgctxt "15004"
+msgid "What's wrong with knowing how something works?"
+msgstr ""
+
+msgctxt "15016"
+msgid "...Nothing, I guess."
+msgstr ""
+
+msgctxt "15028"
+msgid "Okay then."
+msgstr ""
+
+msgctxt "15040"
+msgid ""
+"That might be true, but drinking is more than just a chemical reaction. "
+"It's an experience."
+msgstr ""
+
+msgctxt "15052"
+msgid "Hmm..."
+msgstr ""
+
+msgctxt "15064"
+msgid "I mean, I kinda get what you're trying to say."
+msgstr ""
+
+msgctxt "15076"
+msgid ""
+"I'm saying that your way takes all the fun out of drinking. Where's the "
+"romance?"
+msgstr ""
+
+msgctxt "15088"
+msgid "Hehehe. Romance? Seriously? You are sooo funny. ♪"
+msgstr ""
+
+msgctxt "15100"
+msgid ""
+"Well, despite my newfound knowledge, I admit that drinking with people is "
+"still super fun."
+msgstr ""
+
+msgctxt "15112"
+msgid "Yes it is."
+msgstr ""
+
+msgctxt "15124"
+msgid "Then I guess everything's fine, huh?"
+msgstr ""
+
+msgctxt "15136"
+msgid "Sounds like it."
+msgstr ""
+
+msgctxt "15148"
+msgid "Case closed, then?"
+msgstr ""
+
+msgctxt "15160"
+msgid ""
+"Yeah, once I understood why it happened, everything just like, resolved "
+"itself."
+msgstr ""
+
+msgctxt "15172"
+msgid ""
+"I'm kinda relieved that my depressing morning hangovers is the booze and "
+"not me."
+msgstr ""
+
+msgctxt "15184"
+msgid "Seriously."
+msgstr ""
+
+msgctxt "15196"
+msgid ""
+"But it's not like we're not gonna stop drinking together or anything "
+"because of that. The magic's still there!"
+msgstr ""
+
+msgctxt "15208"
+msgid "Heh, you got that right."
+msgstr ""
+
+msgctxt "15220"
+msgid ""
+"Now that we know why we end up feeling like that, maybe we can enjoy our "
+"drinks a little easier."
+msgstr ""
+
+msgctxt "15232"
+msgid "...Yeah."
+msgstr ""
+
+msgctxt "15244"
+msgid "Normal Conversation 29"
+msgstr ""
+
+msgctxt "15256"
+msgid "Normal Conversation 30"
+msgstr ""
+
+msgctxt "15268"
+msgid "Normal Conversation 31"
+msgstr ""
+
+msgctxt "15292"
+msgid "Heeey, nice to meet you! I'm Ranko Yazuki."
+msgstr ""
+
+msgctxt "15328"
+msgid "Oh, welcome!"
+msgstr ""
+
+msgctxt "15340"
+msgid "I'm like, so stoked you're here! <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "15352"
+msgid "Let's paaaarty!"
+msgstr ""
+
+msgctxt "15364"
+msgid "Kiryu-san, I had like, such a good time the other day! Thanks a ton."
+msgstr ""
+
+msgctxt "15376"
+msgid "Kiryu-san... I was like, waiting to go out with you and everything..."
+msgstr ""
+
+msgctxt "15388"
+msgid ""
+"I'm super sorry stuff didn't work out last time, Kiryu-san. Let's go again "
+"sometime, okay?"
+msgstr ""
+
+msgctxt "15400"
+msgid "Kiryu-san... I was, like, super looking forward to going out with you..."
+msgstr ""
+
+msgctxt "15412"
+msgid ""
+"Hey, sorry about what happened last time! Let's totally hang out again "
+"sometime, okay?"
+msgstr ""
+
+msgctxt "15424"
+msgid "I'm Ranko Yazuki. Super stoked to meet you!"
+msgstr ""
+
+msgctxt "15436"
+msgid "Ohmigosh, did you come to see me?"
+msgstr ""
+
+msgctxt "15448"
+msgid "You can totally just like, chill out here."
+msgstr ""
+
+msgctxt "15460"
+msgid "I hope you have a good time! <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "15472"
+msgid "You can totally, like, chill out here."
+msgstr ""
+
+msgctxt "15484"
+msgid "I so wanna go on another after-hours date with you."
+msgstr ""
+
+msgctxt "15496"
+msgid "We so have to go on another after-hours date again."
+msgstr ""
+
+msgctxt "15508"
+msgid "We so have to go on another after-hours date again."
+msgstr ""
+
+msgctxt "15520"
+msgid "Thanks for taking me out! It was like, super fun. <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "15532"
+msgid "You'll take me out again, right?"
+msgstr ""
+
+msgctxt "15544"
+msgid "You'll take me out again, right?"
+msgstr ""
+
+msgctxt "15556"
+msgid "Ohmigosh, Kiryu-san, you look so cool today!"
+msgstr ""
+
+msgctxt "15568"
+msgid "Wow, Kiryu-san, that outfit is pretty nice!"
+msgstr ""
+
+msgctxt "15580"
+msgid "Man, you like, never change, Kiryu-san."
+msgstr ""
+
+msgctxt "15592"
+msgid ""
+"Hold on... Is that, like, your style, Kiryu-san? I mean, couldn't you dress "
+"a little nicer?"
+msgstr ""
+
+msgctxt "15604"
+msgid "Kiryu-san... You like, really need to watch yourself, okay?"
+msgstr ""
+
+msgctxt "15616"
+msgid "It's such a waste of good looks to wear something like that."
+msgstr ""
+
+msgctxt "15628"
+msgid "What!? Ohmigosh, no way!"
+msgstr ""
+
+msgctxt "15640"
+msgid "I've been looking for this like, everywhere! <Color:7>⑮"
+msgstr ""
+
+msgctxt "15652"
+msgid "Thank you so much!"
+msgstr ""
+
+msgctxt "15664"
+msgid "Ooooh, is this for me?"
+msgstr ""
+
+msgctxt "15676"
+msgid "Thank you. <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "15688"
+msgid "Oh, is that... for me?"
+msgstr ""
+
+msgctxt "15700"
+msgid "Thank you..."
+msgstr ""
+
+msgctxt "15712"
+msgid "Wait, what the hell!?"
+msgstr ""
+
+msgctxt "15724"
+msgid "Yeah, I soooo don't want this..."
+msgstr ""
+
+msgctxt "15736"
+msgid "Wait, are you serious?"
+msgstr ""
+
+msgctxt "15748"
+msgid "Ugh, I can't even right now."
+msgstr ""
+
+msgctxt "15760"
+msgid "This again?"
+msgstr ""
+
+msgctxt "15772"
+msgid "You totally gave me one of these already. What, do you not remember?"
+msgstr ""
+
+msgctxt "15784"
+msgid "So, like, wanna order something?"
+msgstr ""
+
+msgctxt "15808"
+msgid "I'll have this, then."
+msgstr ""
+
+msgctxt "15820"
+msgid "Aren't you gonna, like, have a drink?"
+msgstr ""
+
+msgctxt "15832"
+msgid "Hey, your glass is empty... Want another drink?"
+msgstr ""
+
+msgctxt "15856"
+msgid "I'll have this, then."
+msgstr ""
+
+msgctxt "15868"
+msgid "Aren't you gonna, like, have a drink?"
+msgstr ""
+
+msgctxt "15880"
+msgid "Oooh, I like that, too!"
+msgstr ""
+
+msgctxt "15892"
+msgid "We've got such good taste."
+msgstr ""
+
+msgctxt "15904"
+msgid "Oh, wow, you like those kinds of drinks?"
+msgstr ""
+
+msgctxt "15916"
+msgid "I'm kinda, like, surprised."
+msgstr ""
+
+msgctxt "15928"
+msgid "Okaaaaay!"
+msgstr ""
+
+msgctxt "15940"
+msgid "Wait, you like that, Kiryu-san?"
+msgstr ""
+
+msgctxt "15952"
+msgid "That's, like, so not what I imagined."
+msgstr ""
+
+msgctxt "15964"
+msgid "You're gonna drink that?"
+msgstr ""
+
+msgctxt "15976"
+msgid "I mean... Okay, I guess."
+msgstr ""
+
+msgctxt "15988"
+msgid "Wanna, like, order some food?"
+msgstr ""
+
+msgctxt "16012"
+msgid "I'll have this, then."
+msgstr ""
+
+msgctxt "16024"
+msgid "Wait, huh? You don't want anything?"
+msgstr ""
+
+msgctxt "16036"
+msgid "Wanna order some food?"
+msgstr ""
+
+msgctxt "16060"
+msgid "I'll have this, then."
+msgstr ""
+
+msgctxt "16072"
+msgid "Huh, you sure you don't wanna, like, order anything?"
+msgstr ""
+
+msgctxt "16084"
+msgid "Ohmigosh, I love that, too!"
+msgstr ""
+
+msgctxt "16096"
+msgid "We've got such good taste. <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "16108"
+msgid "You're into that kind of food, Kiryu-san?"
+msgstr ""
+
+msgctxt "16120"
+msgid "I'm kinda, like, surprised."
+msgstr ""
+
+msgctxt "16132"
+msgid "Okaaaaay!"
+msgstr ""
+
+msgctxt "16144"
+msgid "Wow, you can eat that? Like, okay..."
+msgstr ""
+
+msgctxt "16156"
+msgid "Ew... That's, like, so not my thing."
+msgstr ""
+
+msgctxt "16168"
+msgid "But whatever, if you like it, then get it..."
+msgstr ""
+
+msgctxt "16180"
+msgid "Okay, lemme go order that."
+msgstr ""
+
+msgctxt "16204"
+msgid "How can I help you?"
+msgstr ""
+
+msgctxt "16216"
+msgid "Could you get these for us?"
+msgstr ""
+
+msgctxt "16228"
+msgid "Of course. I'll have that for you right away."
+msgstr ""
+
+msgctxt "16252"
+msgid "Cheers!"
+msgstr ""
+
+msgctxt "16264"
+msgid "Cheers."
+msgstr ""
+
+msgctxt "16276"
+msgid "Heeey! Go ahead and like, chill out!"
+msgstr ""
+
+msgctxt "16288"
+msgid "Cheers."
+msgstr ""
+
+msgctxt "16300"
+msgid "Cheers."
+msgstr ""
+
+msgctxt "16312"
+msgid "You can totally, like, chill out here."
+msgstr ""
+
+msgctxt "16324"
+msgid "Okay, here goes nothing."
+msgstr ""
+
+msgctxt "16336"
+msgid "This should be good."
+msgstr ""
+
+msgctxt "16348"
+msgid "Here you go!"
+msgstr ""
+
+msgctxt "16372"
+msgid "It was really nice talking to you! <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "16384"
+msgid "Same."
+msgstr ""
+
+msgctxt "16396"
+msgid ""
+"<Color:8>\r\n"
+"<Color:Default>"
+msgstr ""
+
+msgctxt "16408"
+msgid "You got Ranko's business card."
+msgstr ""
+
+msgctxt "16456"
+msgid "You should totally come back more often, okay? <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "16468"
+msgid "You got it."
+msgstr ""
+
+msgctxt "16480"
+msgid ""
+"<Color:8>\r\n"
+"<Color:Default>"
+msgstr ""
+
+msgctxt "16492"
+msgid "You got Ranko's fancy business card."
+msgstr ""
+
+msgctxt "16528"
+msgid "Here you go!"
+msgstr ""
+
+msgctxt "16540"
+msgid "......"
+msgstr ""
+
+msgctxt "16552"
+msgid "Hey, it's cool if I smoke too, right?"
+msgstr ""
+
+msgctxt "16564"
+msgid "Sure."
+msgstr ""
+
+msgctxt "16576"
+msgid "C'mon, drink up!"
+msgstr ""
+
+msgctxt "16588"
+msgid "All right."
+msgstr ""
+
+msgctxt "16600"
+msgid "I'm gonna drink with you!"
+msgstr ""
+
+msgctxt "16612"
+msgid "Go for it."
+msgstr ""
+
+msgctxt "16624"
+msgid "Well, it's about that time."
+msgstr ""
+
+msgctxt "16636"
+msgid "Awww, is it that time like, already?"
+msgstr ""
+
+msgctxt "16648"
+msgid "Oh... We're totally out of time..."
+msgstr ""
+
+msgctxt "16660"
+msgid "Yeah..."
+msgstr ""
+
+msgctxt "16672"
+msgid "終了時_アフター_初"
+msgstr ""
+
+msgctxt "16684"
+msgid "終了時_アフター_遅刻後"
+msgstr ""
+
+msgctxt "16696"
+msgid "終了時_アフター_失敗後"
+msgstr ""
+
+msgctxt "16708"
+msgid "終了時_同伴_初"
+msgstr ""
+
+msgctxt "16720"
+msgid "終了時_同伴_遅刻後"
+msgstr ""
+
+msgctxt "16732"
+msgid "終了時_同伴_失敗後"
+msgstr ""
+
+msgctxt "16744"
+msgid "終了時_ミニミッション"
+msgstr ""
+
+msgctxt "16756"
+msgid ""
+"終了時_同伴_初\r\n"
+"クリア後はいません。"
+msgstr ""
+
+msgctxt "16768"
+msgid "That was soooo much fun. <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "16780"
+msgid "You better come see me again, okay? <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "16792"
+msgid "Kiryu-san!"
+msgstr ""
+
+msgctxt "16804"
+msgid "Thanks sooo much for coming to see me! <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "16816"
+msgid "No problem."
+msgstr ""
+
+msgctxt "16828"
+msgid "See you soon, okay?"
+msgstr ""
+
+msgctxt "16840"
+msgid "Kiryu-san!"
+msgstr ""
+
+msgctxt "16852"
+msgid "Thanks sooo much for coming to see me! <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "16864"
+msgid "No problem."
+msgstr ""
+
+msgctxt "16876"
+msgid "See you soon, okay?"
+msgstr ""
+
+msgctxt "16900"
+msgid "Kiryu-san!"
+msgstr ""
+
+msgctxt "16912"
+msgid "I love you... <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "16924"
+msgid "Ranko..."
+msgstr ""
+
+msgctxt "16936"
+msgid "See you soon, okay?"
+msgstr ""
+
+msgctxt "16948"
+msgid "Kiryu-san!"
+msgstr ""
+
+msgctxt "16960"
+msgid "You better come see me again, okay? <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "16972"
+msgid "No problem."
+msgstr ""
+
+msgctxt "16984"
+msgid "See you soon, okay?"
+msgstr ""
+
+msgctxt "16996"
+msgid "Kiryu-san!"
+msgstr ""
+
+msgctxt "17008"
+msgid "You better come see me again, okay? <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "17020"
+msgid "No problem."
+msgstr ""
+
+msgctxt "17032"
+msgid "See you soon, okay?"
+msgstr ""
+
+msgctxt "17044"
+msgid "Kiryu-san!"
+msgstr ""
+
+msgctxt "17056"
+msgid "You better come see me again, okay? <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "17068"
+msgid "No problem."
+msgstr ""
+
+msgctxt "17080"
+msgid "See you soon, okay?"
+msgstr ""
+
+msgctxt "17092"
+msgid "Escort Home"
+msgstr ""
+
+msgctxt "17104"
+msgid ""
+"Ohmigosh, so, Kiryu-san, have you like, heard of anything fun going on "
+"around town?"
+msgstr ""
+
+msgctxt "17116"
+msgid "I've been sooooo bored this week..."
+msgstr ""
+
+msgctxt "17128"
+msgid "Something fun? Let's see..."
+msgstr ""
+
+msgctxt "17140"
+msgid "Sorry, I haven't heard about anything."
+msgstr ""
+
+msgctxt "17152"
+msgid "Oh... Well, if you hear anything like, super cool, let me know, okay?"
+msgstr ""
+
+msgctxt "17272"
+msgid ""
+"So Kiryu-san, when you meet a girl for the first time, what part of them do "
+"you always, like, focus on?"
+msgstr ""
+
+msgctxt "17284"
+msgid "You mean like, what body part?"
+msgstr ""
+
+msgctxt "17296"
+msgid ""
+"Yeah! For me, it's hands. I dunno what it is. Sometimes, when I get drunk, "
+"I even nibble on people's fingers. <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "17308"
+msgid ""
+"So I figured like, maybe you've got your own thing for a certain part of "
+"the body, you know?"
+msgstr ""
+
+msgctxt "17320"
+msgid ""
+"So, when you met me for the first time, what part of me did you start "
+"checking out, huh?"
+msgstr ""
+
+msgctxt "17332"
+msgid "Let's see..."
+msgstr ""
+
+msgctxt "17344"
+msgid "Ohmigosh, did I tell you about the tattoo I have on my chest?"
+msgstr ""
+
+msgctxt "17356"
+msgid "Is that the one that customer got all worked up about?"
+msgstr ""
+
+msgctxt "17368"
+msgid "No, this one's different, it's on my chest. Wanna guess what it is?"
+msgstr ""
+
+msgctxt "17380"
+msgid "Is it a... flower?"
+msgstr ""
+
+msgctxt "17392"
+msgid ""
+"Yeah! It's a rose. Well, it was an angel before, but I got it covered up "
+"with a prettier rose."
+msgstr ""
+
+msgctxt "17404"
+msgid "Cool."
+msgstr ""
+
+msgctxt "17416"
+msgid ""
+"So like, I've been thinking about getting another tattoo. Where do you "
+"think I should put it?"
+msgstr ""
+
+msgctxt "17428"
+msgid "The location of your next tattoo..."
+msgstr ""
+
+msgctxt "17452"
+msgid "Hopefully you can make the trip there soon."
+msgstr ""
+
+msgctxt "17464"
+msgid "I don't know much about dancing..."
+msgstr ""
+
+msgctxt "17476"
+msgid "That's incredible."
+msgstr ""
+
+msgctxt "17488"
+msgid "I'm usually fine."
+msgstr ""
+
+msgctxt "17500"
+msgid "Sometimes I have a hard time getting up."
+msgstr ""
+
+msgctxt "17512"
+msgid "Morning? Try afternoon."
+msgstr ""
+
+msgctxt "17524"
+msgid "Don't worry about him."
+msgstr ""
+
+msgctxt "17536"
+msgid "I completely agree with you."
+msgstr ""
+
+msgctxt "17548"
+msgid "I think it's great you have a tattoo."
+msgstr ""
+
+msgctxt "17560"
+msgid "He's totally not."
+msgstr ""
+
+msgctxt "17572"
+msgid "Just forget about him."
+msgstr ""
+
+msgctxt "17584"
+msgid "Men are proud creatures like that."
+msgstr ""
+
+msgctxt "17596"
+msgid "Do you always cook for yourself?"
+msgstr ""
+
+msgctxt "17608"
+msgid "Will you make something for me?"
+msgstr ""
+
+msgctxt "17620"
+msgid "It's good to do something nice for someone."
+msgstr ""
+
+msgctxt "17632"
+msgid "I tend to avoid big groups of people."
+msgstr ""
+
+msgctxt "17644"
+msgid "That's a pretty big party."
+msgstr ""
+
+msgctxt "17656"
+msgid "How does your body survive that?"
+msgstr ""
+
+msgctxt "17668"
+msgid "You're basically making a smell sandwich."
+msgstr ""
+
+msgctxt "17680"
+msgid "So that's why you smell so good."
+msgstr ""
+
+msgctxt "17692"
+msgid "Do I smell good?"
+msgstr ""
+
+msgctxt "17704"
+msgid "That's impressive."
+msgstr ""
+
+msgctxt "17716"
+msgid "You don't do Para Para anymore?"
+msgstr ""
+
+msgctxt "17728"
+msgid "What did that \"chair\" job entail?"
+msgstr ""
+
+msgctxt "17740"
+msgid "That is kind of crossing the line."
+msgstr ""
+
+msgctxt "17752"
+msgid "How long was she taking?"
+msgstr ""
+
+msgctxt "17764"
+msgid "You don't feel bad about it?"
+msgstr ""
+
+msgctxt "17776"
+msgid "Go, relax."
+msgstr ""
+
+msgctxt "17788"
+msgid "Do you really have time for that?"
+msgstr ""
+
+msgctxt "17800"
+msgid "Maybe I'll come with you."
+msgstr ""
+
+msgctxt "17812"
+msgid "Yeah, those are all disgusting."
+msgstr ""
+
+msgctxt "17824"
+msgid "But why didn't you tell her you threw them out?"
+msgstr ""
+
+msgctxt "17836"
+msgid "Maybe they were special to her in some way."
+msgstr ""
+
+msgctxt "17848"
+msgid "Getting nervous?"
+msgstr ""
+
+msgctxt "17860"
+msgid "All that planning must be tough."
+msgstr ""
+
+msgctxt "17872"
+msgid "I'll miss you."
+msgstr ""
+
+msgctxt "17884"
+msgid "You don't have to hold back."
+msgstr ""
+
+msgctxt "17896"
+msgid "Don't think too hard about it."
+msgstr ""
+
+msgctxt "17908"
+msgid "Are you forcing yourself to cry?"
+msgstr ""
+
+msgctxt "17920"
+msgid "What's wrong with that?"
+msgstr ""
+
+msgctxt "17932"
+msgid "Why don't you tell them about it, then?"
+msgstr ""
+
+msgctxt "17944"
+msgid "You don't have to force yourself to do that."
+msgstr ""
+
+msgctxt "17956"
+msgid "You should probably leave them alone."
+msgstr ""
+
+msgctxt "17968"
+msgid "I'm not really sure..."
+msgstr ""
+
+msgctxt "17980"
+msgid "I guess it depends on the time and situation."
+msgstr ""
+
+msgctxt "17992"
+msgid "You should definitely leave them alone."
+msgstr ""
+
+msgctxt "18004"
+msgid "I suppose it's not a problem, then."
+msgstr ""
+
+msgctxt "18016"
+msgid "Sounds delicious."
+msgstr ""
+
+msgctxt "18028"
+msgid "I'd pass on it, too."
+msgstr ""
+
+msgctxt "18040"
+msgid "It's probably chock-full of energy."
+msgstr ""
+
+msgctxt "18052"
+msgid "How can you sleep in a room like that?"
+msgstr ""
+
+msgctxt "18064"
+msgid "Sounds like a pretty sweet love hotel."
+msgstr ""
+
+msgctxt "18076"
+msgid "I bet it's really comfortable."
+msgstr ""
+
+msgctxt "18088"
+msgid "It's okay."
+msgstr ""
+
+msgctxt "18100"
+msgid "You're not fat."
+msgstr ""
+
+msgctxt "18112"
+msgid "What nice friends."
+msgstr ""
+
+msgctxt "18124"
+msgid "There's something special about you, too."
+msgstr ""
+
+msgctxt "18136"
+msgid "I'm not that great."
+msgstr ""
+
+msgctxt "18148"
+msgid "If you fall for me, you'll only get burned."
+msgstr ""
+
+msgctxt "18160"
+msgid "Men do that in the sauna."
+msgstr ""
+
+msgctxt "18172"
+msgid "It's hard to hold off on going out."
+msgstr ""
+
+msgctxt "18184"
+msgid "I'll join you."
+msgstr ""
+
+msgctxt "18196"
+msgid "Everyone changes."
+msgstr ""
+
+msgctxt "18208"
+msgid "I know how that feels."
+msgstr ""
+
+msgctxt "18220"
+msgid "It's all up to you."
+msgstr ""
+
+msgctxt "18232"
+msgid "You can learn about the world in other places, too."
+msgstr ""
+
+msgctxt "18244"
+msgid "You're right."
+msgstr ""
+
+msgctxt "18256"
+msgid "You can't survive here without that mindset."
+msgstr ""
+
+msgctxt "18268"
+msgid "I hope so, too."
+msgstr ""
+
+msgctxt "18280"
+msgid "If there's any way I can help..."
+msgstr ""
+
+msgctxt "18292"
+msgid "Maybe you should stop by her place."
+msgstr ""
+
+msgctxt "18304"
+msgid "Did I steal your heart already?"
+msgstr ""
+
+msgctxt "18316"
+msgid "Should I stop giving you advice?"
+msgstr ""
+
+msgctxt "18328"
+msgid "Is that how I always say it?"
+msgstr ""
+
+msgctxt "18340"
+msgid "Nothing wrong with that."
+msgstr ""
+
+msgctxt "18352"
+msgid "Good luck in Istanbul."
+msgstr ""
+
+msgctxt "18364"
+msgid "If it gets tough over there, you can always come back."
+msgstr ""
+
+msgctxt "18376"
+msgid "Of course."
+msgstr ""
+
+msgctxt "18388"
+msgid "Who knows."
+msgstr ""
+
+msgctxt "18400"
+msgid "I'll go see you in Istanbul."
+msgstr ""
+
+msgctxt "18412"
+msgid "You aren't?"
+msgstr ""
+
+msgctxt "18424"
+msgid "You should introduce me to her."
+msgstr ""
+
+msgctxt "18436"
+msgid "You sound happy when you talk about your mom."
+msgstr ""
+
+msgctxt "18448"
+msgid "Hopefully it helps you dance better."
+msgstr ""
+
+msgctxt "18460"
+msgid "That's so wonderful."
+msgstr ""
+
+msgctxt "18472"
+msgid "A dance for your descendants..."
+msgstr ""
+
+msgctxt "18484"
+msgid "Makes sense to me."
+msgstr ""
+
+msgctxt "18496"
+msgid "That's not all there is to drinking."
+msgstr ""
+
+msgctxt "18508"
+msgid "Case closed, then?"
+msgstr ""
+
+msgctxt "18520"
+msgid "I got nothing."
+msgstr ""
+
+msgctxt "18532"
+msgid "Tell Her About Gelato"
+msgstr ""
+
+msgctxt "18544"
+msgid "Tell Her About Sushi Gin"
+msgstr ""
+
+msgctxt "18556"
+msgid "Tell Her About Kanrai's Kimchi"
+msgstr ""
+
+msgctxt "18568"
+msgid "Tell Her About Collagen Ramen"
+msgstr ""
+
+msgctxt "18580"
+msgid "Tell Her About the Batting Center"
+msgstr ""
+
+msgctxt "18592"
+msgid "Tell Her About Matcha Desserts"
+msgstr ""
+
+msgctxt "18604"
+msgid "Tell Her About the Braised Pork Burger"
+msgstr ""
+
+msgctxt "18616"
+msgid "Tell Her About Le Marche Reservations"
+msgstr ""
+
+msgctxt "18628"
+msgid "Tell Her About Tantakatan"
+msgstr ""
+
+msgctxt "176760"
+msgid "Ranko"
+msgstr ""
+
+msgctxt "176764"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "176768"
+msgid "P_sitsofaR_tlk_yes"
+msgstr ""
+
+msgctxt "176772"
+msgid "F_cab_sitsofa_tlk_noA"
+msgstr ""
+
+msgctxt "176776"
+msgid "F_cab_sitsofa_tlk_yes"
+msgstr ""
+
+msgctxt "176780"
+msgid "F_cab_sitsofa_talk_smileA"
+msgstr ""
+
+msgctxt "176784"
+msgid "F_cab_sitsofa_sp8_sync_crap"
+msgstr ""
+
+msgctxt "176788"
+msgid "P_sitsofa_sp8_sync_crap"
+msgstr ""
+
+msgctxt "176792"
+msgid "P_sitsofaR_tlk_smile"
+msgstr ""
+
+msgctxt "176796"
+msgid "F_cab_sitsofa_tlk_tereruA"
+msgstr ""
+
+msgctxt "176800"
+msgid "P_sitsofaR_tlk_no"
+msgstr ""
+
+msgctxt "176804"
+msgid "F_cab_sitsofa_tlk_happy"
+msgstr ""
+
+msgctxt "176808"
+msgid "F_cab_sitsofa_tlk_angry"
+msgstr ""
+
+msgctxt "176812"
+msgid "F_cab_sitsofa_sp1_sync_yop"
+msgstr ""
+
+msgctxt "176816"
+msgid "P_sitsofaR_tlk_kamae"
+msgstr ""
+
+msgctxt "176820"
+msgid "F_cab_sitsofa_sp2_sync_hiza"
+msgstr ""
+
+msgctxt "176824"
+msgid "F_cab_sitsofa_tlk_suprise"
+msgstr ""
+
+msgctxt "176828"
+msgid "F_cab_sitsofa_tlk_kamaeAtoB"
+msgstr ""
+
+msgctxt "176832"
+msgid "F_cab_sitsofa_tlk_kamaeBtoA"
+msgstr ""
+
+msgctxt "176836"
+msgid "F_cab_sitsofa_sp5_sync_laugh"
+msgstr ""
+
+msgctxt "176840"
+msgid "F_cab_sitsofa_tlk_akubi"
+msgstr ""
+
+msgctxt "176844"
+msgid "P_sitsofaR_tlk_angry"
+msgstr ""
+
+msgctxt "176848"
+msgid "F_cab_sitsofa_sp6_sync_kami"
+msgstr ""
+
+msgctxt "176852"
+msgid "F_cab_sitsofa_tlk_refuse"
+msgstr ""
+
+msgctxt "176856"
+msgid "F_cab_stand_tlk_ojigi_01"
+msgstr ""
+
+msgctxt "176860"
+msgid "F_cab_sitsofa_sync_order"
+msgstr ""
+
+msgctxt "176864"
+msgid "M_shp_sitgrd_sync_order"
+msgstr ""
+
+msgctxt "176868"
+msgid "Attendant"
+msgstr ""
+
+msgctxt "176872"
+msgid "2d_cf_kyaba_meishi_nemu00"
+msgstr ""
+
+msgctxt "176876"
+msgid "2d_cf_kyaba_meishi_nemu01"
+msgstr ""
+
+msgctxt "176880"
+msgid "F_cab_stand_tlk_byeB"
+msgstr ""
+
+msgctxt "176884"
+msgid "F_cab_stand_sync_byeC_st"
+msgstr ""
+
+msgctxt "176888"
+msgid "P_stand_sync_byeC_st"
+msgstr ""
+
+msgctxt "176892"
+msgid "F_cab_stand_sync_byeC_ed"
+msgstr ""
+
+msgctxt "176896"
+msgid "P_stand_sync_byeC_ed"
+msgstr ""
+
+msgctxt "176900"
+msgid "F_cab_stand_sync_dakiA_st"
+msgstr ""
+
+msgctxt "176904"
+msgid "P_stand_sync_dakiA_st"
+msgstr ""
+
+msgctxt "176908"
+msgid "F_cab_stand_sync_dakiA_ed"
+msgstr ""
+
+msgctxt "176912"
+msgid "P_stand_sync_dakiA_ed"
+msgstr ""
+
+msgctxt "176916"
+msgid "F_cab_stand_sp11_sync_mimi_st"
+msgstr ""
+
+msgctxt "176920"
+msgid "P_stand_sp11_sync_mimi_st"
+msgstr ""
+
+msgctxt "176924"
+msgid "F_cab_stand_sp11_sync_mimi_ed"
+msgstr ""
+
+msgctxt "176928"
+msgid "P_stand_sp11_sync_mimi_ed"
+msgstr ""
+
+msgctxt "176932"
+msgid "F_cab_stand_sp12_sync_mune_st"
+msgstr ""
+
+msgctxt "176936"
+msgid "P_stand_sp12_sync_mune_st"
+msgstr ""
+
+msgctxt "176940"
+msgid "F_cab_stand_sp12_sync_mune_ed"
+msgstr ""
+
+msgctxt "176944"
+msgid "P_stand_sp12_sync_mune_ed"
+msgstr ""
+
+msgctxt "176948"
+msgid "F_cab_stand_sp13_sync_yubi_st"
+msgstr ""
+
+msgctxt "176952"
+msgid "P_stand_sp13_sync_yubi_st"
+msgstr ""
+
+msgctxt "176956"
+msgid "F_cab_stand_sp15_sync_yubi_ed"
+msgstr ""
+
+msgctxt "176960"
+msgid "P_stand_sp15_sync_yubi_ed"
+msgstr ""
+
+msgctxt "176964"
+msgid "F_cab_stand_sp14_sync_hoho_st"
+msgstr ""
+
+msgctxt "176968"
+msgid "P_stand_sp14_sync_hoho_st"
+msgstr ""
+
+msgctxt "176972"
+msgid "F_cab_stand_sp16_sync_hoho_ed"
+msgstr ""
+
+msgctxt "176976"
+msgid "P_stand_sp16_sync_hoho_ed"
+msgstr ""

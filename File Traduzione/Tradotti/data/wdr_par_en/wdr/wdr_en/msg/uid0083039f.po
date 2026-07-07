@@ -1,0 +1,92 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "108"
+msgid "There was a homeless guy playing with a filthy dog behind the drugstore."
+msgstr ""
+
+msgctxt "120"
+msgid "......"
+msgstr ""
+
+msgctxt "132"
+msgid ""
+"Can you believe that? It's no wonder there are so many stray dogs around. "
+"People keep feeding them!"
+msgstr ""
+
+msgctxt "144"
+msgid "How can people be so stupid?"
+msgstr ""
+
+msgctxt "156"
+msgid ""
+"Have you seen a miniature dachshund around here? Or a... kaninchen "
+"dachshund?"
+msgstr ""
+
+msgctxt "168"
+msgid "Where did you come from!?"
+msgstr ""
+
+msgctxt "180"
+msgid "I'm just... looking for a dachshund."
+msgstr ""
+
+msgctxt "192"
+msgid "Then I guess you'd better get yourself to a pet shop!"
+msgstr ""
+
+msgctxt "204"
+msgid "Honestly, some people! Dogs are just the worst!"
+msgstr ""
+
+msgctxt "216"
+msgid ""
+"...But you know, now that I think about it, I did see a homeless guy "
+"playing with a filthy dog behind the drugstore."
+msgstr ""
+
+msgctxt "228"
+msgid "......"
+msgstr ""
+
+msgctxt "240"
+msgid ""
+"Can you believe that? It's no wonder there are so many stray dogs around. "
+"People keep feeding them!"
+msgstr ""
+
+msgctxt "252"
+msgid "How can people be so stupid?"
+msgstr ""
+
+msgctxt "1896"
+msgid "Middle-Aged Woman"
+msgstr ""
+
+msgctxt "1900"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "1904"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1908"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "1912"
+msgid "Talk_Angry"
+msgstr ""

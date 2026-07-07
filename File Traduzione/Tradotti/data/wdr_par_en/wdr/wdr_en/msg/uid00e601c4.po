@@ -1,0 +1,104 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid "Ha! You're not catching me!"
+msgstr ""
+
+msgctxt "76"
+msgid "Damn. He got away..."
+msgstr ""
+
+msgctxt "172"
+msgid ""
+"Kiryu-san? It's me, Shibayama, the guy who asked you to\r\n"
+"help collect that loan."
+msgstr ""
+
+msgctxt "184"
+msgid "Oh, hey. What's going on?"
+msgstr ""
+
+msgctxt "196"
+msgid ""
+"Well, I managed to catch Motoyama, but he'd already spent\r\n"
+"the 1,000,000 yen."
+msgstr ""
+
+msgctxt "208"
+msgid ""
+"Looks like we won't be able to collect that loan today\r\n"
+"after all..."
+msgstr ""
+
+msgctxt "220"
+msgid "I see..."
+msgstr ""
+
+msgctxt "232"
+msgid "Sorry about all that running around I made you do..."
+msgstr ""
+
+msgctxt "244"
+msgid "Guess this means I won't be needing your help anymore..."
+msgstr ""
+
+msgctxt "256"
+msgid "All right. Sorry I couldn't help."
+msgstr ""
+
+msgctxt "268"
+msgid ""
+"You helped plenty! You taught me a lot, and I'm really\r\n"
+"grateful for that."
+msgstr ""
+
+msgctxt "280"
+msgid "Well, bye, now. Thanks again."
+msgstr ""
+
+msgctxt "352"
+msgid "You got 3,000 EXP."
+msgstr ""
+
+msgctxt "2712"
+msgid "Motoyama"
+msgstr ""
+
+msgctxt "2716"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "2720"
+msgid "Idle"
+msgstr ""
+
+msgctxt "2724"
+msgid "dummy"
+msgstr ""
+
+msgctxt "2728"
+msgid "0"
+msgstr ""
+
+msgctxt "2732"
+msgid "P_stand_tlk_phone_st"
+msgstr ""
+
+msgctxt "2736"
+msgid "Shibayama the Loan Shark"
+msgstr ""
+
+msgctxt "2740"
+msgid "P_stand_tlk_phone_ed"
+msgstr ""

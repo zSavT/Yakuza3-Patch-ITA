@@ -1,0 +1,172 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "124"
+msgid "(There's Taichi...)"
+msgstr ""
+
+msgctxt "136"
+msgid "Gotcha, Taichi!"
+msgstr ""
+
+msgctxt "148"
+msgid "Aw, man! I thought you were never gonna find me!"
+msgstr ""
+
+msgctxt "220"
+msgid ""
+"Wow, you're better at this than I thought, Uncle Kaz. How'd you even find "
+"me up there?"
+msgstr ""
+
+msgctxt "232"
+msgid ""
+"Oh, you know. I have a lot of practice from when I was a kid. Anyway, "
+"you're the last one. Let's go meet up with the others."
+msgstr ""
+
+msgctxt "316"
+msgid "Well, I found everybody. Did you all enjoy yourselves?"
+msgstr ""
+
+msgctxt "328"
+msgid "Yeah! I thought we made it pretty tough for you, but I guess not."
+msgstr ""
+
+msgctxt "340"
+msgid "I dunno... I thought it was kinda boring."
+msgstr ""
+
+msgctxt "352"
+msgid "Hm? What's wrong, Izumi?"
+msgstr ""
+
+msgctxt "364"
+msgid "(She's all bent outta shape because you didn't find her last. I told you!)"
+msgstr ""
+
+msgctxt "376"
+msgid "(Oh, yeah... Sorry about that.)"
+msgstr ""
+
+msgctxt "388"
+msgid "But it was fun playing together, Uncle Kaz. Let's do this again sometime!"
+msgstr ""
+
+msgctxt "400"
+msgid "Yeah, and next time we'll win for sure!"
+msgstr ""
+
+msgctxt "412"
+msgid "Heh, I'm looking forward to it."
+msgstr ""
+
+msgctxt "424"
+msgid "Come on everyone, let's go study! See you later, Uncle Kaz!"
+msgstr ""
+
+msgctxt "496"
+msgid "You got 3,000 EXP."
+msgstr ""
+
+msgctxt "508"
+msgid "(That's definitely Taichi. How'd he even get up there?)"
+msgstr ""
+
+msgctxt "520"
+msgid "Gotcha, Taichi!"
+msgstr ""
+
+msgctxt "532"
+msgid "Aw, man! I thought you were never gonna find me!"
+msgstr ""
+
+msgctxt "604"
+msgid ""
+"Wow, you're better at this than I thought, Uncle Kaz. How'd you even find "
+"me up there?"
+msgstr ""
+
+msgctxt "616"
+msgid ""
+"Oh, you know. I have a lot of practice from when I was a kid. But hey, you "
+"win some and you lose some. On to the next."
+msgstr ""
+
+msgctxt "676"
+msgid "(Now that I know where Taichi is, I can always come back to him later.)"
+msgstr ""
+
+msgctxt "688"
+msgid "(He'll never find me up here!)"
+msgstr ""
+
+msgctxt "700"
+msgid "Gotcha!"
+msgstr ""
+
+msgctxt "712"
+msgid "(On second thought...)"
+msgstr ""
+
+msgctxt "5944"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "5948"
+msgid "Taichi"
+msgstr ""
+
+msgctxt "5952"
+msgid "Idle"
+msgstr ""
+
+msgctxt "5956"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "5960"
+msgid "Talk_Udekumi_st"
+msgstr ""
+
+msgctxt "5964"
+msgid "Shiro"
+msgstr ""
+
+msgctxt "5968"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "5972"
+msgid "Izumi"
+msgstr ""
+
+msgctxt "5976"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "5980"
+msgid "Talk_Udekumi_ed"
+msgstr ""
+
+msgctxt "5984"
+msgid "Eri"
+msgstr ""
+
+msgctxt "5988"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "5992"
+msgid "Talk_Info_L"
+msgstr ""

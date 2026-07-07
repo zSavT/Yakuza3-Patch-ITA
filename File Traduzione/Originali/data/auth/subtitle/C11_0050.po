@@ -1,0 +1,124 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "1197\t1257"
+msgid "Uncle Kaz."
+msgstr ""
+
+msgctxt "1311\t1371"
+msgid "Uncle Kaz!"
+msgstr ""
+
+msgctxt "1399\t1459"
+msgid "It was so scary!"
+msgstr ""
+
+msgctxt "1749\t1809"
+msgid "Give me a minute here."
+msgstr ""
+
+msgctxt "1975\t2035"
+msgid "Aniki..."
+msgstr ""
+
+msgctxt "2051\t2111"
+msgid "How's Mikio?"
+msgstr ""
+
+msgctxt "2338\t2397"
+msgid "Mikio."
+msgstr ""
+
+msgctxt "2398\t2458"
+msgid "Mikio!"
+msgstr ""
+
+msgctxt "2567\t2608"
+msgid "Mikio..."
+msgstr ""
+
+msgctxt "2609\t2669"
+msgid "Mikio!"
+msgstr ""
+
+msgctxt "2715\t2775"
+msgid "Sir..."
+msgstr ""
+
+msgctxt "2784\t2844"
+msgid "It was all me."
+msgstr ""
+
+msgctxt "2881\t2937"
+msgid "I couldn't stop 'em..."
+msgstr ""
+
+msgctxt "2938\t3070"
+msgid ""
+"It's not your fault. Not at all!\\n"
+"Don't talk like that."
+msgstr ""
+
+msgctxt "3138\t3182"
+msgid "Sir..."
+msgstr ""
+
+msgctxt "3183\t3243"
+msgid "What is it?"
+msgstr ""
+
+msgctxt "3258\t3318"
+msgid "Please..."
+msgstr ""
+
+msgctxt "3343\t3452"
+msgid "Save the boss for me."
+msgstr ""
+
+msgctxt "3531\t3591"
+msgid "I will."
+msgstr ""
+
+msgctxt "3599\t3734"
+msgid ""
+"I'll bring Nakahara back.\\n"
+"I promise!"
+msgstr ""
+
+msgctxt "3748\t3869"
+msgid "Glad to... hear it."
+msgstr ""
+
+msgctxt "3977\t4037"
+msgid "Mikio?"
+msgstr ""
+
+msgctxt "4060\t4113"
+msgid "Mikio?"
+msgstr ""
+
+msgctxt "4114\t4174"
+msgid "Answer me, Mikio!"
+msgstr ""
+
+msgctxt "4248\t4297"
+msgid "Dammit...!"
+msgstr ""
+
+msgctxt "4298\t4414"
+msgid "No! Uncle Mikio!"
+msgstr ""
+
+msgctxt "4415\t4497"
+msgid "Mikio!"
+msgstr ""

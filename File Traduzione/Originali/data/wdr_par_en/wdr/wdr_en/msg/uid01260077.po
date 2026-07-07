@@ -1,0 +1,74 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "80"
+msgid "Hey. What's going on in here?"
+msgstr ""
+
+msgctxt "92"
+msgid ""
+"Oh, we're making dessert! The lady next door gave us a lot of fruit, so "
+"we're using some gelatin to make it into something tasty."
+msgstr ""
+
+msgctxt "104"
+msgid "We're making pudding, too!"
+msgstr ""
+
+msgctxt "116"
+msgid ""
+"Looks delicious, you two. By the way, you didn't notice anyone hiding "
+"around here, did you?"
+msgstr ""
+
+msgctxt "128"
+msgid "No, I don't think so."
+msgstr ""
+
+msgctxt "140"
+msgid ""
+"Wait, are you guys playing hide-and-seek? It's against the rules to ask for "
+"help!"
+msgstr ""
+
+msgctxt "152"
+msgid "Right... I guess even your Uncle Kaz forgets the rules sometimes."
+msgstr ""
+
+msgctxt "164"
+msgid "Hey, you two didn't see anyone come hide in here, did you?"
+msgstr ""
+
+msgctxt "176"
+msgid "Didn't you already ask us that?"
+msgstr ""
+
+msgctxt "188"
+msgid "Come on, Uncle Kaz! It's against the rules to ask for help!"
+msgstr ""
+
+msgctxt "200"
+msgid "Oh yeah. I guess even your Uncle Kaz forgets the rules sometimes."
+msgstr ""
+
+msgctxt "1772"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1776"
+msgid "Ayako"
+msgstr ""
+
+msgctxt "1780"
+msgid "Mitsuo"
+msgstr ""

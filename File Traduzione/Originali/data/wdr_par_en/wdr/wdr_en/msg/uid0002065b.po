@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "80"
+msgid "What's so bad about grammar, Shiro?"
+msgstr ""
+
+msgctxt "92"
+msgid "I dunno, there aren't any rules! Math's way better."
+msgstr ""
+
+msgctxt "104"
+msgid "Math!? Ewww!"
+msgstr ""
+
+msgctxt "116"
+msgid "C'mon, math's fun! It's like solving a puzzle!"
+msgstr ""
+
+msgctxt "128"
+msgid "But solving puzzles is fun..."
+msgstr ""
+
+msgctxt "140"
+msgid "Hey, are you two all clean and shiny?"
+msgstr ""
+
+msgctxt "152"
+msgid "Yup! I took my bath a little while ago."
+msgstr ""
+
+msgctxt "164"
+msgid "Me too!"
+msgstr ""
+
+msgctxt "176"
+msgid "Good. And how's your homework coming along?"
+msgstr ""
+
+msgctxt "188"
+msgid "All finished!"
+msgstr ""
+
+msgctxt "200"
+msgid "I'm mostly done... but I still have grammar to do. I'm so bad at it."
+msgstr ""
+
+msgctxt "212"
+msgid "All the more reason to do your homework and study, right?"
+msgstr ""
+
+msgctxt "224"
+msgid "I mean, yeah... but I just don't get how it even works."
+msgstr ""
+
+msgctxt "236"
+msgid ""
+"That's okay. If you always avoid things that are difficult, you'll never be "
+"able to grow. Owning up to your weaknesses and facing them head-on is the "
+"best way to improve."
+msgstr ""
+
+msgctxt "248"
+msgid "Okay. I'll try."
+msgstr ""
+
+msgctxt "260"
+msgid ""
+"And hey, studying can be pretty fun once you get the hang of it. Why don't "
+"you ask Ayako to give you a hand? I'm sure she'd be more than glad to help "
+"you out."
+msgstr ""
+
+msgctxt "2668"
+msgid "Eri"
+msgstr ""
+
+msgctxt "2672"
+msgid "Shiro"
+msgstr ""
+
+msgctxt "2676"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "2680"
+msgid "P_stand_tlk_child_st"
+msgstr ""
+
+msgctxt "2684"
+msgid "P_stand_tlk_child_yes"
+msgstr ""

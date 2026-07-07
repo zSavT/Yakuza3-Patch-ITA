@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "92"
+msgid "Kiryu-san!?"
+msgstr ""
+
+msgctxt "104"
+msgid "There you are."
+msgstr ""
+
+msgctxt "176"
+msgid "Newton... She... She's gone..."
+msgstr ""
+
+msgctxt "188"
+msgid "......"
+msgstr ""
+
+msgctxt "200"
+msgid "If anything happened to her..."
+msgstr ""
+
+msgctxt "212"
+msgid "If I lost her... I don't think I could go on..."
+msgstr ""
+
+msgctxt "224"
+msgid "Kana, calm down."
+msgstr ""
+
+msgctxt "236"
+msgid ""
+"I totally messed up... I took Newton out for a walk, and then I got lost, "
+"and... and then...!"
+msgstr ""
+
+msgctxt "248"
+msgid "*sob*"
+msgstr ""
+
+msgctxt "260"
+msgid "Don't worry, I'll find her for you."
+msgstr ""
+
+msgctxt "272"
+msgid "You will?"
+msgstr ""
+
+msgctxt "284"
+msgid "Yeah. Just wait here. I'll be back soon."
+msgstr ""
+
+msgctxt "296"
+msgid "Thank you!"
+msgstr ""
+
+msgctxt "2244"
+msgid "Kana"
+msgstr ""
+
+msgctxt "2248"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "2252"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "2256"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "2260"
+msgid "Talk_CryBig_st"
+msgstr ""
+
+msgctxt "2264"
+msgid "Talk_CryBig_ed"
+msgstr ""
+
+msgctxt "2268"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "2272"
+msgid "dummy"
+msgstr ""
+
+msgctxt "2276"
+msgid "0"
+msgstr ""

@@ -1,0 +1,42 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "170\t291"
+msgid "I hear you're bailin' on Kamurocho."
+msgstr ""
+
+msgctxt "294\t345"
+msgid "Kiryu-chan."
+msgstr ""
+
+msgctxt "355\t383"
+msgid "Yeah."
+msgstr ""
+
+msgctxt "385\t465"
+msgid "That's actually why I'm here."
+msgstr ""
+
+msgctxt "521\t571"
+msgid "Whaddya mean?"
+msgstr ""
+
+msgctxt "596\t657"
+msgid "I need your help."
+msgstr ""
+
+msgctxt "660\t800"
+msgid ""
+"Someone has to watch\\n"
+"over Daigo while I'm gone."
+msgstr ""

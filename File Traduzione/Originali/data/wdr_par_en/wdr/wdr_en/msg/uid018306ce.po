@@ -1,0 +1,53 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "188"
+msgid "Thanks, Uncle Kaz!"
+msgstr ""
+
+msgctxt "212"
+msgid "But I wanted that..."
+msgstr ""
+
+msgctxt "236"
+msgid ""
+"I could go for a <Color:8>Club Sandwich<Color:Default>. Why are they called "
+"that, anyway? Do you eat those when you go to the club, Uncle Kaz?"
+msgstr ""
+
+msgctxt "248"
+msgid "I'm starving!"
+msgstr ""
+
+msgctxt "272"
+msgid ""
+"Uncle Kaz, who invented the <Color:8>Salmon Rice Ball<Color:Default>? "
+"Whoever it was, they were a genius! We should go have some to celebrate "
+"this delicious invention!"
+msgstr ""
+
+msgctxt "1356"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "1360"
+msgid "HAL_stand_tlk_happy_small"
+msgstr ""
+
+msgctxt "1364"
+msgid "HAL_stand_tlk_unhappy_small"
+msgstr ""
+
+msgctxt "1368"
+msgid "Talk_Request"
+msgstr ""

@@ -1,0 +1,380 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "108"
+msgid "Kiryu-san!"
+msgstr ""
+
+msgctxt "132"
+msgid "Hey, doc. Is something wrong?"
+msgstr ""
+
+msgctxt "144"
+msgid "The boy! What did the boy eat before he collapsed?"
+msgstr ""
+
+msgctxt "156"
+msgid "That was just around lunchtime, so..."
+msgstr ""
+
+msgctxt "168"
+msgid "Haruka. What did you guys have for lunch today?"
+msgstr ""
+
+msgctxt "180"
+msgid "Soba! We got them from a noodle shop a few blocks away."
+msgstr ""
+
+msgctxt "192"
+msgid ""
+"Just as I thought. The blood tests I ran showed extremely\r\n"
+"high allergen levels, meaning Taichi's attack was in fact\r\n"
+"due to an allergic reaction to whatever he had for lunch."
+msgstr ""
+
+msgctxt "204"
+msgid "In other words... buckwheat."
+msgstr ""
+
+msgctxt "216"
+msgid ""
+"Taichi did keep talking about how good it was. He probably\r\n"
+"ate twice as much as the other kids."
+msgstr ""
+
+msgctxt "228"
+msgid "I guess that means he can't have soba anymore, huh?"
+msgstr ""
+
+msgctxt "240"
+msgid ""
+"It would be prudent to avoid it, yes. As with any severe\r\n"
+"allergic reaction, it could cause his airways to swell up,\r\n"
+"greatly restricting his ability to breathe."
+msgstr ""
+
+msgctxt "252"
+msgid ""
+"In extreme cases, he may even go into anaphylactic shock.\r\n"
+"It's difficult to overstate just how dangerous this could\r\n"
+"potentially be for your boy."
+msgstr ""
+
+msgctxt "264"
+msgid "I had no idea..."
+msgstr ""
+
+msgctxt "276"
+msgid ""
+"But if we can take heart from something, it's the fact that\r\n"
+"he ate an especially large amount of soba before collapsing.\r\n"
+"It may be a mere minor allergy in regular quantities."
+msgstr ""
+
+msgctxt "288"
+msgid ""
+"In some cases, people have even been known to grow out of\r\n"
+"childhood food allergies as they mature. You simply never\r\n"
+"know what the future may hold."
+msgstr ""
+
+msgctxt "300"
+msgid ""
+"I must encourage caution, though. Nowadays it's very easy\r\n"
+"to eat a food containing buckwheat without even realizing\r\n"
+"it's one of the ingredients."
+msgstr ""
+
+msgctxt "312"
+msgid "Right."
+msgstr ""
+
+msgctxt "324"
+msgid ""
+"I imagine he won't mind very much, though. It seems Taichi\r\n"
+"would gladly give up soba if it means he's able to wrestle\r\n"
+"again."
+msgstr ""
+
+msgctxt "396"
+msgid "How's he looking, doc?"
+msgstr ""
+
+msgctxt "408"
+msgid "Hmmm. From what I can tell, it seems to be a severe case of asthma."
+msgstr ""
+
+msgctxt "420"
+msgid "But he's never shown any signs of it before. How is that possible?"
+msgstr ""
+
+msgctxt "432"
+msgid ""
+"It's difficult to say before further tests, but there are\r\n"
+"countless possible reasons for the sudden onset."
+msgstr ""
+
+msgctxt "444"
+msgid ""
+"It could be mere genetics, or perhaps caused by something\r\n"
+"from the environment. Cigarette smoke, pollution, what have\r\n"
+"you. There are other possibilities beyond that as well."
+msgstr ""
+
+msgctxt "456"
+msgid "Ngh..."
+msgstr ""
+
+msgctxt "468"
+msgid "Whaddya mean, \"other possibilities\"?"
+msgstr ""
+
+msgctxt "480"
+msgid ""
+"Well you see, kids these days are subject to a much higher level of stress "
+"than we were back in the day. Not only that, but this child is an orphan, "
+"yes?"
+msgstr ""
+
+msgctxt "492"
+msgid "Yeah, but..."
+msgstr ""
+
+msgctxt "504"
+msgid ""
+"This is simple conjecture, but this could be arising now as\r\n"
+"a result of the great stress Taichi must have gone through\r\n"
+"as a young boy."
+msgstr ""
+
+msgctxt "516"
+msgid ""
+"He may still be a child, but I suspect there are traumatic\r\n"
+"experiences hiding just under the surface."
+msgstr ""
+
+msgctxt "528"
+msgid "And that can seriously cause asthma?"
+msgstr ""
+
+msgctxt "540"
+msgid ""
+"It's entirely possible. In any case, strenuous exercise is off the table "
+"from now on. We can say with near complete certainty that wrestling was the "
+"cause of this attack."
+msgstr ""
+
+msgctxt "552"
+msgid "But..."
+msgstr ""
+
+msgctxt "564"
+msgid ""
+"There are no \"buts\" to this, sir! Your child's health is at\r\n"
+"serious risk!"
+msgstr ""
+
+msgctxt "576"
+msgid "Risk? What do you mean?"
+msgstr ""
+
+msgctxt "588"
+msgid ""
+"The potential complications of asthma reach far beyond the coughing and "
+"shortness of breath so often associated with it."
+msgstr ""
+
+msgctxt "600"
+msgid ""
+"If left untreated, this could very well become a chronic issue for your "
+"boy. He may someday be unable to breathe on his own. Worst case scenario, "
+"it may ultimately be fatal."
+msgstr ""
+
+msgctxt "612"
+msgid "What!?"
+msgstr ""
+
+msgctxt "624"
+msgid ""
+"So, for the time being I would suggest he take it easy and\r\n"
+"avoid exercise of any kind until we have the test results."
+msgstr ""
+
+msgctxt "648"
+msgid "I had no idea this was so serious..."
+msgstr ""
+
+msgctxt "660"
+msgid ""
+"Does this mean Taichi's gonna have to stop wrestling?\r\n"
+"It'll break his heart..."
+msgstr ""
+
+msgctxt "672"
+msgid ""
+"Well, let's not go jumpin' to any conclusions before we get\r\n"
+"those test results, yeah? I'm gonna go check on him."
+msgstr ""
+
+msgctxt "696"
+msgid "(Guess I'll go, too. It'd be good to cheer him up somehow...)"
+msgstr ""
+
+msgctxt "756"
+msgid "Ugh, if I have to hear another word about Tokyo, I think I'm gonna puke-yo."
+msgstr ""
+
+msgctxt "768"
+msgid "Me, too. I dunno how Ayako-chan and Riona are still so into it."
+msgstr ""
+
+msgctxt "780"
+msgid ""
+"Guess girls like hearing about the big city or something. I wish Uncle Kaz "
+"talked about wrestling matches in Tokyo instead!"
+msgstr ""
+
+msgctxt "792"
+msgid "I bet they show them on TV up there every single night."
+msgstr ""
+
+msgctxt "804"
+msgid "Uh... Maybe not <Italic>every</Italic> night."
+msgstr ""
+
+msgctxt "816"
+msgid ""
+"How would you know, huh!? You're not the expert on Tokyo wrestling all of a "
+"sudden, Mitsuo! You've never even been there!"
+msgstr ""
+
+msgctxt "828"
+msgid "Well, neither have you!"
+msgstr ""
+
+msgctxt "840"
+msgid "Grrr, shut up! Let's settle this in the ring!"
+msgstr ""
+
+msgctxt "852"
+msgid "But we wrestle all the time! Can't we do something else for once?"
+msgstr ""
+
+msgctxt "864"
+msgid "Come onnn! Let's just go!"
+msgstr ""
+
+msgctxt "876"
+msgid "...Fine. But go easy on me this time!"
+msgstr ""
+
+msgctxt "888"
+msgid "Yeah, yeah! Whatever you say!"
+msgstr ""
+
+msgctxt "960"
+msgid "Uncle Kaz? Have you seen Taichi around?"
+msgstr ""
+
+msgctxt "972"
+msgid ""
+"I saw him run off to the beach with Mitsuo just now. Why,\r\n"
+"what's up?"
+msgstr ""
+
+msgctxt "984"
+msgid ""
+"It's his turn to do the shopping today, but he still hasn't\r\n"
+"gone. Can you go talk some sense into him for me?"
+msgstr ""
+
+msgctxt "996"
+msgid "Sure, just a second."
+msgstr ""
+
+msgctxt "1020"
+msgid "(All Taichi ever does is play...)"
+msgstr ""
+
+msgctxt "14356"
+msgid "Doctor"
+msgstr ""
+
+msgctxt "14360"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "14364"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "14368"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "14372"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "14376"
+msgid "Taichi"
+msgstr ""
+
+msgctxt "14380"
+msgid "Rikiya"
+msgstr ""
+
+msgctxt "14384"
+msgid "C30_SetM_cld_sitgrd_talkA_lp"
+msgstr ""
+
+msgctxt "14388"
+msgid "C30_SetM_cld_sitgrd_talkC_st"
+msgstr ""
+
+msgctxt "14392"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "14396"
+msgid "dummy"
+msgstr ""
+
+msgctxt "14400"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "14404"
+msgid "Mitsuo"
+msgstr ""
+
+msgctxt "14408"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "14412"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "14416"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "14420"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "14424"
+msgid "0"
+msgstr ""

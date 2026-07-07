@@ -1,0 +1,62 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "555\t615"
+msgid "Welcome back, sir!"
+msgstr ""
+
+msgctxt "693\t731"
+msgid "Chairman."
+msgstr ""
+
+msgctxt "745\t780"
+msgid "What is it?"
+msgstr ""
+
+msgctxt "782\t874"
+msgid "Someone's come seeking audience with you."
+msgstr ""
+
+msgctxt "876\t903"
+msgid "Who?"
+msgstr ""
+
+msgctxt "905\t952"
+msgid "Well..."
+msgstr ""
+
+msgctxt "1041\t1084"
+msgid "What!?"
+msgstr ""
+
+msgctxt "1094\t1138"
+msgid "There's no doubt."
+msgstr ""
+
+msgctxt "1142\t1249"
+msgid ""
+"I didn't believe it myself,\\n"
+"but it's him."
+msgstr ""
+
+msgctxt "1322\t1367"
+msgid "And where is he?"
+msgstr ""
+
+msgctxt "1378\t1478"
+msgid "Waiting in your office."
+msgstr ""
+
+msgctxt "1520\t1566"
+msgid "All right."
+msgstr ""

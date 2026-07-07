@@ -1,0 +1,132 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "76"
+msgid "You okay?"
+msgstr ""
+
+msgctxt "88"
+msgid "......"
+msgstr ""
+
+msgctxt "100"
+msgid "Let's get you home."
+msgstr ""
+
+msgctxt "112"
+msgid "Kazuma Kiryu! You better apologize!"
+msgstr ""
+
+msgctxt "124"
+msgid "I can only imagine how much you had to get this drunk."
+msgstr ""
+
+msgctxt "136"
+msgid "Hic... Hic!"
+msgstr ""
+
+msgctxt "148"
+msgid "Feeling a little better now?"
+msgstr ""
+
+msgctxt "160"
+msgid "Why do bad things aaaalways happen to me? Say you're sorry!"
+msgstr ""
+
+msgctxt "172"
+msgid "...I'm sorry I wasn't there with you."
+msgstr ""
+
+msgctxt "184"
+msgid "......"
+msgstr ""
+
+msgctxt "196"
+msgid "I... I'm sorry, Kazuma Kiryu!"
+msgstr ""
+
+msgctxt "208"
+msgid "Huh? Yui..."
+msgstr ""
+
+msgctxt "220"
+msgid "I'm, I'm sorry, Kiryu-san."
+msgstr ""
+
+msgctxt "232"
+msgid "Heh..."
+msgstr ""
+
+msgctxt "244"
+msgid "Thanks, Kiryu-san..."
+msgstr ""
+
+msgctxt "256"
+msgid ""
+"I'm not really sure what happened, but it looks like I can actually "
+"apologize to people in person now. <Color:255,200,200,255>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "268"
+msgid "You're welcome, I guess."
+msgstr ""
+
+msgctxt "280"
+msgid "Do I look cute when I'm apologizing?"
+msgstr ""
+
+msgctxt "292"
+msgid "Definitely. I've never seen you look this cute, ever."
+msgstr ""
+
+msgctxt "304"
+msgid "Hehehe. <Color:255,200,200,255>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "316"
+msgid "So, will you take me on a date?"
+msgstr ""
+
+msgctxt "328"
+msgid "...You really want to hit the town again after all that?"
+msgstr ""
+
+msgctxt "340"
+msgid ""
+"Of course! After all, I've got to show you just how grateful I am that you "
+"came to rescue me today... <Color:255,200,200,255>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "3416"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "3420"
+msgid "Yui"
+msgstr ""
+
+msgctxt "3424"
+msgid "F_sxy_stand_sync_dakitukiA_st"
+msgstr ""
+
+msgctxt "3428"
+msgid "P_stand_sync_dakitukiA_st"
+msgstr ""
+
+msgctxt "3432"
+msgid "F_sxy_stand_sync_dakitukiA_ed"
+msgstr ""
+
+msgctxt "3436"
+msgid "P_stand_sync_dakitukiA_ed"
+msgstr ""

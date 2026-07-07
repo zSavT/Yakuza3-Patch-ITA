@@ -1,0 +1,199 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "148"
+msgid ""
+"I'm so very sorry, sir. I know you specifically requested the sea bream, "
+"but it's out of my hands..."
+msgstr ""
+
+msgctxt "160"
+msgid ""
+"Don't give me your excuses! Do you realize I reserved that fish an entire "
+"month in advance!?"
+msgstr ""
+
+msgctxt "172"
+msgid "Excuse me... Can I see what's fresh today?"
+msgstr ""
+
+msgctxt "184"
+msgid "Wait, aren't you that fellow from Nakahara-san's⑬"
+msgstr ""
+
+msgctxt "196"
+msgid "That's me. I'm Kiryu. Now, what's the problem here?"
+msgstr ""
+
+msgctxt "208"
+msgid ""
+"Well... This gentleman reserved the Ryukyu sea bream, but I may have sold "
+"it to a local restaurant..."
+msgstr ""
+
+msgctxt "220"
+msgid "What, is it rare?"
+msgstr ""
+
+msgctxt "232"
+msgid ""
+"Quite rare! It can only be caught off the shores of the Ryukyu Islands. "
+"Once you try it, well... it's a life-changing experience."
+msgstr ""
+
+msgctxt "244"
+msgid ""
+"My daughter and her husband are coming home, and I wanted to celebrate with "
+"her favorite sashimi!"
+msgstr ""
+
+msgctxt "256"
+msgid "I see..."
+msgstr ""
+
+msgctxt "268"
+msgid ""
+"Can't you get it back from the guy you sold it to? You know, just give him "
+"a refund?"
+msgstr ""
+
+msgctxt "280"
+msgid ""
+"In theory, maybe... But we're talking about a big, brawny guy. A real beast "
+"of a chef."
+msgstr ""
+
+msgctxt "292"
+msgid ""
+"I told him up front I couldn't sell the fish, but he made it clear I didn't "
+"have much choice..."
+msgstr ""
+
+msgctxt "304"
+msgid ""
+"Hey, I know! You're tough enough to stand up to him, Kiryu-san. Could you "
+"get the Ryukyu sea bream back?"
+msgstr ""
+
+msgctxt "316"
+msgid ""
+"Please! I can pay you for it⑬up to 200,000 yen, even. You'd be doing the "
+"two of us a big favor, so..."
+msgstr ""
+
+msgctxt "328"
+msgid "Sorry, but I don't think I can help you."
+msgstr ""
+
+msgctxt "340"
+msgid "But... I thought the Ryudo Family was sworn to help the weak!"
+msgstr ""
+
+msgctxt "352"
+msgid "If you change your mind, come back⑬I'm begging you!"
+msgstr ""
+
+msgctxt "400"
+msgid "I guess I have to. Where is this restaurant, anyway?"
+msgstr ""
+
+msgctxt "412"
+msgid ""
+"You mean you'll do it? Thank you so much! The restaurant is next to a place "
+"called <Color:7>South Island<Color:Default> on <Color:7>Hatsumachi "
+"South<Color:Default>."
+msgstr ""
+
+msgctxt "424"
+msgid "Oh, and here's the 200,000 yen. Good luck! I know you can do it!"
+msgstr ""
+
+msgctxt "436"
+msgid "You got <Color:8>200,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "448"
+msgid "Got it, <Color:7>Hatsumachi South<Color:Default>. I'm on my way."
+msgstr ""
+
+msgctxt "508"
+msgid "Kiryu-san! Can you go track down that Ryukyu sea bream for us?"
+msgstr ""
+
+msgctxt "520"
+msgid "Help Him"
+msgstr ""
+
+msgctxt "532"
+msgid "Refuse"
+msgstr ""
+
+msgctxt "5844"
+msgid "Fishmonger"
+msgstr ""
+
+msgctxt "5848"
+msgid "Regular Customer"
+msgstr ""
+
+msgctxt "5852"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "5856"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "5860"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "5864"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "5868"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "5872"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "5876"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "5880"
+msgid "Talk_Request"
+msgstr ""
+
+msgctxt "5884"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "5888"
+msgid "dummy"
+msgstr ""
+
+msgctxt "5892"
+msgid "0"
+msgstr ""
+
+msgctxt "5896"
+msgid "Talk_Send"
+msgstr ""
+
+msgctxt "5900"
+msgid "Idle"
+msgstr ""

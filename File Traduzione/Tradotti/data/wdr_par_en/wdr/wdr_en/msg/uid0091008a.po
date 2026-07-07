@@ -1,0 +1,172 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "80"
+msgid "Nrgh..."
+msgstr ""
+
+msgctxt "92"
+msgid ""
+"I didn't think you'd be much of a fight, but you've got some\r\n"
+"decent moves."
+msgstr ""
+
+msgctxt "104"
+msgid ""
+"Hell, yeah! My teacher was a hitman named Issen. Everyone\r\n"
+"knows he's basically a god!"
+msgstr ""
+
+msgctxt "116"
+msgid ""
+"Then why do you put on this act and threaten people for\r\n"
+"pocket change?"
+msgstr ""
+
+msgctxt "128"
+msgid "I can't stomach killin' people."
+msgstr ""
+
+msgctxt "140"
+msgid "Wait, what?"
+msgstr ""
+
+msgctxt "152"
+msgid ""
+"I was fine until I left my teacher and joined the family in\r\n"
+"Kamurocho."
+msgstr ""
+
+msgctxt "164"
+msgid ""
+"Whenever I tried to do my work, I got scared. I just\r\n"
+"couldn't go through with it."
+msgstr ""
+
+msgctxt "176"
+msgid ""
+"The family threw me out, and I wound up with nowhere\r\n"
+"to go."
+msgstr ""
+
+msgctxt "188"
+msgid "So that's why you're doing petty gigs like this now."
+msgstr ""
+
+msgctxt "200"
+msgid "Yeah... Anyway, it's whatever."
+msgstr ""
+
+msgctxt "212"
+msgid ""
+"I guess I'll let the HLA take me in. I hear they can find me\r\n"
+"work and stuff..."
+msgstr ""
+
+msgctxt "224"
+msgid "Wait here."
+msgstr ""
+
+msgctxt "284"
+msgid "Why are you after me!?"
+msgstr ""
+
+msgctxt "296"
+msgid "Just calm down and come with me."
+msgstr ""
+
+msgctxt "308"
+msgid "You a cop or something?"
+msgstr ""
+
+msgctxt "320"
+msgid "I'm with the Honest Living Association."
+msgstr ""
+
+msgctxt "332"
+msgid "The HLA...? You mean that job placement center?"
+msgstr ""
+
+msgctxt "344"
+msgid "More or less."
+msgstr ""
+
+msgctxt "356"
+msgid "Those guys? The hell do they want?"
+msgstr ""
+
+msgctxt "368"
+msgid ""
+"We're going after a group of hitmen called the Reapers.\r\n"
+"You're one of them, right?"
+msgstr ""
+
+msgctxt "380"
+msgid ""
+"If you know this much, I can't very well just let you take\r\n"
+"me in, now, can I?"
+msgstr ""
+
+msgctxt "392"
+msgid "Yeah, I guess that's how you'd see it."
+msgstr ""
+
+msgctxt "404"
+msgid ""
+"Damn... Guess there's only one thing to do, then!\r\n"
+"Die, old man!"
+msgstr ""
+
+msgctxt "3928"
+msgid "Kotaro"
+msgstr ""
+
+msgctxt "3932"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "3936"
+msgid "Idle"
+msgstr ""
+
+msgctxt "3940"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "3944"
+msgid "Talk_Udekumi_st"
+msgstr ""
+
+msgctxt "3948"
+msgid "Talk_Udekumi_ed"
+msgstr ""
+
+msgctxt "3952"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "3956"
+msgid "P_stand_tlk_phone_st"
+msgstr ""
+
+msgctxt "3960"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "3964"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "3968"
+msgid "Talk_Angry"
+msgstr ""

@@ -1,0 +1,38 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "92"
+msgid ""
+"Looking for a good time? Come down to Honey! It's a whole new kind of "
+"telephone club!"
+msgstr ""
+
+msgctxt "104"
+msgid "(A telephone club, huh?)"
+msgstr ""
+
+msgctxt "116"
+msgid "You got a <Color:8>Honey's Tissues<Color:Default>."
+msgstr ""
+
+msgctxt "652"
+msgid "Tissue Distributor"
+msgstr ""
+
+msgctxt "656"
+msgid "Talk_Send"
+msgstr ""
+
+msgctxt "660"
+msgid "Kiryu"
+msgstr ""

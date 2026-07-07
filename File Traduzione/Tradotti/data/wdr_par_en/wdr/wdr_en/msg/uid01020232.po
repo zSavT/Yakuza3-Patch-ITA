@@ -1,0 +1,120 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "432"
+msgid "Welcome to the blackjack table."
+msgstr ""
+
+msgctxt "444"
+msgid "Let's begin."
+msgstr ""
+
+msgctxt "456"
+msgid ""
+"Welcome to the blackjack table. Would you like\r\n"
+"to play against the house, one-on-one?"
+msgstr ""
+
+msgctxt "468"
+msgid "Let's begin."
+msgstr ""
+
+msgctxt "480"
+msgid "Select \"Bet\" or \"Re-Bet\" to place a wager."
+msgstr ""
+
+msgctxt "492"
+msgid "I will now deal the cards."
+msgstr ""
+
+msgctxt "504"
+msgid "I pulled a green card, so I'll shuffle the deck."
+msgstr ""
+
+msgctxt "516"
+msgid "You seem to be short on chips. Please come back soon."
+msgstr ""
+
+msgctxt "528"
+msgid "It's your turn. What would you like to do?"
+msgstr ""
+
+msgctxt "540"
+msgid "It's a bust. What a shame."
+msgstr ""
+
+msgctxt "552"
+msgid "It's the dealer's turn. I'll reveal my cards."
+msgstr ""
+
+msgctxt "564"
+msgid "The total is less than 17, so I'm drawing a card."
+msgstr ""
+
+msgctxt "576"
+msgid "The dealer's total is 17."
+msgstr ""
+
+msgctxt "588"
+msgid "The dealer's total is 18."
+msgstr ""
+
+msgctxt "600"
+msgid "The dealer's total is 19."
+msgstr ""
+
+msgctxt "612"
+msgid "The dealer's total is 20."
+msgstr ""
+
+msgctxt "624"
+msgid "The dealer's total is 21."
+msgstr ""
+
+msgctxt "636"
+msgid "The dealer has blackjack."
+msgstr ""
+
+msgctxt "648"
+msgid "The dealer busts."
+msgstr ""
+
+msgctxt "660"
+msgid "The dealer's open card is an ace. It could be blackjack."
+msgstr ""
+
+msgctxt "672"
+msgid "The dealer has blackjack."
+msgstr ""
+
+msgctxt "684"
+msgid "It wasn't blackjack. Let's continue with the game."
+msgstr ""
+
+msgctxt "696"
+msgid "You have blackjack! Congratulations, sir."
+msgstr ""
+
+msgctxt "708"
+msgid "However, I do as well. Better luck next time."
+msgstr ""
+
+msgctxt "720"
+msgid "We look forward to seeing you again soon."
+msgstr ""
+
+msgctxt "732"
+msgid ""
+"You seem to be short on chips.\r\n"
+"We look forward to seeing you again soon."
+msgstr ""

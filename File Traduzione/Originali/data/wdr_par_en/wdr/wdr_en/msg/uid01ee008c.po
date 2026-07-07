@@ -1,0 +1,118 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "216"
+msgid "(No time for this right now...)"
+msgstr ""
+
+msgctxt "252"
+msgid "The hell took so long, Aniki? Let's get movin'."
+msgstr ""
+
+msgctxt "264"
+msgid ""
+"You got that out of your system? Good. Let's get back on\r\n"
+"the case."
+msgstr ""
+
+msgctxt "300"
+msgid "We, uh... goin' in, Aniki?"
+msgstr ""
+
+msgctxt "312"
+msgid "(Shoot, I forgot Rikiya was with me! What now!?)"
+msgstr ""
+
+msgctxt "324"
+msgid "Yeah, you wanna come?"
+msgstr ""
+
+msgctxt "336"
+msgid ""
+"Nah, I'm not really in the mood. I'll be chillin' out here\r\n"
+"when you're done, though. Later, Aniki."
+msgstr ""
+
+msgctxt "348"
+msgid "Nah, it can wait."
+msgstr ""
+
+msgctxt "360"
+msgid "Huh? Changed your mind?"
+msgstr ""
+
+msgctxt "372"
+msgid "Hold on, Kiryu. You're not going in there, are you?"
+msgstr ""
+
+msgctxt "384"
+msgid "(Shoot, I forgot Date-san was with me! What now!?)"
+msgstr ""
+
+msgctxt "396"
+msgid "Of course I am. Want to join me, Date-san?"
+msgstr ""
+
+msgctxt "408"
+msgid ""
+"...Nah, I'm good. But you go ahead. Who am I to get in the\r\n"
+"way of a man and his pleasure?"
+msgstr ""
+
+msgctxt "420"
+msgid "No, I'm okay."
+msgstr ""
+
+msgctxt "432"
+msgid "You sure? I'm cool with you going in."
+msgstr ""
+
+msgctxt "480"
+msgid "Go In Anyway"
+msgstr ""
+
+msgctxt "492"
+msgid "Forget It"
+msgstr ""
+
+msgctxt "504"
+msgid "Go In Anyway"
+msgstr ""
+
+msgctxt "516"
+msgid "Forget It"
+msgstr ""
+
+msgctxt "3256"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "3260"
+msgid "Rikiya"
+msgstr ""
+
+msgctxt "3264"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "3268"
+msgid "Date"
+msgstr ""
+
+msgctxt "3272"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "3276"
+msgid "Talk_No"
+msgstr ""

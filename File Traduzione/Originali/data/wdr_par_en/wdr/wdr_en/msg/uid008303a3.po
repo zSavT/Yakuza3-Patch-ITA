@@ -1,0 +1,77 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "76"
+msgid ""
+"Kiryu-san... Thank you. "
+"<Color:255,200,200,255>⑮<Color:Default><Color:255,200,200,255"
+">⑮<Color:Default><Color:255,200,200,255>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "88"
+msgid "I think... there's something I can finally admit to myself..."
+msgstr ""
+
+msgctxt "100"
+msgid "What's that?"
+msgstr ""
+
+msgctxt "112"
+msgid ""
+"That whenever I get into trouble, you're always the one who has to bail me "
+"out. Hehehe! <Color:255,200,200,255>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "124"
+msgid "Anyway, I better get home and give Newton her banana."
+msgstr ""
+
+msgctxt "136"
+msgid "Heh... You're still feeding her bananas, huh?"
+msgstr ""
+
+msgctxt "148"
+msgid ""
+"Thank you so much for helping me find Newton. "
+"<Color:255,200,200,255>⑮<Color:Default> I love you, Kiryu-san. "
+"<Color:255,200,200,255>⑮<Color:Default><Color:255,200,200,255"
+">⑮<Color:Default><Color:255,200,200,255>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "172"
+msgid "You got 5,000 EXP."
+msgstr ""
+
+msgctxt "2320"
+msgid "Kana"
+msgstr ""
+
+msgctxt "2324"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "2328"
+msgid "F_sxy_stand_sync_dakitukiA_ed"
+msgstr ""
+
+msgctxt "2332"
+msgid "P_stand_sync_dakitukiA_ed"
+msgstr ""
+
+msgctxt "2336"
+msgid "dummy"
+msgstr ""
+
+msgctxt "2340"
+msgid "0"
+msgstr ""

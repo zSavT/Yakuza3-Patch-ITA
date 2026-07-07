@@ -1,0 +1,134 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "208"
+msgid "Are you... going in there, Uncle Kaz?"
+msgstr ""
+
+msgctxt "220"
+msgid "(Shoot, I forgot Haruka was with me! What now!?)"
+msgstr ""
+
+msgctxt "232"
+msgid ""
+"Yeah, sorry. Think you can be a big girl and wait here while\r\n"
+"I'm gone?"
+msgstr ""
+
+msgctxt "244"
+msgid "...Okay. Have fun, Uncle Kaz."
+msgstr ""
+
+msgctxt "256"
+msgid "No, I'm okay."
+msgstr ""
+
+msgctxt "268"
+msgid "Really? I don't mind."
+msgstr ""
+
+msgctxt "304"
+msgid "Are you going in there, Uncle Kaz?"
+msgstr ""
+
+msgctxt "316"
+msgid "(Shoot, I forgot Ayako was with me! What now!?)"
+msgstr ""
+
+msgctxt "328"
+msgid "Yeah, sorry. Mind waiting outside for a bit?"
+msgstr ""
+
+msgctxt "340"
+msgid "...Okay, but don't take too long!"
+msgstr ""
+
+msgctxt "352"
+msgid "No, I'm okay."
+msgstr ""
+
+msgctxt "364"
+msgid ""
+"Are you sure? I don't mind, if that's what you're worried\r\n"
+"about."
+msgstr ""
+
+msgctxt "400"
+msgid ""
+"You're going in there, Uncle Kaz!? C'mon, we don't have\r\n"
+"time for that kinda stuff right now!"
+msgstr ""
+
+msgctxt "412"
+msgid "(Shoot, I forgot Taichi was with me! What now!?)"
+msgstr ""
+
+msgctxt "424"
+msgid "Sorry, Taichi. I won't be long."
+msgstr ""
+
+msgctxt "436"
+msgid "Huh!? But Morning Glory's in trouble, Uncle Kaz! C'mon!"
+msgstr ""
+
+msgctxt "448"
+msgid "(He's right. Now's not the time for this.)"
+msgstr ""
+
+msgctxt "508"
+msgid "Go In Anyway"
+msgstr ""
+
+msgctxt "520"
+msgid "Forget It"
+msgstr ""
+
+msgctxt "532"
+msgid "Go In Anyway"
+msgstr ""
+
+msgctxt "544"
+msgid "Forget It"
+msgstr ""
+
+msgctxt "556"
+msgid "Go In Anyway"
+msgstr ""
+
+msgctxt "568"
+msgid "Forget It"
+msgstr ""
+
+msgctxt "3748"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "3752"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "3756"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "3760"
+msgid "Ayako"
+msgstr ""
+
+msgctxt "3764"
+msgid "Taichi"
+msgstr ""
+
+msgctxt "3768"
+msgid "0"
+msgstr ""

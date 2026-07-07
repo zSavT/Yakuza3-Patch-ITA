@@ -1,0 +1,181 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "80"
+msgid "Hey, buddy."
+msgstr ""
+
+msgctxt "92"
+msgid ""
+"Huh? If you need something, I might not be the guy to ask... I'm not from "
+"around here."
+msgstr ""
+
+msgctxt "104"
+msgid "That depends. You the one making Iriomote wildcat deals, or what?"
+msgstr ""
+
+msgctxt "116"
+msgid "Iriomote wildcats? Wait, is there one in this building!?"
+msgstr ""
+
+msgctxt "128"
+msgid "I went to Iriomote Island yesterday, but I didn't find a single one..."
+msgstr ""
+
+msgctxt "140"
+msgid "C'mon, man, where is it!? Show me the kitty!"
+msgstr ""
+
+msgctxt "152"
+msgid "You know what, forget it."
+msgstr ""
+
+msgctxt "200"
+msgid "Kiryu-san... Can't you do this without riling up my customers?"
+msgstr ""
+
+msgctxt "212"
+msgid ""
+"Sure, that man had a red Hawaiian shirt on, but he was too thin to be our "
+"guy."
+msgstr ""
+
+msgctxt "224"
+msgid ""
+"The criminal's <Color:7>fat<Color:Default>, and he's wearing a "
+"<Color:7>green hat<Color:Default> and a <Color:7>red Hawaiian "
+"shirt<Color:Default>."
+msgstr ""
+
+msgctxt "236"
+msgid ""
+"Look, if you stir this place up too much, the guy's gonna slip away. Just "
+"try to be cautious, please?"
+msgstr ""
+
+msgctxt "248"
+msgid "Got it. Fat man, green hat, red Hawaiian shirt."
+msgstr ""
+
+msgctxt "296"
+msgid "Kiryu-san! You catch that fat bastard yet?"
+msgstr ""
+
+msgctxt "308"
+msgid "Not yet."
+msgstr ""
+
+msgctxt "320"
+msgid "Then maybe it was him..."
+msgstr ""
+
+msgctxt "332"
+msgid "What was who?"
+msgstr ""
+
+msgctxt "344"
+msgid "Well... I just saw a fat man in a red Hawaiian shirt leave the market."
+msgstr ""
+
+msgctxt "356"
+msgid "Dammit."
+msgstr ""
+
+msgctxt "368"
+msgid "Probably noticed you, and decided to cut his losses and run..."
+msgstr ""
+
+msgctxt "380"
+msgid "Sorry. Guess I blew it."
+msgstr ""
+
+msgctxt "392"
+msgid ""
+"Ah, don't worry about it... He knows we're onto him now. I bet he'll think "
+"twice before showing his face around here."
+msgstr ""
+
+msgctxt "404"
+msgid ""
+"Hope the law catches up with him someday, but at least he's not my market's "
+"problem anymore."
+msgstr ""
+
+msgctxt "416"
+msgid "Anyway, you did all right. Take this with my thanks."
+msgstr ""
+
+msgctxt "428"
+msgid "You got <Color:8>10,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "440"
+msgid "I hope you can lend us a hand the next time something comes up, too."
+msgstr ""
+
+msgctxt "512"
+msgid "You got 3,000 EXP."
+msgstr ""
+
+msgctxt "5344"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "5348"
+msgid "Skinny Man in Hawaiian Shirt"
+msgstr ""
+
+msgctxt "5352"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "5356"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "5360"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "5364"
+msgid "Kyan"
+msgstr ""
+
+msgctxt "5368"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "5372"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "5376"
+msgid "dummy"
+msgstr ""
+
+msgctxt "5380"
+msgid "0"
+msgstr ""
+
+msgctxt "5384"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "5388"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "5392"
+msgid "Sync_Send"
+msgstr ""

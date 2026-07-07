@@ -1,0 +1,276 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "124"
+msgid ""
+"You must love sushi, Kiryu-san. <Color:7>⑮<Color:Default> Hehe... I'm "
+"excited. <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "136"
+msgid "Shall we go inside, then?"
+msgstr ""
+
+msgctxt "148"
+msgid "Sure."
+msgstr ""
+
+msgctxt "172"
+msgid ""
+"You must love sushi, Kiryu-san. <Color:7>⑮<Color:Default> Hehe... I'm "
+"excited. <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "184"
+msgid "Shall we go inside, then?"
+msgstr ""
+
+msgctxt "196"
+msgid "...Hold on a second. I just realized I'm short on cash."
+msgstr ""
+
+msgctxt "208"
+msgid "Huh? What do you mean?"
+msgstr ""
+
+msgctxt "220"
+msgid "Sorry..."
+msgstr ""
+
+msgctxt "232"
+msgid "Oh... That's too bad... Let's just call it a day, then. Goodbye, Kiryu-san."
+msgstr ""
+
+msgctxt "244"
+msgid "(I'd better remember to bring enough cash next time...)"
+msgstr ""
+
+msgctxt "352"
+msgid "That was delicious! <Color:7>⑮<Color:Default> Hehehe..."
+msgstr ""
+
+msgctxt "364"
+msgid "I'm glad you liked it."
+msgstr ""
+
+msgctxt "376"
+msgid ""
+"Thanks for taking me out, Kiryu-san. <Color:7>⑮<Color:Default> I had a "
+"great time."
+msgstr ""
+
+msgctxt "388"
+msgid "See you later. Let's do it again sometime. <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "412"
+msgid "Thanks for taking me out."
+msgstr ""
+
+msgctxt "424"
+msgid "Sure."
+msgstr ""
+
+msgctxt "436"
+msgid "It was delicious."
+msgstr ""
+
+msgctxt "448"
+msgid "I'm glad..."
+msgstr ""
+
+msgctxt "460"
+msgid "See you later. Let's do this again sometime."
+msgstr ""
+
+msgctxt "484"
+msgid "......"
+msgstr ""
+
+msgctxt "496"
+msgid "Is something wrong?"
+msgstr ""
+
+msgctxt "508"
+msgid "No, I just... don't really like this, is all..."
+msgstr ""
+
+msgctxt "520"
+msgid "So that's what it was..."
+msgstr ""
+
+msgctxt "532"
+msgid "I think I'll go home. See you at the club..."
+msgstr ""
+
+msgctxt "544"
+msgid "(I shouldn't have ordered something she doesn't like...)"
+msgstr ""
+
+msgctxt "568"
+msgid "Major error! No flags set for conversation selection!"
+msgstr ""
+
+msgctxt "652"
+msgid ""
+"You must love sushi, Kiryu-san. <Color:7>⑮<Color:Default> Hehe... I'm "
+"excited. <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "664"
+msgid "Shall we go inside?"
+msgstr ""
+
+msgctxt "676"
+msgid "Sure."
+msgstr ""
+
+msgctxt "700"
+msgid ""
+"You must love sushi, Kiryu-san. <Color:7>⑮<Color:Default> Hehe... I'm "
+"excited. <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "712"
+msgid "Shall we go inside?"
+msgstr ""
+
+msgctxt "724"
+msgid "...Hold on a second. I just realized I'm short on cash."
+msgstr ""
+
+msgctxt "736"
+msgid "Huh? What do you mean?"
+msgstr ""
+
+msgctxt "748"
+msgid "Sorry..."
+msgstr ""
+
+msgctxt "760"
+msgid "Oh... That's too bad... Let's just call it a day, then. Goodbye, Kiryu-san."
+msgstr ""
+
+msgctxt "772"
+msgid "(I'd better remember to bring enough cash next time...)"
+msgstr ""
+
+msgctxt "880"
+msgid "That was delicious! <Color:7>⑮<Color:Default> Hehehe..."
+msgstr ""
+
+msgctxt "892"
+msgid "I'm glad you liked it."
+msgstr ""
+
+msgctxt "904"
+msgid ""
+"Thanks for taking me out, Kiryu-san. <Color:7>⑮<Color:Default> I had a "
+"great time."
+msgstr ""
+
+msgctxt "916"
+msgid "Shall we head over to the club, then?"
+msgstr ""
+
+msgctxt "928"
+msgid "Yeah, okay."
+msgstr ""
+
+msgctxt "952"
+msgid "Thanks for taking me out, Kiryu-san."
+msgstr ""
+
+msgctxt "964"
+msgid "Of course."
+msgstr ""
+
+msgctxt "976"
+msgid "It was delicious."
+msgstr ""
+
+msgctxt "988"
+msgid "Good."
+msgstr ""
+
+msgctxt "1000"
+msgid "Now then, shall we head over to the club?"
+msgstr ""
+
+msgctxt "1012"
+msgid "Yeah, okay."
+msgstr ""
+
+msgctxt "1036"
+msgid "......"
+msgstr ""
+
+msgctxt "1048"
+msgid "Is something wrong?"
+msgstr ""
+
+msgctxt "1060"
+msgid "No, I just... don't really like this, is all..."
+msgstr ""
+
+msgctxt "1072"
+msgid "So that's what it was..."
+msgstr ""
+
+msgctxt "1084"
+msgid "Shall we head over to the club, then?"
+msgstr ""
+
+msgctxt "1096"
+msgid "(I shouldn't have ordered something she doesn't like...)"
+msgstr ""
+
+msgctxt "1120"
+msgid "Major error! No flags set for conversation selection!"
+msgstr ""
+
+msgctxt "12972"
+msgid "Miyu"
+msgstr ""
+
+msgctxt "12976"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "12980"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "12984"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "12988"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "12992"
+msgid "dummy"
+msgstr ""
+
+msgctxt "12996"
+msgid "0"
+msgstr ""
+
+msgctxt "13000"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "13004"
+msgid "Talk_No"
+msgstr ""

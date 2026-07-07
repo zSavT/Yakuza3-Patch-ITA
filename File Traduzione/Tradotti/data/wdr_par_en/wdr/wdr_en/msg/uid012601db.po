@@ -1,0 +1,60 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "100"
+msgid "Kiryu-san? I heard from my dad, and he wants to see me today."
+msgstr ""
+
+msgctxt "112"
+msgid "Today?"
+msgstr ""
+
+msgctxt "124"
+msgid "Yeah. Are you sure you're okay with this?"
+msgstr ""
+
+msgctxt "136"
+msgid "Yeah, don't worry about it."
+msgstr ""
+
+msgctxt "148"
+msgid "All right... Then, could you come over to the monorail station?"
+msgstr ""
+
+msgctxt "160"
+msgid "My dad and I will wait for you there."
+msgstr ""
+
+msgctxt "172"
+msgid "Got it."
+msgstr ""
+
+msgctxt "1256"
+msgid "P_stand_tlk_phone_st"
+msgstr ""
+
+msgctxt "1260"
+msgid "Mika"
+msgstr ""
+
+msgctxt "1264"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1268"
+msgid "P_stand_tlk_phone_ed"
+msgstr ""
+
+msgctxt "1272"
+msgid "dummy"
+msgstr ""

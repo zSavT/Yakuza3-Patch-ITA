@@ -1,0 +1,46 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "92"
+msgid "What's with all the police officers around here? Did something happen?"
+msgstr ""
+
+msgctxt "104"
+msgid "I heard there was some trouble over at Stardust. Maybe it's related to that."
+msgstr ""
+
+msgctxt "116"
+msgid ""
+"Things are goin' right back to the way they used to be... Kamurocho's been "
+"so much safer recently, too."
+msgstr ""
+
+msgctxt "684"
+msgid "Troubled Man"
+msgstr ""
+
+msgctxt "688"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "692"
+msgid "Sharp-Eared Woman"
+msgstr ""
+
+msgctxt "696"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "700"
+msgid "Talk_Gakkari"
+msgstr ""

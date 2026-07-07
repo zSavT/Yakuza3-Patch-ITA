@@ -1,0 +1,167 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid "Extra! Extra!"
+msgstr ""
+
+msgctxt "76"
+msgid "Guilty criminal of six-year-old murder turns herself in!"
+msgstr ""
+
+msgctxt "88"
+msgid ""
+"The man originally accused of the crime now stands to\r\n"
+"be acquitted at a new trial!"
+msgstr ""
+
+msgctxt "100"
+msgid ""
+"I was wrong about the media. I thought you just went from\r\n"
+"one person to the next, looking for gossip."
+msgstr ""
+
+msgctxt "112"
+msgid ""
+"I didn't think you cared about the people in your articles.\r\n"
+"I figured you just forgot about them the second they left\r\n"
+"your pages..."
+msgstr ""
+
+msgctxt "124"
+msgid "......"
+msgstr ""
+
+msgctxt "136"
+msgid ""
+"But you've been worrying about my brother this whole time.\r\n"
+"You even proved his innocence. There <Italic>are</Italic> decent people "
+"in\r\n"
+"the media."
+msgstr ""
+
+msgctxt "148"
+msgid "Thank you so much for helping him!"
+msgstr ""
+
+msgctxt "160"
+msgid "Nozomi-san..."
+msgstr ""
+
+msgctxt "172"
+msgid ""
+"I also have to apologize for the way I treated you. I want\r\n"
+"to give you a reward for helping me get a retrial for my\r\n"
+"brother."
+msgstr ""
+
+msgctxt "184"
+msgid ""
+"You don't owe me anything. As much as I hate to admit it,\r\n"
+"I didn't do anything on this one."
+msgstr ""
+
+msgctxt "196"
+msgid ""
+"Proving your brother's innocence was all the work of\r\n"
+"Kiryu-san here. I certainly don't deserve any reward from\r\n"
+"you."
+msgstr ""
+
+msgctxt "208"
+msgid ""
+"What are you talking about? You did what a real journalist\r\n"
+"is supposed to do."
+msgstr ""
+
+msgctxt "220"
+msgid "What do you mean?"
+msgstr ""
+
+msgctxt "232"
+msgid ""
+"Sure, you wrote an article saying Akechi was a murderer...\r\n"
+"But now you've written an article clearing his name."
+msgstr ""
+
+msgctxt "244"
+msgid ""
+"Isn't that the way a real journalist is supposed to resolve\r\n"
+"things?"
+msgstr ""
+
+msgctxt "256"
+msgid "Sure, but... But I won't let this be the end of it."
+msgstr ""
+
+msgctxt "268"
+msgid ""
+"I'll continue to follow the truth until the day I put down\r\n"
+"my pen."
+msgstr ""
+
+msgctxt "280"
+msgid "That's my duty as a reporter."
+msgstr ""
+
+msgctxt "292"
+msgid "And I'll be cheering you on!"
+msgstr ""
+
+msgctxt "364"
+msgid "You got <Color:8>200,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "388"
+msgid "You got 20,000 EXP."
+msgstr ""
+
+msgctxt "4724"
+msgid "Man Handing Out Papers"
+msgstr ""
+
+msgctxt "4728"
+msgid "Talk_Kamae"
+msgstr ""
+
+msgctxt "4732"
+msgid "Nozomi"
+msgstr ""
+
+msgctxt "4736"
+msgid "Wakazo"
+msgstr ""
+
+msgctxt "4740"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "4744"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "4748"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "4752"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "4756"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "4760"
+msgid "Talk_Call"
+msgstr ""

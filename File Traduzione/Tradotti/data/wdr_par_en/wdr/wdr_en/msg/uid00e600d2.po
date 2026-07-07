@@ -1,0 +1,38 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid "What's going on here?"
+msgstr ""
+
+msgctxt "76"
+msgid "Some yakuza just burst in and slammed a suitcase full of cash on the table!"
+msgstr ""
+
+msgctxt "88"
+msgid ""
+"I've never seen that much money in my life... I wonder how fat those stacks "
+"were."
+msgstr ""
+
+msgctxt "516"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "520"
+msgid "Sharp-Eyed Naoko"
+msgstr ""
+
+msgctxt "524"
+msgid "Talk_Quest"
+msgstr ""

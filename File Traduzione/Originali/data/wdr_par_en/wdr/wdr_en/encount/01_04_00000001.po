@@ -1,0 +1,56 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "124"
+msgid "You just kicked a rock into my subordinate. Pretty sure he broke somethin'."
+msgstr ""
+
+msgctxt "136"
+msgid "I think we need to have a little talk."
+msgstr ""
+
+msgctxt "160"
+msgid "Sorry, sorry! Nothin' broke after all!"
+msgstr ""
+
+msgctxt "172"
+msgid "Here, sorry for takin' up your time..."
+msgstr ""
+
+msgctxt "184"
+msgid "You got a natto-covered %s."
+msgstr ""
+
+msgctxt "220"
+msgid "Oh, ha.... haha... Was that not enough?"
+msgstr ""
+
+msgctxt "1312"
+msgid "Disgruntled Yakuza"
+msgstr ""
+
+msgctxt "1316"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "1320"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "1324"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "1328"
+msgid "Sync_Send"
+msgstr ""

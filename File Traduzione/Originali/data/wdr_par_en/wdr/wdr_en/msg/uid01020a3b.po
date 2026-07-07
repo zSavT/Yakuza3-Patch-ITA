@@ -1,0 +1,139 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid "Hmm?"
+msgstr ""
+
+msgctxt "76"
+msgid "What's this doing here?"
+msgstr ""
+
+msgctxt "88"
+msgid "What're you doing, Uncle Kaz?"
+msgstr ""
+
+msgctxt "100"
+msgid "Looks like something washed up on the shore."
+msgstr ""
+
+msgctxt "112"
+msgid ""
+"Hey, you're right! It looks like there's something in that bottle, too... a "
+"letter?"
+msgstr ""
+
+msgctxt "124"
+msgid "(Let's see what it says...)"
+msgstr ""
+
+msgctxt "196"
+msgid ""
+"...It's been six months now, Yasu-kun. Six months since you went off for "
+"your fishing expedition and never came back."
+msgstr ""
+
+msgctxt "208"
+msgid ""
+"The date for our wedding has come and gone. Every day, I stare up at that "
+"beautiful wedding gown I was supposed to wear, the one we picked out "
+"together..."
+msgstr ""
+
+msgctxt "220"
+msgid "I can't go on like this. Not without you, Yasu-kun."
+msgstr ""
+
+msgctxt "232"
+msgid ""
+"I'm coming to be with you. Soon, we'll have our happily ever after... even "
+"if it's not in this world."
+msgstr ""
+
+msgctxt "244"
+msgid "(Oh no...)"
+msgstr ""
+
+msgctxt "256"
+msgid "Wait, is this... a suicide letter?"
+msgstr ""
+
+msgctxt "268"
+msgid "Reads like it, yeah."
+msgstr ""
+
+msgctxt "280"
+msgid ""
+"I think I've seen this bottle before.... Yeah, I saw one at a store on the "
+"corner of Kariyushi Arcade."
+msgstr ""
+
+msgctxt "292"
+msgid "You did? If so, I might be able to track down who wrote this letter."
+msgstr ""
+
+msgctxt "304"
+msgid ""
+"Please, could you!? C'mon, you have to! You've got to find her and stop her "
+"from killing herself!"
+msgstr ""
+
+msgctxt "316"
+msgid ""
+"You said the Kariyushi Arcade, right? I'll go there and ask them about the "
+"bottle."
+msgstr ""
+
+msgctxt "4068"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "4072"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "4076"
+msgid "Talk_Hirou_st"
+msgstr ""
+
+msgctxt "4080"
+msgid "kaiwabgm_loneliness"
+msgstr ""
+
+msgctxt "4084"
+msgid "SetKAS_stand_tlk_pic_kamae"
+msgstr ""
+
+msgctxt "4088"
+msgid "Idle"
+msgstr ""
+
+msgctxt "4092"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "4096"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "4100"
+msgid "Talk_Request"
+msgstr ""
+
+msgctxt "4104"
+msgid "dummy"
+msgstr ""
+
+msgctxt "4108"
+msgid "0"
+msgstr ""

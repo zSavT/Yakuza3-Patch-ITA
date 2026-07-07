@@ -1,0 +1,92 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "88"
+msgid "Owww!"
+msgstr ""
+
+msgctxt "100"
+msgid "What was that for, Mizuki-chan...?"
+msgstr ""
+
+msgctxt "112"
+msgid "Akimoto-kun, you idiot!"
+msgstr ""
+
+msgctxt "124"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "136"
+msgid "Why!? Why are you always trying to kill yourself!?"
+msgstr ""
+
+msgctxt "148"
+msgid ""
+"I'm sorry Akimoto-kun... I've been lying to you this whole\r\n"
+"time... I've deceived you, and taken your money..."
+msgstr ""
+
+msgctxt "160"
+msgid ""
+"But... you kept on smiling. You weren't like all my other\r\n"
+"customers. You truly cared for me, Akimoto-kun..."
+msgstr ""
+
+msgctxt "172"
+msgid "Despite all that, I..."
+msgstr ""
+
+msgctxt "184"
+msgid "Mizuki-chan..."
+msgstr ""
+
+msgctxt "1884"
+msgid "C24_MIZ_sitgrd_sync_binta_st"
+msgstr ""
+
+msgctxt "1888"
+msgid "C24_AKM_sitgrd_sync_binta_st"
+msgstr ""
+
+msgctxt "1892"
+msgid "C24_MIZ_sitgrd_sync_binta_lpA"
+msgstr ""
+
+msgctxt "1896"
+msgid "C24_AKM_sitgrd_sync_binta_lpA"
+msgstr ""
+
+msgctxt "1900"
+msgid "Akimoto"
+msgstr ""
+
+msgctxt "1904"
+msgid "Mizuki"
+msgstr ""
+
+msgctxt "1908"
+msgid "C24_MIZ_sitgrd_sync_binta_AtoB"
+msgstr ""
+
+msgctxt "1912"
+msgid "C24_AKM_sitgrd_sync_binta_AtoB"
+msgstr ""
+
+msgctxt "1916"
+msgid "C24_MIZ_sitgrd_sync_binta_lpB"
+msgstr ""
+
+msgctxt "1920"
+msgid "C24_AKM_sitgrd_sync_binta_lpB"
+msgstr ""

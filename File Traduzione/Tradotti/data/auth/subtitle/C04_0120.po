@@ -1,0 +1,46 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "129\t177"
+msgid "So..."
+msgstr ""
+
+msgctxt "200\t321"
+msgid "Kazuma Kiryu's a fuckin' beast."
+msgstr ""
+
+msgctxt "350\t410"
+msgid "No winnin' against that."
+msgstr ""
+
+msgctxt "420\t561"
+msgid ""
+"Now, I asked you a question.\\n"
+"What are you plotting?"
+msgstr ""
+
+msgctxt "590\t648"
+msgid "The wheels're in motion."
+msgstr ""
+
+msgctxt "666\t829"
+msgid "Your boy Kashiwagi's gonna die."
+msgstr ""
+
+msgctxt "831\t872"
+msgid "What!?"
+msgstr ""
+
+msgctxt "911\t1081"
+msgid "This war's... just gettin' started!"
+msgstr ""

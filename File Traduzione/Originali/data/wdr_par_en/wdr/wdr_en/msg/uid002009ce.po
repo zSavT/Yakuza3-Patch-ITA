@@ -1,0 +1,273 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "172"
+msgid ""
+"No! I can't believe I lost! How can you be this strong!? I underestimated "
+"you..."
+msgstr ""
+
+msgctxt "184"
+msgid "You did pretty well, but you're clearly out of practice."
+msgstr ""
+
+msgctxt "196"
+msgid ""
+"You're right! I'm sorry for not taking this more seriously! I'm never gonna "
+"get a girl like this... I need to get back to my training, huh."
+msgstr ""
+
+msgctxt "208"
+msgid ""
+"There's nothing wrong with wanting to be strong or have money, but you need "
+"more than that if you want a woman. You've got to be a real man."
+msgstr ""
+
+msgctxt "220"
+msgid ""
+"And you're never going to find a woman if you keep wearing that frown "
+"wherever you go."
+msgstr ""
+
+msgctxt "232"
+msgid "You're right... Thanks for the tips!"
+msgstr ""
+
+msgctxt "244"
+msgid "I shouldn't be wasting my time working here!"
+msgstr ""
+
+msgctxt "256"
+msgid "I've gotta work on myself instead!"
+msgstr ""
+
+msgctxt "292"
+msgid ""
+"Fighting him dredged up memories of one of the Komaki techniques I used to "
+"know..."
+msgstr ""
+
+msgctxt "304"
+msgid ""
+"You can now use <Color:9>Komaki Parry<Color:Default>. Hold "
+"<Action:Battle_Fight_Stance@Combat> to enter a fighting stance, then press "
+"<Action:Battle_Drop_Weapon@Combat> when an enemy attacks with a bare fist "
+"to activate this technique."
+msgstr ""
+
+msgctxt "340"
+msgid "Well, I'd better find the next student."
+msgstr ""
+
+msgctxt "352"
+msgid ""
+"I've defeated all of the old man's pupils. I'd better get back to the "
+"Komaki Dojo."
+msgstr ""
+
+msgctxt "364"
+msgid ""
+"Heh. Looks like I won that one, Kiryu-san! You've got a little more "
+"training to do yourself, huh? Come back and face me anytime!"
+msgstr ""
+
+msgctxt "376"
+msgid "(Damn, I lost... I should try fighting him again sometime.)"
+msgstr ""
+
+msgctxt "436"
+msgid "Oh, hello, Mr. Kiryu. Looking for a rematch?"
+msgstr ""
+
+msgctxt "460"
+msgid ""
+"Heh... You got it. I don't mind gettin' another victory under my belt. "
+"Let's do this!"
+msgstr ""
+
+msgctxt "484"
+msgid "No worries. Come back anytime. I'm always ready to take you on."
+msgstr ""
+
+msgctxt "496"
+msgid ""
+"Hey, you! Why don't you take a load off at our hostess club? Our girls are "
+"as cute as they come!"
+msgstr ""
+
+msgctxt "508"
+msgid ""
+"Not right now. I've got business with you, actually. Are you one of "
+"Komaki's students?"
+msgstr ""
+
+msgctxt "520"
+msgid "Wha... By any chance, are you Kazuma Kiryu?"
+msgstr ""
+
+msgctxt "532"
+msgid "Yeah, that's me."
+msgstr ""
+
+msgctxt "544"
+msgid "So you're the famous Kiryu..."
+msgstr ""
+
+msgctxt "556"
+msgid ""
+"Heh. Master Komaki told me all about you. He wants you to fight his former "
+"pupils so you can remember the moves he taught you in the past, right?"
+msgstr ""
+
+msgctxt "568"
+msgid ""
+"Kiryu-san... If a man wants to be popular with women in Kamurocho, what is "
+"the one thing he needs?"
+msgstr ""
+
+msgctxt "580"
+msgid "Huh? You asking for my advice or something?"
+msgstr ""
+
+msgctxt "592"
+msgid ""
+"You see, Kiryu-san, I've seen a lot of people in my time here, and I've "
+"determined that strength isn't the only thing you need to be drowning in "
+"women."
+msgstr ""
+
+msgctxt "604"
+msgid "You have to be swimming in cash! That's what's really important!"
+msgstr ""
+
+msgctxt "616"
+msgid ""
+"I realized I'd have a better chance with women if I worked hard and saved "
+"up money for a year instead of wasting my time training with Komaki."
+msgstr ""
+
+msgctxt "628"
+msgid "That's why I'm working here now!"
+msgstr ""
+
+msgctxt "640"
+msgid ""
+"Hey, if I beat you, will you give me a little extra cash? Hahaha, just "
+"kidding!"
+msgstr ""
+
+msgctxt "652"
+msgid ""
+"Having money can definitely make life easier, but it can't buy you "
+"everything."
+msgstr ""
+
+msgctxt "664"
+msgid "Did you really quit training with Komaki to make a bit more money?"
+msgstr ""
+
+msgctxt "676"
+msgid ""
+"I mean, I liked training, and getting stronger, too, but I know it takes "
+"more than sheer strength to impress women..."
+msgstr ""
+
+msgctxt "688"
+msgid ""
+"Besides, I'm already pretty strong! It's time for me to work on something "
+"else!"
+msgstr ""
+
+msgctxt "700"
+msgid "Hmm... Strength isn't everything, huh?"
+msgstr ""
+
+msgctxt "712"
+msgid "Well, why don't you show me just how strong you really are. Let's do this."
+msgstr ""
+
+msgctxt "748"
+msgid "Yeah, you're going down."
+msgstr ""
+
+msgctxt "760"
+msgid "No, maybe later."
+msgstr ""
+
+msgctxt "9576"
+msgid "Barker"
+msgstr ""
+
+msgctxt "9580"
+msgid "Talk_Sorry"
+msgstr ""
+
+msgctxt "9584"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "9588"
+msgid "Talk_Udekumi_st"
+msgstr ""
+
+msgctxt "9592"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "9596"
+msgid "Talk_Udekumi_Yes"
+msgstr ""
+
+msgctxt "9600"
+msgid "Talk_Udekumi_ed"
+msgstr ""
+
+msgctxt "9604"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "9608"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "9612"
+msgid "Talk_Tabako_st"
+msgstr ""
+
+msgctxt "9616"
+msgid "Talk_Tabako_ed_02"
+msgstr ""
+
+msgctxt "9620"
+msgid "M_nml_stand_tlk_kamae"
+msgstr ""
+
+msgctxt "9624"
+msgid "Talk_SmileBig_st"
+msgstr ""
+
+msgctxt "9628"
+msgid "P_stand_tlk_kosite_st"
+msgstr ""
+
+msgctxt "9632"
+msgid "Talk_SmileBig_ed"
+msgstr ""
+
+msgctxt "9636"
+msgid "P_stand_tlk_kosite_yes"
+msgstr ""
+
+msgctxt "9640"
+msgid "P_stand_sync_btl_nirami_st"
+msgstr ""

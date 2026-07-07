@@ -1,0 +1,116 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid "You're fired!"
+msgstr ""
+
+msgctxt "76"
+msgid "Whaaaaat!?"
+msgstr ""
+
+msgctxt "88"
+msgid ""
+"Are you stupid!? You can't just let people leave and\r\n"
+"\"pay later\"!"
+msgstr ""
+
+msgctxt "100"
+msgid ""
+"I'm taking our losses out of your wages. Good grief...\r\n"
+"We're short on staff as it is. Damn it all..."
+msgstr ""
+
+msgctxt "136"
+msgid "Oh... Kiryu-san. I got fired again..."
+msgstr ""
+
+msgctxt "148"
+msgid "Yeah, I saw."
+msgstr ""
+
+msgctxt "160"
+msgid ""
+"I can't even cut it at a bowling alley... I've probably\r\n"
+"been fired from every place in Kamurocho that'll hire me."
+msgstr ""
+
+msgctxt "172"
+msgid "Well, this being Kamurocho, you could always try the clubs."
+msgstr ""
+
+msgctxt "184"
+msgid "Clubs, huh? I do enjoy my liquor. That's not a bad idea."
+msgstr ""
+
+msgctxt "196"
+msgid "I love chatting with customers, too. I'll look into it."
+msgstr ""
+
+msgctxt "208"
+msgid ""
+"Thanks! Kiryu-san, if you're ever in a rough spot, you can always count on "
+"me."
+msgstr ""
+
+msgctxt "2912"
+msgid "Owner"
+msgstr ""
+
+msgctxt "2916"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "2920"
+msgid "Kaede"
+msgstr ""
+
+msgctxt "2924"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "2928"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "2932"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "2936"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "2940"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "2944"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "2948"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "2952"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "2956"
+msgid "dummy"
+msgstr ""
+
+msgctxt "2960"
+msgid "0"
+msgstr ""

@@ -1,0 +1,290 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "136"
+msgid "...And that's how it is."
+msgstr ""
+
+msgctxt "148"
+msgid "Give the kid a chance. Just one date to see if you jive."
+msgstr ""
+
+msgctxt "160"
+msgid "Yeah... Please..."
+msgstr ""
+
+msgctxt "172"
+msgid "I'm sorry... I'm more interested in this older gentleman."
+msgstr ""
+
+msgctxt "184"
+msgid "Wait, what!? This older gentleman...?"
+msgstr ""
+
+msgctxt "196"
+msgid ""
+"I'm more into mature, dependable guys, like him. At least,\r\n"
+"that's who I'd rather go on a date with..."
+msgstr ""
+
+msgctxt "208"
+msgid "What!? But... no..."
+msgstr ""
+
+msgctxt "232"
+msgid ""
+"Hey! What's the big idea!? This isn't how it was supposed\r\n"
+"to go at all!"
+msgstr ""
+
+msgctxt "244"
+msgid "Why am I the bad guy here?"
+msgstr ""
+
+msgctxt "256"
+msgid ""
+"You came by a half-dozen times to buy burgers, but it was\r\n"
+"all because you had a crush on me?"
+msgstr ""
+
+msgctxt "268"
+msgid "No! I mean, I just think you're...!"
+msgstr ""
+
+msgctxt "280"
+msgid ""
+"Then why didn't you just ask me out on a date? I'm not\r\n"
+"really attracted to guys who don't have the courage to\r\n"
+"do something like that."
+msgstr ""
+
+msgctxt "292"
+msgid "Ugh..."
+msgstr ""
+
+msgctxt "316"
+msgid ""
+"Sorry if this is weird, but would you read this letter he wrote for you? It "
+"explains just how he feels about you."
+msgstr ""
+
+msgctxt "328"
+msgid "Oh... All right."
+msgstr ""
+
+msgctxt "340"
+msgid "Um, please read it!"
+msgstr ""
+
+msgctxt "352"
+msgid "......"
+msgstr ""
+
+msgctxt "364"
+msgid "......"
+msgstr ""
+
+msgctxt "376"
+msgid "...Well?"
+msgstr ""
+
+msgctxt "388"
+msgid ""
+"Oh... Okay, I understand how you feel about me now. To be\r\n"
+"honest, mature, dependable men like this man are more my\r\n"
+"type, but..."
+msgstr ""
+
+msgctxt "400"
+msgid ""
+"You bought so many burgers, and you seem really sincere\r\n"
+"in this letter... I guess I wouldn't mind going on one date\r\n"
+"with you."
+msgstr ""
+
+msgctxt "412"
+msgid "Really!?"
+msgstr ""
+
+msgctxt "424"
+msgid "Good for you. I'm glad it worked out."
+msgstr ""
+
+msgctxt "436"
+msgid ""
+"I've got a few hours left on my shift, but I'll send you a\r\n"
+"text when I'm off."
+msgstr ""
+
+msgctxt "448"
+msgid "Okay! Thank you so much!"
+msgstr ""
+
+msgctxt "472"
+msgid "Can I get a hamburger?"
+msgstr ""
+
+msgctxt "484"
+msgid "Huh!? Why are you⑬ No! We don't need any more burgers!"
+msgstr ""
+
+msgctxt "496"
+msgid "Umm, would you like to order, or..."
+msgstr ""
+
+msgctxt "508"
+msgid "Not now. Sorry about the confusion."
+msgstr ""
+
+msgctxt "520"
+msgid ""
+"The only reason this guy's been buying boatloads of burgers is because he "
+"likes you and wants to ask you out."
+msgstr ""
+
+msgctxt "532"
+msgid "Huh? But I'm..."
+msgstr ""
+
+msgctxt "544"
+msgid "Would you consider going out on a date with him?"
+msgstr ""
+
+msgctxt "556"
+msgid "...I'll go on a date."
+msgstr ""
+
+msgctxt "568"
+msgid "Huh!?"
+msgstr ""
+
+msgctxt "580"
+msgid "...With this older gentleman here."
+msgstr ""
+
+msgctxt "592"
+msgid "What?"
+msgstr ""
+
+msgctxt "604"
+msgid "Whaaaaaaaaaaaaa!?"
+msgstr ""
+
+msgctxt "616"
+msgid ""
+"I like guys who are mature and reliable, like this gentleman\r\n"
+"here."
+msgstr ""
+
+msgctxt "628"
+msgid "Huh!? But what about me..."
+msgstr ""
+
+msgctxt "640"
+msgid ""
+"Sorry, but you're not really my type. I might've given you a\r\n"
+"chance if you'd asked me out on your own, but... I like guys\r\n"
+"who've got the courage to actually ask me out."
+msgstr ""
+
+msgctxt "652"
+msgid ""
+"Hey! What's the big idea!? This isn't how it was supposed\r\n"
+"to go at all!"
+msgstr ""
+
+msgctxt "664"
+msgid "...Why am I the bad guy here?"
+msgstr ""
+
+msgctxt "676"
+msgid ""
+"I might've thought about it if you'd asked me out, but...\r\n"
+"I'm not into guys who don't at least have a little courage."
+msgstr ""
+
+msgctxt "688"
+msgid "Ugh..."
+msgstr ""
+
+msgctxt "712"
+msgid "Will you go on a date with him?"
+msgstr ""
+
+msgctxt "724"
+msgid "Will you read his love letter?"
+msgstr ""
+
+msgctxt "736"
+msgid "Can I get a hamburger?"
+msgstr ""
+
+msgctxt "7724"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "7728"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "7732"
+msgid "Lovelorn Teenager"
+msgstr ""
+
+msgctxt "7736"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "7740"
+msgid "Burger Girl"
+msgstr ""
+
+msgctxt "7744"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "7748"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "7752"
+msgid "Idle"
+msgstr ""
+
+msgctxt "7756"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "7760"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "7764"
+msgid "SetF_nml_stand_read_maga"
+msgstr ""
+
+msgctxt "7768"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "7772"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "7776"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "7780"
+msgid "Talk_Call"
+msgstr ""

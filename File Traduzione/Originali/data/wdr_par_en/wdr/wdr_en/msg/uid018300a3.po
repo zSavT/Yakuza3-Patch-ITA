@@ -1,0 +1,238 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "108"
+msgid "Here we are."
+msgstr ""
+
+msgctxt "120"
+msgid "Great, just gimme a sec!"
+msgstr ""
+
+msgctxt "192"
+msgid "All settled, Aniki!"
+msgstr ""
+
+msgctxt "204"
+msgid "(Looks like we're done with the shopping leg of the trip. What now?)"
+msgstr ""
+
+msgctxt "216"
+msgid "(Guess I could hang out with Rikiya some more.)"
+msgstr ""
+
+msgctxt "228"
+msgid "Rikiya, you have anywhere else you want to go?"
+msgstr ""
+
+msgctxt "240"
+msgid "Hell yeah I do! Get me on the roof of that monstrosity over there!"
+msgstr ""
+
+msgctxt "252"
+msgid "Huh? The Millennium Tower?"
+msgstr ""
+
+msgctxt "264"
+msgid ""
+"That's gotta be like, the tallest building in the world, right? I wanna see "
+"how Tokyo looks from up there!"
+msgstr ""
+
+msgctxt "276"
+msgid "...I'm not sure we can do that. The cops are all over the place."
+msgstr ""
+
+msgctxt "288"
+msgid "...Guess they would be, huh. No surprise after what happened."
+msgstr ""
+
+msgctxt "300"
+msgid ""
+"...Sorry 'bout all this, Aniki. I got so caught up in my own\r\n"
+"hype that I never stopped n' thought about what you were\r\n"
+"goin' through."
+msgstr ""
+
+msgctxt "312"
+msgid "It's okay, Rikiya."
+msgstr ""
+
+msgctxt "324"
+msgid "Hey, why don't we go someplace quieter?"
+msgstr ""
+
+msgctxt "336"
+msgid "Hm? Why?"
+msgstr ""
+
+msgctxt "348"
+msgid ""
+"Well I mean, I never met this Kashiwagi-san personally, but\r\n"
+"he was real important to you... Right, Aniki?"
+msgstr ""
+
+msgctxt "360"
+msgid "Yeah."
+msgstr ""
+
+msgctxt "372"
+msgid ""
+"Then it's settled. Anyone who's important in your eyes is\r\n"
+"important in my eyes, too."
+msgstr ""
+
+msgctxt "384"
+msgid ""
+"C'mon, I grabbed some beer over at Don Quijote. Why don't we\r\n"
+"sit down, crack 'em open, and pay tribute to Kashiwagi-san?"
+msgstr ""
+
+msgctxt "396"
+msgid "Rikiya..."
+msgstr ""
+
+msgctxt "408"
+msgid "How 'bout it, Aniki?"
+msgstr ""
+
+msgctxt "420"
+msgid "...Sure. That sounds nice."
+msgstr ""
+
+msgctxt "432"
+msgid "(Public Park 3 is a pretty quiet place.)"
+msgstr ""
+
+msgctxt "456"
+msgid ""
+"Sorry Rikiya, but I think we're gonna have to go our separate ways for "
+"tonight."
+msgstr ""
+
+msgctxt "468"
+msgid "What, already? You got somewhere to be, Aniki?"
+msgstr ""
+
+msgctxt "480"
+msgid "Sort of."
+msgstr ""
+
+msgctxt "492"
+msgid ""
+"Huh. Well, whatevs! I'm gonna keep scopin' out the town if\r\n"
+"you don't mind. Not every day I get to spend time in Tokyo!"
+msgstr ""
+
+msgctxt "504"
+msgid "Think you can manage on your own?"
+msgstr ""
+
+msgctxt "516"
+msgid "Oh, totally! I got a pretty good feel for the layout by now."
+msgstr ""
+
+msgctxt "528"
+msgid ""
+"Heh, if you say so. By the way, there's a bar called New\r\n"
+"Serena over on Tenkaichi Street that we're gonna be using\r\n"
+"as our base of operations."
+msgstr ""
+
+msgctxt "540"
+msgid ""
+"Head there when you're done wandering. And feel free to give\r\n"
+"me a call if you have trouble finding it."
+msgstr ""
+
+msgctxt "552"
+msgid "Will do. Catch ya later, Aniki!"
+msgstr ""
+
+msgctxt "564"
+msgid ""
+"By the way, Aniki. Here's a little thank you for showin' me\r\n"
+"around."
+msgstr ""
+
+msgctxt "600"
+msgid "You got a <Color:8>Zero Jewel<Color:Default>."
+msgstr ""
+
+msgctxt "624"
+msgid "You got a <Color:8>1-1-1 Card<Color:Default>."
+msgstr ""
+
+msgctxt "648"
+msgid "You got a <Color:8>Silver Plate<Color:Default>."
+msgstr ""
+
+msgctxt "672"
+msgid "You got a <Color:8>Toughness Infinity<Color:Default>."
+msgstr ""
+
+msgctxt "696"
+msgid "Well, later!"
+msgstr ""
+
+msgctxt "744"
+msgid "Continue Exploring with Rikiya"
+msgstr ""
+
+msgctxt "756"
+msgid "Go Your Separate Ways"
+msgstr ""
+
+msgctxt "6896"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "6900"
+msgid "Rikiya"
+msgstr ""
+
+msgctxt "6904"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "6908"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "6912"
+msgid "Talk_Info_L"
+msgstr ""
+
+msgctxt "6916"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "6920"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "6924"
+msgid "dummy"
+msgstr ""
+
+msgctxt "6928"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "6932"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "6936"
+msgid "0"
+msgstr ""

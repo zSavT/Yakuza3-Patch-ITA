@@ -1,0 +1,308 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "260"
+msgid "Are you Sawako Usami?"
+msgstr ""
+
+msgctxt "272"
+msgid "Yes. What do you want?"
+msgstr ""
+
+msgctxt "284"
+msgid ""
+"I'm looking into the murder that happened at Café Alps\r\n"
+"six years ago."
+msgstr ""
+
+msgctxt "296"
+msgid "There's nothing left to say."
+msgstr ""
+
+msgctxt "308"
+msgid "Yuichi Akechi might not have killed Oda."
+msgstr ""
+
+msgctxt "320"
+msgid ""
+"If we're gonna find out the truth, I need to hear your\r\n"
+"account of what happened that day."
+msgstr ""
+
+msgctxt "332"
+msgid "......"
+msgstr ""
+
+msgctxt "356"
+msgid "(Let's see. What to ask...?)"
+msgstr ""
+
+msgctxt "368"
+msgid "You were there when Akechi confronted Oda, weren't you?"
+msgstr ""
+
+msgctxt "380"
+msgid ""
+"Yeah. I mean, I was the reason they fought, so of course\r\n"
+"I was there."
+msgstr ""
+
+msgctxt "392"
+msgid "What happened after that? Did you see Akechi kill Oda?"
+msgstr ""
+
+msgctxt "404"
+msgid "I took off, so don't ask me."
+msgstr ""
+
+msgctxt "416"
+msgid "Took off? What do you mean?"
+msgstr ""
+
+msgctxt "428"
+msgid ""
+"Do you have any idea what it feels like to have your\r\n"
+"significant other walk in on you when you're with someone\r\n"
+"else? Talk about awkward...!"
+msgstr ""
+
+msgctxt "440"
+msgid ""
+"And it would've been even more awkward if other people\r\n"
+"started coming in to see what the fuss was all about...\r\n"
+"So I ran out the back door."
+msgstr ""
+
+msgctxt "452"
+msgid "What did you do after you left the café?"
+msgstr ""
+
+msgctxt "464"
+msgid ""
+"I went home... but Yuichi followed me. We spent the\r\n"
+"night arguing about breaking up."
+msgstr ""
+
+msgctxt "476"
+msgid "Of course, I never imagined he'd already killed Oda-san..."
+msgstr ""
+
+msgctxt "488"
+msgid "So, you're saying you didn't see Akechi kill Oda?"
+msgstr ""
+
+msgctxt "500"
+msgid "That's right. And I told the police that, too."
+msgstr ""
+
+msgctxt "512"
+msgid "(So <Color:7>nobody actually saw Akechi kill Oda<Color:Default>, huh...?)"
+msgstr ""
+
+msgctxt "536"
+msgid "You got <Color:8>Usami's Testimony<Color:Default>."
+msgstr ""
+
+msgctxt "584"
+msgid "Tell me about the person seen fleeing the scene."
+msgstr ""
+
+msgctxt "596"
+msgid ""
+"I don't know anything about that. I left the café before\r\n"
+"Yuichi did, so I don't know how he left."
+msgstr ""
+
+msgctxt "608"
+msgid "Weren't there, huh?"
+msgstr ""
+
+msgctxt "620"
+msgid ""
+"(Sounds like I ought to ask for more details about Usami's\r\n"
+"alibi.)"
+msgstr ""
+
+msgctxt "644"
+msgid "Tell me about the person seen fleeing the scene."
+msgstr ""
+
+msgctxt "656"
+msgid ""
+"I don't know anything about that. I left the café before\r\n"
+"Yuichi did, so I don't know how he left."
+msgstr ""
+
+msgctxt "668"
+msgid "Right. Okay."
+msgstr ""
+
+msgctxt "692"
+msgid "Any idea why somebody would kill Oda?"
+msgstr ""
+
+msgctxt "704"
+msgid "Are you trying to be funny?"
+msgstr ""
+
+msgctxt "716"
+msgid "No, I mean... besides your relationship with Oda."
+msgstr ""
+
+msgctxt "728"
+msgid "Did he do anything to make anybody else mad?"
+msgstr ""
+
+msgctxt "740"
+msgid ""
+"I don't know. The police would've known if he had any loans\r\n"
+"out or anything like that, right?"
+msgstr ""
+
+msgctxt "752"
+msgid ""
+"I wasn't particularly close to him, really. We just ended\r\n"
+"up hooking up that night."
+msgstr ""
+
+msgctxt "764"
+msgid "I see..."
+msgstr ""
+
+msgctxt "776"
+msgid ""
+"(Maybe Akechi really <Italic>did</Italic> kill Oda after seeing him with\r\n"
+"Usami...)"
+msgstr ""
+
+msgctxt "800"
+msgid ""
+"They didn't find your fingerprints on the murder weapon,\r\n"
+"right?"
+msgstr ""
+
+msgctxt "812"
+msgid ""
+"Right. They only found Yuichi's. We constantly replaced\r\n"
+"the customers' ashtrays with clean ones, but Yuichi must\r\n"
+"have been the only one to touch that one..."
+msgstr ""
+
+msgctxt "824"
+msgid "I guess he was just unlucky..."
+msgstr ""
+
+msgctxt "836"
+msgid ""
+"Yuichi took good care of the customers and replaced their\r\n"
+"ashtrays often. I think he must've noticed that one was\r\n"
+"chipped..."
+msgstr ""
+
+msgctxt "848"
+msgid "......"
+msgstr ""
+
+msgctxt "872"
+msgid "Are we through here? I'm supposed to be working."
+msgstr ""
+
+msgctxt "884"
+msgid "Right. Sorry. Thanks for the help."
+msgstr ""
+
+msgctxt "920"
+msgid ""
+"I wanna ask you more about the day of the murder, if\r\n"
+"you don't mind."
+msgstr ""
+
+msgctxt "932"
+msgid "......"
+msgstr ""
+
+msgctxt "944"
+msgid "(Let's see. What to ask...?)"
+msgstr ""
+
+msgctxt "956"
+msgid "Ask for Their Alibi"
+msgstr ""
+
+msgctxt "968"
+msgid "Ask About Witness Statements"
+msgstr ""
+
+msgctxt "980"
+msgid "Ask About the Motive"
+msgstr ""
+
+msgctxt "992"
+msgid "Ask About the Fingerprints"
+msgstr ""
+
+msgctxt "1004"
+msgid "Stop Asking Questions"
+msgstr ""
+
+msgctxt "1016"
+msgid "Ask for Their Alibi"
+msgstr ""
+
+msgctxt "1028"
+msgid "Ask About Witness Statements"
+msgstr ""
+
+msgctxt "1040"
+msgid "Ask About the Motive"
+msgstr ""
+
+msgctxt "1052"
+msgid "Ask About the Fingerprints"
+msgstr ""
+
+msgctxt "1064"
+msgid "Stop Asking Questions"
+msgstr ""
+
+msgctxt "9212"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "9216"
+msgid "Usami"
+msgstr ""
+
+msgctxt "9220"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "9224"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "9228"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "9232"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "9236"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "9240"
+msgid "Talk_Sorry"
+msgstr ""

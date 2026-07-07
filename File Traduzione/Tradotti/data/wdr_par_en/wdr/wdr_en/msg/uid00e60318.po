@@ -1,0 +1,339 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid "Ah, here y'are! Let's see what ya brought me..."
+msgstr ""
+
+msgctxt "112"
+msgid ""
+"Ah, a goya. This one looks nice n' fresh, with healthy\r\n"
+"colorin'."
+msgstr ""
+
+msgctxt "124"
+msgid "You handed over a <Color:8>Bitter Melon<Color:Default>."
+msgstr ""
+
+msgctxt "136"
+msgid "Woo-hoo! So \"goya\" really does mean \"bitter melon\"!"
+msgstr ""
+
+msgctxt "160"
+msgid ""
+"Found some dugwai, did ya? This is the source of vitality\r\n"
+"in my juice."
+msgstr ""
+
+msgctxt "172"
+msgid "You gave her some <Color:8>Aloe<Color:Default>."
+msgstr ""
+
+msgctxt "184"
+msgid "So \"dugwai\" means \"aloe\"!? I never knew that."
+msgstr ""
+
+msgctxt "208"
+msgid ""
+"Aha, some kuruzata. This should be sweet and delicious⑬\r\n"
+"much better than white sugar when it comes to makin' juice."
+msgstr ""
+
+msgctxt "220"
+msgid "You gave her some <Color:8>Brown Sugar<Color:Default>."
+msgstr ""
+
+msgctxt "232"
+msgid "Wow, so \"kuruzata\" must mean \"brown sugar.\" That's a toughie."
+msgstr ""
+
+msgctxt "256"
+msgid ""
+"Ooh! You found some shikwasa! These're more sour than\r\n"
+"lemons, and perfect for my juice! I'll bet it cost a\r\n"
+"fortune, though."
+msgstr ""
+
+msgctxt "268"
+msgid "You gave her some <Color:8>Shikwasa<Color:Default>."
+msgstr ""
+
+msgctxt "292"
+msgid ""
+"Shikwasa works better than lemons? She should've told us\r\n"
+"that in the first place..."
+msgstr ""
+
+msgctxt "316"
+msgid ""
+"Well, look at this. Some nice-lookin' basanai. And island\r\n"
+"basanai, at that! These must've cost a pretty penny. But\r\n"
+"I bet they'll be much more tasty."
+msgstr ""
+
+msgctxt "328"
+msgid "You gave her some <Color:8>Island Bananas<Color:Default>."
+msgstr ""
+
+msgctxt "352"
+msgid ""
+"So island bananas are more expensive and taste better than\r\n"
+"the normal ones? Wow, thanks, mister!"
+msgstr ""
+
+msgctxt "376"
+msgid ""
+"This is a fine lemon indeed. I'll need it to soften the\r\n"
+"bitter melon flavor."
+msgstr ""
+
+msgctxt "388"
+msgid "You gave her a <Color:8>Lemon<Color:Default>."
+msgstr ""
+
+msgctxt "400"
+msgid "At least \"lemon\" still means \"lemon.\" That's an easy one."
+msgstr ""
+
+msgctxt "424"
+msgid ""
+"Well, look at this. Some nice-lookin' basanai. Sweet n'\r\n"
+"delicious, I'm sure."
+msgstr ""
+
+msgctxt "436"
+msgid "You gave her some <Color:8>Bananas<Color:Default>."
+msgstr ""
+
+msgctxt "448"
+msgid "So \"basanai\" means \"bananas\"? I can kinda see that."
+msgstr ""
+
+msgctxt "484"
+msgid ""
+"So, y'brought all the ingredients? Good, now I can whip ya\r\n"
+"up a nice batch of goya juice. Don't ya worry 'bout a thing!"
+msgstr ""
+
+msgctxt "496"
+msgid "Really!? Thank you so much!"
+msgstr ""
+
+msgctxt "568"
+msgid "Here y'are. One fresh serving of goya juice, made just for you."
+msgstr ""
+
+msgctxt "580"
+msgid "Wow... So the Mythical Goya Juice... It was real after all!"
+msgstr ""
+
+msgctxt "592"
+msgid ""
+"The basanai and dugwai are very important ingredients, too,\r\n"
+"y'know. Don't forget that."
+msgstr ""
+
+msgctxt "604"
+msgid ""
+"I'm gonna take this right to my mom! Thanks so much, ma'am!\r\n"
+"And you, too, mister!"
+msgstr ""
+
+msgctxt "628"
+msgid ""
+"That was really kind of you. I'm sure that juice will help\r\n"
+"the kid's mom get better."
+msgstr ""
+
+msgctxt "640"
+msgid ""
+"Well, aren't you the kindest fella? Honestly, it felt right\r\n"
+"proper makin' a big batch of goya juice after all this time."
+msgstr ""
+
+msgctxt "652"
+msgid ""
+"Folks reckon my juice packs some mythical, medicinal punch\r\n"
+"that'll cure any sickness. But to tell the truth, there's\r\n"
+"nothin' real mysterious about it no more."
+msgstr ""
+
+msgctxt "664"
+msgid ""
+"Y'see, back in my day, basanai, lemons, n' dugwai were so\r\n"
+"darn expensive, almost no one could afford 'em."
+msgstr ""
+
+msgctxt "676"
+msgid ""
+"Just so happened our goya juice was the healthiest thing around. But these "
+"days, nearly anyone can get their hands on those ingredients."
+msgstr ""
+
+msgctxt "688"
+msgid ""
+"Well, to that kid, I'm sure it's still the mythical remedy\r\n"
+"his mom needed. Nothing could've been better."
+msgstr ""
+
+msgctxt "700"
+msgid ""
+"Even though you stopped making it years ago, a lot of people\r\n"
+"are still talking about it. That alone tells me it's some\r\n"
+"incredible stuff."
+msgstr ""
+
+msgctxt "712"
+msgid ""
+"Thank ya for liftin' an old woman's spirits. Now I gave\r\n"
+"all the juice to that boy, but this'll also fix ya up right\r\n"
+"quick."
+msgstr ""
+
+msgctxt "724"
+msgid "You got a <Color:8>Staminan Spark<Color:Default>."
+msgstr ""
+
+msgctxt "748"
+msgid "Thank you."
+msgstr ""
+
+msgctxt "772"
+msgid "You got a <Color:8>Staminan Royale<Color:Default>."
+msgstr ""
+
+msgctxt "796"
+msgid "Thank you."
+msgstr ""
+
+msgctxt "808"
+msgid "Goodbye, n' good luck to ya."
+msgstr ""
+
+msgctxt "880"
+msgid "You got 3,000 EXP."
+msgstr ""
+
+msgctxt "892"
+msgid ""
+"This isn't enough for me to make a full batch of goya juice.\r\n"
+"Ya gotta bring me more ingredients."
+msgstr ""
+
+msgctxt "904"
+msgid ""
+"(It would help if I knew what to bring... Well, back to the\r\n"
+"Public Market, I suppose.)"
+msgstr ""
+
+msgctxt "940"
+msgid ""
+"Goya is the most important ingredient in my juice.\r\n"
+"We can't get anywhere without that."
+msgstr ""
+
+msgctxt "952"
+msgid ""
+"I know \"goya\" means \"bitter melon.\" They should be selling\r\n"
+"them at the Public Market."
+msgstr ""
+
+msgctxt "976"
+msgid ""
+"They should be sellin' dugwai over there... It's a thorny\r\n"
+"plant, good for soothin' burns."
+msgstr ""
+
+msgctxt "1000"
+msgid "I'm sure they must be sellin' kuruzata over there..."
+msgstr ""
+
+msgctxt "1012"
+msgid ""
+"\"Kuruzata\"? I wonder what that is? I think the \"zata\" part\r\n"
+"might mean \"sugar.\""
+msgstr ""
+
+msgctxt "1036"
+msgid "A lemon's a lemon, plain n' simple. Gotta be nice n' sour."
+msgstr ""
+
+msgctxt "1060"
+msgid ""
+"Basanai, silly. Y'know how it's yellow and sweet?\r\n"
+"...Don't young folks say \"basanai\" anymore?"
+msgstr ""
+
+msgctxt "13748"
+msgid "Old Woman"
+msgstr ""
+
+msgctxt "13752"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "13756"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "13760"
+msgid "Child"
+msgstr ""
+
+msgctxt "13764"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "13768"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "13772"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "13776"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "13780"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "13784"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "13788"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "13792"
+msgid "Talk_Kansin"
+msgstr ""
+
+msgctxt "13796"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "13800"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "13804"
+msgid "Sync_Send"
+msgstr ""
+
+msgctxt "13808"
+msgid "Talk_Quest"
+msgstr ""

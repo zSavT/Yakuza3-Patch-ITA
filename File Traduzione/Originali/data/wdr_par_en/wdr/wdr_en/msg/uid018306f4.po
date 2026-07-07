@@ -1,0 +1,220 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "332"
+msgid ""
+"I had a lot of fun. <Color:255,200,200,255>⑮<Color:Default> Bye now! "
+"<Color:255,200,200,255>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "344"
+msgid ""
+"That was tons of fun. <Color:255,200,200,255>⑮<Color:Default> See you! "
+"<Color:255,200,200,255>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "356"
+msgid ""
+"That was, like, so much fun, Kiryu-san. "
+"<Color:255,200,200,255>⑮<Color:Default> See you later! "
+"<Color:255,200,200,255>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "368"
+msgid ""
+"That was, like, so much fun, Kiryu-san. "
+"<Color:255,200,200,255>⑮<Color:Default> See you later, okay? "
+"<Color:255,200,200,255>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "500"
+msgid "Hello, Hanayama speaking."
+msgstr ""
+
+msgctxt "512"
+msgid "I'm over at Bantam right now. How about meeting me here for a game of darts?"
+msgstr ""
+
+msgctxt "524"
+msgid "Sure. I'll be there in a minute."
+msgstr ""
+
+msgctxt "620"
+msgid ""
+"Sorry to keep you waiting! <Color:255,200,200,255>⑮<Color:Default> Okay, "
+"let's get this party started!"
+msgstr ""
+
+msgctxt "680"
+msgid "Hello, Nagamori here."
+msgstr ""
+
+msgctxt "692"
+msgid "I'm over at Bantam right now. How about meeting me here for a game of darts?"
+msgstr ""
+
+msgctxt "704"
+msgid ""
+"Darts? Aw, what the heck? I'll come hang out with you. "
+"<Color:255,200,200,255>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "800"
+msgid "I'm finally here! <Color:255,200,200,255>⑮<Color:Default> Let's get started!"
+msgstr ""
+
+msgctxt "860"
+msgid "This is Kana."
+msgstr ""
+
+msgctxt "872"
+msgid "I'm over at Bantam right now. How about meeting me here for a game of darts?"
+msgstr ""
+
+msgctxt "884"
+msgid ""
+"Darts? Well, that does sound fun. Sure, let's go. "
+"<Color:255,200,200,255>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "980"
+msgid ""
+"I'm finally here! <Color:255,200,200,255>⑮<Color:Default> Ready to throw "
+"some darts?"
+msgstr ""
+
+msgctxt "1040"
+msgid "Heeeey, this is Ranko."
+msgstr ""
+
+msgctxt "1052"
+msgid "Hey. You still here?"
+msgstr ""
+
+msgctxt "1064"
+msgid "Mm-hmm. We're still getting all our stuff together."
+msgstr ""
+
+msgctxt "1076"
+msgid "So, what's up?"
+msgstr ""
+
+msgctxt "1088"
+msgid "I'm over at Bantam right now. How about meeting me here for a game of darts?"
+msgstr ""
+
+msgctxt "1100"
+msgid "Sure, sounds fun! I'm on my way. <Color:255,200,200,255>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "1196"
+msgid ""
+"Ugh, sorry that took so long! <Color:255,200,200,255>⑮<Color:Default> Let's "
+"get things started, yeah?"
+msgstr ""
+
+msgctxt "1244"
+msgid "All right, that will be 400 yen for two players."
+msgstr ""
+
+msgctxt "1268"
+msgid "Play '01 Game"
+msgstr ""
+
+msgctxt "1280"
+msgid "Play Cricket"
+msgstr ""
+
+msgctxt "1292"
+msgid "Play Count-Up"
+msgstr ""
+
+msgctxt "1304"
+msgid "Play '01 Game"
+msgstr ""
+
+msgctxt "1316"
+msgid "Play Cricket"
+msgstr ""
+
+msgctxt "1328"
+msgid "Play Count-Up"
+msgstr ""
+
+msgctxt "1340"
+msgid "Play '01 Game"
+msgstr ""
+
+msgctxt "1352"
+msgid "Play Cricket"
+msgstr ""
+
+msgctxt "1364"
+msgid "Play Count-Up"
+msgstr ""
+
+msgctxt "1376"
+msgid "Play '01 Game"
+msgstr ""
+
+msgctxt "1388"
+msgid "Play Cricket"
+msgstr ""
+
+msgctxt "1400"
+msgid "Play Count-Up"
+msgstr ""
+
+msgctxt "9264"
+msgid "Reimi"
+msgstr ""
+
+msgctxt "9268"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "9272"
+msgid "Shiori"
+msgstr ""
+
+msgctxt "9276"
+msgid "Kana"
+msgstr ""
+
+msgctxt "9280"
+msgid "Ranko"
+msgstr ""
+
+msgctxt "9284"
+msgid "dummy"
+msgstr ""
+
+msgctxt "9288"
+msgid "0"
+msgstr ""
+
+msgctxt "9292"
+msgid "P_stand_tlk_phone_st"
+msgstr ""
+
+msgctxt "9296"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "9300"
+msgid "P_stand_tlk_phone_ed"
+msgstr ""
+
+msgctxt "9304"
+msgid "Bartender"
+msgstr ""

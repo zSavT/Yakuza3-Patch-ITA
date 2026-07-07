@@ -1,0 +1,64 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "96"
+msgid "Hey asshole... D'you realize you just stepped on the phone I dropped?"
+msgstr ""
+
+msgctxt "108"
+msgid ""
+"The fuck? If you think you can just walk by me, you got another thing "
+"comin'!"
+msgstr ""
+
+msgctxt "132"
+msgid ""
+"I'm sorry! The truth is, I stepped on it myself. I just... needed to take "
+"my rage out on someone."
+msgstr ""
+
+msgctxt "144"
+msgid "This ain't much, but here."
+msgstr ""
+
+msgctxt "156"
+msgid "You got a satisfying %s."
+msgstr ""
+
+msgctxt "192"
+msgid "Sheesh... Guess I still got some growin' up to do..."
+msgstr ""
+
+msgctxt "1420"
+msgid "Angry Punk"
+msgstr ""
+
+msgctxt "1424"
+msgid "P_stand_sync_btl_neck_st"
+msgstr ""
+
+msgctxt "1428"
+msgid "M_ykz_stand_sync_btl_neck_st"
+msgstr ""
+
+msgctxt "1432"
+msgid "Talk_Sorry"
+msgstr ""
+
+msgctxt "1436"
+msgid "Sync_Send"
+msgstr ""
+
+msgctxt "1440"
+msgid "Talk_No"
+msgstr ""

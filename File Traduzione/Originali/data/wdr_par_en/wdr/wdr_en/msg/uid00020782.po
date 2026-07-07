@@ -1,0 +1,162 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid "Give us back our money!"
+msgstr ""
+
+msgctxt "76"
+msgid "Huh? Hold up, who are you again?"
+msgstr ""
+
+msgctxt "88"
+msgid "My friend and I gave you eight million yen for a trip to Istanbul!"
+msgstr ""
+
+msgctxt "100"
+msgid "Pardon? What is this \"trip to Istanbul\" you speak of?"
+msgstr ""
+
+msgctxt "112"
+msgid "Ugh, come on! Don't pretend like you don't know!"
+msgstr ""
+
+msgctxt "124"
+msgid "Um, miss? We're a publishing company, not a travel agency..."
+msgstr ""
+
+msgctxt "136"
+msgid ""
+"I think you're at the wrong office. I'm sorry, but I do have to ask you to "
+"leave."
+msgstr ""
+
+msgctxt "148"
+msgid "You guys are total scam artists! I'm so calling the cops on you!"
+msgstr ""
+
+msgctxt "160"
+msgid "Hold it, pumpkin. Do you have any idea who you're dealin' with here?"
+msgstr ""
+
+msgctxt "172"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "184"
+msgid ""
+"How's about we keep you holed up for a few days and put a little proper "
+"respect into ya?"
+msgstr ""
+
+msgctxt "196"
+msgid "Kiryu-san!"
+msgstr ""
+
+msgctxt "256"
+msgid "Ki... Ki..."
+msgstr ""
+
+msgctxt "268"
+msgid "Kiryu-san!?"
+msgstr ""
+
+msgctxt "280"
+msgid "That's right."
+msgstr ""
+
+msgctxt "292"
+msgid "Hey! How the hell do you know this guy!?"
+msgstr ""
+
+msgctxt "304"
+msgid ""
+"Kiryu-san is like, a friend of mine... But he's got nothing to do with my "
+"money!"
+msgstr ""
+
+msgctxt "316"
+msgid "Now, give it back!"
+msgstr ""
+
+msgctxt "328"
+msgid "Oh, uh, yes. Of course! I don't really have a choice, now, do I..."
+msgstr ""
+
+msgctxt "340"
+msgid "Ahaha... ha..."
+msgstr ""
+
+msgctxt "352"
+msgid "......"
+msgstr ""
+
+msgctxt "364"
+msgid "Man, you should've told me you were Kiryu-san's girl!"
+msgstr ""
+
+msgctxt "376"
+msgid "I'll get that money ready for you right away. Is cash okay?"
+msgstr ""
+
+msgctxt "4928"
+msgid "Ranko"
+msgstr ""
+
+msgctxt "4932"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "4936"
+msgid "Unscrupulous Agent"
+msgstr ""
+
+msgctxt "4940"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "4944"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "4948"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "4952"
+msgid "SetF_nml_stand_obie"
+msgstr ""
+
+msgctxt "4956"
+msgid "Idle"
+msgstr ""
+
+msgctxt "4960"
+msgid "F_nml_stand_tlk_kamae"
+msgstr ""
+
+msgctxt "4964"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "4968"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "4972"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "4976"
+msgid "Talk_Gakkari"
+msgstr ""

@@ -1,0 +1,828 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "466\tNAME_SHORT"
+msgid "[Independent Individual Name]"
+msgstr ""
+
+msgctxt "498\tNAME_SHORT"
+msgid "[Independent Individual Name]"
+msgstr ""
+
+msgctxt "530\tNAME_SHORT"
+msgid "[Independent Individual Name]"
+msgstr ""
+
+msgctxt "562\tNAME_SHORT"
+msgid "[Independent Individual Name]"
+msgstr ""
+
+msgctxt "594\tNAME_SHORT"
+msgid "[Independent Individual Name]"
+msgstr ""
+
+msgctxt "626\tNAME_SHORT"
+msgid "[Independent Individual Name]"
+msgstr ""
+
+msgctxt "658\tNAME_SHORT"
+msgid "[Independent Individual Name]"
+msgstr ""
+
+msgctxt "690\tNAME_SHORT"
+msgid "[Independent Individual Name]"
+msgstr ""
+
+msgctxt "722\tNAME_SHORT"
+msgid "[Independent Individual Name]"
+msgstr ""
+
+msgctxt "754\tNAME_SHORT"
+msgid "[Independent Individual Name]"
+msgstr ""
+
+msgctxt "786\tNAME_SHORT"
+msgid "[Independent Individual Name]"
+msgstr ""
+
+msgctxt "818\tNAME_SHORT"
+msgid "[Independent Individual Name]"
+msgstr ""
+
+msgctxt "850\tNAME_SHORT"
+msgid "[Independent Individual Name]"
+msgstr ""
+
+msgctxt "882\tNAME_SHORT"
+msgid "[Independent Individual Name]"
+msgstr ""
+
+msgctxt "914\tNAME_SHORT"
+msgid "[Independent Individual Name]"
+msgstr ""
+
+msgctxt "946\tNAME_SHORT"
+msgid "[Independent Individual Name]"
+msgstr ""
+
+msgctxt "978\tNAME_SHORT"
+msgid "[Independent Individual Name]"
+msgstr ""
+
+msgctxt "1010\tNAME_SHORT"
+msgid "[Independent Individual Name]"
+msgstr ""
+
+msgctxt "1042\tNAME_SHORT"
+msgid "[Independent Individual Name]"
+msgstr ""
+
+msgctxt "1074\tNAME_SHORT"
+msgid "[Independent Individual Name]"
+msgstr ""
+
+msgctxt "1106\tNAME_SHORT"
+msgid "[Independent Individual Name]"
+msgstr ""
+
+msgctxt "1138\tNAME_SHORT"
+msgid "[Independent Individual Name]"
+msgstr ""
+
+msgctxt "1170\tNAME_SHORT"
+msgid "[Independent Individual Name]"
+msgstr ""
+
+msgctxt "1202\tNAME_SHORT"
+msgid "[Independent Individual Name]"
+msgstr ""
+
+msgctxt "1234\tNAME_SHORT"
+msgid "[Independent Individual Name]"
+msgstr ""
+
+msgctxt "1266\tNAME_SHORT"
+msgid "[Independent Individual Name]"
+msgstr ""
+
+msgctxt "1298\tNAME_SHORT"
+msgid "[Independent Individual Name]"
+msgstr ""
+
+msgctxt "1330\tNAME_SHORT"
+msgid "[Independent Individual Name]"
+msgstr ""
+
+msgctxt "1362\tNAME_SHORT"
+msgid "[Independent Individual Name]"
+msgstr ""
+
+msgctxt "1394\tNAME_SHORT"
+msgid "[Independent Individual Name]"
+msgstr ""
+
+msgctxt "1426\tNAME_SHORT"
+msgid "[Independent Individual Name]"
+msgstr ""
+
+msgctxt "1458\tNAME_SHORT"
+msgid "[Independent Individual Name]"
+msgstr ""
+
+msgctxt "1489\tNAME_SHORT"
+msgid " [Independent Individual Name]"
+msgstr ""
+
+msgctxt "1522\tNAME_SHORT"
+msgid "[Independent Individual Name]"
+msgstr ""
+
+msgctxt "1554\tNAME_SHORT"
+msgid "[Independent Individual Name]"
+msgstr ""
+
+msgctxt "1586\tNAME_SHORT"
+msgid "[Independent Individual Name]"
+msgstr ""
+
+msgctxt "1618\tNAME_SHORT"
+msgid "[Independent Individual Name]"
+msgstr ""
+
+msgctxt "1650\tNAME_SHORT"
+msgid "[Independent Individual Name]"
+msgstr ""
+
+msgctxt "1682\tNAME_SHORT"
+msgid "[Independent Individual Name]"
+msgstr ""
+
+msgctxt "1714\tNAME_SHORT"
+msgid "[Independent Individual Name]"
+msgstr ""
+
+msgctxt "1746\tNAME_SHORT"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1754\tNAME_SHORT"
+msgid "Morning Glory"
+msgstr ""
+
+msgctxt "1770\tNAME_SHORT"
+msgid "People of Kamurocho"
+msgstr ""
+
+msgctxt "1792\tNAME_SHORT"
+msgid "Date"
+msgstr ""
+
+msgctxt "1799\tNAME_SHORT"
+msgid "Yuya"
+msgstr ""
+
+msgctxt "1806\tNAME_SHORT"
+msgid "Mitsuo"
+msgstr ""
+
+msgctxt "1815\tNAME_SHORT"
+msgid "Nakahara"
+msgstr ""
+
+msgctxt "1826\tNAME_SHORT"
+msgid "Ryudo Family"
+msgstr ""
+
+msgctxt "1841\tNAME_SHORT"
+msgid "Rikiya"
+msgstr ""
+
+msgctxt "1850\tNAME_SHORT"
+msgid "Mikio"
+msgstr ""
+
+msgctxt "1858\tNAME_SHORT"
+msgid "Daigo"
+msgstr ""
+
+msgctxt "1866\tNAME_SHORT"
+msgid "Kashiwagi"
+msgstr ""
+
+msgctxt "1878\tNAME_SHORT"
+msgid "Majima"
+msgstr ""
+
+msgctxt "1887\tNAME_SHORT"
+msgid "Kazama Family"
+msgstr ""
+
+msgctxt "1903\tNAME_SHORT"
+msgid "Kanda"
+msgstr ""
+
+msgctxt "1911\tNAME_SHORT"
+msgid "Mine"
+msgstr ""
+
+msgctxt "1918\tNAME_SHORT"
+msgid "Hamazaki"
+msgstr ""
+
+msgctxt "1929\tNAME_SHORT"
+msgid "Snake Flower Triad"
+msgstr ""
+
+msgctxt "1950\tNAME_SHORT"
+msgid "Tamashiro"
+msgstr ""
+
+msgctxt "1962\tNAME_SHORT"
+msgid "Tamiya"
+msgstr ""
+
+msgctxt "1971\tNAME_SHORT"
+msgid "Toma"
+msgstr ""
+
+msgctxt "1978\tNAME_SHORT"
+msgid "Kazama"
+msgstr ""
+
+msgctxt "1986\tNAME_SHORT"
+msgid "bCIA"
+msgstr ""
+
+msgctxt "1993\tOTHER_NAME_SHORT"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "2002\tOTHER_NAME_SHORT"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "2010\tOTHER_NAME_SHORT"
+msgid "Sudo"
+msgstr ""
+
+msgctxt "2017\tOTHER_NAME_SHORT"
+msgid "Sayama"
+msgstr ""
+
+msgctxt "2026\tOTHER_NAME_SHORT"
+msgid "Yuya"
+msgstr ""
+
+msgctxt "2033\tOTHER_NAME_SHORT"
+msgid "Kazuki"
+msgstr ""
+
+msgctxt "2042\tOTHER_NAME_SHORT"
+msgid "Wakazo"
+msgstr ""
+
+msgctxt "2051\tOTHER_NAME_SHORT"
+msgid "Date"
+msgstr ""
+
+msgctxt "2058\tOTHER_NAME_SHORT"
+msgid "Emoto"
+msgstr ""
+
+msgctxt "2066\tOTHER_NAME_SHORT"
+msgid "The Florist"
+msgstr ""
+
+msgctxt "2080\tOTHER_NAME_SHORT"
+msgid "Mama"
+msgstr ""
+
+msgctxt "2087\tOTHER_NAME_SHORT"
+msgid "Taichi"
+msgstr ""
+
+msgctxt "2096\tOTHER_NAME_SHORT"
+msgid "Ayako"
+msgstr ""
+
+msgctxt "2104\tOTHER_NAME_SHORT"
+msgid "Koji"
+msgstr ""
+
+msgctxt "2111\tOTHER_NAME_SHORT"
+msgid "Eri"
+msgstr ""
+
+msgctxt "2117\tOTHER_NAME_SHORT"
+msgid "Mitsuo"
+msgstr ""
+
+msgctxt "2126\tOTHER_NAME_SHORT"
+msgid "Riona"
+msgstr ""
+
+msgctxt "2134\tOTHER_NAME_SHORT"
+msgid "Shiro"
+msgstr ""
+
+msgctxt "2142\tOTHER_NAME_SHORT"
+msgid "Izumi"
+msgstr ""
+
+msgctxt "2150\tOTHER_NAME_SHORT"
+msgid "Saki"
+msgstr ""
+
+msgctxt "2157\tOTHER_NAME_SHORT"
+msgid "Nakahara"
+msgstr ""
+
+msgctxt "2168\tOTHER_NAME_SHORT"
+msgid "Mikio"
+msgstr ""
+
+msgctxt "2176\tOTHER_NAME_SHORT"
+msgid "Rikiya"
+msgstr ""
+
+msgctxt "2185\tOTHER_NAME_SHORT"
+msgid "Tamashiro"
+msgstr ""
+
+msgctxt "2197\tOTHER_NAME_SHORT"
+msgid "Stranger"
+msgstr ""
+
+msgctxt "2208\tOTHER_NAME_SHORT"
+msgid "Foreigner"
+msgstr ""
+
+msgctxt "2220\tOTHER_NAME_SHORT"
+msgid "Kazama"
+msgstr ""
+
+msgctxt "2229\tOTHER_NAME_SHORT"
+msgid "CIA Agent"
+msgstr ""
+
+msgctxt "2241\tOTHER_NAME_SHORT"
+msgid "Daigo"
+msgstr ""
+
+msgctxt "2249\tOTHER_NAME_SHORT"
+msgid "Hamazaki"
+msgstr ""
+
+msgctxt "2260\tOTHER_NAME_SHORT"
+msgid "Majima"
+msgstr ""
+
+msgctxt "2269\tOTHER_NAME_SHORT"
+msgid "Kashiwagi"
+msgstr ""
+
+msgctxt "2281\tOTHER_NAME_SHORT"
+msgid "Kanda"
+msgstr ""
+
+msgctxt "2289\tOTHER_NAME_SHORT"
+msgid "Hasebe"
+msgstr ""
+
+msgctxt "2298\tOTHER_NAME_SHORT"
+msgid "Mine"
+msgstr ""
+
+msgctxt "2305\tOTHER_NAME_SHORT"
+msgid "Lau"
+msgstr ""
+
+msgctxt "2311\tOTHER_NAME_SHORT"
+msgid "Suzuki"
+msgstr ""
+
+msgctxt "2320\tOTHER_NAME_SHORT"
+msgid "Tamiya"
+msgstr ""
+
+msgctxt "2329\tOTHER_NAME_SHORT"
+msgid "dummy_DLP"
+msgstr ""
+
+msgctxt "2341\tOTHER_NAME_SHORT"
+msgid "Toma"
+msgstr ""
+
+msgctxt "2348\tOTHER_NAME_SHORT"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "2357\tOTHER_NAME_SHORT"
+msgid "Sayama"
+msgstr ""
+
+msgctxt "2366\tOTHER_NAME_SHORT"
+msgid "Daigo"
+msgstr ""
+
+msgctxt "2374\tOTHER_NAME_SHORT"
+msgid "Nakahara"
+msgstr ""
+
+msgctxt "2385\tOTHER_NAME_SHORT"
+msgid "Majima"
+msgstr ""
+
+msgctxt "2394\tOTHER_NAME_SHORT"
+msgid "Mine"
+msgstr ""
+
+msgctxt "2401\tOTHER_NAME_SHORT"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "2409\tOTHER_NAME_SHORT"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "2418\tOTHER_NAME_SHORT"
+msgid "Saki"
+msgstr ""
+
+msgctxt "2425\tOTHER_NAME_SHORT"
+msgid "Nakahara"
+msgstr ""
+
+msgctxt "2436\tOTHER_NAME_SHORT"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "2444\tOTHER_NAME_SHORT"
+msgid "Wakazo"
+msgstr ""
+
+msgctxt "2453\tOTHER_NAME_SHORT"
+msgid "Mama"
+msgstr ""
+
+msgctxt "2460\tOTHER_NAME_SHORT"
+msgid "Sudo"
+msgstr ""
+
+msgctxt "2467\tOTHER_NAME_SHORT"
+msgid "Kazuki"
+msgstr ""
+
+msgctxt "2476\tOTHER_NAME_SHORT"
+msgid "Riona"
+msgstr ""
+
+msgctxt "2484\tOTHER_NAME_SHORT"
+msgid "Rikiya"
+msgstr ""
+
+msgctxt "2493\tOTHER_NAME_SHORT"
+msgid "Saki"
+msgstr ""
+
+msgctxt "2500\tOTHER_NAME_SHORT"
+msgid "Tamashiro Family"
+msgstr ""
+
+msgctxt "2519\tOTHER_NAME_SHORT"
+msgid "Mikio"
+msgstr ""
+
+msgctxt "2527\tOTHER_NAME_SHORT"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "2535\tOTHER_NAME_SHORT"
+msgid "Izumi"
+msgstr ""
+
+msgctxt "2543\tOTHER_NAME_SHORT"
+msgid "Majima"
+msgstr ""
+
+msgctxt "2552\tOTHER_NAME_SHORT"
+msgid "Daigo"
+msgstr ""
+
+msgctxt "2560\tOTHER_NAME_SHORT"
+msgid "Suzuki"
+msgstr ""
+
+msgctxt "2569\tOTHER_NAME_SHORT"
+msgid "Nishikiyama Family"
+msgstr ""
+
+msgctxt "2590\tOTHER_NAME_SHORT"
+msgid "Daigo"
+msgstr ""
+
+msgctxt "2598\tOTHER_NAME_SHORT"
+msgid "Mine"
+msgstr ""
+
+msgctxt "2605\tOTHER_NAME_SHORT"
+msgid "Hasebe"
+msgstr ""
+
+msgctxt "2614\tOTHER_NAME_SHORT"
+msgid "Daigo"
+msgstr ""
+
+msgctxt "2622\tOTHER_NAME_SHORT"
+msgid "Toma"
+msgstr ""
+
+msgctxt "2629\tOTHER_NAME_SHORT"
+msgid "Suzuki"
+msgstr ""
+
+msgctxt "2638\tOTHER_NAME_SHORT"
+msgid "Daigo"
+msgstr ""
+
+msgctxt "2646\tOTHER_NAME_SHORT"
+msgid "Majima"
+msgstr ""
+
+msgctxt "2655\tOTHER_NAME_SHORT"
+msgid "Hamazaki"
+msgstr ""
+
+msgctxt "2666\tOTHER_NAME_SHORT"
+msgid "Suzuki"
+msgstr ""
+
+msgctxt "2675\tOTHER_NAME_SHORT"
+msgid "Morning Glory"
+msgstr ""
+
+msgctxt "2691\tOTHER_NAME_SHORT"
+msgid "Toma"
+msgstr ""
+
+msgctxt "2698\tOTHER_NAME_SHORT"
+msgid "Suzuki"
+msgstr ""
+
+msgctxt "2707\tOTHER_NAME_SHORT"
+msgid "Kazama"
+msgstr ""
+
+msgctxt "2716\tOTHER_NAME_SHORT"
+msgid "Suzuki"
+msgstr ""
+
+msgctxt "2725\tOTHER_NAME_SHORT"
+msgid "Mine"
+msgstr ""
+
+msgctxt "2732\tOTHER_NAME_SHORT"
+msgid "CIA Agent"
+msgstr ""
+
+msgctxt "2744\tOTHER_NAME_SHORT"
+msgid "Toma"
+msgstr ""
+
+msgctxt "2751\tOTHER_NAME_SHORT"
+msgid "Kashiwagi"
+msgstr ""
+
+msgctxt "4275\tEXPLANATION"
+msgid "Father and Daughter"
+msgstr ""
+
+msgctxt "4297\tEXPLANATION"
+msgid "Mutual Understanding"
+msgstr ""
+
+msgctxt "4320\tEXPLANATION"
+msgid "Trusts"
+msgstr ""
+
+msgctxt "4329\tEXPLANATION"
+msgid "Seeking Eviction"
+msgstr ""
+
+msgctxt "4348\tEXPLANATION"
+msgid "Sworn Brothers"
+msgstr ""
+
+msgctxt "4365\tEXPLANATION"
+msgid "Aids the Tojo Clan"
+msgstr ""
+
+msgctxt "4386\tEXPLANATION"
+msgid "Seeks Conclusion"
+msgstr ""
+
+msgctxt "4405\tEXPLANATION"
+msgid "Manages"
+msgstr ""
+
+msgctxt "4415\tEXPLANATION"
+msgid "Live Together"
+msgstr ""
+
+msgctxt "4431\tEXPLANATION"
+msgid "Live Together"
+msgstr ""
+
+msgctxt "4447\tEXPLANATION"
+msgid "Owns Deed to Land"
+msgstr ""
+
+msgctxt "4467\tEXPLANATION"
+msgid "Owned Deed to Land"
+msgstr ""
+
+msgctxt "4488\tEXPLANATION"
+msgid "Trusts"
+msgstr ""
+
+msgctxt "4497\tEXPLANATION"
+msgid "Works For"
+msgstr ""
+
+msgctxt "4509\tEXPLANATION"
+msgid "On Good Terms?"
+msgstr ""
+
+msgctxt "4526\tEXPLANATION"
+msgid "Ex-Colleagues"
+msgstr ""
+
+msgctxt "4542\tEXPLANATION"
+msgid "Trusts"
+msgstr ""
+
+msgctxt "4551\tEXPLANATION"
+msgid "Likes"
+msgstr ""
+
+msgctxt "4559\tEXPLANATION"
+msgid "Employs"
+msgstr ""
+
+msgctxt "4569\tEXPLANATION"
+msgid "Fostering"
+msgstr ""
+
+msgctxt "4581\tEXPLANATION"
+msgid ""
+"Father and\n"
+"Daughter"
+msgstr ""
+
+msgctxt "4603\tEXPLANATION"
+msgid "Enemies"
+msgstr ""
+
+msgctxt "4613\tEXPLANATION"
+msgid "Commands"
+msgstr ""
+
+msgctxt "4624\tEXPLANATION"
+msgid "Admires"
+msgstr ""
+
+msgctxt "4634\tEXPLANATION"
+msgid "Dislikes"
+msgstr ""
+
+msgctxt "4645\tEXPLANATION"
+msgid "Adores"
+msgstr ""
+
+msgctxt "4654\tEXPLANATION"
+msgid "Doghouse Built By"
+msgstr ""
+
+msgctxt "4674\tEXPLANATION"
+msgid "Supports"
+msgstr ""
+
+msgctxt "4685\tEXPLANATION"
+msgid "Trusts"
+msgstr ""
+
+msgctxt "4694\tEXPLANATION"
+msgid "Work Together"
+msgstr ""
+
+msgctxt "4710\tEXPLANATION"
+msgid "Incites War"
+msgstr ""
+
+msgctxt "4724\tEXPLANATION"
+msgid "Aiming to Succeed"
+msgstr ""
+
+msgctxt "4744\tEXPLANATION"
+msgid "Funds"
+msgstr ""
+
+msgctxt "4752\tEXPLANATION"
+msgid "Fed Up With"
+msgstr ""
+
+msgctxt "4766\tEXPLANATION"
+msgid "Employs"
+msgstr ""
+
+msgctxt "4776\tEXPLANATION"
+msgid "Loyal To"
+msgstr ""
+
+msgctxt "4787\tEXPLANATION"
+msgid "Aiming to Succeed"
+msgstr ""
+
+msgctxt "4807\tEXPLANATION"
+msgid "Orders to Take Land"
+msgstr ""
+
+msgctxt "4829\tEXPLANATION"
+msgid "Commissions Land Purchase"
+msgstr ""
+
+msgctxt "4857\tEXPLANATION"
+msgid "Aiming to Succeed"
+msgstr ""
+
+msgctxt "4877\tEXPLANATION"
+msgid "Introduced Resort Plan"
+msgstr ""
+
+msgctxt "4902\tEXPLANATION"
+msgid "Cooperates With"
+msgstr ""
+
+msgctxt "4920\tEXPLANATION"
+msgid "Revenge for Lau's Death"
+msgstr ""
+
+msgctxt "4946\tEXPLANATION"
+msgid "Commissions Land Purchase"
+msgstr ""
+
+msgctxt "4974\tEXPLANATION"
+msgid "Destroys"
+msgstr ""
+
+msgctxt "4985\tEXPLANATION"
+msgid "Employs"
+msgstr ""
+
+msgctxt "4995\tEXPLANATION"
+msgid "Worried About"
+msgstr ""
+
+msgctxt "5011\tEXPLANATION"
+msgid "Trusts"
+msgstr ""
+
+msgctxt "5020\tEXPLANATION"
+msgid ""
+"Rival Candidates\n"
+"for Prime Minister"
+msgstr ""
+
+msgctxt "5058\tEXPLANATION"
+msgid "Best Friends"
+msgstr ""
+
+msgctxt "5073\tEXPLANATION"
+msgid "Sells Information"
+msgstr ""
+
+msgctxt "5093\tEXPLANATION"
+msgid "Observed"
+msgstr ""
+
+msgctxt "5104\tEXPLANATION"
+msgid "Colleague"
+msgstr ""
+
+msgctxt "5116\tEXPLANATION"
+msgid "Silenced"
+msgstr ""
+
+msgctxt "5127\tEXPLANATION"
+msgid "Murdered"
+msgstr ""

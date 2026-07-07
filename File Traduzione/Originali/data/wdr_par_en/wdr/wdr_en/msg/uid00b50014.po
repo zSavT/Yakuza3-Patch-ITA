@@ -1,0 +1,291 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "172"
+msgid ""
+"I want to thank all my fans! You all so great! Your support mean so much to "
+"me!"
+msgstr ""
+
+msgctxt "184"
+msgid "I am so glad I meet you all! Saranghamnida!"
+msgstr ""
+
+msgctxt "196"
+msgid "Eeeee! Yu-sama!"
+msgstr ""
+
+msgctxt "208"
+msgid ""
+"Now I must go to other performance. But we meet again someday! Goodbye! "
+"Annyeong-higyeseyo!"
+msgstr ""
+
+msgctxt "280"
+msgid "(He's gone. And I didn't get that damn autograph.)"
+msgstr ""
+
+msgctxt "292"
+msgid "There you are! Do you have that autograph?"
+msgstr ""
+
+msgctxt "304"
+msgid "No. I couldn't get to him."
+msgstr ""
+
+msgctxt "316"
+msgid "Oh, drat. I thought you'd have more luck than another groupie..."
+msgstr ""
+
+msgctxt "328"
+msgid "Oh well. Thanks to you, I did get a bunch of good shots."
+msgstr ""
+
+msgctxt "340"
+msgid "I see..."
+msgstr ""
+
+msgctxt "352"
+msgid ""
+"Yu-sama just loves his groupies. Let's keep on being the best fans we can "
+"be!"
+msgstr ""
+
+msgctxt "364"
+msgid "......"
+msgstr ""
+
+msgctxt "388"
+msgid "You got 5,000 EXP."
+msgstr ""
+
+msgctxt "436"
+msgid "Do you have the autograph?"
+msgstr ""
+
+msgctxt "448"
+msgid "Yeah."
+msgstr ""
+
+msgctxt "472"
+msgid "You handed over the <Color:8>autograph<Color:Default>."
+msgstr ""
+
+msgctxt "484"
+msgid "Well done. And here's a little something for all your trouble."
+msgstr ""
+
+msgctxt "508"
+msgid "You got <Color:8>5,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "520"
+msgid ""
+"You've accomplished something great today! I'd say you're an honorary "
+"Yu-sama groupie! Let's keep being the best fans we can be!"
+msgstr ""
+
+msgctxt "532"
+msgid "......"
+msgstr ""
+
+msgctxt "556"
+msgid "You got 5,000 EXP."
+msgstr ""
+
+msgctxt "628"
+msgid "What's going on here?"
+msgstr ""
+
+msgctxt "652"
+msgid "My goodness! Are you a fan of Yu-sama, too?"
+msgstr ""
+
+msgctxt "664"
+msgid "Yu-sama?"
+msgstr ""
+
+msgctxt "676"
+msgid ""
+"Don't tell me you've never heard of Yu-sama!? The Korean megastar? Il "
+"Yu-Jin!"
+msgstr ""
+
+msgctxt "688"
+msgid "What planet are you from!?"
+msgstr ""
+
+msgctxt "700"
+msgid "Oh, right. Il Yu-Jin. Got it."
+msgstr ""
+
+msgctxt "712"
+msgid ""
+"Yu-sama's doing a special live performance of \"Winter Gift\" today, here "
+"in Kamurocho."
+msgstr ""
+
+msgctxt "724"
+msgid "......"
+msgstr ""
+
+msgctxt "748"
+msgid ""
+"He'll be coming out soon! But there are a ton of other women trying to hog "
+"his attention..."
+msgstr ""
+
+msgctxt "760"
+msgid "At this rate, I'll never get his autograph!"
+msgstr ""
+
+msgctxt "784"
+msgid "Ooh, I know! How about you get his autograph for me!? I'm sure it'll be fun!"
+msgstr ""
+
+msgctxt "796"
+msgid "(His autograph, eh...?)"
+msgstr ""
+
+msgctxt "808"
+msgid "If you insist."
+msgstr ""
+
+msgctxt "820"
+msgid ""
+"I'll pay you for your trouble, of course! All you have to do is take this "
+"up and get it signed!"
+msgstr ""
+
+msgctxt "832"
+msgid "I'll get in position for some nice shots of Yu-sama!"
+msgstr ""
+
+msgctxt "844"
+msgid "(Guess I'll go get his autograph.)"
+msgstr ""
+
+msgctxt "856"
+msgid "Get somebody else to do it."
+msgstr ""
+
+msgctxt "868"
+msgid "Eeeeeee! It's Yu-sama!"
+msgstr ""
+
+msgctxt "880"
+msgid "Now go and get me that autograph, dear!"
+msgstr ""
+
+msgctxt "892"
+msgid "Didn't you hear what I said?"
+msgstr ""
+
+msgctxt "904"
+msgid "I'll go snap some photos of him!"
+msgstr ""
+
+msgctxt "916"
+msgid "Uh⑬ Hey!"
+msgstr ""
+
+msgctxt "928"
+msgid ""
+"(Dammit... Oh, well. I might as well go get her an autograph and be done "
+"with it.)"
+msgstr ""
+
+msgctxt "988"
+msgid ""
+"Approach Il Yu-Jin from the front, talk to him, and get his autograph.\r\n"
+"\r\n"
+"Il Yu-Jin is surrounded by his female fans."
+msgstr ""
+
+msgctxt "1000"
+msgid ""
+"Go get his autograph without bumping into them. Bump into them three times, "
+"though, and you'll lose your chance."
+msgstr ""
+
+msgctxt "1048"
+msgid "All right."
+msgstr ""
+
+msgctxt "1060"
+msgid "Refuse."
+msgstr ""
+
+msgctxt "8660"
+msgid "Il Yu-Jin"
+msgstr ""
+
+msgctxt "8664"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "8668"
+msgid "Old Woman"
+msgstr ""
+
+msgctxt "8672"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "8676"
+msgid "Talk_Kamae"
+msgstr ""
+
+msgctxt "8680"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "8684"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "8688"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "8692"
+msgid "Talk_Send"
+msgstr ""
+
+msgctxt "8696"
+msgid "dummy"
+msgstr ""
+
+msgctxt "8700"
+msgid "Worried Old Woman"
+msgstr ""
+
+msgctxt "8704"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "8708"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "8712"
+msgid "Talk_Request"
+msgstr ""
+
+msgctxt "8716"
+msgid "SetF_nml_cheer_stand_jump_01"
+msgstr ""
+
+msgctxt "8720"
+msgid "Get Il Yu-Jin's Autograph!"
+msgstr ""

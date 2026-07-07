@@ -1,0 +1,135 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "80"
+msgid "Mama... I'm sorry..."
+msgstr ""
+
+msgctxt "92"
+msgid "Date-san..."
+msgstr ""
+
+msgctxt "104"
+msgid "I know I'm not Keisuke. And I know I'm not right for you, either."
+msgstr ""
+
+msgctxt "116"
+msgid ""
+"I'll... stop going to the bar. I can see that I'm only causing you more "
+"pain..."
+msgstr ""
+
+msgctxt "128"
+msgid "Hey..."
+msgstr ""
+
+msgctxt "140"
+msgid ""
+"And besides, I'm proud to have been on the force. Might be the only thing "
+"Keisuke and me have in common."
+msgstr ""
+
+msgctxt "152"
+msgid ""
+"Date-san... You don't have to try and be like Keisuke to get closer to me. "
+"Or go out of your way to be different than him."
+msgstr ""
+
+msgctxt "164"
+msgid "Mama..."
+msgstr ""
+
+msgctxt "176"
+msgid ""
+"All I need is some time... to process everything. And I promise I'll really "
+"think about it... About you and me."
+msgstr ""
+
+msgctxt "212"
+msgid "*pant* *pant*"
+msgstr ""
+
+msgctxt "224"
+msgid ""
+"Heh... You should've seen this coming! But you just had to\r\n"
+"play the hero, didn't you?"
+msgstr ""
+
+msgctxt "236"
+msgid ""
+"Enough... You're here to settle the score with me, right? So leave her out "
+"of this."
+msgstr ""
+
+msgctxt "248"
+msgid ""
+"What, you got a thing for her, Date? Hah. I knew it from the\r\n"
+"moment you walked into that bar."
+msgstr ""
+
+msgctxt "260"
+msgid "Damn you..."
+msgstr ""
+
+msgctxt "284"
+msgid ""
+"So, you resort to taking hostages and running like a coward?\r\n"
+"People like you make me sick."
+msgstr ""
+
+msgctxt "296"
+msgid "Kiryu!"
+msgstr ""
+
+msgctxt "308"
+msgid "Sorry. But I couldn't just leave you hanging."
+msgstr ""
+
+msgctxt "320"
+msgid ""
+"Still can't do anything by yourself, can you? C'mon Date,\r\n"
+"let's dance! The rest of you, take out that fool over\r\n"
+"there!"
+msgstr ""
+
+msgctxt "332"
+msgid "You'll regret this."
+msgstr ""
+
+msgctxt "4412"
+msgid "Date"
+msgstr ""
+
+msgctxt "4416"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "4420"
+msgid "Mama"
+msgstr ""
+
+msgctxt "4424"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "4428"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "4432"
+msgid "Tsukishima"
+msgstr ""
+
+msgctxt "4436"
+msgid "Kiryu"
+msgstr ""

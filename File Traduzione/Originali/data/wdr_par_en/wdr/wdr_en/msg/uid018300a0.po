@@ -1,0 +1,71 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "100"
+msgid "Hello?"
+msgstr ""
+
+msgctxt "112"
+msgid "Kiryu? It's me. How'd things go with old baldy?"
+msgstr ""
+
+msgctxt "124"
+msgid ""
+"I found him. He was horrible all right, but he's pretty\r\n"
+"small time. I don't think he has the wit to outsmart\r\n"
+"Kashiwagi-san."
+msgstr ""
+
+msgctxt "136"
+msgid "Dammit. And here I thought we had a lead."
+msgstr ""
+
+msgctxt "148"
+msgid ""
+"Guess we weren't as close as we thought. Anyway, I'll fill\r\n"
+"you in when I get back. You over at Serena?"
+msgstr ""
+
+msgctxt "160"
+msgid ""
+"Yup, Mama said we can use it whenever we want. Just meet me\r\n"
+"over here, okay?"
+msgstr ""
+
+msgctxt "172"
+msgid "Sure, see you soon."
+msgstr ""
+
+msgctxt "184"
+msgid "Try not to get too distracted on your way here."
+msgstr ""
+
+msgctxt "1652"
+msgid "P_stand_tlk_phone_st"
+msgstr ""
+
+msgctxt "1656"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1660"
+msgid "Date"
+msgstr ""
+
+msgctxt "1664"
+msgid "P_stand_tlk_phone_ed"
+msgstr ""
+
+msgctxt "1668"
+msgid "dummy"
+msgstr ""

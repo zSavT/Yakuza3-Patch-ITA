@@ -1,0 +1,232 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "236"
+msgid "Amazing, buddy! You're the best mahjong player in Kamurocho!"
+msgstr ""
+
+msgctxt "248"
+msgid "From now on, you're going to have to defend your title."
+msgstr ""
+
+msgctxt "260"
+msgid "What do you mean?"
+msgstr ""
+
+msgctxt "272"
+msgid ""
+"Mahjong players will work their way up the ranks in order to challenge the "
+"best player. As of right now, that's you!"
+msgstr ""
+
+msgctxt "284"
+msgid "I wonder how long you can hold onto your position at the top..."
+msgstr ""
+
+msgctxt "296"
+msgid ""
+"Keep battling any who may take you on, you're the best mahjong player we've "
+"got here in Kamurocho!"
+msgstr ""
+
+msgctxt "320"
+msgid "Hey, good job."
+msgstr ""
+
+msgctxt "332"
+msgid ""
+"It looks like you've been working up a sweat defending your title. Keep it "
+"up!"
+msgstr ""
+
+msgctxt "344"
+msgid "Hey, good job."
+msgstr ""
+
+msgctxt "356"
+msgid "Come on back whenever you want to try climbing the ranks."
+msgstr ""
+
+msgctxt "392"
+msgid ""
+"Here, we hold the Rising Dragon Cup, where players compete to determine the "
+"best mahjong player in Kamurocho."
+msgstr ""
+
+msgctxt "404"
+msgid "Back again, buddy? Why not give the Rising Dragon Cup a shot?"
+msgstr ""
+
+msgctxt "416"
+msgid "Skilled mahjong players from all over are signing up for it."
+msgstr ""
+
+msgctxt "428"
+msgid ""
+"It's 50,000 yen to sign up for the rankings. Once you're signed up, you can "
+"play mahjong whenever you want."
+msgstr ""
+
+msgctxt "440"
+msgid "You'll be able to earn better and better prizes each time your rank goes up."
+msgstr ""
+
+msgctxt "452"
+msgid ""
+"If you manage to reach the top of the rankings, you'll win somethin' "
+"that'll really make your eyes pop."
+msgstr ""
+
+msgctxt "464"
+msgid "So how 'bout it? Gonna try and climb your way up the ranks?"
+msgstr ""
+
+msgctxt "476"
+msgid "Hmm... Sure, sign me up."
+msgstr ""
+
+msgctxt "488"
+msgid "Great! I'm just gonna need 50,000 yen before I can put your name down."
+msgstr ""
+
+msgctxt "512"
+msgid "Here."
+msgstr ""
+
+msgctxt "524"
+msgid "You paid <Color:8>50,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "548"
+msgid "Thanks, man. So, you wanna get started right away?"
+msgstr ""
+
+msgctxt "560"
+msgid "Yeah, I'll give it a shot."
+msgstr ""
+
+msgctxt "572"
+msgid "Well then, good luck, buddy."
+msgstr ""
+
+msgctxt "596"
+msgid "Not now. I'll come back later."
+msgstr ""
+
+msgctxt "608"
+msgid ""
+"You sure? Well, your name's on the list, so you can play a Ranked Match "
+"whenever you feel like it."
+msgstr ""
+
+msgctxt "620"
+msgid "(I don't have enough money...)"
+msgstr ""
+
+msgctxt "632"
+msgid "What's wrong? Don't got enough?"
+msgstr ""
+
+msgctxt "644"
+msgid ""
+"Well, you can sign up for the rankings whenever you want, so just come back "
+"with 50,000 yen when you get it."
+msgstr ""
+
+msgctxt "656"
+msgid "Not now. I'll come back later."
+msgstr ""
+
+msgctxt "668"
+msgid ""
+"You sure? Well, registration's always open, so come back whenever you feel "
+"like it."
+msgstr ""
+
+msgctxt "692"
+msgid "Back again, buddy? How's about a Ranked Match?"
+msgstr ""
+
+msgctxt "704"
+msgid "Back again, Champ? Ready to defend your title?"
+msgstr ""
+
+msgctxt "716"
+msgid "How about it? Wanna go for a Kamurocho Ranked Match?"
+msgstr ""
+
+msgctxt "728"
+msgid "Yeah, I'll give it a shot."
+msgstr ""
+
+msgctxt "740"
+msgid "Well then, good luck, buddy."
+msgstr ""
+
+msgctxt "764"
+msgid "Not now. I'll come back later."
+msgstr ""
+
+msgctxt "776"
+msgid ""
+"You sure? Well, your name's on the list, so you can play a Ranked Match "
+"whenever you feel like it."
+msgstr ""
+
+msgctxt "788"
+msgid "Sign Up"
+msgstr ""
+
+msgctxt "800"
+msgid "Not Now"
+msgstr ""
+
+msgctxt "812"
+msgid "Play a Ranked Match"
+msgstr ""
+
+msgctxt "824"
+msgid "Not Now"
+msgstr ""
+
+msgctxt "836"
+msgid "Play a Ranked Match"
+msgstr ""
+
+msgctxt "848"
+msgid "Not Now"
+msgstr ""
+
+msgctxt "6820"
+msgid "Employee"
+msgstr ""
+
+msgctxt "6824"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "6828"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "6832"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "6836"
+msgid "Owner"
+msgstr ""
+
+msgctxt "6840"
+msgid "Talk_OK"
+msgstr ""

@@ -1,0 +1,104 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "140"
+msgid "Hello, sir. What can I do for you today?"
+msgstr ""
+
+msgctxt "152"
+msgid "Hopefully a lot. I need a bone."
+msgstr ""
+
+msgctxt "164"
+msgid "...Why?"
+msgstr ""
+
+msgctxt "176"
+msgid "The why doesn't matter. Do you have one or not?"
+msgstr ""
+
+msgctxt "188"
+msgid "But... a bone?"
+msgstr ""
+
+msgctxt "200"
+msgid "A bone."
+msgstr ""
+
+msgctxt "212"
+msgid "I'm sorry, but we don't carry those here."
+msgstr ""
+
+msgctxt "224"
+msgid "...Right. Sorry."
+msgstr ""
+
+msgctxt "248"
+msgid "Hello, sir. What can I do for you today?"
+msgstr ""
+
+msgctxt "260"
+msgid "What would you like?"
+msgstr ""
+
+msgctxt "284"
+msgid "Thank you very much."
+msgstr ""
+
+msgctxt "296"
+msgid "What do you have to sell?"
+msgstr ""
+
+msgctxt "320"
+msgid "Thank you very much."
+msgstr ""
+
+msgctxt "332"
+msgid "I'm here to buy."
+msgstr ""
+
+msgctxt "344"
+msgid "I'm here to sell."
+msgstr ""
+
+msgctxt "356"
+msgid "Never mind."
+msgstr ""
+
+msgctxt "2052"
+msgid "Employee"
+msgstr ""
+
+msgctxt "2056"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "2060"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "2064"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "2068"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "2072"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "2076"
+msgid "M_shp_stand_tlk_ojigi"
+msgstr ""

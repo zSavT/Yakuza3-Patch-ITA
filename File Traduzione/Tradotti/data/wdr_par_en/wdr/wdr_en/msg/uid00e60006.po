@@ -1,0 +1,646 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "452"
+msgid "Pardon me, sir... Could I ask for a bit of your time?"
+msgstr ""
+
+msgctxt "464"
+msgid "What's that?"
+msgstr ""
+
+msgctxt "476"
+msgid "This may sound strange, but are you the type to keep a secret?"
+msgstr ""
+
+msgctxt "488"
+msgid "Not all the time. Why do you ask?"
+msgstr ""
+
+msgctxt "500"
+msgid "Never mind. Sorry I called you over."
+msgstr ""
+
+msgctxt "512"
+msgid "Sure. I've always been good at keeping secrets."
+msgstr ""
+
+msgctxt "524"
+msgid "I see. I need someone who can keep his mouth shut."
+msgstr ""
+
+msgctxt "536"
+msgid "Is this some kind of con?"
+msgstr ""
+
+msgctxt "548"
+msgid "No, no. I really mean it."
+msgstr ""
+
+msgctxt "560"
+msgid "Then what's the deal?"
+msgstr ""
+
+msgctxt "572"
+msgid ""
+"I've been looking for a man like you who can keep things discreet to do me "
+"a favor."
+msgstr ""
+
+msgctxt "584"
+msgid "What kind of favor?"
+msgstr ""
+
+msgctxt "596"
+msgid ""
+"You've heard of the famous actress Makiko Takahashi, yes? She's won awards "
+"overseas as best leading female and has really put Japan on the map in "
+"cinema."
+msgstr ""
+
+msgctxt "608"
+msgid "I can't say that I have. What about her?"
+msgstr ""
+
+msgctxt "620"
+msgid ""
+"Well, it's just that Ms. Takahashi craves a vibrant night life. So much so "
+"that she's known as the Kamurocho Queen."
+msgstr ""
+
+msgctxt "632"
+msgid ""
+"She goes out on the town every night here for drinks, and recently she's "
+"become very well acquainted with the top host of this host club."
+msgstr ""
+
+msgctxt "644"
+msgid ""
+"Today she wants to have drinks with him at her place, which is all well and "
+"good, but with her recent fame, candid photos could be damaging."
+msgstr ""
+
+msgctxt "656"
+msgid ""
+"If they can make it to their taxi on Park Boulevard without getting "
+"photographed, everything should be fine."
+msgstr ""
+
+msgctxt "668"
+msgid ""
+"Would you work as a bodyguard for Ms. Takahashi and her host friend? We'll "
+"pay you for your trouble, of course!"
+msgstr ""
+
+msgctxt "680"
+msgid "I don't think so. Find somebody else."
+msgstr ""
+
+msgctxt "692"
+msgid ""
+"You seem perfect for the job, though. Please let me know if you change your "
+"mind."
+msgstr ""
+
+msgctxt "704"
+msgid "All right. I'll usher them to the taxi."
+msgstr ""
+
+msgctxt "716"
+msgid ""
+"Thank you, sir! The paparazzi has been watching her every move lately, "
+"trying to snap photos that could harm her career."
+msgstr ""
+
+msgctxt "728"
+msgid "In fact, there's some damn paparazzi right over there!"
+msgstr ""
+
+msgctxt "740"
+msgid ""
+"What I'd like you to do is chase away any paparazzi who might snap a photo "
+"of Ms. Takahashi and her host friend walking together."
+msgstr ""
+
+msgctxt "752"
+msgid ""
+"I'm sure they're hiding in various cracks and crevices like rodents, so do "
+"your best to hunt them down and chase them away."
+msgstr ""
+
+msgctxt "764"
+msgid ""
+"So you want me to keep those nosy photographers out of Ms. Takahashi's "
+"business."
+msgstr ""
+
+msgctxt "776"
+msgid ""
+"That's exactly right. I'm going to bring her out now, so please do your "
+"best."
+msgstr ""
+
+msgctxt "860"
+msgid ""
+"So you're the stud who's been hired to keep the paparazzi off my back? I "
+"hope you're as strong as you look."
+msgstr ""
+
+msgctxt "872"
+msgid ""
+"Keep us safe from those vultures, usher boy. Makiko-chan means the world to "
+"me."
+msgstr ""
+
+msgctxt "884"
+msgid "......"
+msgstr ""
+
+msgctxt "896"
+msgid ""
+"(We'll reward you handsomely if this goes well, so please be patient with "
+"them.)"
+msgstr ""
+
+msgctxt "908"
+msgid "(I'll go out first and make taxi preparations.)"
+msgstr ""
+
+msgctxt "920"
+msgid "Do whatever you can to keep those animals from snapping a picture of me."
+msgstr ""
+
+msgctxt "932"
+msgid "(Sheesh... Guess I'll chase that guy off first.)"
+msgstr ""
+
+msgctxt "956"
+msgid "Pardon me, sir... Could I ask for a bit of your time?"
+msgstr ""
+
+msgctxt "968"
+msgid "What's that?"
+msgstr ""
+
+msgctxt "980"
+msgid "This may sound strange, but are you the type to keep a secret?"
+msgstr ""
+
+msgctxt "992"
+msgid "Not all the time. Why do you ask?"
+msgstr ""
+
+msgctxt "1004"
+msgid "Never mind. Sorry I called you over."
+msgstr ""
+
+msgctxt "1016"
+msgid "Sure. I've always been good at keeping secrets."
+msgstr ""
+
+msgctxt "1028"
+msgid "I see. I need someone who can keep his mouth shut."
+msgstr ""
+
+msgctxt "1040"
+msgid "Is this some kind of con?"
+msgstr ""
+
+msgctxt "1052"
+msgid "No, no. I really mean it."
+msgstr ""
+
+msgctxt "1064"
+msgid "Then what's the deal?"
+msgstr ""
+
+msgctxt "1076"
+msgid ""
+"I've been looking for a man like you who can keep things discreet to do me "
+"a favor."
+msgstr ""
+
+msgctxt "1088"
+msgid "What kind of favor?"
+msgstr ""
+
+msgctxt "1100"
+msgid ""
+"You've heard of the famous actress Makiko Takahashi, yes? She's won awards "
+"overseas as best leading female and has really put Japan on the map in "
+"cinema."
+msgstr ""
+
+msgctxt "1112"
+msgid "I can't say that I have. What about her?"
+msgstr ""
+
+msgctxt "1124"
+msgid ""
+"Well, it's just that Ms. Takahashi craves a vibrant night life. So much so "
+"that she's known as the Kamurocho Queen."
+msgstr ""
+
+msgctxt "1136"
+msgid ""
+"She goes out on the town every night here for drinks, and recently she's "
+"become very well acquainted with the top host of this host club."
+msgstr ""
+
+msgctxt "1148"
+msgid ""
+"Today she wants to have drinks with him at her place, which is all well and "
+"good, but with her recent fame, candid photos could be damaging."
+msgstr ""
+
+msgctxt "1160"
+msgid ""
+"If they can make it to their taxi from this store without getting "
+"photographed, everything should be fine."
+msgstr ""
+
+msgctxt "1172"
+msgid ""
+"Would you work as a bodyguard for Ms. Takahashi and her host friend? We'll "
+"pay you for your trouble, of course!"
+msgstr ""
+
+msgctxt "1184"
+msgid "I don't think so. Find somebody else."
+msgstr ""
+
+msgctxt "1196"
+msgid ""
+"You seem perfect for the job, though. Please let me know if you change your "
+"mind."
+msgstr ""
+
+msgctxt "1208"
+msgid "All right. I'll usher them to the taxi."
+msgstr ""
+
+msgctxt "1220"
+msgid ""
+"Thank you, sir! The paparazzi has been watching her every move lately, "
+"trying to snap photos that could harm her career."
+msgstr ""
+
+msgctxt "1232"
+msgid "In fact, there's some damn paparazzi right over there!"
+msgstr ""
+
+msgctxt "1244"
+msgid ""
+"What I'd like you to do is chase away any paparazzi who might snap a photo "
+"of Ms. Takahashi and her host friend walking together."
+msgstr ""
+
+msgctxt "1256"
+msgid ""
+"I'm sure they're hiding in various cracks and crevices like rodents, so do "
+"your best to hunt them down and chase them away."
+msgstr ""
+
+msgctxt "1268"
+msgid ""
+"So you want me to keep those nosy photographers out of Ms. Takahashi's "
+"business."
+msgstr ""
+
+msgctxt "1280"
+msgid ""
+"That's exactly right. I'm going to bring her out now, so please do your "
+"best."
+msgstr ""
+
+msgctxt "1352"
+msgid ""
+"So you're the stud who's been hired to keep the paparazzi off my back? I "
+"hope you're as strong as you look."
+msgstr ""
+
+msgctxt "1364"
+msgid ""
+"Keep us safe from those vultures, usher boy. Makiko-chan means the world to "
+"me."
+msgstr ""
+
+msgctxt "1376"
+msgid "......"
+msgstr ""
+
+msgctxt "1388"
+msgid ""
+"(We'll reward you handsomely if this goes well, so please be patient with "
+"them.)"
+msgstr ""
+
+msgctxt "1400"
+msgid "(I'll go out first and make taxi preparations.)"
+msgstr ""
+
+msgctxt "1412"
+msgid "Do whatever you can to keep those animals from snapping a picture of me."
+msgstr ""
+
+msgctxt "1424"
+msgid "(Sheesh... Guess I'll chase that guy off first.)"
+msgstr ""
+
+msgctxt "1460"
+msgid ""
+"You again? I really wish you'd do me this favor. I'm willing to pay you "
+"well for it."
+msgstr ""
+
+msgctxt "1472"
+msgid ""
+"Could you work as a bodyguard for the brilliant actress Ms. Takahashi and "
+"her host friend? I just need you to get them to their taxi on Park "
+"Boulevard."
+msgstr ""
+
+msgctxt "1484"
+msgid ""
+"Oh, it's you... I've got a job that requires your discretion. Can you "
+"promise me you won't tell anyone?"
+msgstr ""
+
+msgctxt "1496"
+msgid "I promise."
+msgstr ""
+
+msgctxt "1508"
+msgid "I can't guarantee that. Why do you ask?"
+msgstr ""
+
+msgctxt "1520"
+msgid "Never mind. Sorry I called you over."
+msgstr ""
+
+msgctxt "1532"
+msgid "Sure. I've always been good at keeping secrets."
+msgstr ""
+
+msgctxt "1544"
+msgid "I'll trust you with this favor then."
+msgstr ""
+
+msgctxt "1556"
+msgid "What kinda favor?"
+msgstr ""
+
+msgctxt "1568"
+msgid ""
+"You've heard of the famous actress Makiko Takahashi, yes? She's won awards "
+"overseas as best leading female and has really put Japan on the map in "
+"cinema."
+msgstr ""
+
+msgctxt "1580"
+msgid "No... What about her?"
+msgstr ""
+
+msgctxt "1592"
+msgid ""
+"Well, it's just that Ms. Takahashi craves a vibrant night life, so much so "
+"that she's known as the Kamurocho Queen."
+msgstr ""
+
+msgctxt "1604"
+msgid ""
+"She goes out on the town every night here for drinks, and recently she's "
+"become very well acquainted with the top host of this host club."
+msgstr ""
+
+msgctxt "1616"
+msgid ""
+"Today she wants to have drinks with him at her place, which is all well and "
+"good, but with her recent fame, candid photos could be damaging."
+msgstr ""
+
+msgctxt "1628"
+msgid ""
+"If they can make it to their taxi on Park Boulevard without getting "
+"photographed, everything should be fine."
+msgstr ""
+
+msgctxt "1640"
+msgid "I don't think so. Find somebody else."
+msgstr ""
+
+msgctxt "1652"
+msgid ""
+"You seem perfect for the job, though. Please let me know if you change your "
+"mind."
+msgstr ""
+
+msgctxt "1664"
+msgid "All right. I'll usher them to the taxi."
+msgstr ""
+
+msgctxt "1676"
+msgid ""
+"Thank you, sir! The paparazzi has been watching her every move lately, "
+"trying to snap photos that could harm her career."
+msgstr ""
+
+msgctxt "1688"
+msgid "In fact, there's some damn paparazzi right over there!"
+msgstr ""
+
+msgctxt "1700"
+msgid ""
+"What I'd like you to do is chase away any paparazzi who might snap a photo "
+"of Ms. Takahashi and her host friend walking together."
+msgstr ""
+
+msgctxt "1712"
+msgid ""
+"I'm sure they're hiding in various cracks and crevices like rodents, so do "
+"your best to hunt them down and chase them away."
+msgstr ""
+
+msgctxt "1724"
+msgid ""
+"So you want me to keep those nosy photographers out of Ms. Takahashi's "
+"business."
+msgstr ""
+
+msgctxt "1736"
+msgid ""
+"That's exactly right. I'm going to bring her out now, so please do your "
+"best."
+msgstr ""
+
+msgctxt "1820"
+msgid ""
+"So you're the stud who's been hired to keep the paparazzi off my back? I "
+"hope you're as strong as you look."
+msgstr ""
+
+msgctxt "1832"
+msgid ""
+"Keep us safe from those vultures, usher boy. Makiko-chan means the world to "
+"me."
+msgstr ""
+
+msgctxt "1844"
+msgid "......"
+msgstr ""
+
+msgctxt "1856"
+msgid ""
+"(We'll reward you handsomely if this goes well, so please be patient with "
+"them.)"
+msgstr ""
+
+msgctxt "1868"
+msgid "(I'll go out first and make taxi preparations.)"
+msgstr ""
+
+msgctxt "1880"
+msgid "Do whatever you can to keep those animals from snapping a picture of me."
+msgstr ""
+
+msgctxt "1892"
+msgid "(Sheesh... Guess I'll chase that guy off first.)"
+msgstr ""
+
+msgctxt "1928"
+msgid "Um... Are you sure Ms. Takahashi is all right?"
+msgstr ""
+
+msgctxt "1940"
+msgid "There must be some paparazzi still lying in wait."
+msgstr ""
+
+msgctxt "1964"
+msgid "Absolutely."
+msgstr ""
+
+msgctxt "1976"
+msgid "Not all the time."
+msgstr ""
+
+msgctxt "1988"
+msgid "Sure, I'll do it."
+msgstr ""
+
+msgctxt "2000"
+msgid "I don't think so."
+msgstr ""
+
+msgctxt "2012"
+msgid "Absolutely."
+msgstr ""
+
+msgctxt "2024"
+msgid "Not all the time."
+msgstr ""
+
+msgctxt "2036"
+msgid "Sure, I'll do it."
+msgstr ""
+
+msgctxt "2048"
+msgid "I don't think so."
+msgstr ""
+
+msgctxt "2060"
+msgid "Sure, I'll do it."
+msgstr ""
+
+msgctxt "2072"
+msgid "I don't think so."
+msgstr ""
+
+msgctxt "2084"
+msgid "I promise."
+msgstr ""
+
+msgctxt "2096"
+msgid "I can't guarantee that."
+msgstr ""
+
+msgctxt "2108"
+msgid "Sure, I'll do it."
+msgstr ""
+
+msgctxt "2120"
+msgid "I don't think so."
+msgstr ""
+
+msgctxt "21060"
+msgid "Manager"
+msgstr ""
+
+msgctxt "21064"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "21068"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "21072"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "21076"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "21080"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "21084"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "21088"
+msgid "Talk_Request"
+msgstr ""
+
+msgctxt "21092"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "21096"
+msgid "F_sxy_stand"
+msgstr ""
+
+msgctxt "21100"
+msgid "SetF_sxy_stand_tlk_kamae"
+msgstr ""
+
+msgctxt "21104"
+msgid "Makiko Takahashi"
+msgstr ""
+
+msgctxt "21108"
+msgid "Host"
+msgstr ""
+
+msgctxt "21112"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "21116"
+msgid "F_nml_stand_bag"
+msgstr ""
+
+msgctxt "21120"
+msgid "Idle"
+msgstr ""

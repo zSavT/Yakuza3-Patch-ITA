@@ -1,0 +1,56 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "124"
+msgid "Hey, old-timer! Your foul breath is really pissin' me off!"
+msgstr ""
+
+msgctxt "136"
+msgid "Give us all your cash if you don't want any trouble!"
+msgstr ""
+
+msgctxt "160"
+msgid "Wait, what? Wow, I don't feel angry at all anymore! Haha!"
+msgstr ""
+
+msgctxt "172"
+msgid "Sorry about that. Here, you can have this."
+msgstr ""
+
+msgctxt "184"
+msgid "You got a flawless %s."
+msgstr ""
+
+msgctxt "220"
+msgid "I don't think I'll be getting angry at anything for a while!"
+msgstr ""
+
+msgctxt "1236"
+msgid "Angry Punk"
+msgstr ""
+
+msgctxt "1240"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "1244"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "1248"
+msgid "Sync_Send"
+msgstr ""
+
+msgctxt "1252"
+msgid "Talk_No"
+msgstr ""

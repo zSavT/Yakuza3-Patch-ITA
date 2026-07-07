@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "164\t256"
+msgid ""
+"Look, Mame!\\n"
+"We built you a new house!"
+msgstr ""
+
+msgctxt "354\t472"
+msgid "Why won't he go in, Uncle Mikio?"
+msgstr ""
+
+msgctxt "481\t593"
+msgid "Maybe he's nervous or somethin'?"
+msgstr ""
+
+msgctxt "693\t743"
+msgid "Here it comes!"
+msgstr ""
+
+msgctxt "744\t812"
+msgid "Can't touch me!"
+msgstr ""
+
+msgctxt "822\t884"
+msgid "Take this!"
+msgstr ""
+
+msgctxt "1002\t1081"
+msgid "Hop and a skip!"
+msgstr ""
+
+msgctxt "1112\t1173"
+msgid "Whoops, I messed up!"
+msgstr ""
+
+msgctxt "1312\t1430"
+msgid "Wow! You're so good at drawing, Saki-chan!"
+msgstr ""
+
+msgctxt "1431\t1498"
+msgid "Oh, it's nothing."
+msgstr ""
+
+msgctxt "1499\t1580"
+msgid "Hey! Come look, Haruka-chan!"
+msgstr ""

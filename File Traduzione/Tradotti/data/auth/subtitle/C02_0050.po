@@ -1,0 +1,42 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "280\t330"
+msgid "Uncle Kaz."
+msgstr ""
+
+msgctxt "374\t432"
+msgid "We got another one."
+msgstr ""
+
+msgctxt "567\t648"
+msgid "It says \"eviction notice.\""
+msgstr ""
+
+msgctxt "658\t778"
+msgid "Are we getting kicked out?"
+msgstr ""
+
+msgctxt "818\t977"
+msgid ""
+"Those weird guys have been\\n"
+"hanging out here a lot lately."
+msgstr ""
+
+msgctxt "979\t1070"
+msgid "Everyone's really scared..."
+msgstr ""
+
+msgctxt "1191\t1255"
+msgid "I'll go see what's up."
+msgstr ""

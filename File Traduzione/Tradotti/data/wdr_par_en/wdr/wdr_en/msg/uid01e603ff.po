@@ -1,0 +1,62 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid "Mrrrow."
+msgstr ""
+
+msgctxt "76"
+msgid "......"
+msgstr ""
+
+msgctxt "112"
+msgid ""
+"Aha! So you're the crooked bastard trying to steal my precious Snuggles, "
+"huh!?"
+msgstr ""
+
+msgctxt "124"
+msgid "Your what?"
+msgstr ""
+
+msgctxt "136"
+msgid ""
+"My cat, asshole! The other day, I caught some high school punk trying to "
+"lure her away, too!"
+msgstr ""
+
+msgctxt "148"
+msgid ""
+"You're gonna pay for this! I'll teach you to keep your filthy paws off "
+"another man's pet!"
+msgstr ""
+
+msgctxt "1260"
+msgid "Cat"
+msgstr ""
+
+msgctxt "1264"
+msgid "A_cat_sitgrd_tlk_kedukuroi_ed"
+msgstr ""
+
+msgctxt "1268"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1272"
+msgid "Punk"
+msgstr ""
+
+msgctxt "1276"
+msgid "Talk_Chohatu"
+msgstr ""

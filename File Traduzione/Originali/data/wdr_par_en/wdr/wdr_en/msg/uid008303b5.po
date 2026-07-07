@@ -1,0 +1,70 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid "Yes, sir... All right."
+msgstr ""
+
+msgctxt "76"
+msgid "Got it... Yeah, we're on our way."
+msgstr ""
+
+msgctxt "88"
+msgid "Aw, come on. It had to be Aniki who found her first?"
+msgstr ""
+
+msgctxt "100"
+msgid ""
+"Oh, shut up! If you hadn't taken your sweet time strolling around "
+"complaining about your boner, we'd have snagged her!"
+msgstr ""
+
+msgctxt "112"
+msgid "Heheh. My bad."
+msgstr ""
+
+msgctxt "124"
+msgid "He's got her behind the drugstore. Let's go."
+msgstr ""
+
+msgctxt "136"
+msgid "Oh, I'm gonna enjoy this."
+msgstr ""
+
+msgctxt "208"
+msgid "(Is Shiori behind the drugstore?)"
+msgstr ""
+
+msgctxt "1772"
+msgid "Moriyama"
+msgstr ""
+
+msgctxt "1776"
+msgid "Domoto"
+msgstr ""
+
+msgctxt "1780"
+msgid "Phone_ed"
+msgstr ""
+
+msgctxt "1784"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "1788"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "1792"
+msgid "Kiryu"
+msgstr ""

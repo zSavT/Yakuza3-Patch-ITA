@@ -1,0 +1,112 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "92"
+msgid ""
+"(So that's the hitman Yuto... Looks like those punks are giving him a hard "
+"time.)"
+msgstr ""
+
+msgctxt "104"
+msgid "You little snot! Drop the fuckin' \"innocent\" bit!"
+msgstr ""
+
+msgctxt "116"
+msgid "Just cough up the money already!"
+msgstr ""
+
+msgctxt "128"
+msgid "......"
+msgstr ""
+
+msgctxt "140"
+msgid "Dammit..."
+msgstr ""
+
+msgctxt "152"
+msgid "You little shit! What the hell's that all about, huh!?"
+msgstr ""
+
+msgctxt "164"
+msgid "Do you guys have a death wish or something?"
+msgstr ""
+
+msgctxt "176"
+msgid "What? I'd like to see you try, motherfucker!"
+msgstr ""
+
+msgctxt "188"
+msgid "......"
+msgstr ""
+
+msgctxt "200"
+msgid "(Uh-oh. Yuto is an Reaper hitman. He might actually kill them...)"
+msgstr ""
+
+msgctxt "212"
+msgid "Okay, that's enough."
+msgstr ""
+
+msgctxt "224"
+msgid "Who the fuck are you? Get the hell outta here!"
+msgstr ""
+
+msgctxt "236"
+msgid "You better give it a rest, unless you really do have a death wish."
+msgstr ""
+
+msgctxt "248"
+msgid "Huh? What did you say, pops!? You're goin' down!"
+msgstr ""
+
+msgctxt "260"
+msgid "You're gonna take a bashing for this little snot!? Huh!?"
+msgstr ""
+
+msgctxt "272"
+msgid ""
+"If it's a fight you're looking for, then it's a fight you'll get. Come at "
+"me."
+msgstr ""
+
+msgctxt "2788"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "2792"
+msgid "Thug"
+msgstr ""
+
+msgctxt "2796"
+msgid "Punk"
+msgstr ""
+
+msgctxt "2800"
+msgid "Yuto"
+msgstr ""
+
+msgctxt "2804"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "2808"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "2812"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "2816"
+msgid "Talk_Chohatu"
+msgstr ""

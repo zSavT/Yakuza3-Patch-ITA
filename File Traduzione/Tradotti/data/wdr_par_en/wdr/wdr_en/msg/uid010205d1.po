@@ -1,0 +1,95 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "76"
+msgid ""
+"It's a total piece of cake, sweet cheeks. No tougher than\r\n"
+"handin' out a few flyers. You seen people doin' that before,\r\n"
+"right?"
+msgstr ""
+
+msgctxt "88"
+msgid "Yeah, I guess so..."
+msgstr ""
+
+msgctxt "100"
+msgid ""
+"You should be thanking your lucky stars we're givin' you\r\n"
+"this shot, girlie. We got kids floodin' our office nonstop\r\n"
+"just begging for a chance to rake in the dough with us."
+msgstr ""
+
+msgctxt "112"
+msgid ""
+"Now, all you gotta do is take these envelopes, and hand 'em\r\n"
+"over to any ol' schmuck who asks you for one. Do that, and\r\n"
+"they'll pay you a cool 20,000 yen."
+msgstr ""
+
+msgctxt "148"
+msgid "Haruka? What are you doing?"
+msgstr ""
+
+msgctxt "160"
+msgid "Oh, Uncle Kaz!"
+msgstr ""
+
+msgctxt "172"
+msgid "Well, looks like that's our cue. Catch ya 'round, little lady!"
+msgstr ""
+
+msgctxt "208"
+msgid "Haruka. Who were those guys?"
+msgstr ""
+
+msgctxt "220"
+msgid ""
+"Oh, uh... Nobody! Just some people asking for directions!\r\n"
+"Well, look at the time! The shopping can't wait forever!"
+msgstr ""
+
+msgctxt "244"
+msgid "Haruka!"
+msgstr ""
+
+msgctxt "256"
+msgid "(I don't like the look of this.)"
+msgstr ""
+
+msgctxt "3552"
+msgid "Shady Man"
+msgstr ""
+
+msgctxt "3556"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "3560"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "3564"
+msgid "Suspicious Man"
+msgstr ""
+
+msgctxt "3568"
+msgid "Talk_Send"
+msgstr ""
+
+msgctxt "3572"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "3576"
+msgid "Talk_Ase"
+msgstr ""

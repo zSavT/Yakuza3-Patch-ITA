@@ -1,0 +1,60 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "88"
+msgid "Don't Order Anything"
+msgstr ""
+
+msgctxt "109"
+msgid "Check Out"
+msgstr ""
+
+msgctxt "119"
+msgid "Order"
+msgstr ""
+
+msgctxt "125"
+msgid "(I'm short on cash.)"
+msgstr ""
+
+msgctxt "146"
+msgid "(I can't carry any more stuff.)"
+msgstr ""
+
+msgctxt "178"
+msgid "(I can't handle any more turtles.)"
+msgstr ""
+
+msgctxt "213"
+msgid "(I didn't choose anything.)"
+msgstr ""
+
+msgctxt "241"
+msgid "(They're sold out.)"
+msgstr ""
+
+msgctxt "261"
+msgid "Let's see. That comes to %s."
+msgstr ""
+
+msgctxt "290"
+msgid ""
+"This 25 proof Zampa awamori is smooth, sweet, and\n"
+"refreshing."
+msgstr ""
+
+msgctxt "352"
+msgid ""
+"This is 30 proof Zampa vintage awamori with a rich,\n"
+"full-bodied flavor."
+msgstr ""

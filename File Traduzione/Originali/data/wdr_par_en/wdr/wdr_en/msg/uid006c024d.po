@@ -1,0 +1,62 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "76"
+msgid "Thanks for hanging out with me today! I had a ton of fun!"
+msgstr ""
+
+msgctxt "88"
+msgid "Let's go have some drinks at the club now, okay?"
+msgstr ""
+
+msgctxt "112"
+msgid "Thanks for hanging out with me today! I had a ton of fun!"
+msgstr ""
+
+msgctxt "124"
+msgid "Let's go have some drinks at the club now, okay?"
+msgstr ""
+
+msgctxt "136"
+msgid "Hold on a second. I just realized I'm a little short on cash."
+msgstr ""
+
+msgctxt "148"
+msgid "Huh? Wait, whaaat?"
+msgstr ""
+
+msgctxt "160"
+msgid "Sorry..."
+msgstr ""
+
+msgctxt "172"
+msgid ""
+"Wow, really? Fiiiiine. Promise you'll come hang out with me again though, "
+"okay?"
+msgstr ""
+
+msgctxt "3500"
+msgid "Saya"
+msgstr ""
+
+msgctxt "3504"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "3508"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "3512"
+msgid "Talk_Angry"
+msgstr ""

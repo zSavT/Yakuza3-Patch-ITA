@@ -1,0 +1,61 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "96"
+msgid "Now hold on... I got somethin' I wanna ask you. Which would you prefer?"
+msgstr ""
+
+msgctxt "108"
+msgid ""
+"One, you don't say a word and give me everything in your wallet, or two, I "
+"knock you on your ass and take your wallet anyway. No answer? Guess it's "
+"number two!"
+msgstr ""
+
+msgctxt "132"
+msgid ""
+"Guess we went with option three, you beat the shit out of me and I "
+"apologize."
+msgstr ""
+
+msgctxt "144"
+msgid "I didn't even know there was a third option..."
+msgstr ""
+
+msgctxt "156"
+msgid "You got a timeworn %s."
+msgstr ""
+
+msgctxt "192"
+msgid "I'm still tryin' to wrap my head around this..."
+msgstr ""
+
+msgctxt "1464"
+msgid "Angry Punk"
+msgstr ""
+
+msgctxt "1468"
+msgid "P_stand_sync_btl_neck_st"
+msgstr ""
+
+msgctxt "1472"
+msgid "M_ykz_stand_sync_btl_neck_st"
+msgstr ""
+
+msgctxt "1476"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "1480"
+msgid "Sync_Send"
+msgstr ""

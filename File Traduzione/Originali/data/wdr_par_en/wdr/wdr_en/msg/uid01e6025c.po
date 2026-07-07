@@ -1,0 +1,60 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "88"
+msgid "You got <Color:8>200,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "100"
+msgid "You also got a <Color:8>Sakura Storm<Color:Default> as a bonus."
+msgstr ""
+
+msgctxt "136"
+msgid "You got 10,000 EXP."
+msgstr ""
+
+msgctxt "160"
+msgid "You got <Color:8>100,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "172"
+msgid "You also got a <Color:8>Sakura Storm<Color:Default> as a bonus."
+msgstr ""
+
+msgctxt "208"
+msgid "You got 10,000 EXP."
+msgstr ""
+
+msgctxt "232"
+msgid "You got <Color:8>50,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "244"
+msgid "You also got a <Color:8>Sakura Storm<Color:Default> as a bonus."
+msgstr ""
+
+msgctxt "280"
+msgid "You got 10,000 EXP."
+msgstr ""
+
+msgctxt "304"
+msgid "You got <Color:8>30,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "316"
+msgid "You also got a <Color:8>Sakura Storm<Color:Default> as a bonus."
+msgstr ""
+
+msgctxt "352"
+msgid "You got 10,000 EXP."
+msgstr ""

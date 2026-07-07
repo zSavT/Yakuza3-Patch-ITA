@@ -1,0 +1,313 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "224"
+msgid "Ngh... Who the hell are you...?"
+msgstr ""
+
+msgctxt "236"
+msgid "What the hell were you trying to prove here?"
+msgstr ""
+
+msgctxt "248"
+msgid "I was just practicing. I've gotta train my eyesight."
+msgstr ""
+
+msgctxt "260"
+msgid "Your eyesight? What for?"
+msgstr ""
+
+msgctxt "272"
+msgid "You know about the Underground Coliseum?"
+msgstr ""
+
+msgctxt "284"
+msgid "Yeah."
+msgstr ""
+
+msgctxt "296"
+msgid ""
+"I compete in tournaments there. On days when I don't have a\r\n"
+"fight, I go to different places to train myself."
+msgstr ""
+
+msgctxt "308"
+msgid ""
+"That doesn't give you the right to cause issues for the poor\r\n"
+"employees here."
+msgstr ""
+
+msgctxt "320"
+msgid "You're right. I won't do it anymore..."
+msgstr ""
+
+msgctxt "332"
+msgid "Oh, yeah!"
+msgstr ""
+
+msgctxt "344"
+msgid "What now?"
+msgstr ""
+
+msgctxt "356"
+msgid "Fight with me at the Underground Coliseum!"
+msgstr ""
+
+msgctxt "368"
+msgid "Where'd this come from?"
+msgstr ""
+
+msgctxt "380"
+msgid "Tag Matches! Join the Tag Match Grand Prix with me!"
+msgstr ""
+
+msgctxt "392"
+msgid "Give me a break."
+msgstr ""
+
+msgctxt "404"
+msgid ""
+"No! I'm being serious! A guy like me and someone as strong\r\n"
+"as you would make a winning team for sure!"
+msgstr ""
+
+msgctxt "416"
+msgid ""
+"How about it? I guarantee you won't regret it! We good?\r\n"
+"Good! It's a done deal!"
+msgstr ""
+
+msgctxt "428"
+msgid "Hey, wait a minute!"
+msgstr ""
+
+msgctxt "440"
+msgid "I'm Masayuki Hatae. What's your name?"
+msgstr ""
+
+msgctxt "452"
+msgid "Uh, Kazuma Kiryu."
+msgstr ""
+
+msgctxt "464"
+msgid "Kiryu-san! Great meeting you!"
+msgstr ""
+
+msgctxt "476"
+msgid ""
+"I'll head on to the Underground Coliseum now! You can\r\n"
+"come by whenever you want! I'll be waiting there for you!"
+msgstr ""
+
+msgctxt "536"
+msgid "(Whew. Can he be any more hyper?)"
+msgstr ""
+
+msgctxt "560"
+msgid "What's going on?"
+msgstr ""
+
+msgctxt "572"
+msgid ""
+"That guy's not even using a bat... He's just trying to\r\n"
+"dodge the balls..."
+msgstr ""
+
+msgctxt "584"
+msgid ""
+"I'm trying to tell him to stop before he gets himself hurt,\r\n"
+"but he won't listen to me. Why on Earth is he doing that...?"
+msgstr ""
+
+msgctxt "596"
+msgid "Sir! Please, you're going to hurt yourself!"
+msgstr ""
+
+msgctxt "608"
+msgid "Shut it! I'm trying to concentrate! Don't distract me!"
+msgstr ""
+
+msgctxt "620"
+msgid ""
+"Ugh... See? He just won't listen to me. Do you think\r\n"
+"you could convince him?"
+msgstr ""
+
+msgctxt "632"
+msgid "(I suppose I could, but...)"
+msgstr ""
+
+msgctxt "644"
+msgid "Please. Would you talk to him for me?"
+msgstr ""
+
+msgctxt "656"
+msgid "(I suppose I could, but...)"
+msgstr ""
+
+msgctxt "668"
+msgid "(It's really none of my business...)"
+msgstr ""
+
+msgctxt "680"
+msgid ""
+"(This place has always been good to me. I should return the\r\n"
+"favor by helping out.)"
+msgstr ""
+
+msgctxt "692"
+msgid ""
+"Hey, man, how about you give it a rest? You're causing\r\n"
+"a disturbance."
+msgstr ""
+
+msgctxt "704"
+msgid "The fuck!? Who the hell are you, anyway!?"
+msgstr ""
+
+msgctxt "776"
+msgid ""
+"At least he finally came out. The hell were you doing in\r\n"
+"there?"
+msgstr ""
+
+msgctxt "788"
+msgid ""
+"None of your business, buddy! I paid to use the cage, so\r\n"
+"what does it matter how I use it!?"
+msgstr ""
+
+msgctxt "800"
+msgid ""
+"Your money or not, you're causing a disturbance, and if you\r\n"
+"get hurt in there, you'll only make more trouble for these\r\n"
+"poor employees."
+msgstr ""
+
+msgctxt "812"
+msgid "What!? I ain't gonna get hurt!"
+msgstr ""
+
+msgctxt "824"
+msgid ""
+"You will if one of those fastballs connects with your skull.\r\n"
+"Give it a rest before you get knocked senseless."
+msgstr ""
+
+msgctxt "836"
+msgid "Hmph... Got quite a mouth on you, don'tcha!?"
+msgstr ""
+
+msgctxt "860"
+msgid "Tell Him to Stop"
+msgstr ""
+
+msgctxt "872"
+msgid "Stay Out of It"
+msgstr ""
+
+msgctxt "884"
+msgid "Tell Him to Stop"
+msgstr ""
+
+msgctxt "896"
+msgid "Stay Out of It"
+msgstr ""
+
+msgctxt "7924"
+msgid "Ball-Dodging Bloke"
+msgstr ""
+
+msgctxt "7928"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "7932"
+msgid "Talk_Udekumi_st"
+msgstr ""
+
+msgctxt "7936"
+msgid "Idle"
+msgstr ""
+
+msgctxt "7940"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "7944"
+msgid "Talk_Udekumi_Yes"
+msgstr ""
+
+msgctxt "7948"
+msgid "Talk_Udekumi_No"
+msgstr ""
+
+msgctxt "7952"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "7956"
+msgid "Talk_Kansin"
+msgstr ""
+
+msgctxt "7960"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "7964"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "7968"
+msgid "Talk_Udekumi_ed"
+msgstr ""
+
+msgctxt "7972"
+msgid "Masayuki Hatae"
+msgstr ""
+
+msgctxt "7976"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "7980"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "7984"
+msgid "Batting Center Manager"
+msgstr ""
+
+msgctxt "7988"
+msgid "M_ykzs_stand_tlk_ase"
+msgstr ""
+
+msgctxt "7992"
+msgid "M_nml_stand_tlk_call"
+msgstr ""
+
+msgctxt "7996"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "8000"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "8004"
+msgid "M_ykz_stand_tlk_angry"
+msgstr ""
+
+msgctxt "8008"
+msgid "M_nml_stand_tlk_angry"
+msgstr ""

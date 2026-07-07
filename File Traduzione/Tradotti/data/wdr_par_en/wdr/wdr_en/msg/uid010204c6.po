@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "96"
+msgid ""
+"We'll go grab some food n' stuff for the dog and meet you\r\n"
+"back at the orphanage. Sound good?"
+msgstr ""
+
+msgctxt "108"
+msgid ""
+"Yup. Remember to look both ways before you cross the road,\r\n"
+"Izumi."
+msgstr ""
+
+msgctxt "120"
+msgid "Okay!"
+msgstr ""
+
+msgctxt "180"
+msgid "(Guess I should head back, too.)"
+msgstr ""
+
+msgctxt "204"
+msgid ""
+"(I'm kinda worried about Izumi and Mikio... I should probably\r\n"
+"go check on them.)"
+msgstr ""
+
+msgctxt "228"
+msgid "(This is a lost cause. I better go tell Izumi.)"
+msgstr ""
+
+msgctxt "1612"
+msgid "Mikio"
+msgstr ""
+
+msgctxt "1616"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "1620"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1624"
+msgid "Izumi"
+msgstr ""

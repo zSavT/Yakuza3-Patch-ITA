@@ -1,0 +1,82 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "148"
+msgid "Have you seen a miniature... uh, kaninchen dachshund around here?"
+msgstr ""
+
+msgctxt "160"
+msgid "Hehehe. Ownin' a dog is great, isn't it?"
+msgstr ""
+
+msgctxt "172"
+msgid ""
+"But you gotta understand how they feel, y'know? Otherwise you'll never be "
+"able to really take care of your dog."
+msgstr ""
+
+msgctxt "184"
+msgid "......"
+msgstr ""
+
+msgctxt "196"
+msgid "This dachshund you're lookin' for... She have a name tag that says Newton?"
+msgstr ""
+
+msgctxt "208"
+msgid "That's the one."
+msgstr ""
+
+msgctxt "220"
+msgid "Hehehe. Kids these days just don't know how to take care of their dogs."
+msgstr ""
+
+msgctxt "232"
+msgid ""
+"They think they're the ones in charge, but the dog's really the one callin' "
+"the shots. You know what I mean, don't you?"
+msgstr ""
+
+msgctxt "244"
+msgid "Dogs, well... They just wanna be free, like this cute little guy here."
+msgstr ""
+
+msgctxt "256"
+msgid "......"
+msgstr ""
+
+msgctxt "268"
+msgid "The dog you're lookin' for left here a little while ago."
+msgstr ""
+
+msgctxt "280"
+msgid "I see... Thanks."
+msgstr ""
+
+msgctxt "292"
+msgid ""
+"Take good care of that dog of yours... And she's a miniature, not a "
+"kaninchen."
+msgstr ""
+
+msgctxt "2308"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "2312"
+msgid "Homeless Man"
+msgstr ""
+
+msgctxt "2316"
+msgid "Talk_No"
+msgstr ""

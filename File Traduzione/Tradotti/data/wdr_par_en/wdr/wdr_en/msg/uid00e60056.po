@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "76"
+msgid ""
+"Well, take this as a life lesson. Next time, take things\r\n"
+"into your own hands and ask her out yourself."
+msgstr ""
+
+msgctxt "88"
+msgid ""
+"God dammit! The next time I meet the woman of my dreams,\r\n"
+"I'll ask her out, I swear!"
+msgstr ""
+
+msgctxt "112"
+msgid "You got 2,000 EXP."
+msgstr ""
+
+msgctxt "160"
+msgid "Congrats. Just, from now on... make sure you handle these things yourself."
+msgstr ""
+
+msgctxt "172"
+msgid "Thank you so much! I'll do my best!"
+msgstr ""
+
+msgctxt "196"
+msgid "You got 2,000 EXP."
+msgstr ""
+
+msgctxt "1900"
+msgid "Idle"
+msgstr ""
+
+msgctxt "1904"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1908"
+msgid "Talk_Kansin"
+msgstr ""
+
+msgctxt "1912"
+msgid "Lovelorn Teenager"
+msgstr ""
+
+msgctxt "1916"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "1920"
+msgid "dummy"
+msgstr ""
+
+msgctxt "1924"
+msgid "0"
+msgstr ""
+
+msgctxt "1928"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "1932"
+msgid "Talk_OK"
+msgstr ""

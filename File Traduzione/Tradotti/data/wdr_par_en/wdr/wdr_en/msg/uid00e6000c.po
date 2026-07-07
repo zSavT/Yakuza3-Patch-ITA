@@ -1,0 +1,80 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "156"
+msgid "No! Somebody get my manager!"
+msgstr ""
+
+msgctxt "168"
+msgid "This is bad!"
+msgstr ""
+
+msgctxt "192"
+msgid "Sorry... No pictures."
+msgstr ""
+
+msgctxt "204"
+msgid "Dammit! I was on a three-day stakeout for this, too..."
+msgstr ""
+
+msgctxt "216"
+msgid "Then come back tomorrow and snap away. You're done for the day."
+msgstr ""
+
+msgctxt "1764"
+msgid "F_sxy_stand"
+msgstr ""
+
+msgctxt "1768"
+msgid "SetF_sxy_stand_tlk_kamae"
+msgstr ""
+
+msgctxt "1772"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "1776"
+msgid "Makiko Takahashi"
+msgstr ""
+
+msgctxt "1780"
+msgid "Manager"
+msgstr ""
+
+msgctxt "1784"
+msgid "Idle"
+msgstr ""
+
+msgctxt "1788"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1792"
+msgid "P_stand_tlk_udekumi_st"
+msgstr ""
+
+msgctxt "1796"
+msgid "Paparazzi"
+msgstr ""
+
+msgctxt "1800"
+msgid "P_stand_tlk_udekumi_lp"
+msgstr ""
+
+msgctxt "1804"
+msgid "dummy"
+msgstr ""
+
+msgctxt "1808"
+msgid "0"
+msgstr ""

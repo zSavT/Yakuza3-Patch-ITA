@@ -1,0 +1,78 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "124"
+msgid "Welcome. What can I do for you today?"
+msgstr ""
+
+msgctxt "136"
+msgid "Show me what you've got for sale."
+msgstr ""
+
+msgctxt "148"
+msgid "Sure thing! We got a wide selection. See for yourself."
+msgstr ""
+
+msgctxt "172"
+msgid "Thank you. Come again."
+msgstr ""
+
+msgctxt "184"
+msgid "I've got some things to sell."
+msgstr ""
+
+msgctxt "196"
+msgid ""
+"Sure thing. Let's see what you got there. But don't forget, used weapons "
+"are worth less than new weapons."
+msgstr ""
+
+msgctxt "220"
+msgid "Thank you, and come again."
+msgstr ""
+
+msgctxt "232"
+msgid "Never mind."
+msgstr ""
+
+msgctxt "244"
+msgid "Is that so? Well, please come again."
+msgstr ""
+
+msgctxt "256"
+msgid "I'm here to buy."
+msgstr ""
+
+msgctxt "268"
+msgid "I'm here to sell."
+msgstr ""
+
+msgctxt "280"
+msgid "Never mind."
+msgstr ""
+
+msgctxt "1612"
+msgid "Employee"
+msgstr ""
+
+msgctxt "1616"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "1620"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1624"
+msgid "Talk_No"
+msgstr ""

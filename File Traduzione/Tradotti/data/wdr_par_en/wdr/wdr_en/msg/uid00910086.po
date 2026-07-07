@@ -1,0 +1,66 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "120"
+msgid "Great work, Kiryu-san. I'll take it from here."
+msgstr ""
+
+msgctxt "132"
+msgid "Here's your reward. We appreciate your hard work."
+msgstr ""
+
+msgctxt "144"
+msgid "You got <Color:8>130,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "156"
+msgid "Oh, by the way, we just got information on a new hitman."
+msgstr ""
+
+msgctxt "168"
+msgid "Would you like to see it now?"
+msgstr ""
+
+msgctxt "180"
+msgid ""
+"I'll be waiting at the shogi salon. Feel free to come see\r\n"
+"me at any time."
+msgstr ""
+
+msgctxt "240"
+msgid "This is the information we have on the hitman."
+msgstr ""
+
+msgctxt "276"
+msgid "Thank you, sir! Good luck!"
+msgstr ""
+
+msgctxt "324"
+msgid "Sure, I'll check it out."
+msgstr ""
+
+msgctxt "336"
+msgid "Not right now."
+msgstr ""
+
+msgctxt "2228"
+msgid "Okinawa HLA Member"
+msgstr ""
+
+msgctxt "2232"
+msgid "dummy"
+msgstr ""
+
+msgctxt "2236"
+msgid "0"
+msgstr ""

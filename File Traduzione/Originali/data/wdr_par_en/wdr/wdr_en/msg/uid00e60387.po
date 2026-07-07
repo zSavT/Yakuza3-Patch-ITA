@@ -1,0 +1,60 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "120"
+msgid "You look like you're in the business. You one of Kamiyama's clients?"
+msgstr ""
+
+msgctxt "132"
+msgid "Kamiyama? Oh, you mean the arms dealer?"
+msgstr ""
+
+msgctxt "144"
+msgid "Come to think of it, he did say that he had a shop somewhere around here..."
+msgstr ""
+
+msgctxt "156"
+msgid ""
+"Yeah. It's on the second floor. He's a little strange, but he definitely "
+"knows his stuff."
+msgstr ""
+
+msgctxt "168"
+msgid ""
+"If you're interested, why don't you check it out? You can use those stairs "
+"over there."
+msgstr ""
+
+msgctxt "1180"
+msgid "Suspicious Man"
+msgstr ""
+
+msgctxt "1184"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "1188"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1192"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "1196"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "1200"
+msgid "Talk_Info_F"
+msgstr ""

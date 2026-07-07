@@ -1,0 +1,70 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid "You're... one crazy bastard..."
+msgstr ""
+
+msgctxt "76"
+msgid "You kidnapped a girl, didn't you? Where is she!? Talk!"
+msgstr ""
+
+msgctxt "88"
+msgid "All... All right..."
+msgstr ""
+
+msgctxt "160"
+msgid "Thank you so much. I thought I was gonna die..."
+msgstr ""
+
+msgctxt "172"
+msgid "You're safe now."
+msgstr ""
+
+msgctxt "184"
+msgid ""
+"Now how should I deal with these idiots? Maybe I should give the local "
+"police a call..."
+msgstr ""
+
+msgctxt "1628"
+msgid "Red"
+msgstr ""
+
+msgctxt "1632"
+msgid "M_ykz_damage"
+msgstr ""
+
+msgctxt "1636"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1640"
+msgid "Talk_Away"
+msgstr ""
+
+msgctxt "1644"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "1648"
+msgid "F_sxy_stand_sync_dakitukiA_lp"
+msgstr ""
+
+msgctxt "1652"
+msgid "P_stand_sync_dakitukiA_lp"
+msgstr ""
+
+msgctxt "1656"
+msgid "Yoko"
+msgstr ""

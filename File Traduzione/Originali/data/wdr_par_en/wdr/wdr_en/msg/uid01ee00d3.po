@@ -1,0 +1,54 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "120"
+msgid ""
+"(This UFO catcher is completely empty. I should go ask an attendant to fill "
+"it with prizes.)"
+msgstr ""
+
+msgctxt "180"
+msgid "(I get three tries at this UFO Catcher for 500 yen.)"
+msgstr ""
+
+msgctxt "204"
+msgid "(Okay, I think I'll give it a try.)"
+msgstr ""
+
+msgctxt "228"
+msgid "(I don't have enough money...)"
+msgstr ""
+
+msgctxt "240"
+msgid "(Maybe later...)"
+msgstr ""
+
+msgctxt "252"
+msgid "Play"
+msgstr ""
+
+msgctxt "264"
+msgid "Never Mind"
+msgstr ""
+
+msgctxt "1216"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1220"
+msgid "dummy"
+msgstr ""
+
+msgctxt "1224"
+msgid "Talk_Yes"
+msgstr ""

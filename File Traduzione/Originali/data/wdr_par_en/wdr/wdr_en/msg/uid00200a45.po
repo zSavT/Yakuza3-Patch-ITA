@@ -1,0 +1,84 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "128"
+msgid "*pant* *pant* I can't... keep... running..."
+msgstr ""
+
+msgctxt "140"
+msgid "Dammit... I lost..."
+msgstr ""
+
+msgctxt "164"
+msgid "*pant* *pant*"
+msgstr ""
+
+msgctxt "176"
+msgid "Damn... That's it for me..."
+msgstr ""
+
+msgctxt "248"
+msgid "That'll be it for you!"
+msgstr ""
+
+msgctxt "260"
+msgid "Dammit... I lost..."
+msgstr ""
+
+msgctxt "1904"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1908"
+msgid "0"
+msgstr ""
+
+msgctxt "1912"
+msgid "P_damage"
+msgstr ""
+
+msgctxt "1916"
+msgid "Mr. Try and Flee Me"
+msgstr ""
+
+msgctxt "1920"
+msgid "Talker_AORI_1.0_ON"
+msgstr ""
+
+msgctxt "1924"
+msgid "15_15_SLOWER_VF_ON"
+msgstr ""
+
+msgctxt "1928"
+msgid "CHS_8006"
+msgstr ""
+
+msgctxt "1932"
+msgid "Player_BACK��_2.0_ON"
+msgstr ""
+
+msgctxt "1936"
+msgid "SetM_nml_sync_chase_hold_lp"
+msgstr ""
+
+msgctxt "1940"
+msgid "SetP_sync_chase_hold_lp"
+msgstr ""
+
+msgctxt "1944"
+msgid "Player_TOP_2.5_ON"
+msgstr ""
+
+msgctxt "1948"
+msgid "15_35_SLOWER_VF_ON"
+msgstr ""

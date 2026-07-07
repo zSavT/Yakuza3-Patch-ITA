@@ -1,0 +1,324 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "400"
+msgid ""
+"Have you heard about the goya burger over at the Smile Burger in Downtown "
+"Ryukyu?"
+msgstr ""
+
+msgctxt "412"
+msgid "The goya burger? Yeah, I get it all the time. What about it?"
+msgstr ""
+
+msgctxt "424"
+msgid "Did you know you can only get them here in Okinawa?"
+msgstr ""
+
+msgctxt "436"
+msgid ""
+"Oh! Y'know, now that you mention it, you're right! I saw that written on "
+"the menu!"
+msgstr ""
+
+msgctxt "448"
+msgid ""
+"I was so used to getting it over here, I guess I didn't realize you "
+"couldn't get it on the mainland."
+msgstr ""
+
+msgctxt "460"
+msgid ""
+"If you can only get it here, it must be pretty rare. That's one cool "
+"burger, huh? <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "472"
+msgid "You're right about that."
+msgstr ""
+
+msgctxt "484"
+msgid ""
+"I heard the rafute soba over at the Okinawan Soba place in the Kariyushi "
+"Arcade is really delicious, and rich in collagen, too."
+msgstr ""
+
+msgctxt "496"
+msgid ""
+"I dunno about that collagen thing, but they're right about that soba! Their "
+"noodles are soooo good. <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "508"
+msgid ""
+"I like the tebichi soba way better than the rafute one,\r\n"
+"though. <Color:7>⑮⑮<Color:Default>"
+msgstr ""
+
+msgctxt "520"
+msgid "Oh yeah?"
+msgstr ""
+
+msgctxt "532"
+msgid ""
+"The meat is suuuuper soft and juicy, and totally delicious! "
+"<Color:7>⑮⑮<Color:Default> You should give it a try, Kiryu-san! You'll "
+"definitely like it! <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "544"
+msgid ""
+"Have you heard about the \"legendary\" appetizer they have at Aqua Sky in "
+"Hatsumachi?"
+msgstr ""
+
+msgctxt "556"
+msgid "A legendary appetizer? I dunno what it is, but it sounds pretty important!"
+msgstr ""
+
+msgctxt "568"
+msgid "Here's the thing... it's just salt."
+msgstr ""
+
+msgctxt "580"
+msgid "Salt!? Salt is the appetizer of legends!?"
+msgstr ""
+
+msgctxt "592"
+msgid ""
+"Yeah. Apparently, it's a rare salt that's only made on a tiny island here "
+"in Okinawa."
+msgstr ""
+
+msgctxt "604"
+msgid "Oh, okay... It's just regular salt, then."
+msgstr ""
+
+msgctxt "616"
+msgid ""
+"Yeah. Not only that, it has this hint of sweetness to it that brings out "
+"the flavor in alcoholic drinks."
+msgstr ""
+
+msgctxt "628"
+msgid "Huuuuh... Sounds like something a big drinker would like."
+msgstr ""
+
+msgctxt "640"
+msgid ""
+"Have you ever heard of Tantakatan? It's a kind of shochu made with red "
+"perilla."
+msgstr ""
+
+msgctxt "652"
+msgid "Yup. I drink it every now and then, too. <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "664"
+msgid "Really?"
+msgstr ""
+
+msgctxt "676"
+msgid ""
+"Oh, hey! I know a super yummy way to drink Tantakatan! Wanna know what it "
+"is? <Color:7>⑮⑮<Color:Default>"
+msgstr ""
+
+msgctxt "688"
+msgid ""
+"You gotta mix it with cranberry juice! <Color:7>⑮<Color:Default> Once you "
+"take that first sip, you won't be able to stop! <Color:7>⑮⑮<Color:Default>"
+msgstr ""
+
+msgctxt "700"
+msgid "Hahaha. Sounds like you're pretty into it."
+msgstr ""
+
+msgctxt "712"
+msgid "Dummy"
+msgstr ""
+
+msgctxt "724"
+msgid "Dummy"
+msgstr ""
+
+msgctxt "736"
+msgid "Dummy"
+msgstr ""
+
+msgctxt "748"
+msgid "Dummy"
+msgstr ""
+
+msgctxt "760"
+msgid "Dummy"
+msgstr ""
+
+msgctxt "772"
+msgid "Dummy"
+msgstr ""
+
+msgctxt "784"
+msgid "Dummy"
+msgstr ""
+
+msgctxt "796"
+msgid "Have you ever had the goya burger over at Smile Burger?"
+msgstr ""
+
+msgctxt "808"
+msgid "Yeah, and you can only get it here, right? You told me about it before."
+msgstr ""
+
+msgctxt "820"
+msgid "Oh, yeah. You're right."
+msgstr ""
+
+msgctxt "832"
+msgid ""
+"You're a bit of a ditz, aren't you, Kiryu-san? That's no good! You gotta "
+"remember stuff like this!"
+msgstr ""
+
+msgctxt "844"
+msgid "Have you heard about the rafute soba at Okinawan Soba?"
+msgstr ""
+
+msgctxt "856"
+msgid ""
+"Yeah! The lady who works there is super nice. I went there to eat once with "
+"my brother, and she gave us two tebichi sobas⑬on the house! "
+"<Color:7>⑮⑮⑮<Color:Default>"
+msgstr ""
+
+msgctxt "868"
+msgid "Wow, that's nice of her."
+msgstr ""
+
+msgctxt "880"
+msgid ""
+"Mm-hmm! <Color:7>⑮<Color:Default> She's sooo sweet. No wonder the place is "
+"so great. <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "892"
+msgid "Have you heard of the \"legendary\" appetizer they've got over at Aqua Sky?"
+msgstr ""
+
+msgctxt "904"
+msgid "Yeah, that rare salt? I like to order something meaty when I drink, though."
+msgstr ""
+
+msgctxt "916"
+msgid "Gotcha..."
+msgstr ""
+
+msgctxt "928"
+msgid ""
+"I usually go for rafute or grilled agu, something I can chew and savor. "
+"<Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "940"
+msgid "Have you ever heard of Tantakatan?"
+msgstr ""
+
+msgctxt "952"
+msgid ""
+"Mm-hmm, it's great. I always recommend it to our guests\r\n"
+"here, too. <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "964"
+msgid "Is that so?"
+msgstr ""
+
+msgctxt "976"
+msgid ""
+"I mean, if we're gonna be drinking here, I kinda want us to drink something "
+"I like, too. <Color:7>⑮<Color:Default> Ehehe..."
+msgstr ""
+
+msgctxt "988"
+msgid ""
+"It's so smooth and easy to sip. I just love Tantakatan. "
+"<Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "1000"
+msgid "Dummy"
+msgstr ""
+
+msgctxt "1012"
+msgid "Dummy"
+msgstr ""
+
+msgctxt "1024"
+msgid "Dummy"
+msgstr ""
+
+msgctxt "1036"
+msgid "Dummy"
+msgstr ""
+
+msgctxt "1048"
+msgid "Dummy"
+msgstr ""
+
+msgctxt "1060"
+msgid "Dummy"
+msgstr ""
+
+msgctxt "1072"
+msgid "Dummy"
+msgstr ""
+
+msgctxt "10000"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "10004"
+msgid "Saya"
+msgstr ""
+
+msgctxt "10008"
+msgid "F_cab_sitsofa_tlk_yes"
+msgstr ""
+
+msgctxt "10012"
+msgid "F_cab_sitsofa_tlk_suprise"
+msgstr ""
+
+msgctxt "10016"
+msgid "F_cab_sitsofa_tlk_happy"
+msgstr ""
+
+msgctxt "10020"
+msgid "F_cab_sitsofa_talk_smileA"
+msgstr ""
+
+msgctxt "10024"
+msgid "F_cab_sitsofa_tlk_kamaeAtoB"
+msgstr ""
+
+msgctxt "10028"
+msgid "F_cab_sitsofa_tlk_supriseB"
+msgstr ""
+
+msgctxt "10032"
+msgid "F_cab_sitsofa_tlk_yesB"
+msgstr ""
+
+msgctxt "10036"
+msgid "F_cab_sitsofa_tlk_noA"
+msgstr ""

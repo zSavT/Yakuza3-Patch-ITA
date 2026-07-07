@@ -1,0 +1,454 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "284"
+msgid "It's you! You're part of the Ryudo Family, aren't you?"
+msgstr ""
+
+msgctxt "296"
+msgid "What?"
+msgstr ""
+
+msgctxt "308"
+msgid ""
+"Boy, am I glad to see you! I can't handle this alone, so I was thinking of "
+"askin' Nakahara-san a favor."
+msgstr ""
+
+msgctxt "320"
+msgid "Sorry to break it to you, but I'm not in the Ryudo Family."
+msgstr ""
+
+msgctxt "332"
+msgid ""
+"But I could have sworn I saw you step into Nakahara-san's office the other "
+"day with Rikiya-kun and his pal..."
+msgstr ""
+
+msgctxt "344"
+msgid "Well, I can't deny that."
+msgstr ""
+
+msgctxt "356"
+msgid "Then you and Nakahara-san are at least acquainted, right?"
+msgstr ""
+
+msgctxt "368"
+msgid "I have a big favor to ask you!"
+msgstr ""
+
+msgctxt "380"
+msgid "I have a feeling I'm not gonna like this, but go ahead."
+msgstr ""
+
+msgctxt "392"
+msgid "First off, my name's Takeshi Kyan, and I run the Public Market here."
+msgstr ""
+
+msgctxt "404"
+msgid ""
+"Lately, there have been some black market deals going down here. It's been "
+"causing us some trouble."
+msgstr ""
+
+msgctxt "416"
+msgid "Black market? What kind of deals, exactly?"
+msgstr ""
+
+msgctxt "428"
+msgid "Iriomote wildcat trafficking."
+msgstr ""
+
+msgctxt "440"
+msgid "Cats?"
+msgstr ""
+
+msgctxt "452"
+msgid ""
+"That's right. The Iriomote wildcat's an endangered species protected by "
+"law, and it's only found in Okinawa!"
+msgstr ""
+
+msgctxt "464"
+msgid ""
+"A few dedicated collectors are willing to pay dealers insane amounts of "
+"money for it."
+msgstr ""
+
+msgctxt "476"
+msgid "And they've been making deals here, in your market."
+msgstr ""
+
+msgctxt "488"
+msgid ""
+"That's right. But I don't have the expertise needed to bring these "
+"criminals to justice on my own."
+msgstr ""
+
+msgctxt "500"
+msgid "Haven't you contacted the police?"
+msgstr ""
+
+msgctxt "512"
+msgid ""
+"I can't do that. If I get the law involved, and they figure out there are "
+"shady deals going on at my market..."
+msgstr ""
+
+msgctxt "524"
+msgid "They'd shut us down! For days! Think of all the business we'd lose!"
+msgstr ""
+
+msgctxt "536"
+msgid ""
+"I won't have it! As the Public Market's president, I have to get this "
+"solved without closing us down!"
+msgstr ""
+
+msgctxt "548"
+msgid "I see..."
+msgstr ""
+
+msgctxt "560"
+msgid ""
+"I'd be willing to pay for your trouble! You'd be really helping us locals "
+"out. What do you say?"
+msgstr ""
+
+msgctxt "572"
+msgid ""
+"This is a job for local law enforcement. Endangered species are protected "
+"by law, right?"
+msgstr ""
+
+msgctxt "584"
+msgid ""
+"That's true, but think about it... This is a popular tourist spot. With "
+"scandals, and police... our image would suffer."
+msgstr ""
+
+msgctxt "596"
+msgid ""
+"And that means our businesses would suffer. As president of the Public "
+"Market, I have a duty to solve this peacefully."
+msgstr ""
+
+msgctxt "608"
+msgid "All the more reason to ask the cops. They know how to handle this stuff."
+msgstr ""
+
+msgctxt "620"
+msgid "All right, I'll help."
+msgstr ""
+
+msgctxt "632"
+msgid "Thank you!"
+msgstr ""
+
+msgctxt "644"
+msgid "So what exactly do I have to do?"
+msgstr ""
+
+msgctxt "656"
+msgid "Actually, my biggest suspect is on the second floor as we speak."
+msgstr ""
+
+msgctxt "668"
+msgid "You've already got a suspect picked out?"
+msgstr ""
+
+msgctxt "680"
+msgid "Yes. He's a fat man with a green hat and a red Hawaiian shirt."
+msgstr ""
+
+msgctxt "692"
+msgid ""
+"He always shows up in those clothes whenever an Iriomote wildcat deal is "
+"going down."
+msgstr ""
+
+msgctxt "704"
+msgid ""
+"A fat man with a green hat and a red Hawaiian shirt. Anything else I should "
+"know?"
+msgstr ""
+
+msgctxt "716"
+msgid "Yes. He's always carrying a big cage."
+msgstr ""
+
+msgctxt "728"
+msgid "A cage?"
+msgstr ""
+
+msgctxt "740"
+msgid "You know, like a carrier. The kind people carry pets in?"
+msgstr ""
+
+msgctxt "752"
+msgid "He probably keeps the wildcats in there."
+msgstr ""
+
+msgctxt "764"
+msgid "Then all I have to do is look in the cage to know if he's guilty, right?"
+msgstr ""
+
+msgctxt "776"
+msgid ""
+"Well, you'd think so... But I thought I caught him red-handed once. When I "
+"looked in the cage, it was empty."
+msgstr ""
+
+msgctxt "788"
+msgid "Empty, eh...? So you caught him after the deal had already gone down."
+msgstr ""
+
+msgctxt "800"
+msgid "Could be. But there's no point in catching the bastard without any evidence."
+msgstr ""
+
+msgctxt "812"
+msgid "Please, catch him before he makes the deal."
+msgstr ""
+
+msgctxt "824"
+msgid "Got it."
+msgstr ""
+
+msgctxt "836"
+msgid "Good luck to you! I'll be waiting right here!"
+msgstr ""
+
+msgctxt "860"
+msgid "Kiryu-san! You came back for me!"
+msgstr ""
+
+msgctxt "872"
+msgid "I'm begging you to help me out here! You'd be saving our community! So...?"
+msgstr ""
+
+msgctxt "884"
+msgid ""
+"This is a job for local law enforcement. Endangered species are protected "
+"by law, right?"
+msgstr ""
+
+msgctxt "896"
+msgid ""
+"That's true, but think about it... This is a popular tourist spot. With "
+"scandals, and police... our image would suffer."
+msgstr ""
+
+msgctxt "908"
+msgid ""
+"And that means our businesses would suffer. As president of the Public "
+"Market, I have a duty to solve this peacefully."
+msgstr ""
+
+msgctxt "920"
+msgid "All the more reason to ask the cops. They know how to handle this stuff."
+msgstr ""
+
+msgctxt "932"
+msgid "All right, I'll help."
+msgstr ""
+
+msgctxt "944"
+msgid "Thank you!"
+msgstr ""
+
+msgctxt "956"
+msgid "So what exactly do I have to do?"
+msgstr ""
+
+msgctxt "968"
+msgid "Actually, my biggest suspect is on the second floor as we speak."
+msgstr ""
+
+msgctxt "980"
+msgid "You've already got a suspect picked out?"
+msgstr ""
+
+msgctxt "992"
+msgid "Yes. He's a fat man with a green hat and a red Hawaiian shirt."
+msgstr ""
+
+msgctxt "1004"
+msgid ""
+"He always shows up in those clothes whenever an Iriomote wildcat deal is "
+"going down."
+msgstr ""
+
+msgctxt "1016"
+msgid ""
+"A fat man with a green hat and a red Hawaiian shirt. Anything else I should "
+"know?"
+msgstr ""
+
+msgctxt "1028"
+msgid "Yes. He's always carrying a big cage."
+msgstr ""
+
+msgctxt "1040"
+msgid "A cage?"
+msgstr ""
+
+msgctxt "1052"
+msgid "You know, like a carrier. The kind people carry pets in?"
+msgstr ""
+
+msgctxt "1064"
+msgid "He probably keeps the wildcats in there."
+msgstr ""
+
+msgctxt "1076"
+msgid "Then all I have to do is look in the cage to know if he's guilty, right?"
+msgstr ""
+
+msgctxt "1088"
+msgid ""
+"Well, you'd think so... But I thought I caught him red-handed once. When I "
+"looked in the cage, it was empty."
+msgstr ""
+
+msgctxt "1100"
+msgid "Empty, eh...? So you caught him after the deal had already gone down."
+msgstr ""
+
+msgctxt "1112"
+msgid "Could be. But there's no point in catching the bastard without any evidence."
+msgstr ""
+
+msgctxt "1124"
+msgid "Please, catch him before he makes the deal."
+msgstr ""
+
+msgctxt "1136"
+msgid "Got it."
+msgstr ""
+
+msgctxt "1148"
+msgid "Good luck to you! I'll be waiting right here!"
+msgstr ""
+
+msgctxt "1160"
+msgid "How's it going, Kiryu-san? You manage to find that criminal yet?"
+msgstr ""
+
+msgctxt "1172"
+msgid "Not yet."
+msgstr ""
+
+msgctxt "1184"
+msgid "He's a fat guy, and he'll be wearing a green hat and a red Hawaiian shirt."
+msgstr ""
+
+msgctxt "1196"
+msgid "He'll also have a cage for the cat. Please, keep an eye out for him."
+msgstr ""
+
+msgctxt "1208"
+msgid "All right, I'll help."
+msgstr ""
+
+msgctxt "1220"
+msgid "This job is for the police."
+msgstr ""
+
+msgctxt "1232"
+msgid "All right, I'll help."
+msgstr ""
+
+msgctxt "1244"
+msgid "This job is for the police."
+msgstr ""
+
+msgctxt "13500"
+msgid "Troubled Man"
+msgstr ""
+
+msgctxt "13504"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "13508"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "13512"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "13516"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "13520"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "13524"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "13528"
+msgid "Talk_Request"
+msgstr ""
+
+msgctxt "13532"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "13536"
+msgid "Kyan"
+msgstr ""
+
+msgctxt "13540"
+msgid "Talk_NoBig"
+msgstr ""
+
+msgctxt "13544"
+msgid "Talk_Away"
+msgstr ""
+
+msgctxt "13548"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "13552"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "13556"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "13560"
+msgid "Talk_Kosite_st"
+msgstr ""
+
+msgctxt "13564"
+msgid "Talk_Kosite_ed"
+msgstr ""
+
+msgctxt "13568"
+msgid "Talk_Udekumi_st"
+msgstr ""
+
+msgctxt "13572"
+msgid "Talk_Udekumi_Yes"
+msgstr ""
+
+msgctxt "13576"
+msgid "Talk_Udekumi_ed"
+msgstr ""

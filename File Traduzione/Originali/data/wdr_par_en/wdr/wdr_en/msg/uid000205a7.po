@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "108"
+msgid "Ring's all prepped, Aniki! You ready to rumble?"
+msgstr ""
+
+msgctxt "120"
+msgid "Not just yet, sorry."
+msgstr ""
+
+msgctxt "132"
+msgid ""
+"Oh, well try and make it snappy! Don't wanna keep these kids\r\n"
+"waitin' too long!"
+msgstr ""
+
+msgctxt "144"
+msgid "Just come on back when you're good to go."
+msgstr ""
+
+msgctxt "156"
+msgid "Sure, let's do it."
+msgstr ""
+
+msgctxt "168"
+msgid ""
+"Sweet, let's go change into our costumes somewhere the kids\r\n"
+"won't see us!"
+msgstr ""
+
+msgctxt "180"
+msgid "Right."
+msgstr ""
+
+msgctxt "204"
+msgid "Not just yet."
+msgstr ""
+
+msgctxt "216"
+msgid "Sure, let's do it."
+msgstr ""
+
+msgctxt "1352"
+msgid "Rikiya"
+msgstr ""
+
+msgctxt "1356"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "1360"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1364"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "1368"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "1372"
+msgid "Talk_Ase"
+msgstr ""

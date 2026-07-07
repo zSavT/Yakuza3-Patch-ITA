@@ -1,0 +1,250 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "168"
+msgid "Thank you for coming, Kiryu-san."
+msgstr ""
+
+msgctxt "180"
+msgid ""
+"Unfortunately, we can't release her until she pays for both her check and "
+"the damage she did to some of our glassware... The total comes out to "
+"300,000 yen."
+msgstr ""
+
+msgctxt "204"
+msgid "All right..."
+msgstr ""
+
+msgctxt "216"
+msgid "You paid <Color:8>300,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "228"
+msgid ""
+"I'm sorry you have to do this. I don't mean to butt into your personal "
+"life, but this girl clearly has a problem with alcohol. You may want to "
+"reconsider your friendship with her."
+msgstr ""
+
+msgctxt "240"
+msgid "......"
+msgstr ""
+
+msgctxt "252"
+msgid ""
+"I've got to get back to work. Thank you again.\r\n"
+"Come on, let's go clean up that mess..."
+msgstr ""
+
+msgctxt "264"
+msgid "Yes, sir!"
+msgstr ""
+
+msgctxt "312"
+msgid "Sorry, I don't have the cash on me right now."
+msgstr ""
+
+msgctxt "324"
+msgid ""
+"I'm sorry, sir, but you really need to get that money to us. She's still "
+"out cold, and we can't have her lying around the club much longer."
+msgstr ""
+
+msgctxt "336"
+msgid "I'll pay it, don't worry. Wait here, I'll be back with your 300 grand."
+msgstr ""
+
+msgctxt "348"
+msgid "Thank you, but please, if you could hurry..."
+msgstr ""
+
+msgctxt "360"
+msgid "I will."
+msgstr ""
+
+msgctxt "372"
+msgid "Heeeeeey! Kazuma Kiryuuu! Yer sooooo late! I waited foreeeeever for you!"
+msgstr ""
+
+msgctxt "384"
+msgid "...What happened?"
+msgstr ""
+
+msgctxt "396"
+msgid "Ahahaha! Oh, Kiryu-san, I looooove you!"
+msgstr ""
+
+msgctxt "408"
+msgid "You're... very drunk."
+msgstr ""
+
+msgctxt "420"
+msgid ""
+"This has been quite the ordeal... She got more and more intoxicated, then "
+"began trashing our club. All of our other customers ran off because of her "
+"tantrum."
+msgstr ""
+
+msgctxt "432"
+msgid ""
+"The club owner said we shouldn't bother you about it, because you helped "
+"him out in the past..."
+msgstr ""
+
+msgctxt "444"
+msgid ""
+"But we can't let her leave without getting reimbursed for the damage she "
+"did to our club tonight."
+msgstr ""
+
+msgctxt "456"
+msgid "Heeeey! I, like, said I'd pay, riiiiiiight?"
+msgstr ""
+
+msgctxt "468"
+msgid "Say it all you want, but you don't have any money."
+msgstr ""
+
+msgctxt "480"
+msgid "That's why we had to call Kiryu-san to come bail you out."
+msgstr ""
+
+msgctxt "492"
+msgid "How much does she owe you?"
+msgstr ""
+
+msgctxt "504"
+msgid ""
+"Her check and the damage she did to the club comes out to a total of "
+"300,000 yen."
+msgstr ""
+
+msgctxt "528"
+msgid "All right..."
+msgstr ""
+
+msgctxt "540"
+msgid "You paid <Color:8>300,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "552"
+msgid ""
+"I'm sorry you have to do this. I don't mean to butt into your personal "
+"life, but this girl clearly has a problem with alcohol. You may want to "
+"reconsider your friendship with her."
+msgstr ""
+
+msgctxt "564"
+msgid "......"
+msgstr ""
+
+msgctxt "576"
+msgid "I've got to get back to work. Thank you again."
+msgstr ""
+
+msgctxt "588"
+msgid "Come on, let's go clean up that mess..."
+msgstr ""
+
+msgctxt "600"
+msgid "Yes, sir."
+msgstr ""
+
+msgctxt "648"
+msgid "Sorry, but I don't have enough cash right now."
+msgstr ""
+
+msgctxt "660"
+msgid "That's a bit of a problem..."
+msgstr ""
+
+msgctxt "672"
+msgid "Could you wait a little longer? I'll be back once I have the 300 grand."
+msgstr ""
+
+msgctxt "684"
+msgid "I suppose we'll have to. We'll let her sleep in the club for now."
+msgstr ""
+
+msgctxt "696"
+msgid "Sorry about this."
+msgstr ""
+
+msgctxt "744"
+msgid "I'll pay off her tab."
+msgstr ""
+
+msgctxt "756"
+msgid "Sorry, I don't have the cash right now."
+msgstr ""
+
+msgctxt "768"
+msgid "I'll pay the 300,000 yen."
+msgstr ""
+
+msgctxt "780"
+msgid "I don't have enough cash right now."
+msgstr ""
+
+msgctxt "7272"
+msgid "Club Manager"
+msgstr ""
+
+msgctxt "7276"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "7280"
+msgid "Talk_Send"
+msgstr ""
+
+msgctxt "7284"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "7288"
+msgid "Host"
+msgstr ""
+
+msgctxt "7292"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "7296"
+msgid "dummy"
+msgstr ""
+
+msgctxt "7300"
+msgid "0"
+msgstr ""
+
+msgctxt "7304"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "7308"
+msgid "Yui"
+msgstr ""
+
+msgctxt "7312"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "7316"
+msgid "Talk_SmileBig_st"
+msgstr ""
+
+msgctxt "7320"
+msgid "Talk_No"
+msgstr ""

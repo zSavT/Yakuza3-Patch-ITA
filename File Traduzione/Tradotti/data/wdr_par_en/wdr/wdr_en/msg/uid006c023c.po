@@ -1,0 +1,246 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "124"
+msgid "Heheheh. You can't beat me, Kiryu-san."
+msgstr ""
+
+msgctxt "136"
+msgid "C'mon, let's go inside."
+msgstr ""
+
+msgctxt "148"
+msgid "All right."
+msgstr ""
+
+msgctxt "172"
+msgid "Heheheh. You can't beat me, Kiryu-san."
+msgstr ""
+
+msgctxt "184"
+msgid "C'mon, let's go inside."
+msgstr ""
+
+msgctxt "196"
+msgid "Hold on a second... Looks like I'm a little short on cash."
+msgstr ""
+
+msgctxt "208"
+msgid "Huh? Are you serious?"
+msgstr ""
+
+msgctxt "220"
+msgid "Sorry..."
+msgstr ""
+
+msgctxt "232"
+msgid "Aww... Then I'm gonna go home for the day. See you, Kiryu-san."
+msgstr ""
+
+msgctxt "244"
+msgid "(Better make sure I bring enough cash next time...)"
+msgstr ""
+
+msgctxt "352"
+msgid "Wow, Kiryu-san. You're a darts master!"
+msgstr ""
+
+msgctxt "364"
+msgid "I guess."
+msgstr ""
+
+msgctxt "376"
+msgid "I had so much fun playing with you, Kiryu-san. <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "388"
+msgid ""
+"Let's go out again soon, okay? There're so many places I wanna go with you, "
+"Kiryu-san. <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "412"
+msgid "A tie!? I thought I had you!"
+msgstr ""
+
+msgctxt "424"
+msgid "Maybe next time."
+msgstr ""
+
+msgctxt "436"
+msgid "I had so much fun playing with you, Kiryu-san."
+msgstr ""
+
+msgctxt "448"
+msgid ""
+"Let's go out again soon, okay? There're so many places I wanna go with you, "
+"Kiryu-san. <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "472"
+msgid ""
+"Heheheh... I win. <Color:7>⑮<Color:Default> Looks like you got a long way "
+"to go, Kiryu-san. <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "484"
+msgid "Guess so."
+msgstr ""
+
+msgctxt "496"
+msgid "I had so much fun playing with you, Kiryu-san. <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "508"
+msgid ""
+"Let's go out again soon, okay? There're so many places I wanna go with you, "
+"Kiryu-san. <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "532"
+msgid "Major error! No flags set for conversation selection!"
+msgstr ""
+
+msgctxt "616"
+msgid "Heheheh. You can't beat me, Kiryu-san."
+msgstr ""
+
+msgctxt "628"
+msgid "C'mon, let's go inside."
+msgstr ""
+
+msgctxt "640"
+msgid "All right."
+msgstr ""
+
+msgctxt "664"
+msgid "Heheheh. You can't beat me, Kiryu-san."
+msgstr ""
+
+msgctxt "676"
+msgid "C'mon, let's go inside."
+msgstr ""
+
+msgctxt "688"
+msgid "Hold on a second... Looks like I'm a little short on cash."
+msgstr ""
+
+msgctxt "700"
+msgid "Huh? Are you serious?"
+msgstr ""
+
+msgctxt "712"
+msgid "Sorry..."
+msgstr ""
+
+msgctxt "724"
+msgid "Aww... Then I'm gonna go home for the day. See you, Kiryu-san."
+msgstr ""
+
+msgctxt "736"
+msgid "(Better make sure I bring enough cash next time...)"
+msgstr ""
+
+msgctxt "844"
+msgid "Wow, Kiryu-san. You're a darts master!"
+msgstr ""
+
+msgctxt "856"
+msgid "Guess so."
+msgstr ""
+
+msgctxt "868"
+msgid "I had so much fun playing with you, Kiryu-san. <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "880"
+msgid "So! Wanna head over to the club for some drinks?"
+msgstr ""
+
+msgctxt "892"
+msgid "Yeah, let's do that."
+msgstr ""
+
+msgctxt "916"
+msgid "A tie!? I thought I had you!"
+msgstr ""
+
+msgctxt "928"
+msgid "Maybe next time."
+msgstr ""
+
+msgctxt "940"
+msgid "I had so much fun playing with you, Kiryu-san."
+msgstr ""
+
+msgctxt "952"
+msgid "So! Wanna head over to the club for some drinks?"
+msgstr ""
+
+msgctxt "964"
+msgid "Yeah, let's do that."
+msgstr ""
+
+msgctxt "988"
+msgid ""
+"Heheheh... I win. <Color:7>⑮<Color:Default> Looks like you got a long way "
+"to go, Kiryu-san. <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "1000"
+msgid "I guess."
+msgstr ""
+
+msgctxt "1012"
+msgid "I had so much fun playing with you, Kiryu-san. <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "1024"
+msgid "So! Wanna head over to the club for some drinks?"
+msgstr ""
+
+msgctxt "1036"
+msgid "Yeah, let's do that."
+msgstr ""
+
+msgctxt "1060"
+msgid "Major error! No flags set for conversation selection!"
+msgstr ""
+
+msgctxt "12644"
+msgid "Shiori"
+msgstr ""
+
+msgctxt "12648"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "12652"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "12656"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "12660"
+msgid "dummy"
+msgstr ""
+
+msgctxt "12664"
+msgid "0"
+msgstr ""
+
+msgctxt "12668"
+msgid "Talk_Yes"
+msgstr ""

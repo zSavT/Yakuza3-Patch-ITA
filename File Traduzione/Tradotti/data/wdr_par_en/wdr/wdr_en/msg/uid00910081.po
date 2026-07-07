@@ -1,0 +1,486 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "80"
+msgid "You son of a bitch..."
+msgstr ""
+
+msgctxt "92"
+msgid "No way... But..."
+msgstr ""
+
+msgctxt "104"
+msgid "Kazuma Kiryu... I'll never forgive you, as long as I live."
+msgstr ""
+
+msgctxt "116"
+msgid "Arase..."
+msgstr ""
+
+msgctxt "128"
+msgid "Kiryu-san! Are you all right!?"
+msgstr ""
+
+msgctxt "140"
+msgid "Ibuki? What are you doing here?"
+msgstr ""
+
+msgctxt "152"
+msgid "Sorry. I got worried when I couldn't get a hold of you..."
+msgstr ""
+
+msgctxt "164"
+msgid "So you're the head of the HLA..."
+msgstr ""
+
+msgctxt "176"
+msgid "Arase-san. It was you all this time..."
+msgstr ""
+
+msgctxt "188"
+msgid "Why, you... How do you know who I am?"
+msgstr ""
+
+msgctxt "200"
+msgid "You bet I know. I've been looking for you this whole time."
+msgstr ""
+
+msgctxt "212"
+msgid "For me? Why?"
+msgstr ""
+
+msgctxt "224"
+msgid "I knew the family gave you a rough time after your fight with Kiryu-san."
+msgstr ""
+
+msgctxt "236"
+msgid "And nobody was as worried about you as Kashiwagi-san was."
+msgstr ""
+
+msgctxt "248"
+msgid "Kashiwagi?"
+msgstr ""
+
+msgctxt "260"
+msgid ""
+"Kashiwagi-san knew you'd been disowned by them and searched all over "
+"Kamurocho for you himself."
+msgstr ""
+
+msgctxt "272"
+msgid ""
+"He knew exactly what you were up against. That's why he tried so hard to "
+"find you⑬so he could help you in time."
+msgstr ""
+
+msgctxt "284"
+msgid "You people should've minded your own business..."
+msgstr ""
+
+msgctxt "296"
+msgid "Stop pretending what you're doing is anything more than hypocrisy!"
+msgstr ""
+
+msgctxt "308"
+msgid "You're wrong about that."
+msgstr ""
+
+msgctxt "320"
+msgid "When Kashiwagi-san created the HLA, he faced overwhelming opposition."
+msgstr ""
+
+msgctxt "332"
+msgid ""
+"Many people were against him using family money to help people who'd quit "
+"the business."
+msgstr ""
+
+msgctxt "344"
+msgid ""
+"But despite all that, he pushed the project forward. His intentions were "
+"never insincere."
+msgstr ""
+
+msgctxt "356"
+msgid "......"
+msgstr ""
+
+msgctxt "368"
+msgid "Arase, their conviction is the real deal."
+msgstr ""
+
+msgctxt "380"
+msgid "Kashiwagi-san's concern for your welfare was real, too."
+msgstr ""
+
+msgctxt "392"
+msgid "Is revenge really the way you want to respond to all that?"
+msgstr ""
+
+msgctxt "404"
+msgid "You got no right to preach at me, asshole!"
+msgstr ""
+
+msgctxt "416"
+msgid "Arase..."
+msgstr ""
+
+msgctxt "428"
+msgid "......"
+msgstr ""
+
+msgctxt "440"
+msgid ""
+"I realize my revenge may seem like repaying kindness with resentment to "
+"some..."
+msgstr ""
+
+msgctxt "452"
+msgid "But if I don't do something, it'll keep gnawing away at me from inside!"
+msgstr ""
+
+msgctxt "464"
+msgid "Arase-san, it's still not too late. Why don't you start over again with us?"
+msgstr ""
+
+msgctxt "476"
+msgid "Start over? Start what over?"
+msgstr ""
+
+msgctxt "488"
+msgid "I've lost everything. It's too late for me to start anything over..."
+msgstr ""
+
+msgctxt "500"
+msgid ""
+"You organized the hitmen. You've got the kind of charisma others wish they "
+"had."
+msgstr ""
+
+msgctxt "512"
+msgid "You can do things nobody else can. You haven't lost your touch."
+msgstr ""
+
+msgctxt "524"
+msgid "Arase-san. Please come to the HLA with us."
+msgstr ""
+
+msgctxt "536"
+msgid "......"
+msgstr ""
+
+msgctxt "548"
+msgid "No."
+msgstr ""
+
+msgctxt "560"
+msgid "Boss..."
+msgstr ""
+
+msgctxt "572"
+msgid "I didn't know there were people willing to offer me a hand."
+msgstr ""
+
+msgctxt "584"
+msgid "People like Kashiwagi... and you... You're just hopeless fools..."
+msgstr ""
+
+msgctxt "596"
+msgid "Maybe so."
+msgstr ""
+
+msgctxt "608"
+msgid "There may be some truth to what you're saying..."
+msgstr ""
+
+msgctxt "620"
+msgid "But as for you, Kazuma Kiryu... I'll still never forgive you."
+msgstr ""
+
+msgctxt "632"
+msgid "......"
+msgstr ""
+
+msgctxt "644"
+msgid "Ibuki, was it? I won't be causing you any more trouble."
+msgstr ""
+
+msgctxt "656"
+msgid "You have my word. Just stay out of my business."
+msgstr ""
+
+msgctxt "668"
+msgid "Arase-san..."
+msgstr ""
+
+msgctxt "680"
+msgid "And you, Kazuma Kiryu. I'll settle the score with you later."
+msgstr ""
+
+msgctxt "692"
+msgid "......"
+msgstr ""
+
+msgctxt "704"
+msgid "Let's go, Shinzaki."
+msgstr ""
+
+msgctxt "716"
+msgid "...Okay."
+msgstr ""
+
+msgctxt "800"
+msgid "You sure about letting him go like that?"
+msgstr ""
+
+msgctxt "812"
+msgid "Yes. There's nothing to worry about now."
+msgstr ""
+
+msgctxt "824"
+msgid "How can you be so sure?"
+msgstr ""
+
+msgctxt "836"
+msgid "The first thing we do at the HLA is trust people."
+msgstr ""
+
+msgctxt "848"
+msgid ""
+"When we help somebody, we truly believe he can turn his life around, that "
+"he'll stop causing trouble for others."
+msgstr ""
+
+msgctxt "860"
+msgid "Without trust, we can't get our message across."
+msgstr ""
+
+msgctxt "872"
+msgid "I see. Makes a whole lot of sense."
+msgstr ""
+
+msgctxt "884"
+msgid ""
+"I'm more worried about you. It sounds like they're going to challenge you "
+"to another fight."
+msgstr ""
+
+msgctxt "896"
+msgid "If that happens, I'll be ready."
+msgstr ""
+
+msgctxt "908"
+msgid "I should've known you'd say something like that."
+msgstr ""
+
+msgctxt "944"
+msgid "How can this be happening...?"
+msgstr ""
+
+msgctxt "956"
+msgid "You can't beat me. You can see that now, right?"
+msgstr ""
+
+msgctxt "968"
+msgid "Why...? Why can't I win...?"
+msgstr ""
+
+msgctxt "980"
+msgid "Because you're fighting for revenge."
+msgstr ""
+
+msgctxt "992"
+msgid "Nothing good can come of revenge. You just don't realize it."
+msgstr ""
+
+msgctxt "1004"
+msgid "Ugh..."
+msgstr ""
+
+msgctxt "1016"
+msgid "Stop fucking around, you moron!"
+msgstr ""
+
+msgctxt "1052"
+msgid "Boss!"
+msgstr ""
+
+msgctxt "1064"
+msgid "Kazuma Kiryu. Remember me?"
+msgstr ""
+
+msgctxt "1076"
+msgid "You were in the Nishikiyama Family, weren't you... Arase?"
+msgstr ""
+
+msgctxt "1088"
+msgid "I'm honored that a legendary yakuza like you would remember my name."
+msgstr ""
+
+msgctxt "1100"
+msgid "You're the ringleader of the Reapers?"
+msgstr ""
+
+msgctxt "1112"
+msgid "Bingo. Pleasure to see you again, Kiryu."
+msgstr ""
+
+msgctxt "1124"
+msgid "Why are you doing this?"
+msgstr ""
+
+msgctxt "1136"
+msgid "Why?"
+msgstr ""
+
+msgctxt "1148"
+msgid "Why, you ask?"
+msgstr ""
+
+msgctxt "1160"
+msgid "......"
+msgstr ""
+
+msgctxt "1172"
+msgid "To get rid of you, Kazuma Kiryu! What other reason would there be!?"
+msgstr ""
+
+msgctxt "1184"
+msgid "Wait, what?"
+msgstr ""
+
+msgctxt "1196"
+msgid ""
+"Don't tell me you've forgotten! My life went to hell after you beat the tar "
+"out of me!"
+msgstr ""
+
+msgctxt "1208"
+msgid ""
+"You were lucky enough to survive, but after that, the family treated me "
+"like shit!"
+msgstr ""
+
+msgctxt "1220"
+msgid "Even bottom feeders took the chance to gang up on me!"
+msgstr ""
+
+msgctxt "1232"
+msgid ""
+"And to top it off, they disowned me! Guess they just wanted to get rid of "
+"me, huh!?"
+msgstr ""
+
+msgctxt "1244"
+msgid "......"
+msgstr ""
+
+msgctxt "1256"
+msgid ""
+"Once I was disowned by a family under the Tojo Clan, there was no place I "
+"could go in Kamurocho."
+msgstr ""
+
+msgctxt "1268"
+msgid ""
+"My old comrades looked down on me. They refused to have anything to do with "
+"me..."
+msgstr ""
+
+msgctxt "1280"
+msgid "I'll never forgive them! I'm gonna kill every last one of those fuckers!"
+msgstr ""
+
+msgctxt "1292"
+msgid "Arase..."
+msgstr ""
+
+msgctxt "1304"
+msgid "And this is all thanks to you, Kazuma Kiryu."
+msgstr ""
+
+msgctxt "1316"
+msgid "Yet here you are, trying to screw me over again!"
+msgstr ""
+
+msgctxt "1328"
+msgid "I'll never forgive you! I'll just have to finish you off myself!"
+msgstr ""
+
+msgctxt "1340"
+msgid "Come on, Shinzaki... Don't screw this up again."
+msgstr ""
+
+msgctxt "1352"
+msgid "Sure thing, boss."
+msgstr ""
+
+msgctxt "1364"
+msgid "This is the end of the line..."
+msgstr ""
+
+msgctxt "1376"
+msgid "Time to pay with your life, Kazuma Kiryu!"
+msgstr ""
+
+msgctxt "16240"
+msgid "Arase"
+msgstr ""
+
+msgctxt "16244"
+msgid "Shinzaki"
+msgstr ""
+
+msgctxt "16248"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "16252"
+msgid "Ibuki"
+msgstr ""
+
+msgctxt "16256"
+msgid "Idle"
+msgstr ""
+
+msgctxt "16260"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "16264"
+msgid "M_ykz_stand_tlk_angry"
+msgstr ""
+
+msgctxt "16268"
+msgid "M_gai_stand_tlk_odosu"
+msgstr ""
+
+msgctxt "16272"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "16276"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "16280"
+msgid "Voice"
+msgstr ""
+
+msgctxt "16284"
+msgid "M_ykzs_stand_tlk_kamae"
+msgstr ""
+
+msgctxt "16288"
+msgid "M_nml_stand_tlk_kamae"
+msgstr ""

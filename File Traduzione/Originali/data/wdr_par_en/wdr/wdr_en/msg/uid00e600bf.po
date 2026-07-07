@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "92"
+msgid ""
+"We're done with work. Let's go to one of those Okinawan hostess clubs I've "
+"heard so much about!"
+msgstr ""
+
+msgctxt "104"
+msgid "I haven't seen any around here, though. Have you?"
+msgstr ""
+
+msgctxt "116"
+msgid ""
+"Come to think of it, I haven't either. Wonder where the red light district "
+"is..."
+msgstr ""
+
+msgctxt "128"
+msgid ""
+"Gentlemen! You two looking for a hostess club!? Then, you need to get "
+"yourselves over to Hatsumachi!"
+msgstr ""
+
+msgctxt "140"
+msgid "Hatsumachi? Where's that?"
+msgstr ""
+
+msgctxt "152"
+msgid ""
+"Just head north up Kitaryu Street and cross over the Kubochi River. It's a "
+"short walk from here."
+msgstr ""
+
+msgctxt "164"
+msgid ""
+"In fact, I happen to know of a great club up that way. Would you like me to "
+"take you? The girls there are the absolute best!"
+msgstr ""
+
+msgctxt "176"
+msgid "Really? That sounds great! Please, lead the way!"
+msgstr ""
+
+msgctxt "188"
+msgid ""
+"Excellent, I'll bring my car around. Wait right here. I'll be back in just "
+"a minute!"
+msgstr ""
+
+msgctxt "200"
+msgid ""
+"I can't believe he's gonna drive us there. People in Okinawa sure are "
+"friendly!"
+msgstr ""
+
+msgctxt "2024"
+msgid "Man on a Business Trip"
+msgstr ""
+
+msgctxt "2028"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "2032"
+msgid "Man's Subordinate"
+msgstr ""
+
+msgctxt "2036"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "2040"
+msgid "Barker"
+msgstr ""
+
+msgctxt "2044"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "2048"
+msgid "Man on Business Trip"
+msgstr ""
+
+msgctxt "2052"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "2056"
+msgid "Talk_Yes"
+msgstr ""

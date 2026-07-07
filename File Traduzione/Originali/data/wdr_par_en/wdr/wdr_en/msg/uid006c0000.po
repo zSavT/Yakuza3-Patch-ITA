@@ -1,0 +1,74 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "272"
+msgid "(Should I give her a present?)"
+msgstr ""
+
+msgctxt "296"
+msgid "(...I think she'll like this.)"
+msgstr ""
+
+msgctxt "308"
+msgid "(...Maybe not.)"
+msgstr ""
+
+msgctxt "320"
+msgid ""
+"(This might be a good place to stop, although I do have plenty of money "
+"left. What should we do?)"
+msgstr ""
+
+msgctxt "332"
+msgid "(Let's just enjoy our time.)"
+msgstr ""
+
+msgctxt "344"
+msgid "(...Yeah, we'd better call it quits for now.)"
+msgstr ""
+
+msgctxt "356"
+msgid "(Now what should I talk about...?)"
+msgstr ""
+
+msgctxt "404"
+msgid "Yes"
+msgstr ""
+
+msgctxt "416"
+msgid "No"
+msgstr ""
+
+msgctxt "428"
+msgid "Extend Session"
+msgstr ""
+
+msgctxt "440"
+msgid "Call It Quits"
+msgstr ""
+
+msgctxt "452"
+msgid "Rumors of Ramen"
+msgstr ""
+
+msgctxt "464"
+msgid "Rumors of Gelato"
+msgstr ""
+
+msgctxt "476"
+msgid "Rumors of Knockoffs"
+msgstr ""
+
+msgctxt "1824"
+msgid "Kiryu"
+msgstr ""

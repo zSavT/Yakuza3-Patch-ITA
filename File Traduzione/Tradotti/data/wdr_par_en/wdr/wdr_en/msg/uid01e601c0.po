@@ -1,0 +1,72 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "156"
+msgid ""
+"Kiryu-san? It's me, Shibayama, the guy who asked you to\r\n"
+"help collect that loan."
+msgstr ""
+
+msgctxt "168"
+msgid "Oh, hey. What's going on?"
+msgstr ""
+
+msgctxt "180"
+msgid "Where are you right now?"
+msgstr ""
+
+msgctxt "192"
+msgid "Let's see... I'm near Smile Burger."
+msgstr ""
+
+msgctxt "204"
+msgid "Really!? That's perfect!"
+msgstr ""
+
+msgctxt "216"
+msgid "Turns out Motoyama is just inside Smile Burger."
+msgstr ""
+
+msgctxt "228"
+msgid "Could you go in and look for him?"
+msgstr ""
+
+msgctxt "240"
+msgid "Inside Smile Burger. Got it."
+msgstr ""
+
+msgctxt "252"
+msgid ""
+"Yeah, thanks. I'll give you ten percent as a reward if you\r\n"
+"can collect that loan."
+msgstr ""
+
+msgctxt "1636"
+msgid "P_stand_tlk_phone_st"
+msgstr ""
+
+msgctxt "1640"
+msgid "Shibayama the Loan Shark"
+msgstr ""
+
+msgctxt "1644"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1648"
+msgid "P_stand_tlk_phone_ed"
+msgstr ""
+
+msgctxt "1652"
+msgid "dummy"
+msgstr ""

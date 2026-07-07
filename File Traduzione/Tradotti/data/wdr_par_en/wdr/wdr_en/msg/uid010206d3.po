@@ -1,0 +1,123 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "96"
+msgid "Well, I'd say that went pretty well. At least she doesn't despise you."
+msgstr ""
+
+msgctxt "108"
+msgid ""
+"You stay out of this. And besides, what gives you the gumption to eavesdrop "
+"on a man's private conversation?"
+msgstr ""
+
+msgctxt "120"
+msgid ""
+"I've got it, Date-san. \"Nine Years of Love and Revenge: Former Detective "
+"Saves the Life of a Local Beauty.\" Now is that not front page material or "
+"what?"
+msgstr ""
+
+msgctxt "132"
+msgid ""
+"I say it's garbage material! Turning my personal life into a half-assed "
+"attempt at an article... Gimme a break."
+msgstr ""
+
+msgctxt "144"
+msgid ""
+"Besides, who invited you here, anyway? And why are you\r\n"
+"flapping your gums like you even know the half of it!?"
+msgstr ""
+
+msgctxt "156"
+msgid ""
+"Well, it was obvious something was up with you, so I simply followed along. "
+"We journalists are always on the lookout for the latest and greatest⑬you "
+"should know that by now."
+msgstr ""
+
+msgctxt "168"
+msgid "Hey, Kiryu. You didn't spill the beans to this shmuck, did you?"
+msgstr ""
+
+msgctxt "180"
+msgid "...Who knows."
+msgstr ""
+
+msgctxt "192"
+msgid ""
+"Date-san... Aren't you a journalist yourself? It's fine that\r\n"
+"you're proud to have been a detective, but show some spirit\r\n"
+"for your current job, too! You'll be a much happier person!"
+msgstr ""
+
+msgctxt "204"
+msgid "Great, now I'm being lectured by this character..."
+msgstr ""
+
+msgctxt "216"
+msgid "Know what, I'm done. It's time to go drinking! You guys coming or what?"
+msgstr ""
+
+msgctxt "240"
+msgid "You got 20,000 EXP."
+msgstr ""
+
+msgctxt "288"
+msgid "(I'm worried about Date-san and Mama. Where could they be...?)"
+msgstr ""
+
+msgctxt "312"
+msgid "(Maybe I should get in touch with Date-san.)"
+msgstr ""
+
+msgctxt "324"
+msgid "(He's probably somewhere in the area. I'll take a look around.)"
+msgstr ""
+
+msgctxt "3884"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "3888"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "3892"
+msgid "Date"
+msgstr ""
+
+msgctxt "3896"
+msgid "Wakazo"
+msgstr ""
+
+msgctxt "3900"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "3904"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "3908"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "3912"
+msgid "dummy"
+msgstr ""
+
+msgctxt "3916"
+msgid "0"
+msgstr ""

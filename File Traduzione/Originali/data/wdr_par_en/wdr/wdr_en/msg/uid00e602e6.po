@@ -1,0 +1,289 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "152"
+msgid "(It's the woman from before... Why is she looking around like that?)"
+msgstr ""
+
+msgctxt "164"
+msgid "Ｏｈ，　ｉｔ'ｓ　ｙｏｕ！"
+msgstr ""
+
+msgctxt "176"
+msgid ""
+"Ｄｏ　ｙｏｕ　ｔｈｉｎｋ　ｙｏｕ　ｃｏｕｌｄ\r\n"
+"ｇｉｖｅ　ｍｅ　ｓｏｍｅ　ｄｉｒｅｃｔｉｏｎｓ？\r\n"
+"Ｉ'ｍ　ｇｏｉｎｇ　ｔｏ　ｔｈｅ　ｓｔａｔｉｏｎ．"
+msgstr ""
+
+msgctxt "188"
+msgid "(English again... I have no idea what she's saying.)"
+msgstr ""
+
+msgctxt "200"
+msgid ""
+"(If only I'd started those English lessons, I could've made\r\n"
+"some sense of it.)"
+msgstr ""
+
+msgctxt "212"
+msgid ""
+"Ｏｈ，　ｗｈｅｒｅ　ｉｓ　ｔｈｅ\r\n"
+" ｓｔａｔｉｏｎ？　Ｉ'ｍ　ｓｏ　ｌｏｓｔ．．．"
+msgstr ""
+
+msgctxt "224"
+msgid ""
+"(She looks lost... And if I'm not mistaken, the right phrase\r\n"
+"for this situation was in that handbook somewhere...)"
+msgstr ""
+
+msgctxt "236"
+msgid ""
+"(I think she's looking for the train station... or something\r\n"
+"like that. In that case, I should probably say...)"
+msgstr ""
+
+msgctxt "248"
+msgid "Ｉｔ'ｓ　ｓｔｒａｉｇｈｔ　ｔｈｉｓ　ｗａｙ．"
+msgstr ""
+
+msgctxt "260"
+msgid ""
+"Ｏｈ，　ｒｅａｌｌｙ？　Ｉ　ｃｏｕｌｄ'ｖｅ\r\n"
+"ｓｗｏｒｎ　ｉｔ　ｗａｓ　ｆｕｒｔｈｅｒ！\r\n"
+"Ｔｈａｎｋ　ｙｏｕ　ｓｏ　ｍｕｃｈ！"
+msgstr ""
+
+msgctxt "272"
+msgid "You're a very kind man. I remember you from before."
+msgstr ""
+
+msgctxt "284"
+msgid "Maybe we can be... special friends?"
+msgstr ""
+
+msgctxt "296"
+msgid "......"
+msgstr ""
+
+msgctxt "308"
+msgid ""
+"If you study more English, I can give you a <Italic>big</Italic> reward.\r\n"
+"Please look forward to it!"
+msgstr ""
+
+msgctxt "320"
+msgid "For now, this should show you how I feel..."
+msgstr ""
+
+msgctxt "332"
+msgid "You got an <Color:8>Italian Wallet<Color:Default>."
+msgstr ""
+
+msgctxt "356"
+msgid "Ｗｅｌｌ，　ｓｅｅ　ｙｏｕ　ｎｅｘｔ　ｔｉｍｅ！"
+msgstr ""
+
+msgctxt "380"
+msgid "(So that's what speaking English is like...)"
+msgstr ""
+
+msgctxt "404"
+msgid "You got 2,000 EXP."
+msgstr ""
+
+msgctxt "416"
+msgid "Ｈａｖｅ　ａ　ｎｉｃｅ　ｄａｙ．"
+msgstr ""
+
+msgctxt "428"
+msgid ""
+"Ｈｕｈ？　Ｗｅｌｌ．．．　ｔｈａｎｋｓ，\r\n"
+"Ｉ　ｇｕｅｓｓ？"
+msgstr ""
+
+msgctxt "440"
+msgid "(Pretty sure that was right. I wonder what it means.)"
+msgstr ""
+
+msgctxt "452"
+msgid "Um... Excuse me, but I don't understand what you're saying."
+msgstr ""
+
+msgctxt "464"
+msgid ""
+"However, nobody else stopped to help me. You are a very\r\n"
+"kind, very handsome man!"
+msgstr ""
+
+msgctxt "476"
+msgid "......"
+msgstr ""
+
+msgctxt "488"
+msgid ""
+"If you study more English, I can give you a <Italic>big</Italic> reward.\r\n"
+"Ｏｋａｙ？"
+msgstr ""
+
+msgctxt "500"
+msgid "Ｗｅｌｌ，　ｓｅｅ　ｙｏｕ　ｎｅｘｔ　ｔｉｍｅ！"
+msgstr ""
+
+msgctxt "524"
+msgid "(I guess that went worse than I thought.)"
+msgstr ""
+
+msgctxt "536"
+msgid ""
+"(Maybe I could've studied that English book a little more\r\n"
+"thoroughly...)"
+msgstr ""
+
+msgctxt "560"
+msgid "You got 2,000 EXP."
+msgstr ""
+
+msgctxt "608"
+msgid "Ｉ'ｍ　ｓｔｒａｉｇｈｔ　ａｓ　ａｎ　ａｒｒｏｗ．"
+msgstr ""
+
+msgctxt "620"
+msgid ""
+"Ｗｈａｔ　ａｒｅ　ｙｏｕ　ｔａｌｋｉｎｇ\r\n"
+"ａｂｏｕｔ！？"
+msgstr ""
+
+msgctxt "632"
+msgid ""
+"(Heh, guess she's surprised I actually stopped to help her. Well there's "
+"plenty more where that came from, lady.)\r\n"
+"Ｗａｎｔ　ｍｅ　ｔｏ　ｓｈｏｗ　ｙｏｕ？"
+msgstr ""
+
+msgctxt "644"
+msgid ""
+"Ｈｕｈ？　Ｙｏｕ　ｗａｎｔ　ｔｏ　ｓｈｏｗ　ｍｅ\r\n"
+"ｈｏｗ　ｓｔｒａｉｇｈｔ　ｙｏｕ　ａｒｅ！？"
+msgstr ""
+
+msgctxt "656"
+msgid "...Did I say something wrong?"
+msgstr ""
+
+msgctxt "668"
+msgid "Ｇｅｔ　ａｗａｙ　ｆｒｏｍ　ｍｅ，　ｐｅｒｖ！"
+msgstr ""
+
+msgctxt "680"
+msgid "(Huh. Maybe that didn't go as well as I thought.)"
+msgstr ""
+
+msgctxt "692"
+msgid ""
+"(If only I had studied that English book a little more\r\n"
+"thoroughly...)"
+msgstr ""
+
+msgctxt "716"
+msgid "You got 2,000 EXP."
+msgstr ""
+
+msgctxt "728"
+msgid "Ｉｔ'ｓ　ｓｔｒａｉｇｈｔ　ｔｈｉｓ　ｗａｙ．"
+msgstr ""
+
+msgctxt "740"
+msgid "Ｈａｖｅ　ａ　ｎｉｃｅ　ｄａｙ．"
+msgstr ""
+
+msgctxt "752"
+msgid "Ｉ'ｍ　ｓｔｒａｉｇｈｔ　ａｓ　ａｎ　ａｒｒｏｗ．"
+msgstr ""
+
+msgctxt "8472"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "8476"
+msgid "Brunette Foreigner"
+msgstr ""
+
+msgctxt "8480"
+msgid "Talk_Request"
+msgstr ""
+
+msgctxt "8484"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "8488"
+msgid "Talk_Cry"
+msgstr ""
+
+msgctxt "8492"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "8496"
+msgid "Talk_Info_R"
+msgstr ""
+
+msgctxt "8500"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "8504"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "8508"
+msgid "F_sxy_stand_sync_dakitukiA_st"
+msgstr ""
+
+msgctxt "8512"
+msgid "P_stand_sync_dakitukiA_st"
+msgstr ""
+
+msgctxt "8516"
+msgid "F_sxy_stand_sync_dakitukiA_ed"
+msgstr ""
+
+msgctxt "8520"
+msgid "P_stand_sync_dakitukiA_ed"
+msgstr ""
+
+msgctxt "8524"
+msgid "Sync_Send"
+msgstr ""
+
+msgctxt "8528"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "8532"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "8536"
+msgid "dummy"
+msgstr ""
+
+msgctxt "8540"
+msgid "0"
+msgstr ""
+
+msgctxt "8544"
+msgid "Talk_NoBig"
+msgstr ""

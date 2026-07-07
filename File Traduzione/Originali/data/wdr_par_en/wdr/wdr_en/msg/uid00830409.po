@@ -1,0 +1,404 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "184"
+msgid "Welcome! Shall I show you to a seat?"
+msgstr ""
+
+msgctxt "196"
+msgid "Sure."
+msgstr ""
+
+msgctxt "208"
+msgid "Come right this way, please."
+msgstr ""
+
+msgctxt "280"
+msgid "Welcome. Have you decided what you would like?"
+msgstr ""
+
+msgctxt "292"
+msgid "(Maybe I should order for the both of us.)"
+msgstr ""
+
+msgctxt "328"
+msgid ""
+"Wait, wait, you're not gonna make me decide, are you? Aww, come on, "
+"Kiryu-san!"
+msgstr ""
+
+msgctxt "340"
+msgid "All right..."
+msgstr ""
+
+msgctxt "376"
+msgid "Oh, you want me to decide? Come on, Kiryu-san! You should pick!"
+msgstr ""
+
+msgctxt "388"
+msgid "All right..."
+msgstr ""
+
+msgctxt "424"
+msgid "Huh? You want me to decide? I think you should do the honors, Kiryu-san."
+msgstr ""
+
+msgctxt "436"
+msgid "All right..."
+msgstr ""
+
+msgctxt "484"
+msgid "Very well. Just a moment, please."
+msgstr ""
+
+msgctxt "628"
+msgid "Very well. Just a moment, please."
+msgstr ""
+
+msgctxt "700"
+msgid "(Oof. I'm full.)"
+msgstr ""
+
+msgctxt "712"
+msgid "I'd like the check, please."
+msgstr ""
+
+msgctxt "724"
+msgid "Of course. Please pay at the register."
+msgstr ""
+
+msgctxt "796"
+msgid "Thank you. Your bill comes to %s."
+msgstr ""
+
+msgctxt "808"
+msgid "Thank you, sir. Please come again soon."
+msgstr ""
+
+msgctxt "832"
+msgid "Welcome! Shall I show you to a seat?"
+msgstr ""
+
+msgctxt "844"
+msgid "Oh, all right. Please come again."
+msgstr ""
+
+msgctxt "856"
+msgid "Come right this way, please."
+msgstr ""
+
+msgctxt "928"
+msgid "Welcome. Have you decided what you would like?"
+msgstr ""
+
+msgctxt "952"
+msgid "Uncle Kaz, get me a <Color:8>Sam's Cut Tenderloin Steak<Color:Default>!"
+msgstr ""
+
+msgctxt "964"
+msgid "(Haruka wants to eat <Color:8>Sam's Cut Tenderloin Steak<Color:Default>...)"
+msgstr ""
+
+msgctxt "988"
+msgid "Yay! Thanks, Uncle Kaz!"
+msgstr ""
+
+msgctxt "1144"
+msgid "Whew... ⑮ I'm stuffed! Thanks for the meal!"
+msgstr ""
+
+msgctxt "1156"
+msgid "(Haruka seems happy...)"
+msgstr ""
+
+msgctxt "1168"
+msgid "I'd like the check, please."
+msgstr ""
+
+msgctxt "1180"
+msgid "Of course. Please pay at the register."
+msgstr ""
+
+msgctxt "1228"
+msgid "Sorry. I have some urgent business to attend to."
+msgstr ""
+
+msgctxt "1240"
+msgid "Oh, all right. Well, please come again."
+msgstr ""
+
+msgctxt "1252"
+msgid "But I wanted to eat a <Color:8>Sam's Cut Tenderloin Steak<Color:Default>..."
+msgstr ""
+
+msgctxt "1300"
+msgid "Uncle Kaz, get me some <Color:8>Fresh Scallops & Prawns<Color:Default>!"
+msgstr ""
+
+msgctxt "1312"
+msgid ""
+"(Haruka wants to eat some <Color:8>Fresh Scallops & "
+"Prawns<Color:Default>...)"
+msgstr ""
+
+msgctxt "1336"
+msgid "Yay! Thanks, Uncle Kaz!"
+msgstr ""
+
+msgctxt "1492"
+msgid "Whew... ⑮ I'm stuffed! Thanks for the meal!"
+msgstr ""
+
+msgctxt "1504"
+msgid "(Haruka seems happy...)"
+msgstr ""
+
+msgctxt "1516"
+msgid "I'd like the check, please."
+msgstr ""
+
+msgctxt "1528"
+msgid "Of course. Please pay at the register."
+msgstr ""
+
+msgctxt "1576"
+msgid "Sorry. I have some urgent business to attend to."
+msgstr ""
+
+msgctxt "1588"
+msgid "Oh, all right. Well, please come again."
+msgstr ""
+
+msgctxt "1600"
+msgid "But I wanted to eat some <Color:8>Fresh Scallops & Prawns<Color:Default>..."
+msgstr ""
+
+msgctxt "1684"
+msgid "Thank you. Your bill comes to %s."
+msgstr ""
+
+msgctxt "1696"
+msgid "Thank you, sir. Please come again soon."
+msgstr ""
+
+msgctxt "1744"
+msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
+msgstr ""
+
+msgctxt "1756"
+msgid "You got <Color:8>Haruka's Necklace<Color:Default>."
+msgstr ""
+
+msgctxt "1804"
+msgid ""
+"Thanks a ton, Uncle Kaz! I wanna come with you to play\r\n"
+"cho-han with you next time, okay?"
+msgstr ""
+
+msgctxt "1816"
+msgid ""
+"Haruka will now occasionally predict the outcome of a round\r\n"
+"when you are playing cho-han."
+msgstr ""
+
+msgctxt "1852"
+msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
+msgstr ""
+
+msgctxt "1864"
+msgid "You got <Color:8>Haruka's Bento<Color:Default>."
+msgstr ""
+
+msgctxt "1912"
+msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
+msgstr ""
+
+msgctxt "1924"
+msgid "You got <Color:8>Haruka's First-Aid Kit<Color:Default>."
+msgstr ""
+
+msgctxt "1972"
+msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
+msgstr ""
+
+msgctxt "1984"
+msgid "You got a <Color:8>Red Jewel<Color:Default>."
+msgstr ""
+
+msgctxt "2032"
+msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
+msgstr ""
+
+msgctxt "2044"
+msgid "You got <Color:8>Haruka's Amulet<Color:Default>."
+msgstr ""
+
+msgctxt "2092"
+msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
+msgstr ""
+
+msgctxt "2104"
+msgid "You got <Color:8>Haruka's Chocolate<Color:Default>."
+msgstr ""
+
+msgctxt "2152"
+msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
+msgstr ""
+
+msgctxt "2164"
+msgid "You got <Color:8>Haruka's Candy<Color:Default>."
+msgstr ""
+
+msgctxt "2260"
+msgid "Thank you, sir. Please come again soon."
+msgstr ""
+
+msgctxt "2272"
+msgid "Welcome! Shall I show you to a seat?"
+msgstr ""
+
+msgctxt "2284"
+msgid "Oh, all right. Please come again."
+msgstr ""
+
+msgctxt "2320"
+msgid "(I don't have the cash...)"
+msgstr ""
+
+msgctxt "2344"
+msgid "(I'm not hungry right now...)"
+msgstr ""
+
+msgctxt "2356"
+msgid "Sorry, but I think I'll come again another time."
+msgstr ""
+
+msgctxt "2368"
+msgid "Oh, all right. Please come again."
+msgstr ""
+
+msgctxt "2380"
+msgid "Come right this way, please."
+msgstr ""
+
+msgctxt "2452"
+msgid "Welcome. Have you decided what you would like?"
+msgstr ""
+
+msgctxt "2476"
+msgid "Very well. Just a moment, please."
+msgstr ""
+
+msgctxt "2620"
+msgid "Very well. Just a moment, please."
+msgstr ""
+
+msgctxt "2692"
+msgid "(Oof. I'm full.)"
+msgstr ""
+
+msgctxt "2704"
+msgid "I'd like the check, please."
+msgstr ""
+
+msgctxt "2716"
+msgid "Of course. Please pay at the register."
+msgstr ""
+
+msgctxt "2752"
+msgid "Sorry. I have some urgent business to attend to."
+msgstr ""
+
+msgctxt "2764"
+msgid "Oh, all right. Well, please come again."
+msgstr ""
+
+msgctxt "2836"
+msgid "Thank you. Your bill comes to %s."
+msgstr ""
+
+msgctxt "2848"
+msgid "Thank you, sir. Please come again soon."
+msgstr ""
+
+msgctxt "2896"
+msgid "Thank you, sir. Please come again soon."
+msgstr ""
+
+msgctxt "2908"
+msgid "Eat"
+msgstr ""
+
+msgctxt "2920"
+msgid "Not Now"
+msgstr ""
+
+msgctxt "2932"
+msgid "Eat"
+msgstr ""
+
+msgctxt "2944"
+msgid "Not Now"
+msgstr ""
+
+msgctxt "22588"
+msgid "Employee"
+msgstr ""
+
+msgctxt "22592"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "22596"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "22600"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "22604"
+msgid "Saya"
+msgstr ""
+
+msgctxt "22608"
+msgid "Nao"
+msgstr ""
+
+msgctxt "22612"
+msgid "Mika"
+msgstr ""
+
+msgctxt "22616"
+msgid "Talk_Kansin"
+msgstr ""
+
+msgctxt "22620"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "22624"
+msgid "HAL_sitsofa_tlk_gochisousama"
+msgstr ""
+
+msgctxt "22628"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "22632"
+msgid "dummy"
+msgstr ""
+
+msgctxt "22636"
+msgid "Staff"
+msgstr ""

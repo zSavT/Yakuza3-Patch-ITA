@@ -1,0 +1,82 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "108"
+msgid ""
+"(That kid's got some legs on him. He went down Pink Street, but which way "
+"did he turn?)"
+msgstr ""
+
+msgctxt "120"
+msgid ""
+"That was the thief everyone's complaining about! Why didn't you chase after "
+"him!? Go get my bag back from that jerk!"
+msgstr ""
+
+msgctxt "132"
+msgid ""
+"Do I look like a hero to you? I mean, what if his goons come out? That'll "
+"get dangerous."
+msgstr ""
+
+msgctxt "144"
+msgid "Hey. Did you see a kid running this way?"
+msgstr ""
+
+msgctxt "156"
+msgid ""
+"If you mean the bag snatcher, he took a left at the first 4-way "
+"intersection down Pink Street."
+msgstr ""
+
+msgctxt "168"
+msgid "You can still catch him if you hurry!"
+msgstr ""
+
+msgctxt "180"
+msgid "Right. He won't get away."
+msgstr ""
+
+msgctxt "192"
+msgid ""
+"That bag snatcher took a left at the first 4-way intersection down Pink "
+"Street. Better hurry if you wanna catch him!"
+msgstr ""
+
+msgctxt "1804"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1808"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "1812"
+msgid "Indignant Witness"
+msgstr ""
+
+msgctxt "1816"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "1820"
+msgid "Reluctant Witness"
+msgstr ""
+
+msgctxt "1824"
+msgid "Talk_Info_L"
+msgstr ""
+
+msgctxt "1828"
+msgid "Talk_Yes"
+msgstr ""

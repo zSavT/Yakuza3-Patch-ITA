@@ -1,0 +1,56 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "120"
+msgid ""
+"Ugh, I'm so mad! None of this would've happened if I was\r\n"
+"stronger!"
+msgstr ""
+
+msgctxt "132"
+msgid "You're still just a kid, Taichi. You'll get there soon enough."
+msgstr ""
+
+msgctxt "144"
+msgid "But...!"
+msgstr ""
+
+msgctxt "156"
+msgid ""
+"Look, I need you and Koji to watch over the other kids while\r\n"
+"I'm gone. Think you guys can handle that?"
+msgstr ""
+
+msgctxt "168"
+msgid "Yeah! We got it, Uncle Kaz!"
+msgstr ""
+
+msgctxt "948"
+msgid "Taichi"
+msgstr ""
+
+msgctxt "952"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "956"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "960"
+msgid "Koji"
+msgstr ""
+
+msgctxt "964"
+msgid "P_stand_tlk_child_ed"
+msgstr ""

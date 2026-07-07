@@ -1,0 +1,174 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "180"
+msgid "Hey, you all right?"
+msgstr ""
+
+msgctxt "192"
+msgid "I'm fine. Just, just leave me alone."
+msgstr ""
+
+msgctxt "204"
+msgid ""
+"(Looks like he's having a rough time. Maybe I should lend\r\n"
+"him a hand.)"
+msgstr ""
+
+msgctxt "216"
+msgid "(I should probably help the guy out...)"
+msgstr ""
+
+msgctxt "228"
+msgid "(Time to be a good Samaritan.)"
+msgstr ""
+
+msgctxt "288"
+msgid "*pant* *pant*"
+msgstr ""
+
+msgctxt "300"
+msgid "You okay?"
+msgstr ""
+
+msgctxt "312"
+msgid "Yeah... *pant* I'm fine."
+msgstr ""
+
+msgctxt "336"
+msgid "The hell? Why do you have so many copies of Shonen Five?"
+msgstr ""
+
+msgctxt "348"
+msgid "Yes, um, well..."
+msgstr ""
+
+msgctxt "360"
+msgid "You on your way to deliver them?"
+msgstr ""
+
+msgctxt "372"
+msgid "No, I bought all of them..."
+msgstr ""
+
+msgctxt "384"
+msgid "You bought all of them? What for?"
+msgstr ""
+
+msgctxt "396"
+msgid "Uh, well... Oh, no! I've gotta hurry!"
+msgstr ""
+
+msgctxt "408"
+msgid "Why? What's up?"
+msgstr ""
+
+msgctxt "420"
+msgid ""
+"I've gotta get to this important meeting at a café!\r\n"
+"Sorry, but I really have to go!"
+msgstr ""
+
+msgctxt "432"
+msgid ""
+"Maybe you should put that bag into a coin locker before\r\n"
+"you run off to your meeting."
+msgstr ""
+
+msgctxt "444"
+msgid "It's fine! I'll get rid of them later!"
+msgstr ""
+
+msgctxt "456"
+msgid "Wait, get rid of them?"
+msgstr ""
+
+msgctxt "468"
+msgid "Anyway, thanks for the help, but I've gotta get going!"
+msgstr ""
+
+msgctxt "492"
+msgid ""
+"(There he goes. Why's he going to throw all those magazines away? Hope he's "
+"feeling alright.)"
+msgstr ""
+
+msgctxt "504"
+msgid ""
+"(He said he was going to a café for a meeting. Might be\r\n"
+"a good idea to check on that guy later.)"
+msgstr ""
+
+msgctxt "528"
+msgid "Lend Him a Hand"
+msgstr ""
+
+msgctxt "540"
+msgid "Leave Him Be"
+msgstr ""
+
+msgctxt "552"
+msgid "Lend Him a Hand"
+msgstr ""
+
+msgctxt "564"
+msgid "Leave Him Be"
+msgstr ""
+
+msgctxt "5032"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "5036"
+msgid "P_stand_tlk_child_st"
+msgstr ""
+
+msgctxt "5040"
+msgid "Bereted Young Man"
+msgstr ""
+
+msgctxt "5044"
+msgid "P_stand_tlk_child_yes"
+msgstr ""
+
+msgctxt "5048"
+msgid "Idle"
+msgstr ""
+
+msgctxt "5052"
+msgid "M_ykzs_damage_tlk_kamae"
+msgstr ""
+
+msgctxt "5056"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "5060"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "5064"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "5068"
+msgid "Talk_NoBig"
+msgstr ""
+
+msgctxt "5072"
+msgid "Talk_Info_L"
+msgstr ""
+
+msgctxt "5076"
+msgid "Talk_Ojigi"
+msgstr ""

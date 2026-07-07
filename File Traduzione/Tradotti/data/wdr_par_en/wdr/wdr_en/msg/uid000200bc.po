@@ -1,0 +1,190 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid ""
+"Whaddya want this time? Sorry, but I'm not in the mood to\r\n"
+"talk about your little land problem."
+msgstr ""
+
+msgctxt "76"
+msgid "Rikiya told me what's going on with Saki."
+msgstr ""
+
+msgctxt "88"
+msgid ""
+"Ugh, that's Rikiya for ya. Never knows when to keep his damn\r\n"
+"mouth shut. This ain't your problem, Kiryu-san."
+msgstr ""
+
+msgctxt "100"
+msgid "Why don't you go look for her?"
+msgstr ""
+
+msgctxt "112"
+msgid "Can't. Wouldn't be so miserable if it was that easy."
+msgstr ""
+
+msgctxt "124"
+msgid "What do you mean?"
+msgstr ""
+
+msgctxt "136"
+msgid ""
+"She ran away 'cause she didn't wanna live with me anymore.\r\n"
+"I'd just scare her off if I went hunting for her now."
+msgstr ""
+
+msgctxt "148"
+msgid ""
+"You don't know that for sure. Why don't you try to figure\r\n"
+"out why she really ran away? It wouldn't be too late to\r\n"
+"catch up to her if you go now."
+msgstr ""
+
+msgctxt "160"
+msgid ""
+"Rikiya told me Saki's mom has been out looking for her\r\n"
+"recently. Maybe Saki just wanted to see her again after all\r\n"
+"this time."
+msgstr ""
+
+msgctxt "172"
+msgid ""
+"Same difference. Either she wants to be with her mom, or she\r\n"
+"doesn't wanna be with me."
+msgstr ""
+
+msgctxt "184"
+msgid "God dammit! Am I really worse than that miserable whore!?"
+msgstr ""
+
+msgctxt "196"
+msgid "Nakahara..."
+msgstr ""
+
+msgctxt "208"
+msgid ""
+"Guess a yakuza like me doesn't have any business taking in\r\n"
+"a kid in the first place, huh?"
+msgstr ""
+
+msgctxt "220"
+msgid ""
+"That's not true. All children need is someone who really,\r\n"
+"truly cares about them. It doesn't matter what you do for\r\n"
+"a living."
+msgstr ""
+
+msgctxt "232"
+msgid ""
+"The hell do you know? You think you're some kinda kid expert\r\n"
+"just 'cause you run a fucking orphanage!?"
+msgstr ""
+
+msgctxt "244"
+msgid "I know enough. I was an orphan myself."
+msgstr ""
+
+msgctxt "256"
+msgid "Huh!?"
+msgstr ""
+
+msgctxt "268"
+msgid "Not only that, the man who raised me was in the yakuza."
+msgstr ""
+
+msgctxt "280"
+msgid "......"
+msgstr ""
+
+msgctxt "292"
+msgid ""
+"And since I have no memories of my birth parents, that man\r\n"
+"is more of a father than I've ever had. He might have been\r\n"
+"a yakuza, yeah... but I loved him all the same."
+msgstr ""
+
+msgctxt "304"
+msgid ""
+"And I'm sure Saki loves you, too. But it's natural for her\r\n"
+"to miss her mom. She's still just a kid, after all."
+msgstr ""
+
+msgctxt "316"
+msgid "You... You really think?"
+msgstr ""
+
+msgctxt "328"
+msgid ""
+"Of course. Now get out there and find her before someone\r\n"
+"else does."
+msgstr ""
+
+msgctxt "340"
+msgid "But..."
+msgstr ""
+
+msgctxt "352"
+msgid "......"
+msgstr ""
+
+msgctxt "364"
+msgid "I can't."
+msgstr ""
+
+msgctxt "376"
+msgid "Why not?"
+msgstr ""
+
+msgctxt "388"
+msgid ""
+"Look at me, Kiryu-san. Why would Saki ever wanna come back\r\n"
+"to this mess after seeing her mother?"
+msgstr ""
+
+msgctxt "400"
+msgid "A thug like me could never compare to an actual parent."
+msgstr ""
+
+msgctxt "412"
+msgid "I'm just gonna have to face the facts. Saki's gone."
+msgstr ""
+
+msgctxt "424"
+msgid "You really think so?"
+msgstr ""
+
+msgctxt "436"
+msgid "Yeah... I do."
+msgstr ""
+
+msgctxt "448"
+msgid "......"
+msgstr ""
+
+msgctxt "6276"
+msgid "Nakahara"
+msgstr ""
+
+msgctxt "6280"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "6284"
+msgid "P_sitgrd_tlk_agura_yes"
+msgstr ""
+
+msgctxt "6288"
+msgid "P_sitgrd_tlk_agura_no"
+msgstr ""

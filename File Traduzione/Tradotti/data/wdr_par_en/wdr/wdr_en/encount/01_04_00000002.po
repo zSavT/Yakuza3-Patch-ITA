@@ -1,0 +1,60 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "124"
+msgid "What the hell were you lookin' at? You got balls, I'll give you that."
+msgstr ""
+
+msgctxt "136"
+msgid "Hey, you guys. Teach this guy some manners!"
+msgstr ""
+
+msgctxt "160"
+msgid "Sorry... Guess we're the ones who need to learn some manners..."
+msgstr ""
+
+msgctxt "172"
+msgid "You'll let us go, right?"
+msgstr ""
+
+msgctxt "184"
+msgid "You got a pure %s."
+msgstr ""
+
+msgctxt "220"
+msgid "Please let us go..."
+msgstr ""
+
+msgctxt "1276"
+msgid "Disgruntled Yakuza"
+msgstr ""
+
+msgctxt "1280"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "1284"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "1288"
+msgid "Talk_Sorry"
+msgstr ""
+
+msgctxt "1292"
+msgid "Sync_Send"
+msgstr ""
+
+msgctxt "1296"
+msgid "Talk_No"
+msgstr ""

@@ -1,0 +1,264 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "128"
+msgid "Taichi! Mitsuo!"
+msgstr ""
+
+msgctxt "140"
+msgid ""
+"Not now, Uncle Kaz! I was just about to go in for the\r\n"
+"body slam!"
+msgstr ""
+
+msgctxt "152"
+msgid "Give the games a rest and listen."
+msgstr ""
+
+msgctxt "164"
+msgid "...All right. What's up?"
+msgstr ""
+
+msgctxt "176"
+msgid "It's about Shiro."
+msgstr ""
+
+msgctxt "188"
+msgid "Wait, he wasn't in our room?"
+msgstr ""
+
+msgctxt "200"
+msgid ""
+"He was, but he won't talk to me. He's just sitting curled\r\n"
+"up in the corner."
+msgstr ""
+
+msgctxt "212"
+msgid "Yeah... He's been doing that a lot lately."
+msgstr ""
+
+msgctxt "224"
+msgid "What? Why?"
+msgstr ""
+
+msgctxt "236"
+msgid "Probably 'cause he's been getting bullied."
+msgstr ""
+
+msgctxt "248"
+msgid "Bullied? How do you know?"
+msgstr ""
+
+msgctxt "260"
+msgid ""
+"I found him crying in the boy's room at school a couple\r\n"
+"weeks ago, so I asked him what was wrong."
+msgstr ""
+
+msgctxt "272"
+msgid "And that's when he told you about the bullying?"
+msgstr ""
+
+msgctxt "284"
+msgid "Yeah."
+msgstr ""
+
+msgctxt "296"
+msgid "Hm..."
+msgstr ""
+
+msgctxt "308"
+msgid "I think it's been getting worse, though."
+msgstr ""
+
+msgctxt "320"
+msgid "What makes you say that?"
+msgstr ""
+
+msgctxt "332"
+msgid ""
+"Well I thought it'd be funny to barge in on him when he was\r\n"
+"taking a bath... but he had bruises all over his body."
+msgstr ""
+
+msgctxt "344"
+msgid ""
+"And he doesn't do sports or nothing so he wouldn't have\r\n"
+"gotten 'em from that."
+msgstr ""
+
+msgctxt "356"
+msgid "Did you tell a teacher?"
+msgstr ""
+
+msgctxt "368"
+msgid ""
+"Nuh-uh. The bullying always gets worse if you tattle.\r\n"
+"Besides..."
+msgstr ""
+
+msgctxt "380"
+msgid "I've heard enough. I'll talk to the teacher myself."
+msgstr ""
+
+msgctxt "392"
+msgid "Wait, Uncle Kaz! I dunno if that's such a good idea!"
+msgstr ""
+
+msgctxt "428"
+msgid "Taichi! Mitsuo! Where'd you say Shiro was, again?"
+msgstr ""
+
+msgctxt "440"
+msgid "Pretty sure he's in our room!"
+msgstr ""
+
+msgctxt "452"
+msgid "Hoohah! Taichi Megafist!"
+msgstr ""
+
+msgctxt "464"
+msgid "Ow!"
+msgstr ""
+
+msgctxt "476"
+msgid "Mitsuooo Chop!"
+msgstr ""
+
+msgctxt "488"
+msgid "(...Guess I'll take a look inside.)"
+msgstr ""
+
+msgctxt "512"
+msgid "Hey, is Shiro with you two?"
+msgstr ""
+
+msgctxt "524"
+msgid "Hiyah! Taichi Bomb!"
+msgstr ""
+
+msgctxt "536"
+msgid "Ow! Don't hit so hard, Taichi!"
+msgstr ""
+
+msgctxt "548"
+msgid "Hehehe. There's more where that came from!"
+msgstr ""
+
+msgctxt "560"
+msgid "Taichi Explosion!"
+msgstr ""
+
+msgctxt "572"
+msgid "I asked you a question, Taichi!"
+msgstr ""
+
+msgctxt "584"
+msgid "C'mon, Uncle Kaz! Can't you see we're busy here?"
+msgstr ""
+
+msgctxt "596"
+msgid ""
+"Just take a break for one second. Do either of you know\r\n"
+"where Shiro is?"
+msgstr ""
+
+msgctxt "608"
+msgid ""
+"Uhhhh, maybe in our room? We asked if he wanted to play\r\n"
+"with us but he said no."
+msgstr ""
+
+msgctxt "620"
+msgid "Tai...chi... Blast!"
+msgstr ""
+
+msgctxt "632"
+msgid "Hey, no fair! I wasn't ready!"
+msgstr ""
+
+msgctxt "644"
+msgid "I'm glad you kids are full of energy. Just..."
+msgstr ""
+
+msgctxt "656"
+msgid "Try not to get hurt, okay?"
+msgstr ""
+
+msgctxt "668"
+msgid "We'll be careful!"
+msgstr ""
+
+msgctxt "680"
+msgid "You're never careful!"
+msgstr ""
+
+msgctxt "692"
+msgid "(Guess I'll take a look inside.)"
+msgstr ""
+
+msgctxt "8388"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "8392"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "8396"
+msgid "Taichi"
+msgstr ""
+
+msgctxt "8400"
+msgid "Idle"
+msgstr ""
+
+msgctxt "8404"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "8408"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "8412"
+msgid "M_cld_stand_tlk_kamae"
+msgstr ""
+
+msgctxt "8416"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "8420"
+msgid "M_cld_stand_sync_btl_atk"
+msgstr ""
+
+msgctxt "8424"
+msgid "M_cld_stand_sync_btl_away"
+msgstr ""
+
+msgctxt "8428"
+msgid "Mitsuo"
+msgstr ""
+
+msgctxt "8432"
+msgid "C30_SetM_cld_stand_kamae_btl_A"
+msgstr ""
+
+msgctxt "8436"
+msgid "C30_SetM_cld_stand_kamae_btl_B"
+msgstr ""
+
+msgctxt "8440"
+msgid "Talk_Gakkari"
+msgstr ""

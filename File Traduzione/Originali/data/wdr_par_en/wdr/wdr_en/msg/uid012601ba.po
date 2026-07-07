@@ -1,0 +1,187 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "124"
+msgid "You... You'll pay for this!"
+msgstr ""
+
+msgctxt "136"
+msgid "Pshaw. Should've just minded your own business."
+msgstr ""
+
+msgctxt "148"
+msgid ""
+"(I'm supposed to be looking for Jinsei...)\r\n"
+"Say, you wouldn't happen to have had a place up on Suppon\r\n"
+"Street once upon a time?"
+msgstr ""
+
+msgctxt "160"
+msgid "Yep, sure did. Why do you ask?"
+msgstr ""
+
+msgctxt "172"
+msgid "Somebody's been looking for you."
+msgstr ""
+
+msgctxt "184"
+msgid ""
+"Probably some debt collector wanting to shake me down. Tell\r\n"
+"'em to leave me alone."
+msgstr ""
+
+msgctxt "244"
+msgid ""
+"(I found the bar⑬for what it's worth. Guess I should go\r\n"
+"tell the old man in front of the Millennium Tower.)"
+msgstr ""
+
+msgctxt "256"
+msgid ""
+"I told you, gimme back the cash! All's you got left of value\r\n"
+"in that house of yours is that fancy Buddhist altar...\r\n"
+"So you best be sayin' your prayers we don't take that too!"
+msgstr ""
+
+msgctxt "268"
+msgid "Why you... snot-nosed punk!"
+msgstr ""
+
+msgctxt "280"
+msgid ""
+"Hah, if I'm a snot-nosed punk, then what does that make you,\r\n"
+"borrowing money from one? A stuffy old geezer, that's what!"
+msgstr ""
+
+msgctxt "292"
+msgid "......"
+msgstr ""
+
+msgctxt "364"
+msgid ""
+"This ain't the last you've heard from me. You better cough\r\n"
+"up all the money next time, or you'll be coughin' up blood!"
+msgstr ""
+
+msgctxt "400"
+msgid "Dirty rascal... Hey, what are you looking at?"
+msgstr ""
+
+msgctxt "412"
+msgid ""
+"(I'm supposed to be looking for Jinsei...)\r\n"
+"Say, you wouldn't happen to have had a place up on Suppon\r\n"
+"Street once upon a time?"
+msgstr ""
+
+msgctxt "424"
+msgid "Yep, sure did. Why do you ask?"
+msgstr ""
+
+msgctxt "436"
+msgid "Somebody's been looking for you."
+msgstr ""
+
+msgctxt "448"
+msgid ""
+"Probably some debt collector wanting to shake me down. Tell\r\n"
+"'em to leave me alone."
+msgstr ""
+
+msgctxt "508"
+msgid ""
+"(I found the bar⑬for what it's worth. Guess I should go\r\n"
+"tell the old man in front of the Millennium Tower.)"
+msgstr ""
+
+msgctxt "520"
+msgid "Hey. Leave that man alone."
+msgstr ""
+
+msgctxt "532"
+msgid ""
+"Who the hell are you!? This ain't none of your goddamn\r\n"
+"business!"
+msgstr ""
+
+msgctxt "544"
+msgid ""
+"As soon as I see somebody hitting an old man, then it\r\n"
+"becomes my business. So back off."
+msgstr ""
+
+msgctxt "556"
+msgid ""
+"How 'bout I back my fist up in that stupid-lookin' face of\r\n"
+"yours instead!?"
+msgstr ""
+
+msgctxt "580"
+msgid "Intervene"
+msgstr ""
+
+msgctxt "592"
+msgid "Watch and Wait"
+msgstr ""
+
+msgctxt "6140"
+msgid "Debt Collector"
+msgstr ""
+
+msgctxt "6144"
+msgid "Senior Citizen"
+msgstr ""
+
+msgctxt "6148"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "6152"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "6156"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "6160"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "6164"
+msgid "Talk_NoBig"
+msgstr ""
+
+msgctxt "6168"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "6172"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "6176"
+msgid "Korobu_DownR_lp"
+msgstr ""
+
+msgctxt "6180"
+msgid "Talk_Chohatu"
+msgstr ""
+
+msgctxt "6184"
+msgid "Korobu_DownR_StandupF"
+msgstr ""
+
+msgctxt "6188"
+msgid "0"
+msgstr ""

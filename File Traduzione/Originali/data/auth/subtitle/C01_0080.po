@@ -1,0 +1,354 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "132\t275"
+msgid ""
+"Y'know, I'd always thought\\n"
+"they'd end up together."
+msgstr ""
+
+msgctxt "279\t336"
+msgid "Seems it wasn't meant to be."
+msgstr ""
+
+msgctxt "338\t447"
+msgid "Sayama-kun is an ambitious girl, after all."
+msgstr ""
+
+msgctxt "477\t540"
+msgid "You can say that again."
+msgstr ""
+
+msgctxt "703\t755"
+msgid "Outta gas."
+msgstr ""
+
+msgctxt "758\t785"
+msgid "Here."
+msgstr ""
+
+msgctxt "788\t848"
+msgid "Thanks."
+msgstr ""
+
+msgctxt "1023\t1079"
+msgid "You can hang on to it."
+msgstr ""
+
+msgctxt "1082\t1133"
+msgid "Think of it as a gift."
+msgstr ""
+
+msgctxt "1173\t1229"
+msgid "No smoking in Division 1, anyway."
+msgstr ""
+
+msgctxt "1232\t1289"
+msgid "Division 1?"
+msgstr ""
+
+msgctxt "1292\t1395"
+msgid ""
+"Yes. I'll be transferring,\\n"
+"effective next month."
+msgstr ""
+
+msgctxt "1406\t1590"
+msgid ""
+"And unlike 4, Division 1 has a reputation to uphold.\\n"
+"Can't be seen smoking on the job."
+msgstr ""
+
+msgctxt "1598\t1693"
+msgid ""
+"Look at you getting promoted!\\n"
+"Congrats."
+msgstr ""
+
+msgctxt "1696\t1802"
+msgid "I'm not sure it's cause for celebration."
+msgstr ""
+
+msgctxt "1849\t1947"
+msgid ""
+"Think back to the feud between\\n"
+"the Tojo Clan and Omi Alliance."
+msgstr ""
+
+msgctxt "1980\t2139"
+msgid ""
+"In the end, neither the Metropolitan nor the\\n"
+"Prefectural Police did a damn thing to stop it."
+msgstr ""
+
+msgctxt "2145\t2322"
+msgid ""
+"And given Division Chief Kurahashi's\\n"
+"involvement with the Jingweon..."
+msgstr ""
+
+msgctxt "2341\t2456"
+msgid "The force's reputation has hit rock bottom."
+msgstr ""
+
+msgctxt "2466\t2555"
+msgid "Then why're you going back to Div 1?"
+msgstr ""
+
+msgctxt "2562\t2621"
+msgid "It's essentially a bribe."
+msgstr ""
+
+msgctxt "2644\t2836"
+msgid ""
+"Everyone involved has been promoted,\\n"
+"including both myself and Sayama-kun."
+msgstr ""
+
+msgctxt "2848\t3018"
+msgid ""
+"I suppose they think keeping us happy\\n"
+"will also keep us quiet about what happened."
+msgstr ""
+
+msgctxt "3022\t3088"
+msgid "Eh, a promotion's a promotion."
+msgstr ""
+
+msgctxt "3090\t3193"
+msgid ""
+"Doesn't matter how you got it;\\n"
+"you're an elite again."
+msgstr ""
+
+msgctxt "3200\t3264"
+msgid "I suppose, yes."
+msgstr ""
+
+msgctxt "3288\t3346"
+msgid "You don't sound too pleased."
+msgstr ""
+
+msgctxt "3385\t3445"
+msgid "That's because I'm worried."
+msgstr ""
+
+msgctxt "3467\t3522"
+msgid "About what?"
+msgstr ""
+
+msgctxt "3524\t3603"
+msgid "What happens to Kamurocho."
+msgstr ""
+
+msgctxt "3622\t3754"
+msgid ""
+"The police are planning to back off both\\n"
+"the Tojo and the Omi for the time being."
+msgstr ""
+
+msgctxt "3756\t3833"
+msgid "Remove themselves from yakuza matters."
+msgstr ""
+
+msgctxt "3842\t3996"
+msgid ""
+"It's only right after what\\n"
+"they did to spare our blushes."
+msgstr ""
+
+msgctxt "4016\t4070"
+msgid "Fair enough."
+msgstr ""
+
+msgctxt "4079\t4178"
+msgid "So? What's worrying you, then?"
+msgstr ""
+
+msgctxt "4192\t4294"
+msgid "I still don't trust the yakuza."
+msgstr ""
+
+msgctxt "4313\t4416"
+msgid "If Kiryu-san won't be leading the Tojo Clan..."
+msgstr ""
+
+msgctxt "4428\t4556"
+msgid ""
+"I fear Kamurocho will simply\\n"
+"fall back into the muck."
+msgstr ""
+
+msgctxt "4564\t4610"
+msgid "You can rest easy, then."
+msgstr ""
+
+msgctxt "4683\t4773"
+msgid "Guy like him always has a plan."
+msgstr ""
+
+msgctxt "4782\t4856"
+msgid ""
+"After all he did, he's not gonna\\n"
+"just let things go to shit."
+msgstr ""
+
+msgctxt "4858\t4979"
+msgid "And you can take that to the bank."
+msgstr ""
+
+msgctxt "5070\t5140"
+msgid "Well, we should probably get going."
+msgstr ""
+
+msgctxt "5145\t5185"
+msgid "Right."
+msgstr ""
+
+msgctxt "5187\t5255"
+msgid "Off to Kamurocho, I assume?"
+msgstr ""
+
+msgctxt "5258\t5299"
+msgid "Yeah."
+msgstr ""
+
+msgctxt "5302\t5424"
+msgid "Kazuki and Yuya deserve a goodbye."
+msgstr ""
+
+msgctxt "5431\t5461"
+msgid "And..."
+msgstr ""
+
+msgctxt "5463\t5506"
+msgid "And what?"
+msgstr ""
+
+msgctxt "5514\t5661"
+msgid ""
+"There's someone else I need\\n"
+"to talk to before I leave."
+msgstr ""
+
+msgctxt "5663\t5719"
+msgid "About the Tojo Clan, I'm sure."
+msgstr ""
+
+msgctxt "5721\t5752"
+msgid "Yup."
+msgstr ""
+
+msgctxt "5754\t5886"
+msgid ""
+"At this rate, Daigo'll end up\\n"
+"the Tojo Clan's sixth chairman."
+msgstr ""
+
+msgctxt "5897\t5997"
+msgid "But he's still young."
+msgstr ""
+
+msgctxt "5999\t6086"
+msgid ""
+"I'm not sure he has\\n"
+"the strength to lead just yet."
+msgstr ""
+
+msgctxt "6088\t6166"
+msgid "So you'll need someone to support him."
+msgstr ""
+
+msgctxt "6168\t6222"
+msgid "Did you have anyone in mind?"
+msgstr ""
+
+msgctxt "6224\t6424"
+msgid ""
+"There's a guy who's been working\\n"
+"with the Tojo just as long as I have, yeah."
+msgstr ""
+
+msgctxt "6445\t6490"
+msgid "I know just who you mean."
+msgstr ""
+
+msgctxt "6493\t6636"
+msgid ""
+"But do you really think Daigo\\n"
+"has what it takes to tame him?"
+msgstr ""
+
+msgctxt "6638\t6787"
+msgid ""
+"Nobody does.\\n"
+"You and I both know that."
+msgstr ""
+
+msgctxt "6789\t6842"
+msgid "Goro Majima..."
+msgstr ""
+
+msgctxt "6845\t6971"
+msgid ""
+"I wonder if he'd even find the Tojo\\n"
+"appealing in its current state."
+msgstr ""
+
+msgctxt "6974\t7033"
+msgid "I'm sure you're thinking the same."
+msgstr ""
+
+msgctxt "7036\t7091"
+msgid "You've got that right."
+msgstr ""
+
+msgctxt "7111\t7230"
+msgid "Do you think you can convince him?"
+msgstr ""
+
+msgctxt "7239\t7295"
+msgid "Don't have much choice."
+msgstr ""
+
+msgctxt "7298\t7420"
+msgid "That's why I'm going to see him today."
+msgstr ""
+
+msgctxt "7422\t7503"
+msgid ""
+"I have to persuade him\\n"
+"one way or another."
+msgstr ""
+
+msgctxt "7639\t7716"
+msgid ""
+"Hopefully that \"persuasion\"\\n"
+"doesn't involve your fists."
+msgstr ""
+
+msgctxt "7718\t7854"
+msgid "Eh. I guess we'll find out soon enough."
+msgstr ""
+
+msgctxt "7994\t8047"
+msgid "Stay safe."
+msgstr ""
+
+msgctxt "8056\t8146"
+msgid "Same to you."
+msgstr ""
+
+msgctxt "8189\t8264"
+msgid "Well, it's time we get going."
+msgstr ""

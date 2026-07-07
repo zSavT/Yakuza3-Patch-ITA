@@ -1,0 +1,94 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "140"
+msgid "Hello, sir. What can I do for you today?"
+msgstr ""
+
+msgctxt "152"
+msgid ""
+"Ah, I'm sorry, but I couldn't help noticing that Platinum Bag of yours is a "
+"fake."
+msgstr ""
+
+msgctxt "164"
+msgid "What?"
+msgstr ""
+
+msgctxt "176"
+msgid ""
+"I'm afraid we don't deal in knockoffs here. I'm going to have to ask you to "
+"leave."
+msgstr ""
+
+msgctxt "188"
+msgid "Oh, sorry to bother you, then..."
+msgstr ""
+
+msgctxt "200"
+msgid ""
+"Your <Color:8>Platinum Bag<Color:Default> is now an <Color:8>Imitation "
+"Bag<Color:Default>."
+msgstr ""
+
+msgctxt "224"
+msgid "Hello, sir. What can I do for you today?"
+msgstr ""
+
+msgctxt "236"
+msgid "What would you like?"
+msgstr ""
+
+msgctxt "260"
+msgid "Thank you very much."
+msgstr ""
+
+msgctxt "272"
+msgid "What do you have to sell?"
+msgstr ""
+
+msgctxt "296"
+msgid "Thank you very much."
+msgstr ""
+
+msgctxt "308"
+msgid "I'm here to buy."
+msgstr ""
+
+msgctxt "320"
+msgid "I'm here to sell."
+msgstr ""
+
+msgctxt "332"
+msgid "Never mind."
+msgstr ""
+
+msgctxt "2008"
+msgid "Employee"
+msgstr ""
+
+msgctxt "2012"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "2016"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "2020"
+msgid "Talk_NoBig"
+msgstr ""
+
+msgctxt "2024"
+msgid "Talk_Yes"
+msgstr ""

@@ -1,0 +1,68 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid "I'd go with a knight drop at 2C..."
+msgstr ""
+
+msgctxt "76"
+msgid ""
+"Knight drop at 2C, huh?\r\n"
+"All righty... Huh?"
+msgstr ""
+
+msgctxt "88"
+msgid "Hey, check! Check!"
+msgstr ""
+
+msgctxt "100"
+msgid "Hey! All you did was move exactly like Egami told you to!"
+msgstr ""
+
+msgctxt "112"
+msgid ""
+"If you bring out the silver general from your captured pieces, then it's "
+"checkmate."
+msgstr ""
+
+msgctxt "124"
+msgid "How can a blind man be so damn good at this?"
+msgstr ""
+
+msgctxt "136"
+msgid "I did it! I won. I won!"
+msgstr ""
+
+msgctxt "148"
+msgid "You didn't win on your own!"
+msgstr ""
+
+msgctxt "1040"
+msgid "Egami"
+msgstr ""
+
+msgctxt "1044"
+msgid "Kengo the Madman"
+msgstr ""
+
+msgctxt "1048"
+msgid "M_nml_sitchr_tlk_info_f"
+msgstr ""
+
+msgctxt "1052"
+msgid "Akitsu"
+msgstr ""
+
+msgctxt "1056"
+msgid "Tetsuji"
+msgstr ""

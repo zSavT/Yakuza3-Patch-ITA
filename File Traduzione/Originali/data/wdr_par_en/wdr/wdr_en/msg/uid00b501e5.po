@@ -1,0 +1,297 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "260"
+msgid "You're Kinoshita-san, right?"
+msgstr ""
+
+msgctxt "272"
+msgid "That's right. Who are you?"
+msgstr ""
+
+msgctxt "284"
+msgid ""
+"Kazuma Kiryu. I wanna ask you about the murder that happened\r\n"
+"at this café six years ago."
+msgstr ""
+
+msgctxt "296"
+msgid ""
+"Oh, that... Well, I don't know if I can tell you anything\r\n"
+"new, but go ahead."
+msgstr ""
+
+msgctxt "320"
+msgid "(Let's see. What to ask...?)"
+msgstr ""
+
+msgctxt "332"
+msgid "Where were you and what were you doing when Oda was killed?"
+msgstr ""
+
+msgctxt "344"
+msgid ""
+"I was here, in the customer area, cleaning up. I believe you\r\n"
+"can see me on the security camera tapes..."
+msgstr ""
+
+msgctxt "356"
+msgid "I wasn't in the locker room when the murder took place."
+msgstr ""
+
+msgctxt "368"
+msgid "Huh."
+msgstr ""
+
+msgctxt "392"
+msgid ""
+"They say you saw Yuichi Akechi fleeing the scene on the\r\n"
+"night of the crime. Tell me more about that."
+msgstr ""
+
+msgctxt "404"
+msgid "Yes, I saw him."
+msgstr ""
+
+msgctxt "416"
+msgid ""
+"That night, Akechi-kun disappeared right in the middle of\r\n"
+"cleanup. I waited a while, and when he still didn't\r\n"
+"come back, I went to check on him."
+msgstr ""
+
+msgctxt "428"
+msgid ""
+"That's when I saw him leaving through the back door of\r\n"
+"the café."
+msgstr ""
+
+msgctxt "440"
+msgid "Are you sure it was Akechi?"
+msgstr ""
+
+msgctxt "452"
+msgid "Well, I only saw his back, but I'm sure it was him."
+msgstr ""
+
+msgctxt "464"
+msgid ""
+"If you didn't see his face, then how can you be so sure it\r\n"
+"was Akechi?"
+msgstr ""
+
+msgctxt "476"
+msgid ""
+"The man I saw leave through the back door was\r\n"
+"<Color:7>wearing our café's waiter's uniform<Color:Default>."
+msgstr ""
+
+msgctxt "488"
+msgid ""
+"Aside from Oda-san, there were only three other male\r\n"
+"employees working that night: Akechi-kun, a guy called\r\n"
+"Asai-kun, and me."
+msgstr ""
+
+msgctxt "500"
+msgid ""
+"You can see Asai-kun spending the night closing the\r\n"
+"register on the security tapes."
+msgstr ""
+
+msgctxt "512"
+msgid "The only person I could've seen would've been Akechi-kun."
+msgstr ""
+
+msgctxt "524"
+msgid "I see..."
+msgstr ""
+
+msgctxt "536"
+msgid ""
+"After that, I called the police and waited at the back door\r\n"
+"until they showed up. No one tried to enter or leave\r\n"
+"during that time."
+msgstr ""
+
+msgctxt "548"
+msgid "(So <Color:7>Kinoshita didn't see the criminal's face<Color:Default>...)"
+msgstr ""
+
+msgctxt "572"
+msgid "You got <Color:8>Kinoshita's Testimony<Color:Default>."
+msgstr ""
+
+msgctxt "608"
+msgid "Did Oda have many enemies?"
+msgstr ""
+
+msgctxt "620"
+msgid ""
+"Well, I'm not sure. I didn't really talk to him much outside\r\n"
+"of work."
+msgstr ""
+
+msgctxt "632"
+msgid "I see..."
+msgstr ""
+
+msgctxt "656"
+msgid "Were your prints on the murder weapon?"
+msgstr ""
+
+msgctxt "668"
+msgid ""
+"No, they weren't. I keep thinking that if I had touched\r\n"
+"that ashtray that day, I would've been blamed for the\r\n"
+"murder..."
+msgstr ""
+
+msgctxt "680"
+msgid "......"
+msgstr ""
+
+msgctxt "704"
+msgid "I'm sorry I couldn't be of more help."
+msgstr ""
+
+msgctxt "716"
+msgid "Thanks for your time."
+msgstr ""
+
+msgctxt "740"
+msgid "Are you a detective, Kiryu-san?"
+msgstr ""
+
+msgctxt "752"
+msgid "Not exactly. Why do you ask?"
+msgstr ""
+
+msgctxt "764"
+msgid ""
+"No reason. I was just wondering why anyone would be\r\n"
+"looking into that case now."
+msgstr ""
+
+msgctxt "776"
+msgid ""
+"I'm trying to help a friend find out if Yuichi Akechi is\r\n"
+"innocent."
+msgstr ""
+
+msgctxt "788"
+msgid ""
+"Innocent? You think someone else could've been the\r\n"
+"murderer?"
+msgstr ""
+
+msgctxt "800"
+msgid "It's possible."
+msgstr ""
+
+msgctxt "812"
+msgid ""
+"I see... I would feel terrible for Akechi-kun if he really\r\n"
+"was innocent all this time. I can't imagine what it's like\r\n"
+"to be imprisoned for a crime I didn't commit..."
+msgstr ""
+
+msgctxt "824"
+msgid "Especially for six years... that'd be horrible."
+msgstr ""
+
+msgctxt "836"
+msgid ""
+"That's why we're trying to find out the truth. If you think\r\n"
+"of anything else, lemme know."
+msgstr ""
+
+msgctxt "848"
+msgid "Okay, I will."
+msgstr ""
+
+msgctxt "872"
+msgid "Tell me more about the murder here six years ago."
+msgstr ""
+
+msgctxt "884"
+msgid "What would you like to know?"
+msgstr ""
+
+msgctxt "896"
+msgid "(Let's see. What to ask...?)"
+msgstr ""
+
+msgctxt "908"
+msgid "Ask for Their Alibi"
+msgstr ""
+
+msgctxt "920"
+msgid "Ask About Witness Statements"
+msgstr ""
+
+msgctxt "932"
+msgid "Ask About the Motive"
+msgstr ""
+
+msgctxt "944"
+msgid "Ask About the Fingerprints"
+msgstr ""
+
+msgctxt "956"
+msgid "Stop Asking Questions"
+msgstr ""
+
+msgctxt "968"
+msgid "Ask for Their Alibi"
+msgstr ""
+
+msgctxt "980"
+msgid "Ask About Witness Statements"
+msgstr ""
+
+msgctxt "992"
+msgid "Ask About the Motive"
+msgstr ""
+
+msgctxt "1004"
+msgid "Ask About the Fingerprints"
+msgstr ""
+
+msgctxt "1016"
+msgid "Stop Asking Questions"
+msgstr ""
+
+msgctxt "9284"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "9288"
+msgid "Kinoshita"
+msgstr ""
+
+msgctxt "9292"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "9296"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "9300"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "9304"
+msgid "Talk_Quest"
+msgstr ""

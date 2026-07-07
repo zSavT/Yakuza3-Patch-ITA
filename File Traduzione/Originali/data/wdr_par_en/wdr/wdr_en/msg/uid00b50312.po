@@ -1,0 +1,272 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "92"
+msgid "Oh! Kiryu-san! What a coincidence!"
+msgstr ""
+
+msgctxt "104"
+msgid "Wait... Kaede? I thought you were living in Tokyo."
+msgstr ""
+
+msgctxt "116"
+msgid ""
+"Yeah. I loved working at that shop, too, but I've finally realized my "
+"calling."
+msgstr ""
+
+msgctxt "128"
+msgid "What's that?"
+msgstr ""
+
+msgctxt "140"
+msgid ""
+"I want to manage an inn in Okinawa. It'll be a place\r\n"
+"where the tired fathers of Tokyo can come and take\r\n"
+"a load off."
+msgstr ""
+
+msgctxt "152"
+msgid "An inn? Where did that idea come from?"
+msgstr ""
+
+msgctxt "164"
+msgid ""
+"The customers at Earth Angel said that Tokyo wasn't the\r\n"
+"right place for me."
+msgstr ""
+
+msgctxt "176"
+msgid ""
+"They told me, \"Kaede-chan, you should go home to Okinawa\r\n"
+"and start your own business.\""
+msgstr ""
+
+msgctxt "188"
+msgid ""
+"Wait, doesn't that mean that they don't think you're cut out\r\n"
+"for Tokyo?"
+msgstr ""
+
+msgctxt "200"
+msgid "Huh? I dunno about that."
+msgstr ""
+
+msgctxt "212"
+msgid ""
+"When I told my customers about my idea, they all got super\r\n"
+"excited and said they'd absolutely come visit me!"
+msgstr ""
+
+msgctxt "224"
+msgid ""
+"I believe them when they say that. I'll make a place where\r\n"
+"the tired fathers of Tokyo can relax when they come to\r\n"
+"Okinawa."
+msgstr ""
+
+msgctxt "236"
+msgid ""
+"Is that right? Not a bad idea to follow your heart and make your dreams "
+"come true."
+msgstr ""
+
+msgctxt "248"
+msgid ""
+"And when I talked to Momiji-chan about it, she said that\r\n"
+"we could do it together!"
+msgstr ""
+
+msgctxt "260"
+msgid ""
+"You see, my family used to run their own inn, but a\r\n"
+"bunch of hotels opened up in the same area, and they\r\n"
+"had to close down..."
+msgstr ""
+
+msgctxt "272"
+msgid ""
+"I know a lot about running an inn, so I should be able to\r\n"
+"help Kaede-chan with hers. I'm sure it'll all go well if\r\n"
+"we work together."
+msgstr ""
+
+msgctxt "284"
+msgid ""
+"An inn that serves the hard-working men of Tokyo...\r\n"
+"That's not a bad idea."
+msgstr ""
+
+msgctxt "296"
+msgid ""
+"Still, if we want to get up and running, we're going to need\r\n"
+"money. I wonder if we should take out a loan..."
+msgstr ""
+
+msgctxt "308"
+msgid ""
+"That's true. I think you can get it started without\r\n"
+"borrowing too much money, though."
+msgstr ""
+
+msgctxt "320"
+msgid "Huh? But how?"
+msgstr ""
+
+msgctxt "332"
+msgid ""
+"Kaede, your friend's family used to run their own inn,\r\n"
+"right?"
+msgstr ""
+
+msgctxt "344"
+msgid "Well, yeah."
+msgstr ""
+
+msgctxt "356"
+msgid ""
+"If there are hotels all around that area, that means it's\r\n"
+"a good location."
+msgstr ""
+
+msgctxt "368"
+msgid ""
+"In that case, you can just remodel the old place to fit\r\n"
+"your needs."
+msgstr ""
+
+msgctxt "380"
+msgid "Oh, yeah! I never thought of that!"
+msgstr ""
+
+msgctxt "392"
+msgid "Huh? You'd be okay with that, Momiji?"
+msgstr ""
+
+msgctxt "404"
+msgid ""
+"It's totally fine! Plus, my parents can help us with it,\r\n"
+"too!"
+msgstr ""
+
+msgctxt "416"
+msgid ""
+"All right! Then the money I earned in Tokyo should be\r\n"
+"more than enough!"
+msgstr ""
+
+msgctxt "428"
+msgid "Thank you, Kiryu-san! Man, you're so smart!"
+msgstr ""
+
+msgctxt "440"
+msgid "I don't know about that. I couldn't tell you if it'll work out."
+msgstr ""
+
+msgctxt "452"
+msgid ""
+"I'm sure it will. I can't thank you enough. You've done so\r\n"
+"much for me. Thanks to you, I've discovered my calling."
+msgstr ""
+
+msgctxt "464"
+msgid ""
+"Oh, I know! Here, take this. It's something I bought\r\n"
+"in Tokyo."
+msgstr ""
+
+msgctxt "488"
+msgid "You got a <Color:8>Caviar Skin Bag<Color:Default>."
+msgstr ""
+
+msgctxt "512"
+msgid ""
+"You've got to visit my inn once we open! You can stay for\r\n"
+"free, of course."
+msgstr ""
+
+msgctxt "524"
+msgid "See ya!"
+msgstr ""
+
+msgctxt "620"
+msgid "You got 5,000 EXP."
+msgstr ""
+
+msgctxt "7844"
+msgid "Kaede"
+msgstr ""
+
+msgctxt "7848"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "7852"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "7856"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "7860"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "7864"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "7868"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "7872"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "7876"
+msgid "Momiji"
+msgstr ""
+
+msgctxt "7880"
+msgid "Talk_Kosite_st"
+msgstr ""
+
+msgctxt "7884"
+msgid "Talk_Kosite_lp"
+msgstr ""
+
+msgctxt "7888"
+msgid "Talk_Kosite_Yes"
+msgstr ""
+
+msgctxt "7892"
+msgid "Talk_Kosite_ed"
+msgstr ""
+
+msgctxt "7896"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "7900"
+msgid "Sync_Send"
+msgstr ""
+
+msgctxt "7904"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "7908"
+msgid "dummy"
+msgstr ""

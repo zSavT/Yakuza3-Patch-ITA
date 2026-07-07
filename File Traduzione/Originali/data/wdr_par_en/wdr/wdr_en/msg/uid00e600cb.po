@@ -1,0 +1,48 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid "I wish I was going to Tokyo, too!"
+msgstr ""
+
+msgctxt "76"
+msgid ""
+"Before you go anywhere, you should finish up that pile of homework you've "
+"got."
+msgstr ""
+
+msgctxt "88"
+msgid "Huh!? How'd you know about that!?"
+msgstr ""
+
+msgctxt "100"
+msgid ""
+"Haruka told me. No going out to play until you get that work done, all "
+"right?"
+msgstr ""
+
+msgctxt "112"
+msgid "Haruka's got a big mouth! I wish I was going on vacation like you!"
+msgstr ""
+
+msgctxt "124"
+msgid "I told you, I'm not going for fun."
+msgstr ""
+
+msgctxt "860"
+msgid "Taichi"
+msgstr ""
+
+msgctxt "864"
+msgid "Kiryu"
+msgstr ""

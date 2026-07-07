@@ -1,0 +1,324 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "328"
+msgid "This is no time to be chatting with the driver."
+msgstr ""
+
+msgctxt "376"
+msgid "Hello?"
+msgstr ""
+
+msgctxt "388"
+msgid "Kazuma? It's me, Joji."
+msgstr ""
+
+msgctxt "400"
+msgid "What's up, Joji?"
+msgstr ""
+
+msgctxt "412"
+msgid "I'm just about back in Tokyo. Where are you now?"
+msgstr ""
+
+msgctxt "424"
+msgid ""
+"Getting in a cab. I'm going to the hospital to finally put\r\n"
+"an end to this madness."
+msgstr ""
+
+msgctxt "436"
+msgid ""
+"Good. But listen, Kazuma. There's something I need to tell\r\n"
+"you before you go."
+msgstr ""
+
+msgctxt "448"
+msgid "What's that?"
+msgstr ""
+
+msgctxt "460"
+msgid ""
+"I just had headquarters issue an order to all active agents\r\n"
+"in the Tokyo metropolitan area."
+msgstr ""
+
+msgctxt "472"
+msgid "The CIA will have your back every step of the way."
+msgstr ""
+
+msgctxt "484"
+msgid ""
+"Huh. Guess that explains why an agent walked up to me not\r\n"
+"too long ago."
+msgstr ""
+
+msgctxt "496"
+msgid "There's one team we haven't been able to get in touch with, though."
+msgstr ""
+
+msgctxt "508"
+msgid "Remember, the CIA's goal here is apprehending Richardson."
+msgstr ""
+
+msgctxt "520"
+msgid "I'm not sure why we can't reach that team..."
+msgstr ""
+
+msgctxt "532"
+msgid ""
+"But if you run into them, it's likely they'll see you as a\r\n"
+"mere obstacle in their path."
+msgstr ""
+
+msgctxt "544"
+msgid "Hm."
+msgstr ""
+
+msgctxt "556"
+msgid "Worst comes to worst, you may even have to fight them."
+msgstr ""
+
+msgctxt "568"
+msgid "Just... watch your back, Kazuma."
+msgstr ""
+
+msgctxt "580"
+msgid "Thanks, Joji. I will."
+msgstr ""
+
+msgctxt "616"
+msgid ""
+"(Guess I'll need to watch out for more than just Mine's\r\n"
+"men...)"
+msgstr ""
+
+msgctxt "628"
+msgid "Sir? Excuse me, sir? Are you getting in or not?"
+msgstr ""
+
+msgctxt "640"
+msgid "Huh? Oh, yeah. Sorry."
+msgstr ""
+
+msgctxt "664"
+msgid "(I seriously don't have 710 yen for the taxi...?)"
+msgstr ""
+
+msgctxt "676"
+msgid "The minimum fare is 710 yen. Where would you like to go?"
+msgstr ""
+
+msgctxt "712"
+msgid "Are you sure? It will cost you about 30,000 yen to get there."
+msgstr ""
+
+msgctxt "736"
+msgid "Yeah, take me there."
+msgstr ""
+
+msgctxt "748"
+msgid "Very well, sir."
+msgstr ""
+
+msgctxt "760"
+msgid "I'm afraid you don't have enough money, sir. Please come again when you do."
+msgstr ""
+
+msgctxt "772"
+msgid "Very well, sir. Yokoda Airfield it is."
+msgstr ""
+
+msgctxt "832"
+msgid "Very well, sir. Touto Hospital it is."
+msgstr ""
+
+msgctxt "916"
+msgid "Very well, sir."
+msgstr ""
+
+msgctxt "976"
+msgid "Very well, sir."
+msgstr ""
+
+msgctxt "988"
+msgid "(Guess this is goodbye for now...)"
+msgstr ""
+
+msgctxt "1000"
+msgid "(Actually, maybe not yet.)"
+msgstr ""
+
+msgctxt "1012"
+msgid ""
+"Rikiya. This taxi will take you to the airport. Make sure you get on your "
+"flight, okay?"
+msgstr ""
+
+msgctxt "1024"
+msgid "Aniki, I..."
+msgstr ""
+
+msgctxt "1036"
+msgid "I'll be fine. Just make sure Nakahara and the kids are safe."
+msgstr ""
+
+msgctxt "1048"
+msgid ""
+"After all, we still don't know who we're up against. It sounds like this "
+"whole thing is out of the Tojo Clan's hands, at the very least."
+msgstr ""
+
+msgctxt "1060"
+msgid ""
+"And with Nakahara still in the hospital, you're the only one\r\n"
+"those kids can rely on. Same goes for the Ryudo Family."
+msgstr ""
+
+msgctxt "1072"
+msgid "They're all counting on you, Rikiya."
+msgstr ""
+
+msgctxt "1084"
+msgid "...Right. I won't let them down."
+msgstr ""
+
+msgctxt "1096"
+msgid ""
+"Anyway, guess it's time for me to go. Try keepin' yourself\r\n"
+"outta harm's way... Okay, Aniki?"
+msgstr ""
+
+msgctxt "1108"
+msgid "Yeah. I'll be home soon."
+msgstr ""
+
+msgctxt "1168"
+msgid "(I seriously don't have 710 yen for the taxi...?)"
+msgstr ""
+
+msgctxt "1180"
+msgid "The minimum fare is 710 yen. Where would you like to go?"
+msgstr ""
+
+msgctxt "1216"
+msgid "Are you sure? It will cost you about 30,000 yen to get there."
+msgstr ""
+
+msgctxt "1240"
+msgid "Yeah, take me there."
+msgstr ""
+
+msgctxt "1252"
+msgid "Very well, sir."
+msgstr ""
+
+msgctxt "1264"
+msgid "I'm afraid you don't have enough money, sir. Please come again when you do."
+msgstr ""
+
+msgctxt "1276"
+msgid "Very well, sir. Yokoda Airfield it is."
+msgstr ""
+
+msgctxt "1336"
+msgid "Very well, sir. Touto Hospital it is."
+msgstr ""
+
+msgctxt "1420"
+msgid "Very well, sir."
+msgstr ""
+
+msgctxt "1480"
+msgid "Very well, sir."
+msgstr ""
+
+msgctxt "1492"
+msgid "Yes"
+msgstr ""
+
+msgctxt "1504"
+msgid "No"
+msgstr ""
+
+msgctxt "1516"
+msgid "Don't Show Rikiya Off Yet"
+msgstr ""
+
+msgctxt "1528"
+msgid "Show Rikiya Off"
+msgstr ""
+
+msgctxt "1540"
+msgid "Yes"
+msgstr ""
+
+msgctxt "1552"
+msgid "No"
+msgstr ""
+
+msgctxt "12096"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "12100"
+msgid "P_stand_tlk_phone_st"
+msgstr ""
+
+msgctxt "12104"
+msgid "Man's Voice"
+msgstr ""
+
+msgctxt "12108"
+msgid "Kazama"
+msgstr ""
+
+msgctxt "12112"
+msgid "Joji Kazama"
+msgstr ""
+
+msgctxt "12116"
+msgid "P_stand_tlk_phone_ed"
+msgstr ""
+
+msgctxt "12120"
+msgid "Taxi Driver"
+msgstr ""
+
+msgctxt "12124"
+msgid "Kamuro Taxi"
+msgstr ""
+
+msgctxt "12128"
+msgid "Rikiya"
+msgstr ""
+
+msgctxt "12132"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "12136"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "12140"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "12144"
+msgid "dummy"
+msgstr ""
+
+msgctxt "12148"
+msgid "0"
+msgstr ""

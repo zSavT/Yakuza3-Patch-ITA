@@ -1,0 +1,48 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "120"
+msgid "Check, Master."
+msgstr ""
+
+msgctxt "132"
+msgid "Hmm... Looks like I lost."
+msgstr ""
+
+msgctxt "144"
+msgid "I'm no match for you in shogi now. I guess I'm really getting old."
+msgstr ""
+
+msgctxt "156"
+msgid "Hey, look at those guys. They're at a whole other level..."
+msgstr ""
+
+msgctxt "168"
+msgid "Yeah, playing next to them makes us look like damn fools..."
+msgstr ""
+
+msgctxt "808"
+msgid "Issen's Pupil"
+msgstr ""
+
+msgctxt "812"
+msgid "Issen"
+msgstr ""
+
+msgctxt "816"
+msgid "Akitsu"
+msgstr ""
+
+msgctxt "820"
+msgid "Kengo the Madman"
+msgstr ""

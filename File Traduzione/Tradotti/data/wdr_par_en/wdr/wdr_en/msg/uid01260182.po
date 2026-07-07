@@ -1,0 +1,118 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "108"
+msgid "Please, I've had enough... I'm sorry, okay?"
+msgstr ""
+
+msgctxt "120"
+msgid "Don't apologize to me. Apologize to the woman you stole from."
+msgstr ""
+
+msgctxt "132"
+msgid "Takashi! I knew you'd be here!"
+msgstr ""
+
+msgctxt "144"
+msgid "Grandma!? How'd you find me?"
+msgstr ""
+
+msgctxt "156"
+msgid ""
+"This has always been your favorite spot to mope and cry whenever anythin' "
+"goes wrong. I knew you'd come crawlin' back."
+msgstr ""
+
+msgctxt "168"
+msgid "You... know him?"
+msgstr ""
+
+msgctxt "180"
+msgid ""
+"Oh, heavens yes. He's my grandson. Stealin' from your own flesh and blood, "
+"Taka... That's just pitiful."
+msgstr ""
+
+msgctxt "192"
+msgid ""
+"You know what? I'll stick you out on your grandfather's boat! That'll "
+"adjust yer attitude, eh? Now get over here!"
+msgstr ""
+
+msgctxt "204"
+msgid "Granddad's boat? But you know I don't like the ocean!"
+msgstr ""
+
+msgctxt "228"
+msgid "Thanks for the help, young man. Here's a little somethin' for your trouble."
+msgstr ""
+
+msgctxt "240"
+msgid "You got <Color:8>3,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "252"
+msgid "I'm sorry, Grandma! Just please, don't tell Granddad!"
+msgstr ""
+
+msgctxt "324"
+msgid "You got 3,000 EXP."
+msgstr ""
+
+msgctxt "336"
+msgid "You're the jerk who ran off with a sweet old lady's pension, aren't you?"
+msgstr ""
+
+msgctxt "360"
+msgid "Who the hell are you!? I'm not goin' down without a fight!"
+msgstr ""
+
+msgctxt "3480"
+msgid "Bag Snatcher"
+msgstr ""
+
+msgctxt "3484"
+msgid "Talk_Request"
+msgstr ""
+
+msgctxt "3488"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "3492"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "3496"
+msgid "Old Woman"
+msgstr ""
+
+msgctxt "3500"
+msgid "Takashi"
+msgstr ""
+
+msgctxt "3504"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "3508"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "3512"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "3516"
+msgid "M_ykz_stand_tlk_nobig"
+msgstr ""

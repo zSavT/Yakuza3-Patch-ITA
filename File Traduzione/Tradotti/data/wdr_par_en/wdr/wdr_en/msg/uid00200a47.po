@@ -1,0 +1,122 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "96"
+msgid ""
+"I can't believe it! The master was right about you... You won, fair and "
+"square."
+msgstr ""
+
+msgctxt "108"
+msgid ""
+"I thought I had studied the Komaki style longer than almost anyone, but I "
+"know now that I've still got a lot to learn."
+msgstr ""
+
+msgctxt "120"
+msgid "Looks like I'd forgotten what it's like to be in a real fight."
+msgstr ""
+
+msgctxt "132"
+msgid "Heh... That was a good workout, though. Thanks for that."
+msgstr ""
+
+msgctxt "144"
+msgid ""
+"Fighting you has really gotten my blood pumping! It makes me want to come "
+"out of retirement!"
+msgstr ""
+
+msgctxt "156"
+msgid "I'm sure you could go right back into training if you wanted to."
+msgstr ""
+
+msgctxt "168"
+msgid ""
+"Thank you for everything! Oops! I'd better get back inside. My boss is "
+"gonna be pissed... But feel free to come back to visit⑬as a customer next "
+"time!"
+msgstr ""
+
+msgctxt "180"
+msgid "I will. Good luck."
+msgstr ""
+
+msgctxt "204"
+msgid ""
+"Fighting him dredged up memories of one of the Komaki techniques I used to "
+"know..."
+msgstr ""
+
+msgctxt "216"
+msgid ""
+"You can now use <Color:9>Komaki Tiger Drop<Color:Default>. Hold "
+"<Action:Battle_Fight_Stance@Combat> to go into a fighting stance, then "
+"press <Action:Battle_Heavy_Attack@Combat> as an enemy attacks to unleash it."
+msgstr ""
+
+msgctxt "252"
+msgid "Well, I'd better find the next student."
+msgstr ""
+
+msgctxt "264"
+msgid ""
+"I've defeated all of the old man's pupils. I'd better get back to the "
+"Komaki Dojo."
+msgstr ""
+
+msgctxt "276"
+msgid ""
+"It looks like I win this one. Maybe you are a little rusty after all, heh! "
+"Come back anytime. I'll take you on whenever you want."
+msgstr ""
+
+msgctxt "288"
+msgid "(I lost. I should try fighting him again sometime.)"
+msgstr ""
+
+msgctxt "360"
+msgid "Here should work."
+msgstr ""
+
+msgctxt "372"
+msgid "I'm not gonna hold back! Let's do this!"
+msgstr ""
+
+msgctxt "4236"
+msgid "Burger Shop Worker"
+msgstr ""
+
+msgctxt "4240"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "4244"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "4248"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "4252"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "4256"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "4260"
+msgid "Talk_Yes"
+msgstr ""

@@ -1,0 +1,222 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "92"
+msgid "Kiryu-san! Get me outta here!"
+msgstr ""
+
+msgctxt "104"
+msgid "If you don't mind my asking... What the hell are you doing?"
+msgstr ""
+
+msgctxt "116"
+msgid "Well, see... Somebody was tryin' to attack us, right?"
+msgstr ""
+
+msgctxt "128"
+msgid "And I was totally freaked out... Well, kind of, anyway. A little bit..."
+msgstr ""
+
+msgctxt "140"
+msgid "So I hid in here to be safe. Clever, don'cha think?"
+msgstr ""
+
+msgctxt "152"
+msgid "And you managed to get yourself stuck..."
+msgstr ""
+
+msgctxt "164"
+msgid ""
+"Well, it'd take forever to explain the whole story... But, yeah. In a "
+"nutshell."
+msgstr ""
+
+msgctxt "176"
+msgid "Hey! What are you doing in there!?"
+msgstr ""
+
+msgctxt "188"
+msgid "Crap! They found me!"
+msgstr ""
+
+msgctxt "200"
+msgid "Oh, boy... Okay, let me just open the⑬ Uh-oh..."
+msgstr ""
+
+msgctxt "212"
+msgid "What's wrong?"
+msgstr ""
+
+msgctxt "224"
+msgid "The key... Where's the key?"
+msgstr ""
+
+msgctxt "236"
+msgid "Hey...! Don't tell me..."
+msgstr ""
+
+msgctxt "248"
+msgid "......"
+msgstr ""
+
+msgctxt "260"
+msgid "No way! You gotta be freakin' kiddin' me! You mean I'm stuck in here!?"
+msgstr ""
+
+msgctxt "272"
+msgid "......"
+msgstr ""
+
+msgctxt "284"
+msgid "Kiryu-san... My mom and little sister live in the countryside."
+msgstr ""
+
+msgctxt "296"
+msgid "They grow carrots."
+msgstr ""
+
+msgctxt "308"
+msgid "They're really good, those carrots. Even when you eat 'em raw."
+msgstr ""
+
+msgctxt "320"
+msgid "The way I've been livin'... Well, I haven't seen my family for years..."
+msgstr ""
+
+msgctxt "332"
+msgid "Kiryu-san... Could you tell 'em..."
+msgstr ""
+
+msgctxt "344"
+msgid "Oh, here it is."
+msgstr ""
+
+msgctxt "356"
+msgid "Could you tell my mom and my sis I'm okay⑬ Wait, what?"
+msgstr ""
+
+msgctxt "368"
+msgid "I found the key. I'm unlocking it now."
+msgstr ""
+
+msgctxt "380"
+msgid "What the hell... Don't scare a guy like that!"
+msgstr ""
+
+msgctxt "392"
+msgid "Seriously! I mean, give a guy a break, would ya? Haha!"
+msgstr ""
+
+msgctxt "404"
+msgid ""
+"I mean c'mon! You're supposed to be manager material, right? Shouldn't you "
+"at least be able to find a damn key right away?"
+msgstr ""
+
+msgctxt "416"
+msgid ""
+"Obviously, you got a lot to work on. Do you want me to give you some "
+"pointers?"
+msgstr ""
+
+msgctxt "428"
+msgid "Should we leave him in there a little longer?"
+msgstr ""
+
+msgctxt "440"
+msgid "Yeah, that sounds like a good idea."
+msgstr ""
+
+msgctxt "452"
+msgid "Hey, wait a minute! That ain't funny!"
+msgstr ""
+
+msgctxt "5324"
+msgid "Kotaro"
+msgstr ""
+
+msgctxt "5328"
+msgid "Talk_Request"
+msgstr ""
+
+msgctxt "5332"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "5336"
+msgid "Talk_Udekumi_st"
+msgstr ""
+
+msgctxt "5340"
+msgid "Talk_Chohatu"
+msgstr ""
+
+msgctxt "5344"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "5348"
+msgid "HLA Member"
+msgstr ""
+
+msgctxt "5352"
+msgid "Talk_Udekumi_ed"
+msgstr ""
+
+msgctxt "5356"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "5360"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "5364"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "5368"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "5372"
+msgid "kaiwabgm_sadness"
+msgstr ""
+
+msgctxt "5376"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "5380"
+msgid "Talk_SmileBig_st"
+msgstr ""
+
+msgctxt "5384"
+msgid "Talk_SmileBig_ed"
+msgstr ""
+
+msgctxt "5388"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "5392"
+msgid "Talk_NoBig"
+msgstr ""
+
+msgctxt "5396"
+msgid "dummy"
+msgstr ""
+
+msgctxt "5400"
+msgid "0"
+msgstr ""

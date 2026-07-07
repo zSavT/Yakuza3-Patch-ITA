@@ -1,0 +1,66 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "92"
+msgid "What're you going to do about the eviction?"
+msgstr ""
+
+msgctxt "104"
+msgid ""
+"My husband says he doesn't care how much money they offer us. He's not "
+"going to leave his childhood home."
+msgstr ""
+
+msgctxt "116"
+msgid ""
+"Mine, too. We don't want to be moving at our age. I couldn't live in some "
+"big apartment building where you don't even know your own neighbors."
+msgstr ""
+
+msgctxt "128"
+msgid "Did you hear about Kume-san? He agreed to sell his house."
+msgstr ""
+
+msgctxt "140"
+msgid ""
+"He said he's taking this opportunity to move in with his son's family. I "
+"guess they have a place on the mainland."
+msgstr ""
+
+msgctxt "152"
+msgid "Really? It's going to be lonely around here without him."
+msgstr ""
+
+msgctxt "1196"
+msgid "Yara"
+msgstr ""
+
+msgctxt "1200"
+msgid "Asato"
+msgstr ""
+
+msgctxt "1204"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "1208"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "1212"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "1216"
+msgid "Talk_Surp"
+msgstr ""

@@ -1,0 +1,42 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid "(Right, that telephone club... I should give them a call.)"
+msgstr ""
+
+msgctxt "76"
+msgid ""
+"(Come to think of it, I already set up a date with a\r\n"
+"girl from the telephone club.)"
+msgstr ""
+
+msgctxt "88"
+msgid "(I should go meet up with her at Smile Burger.)"
+msgstr ""
+
+msgctxt "100"
+msgid "(I should go meet up with her at Kanrai.)"
+msgstr ""
+
+msgctxt "112"
+msgid "(I should go meet up with her at Café Alps.)"
+msgstr ""
+
+msgctxt "124"
+msgid "(I should go meet up with her at Sushi Gin.)"
+msgstr ""
+
+msgctxt "620"
+msgid "Kiryu"
+msgstr ""

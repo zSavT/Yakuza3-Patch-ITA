@@ -1,0 +1,57 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid "Ayako..."
+msgstr ""
+
+msgctxt "76"
+msgid "......"
+msgstr ""
+
+msgctxt "88"
+msgid ""
+"I need you to believe me when I say I'm grateful for everything you do for "
+"us, Ayako. So is Haruka. And so are all the others."
+msgstr ""
+
+msgctxt "100"
+msgid ""
+"I know they ask a lot of you. And I know they don't thank you enough. But "
+"that doesn't mean they don't appreciate you. And it certainly doesn't mean "
+"they don't love you."
+msgstr ""
+
+msgctxt "112"
+msgid "Uncle Kaz..."
+msgstr ""
+
+msgctxt "124"
+msgid "So, come on. How about we head home?"
+msgstr ""
+
+msgctxt "1500"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1504"
+msgid "Ayako"
+msgstr ""
+
+msgctxt "1508"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "1512"
+msgid "Talk_Cry"
+msgstr ""

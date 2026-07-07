@@ -1,0 +1,56 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid "Waaaaaaaugh! I'm so sorry! Seriously! I mean it!"
+msgstr ""
+
+msgctxt "76"
+msgid ""
+"We, uh, we were just on our way outta here anyway! For good! So please, "
+"just let us go in peace!"
+msgstr ""
+
+msgctxt "88"
+msgid "And... take this for all the trouble we've caused you."
+msgstr ""
+
+msgctxt "100"
+msgid "You got <Color:8>50,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "112"
+msgid ""
+"Oh, and here's something else, too. I hope we can put all\r\n"
+"this behind us now and go our separate ways."
+msgstr ""
+
+msgctxt "124"
+msgid "You got an <Color:8>Azure Gem<Color:Default>."
+msgstr ""
+
+msgctxt "1468"
+msgid "Head Punk"
+msgstr ""
+
+msgctxt "1472"
+msgid "M_ykzs_damage"
+msgstr ""
+
+msgctxt "1476"
+msgid "Talk_Sorry"
+msgstr ""
+
+msgctxt "1480"
+msgid "Talk_Send"
+msgstr ""

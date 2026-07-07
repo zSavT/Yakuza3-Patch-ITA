@@ -1,0 +1,166 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid "He's a fuckin' monster!"
+msgstr ""
+
+msgctxt "76"
+msgid "This ain't good..."
+msgstr ""
+
+msgctxt "88"
+msgid "Shit! Run for it, boys!"
+msgstr ""
+
+msgctxt "184"
+msgid "Oh my god! Can you believe those idiots!?"
+msgstr ""
+
+msgctxt "196"
+msgid "And can you believe... I ended up like this...?"
+msgstr ""
+
+msgctxt "208"
+msgid "You must have been scared."
+msgstr ""
+
+msgctxt "220"
+msgid "......"
+msgstr ""
+
+msgctxt "232"
+msgid "I guess all this kind of got away from me, huh..."
+msgstr ""
+
+msgctxt "244"
+msgid "You have to be a little more careful."
+msgstr ""
+
+msgctxt "256"
+msgid "Yeah..."
+msgstr ""
+
+msgctxt "268"
+msgid "I never thought it would get this bad..."
+msgstr ""
+
+msgctxt "280"
+msgid "......"
+msgstr ""
+
+msgctxt "292"
+msgid ""
+"Honestly, I... I only started this job because I wanted some excitement. I "
+"was killing time."
+msgstr ""
+
+msgctxt "304"
+msgid ""
+"It didn't really mean anything to me. I was just bored with my life, and "
+"trying to change that."
+msgstr ""
+
+msgctxt "316"
+msgid ""
+"But... then I met you, Kiryu-san, and... you cared about me more than I "
+"thought anyone ever could."
+msgstr ""
+
+msgctxt "328"
+msgid ""
+"I know I'm... not the easiest girl to talk to. But then you came along, and "
+"everything changed, and now..."
+msgstr ""
+
+msgctxt "340"
+msgid "......"
+msgstr ""
+
+msgctxt "352"
+msgid "...Guess that means this is my fault."
+msgstr ""
+
+msgctxt "364"
+msgid "Like, one hundred percent your fault."
+msgstr ""
+
+msgctxt "376"
+msgid "Heh."
+msgstr ""
+
+msgctxt "388"
+msgid "Hey, it's not funny!"
+msgstr ""
+
+msgctxt "400"
+msgid ""
+"You think this is easy for me? Here I am, trying to live my life, and I "
+"can't get you off my mind, Kiryu-san!"
+msgstr ""
+
+msgctxt "412"
+msgid "So... since it's your fault, you gotta fix it, okay?"
+msgstr ""
+
+msgctxt "424"
+msgid "Uh..."
+msgstr ""
+
+msgctxt "436"
+msgid ""
+"Don't worry, Kiryu-san. <Color:255,200,200,255>⑮<Color:Default> You won't "
+"have to figure it all out yourself. I'll tell you exactly what to do... "
+"<Color:255,200,200,255>⑮<Color:Default><Color:255,200,200,255"
+">⑮<Color:Default><Color:255,200,200,255>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "4892"
+msgid "Moriyama"
+msgstr ""
+
+msgctxt "4896"
+msgid "Domoto"
+msgstr ""
+
+msgctxt "4900"
+msgid "Kaneda"
+msgstr ""
+
+msgctxt "4904"
+msgid "Shiori"
+msgstr ""
+
+msgctxt "4908"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "4912"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "4916"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "4920"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "4924"
+msgid "F_sxy_stand_sync_dakitukiA_st"
+msgstr ""
+
+msgctxt "4928"
+msgid "P_stand_sync_dakitukiA_st"
+msgstr ""

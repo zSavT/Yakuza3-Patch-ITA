@@ -1,0 +1,64 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "108"
+msgid "...Sorry you had to see that."
+msgstr ""
+
+msgctxt "120"
+msgid "Don't worry about me."
+msgstr ""
+
+msgctxt "132"
+msgid ""
+"Kiryu-san... Are you busy after this? There's something I need to come "
+"clean about."
+msgstr ""
+
+msgctxt "144"
+msgid "Sure. I've got plenty of time."
+msgstr ""
+
+msgctxt "156"
+msgid ""
+"I appreciate that. Could you wait for me at Café Alps, then? It's something "
+"I can't really discuss here."
+msgstr ""
+
+msgctxt "168"
+msgid "I understand. I'll see you there, then."
+msgstr ""
+
+msgctxt "180"
+msgid "See you in a bit. I'll be there as soon as I calm the staff down."
+msgstr ""
+
+msgctxt "1348"
+msgid "Kazuki"
+msgstr ""
+
+msgctxt "1352"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "1356"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1360"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "1364"
+msgid "Talk_Yes"
+msgstr ""

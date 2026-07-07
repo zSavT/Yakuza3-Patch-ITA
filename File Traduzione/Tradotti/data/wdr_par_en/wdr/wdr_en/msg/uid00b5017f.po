@@ -1,0 +1,229 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "200"
+msgid ""
+"Gyeh... Haugh... Woargh... How can this possibly be...?\r\n"
+"I thought I was destined to be the king of the ring..."
+msgstr ""
+
+msgctxt "212"
+msgid "You won't be king of anything without getting enough practice in."
+msgstr ""
+
+msgctxt "224"
+msgid ""
+"Then, if I become a bouncer... will I be able to fight more opponents like "
+"you?"
+msgstr ""
+
+msgctxt "236"
+msgid "I can't say for sure. But there's always that possibility."
+msgstr ""
+
+msgctxt "248"
+msgid ""
+"...All right then, I'll do it! Nothing like a real fight to\r\n"
+"test a man's mettle!"
+msgstr ""
+
+msgctxt "260"
+msgid "Are you sure about this, Iwakuma?"
+msgstr ""
+
+msgctxt "272"
+msgid ""
+"Sorry, boss, but I need to do more than just stir veggies\r\n"
+"in a pot and call it a day! I need to get strong enough to\r\n"
+"shake up the entire sumo world!"
+msgstr ""
+
+msgctxt "284"
+msgid ""
+"In fact, I'm bringing the title of yokozuna straight back\r\n"
+"to Japan! Yeah, you heard me, I'm gonna be the champ!"
+msgstr ""
+
+msgctxt "296"
+msgid ""
+"Good, then let me set you up with this place. It's in a\r\n"
+"building on Park Boulevard. You can go there whenever you're ready."
+msgstr ""
+
+msgctxt "308"
+msgid "Okay, got it. This sounds like just the kind of training I need."
+msgstr ""
+
+msgctxt "392"
+msgid "You got 2,000 EXP."
+msgstr ""
+
+msgctxt "440"
+msgid ""
+"Day in and day out, all I hear is, \"Salt! Miso! Soy sauce!\"\r\n"
+"I didn't join a sumo stable to learn how to make nabe!"
+msgstr ""
+
+msgctxt "452"
+msgid ""
+"I joined so I could learn the art of sumo, dammit! So what's\r\n"
+"the point of making some bullshit stew when I could be\r\n"
+"wrestling my ass off instead!?"
+msgstr ""
+
+msgctxt "464"
+msgid ""
+"You're out of your mind, Iwakuma! There's no way you're\r\n"
+"ready for the ring! You need more practice, more discipline,\r\n"
+"and at least ten times more nabe! That's how you get strong!"
+msgstr ""
+
+msgctxt "476"
+msgid ""
+"Shut up! I'm good enough already! Besides, I don't need\r\n"
+"any more practice⑬just get me into the ring and I'll show you!"
+msgstr ""
+
+msgctxt "488"
+msgid "(So this is Iwakuma... He seems to have quite the temper.)"
+msgstr ""
+
+msgctxt "500"
+msgid ""
+"(There's no way he'll talk to me in the middle of a tantrum.\r\n"
+"Waiting for him to calm down would be the better option.)"
+msgstr ""
+
+msgctxt "524"
+msgid "Hey, are you Iwakuma?"
+msgstr ""
+
+msgctxt "536"
+msgid "And what if I am!?"
+msgstr ""
+
+msgctxt "548"
+msgid "Well, I was hoping we could talk."
+msgstr ""
+
+msgctxt "560"
+msgid ""
+"I'm Kiryu, and I'm working for a casino. We currently have\r\n"
+"some openings for bouncers, so I thought I'd recruit you."
+msgstr ""
+
+msgctxt "572"
+msgid ""
+"As a bouncer? What kind of crap is that? I'm gonna be the next\r\n"
+"yokozuna, man!"
+msgstr ""
+
+msgctxt "584"
+msgid "Without proper training, you'll be lucky if they let you sweep the stable."
+msgstr ""
+
+msgctxt "596"
+msgid ""
+"Do tigers train!? Do bears train!? Psh... I'm so strong,\r\n"
+"I could take on the world champion with one arm tied behind\r\n"
+"my back! I mean, look at this massive body!"
+msgstr ""
+
+msgctxt "608"
+msgid ""
+"And you... You saying I'm not good enough to be Japan's top\r\n"
+"sumo wrestler!? Tell me why I should listen to some jackass\r\n"
+"who's probably weak as shit!"
+msgstr ""
+
+msgctxt "620"
+msgid ""
+"You want me to be a bouncer, then you're gonna have to\r\n"
+"defeat me! Then I'll be whatever the hell you want!"
+msgstr ""
+
+msgctxt "632"
+msgid "Now watch as I squeeze the life outta you!"
+msgstr ""
+
+msgctxt "656"
+msgid "(He doesn't look like he'll be calming down anytime soon...)"
+msgstr ""
+
+msgctxt "692"
+msgid "I'll talk some sense into him."
+msgstr ""
+
+msgctxt "704"
+msgid "I'll wait for him to calm down."
+msgstr ""
+
+msgctxt "716"
+msgid "I'll talk some sense into him."
+msgstr ""
+
+msgctxt "728"
+msgid "I'll wait for him to calm down."
+msgstr ""
+
+msgctxt "7144"
+msgid "Iwakuma"
+msgstr ""
+
+msgctxt "7148"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "7152"
+msgid "Talk_Kamae"
+msgstr ""
+
+msgctxt "7156"
+msgid "0"
+msgstr ""
+
+msgctxt "7160"
+msgid "Nabe Shop Owner"
+msgstr ""
+
+msgctxt "7164"
+msgid "Talk_Send"
+msgstr ""
+
+msgctxt "7168"
+msgid "Talk_Sorry"
+msgstr ""
+
+msgctxt "7172"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "7176"
+msgid "dummy"
+msgstr ""
+
+msgctxt "7180"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "7184"
+msgid "SetM_nml_stand_tlk_basei"
+msgstr ""
+
+msgctxt "7188"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "7192"
+msgid "Talk_Yes"
+msgstr ""

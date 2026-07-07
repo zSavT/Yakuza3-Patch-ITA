@@ -1,0 +1,170 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "160"
+msgid "What do you want to be when you grow up, Eri-chan?"
+msgstr ""
+
+msgctxt "172"
+msgid "Hmmmm, maybe a flight attendant!"
+msgstr ""
+
+msgctxt "184"
+msgid "Yeah, 'cause you're such an airhead, heehee!"
+msgstr ""
+
+msgctxt "196"
+msgid "Is Shiro gonna be okay, Uncle Kaz?"
+msgstr ""
+
+msgctxt "208"
+msgid "He'll be just fine, I promise."
+msgstr ""
+
+msgctxt "220"
+msgid "Wow, really?"
+msgstr ""
+
+msgctxt "232"
+msgid "Yup. I'm gonna make sure of it."
+msgstr ""
+
+msgctxt "244"
+msgid "Okay!"
+msgstr ""
+
+msgctxt "256"
+msgid "Did Shiro tell you anything?"
+msgstr ""
+
+msgctxt "268"
+msgid "Not really, no."
+msgstr ""
+
+msgctxt "280"
+msgid "Oh. Sorry I can't be more help, Uncle Kaz."
+msgstr ""
+
+msgctxt "292"
+msgid "It's all right, Ayako. I appreciate the effort."
+msgstr ""
+
+msgctxt "304"
+msgid "Ayako."
+msgstr ""
+
+msgctxt "316"
+msgid "What's up, Uncle Kaz? Is this about Shiro?"
+msgstr ""
+
+msgctxt "328"
+msgid ""
+"Yeah, something's definitely up. Do you know if he's having\r\n"
+"trouble at school?"
+msgstr ""
+
+msgctxt "340"
+msgid "I'm not sure. We're not in the same grade..."
+msgstr ""
+
+msgctxt "352"
+msgid "Have you heard anything, Izumi-chan?"
+msgstr ""
+
+msgctxt "364"
+msgid "Ummm, nope. We're in different classes, so."
+msgstr ""
+
+msgctxt "376"
+msgid "Right..."
+msgstr ""
+
+msgctxt "388"
+msgid "Want me to try asking him?"
+msgstr ""
+
+msgctxt "400"
+msgid ""
+"Nah, it's okay. If he's gonna open up to anyone, it'd\r\n"
+"probably be another guy. I'll give it another shot."
+msgstr ""
+
+msgctxt "424"
+msgid "Did you find Shiro, Uncle Kaz?"
+msgstr ""
+
+msgctxt "436"
+msgid "Not yet, no."
+msgstr ""
+
+msgctxt "448"
+msgid "Oh... Want us to help?"
+msgstr ""
+
+msgctxt "460"
+msgid "It's okay. Probably best that I do it alone."
+msgstr ""
+
+msgctxt "484"
+msgid "You girls have any idea where Shiro is?"
+msgstr ""
+
+msgctxt "496"
+msgid "I don't. Eri-chan? Izumi-chan?"
+msgstr ""
+
+msgctxt "508"
+msgid "Nope."
+msgstr ""
+
+msgctxt "520"
+msgid "Nuh-uh."
+msgstr ""
+
+msgctxt "532"
+msgid ""
+"I saw Taichi and Mitsuo playing on the beach. Maybe he's\r\n"
+"with them?"
+msgstr ""
+
+msgctxt "544"
+msgid "I'll go take a look. Thanks, Ayako."
+msgstr ""
+
+msgctxt "4692"
+msgid "Ayako"
+msgstr ""
+
+msgctxt "4696"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "4700"
+msgid "Eri"
+msgstr ""
+
+msgctxt "4704"
+msgid "Izumi"
+msgstr ""
+
+msgctxt "4708"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "4712"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "4716"
+msgid "Talk_Quest"
+msgstr ""

@@ -1,0 +1,52 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid "The press is always hanging around that bar Serena off Tenkaichi Street."
+msgstr ""
+
+msgctxt "76"
+msgid ""
+"If you listen in on their conversations, you'll occasionally hear some "
+"juicy gossip you can't hear anywhere else."
+msgstr ""
+
+msgctxt "88"
+msgid "The other day, I heard this amazing story about Minister Suzuki."
+msgstr ""
+
+msgctxt "100"
+msgid "What kind of story?"
+msgstr ""
+
+msgctxt "112"
+msgid ""
+"Oh, that's not for me to say... But if you want to know more, maybe you "
+"should stop by Serena yourself. It's on Tenkaichi Street."
+msgstr ""
+
+msgctxt "908"
+msgid "Eavesdropper"
+msgstr ""
+
+msgctxt "912"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "916"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "920"
+msgid "Talk_No"
+msgstr ""

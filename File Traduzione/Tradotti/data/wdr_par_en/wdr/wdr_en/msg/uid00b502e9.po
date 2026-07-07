@@ -1,0 +1,83 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "92"
+msgid ""
+"Golden Agu's supposed to be super tasty. I heard my mom talking to all her "
+"friends about it."
+msgstr ""
+
+msgctxt "104"
+msgid "Agu? You mean pork, right? I've never heard of any \"Golden Agu\" before..."
+msgstr ""
+
+msgctxt "116"
+msgid ""
+"They say it'll make you beautiful if you eat enough. It's\r\n"
+"chock-full of collagen, which makes your skin brighter and\r\n"
+"healthier, too!"
+msgstr ""
+
+msgctxt "128"
+msgid ""
+"And I've even heard it helps you lose weight, since it has\r\n"
+"some kind of fat-burning nutrients."
+msgstr ""
+
+msgctxt "140"
+msgid ""
+"Maybe they're selling it at the Public Market. They've got\r\n"
+"pretty much everything there."
+msgstr ""
+
+msgctxt "212"
+msgid ""
+"(Pork that makes you beautiful just by eating it? That\r\n"
+"Golden Agu sure must be something...)"
+msgstr ""
+
+msgctxt "2152"
+msgid "Haruko"
+msgstr ""
+
+msgctxt "2156"
+msgid "Talk_Kansin"
+msgstr ""
+
+msgctxt "2160"
+msgid "Chisato"
+msgstr ""
+
+msgctxt "2164"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "2168"
+msgid "Hozumi"
+msgstr ""
+
+msgctxt "2172"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "2176"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "2180"
+msgid "Talk_Info_L"
+msgstr ""
+
+msgctxt "2184"
+msgid "Kiryu"
+msgstr ""

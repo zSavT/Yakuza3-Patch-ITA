@@ -1,0 +1,78 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "100"
+msgid ""
+"I can't believe this, Kiryu-san! He double-crossed me! That piece of "
+"garbage pillaged the office. He took everything...!"
+msgstr ""
+
+msgctxt "112"
+msgid "Calm down for a minute. What's this about garbage now?"
+msgstr ""
+
+msgctxt "124"
+msgid ""
+"How can I calm down when my whole company just disappeared!? All my hard "
+"work, all my savings... Even the staff are gone!"
+msgstr ""
+
+msgctxt "136"
+msgid "So who's responsible for all this?"
+msgstr ""
+
+msgctxt "148"
+msgid "It has to be Yokoi, of course! Urgh, that arrogant, conniving... asshole!"
+msgstr ""
+
+msgctxt "160"
+msgid ""
+"He even set up a phony business on Showa Street called Yokoi Office. At "
+"least come up with a good name, you giant turd!"
+msgstr ""
+
+msgctxt "172"
+msgid ""
+"You know what⑬I'm done getting screwed over by this guy! I'm gonna go smash "
+"his face in!"
+msgstr ""
+
+msgctxt "184"
+msgid "Hey, hang on!"
+msgstr ""
+
+msgctxt "232"
+msgid ""
+"(So her boyfriend sets up shop on Showa Street, using her money and "
+"resources to do it... Guess I need to go set things straight.)"
+msgstr ""
+
+msgctxt "2052"
+msgid "P_stand_tlk_phone_st"
+msgstr ""
+
+msgctxt "2056"
+msgid "Reimi"
+msgstr ""
+
+msgctxt "2060"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "2064"
+msgid "P_stand_tlk_phone_ed"
+msgstr ""
+
+msgctxt "2068"
+msgid "dummy"
+msgstr ""

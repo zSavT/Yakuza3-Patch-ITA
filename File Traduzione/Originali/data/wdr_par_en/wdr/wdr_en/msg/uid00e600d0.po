@@ -1,0 +1,62 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "92"
+msgid ""
+"I wanna live in Tokyo, too! Maybe one day I'll save up enough money to move "
+"there..."
+msgstr ""
+
+msgctxt "104"
+msgid ""
+"Do you know how high prices are up there? Rent alone can be incredibly "
+"expensive! A two-bedroom apartment costs, like, 78 grand!"
+msgstr ""
+
+msgctxt "116"
+msgid "You're kidding! That much? I could never afford that!"
+msgstr ""
+
+msgctxt "128"
+msgid ""
+"(That's cheaper than any two-bedroom I've ever seen. If she can't afford "
+"that, I don't think she'll ever manage in Tokyo.)"
+msgstr ""
+
+msgctxt "992"
+msgid "Tokyo-Obsessed Risa"
+msgstr ""
+
+msgctxt "996"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "1000"
+msgid "Market-Savvy Yayoi"
+msgstr ""
+
+msgctxt "1004"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "1008"
+msgid "Talk_NoBig"
+msgstr ""
+
+msgctxt "1012"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1016"
+msgid "Talk_No"
+msgstr ""

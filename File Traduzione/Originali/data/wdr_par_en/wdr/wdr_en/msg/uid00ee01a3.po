@@ -1,0 +1,100 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "92"
+msgid "Hey... Are you Subaru?"
+msgstr ""
+
+msgctxt "104"
+msgid "Yeah..."
+msgstr ""
+
+msgctxt "116"
+msgid "Your mother's looking for you. Come with me."
+msgstr ""
+
+msgctxt "128"
+msgid "Mommy?"
+msgstr ""
+
+msgctxt "140"
+msgid "Hey... Who the hell are you?"
+msgstr ""
+
+msgctxt "152"
+msgid "Where's my mommy?"
+msgstr ""
+
+msgctxt "164"
+msgid ""
+"Aww, c'mon, Subaru-kun. Didn't I promise you that I'd\r\n"
+"be your new daddy?"
+msgstr ""
+
+msgctxt "176"
+msgid "Your mommy's gonna be really happy. She loves me."
+msgstr ""
+
+msgctxt "188"
+msgid "I want my mommy..."
+msgstr ""
+
+msgctxt "200"
+msgid "...Why don't you let me take it from here?"
+msgstr ""
+
+msgctxt "212"
+msgid "Hey, pal. You shouldn't poke around in another family's business."
+msgstr ""
+
+msgctxt "224"
+msgid "...Neither should you."
+msgstr ""
+
+msgctxt "236"
+msgid "...What'd you say?"
+msgstr ""
+
+msgctxt "248"
+msgid ""
+"You son of a... Do you have any idea how much I love this\r\n"
+"kid's mom!?"
+msgstr ""
+
+msgctxt "2320"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "2324"
+msgid "Subaru"
+msgstr ""
+
+msgctxt "2328"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "2332"
+msgid "Suspicious Man"
+msgstr ""
+
+msgctxt "2336"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "2340"
+msgid "Talk_CryBig_st"
+msgstr ""
+
+msgctxt "2344"
+msgid "Talk_Info_F"
+msgstr ""

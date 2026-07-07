@@ -1,0 +1,370 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "152"
+msgid ""
+"Oh god, it hurts... The hell kind of demon are you?\r\n"
+"Do you even realize how many asses ya just kicked?"
+msgstr ""
+
+msgctxt "164"
+msgid "Will you leave us alone now?"
+msgstr ""
+
+msgctxt "176"
+msgid "Ugh... fine. We'll stay away."
+msgstr ""
+
+msgctxt "188"
+msgid ""
+"Trust me. We don't want jack shit to do with this.\r\n"
+"C'mon, guys. Let's get outta here."
+msgstr ""
+
+msgctxt "248"
+msgid "Wha⑬ Walkin' away, are ya? Fuckin' wusses!"
+msgstr ""
+
+msgctxt "260"
+msgid "Quiet, peanut gallery."
+msgstr ""
+
+msgctxt "272"
+msgid "Oh, uh... Okay."
+msgstr ""
+
+msgctxt "284"
+msgid ""
+"Whether you're in Okinawa or Tokyo, these half-assed\r\n"
+"schemes of yours just aren't gonna work."
+msgstr ""
+
+msgctxt "296"
+msgid "Yeah, okay... We're sorry..."
+msgstr ""
+
+msgctxt "308"
+msgid ""
+"If you really get it, then you'll change your ways and start living an "
+"honest life."
+msgstr ""
+
+msgctxt "320"
+msgid "We get it! We get it!"
+msgstr ""
+
+msgctxt "332"
+msgid "Um... here. This is for scarin' us straight..."
+msgstr ""
+
+msgctxt "344"
+msgid "You got <Color:8>150,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "368"
+msgid "Let's hightail it outta here, m'dudes!"
+msgstr ""
+
+msgctxt "428"
+msgid "(Hope they've learned their lesson.)"
+msgstr ""
+
+msgctxt "452"
+msgid "You got 8,000 EXP."
+msgstr ""
+
+msgctxt "476"
+msgid "Ow!"
+msgstr ""
+
+msgctxt "512"
+msgid "Ooowww! It huuurts!"
+msgstr ""
+
+msgctxt "524"
+msgid "Hey! Watch where you're goin', jackass!"
+msgstr ""
+
+msgctxt "536"
+msgid "Hm... Don't I know you from Downtown Ryukyu?"
+msgstr ""
+
+msgctxt "548"
+msgid "What? Oh shit, it's you...!"
+msgstr ""
+
+msgctxt "560"
+msgid ""
+"Yeah, you're the guys who kept bumping into me.\r\n"
+"What are you doing in Kamurocho?"
+msgstr ""
+
+msgctxt "584"
+msgid ""
+"We, uh... couldn't pull the bump scam in Ryukyu anymore, so we're seekin' "
+"greener pastures up here in Tokyo."
+msgstr ""
+
+msgctxt "596"
+msgid ""
+"We thought it would be easy pickings, on account of there being more people "
+"to bump into."
+msgstr ""
+
+msgctxt "608"
+msgid ""
+"Guys... Tokyo's no place for two-bit, get-rich-quick schemes. This city is "
+"tougher than you know."
+msgstr ""
+
+msgctxt "620"
+msgid "Hey, asswipes! You the guys that scammed my friend?"
+msgstr ""
+
+msgctxt "632"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "644"
+msgid ""
+"He told me you bumped into him and then took his money to pay for the "
+"\"medical bills\"!"
+msgstr ""
+
+msgctxt "656"
+msgid "Oh... uh... well..."
+msgstr ""
+
+msgctxt "668"
+msgid "Fuck you guys! We're gonna kill you!"
+msgstr ""
+
+msgctxt "692"
+msgid "Ack!"
+msgstr ""
+
+msgctxt "716"
+msgid "Augh! Please, let us go!"
+msgstr ""
+
+msgctxt "728"
+msgid ""
+"Like hell we will! How about we shake you down and show you what "
+"<Italic>real</Italic> medical bills look like!?"
+msgstr ""
+
+msgctxt "740"
+msgid "Augh! Please, let us go!"
+msgstr ""
+
+msgctxt "752"
+msgid "Aniki, help!"
+msgstr ""
+
+msgctxt "764"
+msgid "Who are you calling Aniki? You made your bed, now lie in it."
+msgstr ""
+
+msgctxt "776"
+msgid "Folks from Okinawa gotta look out for each other! Please, we'll do anything!"
+msgstr ""
+
+msgctxt "788"
+msgid ""
+"We never thought we'd be held accountable for our actions! Please, Aniki, "
+"save us!"
+msgstr ""
+
+msgctxt "800"
+msgid "I can't help you. You dug yourselves into this hole."
+msgstr ""
+
+msgctxt "812"
+msgid "Take responsibility or you'll never climb out of it."
+msgstr ""
+
+msgctxt "824"
+msgid "Don't be that way, bro! Pretty please?"
+msgstr ""
+
+msgctxt "836"
+msgid "All right, fine... but just this once."
+msgstr ""
+
+msgctxt "848"
+msgid "Sweet mercy, thank you!"
+msgstr ""
+
+msgctxt "860"
+msgid ""
+"Okay, gentlemen. How about settling this the easy way? I'll personally make "
+"sure these clowns pay back the money they stole."
+msgstr ""
+
+msgctxt "884"
+msgid "We'll give it all back! Every last yen!"
+msgstr ""
+
+msgctxt "896"
+msgid "No can do. This isn't about the money; this is about respect."
+msgstr ""
+
+msgctxt "908"
+msgid ""
+"We just won't be able to sleep until we've rearranged these shitheads' "
+"faces!"
+msgstr ""
+
+msgctxt "920"
+msgid "...The hard way it is, then."
+msgstr ""
+
+msgctxt "932"
+msgid "This is what you get for sticking your nose into other peoples' shit!"
+msgstr ""
+
+msgctxt "944"
+msgid "Hey guys, mess them up!"
+msgstr ""
+
+msgctxt "968"
+msgid "Save the Scammers"
+msgstr ""
+
+msgctxt "980"
+msgid "Leave Them to Their Fate"
+msgstr ""
+
+msgctxt "12692"
+msgid "Kamurocho Punks"
+msgstr ""
+
+msgctxt "12696"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "12700"
+msgid "Talk_Udekumi_st"
+msgstr ""
+
+msgctxt "12704"
+msgid "Talk_Udekumi_ed"
+msgstr ""
+
+msgctxt "12708"
+msgid "Con Man"
+msgstr ""
+
+msgctxt "12712"
+msgid "SetM_nml_cheer_stand_jump"
+msgstr ""
+
+msgctxt "12716"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "12720"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "12724"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "12728"
+msgid "Talk_SmileBig_st"
+msgstr ""
+
+msgctxt "12732"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "12736"
+msgid "0"
+msgstr ""
+
+msgctxt "12740"
+msgid "Talk_SmileBig_ed"
+msgstr ""
+
+msgctxt "12744"
+msgid "Talk_Request"
+msgstr ""
+
+msgctxt "12748"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "12752"
+msgid "Korobu_DownL_lp"
+msgstr ""
+
+msgctxt "12756"
+msgid "Con Man's Partner"
+msgstr ""
+
+msgctxt "12760"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "12764"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "12768"
+msgid "Korobu_DownL_StandupF"
+msgstr ""
+
+msgctxt "12772"
+msgid "Idle"
+msgstr ""
+
+msgctxt "12776"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "12780"
+msgid "???"
+msgstr ""
+
+msgctxt "12784"
+msgid "SetM_nml_sitground_obie"
+msgstr ""
+
+msgctxt "12788"
+msgid "Talk_NoBig"
+msgstr ""
+
+msgctxt "12792"
+msgid "SetM_nml_sitgrd_seiza_nml"
+msgstr ""
+
+msgctxt "12796"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "12800"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "12804"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "12808"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "12812"
+msgid "Talk_Chohatu"
+msgstr ""

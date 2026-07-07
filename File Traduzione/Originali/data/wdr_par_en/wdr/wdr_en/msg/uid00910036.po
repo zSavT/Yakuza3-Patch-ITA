@@ -1,0 +1,218 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "120"
+msgid "Aw, are you scared? If you don't wanna die, then pay up."
+msgstr ""
+
+msgctxt "132"
+msgid "Have mercy! I didn't do anything to you!"
+msgstr ""
+
+msgctxt "144"
+msgid ""
+"Sorry, but your luck ran out when you crossed my path.\r\n"
+"Pay up now if you want me to let you go."
+msgstr ""
+
+msgctxt "156"
+msgid ""
+"(That must be the hitman Kotaro. I better put a stop\r\n"
+"to this before it gets out of hand.)"
+msgstr ""
+
+msgctxt "168"
+msgid "What's going on here?"
+msgstr ""
+
+msgctxt "180"
+msgid "Huh? What do you want?"
+msgstr ""
+
+msgctxt "192"
+msgid "You lookin' for trouble, old man!? Haha!"
+msgstr ""
+
+msgctxt "204"
+msgid "Aaaaaaagh!"
+msgstr ""
+
+msgctxt "216"
+msgid "Hey! Come back here...!"
+msgstr ""
+
+msgctxt "228"
+msgid "Nrgh... Son of a bitch..."
+msgstr ""
+
+msgctxt "240"
+msgid ""
+"Anyway, whatever. Seein' as you crashed my party, I hope\r\n"
+"you're ready, dickhead."
+msgstr ""
+
+msgctxt "252"
+msgid "Ready for what?"
+msgstr ""
+
+msgctxt "264"
+msgid ""
+"I'm a professional killer. Ain't nobody in the underworld\r\n"
+"who hasn't heard about me."
+msgstr ""
+
+msgctxt "276"
+msgid "Uh, actually, I've never heard of you..."
+msgstr ""
+
+msgctxt "288"
+msgid "Haha! You must be a civilian, then."
+msgstr ""
+
+msgctxt "300"
+msgid "What are ya, a chef or something? Sure are dressed like one."
+msgstr ""
+
+msgctxt "312"
+msgid "Does this look like a chef's uniform to you?"
+msgstr ""
+
+msgctxt "324"
+msgid "Haha! Well, whatever."
+msgstr ""
+
+msgctxt "336"
+msgid ""
+"But you got the part about me being a professional\r\n"
+"killer, right? You freaked out yet?"
+msgstr ""
+
+msgctxt "348"
+msgid "Sorry. I don't follow."
+msgstr ""
+
+msgctxt "360"
+msgid ""
+"Just gimme your money if you're that scared. That way, you\r\n"
+"at least make it out with your life intact."
+msgstr ""
+
+msgctxt "372"
+msgid "Are you listening to a word I'm saying?"
+msgstr ""
+
+msgctxt "384"
+msgid ""
+"You're the Reaper Kotaro, right? What are you\r\n"
+"trying to accomplish here?"
+msgstr ""
+
+msgctxt "396"
+msgid "What!? How come ya know my name!?"
+msgstr ""
+
+msgctxt "408"
+msgid "Did I even tell ya my name!?"
+msgstr ""
+
+msgctxt "420"
+msgid "No, you didn't..."
+msgstr ""
+
+msgctxt "432"
+msgid "Then how'd ya know 'bout me!?"
+msgstr ""
+
+msgctxt "444"
+msgid "Why're you talking like that now? You all right?"
+msgstr ""
+
+msgctxt "456"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "468"
+msgid "......"
+msgstr ""
+
+msgctxt "480"
+msgid "......"
+msgstr ""
+
+msgctxt "492"
+msgid "I'm a killer. So cough up some money."
+msgstr ""
+
+msgctxt "504"
+msgid "Give it up. You're coming with me."
+msgstr ""
+
+msgctxt "516"
+msgid "Aaaaaaagh!"
+msgstr ""
+
+msgctxt "528"
+msgid "Hold it!"
+msgstr ""
+
+msgctxt "5448"
+msgid "Kotaro"
+msgstr ""
+
+msgctxt "5452"
+msgid "Businessman"
+msgstr ""
+
+msgctxt "5456"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "5460"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "5464"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "5468"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "5472"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "5476"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "5480"
+msgid "Talk_Kosite_st"
+msgstr ""
+
+msgctxt "5484"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "5488"
+msgid "Talk_Kosite_No"
+msgstr ""
+
+msgctxt "5492"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "5496"
+msgid "Talk_Kosite_ed"
+msgstr ""

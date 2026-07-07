@@ -1,0 +1,80 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "168"
+msgid "Don't Order Anything"
+msgstr ""
+
+msgctxt "189"
+msgid "Check Out"
+msgstr ""
+
+msgctxt "199"
+msgid "Order"
+msgstr ""
+
+msgctxt "205"
+msgid "(I'm short on cash.)"
+msgstr ""
+
+msgctxt "226"
+msgid "(I can't carry any more stuff.)"
+msgstr ""
+
+msgctxt "258"
+msgid "(I can't handle any more turtles.)"
+msgstr ""
+
+msgctxt "293"
+msgid "(I didn't choose anything.)"
+msgstr ""
+
+msgctxt "321"
+msgid "(They're sold out.)"
+msgstr ""
+
+msgctxt "341"
+msgid "Will that be all for you?"
+msgstr ""
+
+msgctxt "367"
+msgid "This gorgeous platter is overflowing with fresh fruits."
+msgstr ""
+
+msgctxt "423"
+msgid "A basket of deep-fried chicken thigh meat."
+msgstr ""
+
+msgctxt "466"
+msgid ""
+"These vegetable sticks are made only from the \n"
+"freshest organic vegetables."
+msgstr ""
+
+msgctxt "542"
+msgid ""
+"We lightly grill this fresh ray fin over coals to give it \n"
+"that sweet, roasted flavor."
+msgstr ""
+
+msgctxt "629"
+msgid ""
+"This high-grade chocolate was made by a renowned\n"
+"European patissier."
+msgstr ""
+
+msgctxt "698"
+msgid ""
+"These fresh vegetables have been marinated in salt \n"
+"and flavored with seaweed broth."
+msgstr ""

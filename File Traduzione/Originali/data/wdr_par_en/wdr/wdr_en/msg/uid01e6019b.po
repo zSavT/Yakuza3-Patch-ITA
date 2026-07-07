@@ -1,0 +1,124 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "248"
+msgid "(The pay phone's ringing. Wonder who's on the other end?)"
+msgstr ""
+
+msgctxt "260"
+msgid "(There's no chance it's for me.)"
+msgstr ""
+
+msgctxt "272"
+msgid "(I'll leave it alone.)"
+msgstr ""
+
+msgctxt "284"
+msgid "(The pay phone's ringing. Wonder who's on the other end?)"
+msgstr ""
+
+msgctxt "296"
+msgid "(Picking up would be asking for trouble. Not my problem.)"
+msgstr ""
+
+msgctxt "308"
+msgid ""
+"(Nobody picked up this whole time. Whoever it was, he probably got the "
+"hint.)"
+msgstr ""
+
+msgctxt "320"
+msgid "(Might as well pick up.)"
+msgstr ""
+
+msgctxt "380"
+msgid "Hello?"
+msgstr ""
+
+msgctxt "392"
+msgid "We've taken something important to you."
+msgstr ""
+
+msgctxt "404"
+msgid "What?"
+msgstr ""
+
+msgctxt "416"
+msgid "If you want it back, buy an Italian necklace at Le Marche."
+msgstr ""
+
+msgctxt "428"
+msgid "Bring it to the phone booth in front of Poppo on Showa Street."
+msgstr ""
+
+msgctxt "440"
+msgid "What have you taken?"
+msgstr ""
+
+msgctxt "452"
+msgid "I suggest you move quickly."
+msgstr ""
+
+msgctxt "548"
+msgid "(He's got something important to me...?)"
+msgstr ""
+
+msgctxt "560"
+msgid "(He said to buy an Italian necklace at Le Marche.)"
+msgstr ""
+
+msgctxt "572"
+msgid ""
+"(Then, I have to bring it to the phone booth in front of Poppo on Showa "
+"Street.)"
+msgstr ""
+
+msgctxt "608"
+msgid "Pick Up the Phone"
+msgstr ""
+
+msgctxt "620"
+msgid "Leave It Be"
+msgstr ""
+
+msgctxt "632"
+msgid "(Guess I'll pick up the phone.)"
+msgstr ""
+
+msgctxt "644"
+msgid "(I shouldn't get involved.)"
+msgstr ""
+
+msgctxt "4004"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "4008"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "4012"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "4016"
+msgid "???"
+msgstr ""
+
+msgctxt "4020"
+msgid "P_stand_tlk_phone_ed"
+msgstr ""
+
+msgctxt "4024"
+msgid "dummy"
+msgstr ""

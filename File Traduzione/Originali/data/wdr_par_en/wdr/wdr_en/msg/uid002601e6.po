@@ -1,0 +1,309 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "268"
+msgid "Hey, what do you think you're doing?"
+msgstr ""
+
+msgctxt "280"
+msgid "Don't try to stop me! I've got no other choice..."
+msgstr ""
+
+msgctxt "292"
+msgid "...It's your life, your choice."
+msgstr ""
+
+msgctxt "304"
+msgid "Oh, uh... okay. I guess no one cares whether I live or die, after all..."
+msgstr ""
+
+msgctxt "316"
+msgid ""
+"You know, you're pretty high maintenance for a man on the edge... Fine. "
+"What's the matter?"
+msgstr ""
+
+msgctxt "340"
+msgid "Whatever your reason, it's not worth it. Now tell me, what's the matter?"
+msgstr ""
+
+msgctxt "352"
+msgid "Oh... Thank you for asking..."
+msgstr ""
+
+msgctxt "364"
+msgid ""
+"Truth be told, I'm drowning in debt. I borrowed cash from a loan shark to "
+"keep my head above water, but then it all just spiraled out of control."
+msgstr ""
+
+msgctxt "376"
+msgid ""
+"I've been paying off as much as I can, but it's not even enough to keep up "
+"with interest. The only way I can pay them back now is with my life..."
+msgstr ""
+
+msgctxt "388"
+msgid "...Literally. I just finished signing up for a life insurance plan."
+msgstr ""
+
+msgctxt "400"
+msgid "Now all that's left is to kill myself."
+msgstr ""
+
+msgctxt "412"
+msgid "You know that won't work, right?"
+msgstr ""
+
+msgctxt "424"
+msgid "Huh? What do you mean?"
+msgstr ""
+
+msgctxt "436"
+msgid ""
+"Life insurance companies don't usually pay out for suicides committed "
+"within a year of the policy's start date."
+msgstr ""
+
+msgctxt "448"
+msgid "Huh! So I'm as worthless dead as I am alive?"
+msgstr ""
+
+msgctxt "460"
+msgid "Pretty much."
+msgstr ""
+
+msgctxt "472"
+msgid ""
+"Well, now what? If I had any money, I wouldn't have taken out those loans "
+"in the first place. But if I don't pay them off, the loan sharks will kill "
+"me anyway!"
+msgstr ""
+
+msgctxt "484"
+msgid ""
+"If you can't pay your debt, it's time to quit. What about filing for "
+"bankruptcy?"
+msgstr ""
+
+msgctxt "496"
+msgid "Bankruptcy? I could try..."
+msgstr ""
+
+msgctxt "508"
+msgid ""
+"Of course, there's always a price to pay. Your credit score will be shot, "
+"for starters. But it's better than getting killed, right?"
+msgstr ""
+
+msgctxt "520"
+msgid "Hey, you're right! If I die⑬I'm dead."
+msgstr ""
+
+msgctxt "532"
+msgid "Okay, bankruptcy it is. Thanks for the tip!"
+msgstr ""
+
+msgctxt "544"
+msgid ""
+"You can find out more from a bankruptcy lawyer. I think they still do free "
+"consultations."
+msgstr ""
+
+msgctxt "556"
+msgid "Will do, thanks... By the way, how do you know so much about all this?"
+msgstr ""
+
+msgctxt "568"
+msgid "I used to work in a similar line of business."
+msgstr ""
+
+msgctxt "580"
+msgid ""
+"Lucky me. I'm Kishimoto, pleasure to meet you. Thank you for talking me "
+"down, mister...?"
+msgstr ""
+
+msgctxt "592"
+msgid "Kiryu."
+msgstr ""
+
+msgctxt "604"
+msgid "In that case, Kiryu-san... Here. I'd like you to have this."
+msgstr ""
+
+msgctxt "616"
+msgid "You got a <Color:8>Staminan Royale<Color:Default>."
+msgstr ""
+
+msgctxt "640"
+msgid ""
+"Well then, I'm going to go talk to a lawyer. Thanks again for giving me "
+"hope!"
+msgstr ""
+
+msgctxt "664"
+msgid ""
+"Just keep going and work harder. They won't kill you as long as you don't "
+"stop paying them."
+msgstr ""
+
+msgctxt "676"
+msgid ""
+"Besides, the police have been clamping down on loan sharks lately, so they "
+"can't actually follow through on their threats."
+msgstr ""
+
+msgctxt "688"
+msgid ""
+"In that case, I guess it couldn't hurt to try... but how do you know so "
+"much about all this?"
+msgstr ""
+
+msgctxt "700"
+msgid "I used to work in a similar line of business."
+msgstr ""
+
+msgctxt "712"
+msgid "Is that so? I'm Kishimoto, by the way. It's nice to meet you, mister..."
+msgstr ""
+
+msgctxt "724"
+msgid "Kiryu."
+msgstr ""
+
+msgctxt "736"
+msgid "In that case, Kiryu-san... Here. I'd like you to have this."
+msgstr ""
+
+msgctxt "748"
+msgid "You got a <Color:8>Staminan Royale<Color:Default>."
+msgstr ""
+
+msgctxt "772"
+msgid ""
+"Well then, I'd better keep my nose to the grindstone. Thanks again for the "
+"pep talk!"
+msgstr ""
+
+msgctxt "796"
+msgid "You got 2,000 EXP."
+msgstr ""
+
+msgctxt "844"
+msgid "Stop Him"
+msgstr ""
+
+msgctxt "856"
+msgid "Leave Him Be"
+msgstr ""
+
+msgctxt "868"
+msgid "What about filing for bankruptcy?"
+msgstr ""
+
+msgctxt "880"
+msgid "Just keep going and work harder."
+msgstr ""
+
+msgctxt "9724"
+msgid "M_big_stand_tlk_kamae"
+msgstr ""
+
+msgctxt "9728"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "9732"
+msgid "Friendly Debtor"
+msgstr ""
+
+msgctxt "9736"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "9740"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "9744"
+msgid "Talk_Udekumi_st"
+msgstr ""
+
+msgctxt "9748"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "9752"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "9756"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "9760"
+msgid "Talk_Info_R"
+msgstr ""
+
+msgctxt "9764"
+msgid "Talk_Udekumi_ed"
+msgstr ""
+
+msgctxt "9768"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "9772"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "9776"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "9780"
+msgid "Talk_Kosite_st"
+msgstr ""
+
+msgctxt "9784"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "9788"
+msgid "Talk_Kosite_ed"
+msgstr ""
+
+msgctxt "9792"
+msgid "Kishimoto"
+msgstr ""
+
+msgctxt "9796"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "9800"
+msgid "Sync_Send"
+msgstr ""
+
+msgctxt "9804"
+msgid "Talk_Kosite_No"
+msgstr ""
+
+msgctxt "9808"
+msgid "dummy"
+msgstr ""
+
+msgctxt "9812"
+msgid "0"
+msgstr ""

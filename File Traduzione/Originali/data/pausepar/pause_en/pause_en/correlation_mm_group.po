@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "722\tGROUP"
+msgid "Related to Case"
+msgstr ""
+
+msgctxt "740\tGROUP"
+msgid "Akechi's Sister"
+msgstr ""
+
+msgctxt "758\tGROUP"
+msgid "Kinoshita's Wife"
+msgstr ""
+
+msgctxt "777\tGROUP"
+msgid "Police Dept."
+msgstr ""
+
+msgctxt "792\tDIAGRAM_GROUP"
+msgid "Suspect"
+msgstr ""
+
+msgctxt "802\tDIAGRAM_GROUP"
+msgid "Victim"
+msgstr ""
+
+msgctxt "811\tDIAGRAM_GROUP"
+msgid "Alps Employees"
+msgstr ""
+
+msgctxt "828\tDIAGRAM_GROUP"
+msgid "Akechi's Sister"
+msgstr ""
+
+msgctxt "846\tDIAGRAM_GROUP"
+msgid "Kinoshita's Wife"
+msgstr ""
+
+msgctxt "865\tDIAGRAM_GROUP"
+msgid "Lead Detective"
+msgstr ""
+
+msgctxt "930\tEXPLANATION"
+msgid "The murder suspect."
+msgstr ""
+
+msgctxt "952\tEXPLANATION"
+msgid "The murder victim."
+msgstr ""
+
+msgctxt "973\tEXPLANATION"
+msgid "Employees of Café Alps at the time of the murder."
+msgstr ""
+
+msgctxt "1026\tEXPLANATION"
+msgid "[Individual]"
+msgstr ""
+
+msgctxt "1041\tEXPLANATION"
+msgid "[Individual]"
+msgstr ""
+
+msgctxt "1056\tEXPLANATION"
+msgid "Detective in charge of the investigation."
+msgstr ""

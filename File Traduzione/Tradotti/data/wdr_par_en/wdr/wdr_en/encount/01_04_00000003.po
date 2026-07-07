@@ -1,0 +1,56 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "124"
+msgid "You the guy fuckin' with my boys?"
+msgstr ""
+
+msgctxt "136"
+msgid "We're gonna show you what happens when you pick fights with yakuza!"
+msgstr ""
+
+msgctxt "160"
+msgid "Eek!"
+msgstr ""
+
+msgctxt "172"
+msgid "My mistake! I'm sorry! Please let me go!"
+msgstr ""
+
+msgctxt "184"
+msgid "You got a defiled %s."
+msgstr ""
+
+msgctxt "220"
+msgid "Please let me go!"
+msgstr ""
+
+msgctxt "1060"
+msgid "Disgruntled Yakuza"
+msgstr ""
+
+msgctxt "1064"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "1068"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "1072"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "1076"
+msgid "Sync_Send"
+msgstr ""

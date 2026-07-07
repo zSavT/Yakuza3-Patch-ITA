@@ -1,0 +1,126 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "272"
+msgid "Oh, Uncle Kiryu!"
+msgstr ""
+
+msgctxt "284"
+msgid "You look kinda tired. Maybe you should lie down until tomorrow morning?"
+msgstr ""
+
+msgctxt "308"
+msgid "(This is no time to relax. I need to get over to Serena, quick.)"
+msgstr ""
+
+msgctxt "320"
+msgid ""
+"(This is no time to relax. I need to get back to Kamurocho and check on "
+"Date, quick.)"
+msgstr ""
+
+msgctxt "332"
+msgid "Oh, Uncle Kiryu!"
+msgstr ""
+
+msgctxt "344"
+msgid "You look kinda tired. Maybe you should lie down until dusk?"
+msgstr ""
+
+msgctxt "356"
+msgid "(That does sound kinda nice...)"
+msgstr ""
+
+msgctxt "368"
+msgid "No, I think I'll be fine. Thanks for looking out for me, Saki."
+msgstr ""
+
+msgctxt "380"
+msgid "Okay, I think I will. Thanks for looking out for me, Saki."
+msgstr ""
+
+msgctxt "404"
+msgid "Oh, Uncle Kiryu!"
+msgstr ""
+
+msgctxt "416"
+msgid "You look kinda tired. Maybe you should lie down until evening?"
+msgstr ""
+
+msgctxt "428"
+msgid "(That does sound kinda nice...)"
+msgstr ""
+
+msgctxt "440"
+msgid "No, I think I'll be fine. Thanks for looking out for me, Saki."
+msgstr ""
+
+msgctxt "452"
+msgid "Okay, I think I will. Thanks for looking out for me, Saki."
+msgstr ""
+
+msgctxt "476"
+msgid "Oh, Uncle Kiryu!"
+msgstr ""
+
+msgctxt "488"
+msgid "You look kinda tired. Maybe you should lie down until tomorrow morning?"
+msgstr ""
+
+msgctxt "500"
+msgid "(That does sound kinda nice...)"
+msgstr ""
+
+msgctxt "512"
+msgid "No, I think I'll be fine. Thanks for looking out for me, Saki."
+msgstr ""
+
+msgctxt "524"
+msgid "Okay, I think I will. Thanks for looking out for me, Saki."
+msgstr ""
+
+msgctxt "548"
+msgid "Don't Rest"
+msgstr ""
+
+msgctxt "560"
+msgid "Rest Until Dusk"
+msgstr ""
+
+msgctxt "572"
+msgid "Don't Rest"
+msgstr ""
+
+msgctxt "584"
+msgid "Rest"
+msgstr ""
+
+msgctxt "596"
+msgid "Don't Rest"
+msgstr ""
+
+msgctxt "608"
+msgid "Rest Until Morning"
+msgstr ""
+
+msgctxt "3916"
+msgid "Saki"
+msgstr ""
+
+msgctxt "3920"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "3924"
+msgid "Talk_Yes"
+msgstr ""

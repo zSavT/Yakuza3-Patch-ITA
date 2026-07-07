@@ -1,0 +1,247 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "184"
+msgid "Get out there and find me a stand-in for Kuda-chan!"
+msgstr ""
+
+msgctxt "196"
+msgid "But even if I do find somebody, it's way too late!"
+msgstr ""
+
+msgctxt "208"
+msgid ""
+"Then how the hell are we supposed to film this thing!?\r\n"
+"Without our star, we're nothin'!"
+msgstr ""
+
+msgctxt "220"
+msgid "...And? What am I supposed to do about it?"
+msgstr ""
+
+msgctxt "232"
+msgid ""
+"I feel terrible about all this. You gave me the starring\r\n"
+"role, and then I had to go and break my arm in the\r\n"
+"men's room..."
+msgstr ""
+
+msgctxt "244"
+msgid "Hmm?"
+msgstr ""
+
+msgctxt "256"
+msgid "Hey..."
+msgstr ""
+
+msgctxt "268"
+msgid "What about him?"
+msgstr ""
+
+msgctxt "280"
+msgid "Oh... He's perfect!"
+msgstr ""
+
+msgctxt "292"
+msgid "Something wrong?"
+msgstr ""
+
+msgctxt "304"
+msgid "You wanna be in a movie, hotshot?"
+msgstr ""
+
+msgctxt "316"
+msgid "A movie? Why me?"
+msgstr ""
+
+msgctxt "328"
+msgid ""
+"Well, Kuda here was our lead, but he got injured during\r\n"
+"rehearsal... And without a lead, our hopes of completing\r\n"
+"this film are pretty much screwed."
+msgstr ""
+
+msgctxt "340"
+msgid "Hi, there. The name's Noboru Kudarizaka, or Kuda for short."
+msgstr ""
+
+msgctxt "352"
+msgid "Okay... I think I get the picture."
+msgstr ""
+
+msgctxt "364"
+msgid ""
+"Anyway, you've got just the face and build we're\r\n"
+"looking for... In fact, I think you fit this role like a glove! So how "
+"about it?"
+msgstr ""
+
+msgctxt "376"
+msgid "(Being in a movie might not be so bad...)"
+msgstr ""
+
+msgctxt "388"
+msgid "Sorry. Find somebody else."
+msgstr ""
+
+msgctxt "400"
+msgid "But there is nobody else! This role was practically created for you!"
+msgstr ""
+
+msgctxt "448"
+msgid "Okay, I'll do it."
+msgstr ""
+
+msgctxt "460"
+msgid "Hot damn! That just made my day!"
+msgstr ""
+
+msgctxt "472"
+msgid "What kind of role is it?"
+msgstr ""
+
+msgctxt "484"
+msgid ""
+"It's an over-the-top action scene. So basically, we need you\r\n"
+"to beat the crap out of some thugs, and make it look pretty!"
+msgstr ""
+
+msgctxt "496"
+msgid "I can do that."
+msgstr ""
+
+msgctxt "508"
+msgid "What's your name, anyway?"
+msgstr ""
+
+msgctxt "520"
+msgid "I'm Kiryu."
+msgstr ""
+
+msgctxt "532"
+msgid "All right then, Kiryu-chan. Let's get you right to the studio!"
+msgstr ""
+
+msgctxt "556"
+msgid "Did you change your mind!? We can't get rolling without you!"
+msgstr ""
+
+msgctxt "568"
+msgid "Sorry. Find somebody else."
+msgstr ""
+
+msgctxt "580"
+msgid "But there is nobody else! This role was practically created for you!"
+msgstr ""
+
+msgctxt "628"
+msgid "Okay, I'll do it."
+msgstr ""
+
+msgctxt "640"
+msgid "Hot damn! Glad to hear that!"
+msgstr ""
+
+msgctxt "652"
+msgid "What kind of role is it?"
+msgstr ""
+
+msgctxt "664"
+msgid ""
+"It's an over-the-top action part. So basically, we need you\r\n"
+"to beat the crap out of some thugs, and make it look pretty!"
+msgstr ""
+
+msgctxt "676"
+msgid "I can do that."
+msgstr ""
+
+msgctxt "688"
+msgid "What's your name, anyway?"
+msgstr ""
+
+msgctxt "700"
+msgid "I'm Kiryu."
+msgstr ""
+
+msgctxt "712"
+msgid "All right then, Kiryu-chan. Let's get you right to the studio!"
+msgstr ""
+
+msgctxt "748"
+msgid "Sorry. Find somebody else."
+msgstr ""
+
+msgctxt "760"
+msgid "Okay, I'll do it."
+msgstr ""
+
+msgctxt "772"
+msgid "Sorry. Find somebody else."
+msgstr ""
+
+msgctxt "784"
+msgid "Okay, I'll do it."
+msgstr ""
+
+msgctxt "7124"
+msgid "Domineering Director"
+msgstr ""
+
+msgctxt "7128"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "7132"
+msgid "Capitulating Assistant"
+msgstr ""
+
+msgctxt "7136"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "7140"
+msgid "Injured Celebrity"
+msgstr ""
+
+msgctxt "7144"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "7148"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "7152"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "7156"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "7160"
+msgid "Kuda"
+msgstr ""
+
+msgctxt "7164"
+msgid "Talk_Request"
+msgstr ""
+
+msgctxt "7168"
+msgid "dummy"
+msgstr ""
+
+msgctxt "7172"
+msgid "0"
+msgstr ""

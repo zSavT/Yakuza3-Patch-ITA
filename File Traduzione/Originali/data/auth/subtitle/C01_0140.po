@@ -1,0 +1,108 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "224\t343"
+msgid "Guess this is the end of the line."
+msgstr ""
+
+msgctxt "353\t413"
+msgid "Yeah."
+msgstr ""
+
+msgctxt "449\t567"
+msgid ""
+"Gonna be real lonesome\\n"
+"without ya, Kiryu-chan."
+msgstr ""
+
+msgctxt "604\t701"
+msgid "Take care of Daigo for me."
+msgstr ""
+
+msgctxt "706\t766"
+msgid "Ya got my word."
+msgstr ""
+
+msgctxt "771\t855"
+msgid "There's just one thing worryin' me."
+msgstr ""
+
+msgctxt "900\t960"
+msgid "What's that?"
+msgstr ""
+
+msgctxt "1024\t1198"
+msgid ""
+"If he starts goin' down a weird path,\\n"
+"don't think I'll be able to stop him."
+msgstr ""
+
+msgctxt "1200\t1259"
+msgid "What do you mean by that?"
+msgstr ""
+
+msgctxt "1278\t1332"
+msgid "Daigo..."
+msgstr ""
+
+msgctxt "1335\t1489"
+msgid ""
+"I mean the sixth chairman.\\n"
+"He's real trustin', just like you."
+msgstr ""
+
+msgctxt "1520\t1625"
+msgid ""
+"Hope he doesn't let anyone\\n"
+"pull the wool over his eyes."
+msgstr ""
+
+msgctxt "1636\t1760"
+msgid ""
+"Don't worry.\\n"
+"Daigo's young, but he's not a fool."
+msgstr ""
+
+msgctxt "1927\t1997"
+msgid "I should get going."
+msgstr ""
+
+msgctxt "2026\t2150"
+msgid "The Tojo Clan's in your hands now."
+msgstr ""
+
+msgctxt "2482\t2590"
+msgid "The hell'd I get myself into this time?"
+msgstr ""
+
+msgctxt "2654\t2712"
+msgid "Eh, whatever!"
+msgstr ""
+
+msgctxt "2714\t2778"
+msgid "Goro Majima's..."
+msgstr ""
+
+msgctxt "2794\t2872"
+msgid "Gonna rule the fuckin' world!"
+msgstr ""
+
+msgctxt "2902\t2997"
+msgid "Won't be a walk in the park..."
+msgstr ""
+
+msgctxt "2999\t3202"
+msgid ""
+"But hey, Kiryu-chan beat me fair n' square.\\n"
+"Guess I gotta go full throttle!"
+msgstr ""

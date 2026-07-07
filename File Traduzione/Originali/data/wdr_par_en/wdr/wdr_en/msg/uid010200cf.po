@@ -1,0 +1,191 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "80"
+msgid "Doc! How's the boss!?"
+msgstr ""
+
+msgctxt "92"
+msgid ""
+"We've done all we can to stabilize his condition. The next\r\n"
+"week or so will be critical."
+msgstr ""
+
+msgctxt "104"
+msgid "Is he gonna make it!?"
+msgstr ""
+
+msgctxt "116"
+msgid ""
+"It's hard to say with absolute certainty. He was shot three\r\n"
+"times at point-blank range, after all."
+msgstr ""
+
+msgctxt "128"
+msgid ""
+"Luckily, the bullets all appear to have narrowly missed his\r\n"
+"vital organs."
+msgstr ""
+
+msgctxt "140"
+msgid "That is certainly something to be thankful for."
+msgstr ""
+
+msgctxt "152"
+msgid "What're the odds he'll pull through, Doc? You gotta tell me."
+msgstr ""
+
+msgctxt "164"
+msgid "At the moment, I'd say around fifty-fifty."
+msgstr ""
+
+msgctxt "176"
+msgid "Oh..."
+msgstr ""
+
+msgctxt "188"
+msgid ""
+"But remember, he managed to call an ambulance entirely on\r\n"
+"his own despite having been shot multiple times. I don't\r\n"
+"think he's ready to leave you all just yet."
+msgstr ""
+
+msgctxt "200"
+msgid "And we'll do everything we can to make sure he doesn't."
+msgstr ""
+
+msgctxt "212"
+msgid "Thank you so much, Doc!"
+msgstr ""
+
+msgctxt "236"
+msgid ""
+"Sorry, Kashiwagi-san. I'm actually at a hospital right now.\r\n"
+"Mind if I call you back later?"
+msgstr ""
+
+msgctxt "248"
+msgid "Kiryu. The sixth chairman's been shot."
+msgstr ""
+
+msgctxt "260"
+msgid "What? Daigo!?"
+msgstr ""
+
+msgctxt "284"
+msgid "Tell me everything."
+msgstr ""
+
+msgctxt "296"
+msgid ""
+"It happened about an hour ago in his office. I'm not sure\r\n"
+"of the specifics."
+msgstr ""
+
+msgctxt "308"
+msgid ""
+"All we know for certain is that the man who shot him was\r\n"
+"the splitting image of Patriarch Kazama."
+msgstr ""
+
+msgctxt "320"
+msgid "Kazama-san!?"
+msgstr ""
+
+msgctxt "332"
+msgid "So I hear. I'll let you know if I learn anything more."
+msgstr ""
+
+msgctxt "344"
+msgid "Goodbye, Kiryu."
+msgstr ""
+
+msgctxt "4696"
+msgid "Rikiya"
+msgstr ""
+
+msgctxt "4700"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "4704"
+msgid "Doctor"
+msgstr ""
+
+msgctxt "4708"
+msgid "Mikio"
+msgstr ""
+
+msgctxt "4712"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "4716"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "4720"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "4724"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "4728"
+msgid "adv_scene_101/kiryu_193"
+msgstr ""
+
+msgctxt "4732"
+msgid "Kashiwagi"
+msgstr ""
+
+msgctxt "4736"
+msgid "adv_scene_101/kashiwagi_002"
+msgstr ""
+
+msgctxt "4740"
+msgid "P_stand_tlk_phoneR_surp"
+msgstr ""
+
+msgctxt "4744"
+msgid "adv_scene_101/kiryu_194"
+msgstr ""
+
+msgctxt "4748"
+msgid "P_stand_tlk_phoneR_yes"
+msgstr ""
+
+msgctxt "4752"
+msgid "adv_scene_101/kiryu_195"
+msgstr ""
+
+msgctxt "4756"
+msgid "adv_scene_101/kashiwagi_003"
+msgstr ""
+
+msgctxt "4760"
+msgid "adv_scene_101/kashiwagi_004"
+msgstr ""
+
+msgctxt "4764"
+msgid "adv_scene_101/kiryu_196"
+msgstr ""
+
+msgctxt "4768"
+msgid "adv_scene_101/kashiwagi_005"
+msgstr ""
+
+msgctxt "4772"
+msgid "adv_scene_101/kashiwagi_056"
+msgstr ""

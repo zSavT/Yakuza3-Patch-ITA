@@ -1,0 +1,71 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "92"
+msgid "I've been taking pole-dancing lessons recently."
+msgstr ""
+
+msgctxt "104"
+msgid ""
+"Pole dancing? Oh, yeah, I heard about how the hostesses pole dance at that "
+"club in Hatsumachi."
+msgstr ""
+
+msgctxt "116"
+msgid ""
+"Yeah. They say it's a pretty big hangout for a lot of politicians. I've "
+"heard even Minister Tamiya was seen there once!"
+msgstr ""
+
+msgctxt "128"
+msgid "You're kidding!"
+msgstr ""
+
+msgctxt "140"
+msgid ""
+"I figure if I get a job there and work my butt off, I might get noticed by "
+"a hot-shot politician! Then I can marry rich and never have to work another "
+"day for as long as I live!"
+msgstr ""
+
+msgctxt "152"
+msgid "Wow! Good luck!"
+msgstr ""
+
+msgctxt "1260"
+msgid "Dance Student"
+msgstr ""
+
+msgctxt "1264"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "1268"
+msgid "Encouraging Friend"
+msgstr ""
+
+msgctxt "1272"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "1276"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "1280"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "1284"
+msgid "Talk_Kansin"
+msgstr ""

@@ -1,0 +1,60 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "92"
+msgid ""
+"I haven't had yakiniku for ages! I'm gonna stuff myself silly! Where're we "
+"eating by the way?"
+msgstr ""
+
+msgctxt "104"
+msgid "A place called Kanrai on the east end of Shichifuku Street."
+msgstr ""
+
+msgctxt "116"
+msgid "Ooh, I've been there before! The bulgogi there is top-notch!"
+msgstr ""
+
+msgctxt "128"
+msgid ""
+"The trains are delayed so everyone's gonna be late. Let's go on ahead to "
+"the restaurant. They can meet us there."
+msgstr ""
+
+msgctxt "140"
+msgid "All right!"
+msgstr ""
+
+msgctxt "920"
+msgid "Hungry Rugby Player"
+msgstr ""
+
+msgctxt "924"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "928"
+msgid "Meddlesome Manager"
+msgstr ""
+
+msgctxt "932"
+msgid "Restless Captain"
+msgstr ""
+
+msgctxt "936"
+msgid "Talk_Info_R"
+msgstr ""
+
+msgctxt "940"
+msgid "Talk_Yes"
+msgstr ""

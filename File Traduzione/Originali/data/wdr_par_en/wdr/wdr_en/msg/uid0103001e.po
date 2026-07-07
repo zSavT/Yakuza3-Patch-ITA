@@ -1,0 +1,68 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "240"
+msgid "We're picking banker first, right?"
+msgstr ""
+
+msgctxt "252"
+msgid "Guess I'm the banker."
+msgstr ""
+
+msgctxt "264"
+msgid "How much do you wanna bet?"
+msgstr ""
+
+msgctxt "276"
+msgid "Let's start the match."
+msgstr ""
+
+msgctxt "288"
+msgid "My turn."
+msgstr ""
+
+msgctxt "300"
+msgid "(This line signifies failure.)"
+msgstr ""
+
+msgctxt "312"
+msgid "Shall we settle up?"
+msgstr ""
+
+msgctxt "324"
+msgid "You're banker."
+msgstr ""
+
+msgctxt "336"
+msgid "Let's change bankers, okay?"
+msgstr ""
+
+msgctxt "348"
+msgid "Wanna try again?"
+msgstr ""
+
+msgctxt "360"
+msgid ""
+"I'm cleaned out...\r\n"
+"I'd better call it quits."
+msgstr ""
+
+msgctxt "372"
+msgid ""
+"Well, that's it for you.\r\n"
+"Next time, huh?"
+msgstr ""
+
+msgctxt "1352"
+msgid "Satoru the Mouse"
+msgstr ""

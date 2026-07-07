@@ -1,0 +1,248 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "672\t839"
+msgid ""
+"Glad I'm not the only gassed one here.\\n"
+"Guess we're both over the hill."
+msgstr ""
+
+msgctxt "880\t947"
+msgid "Speak for yourself."
+msgstr ""
+
+msgctxt "1128\t1188"
+msgid "Saki."
+msgstr ""
+
+msgctxt "1418\t1517"
+msgid "I'm... so proud of you."
+msgstr ""
+
+msgctxt "1708\t1872"
+msgid ""
+"And I'm sorry.\\n"
+"For making you worry."
+msgstr ""
+
+msgctxt "2957\t3017"
+msgid "Rikiya!"
+msgstr ""
+
+msgctxt "3117\t3278"
+msgid ""
+"Turning your back on an enemy?\\n"
+"Amateur move."
+msgstr ""
+
+msgctxt "3321\t3396"
+msgid "And now..."
+msgstr ""
+
+msgctxt "3435\t3516"
+msgid "I'm finally gonna end you!"
+msgstr ""
+
+msgctxt "3763\t3849"
+msgid "Looks like I was too late."
+msgstr ""
+
+msgctxt "4014\t4074"
+msgid "Rikiya!"
+msgstr ""
+
+msgctxt "4102\t4225"
+msgid "I think... he got me."
+msgstr ""
+
+msgctxt "4333\t4393"
+msgid "Aniki."
+msgstr ""
+
+msgctxt "4446\t4618"
+msgid "How's it... look?"
+msgstr ""
+
+msgctxt "4619\t4706"
+msgid "You'll be fine! Just fine!"
+msgstr ""
+
+msgctxt "4707\t4775"
+msgid "It's just a scratch!"
+msgstr ""
+
+msgctxt "4776\t4893"
+msgid "Hey! Stay with me! Please!"
+msgstr ""
+
+msgctxt "5165\t5225"
+msgid "Aniki..."
+msgstr ""
+
+msgctxt "5285\t5409"
+msgid "Does this count... as..."
+msgstr ""
+
+msgctxt "5427\t5562"
+msgid "Throwing my life away... for no reason?"
+msgstr ""
+
+msgctxt "5669\t5808"
+msgid "I... saved you."
+msgstr ""
+
+msgctxt "5857\t5951"
+msgid "Didn't I?"
+msgstr ""
+
+msgctxt "5969\t6029"
+msgid "Then..."
+msgstr ""
+
+msgctxt "6049\t6109"
+msgid "Maybe..."
+msgstr ""
+
+msgctxt "6127\t6190"
+msgid "That's all I need."
+msgstr ""
+
+msgctxt "6199\t6299"
+msgid "Rikiya, please."
+msgstr ""
+
+msgctxt "6369\t6429"
+msgid "Aniki."
+msgstr ""
+
+msgctxt "6485\t6554"
+msgid "We had some good times."
+msgstr ""
+
+msgctxt "6569\t6691"
+msgid "But I guess this is it."
+msgstr ""
+
+msgctxt "6694\t6754"
+msgid "Hey, Rikiya."
+msgstr ""
+
+msgctxt "6764\t6819"
+msgid "Don't talk like that!"
+msgstr ""
+
+msgctxt "6886\t6998"
+msgid "Looks like... I'm..."
+msgstr ""
+
+msgctxt "7020\t7208"
+msgid "A real man... now, huh?"
+msgstr ""
+
+msgctxt "7273\t7333"
+msgid "Rikiya!"
+msgstr ""
+
+msgctxt "7592\t7705"
+msgid "Ani...ki..."
+msgstr ""
+
+msgctxt "7756\t7815"
+msgid "You're..."
+msgstr ""
+
+msgctxt "7856\t7915"
+msgid "A great man."
+msgstr ""
+
+msgctxt "8033\t8098"
+msgid "The best I've ever known."
+msgstr ""
+
+msgctxt "8126\t8186"
+msgid "Rikiya."
+msgstr ""
+
+msgctxt "8303\t8523"
+msgid "Just... promise me..."
+msgstr ""
+
+msgctxt "8556\t8709"
+msgid "Mine. You..."
+msgstr ""
+
+msgctxt "8758\t8818"
+msgid "Mine?"
+msgstr ""
+
+msgctxt "8823\t8884"
+msgid "What about him!?"
+msgstr ""
+
+msgctxt "9058\t9154"
+msgid "Don't let him win."
+msgstr ""
+
+msgctxt "9266\t9326"
+msgid "I won't!"
+msgstr ""
+
+msgctxt "9337\t9404"
+msgid "Just don't go!"
+msgstr ""
+
+msgctxt "9405\t9477"
+msgid "Please, Rikiya!"
+msgstr ""
+
+msgctxt "9613\t9694"
+msgid "I'm... sorry..."
+msgstr ""
+
+msgctxt "9817\t9960"
+msgid "Ani...ki..."
+msgstr ""
+
+msgctxt "10191\t10251"
+msgid "Rikiya!"
+msgstr ""
+
+msgctxt "10283\t10387"
+msgid "Please! Rikiya!"
+msgstr ""
+
+msgctxt "10395\t10442"
+msgid "Come on!"
+msgstr ""
+
+msgctxt "10443\t10535"
+msgid "You can't die on me, Rikiya!"
+msgstr ""
+
+msgctxt "10561\t10621"
+msgid "I..."
+msgstr ""
+
+msgctxt "10622\t10777"
+msgid ""
+"I won't let you!\\n"
+"You hear me, Rikiya!?"
+msgstr ""
+
+msgctxt "10798\t10893"
+msgid "Just get up, Rikiya!"
+msgstr ""
+
+msgctxt "11192\t11297"
+msgid "Rikiya!"
+msgstr ""

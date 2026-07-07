@@ -1,0 +1,172 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "152"
+msgid "Beginning"
+msgstr ""
+
+msgctxt "164"
+msgid "101"
+msgstr ""
+
+msgctxt "176"
+msgid "102"
+msgstr ""
+
+msgctxt "188"
+msgid "103"
+msgstr ""
+
+msgctxt "200"
+msgid "104"
+msgstr ""
+
+msgctxt "212"
+msgid "105"
+msgstr ""
+
+msgctxt "224"
+msgid "106"
+msgstr ""
+
+msgctxt "236"
+msgid "107"
+msgstr ""
+
+msgctxt "248"
+msgid "108"
+msgstr ""
+
+msgctxt "260"
+msgid "109"
+msgstr ""
+
+msgctxt "272"
+msgid "110"
+msgstr ""
+
+msgctxt "284"
+msgid "End"
+msgstr ""
+
+msgctxt "296"
+msgid "Beginning"
+msgstr ""
+
+msgctxt "308"
+msgid "201"
+msgstr ""
+
+msgctxt "320"
+msgid "202"
+msgstr ""
+
+msgctxt "332"
+msgid "203"
+msgstr ""
+
+msgctxt "344"
+msgid "204"
+msgstr ""
+
+msgctxt "356"
+msgid "205"
+msgstr ""
+
+msgctxt "368"
+msgid "206"
+msgstr ""
+
+msgctxt "380"
+msgid "207"
+msgstr ""
+
+msgctxt "392"
+msgid "208"
+msgstr ""
+
+msgctxt "404"
+msgid "209"
+msgstr ""
+
+msgctxt "416"
+msgid "210"
+msgstr ""
+
+msgctxt "428"
+msgid "211"
+msgstr ""
+
+msgctxt "440"
+msgid "212"
+msgstr ""
+
+msgctxt "452"
+msgid "213"
+msgstr ""
+
+msgctxt "464"
+msgid "End"
+msgstr ""
+
+msgctxt "476"
+msgid "Explanation 101"
+msgstr ""
+
+msgctxt "488"
+msgid "Explanation 102"
+msgstr ""
+
+msgctxt "500"
+msgid "End"
+msgstr ""
+
+msgctxt "512"
+msgid "Explanation 201"
+msgstr ""
+
+msgctxt "524"
+msgid "Explanation 202"
+msgstr ""
+
+msgctxt "536"
+msgid "Explanation 203"
+msgstr ""
+
+msgctxt "548"
+msgid "Explanation 204"
+msgstr ""
+
+msgctxt "560"
+msgid "End"
+msgstr ""
+
+msgctxt "572"
+msgid "Za Endo"
+msgstr ""
+
+msgctxt "584"
+msgid "Explanation"
+msgstr ""
+
+msgctxt "596"
+msgid "Confession"
+msgstr ""
+
+msgctxt "608"
+msgid "Fingerprint Explanation"
+msgstr ""
+
+msgctxt "620"
+msgid "Fingerprint Comparison"
+msgstr ""

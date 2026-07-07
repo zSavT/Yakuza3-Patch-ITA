@@ -1,0 +1,202 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "166\t217"
+msgid "Understood."
+msgstr ""
+
+msgctxt "218\t287"
+msgid "I assume you'll be going tonight, then."
+msgstr ""
+
+msgctxt "288\t330"
+msgid "Yeah."
+msgstr ""
+
+msgctxt "331\t408"
+msgid "City's gonna be lonely without you."
+msgstr ""
+
+msgctxt "409\t552"
+msgid ""
+"Don't worry, Yuya.\\n"
+"We'll come visit every now and then."
+msgstr ""
+
+msgctxt "553\t613"
+msgid "I look forward to it."
+msgstr ""
+
+msgctxt "673\t741"
+msgid "Haruka-chan's here for you."
+msgstr ""
+
+msgctxt "892\t952"
+msgid "Guess that's my cue."
+msgstr ""
+
+msgctxt "953\t1013"
+msgid "Farewell."
+msgstr ""
+
+msgctxt "1172\t1267"
+msgid "Hold up, Kiryu."
+msgstr ""
+
+msgctxt "1429\t1489"
+msgid "Wait..."
+msgstr ""
+
+msgctxt "1503\t1563"
+msgid "Hamazaki?"
+msgstr ""
+
+msgctxt "1587\t1680"
+msgid "I got nothing left."
+msgstr ""
+
+msgctxt "1744\t1818"
+msgid "And it's all 'cause of you."
+msgstr ""
+
+msgctxt "1884\t1956"
+msgid "My life's in tatters."
+msgstr ""
+
+msgctxt "1985\t2119"
+msgid ""
+"But I'd rather put a noose 'round my neck\\n"
+"than rot behind bars."
+msgstr ""
+
+msgctxt "2120\t2181"
+msgid "How can you say that?"
+msgstr ""
+
+msgctxt "2187\t2320"
+msgid "Why not try to redeem yourself instead?"
+msgstr ""
+
+msgctxt "2341\t2401"
+msgid "What?"
+msgstr ""
+
+msgctxt "2407\t2558"
+msgid ""
+"If you're really ready to die,\\n"
+"you have nothing to lose by living."
+msgstr ""
+
+msgctxt "2598\t2730"
+msgid ""
+"As long as you believe in something,\\n"
+"and have the will to start fresh..."
+msgstr ""
+
+msgctxt "2766\t2826"
+msgid "I'd gladly lend you a hand."
+msgstr ""
+
+msgctxt "2872\t2987"
+msgid "You expect me to believe that shit?"
+msgstr ""
+
+msgctxt "3090\t3150"
+msgid "I do."
+msgstr ""
+
+msgctxt "3250\t3310"
+msgid "Fair enough."
+msgstr ""
+
+msgctxt "3336\t3464"
+msgid "Maybe I could buy into it."
+msgstr ""
+
+msgctxt "4118\t4215"
+msgid "You really think I got nothing to lose, huh!?"
+msgstr ""
+
+msgctxt "4228\t4351"
+msgid ""
+"Believing in stuff!?\\n"
+"Starting fresh!?"
+msgstr ""
+
+msgctxt "4416\t4476"
+msgid "Don't patronize me with that shit!"
+msgstr ""
+
+msgctxt "4486\t4550"
+msgid "You're gonna see, asshole!"
+msgstr ""
+
+msgctxt "4551\t4671"
+msgid ""
+"Nothing matters anymore\\n"
+"when you're six fucking feet under!"
+msgstr ""
+
+msgctxt "4683\t4761"
+msgid "Don't you get it!?"
+msgstr ""
+
+msgctxt "4784\t4872"
+msgid "Answer me, dipshit!"
+msgstr ""
+
+msgctxt "4880\t5037"
+msgid ""
+"Once you're dead and gone, nobody's gonna\\n"
+"fucking care if you believed in them!"
+msgstr ""
+
+msgctxt "5132\t5242"
+msgid "No... You're wrong."
+msgstr ""
+
+msgctxt "5350\t5457"
+msgid "Hey! The hell're you doing!?"
+msgstr ""
+
+msgctxt "5808\t5839"
+msgid "Kiryu-san!"
+msgstr ""
+
+msgctxt "5840\t5900"
+msgid "Uncle Kaz!"
+msgstr ""
+
+msgctxt "5995\t6070"
+msgid "Uncle Kaz! Uncle Kaz!"
+msgstr ""
+
+msgctxt "6071\t6166"
+msgid "Hold on, Uncle Kaz!"
+msgstr ""
+
+msgctxt "6168\t6322"
+msgid "Please! Don't leave me, Uncle Kaz!"
+msgstr ""
+
+msgctxt "6367\t6520"
+msgid "You know... Mine taught me something."
+msgstr ""
+
+msgctxt "6562\t6654"
+msgid "Even in your final moments..."
+msgstr ""
+
+msgctxt "6676\t6876"
+msgid "You can still learn to believe in someone!"
+msgstr ""

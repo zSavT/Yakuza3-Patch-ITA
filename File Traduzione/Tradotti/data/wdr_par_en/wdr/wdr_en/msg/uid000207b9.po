@@ -1,0 +1,137 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "92"
+msgid "What's going on here?"
+msgstr ""
+
+msgctxt "104"
+msgid "Oh... Hey, Kiryu-san."
+msgstr ""
+
+msgctxt "116"
+msgid "Is there a problem?"
+msgstr ""
+
+msgctxt "128"
+msgid "No, no. We're just talking about the second club. But..."
+msgstr ""
+
+msgctxt "140"
+msgid "Kazuki-san won't listen to any of Yuya-san's ideas!"
+msgstr ""
+
+msgctxt "152"
+msgid "Is that true, Kazuki?"
+msgstr ""
+
+msgctxt "164"
+msgid "Well, I wouldn't exactly put it like that."
+msgstr ""
+
+msgctxt "176"
+msgid ""
+"What are you talking about!? It's obvious you don't want Yuya-san to branch "
+"out and do his own thing! Instead, all you're doing is keeping him on a "
+"leash."
+msgstr ""
+
+msgctxt "188"
+msgid ""
+"I never said anything like that! It's just that... opening a new place "
+"isn't as easy as you might think."
+msgstr ""
+
+msgctxt "200"
+msgid ""
+"And we don't know a thing about Yokohama. Opening a club there would be way "
+"too risky."
+msgstr ""
+
+msgctxt "212"
+msgid ""
+"But if you don't take your chances while they're there, you'll never get to "
+"the top! That's how business works!"
+msgstr ""
+
+msgctxt "224"
+msgid "With your way of thinking, even the club you have now's gonna go under!"
+msgstr ""
+
+msgctxt "236"
+msgid ""
+"That's enough of you running your mouth! What would either of you know "
+"about running a host club anyway?"
+msgstr ""
+
+msgctxt "248"
+msgid "If you don't like doing things my way, there's the door!"
+msgstr ""
+
+msgctxt "260"
+msgid ""
+"There he goes with that \"there's the door\" thing again! Let's get outta "
+"here, Yuya-san. He can't expect us to work like this."
+msgstr ""
+
+msgctxt "272"
+msgid "Yeah... I guess so..."
+msgstr ""
+
+msgctxt "3936"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "3940"
+msgid "Yuya"
+msgstr ""
+
+msgctxt "3944"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "3948"
+msgid "Eiji"
+msgstr ""
+
+msgctxt "3952"
+msgid "Talk_NoBig"
+msgstr ""
+
+msgctxt "3956"
+msgid "Kazuki"
+msgstr ""
+
+msgctxt "3960"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "3964"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "3968"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "3972"
+msgid "Talk_Away"
+msgstr ""
+
+msgctxt "3976"
+msgid "dummy"
+msgstr ""
+
+msgctxt "3980"
+msgid "0"
+msgstr ""

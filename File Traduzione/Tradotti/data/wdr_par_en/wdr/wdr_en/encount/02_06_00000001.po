@@ -1,0 +1,50 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "124"
+msgid "The hell you want, old man? You think I didn't see you starin'?"
+msgstr ""
+
+msgctxt "136"
+msgid ""
+"If you wanna fight, all you had to do was ask!\r\n"
+"Well!?"
+msgstr ""
+
+msgctxt "160"
+msgid "Oh, you didn't want anything from me? Guess I made a mistake!"
+msgstr ""
+
+msgctxt "172"
+msgid "...Yeah, I just wanted to fight. Sorry."
+msgstr ""
+
+msgctxt "184"
+msgid "You got an exciting %s."
+msgstr ""
+
+msgctxt "220"
+msgid "Don't stare so much... It's embarrassing..."
+msgstr ""
+
+msgctxt "1340"
+msgid "Irate Thug"
+msgstr ""
+
+msgctxt "1344"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "1348"
+msgid "Sync_Send"
+msgstr ""

@@ -1,0 +1,90 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid ""
+"Aaagh! What's yer deal, anyway...? Did ya come here to get Kishimoto outta "
+"his loan?"
+msgstr ""
+
+msgctxt "76"
+msgid "No, I'm not trying to get him off the hook."
+msgstr ""
+
+msgctxt "88"
+msgid "I just want you to give him an interest rate he can actually pay back."
+msgstr ""
+
+msgctxt "100"
+msgid "What...?"
+msgstr ""
+
+msgctxt "112"
+msgid "If you borrow money, you pay it back. That's how it works."
+msgstr ""
+
+msgctxt "124"
+msgid ""
+"So, wouldn't it be better for both of you if Kishimoto actually paid you "
+"back, instead of trying to commit suicide or file for bankruptcy?"
+msgstr ""
+
+msgctxt "136"
+msgid "Well, yeah. I guess you're right."
+msgstr ""
+
+msgctxt "148"
+msgid ""
+"Also, his friend's loan has nothing to do with him. Let him out of being "
+"the guarantor for that loan."
+msgstr ""
+
+msgctxt "160"
+msgid "After all, he didn't sign anything. It's not like he's legally bound."
+msgstr ""
+
+msgctxt "172"
+msgid ""
+"How do you know so much about these things? What are ya, some kind of "
+"hot-shot loan shark yerself?"
+msgstr ""
+
+msgctxt "184"
+msgid ""
+"I used to work in a similar line of business. Now then, I'll be keeping an "
+"eye on you."
+msgstr ""
+
+msgctxt "2380"
+msgid "Black Market Boss"
+msgstr ""
+
+msgctxt "2384"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "2388"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "2392"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "2396"
+msgid "Talk_Udekumi_st"
+msgstr ""
+
+msgctxt "2400"
+msgid "Talk_Udekumi_ed"
+msgstr ""

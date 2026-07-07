@@ -1,0 +1,130 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "312"
+msgid ""
+"You look a little tired, Kiryu-san. Do you want to rest in the back until "
+"dusk?"
+msgstr ""
+
+msgctxt "324"
+msgid "(That does sound kinda nice...)"
+msgstr ""
+
+msgctxt "336"
+msgid "No, I think I'll be fine."
+msgstr ""
+
+msgctxt "348"
+msgid "If you say so. Stick around for some drinks sometime, okay?"
+msgstr ""
+
+msgctxt "360"
+msgid "Yeah, I think I'll kick back for a while."
+msgstr ""
+
+msgctxt "372"
+msgid "Sure thing. Feel free to relax as long as you want."
+msgstr ""
+
+msgctxt "396"
+msgid ""
+"You look a little tired, Kiryu-san. Do you want to rest in the back until "
+"evening?"
+msgstr ""
+
+msgctxt "408"
+msgid "(That does sound kinda nice...)"
+msgstr ""
+
+msgctxt "420"
+msgid "No, I think I'll be fine."
+msgstr ""
+
+msgctxt "432"
+msgid "If you say so. Stick around for some drinks sometime, okay?"
+msgstr ""
+
+msgctxt "444"
+msgid "Yeah, I think I'll kick back for a while."
+msgstr ""
+
+msgctxt "456"
+msgid "Sure thing. Feel free to relax as long as you want."
+msgstr ""
+
+msgctxt "480"
+msgid ""
+"You look a little tired, Kiryu-san. Do you want to rest in the back until "
+"morning?"
+msgstr ""
+
+msgctxt "492"
+msgid "(That does sound kinda nice...)"
+msgstr ""
+
+msgctxt "504"
+msgid "No, I think I'll be fine."
+msgstr ""
+
+msgctxt "516"
+msgid "If you say so. Stick around for some drinks sometime, okay?"
+msgstr ""
+
+msgctxt "528"
+msgid "Yeah, I think I'll kick back for a while."
+msgstr ""
+
+msgctxt "540"
+msgid "Sure thing. Feel free to relax as long as you want."
+msgstr ""
+
+msgctxt "564"
+msgid "Don't Rest"
+msgstr ""
+
+msgctxt "576"
+msgid "Rest Until Dusk"
+msgstr ""
+
+msgctxt "588"
+msgid "Don't Rest"
+msgstr ""
+
+msgctxt "600"
+msgid "Rest Until Evening"
+msgstr ""
+
+msgctxt "612"
+msgid "Don't Rest"
+msgstr ""
+
+msgctxt "624"
+msgid "Rest Until Morning"
+msgstr ""
+
+msgctxt "3768"
+msgid "Mama"
+msgstr ""
+
+msgctxt "3772"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "3776"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "3780"
+msgid "Talk_No"
+msgstr ""

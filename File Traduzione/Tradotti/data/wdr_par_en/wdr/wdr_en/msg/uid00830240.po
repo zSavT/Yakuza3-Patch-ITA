@@ -1,0 +1,65 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "80"
+msgid "All right, Rikiya. It's time for you to go back."
+msgstr ""
+
+msgctxt "92"
+msgid "...Yeah."
+msgstr ""
+
+msgctxt "104"
+msgid ""
+"Come on, I'll take you over to a taxi. If we leave now, we\r\n"
+"should be able to get you on the next flight down."
+msgstr ""
+
+msgctxt "116"
+msgid "It's okay, Aniki. I can go on my own."
+msgstr ""
+
+msgctxt "128"
+msgid ""
+"Barely any time has passed since the Snake Flower Triad\r\n"
+"tried to murder you, Rikiya. You shouldn't be out by\r\n"
+"yourself. Not yet."
+msgstr ""
+
+msgctxt "140"
+msgid "...Yeah, I guess you're right. Let's go."
+msgstr ""
+
+msgctxt "1428"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1432"
+msgid "Rikiya"
+msgstr ""
+
+msgctxt "1436"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "1440"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "1444"
+msgid "dummy"
+msgstr ""
+
+msgctxt "1448"
+msgid "0"
+msgstr ""

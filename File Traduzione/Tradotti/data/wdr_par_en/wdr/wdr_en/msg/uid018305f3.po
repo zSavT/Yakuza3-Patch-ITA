@@ -1,0 +1,188 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "80"
+msgid "Nnngh... Who the hell is this guy...?"
+msgstr ""
+
+msgctxt "92"
+msgid "How can you tell someone to respect their elders when you won't do the same?"
+msgstr ""
+
+msgctxt "104"
+msgid "We, uh... We're sorry!"
+msgstr ""
+
+msgctxt "128"
+msgid "I'm sorry, Uncle Kaz. I shouldn't have said anything..."
+msgstr ""
+
+msgctxt "140"
+msgid "You didn't do anything wrong. Don't worry about it."
+msgstr ""
+
+msgctxt "152"
+msgid "Okay. Thanks, Uncle Kaz."
+msgstr ""
+
+msgctxt "164"
+msgid "(Haruka seems happy...)"
+msgstr ""
+
+msgctxt "212"
+msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
+msgstr ""
+
+msgctxt "224"
+msgid "You got <Color:8>Haruka's Necklace<Color:Default>."
+msgstr ""
+
+msgctxt "272"
+msgid ""
+"Thanks a ton, Uncle Kaz! I wanna come with you to play\r\n"
+"cho-han with you next time, okay?"
+msgstr ""
+
+msgctxt "284"
+msgid ""
+"Haruka will now occasionally predict the outcome of a round\r\n"
+"when you are playing cho-han."
+msgstr ""
+
+msgctxt "320"
+msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
+msgstr ""
+
+msgctxt "332"
+msgid "You got <Color:8>Haruka's Bento<Color:Default>."
+msgstr ""
+
+msgctxt "380"
+msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
+msgstr ""
+
+msgctxt "392"
+msgid "You got <Color:8>Haruka's First-Aid Kit<Color:Default>."
+msgstr ""
+
+msgctxt "440"
+msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
+msgstr ""
+
+msgctxt "452"
+msgid "You got a <Color:8>Red Jewel<Color:Default>."
+msgstr ""
+
+msgctxt "500"
+msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
+msgstr ""
+
+msgctxt "512"
+msgid "You got <Color:8>Haruka's Amulet<Color:Default>."
+msgstr ""
+
+msgctxt "560"
+msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
+msgstr ""
+
+msgctxt "572"
+msgid "You got <Color:8>Haruka's Chocolate<Color:Default>."
+msgstr ""
+
+msgctxt "620"
+msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
+msgstr ""
+
+msgctxt "632"
+msgid "You got <Color:8>Haruka's Candy<Color:Default>."
+msgstr ""
+
+msgctxt "692"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "704"
+msgid "Hold it right there."
+msgstr ""
+
+msgctxt "752"
+msgid "Perfect timing, old man. We just ran out of money. Give us some of yours."
+msgstr ""
+
+msgctxt "764"
+msgid "Leave us alone, you jerks!"
+msgstr ""
+
+msgctxt "776"
+msgid "Hey, you tryin' to talk back to us, kid?"
+msgstr ""
+
+msgctxt "788"
+msgid "You oughta have more respect for your elders."
+msgstr ""
+
+msgctxt "800"
+msgid "Don't come any closer if you value your life."
+msgstr ""
+
+msgctxt "812"
+msgid "What!? I'm gonna kick your ass!"
+msgstr ""
+
+msgctxt "7588"
+msgid "Hoodlum"
+msgstr ""
+
+msgctxt "7592"
+msgid "M_ykz_damage"
+msgstr ""
+
+msgctxt "7596"
+msgid "M_big_damage"
+msgstr ""
+
+msgctxt "7600"
+msgid "M_yng_damage"
+msgstr ""
+
+msgctxt "7604"
+msgid "Idle"
+msgstr ""
+
+msgctxt "7608"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "7612"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "7616"
+msgid "M_yng_sitgrd_nml_standup_st"
+msgstr ""
+
+msgctxt "7620"
+msgid "Talk_Kamae"
+msgstr ""
+
+msgctxt "7624"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "7628"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "7632"
+msgid "Talk_Odosu"
+msgstr ""

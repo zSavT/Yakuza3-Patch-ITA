@@ -1,0 +1,50 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "80"
+msgid "I'll look around in here."
+msgstr ""
+
+msgctxt "92"
+msgid "Thanks, Haruka. I'll head outside, check the neighborhood."
+msgstr ""
+
+msgctxt "104"
+msgid "Hm... Where do you think Izumi-chan went?"
+msgstr ""
+
+msgctxt "116"
+msgid ""
+"Hard to say for sure. I'll go take a look around outside.\r\n"
+"You check in the house, Haruka."
+msgstr ""
+
+msgctxt "128"
+msgid "All right."
+msgstr ""
+
+msgctxt "924"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "928"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "932"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "936"
+msgid "Talk_Quest"
+msgstr ""

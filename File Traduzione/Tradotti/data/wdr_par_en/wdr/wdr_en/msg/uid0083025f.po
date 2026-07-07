@@ -1,0 +1,72 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "124"
+msgid ""
+"Sir, I'm afraid you don't have enough wooden tags to play\r\n"
+"cee-lo."
+msgstr ""
+
+msgctxt "136"
+msgid ""
+"The minimum bet is 10 tags. You can play after you buy\r\n"
+"some more wooden tags."
+msgstr ""
+
+msgctxt "148"
+msgid "Excuse me, sir. Would you like to play cee-lo?"
+msgstr ""
+
+msgctxt "160"
+msgid "Okay, I'll play."
+msgstr ""
+
+msgctxt "172"
+msgid "All right. Right this way."
+msgstr ""
+
+msgctxt "196"
+msgid "Not right now."
+msgstr ""
+
+msgctxt "208"
+msgid "I gotcha. Please come again."
+msgstr ""
+
+msgctxt "220"
+msgid "Yes"
+msgstr ""
+
+msgctxt "232"
+msgid "No"
+msgstr ""
+
+msgctxt "1172"
+msgid "Guide"
+msgstr ""
+
+msgctxt "1176"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1180"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "1184"
+msgid "Talk_Info_L"
+msgstr ""
+
+msgctxt "1188"
+msgid "Talk_No"
+msgstr ""

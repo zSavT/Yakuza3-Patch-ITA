@@ -1,0 +1,64 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid "This place had been closed ever since the trouble with the Omi Alliance."
+msgstr ""
+
+msgctxt "76"
+msgid "I'm glad to see it up and running again."
+msgstr ""
+
+msgctxt "88"
+msgid "It's nice, isn't it?"
+msgstr ""
+
+msgctxt "100"
+msgid ""
+"I heard Patriarch Majima wanted to remodel the place so it'd look like "
+"Osaka..."
+msgstr ""
+
+msgctxt "112"
+msgid ""
+"It ended up costing too much in the end, though, so the plan fell through. "
+"That said, I don't think the boss has totally given up on the idea."
+msgstr ""
+
+msgctxt "124"
+msgid "Heh. Can't say I'm surprised..."
+msgstr ""
+
+msgctxt "972"
+msgid "Employee"
+msgstr ""
+
+msgctxt "976"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "980"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "984"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "988"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "992"
+msgid "Talk_No"
+msgstr ""

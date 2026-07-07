@@ -1,0 +1,134 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "192"
+msgid ""
+"What should I do? What should I say? I've gotta\r\n"
+"talk to her somehow..."
+msgstr ""
+
+msgctxt "204"
+msgid "Hey, could you move? You're kind of blocking the restaurant."
+msgstr ""
+
+msgctxt "216"
+msgid "I'm sorry! I, um..."
+msgstr ""
+
+msgctxt "228"
+msgid "Huh? You okay?"
+msgstr ""
+
+msgctxt "240"
+msgid "Please, I need your help! Tell me how to be a man!"
+msgstr ""
+
+msgctxt "252"
+msgid "What are you talking about?"
+msgstr ""
+
+msgctxt "264"
+msgid ""
+"I know it's a weird thing to ask a stranger, but I don't\r\n"
+"know what else to do!"
+msgstr ""
+
+msgctxt "276"
+msgid "Look, calm down. What's got you this freaked out?"
+msgstr ""
+
+msgctxt "288"
+msgid ""
+"I'm really, really sorry to spring this on you! I just\r\n"
+"need to talk to someone about this."
+msgstr ""
+
+msgctxt "300"
+msgid "Sorry, maybe some other time."
+msgstr ""
+
+msgctxt "312"
+msgid "Oh, geez! Nobody's ever gonna help me, are they?"
+msgstr ""
+
+msgctxt "324"
+msgid "How am I supposed to do this!?"
+msgstr ""
+
+msgctxt "384"
+msgid "You're still here."
+msgstr ""
+
+msgctxt "396"
+msgid ""
+"Oh! You're back! Please, will you hear me out? It won't\r\n"
+"take long, I swear!"
+msgstr ""
+
+msgctxt "408"
+msgid ""
+"Please, just a few minutes! I need you to tell me how to\r\n"
+"be a man!"
+msgstr ""
+
+msgctxt "420"
+msgid "I'll hear you out."
+msgstr ""
+
+msgctxt "432"
+msgid "Maybe some other time."
+msgstr ""
+
+msgctxt "444"
+msgid "I'll hear you out."
+msgstr ""
+
+msgctxt "456"
+msgid "Maybe some other time."
+msgstr ""
+
+msgctxt "3268"
+msgid "Lovelorn Teenager"
+msgstr ""
+
+msgctxt "3272"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "3276"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "3280"
+msgid "Talk_Request"
+msgstr ""
+
+msgctxt "3284"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "3288"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "3292"
+msgid "Talk_Kosite_st"
+msgstr ""
+
+msgctxt "3296"
+msgid "Talk_Cry"
+msgstr ""
+
+msgctxt "3300"
+msgid "Talk_Kosite_ed"
+msgstr ""

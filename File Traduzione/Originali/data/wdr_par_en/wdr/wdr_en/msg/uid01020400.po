@@ -1,0 +1,155 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "116"
+msgid "What were you doing in here, Eri?"
+msgstr ""
+
+msgctxt "128"
+msgid "Um, nothing..."
+msgstr ""
+
+msgctxt "140"
+msgid ""
+"That's Ayako's bag, right? You know you can't dig around in\r\n"
+"there without her permission."
+msgstr ""
+
+msgctxt "152"
+msgid "......"
+msgstr ""
+
+msgctxt "164"
+msgid "Come on, just tell me what you were doing."
+msgstr ""
+
+msgctxt "176"
+msgid "......"
+msgstr ""
+
+msgctxt "188"
+msgid "Or is there a reason you don't want to say?"
+msgstr ""
+
+msgctxt "200"
+msgid "You're wrong!"
+msgstr ""
+
+msgctxt "272"
+msgid "Uncle Kaz... What's wrong with Eri?"
+msgstr ""
+
+msgctxt "284"
+msgid "I found her looking through your bag."
+msgstr ""
+
+msgctxt "296"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "344"
+msgid "Oh!"
+msgstr ""
+
+msgctxt "356"
+msgid "Is something else missing?"
+msgstr ""
+
+msgctxt "368"
+msgid "Nuh-uh. Actually... the money's back in my wallet."
+msgstr ""
+
+msgctxt "380"
+msgid "What?"
+msgstr ""
+
+msgctxt "392"
+msgid "Eri..."
+msgstr ""
+
+msgctxt "416"
+msgid "Just gimme my money back!"
+msgstr ""
+
+msgctxt "428"
+msgid ""
+"I... don't have it right now. Can you wait until I get my\r\n"
+"allowance?"
+msgstr ""
+
+msgctxt "440"
+msgid ""
+"But that's not 'til next week, and the new Ninja Rangers\r\n"
+"manga comes out today! All the kids at school are gonna\r\n"
+"read it before me!"
+msgstr ""
+
+msgctxt "452"
+msgid "I'm sorry, Taichi..."
+msgstr ""
+
+msgctxt "464"
+msgid "Ugh, whatever!"
+msgstr ""
+
+msgctxt "476"
+msgid "You better pay me back soon, liarface!"
+msgstr ""
+
+msgctxt "4808"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "4812"
+msgid "Eri"
+msgstr ""
+
+msgctxt "4816"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "4820"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "4824"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "4828"
+msgid "Talk_NoBig"
+msgstr ""
+
+msgctxt "4832"
+msgid "0"
+msgstr ""
+
+msgctxt "4836"
+msgid "Ayako"
+msgstr ""
+
+msgctxt "4840"
+msgid "C36_SetF_cld_stand_kamae_bag"
+msgstr ""
+
+msgctxt "4844"
+msgid "Idle"
+msgstr ""
+
+msgctxt "4848"
+msgid "Taichi"
+msgstr ""
+
+msgctxt "4852"
+msgid "HAL_stand_tlk_kamae"
+msgstr ""

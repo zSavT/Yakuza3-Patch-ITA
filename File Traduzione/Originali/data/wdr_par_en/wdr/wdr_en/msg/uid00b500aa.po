@@ -1,0 +1,62 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "116"
+msgid "You're the guy who prevented a robbery from happening here, right?"
+msgstr ""
+
+msgctxt "128"
+msgid "Oh, yeah..."
+msgstr ""
+
+msgctxt "140"
+msgid ""
+"We caught the suspect without any trouble! Thanks to you, we wrapped it up "
+"quick, and no money was stolen."
+msgstr ""
+
+msgctxt "152"
+msgid "We're grateful for your efforts!"
+msgstr ""
+
+msgctxt "176"
+msgid "You got 3,000 EXP."
+msgstr ""
+
+msgctxt "1280"
+msgid "Police Officer"
+msgstr ""
+
+msgctxt "1284"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "1288"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1292"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "1296"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "1300"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "1304"
+msgid "dummy"
+msgstr ""

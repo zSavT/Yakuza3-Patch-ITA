@@ -1,0 +1,172 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "80"
+msgid "Ugh... I thought you were fresh outta prison..."
+msgstr ""
+
+msgctxt "92"
+msgid ""
+"I'm sorry I disgraced our boss, but I did my time. My duties as a yakuza "
+"are over, once and for all."
+msgstr ""
+
+msgctxt "104"
+msgid "It's just that easy, huh? Well, that's not enough for what you did."
+msgstr ""
+
+msgctxt "116"
+msgid ""
+"If you're not gonna leave this city alive, then we'll make sure you leave "
+"it dead!"
+msgstr ""
+
+msgctxt "164"
+msgid ""
+"When I was in the yakuza fifteen years ago, there was a big war goin' on "
+"just outside the city."
+msgstr ""
+
+msgctxt "176"
+msgid ""
+"I was a big name in the business back then. Had to lead a lot of boys into "
+"battle."
+msgstr ""
+
+msgctxt "188"
+msgid "And then one day, my son was abducted."
+msgstr ""
+
+msgctxt "200"
+msgid "That day, I abandoned my duty to save my son."
+msgstr ""
+
+msgctxt "212"
+msgid ""
+"Our family ultimately won the war, but we lost a lot of boys out there. All "
+"'cause I wasn't there to lead 'em."
+msgstr ""
+
+msgctxt "224"
+msgid ""
+"I took responsibility for the war and turned myself in, but the boss cut me "
+"off from the family while I was in prison."
+msgstr ""
+
+msgctxt "236"
+msgid "Only natural, I guess. I disgraced the boss and got my brothers killed."
+msgstr ""
+
+msgctxt "248"
+msgid "......"
+msgstr ""
+
+msgctxt "260"
+msgid "There's one more place I'd like to go."
+msgstr ""
+
+msgctxt "272"
+msgid ""
+"Could you take me to West Park? The homeless gather there. Pretty sure it's "
+"to the north."
+msgstr ""
+
+msgctxt "320"
+msgid "This is Shangri-La? Where's the brothel?"
+msgstr ""
+
+msgctxt "332"
+msgid "They shut down about four years ago. There was a lot going on here..."
+msgstr ""
+
+msgctxt "344"
+msgid ""
+"I heard in the joint that some asshole crashed a dump truck into the "
+"place... Looks like it's true."
+msgstr ""
+
+msgctxt "356"
+msgid "What's the point of havin' a nice building if you can't have any fun in it?"
+msgstr ""
+
+msgctxt "368"
+msgid ""
+"I heard Shangri-La had the best brothel in Kamurocho, too. What a "
+"disappointment..."
+msgstr ""
+
+msgctxt "380"
+msgid "Hm. Well... sorry."
+msgstr ""
+
+msgctxt "392"
+msgid "I thought you might show up here, you horny son of a bitch."
+msgstr ""
+
+msgctxt "404"
+msgid "Too bad Shangri-La's moved on without you, old man!"
+msgstr ""
+
+msgctxt "416"
+msgid ""
+"I'm outta the business now. I went to the joint and washed my hands of "
+"everything."
+msgstr ""
+
+msgctxt "428"
+msgid "These guys have been after you?"
+msgstr ""
+
+msgctxt "440"
+msgid "Yeah... Some stuff happened before I went to prison..."
+msgstr ""
+
+msgctxt "452"
+msgid "Tell me about it afterwards."
+msgstr ""
+
+msgctxt "464"
+msgid "Snuff out both of these bastards!"
+msgstr ""
+
+msgctxt "4788"
+msgid "Punk"
+msgstr ""
+
+msgctxt "4792"
+msgid "Tatsumi"
+msgstr ""
+
+msgctxt "4796"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "4800"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "4804"
+msgid "dummy"
+msgstr ""
+
+msgctxt "4808"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "4812"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "4816"
+msgid "Talk_Odosu"
+msgstr ""

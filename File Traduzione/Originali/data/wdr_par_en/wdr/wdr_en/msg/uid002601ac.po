@@ -1,0 +1,46 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "108"
+msgid "Do you have a minute?"
+msgstr ""
+
+msgctxt "120"
+msgid ""
+"Oh, it's you again. Please come in and make yourself\r\n"
+"comfortable."
+msgstr ""
+
+msgctxt "144"
+msgid "Do you have a minute?"
+msgstr ""
+
+msgctxt "156"
+msgid "Yes? How may I help you?"
+msgstr ""
+
+msgctxt "168"
+msgid "I want to talk to you about this coral necklace."
+msgstr ""
+
+msgctxt "180"
+msgid "Oh, of course, sir. Please step right into our office."
+msgstr ""
+
+msgctxt "1068"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1072"
+msgid "Coral Co. Exorcist"
+msgstr ""

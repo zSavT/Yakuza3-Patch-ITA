@@ -1,0 +1,52 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "124"
+msgid "Hey! You just stepped on my wallet!"
+msgstr ""
+
+msgctxt "136"
+msgid "Don't try to tell me you didn't! You better pay for a new one!"
+msgstr ""
+
+msgctxt "160"
+msgid "I lied about the wallet... I just wanted some money..."
+msgstr ""
+
+msgctxt "172"
+msgid "I'm real sorry about that..."
+msgstr ""
+
+msgctxt "184"
+msgid "You got a weighty %s."
+msgstr ""
+
+msgctxt "220"
+msgid "I'm real sorry..."
+msgstr ""
+
+msgctxt "1224"
+msgid "Disgruntled Yakuza"
+msgstr ""
+
+msgctxt "1228"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "1232"
+msgid "Talk_Sorry"
+msgstr ""
+
+msgctxt "1236"
+msgid "Sync_Send"
+msgstr ""

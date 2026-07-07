@@ -1,0 +1,77 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "100"
+msgid "(Looks like I shook them off.)"
+msgstr ""
+
+msgctxt "124"
+msgid "(Can't go back that way, though...)"
+msgstr ""
+
+msgctxt "136"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "172"
+msgid "Hey, you there!"
+msgstr ""
+
+msgctxt "184"
+msgid ""
+"(This is no time to get hauled in by the cops. I have to get\r\n"
+"away somehow.)"
+msgstr ""
+
+msgctxt "232"
+msgid ""
+"Get to the <Color:7>pink destination<Color:Default> on the minimap\r\n"
+"<Color:7>before the police can catch you<Color:Default>!"
+msgstr ""
+
+msgctxt "244"
+msgid "Here is the full route."
+msgstr ""
+
+msgctxt "256"
+msgid ""
+"But be careful. The streets are riddled with <Color:7>police "
+"officers<Color:Default>\r\n"
+"displayed as <Color:7>pink icons<Color:Default> on your minimap. These "
+"officers will\r\n"
+"join the chase as you run by them, so keep on your guard."
+msgstr ""
+
+msgctxt "2704"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "2708"
+msgid "P_stand_tlk_kosite_st"
+msgstr ""
+
+msgctxt "2712"
+msgid "Police Officer"
+msgstr ""
+
+msgctxt "2716"
+msgid "Officer"
+msgstr ""
+
+msgctxt "2720"
+msgid "Escaping"
+msgstr ""
+
+msgctxt "2724"
+msgid "2d_cf_map_police"
+msgstr ""

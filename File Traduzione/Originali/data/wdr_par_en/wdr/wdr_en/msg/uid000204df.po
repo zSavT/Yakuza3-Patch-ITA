@@ -1,0 +1,651 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "232"
+msgid "Oh, Uncle Kaz!"
+msgstr ""
+
+msgctxt "256"
+msgid ""
+"I'm gonna stay here and try to make the puppy like me.\r\n"
+"Can you go get that ball?"
+msgstr ""
+
+msgctxt "268"
+msgid ""
+"I'm gonna stay here and try to make the puppy like me.\r\n"
+"Can you go get that cat toy?"
+msgstr ""
+
+msgctxt "280"
+msgid ""
+"I'm gonna stay here and try to make the puppy like me.\r\n"
+"Can you go get that stuffed animal?"
+msgstr ""
+
+msgctxt "292"
+msgid ""
+"I'm gonna stay here and try to make the puppy like me.\r\n"
+"Can you go get that bone?"
+msgstr ""
+
+msgctxt "304"
+msgid "Got it, Izumi."
+msgstr ""
+
+msgctxt "316"
+msgid "Yay! Thanks, Uncle Kaz!"
+msgstr ""
+
+msgctxt "328"
+msgid "You handed over the <Color:8>Rubber Ball<Color:Default>."
+msgstr ""
+
+msgctxt "352"
+msgid "Look, doggy! A nice ball!"
+msgstr ""
+
+msgctxt "364"
+msgid "Why doesn't he wanna play...?"
+msgstr ""
+
+msgctxt "376"
+msgid ""
+"Hm, I could've sworn that would work. Aren't dogs supposed\r\n"
+"to like fetching balls?"
+msgstr ""
+
+msgctxt "388"
+msgid "He's probably still spooked."
+msgstr ""
+
+msgctxt "400"
+msgid "Got it, Izumi."
+msgstr ""
+
+msgctxt "412"
+msgid "Yay! Thanks, Uncle Kaz!"
+msgstr ""
+
+msgctxt "424"
+msgid "You handed over the <Color:8>Green Cat Toy<Color:Default>."
+msgstr ""
+
+msgctxt "448"
+msgid "Look, doggy! A cat toy!"
+msgstr ""
+
+msgctxt "460"
+msgid "He's not doing anything..."
+msgstr ""
+
+msgctxt "472"
+msgid ""
+"Hm, I probably should've guessed that would happen. He's not\r\n"
+"a cat, after all."
+msgstr ""
+
+msgctxt "484"
+msgid "I dunno, I think he's still spooked."
+msgstr ""
+
+msgctxt "496"
+msgid "Got it, Izumi."
+msgstr ""
+
+msgctxt "508"
+msgid "Yay! Thanks, Uncle Kaz!"
+msgstr ""
+
+msgctxt "520"
+msgid "You handed over the <Color:8>Stuffed Animal<Color:Default>."
+msgstr ""
+
+msgctxt "544"
+msgid "Wait, not this one!"
+msgstr ""
+
+msgctxt "556"
+msgid "Huh? Why not?"
+msgstr ""
+
+msgctxt "568"
+msgid ""
+"It's my favorite! If you were gonna take one from home, you\r\n"
+"should've taken the one next to it!"
+msgstr ""
+
+msgctxt "580"
+msgid "...But they looked exactly the same."
+msgstr ""
+
+msgctxt "592"
+msgid "No! Look at the tail! It's special!"
+msgstr ""
+
+msgctxt "604"
+msgid "I'm not sure I understand."
+msgstr ""
+
+msgctxt "616"
+msgid "Just, not this one! Gosh, Uncle Kaz!"
+msgstr ""
+
+msgctxt "628"
+msgid "(...Guess I should've taken the cat. Or maybe the bird.)"
+msgstr ""
+
+msgctxt "640"
+msgid "Nice try there, sir."
+msgstr ""
+
+msgctxt "652"
+msgid "Izumi..."
+msgstr ""
+
+msgctxt "664"
+msgid "Oh, Uncle Kaz! Did you get that bone?"
+msgstr ""
+
+msgctxt "676"
+msgid ""
+"About that. I looked all over, but I couldn't actually get\r\n"
+"my hands on one. Sorry."
+msgstr ""
+
+msgctxt "688"
+msgid "Hmph."
+msgstr ""
+
+msgctxt "700"
+msgid "......"
+msgstr ""
+
+msgctxt "712"
+msgid "Should I, uh... go get something else?"
+msgstr ""
+
+msgctxt "724"
+msgid "I don't care!"
+msgstr ""
+
+msgctxt "736"
+msgid ""
+"(She doesn't seem very happy...)\r\n"
+"(...It seems I've upset her.)"
+msgstr ""
+
+msgctxt "808"
+msgid "Hmmm, what else would a dog want?"
+msgstr ""
+
+msgctxt "820"
+msgid "C'mon, Izumi-chan. Let's throw in the towel."
+msgstr ""
+
+msgctxt "832"
+msgid "How long are you gonna keep at this?"
+msgstr ""
+
+msgctxt "844"
+msgid "As long as it takes! I'm not leaving until he comes home!"
+msgstr ""
+
+msgctxt "856"
+msgid "...Guess we'll have to figure something out, then."
+msgstr ""
+
+msgctxt "868"
+msgid ""
+"Why don't you take a stroll, sir? Clear your head, y'know?\r\n"
+"I won't let Izumi-chan outta my sight while you're gone."
+msgstr ""
+
+msgctxt "880"
+msgid "Yeah, that's not a bad idea. I'll be back in a bit."
+msgstr ""
+
+msgctxt "952"
+msgid "Oh, Uncle Kaz!"
+msgstr ""
+
+msgctxt "976"
+msgid ""
+"I'm gonna stay here and try to make the puppy like me.\r\n"
+"Can you go get some dog food?"
+msgstr ""
+
+msgctxt "988"
+msgid ""
+"I'm gonna stay here and try to make the puppy like me.\r\n"
+"Can you go get a hamburger?"
+msgstr ""
+
+msgctxt "1000"
+msgid ""
+"I'm gonna stay here and try to make the puppy like me.\r\n"
+"Can you go get some milk?"
+msgstr ""
+
+msgctxt "1012"
+msgid ""
+"I'm gonna stay here and try to make the puppy like me.\r\n"
+"Can you go get that bone?"
+msgstr ""
+
+msgctxt "1024"
+msgid "Here you go, Izumi. Dog food."
+msgstr ""
+
+msgctxt "1036"
+msgid "Yay! Thanks, Uncle Kaz!"
+msgstr ""
+
+msgctxt "1048"
+msgid "You handed over the <Color:8>Dog Food<Color:Default>."
+msgstr ""
+
+msgctxt "1072"
+msgid "I hope he eats it!"
+msgstr ""
+
+msgctxt "1084"
+msgid "...He's not eating it."
+msgstr ""
+
+msgctxt "1096"
+msgid ""
+"Huh, I really thought he'd like that. Guess he's still\r\n"
+"afraid of us."
+msgstr ""
+
+msgctxt "1108"
+msgid "Or maybe he's just not hungry."
+msgstr ""
+
+msgctxt "1120"
+msgid "I'm back, Izumi. Me and this piping hot hamburger."
+msgstr ""
+
+msgctxt "1132"
+msgid "Yay! Thanks, Uncle Kaz!"
+msgstr ""
+
+msgctxt "1144"
+msgid "You handed over the <Color:8>Hamburger<Color:Default>."
+msgstr ""
+
+msgctxt "1156"
+msgid "I hope he eats it!"
+msgstr ""
+
+msgctxt "1168"
+msgid "...He's not eating it."
+msgstr ""
+
+msgctxt "1180"
+msgid ""
+"Shoot. I seriously thought that would work. Guess he's more\r\n"
+"afraid of us than I realized."
+msgstr ""
+
+msgctxt "1192"
+msgid "Yeah, or maybe he's just not hungry."
+msgstr ""
+
+msgctxt "1204"
+msgid "Here you go, Izumi. Fresh milk for a fresh dog."
+msgstr ""
+
+msgctxt "1216"
+msgid "I dunno what you're talking about, but thanks, Uncle Kaz!"
+msgstr ""
+
+msgctxt "1228"
+msgid "You handed over the <Color:8>Milk<Color:Default>."
+msgstr ""
+
+msgctxt "1252"
+msgid "I hope he drinks it!"
+msgstr ""
+
+msgctxt "1264"
+msgid "...He's not drinking it."
+msgstr ""
+
+msgctxt "1276"
+msgid ""
+"Hm, I thought dogs were supposed to like milk. Or is that\r\n"
+"cats? Anyway, I guess he's still afraid of us."
+msgstr ""
+
+msgctxt "1288"
+msgid "Or maybe he's just not thirsty."
+msgstr ""
+
+msgctxt "1300"
+msgid "Izumi..."
+msgstr ""
+
+msgctxt "1312"
+msgid "Oh, Uncle Kaz! Did you get that bone?"
+msgstr ""
+
+msgctxt "1324"
+msgid ""
+"About that. I looked all over, but I couldn't actually get\r\n"
+"my hands on one. Sorry."
+msgstr ""
+
+msgctxt "1336"
+msgid "Hmph."
+msgstr ""
+
+msgctxt "1348"
+msgid "......"
+msgstr ""
+
+msgctxt "1360"
+msgid "Should I, uh... go get something else?"
+msgstr ""
+
+msgctxt "1372"
+msgid "I don't care!"
+msgstr ""
+
+msgctxt "1384"
+msgid "(She doesn't seem very happy...)"
+msgstr ""
+
+msgctxt "1396"
+msgid "Uncle Kaz, do you know what kinda toys dogs like?"
+msgstr ""
+
+msgctxt "1408"
+msgid "Toys, huh? Hm..."
+msgstr ""
+
+msgctxt "1420"
+msgid "A ball would be good. Something to play fetch with, you know?"
+msgstr ""
+
+msgctxt "1432"
+msgid "That's kinda boring... but okay. Can you go get one?"
+msgstr ""
+
+msgctxt "1444"
+msgid "...Me again?"
+msgstr ""
+
+msgctxt "1456"
+msgid ""
+"I can't go now, I think he's starting to get used to me!\r\n"
+"Please, Uncle Kaz!"
+msgstr ""
+
+msgctxt "1480"
+msgid "You might not believe it, but they actually like cat toys."
+msgstr ""
+
+msgctxt "1492"
+msgid ""
+"That doesn't make sense! But I trust you, Uncle Kaz.\r\n"
+"Can you go get one?"
+msgstr ""
+
+msgctxt "1504"
+msgid "...Me again?"
+msgstr ""
+
+msgctxt "1516"
+msgid ""
+"I can't go now, I think he's starting to get used to me!\r\n"
+"Please!"
+msgstr ""
+
+msgctxt "1540"
+msgid "He's just a pup, so maybe he'd like a stuffed animal."
+msgstr ""
+
+msgctxt "1552"
+msgid "Oh yeah, that's a good idea! Can you go get one?"
+msgstr ""
+
+msgctxt "1564"
+msgid "...Me again?"
+msgstr ""
+
+msgctxt "1576"
+msgid ""
+"I can't go now, I think he's starting to get used to me!\r\n"
+"Please, Uncle Kaz!"
+msgstr ""
+
+msgctxt "1600"
+msgid "Definitely bones!"
+msgstr ""
+
+msgctxt "1612"
+msgid "Bones? Really, Uncle Kaz?"
+msgstr ""
+
+msgctxt "1624"
+msgid ""
+"Sure. You always see dogs in cartoons chewing on them, so\r\n"
+"a real dog would probably think the same way."
+msgstr ""
+
+msgctxt "1636"
+msgid "Okay! Can you go get one?"
+msgstr ""
+
+msgctxt "1648"
+msgid "...Me again?"
+msgstr ""
+
+msgctxt "1660"
+msgid "Please!"
+msgstr ""
+
+msgctxt "1672"
+msgid "I don't know where I'm gonna find a bone, though..."
+msgstr ""
+
+msgctxt "1684"
+msgid "But it was your idea! Come on, Uncle Kaz!"
+msgstr ""
+
+msgctxt "1720"
+msgid ""
+"...All right, I'll be back in a minute. Keep an eye on Izumi\r\n"
+"for me, Mikio."
+msgstr ""
+
+msgctxt "1732"
+msgid "Will do."
+msgstr ""
+
+msgctxt "1744"
+msgid ""
+"(...Wait, what did I say that for? I already know that's\r\n"
+"not happening.)"
+msgstr ""
+
+msgctxt "1756"
+msgid "Actually, Izumi..."
+msgstr ""
+
+msgctxt "1768"
+msgid "What?"
+msgstr ""
+
+msgctxt "1780"
+msgid "I already went out looking for a bone earlier, so..."
+msgstr ""
+
+msgctxt "1792"
+msgid "So?"
+msgstr ""
+
+msgctxt "1804"
+msgid "So there wouldn't be much point in going out again... right?"
+msgstr ""
+
+msgctxt "1816"
+msgid "Well duh!"
+msgstr ""
+
+msgctxt "1828"
+msgid "You're the worst, Uncle Kaz!"
+msgstr ""
+
+msgctxt "1840"
+msgid "Come on now, Izumi..."
+msgstr ""
+
+msgctxt "1852"
+msgid "Nice one, sir."
+msgstr ""
+
+msgctxt "1864"
+msgid ""
+"(I didn't think one dumb suggestion would upset her that\r\n"
+"much... Kids are really something else.)"
+msgstr ""
+
+msgctxt "1924"
+msgid "Hmmm, what else would a dog want?"
+msgstr ""
+
+msgctxt "1936"
+msgid "C'mon, Izumi-chan. Let's throw in the towel."
+msgstr ""
+
+msgctxt "1948"
+msgid "How long are you gonna keep at this?"
+msgstr ""
+
+msgctxt "1960"
+msgid "As long as it takes! I'm not leaving until he comes home!"
+msgstr ""
+
+msgctxt "1972"
+msgid "...Guess we'll have to figure something out, then."
+msgstr ""
+
+msgctxt "1984"
+msgid ""
+"Why don't you take a stroll, sir? Clear your head, y'know?\r\n"
+"I won't let Izumi-chan outta my sight while you're gone."
+msgstr ""
+
+msgctxt "1996"
+msgid "Yeah, that's not a bad idea. I'll be back in a bit."
+msgstr ""
+
+msgctxt "2020"
+msgid ""
+"...All right, I'll be back in a minute. Keep an eye on Izumi\r\n"
+"for me, Mikio."
+msgstr ""
+
+msgctxt "2032"
+msgid "Will do."
+msgstr ""
+
+msgctxt "2068"
+msgid ""
+"(Now to find a ball. I think I've seen Koji practicing\r\n"
+"baseball with one...)"
+msgstr ""
+
+msgctxt "2080"
+msgid ""
+"(Now to find a cat toy. But there aren't any pet shops\r\n"
+"around here...)"
+msgstr ""
+
+msgctxt "2092"
+msgid ""
+"(Wait, maybe I could use a foxtail instead! I'm pretty sure\r\n"
+"I've seen some down on the beach near Morning Glory...)"
+msgstr ""
+
+msgctxt "2104"
+msgid ""
+"(Now to find a stuffed animal. Pretty sure the kids' room\r\n"
+"back at the orphanage is full of them...)"
+msgstr ""
+
+msgctxt "2116"
+msgid ""
+"(I should've just kept my big mouth shut. Where am I\r\n"
+"supposed to find a bone around here anyway? Guess I\r\n"
+"could always check the stores...)"
+msgstr ""
+
+msgctxt "2128"
+msgid "A ball would be good."
+msgstr ""
+
+msgctxt "2140"
+msgid "Cat toys, believe it or not."
+msgstr ""
+
+msgctxt "2152"
+msgid "Maybe a stuffed animal?"
+msgstr ""
+
+msgctxt "2164"
+msgid "Definitely bones!"
+msgstr ""
+
+msgctxt "21952"
+msgid "P_stand_tlk_child_st"
+msgstr ""
+
+msgctxt "21956"
+msgid "Izumi"
+msgstr ""
+
+msgctxt "21960"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "21964"
+msgid "Mikio"
+msgstr ""
+
+msgctxt "21968"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "21972"
+msgid "P_stand_tlk_child_yes"
+msgstr ""
+
+msgctxt "21976"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "21980"
+msgid "P_stand_tlk_child_ed"
+msgstr ""
+
+msgctxt "21984"
+msgid "P_stand_tlk_child_no"
+msgstr ""
+
+msgctxt "21988"
+msgid "Talk_Ase"
+msgstr ""

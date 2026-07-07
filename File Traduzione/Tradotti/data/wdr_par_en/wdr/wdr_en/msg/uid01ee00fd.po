@@ -1,0 +1,1488 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "584"
+msgid "Welcome. Let me show you to your seats."
+msgstr ""
+
+msgctxt "596"
+msgid "Right this way."
+msgstr ""
+
+msgctxt "692"
+msgid "Welcome, welcome! Come on in! What can I make for you today?"
+msgstr ""
+
+msgctxt "704"
+msgid "(Maybe I should order for the both of us.)"
+msgstr ""
+
+msgctxt "764"
+msgid "What? You're gonna make me decide? You should choose, Kiryu-san!"
+msgstr ""
+
+msgctxt "776"
+msgid "All right..."
+msgstr ""
+
+msgctxt "800"
+msgid "(Oof. I'm full.)"
+msgstr ""
+
+msgctxt "812"
+msgid "Check, please."
+msgstr ""
+
+msgctxt "824"
+msgid "Yes, sir! Thank you!"
+msgstr ""
+
+msgctxt "884"
+msgid "Here is your bill, sir."
+msgstr ""
+
+msgctxt "908"
+msgid "Thank you, sir. Please come again soon."
+msgstr ""
+
+msgctxt "932"
+msgid "Welcome. Let me show you to your seats."
+msgstr ""
+
+msgctxt "944"
+msgid "Right this way."
+msgstr ""
+
+msgctxt "1040"
+msgid "Welcome, welcome! Come on in! What can I make for you today?"
+msgstr ""
+
+msgctxt "1052"
+msgid "(Maybe I should order for the both of us.)"
+msgstr ""
+
+msgctxt "1112"
+msgid "What? You want me to pick? No way, Kiryu-san! You choose!"
+msgstr ""
+
+msgctxt "1124"
+msgid "All right..."
+msgstr ""
+
+msgctxt "1148"
+msgid "(Oof. I'm full.)"
+msgstr ""
+
+msgctxt "1160"
+msgid "Check, please."
+msgstr ""
+
+msgctxt "1172"
+msgid "Yes, sir! Thank you!"
+msgstr ""
+
+msgctxt "1232"
+msgid "Here is your bill, sir."
+msgstr ""
+
+msgctxt "1256"
+msgid "Thank you, sir. Please come again soon."
+msgstr ""
+
+msgctxt "1280"
+msgid "Welcome. Let me show you to your seats."
+msgstr ""
+
+msgctxt "1292"
+msgid "Right this way."
+msgstr ""
+
+msgctxt "1388"
+msgid "Welcome, welcome! Come on in! What can I make for you today?"
+msgstr ""
+
+msgctxt "1400"
+msgid "(Maybe I should order for the both of us.)"
+msgstr ""
+
+msgctxt "1460"
+msgid ""
+"Oh... I don't really know what I want. Maybe you should order. Surprise me, "
+"Kiryu-san!"
+msgstr ""
+
+msgctxt "1472"
+msgid "All right..."
+msgstr ""
+
+msgctxt "1496"
+msgid "(Oof. I'm full.)"
+msgstr ""
+
+msgctxt "1508"
+msgid "Check, please."
+msgstr ""
+
+msgctxt "1520"
+msgid "Yes, sir! Thank you!"
+msgstr ""
+
+msgctxt "1580"
+msgid "Here is your bill, sir."
+msgstr ""
+
+msgctxt "1604"
+msgid "Thank you, sir. Please come again soon."
+msgstr ""
+
+msgctxt "1628"
+msgid "Welcome. Let me show you to your seats."
+msgstr ""
+
+msgctxt "1640"
+msgid "Right this way."
+msgstr ""
+
+msgctxt "1736"
+msgid "Welcome, welcome! Come on in! What can I make for you today?"
+msgstr ""
+
+msgctxt "1748"
+msgid "(Maybe I should order for the both of us.)"
+msgstr ""
+
+msgctxt "1808"
+msgid ""
+"Wait, you're gonna, like, make me choose? Don't you know you're supposed to "
+"choose for me, Kiryu-san?"
+msgstr ""
+
+msgctxt "1820"
+msgid "All right..."
+msgstr ""
+
+msgctxt "1844"
+msgid "(Oof. I'm full.)"
+msgstr ""
+
+msgctxt "1856"
+msgid "Check, please."
+msgstr ""
+
+msgctxt "1868"
+msgid "Yes, sir! Thank you!"
+msgstr ""
+
+msgctxt "1928"
+msgid "Here is your bill, sir."
+msgstr ""
+
+msgctxt "1952"
+msgid "Thank you, sir. Please come again soon."
+msgstr ""
+
+msgctxt "1976"
+msgid "Welcome. Let me show you to your seats."
+msgstr ""
+
+msgctxt "1988"
+msgid "Right this way."
+msgstr ""
+
+msgctxt "2084"
+msgid "Welcome, welcome! Come on in! What can I make for you today?"
+msgstr ""
+
+msgctxt "2096"
+msgid "(Maybe I should order for the both of us.)"
+msgstr ""
+
+msgctxt "2156"
+msgid "Wait, you want me to choose? Kiryu-san, you should decide."
+msgstr ""
+
+msgctxt "2168"
+msgid "All right..."
+msgstr ""
+
+msgctxt "2192"
+msgid "(Oof. I'm full.)"
+msgstr ""
+
+msgctxt "2204"
+msgid "Check, please."
+msgstr ""
+
+msgctxt "2216"
+msgid "Yes, sir! Thank you!"
+msgstr ""
+
+msgctxt "2276"
+msgid "Here is your bill, sir."
+msgstr ""
+
+msgctxt "2300"
+msgid "Thank you, sir. Please come again soon."
+msgstr ""
+
+msgctxt "2324"
+msgid "Welcome. Let me show you to your seats."
+msgstr ""
+
+msgctxt "2336"
+msgid "Right this way."
+msgstr ""
+
+msgctxt "2432"
+msgid "Welcome, welcome! Come on in! What can I make for you today?"
+msgstr ""
+
+msgctxt "2444"
+msgid "(Maybe I should order for the both of us.)"
+msgstr ""
+
+msgctxt "2504"
+msgid "Huh? You're gonna make me pick? Can't you decide for us, Kiryu-san?"
+msgstr ""
+
+msgctxt "2516"
+msgid "All right..."
+msgstr ""
+
+msgctxt "2540"
+msgid "(Oof. I'm full.)"
+msgstr ""
+
+msgctxt "2552"
+msgid "Check, please."
+msgstr ""
+
+msgctxt "2564"
+msgid "Yes, sir! Thank you!"
+msgstr ""
+
+msgctxt "2624"
+msgid "Here is your bill, sir."
+msgstr ""
+
+msgctxt "2648"
+msgid "Thank you, sir. Please come again soon."
+msgstr ""
+
+msgctxt "2672"
+msgid "Welcome. Let me show you to your seats."
+msgstr ""
+
+msgctxt "2684"
+msgid "Right this way."
+msgstr ""
+
+msgctxt "2780"
+msgid "Welcome, welcome! Come on in! What can I make for you today?"
+msgstr ""
+
+msgctxt "2792"
+msgid "(Maybe I should order for the both of us.)"
+msgstr ""
+
+msgctxt "2852"
+msgid ""
+"What? Oh, come on, you're not gonna make me choose, are you? I want you to "
+"pick for me!"
+msgstr ""
+
+msgctxt "2864"
+msgid "All right..."
+msgstr ""
+
+msgctxt "2888"
+msgid "(Oof. I'm full.)"
+msgstr ""
+
+msgctxt "2900"
+msgid "Check, please."
+msgstr ""
+
+msgctxt "2912"
+msgid "Yes, sir! Thank you!"
+msgstr ""
+
+msgctxt "2972"
+msgid "Here is your bill, sir."
+msgstr ""
+
+msgctxt "2996"
+msgid "Thank you, sir. Please come again soon."
+msgstr ""
+
+msgctxt "3032"
+msgid ""
+"Welcome! We've got some great maguro in today! You should definitely try "
+"some!"
+msgstr ""
+
+msgctxt "3044"
+msgid ""
+"I didn't come to eat today. I heard that one of old man Komaki's pupils was "
+"here."
+msgstr ""
+
+msgctxt "3056"
+msgid ""
+"You're Kazuma Kiryu? The master told me about you. I've been waiting for "
+"you to show up."
+msgstr ""
+
+msgctxt "3068"
+msgid "Why don't we step outside?"
+msgstr ""
+
+msgctxt "3080"
+msgid "Okay. I'll be there in a minute."
+msgstr ""
+
+msgctxt "3104"
+msgid "Welcome. Let me show you to your seats."
+msgstr ""
+
+msgctxt "3116"
+msgid "Right this way."
+msgstr ""
+
+msgctxt "3176"
+msgid ""
+"Hello, hello! Thanks for your investment! Did you see my email? The tuna "
+"are coming along great! Just great!"
+msgstr ""
+
+msgctxt "3188"
+msgid "Are you sure everything's all right?"
+msgstr ""
+
+msgctxt "3200"
+msgid ""
+"Oh, totally! We'll be getting amazing dividends in only a year! And as an "
+"investor, you get all the tuna you can eat!"
+msgstr ""
+
+msgctxt "3212"
+msgid ""
+"That'll put you in a pinch, eh, chef? All-you-can-eat tuna! Hahaha! That'd "
+"be quite the problem for you, am I right?"
+msgstr ""
+
+msgctxt "3224"
+msgid "Hahaha... Yeah, right."
+msgstr ""
+
+msgctxt "3236"
+msgid ""
+"Well, I have an investors' meeting to attend, so if you'll excuse me... I'm "
+"just so busy these days!"
+msgstr ""
+
+msgctxt "3248"
+msgid "Hehehe."
+msgstr ""
+
+msgctxt "3308"
+msgid "Sorry, chef. I've gotta go."
+msgstr ""
+
+msgctxt "3320"
+msgid "Oh, is that so? Well, be sure to come back again, all right?"
+msgstr ""
+
+msgctxt "3392"
+msgid "Thank you, sir. Please come again soon."
+msgstr ""
+
+msgctxt "3416"
+msgid "Welcome. Let me show you to your seats."
+msgstr ""
+
+msgctxt "3464"
+msgid "(I don't have the cash...)"
+msgstr ""
+
+msgctxt "3488"
+msgid "(I'm not hungry right now...)"
+msgstr ""
+
+msgctxt "3500"
+msgid "Sorry. There's somewhere else I've gotta be."
+msgstr ""
+
+msgctxt "3512"
+msgid "All right. Please come again."
+msgstr ""
+
+msgctxt "3536"
+msgid "Right this way."
+msgstr ""
+
+msgctxt "3596"
+msgid "Welcome, welcome! What can I make for you today?"
+msgstr ""
+
+msgctxt "3608"
+msgid "Has that tuna farmer been around at all recently?"
+msgstr ""
+
+msgctxt "3620"
+msgid "You mean Sawada-san? Can't say I've seen him lately."
+msgstr ""
+
+msgctxt "3632"
+msgid "I remember he said his office wasn't far from the Millennium Tower."
+msgstr ""
+
+msgctxt "3644"
+msgid ""
+"I think I heard he'd rented out the sixth floor of the building Green Rooms "
+"Realty is in."
+msgstr ""
+
+msgctxt "3656"
+msgid ""
+"The building Green Rooms Realty is in, somewhere around Millennium Tower... "
+"Got it. Thanks."
+msgstr ""
+
+msgctxt "3668"
+msgid "Sorry, chef. I've gotta go."
+msgstr ""
+
+msgctxt "3680"
+msgid "Oh, is that so? Well, be sure to come back again, all right?"
+msgstr ""
+
+msgctxt "3752"
+msgid "Thank you, sir. Please come again soon."
+msgstr ""
+
+msgctxt "3776"
+msgid "Welcome. Let me show you to your seats."
+msgstr ""
+
+msgctxt "3800"
+msgid "(I don't have the cash...)"
+msgstr ""
+
+msgctxt "3824"
+msgid "(I'm not hungry right now...)"
+msgstr ""
+
+msgctxt "3836"
+msgid "Sorry. There's somewhere else I've gotta be."
+msgstr ""
+
+msgctxt "3848"
+msgid "Oh, all right. Please come again."
+msgstr ""
+
+msgctxt "3872"
+msgid "Right this way."
+msgstr ""
+
+msgctxt "3932"
+msgid ""
+"There you are! I've been waiting for you! Well, what do you say? Are you "
+"going to invest in the Tuna Fund?"
+msgstr ""
+
+msgctxt "3944"
+msgid "I'm not interested. Go find somebody else."
+msgstr ""
+
+msgctxt "3956"
+msgid ""
+"...Oh, okay. Well, you know what? I'm confident you'll change your mind! "
+"I'll be waiting here when you decide to invest in the Tuna Fund!"
+msgstr ""
+
+msgctxt "3992"
+msgid "Hmm... Well, I do like tuna. All right, I'll invest."
+msgstr ""
+
+msgctxt "4004"
+msgid "I'm selling shares at 10,000 yen apiece. How many shares would you like?"
+msgstr ""
+
+msgctxt "4016"
+msgid "Hmm... Just one share."
+msgstr ""
+
+msgctxt "4040"
+msgid "Thank you, sir! I just need you to fill out this application here..."
+msgstr ""
+
+msgctxt "4052"
+msgid "......"
+msgstr ""
+
+msgctxt "4064"
+msgid "Perfect. Now that that's settled, I just need your payment."
+msgstr ""
+
+msgctxt "4076"
+msgid ""
+"I'll send out status updates on my tuna farm via email. That'll be "
+"something to look forward to, eh? Hehehe!"
+msgstr ""
+
+msgctxt "4088"
+msgid "I'm off to find some more investors. Thanks again, and I'll see you around!"
+msgstr ""
+
+msgctxt "4124"
+msgid "Hmm... I think I'll buy 10 shares."
+msgstr ""
+
+msgctxt "4148"
+msgid ""
+"Great! Thank you very much! Now, if you'll just fill out this application "
+"here..."
+msgstr ""
+
+msgctxt "4160"
+msgid "......"
+msgstr ""
+
+msgctxt "4172"
+msgid "Perfect. Now that that's settled, I just need your payment."
+msgstr ""
+
+msgctxt "4184"
+msgid ""
+"I'll send out status updates on my tuna farm via email. That'll be "
+"something to look forward to, eh? Hehehe!"
+msgstr ""
+
+msgctxt "4196"
+msgid "I'm off to find some more investors. Thanks again, and I'll see you around!"
+msgstr ""
+
+msgctxt "4232"
+msgid "Hmm... Let's go with 100 shares."
+msgstr ""
+
+msgctxt "4256"
+msgid ""
+"My goodness! A hundred shares!? Thank you very much indeed! Now, if you'll "
+"just fill out this application here..."
+msgstr ""
+
+msgctxt "4268"
+msgid "......"
+msgstr ""
+
+msgctxt "4280"
+msgid "Perfect. Now that that's settled, I just need your payment."
+msgstr ""
+
+msgctxt "4292"
+msgid ""
+"I'll send out status updates on my tuna farm via email. That'll be "
+"something to look forward to, eh? Hehehe!"
+msgstr ""
+
+msgctxt "4304"
+msgid "I'm off to find some more investors. Thanks again, and I'll see you around!"
+msgstr ""
+
+msgctxt "4340"
+msgid "Damn... Looks like I'm short. Sorry about that."
+msgstr ""
+
+msgctxt "4352"
+msgid ""
+"What? But that will never do... Tell you what. I'll just stay here and wait "
+"for you to come back with the money, okay?"
+msgstr ""
+
+msgctxt "4364"
+msgid "And don't worry about your bill. I'll take care of it. Hurry back now!"
+msgstr ""
+
+msgctxt "4412"
+msgid "(Oof. I'm full.)"
+msgstr ""
+
+msgctxt "4424"
+msgid "Check, please."
+msgstr ""
+
+msgctxt "4436"
+msgid "Yes, sir! Thank you!"
+msgstr ""
+
+msgctxt "4472"
+msgid "Sorry, but something's come up. I'll have to step out for a while."
+msgstr ""
+
+msgctxt "4484"
+msgid "Oh, is that so? Well, be sure to come back again, all right?"
+msgstr ""
+
+msgctxt "4556"
+msgid "Thank you."
+msgstr ""
+
+msgctxt "4580"
+msgid "Thank you, sir. Please come again soon."
+msgstr ""
+
+msgctxt "4640"
+msgid "Thank you, sir. Please come again soon."
+msgstr ""
+
+msgctxt "4664"
+msgid "Welcome. Let me show you to your seats."
+msgstr ""
+
+msgctxt "4688"
+msgid "(I don't have the cash...)"
+msgstr ""
+
+msgctxt "4712"
+msgid "(I'm not hungry right now...)"
+msgstr ""
+
+msgctxt "4724"
+msgid "Sorry. There's somewhere else I've gotta be."
+msgstr ""
+
+msgctxt "4736"
+msgid "Oh, all right. Please come again."
+msgstr ""
+
+msgctxt "4760"
+msgid "Right this way."
+msgstr ""
+
+msgctxt "4820"
+msgid "Welcome, welcome! Come on in! What can I make for you today?"
+msgstr ""
+
+msgctxt "4832"
+msgid ""
+"We have some beautiful tuna⑬red meat, fatty belly, seared cheek, you name "
+"it! How about it? Care to try our tuna today?"
+msgstr ""
+
+msgctxt "4844"
+msgid "No, thanks. I'll get something else."
+msgstr ""
+
+msgctxt "4856"
+msgid "You got it! What are you in the mood for?"
+msgstr ""
+
+msgctxt "4880"
+msgid "That does sound delicious. Sure, then. The tuna."
+msgstr ""
+
+msgctxt "4892"
+msgid "You got it! One \"tuna medley,\" comin' right up!"
+msgstr ""
+
+msgctxt "4904"
+msgid "......"
+msgstr ""
+
+msgctxt "4916"
+msgid ""
+"The tuna they got here today is just so damn good. 'Course, they got their "
+"stock from me, but even so."
+msgstr ""
+
+msgctxt "4928"
+msgid "Oh, sorry to butt in like that. The name's Sawada."
+msgstr ""
+
+msgctxt "4940"
+msgid "I guess you could call me a tuna professional. I run a fishery."
+msgstr ""
+
+msgctxt "4952"
+msgid ""
+"When I see someone who loves good tuna, well, I just have to speak up! I "
+"hope I'm not bothering you."
+msgstr ""
+
+msgctxt "4964"
+msgid "No, not at all."
+msgstr ""
+
+msgctxt "4976"
+msgid ""
+"But you⑬you're a big tuna fan, am I right? Heck, I can tell just by looking "
+"at you!"
+msgstr ""
+
+msgctxt "4988"
+msgid ""
+"The real tuna connoisseurs are the ones who always go after the nicely "
+"marbled meat⑬they always look tough!"
+msgstr ""
+
+msgctxt "5000"
+msgid "Interesting take."
+msgstr ""
+
+msgctxt "5012"
+msgid ""
+"But you know... You'd better get your tuna eating in now before it's too "
+"late."
+msgstr ""
+
+msgctxt "5024"
+msgid "What do you mean?"
+msgstr ""
+
+msgctxt "5036"
+msgid "They're disappearing from our oceans!"
+msgstr ""
+
+msgctxt "5048"
+msgid ""
+"I heard this big shot scholar guy say that if we keep fishing tuna like we "
+"have been, they'll be extinct in the near future."
+msgstr ""
+
+msgctxt "5060"
+msgid ""
+"Now that you mention it, I think I remember hearing something like that in "
+"the news..."
+msgstr ""
+
+msgctxt "5072"
+msgid ""
+"So now we've got a problem where you wanna enjoy your tuna, but you can't, "
+"in good conscience, fish for 'em. Real killer dilemma, right?"
+msgstr ""
+
+msgctxt "5084"
+msgid "It's a tough situation."
+msgstr ""
+
+msgctxt "5096"
+msgid ""
+"But all hope is not lost! That's where tuna farming comes in. Ever heard of "
+"that? Maybe on the news or something?"
+msgstr ""
+
+msgctxt "5108"
+msgid "No, that's a new one."
+msgstr ""
+
+msgctxt "5120"
+msgid ""
+"C'mon, you've gotta pay attention to the news! Why, tuna is a jewel of the "
+"sea! Isn't that right, chef?"
+msgstr ""
+
+msgctxt "5132"
+msgid ""
+"If a sushi chef runs out of tuna, he may as well close up shop for the day. "
+"Tuna's a jewel all right. The backbone of our sushi economy."
+msgstr ""
+
+msgctxt "5144"
+msgid ""
+"See? That's exactly what I mean! So tuna farming is the way of the future! "
+"Farmed tuna will save Japan!"
+msgstr ""
+
+msgctxt "5156"
+msgid ""
+"And I'm thinking of using my fishery to face the challenge of tuna farming "
+"head-on!"
+msgstr ""
+
+msgctxt "5168"
+msgid ""
+"We have this special food for tuna, too. It's guaranteed to fatten 'em up "
+"bigger than you've ever seen in only half a year!"
+msgstr ""
+
+msgctxt "5180"
+msgid ""
+"I'm looking for investors at 10,000 yen a pop for what I call the \"Tuna "
+"Fund.\" Catchy name, don'cha think?"
+msgstr ""
+
+msgctxt "5192"
+msgid ""
+"With enough investors, I can expand the tuna farm. Once we start bringing "
+"in the big money, we'll all take a share."
+msgstr ""
+
+msgctxt "5204"
+msgid ""
+"So? Want to invest in the Tuna Fund? Get your wallet fatter than one of my "
+"fish? You'll never find a juicier opportunity, I can tell you that much!"
+msgstr ""
+
+msgctxt "5216"
+msgid ""
+"Knock it off. If you want to talk somebody's ear off, try doing it out by "
+"the theater."
+msgstr ""
+
+msgctxt "5228"
+msgid ""
+"Huh? But... it's tuna we're talking about here! We'll be drowning in cash "
+"in no time!"
+msgstr ""
+
+msgctxt "5240"
+msgid "Check, please. I can't enjoy my sushi with all this noise."
+msgstr ""
+
+msgctxt "5252"
+msgid "I'm sorry, sir. It's on me today."
+msgstr ""
+
+msgctxt "5264"
+msgid "Thanks. See you."
+msgstr ""
+
+msgctxt "5276"
+msgid ""
+"I'll be waiting here... Come on back when you wanna reap the bounty of the "
+"sea!"
+msgstr ""
+
+msgctxt "5312"
+msgid "I suppose it won't hurt to invest a little."
+msgstr ""
+
+msgctxt "5324"
+msgid "Aw, c'mon. Don't be shy! A real man should dive in head first!"
+msgstr ""
+
+msgctxt "5336"
+msgid ""
+"They're even starting to eat sashimi in China, don't you know? Tuna sales "
+"are going through the roof!"
+msgstr ""
+
+msgctxt "5348"
+msgid ""
+"Tuna hauls are shrinking, but more and more people are eating it. The price "
+"is gonna soar any day now."
+msgstr ""
+
+msgctxt "5360"
+msgid ""
+"That's where my company's farmed tuna comes in! If we raise 'em up nice and "
+"big and then sell 'em off, we'll be rich in no time!"
+msgstr ""
+
+msgctxt "5372"
+msgid "I'm selling shares at 10,000 yen apiece. How many shares would you like?"
+msgstr ""
+
+msgctxt "5384"
+msgid "Hmm... Just one share."
+msgstr ""
+
+msgctxt "5408"
+msgid "Thank you, sir! I just need you to fill out this application here..."
+msgstr ""
+
+msgctxt "5420"
+msgid "......"
+msgstr ""
+
+msgctxt "5432"
+msgid "Perfect. Now that that's settled, I just need your payment."
+msgstr ""
+
+msgctxt "5444"
+msgid ""
+"I'll send out status updates on my tuna farm via email. That'll be "
+"something to look forward to, eh? Hehehe!"
+msgstr ""
+
+msgctxt "5456"
+msgid "I'm off to find some more investors. Thanks again, and I'll see you around!"
+msgstr ""
+
+msgctxt "5492"
+msgid "Hmm... I think I'll buy 10 shares."
+msgstr ""
+
+msgctxt "5516"
+msgid ""
+"Great! Thank you very much! Now, if you'll just fill out this application "
+"here..."
+msgstr ""
+
+msgctxt "5528"
+msgid "......"
+msgstr ""
+
+msgctxt "5540"
+msgid "Perfect. Now that that's settled, I just need your payment."
+msgstr ""
+
+msgctxt "5552"
+msgid ""
+"I'll send out status updates on my tuna farm via email. That'll be "
+"something to look forward to, eh? Hehehe!"
+msgstr ""
+
+msgctxt "5564"
+msgid "I'm off to find some more investors. Thanks again, and I'll see you around!"
+msgstr ""
+
+msgctxt "5600"
+msgid "Hmm... Let's go with 100 shares."
+msgstr ""
+
+msgctxt "5624"
+msgid ""
+"My goodness! A hundred shares!? Thank you very much indeed! Now, if you'll "
+"just fill out this application here..."
+msgstr ""
+
+msgctxt "5636"
+msgid "......"
+msgstr ""
+
+msgctxt "5648"
+msgid "Perfect. Now that that's settled, I just need your payment."
+msgstr ""
+
+msgctxt "5660"
+msgid ""
+"I'll send out status updates on my tuna farm via email. That'll be "
+"something to look forward to, eh? Hehehe!"
+msgstr ""
+
+msgctxt "5672"
+msgid "I'm off to find some more investors. Thanks again, and I'll see you around!"
+msgstr ""
+
+msgctxt "5708"
+msgid "Damn... Looks like I'm short. Sorry about that."
+msgstr ""
+
+msgctxt "5720"
+msgid ""
+"What? But that will never do... Tell you what. I'll just stay here and wait "
+"for you to come back with the money, okay?"
+msgstr ""
+
+msgctxt "5732"
+msgid "And don't worry about your bill. I'll take care of it. Hurry back now!"
+msgstr ""
+
+msgctxt "5780"
+msgid "(Oof. I'm full.)"
+msgstr ""
+
+msgctxt "5792"
+msgid "Check, please."
+msgstr ""
+
+msgctxt "5804"
+msgid "Yes, sir! Thank you!"
+msgstr ""
+
+msgctxt "5840"
+msgid "Sorry, but something's come up. I'll have to step out for a while."
+msgstr ""
+
+msgctxt "5852"
+msgid "Oh, is that so? Well, be sure to come back again, all right?"
+msgstr ""
+
+msgctxt "5924"
+msgid "Thank you."
+msgstr ""
+
+msgctxt "5948"
+msgid "Thank you, sir. Please come again soon."
+msgstr ""
+
+msgctxt "6008"
+msgid "Thank you, sir. Please come again soon."
+msgstr ""
+
+msgctxt "6032"
+msgid "Welcome. Let me show you to your seats."
+msgstr ""
+
+msgctxt "6080"
+msgid "Right this way."
+msgstr ""
+
+msgctxt "6140"
+msgid "Welcome, welcome! Come on in! What can I make for you today?"
+msgstr ""
+
+msgctxt "6164"
+msgid "Uncle Kaz! I want some <Color:8>Tamago<Color:Default>!"
+msgstr ""
+
+msgctxt "6176"
+msgid "(Haruka wants to eat <Color:8>Tamago<Color:Default>...)"
+msgstr ""
+
+msgctxt "6200"
+msgid "Thanks, Uncle Kaz! Now, let's eat!"
+msgstr ""
+
+msgctxt "6260"
+msgid "Mmm. ⑮ That was good! Thanks for the meal!"
+msgstr ""
+
+msgctxt "6272"
+msgid "(Haruka seems happy...)"
+msgstr ""
+
+msgctxt "6284"
+msgid "Check, please."
+msgstr ""
+
+msgctxt "6296"
+msgid "Yes, sir! Thank you!"
+msgstr ""
+
+msgctxt "6344"
+msgid "Sorry, but something's come up. I'll have to step out for a while."
+msgstr ""
+
+msgctxt "6356"
+msgid ""
+"Oh, is that so? Well, be sure to come back\r\n"
+"again, all right?"
+msgstr ""
+
+msgctxt "6368"
+msgid "But I wanted <Color:8>Tamago<Color:Default>..."
+msgstr ""
+
+msgctxt "6416"
+msgid "Uncle Kaz! I want some <Color:8>Ama-Ebi<Color:Default>!"
+msgstr ""
+
+msgctxt "6428"
+msgid "(Haruka wants to eat <Color:8>Ama-Ebi<Color:Default>...)"
+msgstr ""
+
+msgctxt "6452"
+msgid "Thanks, Uncle Kaz! Now, let's eat!"
+msgstr ""
+
+msgctxt "6512"
+msgid "Mmm. ⑮ That was good! Thanks for the meal!"
+msgstr ""
+
+msgctxt "6524"
+msgid "(Haruka seems happy...)"
+msgstr ""
+
+msgctxt "6536"
+msgid "Check, please."
+msgstr ""
+
+msgctxt "6548"
+msgid "Yes, sir! Thank you!"
+msgstr ""
+
+msgctxt "6596"
+msgid "Sorry, but something's come up. I'll have to step out for a while."
+msgstr ""
+
+msgctxt "6608"
+msgid "Oh, is that so? Well, be sure to come back again, all right?"
+msgstr ""
+
+msgctxt "6620"
+msgid "But I wanted <Color:8>Ama-Ebi<Color:Default>..."
+msgstr ""
+
+msgctxt "6704"
+msgid "Thank you. Your bill comes to %s."
+msgstr ""
+
+msgctxt "6716"
+msgid "Please come again soon."
+msgstr ""
+
+msgctxt "6764"
+msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
+msgstr ""
+
+msgctxt "6776"
+msgid "You got <Color:8>Haruka's Necklace<Color:Default>."
+msgstr ""
+
+msgctxt "6824"
+msgid ""
+"Thanks a ton, Uncle Kaz! I wanna come with you to play\r\n"
+"cho-han with you next time, okay?"
+msgstr ""
+
+msgctxt "6836"
+msgid ""
+"Haruka will now occasionally predict the outcome of a round\r\n"
+"when you are playing cho-han."
+msgstr ""
+
+msgctxt "6872"
+msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
+msgstr ""
+
+msgctxt "6884"
+msgid "You got <Color:8>Haruka's Bento<Color:Default>."
+msgstr ""
+
+msgctxt "6932"
+msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
+msgstr ""
+
+msgctxt "6944"
+msgid "You got <Color:8>Haruka's First-Aid Kit<Color:Default>."
+msgstr ""
+
+msgctxt "6992"
+msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
+msgstr ""
+
+msgctxt "7004"
+msgid "You got a <Color:8>Red Jewel<Color:Default>."
+msgstr ""
+
+msgctxt "7052"
+msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
+msgstr ""
+
+msgctxt "7064"
+msgid "You got <Color:8>Haruka's Amulet<Color:Default>."
+msgstr ""
+
+msgctxt "7112"
+msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
+msgstr ""
+
+msgctxt "7124"
+msgid "You got <Color:8>Haruka's Chocolate<Color:Default>."
+msgstr ""
+
+msgctxt "7172"
+msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
+msgstr ""
+
+msgctxt "7184"
+msgid "You got <Color:8>Haruka's Candy<Color:Default>."
+msgstr ""
+
+msgctxt "7280"
+msgid "Thank you, sir. Please come again soon."
+msgstr ""
+
+msgctxt "7304"
+msgid "Welcome. Let me show you to your seats."
+msgstr ""
+
+msgctxt "7412"
+msgid "(I don't have the cash...)"
+msgstr ""
+
+msgctxt "7436"
+msgid "(I'm not hungry right now...)"
+msgstr ""
+
+msgctxt "7448"
+msgid "Sorry. There's somewhere else I've gotta be."
+msgstr ""
+
+msgctxt "7460"
+msgid "Oh, all right. Please come again."
+msgstr ""
+
+msgctxt "7484"
+msgid "Right this way."
+msgstr ""
+
+msgctxt "7544"
+msgid "Welcome, welcome! Come on in! What can I make for you today?"
+msgstr ""
+
+msgctxt "7568"
+msgid "(Oof. I'm full.)"
+msgstr ""
+
+msgctxt "7580"
+msgid "Check, please."
+msgstr ""
+
+msgctxt "7592"
+msgid "Yes, sir! Thank you!"
+msgstr ""
+
+msgctxt "7652"
+msgid ""
+"Thank you for your business! Oh, right. Last month, that actor Noboru "
+"Kudarizaka came by."
+msgstr ""
+
+msgctxt "7664"
+msgid "The ninja one? He was with a woman. She was pretty fine."
+msgstr ""
+
+msgctxt "7676"
+msgid ""
+"All they ate was sliced fish with the skin left on. I guess movie stars "
+"really do care about their skin, huh?"
+msgstr ""
+
+msgctxt "7688"
+msgid ""
+"(A movie star went to Sushi Gin... I should bring this up at the hostess "
+"club.)"
+msgstr ""
+
+msgctxt "7700"
+msgid "Sorry, but something's come up. I'll have to step out for a while."
+msgstr ""
+
+msgctxt "7712"
+msgid "Oh, is that so? Well, be sure to come back again, all right?"
+msgstr ""
+
+msgctxt "7784"
+msgid "Thank you."
+msgstr ""
+
+msgctxt "7808"
+msgid "Thank you, sir. Please come again soon."
+msgstr ""
+
+msgctxt "7868"
+msgid "Thank you, sir. Please come again soon."
+msgstr ""
+
+msgctxt "7892"
+msgid "Welcome. Let me show you to your seats."
+msgstr ""
+
+msgctxt "7940"
+msgid "(I don't have the cash...)"
+msgstr ""
+
+msgctxt "7964"
+msgid "(I'm not hungry right now...)"
+msgstr ""
+
+msgctxt "7976"
+msgid "Sorry. There's somewhere else I've gotta be."
+msgstr ""
+
+msgctxt "7988"
+msgid "Huh!? You're gonna go?"
+msgstr ""
+
+msgctxt "8000"
+msgid "Oh, all right. Please come again."
+msgstr ""
+
+msgctxt "8024"
+msgid "Right this way."
+msgstr ""
+
+msgctxt "8084"
+msgid "Welcome, welcome! Come on in! What can I make for you today?"
+msgstr ""
+
+msgctxt "8096"
+msgid "(Maybe I should order for the both of us.)"
+msgstr ""
+
+msgctxt "8120"
+msgid "(Oof. I'm full.)"
+msgstr ""
+
+msgctxt "8132"
+msgid "Check, please."
+msgstr ""
+
+msgctxt "8144"
+msgid "Yes, sir! Thank you!"
+msgstr ""
+
+msgctxt "8180"
+msgid "Sorry, but something's come up. I'll have to step out for a while."
+msgstr ""
+
+msgctxt "8192"
+msgid "Oh, is that so? Well, be sure to come back again, all right?"
+msgstr ""
+
+msgctxt "8264"
+msgid "Thank you."
+msgstr ""
+
+msgctxt "8288"
+msgid "Thank you, sir. Please come again soon."
+msgstr ""
+
+msgctxt "8348"
+msgid "Thank you, sir. Please come again soon."
+msgstr ""
+
+msgctxt "8372"
+msgid "Invest"
+msgstr ""
+
+msgctxt "8384"
+msgid "Ignore him"
+msgstr ""
+
+msgctxt "8396"
+msgid "1 Share"
+msgstr ""
+
+msgctxt "8408"
+msgid "10 Shares"
+msgstr ""
+
+msgctxt "8420"
+msgid "100 Shares"
+msgstr ""
+
+msgctxt "8432"
+msgid "Order Tuna"
+msgstr ""
+
+msgctxt "8444"
+msgid "Order Something Else"
+msgstr ""
+
+msgctxt "8456"
+msgid "Sounds sketchy... but all right."
+msgstr ""
+
+msgctxt "8468"
+msgid "Nah, I don't think so."
+msgstr ""
+
+msgctxt "8480"
+msgid "1 Share"
+msgstr ""
+
+msgctxt "8492"
+msgid "10 Shares"
+msgstr ""
+
+msgctxt "8504"
+msgid "100 Shares"
+msgstr ""
+
+msgctxt "69240"
+msgid "Employee"
+msgstr ""
+
+msgctxt "69244"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "69248"
+msgid "Talk_Info_R"
+msgstr ""
+
+msgctxt "69252"
+msgid "Owner"
+msgstr ""
+
+msgctxt "69256"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "69260"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "69264"
+msgid "Reimi"
+msgstr ""
+
+msgctxt "69268"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "69272"
+msgid "Rin"
+msgstr ""
+
+msgctxt "69276"
+msgid "Kana"
+msgstr ""
+
+msgctxt "69280"
+msgid "Ranko"
+msgstr ""
+
+msgctxt "69284"
+msgid "Miyu"
+msgstr ""
+
+msgctxt "69288"
+msgid "Shiori"
+msgstr ""
+
+msgctxt "69292"
+msgid "Yui"
+msgstr ""
+
+msgctxt "69296"
+msgid "Sushi Bar Worker"
+msgstr ""
+
+msgctxt "69300"
+msgid "Sawada"
+msgstr ""
+
+msgctxt "69304"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "69308"
+msgid "M_nml_sitcnt_tlk_surp"
+msgstr ""
+
+msgctxt "69312"
+msgid "Sushi Bar Customer"
+msgstr ""
+
+msgctxt "69316"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "69320"
+msgid "Talk_Kansin"
+msgstr ""
+
+msgctxt "69324"
+msgid "HAL_sitcnt_tlk_gochisousama"
+msgstr ""
+
+msgctxt "69328"
+msgid "Talk_Gakkari"
+msgstr ""

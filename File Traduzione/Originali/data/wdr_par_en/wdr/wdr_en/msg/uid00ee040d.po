@@ -1,0 +1,74 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "148"
+msgid "Man, I could go for a nice, warm cup of alcohol right about now!"
+msgstr ""
+
+msgctxt "160"
+msgid ""
+"Oh, if that's the case, sir, then how about this stuff called Tantakatan? "
+"My girlfriend told me it's really good."
+msgstr ""
+
+msgctxt "172"
+msgid "Tantakatan? What's it like? The name's already got me hooked."
+msgstr ""
+
+msgctxt "184"
+msgid ""
+"It's a type of shochu made from perilla leaves with a very mild taste. My "
+"girlfriend says it's good both on the rocks or mixed with fruit juice."
+msgstr ""
+
+msgctxt "196"
+msgid ""
+"Sounds damn tasty. Let's go find a good seafood place and order up a bottle "
+"or two!"
+msgstr ""
+
+msgctxt "208"
+msgid "(Tantakatan, huh? I should remember this when I'm over at a cabaret club.)"
+msgstr ""
+
+msgctxt "1420"
+msgid "Confident Manager"
+msgstr ""
+
+msgctxt "1424"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "1428"
+msgid "Energetic New Employee"
+msgstr ""
+
+msgctxt "1432"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "1436"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "1440"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "1444"
+msgid "Talk_Kansin"
+msgstr ""
+
+msgctxt "1448"
+msgid "Kiryu"
+msgstr ""

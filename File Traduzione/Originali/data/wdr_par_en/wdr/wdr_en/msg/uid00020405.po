@@ -1,0 +1,82 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid "Taichi."
+msgstr ""
+
+msgctxt "76"
+msgid ""
+"Uncle Kaz, you gotta help! I gave Ayako some money, but she's\r\n"
+"not giving it back!"
+msgstr ""
+
+msgctxt "88"
+msgid "I know. I heard you two arguing earlier."
+msgstr ""
+
+msgctxt "100"
+msgid "Then why won't you do something!?"
+msgstr ""
+
+msgctxt "112"
+msgid ""
+"I am. Go wait in the dining room. All of us are gonna have\r\n"
+"a talk about what's going on here."
+msgstr ""
+
+msgctxt "124"
+msgid "Whaddya mean?"
+msgstr ""
+
+msgctxt "136"
+msgid "It looks like someone stole the money from Ayako."
+msgstr ""
+
+msgctxt "148"
+msgid "Huh? Like, someone here!?"
+msgstr ""
+
+msgctxt "160"
+msgid ""
+"I'm not sure yet. That's why I want to have this meeting.\r\n"
+"Just wait for me in the dining room, okay?"
+msgstr ""
+
+msgctxt "172"
+msgid "Yeah, okay..."
+msgstr ""
+
+msgctxt "1972"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1976"
+msgid "Taichi"
+msgstr ""
+
+msgctxt "1980"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "1984"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "1988"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "1992"
+msgid "Talk_No"
+msgstr ""

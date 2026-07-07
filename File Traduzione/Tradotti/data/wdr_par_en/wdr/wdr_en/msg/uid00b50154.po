@@ -1,0 +1,402 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "244"
+msgid "Oh god, oh god, oh god... I'm so sorry..."
+msgstr ""
+
+msgctxt "256"
+msgid "Where's Takuya? He'd better be okay."
+msgstr ""
+
+msgctxt "268"
+msgid "Hm? What's this dog doing here?"
+msgstr ""
+
+msgctxt "280"
+msgid "Takuya! Oh, my poor widdle baybee! Mommy's gonna make it all better!"
+msgstr ""
+
+msgctxt "292"
+msgid "Takuya's a dog!?"
+msgstr ""
+
+msgctxt "304"
+msgid "Don't call him that! He's a very important part of my family!"
+msgstr ""
+
+msgctxt "316"
+msgid "Were you scared, my precious angel? Oh, don't be afwaid. Mommy's here!"
+msgstr ""
+
+msgctxt "328"
+msgid "I'm the one who gave you that rotten mutt, dammit!"
+msgstr ""
+
+msgctxt "340"
+msgid ""
+"You were over the moon. Went on and on about how much you loved me. I still "
+"have the voicemail on my cell!"
+msgstr ""
+
+msgctxt "352"
+msgid ""
+"You used that voicemail to trick the vet! Of all the low-down, nasty things "
+"to do... You're twisted!"
+msgstr ""
+
+msgctxt "364"
+msgid ""
+"But it worked, didn't it? Everything I did, I did for one last chance to "
+"see you again!"
+msgstr ""
+
+msgctxt "376"
+msgid ""
+"Now that's just creepy. Imagine! Kidnapping for attention...\r\n"
+"Pull a stunt like this again and I'm going to the police!"
+msgstr ""
+
+msgctxt "388"
+msgid ""
+"I can't thank you enough for all your help, Kiryu-san.\r\n"
+"It's not much, but please⑬take this."
+msgstr ""
+
+msgctxt "400"
+msgid "You got <Color:8>10,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "448"
+msgid "Ugh... What should I do?"
+msgstr ""
+
+msgctxt "460"
+msgid ""
+"I won't tell you how to feel... but if you ask me, you really need a better "
+"way to express yourself."
+msgstr ""
+
+msgctxt "520"
+msgid "You got 2,000 EXP."
+msgstr ""
+
+msgctxt "544"
+msgid "Why won't you tell me where Takuya is?"
+msgstr ""
+
+msgctxt "556"
+msgid ""
+"A man came by and took him. I don't know what to tell you, Kurumi-san; he "
+"said he was a friend of yours."
+msgstr ""
+
+msgctxt "568"
+msgid ""
+"He even had me listen to a message you'd left on his phone, asking him to "
+"pick up Takuya for you."
+msgstr ""
+
+msgctxt "580"
+msgid "But I... I did no such thing..."
+msgstr ""
+
+msgctxt "592"
+msgid "Oh... a new message."
+msgstr ""
+
+msgctxt "604"
+msgid "What does it say?"
+msgstr ""
+
+msgctxt "616"
+msgid ""
+"\"We have Takuya. If you want him back, come get him⑬alone. And leave the "
+"Kamuro PD out of it.\""
+msgstr ""
+
+msgctxt "628"
+msgid "Oh, Takuya... I can't lose you. I don't know what to do..."
+msgstr ""
+
+msgctxt "640"
+msgid "(Sounds like there's been a kidnapping. I should go see if she needs help.)"
+msgstr ""
+
+msgctxt "664"
+msgid ""
+"Sorry, I couldn't help but overhear. Did you say your child has been "
+"kidnapped?"
+msgstr ""
+
+msgctxt "676"
+msgid "Sorry, who are you?"
+msgstr ""
+
+msgctxt "688"
+msgid ""
+"I'm Kiryu, and I run the Morning Glory Orphanage just down the road. If a "
+"kid's been abducted... Well, you can understand my concern."
+msgstr ""
+
+msgctxt "700"
+msgid ""
+"Oh, so you're... a teacher? All I know is that Takuya was taken from this "
+"hospital."
+msgstr ""
+
+msgctxt "712"
+msgid "And I just got a ransom note: \"We have Takuya. Come alone...\""
+msgstr ""
+
+msgctxt "724"
+msgid "But it's far too dangerous! We need to alert the authorities."
+msgstr ""
+
+msgctxt "736"
+msgid ""
+"If I call the police, and they hurt my darling Takuya... I'd never be able "
+"to live with myself. What on earth should I do?"
+msgstr ""
+
+msgctxt "748"
+msgid "......"
+msgstr ""
+
+msgctxt "760"
+msgid "Please, Kiryu-san... Can you help me?"
+msgstr ""
+
+msgctxt "772"
+msgid ""
+"You take care of children every day. Surely you understand what I'm going "
+"through!"
+msgstr ""
+
+msgctxt "784"
+msgid "You should call the cops. Let the professionals handle this one."
+msgstr ""
+
+msgctxt "796"
+msgid "But I can't. Don't you see? When I think of what they might do to my baby..."
+msgstr ""
+
+msgctxt "808"
+msgid "The gentleman's right, Kurumi-san..."
+msgstr ""
+
+msgctxt "820"
+msgid "You really should contact the police. This is one heckuva case, after all."
+msgstr ""
+
+msgctxt "832"
+msgid ""
+"\"Heckuva case\"...? How can you be so flippant!? If anything happens to my "
+"dear Takuya, I just don't know what I'll do..."
+msgstr ""
+
+msgctxt "844"
+msgid "Still haven't called the police, I see."
+msgstr ""
+
+msgctxt "856"
+msgid "I can't! Please, Kiryu-san... Will you help me?"
+msgstr ""
+
+msgctxt "868"
+msgid ""
+"No, you'd better call the cops and file a report. If you don't move "
+"quickly, it might be too late."
+msgstr ""
+
+msgctxt "880"
+msgid "What can they do...?"
+msgstr ""
+
+msgctxt "892"
+msgid ""
+"More than a civilian. But the longer you wait, the worse this'll get⑬trust "
+"me."
+msgstr ""
+
+msgctxt "904"
+msgid "Okay, I'm on it. Let's go get Takuya back."
+msgstr ""
+
+msgctxt "916"
+msgid "Oh, thank you so much! Be careful, okay?"
+msgstr ""
+
+msgctxt "988"
+msgid "Is this the place?"
+msgstr ""
+
+msgctxt "1000"
+msgid ""
+"According to the text message, they should be waiting in a vacant parking "
+"area just ahead."
+msgstr ""
+
+msgctxt "1012"
+msgid "An empty lot, huh? All right..."
+msgstr ""
+
+msgctxt "1024"
+msgid "We'll have the upper hand if we strike first... I'm going in!"
+msgstr ""
+
+msgctxt "1108"
+msgid ""
+"Hey! Are you the punk who kidnapped Takuya?\r\n"
+"Hand him over⑬now!"
+msgstr ""
+
+msgctxt "1120"
+msgid ""
+"Who the hell are you!? Kurumi's newest flame? Well that's\r\n"
+"just perfect, 'cause you're about to get flamed!"
+msgstr ""
+
+msgctxt "1144"
+msgid "Best to wait and see on this one. I'll stand guard; you go in alone."
+msgstr ""
+
+msgctxt "1156"
+msgid "But..."
+msgstr ""
+
+msgctxt "1168"
+msgid "Don't worry. If anything happens, I'll be there in a flash."
+msgstr ""
+
+msgctxt "1180"
+msgid "Okay..."
+msgstr ""
+
+msgctxt "1204"
+msgid "So it's you... You bastard!"
+msgstr ""
+
+msgctxt "1216"
+msgid "Hey! You all right!?"
+msgstr ""
+
+msgctxt "1288"
+msgid ""
+"Hey! Are you the punk who kidnapped Takuya?\r\n"
+"Hand him over⑬now!"
+msgstr ""
+
+msgctxt "1300"
+msgid "Who the hell are you!? Kurumi's latest flame?"
+msgstr ""
+
+msgctxt "1336"
+msgid "Okay, I'm on it."
+msgstr ""
+
+msgctxt "1348"
+msgid "You should call the cops."
+msgstr ""
+
+msgctxt "1360"
+msgid "Okay, I'm on it."
+msgstr ""
+
+msgctxt "1372"
+msgid "You should call the cops."
+msgstr ""
+
+msgctxt "1384"
+msgid "Jump Right In"
+msgstr ""
+
+msgctxt "1396"
+msgid "Wait and See"
+msgstr ""
+
+msgctxt "13676"
+msgid "Kidnapper"
+msgstr ""
+
+msgctxt "13680"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "13684"
+msgid "Kurumi"
+msgstr ""
+
+msgctxt "13688"
+msgid "kaiwabgm_happy"
+msgstr ""
+
+msgctxt "13692"
+msgid "A_dog_stand_tlk_bark_lp"
+msgstr ""
+
+msgctxt "13696"
+msgid "A_dog_stand_tlk_bark_ed"
+msgstr ""
+
+msgctxt "13700"
+msgid "A_dog_stand_tlk_ohuri"
+msgstr ""
+
+msgctxt "13704"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "13708"
+msgid "Upset Woman"
+msgstr ""
+
+msgctxt "13712"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "13716"
+msgid "Doctor"
+msgstr ""
+
+msgctxt "13720"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "13724"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "13728"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "13732"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "13736"
+msgid "dummy"
+msgstr ""
+
+msgctxt "13740"
+msgid "Talk_Kamae"
+msgstr ""
+
+msgctxt "13744"
+msgid "0"
+msgstr ""
+
+msgctxt "13748"
+msgid "Talk_Odosu"
+msgstr ""

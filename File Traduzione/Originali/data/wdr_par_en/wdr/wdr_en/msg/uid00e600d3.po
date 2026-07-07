@@ -1,0 +1,64 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "92"
+msgid "Oh no! What'll I do!?"
+msgstr ""
+
+msgctxt "104"
+msgid "What's wrong? Take it easy."
+msgstr ""
+
+msgctxt "116"
+msgid ""
+"They kicked me out of the club, but I hadn't paid yet. Does that mean it "
+"was free?"
+msgstr ""
+
+msgctxt "128"
+msgid "Huh...?"
+msgstr ""
+
+msgctxt "140"
+msgid ""
+"I ordered some expensive drinks today, so I'll feel guilty if I just up and "
+"leave... Plus, it'll make things awkward the next time I come in..."
+msgstr ""
+
+msgctxt "152"
+msgid "......"
+msgstr ""
+
+msgctxt "952"
+msgid "Eat-And-Run Chie"
+msgstr ""
+
+msgctxt "956"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "960"
+msgid "Eat-and-Run Chie"
+msgstr ""
+
+msgctxt "964"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "968"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "972"
+msgid "Talk_No"
+msgstr ""

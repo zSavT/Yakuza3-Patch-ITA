@@ -1,0 +1,74 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "80"
+msgid "Shimabukuro-san, can I talk to you?"
+msgstr ""
+
+msgctxt "92"
+msgid "What's up?"
+msgstr ""
+
+msgctxt "104"
+msgid ""
+"Some punks from the Tamashiro Family came by the other day and said I have "
+"to pay them protection money if I wanted to keep my store in one piece."
+msgstr ""
+
+msgctxt "116"
+msgid "I managed to shoo 'em away, but they said they'd be back..."
+msgstr ""
+
+msgctxt "128"
+msgid ""
+"The Tamashiro Family, huh...? So, they think they can move in on our turf, "
+"do they?"
+msgstr ""
+
+msgctxt "140"
+msgid "All right, then! If they come back, call me right away, okay?"
+msgstr ""
+
+msgctxt "152"
+msgid ""
+"We'll teach 'em a lesson they'll never forget. You won't have to worry "
+"about them bothering you anymore!"
+msgstr ""
+
+msgctxt "164"
+msgid "Oh, thank you!"
+msgstr ""
+
+msgctxt "1568"
+msgid "Troubled Man"
+msgstr ""
+
+msgctxt "1572"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "1576"
+msgid "Rikiya"
+msgstr ""
+
+msgctxt "1580"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "1584"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "1588"
+msgid "Talk_OK"
+msgstr ""

@@ -1,0 +1,86 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "140"
+msgid ""
+"We'll need you to buy wooden tags if you want to play here. How many would "
+"you like? One tag is 100 yen."
+msgstr ""
+
+msgctxt "152"
+msgid "I'll take 50 tags."
+msgstr ""
+
+msgctxt "176"
+msgid "Thanks. Have fun!"
+msgstr ""
+
+msgctxt "200"
+msgid "I'll take 100 tags."
+msgstr ""
+
+msgctxt "224"
+msgid "Thanks. Have fun!"
+msgstr ""
+
+msgctxt "248"
+msgid "I'll take 1,000 tags."
+msgstr ""
+
+msgctxt "272"
+msgid "Thanks. Have fun!"
+msgstr ""
+
+msgctxt "296"
+msgid "I'm fine for now."
+msgstr ""
+
+msgctxt "308"
+msgid "I gotcha. I hope you'll buy some next time."
+msgstr ""
+
+msgctxt "320"
+msgid "Hey, you don't have enough to pay for that! Come back when you got money."
+msgstr ""
+
+msgctxt "332"
+msgid "Buy 50 Tags for 5,000 Yen"
+msgstr ""
+
+msgctxt "344"
+msgid "Buy 100 Tags for 10,000 Yen"
+msgstr ""
+
+msgctxt "356"
+msgid "Buy 1,000 Tags for 100,000 Yen"
+msgstr ""
+
+msgctxt "368"
+msgid "Not Now"
+msgstr ""
+
+msgctxt "2112"
+msgid "Bookie"
+msgstr ""
+
+msgctxt "2116"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "2120"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "2124"
+msgid "Talk_No"
+msgstr ""

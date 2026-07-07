@@ -1,0 +1,86 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid "There you are!"
+msgstr ""
+
+msgctxt "76"
+msgid "I'm here to collect for the damage you did to my car! So pay up!"
+msgstr ""
+
+msgctxt "88"
+msgid "......"
+msgstr ""
+
+msgctxt "100"
+msgid ""
+"You signed an agreement, didn't ya? Well, the repairs are\r\n"
+"already underway, so I need that money pronto."
+msgstr ""
+
+msgctxt "112"
+msgid ""
+"Turns out it's gonna run you five million, and that's just\r\n"
+"for the metalwork. The total's gonna be way higher."
+msgstr ""
+
+msgctxt "124"
+msgid ""
+"That's highway robbery. There's no way anyone could pay that\r\n"
+"much all of a sudden."
+msgstr ""
+
+msgctxt "136"
+msgid ""
+"Don't forget, we got your signature, smart guy! So start paying out the "
+"ass, or get your ass beat down!"
+msgstr ""
+
+msgctxt "148"
+msgid "You can't be serious."
+msgstr ""
+
+msgctxt "160"
+msgid ""
+"Look, if you've got a problem, we can talk it over in detail\r\n"
+"at the office! Now get a move on!"
+msgstr ""
+
+msgctxt "1992"
+msgid "Punk"
+msgstr ""
+
+msgctxt "1996"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "2000"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "2004"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "2008"
+msgid "Talk_Away"
+msgstr ""
+
+msgctxt "2012"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "2016"
+msgid "Talk_Chohatu"
+msgstr ""

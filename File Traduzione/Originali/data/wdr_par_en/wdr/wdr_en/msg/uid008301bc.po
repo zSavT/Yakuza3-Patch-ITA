@@ -1,0 +1,178 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "124"
+msgid "Hey, you! Stop right there!"
+msgstr ""
+
+msgctxt "136"
+msgid "It's okay. He's with me."
+msgstr ""
+
+msgctxt "148"
+msgid "...Detective Date?"
+msgstr ""
+
+msgctxt "160"
+msgid "Ex-detective, actually. Been off the force for a while now."
+msgstr ""
+
+msgctxt "172"
+msgid "Oh! My apologies. So, is this man an acquaintance of yours?"
+msgstr ""
+
+msgctxt "184"
+msgid ""
+"Yup, I'm showing him the sights. Not too often an Okinawa\r\n"
+"boy like him gets up to Tokyo, you know?"
+msgstr ""
+
+msgctxt "196"
+msgid "Oh, of course!"
+msgstr ""
+
+msgctxt "208"
+msgid ""
+"Just... be careful, okay? We're currently hot on the tail of\r\n"
+"a man suspected of a murder at the Millennium Tower."
+msgstr ""
+
+msgctxt "220"
+msgid "Heavy stuff. Yeah, I'll keep an eye out. Thanks."
+msgstr ""
+
+msgctxt "232"
+msgid "Farewell, sir!"
+msgstr ""
+
+msgctxt "292"
+msgid "......"
+msgstr ""
+
+msgctxt "304"
+msgid "Thought I told you not to draw attention to yourself."
+msgstr ""
+
+msgctxt "316"
+msgid "...Right. Sorry."
+msgstr ""
+
+msgctxt "328"
+msgid ""
+"It's fine. Let's keep moving, Kiryu. And this time be\r\n"
+"a little more careful, will you?"
+msgstr ""
+
+msgctxt "340"
+msgid "...Yeah. Sorry again."
+msgstr ""
+
+msgctxt "364"
+msgid "Hey, stop right there!"
+msgstr ""
+
+msgctxt "376"
+msgid "......"
+msgstr ""
+
+msgctxt "388"
+msgid "What's the big hurry, huh?"
+msgstr ""
+
+msgctxt "400"
+msgid "Uh... nothing."
+msgstr ""
+
+msgctxt "412"
+msgid ""
+"Suuure. That's what they all say. I'm gonna need you to\r\n"
+"come with me."
+msgstr ""
+
+msgctxt "424"
+msgid "(I really don't need this right now...)"
+msgstr ""
+
+msgctxt "436"
+msgid "Here, just talk to Date...san? Where'd Date-san go?"
+msgstr ""
+
+msgctxt "448"
+msgid "(Great, we got separated.)"
+msgstr ""
+
+msgctxt "460"
+msgid ""
+"If you're looking for someone, he's not here. Sorry, but me\r\n"
+"and you are taking a little trip to the station."
+msgstr ""
+
+msgctxt "472"
+msgid "......"
+msgstr ""
+
+msgctxt "4112"
+msgid "Officer"
+msgstr ""
+
+msgctxt "4116"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "4120"
+msgid "Date"
+msgstr ""
+
+msgctxt "4124"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "4128"
+msgid "dummy"
+msgstr ""
+
+msgctxt "4132"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "4136"
+msgid "Talk_NoBig"
+msgstr ""
+
+msgctxt "4140"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "4144"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "4148"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "4152"
+msgid "Talk_Sorry"
+msgstr ""
+
+msgctxt "4156"
+msgid "Talk_Away"
+msgstr ""
+
+msgctxt "4160"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "4164"
+msgid "0"
+msgstr ""

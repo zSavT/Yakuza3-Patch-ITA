@@ -1,0 +1,144 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "80"
+msgid "Oh, Kiryu-san!"
+msgstr ""
+
+msgctxt "92"
+msgid "What happened? Was I right? Was I being stalked?"
+msgstr ""
+
+msgctxt "104"
+msgid "Nope. It was all a misunderstanding."
+msgstr ""
+
+msgctxt "116"
+msgid "I see... Thank you very..."
+msgstr ""
+
+msgctxt "128"
+msgid "Hmm?"
+msgstr ""
+
+msgctxt "140"
+msgid "What's wrong?"
+msgstr ""
+
+msgctxt "152"
+msgid ""
+"Oh no, it's just... I still feel like somebody's\r\n"
+"watching me."
+msgstr ""
+
+msgctxt "164"
+msgid "What?"
+msgstr ""
+
+msgctxt "176"
+msgid ""
+"But it's okay! I'm sure it's just my imagination running wild! Thank you so "
+"much."
+msgstr ""
+
+msgctxt "188"
+msgid "Here's for your trouble."
+msgstr ""
+
+msgctxt "200"
+msgid "You got <Color:8>10,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "212"
+msgid ""
+"(Can't help but still feel worried about her, but what else\r\n"
+"can I do? I didn't find anyone who fit the bill.)"
+msgstr ""
+
+msgctxt "236"
+msgid "You got 5,000 EXP."
+msgstr ""
+
+msgctxt "296"
+msgid "Hi, Kiryu-san! What happened?"
+msgstr ""
+
+msgctxt "308"
+msgid ""
+"I was following a guy who looked pretty suspicious...\r\n"
+"but I lost him. Sorry."
+msgstr ""
+
+msgctxt "320"
+msgid "Oh... Well, don't worry about it."
+msgstr ""
+
+msgctxt "332"
+msgid ""
+"Maybe I'm just imagining this whole \"stalker\" thing. And I\r\n"
+"wouldn't want to waste any more of your time, Kiryu-san."
+msgstr ""
+
+msgctxt "344"
+msgid "Take this for the trouble. Thank you again!"
+msgstr ""
+
+msgctxt "356"
+msgid "You got <Color:8>10,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "368"
+msgid ""
+"(I'm still a little worried about her, but if\r\n"
+"she says she's okay, I'll leave it at that.)"
+msgstr ""
+
+msgctxt "392"
+msgid "You got 5,000 EXP."
+msgstr ""
+
+msgctxt "4264"
+msgid "Emi"
+msgstr ""
+
+msgctxt "4268"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "4272"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "4276"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "4280"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "4284"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "4288"
+msgid "Talk_Send"
+msgstr ""
+
+msgctxt "4292"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "4296"
+msgid "Talk_Kosite_st"
+msgstr ""

@@ -1,0 +1,128 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid "(Those two again...)"
+msgstr ""
+
+msgctxt "76"
+msgid "That was delicious, wasn't it, Mizuki-chan?"
+msgstr ""
+
+msgctxt "88"
+msgid "Yeah!"
+msgstr ""
+
+msgctxt "100"
+msgid "...I feel bad for making you pay for all this food, though."
+msgstr ""
+
+msgctxt "112"
+msgid ""
+"Come on, it's no problem at all! After all, being here with you is "
+"priceless to me!"
+msgstr ""
+
+msgctxt "124"
+msgid "Aww! Thanks, Akimoto-kun!"
+msgstr ""
+
+msgctxt "136"
+msgid "So, where to next?"
+msgstr ""
+
+msgctxt "148"
+msgid ""
+"Well, I was thinking of getting some souvenirs for my friends back home... "
+"Where do you think we can get some?"
+msgstr ""
+
+msgctxt "160"
+msgid ""
+"Hm... I think there's a place called <Color:7>Stone Market<Color:Default>  "
+"out on the main street. Maybe they'll have something there?"
+msgstr ""
+
+msgctxt "172"
+msgid "Okay, let's give it a shot!"
+msgstr ""
+
+msgctxt "184"
+msgid "Anything you say, my dear Mizuki-chan!"
+msgstr ""
+
+msgctxt "196"
+msgid ""
+"I have to say though, Akimoto-kun... I had no idea you knew so much about "
+"Okinawa!"
+msgstr ""
+
+msgctxt "208"
+msgid ""
+"Hahaha! I spent many sleepless nights researching the islands just for this "
+"occasion!"
+msgstr ""
+
+msgctxt "220"
+msgid "That's amazing, Akimoto-kun!"
+msgstr ""
+
+msgctxt "232"
+msgid "(Looks like they're heading to Stone Market for souvenirs...)"
+msgstr ""
+
+msgctxt "244"
+msgid ""
+"(This vacation seems... surprisingly normal. Maybe I should check in on "
+"them over there, just in case.)"
+msgstr ""
+
+msgctxt "3044"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "3048"
+msgid "Akimoto"
+msgstr ""
+
+msgctxt "3052"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "3056"
+msgid "Mizuki"
+msgstr ""
+
+msgctxt "3060"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "3064"
+msgid "Talk_NoBig"
+msgstr ""
+
+msgctxt "3068"
+msgid "Talk_Kansin"
+msgstr ""
+
+msgctxt "3072"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "3076"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "3080"
+msgid "Talk_Smile"
+msgstr ""

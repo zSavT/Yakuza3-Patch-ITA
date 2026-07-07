@@ -1,0 +1,114 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "184"
+msgid ""
+"'Ey boss. Would you like to exchange your winnings for prizes or purchase "
+"mahjong sticks?"
+msgstr ""
+
+msgctxt "196"
+msgid ""
+"You need mahjong sticks to play mahjong. How much you lookin' to buy? It's "
+"1 yen a stick."
+msgstr ""
+
+msgctxt "208"
+msgid "I want to buy 100,000 points worth."
+msgstr ""
+
+msgctxt "232"
+msgid "Thank you very much. Have fun!"
+msgstr ""
+
+msgctxt "256"
+msgid "I want to buy 25,000 points worth."
+msgstr ""
+
+msgctxt "280"
+msgid "Thank you very much. Have fun!"
+msgstr ""
+
+msgctxt "304"
+msgid "I'm fine for now."
+msgstr ""
+
+msgctxt "316"
+msgid "All righty then. Come by anytime."
+msgstr ""
+
+msgctxt "328"
+msgid ""
+"'Ey boss, you don't have enough to pay for that! Come back again when you "
+"do!"
+msgstr ""
+
+msgctxt "340"
+msgid "Whaddya want, big guy?"
+msgstr ""
+
+msgctxt "364"
+msgid "Thank you very much! Come by again soon, all right?"
+msgstr ""
+
+msgctxt "376"
+msgid "Prize Exchange"
+msgstr ""
+
+msgctxt "388"
+msgid "Buy Mahjong Sticks"
+msgstr ""
+
+msgctxt "400"
+msgid "Not Now"
+msgstr ""
+
+msgctxt "412"
+msgid "100,000 Points"
+msgstr ""
+
+msgctxt "424"
+msgid "25,000 Points"
+msgstr ""
+
+msgctxt "436"
+msgid "Not Now"
+msgstr ""
+
+msgctxt "2504"
+msgid "Employee"
+msgstr ""
+
+msgctxt "2508"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "2512"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "2516"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "2520"
+msgid "Owner"
+msgstr ""
+
+msgctxt "2524"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "2528"
+msgid "Talk_NoBig"
+msgstr ""

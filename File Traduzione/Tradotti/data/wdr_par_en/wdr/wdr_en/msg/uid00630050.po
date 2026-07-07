@@ -1,0 +1,158 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "308"
+msgid "Ohmigosh, I'm gonna sing my lungs out. What am I gonna sing first..."
+msgstr ""
+
+msgctxt "320"
+msgid "I'm gonna do... \"Shooting Star\"! I looove this song."
+msgstr ""
+
+msgctxt "332"
+msgid "Sounds great."
+msgstr ""
+
+msgctxt "344"
+msgid "How're the rankings doing?"
+msgstr ""
+
+msgctxt "368"
+msgid ""
+"Wait, you're just gonna, like, leave without singing? What was the point of "
+"taking me out, then? Geez."
+msgstr ""
+
+msgctxt "380"
+msgid ""
+"Hehehe! <Color:7>⑮<Color:Default> I totally knocked that one outta the "
+"park! ♪"
+msgstr ""
+
+msgctxt "392"
+msgid "Hey, Kiryu-san... You're gonna sing too, right?"
+msgstr ""
+
+msgctxt "404"
+msgid "I'll sing \"Kamurocho Lullaby,\" then."
+msgstr ""
+
+msgctxt "416"
+msgid "Enka? Whoa. You know, though, it kinda suits you."
+msgstr ""
+
+msgctxt "428"
+msgid "Nah, not right now."
+msgstr ""
+
+msgctxt "440"
+msgid "Wait, seriously? Why come to karaoke if you're not even gonna sing?"
+msgstr ""
+
+msgctxt "452"
+msgid "No offense, but you kinda gave me a rough time there."
+msgstr ""
+
+msgctxt "464"
+msgid "Sorry..."
+msgstr ""
+
+msgctxt "476"
+msgid ""
+"Whoa, you're like, a seriously good singer, Kiryu-san! ♪ I could listen to "
+"you sing all day."
+msgstr ""
+
+msgctxt "488"
+msgid "You think so? Thanks."
+msgstr ""
+
+msgctxt "500"
+msgid "Hey, Kiryu-san... No offense, but, like, maybe you need some more practice."
+msgstr ""
+
+msgctxt "512"
+msgid "...Okay."
+msgstr ""
+
+msgctxt "524"
+msgid ""
+"Ohmigosh, that was awesome! <Color:7>⑮<Color:Default> Your rhythm was "
+"perfect!"
+msgstr ""
+
+msgctxt "536"
+msgid "Hey, Kiryu-san, aren't you gonna sing one?"
+msgstr ""
+
+msgctxt "548"
+msgid "I'll sing \"Kamurocho Lullaby,\" then."
+msgstr ""
+
+msgctxt "560"
+msgid "Enka? Whoa. You know, though, it kinda suits you."
+msgstr ""
+
+msgctxt "572"
+msgid "Nah, not right now."
+msgstr ""
+
+msgctxt "584"
+msgid "Wait, seriously? Why come to karaoke if you're not even gonna sing?"
+msgstr ""
+
+msgctxt "596"
+msgid ""
+"Y'know, your voice is super sexy. Kinda makes me wish these songs never "
+"ended."
+msgstr ""
+
+msgctxt "608"
+msgid "You think so? Thanks."
+msgstr ""
+
+msgctxt "620"
+msgid "Sing Karaoke"
+msgstr ""
+
+msgctxt "632"
+msgid "View Rankings"
+msgstr ""
+
+msgctxt "644"
+msgid "How to Play"
+msgstr ""
+
+msgctxt "656"
+msgid "Sing"
+msgstr ""
+
+msgctxt "668"
+msgid "Don't Sing"
+msgstr ""
+
+msgctxt "680"
+msgid "Sing"
+msgstr ""
+
+msgctxt "692"
+msgid "Don't Sing"
+msgstr ""
+
+msgctxt "5212"
+msgid "Ranko"
+msgstr ""
+
+msgctxt "5216"
+msgid "Kiryu"
+msgstr ""

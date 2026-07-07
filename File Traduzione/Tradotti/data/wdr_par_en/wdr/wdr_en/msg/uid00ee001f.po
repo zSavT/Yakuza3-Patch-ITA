@@ -1,0 +1,520 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "428"
+msgid ""
+"Hey, hey! No weapons, asshole! Did I not just fuckin'\r\n"
+"tell you!?"
+msgstr ""
+
+msgctxt "440"
+msgid "......"
+msgstr ""
+
+msgctxt "452"
+msgid ""
+"Come back when you have some actual technique.\r\n"
+"I generally don't move from this spot, so... yeah."
+msgstr ""
+
+msgctxt "500"
+msgid ""
+"Man, that was like watching a bear trying to hit a mosquito.\r\n"
+"That buff guy fumbled all over himself."
+msgstr ""
+
+msgctxt "512"
+msgid ""
+"Guess whatever he had in power, he lacked in speed.\r\n"
+"I mean, even you couldn't do it, dude."
+msgstr ""
+
+msgctxt "524"
+msgid "*pant* *pant*"
+msgstr ""
+
+msgctxt "536"
+msgid ""
+"Boy, did you get soft over the years... soft as a goddamn\r\n"
+"cupcake! The man I used to know was tougher than fossilized\r\n"
+"beef jerky! Or, y'know, maybe I just got too good at this."
+msgstr ""
+
+msgctxt "548"
+msgid "......"
+msgstr ""
+
+msgctxt "560"
+msgid ""
+"Perhaps I'm giving you too much credit here, but I consider\r\n"
+"you my rival."
+msgstr ""
+
+msgctxt "572"
+msgid ""
+"And your performance today just didn't cut the mustard.\r\n"
+"So, what can I say, other than work on your swing and come\r\n"
+"back some other time. I'll be waiting, same place as usual."
+msgstr ""
+
+msgctxt "620"
+msgid "So, you're back. Can't say I didn't see that coming."
+msgstr ""
+
+msgctxt "632"
+msgid ""
+"Price is still 3,000 yen per challenge. Punch or kick me\r\n"
+"once within a single minute or less and win 50 grand."
+msgstr ""
+
+msgctxt "644"
+msgid "Think you can take me?"
+msgstr ""
+
+msgctxt "656"
+msgid "(50,000 yen for just one hit? Not a bad deal...)"
+msgstr ""
+
+msgctxt "668"
+msgid "All right. I'll take you on."
+msgstr ""
+
+msgctxt "680"
+msgid ""
+"That's what I like to hear! It'll cost you 3,000 yen\r\n"
+"up front. That okay?"
+msgstr ""
+
+msgctxt "704"
+msgid "Fine by me... Here."
+msgstr ""
+
+msgctxt "716"
+msgid ""
+"All right! Now remember, you gotta hit me once within\r\n"
+"a minute to get yourself a piece of that sweet money pie.\r\n"
+"And by money pie, I mean 50,000 yen. We discussed this."
+msgstr ""
+
+msgctxt "728"
+msgid ""
+"And weapons are off limits⑬gotta keep it clean. Now then...\r\n"
+"If you think you can keep the pace... then try and bust my face!"
+msgstr ""
+
+msgctxt "752"
+msgid "...Ah. Looks like I'm a little short on cash."
+msgstr ""
+
+msgctxt "764"
+msgid ""
+"Hey, I'm trying to run a business here! No cash, no contest!\r\n"
+"*sigh* Let's take it from the top..."
+msgstr ""
+
+msgctxt "776"
+msgid ""
+"Go scrounge yourself up some cash and come back later.\r\n"
+"I got this spot staked out, so... I'll be waiting."
+msgstr ""
+
+msgctxt "788"
+msgid "All right. Then I'll be back."
+msgstr ""
+
+msgctxt "800"
+msgid "Sorry... Maybe some other time."
+msgstr ""
+
+msgctxt "812"
+msgid "Wait, what? You chickening out all of a sudden?"
+msgstr ""
+
+msgctxt "824"
+msgid "......"
+msgstr ""
+
+msgctxt "836"
+msgid ""
+"This ain't no goddamn silent film, buddy. Go scrape up some\r\n"
+"cash⑬I dunno, beat up some thugs or something⑬and come\r\n"
+"back when you're feeling like a man."
+msgstr ""
+
+msgctxt "848"
+msgid ""
+"Well, well... Look who came crawling back. You up for the challenge now, or "
+"what?"
+msgstr ""
+
+msgctxt "860"
+msgid ""
+"Rules are still the same: 3,000 yen up front. Punch or kick\r\n"
+"me once in under a minute and the 50,000 yen is yours."
+msgstr ""
+
+msgctxt "872"
+msgid "Wanna give it a shot?"
+msgstr ""
+
+msgctxt "884"
+msgid "(50,000 yen for just one hit? Not a bad deal...)"
+msgstr ""
+
+msgctxt "896"
+msgid "All right. I'll take you on."
+msgstr ""
+
+msgctxt "908"
+msgid ""
+"That's what I like to hear! Now fork over 3,000 yen.\r\n"
+"Gotta pay to play, y'know?"
+msgstr ""
+
+msgctxt "932"
+msgid "Fine by me... Here."
+msgstr ""
+
+msgctxt "944"
+msgid ""
+"All right! Now. To reiterate. Hit me within a minute, and\r\n"
+"that 50,000 yen's as good as yours!"
+msgstr ""
+
+msgctxt "956"
+msgid ""
+"And weapons are off limits⑬gotta keep it clean. Now then...\r\n"
+"If you think you can keep the pace... then try and bust my face!"
+msgstr ""
+
+msgctxt "980"
+msgid "...Ah. Looks like I'm a little short on cash."
+msgstr ""
+
+msgctxt "992"
+msgid ""
+"Hey, I'm trying to run a business here! No cash, no contest!\r\n"
+"*sigh* Let's take it from the top..."
+msgstr ""
+
+msgctxt "1004"
+msgid ""
+"Go scrounge yourself up some cash and come back later.\r\n"
+"I got this spot staked out, so... I'll be waiting."
+msgstr ""
+
+msgctxt "1016"
+msgid "All right. Then I'll be back."
+msgstr ""
+
+msgctxt "1028"
+msgid "Sorry. Maybe some other time."
+msgstr ""
+
+msgctxt "1040"
+msgid "Wait, what? You chickening out all of a sudden?"
+msgstr ""
+
+msgctxt "1052"
+msgid "......"
+msgstr ""
+
+msgctxt "1064"
+msgid ""
+"This ain't no goddamn silent film, buddy. Go scrape up some\r\n"
+"cash⑬I dunno, beat up some thugs or something⑬and come\r\n"
+"back when you're feeling like a man."
+msgstr ""
+
+msgctxt "1076"
+msgid ""
+"Ugh... Damn... How did I miss, every single time?\r\n"
+"I used to box professionally... I should've been wiping\r\n"
+"the floor with you!"
+msgstr ""
+
+msgctxt "1088"
+msgid ""
+"I don't care what kinda boxer you were. Maybe you got a\r\n"
+"nasty punch, but it ain't worth jack shit if you can't make\r\n"
+"it hit!"
+msgstr ""
+
+msgctxt "1100"
+msgid ""
+"You gotta think before you act if you wanna land a bruise on\r\n"
+"this fresh face! Gotta be four to five steps ahead, minimum!"
+msgstr ""
+
+msgctxt "1112"
+msgid ""
+"You're spoutin' some bullshit, man! This is a street fight, not some "
+"goddamn chess game!"
+msgstr ""
+
+msgctxt "1124"
+msgid ""
+"Hey. I've got a record of 499 to 1, so somebody managed to\r\n"
+"do it. In fact, it happened right here in Kamurocho."
+msgstr ""
+
+msgctxt "1136"
+msgid "Yeah, I bet you're just making him up in your head."
+msgstr ""
+
+msgctxt "1148"
+msgid ""
+"Look, I could listen to you yap all day, but I'm running a business here. "
+"If you got time to cry, you should be out training instead!"
+msgstr ""
+
+msgctxt "1208"
+msgid "......"
+msgstr ""
+
+msgctxt "1220"
+msgid "Well, I'll be damned... So you're finally back in town!"
+msgstr ""
+
+msgctxt "1232"
+msgid "...And you are?"
+msgstr ""
+
+msgctxt "1244"
+msgid ""
+"You gotta be shittin' me! It's ya boy, Mr. Try and Hit Me!\r\n"
+"Don't tell me you forgot..."
+msgstr ""
+
+msgctxt "1256"
+msgid "Yeah... I think I'd remember a name like that."
+msgstr ""
+
+msgctxt "1268"
+msgid ""
+"Well, if it helps jog your memory, I've been challenging\r\n"
+"people on the street to hit me for prize money. It ain't\r\n"
+"your average desk job, but hey, it's a living!"
+msgstr ""
+
+msgctxt "1280"
+msgid ""
+"I offer my services for 3,000 yen a minute. Within that,\r\n"
+"you're free to try and hit me as much as you like, with a\r\n"
+"reward of 50 grand if you're successful. Not bad, I know."
+msgstr ""
+
+msgctxt "1292"
+msgid ""
+"Ever since you smacked me a good one, oh, some two-odd years\r\n"
+"back, I've been training all over Japan, vowing to never get\r\n"
+"hit again."
+msgstr ""
+
+msgctxt "1304"
+msgid ""
+"I've gone up against boxers, Muay Thai experts, you name it.\r\n"
+"And now you're finally back... What kept ya so long!?"
+msgstr ""
+
+msgctxt "1316"
+msgid "...A lot of things, actually."
+msgstr ""
+
+msgctxt "1328"
+msgid ""
+"Well shoot, it feels like I've been waiting forever for this\r\n"
+"day! How about challenging the new-and-improved me!?"
+msgstr ""
+
+msgctxt "1340"
+msgid ""
+"(All I have to do is hit him once and I'll earn 50,000 yen.\r\n"
+"That doesn't sound so hard...)"
+msgstr ""
+
+msgctxt "1352"
+msgid "All right. I'll take you on."
+msgstr ""
+
+msgctxt "1364"
+msgid ""
+"That's what I like to hear! It'll cost you 3,000 yen\r\n"
+"up front. That okay?"
+msgstr ""
+
+msgctxt "1388"
+msgid "Fine by me... Here."
+msgstr ""
+
+msgctxt "1400"
+msgid ""
+"All right! Punch or kick me in a minute or less, and that\r\n"
+"50,000 yen prize money is all yours!"
+msgstr ""
+
+msgctxt "1412"
+msgid ""
+"And weapons are off limits⑬gotta keep it clean. Now then...\r\n"
+"If you think you can keep the pace... then try and bust my face!"
+msgstr ""
+
+msgctxt "1436"
+msgid "...Ah. Looks like I'm a little short on cash."
+msgstr ""
+
+msgctxt "1448"
+msgid ""
+"Hey, I'm trying to run a business here! No cash, no contest!\r\n"
+"*sigh* Let's take it from the top..."
+msgstr ""
+
+msgctxt "1460"
+msgid ""
+"Go scrounge yourself up 3,000 yen and come back later.\r\n"
+"I got this spot staked out, so... I'll be waiting."
+msgstr ""
+
+msgctxt "1472"
+msgid "All right. Then I'll be back."
+msgstr ""
+
+msgctxt "1484"
+msgid "Sorry... Maybe some other time."
+msgstr ""
+
+msgctxt "1496"
+msgid "Wait, what? You chickening out all of a sudden?"
+msgstr ""
+
+msgctxt "1508"
+msgid "......"
+msgstr ""
+
+msgctxt "1520"
+msgid ""
+"I spent a ton of time training to dodge those crazy fists of\r\n"
+"yours, so you better get your shit together and come back."
+msgstr ""
+
+msgctxt "1532"
+msgid "Take the Challenge"
+msgstr ""
+
+msgctxt "1544"
+msgid "Bow Out for Now"
+msgstr ""
+
+msgctxt "1556"
+msgid "Take the Challenge"
+msgstr ""
+
+msgctxt "1568"
+msgid "Bow Out for Now"
+msgstr ""
+
+msgctxt "1580"
+msgid "Take the Challenge"
+msgstr ""
+
+msgctxt "1592"
+msgid "Bow Out for Now"
+msgstr ""
+
+msgctxt "17012"
+msgid "Mr. Try and Hit Me"
+msgstr ""
+
+msgctxt "17016"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "17020"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "17024"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "17028"
+msgid "Onlooker"
+msgstr ""
+
+msgctxt "17032"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "17036"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "17040"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "17044"
+msgid "Sync_Send"
+msgstr ""
+
+msgctxt "17048"
+msgid "Talk_Chohatu"
+msgstr ""
+
+msgctxt "17052"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "17056"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "17060"
+msgid "Sore Loser"
+msgstr ""
+
+msgctxt "17064"
+msgid "Arguably Familiar Man"
+msgstr ""
+
+msgctxt "17068"
+msgid "Talk_NoBig"
+msgstr ""
+
+msgctxt "17072"
+msgid "Talk_Away"
+msgstr ""
+
+msgctxt "17076"
+msgid "M_nml_stand"
+msgstr ""
+
+msgctxt "17080"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "17084"
+msgid "Talk_Kosite_st"
+msgstr ""
+
+msgctxt "17088"
+msgid "Talk_Kosite_Yes"
+msgstr ""
+
+msgctxt "17092"
+msgid "Talk_Kosite_No"
+msgstr ""
+
+msgctxt "17096"
+msgid "Talk_Kosite_ed"
+msgstr ""

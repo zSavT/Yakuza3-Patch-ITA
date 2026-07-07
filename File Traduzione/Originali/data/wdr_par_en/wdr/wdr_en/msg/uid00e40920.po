@@ -1,0 +1,182 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "148"
+msgid "I don't mean to brag, but I've never lost a fight. Ever!"
+msgstr ""
+
+msgctxt "160"
+msgid "Really!? That's amazing, Nobu-kun!"
+msgstr ""
+
+msgctxt "172"
+msgid ""
+"The punk I was fighting yesterday crashed through a\r\n"
+"window and got all bloodied up! Hahaha!"
+msgstr ""
+
+msgctxt "184"
+msgid ""
+"Nobu-kun! Now, that's taking things a little too far!\r\n"
+"He should've known not to pick a fight with you, though."
+msgstr ""
+
+msgctxt "196"
+msgid "(What the hell is this guy bragging about?)"
+msgstr ""
+
+msgctxt "208"
+msgid "Hey, you."
+msgstr ""
+
+msgctxt "232"
+msgid "Yeah? Who're you?"
+msgstr ""
+
+msgctxt "244"
+msgid ""
+"I just overheard you talking. Is it true you never lost a\r\n"
+"fight?"
+msgstr ""
+
+msgctxt "256"
+msgid "Huh? Why should I have to tell <Italic>you</Italic>!?"
+msgstr ""
+
+msgctxt "268"
+msgid "Just answer me. Is it true, or isn't it?"
+msgstr ""
+
+msgctxt "280"
+msgid "Well... Um..."
+msgstr ""
+
+msgctxt "292"
+msgid ""
+"Hey, who do you think you're talking to!? This is Nobu-kun,\r\n"
+"you know⑬<Color:7>undefeated in fifty street battles<Color:Default>!"
+msgstr ""
+
+msgctxt "304"
+msgid ""
+"<Color:7>Undefeated in fifty street battles<Color:Default>... Is that "
+"really true?"
+msgstr ""
+
+msgctxt "316"
+msgid "Well, I guess you could say that..."
+msgstr ""
+
+msgctxt "328"
+msgid ""
+"In that case, I need your help! Do you know the Underground\r\n"
+"Coliseum?"
+msgstr ""
+
+msgctxt "340"
+msgid "Underground Coliseum?"
+msgstr ""
+
+msgctxt "352"
+msgid "Yeah. I want you to join me for a tag match there."
+msgstr ""
+
+msgctxt "364"
+msgid ""
+"What!? Hey, that's perfect! That oughta be easy for you,\r\n"
+"Nobu-kun! Right?"
+msgstr ""
+
+msgctxt "376"
+msgid ""
+"Oh, yeah... Easy! I'd be sure to win something like that!\r\n"
+"Haha... hahaha..."
+msgstr ""
+
+msgctxt "388"
+msgid "Great! Will you enter with me, then?"
+msgstr ""
+
+msgctxt "400"
+msgid "Of course he will!"
+msgstr ""
+
+msgctxt "436"
+msgid ""
+"Wait a sec! I, uh, just remembered I've got an appointment\r\n"
+"to get to! Sorry, maybe next time! Bye!"
+msgstr ""
+
+msgctxt "448"
+msgid "Wait up, Nobu-kun!"
+msgstr ""
+
+msgctxt "508"
+msgid "Damn. I'll never find anybody."
+msgstr ""
+
+msgctxt "520"
+msgid "(Hmm? Haven't I seen that guy before...?)"
+msgstr ""
+
+msgctxt "5500"
+msgid "Cocky Man"
+msgstr ""
+
+msgctxt "5504"
+msgid "Short Man"
+msgstr ""
+
+msgctxt "5508"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "5512"
+msgid "Talk_NoBig"
+msgstr ""
+
+msgctxt "5516"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "5520"
+msgid "Thin Man"
+msgstr ""
+
+msgctxt "5524"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "5528"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "5532"
+msgid "M_yng_stand"
+msgstr ""
+
+msgctxt "5536"
+msgid "Idle"
+msgstr ""
+
+msgctxt "5540"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "5544"
+msgid "dummy"
+msgstr ""
+
+msgctxt "5548"
+msgid "0"
+msgstr ""

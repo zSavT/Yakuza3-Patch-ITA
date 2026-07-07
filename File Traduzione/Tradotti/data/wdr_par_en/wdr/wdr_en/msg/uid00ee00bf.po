@@ -1,0 +1,111 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "124"
+msgid ""
+"(...Hey, what about her? As far as being a hostess goes, she\r\n"
+"might be a good fit. Let's see here...)"
+msgstr ""
+
+msgctxt "136"
+msgid ""
+"(She takes care of herself fairly well, and I sense that\r\n"
+"she's really smart... I doubt she'd be fazed by a stressful\r\n"
+"day on the job, either... Should I ask her to join?)"
+msgstr ""
+
+msgctxt "148"
+msgid "(On second thought... maybe not.)"
+msgstr ""
+
+msgctxt "172"
+msgid "(Okay, let's see what I can come up with...)"
+msgstr ""
+
+msgctxt "184"
+msgid "Sorry to interrupt whatever you're doing, but..."
+msgstr ""
+
+msgctxt "196"
+msgid "...Huh? Oh! Are you talking to me?"
+msgstr ""
+
+msgctxt "208"
+msgid ""
+"Oh yes. You see, I was minding my own business, when all of\r\n"
+"a sudden, I found myself drawn to your overwhelming beauty."
+msgstr ""
+
+msgctxt "220"
+msgid "Nooooo.... You really mean that!?"
+msgstr ""
+
+msgctxt "232"
+msgid ""
+"Of course I do. Now, I'm sure you get this all the time, but\r\n"
+"have you ever been interested in working as a hostess?"
+msgstr ""
+
+msgctxt "244"
+msgid ""
+"No, actually! You're the first one who's asked! And yeah,\r\n"
+"I guess I'd be open to it."
+msgstr ""
+
+msgctxt "256"
+msgid ""
+"All right. Then would you mind coming by our club? I'd be\r\n"
+"more than happy to explain the details there."
+msgstr ""
+
+msgctxt "268"
+msgid ""
+"Okay, then! I'm Kirie. 22 years old and looking to broaden\r\n"
+"my horizons. It's really nice to meet you!"
+msgstr ""
+
+msgctxt "280"
+msgid "Likewise. Let me show you the way."
+msgstr ""
+
+msgctxt "304"
+msgid "Approach Her"
+msgstr ""
+
+msgctxt "316"
+msgid "Hold That Thought"
+msgstr ""
+
+msgctxt "3284"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "3288"
+msgid "dummy"
+msgstr ""
+
+msgctxt "3292"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "3296"
+msgid "Woman"
+msgstr ""
+
+msgctxt "3300"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "3304"
+msgid "Kirie"
+msgstr ""

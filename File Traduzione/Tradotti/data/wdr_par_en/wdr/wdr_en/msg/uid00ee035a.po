@@ -1,0 +1,241 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "228"
+msgid "I can tell Natsume is a lot more fired up to be here now."
+msgstr ""
+
+msgctxt "240"
+msgid "Glad she finally had a change of heart."
+msgstr ""
+
+msgctxt "252"
+msgid ""
+"Yes, and it's all thanks to you. With her on our side,\r\n"
+"I feel as though our club has a fighting chance."
+msgstr ""
+
+msgctxt "264"
+msgid "And please take this as a token of my thanks."
+msgstr ""
+
+msgctxt "276"
+msgid "You got <Color:8>300,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "288"
+msgid ""
+"Kiryu-san, you taught us all something valuable about\r\n"
+"raising a hostess from the ground up. Your exploits will\r\n"
+"surely go down in club history."
+msgstr ""
+
+msgctxt "300"
+msgid "Oh, I don't know about that."
+msgstr ""
+
+msgctxt "312"
+msgid ""
+"Well, I guess this is goodbye. Perhaps you'll come and see us in your spare "
+"time? Anyway, there's still much to be done, so... Good luck, Kiryu-san. "
+"And take care of yourself."
+msgstr ""
+
+msgctxt "360"
+msgid "You got 10,000 EXP."
+msgstr ""
+
+msgctxt "408"
+msgid ""
+"Once again, we're short on a number one hostess, but at\r\n"
+"least our finances are in the green. The girls have been\r\n"
+"getting along well, too."
+msgstr ""
+
+msgctxt "420"
+msgid "That's always good."
+msgstr ""
+
+msgctxt "432"
+msgid "Indeed. As a way of saying thanks, I'd like you to have this."
+msgstr ""
+
+msgctxt "444"
+msgid "You got <Color:8>100,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "456"
+msgid ""
+"Kiryu-san, would you be willing to coach another hostess for\r\n"
+"us? I'm sure you'd do a fine job."
+msgstr ""
+
+msgctxt "468"
+msgid "......"
+msgstr ""
+
+msgctxt "480"
+msgid ""
+"It doesn't have to be now. But, if you enjoy the thrill of\r\n"
+"ruling the nightlife... the joy of growing a tiny sapling\r\n"
+"into a great big tree of hostessing... We'll be waiting."
+msgstr ""
+
+msgctxt "528"
+msgid "You got 5,000 EXP."
+msgstr ""
+
+msgctxt "576"
+msgid ""
+"Though we lost our number one hostess, we managed to drum up\r\n"
+"some excellent business. I think we'll be able to manage."
+msgstr ""
+
+msgctxt "588"
+msgid "That's good."
+msgstr ""
+
+msgctxt "600"
+msgid ""
+"The girls aren't getting along too badly either, so I think\r\n"
+"they've learned something by watching you work."
+msgstr ""
+
+msgctxt "612"
+msgid "And please take this as a token of thanks for your help."
+msgstr ""
+
+msgctxt "624"
+msgid "You got <Color:8>100,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "636"
+msgid ""
+"Oh, right! Kiryu-san, would you... be willing to coach\r\n"
+"another hostess?"
+msgstr ""
+
+msgctxt "648"
+msgid "What? Again?"
+msgstr ""
+
+msgctxt "660"
+msgid ""
+"It doesn't have to be right now. But if you enjoy the\r\n"
+"satisfaction of singling out a rising star and guiding her\r\n"
+"to glory... We'll be awaiting your return."
+msgstr ""
+
+msgctxt "708"
+msgid "You got 5,000 EXP."
+msgstr ""
+
+msgctxt "768"
+msgid "Hey, what's wrong? You look like a vein's about to pop."
+msgstr ""
+
+msgctxt "780"
+msgid ""
+"Oh, well, I uh... I probably shouldn't be bothering a random\r\n"
+"stranger with this, but business hasn't been so good lately."
+msgstr ""
+
+msgctxt "792"
+msgid "You mean at this cabaret club?"
+msgstr ""
+
+msgctxt "804"
+msgid ""
+"That's right. I'm the manager here, and... Ahh, it's a long\r\n"
+"story..."
+msgstr ""
+
+msgctxt "816"
+msgid "Hey, would you mind if I asked you for some advice?"
+msgstr ""
+
+msgctxt "828"
+msgid "Sure, why not?"
+msgstr ""
+
+msgctxt "840"
+msgid "Thank you!"
+msgstr ""
+
+msgctxt "852"
+msgid "I'd hate to make you stand in the street, so let's talk inside."
+msgstr ""
+
+msgctxt "876"
+msgid "Sorry, but I'm probably not the best person to ask."
+msgstr ""
+
+msgctxt "888"
+msgid "I see... That's unfortunate."
+msgstr ""
+
+msgctxt "900"
+msgid "Oh, are you willing to hear me out?"
+msgstr ""
+
+msgctxt "912"
+msgid "Sure, why not?"
+msgstr ""
+
+msgctxt "924"
+msgid "Ask someone else."
+msgstr ""
+
+msgctxt "936"
+msgid "Listen"
+msgstr ""
+
+msgctxt "948"
+msgid "Decline"
+msgstr ""
+
+msgctxt "8456"
+msgid "Manager"
+msgstr ""
+
+msgctxt "8460"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "8464"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "8468"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "8472"
+msgid "Sync_Send"
+msgstr ""
+
+msgctxt "8476"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "8480"
+msgid "Talk_Sorry"
+msgstr ""
+
+msgctxt "8484"
+msgid "Talk_Info_L"
+msgstr ""
+
+msgctxt "8488"
+msgid "Talk_Gakkari"
+msgstr ""

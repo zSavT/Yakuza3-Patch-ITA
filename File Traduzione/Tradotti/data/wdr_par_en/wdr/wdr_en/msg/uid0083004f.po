@@ -1,0 +1,188 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "80"
+msgid "Take care of yourself, Kazuki."
+msgstr ""
+
+msgctxt "92"
+msgid "Same to you, Kiryu-san."
+msgstr ""
+
+msgctxt "104"
+msgid "Will do. See you later."
+msgstr ""
+
+msgctxt "116"
+msgid "Hey, Kazuki. How are you feeling?"
+msgstr ""
+
+msgctxt "128"
+msgid ""
+"Oh, Kiryu-san! Did you come all the way here just to see me?\r\n"
+"The doc says it'll still be a while until I can go home, but\r\n"
+"I'm on the mend at least."
+msgstr ""
+
+msgctxt "140"
+msgid "Right. You're looking pretty healthy."
+msgstr ""
+
+msgctxt "152"
+msgid "Thanks. Means a lot coming from you."
+msgstr ""
+
+msgctxt "164"
+msgid "Um, Uncle Kazuki? We're actually here to say goodbye."
+msgstr ""
+
+msgctxt "176"
+msgid "...Goodbye? Are you two going somewhere, Kiryu-san?"
+msgstr ""
+
+msgctxt "188"
+msgid ""
+"Yup. The Go-Ryu and the Jingweon have been dealt with,\r\n"
+"and Daigo's come around to being the next chairman. My job\r\n"
+"here is done."
+msgstr ""
+
+msgctxt "200"
+msgid "We're moving to Okinawa!"
+msgstr ""
+
+msgctxt "212"
+msgid "Okinawa, huh? That's pretty far."
+msgstr ""
+
+msgctxt "224"
+msgid ""
+"Yeah, that's... kinda the point. Haruka and I are gonna be\r\n"
+"running an orphanage down there."
+msgstr ""
+
+msgctxt "236"
+msgid ""
+"Wow. I can't say we won't miss you, Kiryu-san... but I'm\r\n"
+"sure you'll be great."
+msgstr ""
+
+msgctxt "248"
+msgid "Heh, Yuya said pretty much the same thing."
+msgstr ""
+
+msgctxt "260"
+msgid "Oh, he also said you'd come visit us!"
+msgstr ""
+
+msgctxt "272"
+msgid ""
+"We have been looking for places to take the boys for some\r\n"
+"team building. Can't think of a better place than Okinawa."
+msgstr ""
+
+msgctxt "284"
+msgid "You better not forget!"
+msgstr ""
+
+msgctxt "296"
+msgid "Don't worry, Haruka-chan. We'll visit you soon."
+msgstr ""
+
+msgctxt "320"
+msgid "Kiryu-san... Thank you for everything. I owe you my life."
+msgstr ""
+
+msgctxt "332"
+msgid ""
+"Don't be ridiculous. If it wasn't for me and the Tojo Clan,\r\n"
+"you never would have ended up like this in the first place."
+msgstr ""
+
+msgctxt "344"
+msgid "I hope you can forgive me."
+msgstr ""
+
+msgctxt "356"
+msgid ""
+"Don't be like that, Kiryu-san. I can't imagine a Kamurocho\r\n"
+"without you."
+msgstr ""
+
+msgctxt "368"
+msgid ""
+"This town owes you and Kazama-san more than you realize...\r\n"
+"so please."
+msgstr ""
+
+msgctxt "380"
+msgid "There's no need to apologize."
+msgstr ""
+
+msgctxt "392"
+msgid "...If you say so. Thanks again, Kazuki."
+msgstr ""
+
+msgctxt "404"
+msgid "Of course. And... take care of yourself, Kiryu-san."
+msgstr ""
+
+msgctxt "416"
+msgid "I will."
+msgstr ""
+
+msgctxt "428"
+msgid "Feel better soon, Uncle Kazuki!"
+msgstr ""
+
+msgctxt "440"
+msgid ""
+"Thanks, Haruka-chan. Be good down in Okinawa, okay? I don't want to hear "
+"about you getting into any trouble."
+msgstr ""
+
+msgctxt "452"
+msgid "Hehe, okay! Bye!"
+msgstr ""
+
+msgctxt "5536"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "5540"
+msgid "Kazuki"
+msgstr ""
+
+msgctxt "5544"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "5548"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "5552"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "5556"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "5560"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "5564"
+msgid "Talk_Call"
+msgstr ""

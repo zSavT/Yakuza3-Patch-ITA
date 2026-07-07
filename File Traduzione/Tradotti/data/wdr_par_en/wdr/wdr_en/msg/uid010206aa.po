@@ -1,0 +1,74 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "80"
+msgid "(Morning Glory really came together to cheer Ayako up.)"
+msgstr ""
+
+msgctxt "92"
+msgid "(I have a feeling everyone's gonna get along better from now on.)"
+msgstr ""
+
+msgctxt "104"
+msgid ""
+"(I still haven't heard from Tamiya, though. He was supposed\r\n"
+"to give me another call today...)"
+msgstr ""
+
+msgctxt "116"
+msgid "Ahoy there, brother!"
+msgstr ""
+
+msgctxt "128"
+msgid "Good seeing you, Nakahara. How did your tests go?"
+msgstr ""
+
+msgctxt "140"
+msgid ""
+"Oh, just peachy. Passed all of 'em with flying colors!\r\n"
+"Sounds like it won't be much longer 'til I'm right as rain."
+msgstr ""
+
+msgctxt "152"
+msgid ""
+"Only if you get enough rest, Boss! You should be in bed\r\n"
+"right now, not out and about!"
+msgstr ""
+
+msgctxt "164"
+msgid "Eh, I can rest when I'm dead! Hahaha!"
+msgstr ""
+
+msgctxt "176"
+msgid "Heh, I think he's gonna be just fine."
+msgstr ""
+
+msgctxt "1996"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "2000"
+msgid "Talk_Kosite_st"
+msgstr ""
+
+msgctxt "2004"
+msgid "Nakahara"
+msgstr ""
+
+msgctxt "2008"
+msgid "Talk_Kosite_ed"
+msgstr ""
+
+msgctxt "2012"
+msgid "Rikiya"
+msgstr ""

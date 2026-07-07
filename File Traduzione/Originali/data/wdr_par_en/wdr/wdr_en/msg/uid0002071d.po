@@ -1,0 +1,52 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid "Excuse me. Does Nakahara-san live here?"
+msgstr ""
+
+msgctxt "76"
+msgid ""
+"He does, but he's not in right now. Do you have some kind of business with "
+"him?"
+msgstr ""
+
+msgctxt "88"
+msgid "Oh, I just needed to speak with him for a moment."
+msgstr ""
+
+msgctxt "100"
+msgid ""
+"In that case, he's actually at my house. I can take you to him if you'd "
+"like."
+msgstr ""
+
+msgctxt "112"
+msgid "Wonderful. I would greatly appreciate it."
+msgstr ""
+
+msgctxt "920"
+msgid "Slightly Plump Gentleman"
+msgstr ""
+
+msgctxt "924"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "928"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "932"
+msgid "Talk_Ojigi"
+msgstr ""

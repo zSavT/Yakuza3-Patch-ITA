@@ -1,0 +1,88 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "156"
+msgid "No! Somebody get my manager!"
+msgstr ""
+
+msgctxt "168"
+msgid "How did he get in so close!?"
+msgstr ""
+
+msgctxt "204"
+msgid "Oh, shit..."
+msgstr ""
+
+msgctxt "216"
+msgid "Huh? Didn't I just see you?"
+msgstr ""
+
+msgctxt "228"
+msgid "Oh, um... I'm actually, uh..."
+msgstr ""
+
+msgctxt "240"
+msgid "Things could get ugly if I find you snapping photos of her. Get lost."
+msgstr ""
+
+msgctxt "252"
+msgid "Okay! I'm really sorry about this!"
+msgstr ""
+
+msgctxt "1904"
+msgid "F_sxy_stand"
+msgstr ""
+
+msgctxt "1908"
+msgid "SetF_sxy_stand_tlk_kamae"
+msgstr ""
+
+msgctxt "1912"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "1916"
+msgid "Makiko Takahashi"
+msgstr ""
+
+msgctxt "1920"
+msgid "Manager"
+msgstr ""
+
+msgctxt "1924"
+msgid "Idle"
+msgstr ""
+
+msgctxt "1928"
+msgid "Paparazzi"
+msgstr ""
+
+msgctxt "1932"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1936"
+msgid "P_stand_tlk_kosite_st"
+msgstr ""
+
+msgctxt "1940"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "1944"
+msgid "P_stand_tlk_kosite_ed"
+msgstr ""
+
+msgctxt "1948"
+msgid "Talk_No"
+msgstr ""

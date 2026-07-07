@@ -1,0 +1,281 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "512"
+msgid ""
+"Seems like we could've done a lot better. Let's put in more\r\n"
+"effort next time, okay?"
+msgstr ""
+
+msgctxt "524"
+msgid ""
+"Very well, then. I'll think about what I need to do to\r\n"
+"improve."
+msgstr ""
+
+msgctxt "548"
+msgid ""
+"Good work out there tonight. I think you're getting the hang\r\n"
+"of it."
+msgstr ""
+
+msgctxt "560"
+msgid ""
+"Thank you for the vote of confidence. I'll focus on what I\r\n"
+"did right and work out anything that needs improvement."
+msgstr ""
+
+msgctxt "584"
+msgid ""
+"Great job out there tonight. I could tell you were giving it\r\n"
+"your all."
+msgstr ""
+
+msgctxt "596"
+msgid ""
+"Tonight was certainly a challenge, but I feel like it went\r\n"
+"fairly smooth. I'll do my best to keep it up."
+msgstr ""
+
+msgctxt "632"
+msgid ""
+"Let's work on your presentation. Makeup, hair, posture...\r\n"
+"All of these things send certain signals to a man."
+msgstr ""
+
+msgctxt "644"
+msgid ""
+"Tell me more about these... signals, Kiryu-san. I want to\r\n"
+"know every detail."
+msgstr ""
+
+msgctxt "680"
+msgid "All right, I think that just about covers it."
+msgstr ""
+
+msgctxt "692"
+msgid "Now that's certainly food for thought... I'll try that."
+msgstr ""
+
+msgctxt "728"
+msgid "Hmm... I honestly think you have a ways to go."
+msgstr ""
+
+msgctxt "740"
+msgid ""
+"Oh, well excuse me for being myself... Oh, did I say that\r\n"
+"out loud?"
+msgstr ""
+
+msgctxt "776"
+msgid ""
+"Okay, so today we're going to study a little trivia. No\r\n"
+"matter what the conversation, it's always important to be\r\n"
+"smart about what you say. \"Knowledge is power,\" right?"
+msgstr ""
+
+msgctxt "788"
+msgid "Indeed. I'm curious as to what you were thinking."
+msgstr ""
+
+msgctxt "824"
+msgid "All right, that should be more than enough."
+msgstr ""
+
+msgctxt "836"
+msgid "Hmm. Yeah, I could see this working. Thanks!"
+msgstr ""
+
+msgctxt "872"
+msgid "Hmm... I'm not quite sure you got the picture."
+msgstr ""
+
+msgctxt "884"
+msgid ""
+"Was there something I missed? Perhaps we can cover it when\r\n"
+"I'm not about to go back on the floor."
+msgstr ""
+
+msgctxt "920"
+msgid ""
+"Right now, I'd like to give you some conversation tips to\r\n"
+"help you captivate the customers. Sound good?"
+msgstr ""
+
+msgctxt "932"
+msgid "That does sound good. I'll be taking mental notes."
+msgstr ""
+
+msgctxt "968"
+msgid "All right, I think you've pretty much got it down."
+msgstr ""
+
+msgctxt "980"
+msgid "Naturally. But I must say... You really know your stuff."
+msgstr ""
+
+msgctxt "1016"
+msgid "Hmm... I think you could still use a little work."
+msgstr ""
+
+msgctxt "1028"
+msgid ""
+"Wow, what a way to put it... Guess I'll redouble my efforts\r\n"
+"then."
+msgstr ""
+
+msgctxt "1064"
+msgid ""
+"I think you should spend your downtime doing whatever you\r\n"
+"like. You've definitely earned it."
+msgstr ""
+
+msgctxt "1076"
+msgid "That would be much appreciated. Thank you."
+msgstr ""
+
+msgctxt "1112"
+msgid ""
+"Did you make the most of your time? You seem pretty\r\n"
+"energetic."
+msgstr ""
+
+msgctxt "1124"
+msgid "I am rested and ready to go! Firing on all pistons here."
+msgstr ""
+
+msgctxt "1160"
+msgid "Hmm... Are you sure you're doing okay?"
+msgstr ""
+
+msgctxt "1172"
+msgid ""
+"*sigh* There is just so much drama going on right now...\r\n"
+"It's hard to get it off my mind. But... I'll try."
+msgstr ""
+
+msgctxt "1208"
+msgid ""
+"Today, we're going to work on your weak points. Now I know I\r\n"
+"might come off a little blunt, but bear with it, okay?"
+msgstr ""
+
+msgctxt "1220"
+msgid "...Now this should be good."
+msgstr ""
+
+msgctxt "1256"
+msgid ""
+"All right, now think about what I told you and give it your\r\n"
+"full effort next time."
+msgstr ""
+
+msgctxt "1268"
+msgid "That's the nicest anyone's ever put it. Thanks, Kiryu-san."
+msgstr ""
+
+msgctxt "1304"
+msgid "(I don't think any of that really got through to her...)"
+msgstr ""
+
+msgctxt "1316"
+msgid "...You were saying?"
+msgstr ""
+
+msgctxt "1352"
+msgid ""
+"I think you should take some time off for yourself and relax\r\n"
+"to your heart's content. Do what's good for %s."
+msgstr ""
+
+msgctxt "1364"
+msgid "Thank you. There's a lot I've been meaning to do."
+msgstr ""
+
+msgctxt "1400"
+msgid "So, how was your time off?"
+msgstr ""
+
+msgctxt "1412"
+msgid "Perfect, thank you for asking!"
+msgstr ""
+
+msgctxt "1448"
+msgid "So, did you enjoy yourself?"
+msgstr ""
+
+msgctxt "1460"
+msgid "I tried, but all this other stuff got in the way..."
+msgstr ""
+
+msgctxt "1496"
+msgid ""
+"Today, we're going to find a way to keep you motivated and\r\n"
+"help you stay positive. How does that sound?"
+msgstr ""
+
+msgctxt "1508"
+msgid "All right. I can get behind that."
+msgstr ""
+
+msgctxt "1544"
+msgid "Well? How's that for positive thinking?"
+msgstr ""
+
+msgctxt "1556"
+msgid "Wow... That's a lot to unpack right there. I'm amazed."
+msgstr ""
+
+msgctxt "1592"
+msgid "Well? Do you feel more positive now?"
+msgstr ""
+
+msgctxt "1604"
+msgid "What I feel like is getting back to work..."
+msgstr ""
+
+msgctxt "11768"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "11772"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "11776"
+msgid "Hostess Trainee Name"
+msgstr ""
+
+msgctxt "11780"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "11784"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "11788"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "11792"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "11796"
+msgid "P_stand_tlk_shikaru"
+msgstr ""
+
+msgctxt "11800"
+msgid "SetF_nml_sitchr_sleep"
+msgstr ""

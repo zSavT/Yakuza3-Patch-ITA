@@ -1,0 +1,232 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "472"
+msgid "Criminal"
+msgstr ""
+
+msgctxt "484"
+msgid "da"
+msgstr ""
+
+msgctxt "496"
+msgid "field test"
+msgstr ""
+
+msgctxt "508"
+msgid "Off"
+msgstr ""
+
+msgctxt "520"
+msgid "On"
+msgstr ""
+
+msgctxt "532"
+msgid "testt"
+msgstr ""
+
+msgctxt "544"
+msgid "test2"
+msgstr ""
+
+msgctxt "556"
+msgid "tetetest"
+msgstr ""
+
+msgctxt "568"
+msgid "Choice test with more than 8 choices"
+msgstr ""
+
+msgctxt "592"
+msgid "Hint0"
+msgstr ""
+
+msgctxt "604"
+msgid "Hint1"
+msgstr ""
+
+msgctxt "616"
+msgid "Hint2"
+msgstr ""
+
+msgctxt "628"
+msgid "Hint3"
+msgstr ""
+
+msgctxt "640"
+msgid "Hint4"
+msgstr ""
+
+msgctxt "652"
+msgid "Hint5"
+msgstr ""
+
+msgctxt "664"
+msgid "Hint6"
+msgstr ""
+
+msgctxt "676"
+msgid "Hint7"
+msgstr ""
+
+msgctxt "688"
+msgid "Hint8"
+msgstr ""
+
+msgctxt "700"
+msgid "Hint9"
+msgstr ""
+
+msgctxt "712"
+msgid "Hint10"
+msgstr ""
+
+msgctxt "724"
+msgid "Hint11"
+msgstr ""
+
+msgctxt "736"
+msgid "Hint12"
+msgstr ""
+
+msgctxt "748"
+msgid "Hint13"
+msgstr ""
+
+msgctxt "772"
+msgid "More than 5m"
+msgstr ""
+
+msgctxt "784"
+msgid "Within 1m"
+msgstr ""
+
+msgctxt "796"
+msgid "Within 3m"
+msgstr ""
+
+msgctxt "808"
+msgid "Within 5m"
+msgstr ""
+
+msgctxt "832"
+msgid "Drunkenness has exceeded 50％."
+msgstr ""
+
+msgctxt "856"
+msgid "Get Drunk"
+msgstr ""
+
+msgctxt "868"
+msgid "Sober Up"
+msgstr ""
+
+msgctxt "892"
+msgid "More than 50％"
+msgstr ""
+
+msgctxt "904"
+msgid "Less than 50％"
+msgstr ""
+
+msgctxt "916"
+msgid "Test<Color:7>キーワード<Color:Default>test"
+msgstr ""
+
+msgctxt "928"
+msgid "Misso<Color:7>ミッションキーワード<Color:Default>n keyword"
+msgstr ""
+
+msgctxt "940"
+msgid "This is my <Color:8>アイテム<Color:Default>."
+msgstr ""
+
+msgctxt "952"
+msgid "Oh, a <Color:8>Staminan X<Color:Default>."
+msgstr ""
+
+msgctxt "964"
+msgid "Got a tarnished <Color:8>５０００円<Color:Default>."
+msgstr ""
+
+msgctxt "976"
+msgid "Learned <Color:9>パンチ<Color:Default>."
+msgstr ""
+
+msgctxt "988"
+msgid "test1"
+msgstr ""
+
+msgctxt "1000"
+msgid "test1"
+msgstr ""
+
+msgctxt "1012"
+msgid "test1"
+msgstr ""
+
+msgctxt "1024"
+msgid "test1"
+msgstr ""
+
+msgctxt "1036"
+msgid "test1"
+msgstr ""
+
+msgctxt "1048"
+msgid "test1"
+msgstr ""
+
+msgctxt "1060"
+msgid "test1"
+msgstr ""
+
+msgctxt "1072"
+msgid "test1"
+msgstr ""
+
+msgctxt "1084"
+msgid "test1"
+msgstr ""
+
+msgctxt "1096"
+msgid "test1"
+msgstr ""
+
+msgctxt "1108"
+msgid "test1"
+msgstr ""
+
+msgctxt "1120"
+msgid "test1"
+msgstr ""
+
+msgctxt "1132"
+msgid "test1"
+msgstr ""
+
+msgctxt "1144"
+msgid "test1"
+msgstr ""
+
+msgctxt "1156"
+msgid "Get Drunk"
+msgstr ""
+
+msgctxt "1168"
+msgid "Sober Up"
+msgstr ""
+
+msgctxt "3816"
+msgid "dummy"
+msgstr ""

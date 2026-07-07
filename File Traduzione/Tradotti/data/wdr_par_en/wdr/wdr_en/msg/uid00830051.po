@@ -1,0 +1,152 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "80"
+msgid ""
+"Feel free to leave the girl with me while you go handle\r\n"
+"your business with Majima."
+msgstr ""
+
+msgctxt "92"
+msgid "Thanks, Emoto. I appreciate it."
+msgstr ""
+
+msgctxt "104"
+msgid "I hear you're leaving Kamurocho?"
+msgstr ""
+
+msgctxt "116"
+msgid ""
+"Yeah, now that everything's settled down. By the way, how's\r\n"
+"Kazuki doing?"
+msgstr ""
+
+msgctxt "128"
+msgid ""
+"He'll be fine soon enough. It's still some time 'til he'll\r\n"
+"be out on the street, but he's progressing nicely."
+msgstr ""
+
+msgctxt "140"
+msgid "Good to know."
+msgstr ""
+
+msgctxt "152"
+msgid "Did you drop in on the Tojo Clan yet?"
+msgstr ""
+
+msgctxt "164"
+msgid ""
+"Nope, and I'm not planning to. Daigo and Yayoi-san have\r\n"
+"enough on their plates already rebuilding the organization.\r\n"
+"Besides, the Tojo don't need me now that Daigo's in charge."
+msgstr ""
+
+msgctxt "176"
+msgid "I wouldn't be so sure about that..."
+msgstr ""
+
+msgctxt "188"
+msgid ""
+"It's all right. I left a letter for Daigo over with\r\n"
+"Kashiwagi-san."
+msgstr ""
+
+msgctxt "200"
+msgid "There is one thing I need, though..."
+msgstr ""
+
+msgctxt "212"
+msgid "Hm? What's that?"
+msgstr ""
+
+msgctxt "224"
+msgid ""
+"I need to see a certain someone before I leave Kamurocho\r\n"
+"for good."
+msgstr ""
+
+msgctxt "236"
+msgid "...Majima. You're gonna ask him to look after Daigo, huh?"
+msgstr ""
+
+msgctxt "248"
+msgid ""
+"Yeah. If we want all the other families to accept Daigo\r\n"
+"as their leader, we need a big man like Majima to come\r\n"
+"forward and do it first."
+msgstr ""
+
+msgctxt "260"
+msgid ""
+"Can't you just step in if anyone starts giving him trouble?\r\n"
+"Why's it have to be Majima?"
+msgstr ""
+
+msgctxt "272"
+msgid "I'm out of the clan, that's why. Besides..."
+msgstr ""
+
+msgctxt "284"
+msgid "What?"
+msgstr ""
+
+msgctxt "296"
+msgid ""
+"It's not that long ago that the Tojo wanted me dead. Even\r\n"
+"now, I have my fair share of enemies in the clan."
+msgstr ""
+
+msgctxt "308"
+msgid "Meaning the Mad Dog's your only option."
+msgstr ""
+
+msgctxt "320"
+msgid ""
+"That's right. None of the patriarchs would dare mess with\r\n"
+"Majima, but if Daigo can show he's got him on a leash..."
+msgstr ""
+
+msgctxt "332"
+msgid ""
+"The other families would have to follow suit. I get it.\r\n"
+"...So, you're gonna go see him now?"
+msgstr ""
+
+msgctxt "344"
+msgid "Yeah. Mind if I leave Haruka here while I'm out?"
+msgstr ""
+
+msgctxt "356"
+msgid "What, the girl? Of course, of course. No problem at all."
+msgstr ""
+
+msgctxt "368"
+msgid "Thanks, Emoto."
+msgstr ""
+
+msgctxt "4016"
+msgid "Emoto"
+msgstr ""
+
+msgctxt "4020"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "4024"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "4028"
+msgid "Talk_No"
+msgstr ""

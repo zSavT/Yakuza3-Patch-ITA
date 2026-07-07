@@ -1,0 +1,42 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid "C'mon, gimme it back!"
+msgstr ""
+
+msgctxt "76"
+msgid "I will, just... not yet. Sorry, Taichi."
+msgstr ""
+
+msgctxt "88"
+msgid ""
+"(Sounds like Taichi and Ayako are up in arms over something.\r\n"
+"I better go take a look.)"
+msgstr ""
+
+msgctxt "612"
+msgid "Taichi"
+msgstr ""
+
+msgctxt "616"
+msgid "Ayako"
+msgstr ""
+
+msgctxt "620"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "624"
+msgid "Player_100_100"
+msgstr ""

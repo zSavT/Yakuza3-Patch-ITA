@@ -1,0 +1,54 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "124"
+msgid ""
+"Hey, buddy. You got a pretty high opinion of yourself. But y'see, that's a "
+"problem."
+msgstr ""
+
+msgctxt "136"
+msgid "I hate young shits like you! I'm gonna have to show you your place!"
+msgstr ""
+
+msgctxt "160"
+msgid "How are you so strong?"
+msgstr ""
+
+msgctxt "172"
+msgid "Sorry... I definitely learned something today."
+msgstr ""
+
+msgctxt "184"
+msgid "You got a sentimental %s."
+msgstr ""
+
+msgctxt "220"
+msgid "Guess I shouldn't go out lookin' for fights, huh?"
+msgstr ""
+
+msgctxt "1252"
+msgid "Disgruntled Yakuza"
+msgstr ""
+
+msgctxt "1256"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "1260"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "1264"
+msgid "Sync_Send"
+msgstr ""

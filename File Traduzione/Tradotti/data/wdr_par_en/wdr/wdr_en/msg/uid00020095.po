@@ -1,0 +1,163 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid "...Who's the girl?"
+msgstr ""
+
+msgctxt "76"
+msgid "My daughter. Name's Saki."
+msgstr ""
+
+msgctxt "88"
+msgid "You have a daughter?"
+msgstr ""
+
+msgctxt "100"
+msgid "Not by blood. I took her in, oh... maybe three years ago now."
+msgstr ""
+
+msgctxt "112"
+msgid "Huh."
+msgstr ""
+
+msgctxt "124"
+msgid "Now about those eviction notices."
+msgstr ""
+
+msgctxt "136"
+msgid "I'm listening."
+msgstr ""
+
+msgctxt "148"
+msgid ""
+"I'm real sorry to be doing this to you, but I don't have\r\n"
+"a ton of choice in the matter."
+msgstr ""
+
+msgctxt "160"
+msgid "And why's that?"
+msgstr ""
+
+msgctxt "172"
+msgid ""
+"Well, the family's owned the land you're sittin' on for\r\n"
+"decades now."
+msgstr ""
+
+msgctxt "184"
+msgid ""
+"We built the houses over there ourselves and have been\r\n"
+"subletting 'em since, but now a potential buyer's come\r\n"
+"knocking, and we're not planning on turning 'em down."
+msgstr ""
+
+msgctxt "196"
+msgid "Someone wants the land?"
+msgstr ""
+
+msgctxt "208"
+msgid ""
+"Yup. Sounds like it's gonna be the site of some fancy\r\n"
+"schmancy new resort."
+msgstr ""
+
+msgctxt "220"
+msgid "Hm..."
+msgstr ""
+
+msgctxt "232"
+msgid "What, you hadn't heard?"
+msgstr ""
+
+msgctxt "244"
+msgid "This is my first time, yeah."
+msgstr ""
+
+msgctxt "256"
+msgid ""
+"Well, the word is they're gonna plop a big resort on the\r\n"
+"land your little neighborhood's on now. Either that, or use\r\n"
+"it for a brand new American military base."
+msgstr ""
+
+msgctxt "268"
+msgid "It's been all over the news."
+msgstr ""
+
+msgctxt "280"
+msgid "So that's why you're trying to evict us."
+msgstr ""
+
+msgctxt "292"
+msgid ""
+"Yup. I've gotta admit my feelings are kinda mixed on the\r\n"
+"whole shebang, bein' Okinawa born and raised and all...\r\n"
+"but who am I to stand in the way of progress?"
+msgstr ""
+
+msgctxt "304"
+msgid ""
+"So, what do you say? Think of it as a favor. Me and the\r\n"
+"rest of the Ryudo Family'll really owe you one."
+msgstr ""
+
+msgctxt "316"
+msgid "......"
+msgstr ""
+
+msgctxt "328"
+msgid "Look, Rikiya told me about the orphanage."
+msgstr ""
+
+msgctxt "340"
+msgid ""
+"...Trust me, I know from Saki how hard raising kids that\r\n"
+"age can be."
+msgstr ""
+
+msgctxt "352"
+msgid ""
+"But you mainlanders are practically made of money, right?\r\n"
+"Can't you just take your kids somewhere else?"
+msgstr ""
+
+msgctxt "364"
+msgid ""
+"And if you really need some extra cash, we might be able\r\n"
+"to spot you a little somethin'."
+msgstr ""
+
+msgctxt "376"
+msgid "Well? Not a bad deal, huh?"
+msgstr ""
+
+msgctxt "4928"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "4932"
+msgid "Nakahara"
+msgstr ""
+
+msgctxt "4936"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "4940"
+msgid "P_sitgrd_tlk_agura_yes"
+msgstr ""
+
+msgctxt "4944"
+msgid "Talk_No"
+msgstr ""

@@ -1,0 +1,129 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid "Yoko! You're all right!"
+msgstr ""
+
+msgctxt "76"
+msgid "Mom!"
+msgstr ""
+
+msgctxt "112"
+msgid "I... I was so scared..."
+msgstr ""
+
+msgctxt "124"
+msgid ""
+"Don't you ever worry me like that again! You hear me,\r\n"
+"young lady!? Never! *sob*"
+msgstr ""
+
+msgctxt "148"
+msgid ""
+"We can't thank you enough. Looks like this two-bit crime syndicate was "
+"abducting tourists and forcing them to work, or worse."
+msgstr ""
+
+msgctxt "160"
+msgid ""
+"That type of activity isn't easy to track in a town like this... It's "
+"despicable how they took advantage of the people's trust here."
+msgstr ""
+
+msgctxt "172"
+msgid "Yeah. I hope they stay locked up for a long, long time."
+msgstr ""
+
+msgctxt "184"
+msgid ""
+"Ever since that \"Phantom Tour Guide\" rumor started\r\n"
+"gaining momentum, the number of tourists in this area\r\n"
+"has dwindled dramatically."
+msgstr ""
+
+msgctxt "196"
+msgid "That's why this syndicate started preying on local high schoolers."
+msgstr ""
+
+msgctxt "208"
+msgid "Talk about a couple of twisted minds."
+msgstr ""
+
+msgctxt "220"
+msgid ""
+"Indeed. In any case, your cooperation has been vital\r\n"
+"in bringing this operation down. We really appreciate it."
+msgstr ""
+
+msgctxt "232"
+msgid ""
+"You don't realize how much this means to me... I just don't know what I'd "
+"do without my little girl."
+msgstr ""
+
+msgctxt "244"
+msgid "Please, take this as a token of my thanks."
+msgstr ""
+
+msgctxt "256"
+msgid "You got <Color:8>30,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "280"
+msgid "You got 3,000 EXP."
+msgstr ""
+
+msgctxt "3436"
+msgid "Yoko's Mother"
+msgstr ""
+
+msgctxt "3440"
+msgid "Yoko"
+msgstr ""
+
+msgctxt "3444"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "3448"
+msgid "Idle"
+msgstr ""
+
+msgctxt "3452"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "3456"
+msgid "Officer"
+msgstr ""
+
+msgctxt "3460"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "3464"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "3468"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "3472"
+msgid "dummy"
+msgstr ""
+
+msgctxt "3476"
+msgid "0"
+msgstr ""

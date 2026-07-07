@@ -1,0 +1,144 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid "(Okay, time to find my next customer.)"
+msgstr ""
+
+msgctxt "76"
+msgid "Oh, wait. She's here already."
+msgstr ""
+
+msgctxt "88"
+msgid "I'm back. Did you get any customers?"
+msgstr ""
+
+msgctxt "100"
+msgid "No..."
+msgstr ""
+
+msgctxt "112"
+msgid "You know, I was just talking to a restaurant owner nearby..."
+msgstr ""
+
+msgctxt "124"
+msgid ""
+"He was telling me there are a lot of renovation scams going around lately. "
+"People asking about termites, smoke alarms, and such."
+msgstr ""
+
+msgctxt "136"
+msgid "......"
+msgstr ""
+
+msgctxt "148"
+msgid ""
+"Those men on their way out had coveralls on, so I thought they might be a "
+"couple of phony renovators."
+msgstr ""
+
+msgctxt "160"
+msgid "Did something happen while I was gone?"
+msgstr ""
+
+msgctxt "172"
+msgid "No... Nothing important."
+msgstr ""
+
+msgctxt "184"
+msgid "Really?"
+msgstr ""
+
+msgctxt "196"
+msgid "Well, here's something for your trouble. You did me a big favor, after all."
+msgstr ""
+
+msgctxt "208"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "220"
+msgid "I couldn't make you watch the place for free."
+msgstr ""
+
+msgctxt "232"
+msgid ""
+"But I pretty much just stood around the whole time. And I can't take money "
+"from you after all you've done for me."
+msgstr ""
+
+msgctxt "244"
+msgid "I'm a proud Kamurocho woman. I refuse to make you work without paying."
+msgstr ""
+
+msgctxt "256"
+msgid "Just take it and make me happy."
+msgstr ""
+
+msgctxt "268"
+msgid "All right. If you insist."
+msgstr ""
+
+msgctxt "280"
+msgid "You got <Color:8>50,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "292"
+msgid ""
+"I might ask for your help again sometime, now that I know I can count on "
+"you."
+msgstr ""
+
+msgctxt "316"
+msgid "You got 1,000 EXP."
+msgstr ""
+
+msgctxt "3520"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "3524"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "3528"
+msgid "Idle"
+msgstr ""
+
+msgctxt "3532"
+msgid "Owner of Serena"
+msgstr ""
+
+msgctxt "3536"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "3540"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "3544"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "3548"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "3552"
+msgid "Talk_Send"
+msgstr ""
+
+msgctxt "3556"
+msgid "Sync_Send"
+msgstr ""

@@ -1,0 +1,110 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "196"
+msgid "Isn't your flight soon, Uncle Kaz?"
+msgstr ""
+
+msgctxt "208"
+msgid "Oh yeah, I almost forgot."
+msgstr ""
+
+msgctxt "220"
+msgid ""
+"Just let me know when you're gonna leave, okay? I'll get the others to come "
+"say goodbye."
+msgstr ""
+
+msgctxt "232"
+msgid "Or... are you leaving now?"
+msgstr ""
+
+msgctxt "244"
+msgid "Yeah, it's time to go."
+msgstr ""
+
+msgctxt "256"
+msgid "Okay! Just a second, I'll grab everyone."
+msgstr ""
+
+msgctxt "268"
+msgid "Thanks, Haruka."
+msgstr ""
+
+msgctxt "292"
+msgid "Not quite yet. Still have some things to do around town."
+msgstr ""
+
+msgctxt "304"
+msgid "Oh, okay. Want me to come with you?"
+msgstr ""
+
+msgctxt "316"
+msgid "Not this time. Sorry, Haruka."
+msgstr ""
+
+msgctxt "328"
+msgid "It's okay! Just come let me know when you're about to leave!"
+msgstr ""
+
+msgctxt "340"
+msgid "Of course I do. Can't exactly go exploring without you, can I?"
+msgstr ""
+
+msgctxt "352"
+msgid "Hehe, yay! Let's go!"
+msgstr ""
+
+msgctxt "412"
+msgid "Not quite yet."
+msgstr ""
+
+msgctxt "424"
+msgid "Yeah, it's time to go."
+msgstr ""
+
+msgctxt "436"
+msgid "Not this time."
+msgstr ""
+
+msgctxt "448"
+msgid "Of course I do."
+msgstr ""
+
+msgctxt "2800"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "2804"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "2808"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "2812"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "2816"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "2820"
+msgid "dummy"
+msgstr ""
+
+msgctxt "2824"
+msgid "0"
+msgstr ""

@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "100"
+msgid "Kiryu-san!?"
+msgstr ""
+
+msgctxt "112"
+msgid "What happened?"
+msgstr ""
+
+msgctxt "124"
+msgid "Help me, please...! She's gone, and I'm lost!"
+msgstr ""
+
+msgctxt "136"
+msgid "Who's gone?"
+msgstr ""
+
+msgctxt "148"
+msgid ""
+"I took Newton out for a walk and ended up going down this road I'd never "
+"been on before..."
+msgstr ""
+
+msgctxt "160"
+msgid ""
+"I was wandering around lost for a while, right? And then I realized Newton "
+"was gone..."
+msgstr ""
+
+msgctxt "172"
+msgid ""
+"I have such a horrible sense of direction... I should have stuck to places "
+"I know..."
+msgstr ""
+
+msgctxt "184"
+msgid "Where are you now?"
+msgstr ""
+
+msgctxt "196"
+msgid "Uh... I have no clue..."
+msgstr ""
+
+msgctxt "208"
+msgid "Can you see any distinct buildings or structures nearby? Any landmarks?"
+msgstr ""
+
+msgctxt "220"
+msgid "Umm... Well, I'm in a narrow place that's crammed full of stuff..."
+msgstr ""
+
+msgctxt "232"
+msgid "...Can you be more specific?"
+msgstr ""
+
+msgctxt "244"
+msgid "Not really, sorry... Please help me, Kiryu-san..."
+msgstr ""
+
+msgctxt "256"
+msgid "Wait right there."
+msgstr ""
+
+msgctxt "304"
+msgid "(A narrow place crammed full of stuff?)"
+msgstr ""
+
+msgctxt "316"
+msgid "(I'll go check out a few spots like that and see if I can find her...)"
+msgstr ""
+
+msgctxt "2412"
+msgid "P_stand_tlk_phone_st"
+msgstr ""
+
+msgctxt "2416"
+msgid "Kana"
+msgstr ""
+
+msgctxt "2420"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "2424"
+msgid "P_stand_tlk_phone_ed"
+msgstr ""
+
+msgctxt "2428"
+msgid "dummy"
+msgstr ""

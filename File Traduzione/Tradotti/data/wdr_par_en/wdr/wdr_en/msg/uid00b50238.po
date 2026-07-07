@@ -1,0 +1,70 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "92"
+msgid "Oh... Kiryu-san. Don't tell me... you saw all that?"
+msgstr ""
+
+msgctxt "104"
+msgid "Yeah."
+msgstr ""
+
+msgctxt "116"
+msgid ""
+"Heh... Screwed it up again. Tokyo's a pretty tough place\r\n"
+"to live."
+msgstr ""
+
+msgctxt "128"
+msgid "I'd say. Tokyo's got its own set of rules."
+msgstr ""
+
+msgctxt "140"
+msgid ""
+"I've gotta start the job search again... If I don't work,\r\n"
+"I won't be able to pay that Tokyo rent."
+msgstr ""
+
+msgctxt "152"
+msgid ""
+"See you later, then! I'm gonna see if I can find a job\r\n"
+"around here. I'll text you if something works out."
+msgstr ""
+
+msgctxt "1456"
+msgid "Kaede"
+msgstr ""
+
+msgctxt "1460"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "1464"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1468"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "1472"
+msgid "Talk_Kansin"
+msgstr ""
+
+msgctxt "1476"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "1480"
+msgid "Talk_Call"
+msgstr ""

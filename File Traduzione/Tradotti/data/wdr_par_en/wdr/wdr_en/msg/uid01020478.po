@@ -1,0 +1,239 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid "You're gonna get it this time, you stupid mutt!"
+msgstr ""
+
+msgctxt "76"
+msgid "Stop!"
+msgstr ""
+
+msgctxt "112"
+msgid "Izumi. This dog a friend of yours?"
+msgstr ""
+
+msgctxt "160"
+msgid "Ahhh!"
+msgstr ""
+
+msgctxt "172"
+msgid "Get back!"
+msgstr ""
+
+msgctxt "196"
+msgid "Wait!"
+msgstr ""
+
+msgctxt "208"
+msgid "Come back!"
+msgstr ""
+
+msgctxt "220"
+msgid "You're not getting away that easy!"
+msgstr ""
+
+msgctxt "232"
+msgid "Oh, shit! I know where that dog's from!"
+msgstr ""
+
+msgctxt "244"
+msgid "Language, Mikio. Now tell me about this dog."
+msgstr ""
+
+msgctxt "256"
+msgid "Well, he used to live over at an izakaya in Hatsumachi."
+msgstr ""
+
+msgctxt "268"
+msgid ""
+"Quiet little fella back then. Not the maniac he is now.\r\n"
+"Honestly, he's so outta his mind I didn't even recognize\r\n"
+"him at first. But he's definitely the same dog."
+msgstr ""
+
+msgctxt "280"
+msgid ""
+"The guy who ran that place shipped on up to Tokyo a while\r\n"
+"ago, though. Guess he just abandoned the dog..."
+msgstr ""
+
+msgctxt "292"
+msgid "Hey, didn't you used to have a dog of your own, Izumi-chan?"
+msgstr ""
+
+msgctxt "304"
+msgid "Yeah..."
+msgstr ""
+
+msgctxt "316"
+msgid "Can I go look for the dog, Uncle Kaz? Please!"
+msgstr ""
+
+msgctxt "328"
+msgid "Just wait. I'm sure he'll come back eventually."
+msgstr ""
+
+msgctxt "340"
+msgid "No, I'm gonna go find him!"
+msgstr ""
+
+msgctxt "364"
+msgid "...All right. You want a hand?"
+msgstr ""
+
+msgctxt "376"
+msgid "Yes please!"
+msgstr ""
+
+msgctxt "400"
+msgid "No luck, boys?"
+msgstr ""
+
+msgctxt "412"
+msgid "Naw, he got away... That's the fastest dog I've ever seen!"
+msgstr ""
+
+msgctxt "424"
+msgid "You're just slow, Taichi! I totally could've caught him!"
+msgstr ""
+
+msgctxt "436"
+msgid "Oh yeah? Then why didn't you?"
+msgstr ""
+
+msgctxt "448"
+msgid "That's enough, you two. Where'd the dog go?"
+msgstr ""
+
+msgctxt "460"
+msgid "He sprinted off toward town."
+msgstr ""
+
+msgctxt "472"
+msgid "Well, looks like we're going on a little field trip then."
+msgstr ""
+
+msgctxt "484"
+msgid "Okay!"
+msgstr ""
+
+msgctxt "496"
+msgid "You're really gonna go after it?"
+msgstr ""
+
+msgctxt "508"
+msgid "Yup. You two want to join?"
+msgstr ""
+
+msgctxt "520"
+msgid "Nah, I'm pooped."
+msgstr ""
+
+msgctxt "532"
+msgid "Me too. I'm sick of chasing dogs!"
+msgstr ""
+
+msgctxt "544"
+msgid "I'm coming!"
+msgstr ""
+
+msgctxt "556"
+msgid ""
+"How 'bout me and Izumi go take a peek over on Ryukyu\r\n"
+"Boulevard? You can check out Hatsumachi, sir."
+msgstr ""
+
+msgctxt "568"
+msgid "Sounds good."
+msgstr ""
+
+msgctxt "580"
+msgid "C'mon, Izumi!"
+msgstr ""
+
+msgctxt "592"
+msgid "Coming!"
+msgstr ""
+
+msgctxt "8852"
+msgid "Mikio"
+msgstr ""
+
+msgctxt "8856"
+msgid "Izumi"
+msgstr ""
+
+msgctxt "8860"
+msgid "Idle"
+msgstr ""
+
+msgctxt "8864"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "8868"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "8872"
+msgid "C35_SetF_cld_sitgrd_dog_kamae"
+msgstr ""
+
+msgctxt "8876"
+msgid "C35_SetF_cld_sitgrd_dog_bite"
+msgstr ""
+
+msgctxt "8880"
+msgid "A_dog_stand_ikaku_lp"
+msgstr ""
+
+msgctxt "8884"
+msgid "A_dog_stand_ikaku_st"
+msgstr ""
+
+msgctxt "8888"
+msgid "A_dog_stand_tlk_nml"
+msgstr ""
+
+msgctxt "8892"
+msgid "A_dog_stand_ikaku_ed"
+msgstr ""
+
+msgctxt "8896"
+msgid "Taichi"
+msgstr ""
+
+msgctxt "8900"
+msgid "Koji"
+msgstr ""
+
+msgctxt "8904"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "8908"
+msgid "Talk_NoBig"
+msgstr ""
+
+msgctxt "8912"
+msgid "0"
+msgstr ""
+
+msgctxt "8916"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "8920"
+msgid "Talk_Gakkari"
+msgstr ""

@@ -1,0 +1,62 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "92"
+msgid "Gotta say, you look good! For a while there, I thought you were done for."
+msgstr ""
+
+msgctxt "104"
+msgid ""
+"Heh, I got Doc Emoto to thank for that. He's a real angel, that guy. Not "
+"many doctors would bother to treat a penniless bum like myself."
+msgstr ""
+
+msgctxt "116"
+msgid "Yeah. I'm surprised he can make ends meet doin' business like that."
+msgstr ""
+
+msgctxt "128"
+msgid ""
+"I heard he's got some rich guy supporting him. He helps out on the money "
+"end, so the doc can treat the people of Kamurocho."
+msgstr ""
+
+msgctxt "140"
+msgid ""
+"That's amazin'. I guess there are still some decent people left in the "
+"world, huh?"
+msgstr ""
+
+msgctxt "1276"
+msgid "Barker"
+msgstr ""
+
+msgctxt "1280"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "1284"
+msgid "Spry Homeless Man"
+msgstr ""
+
+msgctxt "1288"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "1292"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "1296"
+msgid "Talk_Yes"
+msgstr ""

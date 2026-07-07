@@ -1,0 +1,62 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "112"
+msgid "Where the hell is Kanda!?"
+msgstr ""
+
+msgctxt "136"
+msgid ""
+"Urgh... I don't freakin' know. Findin' the boss in here's\r\n"
+"like findin' a needle in a perverted haystack. Try checking this floor."
+msgstr ""
+
+msgctxt "148"
+msgid "(He's on this floor, huh?)"
+msgstr ""
+
+msgctxt "160"
+msgid ""
+"Urgh... I don't freakin' know. Findin' the boss in here's\r\n"
+"like findin' a needle in a perverted haystack. Try checking downstairs."
+msgstr ""
+
+msgctxt "172"
+msgid "(He ran downstairs, huh?)"
+msgstr ""
+
+msgctxt "184"
+msgid ""
+"Urgh... I don't freakin' know. Findin' the boss in here's\r\n"
+"like findin' a needle in a perverted haystack. Try checking upstairs."
+msgstr ""
+
+msgctxt "196"
+msgid "(He ran upstairs, huh?)"
+msgstr ""
+
+msgctxt "2016"
+msgid "dummy"
+msgstr ""
+
+msgctxt "2020"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "2024"
+msgid "Nishikiyama Goon"
+msgstr ""
+
+msgctxt "2028"
+msgid "0"
+msgstr ""

@@ -1,0 +1,122 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "124"
+msgid ""
+"You ever seen a girl contort herself on a big metal pole,\r\n"
+"sir? You want to? I promise, you've never seen anything\r\n"
+"like it!"
+msgstr ""
+
+msgctxt "136"
+msgid "(...This must be where Toma is.)"
+msgstr ""
+
+msgctxt "148"
+msgid ""
+"(I can't go in with Mikio, though. Guess I'll come back\r\n"
+"later.)"
+msgstr ""
+
+msgctxt "160"
+msgid "I think I'm all right for now, thanks."
+msgstr ""
+
+msgctxt "172"
+msgid ""
+"Too bad, sir. But don't worry, the girls will still be dancing on the ol' "
+"pole when you're in the mood!"
+msgstr ""
+
+msgctxt "184"
+msgid ""
+"You ever seen a girl contort herself on a big metal pole,\r\n"
+"sir? You want to? I promise, you've never seen anything\r\n"
+"like it!"
+msgstr ""
+
+msgctxt "196"
+msgid "(...This must be where Toma is.)"
+msgstr ""
+
+msgctxt "208"
+msgid "What do you say, sir? The show's just about to start!"
+msgstr ""
+
+msgctxt "220"
+msgid "I think I'm all right for now, thanks."
+msgstr ""
+
+msgctxt "232"
+msgid ""
+"Too bad, sir. But don't worry, the girls will still be dancing on the ol' "
+"pole when you're in the mood!"
+msgstr ""
+
+msgctxt "244"
+msgid "Sure, I'll take a look."
+msgstr ""
+
+msgctxt "256"
+msgid ""
+"Wonderful, sir! Is there a specific hostess you'd like to\r\n"
+"request?"
+msgstr ""
+
+msgctxt "268"
+msgid "No, thanks. This is actually my first time here."
+msgstr ""
+
+msgctxt "280"
+msgid "Oh, excellent! Right this way, my amateur friend!"
+msgstr ""
+
+msgctxt "304"
+msgid "Don't Go Inside"
+msgstr ""
+
+msgctxt "316"
+msgid "Go Inside"
+msgstr ""
+
+msgctxt "2880"
+msgid "Canal Grande Barker"
+msgstr ""
+
+msgctxt "2884"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "2888"
+msgid "Idle"
+msgstr ""
+
+msgctxt "2892"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "2896"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "2900"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "2904"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "2908"
+msgid "Talk_Ojigi"
+msgstr ""

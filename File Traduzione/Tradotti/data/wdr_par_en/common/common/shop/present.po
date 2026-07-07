@@ -1,0 +1,36 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "8"
+msgid "�"
+msgstr ""
+
+msgctxt "12"
+msgid "Quit"
+msgstr ""
+
+msgctxt "16"
+msgid "Give"
+msgstr ""
+
+msgctxt "20"
+msgid "(I don't have anything I can give.)"
+msgstr ""
+
+msgctxt "24"
+msgid "(What should I give?)"
+msgstr ""
+
+msgctxt "28"
+msgid "Are you sure you want to give this?"
+msgstr ""

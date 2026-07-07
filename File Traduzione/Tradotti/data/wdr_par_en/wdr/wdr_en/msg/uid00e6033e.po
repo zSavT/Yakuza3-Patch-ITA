@@ -1,0 +1,48 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "92"
+msgid "I saw a super fancy black car out in front of Millennium Tower."
+msgstr ""
+
+msgctxt "104"
+msgid "I figure it belongs to a yakuza boss or maybe some big-wig politician."
+msgstr ""
+
+msgctxt "116"
+msgid ""
+"The driver was standing outside like he was on guard duty or something. I "
+"was too scared to get a closer look."
+msgstr ""
+
+msgctxt "128"
+msgid ""
+"(It sounds like the car Tamiya sent. I'd better head over to Millennium "
+"Tower.)"
+msgstr ""
+
+msgctxt "704"
+msgid "Train Commuter"
+msgstr ""
+
+msgctxt "708"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "712"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "716"
+msgid "Talk_Think"
+msgstr ""

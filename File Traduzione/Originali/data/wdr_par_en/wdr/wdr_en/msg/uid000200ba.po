@@ -1,0 +1,164 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "344"
+msgid "Rikiya."
+msgstr ""
+
+msgctxt "356"
+msgid "Hm? You thinkin' about something, Aniki?"
+msgstr ""
+
+msgctxt "368"
+msgid "(Should I keep Rikiya with me?)"
+msgstr ""
+
+msgctxt "380"
+msgid "Nah, it's nothing."
+msgstr ""
+
+msgctxt "392"
+msgid "Oh, all right. I was worried you were gonna split for a sec there!"
+msgstr ""
+
+msgctxt "404"
+msgid "I need to be alone for a bit if you don't mind."
+msgstr ""
+
+msgctxt "416"
+msgid "No problem, Aniki gets what Aniki wants! See ya 'round!"
+msgstr ""
+
+msgctxt "500"
+msgid "Rikiya."
+msgstr ""
+
+msgctxt "512"
+msgid "How's it hangin', Aniki?"
+msgstr ""
+
+msgctxt "524"
+msgid "Uh, it's hanging... great?"
+msgstr ""
+
+msgctxt "536"
+msgid "Heh, glad to hear it! Now where we hittin' up next, Aniki?"
+msgstr ""
+
+msgctxt "548"
+msgid "I think that's enough sightseeing for one day."
+msgstr ""
+
+msgctxt "560"
+msgid ""
+"Huh? Oh... if you say so. I guess just lemme know when you\r\n"
+"got time to spare."
+msgstr ""
+
+msgctxt "632"
+msgid "C'mon, Aniki..."
+msgstr ""
+
+msgctxt "644"
+msgid ""
+"Let's get over to the <Color:7>intersection in Hatsumachi<Color:Default> "
+"where\r\n"
+"that granny saw Saki-chan."
+msgstr ""
+
+msgctxt "656"
+msgid ""
+"I'm comin' with you, Aniki! Let's get to <Color:7>Hatsumachi<Color:Default> "
+"and find\r\n"
+"the little lady!"
+msgstr ""
+
+msgctxt "680"
+msgid "We're gonna have to walk from here, Aniki."
+msgstr ""
+
+msgctxt "692"
+msgid "(I don't remember agreeing to this...)"
+msgstr ""
+
+msgctxt "704"
+msgid "(Well, I've come this far. Might as well see it through.)"
+msgstr ""
+
+msgctxt "716"
+msgid "Let's get movin', Aniki!"
+msgstr ""
+
+msgctxt "728"
+msgid "All right, all right."
+msgstr ""
+
+msgctxt "752"
+msgid "Please, Aniki! You gotta talk the boss off the ledge!"
+msgstr ""
+
+msgctxt "764"
+msgid "Now c'mon!"
+msgstr ""
+
+msgctxt "788"
+msgid "Nah, it's nothing."
+msgstr ""
+
+msgctxt "800"
+msgid "I need to be alone for a bit."
+msgstr ""
+
+msgctxt "812"
+msgid "I think I've had enough sightseeing."
+msgstr ""
+
+msgctxt "824"
+msgid "Great."
+msgstr ""
+
+msgctxt "4928"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "4932"
+msgid "Rikiya"
+msgstr ""
+
+msgctxt "4936"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "4940"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "4944"
+msgid "dummy"
+msgstr ""
+
+msgctxt "4948"
+msgid "0"
+msgstr ""
+
+msgctxt "4952"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "4956"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "4960"
+msgid "Talk_Ojigi"
+msgstr ""

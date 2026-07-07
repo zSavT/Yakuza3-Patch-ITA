@@ -1,0 +1,252 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "124"
+msgid "Hehehe... I'm not going to let you beat me, Kiryu-san."
+msgstr ""
+
+msgctxt "136"
+msgid "Let's head in."
+msgstr ""
+
+msgctxt "148"
+msgid "Yeah."
+msgstr ""
+
+msgctxt "172"
+msgid "Hehehe... I'm not going to let you beat me, Kiryu-san."
+msgstr ""
+
+msgctxt "184"
+msgid "Let's head in."
+msgstr ""
+
+msgctxt "196"
+msgid "Hold on a second. I just realized I'm a little short on cash."
+msgstr ""
+
+msgctxt "208"
+msgid "Huh? Wait, really?"
+msgstr ""
+
+msgctxt "220"
+msgid "Sorry..."
+msgstr ""
+
+msgctxt "232"
+msgid ""
+"Oh... That's too bad. I think I'm going to head home, then. See you later, "
+"Kiryu-san..."
+msgstr ""
+
+msgctxt "244"
+msgid "(Guess I should bring some cash next time...)"
+msgstr ""
+
+msgctxt "352"
+msgid ""
+"Aww, you beat me... You're pretty good at darts, Kiryu-san. "
+"<Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "364"
+msgid "Thanks."
+msgstr ""
+
+msgctxt "376"
+msgid ""
+"It's so much more intense when you're playing against someone\r\n"
+"else. <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "388"
+msgid "Anyway, I should get going now."
+msgstr ""
+
+msgctxt "412"
+msgid "It ended in a tie... I really wanted to beat you."
+msgstr ""
+
+msgctxt "424"
+msgid "That's too bad."
+msgstr ""
+
+msgctxt "436"
+msgid ""
+"I had a really good time, though. Darts is so much more fun when you're "
+"playing against someone."
+msgstr ""
+
+msgctxt "448"
+msgid "Anyway, I should get going now."
+msgstr ""
+
+msgctxt "472"
+msgid ""
+"Hehe... Looks like I toppled the legendary Kiryu-san! "
+"<Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "484"
+msgid "Heh, looks like it."
+msgstr ""
+
+msgctxt "496"
+msgid ""
+"Anyway, that was a lot of fun! Darts is way more fun when you get to play "
+"against someone. <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "508"
+msgid "Well, I should get going now. Bye!"
+msgstr ""
+
+msgctxt "532"
+msgid ""
+"Huge error!\r\n"
+"No flags set for conversation selection!"
+msgstr ""
+
+msgctxt "616"
+msgid "Hehehe... I'm not going to let you beat me, Kiryu-san."
+msgstr ""
+
+msgctxt "628"
+msgid "Let's head in."
+msgstr ""
+
+msgctxt "640"
+msgid "Sure."
+msgstr ""
+
+msgctxt "664"
+msgid "Hehehe... I'm not going to let you beat me, Kiryu-san."
+msgstr ""
+
+msgctxt "676"
+msgid "Let's head in."
+msgstr ""
+
+msgctxt "688"
+msgid "Hold on a second. I just realized I'm a little short on cash."
+msgstr ""
+
+msgctxt "700"
+msgid "Huh? Wait, really?"
+msgstr ""
+
+msgctxt "712"
+msgid "Sorry..."
+msgstr ""
+
+msgctxt "724"
+msgid ""
+"Oh... That's too bad. I think I'm going to head home, then. See you later, "
+"Kiryu-san..."
+msgstr ""
+
+msgctxt "736"
+msgid "(Guess I should bring some cash next time...)"
+msgstr ""
+
+msgctxt "844"
+msgid ""
+"Aww, you beat me... You're pretty good at darts, Kiryu-san. "
+"<Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "856"
+msgid "Thanks."
+msgstr ""
+
+msgctxt "868"
+msgid ""
+"I had a great time playing with you, though. Should we head over to the "
+"club? <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "880"
+msgid "Yeah, sounds good."
+msgstr ""
+
+msgctxt "904"
+msgid "It ended in a tie... I really wanted to beat you."
+msgstr ""
+
+msgctxt "916"
+msgid "That's too bad."
+msgstr ""
+
+msgctxt "928"
+msgid ""
+"I had a great time playing with you, though. Should we head over to the "
+"club?"
+msgstr ""
+
+msgctxt "940"
+msgid "Yeah, sounds good."
+msgstr ""
+
+msgctxt "964"
+msgid ""
+"Hehe... Looks like I toppled the legendary Kiryu-san! "
+"<Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "976"
+msgid "Heh, looks like it."
+msgstr ""
+
+msgctxt "988"
+msgid ""
+"Anyway, that was a lot of fun! Should we head over to the club now? "
+"<Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "1000"
+msgid "Yeah, sounds good."
+msgstr ""
+
+msgctxt "1024"
+msgid ""
+"Huge error!\r\n"
+"No flags set for conversation selection!"
+msgstr ""
+
+msgctxt "12300"
+msgid "Mika"
+msgstr ""
+
+msgctxt "12304"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "12308"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "12312"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "12316"
+msgid "dummy"
+msgstr ""
+
+msgctxt "12320"
+msgid "0"
+msgstr ""
+
+msgctxt "12324"
+msgid "Talk_Yes"
+msgstr ""

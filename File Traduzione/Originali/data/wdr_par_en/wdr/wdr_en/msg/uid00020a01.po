@@ -1,0 +1,79 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid "Uncle Kaz!"
+msgstr ""
+
+msgctxt "76"
+msgid "Haruka. Is... something wrong?"
+msgstr ""
+
+msgctxt "88"
+msgid ""
+"What do you mean, \"is something wrong\"!?\r\n"
+"How could you abandon Taichi like that!?"
+msgstr ""
+
+msgctxt "100"
+msgid "...Sorry. Something came up."
+msgstr ""
+
+msgctxt "112"
+msgid ""
+"Something more important than one of your kids collapsed on\r\n"
+"the beach!?"
+msgstr ""
+
+msgctxt "124"
+msgid "Well, uh..."
+msgstr ""
+
+msgctxt "136"
+msgid "Ugh! You're the worst, Uncle Kaz!"
+msgstr ""
+
+msgctxt "148"
+msgid ""
+"Uncle Rikiya brought him inside while you were gone. Oh, and\r\n"
+"the doctor wants to talk to you, so don't go wandering off\r\n"
+"again!"
+msgstr ""
+
+msgctxt "160"
+msgid "Okay..."
+msgstr ""
+
+msgctxt "1500"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "1504"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "1508"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1512"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "1516"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "1520"
+msgid "Talk_Angry"
+msgstr ""

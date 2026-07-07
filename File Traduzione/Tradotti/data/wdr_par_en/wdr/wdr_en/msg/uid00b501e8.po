@@ -1,0 +1,146 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "192"
+msgid ""
+"Six years of my brother's life have been stolen away because\r\n"
+"of false charges! I'm asking for any help I can get to save\r\n"
+"his life from unjust imprisonment!"
+msgstr ""
+
+msgctxt "204"
+msgid "It can't be her..."
+msgstr ""
+
+msgctxt "216"
+msgid "Read the truth!"
+msgstr ""
+
+msgctxt "228"
+msgid "......"
+msgstr ""
+
+msgctxt "240"
+msgid "Hey."
+msgstr ""
+
+msgctxt "252"
+msgid "Oh, Kiryu-san."
+msgstr ""
+
+msgctxt "264"
+msgid "What are you doing standing around here?"
+msgstr ""
+
+msgctxt "276"
+msgid "And who's that? What's she handing out?"
+msgstr ""
+
+msgctxt "288"
+msgid "I think they're⑬"
+msgstr ""
+
+msgctxt "300"
+msgid "Hey, you over there!"
+msgstr ""
+
+msgctxt "324"
+msgid "I knew it! It <Italic>is</Italic> you! You're that journalist!"
+msgstr ""
+
+msgctxt "336"
+msgid "Um, uh..."
+msgstr ""
+
+msgctxt "348"
+msgid "Look what happened to my brother, thanks to you!"
+msgstr ""
+
+msgctxt "360"
+msgid "What happened?"
+msgstr ""
+
+msgctxt "372"
+msgid "I never intended for that to, um..."
+msgstr ""
+
+msgctxt "384"
+msgid ""
+"Journalists only care about themselves. Do you have any\r\n"
+"idea what horrible things happen to the people you write\r\n"
+"about?"
+msgstr ""
+
+msgctxt "396"
+msgid "I, uh..."
+msgstr ""
+
+msgctxt "408"
+msgid "My brother didn't kill anybody!"
+msgstr ""
+
+msgctxt "432"
+msgid "......"
+msgstr ""
+
+msgctxt "444"
+msgid "Sounds like you two have quite the past."
+msgstr ""
+
+msgctxt "456"
+msgid "Yeah..."
+msgstr ""
+
+msgctxt "468"
+msgid "What happened, exactly?"
+msgstr ""
+
+msgctxt "480"
+msgid "Maybe we should talk someplace else."
+msgstr ""
+
+msgctxt "492"
+msgid "Sure."
+msgstr ""
+
+msgctxt "3972"
+msgid "Woman Handing Out Flyers"
+msgstr ""
+
+msgctxt "3976"
+msgid "Wakazo"
+msgstr ""
+
+msgctxt "3980"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "3984"
+msgid "Idle"
+msgstr ""
+
+msgctxt "3988"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "3992"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "3996"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "4000"
+msgid "Talk_Yes"
+msgstr ""

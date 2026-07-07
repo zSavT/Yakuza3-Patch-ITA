@@ -1,0 +1,74 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid "Har har har. Not half bad, Kiryu-san!"
+msgstr ""
+
+msgctxt "76"
+msgid "I must have had a little trouble with my right knee today."
+msgstr ""
+
+msgctxt "88"
+msgid ""
+"Tamura-kun, have you prepared what I told\r\n"
+"you for Kiryu-san?"
+msgstr ""
+
+msgctxt "112"
+msgid "Yes, of course. Kiryu-san, please accept this token of our gratitude."
+msgstr ""
+
+msgctxt "124"
+msgid "You got <Color:8>50,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "136"
+msgid "I hope we see you again."
+msgstr ""
+
+msgctxt "160"
+msgid "You got 3,000 EXP."
+msgstr ""
+
+msgctxt "1840"
+msgid "President Kurosawa"
+msgstr ""
+
+msgctxt "1844"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "1848"
+msgid "Talk_Info_L"
+msgstr ""
+
+msgctxt "1852"
+msgid "Low-level Employee Tamura"
+msgstr ""
+
+msgctxt "1856"
+msgid "Talk_Send"
+msgstr ""
+
+msgctxt "1860"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "1864"
+msgid "dummy"
+msgstr ""
+
+msgctxt "1868"
+msgid "0"
+msgstr ""

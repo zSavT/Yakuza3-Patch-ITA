@@ -1,0 +1,61 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "108"
+msgid "I'm pretty sure I saw Izumi-chan down on the <Color:7>beach<Color:Default>."
+msgstr ""
+
+msgctxt "132"
+msgid "Hi there."
+msgstr ""
+
+msgctxt "144"
+msgid "Well if it isn't Kiryu-san. Need something, dearie?"
+msgstr ""
+
+msgctxt "156"
+msgid ""
+"Izumi's supposed to be home for dinner, but I can't seem to\r\n"
+"find her. Have you seen her around?"
+msgstr ""
+
+msgctxt "168"
+msgid ""
+"Oh, I'm pretty sure I saw her walking down on the "
+"<Color:7>beach<Color:Default>.\r\n"
+"She was looking kinda glum, now that I think about it."
+msgstr ""
+
+msgctxt "180"
+msgid "All right, thanks. I'll go take a look."
+msgstr ""
+
+msgctxt "1528"
+msgid "Elderly Neighbor"
+msgstr ""
+
+msgctxt "1532"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "1536"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1540"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "1544"
+msgid "Talk_No"
+msgstr ""

@@ -1,0 +1,88 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "320"
+msgid "The house wins. Let's start the next round."
+msgstr ""
+
+msgctxt "332"
+msgid "I won that one."
+msgstr ""
+
+msgctxt "344"
+msgid "Push. Let's start the next round."
+msgstr ""
+
+msgctxt "356"
+msgid "Push. Let's start the next round."
+msgstr ""
+
+msgctxt "368"
+msgid "One of your hands is a push."
+msgstr ""
+
+msgctxt "380"
+msgid "The house loses. Let's start the next round."
+msgstr ""
+
+msgctxt "392"
+msgid "The house loses."
+msgstr ""
+
+msgctxt "404"
+msgid "The house wins."
+msgstr ""
+
+msgctxt "416"
+msgid "You win."
+msgstr ""
+
+msgctxt "428"
+msgid "One of your hands wins."
+msgstr ""
+
+msgctxt "440"
+msgid "Both of your hands win."
+msgstr ""
+
+msgctxt "452"
+msgid "The house wins against both of your hands."
+msgstr ""
+
+msgctxt "464"
+msgid ""
+"Both of your hands win. One of your hands is a Six-Card\r\n"
+"Charlie. Impressive!"
+msgstr ""
+
+msgctxt "476"
+msgid ""
+"Both of your hands win. And both are Six-Card Charlies!\r\n"
+"You really have the devil's luck!"
+msgstr ""
+
+msgctxt "488"
+msgid ""
+"One of your hands wins. Congratulations on your\r\n"
+"Six-Card Charlie."
+msgstr ""
+
+msgctxt "500"
+msgid ""
+"You have a Six Card Charlie: you've drawn six cards\r\n"
+"without going bust. This means you win automatically."
+msgstr ""
+
+msgctxt "512"
+msgid "You've succeeded on your insurance bet. Well-placed, sir."
+msgstr ""

@@ -1,0 +1,64 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "304"
+msgid "Select the number of input devices to use."
+msgstr ""
+
+msgctxt "340"
+msgid "Select the number of frames you want to play."
+msgstr ""
+
+msgctxt "376"
+msgid "Would you like to play again?"
+msgstr ""
+
+msgctxt "412"
+msgid "Two input devices are required to play in this mode."
+msgstr ""
+
+msgctxt "424"
+msgid "Would you like to view the tutorial?"
+msgstr ""
+
+msgctxt "460"
+msgid "One"
+msgstr ""
+
+msgctxt "472"
+msgid "Two"
+msgstr ""
+
+msgctxt "484"
+msgid "Three"
+msgstr ""
+
+msgctxt "496"
+msgid "Ten"
+msgstr ""
+
+msgctxt "508"
+msgid "Play"
+msgstr ""
+
+msgctxt "520"
+msgid "Quit"
+msgstr ""
+
+msgctxt "532"
+msgid "Yes"
+msgstr ""
+
+msgctxt "544"
+msgid "No"
+msgstr ""

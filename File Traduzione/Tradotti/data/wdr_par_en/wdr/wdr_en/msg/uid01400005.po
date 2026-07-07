@@ -1,0 +1,52 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "208"
+msgid "The next roll came up even."
+msgstr ""
+
+msgctxt "220"
+msgid "The next roll came up odd."
+msgstr ""
+
+msgctxt "232"
+msgid "The next roll was Snake Eyes."
+msgstr ""
+
+msgctxt "244"
+msgid "The gamblers' bets are becoming very lopsided."
+msgstr ""
+
+msgctxt "256"
+msgid "An item can not be used twice in one game."
+msgstr ""
+
+msgctxt "268"
+msgid "Nothing happened."
+msgstr ""
+
+msgctxt "280"
+msgid "You need 40 chips to guess both dice rolls."
+msgstr ""
+
+msgctxt "292"
+msgid "You need 100 chips to guess both dice rolls."
+msgstr ""
+
+msgctxt "304"
+msgid "You need 160 chips to guess both dice rolls."
+msgstr ""
+
+msgctxt "316"
+msgid "You need 200 chips to guess both dice rolls."
+msgstr ""

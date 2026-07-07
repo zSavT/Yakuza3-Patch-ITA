@@ -1,0 +1,98 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "92"
+msgid "Oh, Kiryu-san!"
+msgstr ""
+
+msgctxt "104"
+msgid "Hey. How's it going with that inn of yours?"
+msgstr ""
+
+msgctxt "116"
+msgid ""
+"It's going great! Right now, we've got contractors\r\n"
+"remodeling Momiji's family home."
+msgstr ""
+
+msgctxt "128"
+msgid ""
+"My dad is ecstatic! He's excited to give the inn one\r\n"
+"more try."
+msgstr ""
+
+msgctxt "140"
+msgid "Think you'll make some money out of it?"
+msgstr ""
+
+msgctxt "152"
+msgid ""
+"Here's the thing! When I called my customers in Tokyo and\r\n"
+"said that I was going to start an inn, reservations started\r\n"
+"flooding in!"
+msgstr ""
+
+msgctxt "164"
+msgid "We're going to be booked for an entire year after we open!"
+msgstr ""
+
+msgctxt "176"
+msgid "Wow, that's amazing, Kaede."
+msgstr ""
+
+msgctxt "188"
+msgid ""
+"At first, I thought people from Tokyo weren't very friendly,\r\n"
+"but I'm so thrilled to have met so many warm-hearted\r\n"
+"people there!"
+msgstr ""
+
+msgctxt "200"
+msgid "Your kindness and sincerity won their trust."
+msgstr ""
+
+msgctxt "212"
+msgid "Now you just gotta make sure you don't let 'em down."
+msgstr ""
+
+msgctxt "224"
+msgid "I won't!"
+msgstr ""
+
+msgctxt "236"
+msgid "You'd better come visit us once we open!"
+msgstr ""
+
+msgctxt "1856"
+msgid "Kaede"
+msgstr ""
+
+msgctxt "1860"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "1864"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1868"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "1872"
+msgid "Momiji"
+msgstr ""
+
+msgctxt "1876"
+msgid "Talk_Quest"
+msgstr ""

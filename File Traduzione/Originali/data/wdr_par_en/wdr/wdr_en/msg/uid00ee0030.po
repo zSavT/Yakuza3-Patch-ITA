@@ -1,0 +1,336 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "148"
+msgid "Right then... What's the best way to talk to women?"
+msgstr ""
+
+msgctxt "160"
+msgid "Why don't you ask one of your friends to help you?"
+msgstr ""
+
+msgctxt "172"
+msgid "They're not good enough! I want to be just like you, sensei!"
+msgstr ""
+
+msgctxt "184"
+msgid "......"
+msgstr ""
+
+msgctxt "196"
+msgid "So... Who was that girl at the front door?"
+msgstr ""
+
+msgctxt "208"
+msgid "Oh, that'd be Haruka."
+msgstr ""
+
+msgctxt "220"
+msgid "Haruka-chan... She's really cute."
+msgstr ""
+
+msgctxt "244"
+msgid "So... Is Haruka-chan seeing anyone right now?"
+msgstr ""
+
+msgctxt "256"
+msgid "You want to go on a date with Haruka, now? Hmm..."
+msgstr ""
+
+msgctxt "268"
+msgid "Why don't you ask her yourself? I'll call her over."
+msgstr ""
+
+msgctxt "280"
+msgid "Wha..."
+msgstr ""
+
+msgctxt "292"
+msgid "Hey, Haruka! Could you come here for a moment?"
+msgstr ""
+
+msgctxt "340"
+msgid "What is it? Do you need something?"
+msgstr ""
+
+msgctxt "352"
+msgid "Here, I called her over."
+msgstr ""
+
+msgctxt "364"
+msgid ""
+"Hi... I, uh, just wanted to ask, uh... When I first laid\r\n"
+"eyes on you, I thought you were so pretty, so... uh..."
+msgstr ""
+
+msgctxt "376"
+msgid ""
+"Oh... I'm sorry. I've got to help with the kids, so...\r\n"
+"I can't go on a date with you."
+msgstr ""
+
+msgctxt "388"
+msgid "Huh... Wait, kids!?"
+msgstr ""
+
+msgctxt "400"
+msgid ""
+"Yeah. I've gotta cook for them and stuff. It keeps me pretty\r\n"
+"busy."
+msgstr ""
+
+msgctxt "412"
+msgid ""
+"Wait, does that mean sensei and Haruka-chan... Haruka-san...\r\n"
+"are, are... Wait, I thought you were my age! Are you\r\n"
+"that much older than me!?"
+msgstr ""
+
+msgctxt "424"
+msgid "What!? What are you talking about?"
+msgstr ""
+
+msgctxt "436"
+msgid "W... Waaaaaah! I hate yooouuuu!"
+msgstr ""
+
+msgctxt "448"
+msgid "...What was that all about?"
+msgstr ""
+
+msgctxt "460"
+msgid "No idea. You don't need to worry about him."
+msgstr ""
+
+msgctxt "496"
+msgid "You got 2,000 EXP."
+msgstr ""
+
+msgctxt "520"
+msgid ""
+"You're too desperate. You're going after every girl that\r\n"
+"walks into your life, literally. First it was burger girl,\r\n"
+"then that hostess. Which one do you like the most?"
+msgstr ""
+
+msgctxt "532"
+msgid "Right now, I like Haruka-chan the most!"
+msgstr ""
+
+msgctxt "544"
+msgid "......"
+msgstr ""
+
+msgctxt "592"
+msgid "What is it? Do you need something?"
+msgstr ""
+
+msgctxt "604"
+msgid "Oh! Um..."
+msgstr ""
+
+msgctxt "616"
+msgid "Perfect timing. Go on and ask her."
+msgstr ""
+
+msgctxt "628"
+msgid "Umm, Haruka-chan..."
+msgstr ""
+
+msgctxt "640"
+msgid "Hmm?"
+msgstr ""
+
+msgctxt "652"
+msgid "I, uh..."
+msgstr ""
+
+msgctxt "664"
+msgid ""
+"Could you hurry up? I'm pretty busy right now.\r\n"
+"I've gotta make something for the kids."
+msgstr ""
+
+msgctxt "676"
+msgid "Huh... Wait, kids!?"
+msgstr ""
+
+msgctxt "688"
+msgid ""
+"Yeah. It's tough work, especially with how much\r\n"
+"everyone eats."
+msgstr ""
+
+msgctxt "700"
+msgid ""
+"Wait, does that mean sensei and Haruka-chan... Haruka-san...\r\n"
+"are, are... Wait, I thought you were my age! Are you\r\n"
+"that much older than me!?"
+msgstr ""
+
+msgctxt "712"
+msgid "What!? What are you talking about?"
+msgstr ""
+
+msgctxt "724"
+msgid "W... Waaaaaah! I hate yooouuuu!"
+msgstr ""
+
+msgctxt "736"
+msgid "...What was that all about?"
+msgstr ""
+
+msgctxt "748"
+msgid "No idea. You don't need to worry about him."
+msgstr ""
+
+msgctxt "784"
+msgid "You got 2,000 EXP."
+msgstr ""
+
+msgctxt "808"
+msgid "Don't go after Haruka. You're not cut out to handle her."
+msgstr ""
+
+msgctxt "820"
+msgid ""
+"What!? But she's so cute! She's got to be a wonderful girl!\r\n"
+"Oh, I get it. You're jealous, aren't you?"
+msgstr ""
+
+msgctxt "832"
+msgid ""
+"It's kind of a long story. Just trust me, you're not right\r\n"
+"for her."
+msgstr ""
+
+msgctxt "844"
+msgid ""
+"I'm serious about her! I really, truly like her! Whatever\r\n"
+"challenges come my way, I can handle them!"
+msgstr ""
+
+msgctxt "892"
+msgid "What is it? Do you need something?"
+msgstr ""
+
+msgctxt "904"
+msgid "Oh! Um..."
+msgstr ""
+
+msgctxt "916"
+msgid "Perfect timing. Go on and ask her."
+msgstr ""
+
+msgctxt "928"
+msgid "Umm, Haruka-chan..."
+msgstr ""
+
+msgctxt "940"
+msgid "Hmm?"
+msgstr ""
+
+msgctxt "952"
+msgid "I, uh..."
+msgstr ""
+
+msgctxt "964"
+msgid ""
+"Could you hurry up? I'm pretty busy right now.\r\n"
+"I've gotta make something for the kids."
+msgstr ""
+
+msgctxt "976"
+msgid "Huh... Wait, kids!?"
+msgstr ""
+
+msgctxt "988"
+msgid ""
+"Yeah. It's tough work, especially with how much\r\n"
+"everyone eats."
+msgstr ""
+
+msgctxt "1000"
+msgid ""
+"Wait, does that mean sensei and Haruka-chan... Haruka-san...\r\n"
+"are, are... Wait, I thought you were my age! Are you\r\n"
+"that much older than me!?"
+msgstr ""
+
+msgctxt "1012"
+msgid "What!? What are you talking about?"
+msgstr ""
+
+msgctxt "1024"
+msgid "W... Waaaaaah! I hate yooouuuu!"
+msgstr ""
+
+msgctxt "1036"
+msgid "...What was that all about?"
+msgstr ""
+
+msgctxt "1048"
+msgid "No idea. You don't need to worry about him."
+msgstr ""
+
+msgctxt "1084"
+msgid "You got 2,000 EXP."
+msgstr ""
+
+msgctxt "1108"
+msgid "Ask her yourself."
+msgstr ""
+
+msgctxt "1120"
+msgid "You're too desperate."
+msgstr ""
+
+msgctxt "1132"
+msgid "Don't do it."
+msgstr ""
+
+msgctxt "11768"
+msgid "Lovelorn Teenager"
+msgstr ""
+
+msgctxt "11772"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "11776"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "11780"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "11784"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "11788"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "11792"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "11796"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "11800"
+msgid "Talk_Ase"
+msgstr ""

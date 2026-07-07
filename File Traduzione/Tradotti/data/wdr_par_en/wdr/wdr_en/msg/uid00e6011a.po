@@ -1,0 +1,112 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "148"
+msgid ""
+"Hey, I'm Tom. If you wanna see a military base or get\r\n"
+"to know this place, then I'm your go-to guy."
+msgstr ""
+
+msgctxt "160"
+msgid ""
+"How about it? I could show you to a nice barbecue spot.\r\n"
+"Their service is the best in town!"
+msgstr ""
+
+msgctxt "172"
+msgid ""
+"(Wasn't there a rumor about people being abducted by a\r\n"
+"foreign phantom or something in front of the station...?)"
+msgstr ""
+
+msgctxt "184"
+msgid "How about it? I'll give you a fine tour."
+msgstr ""
+
+msgctxt "196"
+msgid ""
+"Actually, I heard a girl recently went missing in this area.\r\n"
+"Happen to know anything about that?"
+msgstr ""
+
+msgctxt "208"
+msgid "Nope, nothing at all! Absolutely nothing! Not even the slightest bit!"
+msgstr ""
+
+msgctxt "220"
+msgid "...All right then."
+msgstr ""
+
+msgctxt "232"
+msgid ""
+"If you do decide you want a fine tour of Okinawa, come back\r\n"
+"and let me know."
+msgstr ""
+
+msgctxt "244"
+msgid "Fine. Show me around town."
+msgstr ""
+
+msgctxt "256"
+msgid ""
+"That's what I like to hear! You look like a drinkin' man.\r\n"
+"How about I take you on the special adult tour today?"
+msgstr ""
+
+msgctxt "280"
+msgid "Accept His Offer"
+msgstr ""
+
+msgctxt "292"
+msgid "Ask About the Missing Girl"
+msgstr ""
+
+msgctxt "2268"
+msgid "Tom"
+msgstr ""
+
+msgctxt "2272"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "2276"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "2280"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "2284"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "2288"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "2292"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "2296"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "2300"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "2304"
+msgid "Talk_Ojigi"
+msgstr ""

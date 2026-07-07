@@ -1,0 +1,158 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "92"
+msgid "(An animal backpack... Is this finally Sakura?)"
+msgstr ""
+
+msgctxt "104"
+msgid "Hey, what's your name?"
+msgstr ""
+
+msgctxt "116"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "128"
+msgid "I'm looking for a lost girl. Her name is Sakura."
+msgstr ""
+
+msgctxt "140"
+msgid "Hey, that's my name! But I'm not lost..."
+msgstr ""
+
+msgctxt "152"
+msgid "I'll be back in a second. I'm going to get your mother."
+msgstr ""
+
+msgctxt "236"
+msgid "Sakura! Where on earth have you been!?"
+msgstr ""
+
+msgctxt "248"
+msgid "Huh!? But you told me to wait here while you did your shopping."
+msgstr ""
+
+msgctxt "260"
+msgid ""
+"I did no such thing! I've been looking for you all over this arcade, young "
+"lady!"
+msgstr ""
+
+msgctxt "272"
+msgid ""
+"This happened last vacation, too, Mommy! You got totally lost, and Daddy "
+"said you had no sense of direction at all."
+msgstr ""
+
+msgctxt "284"
+msgid "Huh? Oh no, Daddy said that too?"
+msgstr ""
+
+msgctxt "296"
+msgid "(Looks like Mom's the one who got lost.)"
+msgstr ""
+
+msgctxt "308"
+msgid "Anyway... Where'd you get that backpack?"
+msgstr ""
+
+msgctxt "320"
+msgid "I traded for it! Isn't it the cutest?"
+msgstr ""
+
+msgctxt "332"
+msgid "It is! And it wouldn't have been cheap if we bought it at retail price..."
+msgstr ""
+
+msgctxt "344"
+msgid "......"
+msgstr ""
+
+msgctxt "356"
+msgid "Oh, that's right. I have to thank you... For finding my Sakura."
+msgstr ""
+
+msgctxt "368"
+msgid "This isn't much, but I insist. It's the least I can do to thank you."
+msgstr ""
+
+msgctxt "380"
+msgid "You got <Color:8>3,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "392"
+msgid "Okay, Sakura, let's go. And don't leave my sight again, you hear me?"
+msgstr ""
+
+msgctxt "404"
+msgid "Bye bye, mister! Sorry about my mom."
+msgstr ""
+
+msgctxt "464"
+msgid ""
+"(She pulled off a lot of trades while her mother was wandering... Guess she "
+"gets her smarts from her dad.)"
+msgstr ""
+
+msgctxt "488"
+msgid "You got 3,000 EXP."
+msgstr ""
+
+msgctxt "4488"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "4492"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "4496"
+msgid "Girl"
+msgstr ""
+
+msgctxt "4500"
+msgid "Sakura"
+msgstr ""
+
+msgctxt "4504"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "4508"
+msgid "0"
+msgstr ""
+
+msgctxt "4512"
+msgid "Mother"
+msgstr ""
+
+msgctxt "4516"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "4520"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "4524"
+msgid "Talk_Send"
+msgstr ""
+
+msgctxt "4528"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "4532"
+msgid "dummy"
+msgstr ""

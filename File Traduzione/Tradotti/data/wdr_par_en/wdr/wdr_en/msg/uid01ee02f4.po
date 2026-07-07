@@ -1,0 +1,198 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "272"
+msgid "(Boxcelios... An arcade shooter...)"
+msgstr ""
+
+msgctxt "284"
+msgid ""
+"Boxcelios puts you in the seat of an invincible fighter and challenges you "
+"to destroy as many enemies as possible before time runs out. Move your ship "
+"with the "
+"<Action:Button_LS_Up@Shooting><Action:Button_LS_"
+"Down@Shooting><Action:Button_LS_Left@Shooting><Action:Button_LS_"
+"Right@Shooting>, and fire your laser cannons with "
+"<Action:Button_Cross@Shooting>."
+msgstr ""
+
+msgctxt "296"
+msgid ""
+"Shoot and destroy either the glowing core or the majority of enemy ships to "
+"take them down."
+msgstr ""
+
+msgctxt "308"
+msgid ""
+"Time stands still for two seconds after an enemy appears. Use this time to "
+"aim for the enemy's core for maximum efficiency."
+msgstr ""
+
+msgctxt "332"
+msgid "Uncle Kaz! Get to Level 25 in Boxcelios!"
+msgstr ""
+
+msgctxt "344"
+msgid "(Level 25 in Boxcelios... One play is 100 yen. Should I try it?)"
+msgstr ""
+
+msgctxt "368"
+msgid "All right. Leave it to me."
+msgstr ""
+
+msgctxt "380"
+msgid "Good luck, Uncle Kaz!"
+msgstr ""
+
+msgctxt "404"
+msgid "(I don't have enough money...)"
+msgstr ""
+
+msgctxt "416"
+msgid "(Maybe later...)"
+msgstr ""
+
+msgctxt "428"
+msgid "Aww, I really wanted to see you play..."
+msgstr ""
+
+msgctxt "440"
+msgid "Uncle Kaz! Get to Level 50 in Boxcelios! I know you can do it!"
+msgstr ""
+
+msgctxt "452"
+msgid "(Level 50 in Boxcelios... One play is 100 yen. Should I give it a try?)"
+msgstr ""
+
+msgctxt "476"
+msgid "Leave this to me."
+msgstr ""
+
+msgctxt "488"
+msgid "Good luck, Uncle Kaz!"
+msgstr ""
+
+msgctxt "512"
+msgid "(I don't have enough money...)"
+msgstr ""
+
+msgctxt "524"
+msgid "(Maybe later...)"
+msgstr ""
+
+msgctxt "536"
+msgid "Aww... I really wanted to watch you do it..."
+msgstr ""
+
+msgctxt "560"
+msgid "(Boxcelios... An arcade shooter...)"
+msgstr ""
+
+msgctxt "572"
+msgid ""
+"Boxcelios puts you in the seat of an invincible fighter and challenges you "
+"to destroy as many enemies as possible before time runs out. Move your ship "
+"with the "
+"<Action:Button_LS_Up@Shooting><Action:Button_LS_"
+"Down@Shooting><Action:Button_LS_Left@Shooting><Action:Button_LS_"
+"Right@Shooting>, and fire your laser cannons with "
+"<Action:Button_Cross@Shooting>."
+msgstr ""
+
+msgctxt "584"
+msgid ""
+"Shoot and destroy either the glowing core or the majority of enemy ships to "
+"take them down."
+msgstr ""
+
+msgctxt "596"
+msgid ""
+"Time stands still for two seconds after an enemy appears. Use this time to "
+"aim for the enemy's core for maximum efficiency."
+msgstr ""
+
+msgctxt "608"
+msgid "(Boxcelios... 100 yen for one game. Hmm...)"
+msgstr ""
+
+msgctxt "632"
+msgid "(Okay, I think I'll give it a try.)"
+msgstr ""
+
+msgctxt "656"
+msgid "(I don't have enough money...)"
+msgstr ""
+
+msgctxt "668"
+msgid "(Maybe later...)"
+msgstr ""
+
+msgctxt "680"
+msgid "Play"
+msgstr ""
+
+msgctxt "692"
+msgid "Read the Instructions"
+msgstr ""
+
+msgctxt "704"
+msgid "Not Now"
+msgstr ""
+
+msgctxt "716"
+msgid "Play"
+msgstr ""
+
+msgctxt "728"
+msgid "Read the Instructions"
+msgstr ""
+
+msgctxt "740"
+msgid "Don't Play"
+msgstr ""
+
+msgctxt "752"
+msgid "Play"
+msgstr ""
+
+msgctxt "764"
+msgid "Read the Instructions"
+msgstr ""
+
+msgctxt "776"
+msgid "Don't Play"
+msgstr ""
+
+msgctxt "5668"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "5672"
+msgid "Boxcelios"
+msgstr ""
+
+msgctxt "5676"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "5680"
+msgid "HAL_stand_tlk_happy_small"
+msgstr ""
+
+msgctxt "5684"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "5688"
+msgid "HAL_stand_tlk_unhappy_big"
+msgstr ""

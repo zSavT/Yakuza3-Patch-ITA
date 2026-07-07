@@ -1,0 +1,182 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "120"
+msgid ""
+"Urgh... gah... Why didn't you take the 200,000 and buy yourself the real "
+"deal?"
+msgstr ""
+
+msgctxt "132"
+msgid ""
+"Urgh... gah... Why didn't you take the 100,000 and buy yourself the real "
+"deal? That was a bargain, dammit!"
+msgstr ""
+
+msgctxt "144"
+msgid "Why are you so obsessed with this bag, anyway?"
+msgstr ""
+
+msgctxt "156"
+msgid "...Look for yourself. There should be car keys in there."
+msgstr ""
+
+msgctxt "168"
+msgid "Car keys?"
+msgstr ""
+
+msgctxt "204"
+msgid "Huh. So they are."
+msgstr ""
+
+msgctxt "216"
+msgid ""
+"I'm pretty deep in debt, y'see. They got me working as... a mule, I guess "
+"you'd call me."
+msgstr ""
+
+msgctxt "228"
+msgid ""
+"Some guys in the biz asked me to put the car keys in the bag, then give it "
+"to somebody who'd come to buy it."
+msgstr ""
+
+msgctxt "240"
+msgid "And, well... turns out you weren't the guy I was waiting for."
+msgstr ""
+
+msgctxt "252"
+msgid "So that's what this is about..."
+msgstr ""
+
+msgctxt "264"
+msgid "I'd be in real trouble if I lost those keys..."
+msgstr ""
+
+msgctxt "276"
+msgid "I see..."
+msgstr ""
+
+msgctxt "288"
+msgid "Here you go. All yours."
+msgstr ""
+
+msgctxt "324"
+msgid "Are... Are you serious? You're just gonna give them back?"
+msgstr ""
+
+msgctxt "336"
+msgid "Long as you stay out of trouble from now on. Got it?"
+msgstr ""
+
+msgctxt "348"
+msgid "Thanks so much! Oh, man, I really owe you!"
+msgstr ""
+
+msgctxt "360"
+msgid ""
+"In fact... why don't you take this? It's not much, but I gotta thank you "
+"somehow!"
+msgstr ""
+
+msgctxt "372"
+msgid "All right."
+msgstr ""
+
+msgctxt "396"
+msgid "You got <Color:8>50,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "420"
+msgid "And you can have this, too. Don't worry⑬this one's real. Honest."
+msgstr ""
+
+msgctxt "432"
+msgid "You got a <Color:8>French Handbag<Color:Default>."
+msgstr ""
+
+msgctxt "456"
+msgid "Thanks."
+msgstr ""
+
+msgctxt "468"
+msgid "Okay, I better get going."
+msgstr ""
+
+msgctxt "504"
+msgid "You got 5,000 EXP."
+msgstr ""
+
+msgctxt "528"
+msgid "Actually... I think I'll hold onto them."
+msgstr ""
+
+msgctxt "540"
+msgid ""
+"But why!? I told you how much trouble I'd be in without those keys! Do you "
+"want them to kill me!?"
+msgstr ""
+
+msgctxt "552"
+msgid "Hey, it comes with the territory. You knew the risks going in, didn't you?"
+msgstr ""
+
+msgctxt "564"
+msgid "You're gonna pay for this!"
+msgstr ""
+
+msgctxt "576"
+msgid "Now I gotta skip town... Need to find some way out of Kamurocho, and fast..."
+msgstr ""
+
+msgctxt "588"
+msgid ""
+"But first, some friendly advice: Stay away from the car in front of the "
+"Millennium Tower."
+msgstr ""
+
+msgctxt "636"
+msgid "Return the Keys"
+msgstr ""
+
+msgctxt "648"
+msgid "Keep Them"
+msgstr ""
+
+msgctxt "5440"
+msgid "Shady Salesman"
+msgstr ""
+
+msgctxt "5444"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "5448"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "5452"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "5456"
+msgid "Talk_Sorry"
+msgstr ""
+
+msgctxt "5460"
+msgid "Talk_Send"
+msgstr ""
+
+msgctxt "5464"
+msgid "dummy"
+msgstr ""

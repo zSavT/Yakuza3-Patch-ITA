@@ -1,0 +1,194 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "76"
+msgid ""
+"You got some real coconuts coming here alone, kid. You're either outta your "
+"damn mind, or you're the bravest little shit in town."
+msgstr ""
+
+msgctxt "88"
+msgid ""
+"Please... I'll do whatever it takes to pay off Natsumi's debt. I have this "
+"fishing boat down in Okinawa that'll cover the cost... Just please give me "
+"some time to sell it!"
+msgstr ""
+
+msgctxt "100"
+msgid ""
+"Natsumi? You mean the stripper who's always blowing her cash at host clubs? "
+"Heh, you'd do all that just for a piece of ass, kid? You're crazier than I "
+"thought."
+msgstr ""
+
+msgctxt "112"
+msgid "Please! You'll get all five million, I promise!"
+msgstr ""
+
+msgctxt "124"
+msgid ""
+"Ugh, you're hurtin' my ears here, kid. How 'bout we teach him a little "
+"lesson, boys?"
+msgstr ""
+
+msgctxt "184"
+msgid "Rikiya..."
+msgstr ""
+
+msgctxt "196"
+msgid "Look, Natsumi. These are the lengths he's willing to go to for you."
+msgstr ""
+
+msgctxt "208"
+msgid ""
+"So when you trick him like this, you aren't just playing with his emotions. "
+"You're playing with his life."
+msgstr ""
+
+msgctxt "220"
+msgid "I..."
+msgstr ""
+
+msgctxt "232"
+msgid ""
+"Rikiya's too earnest for his own good. When he says he'll risk his life for "
+"you, he means it. He would die if it meant keeping you safe."
+msgstr ""
+
+msgctxt "244"
+msgid ""
+"You're both from Okinawa, and as far as he knows, you're family to his "
+"closest childhood friend. That's why he chose to trust you. But instead of "
+"accepting him for who he is, you betrayed that trust."
+msgstr ""
+
+msgctxt "256"
+msgid "Urgh...!"
+msgstr ""
+
+msgctxt "268"
+msgid "Rikiya, stop!"
+msgstr ""
+
+msgctxt "280"
+msgid "Nat...sumi?"
+msgstr ""
+
+msgctxt "292"
+msgid "What are you doing here? This is... too dangerous for you..."
+msgstr ""
+
+msgctxt "304"
+msgid "I'm... I'm so sorry, Rikiya!"
+msgstr ""
+
+msgctxt "316"
+msgid "It's okay. I'm taking care of the money. You don't have to cry."
+msgstr ""
+
+msgctxt "328"
+msgid ""
+"Well ain't this sweet? Now that you two're all nice and lovey-dovey, how "
+"'bout we get a little boy-on-girl action on tape and we can call the whole "
+"thing quits?"
+msgstr ""
+
+msgctxt "340"
+msgid "You sick bastard!"
+msgstr ""
+
+msgctxt "352"
+msgid ""
+"What'd you call me? You got a death wish, punk!? Well you came to the right "
+"guy!"
+msgstr ""
+
+msgctxt "364"
+msgid ""
+"Rikiya. I'd be glad to lend a hand or two if you want to teach these thugs "
+"a lesson."
+msgstr ""
+
+msgctxt "376"
+msgid "I was hoping you'd say that, Aniki."
+msgstr ""
+
+msgctxt "388"
+msgid "The fuck are you two blabbing about!?"
+msgstr ""
+
+msgctxt "400"
+msgid ""
+"Sorry, but you just picked a fight with the wrong guy. I'm Rikiya "
+"Shimabukuro, captain of the Ryudo Family!"
+msgstr ""
+
+msgctxt "412"
+msgid "And once I'm through with you... you'll wish you'd never been born!"
+msgstr ""
+
+msgctxt "7064"
+msgid "Loan Shark Boss"
+msgstr ""
+
+msgctxt "7068"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "7072"
+msgid "Rikiya"
+msgstr ""
+
+msgctxt "7076"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "7080"
+msgid "C22_SetM_ykz_stand_kickA"
+msgstr ""
+
+msgctxt "7084"
+msgid "C22_SetM_ykz_stand_kickB"
+msgstr ""
+
+msgctxt "7088"
+msgid "Natsumi"
+msgstr ""
+
+msgctxt "7092"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "7096"
+msgid "Idle"
+msgstr ""
+
+msgctxt "7100"
+msgid "P_stand_tlk_hirou_lp"
+msgstr ""
+
+msgctxt "7104"
+msgid "M_ykz_damage"
+msgstr ""
+
+msgctxt "7108"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "7112"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "7116"
+msgid "M_ykzs_stand"
+msgstr ""

@@ -1,0 +1,964 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "388"
+msgid "What the heck... Kiryu-san!?"
+msgstr ""
+
+msgctxt "400"
+msgid "Sorry to keep you waiting."
+msgstr ""
+
+msgctxt "412"
+msgid "Just what're you trying to pull here?"
+msgstr ""
+
+msgctxt "424"
+msgid "Is this some kinda joke...?"
+msgstr ""
+
+msgctxt "436"
+msgid "......"
+msgstr ""
+
+msgctxt "448"
+msgid "Ditch the bozo and come back by yourself. I'll be waitin' right here."
+msgstr ""
+
+msgctxt "460"
+msgid "You're late! Now spill it⑬what were you up to this whole time?"
+msgstr ""
+
+msgctxt "472"
+msgid "Sorry... I just got a little sidetracked."
+msgstr ""
+
+msgctxt "484"
+msgid "Fine. I'll just have you treat me like an absolute princess today."
+msgstr ""
+
+msgctxt "496"
+msgid "As you wish."
+msgstr ""
+
+msgctxt "568"
+msgid "Huh? Rin, is that you? How are ya, babe?"
+msgstr ""
+
+msgctxt "592"
+msgid "Huh? Wait... Masaya!?"
+msgstr ""
+
+msgctxt "604"
+msgid "It's been a while, huh? How about we, uh, find some nice place and⑬"
+msgstr ""
+
+msgctxt "616"
+msgid "Yeeeeah, I don't think so. I got business to take care of. Lots of it."
+msgstr ""
+
+msgctxt "628"
+msgid "Oh... Yeah, of course you would..."
+msgstr ""
+
+msgctxt "688"
+msgid "You sure about letting him go like that?"
+msgstr ""
+
+msgctxt "700"
+msgid "Ah, he's nothing to worry about. Sorry 'bout that, Kiryu-san."
+msgstr ""
+
+msgctxt "712"
+msgid "......"
+msgstr ""
+
+msgctxt "724"
+msgid "C'mon, let's go."
+msgstr ""
+
+msgctxt "808"
+msgid "Huh? You again?"
+msgstr ""
+
+msgctxt "820"
+msgid "Funny running into you here."
+msgstr ""
+
+msgctxt "832"
+msgid "Yeah, right. I bet you're always cooped up in here."
+msgstr ""
+
+msgctxt "844"
+msgid ""
+"Heh, pretty much. By the way, who's the old guy? Wasn't he with you last "
+"time?"
+msgstr ""
+
+msgctxt "856"
+msgid ""
+"\"Old guy\"!? What the heck is wrong with you? Huh, guess you still haven't "
+"learned any manners."
+msgstr ""
+
+msgctxt "868"
+msgid "I could say the same to you."
+msgstr ""
+
+msgctxt "880"
+msgid ""
+"Didn't your mother ever teach you manipulating men might get you hurt one "
+"day? Just saying..."
+msgstr ""
+
+msgctxt "940"
+msgid "Yeah, well, screw you too, ya big jackass... Go play in a wood chipper!"
+msgstr ""
+
+msgctxt "952"
+msgid "......"
+msgstr ""
+
+msgctxt "964"
+msgid "Sorry ya had to see that, Kiryu-san... That ain't all there is to me."
+msgstr ""
+
+msgctxt "976"
+msgid "Heh. You're fine."
+msgstr ""
+
+msgctxt "988"
+msgid "Shall we? ♪"
+msgstr ""
+
+msgctxt "1000"
+msgid "Yeah."
+msgstr ""
+
+msgctxt "1024"
+msgid "So! What's on our agenda?"
+msgstr ""
+
+msgctxt "1048"
+msgid "How about we get some yakiniku at Kanrai?"
+msgstr ""
+
+msgctxt "1060"
+msgid "Oooh, I do love their yakiniku. <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "1072"
+msgid "Alright, then let's get on over there!"
+msgstr ""
+
+msgctxt "1096"
+msgid "How about we get some yakiniku at Kanrai?"
+msgstr ""
+
+msgctxt "1108"
+msgid "Yakiniku again? I was kinda hopin' we'd go somewhere else..."
+msgstr ""
+
+msgctxt "1120"
+msgid "But I guess I don't mind if you're dead set on goin'..."
+msgstr ""
+
+msgctxt "1132"
+msgid "Ah well. Anyway, let's go."
+msgstr ""
+
+msgctxt "1168"
+msgid "How does sushi sound? I'm thinking Sushi Gin would be good."
+msgstr ""
+
+msgctxt "1180"
+msgid "Mmm, sushi. Haven't had that in forever. <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "1192"
+msgid ""
+"I wonder what's in season right now... <Color:7>⑮<Color:Default> Guess "
+"there's only one way to find out! <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "1204"
+msgid "Well? Shall we?"
+msgstr ""
+
+msgctxt "1228"
+msgid "How does sushi sound? I'm thinking Sushi Gin would be good."
+msgstr ""
+
+msgctxt "1240"
+msgid "Sushi again? Well, I was kinda hopin' for something else..."
+msgstr ""
+
+msgctxt "1252"
+msgid "But I guess I don't mind if you're dead set on goin'..."
+msgstr ""
+
+msgctxt "1264"
+msgid "Ah well. Anyway, let's go."
+msgstr ""
+
+msgctxt "1300"
+msgid "Why don't we do a little shopping at Le Marche?"
+msgstr ""
+
+msgctxt "1312"
+msgid "What!? You gonna buy me a present or somethin'?"
+msgstr ""
+
+msgctxt "1324"
+msgid ""
+"Hey, as long as it's from you, I'll be happy to oblige. "
+"<Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "1336"
+msgid "Wanna get goin'?"
+msgstr ""
+
+msgctxt "1360"
+msgid "Why don't we do a little shopping at Le Marche?"
+msgstr ""
+
+msgctxt "1372"
+msgid ""
+"Mm... Don't get me wrong⑬I'm real happy you're buyin' me a present and "
+"all⑬but don't ya think we should go somewhere a little more... date-like?"
+msgstr ""
+
+msgctxt "1384"
+msgid "But I guess I don't mind if you're dead set on goin'..."
+msgstr ""
+
+msgctxt "1396"
+msgid "Ah well. Anyway, let's go."
+msgstr ""
+
+msgctxt "1432"
+msgid "Maybe we could go bowling."
+msgstr ""
+
+msgctxt "1444"
+msgid "Bowling? Haha, is that a challenge or somethin'?"
+msgstr ""
+
+msgctxt "1456"
+msgid "Alright then... I won't lose. <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "1468"
+msgid "Shall we?"
+msgstr ""
+
+msgctxt "1492"
+msgid "Maybe we could go bowling."
+msgstr ""
+
+msgctxt "1504"
+msgid "Bowling again? I was hopin' we'd go somewhere else..."
+msgstr ""
+
+msgctxt "1516"
+msgid "But I guess I don't mind if you're dead set on goin'..."
+msgstr ""
+
+msgctxt "1528"
+msgid "Ah well. Anyway, let's go."
+msgstr ""
+
+msgctxt "1564"
+msgid "Karaoke might be nice."
+msgstr ""
+
+msgctxt "1576"
+msgid "Karaoke? Hahaha... Did not expect that."
+msgstr ""
+
+msgctxt "1588"
+msgid "Hmmm... What should I sing today...? <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "1600"
+msgid "Oh! Sorry. Wanna get goin'?"
+msgstr ""
+
+msgctxt "1624"
+msgid "Karaoke might be nice."
+msgstr ""
+
+msgctxt "1636"
+msgid "Karaoke again? Ya sure? <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "1648"
+msgid ""
+"Hehe, looks like you love karaoke just as much as I do, Kiryu-san. "
+"<Color:7>⑮<Color:Default> Ready to sing your heart out?"
+msgstr ""
+
+msgctxt "1660"
+msgid "Then let's go!"
+msgstr ""
+
+msgctxt "1684"
+msgid "Well, hey there, Kiryu-san."
+msgstr ""
+
+msgctxt "1696"
+msgid "I kinda knew you'd be right on time. That's so like you."
+msgstr ""
+
+msgctxt "1768"
+msgid "Huh? Rin, is that you? How are ya, babe?"
+msgstr ""
+
+msgctxt "1792"
+msgid "Huh? Wait... Masaya!?"
+msgstr ""
+
+msgctxt "1804"
+msgid "It's been a while, huh? How about we, uh, find some nice place and⑬"
+msgstr ""
+
+msgctxt "1816"
+msgid "Yeeeeah, I don't think so. I got business to take care of. Lots of it."
+msgstr ""
+
+msgctxt "1828"
+msgid "Oh... Yeah, of course you would..."
+msgstr ""
+
+msgctxt "1888"
+msgid "You sure about letting him go like that?"
+msgstr ""
+
+msgctxt "1900"
+msgid "Ah, he's nothing to worry about. Sorry 'bout that, Kiryu-san."
+msgstr ""
+
+msgctxt "1912"
+msgid "......"
+msgstr ""
+
+msgctxt "1924"
+msgid "C'mon, let's go."
+msgstr ""
+
+msgctxt "2008"
+msgid "Huh? You again?"
+msgstr ""
+
+msgctxt "2020"
+msgid "Funny running into you here."
+msgstr ""
+
+msgctxt "2032"
+msgid "Yeah, right. I bet you're always cooped up in here."
+msgstr ""
+
+msgctxt "2044"
+msgid ""
+"Heh, pretty much. By the way, who's the old guy? Wasn't he with you last "
+"time?"
+msgstr ""
+
+msgctxt "2056"
+msgid ""
+"\"Old guy\"!? What the heck is wrong with you? Huh, guess you still haven't "
+"learned any manners."
+msgstr ""
+
+msgctxt "2068"
+msgid "I could say the same to you."
+msgstr ""
+
+msgctxt "2080"
+msgid ""
+"Didn't your mother ever teach you manipulating men might get you hurt one "
+"day? Just saying..."
+msgstr ""
+
+msgctxt "2140"
+msgid "Yeah, well, screw you too, ya big jackass... Go play in a wood chipper!"
+msgstr ""
+
+msgctxt "2152"
+msgid "......"
+msgstr ""
+
+msgctxt "2164"
+msgid "Sorry ya had to see that, Kiryu-san... That ain't all there is to me."
+msgstr ""
+
+msgctxt "2176"
+msgid "Heh. You're fine."
+msgstr ""
+
+msgctxt "2188"
+msgid "Shall we? ♪"
+msgstr ""
+
+msgctxt "2200"
+msgid "Yeah."
+msgstr ""
+
+msgctxt "2224"
+msgid "So! What's on our agenda?"
+msgstr ""
+
+msgctxt "2248"
+msgid "How about we get some yakiniku at Kanrai?"
+msgstr ""
+
+msgctxt "2260"
+msgid "Oooh, I do love their yakiniku. <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "2272"
+msgid "Alright, then let's get on over there!"
+msgstr ""
+
+msgctxt "2296"
+msgid "How about we get some yakiniku at Kanrai?"
+msgstr ""
+
+msgctxt "2308"
+msgid "Yakiniku again? I was kinda hopin' we'd go somewhere else..."
+msgstr ""
+
+msgctxt "2320"
+msgid "But I guess I don't mind if you're dead set on goin'..."
+msgstr ""
+
+msgctxt "2332"
+msgid "Ah well. Anyway, let's go."
+msgstr ""
+
+msgctxt "2368"
+msgid "How does sushi sound? I'm thinking Sushi Gin would be good."
+msgstr ""
+
+msgctxt "2380"
+msgid "Mmm, sushi. Haven't had that in forever. <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "2392"
+msgid ""
+"I wonder what's in season right now... <Color:7>⑮<Color:Default> Guess "
+"there's only one way to find out! <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "2404"
+msgid "Well? Shall we?"
+msgstr ""
+
+msgctxt "2428"
+msgid "How does sushi sound? I'm thinking Sushi Gin would be good."
+msgstr ""
+
+msgctxt "2440"
+msgid "Sushi again? Well, I was kinda hopin' for something else..."
+msgstr ""
+
+msgctxt "2452"
+msgid "But I guess I don't mind if you're dead set on goin'..."
+msgstr ""
+
+msgctxt "2464"
+msgid "Ah well. Anyway, let's go."
+msgstr ""
+
+msgctxt "2500"
+msgid "Why don't we do a little shopping at Le Marche?"
+msgstr ""
+
+msgctxt "2512"
+msgid "What!? You gonna buy me a present or somethin'?"
+msgstr ""
+
+msgctxt "2524"
+msgid ""
+"Hey, as long as it's from you, I'll be happy to oblige. "
+"<Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "2536"
+msgid "Well? Shall we?"
+msgstr ""
+
+msgctxt "2560"
+msgid "Why don't we do a little shopping at Le Marche?"
+msgstr ""
+
+msgctxt "2572"
+msgid ""
+"Mm... Don't get me wrong⑬I'm real happy you're buyin' me a present and "
+"all⑬but don't ya think we should go somewhere a little more... date-like?"
+msgstr ""
+
+msgctxt "2584"
+msgid "But I guess I don't mind if you're dead set on goin'..."
+msgstr ""
+
+msgctxt "2596"
+msgid "Ah well. Anyway, let's go."
+msgstr ""
+
+msgctxt "2632"
+msgid "Maybe we could go bowling."
+msgstr ""
+
+msgctxt "2644"
+msgid "Bowling? Haha, is that a challenge or somethin'?"
+msgstr ""
+
+msgctxt "2656"
+msgid "Alright then... I won't lose. <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "2668"
+msgid "Well? Shall we?"
+msgstr ""
+
+msgctxt "2692"
+msgid "Maybe we could go bowling."
+msgstr ""
+
+msgctxt "2704"
+msgid "Bowling again? I was hopin' we'd go somewhere else..."
+msgstr ""
+
+msgctxt "2716"
+msgid "But I guess I don't mind if you're dead set on goin'..."
+msgstr ""
+
+msgctxt "2728"
+msgid "Ah well. Anyway, let's go."
+msgstr ""
+
+msgctxt "2764"
+msgid "Karaoke might be nice."
+msgstr ""
+
+msgctxt "2776"
+msgid "Karaoke? Hahaha... Did not expect that."
+msgstr ""
+
+msgctxt "2788"
+msgid "Hmmm... What should I sing today...? <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "2800"
+msgid "Oh! Sorry. Wanna get goin'?"
+msgstr ""
+
+msgctxt "2824"
+msgid "Karaoke might be nice."
+msgstr ""
+
+msgctxt "2836"
+msgid "Karaoke again? Ya sure? <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "2848"
+msgid ""
+"Hehe, looks like you love karaoke just as much as I do, Kiryu-san. "
+"<Color:7>⑮<Color:Default> Ready to sing your heart out?"
+msgstr ""
+
+msgctxt "2860"
+msgid "Then let's go!"
+msgstr ""
+
+msgctxt "2884"
+msgid "Oh, Kiryu-san, you're here already?"
+msgstr ""
+
+msgctxt "2896"
+msgid ""
+"I couldn't wait at all, so I ended up comin' early. "
+"<Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "2968"
+msgid "Huh? Rin, is that you? How are ya, babe?"
+msgstr ""
+
+msgctxt "2992"
+msgid "Huh? Wait... Masaya!?"
+msgstr ""
+
+msgctxt "3004"
+msgid "It's been a while, huh? How about we, uh, find some nice place and⑬"
+msgstr ""
+
+msgctxt "3016"
+msgid "Yeeeeah, I don't think so. I got business to take care of. Lots of it."
+msgstr ""
+
+msgctxt "3028"
+msgid "Oh... Yeah, of course you would..."
+msgstr ""
+
+msgctxt "3088"
+msgid "You sure about letting him go like that?"
+msgstr ""
+
+msgctxt "3100"
+msgid "Ah, he's nothing to worry about. Sorry 'bout that, Kiryu-san."
+msgstr ""
+
+msgctxt "3112"
+msgid "......"
+msgstr ""
+
+msgctxt "3124"
+msgid "C'mon, let's go."
+msgstr ""
+
+msgctxt "3208"
+msgid "Huh? You again?"
+msgstr ""
+
+msgctxt "3220"
+msgid "Funny running into you here."
+msgstr ""
+
+msgctxt "3232"
+msgid "Yeah, right. I bet you're always cooped up in here."
+msgstr ""
+
+msgctxt "3244"
+msgid ""
+"Heh, pretty much. By the way, who's the old guy? Wasn't he with you last "
+"time?"
+msgstr ""
+
+msgctxt "3256"
+msgid ""
+"\"Old guy\"!? What the heck is wrong with you? Huh, guess you still haven't "
+"learned any manners."
+msgstr ""
+
+msgctxt "3268"
+msgid "I could say the same to you."
+msgstr ""
+
+msgctxt "3280"
+msgid ""
+"Didn't your mother ever teach you manipulating men might get you hurt one "
+"day? Just saying..."
+msgstr ""
+
+msgctxt "3340"
+msgid "Yeah, well, screw you too, ya big jackass... Go play in a wood chipper!"
+msgstr ""
+
+msgctxt "3352"
+msgid "......"
+msgstr ""
+
+msgctxt "3364"
+msgid "Sorry ya had to see that, Kiryu-san... That ain't all there is to me."
+msgstr ""
+
+msgctxt "3376"
+msgid "Heh. You're fine."
+msgstr ""
+
+msgctxt "3388"
+msgid "Shall we? ♪"
+msgstr ""
+
+msgctxt "3400"
+msgid "Yeah."
+msgstr ""
+
+msgctxt "3424"
+msgid "So! What's on our agenda?"
+msgstr ""
+
+msgctxt "3448"
+msgid "How about we get some yakiniku at Kanrai?"
+msgstr ""
+
+msgctxt "3460"
+msgid "Oooh, I do love their yakiniku. <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "3472"
+msgid "Alright, then let's get over there!"
+msgstr ""
+
+msgctxt "3496"
+msgid "How about we get some yakiniku at Kanrai?"
+msgstr ""
+
+msgctxt "3508"
+msgid "Yakiniku again? I was kinda hopin' we'd go somewhere else..."
+msgstr ""
+
+msgctxt "3520"
+msgid "But I guess I don't mind if you're dead set on goin'..."
+msgstr ""
+
+msgctxt "3532"
+msgid "Ah well. Anyway, let's go."
+msgstr ""
+
+msgctxt "3568"
+msgid "How does sushi sound? I'm thinking Sushi Gin would be good."
+msgstr ""
+
+msgctxt "3580"
+msgid "Mmm, sushi. Haven't had that in forever. <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "3592"
+msgid ""
+"I wonder what's in season right now... <Color:7>⑮<Color:Default> Guess "
+"there's only one way to find out! <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "3604"
+msgid "Well? Shall we?"
+msgstr ""
+
+msgctxt "3628"
+msgid "How does sushi sound? I'm thinking Sushi Gin would be good."
+msgstr ""
+
+msgctxt "3640"
+msgid "Sushi again? Well, I was kinda hopin' for something else..."
+msgstr ""
+
+msgctxt "3652"
+msgid "But I guess I don't mind if you're dead set on goin'..."
+msgstr ""
+
+msgctxt "3664"
+msgid "Ah well. Anyway, let's go."
+msgstr ""
+
+msgctxt "3700"
+msgid "Why don't we do a little shopping at Le Marche?"
+msgstr ""
+
+msgctxt "3712"
+msgid "What!? You gonna buy me a present or somethin'?"
+msgstr ""
+
+msgctxt "3724"
+msgid ""
+"Hey, as long as it's from you, I'll be happy to oblige. "
+"<Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "3736"
+msgid "Well? Shall we?"
+msgstr ""
+
+msgctxt "3760"
+msgid "Why don't we do a little shopping at Le Marche?"
+msgstr ""
+
+msgctxt "3772"
+msgid ""
+"Well... Don't get me wrong⑬I'm real happy you're buyin' me a present and "
+"all⑬but don't ya think we should go somewhere a little more... date-like?"
+msgstr ""
+
+msgctxt "3784"
+msgid "But I guess I don't mind if you're dead set on goin'..."
+msgstr ""
+
+msgctxt "3796"
+msgid "Ah well. Anyway, let's go."
+msgstr ""
+
+msgctxt "3832"
+msgid "Maybe we could go bowling."
+msgstr ""
+
+msgctxt "3844"
+msgid "Bowling? Haha, is that a challenge or somethin'?"
+msgstr ""
+
+msgctxt "3856"
+msgid "Alright then... I won't lose. <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "3868"
+msgid "Ready to get goin'?"
+msgstr ""
+
+msgctxt "3892"
+msgid "Maybe we could go bowling."
+msgstr ""
+
+msgctxt "3904"
+msgid "Bowling again? I was hopin' we'd go somewhere else..."
+msgstr ""
+
+msgctxt "3916"
+msgid "But I guess I don't mind if you're dead set on goin'..."
+msgstr ""
+
+msgctxt "3928"
+msgid "Ah well. Anyway, let's go."
+msgstr ""
+
+msgctxt "3964"
+msgid "Karaoke might be nice."
+msgstr ""
+
+msgctxt "3976"
+msgid "Karaoke? Hahaha... Did not expect that."
+msgstr ""
+
+msgctxt "3988"
+msgid "Hmmm... What should I sing today...? <Color:7>⑮⑮<Color:Default>"
+msgstr ""
+
+msgctxt "4000"
+msgid "Oh! Sorry. Wanna get goin'?"
+msgstr ""
+
+msgctxt "4024"
+msgid "Karaoke might be nice."
+msgstr ""
+
+msgctxt "4036"
+msgid "Karaoke again? Ya sure? <Color:7>⑮⑮<Color:Default>"
+msgstr ""
+
+msgctxt "4048"
+msgid ""
+"Hehe, looks like you love karaoke just as much as I do, Kiryu-san. "
+"<Color:7>⑮<Color:Default> Ready to sing your heart out?"
+msgstr ""
+
+msgctxt "4060"
+msgid "Then let's get goin'!"
+msgstr ""
+
+msgctxt "4084"
+msgid "How about we get some yakiniku?"
+msgstr ""
+
+msgctxt "4096"
+msgid "Let's do sushi."
+msgstr ""
+
+msgctxt "4108"
+msgid "Why don't we do a little shopping?"
+msgstr ""
+
+msgctxt "4120"
+msgid "Maybe we could go bowling."
+msgstr ""
+
+msgctxt "4132"
+msgid "Karaoke might be nice."
+msgstr ""
+
+msgctxt "4144"
+msgid "How about we get some yakiniku?"
+msgstr ""
+
+msgctxt "4156"
+msgid "Let's do sushi."
+msgstr ""
+
+msgctxt "4168"
+msgid "Why don't we do a little shopping?"
+msgstr ""
+
+msgctxt "4180"
+msgid "Maybe we could go bowling."
+msgstr ""
+
+msgctxt "4192"
+msgid "Karaoke might be nice."
+msgstr ""
+
+msgctxt "4204"
+msgid "How about we get some yakiniku?"
+msgstr ""
+
+msgctxt "4216"
+msgid "Let's do sushi."
+msgstr ""
+
+msgctxt "4228"
+msgid "Why don't we do a little shopping?"
+msgstr ""
+
+msgctxt "4240"
+msgid "Maybe we could go bowling."
+msgstr ""
+
+msgctxt "4252"
+msgid "Karaoke might be nice."
+msgstr ""
+
+msgctxt "41912"
+msgid "Rin"
+msgstr ""
+
+msgctxt "41916"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "41920"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "41924"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "41928"
+msgid "Masaya"
+msgstr ""
+
+msgctxt "41932"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "41936"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "41940"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "41944"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "41948"
+msgid "Talk_Chohatu"
+msgstr ""
+
+msgctxt "41952"
+msgid "Talk_Sorry"
+msgstr ""
+
+msgctxt "41956"
+msgid "Talk_Smile"
+msgstr ""

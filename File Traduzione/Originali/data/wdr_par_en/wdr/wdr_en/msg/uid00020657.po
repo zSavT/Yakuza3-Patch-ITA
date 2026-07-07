@@ -1,0 +1,105 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "80"
+msgid ""
+"You'll never get a girlfriend if you can't even do your\r\n"
+"homework by yourself!"
+msgstr ""
+
+msgctxt "92"
+msgid "Ugh..."
+msgstr ""
+
+msgctxt "104"
+msgid "Hey, you two. Are the dishes all done?"
+msgstr ""
+
+msgctxt "116"
+msgid "Yup, we finished ages ago!"
+msgstr ""
+
+msgctxt "128"
+msgid "And have you taken your baths?"
+msgstr ""
+
+msgctxt "140"
+msgid "Oh, uh... Not yet."
+msgstr ""
+
+msgctxt "152"
+msgid "I took one before dinner!"
+msgstr ""
+
+msgctxt "164"
+msgid ""
+"Well Mitsuo, you'll have to wait until Haruka gets out.\r\n"
+"How's your homework coming along?"
+msgstr ""
+
+msgctxt "176"
+msgid "I did that before dinner, too!"
+msgstr ""
+
+msgctxt "188"
+msgid "I, uh... Haha... Ha..."
+msgstr ""
+
+msgctxt "200"
+msgid ""
+"I'll take that as a no. You should be more proactive about getting your "
+"chores done. Riona did everything before dinner and now she has the rest of "
+"the night to just relax."
+msgstr ""
+
+msgctxt "212"
+msgid "All riiight."
+msgstr ""
+
+msgctxt "224"
+msgid "Hey, Riona, think you could help me with my homework since you're sooo free?"
+msgstr ""
+
+msgctxt "236"
+msgid ""
+"Do it yourself! You'll never get a girlfriend with that kind\r\n"
+"of attitude."
+msgstr ""
+
+msgctxt "2216"
+msgid "Riona"
+msgstr ""
+
+msgctxt "2220"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "2224"
+msgid "Mitsuo"
+msgstr ""
+
+msgctxt "2228"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "2232"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "2236"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "2240"
+msgid "Talk_Ase"
+msgstr ""

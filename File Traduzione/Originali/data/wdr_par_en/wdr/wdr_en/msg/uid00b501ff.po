@@ -1,0 +1,160 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "140"
+msgid ""
+"Hmm... Nope, I still don't see anything \"off\" about any\r\n"
+"of this."
+msgstr ""
+
+msgctxt "152"
+msgid "Do you have a minute?"
+msgstr ""
+
+msgctxt "164"
+msgid ""
+"Oh, it's you... So, did you find proof of Akechi's\r\n"
+"innocence yet? Hahaha!"
+msgstr ""
+
+msgctxt "176"
+msgid "What was that you were looking at?"
+msgstr ""
+
+msgctxt "188"
+msgid ""
+"Oh, this? This is the list of evidence we made during the\r\n"
+"investigation six years ago."
+msgstr ""
+
+msgctxt "200"
+msgid ""
+"You're taking such a hard look at this case, I thought I'd\r\n"
+"better take another glance myself."
+msgstr ""
+
+msgctxt "212"
+msgid "Can I see that?"
+msgstr ""
+
+msgctxt "224"
+msgid "I guess, but you won't find anything wrong with any of it."
+msgstr ""
+
+msgctxt "236"
+msgid ""
+"I honestly can't figure out why you think Akechi is\r\n"
+"innocent."
+msgstr ""
+
+msgctxt "248"
+msgid "You got a <Color:8>List of Evidence<Color:Default>."
+msgstr ""
+
+msgctxt "272"
+msgid "...Wait a minute! What's this!?"
+msgstr ""
+
+msgctxt "284"
+msgid "What's what?"
+msgstr ""
+
+msgctxt "296"
+msgid "I finally got it. Was it really this simple all along?"
+msgstr ""
+
+msgctxt "308"
+msgid "No mistake about it. Somebody framed Akechi."
+msgstr ""
+
+msgctxt "320"
+msgid "What? Are you serious?"
+msgstr ""
+
+msgctxt "332"
+msgid ""
+"Yeah. I'll explain everything, but first, I need you to\r\n"
+"round up everybody related to the case."
+msgstr ""
+
+msgctxt "344"
+msgid "But...!"
+msgstr ""
+
+msgctxt "356"
+msgid "It'll turn out fine. You'll see."
+msgstr ""
+
+msgctxt "368"
+msgid "Okay... Just don't blame me if it doesn't."
+msgstr ""
+
+msgctxt "380"
+msgid ""
+"I'll get everybody together at Café Alps. That ought to\r\n"
+"work, right?"
+msgstr ""
+
+msgctxt "392"
+msgid "Yeah, that's fine."
+msgstr ""
+
+msgctxt "452"
+msgid ""
+"(I've got all the evidence I need. It's time to reveal what\r\n"
+"really happened six years ago.)"
+msgstr ""
+
+msgctxt "5244"
+msgid "P_stand_tlk_kamae"
+msgstr ""
+
+msgctxt "5248"
+msgid "P_stand"
+msgstr ""
+
+msgctxt "5252"
+msgid "M_nml_sitcnt"
+msgstr ""
+
+msgctxt "5256"
+msgid "Talk_Kamae"
+msgstr ""
+
+msgctxt "5260"
+msgid "Maeda"
+msgstr ""
+
+msgctxt "5264"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "5268"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "5272"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "5276"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "5280"
+msgid "0"
+msgstr ""
+
+msgctxt "5284"
+msgid "dummy"
+msgstr ""

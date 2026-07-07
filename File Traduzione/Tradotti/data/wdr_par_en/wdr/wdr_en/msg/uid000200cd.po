@@ -1,0 +1,75 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "108"
+msgid "So about that guy who tossed you out..."
+msgstr ""
+
+msgctxt "120"
+msgid "Ugh, what's with you!? Quit grilling me!"
+msgstr ""
+
+msgctxt "132"
+msgid "Hey, you okay?"
+msgstr ""
+
+msgctxt "144"
+msgid ""
+"Does it look like I'm okay!? And who are you? Another yakuza\r\n"
+"here to keep me out of the club!?"
+msgstr ""
+
+msgctxt "156"
+msgid ""
+"I'm a friend of the owners, actually. Who was that guy who\r\n"
+"threw you out?"
+msgstr ""
+
+msgctxt "168"
+msgid ""
+"Don't ask me! I was just minding my business drinking with\r\n"
+"this hunk of a host when some yakuza jerk barges in with\r\n"
+"armfuls of cash and says the club's booked!"
+msgstr ""
+
+msgctxt "180"
+msgid "It really gets my blood boiling!"
+msgstr ""
+
+msgctxt "192"
+msgid "(I can see that...)"
+msgstr ""
+
+msgctxt "1432"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1436"
+msgid "Pissed-Off Woman"
+msgstr ""
+
+msgctxt "1440"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "1444"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "1448"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "1452"
+msgid "SetF_nml_stand_nml_kosite"
+msgstr ""

@@ -1,0 +1,108 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "112"
+msgid "I'll take the first shot, if you don't mind."
+msgstr ""
+
+msgctxt "124"
+msgid "Be my guest."
+msgstr ""
+
+msgctxt "172"
+msgid "Hey, you're pretty good."
+msgstr ""
+
+msgctxt "184"
+msgid ""
+"I'm not sure I'd go that far. The wind's just been blowing\r\n"
+"in my favor today, that's all. Do you golf often, Kiryu-san?"
+msgstr ""
+
+msgctxt "196"
+msgid "Not really, no."
+msgstr ""
+
+msgctxt "208"
+msgid "Ah. Well, practice makes perfect."
+msgstr ""
+
+msgctxt "220"
+msgid "Right."
+msgstr ""
+
+msgctxt "244"
+msgid "Wow, Kiryu-san! Your form is fantastic!"
+msgstr ""
+
+msgctxt "256"
+msgid "Me? I don't think so."
+msgstr ""
+
+msgctxt "268"
+msgid "Haha, no need to be modest. You're a natural."
+msgstr ""
+
+msgctxt "280"
+msgid "Shall we head to the next hole?"
+msgstr ""
+
+msgctxt "292"
+msgid "Sounds good."
+msgstr ""
+
+msgctxt "316"
+msgid "Think I hit it a little too hard..."
+msgstr ""
+
+msgctxt "328"
+msgid ""
+"Don't worry, that happens to everyone when they're first\r\n"
+"starting out. All you need is some more practice."
+msgstr ""
+
+msgctxt "340"
+msgid "Now, shall we head to the next hole?"
+msgstr ""
+
+msgctxt "352"
+msgid "Sure."
+msgstr ""
+
+msgctxt "2868"
+msgid "Akasaka"
+msgstr ""
+
+msgctxt "2872"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "2876"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "2880"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "2884"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "2888"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "2892"
+msgid "Talk_Info_F"
+msgstr ""

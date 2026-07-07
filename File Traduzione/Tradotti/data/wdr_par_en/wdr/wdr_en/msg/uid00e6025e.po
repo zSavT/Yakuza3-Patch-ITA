@@ -1,0 +1,422 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "124"
+msgid "Argh... Why didn't you guys help me?"
+msgstr ""
+
+msgctxt "136"
+msgid ""
+"Have you seen this guy!? He ain't just some street thug. Only you'd be "
+"stupid enough to pick a fight with a real beast, Minamizawa."
+msgstr ""
+
+msgctxt "148"
+msgid "Why do I even pay you guys?"
+msgstr ""
+
+msgctxt "172"
+msgid "Hey, Kitagawa? I found Minamizawa."
+msgstr ""
+
+msgctxt "184"
+msgid "We're around West Park. You'll see us when you get here."
+msgstr ""
+
+msgctxt "196"
+msgid "Urgh... How am I gonna face Kitagawa now?"
+msgstr ""
+
+msgctxt "208"
+msgid "There's nothin' more worthless than a manzai comedian who can't manzai..."
+msgstr ""
+
+msgctxt "220"
+msgid "Kitagawa knows exactly how you feel."
+msgstr ""
+
+msgctxt "232"
+msgid "What...?"
+msgstr ""
+
+msgctxt "244"
+msgid ""
+"Kitagawa's always wanted to do more manzai, just like you. He's been "
+"looking for you all this time."
+msgstr ""
+
+msgctxt "256"
+msgid "......"
+msgstr ""
+
+msgctxt "268"
+msgid ""
+"Kiryu-san... You gotta help me. Would ya play the straight man to my "
+"funnyman?"
+msgstr ""
+
+msgctxt "280"
+msgid ""
+"After so long outta the game, my comedy edge mighta gotten rusty. I gotta "
+"sharpen up!"
+msgstr ""
+
+msgctxt "292"
+msgid ""
+"If I can't even hack a joke, I'll never be able to look Kitagawa in the eye "
+"again..."
+msgstr ""
+
+msgctxt "304"
+msgid "Why me?"
+msgstr ""
+
+msgctxt "316"
+msgid ""
+"I'm beggin' ya, man! I don't wanna run away anymore! I'm gonna get back "
+"into comedy if it kills me!"
+msgstr ""
+
+msgctxt "328"
+msgid "Please! You're my last chance to get my manzai groove back!"
+msgstr ""
+
+msgctxt "340"
+msgid "...Just this once."
+msgstr ""
+
+msgctxt "352"
+msgid "Thanks a million!"
+msgstr ""
+
+msgctxt "364"
+msgid "Here we go... Gimme something snappy. Reactive, know what I mean?"
+msgstr ""
+
+msgctxt "376"
+msgid "Did I ever tell you I've been training for a marathon across Japan?"
+msgstr ""
+
+msgctxt "388"
+msgid "You, uh... gotta be kidding me."
+msgstr ""
+
+msgctxt "400"
+msgid "...Nope. No good. Your heart's not in it, buddy, you're too self-conscious!"
+msgstr ""
+
+msgctxt "412"
+msgid "I don't know what you expected. I'm not an entertainer, you know."
+msgstr ""
+
+msgctxt "424"
+msgid "How do I give a comeback to that!? I don't know any running gags!"
+msgstr ""
+
+msgctxt "436"
+msgid "Dayum!"
+msgstr ""
+
+msgctxt "448"
+msgid "Uh, how was that?"
+msgstr ""
+
+msgctxt "460"
+msgid ""
+"Solid! You got a solid comeback, buddy. Just needs a little more bite, some "
+"more pizzazz, a little chutzpah."
+msgstr ""
+
+msgctxt "472"
+msgid "......"
+msgstr ""
+
+msgctxt "484"
+msgid "So...?"
+msgstr ""
+
+msgctxt "496"
+msgid "Gahhh! That one stung!"
+msgstr ""
+
+msgctxt "508"
+msgid ""
+"The sadistic comeback, huh...? Well, I guess that one's technically a "
+"classic. Here, that brutal comeback deserves a reward."
+msgstr ""
+
+msgctxt "520"
+msgid "You got <Color:8>10,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "532"
+msgid "What the... What are you doing?"
+msgstr ""
+
+msgctxt "544"
+msgid "Oh, well, I⑬"
+msgstr ""
+
+msgctxt "568"
+msgid "You told me I was the only straight man you'd ever need!"
+msgstr ""
+
+msgctxt "580"
+msgid "Kitagawa..."
+msgstr ""
+
+msgctxt "592"
+msgid ""
+"That's the only reason I've been on these stupid dramas and talk shows! I "
+"don't want anyone to forget the Mars Fighters!"
+msgstr ""
+
+msgctxt "604"
+msgid ""
+"All it took was a couple blogs sayin' we \"can't improv\" or our reactions "
+"were \"too weak,\" and you just ran off!"
+msgstr ""
+
+msgctxt "616"
+msgid ""
+"I thought... I thought you wanted to do manzai with me! And now you give up "
+"after one or two schmucks heckle us!?"
+msgstr ""
+
+msgctxt "628"
+msgid ""
+"Kitagawa, I... I... I want to do manzai with you again! Would you be my "
+"partner, just one more time?"
+msgstr ""
+
+msgctxt "640"
+msgid "...Stand up, Minamizawa. You'll always be my partner."
+msgstr ""
+
+msgctxt "664"
+msgid "Kitagawa!"
+msgstr ""
+
+msgctxt "676"
+msgid ""
+"And so the duo's friendship turned to love... Their married-couple style "
+"manzai routine gave birth to years of joyous laughter..."
+msgstr ""
+
+msgctxt "688"
+msgid "......"
+msgstr ""
+
+msgctxt "700"
+msgid "Wait..."
+msgstr ""
+
+msgctxt "712"
+msgid "Why am I stuck getting married to you!?"
+msgstr ""
+
+msgctxt "724"
+msgid "Ah, craaap!"
+msgstr ""
+
+msgctxt "796"
+msgid ""
+"Kiryu-san, this'll be the second time you've saved us. Thanks for "
+"everythin'."
+msgstr ""
+
+msgctxt "808"
+msgid ""
+"Hey, we make a pretty good team... Maybe we oughta form a comedy trio! "
+"Whaddaya say?"
+msgstr ""
+
+msgctxt "820"
+msgid "Please, no."
+msgstr ""
+
+msgctxt "832"
+msgid ""
+"Hahahaha! Well, I'll head back to the office. Time to convince my agent to "
+"let us get the band back together!"
+msgstr ""
+
+msgctxt "844"
+msgid "Oh, and take this. It's the least I can do to thank you."
+msgstr ""
+
+msgctxt "856"
+msgid "You got <Color:8>Minamizawa's Autograph<Color:Default>."
+msgstr ""
+
+msgctxt "880"
+msgid ""
+"Thanks, Kiryu-san! Watch out for us, cause the Mars Fighters are aimin' for "
+"the stars! See ya round!"
+msgstr ""
+
+msgctxt "940"
+msgid "You got 5,000 EXP."
+msgstr ""
+
+msgctxt "952"
+msgid "You gotta be kidding me."
+msgstr ""
+
+msgctxt "964"
+msgid "How do I give a comeback to that!?"
+msgstr ""
+
+msgctxt "976"
+msgid "So...?"
+msgstr ""
+
+msgctxt "12516"
+msgid "Minamizawa"
+msgstr ""
+
+msgctxt "12520"
+msgid "Higashiyama"
+msgstr ""
+
+msgctxt "12524"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "12528"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "12532"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "12536"
+msgid "P_stand_tlk_phone_st"
+msgstr ""
+
+msgctxt "12540"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "12544"
+msgid "P_stand_tlk_phone_ed"
+msgstr ""
+
+msgctxt "12548"
+msgid "Talk_Request"
+msgstr ""
+
+msgctxt "12552"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "12556"
+msgid "M_yng_damage"
+msgstr ""
+
+msgctxt "12560"
+msgid "M_yng_damage_tlk_sorry"
+msgstr ""
+
+msgctxt "12564"
+msgid "M_yng_stand"
+msgstr ""
+
+msgctxt "12568"
+msgid "Talk_Chohatu"
+msgstr ""
+
+msgctxt "12572"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "12576"
+msgid "M_yng_stand_sync_tukomi"
+msgstr ""
+
+msgctxt "12580"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "12584"
+msgid "P_stand_tlk_udekumi_st"
+msgstr ""
+
+msgctxt "12588"
+msgid "Talk_Away"
+msgstr ""
+
+msgctxt "12592"
+msgid "P_stand_tlk_udekumi_ed"
+msgstr ""
+
+msgctxt "12596"
+msgid "Talk_Send"
+msgstr ""
+
+msgctxt "12600"
+msgid "Kitagawa"
+msgstr ""
+
+msgctxt "12604"
+msgid "Idle"
+msgstr ""
+
+msgctxt "12608"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "12612"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "12616"
+msgid "Talk_NoBig"
+msgstr ""
+
+msgctxt "12620"
+msgid "35_420_MOUNTAIN_VF"
+msgstr ""
+
+msgctxt "12624"
+msgid "M_nml_stand_sync_kasei_st"
+msgstr ""
+
+msgctxt "12628"
+msgid "M_yng_stand_sync_kasei_st"
+msgstr ""
+
+msgctxt "12632"
+msgid "kaiwabgm_funny"
+msgstr ""
+
+msgctxt "12636"
+msgid "M_nml_stand_sync_tukomi"
+msgstr ""
+
+msgctxt "12640"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "12644"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "12648"
+msgid "Sync_Send"
+msgstr ""
+
+msgctxt "12652"
+msgid "Talk_Call"
+msgstr ""

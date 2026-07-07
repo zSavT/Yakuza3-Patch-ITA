@@ -1,0 +1,128 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "75\t228"
+msgid ""
+"One thing, though. If this man really\\n"
+"shot both of them..."
+msgstr ""
+
+msgctxt "229\t323"
+msgid ""
+"How did he get from Okinawa\\n"
+"to Tokyo so quickly?"
+msgstr ""
+
+msgctxt "324\t448"
+msgid ""
+"Nakahara was attacked right\\n"
+"around four o'clock yesterday."
+msgstr ""
+
+msgctxt "462\t578"
+msgid "As for Daigo, it was about six thirty."
+msgstr ""
+
+msgctxt "582\t683"
+msgid "That leaves a gap of two and a half hours."
+msgstr ""
+
+msgctxt "686\t811"
+msgid ""
+"Which is about how long the flight\\n"
+"from Okinawa to Tokyo takes."
+msgstr ""
+
+msgctxt "812\t940"
+msgid ""
+"He wouldn't have had time to\\n"
+"get to Tojo HQ from the airport..."
+msgstr ""
+
+msgctxt "1037\t1082"
+msgid "What the...?"
+msgstr ""
+
+msgctxt "1085\t1145"
+msgid "Must be a blackout."
+msgstr ""
+
+msgctxt "1230\t1372"
+msgid "Strange. The rest of Kamurocho seems unaffected."
+msgstr ""
+
+msgctxt "2656\t2716"
+msgid "Kashiwagi-san!?"
+msgstr ""
+
+msgctxt "2732\t2780"
+msgid "Kashiwagi-san!"
+msgstr ""
+
+msgctxt "2869\t2913"
+msgid "Kiryu..."
+msgstr ""
+
+msgctxt "2964\t3023"
+msgid "This man..."
+msgstr ""
+
+msgctxt "3024\t3177"
+msgid "Track down the one working with him."
+msgstr ""
+
+msgctxt "3178\t3238"
+msgid "There's someone else?"
+msgstr ""
+
+msgctxt "3282\t3339"
+msgid "I'm almost certain."
+msgstr ""
+
+msgctxt "3371\t3539"
+msgid ""
+"I think they're supporting the Okinawa deal...\\n"
+"Trying to push it through."
+msgstr ""
+
+msgctxt "3592\t3678"
+msgid "It's someone in the Tojo..."
+msgstr ""
+
+msgctxt "3679\t3759"
+msgid "So this person betrayed the clan!?"
+msgstr ""
+
+msgctxt "3760\t3820"
+msgid "Yes."
+msgstr ""
+
+msgctxt "3827\t3960"
+msgid "I need you... to find him."
+msgstr ""
+
+msgctxt "4003\t4045"
+msgid "Can you do that?"
+msgstr ""
+
+msgctxt "4046\t4106"
+msgid "Of course!"
+msgstr ""
+
+msgctxt "4254\t4314"
+msgid "Kashiwagi-san?"
+msgstr ""
+
+msgctxt "4351\t4411"
+msgid "Kashiwagi-san!"
+msgstr ""

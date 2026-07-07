@@ -1,0 +1,326 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "172"
+msgid ""
+"I guess it does look like a turtle. If this is the one\r\n"
+"mentioned in the song..."
+msgstr ""
+
+msgctxt "184"
+msgid ""
+"Then this is <Color:7>the sacred turtle's spot<Color:Default>! The "
+"treasure's got to\r\n"
+"be right under this rock!"
+msgstr ""
+
+msgctxt "196"
+msgid "Lend me a hand, Kiryu-san! It's digging time!"
+msgstr ""
+
+msgctxt "232"
+msgid "Here goes nothing..."
+msgstr ""
+
+msgctxt "256"
+msgid "Oh! I see something! Keep digging!"
+msgstr ""
+
+msgctxt "280"
+msgid "Can't back down now..."
+msgstr ""
+
+msgctxt "304"
+msgid "I think it's some sort of pot... Please, keep digging!"
+msgstr ""
+
+msgctxt "328"
+msgid "You're mine, treasure!"
+msgstr ""
+
+msgctxt "340"
+msgid "What the!?"
+msgstr ""
+
+msgctxt "352"
+msgid "There it is, Kiryu-san!"
+msgstr ""
+
+msgctxt "388"
+msgid "An awamori pot?"
+msgstr ""
+
+msgctxt "400"
+msgid ""
+"I see... <Color:7>A golden foam<Color:Default> must have meant awamori "
+"foam! After\r\n"
+"all, top-notch awamori produces a beautiful head of foam\r\n"
+"when you distill it."
+msgstr ""
+
+msgctxt "412"
+msgid ""
+"So this big family heirloom you were after is just a bottle\r\n"
+"of liquor? I don't think this'll help you pay off that debt."
+msgstr ""
+
+msgctxt "424"
+msgid ""
+"Don't you see, Kiryu-san!? This isn't any old bottle of\r\n"
+"liquor! It's an <Italic>extremely</Italic> old bottle of liquor!"
+msgstr ""
+
+msgctxt "436"
+msgid ""
+"This awamori was distilled in the 9th year of the Meiji\r\n"
+"Era... which makes it over 130 years old!"
+msgstr ""
+
+msgctxt "448"
+msgid ""
+"130 years, huh? I'm not sure it's the miracle you seem to\r\n"
+"think it is."
+msgstr ""
+
+msgctxt "460"
+msgid ""
+"But it is, it is! Right now the oldest intact awamori in the\r\n"
+"whole world is just 140. We're nipping at their heels!"
+msgstr ""
+
+msgctxt "472"
+msgid "You can't put a price tag on a vintage like that!"
+msgstr ""
+
+msgctxt "484"
+msgid ""
+"So your ancestors crafted this masterpiece, then buried it\r\n"
+"to keep it safe. No wonder your family treated it like some\r\n"
+"kind of sacred treasure."
+msgstr ""
+
+msgctxt "496"
+msgid ""
+"And because all its years have been spent underground, it's\r\n"
+"extremely well-preserved! I don't see any cracks, either."
+msgstr ""
+
+msgctxt "508"
+msgid "Still... I'm not sure it's worth the 20 million I owe."
+msgstr ""
+
+msgctxt "520"
+msgid "Hey, Matsushima! You trying to skip town or somethin'!?"
+msgstr ""
+
+msgctxt "532"
+msgid "Eep! Don't tell me you followed me here..."
+msgstr ""
+
+msgctxt "544"
+msgid "What's that you got there, huh? An awamori pot?"
+msgstr ""
+
+msgctxt "556"
+msgid "Well, the truth is..."
+msgstr ""
+
+msgctxt "568"
+msgid "You shittin' me!? 130 years old!?"
+msgstr ""
+
+msgctxt "580"
+msgid "Assuming the date etched on the pot is correct... yes."
+msgstr ""
+
+msgctxt "592"
+msgid ""
+"How 'bout that. My boss is always goin' on about wanting to\r\n"
+"get his hands on a hundred-year-old vintage."
+msgstr ""
+
+msgctxt "604"
+msgid "Is that why you're after my distillery?"
+msgstr ""
+
+msgctxt "616"
+msgid ""
+"Heh, you could say that. But hey, I got a deal for you. Hand\r\n"
+"over the awamori, and we're all square on your debt."
+msgstr ""
+
+msgctxt "628"
+msgid "Huh? You'd walk away from 20 million yen just like that!?"
+msgstr ""
+
+msgctxt "640"
+msgid ""
+"The boss was gonna use that cash to buy a pot of vintage,\r\n"
+"anyway. Doin' it this way cuts out the middleman."
+msgstr ""
+
+msgctxt "652"
+msgid ""
+"And besides, you can't exactly buy 130 year old awamori on\r\n"
+"the market, no matter how much cash you got. So the way I\r\n"
+"look at it, this is a pretty sweet deal."
+msgstr ""
+
+msgctxt "664"
+msgid "Huh. Your boss must really love this stuff."
+msgstr ""
+
+msgctxt "676"
+msgid "You bet. That's the only reason I know all this shit."
+msgstr ""
+
+msgctxt "688"
+msgid ""
+"Y'know, Matsushima-san, I know it might not mean much comin'\r\n"
+"from me, but you really do make the best awamori."
+msgstr ""
+
+msgctxt "700"
+msgid "You really think so...?"
+msgstr ""
+
+msgctxt "712"
+msgid ""
+"Oh yeah. From now on, I want you to stop borrowing from\r\n"
+"shady fellas like me. Get yourself a solid business plan and\r\n"
+"leave all this debt nonsense behind, y'hear?"
+msgstr ""
+
+msgctxt "724"
+msgid "I will!"
+msgstr ""
+
+msgctxt "736"
+msgid ""
+"In the meantime, get that baby over to our office. We'll\r\n"
+"settle your debt right then and there."
+msgstr ""
+
+msgctxt "760"
+msgid "I can't believe it... I saved my distillery!"
+msgstr ""
+
+msgctxt "772"
+msgid "And it's all thanks to you, Kiryu-san. Thank you so much."
+msgstr ""
+
+msgctxt "784"
+msgid ""
+"You should be thanking the ancestors who buried that pot of\r\n"
+"awamori."
+msgstr ""
+
+msgctxt "796"
+msgid ""
+"Here, take this. It's a special little something I found collecting dust in "
+"our family stores. You'll make way better use of it than I ever would!"
+msgstr ""
+
+msgctxt "808"
+msgid "I didn't really do that much, but okay."
+msgstr ""
+
+msgctxt "820"
+msgid "You got a <Color:8>Shisa Belt<Color:Default>."
+msgstr ""
+
+msgctxt "844"
+msgid ""
+"Well, I've gotta go deliver this. Hope I see you around\r\n"
+"sometime!"
+msgstr ""
+
+msgctxt "916"
+msgid "You got 2,000 EXP."
+msgstr ""
+
+msgctxt "928"
+msgid "Dig"
+msgstr ""
+
+msgctxt "940"
+msgid "Keep Digging"
+msgstr ""
+
+msgctxt "952"
+msgid "Dig Even Deeper"
+msgstr ""
+
+msgctxt "10716"
+msgid "Awamori-Maker Matsushima"
+msgstr ""
+
+msgctxt "10720"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "10724"
+msgid "P_stand_tlk_child_lp"
+msgstr ""
+
+msgctxt "10728"
+msgid "SetM_nml_sitgrd_syagami"
+msgstr ""
+
+msgctxt "10732"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "10736"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "10740"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "10744"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "10748"
+msgid "Talk_NoBig"
+msgstr ""
+
+msgctxt "10752"
+msgid "Loan Shark"
+msgstr ""
+
+msgctxt "10756"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "10760"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "10764"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "10768"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "10772"
+msgid "Sync_Send"
+msgstr ""
+
+msgctxt "10776"
+msgid "Talk_Ojigi"
+msgstr ""

@@ -1,0 +1,222 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "96"
+msgid "I have to admit, you're tough, Kiryu-kun."
+msgstr ""
+
+msgctxt "108"
+msgid "How can you react so quickly when you can't see?"
+msgstr ""
+
+msgctxt "120"
+msgid "I use the air."
+msgstr ""
+
+msgctxt "132"
+msgid "The air? How?"
+msgstr ""
+
+msgctxt "144"
+msgid "I can feel how the air is moving about. That serves as my eyes."
+msgstr ""
+
+msgctxt "156"
+msgid ""
+"By sensing the direction the air is flowing in, I can pick up on even my "
+"opponent's state of mind."
+msgstr ""
+
+msgctxt "168"
+msgid "In some ways, it's superior to conventional sight."
+msgstr ""
+
+msgctxt "180"
+msgid "Why is someone like you involved with the Reapers?"
+msgstr ""
+
+msgctxt "192"
+msgid "I was looking for the man who made me blind."
+msgstr ""
+
+msgctxt "204"
+msgid "When I lost my sight, I lost my livelihood as well, you see..."
+msgstr ""
+
+msgctxt "216"
+msgid ""
+"But now in hindsight, I realize being blind made me aware of so much more "
+"than when I could see."
+msgstr ""
+
+msgctxt "228"
+msgid ""
+"Not everything can be seen with the eyes. Maybe I should actually be "
+"grateful he took my sight..."
+msgstr ""
+
+msgctxt "240"
+msgid "I see..."
+msgstr ""
+
+msgctxt "252"
+msgid "Well, a promise is a promise. Let's go to the HLA."
+msgstr ""
+
+msgctxt "264"
+msgid "Alright, lets go."
+msgstr ""
+
+msgctxt "324"
+msgid "What are you doing?"
+msgstr ""
+
+msgctxt "336"
+msgid "I'm blind."
+msgstr ""
+
+msgctxt "348"
+msgid "This is the only way to get in touch with changes in the town."
+msgstr ""
+
+msgctxt "360"
+msgid "I see..."
+msgstr ""
+
+msgctxt "372"
+msgid "What do you want, anyway?"
+msgstr ""
+
+msgctxt "384"
+msgid "You're the hitman Egami, aren't you?"
+msgstr ""
+
+msgctxt "396"
+msgid "And what if I am?"
+msgstr ""
+
+msgctxt "408"
+msgid "I'd like you to come with me to the Honest Living Association."
+msgstr ""
+
+msgctxt "420"
+msgid "The HLA, huh..."
+msgstr ""
+
+msgctxt "432"
+msgid "And what might your name be?"
+msgstr ""
+
+msgctxt "444"
+msgid "It's Kiryu."
+msgstr ""
+
+msgctxt "456"
+msgid "Kiryu-kun, you've lied to me."
+msgstr ""
+
+msgctxt "468"
+msgid "Lied?"
+msgstr ""
+
+msgctxt "480"
+msgid ""
+"You said \"I'd like you to come with me,\" but I could tell you're already "
+"prepared to fight me if need be."
+msgstr ""
+
+msgctxt "492"
+msgid "......"
+msgstr ""
+
+msgctxt "504"
+msgid "You're ready to start trading punches. That's why you're so wound up."
+msgstr ""
+
+msgctxt "516"
+msgid "Isn't that right?"
+msgstr ""
+
+msgctxt "528"
+msgid "If you come along with me, we can avoid any unnecessary violence."
+msgstr ""
+
+msgctxt "540"
+msgid ""
+"Ah, I see. But I'm afraid I can't just let myself be taken away without "
+"putting up a fight."
+msgstr ""
+
+msgctxt "552"
+msgid "If you wouldn't mind, could you humor me with a round?"
+msgstr ""
+
+msgctxt "564"
+msgid "If I lose, then I'll do exactly as you say."
+msgstr ""
+
+msgctxt "576"
+msgid "You don't leave me much choice. All right. Fine."
+msgstr ""
+
+msgctxt "5860"
+msgid "Egami"
+msgstr ""
+
+msgctxt "5864"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "5868"
+msgid "Talk_Udekumi_st"
+msgstr ""
+
+msgctxt "5872"
+msgid "Idle"
+msgstr ""
+
+msgctxt "5876"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "5880"
+msgid "Talk_Udekumi_ed"
+msgstr ""
+
+msgctxt "5884"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "5888"
+msgid "P_stand_tlk_phone_st"
+msgstr ""
+
+msgctxt "5892"
+msgid "dummy"
+msgstr ""
+
+msgctxt "5896"
+msgid "0"
+msgstr ""
+
+msgctxt "5900"
+msgid "Talk_Kosite_st"
+msgstr ""
+
+msgctxt "5904"
+msgid "Talk_Kosite_ed"
+msgstr ""
+
+msgctxt "5908"
+msgid "Talk_Chohatu"
+msgstr ""

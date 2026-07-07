@@ -1,0 +1,80 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "520\t652"
+msgid "We're not finished just yet."
+msgstr ""
+
+msgctxt "772\t802"
+msgid "Rikiya!"
+msgstr ""
+
+msgctxt "803\t850"
+msgid "Aniki!"
+msgstr ""
+
+msgctxt "851\t1096"
+msgid ""
+"Now, watch close...\\n"
+"As your friend's head is severed from his shoulders!"
+msgstr ""
+
+msgctxt "1116\t1181"
+msgid "Rikiya!"
+msgstr ""
+
+msgctxt "1544\t1604"
+msgid "What?"
+msgstr ""
+
+msgctxt "1621\t1749"
+msgid "But you're... supposed to be dead!"
+msgstr ""
+
+msgctxt "2139\t2199"
+msgid "Kazama-san!"
+msgstr ""
+
+msgctxt "2216\t2272"
+msgid "Answer me."
+msgstr ""
+
+msgctxt "2273\t2397"
+msgid "Are you Shintaro Kazama or not!?"
+msgstr ""
+
+msgctxt "2464\t2524"
+msgid "That's not all."
+msgstr ""
+
+msgctxt "2531\t2671"
+msgid ""
+"I need to know...\\n"
+"Why did you shoot Daigo and Nakahara!?"
+msgstr ""
+
+msgctxt "2946\t3074"
+msgid "So you're Kazuma Kiryu."
+msgstr ""
+
+msgctxt "3141\t3201"
+msgid "Yeah."
+msgstr ""
+
+msgctxt "3225\t3288"
+msgid "Beautiful eyes..."
+msgstr ""
+
+msgctxt "3382\t3506"
+msgid "Like I heard from my brother before."
+msgstr ""

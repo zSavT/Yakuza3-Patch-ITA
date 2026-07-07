@@ -1,0 +1,136 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "577\t654"
+msgid "You're younger than I expected."
+msgstr ""
+
+msgctxt "678\t737"
+msgid "And that is?"
+msgstr ""
+
+msgctxt "738\t887"
+msgid ""
+"Name's Date, with the Keihin News.\\n"
+"I'm researching Suzuki's link with the Tojo Clan."
+msgstr ""
+
+msgctxt "937\t1042"
+msgid "Ah, the famous detective turned reporter."
+msgstr ""
+
+msgctxt "1164\t1223"
+msgid "Can I offer you gentlemen a drink?"
+msgstr ""
+
+msgctxt "1224\t1284"
+msgid "No thanks."
+msgstr ""
+
+msgctxt "1479\t1671"
+msgid ""
+"I hear you're running an orphanage\\n"
+"on a piece of land earmarked for the resort."
+msgstr ""
+
+msgctxt "1690\t1750"
+msgid "That's right."
+msgstr ""
+
+msgctxt "1755\t1922"
+msgid ""
+"Rumor has it, that's why Daigo Dojima\\n"
+"backed out of the deal."
+msgstr ""
+
+msgctxt "1950\t2010"
+msgid "What's your point?"
+msgstr ""
+
+msgctxt "2015\t2201"
+msgid ""
+"My point is... our objectives\\n"
+"in all of this are aligned."
+msgstr ""
+
+msgctxt "2243\t2303"
+msgid "Meaning what?"
+msgstr ""
+
+msgctxt "2588\t2711"
+msgid "You want to put an end to the resort, yes?"
+msgstr ""
+
+msgctxt "2725\t2787"
+msgid "Yeah."
+msgstr ""
+
+msgctxt "2799\t2983"
+msgid "I, too, find that the most preferable outcome."
+msgstr ""
+
+msgctxt "2984\t3090"
+msgid "Wait, what? What are you talking about!?"
+msgstr ""
+
+msgctxt "3091\t3274"
+msgid ""
+"Without the resort, won't your\\n"
+"military expansion bill be doomed to fail?"
+msgstr ""
+
+msgctxt "3287\t3349"
+msgid "It will, yes."
+msgstr ""
+
+msgctxt "3356\t3458"
+msgid "However. That doesn't matter now."
+msgstr ""
+
+msgctxt "3459\t3537"
+msgid ""
+"It doesn't matter?\\n"
+"Why not?"
+msgstr ""
+
+msgctxt "3538\t3591"
+msgid "It's simple."
+msgstr ""
+
+msgctxt "3592\t3747"
+msgid ""
+"I had no intention of\\n"
+"passing that bill in the first place."
+msgstr ""
+
+msgctxt "3748\t3808"
+msgid "What!?"
+msgstr ""
+
+msgctxt "3901\t3961"
+msgid "Explain yourself, Tamiya."
+msgstr ""
+
+msgctxt "3963\t4069"
+msgid "Your military expansion bill, the resort deal..."
+msgstr ""
+
+msgctxt "4083\t4155"
+msgid "We want to know everything."
+msgstr ""
+
+msgctxt "4249\t4348"
+msgid ""
+"As long as you don't forget\\n"
+"the favor I mentioned earlier."
+msgstr ""

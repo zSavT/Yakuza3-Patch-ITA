@@ -1,0 +1,48 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "168"
+msgid "Go to the Kazama Family Office?"
+msgstr ""
+
+msgctxt "192"
+msgid "(...Not just yet.)"
+msgstr ""
+
+msgctxt "204"
+msgid "Go to the Millennium Tower rooftop?"
+msgstr ""
+
+msgctxt "228"
+msgid "(...Not just yet.)"
+msgstr ""
+
+msgctxt "240"
+msgid "Yes"
+msgstr ""
+
+msgctxt "252"
+msgid "No"
+msgstr ""
+
+msgctxt "264"
+msgid "Yes"
+msgstr ""
+
+msgctxt "276"
+msgid "No"
+msgstr ""
+
+msgctxt "968"
+msgid "Kiryu"
+msgstr ""

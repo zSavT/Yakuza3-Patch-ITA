@@ -1,0 +1,98 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "152"
+msgid ""
+"Welcome. Here, you can play Texas hold 'em poker. Would\r\n"
+"you like to play?"
+msgstr ""
+
+msgctxt "164"
+msgid "Yeah, I have a feeling today's my lucky day."
+msgstr ""
+
+msgctxt "176"
+msgid "An excellent choice. What stakes would you like to play for?"
+msgstr ""
+
+msgctxt "188"
+msgid "I'll go with the low stakes."
+msgstr ""
+
+msgctxt "212"
+msgid "Very well, please take your seat."
+msgstr ""
+
+msgctxt "236"
+msgid ""
+"You'll need a minimum of 100 chips to play low-stakes\r\n"
+"poker, sir."
+msgstr ""
+
+msgctxt "248"
+msgid "I'll go with the high stakes."
+msgstr ""
+
+msgctxt "272"
+msgid "Very well, please take your seat."
+msgstr ""
+
+msgctxt "296"
+msgid ""
+"You'll need a minimum of 1,000 chips to play high-stakes\r\n"
+"poker, sir."
+msgstr ""
+
+msgctxt "308"
+msgid "Not right now."
+msgstr ""
+
+msgctxt "320"
+msgid "I see. We hope you'll play next time."
+msgstr ""
+
+msgctxt "332"
+msgid "Yes"
+msgstr ""
+
+msgctxt "344"
+msgid "No"
+msgstr ""
+
+msgctxt "356"
+msgid "Low Stakes (5 chips/10 chips)"
+msgstr ""
+
+msgctxt "368"
+msgid "High Stakes (50 chips/100 chips)"
+msgstr ""
+
+msgctxt "2356"
+msgid "Dealer"
+msgstr ""
+
+msgctxt "2360"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "2364"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "2368"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "2372"
+msgid "Talk_No"
+msgstr ""

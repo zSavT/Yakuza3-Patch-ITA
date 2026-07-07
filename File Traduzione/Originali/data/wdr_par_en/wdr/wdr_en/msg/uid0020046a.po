@@ -1,0 +1,188 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid ""
+"This is the only shop in town that sells the kinda\r\n"
+"underhanded stuff you're looking for. This guy here\r\n"
+"is an associate of mine."
+msgstr ""
+
+msgctxt "76"
+msgid "It's, uh... Hm. Quite a setup."
+msgstr ""
+
+msgctxt "88"
+msgid ""
+"Hey, don't knock mobility! Anything that can help you get\r\n"
+"away from the fuzz is a positive in my book."
+msgstr ""
+
+msgctxt "100"
+msgid "...Right. I take it this is your store, then?"
+msgstr ""
+
+msgctxt "112"
+msgid "Oh, heavens no. This one's all handled by my pal here."
+msgstr ""
+
+msgctxt "124"
+msgid ""
+"My own shop is up on the second floor of a building near the\r\n"
+"Ryudo office. That's where I sell gear, and mod stuff, too."
+msgstr ""
+
+msgctxt "136"
+msgid "<Color:7>Near the Ryudo office<Color:Default>, huh...?"
+msgstr ""
+
+msgctxt "148"
+msgid ""
+"I wish I could just give you everything you need to crush\r\n"
+"the Tamashiro... but remember I'm running a business here."
+msgstr ""
+
+msgctxt "160"
+msgid "Let me see... Here, this should get your engine started."
+msgstr ""
+
+msgctxt "196"
+msgid "You got an <Color:8>Extendable Staff<Color:Default>!"
+msgstr ""
+
+msgctxt "208"
+msgid ""
+"Equip <Color:200,255,200,255>weapons, armor, and accessories<Color:Default> "
+"by selecting\r\n"
+"the <Color:200,255,200,255>Items<Color:Default> option on the pause menu.\r\n"
+"During battle, take out any equipped "
+"<Color:200,255,200,255>weapon<Color:Default>\r\n"
+"using "
+"<Action:Battle_Pull_Weapon_Left@Combat><Action:Battle_Pull_Weapon_"
+"Up@Combat><Action:Battle_Pull_Weapon_Right@Combat>."
+msgstr ""
+
+msgctxt "220"
+msgid ""
+"Armor and accessories will have no effect\r\n"
+"unless you remember to <Color:200,255,200,255>equip<Color:Default> them."
+msgstr ""
+
+msgctxt "232"
+msgid "This should come in handy. Thanks, Kamiyama."
+msgstr ""
+
+msgctxt "244"
+msgid ""
+"Oh, it's no problem at all. That's one of our most popular\r\n"
+"items."
+msgstr ""
+
+msgctxt "256"
+msgid "Ah, and remember that weapons will break as you use them."
+msgstr ""
+
+msgctxt "268"
+msgid ""
+"If that ever happens, just bring it up to my shop and I'll\r\n"
+"fix it up for you in no time flat."
+msgstr ""
+
+msgctxt "280"
+msgid "Though don't expect me to work for free..."
+msgstr ""
+
+msgctxt "292"
+msgid "Free or not, that's a pretty good deal."
+msgstr ""
+
+msgctxt "304"
+msgid ""
+"By the way, you guys have a lot of weapons I've never\r\n"
+"even seen before. It's incredible."
+msgstr ""
+
+msgctxt "316"
+msgid ""
+"Oh, have our wares caught your eye? I know a guy who can\r\n"
+"teach you how to use them if you want."
+msgstr ""
+
+msgctxt "328"
+msgid "A weapons expert, huh?"
+msgstr ""
+
+msgctxt "340"
+msgid ""
+"Yes, yes. I'll mention you to him. I'm sure he'd be thrilled\r\n"
+"to have a student as beefy as you..."
+msgstr ""
+
+msgctxt "352"
+msgid ""
+"Oh, and just holler if you need anything else. I'll help\r\n"
+"you as much as I humanly can. After all, the Tamashiro'll\r\n"
+"come for my legs, maybe more, if you fail..."
+msgstr ""
+
+msgctxt "364"
+msgid "Let's hope I don't fail then."
+msgstr ""
+
+msgctxt "376"
+msgid "Yeah. Feel free to stop by my shop when you have the time!"
+msgstr ""
+
+msgctxt "388"
+msgid "I will. Thanks, Kamiyama."
+msgstr ""
+
+msgctxt "5660"
+msgid "Kamiyama"
+msgstr ""
+
+msgctxt "5664"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "5668"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "5672"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "5676"
+msgid "Talk_Send"
+msgstr ""
+
+msgctxt "5680"
+msgid "Equippable Items 1"
+msgstr ""
+
+msgctxt "5684"
+msgid "Equippable Items 2"
+msgstr ""
+
+msgctxt "5688"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "5692"
+msgid "P_stand_tlk_kyoro_st"
+msgstr ""
+
+msgctxt "5696"
+msgid "P_stand_tlk_kamae"
+msgstr ""

@@ -1,0 +1,180 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "100"
+msgid "(Taichi's calling... Hope everything's okay.)"
+msgstr ""
+
+msgctxt "112"
+msgid "Hello, Uncle Kaz?"
+msgstr ""
+
+msgctxt "124"
+msgid "Hey, Taichi. Everything all right down there?"
+msgstr ""
+
+msgctxt "136"
+msgid "Oh yeah, everything's fine!"
+msgstr ""
+
+msgctxt "148"
+msgid "So what's with the phone call, then?"
+msgstr ""
+
+msgctxt "160"
+msgid ""
+"Oh, come on, can't I just give you a call now and then?\r\n"
+"It doesn't always have to be for emergencies!"
+msgstr ""
+
+msgctxt "172"
+msgid "Fair enough. Are you eating okay?"
+msgstr ""
+
+msgctxt "184"
+msgid ""
+"Geez, you worry too much about us, Uncle Kaz. Of course\r\n"
+"I am!"
+msgstr ""
+
+msgctxt "196"
+msgid "All right, then. So, what's the matter?"
+msgstr ""
+
+msgctxt "208"
+msgid "Well, I was wondering how long it's gonna be till you come home."
+msgstr ""
+
+msgctxt "220"
+msgid "I'm not exactly sure. Maybe a few days?"
+msgstr ""
+
+msgctxt "232"
+msgid ""
+"Ooh, in that case, can you pick something up for me before you leave "
+"Kamurocho?"
+msgstr ""
+
+msgctxt "244"
+msgid "That depends on what you want."
+msgstr ""
+
+msgctxt "256"
+msgid "Wellllll, could you get me the newest issue of Five?"
+msgstr ""
+
+msgctxt "268"
+msgid "Five? You mean Shonen Five?"
+msgstr ""
+
+msgctxt "280"
+msgid "Yup, that's the one!"
+msgstr ""
+
+msgctxt "292"
+msgid ""
+"I'm surprised you knew what it was, Uncle Kaz. Usually\r\n"
+"you're pretty clueless about stuff like that."
+msgstr ""
+
+msgctxt "304"
+msgid "Hey, Shonen Five's pretty mainstream."
+msgstr ""
+
+msgctxt "316"
+msgid "Anyway, I want you to get me the latest issue."
+msgstr ""
+
+msgctxt "328"
+msgid "The one out this week?"
+msgstr ""
+
+msgctxt "340"
+msgid ""
+"Yeah! They're announcing the winners of the Shonen Five Awards in this "
+"issue! I'm super pumped!"
+msgstr ""
+
+msgctxt "352"
+msgid "Hold on. Don't they sell that magazine in Okinawa, too?"
+msgstr ""
+
+msgctxt "364"
+msgid ""
+"Why don't you buy it yourself? This is the kind of stuff I give you "
+"allowance for, Taichi."
+msgstr ""
+
+msgctxt "376"
+msgid "I can't!"
+msgstr ""
+
+msgctxt "388"
+msgid "Taichi."
+msgstr ""
+
+msgctxt "400"
+msgid "I'm serious! It's out in Tokyo, but it's not out in Okinawa. Not yet!"
+msgstr ""
+
+msgctxt "412"
+msgid "What do you mean?"
+msgstr ""
+
+msgctxt "424"
+msgid ""
+"Wait, don't you know? They always release stuff later here than on the "
+"mainland!"
+msgstr ""
+
+msgctxt "436"
+msgid "...Right."
+msgstr ""
+
+msgctxt "448"
+msgid "Anyway, I just gotta know what happens next!"
+msgstr ""
+
+msgctxt "460"
+msgid "I'll even pay you back when you get here! Please, just get me one!"
+msgstr ""
+
+msgctxt "520"
+msgid ""
+"(...Huh. Looks like I already have a copy. I'll have to give it to him when "
+"I get back.)"
+msgstr ""
+
+msgctxt "544"
+msgid "(Guess it wouldn't hurt to swing by a convenience store and take a look.)"
+msgstr ""
+
+msgctxt "5480"
+msgid "P_stand_tlk_phone_st"
+msgstr ""
+
+msgctxt "5484"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "5488"
+msgid "Taichi"
+msgstr ""
+
+msgctxt "5492"
+msgid "P_stand_tlk_phone_ed"
+msgstr ""
+
+msgctxt "5496"
+msgid "dummy"
+msgstr ""

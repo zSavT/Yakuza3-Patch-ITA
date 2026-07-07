@@ -1,0 +1,478 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "380"
+msgid "How are you holding up? Feet feel any better?"
+msgstr ""
+
+msgctxt "392"
+msgid ""
+"Oh, it's you again. Well, these old feet of mine have\r\n"
+"thankfully stopped hurting, but I think I'd like to rest\r\n"
+"them just a tad more."
+msgstr ""
+
+msgctxt "404"
+msgid ""
+"Eventually, I'll have to wander on over to Suppon Street\r\n"
+"looking for Jinsei, so that's that..."
+msgstr ""
+
+msgctxt "416"
+msgid "I see... Don't overdo it out here."
+msgstr ""
+
+msgctxt "428"
+msgid "It turns out Jinsei on Suppon Street... Well, it's gone."
+msgstr ""
+
+msgctxt "440"
+msgid "What...? Are you serious?"
+msgstr ""
+
+msgctxt "452"
+msgid ""
+"It looks like they sold it off once the real estate market\r\n"
+"started going crazy."
+msgstr ""
+
+msgctxt "464"
+msgid ""
+"So you don't know where it went? Do you have any idea how\r\n"
+"one would go about finding it, then?"
+msgstr ""
+
+msgctxt "476"
+msgid ""
+"Well, I heard it moved over to the <Color:7>Champion "
+"District<Color:Default>,\r\n"
+"but I can't say for sure."
+msgstr ""
+
+msgctxt "488"
+msgid ""
+"I see... So it's in the Champion District, most likely?\r\n"
+"That's a good start."
+msgstr ""
+
+msgctxt "500"
+msgid ""
+"Now, if you do happen to spot Jinsei out there, would you\r\n"
+"mind giving this old man a holler?"
+msgstr ""
+
+msgctxt "512"
+msgid "I think I can manage that."
+msgstr ""
+
+msgctxt "524"
+msgid ""
+"Thank you kindly. Now, if you don't mind, I think I ought to\r\n"
+"rest my weary bones a bit longer."
+msgstr ""
+
+msgctxt "536"
+msgid ""
+"Say, I found Jinsei for you. It's still alive and well in\r\n"
+"the Champion District."
+msgstr ""
+
+msgctxt "548"
+msgid ""
+"Is that a fact! Would you mind taking me there, if it's not\r\n"
+"too much trouble?"
+msgstr ""
+
+msgctxt "560"
+msgid "Finally... I can lay this old burden to rest..."
+msgstr ""
+
+msgctxt "572"
+msgid "Well, actually... I wasn't planning on heading that way."
+msgstr ""
+
+msgctxt "584"
+msgid ""
+"Understandable. I'm sure you have your reasons for not\r\n"
+"wanting to escort an unfamiliar old man."
+msgstr ""
+
+msgctxt "596"
+msgid "I'll just have to look for it myself, then."
+msgstr ""
+
+msgctxt "608"
+msgid "I do appreciate your help thus far. This is a good start."
+msgstr ""
+
+msgctxt "620"
+msgid ""
+"Why don't you tell me what's going on before I make my\r\n"
+"decision?"
+msgstr ""
+
+msgctxt "632"
+msgid "You're right. There's more to this story than I've let on."
+msgstr ""
+
+msgctxt "644"
+msgid ""
+"It was after the war had ended. We returned to the scorched\r\n"
+"wasteland of Tokyo and set up shop in Kamurocho's bustling\r\n"
+"black market..."
+msgstr ""
+
+msgctxt "656"
+msgid ""
+"We bought up crappy rice from the sticks and started selling\r\n"
+"gruel. With barely enough food to go around as it was, we\r\n"
+"ended up making a fair bit of money."
+msgstr ""
+
+msgctxt "668"
+msgid ""
+"I bought, he sold. We combined our efforts and it eventually\r\n"
+"paid off."
+msgstr ""
+
+msgctxt "680"
+msgid ""
+"But... I betrayed him in the end. I ran off with all our\r\n"
+"savings... The money we'd earned together."
+msgstr ""
+
+msgctxt "692"
+msgid ""
+"I was tired of doing things the hard way. So I joined forces\r\n"
+"with the other dealers and bought a truck with the money I'd\r\n"
+"stolen."
+msgstr ""
+
+msgctxt "704"
+msgid ""
+"I could carry a lot in that old truck of mine... Veggies,\r\n"
+"meat... even people."
+msgstr ""
+
+msgctxt "716"
+msgid ""
+"While I was working away, my company grew and grew, until\r\n"
+"suddenly it was a huge corporation."
+msgstr ""
+
+msgctxt "728"
+msgid "......"
+msgstr ""
+
+msgctxt "740"
+msgid ""
+"But I was always afraid. My company, my truck, my success...\r\n"
+"It all came down to the money I took from my partner."
+msgstr ""
+
+msgctxt "752"
+msgid ""
+"I don't expect him to forgive me. Maybe I'm just trying to\r\n"
+"make myself feel better, but... all I want to do is tell him\r\n"
+"that I'm sorry."
+msgstr ""
+
+msgctxt "764"
+msgid "So this is your way of burying the hatchet, huh?"
+msgstr ""
+
+msgctxt "776"
+msgid ""
+"Please, take me there. Take me to Jinsei so I can finally\r\n"
+"come clean."
+msgstr ""
+
+msgctxt "788"
+msgid "All right... You've convinced me. Think you can keep up?"
+msgstr ""
+
+msgctxt "800"
+msgid "I'll do my damnedest!"
+msgstr ""
+
+msgctxt "824"
+msgid ""
+"I wish I could go looking for Jinsei myself, but I really\r\n"
+"need to rest my poor old legs."
+msgstr ""
+
+msgctxt "836"
+msgid "......"
+msgstr ""
+
+msgctxt "848"
+msgid ""
+"And after I'd made it all the way out to Kamurocho, too...\r\n"
+"Bah! Pitiful, is it not? Take it from me, young man⑬don't\r\n"
+"get old!"
+msgstr ""
+
+msgctxt "860"
+msgid "Well, actually... I wasn't planning on heading that way."
+msgstr ""
+
+msgctxt "872"
+msgid ""
+"Understandable. I'm sure you have your reasons for not\r\n"
+"wanting to escort an unfamiliar old man."
+msgstr ""
+
+msgctxt "884"
+msgid "I'll just have to look for it myself, then."
+msgstr ""
+
+msgctxt "896"
+msgid "I do appreciate your help thus far. This is a good start."
+msgstr ""
+
+msgctxt "908"
+msgid ""
+"Why don't you tell me what's going on before I make my\r\n"
+"decision?"
+msgstr ""
+
+msgctxt "920"
+msgid "You're right. There's more to this story than I've let on."
+msgstr ""
+
+msgctxt "932"
+msgid ""
+"It was after the war had ended. We returned to the scorched\r\n"
+"wasteland of Tokyo and set up shop in Kamurocho's bustling\r\n"
+"black market..."
+msgstr ""
+
+msgctxt "944"
+msgid ""
+"We bought up crappy rice from the sticks and started selling\r\n"
+"gruel. With barely enough food to go around as it was, we\r\n"
+"ended up making a fair bit of money."
+msgstr ""
+
+msgctxt "956"
+msgid ""
+"I bought, he sold. We combined our efforts and it eventually\r\n"
+"paid off."
+msgstr ""
+
+msgctxt "968"
+msgid ""
+"But... I betrayed him in the end. I ran off with all our\r\n"
+"savings... The money we'd earned together."
+msgstr ""
+
+msgctxt "980"
+msgid ""
+"I was tired of doing things the hard way. So I joined forces\r\n"
+"with the other dealers and bought a truck with the money I'd\r\n"
+"stolen."
+msgstr ""
+
+msgctxt "992"
+msgid ""
+"I could carry a lot in that old truck of mine... Veggies,\r\n"
+"meat... even people."
+msgstr ""
+
+msgctxt "1004"
+msgid ""
+"While I was working away, my company grew and grew, until\r\n"
+"suddenly it was a huge corporation."
+msgstr ""
+
+msgctxt "1016"
+msgid "......"
+msgstr ""
+
+msgctxt "1028"
+msgid ""
+"But I was always afraid. My company, my truck, my success...\r\n"
+"It all came down to the money I took from my partner."
+msgstr ""
+
+msgctxt "1040"
+msgid ""
+"I don't expect him to forgive me. Maybe I'm just trying to\r\n"
+"make myself feel better, but... all I want to do is tell him\r\n"
+"that I'm sorry."
+msgstr ""
+
+msgctxt "1052"
+msgid "So this is your way of burying the hatchet, huh?"
+msgstr ""
+
+msgctxt "1064"
+msgid ""
+"Please, take me there. Take me to Jinsei so I can finally\r\n"
+"come clean."
+msgstr ""
+
+msgctxt "1076"
+msgid "All right... You've convinced me. Think you can keep up?"
+msgstr ""
+
+msgctxt "1088"
+msgid "I'll do my damnedest!"
+msgstr ""
+
+msgctxt "1112"
+msgid ""
+"I wish I could go looking for Jinsei myself, but I really\r\n"
+"need to rest my poor old legs."
+msgstr ""
+
+msgctxt "1124"
+msgid "......"
+msgstr ""
+
+msgctxt "1136"
+msgid ""
+"And after I'd made it all the way out to Kamurocho, too...\r\n"
+"Bah! Pitiful, is it not? Take it from me, young man⑬don't\r\n"
+"get old!"
+msgstr ""
+
+msgctxt "1148"
+msgid "Well, actually... I wasn't planning on heading that way."
+msgstr ""
+
+msgctxt "1160"
+msgid ""
+"Understandable. I'm sure you have your reasons for not\r\n"
+"wanting to escort an unfamiliar old man."
+msgstr ""
+
+msgctxt "1172"
+msgid "I'll just have to look for it myself, then."
+msgstr ""
+
+msgctxt "1184"
+msgid "I do appreciate your help thus far. This is a good start."
+msgstr ""
+
+msgctxt "1196"
+msgid "All right... You've convinced me. Think you can keep up?"
+msgstr ""
+
+msgctxt "1208"
+msgid "I'll do my damnedest!"
+msgstr ""
+
+msgctxt "1232"
+msgid "Take Him to Jinsei"
+msgstr ""
+
+msgctxt "1244"
+msgid "Turn Him Down"
+msgstr ""
+
+msgctxt "1256"
+msgid "Ask About the Situation"
+msgstr ""
+
+msgctxt "1268"
+msgid "Take Him to Jinsei"
+msgstr ""
+
+msgctxt "1280"
+msgid "Turn Him Down"
+msgstr ""
+
+msgctxt "1292"
+msgid "Take Him to Jinsei"
+msgstr ""
+
+msgctxt "1304"
+msgid "Turn Him Down"
+msgstr ""
+
+msgctxt "1316"
+msgid "Ask About the Situation"
+msgstr ""
+
+msgctxt "1328"
+msgid "Take Him to Jinsei"
+msgstr ""
+
+msgctxt "1340"
+msgid "Turn Him Down"
+msgstr ""
+
+msgctxt "1352"
+msgid "Take Him to Jinsei"
+msgstr ""
+
+msgctxt "1364"
+msgid "Turn Him Down"
+msgstr ""
+
+msgctxt "15704"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "15708"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "15712"
+msgid "Older Gentleman"
+msgstr ""
+
+msgctxt "15716"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "15720"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "15724"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "15728"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "15732"
+msgid "Talk_Kosite_st"
+msgstr ""
+
+msgctxt "15736"
+msgid "Talk_Kosite_No"
+msgstr ""
+
+msgctxt "15740"
+msgid "Talk_Kosite_Yes"
+msgstr ""
+
+msgctxt "15744"
+msgid "Talk_Request"
+msgstr ""
+
+msgctxt "15748"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "15752"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "15756"
+msgid "Talk_Ase"
+msgstr ""

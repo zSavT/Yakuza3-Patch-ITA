@@ -1,0 +1,122 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "220"
+msgid "Welcome!"
+msgstr ""
+
+msgctxt "232"
+msgid "What can I get for you today?"
+msgstr ""
+
+msgctxt "244"
+msgid "Actually, I'm not a customer. Are you one of old man Komaki's pupils?"
+msgstr ""
+
+msgctxt "256"
+msgid "Huh!? Wait... Are you Kazuma Kiryu?"
+msgstr ""
+
+msgctxt "268"
+msgid ""
+"The master told me about you. You need to fight me to remember what you "
+"learned before, is that right?"
+msgstr ""
+
+msgctxt "280"
+msgid ""
+"I may be working in a fast food restaurant now, but there was a time when I "
+"thought I could be the very best."
+msgstr ""
+
+msgctxt "292"
+msgid ""
+"So you're the Dragon of Dojima... Even the master recognizes your legendary "
+"skill."
+msgstr ""
+
+msgctxt "304"
+msgid ""
+"I'd love to get the chance to see if my Komaki techniques can stand up to "
+"you! Let's take it outside!"
+msgstr ""
+
+msgctxt "328"
+msgid "Boss! I'm taking my break now!"
+msgstr ""
+
+msgctxt "340"
+msgid "Hey! Hold on a... Dangit!"
+msgstr ""
+
+msgctxt "364"
+msgid "Oh, it's you. Wanna give it another try?"
+msgstr ""
+
+msgctxt "388"
+msgid ""
+"All right. I never turn down a challenger! Let's do this! Hey boss, I'm "
+"taking my break now!"
+msgstr ""
+
+msgctxt "412"
+msgid "All right. Come back whenever. I'm always ready for a fight!"
+msgstr ""
+
+msgctxt "424"
+msgid "Yeah, you're going down."
+msgstr ""
+
+msgctxt "436"
+msgid "No, maybe later."
+msgstr ""
+
+msgctxt "3052"
+msgid "Burger Shop Worker"
+msgstr ""
+
+msgctxt "3056"
+msgid "M_shp_stand_tlk_ojigi"
+msgstr ""
+
+msgctxt "3060"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "3064"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "3068"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "3072"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "3076"
+msgid "Talk_Chohatu"
+msgstr ""
+
+msgctxt "3080"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "3084"
+msgid "Manager"
+msgstr ""
+
+msgctxt "3088"
+msgid "Burger Joint Worker"
+msgstr ""

@@ -1,0 +1,116 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "69\t129"
+msgid "Stop!"
+msgstr ""
+
+msgctxt "186\t281"
+msgid "Whoa, just look at it."
+msgstr ""
+
+msgctxt "282\t362"
+msgid "What the heck?"
+msgstr ""
+
+msgctxt "426\t486"
+msgid "You're disgusting."
+msgstr ""
+
+msgctxt "848\t909"
+msgid "You'll pay for that!"
+msgstr ""
+
+msgctxt "961\t1021"
+msgid "Mitsuo?"
+msgstr ""
+
+msgctxt "1046\t1089"
+msgid "What was that?"
+msgstr ""
+
+msgctxt "1090\t1150"
+msgid "Take this!"
+msgstr ""
+
+msgctxt "1180\t1256"
+msgid "What's up with him?"
+msgstr ""
+
+msgctxt "1291\t1383"
+msgid "Are you hurt, Okada-kun?"
+msgstr ""
+
+msgctxt "1384\t1513"
+msgid ""
+"You orphans are the worst!\\n"
+"Come on, Okada-kun!"
+msgstr ""
+
+msgctxt "1843\t2002"
+msgid ""
+"Sorry. I wasn't following you\\n"
+"or anything, I swear!"
+msgstr ""
+
+msgctxt "2003\t2110"
+msgid "I was just in the area, and..."
+msgstr ""
+
+msgctxt "2119\t2179"
+msgid "You okay?"
+msgstr ""
+
+msgctxt "2286\t2440"
+msgid ""
+"Mitsuo...\\n"
+"You don't think it's gross?"
+msgstr ""
+
+msgctxt "2468\t2528"
+msgid "What?"
+msgstr ""
+
+msgctxt "2573\t2632"
+msgid "My burn."
+msgstr ""
+
+msgctxt "2665\t2711"
+msgid "Of course not!"
+msgstr ""
+
+msgctxt "2712\t2843"
+msgid "I know this isn't easy for you, Riona..."
+msgstr ""
+
+msgctxt "2844\t3046"
+msgid ""
+"But hey, look at me. I don't even have to go\\n"
+"outside and I'm the darkest kid in town!"
+msgstr ""
+
+msgctxt "3028\t3140"
+msgid "That's way weirder than any scar, huh?"
+msgstr ""
+
+msgctxt "3208\t3268"
+msgid "...Bad joke."
+msgstr ""
+
+msgctxt "3394\t3454"
+msgid "I'm so sorry."
+msgstr ""
+
+msgctxt "3462\t3522"
+msgid "Huh? For what?"
+msgstr ""

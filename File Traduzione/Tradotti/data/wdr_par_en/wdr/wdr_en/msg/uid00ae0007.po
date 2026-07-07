@@ -1,0 +1,60 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "220"
+msgid "What can I do for you today?"
+msgstr ""
+
+msgctxt "328"
+msgid "Bye now."
+msgstr ""
+
+msgctxt "340"
+msgid "Get test item"
+msgstr ""
+
+msgctxt "352"
+msgid "Train with weapons"
+msgstr ""
+
+msgctxt "364"
+msgid "Item invention"
+msgstr ""
+
+msgctxt "376"
+msgid "Repair weapons."
+msgstr ""
+
+msgctxt "388"
+msgid "Reload ammo."
+msgstr ""
+
+msgctxt "400"
+msgid "Check designs."
+msgstr ""
+
+msgctxt "412"
+msgid "Buy equipment/designs"
+msgstr ""
+
+msgctxt "424"
+msgid "Buy item"
+msgstr ""
+
+msgctxt "436"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "2012"
+msgid "Kamiyama"
+msgstr ""

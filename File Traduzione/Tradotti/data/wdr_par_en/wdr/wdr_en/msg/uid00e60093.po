@@ -1,0 +1,128 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "136"
+msgid "Hey! You there!"
+msgstr ""
+
+msgctxt "148"
+msgid "Can I help you?"
+msgstr ""
+
+msgctxt "160"
+msgid ""
+"Is it true that Kazuki-kun, the owner of Stardust, was shot? I heard he's "
+"in the hospital!"
+msgstr ""
+
+msgctxt "172"
+msgid ""
+"I can't even eat, I've been so worried! I must've lost at least 30 "
+"kilograms since I heard the news!"
+msgstr ""
+
+msgctxt "184"
+msgid "(So there's a rumor that Kazuki was shot...)"
+msgstr ""
+
+msgctxt "196"
+msgid "Yeah, it's true."
+msgstr ""
+
+msgctxt "208"
+msgid ""
+"Oh no! I can't bear to think of his beautiful face being injured in any "
+"way! I think I'm gonna faint..."
+msgstr ""
+
+msgctxt "220"
+msgid "Well, actually, his face is fine..."
+msgstr ""
+
+msgctxt "232"
+msgid "Oh, really? Phew..."
+msgstr ""
+
+msgctxt "244"
+msgid ""
+"Knowing Kazuki-kun, I'm sure he put his life on the line to save the club "
+"from some nasty yakuza or something!"
+msgstr ""
+
+msgctxt "256"
+msgid ""
+"I really should go pay him a visit at the hospital. Wait... Is there even "
+"one nearby?"
+msgstr ""
+
+msgctxt "268"
+msgid "It's just a rumor."
+msgstr ""
+
+msgctxt "280"
+msgid "Oh, really? Phew..."
+msgstr ""
+
+msgctxt "292"
+msgid ""
+"Then, why hasn't he been at the club lately? You don't think he's been "
+"fired, do you!?"
+msgstr ""
+
+msgctxt "304"
+msgid "Not unless he fired himself..."
+msgstr ""
+
+msgctxt "316"
+msgid "No? Then, what happened!? I'm freaking out!"
+msgstr ""
+
+msgctxt "328"
+msgid "Yeah, it's true."
+msgstr ""
+
+msgctxt "340"
+msgid "It's just a rumor."
+msgstr ""
+
+msgctxt "2624"
+msgid "Pampered Celebrity"
+msgstr ""
+
+msgctxt "2628"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "2632"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "2636"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "2640"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "2644"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "2648"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "2652"
+msgid "Talk_Quest"
+msgstr ""

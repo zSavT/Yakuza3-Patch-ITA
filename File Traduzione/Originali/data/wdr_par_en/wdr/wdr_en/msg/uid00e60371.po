@@ -1,0 +1,168 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "136"
+msgid "What?"
+msgstr ""
+
+msgctxt "148"
+msgid "You the one making Iriomote wildcat deals, or what?"
+msgstr ""
+
+msgctxt "160"
+msgid "Hahaha! Without proof, you ain't got shit on me, pal!"
+msgstr ""
+
+msgctxt "172"
+msgid "You got proof? Show me proof!"
+msgstr ""
+
+msgctxt "184"
+msgid ""
+"That cage you got there. There's an Iriomote wildcat stuffed in there, "
+"right?"
+msgstr ""
+
+msgctxt "196"
+msgid ""
+"Are you on crack, numbnuts? There ain't nothin' in this cage. Take a good "
+"look!"
+msgstr ""
+
+msgctxt "232"
+msgid ""
+"(He's right. It's empty. And it doesn't look like he already made any "
+"transactions...)"
+msgstr ""
+
+msgctxt "268"
+msgid "Happy? Now fuck off."
+msgstr ""
+
+msgctxt "280"
+msgid "I don't need any proof."
+msgstr ""
+
+msgctxt "292"
+msgid "The fuck you don't, buddy!"
+msgstr ""
+
+msgctxt "304"
+msgid ""
+"If I start a commotion here with you, your partner's gonna come running. "
+"Then I catch him, and it's all over."
+msgstr ""
+
+msgctxt "316"
+msgid "Get the fuck outta here, man. You⑬"
+msgstr ""
+
+msgctxt "340"
+msgid "Ugh..."
+msgstr ""
+
+msgctxt "352"
+msgid "Looks like your man's right on cue."
+msgstr ""
+
+msgctxt "364"
+msgid "This shit's too big for you to fuck up, man!"
+msgstr ""
+
+msgctxt "376"
+msgid "I'm gonna grind your ass up into cat food!"
+msgstr ""
+
+msgctxt "400"
+msgid "That red shirt you got on."
+msgstr ""
+
+msgctxt "412"
+msgid "Ha! You mean the same shirt all those other dudes are wearing?"
+msgstr ""
+
+msgctxt "424"
+msgid "Ugh..."
+msgstr ""
+
+msgctxt "436"
+msgid "You're gonna need more proof than that!"
+msgstr ""
+
+msgctxt "448"
+msgid "I thought I told you to fuck off! You got nothin' on me!"
+msgstr ""
+
+msgctxt "460"
+msgid "That cage you got there."
+msgstr ""
+
+msgctxt "472"
+msgid "I don't need proof."
+msgstr ""
+
+msgctxt "484"
+msgid "That red shirt you got on."
+msgstr ""
+
+msgctxt "4544"
+msgid "Man in Hawaiian Shirt"
+msgstr ""
+
+msgctxt "4548"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "4552"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "4556"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "4560"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "4564"
+msgid "P_stand_tlk_hirou_st"
+msgstr ""
+
+msgctxt "4568"
+msgid "P_stand_tlk_hirou_ed"
+msgstr ""
+
+msgctxt "4572"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "4576"
+msgid "Talk_Away"
+msgstr ""
+
+msgctxt "4580"
+msgid "Shady Man"
+msgstr ""
+
+msgctxt "4584"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "4588"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "4592"
+msgid "Talk_Info_F"
+msgstr ""

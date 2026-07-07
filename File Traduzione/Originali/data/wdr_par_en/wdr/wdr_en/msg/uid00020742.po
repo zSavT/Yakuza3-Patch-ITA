@@ -1,0 +1,117 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid ""
+"You gonna give us back what ya stole, or are we gonna have to make ya "
+"suffer?"
+msgstr ""
+
+msgctxt "76"
+msgid "Forget it! You think I'd hand this town over to you thugs!?"
+msgstr ""
+
+msgctxt "88"
+msgid ""
+"Why don't you mainlanders just head back home? As long as\r\n"
+"the Ryudo Family's here, you'll never get far in this town!"
+msgstr ""
+
+msgctxt "100"
+msgid ""
+"Strong words from somebody who can barely walk. Guess there\r\n"
+"ain't no point in draggin' this out further... Boys, make an\r\n"
+"example outta this fool!"
+msgstr ""
+
+msgctxt "112"
+msgid "Pops!"
+msgstr ""
+
+msgctxt "124"
+msgid "Get away from here, Mikio! This is no place for you!"
+msgstr ""
+
+msgctxt "136"
+msgid "Mikio! Take care of these guys. I know you can do it!"
+msgstr ""
+
+msgctxt "148"
+msgid "Stay away!"
+msgstr ""
+
+msgctxt "160"
+msgid "Come on, Mikio!"
+msgstr ""
+
+msgctxt "172"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "184"
+msgid "What are you gonna do?"
+msgstr ""
+
+msgctxt "196"
+msgid "You know what?"
+msgstr ""
+
+msgctxt "208"
+msgid ""
+"You think you can take over Downtown Ryukyu?\r\n"
+"Better think again!"
+msgstr ""
+
+msgctxt "3188"
+msgid "Commerce Union President"
+msgstr ""
+
+msgctxt "3192"
+msgid "Talk_Chohatu"
+msgstr ""
+
+msgctxt "3196"
+msgid "Aragaki"
+msgstr ""
+
+msgctxt "3200"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "3204"
+msgid "Nakahara"
+msgstr ""
+
+msgctxt "3208"
+msgid "Mikio"
+msgstr ""
+
+msgctxt "3212"
+msgid "M_nml_stand_tlk_kamae"
+msgstr ""
+
+msgctxt "3216"
+msgid "Talk_NoBig"
+msgstr ""
+
+msgctxt "3220"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "3224"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "3228"
+msgid "Talk_Odosu"
+msgstr ""

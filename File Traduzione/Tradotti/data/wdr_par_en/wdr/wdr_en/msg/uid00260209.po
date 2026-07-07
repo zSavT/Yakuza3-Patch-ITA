@@ -1,0 +1,82 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "76"
+msgid ""
+"Well, if it ain't Kishimoto-san. Come all this way to see me, now? I'm "
+"touched."
+msgstr ""
+
+msgctxt "88"
+msgid "And who do we have here? Haven't seen you 'round before."
+msgstr ""
+
+msgctxt "100"
+msgid "Kiryu. You could say I'm friends with Kishimoto."
+msgstr ""
+
+msgctxt "112"
+msgid ""
+"So what can I do for ya? If ya want a loan, I'll give you the same rate I "
+"gave Kishimoto: 10％ every ten days."
+msgstr ""
+
+msgctxt "124"
+msgid "Well, that explains a lot. Don't you think that's a little absurd?"
+msgstr ""
+
+msgctxt "136"
+msgid ""
+"Are ya tryin' to pick a fight? If you got a problem, buddy, take it up with "
+"my employees!"
+msgstr ""
+
+msgctxt "148"
+msgid "Hey, guys! This man here'd like to have a chat with ya!"
+msgstr ""
+
+msgctxt "1964"
+msgid "Black Market Boss"
+msgstr ""
+
+msgctxt "1968"
+msgid "M_big_sitchr_tlk_info_f"
+msgstr ""
+
+msgctxt "1972"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1976"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "1980"
+msgid "Talk_Udekumi_st"
+msgstr ""
+
+msgctxt "1984"
+msgid "M_big_sitchr_tlk_nobig"
+msgstr ""
+
+msgctxt "1988"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "1992"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "1996"
+msgid "Talk_Chohatu"
+msgstr ""

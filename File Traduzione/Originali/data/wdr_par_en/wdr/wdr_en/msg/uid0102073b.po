@@ -1,0 +1,148 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "116"
+msgid ""
+"Kiryu! Sorry, but I'm in a real tough spot! Get over here\r\n"
+"as quick as you can!"
+msgstr ""
+
+msgctxt "128"
+msgid "Nakahara, what's wrong? Where are you?"
+msgstr ""
+
+msgctxt "140"
+msgid "Mikio's father's res⑬"
+msgstr ""
+
+msgctxt "152"
+msgid "*click* *beep* *beep*"
+msgstr ""
+
+msgctxt "164"
+msgid "Hey! Nakahara! What happened!?"
+msgstr ""
+
+msgctxt "212"
+msgid "(Damn. That didn't sound good at all!)"
+msgstr ""
+
+msgctxt "236"
+msgid "Oh, Kiryu, sir. What brings you here?"
+msgstr ""
+
+msgctxt "248"
+msgid "Mikio! Nakahara's not with you!?"
+msgstr ""
+
+msgctxt "260"
+msgid ""
+"Huh? The old man's not back yet? Maybe he's still at\r\n"
+"Morning Glory."
+msgstr ""
+
+msgctxt "272"
+msgid ""
+"No, he just called. I don't know the details, but it sounds\r\n"
+"like he's in trouble."
+msgstr ""
+
+msgctxt "284"
+msgid ""
+"What!? Really!? Maybe it has something to do with all those\r\n"
+"cars..."
+msgstr ""
+
+msgctxt "296"
+msgid "Cars? What cars?"
+msgstr ""
+
+msgctxt "308"
+msgid ""
+"I just saw a line of big, black cars go down\r\n"
+"Ryukyu Boulevard. I'm pretty sure they turned\r\n"
+"onto Kitaryu Street."
+msgstr ""
+
+msgctxt "320"
+msgid "Kitaryu Street? Are you sure?"
+msgstr ""
+
+msgctxt "332"
+msgid ""
+"Yeah. That's where my old man's restaurant is.\r\n"
+"Oh! And by \"old man,\" I mean my pops, not\r\n"
+"Old Man Nakahara."
+msgstr ""
+
+msgctxt "344"
+msgid "That's it!"
+msgstr ""
+
+msgctxt "356"
+msgid "What do you mean?"
+msgstr ""
+
+msgctxt "368"
+msgid "Nakahara's gotta be there. Come on, Mikio! Lead the way!"
+msgstr ""
+
+msgctxt "380"
+msgid "What the!?"
+msgstr ""
+
+msgctxt "404"
+msgid ""
+"(Mikio's not here. Maybe he's still at Morning Glory\r\n"
+"with Nakahara.)"
+msgstr ""
+
+msgctxt "3928"
+msgid "P_stand_tlk_phone_st"
+msgstr ""
+
+msgctxt "3932"
+msgid "Nakahara"
+msgstr ""
+
+msgctxt "3936"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "3940"
+msgid "P_stand_tlk_phone_ed"
+msgstr ""
+
+msgctxt "3944"
+msgid "dummy"
+msgstr ""
+
+msgctxt "3948"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "3952"
+msgid "Mikio"
+msgstr ""
+
+msgctxt "3956"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "3960"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "3964"
+msgid "Talk_Yes"
+msgstr ""

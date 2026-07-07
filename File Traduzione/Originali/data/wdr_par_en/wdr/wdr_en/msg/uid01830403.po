@@ -1,0 +1,42 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "112"
+msgid "Where the hell is Kanda!?"
+msgstr ""
+
+msgctxt "124"
+msgid ""
+"I... I... I... I... I saw him going upstairs just a sec ago!\r\n"
+"That's all I've got, so please no more punchin'!"
+msgstr ""
+
+msgctxt "136"
+msgid "(He ran upstairs, huh?)"
+msgstr ""
+
+msgctxt "1208"
+msgid "dummy"
+msgstr ""
+
+msgctxt "1212"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1216"
+msgid "Nishikiyama Goon"
+msgstr ""
+
+msgctxt "1220"
+msgid "0"
+msgstr ""

@@ -1,0 +1,74 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "144"
+msgid ""
+"Wow, your body is totally relaxed! That makes it so much easier for me to "
+"give you the perfect massage. How do you feel? Refreshed, revitalized?"
+msgstr ""
+
+msgctxt "156"
+msgid "Yeah..."
+msgstr ""
+
+msgctxt "168"
+msgid "I'm so glad to hear that. Okay, let me walk you out."
+msgstr ""
+
+msgctxt "228"
+msgid "Thank you very much. Please come again!"
+msgstr ""
+
+msgctxt "264"
+msgid "......"
+msgstr ""
+
+msgctxt "276"
+msgid ""
+"Next time, try to relax a little more. You'll never make it to the end if "
+"you stay all tensed up like that..."
+msgstr ""
+
+msgctxt "288"
+msgid "......"
+msgstr ""
+
+msgctxt "312"
+msgid "......"
+msgstr ""
+
+msgctxt "324"
+msgid ""
+"You're, like, totally exhausted, huh? You sure you're feeling okay? I mean, "
+"you fell asleep right in the middle of the massage."
+msgstr ""
+
+msgctxt "336"
+msgid "......"
+msgstr ""
+
+msgctxt "420"
+msgid "Thank you very much. See you again soon!"
+msgstr ""
+
+msgctxt "3108"
+msgid "Ayaka"
+msgstr ""
+
+msgctxt "3112"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "3116"
+msgid "Talk_Ojigi"
+msgstr ""

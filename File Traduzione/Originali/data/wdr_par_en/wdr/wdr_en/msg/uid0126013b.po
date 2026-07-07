@@ -1,0 +1,159 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "80"
+msgid "Guh... What's the deal with you...?"
+msgstr ""
+
+msgctxt "92"
+msgid "How about you tell me \"what the deal is\" with this cell phone?"
+msgstr ""
+
+msgctxt "104"
+msgid "That's, uh..."
+msgstr ""
+
+msgctxt "116"
+msgid ""
+"Don't worry, I'm not with the police. As long as you're not using this "
+"thing to hurt anybody, I might consider looking the other way."
+msgstr ""
+
+msgctxt "128"
+msgid ""
+"...Okay. It's a modified cell phone. All calls are free, and since it's "
+"under a prepaid contract, none of the data leads back to a single "
+"individual."
+msgstr ""
+
+msgctxt "140"
+msgid "And you're selling these illegally or something?"
+msgstr ""
+
+msgctxt "152"
+msgid ""
+"That's the idea. We didn't wanna chance getting caught in the act of "
+"handing over the goods directly, so we thought about using the locker "
+"instead."
+msgstr ""
+
+msgctxt "164"
+msgid ""
+"And thanks to the recent spread of the so-called \"cursed\r\n"
+"lockers,\" people have been staying out of our hair. So far\r\n"
+"it's worked out great... until you came along."
+msgstr ""
+
+msgctxt "176"
+msgid ""
+"Guess that means our business in Downtown Ryukyu is pretty much boned, "
+"thanks to you. Well, let's get outta here, fellas."
+msgstr ""
+
+msgctxt "248"
+msgid ""
+"(Guess they won't be making any shady deals around here for a while. I'll "
+"let it slide, just this once.)"
+msgstr ""
+
+msgctxt "272"
+msgid "You got 2,000 EXP."
+msgstr ""
+
+msgctxt "284"
+msgid "Hmm?"
+msgstr ""
+
+msgctxt "296"
+msgid "Ch-Chrome... It's him! That's the bastard who took our locker key!"
+msgstr ""
+
+msgctxt "308"
+msgid ""
+"Hey. I'd appreciate it if you could give us back that locker key, big "
+"fella. That locker's reeeeal important to us."
+msgstr ""
+
+msgctxt "320"
+msgid "You mean the one that had this phone inside?"
+msgstr ""
+
+msgctxt "332"
+msgid ""
+"...So you opened it. Well, now that you've seen what's\r\n"
+"inside... We can't let you go unharmed."
+msgstr ""
+
+msgctxt "344"
+msgid "Kill him if you have to... Just get that cell phone back!"
+msgstr ""
+
+msgctxt "4324"
+msgid "Chrome"
+msgstr ""
+
+msgctxt "4328"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "4332"
+msgid "Talk_Kosite_st"
+msgstr ""
+
+msgctxt "4336"
+msgid "Talk_Kosite_No"
+msgstr ""
+
+msgctxt "4340"
+msgid "Talk_Kosite_ed"
+msgstr ""
+
+msgctxt "4344"
+msgid "Talk_Udekumi_st"
+msgstr ""
+
+msgctxt "4348"
+msgid "0"
+msgstr ""
+
+msgctxt "4352"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "4356"
+msgid "Stranger"
+msgstr ""
+
+msgctxt "4360"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "4364"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "4368"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "4372"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "4376"
+msgid "Talk_Chohatu"
+msgstr ""
+
+msgctxt "4380"
+msgid "Talk_Smile"
+msgstr ""

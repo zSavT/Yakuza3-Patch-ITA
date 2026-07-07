@@ -1,0 +1,52 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "253\t444"
+msgid ""
+"A gaudy place like this has been underneath\\n"
+"Kamurocho all this time? Who would have thought?"
+msgstr ""
+
+msgctxt "474\t579"
+msgid "Well? You want to talk to me?"
+msgstr ""
+
+msgctxt "578\t636"
+msgid "Yes, you must forgive me."
+msgstr ""
+
+msgctxt "638\t797"
+msgid ""
+"I'm afraid my organization is in part to blame\\n"
+"for all the trouble you've been facing."
+msgstr ""
+
+msgctxt "798\t876"
+msgid "I'm here to hold myself accountable."
+msgstr ""
+
+msgctxt "891\t950"
+msgid "Accountable...?"
+msgstr ""
+
+msgctxt "951\t1011"
+msgid "Yes."
+msgstr ""
+
+msgctxt "1551\t1611"
+msgid "Kanda!?"
+msgstr ""
+
+msgctxt "1715\t1839"
+msgid "Mine... What is the meaning of this?"
+msgstr ""

@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "80"
+msgid "Are you Akihiko?"
+msgstr ""
+
+msgctxt "92"
+msgid "Huh? Oh, uh... yes, that's me. Who're you, mister?"
+msgstr ""
+
+msgctxt "104"
+msgid ""
+"I'm Kiryu, I run the Morning Glory Orphanage. Listen, can I ask you "
+"something?"
+msgstr ""
+
+msgctxt "116"
+msgid "You ever seen a bottle like this before?"
+msgstr ""
+
+msgctxt "128"
+msgid ""
+"Oh, yeah... It looks like the one I bought. Why're you so interested in it, "
+"mister?"
+msgstr ""
+
+msgctxt "140"
+msgid "Would you happen to know anything about this letter, then?"
+msgstr ""
+
+msgctxt "152"
+msgid "Yasu-kun? Wedding?"
+msgstr ""
+
+msgctxt "164"
+msgid "Whoa... Wait, I think this is..."
+msgstr ""
+
+msgctxt "176"
+msgid ""
+"Sorry, mister. We'll play a round some other time. There's someone I gotta "
+"find!"
+msgstr ""
+
+msgctxt "188"
+msgid "Kiryu-san, right? C'mon, follow me!"
+msgstr ""
+
+msgctxt "212"
+msgid "Hey, hold on..."
+msgstr ""
+
+msgctxt "260"
+msgid "Hmm... Probably shouldn't make a move here..."
+msgstr ""
+
+msgctxt "272"
+msgid "(A kid this young at a shogi hall? This has got to be our boy.)"
+msgstr ""
+
+msgctxt "3052"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "3056"
+msgid "Akihiko"
+msgstr ""
+
+msgctxt "3060"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "3064"
+msgid "Talk_Send"
+msgstr ""
+
+msgctxt "3068"
+msgid "M_cld_stand"
+msgstr ""
+
+msgctxt "3072"
+msgid "M_cld_stand_tlk_kamae"
+msgstr ""
+
+msgctxt "3076"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "3080"
+msgid "Boy"
+msgstr ""

@@ -1,0 +1,330 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "44\t279"
+msgid ""
+"So Toma and Mine are pushing the Okinawa resort,\\n"
+"while you and the CIA try to corner Black Monday."
+msgstr ""
+
+msgctxt "294\t399"
+msgid "It's all starting to make sense now."
+msgstr ""
+
+msgctxt "681\t781"
+msgid "...I need you to stop Joji."
+msgstr ""
+
+msgctxt "782\t920"
+msgid ""
+"Stop him?\\n"
+"You're asking us to interrupt a CIA mission?"
+msgstr ""
+
+msgctxt "921\t1047"
+msgid "Correct, if that's what it takes to protect Toma."
+msgstr ""
+
+msgctxt "1081\t1192"
+msgid ""
+"...Why's the CIA so keen on getting\\n"
+"rid of him in the first place, though?"
+msgstr ""
+
+msgctxt "1193\t1278"
+msgid "He knows too much."
+msgstr ""
+
+msgctxt "1337\t1605"
+msgid ""
+"He's aware of my ties to the CIA,\\n"
+"and the fact that my military bill is a fake."
+msgstr ""
+
+msgctxt "1610\t1730"
+msgid "So the CIA are gonna shut him up."
+msgstr ""
+
+msgctxt "1721\t1781"
+msgid "Indeed."
+msgstr ""
+
+msgctxt "1832\t1920"
+msgid "But I have no desire to see Toma killed."
+msgstr ""
+
+msgctxt "1934\t2047"
+msgid "I want to save both him and Joji."
+msgstr ""
+
+msgctxt "2057\t2188"
+msgid "Hold on. Didn't Toma muck up your plans?"
+msgstr ""
+
+msgctxt "2189\t2268"
+msgid "Why save a guy who's standing against you?"
+msgstr ""
+
+msgctxt "2281\t2465"
+msgid ""
+"A man with strong enough convictions\\n"
+"will inevitably hold great ambition."
+msgstr ""
+
+msgctxt "2474\t2562"
+msgid "And, someday, make that ambition reality."
+msgstr ""
+
+msgctxt "2579\t2676"
+msgid "That's what my mentor always told me."
+msgstr ""
+
+msgctxt "2725\t2809"
+msgid "Toma has a good heart."
+msgstr ""
+
+msgctxt "2837\t2928"
+msgid "He'll be an extraordinary politician before long."
+msgstr ""
+
+msgctxt "2944\t3016"
+msgid "That's your reason?"
+msgstr ""
+
+msgctxt "3018\t3108"
+msgid "It's more than that, Date-san."
+msgstr ""
+
+msgctxt "3180\t3379"
+msgid ""
+"If I had to guess, I'd say Tamiya's not\\n"
+"the kind of guy who'd just abandon one of his men."
+msgstr ""
+
+msgctxt "3380\t3465"
+msgid "It would go against everything he stands for."
+msgstr ""
+
+msgctxt "3502\t3562"
+msgid "I'm right, aren't I?"
+msgstr ""
+
+msgctxt "3636\t3696"
+msgid "Okay."
+msgstr ""
+
+msgctxt "3697\t3819"
+msgid ""
+"By stopping Toma now,\\n"
+"I'll put an end to the resort, too."
+msgstr ""
+
+msgctxt "3840\t4002"
+msgid ""
+"And besides. Kazama-san's brother and I\\n"
+"have some unfinished business."
+msgstr ""
+
+msgctxt "4028\t4068"
+msgid "So you'll do it?"
+msgstr ""
+
+msgctxt "4109\t4168"
+msgid "Not because you asked me to."
+msgstr ""
+
+msgctxt "4169\t4310"
+msgid "All I want... is to protect Morning Glory."
+msgstr ""
+
+msgctxt "4367\t4424"
+msgid "Fair enough."
+msgstr ""
+
+msgctxt "4425\t4707"
+msgid ""
+"If you keep Toma safe from Joji, I'll ensure\\n"
+"that resort never sees the light of day."
+msgstr ""
+
+msgctxt "4711\t4762"
+msgid "I swear it."
+msgstr ""
+
+msgctxt "4773\t4848"
+msgid "And Toma? Where is he now?"
+msgstr ""
+
+msgctxt "4885\t5059"
+msgid ""
+"In Okinawa. Meeting with the Prefectural\\n"
+"Assembly, if my sources are correct."
+msgstr ""
+
+msgctxt "5219\t5374"
+msgid ""
+"I thought yakuza like you only\\n"
+"existed in stories these days."
+msgstr ""
+
+msgctxt "5419\t5510"
+msgid "...It seems we have visitors."
+msgstr ""
+
+msgctxt "5546\t5606"
+msgid "Something going on out there?"
+msgstr ""
+
+msgctxt "5664\t5723"
+msgid "Suzuki's \"security.\""
+msgstr ""
+
+msgctxt "5724\t5777"
+msgid "What?"
+msgstr ""
+
+msgctxt "5778\t5874"
+msgid "Toma must have planned this from the get-go."
+msgstr ""
+
+msgctxt "5881\t5953"
+msgid "Well, Kiryu?"
+msgstr ""
+
+msgctxt "5959\t6032"
+msgid "We don't have much choice..."
+msgstr ""
+
+msgctxt "6039\t6099"
+msgid "Do we?"
+msgstr ""
+
+msgctxt "6108\t6197"
+msgid ""
+"That's right.\\n"
+"There's only one route out."
+msgstr ""
+
+msgctxt "6215\t6361"
+msgid ""
+"And these security guys...\\n"
+"What should I do with them?"
+msgstr ""
+
+msgctxt "6374\t6533"
+msgid ""
+"They're essentially Suzuki's personal soldiers.\\n"
+"Do whatever it takes to get through."
+msgstr ""
+
+msgctxt "6551\t6631"
+msgid "I'll assume the responsibility."
+msgstr ""
+
+msgctxt "6697\t6764"
+msgid "One more thing."
+msgstr ""
+
+msgctxt "6765\t6800"
+msgid "What is it?"
+msgstr ""
+
+msgctxt "6801\t6904"
+msgid "You said earlier that you're not interested..."
+msgstr ""
+
+msgctxt "6905\t7057"
+msgid ""
+"But doesn't every politician dream\\n"
+"of becoming prime minister someday?"
+msgstr ""
+
+msgctxt "7069\t7150"
+msgid "Then allow me to flip the script, if you will."
+msgstr ""
+
+msgctxt "7151\t7284"
+msgid ""
+"Can a footsoldier become chairman\\n"
+"just by saying they want to?"
+msgstr ""
+
+msgctxt "7306\t7536"
+msgid ""
+"Those who reach the top are lifted there\\n"
+"by their actions, whether they will it or not."
+msgstr ""
+
+msgctxt "7550\t7610"
+msgid "Am I wrong?"
+msgstr ""
+
+msgctxt "7666\t7726"
+msgid "Guess you have a point."
+msgstr ""
+
+msgctxt "7783\t7844"
+msgid "Well all right."
+msgstr ""
+
+msgctxt "7853\t7894"
+msgid "We gotta move."
+msgstr ""
+
+msgctxt "7895\t7955"
+msgid "Yeah."
+msgstr ""
+
+msgctxt "8183\t8273"
+msgid "Hot damn. That's a lot of guys."
+msgstr ""
+
+msgctxt "8274\t8428"
+msgid ""
+"Date-san. I'll mop up here.\\n"
+"You go sneak out the back."
+msgstr ""
+
+msgctxt "8429\t8465"
+msgid "What?"
+msgstr ""
+
+msgctxt "8466\t8517"
+msgid "You're media, remember?"
+msgstr ""
+
+msgctxt "8518\t8600"
+msgid ""
+"Just show them your business card.\\n"
+"They should let you through no problem."
+msgstr ""
+
+msgctxt "8601\t8648"
+msgid "But then!"
+msgstr ""
+
+msgctxt "8649\t8712"
+msgid "If I don't come back..."
+msgstr ""
+
+msgctxt "8713\t8829"
+msgid "Tell Majima-san everything we just heard."
+msgstr ""
+
+msgctxt "8830\t8876"
+msgid "Kiryu..."
+msgstr ""
+
+msgctxt "8877\t8937"
+msgid "Now go!"
+msgstr ""

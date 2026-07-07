@@ -1,0 +1,107 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "188"
+msgid ""
+"Please, I can't accept your offer! I'll return the million\r\n"
+"yen I won, too, just please, let me go in peace!"
+msgstr ""
+
+msgctxt "200"
+msgid ""
+"Returning your reward money would be a lot of trouble!\r\n"
+"Please, just consider the publishing offer one more time!"
+msgstr ""
+
+msgctxt "212"
+msgid ""
+"I just can't do it... I don't have time to be working on\r\n"
+"manga right now..."
+msgstr ""
+
+msgctxt "224"
+msgid "Are you worried about your parents? I can convince them!"
+msgstr ""
+
+msgctxt "236"
+msgid ""
+"You can't convince my father, it's impossible! He'll say no,\r\n"
+"no matter what you say or offer him!"
+msgstr ""
+
+msgctxt "248"
+msgid "Well, why did you enter the contest, then!?"
+msgstr ""
+
+msgctxt "260"
+msgid "......"
+msgstr ""
+
+msgctxt "272"
+msgid ""
+"I know you want to draw manga, Hirano-san! And I know in\r\n"
+"my heart that whatever you create will be a smash hit!"
+msgstr ""
+
+msgctxt "284"
+msgid ""
+"As your editor, I will do all that I can to support you and\r\n"
+"the series you create, Hirano-san. Let's work hard,\r\n"
+"together!"
+msgstr ""
+
+msgctxt "296"
+msgid ""
+"I still can't accept your offer! Just pretend that this\r\n"
+"never even happened! Goodbye!"
+msgstr ""
+
+msgctxt "320"
+msgid "Oh... You're the man from earlier..."
+msgstr ""
+
+msgctxt "332"
+msgid "What were you two arguing about?"
+msgstr ""
+
+msgctxt "344"
+msgid "I've gotta go!"
+msgstr ""
+
+msgctxt "3748"
+msgid "Bereted Young Man"
+msgstr ""
+
+msgctxt "3752"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "3756"
+msgid "Editor"
+msgstr ""
+
+msgctxt "3760"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "3764"
+msgid "Hirano"
+msgstr ""
+
+msgctxt "3768"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "3772"
+msgid "Kiryu"
+msgstr ""

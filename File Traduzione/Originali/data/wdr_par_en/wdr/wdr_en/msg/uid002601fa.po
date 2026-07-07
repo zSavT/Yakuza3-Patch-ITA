@@ -1,0 +1,192 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "76"
+msgid "Thank you so much, Kiryu-san. I don't know what I would've done without you."
+msgstr ""
+
+msgctxt "88"
+msgid "You're a wonderful man... I don't know how I can repay you."
+msgstr ""
+
+msgctxt "100"
+msgid "Just doing what needs to be done. Don't think too hard about it."
+msgstr ""
+
+msgctxt "112"
+msgid "And Nao... I'm sorry... I never meant to get you caught up in this."
+msgstr ""
+
+msgctxt "124"
+msgid "It's okay, Mom. I understand now."
+msgstr ""
+
+msgctxt "136"
+msgid ""
+"...I don't think I've told you this, but your father... He proposed to me "
+"when I was twenty-five."
+msgstr ""
+
+msgctxt "148"
+msgid "And you know what he always wanted?"
+msgstr ""
+
+msgctxt "160"
+msgid ""
+"To give you the finest bingata kimono our workshop could possibly produce "
+"by the time you turned that age."
+msgstr ""
+
+msgctxt "172"
+msgid ""
+"Now, I know your father's no longer with us, but the love he had for you "
+"will never fade away. And I wanted to honor that wish."
+msgstr ""
+
+msgctxt "184"
+msgid "Mom..."
+msgstr ""
+
+msgctxt "196"
+msgid ""
+"I'm still not as good as I want to be at crafting these things, so I "
+"couldn't quite make it by your birthday..."
+msgstr ""
+
+msgctxt "208"
+msgid ""
+"But the special bingata I've been working on just for you...\r\n"
+"It's already been sent to the tailor."
+msgstr ""
+
+msgctxt "220"
+msgid ""
+"Hehe. Honestly, I wanted to keep it a secret until it was ready to present "
+"to you... Guess I'm not good at hiding things, either."
+msgstr ""
+
+msgctxt "232"
+msgid "Mom... You don't have to say that..."
+msgstr ""
+
+msgctxt "244"
+msgid "No... I do. I'm so sorry, Nao... for everything..."
+msgstr ""
+
+msgctxt "256"
+msgid ""
+"*sob* And I'm sorry, too... I never tried to understand things from your "
+"perspective at all..."
+msgstr ""
+
+msgctxt "268"
+msgid "...I hope you can forgive me!"
+msgstr ""
+
+msgctxt "340"
+msgid "So it all worked out in the end, huh?"
+msgstr ""
+
+msgctxt "352"
+msgid "Yes... And I owe you a big thank-you."
+msgstr ""
+
+msgctxt "364"
+msgid ""
+"All I want is to see your kimono when it's finished. Can you make that "
+"happen for me?"
+msgstr ""
+
+msgctxt "376"
+msgid "Of course! You'll be the first person I show, Kiryu-san."
+msgstr ""
+
+msgctxt "388"
+msgid "You've helped me out so many times now..."
+msgstr ""
+
+msgctxt "400"
+msgid "If you hadn't shown up today... I hate to think what would've happened."
+msgstr ""
+
+msgctxt "412"
+msgid "Then don't. I'll be there whenever you need me."
+msgstr ""
+
+msgctxt "424"
+msgid "Then... Let me show you my appreciation... in a way only I can do."
+msgstr ""
+
+msgctxt "436"
+msgid "......"
+msgstr ""
+
+msgctxt "448"
+msgid ""
+"The only thing is... it'd require you spending just a little more time with "
+"me than usual. In a place where the only eyes on us are each other's. "
+"<Color:255,200,200,255>⑮<Color:Default><Color:255,200,200,255"
+">⑮<Color:Default><Color:255,200,200,255>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "6704"
+msgid "Nao"
+msgstr ""
+
+msgctxt "6708"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "6712"
+msgid "Nao's Mother"
+msgstr ""
+
+msgctxt "6716"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "6720"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "6724"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "6728"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "6732"
+msgid "F_nml_stand_tlk_cry"
+msgstr ""
+
+msgctxt "6736"
+msgid "Talk_Cry"
+msgstr ""
+
+msgctxt "6740"
+msgid "F_nml_stand_tlk_crybig_st"
+msgstr ""
+
+msgctxt "6744"
+msgid "Talk_Kamae"
+msgstr ""
+
+msgctxt "6748"
+msgid "F_sxy_stand_sync_dakitukiA_st"
+msgstr ""
+
+msgctxt "6752"
+msgid "P_stand_sync_dakitukiA_st"
+msgstr ""

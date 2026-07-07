@@ -1,0 +1,42 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "92"
+msgid ""
+"Hey, buddy. Got something you might be interested in... Just take a look, "
+"that's all I ask."
+msgstr ""
+
+msgctxt "104"
+msgid "What?"
+msgstr ""
+
+msgctxt "116"
+msgid "I don't have it here. Just follow me, okay?"
+msgstr ""
+
+msgctxt "880"
+msgid "Shady Salesman"
+msgstr ""
+
+msgctxt "884"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "888"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "892"
+msgid "Talk_Info_R"
+msgstr ""

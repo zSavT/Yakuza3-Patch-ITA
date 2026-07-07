@@ -1,0 +1,468 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "284"
+msgid "Oh, Kiryu-san! How did it go? You manage to get that Ryukyu sea bream?"
+msgstr ""
+
+msgctxt "296"
+msgid "Oh, yes... Of course. What would you like to do today?"
+msgstr ""
+
+msgctxt "308"
+msgid "I've changed my mind. I'm good for now."
+msgstr ""
+
+msgctxt "320"
+msgid "Oh, sure. But, um... don't forget about that Ryukyu sea bream, okay? Please?"
+msgstr ""
+
+msgctxt "332"
+msgid "Let's see what you've got for me today."
+msgstr ""
+
+msgctxt "344"
+msgid "Yes, sir! I've got all the fresh fish you could ever need!"
+msgstr ""
+
+msgctxt "368"
+msgid "Thanks for trying! Ryukyu sea bream, okay? Please?"
+msgstr ""
+
+msgctxt "380"
+msgid "I'd like to sell you some fish, if that's okay."
+msgstr ""
+
+msgctxt "392"
+msgid "Oh, of course! What were you thinking of selling today?"
+msgstr ""
+
+msgctxt "416"
+msgid "Thanks for trying! Ryukyu sea bream, okay? Please?"
+msgstr ""
+
+msgctxt "440"
+msgid "Actually... I haven't been to that restaurant yet."
+msgstr ""
+
+msgctxt "452"
+msgid ""
+"Give me a break! It's on Hatsumachi South. Place called Sansui, right by "
+"Karaokekan! Please, I'm beggin' you here!"
+msgstr ""
+
+msgctxt "464"
+msgid "The restaurant next to South Island on Hatsumachi South. I'm on my way."
+msgstr ""
+
+msgctxt "476"
+msgid ""
+"(The chef is saying he'll sell it back for three times the price⑬300,000 "
+"yen.)"
+msgstr ""
+
+msgctxt "488"
+msgid ""
+"(Triple the price!? What the hell? That's practically extortion... but what "
+"choice do I have?)"
+msgstr ""
+
+msgctxt "500"
+msgid ""
+"(Here's another 100,000... That should bring what I gave you up to 300,000 "
+"yen. He better not push his luck!)"
+msgstr ""
+
+msgctxt "512"
+msgid "You got <Color:8>100,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "524"
+msgid "Huh? Everything okay?"
+msgstr ""
+
+msgctxt "536"
+msgid "Huh? Oh! Nothing! He'll be right back with your Ryukyu sea bream! Right?"
+msgstr ""
+
+msgctxt "548"
+msgid "Yeah. Don't worry. I'll figure something out."
+msgstr ""
+
+msgctxt "560"
+msgid "Good, good... I'll keep my fingers crossed. Thank you again."
+msgstr ""
+
+msgctxt "584"
+msgid "Yeah. Here you go."
+msgstr ""
+
+msgctxt "596"
+msgid "You handed over the <Color:8>Ryukyu Sea Bream<Color:Default>."
+msgstr ""
+
+msgctxt "620"
+msgid "You did it! You really did it! There it is... This is the fish!"
+msgstr ""
+
+msgctxt "656"
+msgid ""
+"And what a beautiful Ryukyu sea bream it is! My daughter and her husband "
+"will be thrilled!"
+msgstr ""
+
+msgctxt "668"
+msgid "Thank you so much for your help, Kiryu-san. You really saved my neck."
+msgstr ""
+
+msgctxt "680"
+msgid "Don't mention it. Oh, and by the way..."
+msgstr ""
+
+msgctxt "692"
+msgid "(It took 300,000 yen to get that fish back in the end.)"
+msgstr ""
+
+msgctxt "704"
+msgid "(What!? Another 100,000 on top of what I'd given you? But...)"
+msgstr ""
+
+msgctxt "716"
+msgid ""
+"Well, here's 100,000 yen for the fish. Let me know if any other good stuff "
+"comes in."
+msgstr ""
+
+msgctxt "728"
+msgid "Of course! Please come again."
+msgstr ""
+
+msgctxt "752"
+msgid ""
+"Well... This never would have happened if I hadn't sold the fish in the "
+"first place. I'll pay you back your 100,000..."
+msgstr ""
+
+msgctxt "764"
+msgid "You got <Color:8>100,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "776"
+msgid ""
+"I guess my customer's trust is priceless, but... urgh, I wasn't expecting "
+"it to be so steep..."
+msgstr ""
+
+msgctxt "800"
+msgid "You got 5,000 EXP."
+msgstr ""
+
+msgctxt "848"
+msgid ""
+"Don't ever go back on a deal like that again. Trust is the most important "
+"factor in a business like yours."
+msgstr ""
+
+msgctxt "860"
+msgid ""
+"Yes, sir! I've definitely learned my lesson. Rest assured, I'll never let "
+"anything like this happen again."
+msgstr ""
+
+msgctxt "872"
+msgid ""
+"I should hope not! Well, here's 100,000 yen for the fish. Let me know if "
+"any other good stuff comes in."
+msgstr ""
+
+msgctxt "884"
+msgid "Of course! Please come again."
+msgstr ""
+
+msgctxt "908"
+msgid ""
+"I really can't thank you enough, Kiryu-san. My customers' trust is so "
+"important to me. How can I repay you?"
+msgstr ""
+
+msgctxt "920"
+msgid ""
+"Oh, I know! This plate's been handed down through generations here at my "
+"shop. I'm sure it's valuable... Here."
+msgstr ""
+
+msgctxt "932"
+msgid "You got a <Color:8>Silver Plate<Color:Default>."
+msgstr ""
+
+msgctxt "956"
+msgid ""
+"All's well that ends well, right? And if you're ever on the lookout for "
+"some tasty fish, you know where to go!"
+msgstr ""
+
+msgctxt "980"
+msgid "You got 5,000 EXP."
+msgstr ""
+
+msgctxt "1028"
+msgid "Yeah. Here you go."
+msgstr ""
+
+msgctxt "1040"
+msgid "You handed over the <Color:8>Ryukyu Sea Bream<Color:Default>."
+msgstr ""
+
+msgctxt "1064"
+msgid "You did it! You really did it! There it is... This is the fish!"
+msgstr ""
+
+msgctxt "1088"
+msgid ""
+"And what a beautiful Ryukyu sea bream it is! My daughter and her husband "
+"will be thrilled!"
+msgstr ""
+
+msgctxt "1100"
+msgid ""
+"But for 300,000...? And this was all my fault... I should never have sold "
+"that fish in the first place."
+msgstr ""
+
+msgctxt "1112"
+msgid "Ugh... At least I earned my customer's trust back..."
+msgstr ""
+
+msgctxt "1136"
+msgid "You got 5,000 EXP."
+msgstr ""
+
+msgctxt "1184"
+msgid "Yeah. Here you go."
+msgstr ""
+
+msgctxt "1196"
+msgid "You handed over the <Color:8>Ryukyu Sea Bream<Color:Default>."
+msgstr ""
+
+msgctxt "1220"
+msgid "You did it! You really did it! There it is... This is the fish!"
+msgstr ""
+
+msgctxt "1244"
+msgid ""
+"And what a beautiful Ryukyu sea bream it is! My daughter and her husband "
+"will be thrilled!"
+msgstr ""
+
+msgctxt "1256"
+msgid ""
+"Well, here's 100,000 yen for the fish. Let me know if any other good stuff "
+"comes in."
+msgstr ""
+
+msgctxt "1268"
+msgid "Of course! Please come again."
+msgstr ""
+
+msgctxt "1292"
+msgid "Thank you so much for your help, Kiryu-san. You really saved my neck."
+msgstr ""
+
+msgctxt "1304"
+msgid "Don't mention it. Oh, and by the way..."
+msgstr ""
+
+msgctxt "1316"
+msgid "Here's the money you gave me."
+msgstr ""
+
+msgctxt "1328"
+msgid "Huh? You didn't buy it back?"
+msgstr ""
+
+msgctxt "1340"
+msgid "Well... It's a long story."
+msgstr ""
+
+msgctxt "1352"
+msgid "No, I can't take that money. You should have it, Kiryu-san."
+msgstr ""
+
+msgctxt "1364"
+msgid ""
+"This whole mess has taught me a real lesson, and I'd say this is a small "
+"price to pay."
+msgstr ""
+
+msgctxt "1376"
+msgid "Okay, if you say so."
+msgstr ""
+
+msgctxt "1388"
+msgid ""
+"Oh, I know! This plate's been handed down through generations here at my "
+"shop. I'm sure it's valuable... Here."
+msgstr ""
+
+msgctxt "1400"
+msgid "You got a <Color:8>Silver Plate<Color:Default>."
+msgstr ""
+
+msgctxt "1424"
+msgid ""
+"All's well that ends well, right? And if you're ever on the lookout for "
+"some tasty fish, you know where to go!"
+msgstr ""
+
+msgctxt "1448"
+msgid "You got 5,000 EXP."
+msgstr ""
+
+msgctxt "1496"
+msgid ""
+"Don't ever go back on a deal like that again. Trust is the most important "
+"factor in a business like yours."
+msgstr ""
+
+msgctxt "1508"
+msgid ""
+"Yes, sir! I've definitely learned my lesson. Rest assured, I'll never let "
+"anything like this happen again."
+msgstr ""
+
+msgctxt "1520"
+msgid ""
+"All's well that ends well, right? And if you're ever on the lookout for "
+"some tasty fish, you know where to go!"
+msgstr ""
+
+msgctxt "1544"
+msgid "You got 5,000 EXP."
+msgstr ""
+
+msgctxt "1592"
+msgid "Tell Him About It"
+msgstr ""
+
+msgctxt "1604"
+msgid "Do Some Shopping"
+msgstr ""
+
+msgctxt "1616"
+msgid "I'm here to buy."
+msgstr ""
+
+msgctxt "1628"
+msgid "I'm here to sell."
+msgstr ""
+
+msgctxt "1640"
+msgid "Nothing."
+msgstr ""
+
+msgctxt "1652"
+msgid "It cost me 300,000 yen."
+msgstr ""
+
+msgctxt "1664"
+msgid "Keep your word to your customers."
+msgstr ""
+
+msgctxt "1676"
+msgid "Here's your money back."
+msgstr ""
+
+msgctxt "1688"
+msgid "Keep your word to your customers."
+msgstr ""
+
+msgctxt "17764"
+msgid "Fishmonger"
+msgstr ""
+
+msgctxt "17768"
+msgid "Idle"
+msgstr ""
+
+msgctxt "17772"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "17776"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "17780"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "17784"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "17788"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "17792"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "17796"
+msgid "Talk_Cry"
+msgstr ""
+
+msgctxt "17800"
+msgid "Regular Customer"
+msgstr ""
+
+msgctxt "17804"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "17808"
+msgid "Talk_Send"
+msgstr ""
+
+msgctxt "17812"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "17816"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "17820"
+msgid "Talk_Udekumi_st"
+msgstr ""
+
+msgctxt "17824"
+msgid "dummy"
+msgstr ""
+
+msgctxt "17828"
+msgid "0"
+msgstr ""
+
+msgctxt "17832"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "17836"
+msgid "Sync_Send"
+msgstr ""
+
+msgctxt "17840"
+msgid "Talk_Smile"
+msgstr ""

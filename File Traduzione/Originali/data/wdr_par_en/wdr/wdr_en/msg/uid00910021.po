@@ -1,0 +1,352 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "124"
+msgid "Guh... I'll get you for this, just you wait!"
+msgstr ""
+
+msgctxt "136"
+msgid "We're never coming back here again!"
+msgstr ""
+
+msgctxt "148"
+msgid "......"
+msgstr ""
+
+msgctxt "172"
+msgid "You shouldn't use violence to solve your problems!"
+msgstr ""
+
+msgctxt "184"
+msgid "Huh...?"
+msgstr ""
+
+msgctxt "196"
+msgid ""
+"I mean, it's our fault for having that conversation at\r\n"
+"the register..."
+msgstr ""
+
+msgctxt "208"
+msgid ""
+"We made everyone wait for us to finish talking. No wonder\r\n"
+"they were mad at us..."
+msgstr ""
+
+msgctxt "220"
+msgid "Well..."
+msgstr ""
+
+msgctxt "232"
+msgid "Yeah, you've got a point there."
+msgstr ""
+
+msgctxt "244"
+msgid ""
+"What do you think? Was his way the right way to handle\r\n"
+"that situation?"
+msgstr ""
+
+msgctxt "256"
+msgid "Um..."
+msgstr ""
+
+msgctxt "268"
+msgid ""
+"(Looks like he's having trouble finding the right answer.\r\n"
+"All right, then...)"
+msgstr ""
+
+msgctxt "280"
+msgid "No, you're right. It wasn't the best way to handle that."
+msgstr ""
+
+msgctxt "292"
+msgid ""
+"Yeah. I don't like it when people try to solve all their\r\n"
+"problems with violence."
+msgstr ""
+
+msgctxt "304"
+msgid ""
+"But his methods were different. He stood between you and\r\n"
+"those punks to keep you from getting hurt. That's not the\r\n"
+"same as violence, right?"
+msgstr ""
+
+msgctxt "316"
+msgid "......"
+msgstr ""
+
+msgctxt "328"
+msgid "Sensei..."
+msgstr ""
+
+msgctxt "340"
+msgid ""
+"After all that, you've gotta see just how much he cares\r\n"
+"about you."
+msgstr ""
+
+msgctxt "352"
+msgid ""
+"But... I don't want him to do stuff like that... All it does\r\n"
+"is cause trouble for me..."
+msgstr ""
+
+msgctxt "364"
+msgid "Huh...?"
+msgstr ""
+
+msgctxt "376"
+msgid ""
+"I wouldn't want to cause more trouble by you asking me out\r\n"
+"like that again... So if we could start off as friends, I'd\r\n"
+"think about going on a date with you sometime."
+msgstr ""
+
+msgctxt "388"
+msgid "Huh? You mean..."
+msgstr ""
+
+msgctxt "400"
+msgid ""
+"I mean, it took me off guard, but... I'm sure it took a lot\r\n"
+"of courage to ask me out in front of all those people."
+msgstr ""
+
+msgctxt "412"
+msgid "Then you'll..."
+msgstr ""
+
+msgctxt "424"
+msgid ""
+"Just as friends, okay? It's up to you to convince me to\r\n"
+"be anything more than that."
+msgstr ""
+
+msgctxt "436"
+msgid "Do you think he handled that the right way?"
+msgstr ""
+
+msgctxt "448"
+msgid "I... I... I don't think he handled it the wrong way at all!"
+msgstr ""
+
+msgctxt "460"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "472"
+msgid ""
+"I'm not strong, like sensei here, but I know that sometimes,\r\n"
+"you have to use violence to solve problems... You have to do\r\n"
+"just what he did here!"
+msgstr ""
+
+msgctxt "484"
+msgid "But it's not right! Violence isn't the answer."
+msgstr ""
+
+msgctxt "496"
+msgid ""
+"What is \"right\" to you? If the person I loved was in danger,\r\n"
+"I'd do anything to protect them!"
+msgstr ""
+
+msgctxt "508"
+msgid ""
+"I don't think it's right to use violence to hurt someone...\r\n"
+"But I'd do it to protect the person I love!"
+msgstr ""
+
+msgctxt "520"
+msgid "......"
+msgstr ""
+
+msgctxt "532"
+msgid ""
+"I know it's hard to believe, since we've only just met,\r\n"
+"but... I really do like you a lot."
+msgstr ""
+
+msgctxt "544"
+msgid ""
+"That's why I was willing to do anything I could to protect\r\n"
+"you from those punks..."
+msgstr ""
+
+msgctxt "556"
+msgid ""
+"I know... But it caused so much trouble for the shop,\r\n"
+"and for me... I'd rather you not."
+msgstr ""
+
+msgctxt "568"
+msgid "Right... I get it..."
+msgstr ""
+
+msgctxt "580"
+msgid ""
+"I wouldn't want to cause more trouble by you asking me out\r\n"
+"like that again... So if we could start off as friends, I'd\r\n"
+"think about going on a date with you sometime."
+msgstr ""
+
+msgctxt "592"
+msgid "Huh? You mean..."
+msgstr ""
+
+msgctxt "604"
+msgid ""
+"I mean, it took me off guard, but... I'm sure it took a lot\r\n"
+"of courage to ask me out in front of all those people."
+msgstr ""
+
+msgctxt "616"
+msgid "Then you'll..."
+msgstr ""
+
+msgctxt "628"
+msgid ""
+"Just as friends, okay? It's up to you to convince me to\r\n"
+"be anything more than that."
+msgstr ""
+
+msgctxt "640"
+msgid "A... All right! I did it, sensei!"
+msgstr ""
+
+msgctxt "652"
+msgid "Good job, kid."
+msgstr ""
+
+msgctxt "664"
+msgid ""
+"Okay, then... After your shift is over, let's go to the\r\n"
+"Blue Seal Parlor, then to Sam's Maui, then after that..."
+msgstr ""
+
+msgctxt "676"
+msgid ""
+"Those are all places to eat... Why don't I bring us some\r\n"
+"burgers, and we can go see a movie?"
+msgstr ""
+
+msgctxt "688"
+msgid "Okay! I'll wait for you outside the shop!"
+msgstr ""
+
+msgctxt "748"
+msgid ""
+"Thanks for everything, sensei. If you hadn't helped me, I\r\n"
+"wouldn't have gotten anywhere with anyone."
+msgstr ""
+
+msgctxt "760"
+msgid ""
+"Looks like getting turned down all those times helped me\r\n"
+"grow a bit of backbone... hehe."
+msgstr ""
+
+msgctxt "772"
+msgid "Glad to hear it. Keep it up, kid."
+msgstr ""
+
+msgctxt "784"
+msgid ""
+"Before you go, take this. I bought it with the hopes that\r\n"
+"it'd make me more popular, but I don't need it now."
+msgstr ""
+
+msgctxt "796"
+msgid "All right, I'll take it."
+msgstr ""
+
+msgctxt "808"
+msgid "You got a slightly battered <Color:8>Italian Shoulder Bag<Color:Default>."
+msgstr ""
+
+msgctxt "832"
+msgid ""
+"Thanks again! I've gotta go think about what we're gonna\r\n"
+"do on our date..."
+msgstr ""
+
+msgctxt "856"
+msgid "You got 5,000 EXP."
+msgstr ""
+
+msgctxt "916"
+msgid "I'll lend him a hand."
+msgstr ""
+
+msgctxt "928"
+msgid "I'll watch and let him handle this."
+msgstr ""
+
+msgctxt "10028"
+msgid "Loveless Punk"
+msgstr ""
+
+msgctxt "10032"
+msgid "Desperate Punk"
+msgstr ""
+
+msgctxt "10036"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "10040"
+msgid "Burger Girl"
+msgstr ""
+
+msgctxt "10044"
+msgid "Lovelorn Teenager"
+msgstr ""
+
+msgctxt "10048"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "10052"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "10056"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "10060"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "10064"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "10068"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "10072"
+msgid "Talk_Send"
+msgstr ""
+
+msgctxt "10076"
+msgid "dummy"
+msgstr ""
+
+msgctxt "10080"
+msgid "0"
+msgstr ""

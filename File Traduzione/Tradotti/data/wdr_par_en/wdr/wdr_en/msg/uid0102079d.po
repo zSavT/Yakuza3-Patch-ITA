@@ -1,0 +1,277 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "132"
+msgid "*sob* Akimoto-kun... Are you really... dead?"
+msgstr ""
+
+msgctxt "144"
+msgid "Mizuki-san..."
+msgstr ""
+
+msgctxt "156"
+msgid ""
+"I thought we'd be together forever, just as we always\r\n"
+"were..."
+msgstr ""
+
+msgctxt "168"
+msgid "......"
+msgstr ""
+
+msgctxt "180"
+msgid "I'm sorry I caused you so much pain, Akimoto-kun...!"
+msgstr ""
+
+msgctxt "192"
+msgid ""
+"Don't worry, I'm coming to be with you... Then we can be\r\n"
+"together again."
+msgstr ""
+
+msgctxt "204"
+msgid "Hey, what are you doing!?"
+msgstr ""
+
+msgctxt "216"
+msgid ""
+"Don't stop me! I did such horrible things to Akimoto-kun...\r\n"
+"The only way I can make up for that is by paying him back\r\n"
+"with my life!"
+msgstr ""
+
+msgctxt "228"
+msgid ""
+"Don't be stupid! You really think that'll make Akimoto\r\n"
+"happy?"
+msgstr ""
+
+msgctxt "240"
+msgid "But it's all my fault...!"
+msgstr ""
+
+msgctxt "252"
+msgid ""
+"Mizuki-san, even though you did those terrible things to\r\n"
+"Akimoto-san, he still loved you, all that time!"
+msgstr ""
+
+msgctxt "264"
+msgid "It won't be easy, but you have to live on, Mizuki-san."
+msgstr ""
+
+msgctxt "276"
+msgid "*sob* Akimoto-kun...!"
+msgstr ""
+
+msgctxt "288"
+msgid ""
+"I can't leave these shoes behind after I jump. They're so\r\n"
+"worn out, and they stink, too..."
+msgstr ""
+
+msgctxt "300"
+msgid ""
+"I wouldn't want to embarrass Mizuki-chan. Good thing I\r\n"
+"realized it before going through with it. It's all thanks\r\n"
+"to her..."
+msgstr ""
+
+msgctxt "312"
+msgid "Is that..."
+msgstr ""
+
+msgctxt "324"
+msgid "Mizuki-chan...?"
+msgstr ""
+
+msgctxt "348"
+msgid "What's wrong, Mizuki-chan? Why are you crying!?"
+msgstr ""
+
+msgctxt "360"
+msgid "Wait, did this thug do something terrible to you!?"
+msgstr ""
+
+msgctxt "372"
+msgid ""
+"Dammit! How dare you make Mizuki-chan cry!? I'm gonna make\r\n"
+"you regret that!"
+msgstr ""
+
+msgctxt "384"
+msgid "Akimoto-kun... You're alive?"
+msgstr ""
+
+msgctxt "396"
+msgid ""
+"For now. I was just about to jump. I wanted to swap out the\r\n"
+"shoes I was leaving up here, so I went back to my place to\r\n"
+"get the right ones."
+msgstr ""
+
+msgctxt "408"
+msgid ""
+"I thought of the shoes you told me to buy when we went to\r\n"
+"Okinawa. Since I'm ending it all, I figured leaving behind a\r\n"
+"newer pair would look better."
+msgstr ""
+
+msgctxt "420"
+msgid "You idiot..."
+msgstr ""
+
+msgctxt "432"
+msgid "What...?"
+msgstr ""
+
+msgctxt "492"
+msgid "To my beloved Mizuki-chan..."
+msgstr ""
+
+msgctxt "504"
+msgid "I'm sorry things had to end like this."
+msgstr ""
+
+msgctxt "516"
+msgid "I'm an idiot. I always caused so much trouble for you."
+msgstr ""
+
+msgctxt "528"
+msgid ""
+"Despite that, you were always kind to me. Even when I was\r\n"
+"annoyed or frustrated, you took the time to cheer me up.\r\n"
+"Thank you for that."
+msgstr ""
+
+msgctxt "540"
+msgid ""
+"Even though, in the end, you never loved me... I had a lot\r\n"
+"of fun with you, Mizuki-chan."
+msgstr ""
+
+msgctxt "552"
+msgid "I was happy just to be by your side."
+msgstr ""
+
+msgctxt "564"
+msgid "I'm sorry for everything."
+msgstr ""
+
+msgctxt "576"
+msgid ""
+"Thank you, Mizuki-chan. And goodbye.\r\n"
+"                                            Akimoto"
+msgstr ""
+
+msgctxt "636"
+msgid ""
+"Wait, are these... Akimoto-san's shoes!? And that letter\r\n"
+"must be a suicide note..."
+msgstr ""
+
+msgctxt "648"
+msgid "We were too late..."
+msgstr ""
+
+msgctxt "660"
+msgid "Akimoto-kun!"
+msgstr ""
+
+msgctxt "8524"
+msgid "Talk_CryBig_st"
+msgstr ""
+
+msgctxt "8528"
+msgid "Mizuki"
+msgstr ""
+
+msgctxt "8532"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "8536"
+msgid "Talk_CryBig_ed"
+msgstr ""
+
+msgctxt "8540"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "8544"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "8548"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "8552"
+msgid "???"
+msgstr ""
+
+msgctxt "8556"
+msgid "Idle"
+msgstr ""
+
+msgctxt "8560"
+msgid "Akimoto"
+msgstr ""
+
+msgctxt "8564"
+msgid "0"
+msgstr ""
+
+msgctxt "8568"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "8572"
+msgid "se_a_ss_mm005-a003_2"
+msgstr ""
+
+msgctxt "8576"
+msgid "Akimoto's Letter"
+msgstr ""
+
+msgctxt "8580"
+msgid "sub006/sub_miduki_101"
+msgstr ""
+
+msgctxt "8584"
+msgid "sub006/sub_miduki_102"
+msgstr ""
+
+msgctxt "8588"
+msgid "sub006/sub_akimoto_103"
+msgstr ""
+
+msgctxt "8592"
+msgid "sub006/sub_akimoto_104"
+msgstr ""
+
+msgctxt "8596"
+msgid "sub006/sub_akimoto_107"
+msgstr ""
+
+msgctxt "8600"
+msgid "sub006/sub_akimoto_109"
+msgstr ""
+
+msgctxt "8604"
+msgid "sub006/sub_akimoto_110"
+msgstr ""
+
+msgctxt "8608"
+msgid "sub006/sub_akimoto_111"
+msgstr ""

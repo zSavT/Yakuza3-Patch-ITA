@@ -1,0 +1,120 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid "Argh... How could I choke like that?"
+msgstr ""
+
+msgctxt "76"
+msgid "So now what?"
+msgstr ""
+
+msgctxt "88"
+msgid "I guess the title of Death Bowler belongs to you now."
+msgstr ""
+
+msgctxt "100"
+msgid ""
+"With it comes honor, and the right to wear the very symbol of \"Death "
+"Bowler\"⑬this afro."
+msgstr ""
+
+msgctxt "112"
+msgid "......"
+msgstr ""
+
+msgctxt "124"
+msgid "What? Don't you want it?"
+msgstr ""
+
+msgctxt "136"
+msgid "Then, uh... how about this instead?"
+msgstr ""
+
+msgctxt "148"
+msgid "You got a <Color:8>Bento Lunch Set (Pork)<Color:Default>."
+msgstr ""
+
+msgctxt "172"
+msgid "Now I'll resign myself to the life of a lowly rank-and-file bowler..."
+msgstr ""
+
+msgctxt "184"
+msgid ""
+"That's the way it is with losers. We just fade away. I doubt I'll ever see "
+"you again. Adios... Death Bowler."
+msgstr ""
+
+msgctxt "244"
+msgid "(What was up with him, anyway?)"
+msgstr ""
+
+msgctxt "268"
+msgid "You got 3,000 EXP."
+msgstr ""
+
+msgctxt "3176"
+msgid "Death Bowler"
+msgstr ""
+
+msgctxt "3180"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "3184"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "3188"
+msgid "Talk_Udekumi_st"
+msgstr ""
+
+msgctxt "3192"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "3196"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "3200"
+msgid "Talk_Udekumi_ed"
+msgstr ""
+
+msgctxt "3204"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "3208"
+msgid "Talk_Request"
+msgstr ""
+
+msgctxt "3212"
+msgid "Toilet Bowler"
+msgstr ""
+
+msgctxt "3216"
+msgid "Talk_Cry"
+msgstr ""
+
+msgctxt "3220"
+msgid "M_nml_stand_tlk_crybig_lp"
+msgstr ""
+
+msgctxt "3224"
+msgid "dummy"
+msgstr ""
+
+msgctxt "3228"
+msgid "0"
+msgstr ""

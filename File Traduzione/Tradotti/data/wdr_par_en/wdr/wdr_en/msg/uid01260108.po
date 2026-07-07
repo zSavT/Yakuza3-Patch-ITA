@@ -1,0 +1,324 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "200"
+msgid "Phew... hah... (How can somebody that fat be so fast...?)"
+msgstr ""
+
+msgctxt "212"
+msgid "(I guess I'll have to head back to the yakiniku place...)"
+msgstr ""
+
+msgctxt "284"
+msgid "He got away?"
+msgstr ""
+
+msgctxt "296"
+msgid ""
+"Well, don't worry about it. Thanks for trying.\r\n"
+"Next time he comes, I'll make sure he pays."
+msgstr ""
+
+msgctxt "356"
+msgid "Hah... hah... urgh... How'd you catch me?"
+msgstr ""
+
+msgctxt "368"
+msgid "You're the dine-and-dasher, right? You're coming with me."
+msgstr ""
+
+msgctxt "452"
+msgid "Fifteen plates of grade A kalbi! That'll be 40,500 yen. Now, pay up!"
+msgstr ""
+
+msgctxt "464"
+msgid "Man... Okay, here."
+msgstr ""
+
+msgctxt "476"
+msgid "Huh? You had the cash all this time? Then... why didn't you just pay?"
+msgstr ""
+
+msgctxt "488"
+msgid "You mean, why did I dine and dash? Well..."
+msgstr ""
+
+msgctxt "500"
+msgid "For the most part..."
+msgstr ""
+
+msgctxt "512"
+msgid "I did it for the thrill."
+msgstr ""
+
+msgctxt "524"
+msgid "What!?"
+msgstr ""
+
+msgctxt "536"
+msgid "Get the hell outta here! And I better not see you in my shop ever again!"
+msgstr ""
+
+msgctxt "548"
+msgid "I'm getting hungry from all this running. I've had enough meat today, so..."
+msgstr ""
+
+msgctxt "560"
+msgid "Where else can I get away with this?"
+msgstr ""
+
+msgctxt "572"
+msgid "I can't believe this guy!"
+msgstr ""
+
+msgctxt "584"
+msgid ""
+"Thank you so much for catching him. You must be exhausted. Try drinking "
+"this."
+msgstr ""
+
+msgctxt "596"
+msgid "You got a <Color:8>Staminan Royale<Color:Default>."
+msgstr ""
+
+msgctxt "620"
+msgid ""
+"That dine-and-dasher's notorious around here. Hope he doesn't hit any other "
+"shops."
+msgstr ""
+
+msgctxt "644"
+msgid "You got 2,000 EXP."
+msgstr ""
+
+msgctxt "704"
+msgid "Son of a bitch! That... that damn dine-and-dasher!"
+msgstr ""
+
+msgctxt "716"
+msgid "What happened?"
+msgstr ""
+
+msgctxt "728"
+msgid "He fucking did it again! That fucking dine-and-dasher got away!"
+msgstr ""
+
+msgctxt "740"
+msgid "Oh! There he is!"
+msgstr ""
+
+msgctxt "776"
+msgid "Please! Catch that dine-and-dasher!"
+msgstr ""
+
+msgctxt "788"
+msgid "A dine-and-dasher, huh?"
+msgstr ""
+
+msgctxt "800"
+msgid "......"
+msgstr ""
+
+msgctxt "812"
+msgid ""
+"Hey, you! Yeah, you over there!\r\n"
+"I'm talking to you!"
+msgstr ""
+
+msgctxt "836"
+msgid "Aw, man... He got away."
+msgstr ""
+
+msgctxt "848"
+msgid "Rrrrgh! If that asshole tries to dine and dash on me again, I swear..."
+msgstr ""
+
+msgctxt "908"
+msgid "All right. I just need to catch him, right?"
+msgstr ""
+
+msgctxt "920"
+msgid "You'll do it? Thanks! I knew you'd help me!"
+msgstr ""
+
+msgctxt "932"
+msgid "I want you to drag that criminal back here! By the neck, if you have to!"
+msgstr ""
+
+msgctxt "956"
+msgid "Damn it! Some guy just ran out on his bill!"
+msgstr ""
+
+msgctxt "968"
+msgid "What happened?"
+msgstr ""
+
+msgctxt "980"
+msgid "He just fucking left! That stupid dine-and-dasher just..."
+msgstr ""
+
+msgctxt "992"
+msgid "Oh! He's right there!"
+msgstr ""
+
+msgctxt "1028"
+msgid ""
+"Catch that dine-and-dasher! He ordered fifteen plates of grade A kalbi, and "
+"he's damn well gonna pay for it!"
+msgstr ""
+
+msgctxt "1040"
+msgid "A dine-and-dasher, eh?"
+msgstr ""
+
+msgctxt "1052"
+msgid "......"
+msgstr ""
+
+msgctxt "1064"
+msgid ""
+"Hey, you! Yeah, you over there!\r\n"
+"I'm talking to you!"
+msgstr ""
+
+msgctxt "1088"
+msgid "Aw, man... He got away."
+msgstr ""
+
+msgctxt "1100"
+msgid "Rrrrgh! If that asshole tries to dine and dash on me again, I swear..."
+msgstr ""
+
+msgctxt "1160"
+msgid "All right. I just need to catch him, right?"
+msgstr ""
+
+msgctxt "1172"
+msgid "You'll do it? Thanks! I knew you'd help me!"
+msgstr ""
+
+msgctxt "1184"
+msgid "I want you to drag that criminal back here! By the neck, if you have to!"
+msgstr ""
+
+msgctxt "1208"
+msgid "Chase the Dine-and-Dasher"
+msgstr ""
+
+msgctxt "1220"
+msgid "Pretend Not to Notice"
+msgstr ""
+
+msgctxt "1232"
+msgid "Chase the Dine-and-Dasher"
+msgstr ""
+
+msgctxt "1244"
+msgid "Pretend Not to Notice"
+msgstr ""
+
+msgctxt "12780"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "12784"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "12788"
+msgid "0"
+msgstr ""
+
+msgctxt "12792"
+msgid "Yakiniku Shop Manager"
+msgstr ""
+
+msgctxt "12796"
+msgid "Talk_Kosite_st"
+msgstr ""
+
+msgctxt "12800"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "12804"
+msgid "dummy"
+msgstr ""
+
+msgctxt "12808"
+msgid "Dine-And-Dasher"
+msgstr ""
+
+msgctxt "12812"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "12816"
+msgid "Idle"
+msgstr ""
+
+msgctxt "12820"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "12824"
+msgid "P_stand_tlk_send"
+msgstr ""
+
+msgctxt "12828"
+msgid "Talk_Send"
+msgstr ""
+
+msgctxt "12832"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "12836"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "12840"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "12844"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "12848"
+msgid "M_yng_stand_tlk_request"
+msgstr ""
+
+msgctxt "12852"
+msgid "Talk_Udekumi_st"
+msgstr ""
+
+msgctxt "12856"
+msgid "M_ykz_stand_tlk_info_f"
+msgstr ""
+
+msgctxt "12860"
+msgid "Talk_Udekumi_Yes"
+msgstr ""
+
+msgctxt "12864"
+msgid "M_ykz_stand_tlk_ok"
+msgstr ""
+
+msgctxt "12868"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "12872"
+msgid "M_ykz_stand_tlk_angry"
+msgstr ""

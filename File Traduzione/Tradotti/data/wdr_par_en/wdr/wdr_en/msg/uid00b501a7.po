@@ -1,0 +1,328 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "280"
+msgid ""
+"That was too slow⑬much too slow! What could you have\r\n"
+"possibly been doing to waste so much time?"
+msgstr ""
+
+msgctxt "292"
+msgid ""
+"Here's some money, but only because I promised I'd pay you.\r\n"
+"I won't be asking you for help again."
+msgstr ""
+
+msgctxt "304"
+msgid "You got <Color:8>2,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "316"
+msgid ""
+"You're still welcome to come by and eat with the rest of our\r\n"
+"customers, though!"
+msgstr ""
+
+msgctxt "388"
+msgid "You got 3,000 EXP."
+msgstr ""
+
+msgctxt "436"
+msgid "Oh, you're back! I didn't expect to see you so soon."
+msgstr ""
+
+msgctxt "448"
+msgid "This is everything they paid me."
+msgstr ""
+
+msgctxt "460"
+msgid "Wonderful. Thank you for your help!"
+msgstr ""
+
+msgctxt "472"
+msgid ""
+"It looks like you were a little slow on some of the\r\n"
+"deliveries... but you were still a big help. I appreciate\r\n"
+"all the trouble you went through."
+msgstr ""
+
+msgctxt "484"
+msgid ""
+"All right. Here's a little something for you.\r\n"
+"It's not much, but you earned it."
+msgstr ""
+
+msgctxt "496"
+msgid "You got <Color:8>5,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "508"
+msgid ""
+"Next time you visit, you can just relax and enjoy your meal.\r\n"
+"I promise!"
+msgstr ""
+
+msgctxt "580"
+msgid "You got 3,000 EXP."
+msgstr ""
+
+msgctxt "628"
+msgid "Oh, you're back! I didn't expect to see you so soon."
+msgstr ""
+
+msgctxt "640"
+msgid "This is everything they paid me."
+msgstr ""
+
+msgctxt "652"
+msgid "Wonderful. Thank you for your help!"
+msgstr ""
+
+msgctxt "664"
+msgid ""
+"You really helped us out of a pinch, so I'd like to give\r\n"
+"you a little something. Oh, and I threw some extra in\r\n"
+"there to show my gratitude."
+msgstr ""
+
+msgctxt "676"
+msgid "You got <Color:8>10,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "688"
+msgid ""
+"Next time you visit, you can just relax and enjoy your meal.\r\n"
+"I promise!"
+msgstr ""
+
+msgctxt "760"
+msgid "You got 3,000 EXP."
+msgstr ""
+
+msgctxt "784"
+msgid ""
+"You're not done with your deliveries yet! Come on, we're\r\n"
+"counting on you here!"
+msgstr ""
+
+msgctxt "832"
+msgid "You idiot! How do you expect to deliver all those orders?"
+msgstr ""
+
+msgctxt "844"
+msgid ""
+"I'm... so sorry... I had no idea we had so many of them\r\n"
+"backed up like that."
+msgstr ""
+
+msgctxt "856"
+msgid "Do you honestly think you can deliver these all by yourself?"
+msgstr ""
+
+msgctxt "868"
+msgid "No..."
+msgstr ""
+
+msgctxt "880"
+msgid "Ah. I apologize. I didn't mean for you to see us like this."
+msgstr ""
+
+msgctxt "892"
+msgid "Is something wrong?"
+msgstr ""
+
+msgctxt "904"
+msgid ""
+"It's just that this dumbbell here took on far too many\r\n"
+"deliveries than he could handle."
+msgstr ""
+
+msgctxt "916"
+msgid ""
+"And it's not like we have anyone else on hand to help,\r\n"
+"either..."
+msgstr ""
+
+msgctxt "928"
+msgid "Sorry I caused so much trouble..."
+msgstr ""
+
+msgctxt "940"
+msgid ""
+"If only I had one more person to take on deliveries... that\r\n"
+"would be so much help. Oh, but where could I possibly find\r\n"
+"someone that would help out on such short notice..."
+msgstr ""
+
+msgctxt "952"
+msgid "Yeah, that might be tough."
+msgstr ""
+
+msgctxt "964"
+msgid ""
+"Well. Never mind about that. You're here for some of our\r\n"
+"delicious soba noodles, aren't you?"
+msgstr ""
+
+msgctxt "988"
+msgid "(I don't need to eat right now.)"
+msgstr ""
+
+msgctxt "1012"
+msgid "Thanks a lot!"
+msgstr ""
+
+msgctxt "1024"
+msgid "All set? Then come back and see us again!"
+msgstr ""
+
+msgctxt "1036"
+msgid ""
+"How about if I lend a hand? I'm sure you need all the help\r\n"
+"you can get."
+msgstr ""
+
+msgctxt "1048"
+msgid ""
+"Would you!? That would be wonderful! We just don't have\r\n"
+"enough delivery people here."
+msgstr ""
+
+msgctxt "1060"
+msgid "You'll have to visit three locations:"
+msgstr ""
+
+msgctxt "1072"
+msgid ""
+"The <Color:7>drugstore in Kariyushi Arcade<Color:Default>,\r\n"
+"the <Color:7>mahjong parlor on East Hatsumachi<Color:Default>,\r\n"
+"and the <Color:7>info center in Hatsumachi<Color:Default>."
+msgstr ""
+
+msgctxt "1084"
+msgid ""
+"The soba you'll be delivering is here in these boxes, so\r\n"
+"could you take them around to all three of those locations?"
+msgstr ""
+
+msgctxt "1096"
+msgid ""
+"You've got <Color:7>5 minutes<Color:Default>. I don't want to keep our\r\n"
+"customers waiting, so hop to it. I'll pay you a\r\n"
+"part-timer's wages if you do a good job!"
+msgstr ""
+
+msgctxt "1108"
+msgid ""
+"The <Color:7>drugstore in Kariyushi Arcade<Color:Default>,\r\n"
+"the <Color:7>mahjong parlor on East Hatsumachi<Color:Default>,\r\n"
+"and the <Color:7>info center in Hatsumachi<Color:Default>, huh?"
+msgstr ""
+
+msgctxt "1120"
+msgid ""
+"All right. I'll deliver these as quickly as humanly possible.\r\n"
+"Be right back."
+msgstr ""
+
+msgctxt "1180"
+msgid "Order Soba"
+msgstr ""
+
+msgctxt "1192"
+msgid "Help Deliver Soba"
+msgstr ""
+
+msgctxt "11232"
+msgid "Waraba Owner"
+msgstr ""
+
+msgctxt "11236"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "11240"
+msgid "Talk_Send"
+msgstr ""
+
+msgctxt "11244"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "11248"
+msgid "dummy"
+msgstr ""
+
+msgctxt "11252"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "11256"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "11260"
+msgid "Sync_Send"
+msgstr ""
+
+msgctxt "11264"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "11268"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "11272"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "11276"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "11280"
+msgid "Talk_Request"
+msgstr ""
+
+msgctxt "11284"
+msgid "Waraba Part-timer"
+msgstr ""
+
+msgctxt "11288"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "11292"
+msgid "Talk_Info_R"
+msgstr ""
+
+msgctxt "11296"
+msgid "Talk_Kosite_st"
+msgstr ""
+
+msgctxt "11300"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "11304"
+msgid "P_stand_tlk_kosite_yes"
+msgstr ""
+
+msgctxt "11308"
+msgid "MvRIK_stand_nml"
+msgstr ""
+
+msgctxt "11312"
+msgid "0"
+msgstr ""

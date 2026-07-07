@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "92"
+msgid "Shoot! I left my bag at the bar!"
+msgstr ""
+
+msgctxt "104"
+msgid ""
+"You must've had one too many. Don't you remember? You left it in a coin "
+"locker on Taihei Boulevard before going out..."
+msgstr ""
+
+msgctxt "116"
+msgid "Oh, that's right. Heh. I totally forgot."
+msgstr ""
+
+msgctxt "128"
+msgid "Uh-oh! Where did I put that key?"
+msgstr ""
+
+msgctxt "140"
+msgid "You gotta be kidding me..."
+msgstr ""
+
+msgctxt "852"
+msgid "Careless Ukai"
+msgstr ""
+
+msgctxt "856"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "860"
+msgid "Careful Shikata"
+msgstr ""
+
+msgctxt "864"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "868"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "872"
+msgid "Talk_Quest"
+msgstr ""

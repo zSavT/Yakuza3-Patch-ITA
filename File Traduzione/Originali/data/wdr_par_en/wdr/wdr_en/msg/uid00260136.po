@@ -1,0 +1,94 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid "*pant* *pant* I'm sorry... I just... couldn't help myself..."
+msgstr ""
+
+msgctxt "76"
+msgid "Whatever. Just give me back my money."
+msgstr ""
+
+msgctxt "88"
+msgid "Wh...What!? No way... I think⑬I think I dropped it..."
+msgstr ""
+
+msgctxt "100"
+msgid "Uh-huh."
+msgstr ""
+
+msgctxt "112"
+msgid ""
+"Oh, wait! Found it! It was here all along! Hahaha... This is all I've got "
+"in my wallet!"
+msgstr ""
+
+msgctxt "124"
+msgid "You got <Color:8>100,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "136"
+msgid "Well... uh... catch you later!"
+msgstr ""
+
+msgctxt "148"
+msgid "(Man. You can never let your guard down with people like that around...)"
+msgstr ""
+
+msgctxt "172"
+msgid "You got 5,000 EXP."
+msgstr ""
+
+msgctxt "2000"
+msgid "Pickpocket"
+msgstr ""
+
+msgctxt "2004"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "2008"
+msgid "Talk_Udekumi_st"
+msgstr ""
+
+msgctxt "2012"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "2016"
+msgid "Talk_Udekumi_ed"
+msgstr ""
+
+msgctxt "2020"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "2024"
+msgid "Talk_Send"
+msgstr ""
+
+msgctxt "2028"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "2032"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "2036"
+msgid "dummy"
+msgstr ""
+
+msgctxt "2040"
+msgid "0"
+msgstr ""

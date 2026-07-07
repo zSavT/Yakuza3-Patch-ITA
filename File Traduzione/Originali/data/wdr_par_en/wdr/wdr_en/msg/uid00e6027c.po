@@ -1,0 +1,140 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "136"
+msgid ""
+"Ｏｈ，　Ｋｉｒｙｕ！　Ｍｙ　ｋｎｉｇｈｔ　ｉｎ\r\n"
+"ｓｈｉｎｉｎｇ　ａｒｍｏｒ！"
+msgstr ""
+
+msgctxt "148"
+msgid "Hey, good to see you."
+msgstr ""
+
+msgctxt "160"
+msgid ""
+"Ｗｈｙ　ｄｏｎ'ｔ　ｙｏｕ　ｃｏｍｅ　ｔｏ　ｍｙ\r\n"
+"ｒｏｏｍ　ｓｏ　ｗｅ　ｃａｎ　ｈａｖｅ　ａ\r\n"
+"ｌｉｔｔｌｅ．．．　ｆｕｎ？"
+msgstr ""
+
+msgctxt "172"
+msgid "(...What could she possibly be saying right now?)"
+msgstr ""
+
+msgctxt "184"
+msgid ""
+"(If only I had read that handbook... then maybe I'd have a\r\n"
+"clue. Right now it's all gibberish to me.)"
+msgstr ""
+
+msgctxt "196"
+msgid ""
+"Ｃａｎ'ｔ　ｙｏｕ　ｕｎｄｅｒｓｔａｎｄ　ｍｅ？\r\n"
+"Ｎｏｔ　ｅｖｅｎ　ａ　ｌｉｔｔｌｅ．．．？"
+msgstr ""
+
+msgctxt "208"
+msgid ""
+"(The English handbook mentioned something along the lines of\r\n"
+"what she said. Or at least what I thought she said. English\r\n"
+"can be a beast sometimes...)"
+msgstr ""
+
+msgctxt "220"
+msgid ""
+"Ｌｅｔ'ｓ　ｍａｋｅ　ｓｗｅｅｔ，\r\n"
+"ｐａｓｓｉｏｎａｔｅ　ｌｏｖｅ，　Ｋｉｒｙｕ．"
+msgstr ""
+
+msgctxt "232"
+msgid "(If she's asking for my love, then the only right answer is...)"
+msgstr ""
+
+msgctxt "244"
+msgid "Ｙｅｓ，　ｐｌｅａｓｅ！"
+msgstr ""
+
+msgctxt "256"
+msgid ""
+"Ｏｈ，　Ｋｉｒｙｕ！　Ｉ　ｋｎｅｗ　ｙｏｕ\r\n"
+"ｗｅｒｅ　ａ　ｒｅａｌ　ｍａｎ！"
+msgstr ""
+
+msgctxt "268"
+msgid ""
+"Ｎｏｗ　ｃｏｍｅ　ｓｈｏｗ　ｍｅ　ｈｏｗ　ｒｅａｌ\r\n"
+"ｙｏｕ　ａｒｅ．　Ｌｅｔ'ｓ　ｇｏ！"
+msgstr ""
+
+msgctxt "292"
+msgid "Ｎｏ　ｔｈａｎｋｓ．"
+msgstr ""
+
+msgctxt "304"
+msgid ""
+"Ｏｈ．．．　Ｉ　ｇｕｅｓｓ　Ｉ　ｗａｓ　ａ\r\n"
+"ｌｉｔｔｌｅ　ｔｏｏ　ｆｏｒｗａｒｄ，　ｈｕｈ？"
+msgstr ""
+
+msgctxt "352"
+msgid "Ｙｅｓ，　ｐｌｅａｓｅ！"
+msgstr ""
+
+msgctxt "364"
+msgid "Ｎｏ　ｔｈａｎｋｓ．"
+msgstr ""
+
+msgctxt "3552"
+msgid "Stacy"
+msgstr ""
+
+msgctxt "3556"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "3560"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "3564"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "3568"
+msgid "F_sxy_sitchr_tlk_kamae"
+msgstr ""
+
+msgctxt "3572"
+msgid "F_sxy_stand"
+msgstr ""
+
+msgctxt "3576"
+msgid "F_sxy_stand_sync_dakitukiA_st"
+msgstr ""
+
+msgctxt "3580"
+msgid "P_stand_sync_dakitukiA_st"
+msgstr ""
+
+msgctxt "3584"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "3588"
+msgid "dummy"
+msgstr ""
+
+msgctxt "3592"
+msgid "0"
+msgstr ""

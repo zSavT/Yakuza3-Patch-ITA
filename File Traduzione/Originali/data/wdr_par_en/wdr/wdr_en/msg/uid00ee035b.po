@@ -1,0 +1,279 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "184"
+msgid "Good morning, Kiryu-san. It's nice to see you today."
+msgstr ""
+
+msgctxt "304"
+msgid "You came back, Kiryu-san!"
+msgstr ""
+
+msgctxt "316"
+msgid ""
+"Please help us raise another number one hostess! I'm sure\r\n"
+"you can do it, no problem!"
+msgstr ""
+
+msgctxt "328"
+msgid ""
+"Well, let's get right down to business. You'll need to hit\r\n"
+"the streets and scout for some fresh new talent. Koji will\r\n"
+"be here to help you with anything you don't understand."
+msgstr ""
+
+msgctxt "352"
+msgid ""
+"Actually, there's a girl named Natsume who works at the\r\n"
+"club..."
+msgstr ""
+
+msgctxt "364"
+msgid ""
+"She's the number one hostess on the roster. She's pretty,\r\n"
+"she brings in the crowd... She's even got wealthy members of\r\n"
+"the elite wrapped around her finger. It's unbelievable."
+msgstr ""
+
+msgctxt "376"
+msgid "Oh. That's a good thing, right?"
+msgstr ""
+
+msgctxt "388"
+msgid ""
+"Well, not exactly. Natsume has started using her status as\r\n"
+"leverage to influence the club's business decisions."
+msgstr ""
+
+msgctxt "400"
+msgid ""
+"On top of that, she's developed a terrible attitude at work,\r\n"
+"and it seems she wants me fired from the club."
+msgstr ""
+
+msgctxt "412"
+msgid "Oh... Why don't you fire her first, then?"
+msgstr ""
+
+msgctxt "424"
+msgid ""
+"I can't do that. She's responsible for so much of our\r\n"
+"revenue that losing her would completely be the end of us.\r\n"
+"Sassy as she is..."
+msgstr ""
+
+msgctxt "436"
+msgid ""
+"I just don't understand how a person could start out with\r\n"
+"such passion and optimism, yet turn out so cold and\r\n"
+"conniving... Maybe if I wasn't such a fool of a manager..."
+msgstr ""
+
+msgctxt "448"
+msgid "......"
+msgstr ""
+
+msgctxt "460"
+msgid ""
+"Oh, well if it isn't our hard-working \"manager.\" Just what\r\n"
+"are you plotting over here?"
+msgstr ""
+
+msgctxt "472"
+msgid "Oh! Natsume-chan."
+msgstr ""
+
+msgctxt "484"
+msgid ""
+"Hmm, haven't seen you around here before. Well, doesn't matter. I'm off to "
+"Hawaii as it is. Hold down the fort for me, 'kay?"
+msgstr ""
+
+msgctxt "496"
+msgid "Hey, you can't just up and abandon us! This is your job!"
+msgstr ""
+
+msgctxt "508"
+msgid ""
+"Not to burst your bubble, but my ride's almost here. Catch\r\n"
+"you later, daddio!"
+msgstr ""
+
+msgctxt "568"
+msgid "Aggghhhh..."
+msgstr ""
+
+msgctxt "580"
+msgid "(He really has no control over her, huh?)"
+msgstr ""
+
+msgctxt "592"
+msgid "...Hey, wait! I just had the best idea!"
+msgstr ""
+
+msgctxt "604"
+msgid "Why don't you work at our club for a while?"
+msgstr ""
+
+msgctxt "616"
+msgid "What!?"
+msgstr ""
+
+msgctxt "628"
+msgid ""
+"It'll be great! You come work for us, bring in some cash for\r\n"
+"yourself, and coach a fine young lady to knock Natsume off her throne!"
+msgstr ""
+
+msgctxt "640"
+msgid ""
+"I have a hunch that she's the type that'll only come to her\r\n"
+"senses once she loses that top position."
+msgstr ""
+
+msgctxt "652"
+msgid ""
+"And I'll admit my leadership hasn't amounted to much... But\r\n"
+"I'm sure you've got the grit to get the job done. So! When\r\n"
+"can you start!?"
+msgstr ""
+
+msgctxt "664"
+msgid "You're asking the wrong guy."
+msgstr ""
+
+msgctxt "676"
+msgid ""
+"Oh, don't say that! Our staff here will be more than happy\r\n"
+"to give you all the support you need. Won't you reconsider?"
+msgstr ""
+
+msgctxt "688"
+msgid ""
+"Well, I don't know if I'll be of much help... but I suppose\r\n"
+"I could give it a shot."
+msgstr ""
+
+msgctxt "700"
+msgid "Trust me, you'd be helping us out plenty!"
+msgstr ""
+
+msgctxt "712"
+msgid "Allow me to introduce myself, then. I'm Sakaki, and you are?"
+msgstr ""
+
+msgctxt "724"
+msgid "I'm Kiryu."
+msgstr ""
+
+msgctxt "736"
+msgid "Kiryu-san, I'd like you to recruit a new hostess right away."
+msgstr ""
+
+msgctxt "748"
+msgid ""
+"Wait, I'm not going to be coaching the hostesses already\r\n"
+"working for you?"
+msgstr ""
+
+msgctxt "760"
+msgid ""
+"I'm afraid all our girls have fallen under Natsume's\r\n"
+"spell, so there won't be much you can do. It'd be far more\r\n"
+"effective to start with someone you brought in yourself."
+msgstr ""
+
+msgctxt "772"
+msgid "...I guess that makes sense."
+msgstr ""
+
+msgctxt "784"
+msgid ""
+"Also, here are some operating funds. Sorry it's not much,\r\n"
+"but it'll be useful for at least a few major expenses."
+msgstr ""
+
+msgctxt "796"
+msgid "You got <Color:8>100,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "808"
+msgid ""
+"Let's hop right to it, then. I'll have one of our staff\r\n"
+"members bring you up to speed... Ah, how about Koji?\r\n"
+"He'll know what to do."
+msgstr ""
+
+msgctxt "832"
+msgid "Accept"
+msgstr ""
+
+msgctxt "844"
+msgid "Decline"
+msgstr ""
+
+msgctxt "856"
+msgid "Accept"
+msgstr ""
+
+msgctxt "868"
+msgid "Decline"
+msgstr ""
+
+msgctxt "8680"
+msgid "Manager"
+msgstr ""
+
+msgctxt "8684"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "8688"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "8692"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "8696"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "8700"
+msgid "Talk_NoBig"
+msgstr ""
+
+msgctxt "8704"
+msgid "Woman"
+msgstr ""
+
+msgctxt "8708"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "8712"
+msgid "Natsume"
+msgstr ""
+
+msgctxt "8716"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "8720"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "8724"
+msgid "Sync_Send"
+msgstr ""

@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "499\t548"
+msgid "You didn't eat?"
+msgstr ""
+
+msgctxt "551\t643"
+msgid "Of course not! Not without Izumi!"
+msgstr ""
+
+msgctxt "645\t751"
+msgid ""
+"Yeah, but now we're starving,\\n"
+"so hurry up and sit down!"
+msgstr ""
+
+msgctxt "753\t832"
+msgid "Your plate's over here, Izumi-chan!"
+msgstr ""
+
+msgctxt "860\t920"
+msgid "Okay!"
+msgstr ""
+
+msgctxt "1098\t1161"
+msgid "Let's go, Uncle Kaz!"
+msgstr ""
+
+msgctxt "1164\t1220"
+msgid "We wanna eat!"
+msgstr ""
+
+msgctxt "1221\t1261"
+msgid "Sorry."
+msgstr ""
+
+msgctxt "1356\t1446"
+msgid "All right. Everyone ready?"
+msgstr ""
+
+msgctxt "1448\t1528"
+msgid "Let's eat!"
+msgstr ""
+
+msgctxt "1666\t1726"
+msgid "Good, isn't it?"
+msgstr ""

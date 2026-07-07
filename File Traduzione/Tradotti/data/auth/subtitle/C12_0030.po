@@ -1,0 +1,64 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "566\t626"
+msgid "Sixth Chairman."
+msgstr ""
+
+msgctxt "850\t976"
+msgid ""
+"Sir.\\n"
+"It's Mr. Richardson."
+msgstr ""
+
+msgctxt "1115\t1205"
+msgid "Hello?"
+msgstr ""
+
+msgctxt "1210\t1300"
+msgid "Okay, got it."
+msgstr ""
+
+msgctxt "1321\t1367"
+msgid "No."
+msgstr ""
+
+msgctxt "1368\t1449"
+msgid "There's no change in the plan."
+msgstr ""
+
+msgctxt "1450\t1540"
+msgid "Bye."
+msgstr ""
+
+msgctxt "1619\t1695"
+msgid "Kiryu-san has left Okinawa."
+msgstr ""
+
+msgctxt "1706\t1797"
+msgid "He'll be joining us here soon enough."
+msgstr ""
+
+msgctxt "1798\t1856"
+msgid "How should we respond?"
+msgstr ""
+
+msgctxt "1857\t1930"
+msgid "We shouldn't."
+msgstr ""
+
+msgctxt "1931\t2050"
+msgid ""
+"Once \"they\" arrive...\\n"
+"it'll all be over."
+msgstr ""

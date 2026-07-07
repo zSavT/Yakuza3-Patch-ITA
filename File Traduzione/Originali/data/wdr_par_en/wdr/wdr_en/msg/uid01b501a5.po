@@ -1,0 +1,550 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "420"
+msgid "Welcome! Welcome! It's nice to see you again!"
+msgstr ""
+
+msgctxt "432"
+msgid "Hmm? Looks like you got a full house today."
+msgstr ""
+
+msgctxt "444"
+msgid "My employee's wife went into labor, and he had to rush to the hospital."
+msgstr ""
+
+msgctxt "456"
+msgid ""
+"Of course I'd like to be there with them, but look at all these customers. "
+"And I'm all alone here!"
+msgstr ""
+
+msgctxt "468"
+msgid "Anyway, what can I get you?"
+msgstr ""
+
+msgctxt "492"
+msgid "Welcome! Welcome! It's nice to see you again!"
+msgstr ""
+
+msgctxt "504"
+msgid "Sorry about this. My help hasn't come back yet, and we're packed today."
+msgstr ""
+
+msgctxt "516"
+msgid "Anyway, just let me know when you're ready to order!"
+msgstr ""
+
+msgctxt "528"
+msgid "I see..."
+msgstr ""
+
+msgctxt "540"
+msgid "You got it! Tell me what you want!"
+msgstr ""
+
+msgctxt "552"
+msgid "Why don't I help you out?"
+msgstr ""
+
+msgctxt "564"
+msgid "Really? You sure about that?"
+msgstr ""
+
+msgctxt "576"
+msgid ""
+"Yeah, sure. It's the least I can do for all the great ramen I've eaten "
+"here. What should I do?"
+msgstr ""
+
+msgctxt "588"
+msgid ""
+"Can you take orders from the customers for me? Just tell me the type of "
+"ramen each customer wants in the order they asked for it."
+msgstr ""
+
+msgctxt "600"
+msgid ""
+"Make sure not to mix up the customer order and the types of ramen each "
+"person wants!"
+msgstr ""
+
+msgctxt "612"
+msgid "All right. I'll give it a shot."
+msgstr ""
+
+msgctxt "624"
+msgid ""
+"Tell the owner which ramen each customer wants in the order they asked for "
+"it."
+msgstr ""
+
+msgctxt "636"
+msgid ""
+"If you mess up any orders, the customers will get mad. Focus, and take each "
+"order carefully."
+msgstr ""
+
+msgctxt "696"
+msgid "Chashu Tonkotsu Ramen"
+msgstr ""
+
+msgctxt "708"
+msgid "Mentaiko Tonkotsu Ramen!"
+msgstr ""
+
+msgctxt "720"
+msgid "Large Kyushu Tonkotsu Ramen"
+msgstr ""
+
+msgctxt "732"
+msgid "Double Stewed Pork Tonkotsu Ramen"
+msgstr ""
+
+msgctxt "744"
+msgid "Kyushu Tonkotsu Ramen, please!"
+msgstr ""
+
+msgctxt "756"
+msgid "Let's see, the first guy asked for..."
+msgstr ""
+
+msgctxt "768"
+msgid "One Mentaiko Tonkotsu Ramen coming up!"
+msgstr ""
+
+msgctxt "780"
+msgid "You got it! One Mentaiko Tonkotsu Ramen on the way!"
+msgstr ""
+
+msgctxt "804"
+msgid "One Kyushu Tonkotsu Ramen coming up!"
+msgstr ""
+
+msgctxt "816"
+msgid "You got it! One Kyushu Tonkotsu Ramen comin' up!"
+msgstr ""
+
+msgctxt "840"
+msgid "One Chashu Tonkotsu Ramen coming up!"
+msgstr ""
+
+msgctxt "852"
+msgid "You got it! One Chashu Tonkotsu Ramen comin' up!"
+msgstr ""
+
+msgctxt "876"
+msgid "The second guy wanted..."
+msgstr ""
+
+msgctxt "888"
+msgid "One Mentaiko Tonkotsu Ramen coming up!"
+msgstr ""
+
+msgctxt "900"
+msgid "You got it! One Mentaiko Tonkotsu Ramen comin' up!"
+msgstr ""
+
+msgctxt "924"
+msgid "One large Kyushu Tonkotsu Ramen coming up!"
+msgstr ""
+
+msgctxt "936"
+msgid "You got it! One large Kyushu Tonkotsu Ramen comin' up!"
+msgstr ""
+
+msgctxt "960"
+msgid "One Stewed Pork Tonkotsu Ramen coming up!"
+msgstr ""
+
+msgctxt "972"
+msgid "You got it! One Stewed Pork Tonkotsu Ramen comin' up!"
+msgstr ""
+
+msgctxt "996"
+msgid "I'm pretty sure the third customer asked for..."
+msgstr ""
+
+msgctxt "1008"
+msgid "One Double Stewed Pork Tonkotsu Ramen coming up!"
+msgstr ""
+
+msgctxt "1020"
+msgid "You got it! One Double Stewed Pork Tonkotsu Ramen comin' up!"
+msgstr ""
+
+msgctxt "1044"
+msgid "One large Kyushu Tonkotsu Ramen coming up!"
+msgstr ""
+
+msgctxt "1056"
+msgid "You got it! One large Kyushu Tonkotsu Ramen comin' up!"
+msgstr ""
+
+msgctxt "1080"
+msgid "One Egg Tonkotsu Ramen coming up!"
+msgstr ""
+
+msgctxt "1092"
+msgid "You got it! One Egg Tonkotsu Ramen comin' up!"
+msgstr ""
+
+msgctxt "1116"
+msgid "Then the fourth customer ordered..."
+msgstr ""
+
+msgctxt "1128"
+msgid "One large Kyushu Tonkotsu Ramen coming up!"
+msgstr ""
+
+msgctxt "1140"
+msgid "You got it! One large Kyushu Tonkotsu Ramen comin' up!"
+msgstr ""
+
+msgctxt "1164"
+msgid "One Mentaiko Tonkotsu Ramen coming up!"
+msgstr ""
+
+msgctxt "1176"
+msgid "You got it! One Mentaiko Tonkotsu Ramen comin' up!"
+msgstr ""
+
+msgctxt "1200"
+msgid "One Double Stewed Tonkotsu Ramen coming up!"
+msgstr ""
+
+msgctxt "1212"
+msgid "You got it! One Double Stewed Tonkotsu Ramen comin' up!"
+msgstr ""
+
+msgctxt "1236"
+msgid "And the last customer must've ordered..."
+msgstr ""
+
+msgctxt "1248"
+msgid "One Kyushu Tonkotsu Ramen coming up!"
+msgstr ""
+
+msgctxt "1260"
+msgid "You got it! One Kyushu Tonkotsu Ramen comin' up!"
+msgstr ""
+
+msgctxt "1284"
+msgid "One Chashu Tonkotsu Ramen coming up!"
+msgstr ""
+
+msgctxt "1296"
+msgid "You got it! One Chashu Tonkotsu Ramen comin' up!"
+msgstr ""
+
+msgctxt "1320"
+msgid "One Egg Tonkotsu Ramen coming up!"
+msgstr ""
+
+msgctxt "1332"
+msgid "You got it! One Egg Tonkotsu Ramen comin' up!"
+msgstr ""
+
+msgctxt "1380"
+msgid "What the hell is this? I ordered Chashu Tonkotsu Ramen here! Get with it!"
+msgstr ""
+
+msgctxt "1404"
+msgid ""
+"This isn't what I ordered! I very specifically asked for the Mentaiko "
+"Tonkotsu Ramen!"
+msgstr ""
+
+msgctxt "1428"
+msgid ""
+"Um, hello? I didn't order this. What part of \"large Kyushu Tonkotsu "
+"Ramen\" did you not understand, hmm?"
+msgstr ""
+
+msgctxt "1452"
+msgid ""
+"This slop ain't what I asked for! How many damn times do I gotta say it!? "
+"Double Stewed Tonkotsu Ramen!"
+msgstr ""
+
+msgctxt "1476"
+msgid ""
+"Excuse me, this isn't what I ordered. Could I get a bowl of Kyushu Tonkotsu "
+"Ramen, please?"
+msgstr ""
+
+msgctxt "1548"
+msgid ""
+"You were really on fire today. Hell, you probably even did better than my "
+"part-timer."
+msgstr ""
+
+msgctxt "1560"
+msgid "Check, please."
+msgstr ""
+
+msgctxt "1572"
+msgid "Thanks so much for your business! Please come again!"
+msgstr ""
+
+msgctxt "1644"
+msgid "Looks like it finally calmed down in here. Now then..."
+msgstr ""
+
+msgctxt "1656"
+msgid ""
+"Here's your payment for the day. You really helped me a lot, so I added a "
+"little extra."
+msgstr ""
+
+msgctxt "1668"
+msgid "You got <Color:8>20,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "1740"
+msgid "You got 5,000 EXP."
+msgstr ""
+
+msgctxt "1752"
+msgid "Well, it wasn't perfect, but you sure helped me get through the day."
+msgstr ""
+
+msgctxt "1764"
+msgid "Check, please."
+msgstr ""
+
+msgctxt "1776"
+msgid "Thanks so much for your business! Please come again!"
+msgstr ""
+
+msgctxt "1848"
+msgid "Looks like it finally calmed down in here. Now then..."
+msgstr ""
+
+msgctxt "1860"
+msgid ""
+"Here's your payment for the day.\r\n"
+"Don't be bashful now."
+msgstr ""
+
+msgctxt "1872"
+msgid "You got <Color:8>10,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "1944"
+msgid "You got 5,000 EXP."
+msgstr ""
+
+msgctxt "1956"
+msgid "What the hell was that? I would'a been better off on my own..."
+msgstr ""
+
+msgctxt "1968"
+msgid "Sorry..."
+msgstr ""
+
+msgctxt "1980"
+msgid "Check, please."
+msgstr ""
+
+msgctxt "1992"
+msgid "Thanks so much for your business! Please come again!"
+msgstr ""
+
+msgctxt "2064"
+msgid "Looks like it finally calmed down in here. Now then..."
+msgstr ""
+
+msgctxt "2076"
+msgid "Here's your payment for the day. Well... Good enough, I suppose."
+msgstr ""
+
+msgctxt "2088"
+msgid "You got <Color:8>5,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "2160"
+msgid "You got 5,000 EXP."
+msgstr ""
+
+msgctxt "2172"
+msgid ""
+"What the hell was that? You didn't get a single order right. Sheesh, I "
+"would'a been better off on my own."
+msgstr ""
+
+msgctxt "2184"
+msgid "Sorry..."
+msgstr ""
+
+msgctxt "2196"
+msgid "Check, please."
+msgstr ""
+
+msgctxt "2208"
+msgid "Thanks so much for your business! Please come again!"
+msgstr ""
+
+msgctxt "2280"
+msgid "Looks like it finally calmed down in here. Now then..."
+msgstr ""
+
+msgctxt "2292"
+msgid ""
+"I suppose your intentions were good, so here's a little something for your "
+"help."
+msgstr ""
+
+msgctxt "2304"
+msgid "You got <Color:8>1,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "2376"
+msgid "You got 5,000 EXP."
+msgstr ""
+
+msgctxt "2388"
+msgid "Help Him Out"
+msgstr ""
+
+msgctxt "2400"
+msgid "Order Something"
+msgstr ""
+
+msgctxt "2412"
+msgid "Mentaiko Tonkotsu Ramen"
+msgstr ""
+
+msgctxt "2424"
+msgid "Kyushu Tonkotsu Ramen"
+msgstr ""
+
+msgctxt "2436"
+msgid "Chashu Tonkotsu Ramen"
+msgstr ""
+
+msgctxt "2448"
+msgid "Mentaiko Tonkotsu Ramen"
+msgstr ""
+
+msgctxt "2460"
+msgid "Large Kyushu Tonkotsu Ramen"
+msgstr ""
+
+msgctxt "2472"
+msgid "Stewed Pork Tonkotsu Ramen"
+msgstr ""
+
+msgctxt "2484"
+msgid "Double Stewed Pork Tonkotsu Ramen"
+msgstr ""
+
+msgctxt "2496"
+msgid "Large Kyushu Tonkotsu Ramen"
+msgstr ""
+
+msgctxt "2508"
+msgid "Egg Tonkotsu Ramen"
+msgstr ""
+
+msgctxt "2520"
+msgid "Large Kyushu Tonkotsu Ramen"
+msgstr ""
+
+msgctxt "2532"
+msgid "Mentaiko Tonkotsu Ramen"
+msgstr ""
+
+msgctxt "2544"
+msgid "Double Stewed Tonkotsu Ramen"
+msgstr ""
+
+msgctxt "2556"
+msgid "Kyushu Tonkotsu Ramen"
+msgstr ""
+
+msgctxt "2568"
+msgid "Chashu Tonkotsu Ramen"
+msgstr ""
+
+msgctxt "2580"
+msgid "Egg Tonkotsu Ramen"
+msgstr ""
+
+msgctxt "20504"
+msgid "Owner of Kyushu No. 1 Star"
+msgstr ""
+
+msgctxt "20508"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "20512"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "20516"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "20520"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "20524"
+msgid "Ramen Shop Trainee"
+msgstr ""
+
+msgctxt "20528"
+msgid "Businessman"
+msgstr ""
+
+msgctxt "20532"
+msgid "Civil Servant"
+msgstr ""
+
+msgctxt "20536"
+msgid "College Student"
+msgstr ""
+
+msgctxt "20540"
+msgid "Man"
+msgstr ""
+
+msgctxt "20544"
+msgid "High School Student"
+msgstr ""
+
+msgctxt "20548"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "20552"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "20556"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "20560"
+msgid "dummy"
+msgstr ""
+
+msgctxt "20564"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "20568"
+msgid "Talk_Gakkari"
+msgstr ""

@@ -1,0 +1,86 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "112"
+msgid ""
+"(This balloon is pretty much deflated, but maybe the kid\r\n"
+"will want it anyway.)"
+msgstr ""
+
+msgctxt "124"
+msgid "Um... Excuse me, sir... But is that your balloon?"
+msgstr ""
+
+msgctxt "136"
+msgid "No... Some kid who got lost asked me to get this for him."
+msgstr ""
+
+msgctxt "148"
+msgid ""
+"He told me he couldn't see his mom again if he didn't have it. And after "
+"seeing him cry the way he did, there's no way I could turn him down."
+msgstr ""
+
+msgctxt "160"
+msgid "By any chance... Would this child be around ten years old?"
+msgstr ""
+
+msgctxt "172"
+msgid ""
+"Yeah, I'd say he's about that age... Wait a minute, you\r\n"
+"wouldn't happen to be his mother, would you?"
+msgstr ""
+
+msgctxt "184"
+msgid "Yes, I am! Could you please take me to him?"
+msgstr ""
+
+msgctxt "196"
+msgid "Sure. Follow me."
+msgstr ""
+
+msgctxt "2296"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "2300"
+msgid "Woman"
+msgstr ""
+
+msgctxt "2304"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "2308"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "2312"
+msgid "Talk_Kosite_st"
+msgstr ""
+
+msgctxt "2316"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "2320"
+msgid "Talk_Kosite_ed"
+msgstr ""
+
+msgctxt "2324"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "2328"
+msgid "Talk_Info_R"
+msgstr ""

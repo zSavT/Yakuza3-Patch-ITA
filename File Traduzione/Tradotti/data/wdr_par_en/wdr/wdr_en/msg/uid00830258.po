@@ -1,0 +1,84 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid "Excuse me, Kiryu-san?"
+msgstr ""
+
+msgctxt "76"
+msgid "Who's asking?"
+msgstr ""
+
+msgctxt "88"
+msgid "The name's Rick Langley, sir, with the CIA."
+msgstr ""
+
+msgctxt "100"
+msgid "I'm here with a message for you from Joji Kazama."
+msgstr ""
+
+msgctxt "112"
+msgid "A message, huh?"
+msgstr ""
+
+msgctxt "124"
+msgid "That's right, sir."
+msgstr ""
+
+msgctxt "136"
+msgid ""
+"He said if you want to go back to Okinawa, you'll need to first take a taxi "
+"to Yokoda Airfield, then hop on a jet down."
+msgstr ""
+
+msgctxt "148"
+msgid ""
+"Joji is on his way here as we speak. He will be seeing you\r\n"
+"soon enough, I imagine."
+msgstr ""
+
+msgctxt "160"
+msgid "Right. Tell him I said thanks."
+msgstr ""
+
+msgctxt "172"
+msgid "Of course. Goodbye, sir."
+msgstr ""
+
+msgctxt "1796"
+msgid "Foreign Man"
+msgstr ""
+
+msgctxt "1800"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1804"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "1808"
+msgid "Rick Langley"
+msgstr ""
+
+msgctxt "1812"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "1816"
+msgid "dummy"
+msgstr ""
+
+msgctxt "1820"
+msgid "0"
+msgstr ""

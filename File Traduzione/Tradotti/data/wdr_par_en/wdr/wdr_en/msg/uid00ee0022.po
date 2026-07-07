@@ -1,0 +1,89 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid "Whoa, that was insane! Did you see those moves!?"
+msgstr ""
+
+msgctxt "76"
+msgid "Can't believe he actually got hit! Now there's a first!"
+msgstr ""
+
+msgctxt "88"
+msgid "Ooohh... Agh..."
+msgstr ""
+
+msgctxt "100"
+msgid "Looks like I won."
+msgstr ""
+
+msgctxt "112"
+msgid ""
+"Crap in a hat, you're strong! Just like back in the day...\r\n"
+"Maybe even moreso! Guess I need to ramp up my training\r\n"
+"regimen, huh?"
+msgstr ""
+
+msgctxt "124"
+msgid "Well, here's your prize money. 50 grand in cold, hard cash."
+msgstr ""
+
+msgctxt "136"
+msgid "You got <Color:8>50,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "148"
+msgid "Thanks."
+msgstr ""
+
+msgctxt "160"
+msgid ""
+"Come challenge me again anytime. But I gotta warn ya...\r\n"
+"Next time, you won't be so lucky."
+msgstr ""
+
+msgctxt "208"
+msgid "You got 3,000 EXP."
+msgstr ""
+
+msgctxt "1940"
+msgid "Onlooker"
+msgstr ""
+
+msgctxt "1944"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "1948"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "1952"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "1956"
+msgid "Mr. Try and Hit Me"
+msgstr ""
+
+msgctxt "1960"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1964"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "1968"
+msgid "Sync_Send"
+msgstr ""

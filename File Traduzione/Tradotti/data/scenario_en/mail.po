@@ -1,0 +1,2454 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "7532"
+msgid "Yamashiro Express"
+msgstr ""
+
+msgctxt "7550"
+msgid "Mail Box"
+msgstr ""
+
+msgctxt "7559"
+msgid ""
+"Letters to Kiryu are delivered to this box. The box glows when a new "
+"message has been delivered. Check the box from time to time for new mail. "
+"You have to take a letter from the box before you can read it. Special "
+"deliveries may also be made by carrier pigeon. Large packages are delivered "
+"by couriers. Thank you for using Yamashiro Express!"
+msgstr ""
+
+msgctxt "7901"
+msgid "Rikiya"
+msgstr ""
+
+msgctxt "7908"
+msgid "It's ready!"
+msgstr ""
+
+msgctxt "7920"
+msgid "The ring's ready, Aniki! <Color:1><Sign:13><Color:Default>"
+msgstr ""
+
+msgctxt "7979"
+msgid "The kids are all waiting, so head down to the beach ASAP!"
+msgstr ""
+
+msgctxt "8037"
+msgid "Rikiya here!"
+msgstr ""
+
+msgctxt "8050"
+msgid ""
+"Aniki! There's a huge building up the street! Wow, that thing's freaking "
+"massive! Never seen one so big! Now I know I'm really in Tokyo! ^^"
+msgstr ""
+
+msgctxt "8190"
+msgid "The street I'm on has lots of stores."
+msgstr ""
+
+msgctxt "8228"
+msgid "Rikiya here!<Color:1><Sign:13><Color:Default>"
+msgstr ""
+
+msgctxt "8274"
+msgid "Finally found a good landmark! A convenience store!"
+msgstr ""
+
+msgctxt "8326"
+msgid "I'm out in front of it now!"
+msgstr ""
+
+msgctxt "8354"
+msgid "Where are you, Aniki?"
+msgstr ""
+
+msgctxt "8376"
+msgid "Rikiya here!<Color:1><Sign:7><Color:Default>"
+msgstr ""
+
+msgctxt "8421"
+msgid "Where are you, Aniki? I'm getting tired of waiting..."
+msgstr ""
+
+msgctxt "8475"
+msgid "Rikiya here!<Color:1><Sign:6><Color:Default>"
+msgstr ""
+
+msgctxt "8520"
+msgid "Where are you, Aniki!? You're not blowing me off, are you!?"
+msgstr ""
+
+msgctxt "8580"
+msgid "Great news, Aniki!"
+msgstr ""
+
+msgctxt "8599"
+msgid ""
+"Forgot to tell you we cleaned out a room for you at the Ryudo Family "
+"office. Use it any time you want! It can be your hideout or something! You "
+"know, like a place away from the kids!"
+msgstr ""
+
+msgctxt "8782"
+msgid "Mack"
+msgstr ""
+
+msgctxt "8787"
+msgid "A Smack of Mack! <Color:1><Sign:48><Color:Default>"
+msgstr ""
+
+msgctxt "8838"
+msgid ""
+"How's it swinging, Kiryu-san? Just wanted to fill you in on some juicy "
+"deets I slurped up the other day. <Color:1><Sign:16><Color:Default>"
+msgstr ""
+
+msgctxt "8977"
+msgid ""
+"You know Hatsumachi, yeah? Tons of interesting-looking people roaming "
+"around there, lemme tell you!"
+msgstr ""
+
+msgctxt "9077"
+msgid ""
+"Speaking of, there's this old dude you might wanna try to find! Just "
+"concentrate real hard once you do to take in the glory! (Word on the street "
+"is, you gotta press the  "
+"<Color:1><Action:Button_R3@Adventure><Color:Default> to concentrate!)"
+msgstr ""
+
+msgctxt "9317"
+msgid "Mack's Back!"
+msgstr ""
+
+msgctxt "9330"
+msgid ""
+"Surf's up, Kiryu-san! That's how the bros in California say hello. Anyway, "
+"Japanese is kinda tough! My girlfriend's been teaching me, but I just end "
+"up using all sorts of weird words. Hope you don't mind if I unleash some of "
+"my practice on you!"
+msgstr ""
+
+msgctxt "9575"
+msgid ""
+"Anyway, I'll hit you up whenever I get some sweet deets on the perfect "
+"shot. Stay tuned for more!"
+msgstr ""
+
+msgctxt "9673"
+msgid "Oh, and don't forget to upload your shots to a blog!"
+msgstr ""
+
+msgctxt "9726"
+msgid "The Scent of Mack<Color:1><Sign:49><Color:Default>"
+msgstr ""
+
+msgctxt "9777"
+msgid ""
+"Sorry for getting you all tied up earlier, Kiryu-san. "
+"<Color:1><Sign:3><Color:Default> But man, you don't waste any time getting "
+"what you want! <Color:1><Sign:21><Color:Default>"
+msgstr ""
+
+msgctxt "9955"
+msgid ""
+"By the way, my girlfriend's been hammering more and more Japanese into my "
+"brainhole, so I think I'm getting pretty good! Mind if I keep practicing "
+"with you? <Color:1><Sign:3><Color:Default>"
+msgstr ""
+
+msgctxt "10145"
+msgid ""
+"And before I forget, I got news for you! There are rumors floating around "
+"town like a pungent fart⑬some sauced up thugs have been pretending to pole "
+"dance outside of Club Asia! You know, the bikini bar!"
+msgstr ""
+
+msgctxt "10350"
+msgid ""
+"I hear you gotta go inside and watch the show first, then you can walk out "
+"and watch another!"
+msgstr ""
+
+msgctxt "10444"
+msgid "Mack in Action"
+msgstr ""
+
+msgctxt "10459"
+msgid "Here I am for all your photo needs, Kiryu-san!"
+msgstr ""
+
+msgctxt "10506"
+msgid ""
+"So, one of my boys told me about this beauty he's been eyeballing, girl "
+"called the Judo Girl over on Tenkaichi Street in Kamurocho! Just look for a "
+"broad in a school uniform and glasses, and that's your girl."
+msgstr ""
+
+msgctxt "10715"
+msgid ""
+"Anyways, my friend was macking on her real hard, not taking no for an "
+"answer... when suddenly she just picked him up and tossed him flat on his "
+"ass! <Color:1><Sign:12><Color:Default>"
+msgstr ""
+
+msgctxt "10898"
+msgid ""
+"Man, I can picture it now! She's like some kinda wild beast behind those "
+"bookworm glasses, you know?"
+msgstr ""
+
+msgctxt "10999"
+msgid "Bet she'd make a dang good shot if you ever find yourself up there!"
+msgstr ""
+
+msgctxt "11067"
+msgid "Peace!"
+msgstr ""
+
+msgctxt "11074"
+msgid "Mack in the House!<Color:1><Sign:16><Color:Default>"
+msgstr ""
+
+msgctxt "11126"
+msgid ""
+"My Japanese is getting better with every breath I take of this sweet "
+"Japanese air, Kiryu-san! Probably helps that I've been spending mad time "
+"with my girl, too. I love her to pieces, lemme tell you, but she kiiinda "
+"texts me way too much? <Color:1><Sign:10><Color:Default> Least I'm getting "
+"lots of Japanese practice! <Color:1><Sign:13><Color:Default>"
+msgstr ""
+
+msgctxt "11477"
+msgid ""
+"Anyway, I saw these lovebirds over at the Kamurocho batting cages, and I "
+"got this feeling the guy's gonna do something you don't wanna miss!"
+msgstr ""
+
+msgctxt "11618"
+msgid ""
+"Btdubs you ever hear of dumb love? It's like, where you're so in love with "
+"someone, you act like an idiot around them! That's what those two at the "
+"batting cages are like! Me and my girl, too. "
+"<Color:1><Sign:0><Color:Default>"
+msgstr ""
+
+msgctxt "11844"
+msgid "Nothing But Mack! <Color:1><Sign:3><Color:Default>"
+msgstr ""
+
+msgctxt "11895"
+msgid ""
+"Heyo, Kiryu-san! <Color:1><Sign:43><Color:Default> Lemme cut to the chase: "
+"I got another shot for you. <Color:1><Sign:47><Color:Default> There's this "
+"rocking soba joint in the southeast part of Kamurocho, but the owner's "
+"totally bonkers. <Color:1><Sign:35><Color:Default> Apparently his noodles "
+"suffer for it!"
+msgstr ""
+
+msgctxt "12205"
+msgid ""
+"Anyways, keep your eyeballs trained on that owner and your chance'll come "
+"in no time flat! Probably when he hops on his bike, if I had to guess."
+msgstr ""
+
+msgctxt "12350"
+msgid "All Mack, All the Time!"
+msgstr ""
+
+msgctxt "12374"
+msgid ""
+"Kiryu-san! Hope you're swinging through the jungle of life like a monkey "
+"hopped up on banana juice! Anyways, I just got word the bowling alley in "
+"Kamurocho's a hotspot for weird shit!"
+msgstr ""
+
+msgctxt "12558"
+msgid ""
+"I dunno if there's a grain of truth to that, but you might wanna go take a "
+"peek! <Color:1><Sign:13><Color:Default>"
+msgstr ""
+
+msgctxt "12673"
+msgid ""
+"Btdubs, I've been learning a ton of Japanese from this DVD I picked up the "
+"other day. I had no idea you could use tentacles for THAT!"
+msgstr ""
+
+msgctxt "12807"
+msgid "Mack in Motion! <Color:1><Sign:43><Color:Default>"
+msgstr ""
+
+msgctxt "12857"
+msgid "Kiryu-san! <Color:1><Sign:4><Color:Default>"
+msgstr ""
+
+msgctxt "12901"
+msgid ""
+"There's this whiny little kid always begging his poor papa to buy him a toy "
+"over on Park Boulevard, but his dad always shuts him down!"
+msgstr ""
+
+msgctxt "13036"
+msgid ""
+"I thought they were tights on funds so I offered to buy something for the "
+"little tyke, but his dad blew a gasket! Nearly punched my lights out!"
+msgstr ""
+
+msgctxt "13180"
+msgid ""
+"I guess people don't like getting told how to parent! "
+"<Color:1><Sign:11><Color:Default>"
+msgstr ""
+
+msgctxt "13268"
+msgid ""
+"Anyways, kids and Kamurocho are like oil and water! It's the perfect "
+"contradiction that might just lead to the perfect shot! Peace!"
+msgstr ""
+
+msgctxt "13400"
+msgid "Crouching Tiger, Hidden Mack"
+msgstr ""
+
+msgctxt "13429"
+msgid "Kiryu-san! <Color:1><Sign:3><Color:Default>"
+msgstr ""
+
+msgctxt "13473"
+msgid ""
+"The perfect shot's practically staring me in the face these days, and I "
+"like how it looks! Pretty sure I'm gonna beat you to the punch, haha! "
+"<Color:1><Sign:4><Color:Default>"
+msgstr ""
+
+msgctxt "13648"
+msgid ""
+"Anyway, I heard this little tidbit and just had to share: Apparently "
+"there's a ninja in Kamurocho handing out tissue packs on Nakamichi Street! "
+"It's like we're extras in a real life samurai flick! Man, what I'd give to "
+"be on the silver screen, see my name up in lights... I can just imagine it "
+"now. Mack, Bigger, Better, and Badder!"
+msgstr ""
+
+msgctxt "13981"
+msgid ""
+"Well, good luck getting a shot of that ninja! Hope she's not too quick for "
+"your shutter!"
+msgstr ""
+
+msgctxt "14070"
+msgid "A Finely-Aged Mack <Color:1><Sign:43><Color:Default>"
+msgstr ""
+
+msgctxt "14123"
+msgid ""
+"Wassup, Kiryu-san! <Color:1><Sign:43><Color:Default> Word on the street is, "
+"you've been busting heads left and right down in Okinawa! How do I know? I "
+"just do, haha! Don't ask a man to share his secrets! "
+"<Color:1><Sign:43><Color:Default>"
+msgstr ""
+
+msgctxt "14361"
+msgid ""
+"Btdubs, I've been peeping this yakuza series on TV lately, and it's off the "
+"hook!"
+msgstr ""
+
+msgctxt "14443"
+msgid ""
+"But that's not what I wanted to tell you. Pal of mine down in Okinawa says "
+"there's some asshole plastered out of his mind over in Hatsumachi! And "
+"lemme tell you, not all drunks are created equal!"
+msgstr ""
+
+msgctxt "14639"
+msgid ""
+"Turns out this guy isn't just any old boozer, he also knows some real "
+"badass martial arts moves! What a combination, right!? Speaking of, you "
+"ever hear of the movie Drinking Tiger? It's all about that kickass martial "
+"artist Wong Fei Sung!"
+msgstr ""
+
+msgctxt "14878"
+msgid "Anyway, hop over to Hatsumachi and check this guy out when you get the time!"
+msgstr ""
+
+msgctxt "14955"
+msgid "IH Water Purifier"
+msgstr ""
+
+msgctxt "14973"
+msgid "Congratulations!"
+msgstr ""
+
+msgctxt "14990"
+msgid ""
+"Congratulations! You've been selected to test our company's brand new Super "
+"IH Water Purifier. Simply fill out a short survey for us, and the Super IH "
+"Water Purifier is yours! Please visit us at the address below so we can "
+"tell about our product and its installation procedure. Since this is our "
+"latest and greatest model, supplies are limited to the first 30 customers "
+"who stop by."
+msgstr ""
+
+msgctxt "15373"
+msgid "IH Water Purifier, Inc."
+msgstr ""
+
+msgctxt "15397"
+msgid "Park Blvd. Office, Kamurocho"
+msgstr ""
+
+msgctxt "15426"
+msgid "Casino boss"
+msgstr ""
+
+msgctxt "15438"
+msgid "Thank you."
+msgstr ""
+
+msgctxt "15449"
+msgid "Temp"
+msgstr ""
+
+msgctxt "15454"
+msgid "Violence Tobita stopped by."
+msgstr ""
+
+msgctxt "15482"
+msgid ""
+"Thank you. The thugs nearly pissed their pants when they saw Tobita. Still, "
+"if they come back in numbers, I doubt even he could handle them."
+msgstr ""
+
+msgctxt "15623"
+msgid ""
+"There's a guy named Iwakuma at the stew shop on East Shichifuku Street. "
+"He's training to be a sumo wrestler, but he's too wild to go pro. Still, "
+"his wild side could make him a good bouncer."
+msgstr ""
+
+msgctxt "15813"
+msgid ""
+"You wouldn't mind going over to meet Iwakuma and seeing if he's bouncer "
+"material, would you?"
+msgstr ""
+
+msgctxt "15906"
+msgid ""
+"That Iwakuma is out of control. He actually picked a fight with Tobita when "
+"he came to the Dragon Palace. Tobita's a cut above him, so it wasn't long "
+"till he sent Iwakuma flying, but nevertheless, Iwakuma's pretty good "
+"himself. Thank you so much."
+msgstr ""
+
+msgctxt "16153"
+msgid ""
+"This homeless fellow who lives behind Millennium Tower told me something "
+"interesting. It seems there's this former yakuza who left his family and "
+"went into hiding. Since my enemy's enemy is my ally, I'd like for you to "
+"get him to be my bouncer. In exchange, I'll guarantee his anonymity. "
+"Supposedly, you can find him in an alley on Tenkaichi St."
+msgstr ""
+
+msgctxt "16499"
+msgid ""
+"You wouldn't mind finding this former yakuza and seeing if he's bouncer "
+"material, would you?"
+msgstr ""
+
+msgctxt "16592"
+msgid ""
+"Thank you so much for persuading Nanba-san to be my bouncer. When it comes "
+"to yakuza, it takes one to know one. Thanks to Nanba-san, I can now get "
+"things done with fewer fights. Win without fighting! That's the way to go."
+msgstr ""
+
+msgctxt "16814"
+msgid ""
+"Unfortunately, those thugs still haven't stopped harassing us here at the "
+"casino. They've even started threatening us with stun guns and even real "
+"guns. And the owner of the bikini bar over on Pink St., who happens to be "
+"an old friend of mine, said they're being harassed by some kind of stalker. "
+"It seems he's a hardcore weapons nut, so the owner's too scared to chase "
+"the guy away. Now, if you could recruit him, we could kill two birds with "
+"one stone. The bikini bar would be safe again, and my casino would get "
+"another formidable bouncer."
+msgstr ""
+
+msgctxt "17357"
+msgid ""
+"You wouldn't mind going over to Pink St. and trying to recruit that weapons "
+"freak for me, would you?"
+msgstr ""
+
+msgctxt "17458"
+msgid ""
+"That weapons nut Hirano stopped by. He's been so busy tinkering with our "
+"weapons here at the Dragon Palace that he's forgotten all about the girls "
+"at the bikini bar, and the owner of the place is so thankful for our help. "
+"The only problem is Hirano is collecting the strangest weapons you've ever "
+"seen. We have no idea how to use them!"
+msgstr ""
+
+msgctxt "17794"
+msgid ""
+"We're almost rid of those thugs thanks to all the bouncers you've recruited "
+"for us. I think just one more would do the trick. And there just so happens "
+"to be a guy I've had my eyes on. His name is Gatling Sendo. He was pro "
+"boxer, but he got banned from competition because he was just too strong. "
+"If the Dragon Palace could get him, you wouldn't have to recruit any more "
+"bouncers for us."
+msgstr ""
+
+msgctxt "18182"
+msgid ""
+"I hear he's been losing himself in booze and babes since he was banned. A "
+"good place to start is MEB⑬you know, the place that provides info on "
+"Kamurocho. Get him and your job's done!"
+msgstr ""
+
+msgctxt "18367"
+msgid ""
+"Kiryu-san, Gatling Sendo came by. I was glad to see he's still as big and "
+"strong as when he was pulverizing opponents in the ring. Looks to me like "
+"he's been training as hard as ever. He even mentioned he wants to get back "
+"into the ring someday. And since I'm an expert on forging IDs and creating "
+"new identities, I think I might oblige him! Should be a piece of cake. "
+"Besides, I'm a huge fan of Sendo's. I get chills up my spine just thinking "
+"about seeing him pulverizing his opponents again."
+msgstr ""
+
+msgctxt "18861"
+msgid ""
+"Now that we have five bouncers, we should be able to deal with any thugs "
+"that come our way."
+msgstr ""
+
+msgctxt "18953"
+msgid ""
+"I'd like to thank you, so please stop by the casino when you have a moment. "
+"Hope to see you soon."
+msgstr ""
+
+msgctxt "19051"
+msgid "Miyu Shiraboshi"
+msgstr ""
+
+msgctxt "19067"
+msgid "I'm back!"
+msgstr ""
+
+msgctxt "19077"
+msgid "Miyu here! <Color:1><Sign:0><Color:Default>"
+msgstr ""
+
+msgctxt "19121"
+msgid ""
+"Just got back from Shizuoka! I'd sure like to see you. Stop by the club "
+"when you have time!"
+msgstr ""
+
+msgctxt "19213"
+msgid "('-^*)/"
+msgstr ""
+
+msgctxt "19221"
+msgid "Shiori Nagamori"
+msgstr ""
+
+msgctxt "19237"
+msgid "At work now<Color:1><Sign:0><Color:Default>"
+msgstr ""
+
+msgctxt "19281"
+msgid "Hey Kiryu-san, Shiori here. <Color:1><Sign:0><Color:Default>"
+msgstr ""
+
+msgctxt "19342"
+msgid ""
+"I'm at the club right now, so stop by if you're in the mood. "
+"<Color:1><Sign:1><Color:Default>"
+msgstr ""
+
+msgctxt "19436"
+msgid "I'll be waiting. <Color:1><Sign:16><Color:Default>"
+msgstr ""
+
+msgctxt "19487"
+msgid "Kana Momonogi"
+msgstr ""
+
+msgctxt "19501"
+msgid "Going to work!"
+msgstr ""
+
+msgctxt "19516"
+msgid "Kana here! o(^-^)o"
+msgstr ""
+
+msgctxt "19535"
+msgid "I'm gonna head to the club. Stop by if you've got time! See you later!"
+msgstr ""
+
+msgctxt "19606"
+msgid "Sorry!"
+msgstr ""
+
+msgctxt "19613"
+msgid "I'm really sorry... (；ω；)"
+msgstr ""
+
+msgctxt "19644"
+msgid "I didn't think you'd really come to see me... Sorry I wasn't there..."
+msgstr ""
+
+msgctxt "19714"
+msgid "Hi!"
+msgstr ""
+
+msgctxt "19718"
+msgid ""
+"Kana here. I had so much fun with you the other day. I'm going to the club "
+"now... You should come see me!"
+msgstr ""
+
+msgctxt "19824"
+msgid "If you want to, I mean. (>∀<)"
+msgstr ""
+
+msgctxt "19856"
+msgid "Sorry again!"
+msgstr ""
+
+msgctxt "19869"
+msgid "I'm really sorry... I ended up not going into work today. Forgive me! （；＿；）"
+msgstr ""
+
+msgctxt "19955"
+msgid "I didn't mean to disappoint you, Kiryu-san... I'm the worst. (T_T)"
+msgstr ""
+
+msgctxt "20022"
+msgid "Today's the day!"
+msgstr ""
+
+msgctxt "20039"
+msgid ""
+"Hi again! I promise I'll make it into work today. Please come by the "
+"club... If you don't mind seeing me, I mean."
+msgstr ""
+
+msgctxt "20153"
+msgid "Thank you!"
+msgstr ""
+
+msgctxt "20164"
+msgid "Thanks for coming today! <Color:1><Sign:0><Color:Default>"
+msgstr ""
+
+msgctxt "20222"
+msgid ""
+"You're so fun to hang out with, Kiryu-san! I'm a big fan of yours. "
+"<Color:1><Sign:1><Color:Default>"
+msgstr ""
+
+msgctxt "20322"
+msgid "Please come again soon! ('-^*)/"
+msgstr ""
+
+msgctxt "20354"
+msgid "I owe ya! (/ω＼)"
+msgstr ""
+
+msgctxt "20373"
+msgid "Thanks for asking for me tonight!<Color:1><Sign:0><Color:Default>"
+msgstr ""
+
+msgctxt "20439"
+msgid "You're such a great guy, Kiryu-san. <Color:1><Sign:0><Color:Default>"
+msgstr ""
+
+msgctxt "20508"
+msgid "I hope we get to spend more time together soon."
+msgstr ""
+
+msgctxt "20556"
+msgid "OMG! ∑ヾ(￣0￣; /"
+msgstr ""
+
+msgctxt "20579"
+msgid "I just saw this really cute dress today.<Color:1><Sign:13><Color:Default>"
+msgstr ""
+
+msgctxt "20653"
+msgid "It was absolutely gorgeous!<Color:1><Sign:26><Color:Default>"
+msgstr ""
+
+msgctxt "20714"
+msgid ""
+"But since it wasn't stretch fabric, I bet it won't fit. What kind of "
+"dresses do you like, Kiryu-san? Knowing you, probably the sexy "
+"kind.<Color:1><Sign:4><Color:Default>"
+msgstr ""
+
+msgctxt "20884"
+msgid "BTW... (･ω･)b"
+msgstr ""
+
+msgctxt "20903"
+msgid ""
+"I'm not at the club at the moment. Where am I? It's a secret! Just kidding! "
+"<Color:1><Sign:4><Color:Default>"
+msgstr ""
+
+msgctxt "21012"
+msgid ""
+"I'm out grabbing a bite with some girls from the club! Tell me about any "
+"yummy restaurants you know about, okay? Later! "
+"<Color:1><Sign:0><Color:Default>"
+msgstr ""
+
+msgctxt "21165"
+msgid "Shoulda seen it! Σ(･ω･/ ) /"
+msgstr ""
+
+msgctxt "21199"
+msgid ""
+"I just saw the cutest car! I couldn't believe my eyes. It was all "
+"pink.<Color:1><Sign:3><Color:Default>"
+msgstr ""
+
+msgctxt "21303"
+msgid ""
+"I would give anything for a car like that! "
+"<Color:1><Sign:0><Color:Default><Color:1><Sign:0><Color:Default><Color:1"
+"><Sign:0><Color:Default>"
+msgstr ""
+
+msgctxt "21443"
+msgid "Love you! ヽ(*・ω・)人(・ω・*)ノ"
+msgstr ""
+
+msgctxt "21485"
+msgid "2d_cf_mail_momoka"
+msgstr ""
+
+msgctxt "21503"
+msgid "I'm so glad I met you, Kiryu-san.<Color:1><Sign:0><Color:Default>"
+msgstr ""
+
+msgctxt "21569"
+msgid "I'll always treasure the memories we made today. ♪"
+msgstr ""
+
+msgctxt "21622"
+msgid ""
+"No matter how far apart we are, we're always "
+"connected.<Color:1><Sign:0><Color:Default>"
+msgstr ""
+
+msgctxt "21710"
+msgid "I love you, Kiryu-san.<Color:1><Sign:0><Color:Default>"
+msgstr ""
+
+msgctxt "21765"
+msgid "Reimi Hanayama"
+msgstr ""
+
+msgctxt "21780"
+msgid "Thanks! (^ε^) ♪"
+msgstr ""
+
+msgctxt "21799"
+msgid "Thanks for choosing me today.<Color:1><Sign:1><Color:Default>"
+msgstr ""
+
+msgctxt "21861"
+msgid ""
+"Didn't think you'd actually come again, "
+"Kiryu-san.<Color:1><Sign:3><Color:Default>"
+msgstr ""
+
+msgctxt "21944"
+msgid "I hope you'll request me again soon. <Color:1><Sign:0><Color:Default>"
+msgstr ""
+
+msgctxt "22014"
+msgid "Thanks again! (*^ー^)ノ"
+msgstr ""
+
+msgctxt "22040"
+msgid ""
+"Thanks for requesting me all the time! I had so much fun talking with you "
+"today. Talking with someone as calm as you really helps me relax. Let's "
+"hang out again soon."
+msgstr ""
+
+msgctxt "22207"
+msgid "This is bad! ・°・(ノ⑪｀)・°・"
+msgstr ""
+
+msgctxt "22248"
+msgid "My skin's been awful lately ( ' ⑪｀lll)"
+msgstr ""
+
+msgctxt "22291"
+msgid ""
+"Maybe I've been working too hard... But I think it got a little better "
+"after today. <Color:1><Sign:44><Color:Default>"
+msgstr ""
+
+msgctxt "22409"
+msgid "Huh? Why, you ask? Well, that's a secret! <Color:1><Sign:4><Color:Default>"
+msgstr ""
+
+msgctxt "22484"
+msgid "So embarrassing! (/ω＼)"
+msgstr ""
+
+msgctxt "22510"
+msgid "Just noticed my zipper was totally undone a moment ago. (゜⑪゜；)"
+msgstr ""
+
+msgctxt "22581"
+msgid ""
+"And my customers were staring at me the whole time... I'm such a hazard to "
+"myself.<Color:1><Sign:19><Color:Default>"
+msgstr ""
+
+msgctxt "22697"
+msgid ""
+"Though I might not mind if it was you taking a peek, "
+"Kiryu-san.<Color:1><Sign:4><Color:Default>"
+msgstr ""
+
+msgctxt "22793"
+msgid "Hehe!<Color:1><Sign:4><Color:Default>"
+msgstr ""
+
+msgctxt "22831"
+msgid "Shopping (*゜▽゜ノノ゛☆"
+msgstr ""
+
+msgctxt "22864"
+msgid ""
+"I found this totally cute purse while I was out shopping. It was love at "
+"first sight, so I just had to buy it. <Color:1><Sign:44><Color:Default>"
+msgstr ""
+
+msgctxt "23009"
+msgid "It's all soft and furry! <Color:1><Sign:18><Color:Default>"
+msgstr ""
+
+msgctxt "23068"
+msgid "One day, I want to go shopping with you, Kiryu-san!"
+msgstr ""
+
+msgctxt "23120"
+msgid "Sweet memories"
+msgstr ""
+
+msgctxt "23135"
+msgid "2d_cf_mail_araki"
+msgstr ""
+
+msgctxt "23152"
+msgid ""
+"I really wish I could spend all day with you, Kiryu-san, but I know we'll "
+"meet again soon. Thank you so much for "
+"everything.<Color:1><Sign:0><Color:Default>"
+msgstr ""
+
+msgctxt "23309"
+msgid "I'm so glad I met you.<Color:1><Sign:0><Color:Default>"
+msgstr ""
+
+msgctxt "23364"
+msgid "I love you, Kiryu-san. <Color:1><Sign:26><Color:Default>"
+msgstr ""
+
+msgctxt "23421"
+msgid "Rin Sasaba"
+msgstr ""
+
+msgctxt "23432"
+msgid "Come again!"
+msgstr ""
+
+msgctxt "23444"
+msgid "Thanks for requesting me today! <Color:1><Sign:28><Color:Default>"
+msgstr ""
+
+msgctxt "23510"
+msgid "I hope you'll keep it up! lol"
+msgstr ""
+
+msgctxt "23540"
+msgid "I can't wait to see you again. Thanks! <Color:1><Sign:3><Color:Default>"
+msgstr ""
+
+msgctxt "23612"
+msgid "What a deal!"
+msgstr ""
+
+msgctxt "23625"
+msgid ""
+"Saw this cute hat the other day and had to buy it. "
+"<Color:1><Sign:49><Color:Default>"
+msgstr ""
+
+msgctxt "23710"
+msgid "It was only 1000 yen! <Color:1><Sign:44><Color:Default>"
+msgstr ""
+
+msgctxt "23766"
+msgid ""
+"Cheap and cute? How could I pass that up?? LOL I sound like an old lady! "
+"Thanks for comin today! <Color:1><Sign:3><Color:Default>"
+msgstr ""
+
+msgctxt "23896"
+msgid "I'm beat..."
+msgstr ""
+
+msgctxt "23908"
+msgid ""
+"So many customers have been asking for me today. I'm "
+"beat.<Color:1><Sign:5><Color:Default>"
+msgstr ""
+
+msgctxt "23999"
+msgid ""
+"Getting too popular might make it tough on me lol. I'm gonna go out on the "
+"town now. Thanks for coming to see me today<Color:1><Sign:3><Color:Default>"
+msgstr ""
+
+msgctxt "24150"
+msgid "Karaoke"
+msgstr ""
+
+msgctxt "24158"
+msgid ""
+"Today I went to karaoke with one of my girlfriends. My throat is so shot "
+"after two hours of singing! <Color:1><Sign:19><Color:Default>"
+msgstr ""
+
+msgctxt "24293"
+msgid ""
+"I wonder what kind of songs you'll sing at karaoke? I might fall in love "
+"with you if you've got a good singing voice lol. Thanks for coming today! "
+"<Color:1><Sign:3><Color:Default>"
+msgstr ""
+
+msgctxt "24473"
+msgid "Beat again..."
+msgstr ""
+
+msgctxt "24487"
+msgid ""
+"The afternoon shift's crazy busy and now I'm super "
+"sleepy.<Color:1><Sign:11><Color:Default>"
+msgstr ""
+
+msgctxt "24579"
+msgid ""
+"But I've gotta work real hard... Can I sleep when you get here? Maybe I "
+"shouldn't lol. I hope you come again today! <Color:1><Sign:3><Color:Default>"
+msgstr ""
+
+msgctxt "24728"
+msgid "Sick as a dog"
+msgstr ""
+
+msgctxt "24742"
+msgid "2d_cf_mail_sakurai"
+msgstr ""
+
+msgctxt "24761"
+msgid ""
+"Booze really doesn't agree with me... I'm feeling really sick right now "
+"<Color:1><Sign:49><Color:Default>"
+msgstr ""
+
+msgctxt "24867"
+msgid "I really shouldn't push myself like that. <Color:1><Sign:9><Color:Default>"
+msgstr ""
+
+msgctxt "24942"
+msgid "Thanks a lot for today. <Color:1><Sign:0><Color:Default>"
+msgstr ""
+
+msgctxt "24999"
+msgid "You powered me up, Kiryu-san. <Color:1><Sign:18><Color:Default>"
+msgstr ""
+
+msgctxt "25063"
+msgid "Thanks. <Color:1><Sign:3><Color:Default>"
+msgstr ""
+
+msgctxt "25104"
+msgid "I love you. <Color:1><Sign:1><Color:Default>"
+msgstr ""
+
+msgctxt "25149"
+msgid "Thank you"
+msgstr ""
+
+msgctxt "25159"
+msgid ""
+"Thanks for earlier! I know I'm kind of weird, but I'd love it if you "
+"requested me again sometime. See you! ♪"
+msgstr ""
+
+msgctxt "25270"
+msgid "I gained weight..."
+msgstr ""
+
+msgctxt "25289"
+msgid "I got on the scale the other day and found out I'd gained 3 kilograms..."
+msgstr ""
+
+msgctxt "25362"
+msgid "(；ω；) Noooooo!"
+msgstr ""
+
+msgctxt "25382"
+msgid ""
+"I've even been skipping dinners, too... I hope you'll still like me even if "
+"my arms get pudgy."
+msgstr ""
+
+msgctxt "25477"
+msgid "Newton!"
+msgstr ""
+
+msgctxt "25485"
+msgid "Today, I gave Newton a bath. ♪"
+msgstr ""
+
+msgctxt "25518"
+msgid ""
+"It must have felt good, because she fell asleep, LOL. I wish I could've "
+"shown you her cute sleeping face (>∀<)"
+msgstr ""
+
+msgctxt "25631"
+msgid "Instant noodles"
+msgstr ""
+
+msgctxt "25647"
+msgid ""
+"Ugh... I've been eating nothing but cup noodles lately... lmao. It's "
+"probably not good for me lol. But the longer I live alone, the more "
+"annoying cooking gets... Plus there's always leftovers... And I'll just "
+"want to cook my favorite foods lol. I wish I could just eat a ton of "
+"dessert!"
+msgstr ""
+
+msgctxt "25934"
+msgid "Feeling bad lately"
+msgstr ""
+
+msgctxt "25953"
+msgid ""
+"I just haven't been feeling very motivated lately. Maybe I'm too stressed "
+"out? No matter who comes in to see me, I just can't focus. It's a little "
+"different when I'm with you, though. I wonder why?"
+msgstr ""
+
+msgctxt "26151"
+msgid "Thank you so much"
+msgstr ""
+
+msgctxt "26169"
+msgid "2d_cf_mail_nishiyama"
+msgstr ""
+
+msgctxt "26190"
+msgid ""
+"I feel like I'm finally my real, honest self. All that worry I felt up "
+"until now just got blown away, lol. I'm happy to be alive. It sounds cheesy "
+"to write that. Thank you so much. I love you."
+msgstr ""
+
+msgctxt "26383"
+msgid "Ranko Yazuki"
+msgstr ""
+
+msgctxt "26396"
+msgid "Thank you (^_-)"
+msgstr ""
+
+msgctxt "26412"
+msgid "Ranko here. Thanks for requesting me today. <Color:1><Sign:3><Color:Default>"
+msgstr ""
+
+msgctxt "26489"
+msgid ""
+"I want to learn more about you, Kiryu-san. Come by the club again soon! "
+"I'll be waiting!<Color:1><Sign:0><Color:Default>"
+msgstr ""
+
+msgctxt "26610"
+msgid "Feelin' great!"
+msgstr ""
+
+msgctxt "26625"
+msgid ""
+"Ranko here. I drank a little too much "
+"today.<Color:1><Sign:36><Color:Default>"
+msgstr ""
+
+msgctxt "26703"
+msgid "It feels good though.<Color:1><Sign:18><Color:Default>"
+msgstr ""
+
+msgctxt "26758"
+msgid "I probably won't tomorrow though <Color:1><Sign:19><Color:Default>"
+msgstr ""
+
+msgctxt "26825"
+msgid "I'm dizzy even just texting you now. <Color:1><Sign:11><Color:Default>"
+msgstr ""
+
+msgctxt "26896"
+msgid "Come visit me again soon! <Color:1><Sign:0><Color:Default>"
+msgstr ""
+
+msgctxt "26955"
+msgid "Dance lessons"
+msgstr ""
+
+msgctxt "26969"
+msgid "Had a belly dancing lesson today <Color:1><Sign:21><Color:Default>"
+msgstr ""
+
+msgctxt "27036"
+msgid ""
+"but it was really tough since I didn't sleep much "
+"yesterday.<Color:1><Sign:11><Color:Default>"
+msgstr ""
+
+msgctxt "27130"
+msgid ""
+"I'm always super exhausted the day after "
+"work.<Color:1><Sign:10><Color:Default>"
+msgstr ""
+
+msgctxt "27210"
+msgid "Gonna be a rough road to being a pro <Color:1><Sign:49><Color:Default>"
+msgstr ""
+
+msgctxt "27281"
+msgid "Thanks for always asking for me <Color:1><Sign:0><Color:Default>"
+msgstr ""
+
+msgctxt "27346"
+msgid "When will you come again?"
+msgstr ""
+
+msgctxt "27372"
+msgid "Body cream"
+msgstr ""
+
+msgctxt "27383"
+msgid ""
+"Bought a new body cream the other day. It smells "
+"awesome!<Color:1><Sign:3><Color:Default> I wanna use it every day after "
+"baths and body massages! <Color:1><Sign:16><Color:Default>"
+msgstr ""
+
+msgctxt "27563"
+msgid ""
+"Did you notice I smelled like roses today? If you're a good boy, I'll rub "
+"some on you next time! LOL Come by the club again soon! "
+"<Color:1><Sign:0><Color:Default>"
+msgstr ""
+
+msgctxt "27726"
+msgid "Au naturel!"
+msgstr ""
+
+msgctxt "27738"
+msgid "I'm usually totally naked when I'm at home.<Color:1><Sign:4><Color:Default>"
+msgstr ""
+
+msgctxt "27814"
+msgid ""
+"I mean, it's so much more comfortable that way! I'm totally naked right "
+"now, too.  <Color:1><Sign:12><Color:Default>"
+msgstr ""
+
+msgctxt "27931"
+msgid ""
+"If we started dating, I'd definitely get you naked, too. "
+"<Color:1><Sign:4><Color:Default>"
+msgstr ""
+
+msgctxt "28021"
+msgid "Come by the club again soon! <Color:1><Sign:0><Color:Default>"
+msgstr ""
+
+msgctxt "28083"
+msgid "Last goodbye"
+msgstr ""
+
+msgctxt "28096"
+msgid "2d_cf_mail_nemu"
+msgstr ""
+
+msgctxt "28112"
+msgid ""
+"This will be my last message to you. It hasn't really sunk in yet, but I'm "
+"starting fresh. Thank you for being there for me, "
+"Kiryu-san.<Color:1><Sign:3><Color:Default>"
+msgstr ""
+
+msgctxt "28280"
+msgid ""
+"I'll never forget the warmth of your body, "
+"Kiryu-san.<Color:1><Sign:1><Color:Default>"
+msgstr ""
+
+msgctxt "28366"
+msgid ""
+"Thanks for requesting me. I hope we can get a little closer. "
+"<Color:1><Sign:0><Color:Default>"
+msgstr ""
+
+msgctxt "28460"
+msgid "So sleepy (>_<)"
+msgstr ""
+
+msgctxt "28476"
+msgid ""
+"Ugh, I'm so sleepy today... I wish I could get off work now... Full "
+"disclosure, I had a tiny nap when I was with you, Kiryu-san."
+msgstr ""
+
+msgctxt "28605"
+msgid "Don't tell anyone!"
+msgstr ""
+
+msgctxt "28624"
+msgid "Went to an arcade"
+msgstr ""
+
+msgctxt "28642"
+msgid "I went to an arcade the other day! o(^o^)o"
+msgstr ""
+
+msgctxt "28685"
+msgid ""
+"I played nothing but medal games for hours. Before I realized it, it was "
+"nighttime! LOL Wanna go with me next time?"
+msgstr ""
+
+msgctxt "28801"
+msgid "Nail salon"
+msgstr ""
+
+msgctxt "28812"
+msgid ""
+"I went to a nail salon the other day! Did you notice I had new nails on? I "
+"totally slept through putting them on though lol. Things are pretty busy "
+"today... I hope you come by the club soon. <Color:1><Sign:0><Color:Default>"
+msgstr ""
+
+msgctxt "29036"
+msgid "Pain in the butt"
+msgstr ""
+
+msgctxt "29053"
+msgid ""
+"Thanks for requesting me today! Isn't texting kinda... annoying? I wanna "
+"call you, to be honest, but I worry you might be busy. I can't stop "
+"thinking about you lately..."
+msgstr ""
+
+msgctxt "29223"
+msgid "Thanks!"
+msgstr ""
+
+msgctxt "29231"
+msgid "2d_cf_mail_muto"
+msgstr ""
+
+msgctxt "29247"
+msgid "I just apologized at the club and they forgave me. (^-^)"
+msgstr ""
+
+msgctxt "29304"
+msgid "I can keep working there like before! <Color:1><Sign:16><Color:Default>"
+msgstr ""
+
+msgctxt "29376"
+msgid ""
+"So I'm basically the most annoying girl ever, lol. I've done nothing but "
+"cause you trouble, Kiryu-san... But I'll work hard to change from here on "
+"out. This has gotten really long, haha. Thanks, Kiryu-san. I love you. "
+"<Color:1><Sign:1><Color:Default>"
+msgstr ""
+
+msgctxt "29627"
+msgid "Yui Hatano"
+msgstr ""
+
+msgctxt "29638"
+msgid "Thank you o(^-^)o"
+msgstr ""
+
+msgctxt "29656"
+msgid "Thanks for requesting me today! ♪"
+msgstr ""
+
+msgctxt "29692"
+msgid ""
+"I'm always super peppy and excited! Will you come see me again? I'll be "
+"waiting for you! <Color:1><Sign:0><Color:Default>"
+msgstr ""
+
+msgctxt "29814"
+msgid "Bye bye!"
+msgstr ""
+
+msgctxt "29823"
+msgid "Dry skin"
+msgstr ""
+
+msgctxt "29832"
+msgid ""
+"My skin was like sandpaper when I took my makeup off, so I went to a "
+"dermatologist and she got mad at me! She said I'm working myself too hard "
+"<Color:1><Sign:25><Color:Default>"
+msgstr ""
+
+msgctxt "30009"
+msgid ""
+"I'm still gonna give it my all, though! Come see me again "
+"sometime!<Color:1><Sign:0><Color:Default>"
+msgstr ""
+
+msgctxt "30109"
+msgid "Fell asleep (-⑪-；) "
+msgstr ""
+
+msgctxt "30133"
+msgid ""
+"I woke and realized I'd just fallen asleep in front of a guest! "
+"<Color:1><Sign:0><Color:Default>"
+msgstr ""
+
+msgctxt "30230"
+msgid "But they let me off the hook <Color:1><Sign:0><Color:Default>"
+msgstr ""
+
+msgctxt "30292"
+msgid "Would you let me off the hook too, Kiryu-san? I hope you'll visit soon."
+msgstr ""
+
+msgctxt "30364"
+msgid "Caught a cold (>_<)"
+msgstr ""
+
+msgctxt "30384"
+msgid ""
+"I've been feeling awful since this morning... I think I caught a cold "
+"<Color:1><Sign:11><Color:Default>"
+msgstr ""
+
+msgctxt "30488"
+msgid ""
+"I took a bunch of medicine so I can go to work today! "
+"<Color:1><Sign:0><Color:Default>"
+msgstr ""
+
+msgctxt "30575"
+msgid "Yay! <Color:1><Sign:14><Color:Default>"
+msgstr ""
+
+msgctxt "30614"
+msgid "I'm stuffed!"
+msgstr ""
+
+msgctxt "30627"
+msgid "I ate way too much for breakfast!<Color:1><Sign:49><Color:Default>"
+msgstr ""
+
+msgctxt "30694"
+msgid ""
+"Now my stomach is practically bulging with "
+"food...<Color:1><Sign:49><Color:Default>I definitely won't let you see "
+"this! <Color:1><Sign:11><Color:Default>"
+msgstr ""
+
+msgctxt "30848"
+msgid "Well, maybe I want you to see a little bit. <Color:1><Sign:0><Color:Default>"
+msgstr ""
+
+msgctxt "30925"
+msgid ""
+"When will I get to see you again? I'm waiting for you! "
+"<Color:1><Sign:0><Color:Default>"
+msgstr ""
+
+msgctxt "31013"
+msgid "(*^_^*)"
+msgstr ""
+
+msgctxt "31021"
+msgid "2d_cf_mail_ayukawa"
+msgstr ""
+
+msgctxt "31040"
+msgid "I'm still a little drunk, but man, you were so warm, Kiryu-san! (*^_^*)"
+msgstr ""
+
+msgctxt "31112"
+msgid ""
+"I felt so healed by you. Keep fawning on me, okay? "
+"<Color:1><Sign:0><Color:Default>"
+msgstr ""
+
+msgctxt "31196"
+msgid "I love you, Kiryu-san! <Color:1><Sign:26><Color:Default>"
+msgstr ""
+
+msgctxt "31253"
+msgid "Mika Tsuchiya"
+msgstr ""
+
+msgctxt "31267"
+msgid ""
+"Thanks for requesting me today! Isn't Okinawa wonderful? "
+"<Color:1><Sign:3><Color:Default>"
+msgstr ""
+
+msgctxt "31357"
+msgid ""
+"I hope you have lots of fun here in Okinawa, Kiryu-san. "
+"<Color:1><Sign:1><Color:Default>"
+msgstr ""
+
+msgctxt "31446"
+msgid "See you later!"
+msgstr ""
+
+msgctxt "31461"
+msgid "Wanna see you again"
+msgstr ""
+
+msgctxt "31481"
+msgid "Thanks a ton for today! ♪"
+msgstr ""
+
+msgctxt "31509"
+msgid ""
+"I didn't think you'd really come again and request me. "
+"<Color:1><Sign:44><Color:Default>"
+msgstr ""
+
+msgctxt "31598"
+msgid "I'm glad we got to talk so much! <Color:1><Sign:3><Color:Default>"
+msgstr ""
+
+msgctxt "31664"
+msgid "Can't wait to see you again <Color:1><Sign:1><Color:Default>"
+msgstr ""
+
+msgctxt "31725"
+msgid "Later!"
+msgstr ""
+
+msgctxt "31732"
+msgid "Question!"
+msgstr ""
+
+msgctxt "31742"
+msgid ""
+"How long are you going to be in Okinawa, Kiryu-san? I get a little sad "
+"thinking there might come a day I won't see you anymore. I'll always be at "
+"this club, so come by anytime. <Color:1><Sign:1><Color:Default>"
+msgstr ""
+
+msgctxt "31952"
+msgid "Bodyboarding"
+msgstr ""
+
+msgctxt "31965"
+msgid "I went bodyboarding! ♪"
+msgstr ""
+
+msgctxt "31990"
+msgid "The waves were great today <Color:1><Sign:1><Color:Default>"
+msgstr ""
+
+msgctxt "32050"
+msgid ""
+"Except for one point, when I ate a huge wave, and it tore my bikini top "
+"right off! <Color:1><Sign:9><Color:Default>"
+msgstr ""
+
+msgctxt "32166"
+msgid "Thank goodness nobody was around! Maybe you should come with me next time?"
+msgstr ""
+
+msgctxt "32241"
+msgid "So lonely..."
+msgstr ""
+
+msgctxt "32254"
+msgid ""
+"I have to admit, I do get a little lonely when I go home. "
+"<Color:1><Sign:7><Color:Default>"
+msgstr ""
+
+msgctxt "32345"
+msgid "My only company here is my cat! <Color:1><Sign:28><Color:Default>"
+msgstr ""
+
+msgctxt "32411"
+msgid "I really wish I had a boyfriend... <Color:1><Sign:5><Color:Default>"
+msgstr ""
+
+msgctxt "32479"
+msgid ""
+"I'd ask you, Kiryu-san, but I know it'd just be a bother. "
+"<Color:1><Sign:9><Color:Default>"
+msgstr ""
+
+msgctxt "32570"
+msgid "I'm waiting for you at the club!<Color:1><Sign:1><Color:Default>"
+msgstr ""
+
+msgctxt "32635"
+msgid "2d_cf_mail_tsuchiya"
+msgstr ""
+
+msgctxt "32655"
+msgid ""
+"Thanks for putting up with me today. I'm really sorry about that. But I'm "
+"really happy you really showed your love for me. Now I feel like I can "
+"really be honest with you and tell you everything. You're all I can think "
+"about now, Kiryu-san. I'll be waiting for you at the club. I love you. "
+"<Color:1><Sign:26><Color:Default>"
+msgstr ""
+
+msgctxt "32979"
+msgid "Nao Kaneshiro"
+msgstr ""
+
+msgctxt "32993"
+msgid ""
+"This is Nao. Thank you for requesting me today. "
+"<Color:1><Sign:30><Color:Default>"
+msgstr ""
+
+msgctxt "33075"
+msgid "You're so cool, Kiryu-san. <Color:1><Sign:18><Color:Default>"
+msgstr ""
+
+msgctxt "33136"
+msgid "I love how mature you are. <Color:1><Sign:1><Color:Default>"
+msgstr ""
+
+msgctxt "33196"
+msgid ""
+"I'm looking forward to spending more time with you again soon. "
+"<Color:1><Sign:0><Color:Default>"
+msgstr ""
+
+msgctxt "33292"
+msgid "Bye-bye! ♪"
+msgstr ""
+
+msgctxt "33305"
+msgid "Thanks"
+msgstr ""
+
+msgctxt "33312"
+msgid ""
+"Nao here. Thank you for requesting me again. "
+"<Color:1><Sign:30><Color:Default>"
+msgstr ""
+
+msgctxt "33391"
+msgid ""
+"And thank you for going along with my weird conversational topics. "
+"<Color:1><Sign:8><Color:Default>"
+msgstr ""
+
+msgctxt "33491"
+msgid ""
+"When I'm with you, I feel like I can talk about anything. "
+"<Color:1><Sign:4><Color:Default>"
+msgstr ""
+
+msgctxt "33582"
+msgid "Kinda jealous"
+msgstr ""
+
+msgctxt "33596"
+msgid ""
+"Nao here. I saw so many couples when I went out on a walk the other day. "
+"<Color:1><Sign:0><Color:Default>"
+msgstr ""
+
+msgctxt "33702"
+msgid "I got a little jealous.<Color:1><Sign:1><Color:Default>"
+msgstr ""
+
+msgctxt "33758"
+msgid "I'm going to a beauty spa now! <Color:1><Sign:40><Color:Default>"
+msgstr ""
+
+msgctxt "33823"
+msgid "Dark skin?"
+msgstr ""
+
+msgctxt "33834"
+msgid ""
+"This is Nao. Is my face too dark? Someone told me that my skin was tan like "
+"an Okinawan's. I was so shocked! <Color:1><Sign:19><Color:Default>"
+msgstr ""
+
+msgctxt "33977"
+msgid "I want to get paler...<Color:1><Sign:11><Color:Default>"
+msgstr ""
+
+msgctxt "34033"
+msgid "I'm gonna take a bath now. <Color:1><Sign:0><Color:Default>"
+msgstr ""
+
+msgctxt "34093"
+msgid "Famous Okinawans"
+msgstr ""
+
+msgctxt "34110"
+msgid ""
+"Nao here. There are tons of famous Okinawans! "
+"<Color:1><Sign:3><Color:Default>"
+msgstr ""
+
+msgctxt "34189"
+msgid ""
+"Watching them work so hard makes me feel really "
+"energized.<Color:1><Sign:18><Color:Default>"
+msgstr ""
+
+msgctxt "34281"
+msgid ""
+"It makes me think... maybe I'll be there "
+"someday.<Color:1><Sign:30><Color:Default>"
+msgstr ""
+
+msgctxt "34364"
+msgid "I'm gonna go get dinner.<Color:1><Sign:40><Color:Default>"
+msgstr ""
+
+msgctxt "34422"
+msgid "I Love You"
+msgstr ""
+
+msgctxt "34433"
+msgid "2d_cf_mail_kaneshiro"
+msgstr ""
+
+msgctxt "34454"
+msgid "My dream came true! <Color:1><Sign:43><Color:Default>"
+msgstr ""
+
+msgctxt "34508"
+msgid "There really is a god up there <Color:1><Sign:1><Color:Default>"
+msgstr ""
+
+msgctxt "34572"
+msgid "You're always saving me, Kiryu-san.<Color:1><Sign:8><Color:Default>"
+msgstr ""
+
+msgctxt "34640"
+msgid ""
+"If there's anything at all I can do for you, let me know. "
+"<Color:1><Sign:0><Color:Default>"
+msgstr ""
+
+msgctxt "34731"
+msgid "I want to be with you forever. <Color:1><Sign:0><Color:Default>"
+msgstr ""
+
+msgctxt "34795"
+msgid "I'll always love you, Kiryu-san. <Color:1><Sign:0><Color:Default>"
+msgstr ""
+
+msgctxt "34861"
+msgid "I love you so much! <Color:1><Sign:26><Color:Default>"
+msgstr ""
+
+msgctxt "34915"
+msgid "Saya Unten"
+msgstr ""
+
+msgctxt "34926"
+msgid "It's Saya<Color:1><Sign:0><Color:Default>"
+msgstr ""
+
+msgctxt "34968"
+msgid "Thank you so much for today. <Color:1><Sign:1><Color:Default>"
+msgstr ""
+
+msgctxt "35030"
+msgid "It was super fun! <Color:1><Sign:43><Color:Default>"
+msgstr ""
+
+msgctxt "35082"
+msgid "When will you come here again, Kiryu-san?"
+msgstr ""
+
+msgctxt "35124"
+msgid "I wanna talk with you a whole lot more! <Color:1><Sign:3><Color:Default>"
+msgstr ""
+
+msgctxt "35197"
+msgid "Okay, byeeee! <Color:1><Sign:0><Color:Default>"
+msgstr ""
+
+msgctxt "35244"
+msgid "I was so surprised that you came today! <Color:1><Sign:12><Color:Default>"
+msgstr ""
+
+msgctxt "35318"
+msgid "I had sooo much fun, though. <Color:1><Sign:1><Color:Default>"
+msgstr ""
+
+msgctxt "35380"
+msgid "I'll be waiting for you to come again! <Color:1><Sign:3><Color:Default>"
+msgstr ""
+
+msgctxt "35452"
+msgid "I drank sooo much today! <Color:1><Sign:9><Color:Default>"
+msgstr ""
+
+msgctxt "35510"
+msgid "Ugh, my head is spinning."
+msgstr ""
+
+msgctxt "35536"
+msgid "I've been super duper tired lately. <Color:1><Sign:19><Color:Default>"
+msgstr ""
+
+msgctxt "35606"
+msgid ""
+"I sure wish someone would come and take it all away! "
+"<Color:1><Sign:29><Color:Default>"
+msgstr ""
+
+msgctxt "35693"
+msgid "I just can't sleep at all tonight. Kiryu-san"
+msgstr ""
+
+msgctxt "35738"
+msgid "Maybe I'm getting sick. <Color:1><Sign:19><Color:Default>"
+msgstr ""
+
+msgctxt "35796"
+msgid "What're you doing right now, Kiryu-san?"
+msgstr ""
+
+msgctxt "35836"
+msgid "I kinda wanna see you..."
+msgstr ""
+
+msgctxt "35861"
+msgid "I'll be waiting for you at the club! <Color:1><Sign:3><Color:Default>"
+msgstr ""
+
+msgctxt "35931"
+msgid "Thank you so much for coming again today. <Color:1><Sign:1><Color:Default>"
+msgstr ""
+
+msgctxt "36006"
+msgid ""
+"Seeing your face just makes me feel so "
+"relaxed.<Color:1><Sign:3><Color:Default>"
+msgstr ""
+
+msgctxt "36086"
+msgid "I'm totally obsessed with you. Kiryu-san."
+msgstr ""
+
+msgctxt "36128"
+msgid "I wanna get to know you better.<Color:1><Sign:21><Color:Default>"
+msgstr ""
+
+msgctxt "36193"
+msgid "Thank you<Color:1><Sign:0><Color:Default>"
+msgstr ""
+
+msgctxt "36235"
+msgid "2d_cf_mail_unten"
+msgstr ""
+
+msgctxt "36252"
+msgid "Thank you so much for today.<Color:1><Sign:1><Color:Default>"
+msgstr ""
+
+msgctxt "36313"
+msgid ""
+"I really feel like you and I have become one, "
+"Kiryu-san.<Color:1><Sign:26><Color:Default>"
+msgstr ""
+
+msgctxt "36403"
+msgid "You better keep your promise, though! <Color:1><Sign:43><Color:Default>"
+msgstr ""
+
+msgctxt "36475"
+msgid "No cheating on me, okay? <Color:1><Sign:6><Color:Default>"
+msgstr ""
+
+msgctxt "36533"
+msgid "I love you! <Color:1><Sign:0><Color:Default>"
+msgstr ""
+
+msgctxt "36578"
+msgid "Sawada"
+msgstr ""
+
+msgctxt "36585"
+msgid "Tuna Fund News"
+msgstr ""
+
+msgctxt "36600"
+msgid "2d_cf_mail_tuna00"
+msgstr ""
+
+msgctxt "36618"
+msgid ""
+"Sawada from the Tuna Fund here. How've you been? The tuna farming couldn't "
+"be going better and we're raising some real whoppers! These farm-raised "
+"tuna are fattier and tastier than the wild kind!"
+msgstr ""
+
+msgctxt "36814"
+msgid "Okinawa Tuna Farms"
+msgstr ""
+
+msgctxt "36833"
+msgid "Tuna Fund"
+msgstr ""
+
+msgctxt "36843"
+msgid "Address: XX-YY Hatsumachi North"
+msgstr ""
+
+msgctxt "36875"
+msgid "Downtown Ryukyu, Okinawa"
+msgstr ""
+
+msgctxt "36900"
+msgid "Phone: XY-YYZ"
+msgstr ""
+
+msgctxt "36914"
+msgid "Tuna Fund Update"
+msgstr ""
+
+msgctxt "36931"
+msgid "2d_cf_mail_tuna01"
+msgstr ""
+
+msgctxt "36949"
+msgid ""
+"Sawada from the Tuna Fund here. How've you been? The tuna are growing so "
+"fast. We're already getting calls from interested buyers, including tuna "
+"canners. That's why I'm thinking of expanding the tuna farm to 10 times its "
+"original size. But I'll need additional investments. Let me know if you're "
+"interested."
+msgstr ""
+
+msgctxt "37258"
+msgid "Ibuki"
+msgstr ""
+
+msgctxt "37264"
+msgid "Okinawa HLA"
+msgstr ""
+
+msgctxt "37276"
+msgid "Nice work, Kiryu-san."
+msgstr ""
+
+msgctxt "37298"
+msgid "I'm really grateful that you agreed to help catch the hitmen in Okinawa."
+msgstr ""
+
+msgctxt "37371"
+msgid ""
+"I wanted to let you know the HLA office in Okinawa received info on a "
+"hitman in Downtown Ryukyu."
+msgstr ""
+
+msgctxt "37468"
+msgid ""
+"When you're in Downtown Ryukyu, stop by Ryukyu Shogi under the monorail "
+"station. One of my men there will fill you in the details."
+msgstr ""
+
+msgctxt "37599"
+msgid "Sorry for all the trouble. TY!"
+msgstr ""
+
+msgctxt "37630"
+msgid "Kaede"
+msgstr ""
+
+msgctxt "37636"
+msgid "Found a job!"
+msgstr ""
+
+msgctxt "37649"
+msgid ""
+"Kiryu-san! I'm the queen of part-time work! I started a new job at "
+"Gelateria Kamurocho. I'm really excited about it cause I love ice cream! "
+"<Color:1><Sign:0><Color:Default>"
+msgstr ""
+
+msgctxt "37822"
+msgid "Come see me sometime!"
+msgstr ""
+
+msgctxt "37844"
+msgid "Found a new job!"
+msgstr ""
+
+msgctxt "37861"
+msgid ""
+"Kiryu-saaaan! I just got a part-time job at a bowling alley! I should be "
+"okay this time because there's no food involved. I'm at Mach Bowl on "
+"Theater Alley. I know it's gonna work out this "
+"time!<Color:1><Sign:4><Color:Default>"
+msgstr ""
+
+msgctxt "38088"
+msgid "Crash and burn!"
+msgstr ""
+
+msgctxt "38104"
+msgid ""
+"Kiryu-saaaan! I interviewed at a hostess club, but I ended up answering "
+"every question wrong! I've gotta work a little bit harder. I'll email you "
+"again once I find another job! Talk to you later!  "
+"<Color:1><Sign:0><Color:Default>"
+msgstr ""
+
+msgctxt "38334"
+msgid "Stop by!"
+msgstr ""
+
+msgctxt "38343"
+msgid ""
+"Kiryu-saaaan! I got a job! Do you know the bar Earth Angel in the Champion "
+"District? I'll be working there! Come stop by! "
+"<Color:1><Sign:0><Color:Default>"
+msgstr ""
+
+msgctxt "38498"
+msgid "Figured it out!"
+msgstr ""
+
+msgctxt "38514"
+msgid ""
+"Kiryu-saaaan! I figured it all out! I know what I want to do! For the first "
+"time since coming here! I feel bad for the Mama at Earth Angel, but this "
+"isn't where I need to be. I talked to her, and she told me to follow my "
+"heart! She's cheering me on! So I'm heading off! I hope I get to see you "
+"again somewhere, someday! <Color:1><Sign:0><Color:Default>"
+msgstr ""
+
+msgctxt "38867"
+msgid "Ayaka Tsubaki"
+msgstr ""
+
+msgctxt "38881"
+msgid "Thank you<Color:1><Sign:3><Color:Default>"
+msgstr ""
+
+msgctxt "38923"
+msgid ""
+"Thanks for giving me advice. Afterwards, I told Kentaro-san how I felt. His "
+"response... Well, we're dating now. <Color:1><Sign:1><Color:Default>"
+msgstr ""
+
+msgctxt "39068"
+msgid ""
+"He knew about my past already. Sounds like he overheard when I was talking "
+"about it to my manager at the shop. He told me he didn't know how to tell "
+"me about how serious he was about me! <Color:1><Sign:0><Color:Default>"
+msgstr ""
+
+msgctxt "39288"
+msgid ""
+"I'm so glad I got your advice, Kiryu-san! I'll treat you next time you stop "
+"by the shop. <Color:1><Sign:1><Color:Default>"
+msgstr ""
+
+msgctxt "39410"
+msgid "Game Bureau"
+msgstr ""
+
+msgctxt "39422"
+msgid "Mission"
+msgstr ""
+
+msgctxt "39430"
+msgid "Check a bonfire."
+msgstr ""
+
+msgctxt "39447"
+msgid "You have three minutes. Run out of time, game over."
+msgstr ""
+
+msgctxt "39499"
+msgid "Check a PC at a nightlife entrance."
+msgstr ""
+
+msgctxt "39535"
+msgid "Check the vending machine next to the entrance to the batting center."
+msgstr ""
+
+msgctxt "39605"
+msgid "Check the Suntory Boss vending machine next to the M Store."
+msgstr ""
+
+msgctxt "39665"
+msgid "Check a parking lot payment station."
+msgstr ""
+
+msgctxt "39702"
+msgid "Check the IF7 machine."
+msgstr ""
+
+msgctxt "39725"
+msgid "Check the Millenium Tower directory outside the tower."
+msgstr ""
+
+msgctxt "39780"
+msgid "Check the coin lockers."
+msgstr ""
+
+msgctxt "39804"
+msgid "Check the sign for the host club ADAM in the Hotel District."
+msgstr ""
+
+msgctxt "39865"
+msgid "View the sign for the hotel White in first-person mode."
+msgstr ""
+
+msgctxt "39921"
+msgid ""
+"View the sign for Tantakatan above the shop Coffee Barron on Shichifuku "
+"Street in first-person mode."
+msgstr ""
+
+msgctxt "40022"
+msgid "View the sumo wrestler on East Shichifuku Street in first-person mode."
+msgstr ""
+
+msgctxt "40093"
+msgid "View the blue school uniform on Park Boulevard in first-person mode."
+msgstr ""
+
+msgctxt "40162"
+msgid "View the gate in the Champion District in first-person mode."
+msgstr ""
+
+msgctxt "40223"
+msgid "View the shrimp on East Taihei Boulevard in first-person mode."
+msgstr ""
+
+msgctxt "40286"
+msgid "Check the tengu lantern on Pink Street. "
+msgstr ""
+
+msgctxt "40327"
+msgid "View the gate on Tenkaichi Street in first-person mode."
+msgstr ""
+
+msgctxt "40383"
+msgid "View the gate on Pink Street in first-person mode."
+msgstr ""
+
+msgctxt "40434"
+msgid ""
+"View the shop sign for Magokoro on East Shichifuku Street in first-person "
+"mode."
+msgstr ""
+
+msgctxt "40514"
+msgid "Setting restricted area"
+msgstr ""
+
+msgctxt "40538"
+msgid "Leave the indicated area within 30 seconds! "
+msgstr ""
+
+msgctxt "40583"
+msgid "Adding restricted area"
+msgstr ""
+
+msgctxt "40606"
+msgid "Still doing great"
+msgstr ""
+
+msgctxt "40624"
+msgid "Good news"
+msgstr ""
+
+msgctxt "40634"
+msgid "Prize money x2! Go for it!"
+msgstr ""
+
+msgctxt "40661"
+msgid "Game Master"
+msgstr ""
+
+msgctxt "40673"
+msgid "Additional pursuer"
+msgstr ""
+
+msgctxt "40692"
+msgid "You're doing great! A pursuer has been added. Good luck!"
+msgstr ""
+
+msgctxt "40749"
+msgid ""
+"Still doing great! Another pursuer has been added. Hehehe... Think you can "
+"still get away?"
+msgstr ""
+
+msgctxt "40840"
+msgid ""
+"This is it⑬the home stretch. Another pursuer has been added. Can you make "
+"it to the end?"
+msgstr ""
+
+msgctxt "40931"
+msgid "View the volcano on Nakamichi Street in first-person mode."
+msgstr ""
+
+msgctxt "40990"
+msgid "View Don Quijote's mascot at his highest point in first-person mode."
+msgstr ""
+
+msgctxt "41059"
+msgid "View the movie poster for Kabuki-tare in first-person mode."
+msgstr ""
+
+msgctxt "41119"
+msgid "Check the entrance to the bar across from Emoto Medical Clinic."
+msgstr ""
+
+msgctxt "41183"
+msgid "View the electric Tokyo Popuri sign in first-person mode."
+msgstr ""
+
+msgctxt "41241"
+msgid "Check the broom propped up at the public restrooms."
+msgstr ""
+
+msgctxt "41293"
+msgid "Check the entrance to Witch Girl Club on North Pink Street."
+msgstr ""
+
+msgctxt "41353"
+msgid "Check the entrance to Mach Bowl."
+msgstr ""
+
+msgctxt "41386"
+msgid "Check the entrance to Pronto."
+msgstr ""
+
+msgctxt "41416"
+msgid "Check the phone booth in Theater Square."
+msgstr ""
+
+msgctxt "41457"
+msgid "Check the middle Christmas tree in the row of five."
+msgstr ""
+
+msgctxt "41509"
+msgid "Check the entrance to Shangri-La."
+msgstr ""
+
+msgctxt "41543"
+msgid "Check the phone booth on Showa Street."
+msgstr ""
+
+msgctxt "41582"
+msgid "Check the entrance to Kamuro Castle."
+msgstr ""
+
+msgctxt "41619"
+msgid "View the flying fish on Tenkaichi Street in first-person mode."
+msgstr ""
+
+msgctxt "41682"
+msgid "Check the entrance to the public baths."
+msgstr ""
+
+msgctxt "41722"
+msgid "Check the entrance to Kyushu No. 1 Star."
+msgstr ""
+
+msgctxt "41763"
+msgid "Check the entrance to Divine Dragon."
+msgstr ""
+
+msgctxt "41800"
+msgid "Check the entrance to Love in Heart."
+msgstr ""
+
+msgctxt "41837"
+msgid "Check the entrance to Kamuro Ramen."
+msgstr ""
+
+msgctxt "41873"
+msgid "Check the black car parked behind the batting center."
+msgstr ""
+
+msgctxt "41927"
+msgid "A message to players"
+msgstr ""
+
+msgctxt "41948"
+msgid "Welcome to the game of Survival Tag."
+msgstr ""
+
+msgctxt "41985"
+msgid "I am the Game Master."
+msgstr ""
+
+msgctxt "42007"
+msgid ""
+"You will now complete a series of ten missions. Missions will be sent via "
+"email in regular intervals. Each mission has a time limit. You must "
+"complete the mission within the time limit, or you will lose the game."
+msgstr ""
+
+msgctxt "42220"
+msgid ""
+"There will also be five pursuers that will chase you. Their objective is to "
+"capture you. If they capture you, you will lose the game."
+msgstr ""
+
+msgctxt "42354"
+msgid ""
+"There is no combat in this game. Evade your pursuers and complete the ten "
+"missions to win the game."
+msgstr ""
+
+msgctxt "42454"
+msgid ""
+"The missions involve well-known locations around the city. It should not be "
+"difficult for someone who walks its streets as often as you do... as long "
+"as you look around and remember where things are when you do."
+msgstr ""
+
+msgctxt "42666"
+msgid "Good luck."
+msgstr ""
+
+msgctxt "42677"
+msgid "You won!"
+msgstr ""
+
+msgctxt "42686"
+msgid ""
+"Congratulations! You successfully completed all ten missions. You have "
+"earned a completion bonus."
+msgstr ""
+
+msgctxt "42784"
+msgid "The game is now over. You may play it again anytime."
+msgstr ""
+
+msgctxt "42837"
+msgid "Kaoru Sayama"
+msgstr ""
+
+msgctxt "42850"
+msgid "Substories complete!"
+msgstr ""
+
+msgctxt "42871"
+msgid "Congratulations, Kazuma, you've completed all the Substories."
+msgstr ""
+
+msgctxt "42933"
+msgid ""
+"You can't help but get involved in everything that happens around you, can "
+"you?"
+msgstr ""
+
+msgctxt "43013"
+msgid ""
+"Anyway, I have a gift for you. Bob Utsunomiya is holding on to it for you, "
+"so go find him when you want to pick it up. He's somewhere around town."
+msgstr ""
+
+msgctxt "43160"
+msgid "Don't worry if you lose it. You can get it from him again."
+msgstr ""
+
+msgctxt "43219"
+msgid "Hostess list complete"
+msgstr ""
+
+msgctxt "43241"
+msgid "Congratulations! Looks like you've romanced all the hostesses."
+msgstr ""
+
+msgctxt "43304"
+msgid ""
+"Bet you like all that attention, you playboy! Never would've pegged you for "
+"a fan of hostess clubs, though... Anyway, I have a gift for you. Bob "
+"Utsunomiya is holding on to it for you, so go find him when you want to "
+"pick it up. He's somewhere around town."
+msgstr ""
+
+msgctxt "43561"
+msgid "Locker list complete"
+msgstr ""
+
+msgctxt "43582"
+msgid "Congratulations, Kazuma, you've opened all the coin lockers."
+msgstr ""
+
+msgctxt "43643"
+msgid ""
+"You're surprisingly persistent. Anyway, I have a gift for you. Bob "
+"Utsunomiya is holding on to it for you, so go find him when you want to "
+"pick it up. He's somewhere around town."
+msgstr ""
+
+msgctxt "43822"
+msgid "Food list complete"
+msgstr ""
+
+msgctxt "43841"
+msgid "Congratulations, Kazuma, you've completed the food list."
+msgstr ""
+
+msgctxt "43898"
+msgid ""
+"Watch your weight, though. You don't have that young man's metabolism "
+"anymore. Anyway, I have a gift for you. Bob Utsunomiya is holding on to it "
+"for you, so go find him when you want to pick it up. He's somewhere around "
+"town."
+msgstr ""
+
+msgctxt "44124"
+msgid "Heat Action list complete"
+msgstr ""
+
+msgctxt "44150"
+msgid ""
+"Congratulations, Kazuma, you've learned every Heat Action. Honestly, I'm "
+"not surprised. Anyway, I have a gift for you. Bob Utsunomiya is holding on "
+"to it for you, so go find him when you want to pick it up. He's somewhere "
+"around town."
+msgstr ""
+
+msgctxt "44385"
+msgid "Coliseum list complete"
+msgstr ""
+
+msgctxt "44408"
+msgid ""
+"Congratulations, Kazuma, you've defeated all the Coliseum opponents. Looks "
+"like the Dragon of Dojima is still going strong. Anyway, I have a gift for "
+"you. Bob Utsunomiya is holding on to it for you, so go find him when you "
+"want to pick it up. He's somewhere around town."
+msgstr ""
+
+msgctxt "44679"
+msgid "Modded weapons list complete"
+msgstr ""
+
+msgctxt "44708"
+msgid ""
+"Congratulations, Kazuma, you've obtained every modded weapon. Men love "
+"modding their toys, I suppose. Anyway, I have a gift for you. Bob "
+"Utsunomiya is holding on to it for you, so go find him when you want to "
+"pick it up. He's somewhere around town."
+msgstr ""
+
+msgctxt "44957"
+msgid "Revelations list complete"
+msgstr ""
+
+msgctxt "44983"
+msgid "I just heard the good news from my friend Bob Utsunomiya."
+msgstr ""
+
+msgctxt "45041"
+msgid ""
+"Congratulations, Kazuma, you've completed all the Revelations. And I must "
+"say, the blog you created is very entertaining."
+msgstr ""
+
+msgctxt "45163"
+msgid "Minigame list complete"
+msgstr ""
+
+msgctxt "45186"
+msgid ""
+"Congratulations, Kazuma, you've completed all of the minigames. Never took "
+"you for a gamer! Anyway, I have a gift for you. Bob Utsunomiya is holding "
+"on to it for you, so go find him when you want to pick it up. He's "
+"somewhere around town."
+msgstr ""
+
+msgctxt "45425"
+msgid "You gave Haruka everything she wants!"
+msgstr ""
+
+msgctxt "45463"
+msgid "Renta Kamiyama"
+msgstr ""
+
+msgctxt "45478"
+msgid "Kamiyama Works Kamurocho"
+msgstr ""
+
+msgctxt "45503"
+msgid "What's up, Kiryu-san? It's Kamiyama. We met in Okinawa."
+msgstr ""
+
+msgctxt "45559"
+msgid ""
+"Just wanted to let you know my brother has a shop in Kamurocho. It's called "
+"Kamiyama Works Kamurocho."
+msgstr ""
+
+msgctxt "45661"
+msgid "Tell him I said hi if you ever stop by his shop."
+msgstr ""
+
+msgctxt "45710"
+msgid "Later."
+msgstr ""

@@ -1,0 +1,78 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "76"
+msgid "(...He's not here, either. I could've sworn this would be right.)"
+msgstr ""
+
+msgctxt "124"
+msgid "Hello?"
+msgstr ""
+
+msgctxt "136"
+msgid "Aniki! It's Rikiya!"
+msgstr ""
+
+msgctxt "148"
+msgid "Where the heck are you? I've looked all over town."
+msgstr ""
+
+msgctxt "160"
+msgid ""
+"Look, there's some serious shit goin' down here, Aniki!\r\n"
+"These creepos are tryin' to nab some lady in a park!"
+msgstr ""
+
+msgctxt "172"
+msgid "I'll be there soon. Just don't do anything too⑬"
+msgstr ""
+
+msgctxt "184"
+msgid "I'm not gonna sit around and let 'em snatch this girl! I'm goin' in, Aniki!"
+msgstr ""
+
+msgctxt "196"
+msgid "⑬rash."
+msgstr ""
+
+msgctxt "208"
+msgid "*beep* *beep* *beep*"
+msgstr ""
+
+msgctxt "220"
+msgid "......"
+msgstr ""
+
+msgctxt "268"
+msgid "(He must be at Children's Park. I've gotta hurry!)"
+msgstr ""
+
+msgctxt "2016"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "2020"
+msgid "P_stand_tlk_phone_st"
+msgstr ""
+
+msgctxt "2024"
+msgid "Rikiya"
+msgstr ""
+
+msgctxt "2028"
+msgid "P_stand_tlk_phone_ed"
+msgstr ""
+
+msgctxt "2032"
+msgid "dummy"
+msgstr ""

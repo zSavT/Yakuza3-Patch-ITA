@@ -1,0 +1,106 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "224"
+msgid ""
+"Oh, are you one of the lucky few⑬the chosen? Congratulations! Allow me to "
+"show you to our office!"
+msgstr ""
+
+msgctxt "236"
+msgid "No thanks."
+msgstr ""
+
+msgctxt "248"
+msgid ""
+"I'm so sorry. I just assumed you'd been selected to try our new water "
+"purifiers."
+msgstr ""
+
+msgctxt "260"
+msgid "I did get a message to that effect. Mind if I come inside?"
+msgstr ""
+
+msgctxt "272"
+msgid "Absolutely, absolutely! Right this way, sir!"
+msgstr ""
+
+msgctxt "296"
+msgid "Ah, sir! You're back! Our CEO is waiting for you. Please come with me!"
+msgstr ""
+
+msgctxt "308"
+msgid "Actually, I'm not quite ready yet."
+msgstr ""
+
+msgctxt "320"
+msgid ""
+"Oh, I see. Well, it's first come, first served, so don't put it off for too "
+"long!"
+msgstr ""
+
+msgctxt "332"
+msgid "Yeah, okay."
+msgstr ""
+
+msgctxt "344"
+msgid "Absolutely, absolutely! Right this way, sir!"
+msgstr ""
+
+msgctxt "368"
+msgid "Enter the Office"
+msgstr ""
+
+msgctxt "380"
+msgid "Refuse"
+msgstr ""
+
+msgctxt "392"
+msgid "Enter the Office"
+msgstr ""
+
+msgctxt "404"
+msgid "Later"
+msgstr ""
+
+msgctxt "2460"
+msgid "Clerk"
+msgstr ""
+
+msgctxt "2464"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "2468"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "2472"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "2476"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "2480"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "2484"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "2488"
+msgid "Talk_Quest"
+msgstr ""

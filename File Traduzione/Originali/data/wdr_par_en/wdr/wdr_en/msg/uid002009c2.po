@@ -1,0 +1,243 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "244"
+msgid ""
+"Oh, hey, Kiryu-san. I can take ya over to the Dragon Palace. Do you want a "
+"ride?"
+msgstr ""
+
+msgctxt "256"
+msgid "All right, enjoy the ride!"
+msgstr ""
+
+msgctxt "268"
+msgid ""
+"No worries! I'm usually hanging out around here. Come see me if you feel up "
+"to heading over there."
+msgstr ""
+
+msgctxt "280"
+msgid "This is it."
+msgstr ""
+
+msgctxt "292"
+msgid "Wait a minute..."
+msgstr ""
+
+msgctxt "304"
+msgid "Oh, you already know the place?"
+msgstr ""
+
+msgctxt "316"
+msgid "Yeah, I've been here before."
+msgstr ""
+
+msgctxt "328"
+msgid ""
+"That'll make my job easier, then. Everyone who knows of the Kamurocho "
+"underground should visit this place at least once, to see its gambling "
+"halls and dojo..."
+msgstr ""
+
+msgctxt "340"
+msgid "The Dragon Palace!"
+msgstr ""
+
+msgctxt "352"
+msgid ""
+"I knew they ran a gambling hall in the Dragon Palace, but this is the first "
+"I'm hearing about a dojo."
+msgstr ""
+
+msgctxt "364"
+msgid ""
+"Well! The dojo's still pretty new to the Palace. It was only set up about a "
+"year ago."
+msgstr ""
+
+msgctxt "376"
+msgid ""
+"Some old martial artist named Komaki teaches people new moves there. At "
+"least, when he feels like it."
+msgstr ""
+
+msgctxt "388"
+msgid ""
+"We get all sorts of strong-lookin' guys going straight past the gambling "
+"hall and beelining for the dojo. Probably hoping to learn something new."
+msgstr ""
+
+msgctxt "400"
+msgid "You said his name's Komaki? Wonder if it's the same Komaki I know..."
+msgstr ""
+
+msgctxt "412"
+msgid "The only people allowed in are the ones we regulars let in."
+msgstr ""
+
+msgctxt "424"
+msgid ""
+"We got lotsa games here, from shogi to your usual gambling fare. Best thing "
+"is, cops can't lay a finger on us, on account of our complicated layout."
+msgstr ""
+
+msgctxt "436"
+msgid "Well, go on! Get out there and start havin' fun!"
+msgstr ""
+
+msgctxt "496"
+msgid "Hey, Kiryu-san! Want a ride?"
+msgstr ""
+
+msgctxt "508"
+msgid "Off we go!"
+msgstr ""
+
+msgctxt "520"
+msgid "All right... I was hopin' to repay you, but I guess now's not the time."
+msgstr ""
+
+msgctxt "532"
+msgid "Come back later if you change your mind, all right?"
+msgstr ""
+
+msgctxt "544"
+msgid "Damn, you're tough..."
+msgstr ""
+
+msgctxt "556"
+msgid "Any more trash I need to clean up? I could do this all day."
+msgstr ""
+
+msgctxt "568"
+msgid "Dammit! You ain't seen the last of us, old man!"
+msgstr ""
+
+msgctxt "580"
+msgid "You saved my shell! Thank you so much!"
+msgstr ""
+
+msgctxt "592"
+msgid "My name's Kamekichi. Mind if I ask your name?"
+msgstr ""
+
+msgctxt "604"
+msgid "It's Kiryu."
+msgstr ""
+
+msgctxt "616"
+msgid "Kiryu-san... Won't be forgettin' that name anytime soon."
+msgstr ""
+
+msgctxt "628"
+msgid ""
+"Well, I gotta repay you for saving a wretch like me. Come with me for a hot "
+"minute, I'll show you somethin' interesting."
+msgstr ""
+
+msgctxt "688"
+msgid "Here, get in."
+msgstr ""
+
+msgctxt "700"
+msgid "Where are you going to take me?"
+msgstr ""
+
+msgctxt "712"
+msgid ""
+"Hold on, you're taking me there in this? You sure it's not going to explode "
+"the second you take it out of park?"
+msgstr ""
+
+msgctxt "724"
+msgid ""
+"Of course not! This here's the Hyper Turtle! It can go from zero to thirty "
+"kilometers an hour in under a minute!"
+msgstr ""
+
+msgctxt "736"
+msgid "(I'm getting some serious déjà vu here...)"
+msgstr ""
+
+msgctxt "748"
+msgid "Well? You gonna come along for a ride?"
+msgstr ""
+
+msgctxt "760"
+msgid "Off we go!"
+msgstr ""
+
+msgctxt "796"
+msgid "All right... I was hopin' to repay you, but I guess now's not the time."
+msgstr ""
+
+msgctxt "808"
+msgid "Come back later if you change your mind, all right?"
+msgstr ""
+
+msgctxt "820"
+msgid "Yes"
+msgstr ""
+
+msgctxt "832"
+msgid "No"
+msgstr ""
+
+msgctxt "844"
+msgid "Yes"
+msgstr ""
+
+msgctxt "856"
+msgid "No"
+msgstr ""
+
+msgctxt "868"
+msgid "Yes"
+msgstr ""
+
+msgctxt "880"
+msgid "No"
+msgstr ""
+
+msgctxt "7696"
+msgid "Kamekichi"
+msgstr ""
+
+msgctxt "7700"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "7704"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "7708"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "7712"
+msgid "Punk"
+msgstr ""
+
+msgctxt "7716"
+msgid "Homeless Man"
+msgstr ""
+
+msgctxt "7720"
+msgid "dummy"
+msgstr ""
+
+msgctxt "7724"
+msgid "0"
+msgstr ""

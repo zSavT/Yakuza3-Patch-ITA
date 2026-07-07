@@ -1,0 +1,54 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "124"
+msgid "The hell are you doin' walking around in those flashy clothes, huh!?"
+msgstr ""
+
+msgctxt "136"
+msgid "You stick out like a sore freakin' thumb, and I ain't gonna let that fly!"
+msgstr ""
+
+msgctxt "160"
+msgid "Whoa... Look, I'm sorry for makin' fun of your clothes."
+msgstr ""
+
+msgctxt "172"
+msgid "Will you leave me alone if I give ya this?"
+msgstr ""
+
+msgctxt "184"
+msgid "You got a lovely %s."
+msgstr ""
+
+msgctxt "220"
+msgid ""
+"Y'know, now that I get a good look at you, you actually look pretty cool. "
+"Yep, I'm all about those flashy clothes, haha!"
+msgstr ""
+
+msgctxt "1384"
+msgid "Angry Punk"
+msgstr ""
+
+msgctxt "1388"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "1392"
+msgid "Sync_Send"
+msgstr ""
+
+msgctxt "1396"
+msgid "Talk_Yes"
+msgstr ""

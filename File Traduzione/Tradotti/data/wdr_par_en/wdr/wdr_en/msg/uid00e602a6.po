@@ -1,0 +1,160 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "124"
+msgid ""
+"So how much is it gonna cost to fix up the sheet metal on\r\n"
+"that car?"
+msgstr ""
+
+msgctxt "136"
+msgid ""
+"Well, it'll have to be buffed out from the inside, plus the\r\n"
+"cost of a fresh new coat of paint... I figure it'll come to\r\n"
+"about, oh, two million yen. Just a ballpark figure."
+msgstr ""
+
+msgctxt "148"
+msgid "That's ridiculous."
+msgstr ""
+
+msgctxt "160"
+msgid ""
+"That's a high-end sports car you fucked up there, pal!\r\n"
+"Didn't you hear!? The entire body's gonna have to be\r\n"
+"redone just to make it look half decent!"
+msgstr ""
+
+msgctxt "172"
+msgid "You sure know an awful lot about car repairs, don't you?"
+msgstr ""
+
+msgctxt "184"
+msgid ""
+"Shut up! You should be happy we're willing to settle this\r\n"
+"out of court for a measly two mil!"
+msgstr ""
+
+msgctxt "196"
+msgid ""
+"Now, now... Two million yen is a fairly hefty sum, and\r\n"
+"I imagine you can't pay it all right away..."
+msgstr ""
+
+msgctxt "208"
+msgid ""
+"So how about this? For now, you can just sign an agreement\r\n"
+"that says you'll pay for the car repairs, whatever their\r\n"
+"final cost may be."
+msgstr ""
+
+msgctxt "220"
+msgid ""
+"And who knows? Maybe it'll end up being cheaper than we\r\n"
+"thought, maybe even around ten thousand or so. What do you\r\n"
+"say?"
+msgstr ""
+
+msgctxt "232"
+msgid "Sounds all right, I suppose. Here you go."
+msgstr ""
+
+msgctxt "244"
+msgid ""
+"I'm so glad we could settle this in a rational manner. We'll\r\n"
+"send you the bill when all the repairs have been made."
+msgstr ""
+
+msgctxt "256"
+msgid "Please take that door on your way out."
+msgstr ""
+
+msgctxt "280"
+msgid "Are you kidding me? I'm not signing anything."
+msgstr ""
+
+msgctxt "292"
+msgid ""
+"I'm terribly sorry to hear that... but I'm afraid we can't\r\n"
+"let you leave this office without signing."
+msgstr ""
+
+msgctxt "304"
+msgid ""
+"After we're through with ya, you'll practically be beggin'\r\n"
+"to sign that paper... whether in ink or in blood!"
+msgstr ""
+
+msgctxt "340"
+msgid "I'll sign and see what happens."
+msgstr ""
+
+msgctxt "352"
+msgid "Nope. This is way too shady."
+msgstr ""
+
+msgctxt "4144"
+msgid "Punk"
+msgstr ""
+
+msgctxt "4148"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "4152"
+msgid "Metal Factory Boss"
+msgstr ""
+
+msgctxt "4156"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "4160"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "4164"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "4168"
+msgid "Talk_Udekumi_st"
+msgstr ""
+
+msgctxt "4172"
+msgid "Head Punk"
+msgstr ""
+
+msgctxt "4176"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "4180"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "4184"
+msgid "P_stand_tlk_away"
+msgstr ""
+
+msgctxt "4188"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "4192"
+msgid "Talk_Info_L"
+msgstr ""
+
+msgctxt "4196"
+msgid "Talk_Odosu"
+msgstr ""

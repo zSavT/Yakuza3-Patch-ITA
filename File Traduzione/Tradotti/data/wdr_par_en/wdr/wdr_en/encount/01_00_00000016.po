@@ -1,0 +1,56 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "124"
+msgid "Ain't gonna be no one in this town who don't know me!"
+msgstr ""
+
+msgctxt "136"
+msgid "Like hell you can just walk by a yakuza like me without showin' respect!"
+msgstr ""
+
+msgctxt "160"
+msgid "Holy shit, you're strong... Wait, aren't you a former yakuza?"
+msgstr ""
+
+msgctxt "172"
+msgid "I'm sorry, sir. Forgive me, sir. Please take this as an apology."
+msgstr ""
+
+msgctxt "184"
+msgid "You got a beauteous %s."
+msgstr ""
+
+msgctxt "220"
+msgid "You'll let me off the hook, right?"
+msgstr ""
+
+msgctxt "1284"
+msgid "Disgruntled Yakuza"
+msgstr ""
+
+msgctxt "1288"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "1292"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "1296"
+msgid "Sync_Send"
+msgstr ""
+
+msgctxt "1300"
+msgid "Talk_No"
+msgstr ""

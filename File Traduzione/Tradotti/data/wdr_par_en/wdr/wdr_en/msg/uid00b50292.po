@@ -1,0 +1,62 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "108"
+msgid ""
+"Hey, it's you again. I was on my way to Doc Emoto's clinic, but I got lost. "
+"Think you could just take me there?"
+msgstr ""
+
+msgctxt "120"
+msgid "Hell, this city's changed so much, I don't know which way is up."
+msgstr ""
+
+msgctxt "132"
+msgid "It's right over there. Go find it yourself."
+msgstr ""
+
+msgctxt "156"
+msgid "Sure, I'll take you."
+msgstr ""
+
+msgctxt "168"
+msgid "Hey, I appreciate that, buddy."
+msgstr ""
+
+msgctxt "192"
+msgid "Take Him to Emoto Medical Clinic"
+msgstr ""
+
+msgctxt "204"
+msgid "Ignore Him"
+msgstr ""
+
+msgctxt "1268"
+msgid "Emotional Man"
+msgstr ""
+
+msgctxt "1272"
+msgid "Talk_Request"
+msgstr ""
+
+msgctxt "1276"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1280"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "1284"
+msgid "Talk_Yes"
+msgstr ""

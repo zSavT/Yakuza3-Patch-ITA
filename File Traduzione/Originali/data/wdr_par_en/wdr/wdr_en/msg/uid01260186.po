@@ -1,0 +1,90 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid "Takashi! I knew it was you!"
+msgstr ""
+
+msgctxt "76"
+msgid "......"
+msgstr ""
+
+msgctxt "88"
+msgid "You... know him?"
+msgstr ""
+
+msgctxt "100"
+msgid ""
+"Oh, yes. Taka here is my grandson... He fell in with the wrong crowd and "
+"started shakin' people down for pocket money. Guess it was only a matter of "
+"time 'til I was next."
+msgstr ""
+
+msgctxt "112"
+msgid ""
+"What were you thinking stealing from your own flesh and blood!? I'll stick "
+"you out on your grandfather's boat! That'll adjust your attitude, eh? Now "
+"get over here!"
+msgstr ""
+
+msgctxt "124"
+msgid "Granddad's boat? But you know I don't like the ocean!"
+msgstr ""
+
+msgctxt "148"
+msgid "Thanks for the help, young man. Here's a little somethin' for your trouble."
+msgstr ""
+
+msgctxt "160"
+msgid "You got <Color:8>3,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "172"
+msgid "I'm sorry, Grandma!  Just please, don't tell Granddad!"
+msgstr ""
+
+msgctxt "244"
+msgid "You got 3,000 EXP."
+msgstr ""
+
+msgctxt "2492"
+msgid "Old Woman"
+msgstr ""
+
+msgctxt "2496"
+msgid "Takashi"
+msgstr ""
+
+msgctxt "2500"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "2504"
+msgid "Talk_Udekumi_st"
+msgstr ""
+
+msgctxt "2508"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "2512"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "2516"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "2520"
+msgid "Talk_Request"
+msgstr ""

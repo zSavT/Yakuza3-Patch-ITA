@@ -1,0 +1,52 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "124"
+msgid "You reek of alcohol, buddy. You comin' back from a party? Huh?"
+msgstr ""
+
+msgctxt "136"
+msgid "Look, I've been havin' a real bad day. Just stand still for a second!"
+msgstr ""
+
+msgctxt "160"
+msgid "Guh..."
+msgstr ""
+
+msgctxt "172"
+msgid "How 'bout another round, huh? Ha... Haha..."
+msgstr ""
+
+msgctxt "184"
+msgid "You got a shabby %s."
+msgstr ""
+
+msgctxt "220"
+msgid "I gotta get to work..."
+msgstr ""
+
+msgctxt "1276"
+msgid "Disgruntled Yakuza"
+msgstr ""
+
+msgctxt "1280"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "1284"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "1288"
+msgid "Sync_Send"
+msgstr ""

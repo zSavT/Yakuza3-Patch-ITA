@@ -1,0 +1,63 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid "Thank you for taking the time to do this, Master Utabori."
+msgstr ""
+
+msgctxt "76"
+msgid "I appreciate it, old man! Sorry for blowin' my lid at you earlier."
+msgstr ""
+
+msgctxt "88"
+msgid ""
+"I suggest you learn some manners, boy. In the meantime, feel free to come "
+"back to me if the color ever begins to fade. I'll maintain all my work for "
+"as long as I live."
+msgstr ""
+
+msgctxt "100"
+msgid "I'll be back for sure. Gotta keep that Utabori touch intact!"
+msgstr ""
+
+msgctxt "112"
+msgid "Come on, Rikiya. We should get going. Thank you again, Master."
+msgstr ""
+
+msgctxt "124"
+msgid "Take care of yourselves."
+msgstr ""
+
+msgctxt "148"
+msgid "You got 10,000 EXP."
+msgstr ""
+
+msgctxt "1624"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1628"
+msgid "Rikiya"
+msgstr ""
+
+msgctxt "1632"
+msgid "Utabori"
+msgstr ""
+
+msgctxt "1636"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "1640"
+msgid "Talk_Yes"
+msgstr ""

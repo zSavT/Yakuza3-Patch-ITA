@@ -1,0 +1,481 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "284"
+msgid "Just a minute, son. You're not heading to West Park, are you?"
+msgstr ""
+
+msgctxt "296"
+msgid "Sorry, but I don't have time to talk."
+msgstr ""
+
+msgctxt "308"
+msgid ""
+"Really? You don't look busy. Looked to me like you were just strolling "
+"around..."
+msgstr ""
+
+msgctxt "320"
+msgid "Anyway, sorry to bother you. I'm sure you got somewhere to be!"
+msgstr ""
+
+msgctxt "332"
+msgid ""
+"Still, it's a shame that we've come to a point in our modern society where "
+"people can't even bother to give each other the time of day..."
+msgstr ""
+
+msgctxt "344"
+msgid "Oh, don't mind me... Just talkin' to myself..."
+msgstr ""
+
+msgctxt "356"
+msgid "I was planning to. Is something wrong?"
+msgstr ""
+
+msgctxt "368"
+msgid ""
+"Well, I wouldn't say that... But hardly anyone ever goes there since the "
+"Majima Family swooped in."
+msgstr ""
+
+msgctxt "380"
+msgid ""
+"I see... I thought all of the homeless people who lived here were kicked "
+"out. What are you doing here?"
+msgstr ""
+
+msgctxt "392"
+msgid ""
+"I guess I just couldn't say goodbye. Been here too long... Even the "
+"homeless can get attached to their surroundings, you know?"
+msgstr ""
+
+msgctxt "404"
+msgid ""
+"Actually, I know just about everything there is to know about this park. Go "
+"ahead, ask me a question! Try and stump me!"
+msgstr ""
+
+msgctxt "416"
+msgid "Hm? Well, I don't really have any questions..."
+msgstr ""
+
+msgctxt "428"
+msgid ""
+"Oh, I find that hard to believe. C'mon, I'll bet you got loads of 'em. If "
+"you don't ask me now, you'll regret it! We'll start simple."
+msgstr ""
+
+msgctxt "440"
+msgid ""
+"Take this place's name for example. I bet you don't know why it's called "
+"West Park even though it's on the northeast side of Kamurocho."
+msgstr ""
+
+msgctxt "452"
+msgid "The origin of the park's name...?"
+msgstr ""
+
+msgctxt "464"
+msgid "Sure, I know that."
+msgstr ""
+
+msgctxt "476"
+msgid "Is that so...? Sounds kinda fishy to me..."
+msgstr ""
+
+msgctxt "488"
+msgid "Actually, why do they call it \"West Park?\""
+msgstr ""
+
+msgctxt "500"
+msgid "Well... Why do you think?"
+msgstr ""
+
+msgctxt "512"
+msgid "Because it's on the west side of town."
+msgstr ""
+
+msgctxt "524"
+msgid ""
+"I just told you it's on the northeast side of town.\r\n"
+"Are you even listening?"
+msgstr ""
+
+msgctxt "536"
+msgid "......"
+msgstr ""
+
+msgctxt "548"
+msgid "Actually, it turns out it was a mistake made by city hall!"
+msgstr ""
+
+msgctxt "560"
+msgid "What?"
+msgstr ""
+
+msgctxt "572"
+msgid ""
+"Apparently, the head of town planning at city hall was kinda sloppy and "
+"messed up the name on the map."
+msgstr ""
+
+msgctxt "584"
+msgid "The park was open almost four years before anybody noticed."
+msgstr ""
+
+msgctxt "596"
+msgid ""
+"I guess people figured there must've been a good reason to name the park "
+"like that, so they never questioned it."
+msgstr ""
+
+msgctxt "608"
+msgid "I can see how that would happen..."
+msgstr ""
+
+msgctxt "620"
+msgid ""
+"It wasn't until they received an inquiry from someone who visited the park "
+"that the mistake was brought to light."
+msgstr ""
+
+msgctxt "632"
+msgid ""
+"I suppose they could've changed it to East Park, but it's not like it had "
+"another West Park to compete with, so they just decided to leave it as is."
+msgstr ""
+
+msgctxt "644"
+msgid "That's quite a story."
+msgstr ""
+
+msgctxt "656"
+msgid ""
+"Granted, most of us just call the place \"Purgatory\" now, so I guess it "
+"doesn't really matter."
+msgstr ""
+
+msgctxt "668"
+msgid "Guess not."
+msgstr ""
+
+msgctxt "680"
+msgid "Because a man named West built it."
+msgstr ""
+
+msgctxt "692"
+msgid "Hahaha! That's a good one, but nope."
+msgstr ""
+
+msgctxt "704"
+msgid "Actually, it turns out it was a mistake made by city hall!"
+msgstr ""
+
+msgctxt "716"
+msgid "What?"
+msgstr ""
+
+msgctxt "728"
+msgid ""
+"Apparently, the head of town planning at city hall was kinda sloppy and "
+"messed up the name on the map."
+msgstr ""
+
+msgctxt "740"
+msgid "The park was open almost four years before anybody noticed."
+msgstr ""
+
+msgctxt "752"
+msgid ""
+"I guess people figured there must've been a good reason to name the park "
+"like that, so they never questioned it."
+msgstr ""
+
+msgctxt "764"
+msgid "I can see how that would happen..."
+msgstr ""
+
+msgctxt "776"
+msgid ""
+"It wasn't until they received an inquiry from someone who visited the park "
+"that the mistake was brought to light."
+msgstr ""
+
+msgctxt "788"
+msgid ""
+"I suppose they could've changed it to East Park, but it's not like it had "
+"another West Park to compete with, so they just decided to leave it as is."
+msgstr ""
+
+msgctxt "800"
+msgid "That's quite a story."
+msgstr ""
+
+msgctxt "812"
+msgid ""
+"Granted, most of us just call the place \"Purgatory\" now, so I guess it "
+"doesn't really matter."
+msgstr ""
+
+msgctxt "824"
+msgid "Guess not."
+msgstr ""
+
+msgctxt "836"
+msgid "By the way... I believe the man who built it was named Hirayama-san."
+msgstr ""
+
+msgctxt "848"
+msgid "Was it just a mistake?"
+msgstr ""
+
+msgctxt "860"
+msgid ""
+"Precisely! I suppose it's not the most interesting answer, but yeah, it was "
+"just a mistake from someone at city hall."
+msgstr ""
+
+msgctxt "872"
+msgid "Happens, I guess."
+msgstr ""
+
+msgctxt "884"
+msgid "Now then, do you know why they call this place \"Purgatory\"?"
+msgstr ""
+
+msgctxt "896"
+msgid "Everybody knows that."
+msgstr ""
+
+msgctxt "908"
+msgid ""
+"Really...? Rats, I thought I was the only one. I'll have to think of some "
+"better questions..."
+msgstr ""
+
+msgctxt "920"
+msgid "By all means, tell me."
+msgstr ""
+
+msgctxt "932"
+msgid ""
+"Traditionally speaking, Purgatory is a place between this world and the "
+"next where the dead are purified before they're sent off to heaven."
+msgstr ""
+
+msgctxt "944"
+msgid "In other words, people thought there was another world beyond this one."
+msgstr ""
+
+msgctxt "956"
+msgid ""
+"Hmm... So this side of the door is the land of the living, and the other "
+"side is the land of the dead?"
+msgstr ""
+
+msgctxt "968"
+msgid ""
+"In a way. You see, compared to the outside world, this park was just a "
+"little bit closer to heaven. At least... that's how it was for us homeless "
+"people."
+msgstr ""
+
+msgctxt "980"
+msgid ""
+"We didn't have to worry about cops harassing us or some punk kids trying to "
+"beat us up."
+msgstr ""
+
+msgctxt "992"
+msgid "The streets of Kamurocho were like hell compared to Purgatory."
+msgstr ""
+
+msgctxt "1004"
+msgid "That explains a lot... I guess one man's hell is another man's heaven."
+msgstr ""
+
+msgctxt "1016"
+msgid ""
+"There used to be a secret network of rooms beneath Purgatory where the "
+"wealthy could drink and gamble all they wanted."
+msgstr ""
+
+msgctxt "1028"
+msgid ""
+"But now that it's deserted, the place has a lot more in common with hell "
+"than it does heaven."
+msgstr ""
+
+msgctxt "1040"
+msgid "What's it like now?"
+msgstr ""
+
+msgctxt "1052"
+msgid ""
+"That's one question I can't answer. If you're lookin' to find out, you'll "
+"have to go inside and see for yourself. You'll wanna be real careful, "
+"though."
+msgstr ""
+
+msgctxt "1064"
+msgid "All right."
+msgstr ""
+
+msgctxt "1076"
+msgid "By the way, have you ever heard of a man they call \"The Florist of Sai\"?"
+msgstr ""
+
+msgctxt "1088"
+msgid "Yeah. I know him pretty well."
+msgstr ""
+
+msgctxt "1100"
+msgid ""
+"He's a legendary informant who ran his whole operation out of Purgatory. "
+"Got his name 'cause he'd deliver info to his clients in a bouquet of "
+"flowers..."
+msgstr ""
+
+msgctxt "1112"
+msgid "I wonder what he's up to now...?"
+msgstr ""
+
+msgctxt "1124"
+msgid ""
+"(The Florist moved his base of operations to Millennium Tower during the "
+"incident with the Jingweon Mafia then went back to Purgatory...)"
+msgstr ""
+
+msgctxt "1136"
+msgid ""
+"(Not sure where he is now, though. I guess I should've asked Date-san about "
+"it...)"
+msgstr ""
+
+msgctxt "1148"
+msgid "That's all I have to say. Sorry to bother you, son."
+msgstr ""
+
+msgctxt "1160"
+msgid "Ignore Him"
+msgstr ""
+
+msgctxt "1172"
+msgid "Hear Him Out"
+msgstr ""
+
+msgctxt "1184"
+msgid "Sure, I know that."
+msgstr ""
+
+msgctxt "1196"
+msgid "Actually, why do they call it \"West Park?\""
+msgstr ""
+
+msgctxt "1208"
+msgid "Because it's on the west side of town."
+msgstr ""
+
+msgctxt "1220"
+msgid "Because a man named West built it."
+msgstr ""
+
+msgctxt "1232"
+msgid "Was it just a mistake?"
+msgstr ""
+
+msgctxt "1244"
+msgid "Everybody knows that."
+msgstr ""
+
+msgctxt "1256"
+msgid "By all means, tell me."
+msgstr ""
+
+msgctxt "14104"
+msgid "Homeless Man"
+msgstr ""
+
+msgctxt "14108"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "14112"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "14116"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "14120"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "14124"
+msgid "Talk_Away"
+msgstr ""
+
+msgctxt "14128"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "14132"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "14136"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "14140"
+msgid "Wise Homeless Man"
+msgstr ""
+
+msgctxt "14144"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "14148"
+msgid "Talk_NoBig"
+msgstr ""
+
+msgctxt "14152"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "14156"
+msgid "1_-150_LINE_VF"
+msgstr ""
+
+msgctxt "14160"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "14164"
+msgid "0.5_-150_LINE_VF"
+msgstr ""
+
+msgctxt "14168"
+msgid "0_-150_LINE_VF"
+msgstr ""
+
+msgctxt "14172"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "14176"
+msgid "Talk_Gakkari"
+msgstr ""

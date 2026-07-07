@@ -1,0 +1,537 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "244"
+msgid "I'm Kaede Aniya. You can just call me Kaede."
+msgstr ""
+
+msgctxt "256"
+msgid ""
+"I'm Kiryu. I used to live in Kamurocho, if you've heard of\r\n"
+"it. It's one of the seedier parts of Tokyo."
+msgstr ""
+
+msgctxt "268"
+msgid ""
+"Nope, definitely don't know it! I'm so jealous, though. The\r\n"
+"closest I've ever gotten was a field trip to Kyoto..."
+msgstr ""
+
+msgctxt "280"
+msgid ""
+"And I mean, there's so much to love about Tokyo, right? All\r\n"
+"we've got here in Okinawa is fish and salty air."
+msgstr ""
+
+msgctxt "292"
+msgid "I don't know, I think Okinawa has its charms."
+msgstr ""
+
+msgctxt "304"
+msgid ""
+"But it's nothing compared to Tokyo! Aw gee, I sure wish I\r\n"
+"could live up there. But I guess just hearing about it is a\r\n"
+"good start for now!"
+msgstr ""
+
+msgctxt "316"
+msgid "...Sure. What did you want to know?"
+msgstr ""
+
+msgctxt "328"
+msgid ""
+"Well if I'm gonna move up there, I would have to find a\r\n"
+"place to live, right? How much is rent?"
+msgstr ""
+
+msgctxt "340"
+msgid "Hmm... A studio goes for around 100,000 yen."
+msgstr ""
+
+msgctxt "352"
+msgid ""
+"What's a studio? Like a photography studio or something?\r\n"
+"Why would you live in a place like that?"
+msgstr ""
+
+msgctxt "364"
+msgid ""
+"It just means a one room apartment. You don't really need\r\n"
+"much more than that if you're living alone. Trust me."
+msgstr ""
+
+msgctxt "376"
+msgid ""
+"100 grand for just one room!? But you can get a whole house\r\n"
+"down here for that price!"
+msgstr ""
+
+msgctxt "388"
+msgid ""
+"Geez, people in Tokyo must spend their entire income on\r\n"
+"rent alone!"
+msgstr ""
+
+msgctxt "400"
+msgid "Not everyone, but I suppose some do, yeah."
+msgstr ""
+
+msgctxt "424"
+msgid ""
+"Hmm... A studio goes for around 100,000 yen. Roppongi would\r\n"
+"run you about 300,000 yen a month."
+msgstr ""
+
+msgctxt "436"
+msgid ""
+"Three hundred thousand!? Are we talking a luxury condo here?\r\n"
+"Or some sort of castle!?"
+msgstr ""
+
+msgctxt "448"
+msgid ""
+"No castles, but that'd be about right for a luxury condo.\r\n"
+"Roppongi's where the rich folks live."
+msgstr ""
+
+msgctxt "460"
+msgid ""
+"Wow... People in Tokyo must be even wealthier than\r\n"
+"I realized."
+msgstr ""
+
+msgctxt "484"
+msgid ""
+"Well, if you don't mind living in the suburbs, you can find\r\n"
+"decent apartments for about 60,000 yen."
+msgstr ""
+
+msgctxt "496"
+msgid "Oh, that's actually not so bad!"
+msgstr ""
+
+msgctxt "508"
+msgid ""
+"When you say suburbs, you're talking like one town over from\r\n"
+"Kamurocho, right?"
+msgstr ""
+
+msgctxt "520"
+msgid ""
+"More like an hour away. The only way to get rent that cheap\r\n"
+"is to live pretty far from the city."
+msgstr ""
+
+msgctxt "532"
+msgid "An hour...? That's like, not even in Tokyo anymore."
+msgstr ""
+
+msgctxt "556"
+msgid ""
+"Anyway, next question! If I do end up living in Tokyo,\r\n"
+"should I bring my car with me? Everyone's always driving\r\n"
+"around the city on TV and stuff."
+msgstr ""
+
+msgctxt "568"
+msgid ""
+"I'd never be able to shop without a car, anyway. Plus how\r\n"
+"would I even get around? I drove into town today, after all!"
+msgstr ""
+
+msgctxt "580"
+msgid "A car? Parking fees are pretty expensive in Tokyo, you know."
+msgstr ""
+
+msgctxt "592"
+msgid ""
+"How bad could it be, like 3,000 a month? I could manage that\r\n"
+"no problem."
+msgstr ""
+
+msgctxt "604"
+msgid "Hardly. It'd be more like 30,000."
+msgstr ""
+
+msgctxt "616"
+msgid ""
+"What!? That's practically what I'd be paying for rent!\r\n"
+"Or do people just live out of their cars in Tokyo?"
+msgstr ""
+
+msgctxt "640"
+msgid ""
+"Ditch the car. Trains will take you everywhere you need to\r\n"
+"go."
+msgstr ""
+
+msgctxt "652"
+msgid ""
+"How am I gonna do all my shopping like that, though? Am I\r\n"
+"supposed to spend half my time on a train just to go buy some\r\n"
+"fish?"
+msgstr ""
+
+msgctxt "664"
+msgid ""
+"There's more than just trains, by the way. We also have a\r\n"
+"subway, taxis, buses. Anything you could need."
+msgstr ""
+
+msgctxt "676"
+msgid ""
+"Besides, there are stores everywhere, so half the time you\r\n"
+"won't even need to get on a train at all."
+msgstr ""
+
+msgctxt "688"
+msgid ""
+"I mean, I guess... but it's so hard to imagine life without\r\n"
+"a car."
+msgstr ""
+
+msgctxt "712"
+msgid ""
+"Wait, you drove here? Drinking and driving is dangerous, not to mention "
+"illegal."
+msgstr ""
+
+msgctxt "724"
+msgid ""
+"Oh, don't worry. I'm staying at a friend's place in Downtown\r\n"
+"Ryukyu today."
+msgstr ""
+
+msgctxt "772"
+msgid "Oh, there you are, Kaede! I knew I'd find you here."
+msgstr ""
+
+msgctxt "784"
+msgid "Oh, Momiji-chan! You sure do know me well."
+msgstr ""
+
+msgctxt "796"
+msgid ""
+"It's not hard to guess when you always go to the same bar.\r\n"
+"So, who's this?"
+msgstr ""
+
+msgctxt "808"
+msgid "This is Kiryu-san. He's from Tokyo. We were just chatting."
+msgstr ""
+
+msgctxt "820"
+msgid ""
+"You're still thinking about moving? I'm sorry about my\r\n"
+"friend here, sir. She's so star-struck by the big city."
+msgstr ""
+
+msgctxt "832"
+msgid ""
+"We keep trying to tell her that she won't last a minute up\r\n"
+"in Tokyo, but she refuses to listen..."
+msgstr ""
+
+msgctxt "844"
+msgid "That's not true! I can do it if I try, you know!"
+msgstr ""
+
+msgctxt "856"
+msgid ""
+"Please, Kiryu-san. You know Tokyo best. Tell her why it\r\n"
+"would be such a bad idea."
+msgstr ""
+
+msgctxt "868"
+msgid ""
+"If you want to go, then go. You have to see for yourself\r\n"
+"whether you can make it or not."
+msgstr ""
+
+msgctxt "880"
+msgid "Kiryu-san... I knew you'd understand!"
+msgstr ""
+
+msgctxt "892"
+msgid ""
+"I can understand why you're worried about her, but if you\r\n"
+"stop her from trying, she'll just end up resenting you guys."
+msgstr ""
+
+msgctxt "904"
+msgid "I suppose you're right..."
+msgstr ""
+
+msgctxt "916"
+msgid ""
+"I'll manage, don't worry. And if I need help, I'll just give\r\n"
+"Kiryu-san a call!"
+msgstr ""
+
+msgctxt "928"
+msgid "What?"
+msgstr ""
+
+msgctxt "940"
+msgid "Is that okay?"
+msgstr ""
+
+msgctxt "952"
+msgid ""
+"...Well, I did tell you to go. Here's my number. Give me a\r\n"
+"ring if you ever need a hand."
+msgstr ""
+
+msgctxt "964"
+msgid "Wow, thanks! It's not much, but take this."
+msgstr ""
+
+msgctxt "976"
+msgid "You got a <Color:8>Soki Burger Set<Color:Default>."
+msgstr ""
+
+msgctxt "1000"
+msgid "Okay, we're gonna go now! I'll take care of the tab."
+msgstr ""
+
+msgctxt "1060"
+msgid "(Sounds like Kaede'll end up in Tokyo before too long...)"
+msgstr ""
+
+msgctxt "1084"
+msgid "You got 2,000 EXP."
+msgstr ""
+
+msgctxt "1108"
+msgid "Your friend's right, Kaede. It won't be easy."
+msgstr ""
+
+msgctxt "1120"
+msgid "See? He's from Tokyo, and even he agrees with me!"
+msgstr ""
+
+msgctxt "1132"
+msgid ""
+"Still, I won't know unless I try! Besides... I really want\r\n"
+"to give it a shot."
+msgstr ""
+
+msgctxt "1144"
+msgid ""
+"Hm. It might be tough, but if you're really that dead set on\r\n"
+"going, there's no point stopping you."
+msgstr ""
+
+msgctxt "1156"
+msgid "But..."
+msgstr ""
+
+msgctxt "1168"
+msgid ""
+"I know you're worried. But if Kaede never gets the chance to\r\n"
+"do what she wants, she might end up resenting you for it."
+msgstr ""
+
+msgctxt "1180"
+msgid ""
+"I'll manage, don't worry. And if I need help, I'll just give\r\n"
+"Kiryu-san a call!"
+msgstr ""
+
+msgctxt "1192"
+msgid "What?"
+msgstr ""
+
+msgctxt "1204"
+msgid "Is that okay?"
+msgstr ""
+
+msgctxt "1216"
+msgid ""
+"...Well, I did tell you to go. Here's my number. Give me a\r\n"
+"ring if you ever need a hand."
+msgstr ""
+
+msgctxt "1228"
+msgid "Wow, thanks! It's not much, but take this."
+msgstr ""
+
+msgctxt "1240"
+msgid "You got a <Color:8>Soki Burger Set<Color:Default>."
+msgstr ""
+
+msgctxt "1264"
+msgid "Okay, we're gonna go now! I'll take care of the tab."
+msgstr ""
+
+msgctxt "1324"
+msgid "(Sounds like Kaede'll end up in Tokyo before too long...)"
+msgstr ""
+
+msgctxt "1348"
+msgid "You got 2,000 EXP."
+msgstr ""
+
+msgctxt "1372"
+msgid ""
+"I'll help you move if you want. So if you're really that\r\n"
+"dead set on Tokyo... you should go."
+msgstr ""
+
+msgctxt "1384"
+msgid "You mean it!?"
+msgstr ""
+
+msgctxt "1396"
+msgid "I mean it. I'll look out for you when you're up there."
+msgstr ""
+
+msgctxt "1408"
+msgid "But..."
+msgstr ""
+
+msgctxt "1420"
+msgid ""
+"I know you're worried. But if Kaede never gets the chance to\r\n"
+"do what she wants, she might end up resenting you for it."
+msgstr ""
+
+msgctxt "1432"
+msgid ""
+"Anyway, here's my number. Give me a ring if you ever need\r\n"
+"a hand with anything."
+msgstr ""
+
+msgctxt "1444"
+msgid "Wow, thanks! It's not much, but take this."
+msgstr ""
+
+msgctxt "1456"
+msgid "You got a <Color:8>Soki Burger Set<Color:Default>."
+msgstr ""
+
+msgctxt "1480"
+msgid "Okay, we're gonna go now! I'll take care of the tab."
+msgstr ""
+
+msgctxt "1540"
+msgid "(Sounds like Kaede'll end up in Tokyo before too long...)"
+msgstr ""
+
+msgctxt "1564"
+msgid "You got 2,000 EXP."
+msgstr ""
+
+msgctxt "1576"
+msgid "A studio goes for 100,000 yen."
+msgstr ""
+
+msgctxt "1588"
+msgid "Roppongi would run you about 300,000 yen."
+msgstr ""
+
+msgctxt "1600"
+msgid "About 60,000 yen if you're out in the suburbs."
+msgstr ""
+
+msgctxt "1612"
+msgid "Parking fees are expensive in Tokyo."
+msgstr ""
+
+msgctxt "1624"
+msgid "Ditch the car and take the train."
+msgstr ""
+
+msgctxt "1636"
+msgid "Don't drink and drive!"
+msgstr ""
+
+msgctxt "1648"
+msgid "If you want to go, then go."
+msgstr ""
+
+msgctxt "1660"
+msgid "Your friend is right, Kaede."
+msgstr ""
+
+msgctxt "1672"
+msgid "I'll help you move if you want."
+msgstr ""
+
+msgctxt "18732"
+msgid "Kaede"
+msgstr ""
+
+msgctxt "18736"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "18740"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "18744"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "18748"
+msgid "Talk_Request"
+msgstr ""
+
+msgctxt "18752"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "18756"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "18760"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "18764"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "18768"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "18772"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "18776"
+msgid "Kaede's Friend"
+msgstr ""
+
+msgctxt "18780"
+msgid "Momiji"
+msgstr ""
+
+msgctxt "18784"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "18788"
+msgid "P_stand"
+msgstr ""
+
+msgctxt "18792"
+msgid "Talk_Kamae"
+msgstr ""
+
+msgctxt "18796"
+msgid "0"
+msgstr ""

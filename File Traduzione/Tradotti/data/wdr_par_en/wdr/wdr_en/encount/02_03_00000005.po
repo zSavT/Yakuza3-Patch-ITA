@@ -1,0 +1,56 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "96"
+msgid "Hey, got a minute? You ran into me a while ago, you know?"
+msgstr ""
+
+msgctxt "108"
+msgid "You gonna pay for my clinic visit or what? Hey, say something, asshole!"
+msgstr ""
+
+msgctxt "132"
+msgid "Huh? Oh no, did I hurt you!? I'm real sorry about that!"
+msgstr ""
+
+msgctxt "144"
+msgid "Hope this is enough to cover your visit to the doctor..."
+msgstr ""
+
+msgctxt "156"
+msgid "You got a squeaky clean %s."
+msgstr ""
+
+msgctxt "192"
+msgid "Um... Do you know a good doctor?"
+msgstr ""
+
+msgctxt "1308"
+msgid "Irate Thug"
+msgstr ""
+
+msgctxt "1312"
+msgid "P_stand_sync_btl_neck_st"
+msgstr ""
+
+msgctxt "1316"
+msgid "M_ykz_stand_sync_btl_neck_st"
+msgstr ""
+
+msgctxt "1320"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "1324"
+msgid "Sync_Send"
+msgstr ""

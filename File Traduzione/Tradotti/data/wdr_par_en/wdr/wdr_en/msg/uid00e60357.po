@@ -1,0 +1,64 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "92"
+msgid "You have to see the bullfighting at least once while you're here."
+msgstr ""
+
+msgctxt "104"
+msgid "Bullfighting, huh? There any money in it?"
+msgstr ""
+
+msgctxt "116"
+msgid "Oh, you don't gamble on it. It's not like horse racing."
+msgstr ""
+
+msgctxt "128"
+msgid "You mean you just watch? Sounds boring."
+msgstr ""
+
+msgctxt "140"
+msgid "You'd think so, but watch it once, and I guarantee you'll be hooked."
+msgstr ""
+
+msgctxt "152"
+msgid "We can grab a taxi over there! I'll take you!"
+msgstr ""
+
+msgctxt "1024"
+msgid "Guide"
+msgstr ""
+
+msgctxt "1028"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "1032"
+msgid "Gambling Tourist"
+msgstr ""
+
+msgctxt "1036"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "1040"
+msgid "Talk_NoBig"
+msgstr ""
+
+msgctxt "1044"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "1048"
+msgid "Talk_Info_R"
+msgstr ""

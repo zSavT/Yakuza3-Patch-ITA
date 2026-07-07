@@ -1,0 +1,66 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "92"
+msgid "What should we do first?"
+msgstr ""
+
+msgctxt "104"
+msgid ""
+"I'm starving! Let's go have a steak! I hear that \"Sam's Maui\" place is "
+"great!"
+msgstr ""
+
+msgctxt "116"
+msgid ""
+"No, let's get ice cream first! I know it's only March, but I'm sweating "
+"like a pig..."
+msgstr ""
+
+msgctxt "128"
+msgid ""
+"Well, let's see... There's a place on Ryukyu Boulevard called the Blue "
+"Seal. We can get ice cream there, then go get some steaks later."
+msgstr ""
+
+msgctxt "140"
+msgid "Perfect!"
+msgstr ""
+
+msgctxt "1012"
+msgid "Girl in Charge"
+msgstr ""
+
+msgctxt "1016"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "1020"
+msgid "Hungry Girl"
+msgstr ""
+
+msgctxt "1024"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "1028"
+msgid "Exhausted Girl"
+msgstr ""
+
+msgctxt "1032"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "1036"
+msgid "Talk_Think"
+msgstr ""

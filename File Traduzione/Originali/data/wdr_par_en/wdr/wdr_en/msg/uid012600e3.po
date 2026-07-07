@@ -1,0 +1,170 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "124"
+msgid "(Aha... That must be Eri.)"
+msgstr ""
+
+msgctxt "136"
+msgid "Gotcha, Eri!"
+msgstr ""
+
+msgctxt "148"
+msgid "Huh? Oh, rats!"
+msgstr ""
+
+msgctxt "220"
+msgid ""
+"That was way too quick, Uncle Kaz! I wish I could've stayed hidden a little "
+"longer!"
+msgstr ""
+
+msgctxt "232"
+msgid ""
+"Heh, then you'll just have to hide better next time. Anyway, you're the "
+"last one. Let's go meet up with the others."
+msgstr ""
+
+msgctxt "316"
+msgid "Well, I found everybody. Did you all enjoy yourselves?"
+msgstr ""
+
+msgctxt "328"
+msgid "Yeah! I thought we made it pretty tough for you, but I guess not."
+msgstr ""
+
+msgctxt "340"
+msgid "I dunno... I thought it was kinda boring."
+msgstr ""
+
+msgctxt "352"
+msgid "Hm? What's wrong, Izumi?"
+msgstr ""
+
+msgctxt "364"
+msgid "(She's all bent outta shape because you didn't find her last. I told you!)"
+msgstr ""
+
+msgctxt "376"
+msgid "(Oh, yeah... Sorry about that.)"
+msgstr ""
+
+msgctxt "388"
+msgid "But it was fun playing together, Uncle Kaz. Let's do this again sometime!"
+msgstr ""
+
+msgctxt "400"
+msgid "Yeah, and next time we'll win for sure!"
+msgstr ""
+
+msgctxt "412"
+msgid "Heh, I'm looking forward to it."
+msgstr ""
+
+msgctxt "424"
+msgid "Come on everyone, let's go study! See you later, Uncle Kaz!"
+msgstr ""
+
+msgctxt "496"
+msgid "You got 3,000 EXP."
+msgstr ""
+
+msgctxt "520"
+msgid "(Aha... That must be Eri.)"
+msgstr ""
+
+msgctxt "532"
+msgid "Gotcha, Eri!"
+msgstr ""
+
+msgctxt "544"
+msgid "Huh? Oh, rats!"
+msgstr ""
+
+msgctxt "616"
+msgid ""
+"That was way too quick, Uncle Kaz! I wish I could've stayed hidden a little "
+"longer!"
+msgstr ""
+
+msgctxt "628"
+msgid "Sorry, Eri. That's just part of the game. Now, on to the next one."
+msgstr ""
+
+msgctxt "688"
+msgid "(Now that I know where Eri is, I can always come back to her later.)"
+msgstr ""
+
+msgctxt "700"
+msgid "(This spot's not great... but I don't think he sees me yet!)"
+msgstr ""
+
+msgctxt "712"
+msgid "Gotcha!"
+msgstr ""
+
+msgctxt "724"
+msgid "(On second thought...)"
+msgstr ""
+
+msgctxt "5692"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "5696"
+msgid "Eri"
+msgstr ""
+
+msgctxt "5700"
+msgid "Idle"
+msgstr ""
+
+msgctxt "5704"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "5708"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "5712"
+msgid "Talk_Udekumi_st"
+msgstr ""
+
+msgctxt "5716"
+msgid "Shiro"
+msgstr ""
+
+msgctxt "5720"
+msgid "Izumi"
+msgstr ""
+
+msgctxt "5724"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "5728"
+msgid "Talk_Udekumi_ed"
+msgstr ""
+
+msgctxt "5732"
+msgid "Taichi"
+msgstr ""
+
+msgctxt "5736"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "5740"
+msgid "Talk_Info_L"
+msgstr ""

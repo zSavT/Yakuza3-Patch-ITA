@@ -1,0 +1,176 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "112"
+msgid "Editorial desk. How can I help you?"
+msgstr ""
+
+msgctxt "124"
+msgid "Yeah, I had a question about one of your old articles..."
+msgstr ""
+
+msgctxt "136"
+msgid "I see. Go ahead."
+msgstr ""
+
+msgctxt "148"
+msgid ""
+"About three years back, you printed an article on the Millennium Tower "
+"bombing in Kamurocho. Who wrote that piece?"
+msgstr ""
+
+msgctxt "160"
+msgid "Three years back? Oh, the Millennium Tower story..."
+msgstr ""
+
+msgctxt "172"
+msgid "And you want the author, huh? Well, you're talking to him."
+msgstr ""
+
+msgctxt "184"
+msgid "I'm trying to find the man in that article's picture."
+msgstr ""
+
+msgctxt "196"
+msgid ""
+"Gosh, let's see... Pretty sure that's a bigtime yakuza. They call him the "
+"Dragon of Dojima, I think."
+msgstr ""
+
+msgctxt "208"
+msgid ""
+"No, don't worry about that guy. I need the one behind him. Kind of "
+"homeless-looking?"
+msgstr ""
+
+msgctxt "220"
+msgid ""
+"That I don't know. We don't exactly keep track of all the random people in "
+"our pictures."
+msgstr ""
+
+msgctxt "232"
+msgid "Besides, that was three whole years ago."
+msgstr ""
+
+msgctxt "244"
+msgid "And there's no way to find out?"
+msgstr ""
+
+msgctxt "256"
+msgid "You could ask the photographer, I guess? He might know something."
+msgstr ""
+
+msgctxt "268"
+msgid "One of your staff?"
+msgstr ""
+
+msgctxt "280"
+msgid ""
+"Actually, that specific photo we got from a contract photographer. "
+"Freelancer type."
+msgstr ""
+
+msgctxt "292"
+msgid "You'll probably have better luck asking him yourself."
+msgstr ""
+
+msgctxt "304"
+msgid "How can I get in touch with him, then?"
+msgstr ""
+
+msgctxt "316"
+msgid "His name's Yanai, and at this time of day, let's see..."
+msgstr ""
+
+msgctxt "328"
+msgid "He'd be out drinking in the Champion District. A place called Shellac."
+msgstr ""
+
+msgctxt "340"
+msgid "All right. Thanks for your help."
+msgstr ""
+
+msgctxt "388"
+msgid "The guy you want is at Shellac. A bar in the Champion District."
+msgstr ""
+
+msgctxt "400"
+msgid "The photographer, you mean?"
+msgstr ""
+
+msgctxt "412"
+msgid "Name's Yanai."
+msgstr ""
+
+msgctxt "424"
+msgid "And he's at Shellac... After all these years, I've finally got a lead."
+msgstr ""
+
+msgctxt "436"
+msgid "Thank you so much. Now... I'm a step closer to finding that bastard."
+msgstr ""
+
+msgctxt "448"
+msgid "\"That bastard\"? What, your dad?"
+msgstr ""
+
+msgctxt "460"
+msgid "He's finally going to get what's coming to him..."
+msgstr ""
+
+msgctxt "472"
+msgid "Hey... What are you talking about?"
+msgstr ""
+
+msgctxt "484"
+msgid "Doesn't matter. Thanks again for everything... See you around."
+msgstr ""
+
+msgctxt "520"
+msgid ""
+"(He'll \"get what's coming to him\"? Maybe I should check out Shellac "
+"myself.)"
+msgstr ""
+
+msgctxt "5512"
+msgid "P_stand_tlk_phone_st"
+msgstr ""
+
+msgctxt "5516"
+msgid "Magazine Editor"
+msgstr ""
+
+msgctxt "5520"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "5524"
+msgid "P_stand_tlk_phone_ed"
+msgstr ""
+
+msgctxt "5528"
+msgid "dummy"
+msgstr ""
+
+msgctxt "5532"
+msgid "Young Man"
+msgstr ""
+
+msgctxt "5536"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "5540"
+msgid "Talk_Ojigi"
+msgstr ""

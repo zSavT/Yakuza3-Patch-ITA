@@ -1,0 +1,56 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "92"
+msgid "Where are Lau and Rikiya!?"
+msgstr ""
+
+msgctxt "104"
+msgid "I... I don't know..."
+msgstr ""
+
+msgctxt "116"
+msgid "Do I have to beat it out of you?"
+msgstr ""
+
+msgctxt "128"
+msgid "Please, I tell the truth! Only officer know where boss is!"
+msgstr ""
+
+msgctxt "140"
+msgid "And where can I find this officer?"
+msgstr ""
+
+msgctxt "152"
+msgid "Not far ahead. He stand out because of clothes."
+msgstr ""
+
+msgctxt "164"
+msgid "Dammit... All right. I better not see you around here again."
+msgstr ""
+
+msgctxt "176"
+msgid "(Looks like I need to track down this officer.)"
+msgstr ""
+
+msgctxt "1156"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1160"
+msgid "Snake Flower Thug"
+msgstr ""
+
+msgctxt "1164"
+msgid "Talk_No"
+msgstr ""

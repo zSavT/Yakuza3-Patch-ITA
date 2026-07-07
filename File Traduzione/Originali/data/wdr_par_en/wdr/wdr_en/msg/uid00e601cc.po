@@ -1,0 +1,48 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "80"
+msgid "(Motoyama's got to be here somewhere...)"
+msgstr ""
+
+msgctxt "104"
+msgid "(There he is!)"
+msgstr ""
+
+msgctxt "116"
+msgid "Hey! Motoyama, right?"
+msgstr ""
+
+msgctxt "128"
+msgid "What? Crap, they found me!"
+msgstr ""
+
+msgctxt "140"
+msgid "You're not catching me!"
+msgstr ""
+
+msgctxt "152"
+msgid "Hold it, Motoyama!"
+msgstr ""
+
+msgctxt "884"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "888"
+msgid "2d_mn_mm26_photo"
+msgstr ""
+
+msgctxt "892"
+msgid "Motoyama"
+msgstr ""

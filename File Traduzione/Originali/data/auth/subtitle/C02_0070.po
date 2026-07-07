@@ -1,0 +1,54 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "108\t161"
+msgid "Aniki!"
+msgstr ""
+
+msgctxt "177\t285"
+msgid ""
+"Shit... The hell's he eat\\n"
+"to get that strong?"
+msgstr ""
+
+msgctxt "303\t363"
+msgid "Well?"
+msgstr ""
+
+msgctxt "386\t449"
+msgid "I may be mainland."
+msgstr ""
+
+msgctxt "461\t524"
+msgid "And I may be old."
+msgstr ""
+
+msgctxt "550\t644"
+msgid "But I still hit pretty hard, huh?"
+msgstr ""
+
+msgctxt "740\t791"
+msgid "Now that promise."
+msgstr ""
+
+msgctxt "793\t920"
+msgid "I want you to take me to your boss."
+msgstr ""
+
+msgctxt "971\t1017"
+msgid "...All right."
+msgstr ""
+
+msgctxt "1020\t1080"
+msgid "A deal's a deal."
+msgstr ""

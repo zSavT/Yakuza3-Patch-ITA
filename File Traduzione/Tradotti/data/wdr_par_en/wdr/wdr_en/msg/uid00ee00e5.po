@@ -1,0 +1,164 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "316"
+msgid ""
+"Welcome to the blackjack table. You can play one game for\r\n"
+"as little as 10 chips. Care to try your luck?"
+msgstr ""
+
+msgctxt "328"
+msgid ""
+"You're good. I bet you play blackjack pretty often. How about playing the "
+"house, one-on-one?"
+msgstr ""
+
+msgctxt "340"
+msgid "What would you like to do now?"
+msgstr ""
+
+msgctxt "352"
+msgid "All right, then. I'll need your 1,000 chips first."
+msgstr ""
+
+msgctxt "364"
+msgid "You paid 1,000 chips."
+msgstr ""
+
+msgctxt "376"
+msgid "Thank you. Now, then, let's begin."
+msgstr ""
+
+msgctxt "400"
+msgid "Very well. Then let's continue with normal blackjack."
+msgstr ""
+
+msgctxt "424"
+msgid "I'm feeling lucky today."
+msgstr ""
+
+msgctxt "436"
+msgid "An excellent choice."
+msgstr ""
+
+msgctxt "472"
+msgid "Not right now."
+msgstr ""
+
+msgctxt "484"
+msgid "I see. We hope you'll play next time."
+msgstr ""
+
+msgctxt "496"
+msgid "You seem to be short on chips. Please come back soon."
+msgstr ""
+
+msgctxt "508"
+msgid "Run the rules by me."
+msgstr ""
+
+msgctxt "520"
+msgid ""
+"This is a game between you and the house. Whoever gets\r\n"
+"three wins first wins the game."
+msgstr ""
+
+msgctxt "532"
+msgid ""
+"Before the game begins, I'll need 1,000 chips. The payout\r\n"
+"differs depending on which deck is used."
+msgstr ""
+
+msgctxt "544"
+msgid ""
+"- Normal deck: 2,000-chip payout\r\n"
+"- Deck without 2, 3, or 4 cards: 2,500-chip payout\r\n"
+"- Deck without 7, 8, or 9 cards: 2,000-chip payout\r\n"
+"- Deck without J, Q, or K cards: 4,000-chip payout"
+msgstr ""
+
+msgctxt "556"
+msgid "If you win, you'll get the designated number of chips."
+msgstr ""
+
+msgctxt "568"
+msgid "Yes"
+msgstr ""
+
+msgctxt "580"
+msgid "No"
+msgstr ""
+
+msgctxt "592"
+msgid "Play Against the House"
+msgstr ""
+
+msgctxt "604"
+msgid "Play Standard Blackjack"
+msgstr ""
+
+msgctxt "616"
+msgid "Hear the Rules"
+msgstr ""
+
+msgctxt "628"
+msgid "Not Now"
+msgstr ""
+
+msgctxt "640"
+msgid "Play Against the House"
+msgstr ""
+
+msgctxt "652"
+msgid "Play Standard Blackjack"
+msgstr ""
+
+msgctxt "664"
+msgid "Hear the Rules"
+msgstr ""
+
+msgctxt "676"
+msgid "Not Now"
+msgstr ""
+
+msgctxt "688"
+msgid "Pay"
+msgstr ""
+
+msgctxt "700"
+msgid "Don't Pay"
+msgstr ""
+
+msgctxt "4016"
+msgid "Dealer"
+msgstr ""
+
+msgctxt "4020"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "4024"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "4028"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "4032"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "4036"
+msgid "Deck Type and Payout"
+msgstr ""

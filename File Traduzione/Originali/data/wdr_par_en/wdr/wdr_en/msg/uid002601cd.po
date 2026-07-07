@@ -1,0 +1,290 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid "So that's where that bastard ended up..."
+msgstr ""
+
+msgctxt "76"
+msgid ""
+"Saw him around there on another shoot. And me, well, I never forget a "
+"subject."
+msgstr ""
+
+msgctxt "112"
+msgid "Outta my way!"
+msgstr ""
+
+msgctxt "124"
+msgid "(That's the kid who was looking for his dad. What's going on?)"
+msgstr ""
+
+msgctxt "196"
+msgid "A journalist was just telling me about a photographer named Yanai. That you?"
+msgstr ""
+
+msgctxt "208"
+msgid ""
+"Uh-huh. I'm a freelancer, but if I get any real moneymaker shots, I sell "
+"'em to the mags."
+msgstr ""
+
+msgctxt "220"
+msgid "And you're the Dragon of Dojima himself. I take it you sent the kid here?"
+msgstr ""
+
+msgctxt "232"
+msgid "I just saw him run out. What happened?"
+msgstr ""
+
+msgctxt "244"
+msgid "You remember this guy in the magazine photo? The one right behind you?"
+msgstr ""
+
+msgctxt "280"
+msgid ""
+"He's Hirata, the president of Peace Finance. You got sent out to collect on "
+"his debts fourteen years ago, in your early days."
+msgstr ""
+
+msgctxt "304"
+msgid "A Hirata... from Peace Finance...? Oh yeah..."
+msgstr ""
+
+msgctxt "388"
+msgid ""
+"I've been chasing scoops in Kamurocho a long time. But one story really "
+"caught my eye... Yours. The Dragon of Dojima."
+msgstr ""
+
+msgctxt "400"
+msgid ""
+"You always had this strange intensity, even in the beginning. I could tell "
+"you'd make it big someday."
+msgstr ""
+
+msgctxt "412"
+msgid "Why's Hirata look so ragged now anyway? The guy looks like a vagrant."
+msgstr ""
+
+msgctxt "424"
+msgid ""
+"Well, you pushed him so hard to repay his debts, he lost face as a loan "
+"shark. All his prospects in Kamurocho faded away."
+msgstr ""
+
+msgctxt "436"
+msgid ""
+"He lost everything, and ran off... leaving his family saddled with all the "
+"debt he left behind."
+msgstr ""
+
+msgctxt "448"
+msgid "I see... So that guy was Hirata's son."
+msgstr ""
+
+msgctxt "460"
+msgid "How do you know so much about Hirata, anyway?"
+msgstr ""
+
+msgctxt "472"
+msgid ""
+"At the moment I took that photo... he was getting ready to stab you in the "
+"back."
+msgstr ""
+
+msgctxt "484"
+msgid "What!?"
+msgstr ""
+
+msgctxt "496"
+msgid ""
+"I suspected you'd been involved in the bombing, so I set myself up in "
+"Kamurocho for a stakeout."
+msgstr ""
+
+msgctxt "508"
+msgid ""
+"Once he saw I had my camera trained on him, Hirata dropped the knife and "
+"ran off."
+msgstr ""
+
+msgctxt "520"
+msgid ""
+"He had murder in his eyes that day... I could smell a story brewing, so I "
+"went after him."
+msgstr ""
+
+msgctxt "532"
+msgid "And that's when he filled you in."
+msgstr ""
+
+msgctxt "544"
+msgid ""
+"Yep. It was too good a story to pass up. Journalist's gotta do what a "
+"journalist's gotta do."
+msgstr ""
+
+msgctxt "556"
+msgid "......"
+msgstr ""
+
+msgctxt "568"
+msgid "That kid planning on killing his old man?"
+msgstr ""
+
+msgctxt "580"
+msgid "What do you mean?"
+msgstr ""
+
+msgctxt "592"
+msgid ""
+"What, you didn't notice? He had a knife hidden in his breast pocket. And, "
+"well..."
+msgstr ""
+
+msgctxt "604"
+msgid ""
+"I know that look in his eyes. Same as his dad's, that day... He's out for "
+"blood."
+msgstr ""
+
+msgctxt "616"
+msgid "But why would he want to kill his dad?"
+msgstr ""
+
+msgctxt "628"
+msgid ""
+"Hirata's debts tore his family apart. Sent his daughter out of college and "
+"into sex work... and his wife died from the stress."
+msgstr ""
+
+msgctxt "640"
+msgid ""
+"Didn't do much to drive down the debt, though. The kid must have one hell "
+"of a grudge... I doubt he's looking to talk it out."
+msgstr ""
+
+msgctxt "652"
+msgid "......"
+msgstr ""
+
+msgctxt "664"
+msgid "Go. Stop him."
+msgstr ""
+
+msgctxt "676"
+msgid "What...?"
+msgstr ""
+
+msgctxt "688"
+msgid ""
+"You see a lot in my line of work. And I know Hirata's grudge against you "
+"isn't rational."
+msgstr ""
+
+msgctxt "700"
+msgid ""
+"But those innocent folks wouldn't be wrapped up in all this if it wasn't "
+"for you."
+msgstr ""
+
+msgctxt "712"
+msgid "Seems fair to me. If you caused all this, the least you can do is help 'em."
+msgstr ""
+
+msgctxt "724"
+msgid ""
+"Besides... Nobody can just sit back and let a kid kill his dad. Not even "
+"you."
+msgstr ""
+
+msgctxt "736"
+msgid "And you'll follow along, get your photos, and make a profit off it?"
+msgstr ""
+
+msgctxt "748"
+msgid ""
+"Heh... Yeah, sounds about right. As long as someone's willing to buy the "
+"story, I'll sell it."
+msgstr ""
+
+msgctxt "760"
+msgid "Where did Hirata's son go, anyway?"
+msgstr ""
+
+msgctxt "772"
+msgid ""
+"West Park. You know, where all the homeless are. That's the old man's home "
+"these days."
+msgstr ""
+
+msgctxt "784"
+msgid "West Park, huh?"
+msgstr ""
+
+msgctxt "10252"
+msgid "Young Man"
+msgstr ""
+
+msgctxt "10256"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "10260"
+msgid "Yanai the Photographer"
+msgstr ""
+
+msgctxt "10264"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "10268"
+msgid "2d_mn_mm59_friday01"
+msgstr ""
+
+msgctxt "10272"
+msgid "2d_mn_mm59_friday01_2"
+msgstr ""
+
+msgctxt "10276"
+msgid "2d_mn_mm59_hirata01"
+msgstr ""
+
+msgctxt "10280"
+msgid "2d_mn_mm59_hirata02"
+msgstr ""
+
+msgctxt "10284"
+msgid "2d_mn_mm59_hirata03"
+msgstr ""
+
+msgctxt "10288"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "10292"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "10296"
+msgid "Talk_Udekumi_st"
+msgstr ""
+
+msgctxt "10300"
+msgid "Talk_Udekumi_ed"
+msgstr ""
+
+msgctxt "10304"
+msgid "dummy"
+msgstr ""

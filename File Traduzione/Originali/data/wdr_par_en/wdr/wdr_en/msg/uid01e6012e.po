@@ -1,0 +1,88 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid "Aaargh! I give up!"
+msgstr ""
+
+msgctxt "76"
+msgid "Now, how about I tell the police about this little caper of yours?"
+msgstr ""
+
+msgctxt "88"
+msgid ""
+"No, please! Not the police! Here⑬to make up for all the trouble we've "
+"caused."
+msgstr ""
+
+msgctxt "100"
+msgid "You got <Color:8>50,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "112"
+msgid "Now will you forgive and forget? Please?"
+msgstr ""
+
+msgctxt "124"
+msgid ""
+"This smells suspiciously like hush money to me, but I'll let it go⑬this "
+"time."
+msgstr ""
+
+msgctxt "136"
+msgid "After all, I kind of liked your cheesy sales patter."
+msgstr ""
+
+msgctxt "148"
+msgid "I'm so, so, so sorry!"
+msgstr ""
+
+msgctxt "160"
+msgid ""
+"If that message hits my phone one more time, I'll teach you a lesson you "
+"won't forget."
+msgstr ""
+
+msgctxt "172"
+msgid ""
+"We'll change our ways, I swear! We'll be fine upstanding salesmen from here "
+"on out!"
+msgstr ""
+
+msgctxt "1780"
+msgid "Water Purifier Company CEO"
+msgstr ""
+
+msgctxt "1784"
+msgid "M_yng_damage"
+msgstr ""
+
+msgctxt "1788"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1792"
+msgid "Sync_Send"
+msgstr ""
+
+msgctxt "1796"
+msgid "Talk_Sorry"
+msgstr ""
+
+msgctxt "1800"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "1804"
+msgid "Talk_Quest"
+msgstr ""

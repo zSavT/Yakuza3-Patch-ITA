@@ -1,0 +1,186 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "80"
+msgid "Uncle Kaz..."
+msgstr ""
+
+msgctxt "92"
+msgid "Hey, didn't I tell you not to worry? I'll make this right."
+msgstr ""
+
+msgctxt "104"
+msgid ""
+"Oh, and Taichi. I don't want you mentioning this to the\r\n"
+"others, you hear me?"
+msgstr ""
+
+msgctxt "116"
+msgid "Yeah."
+msgstr ""
+
+msgctxt "128"
+msgid "Same for you, Mitsuo."
+msgstr ""
+
+msgctxt "140"
+msgid "I won't!"
+msgstr ""
+
+msgctxt "188"
+msgid "Ryukyu Elementary, Hashimoto speaking."
+msgstr ""
+
+msgctxt "200"
+msgid "Hi there, my name is Kiryu from Morning Glory, and⑬"
+msgstr ""
+
+msgctxt "212"
+msgid ""
+"The orphanage, right? You must be the guardian for all those\r\n"
+"poor kids."
+msgstr ""
+
+msgctxt "224"
+msgid "And who are you, exactly?"
+msgstr ""
+
+msgctxt "236"
+msgid "Oh, just one of the teachers here at the school."
+msgstr ""
+
+msgctxt "248"
+msgid ""
+"Perfect. I'm actually calling about one of my kids, Shiro.\r\n"
+"Could I speak with his teacher?"
+msgstr ""
+
+msgctxt "260"
+msgid "That would be me. What seems to be the problem?"
+msgstr ""
+
+msgctxt "272"
+msgid "Well, I have reason to believe he's been getting bullied..."
+msgstr ""
+
+msgctxt "284"
+msgid "Bullied? What evidence do you have of that, hm?"
+msgstr ""
+
+msgctxt "296"
+msgid "Is this some kind of joke!?"
+msgstr ""
+
+msgctxt "308"
+msgid ""
+"Trust me, I'm not the joking type. Shiro's holed up in his\r\n"
+"room right now, not talking to anyone."
+msgstr ""
+
+msgctxt "320"
+msgid "Apparently there have been bruises on his body, too."
+msgstr ""
+
+msgctxt "332"
+msgid ""
+"I assure you, there is no chance such awful behavior would\r\n"
+"take place at our school!"
+msgstr ""
+
+msgctxt "344"
+msgid "What about the other orphans?"
+msgstr ""
+
+msgctxt "356"
+msgid ""
+"Who knows what those kids of yours get up to without parents\r\n"
+"around to keep them in check."
+msgstr ""
+
+msgctxt "368"
+msgid "What did you say!?"
+msgstr ""
+
+msgctxt "380"
+msgid ""
+"Honestly, I'm sick and tired of all these nervous parents\r\n"
+"whining to me about their children!"
+msgstr ""
+
+msgctxt "392"
+msgid ""
+"Raising them is your responsibility, not mine! Though\r\n"
+"I suppose your case may be a lost cause."
+msgstr ""
+
+msgctxt "404"
+msgid "Goodbye, Kiryu-san."
+msgstr ""
+
+msgctxt "416"
+msgid "*beep* *beep* *beep*"
+msgstr ""
+
+msgctxt "464"
+msgid "What was his problem...?"
+msgstr ""
+
+msgctxt "476"
+msgid "Uncle Kaz..."
+msgstr ""
+
+msgctxt "488"
+msgid ""
+"Don't worry, Taichi. I'm gonna make sure this never happens\r\n"
+"again."
+msgstr ""
+
+msgctxt "500"
+msgid "But..."
+msgstr ""
+
+msgctxt "512"
+msgid "It's okay. I'll get Shiro to talk."
+msgstr ""
+
+msgctxt "5252"
+msgid "Taichi"
+msgstr ""
+
+msgctxt "5256"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "5260"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "5264"
+msgid "Mitsuo"
+msgstr ""
+
+msgctxt "5268"
+msgid "P_stand_tlk_phone_st"
+msgstr ""
+
+msgctxt "5272"
+msgid "Hashimoto"
+msgstr ""
+
+msgctxt "5276"
+msgid "Disconnect Tone"
+msgstr ""
+
+msgctxt "5280"
+msgid "P_stand_tlk_phone_ed"
+msgstr ""

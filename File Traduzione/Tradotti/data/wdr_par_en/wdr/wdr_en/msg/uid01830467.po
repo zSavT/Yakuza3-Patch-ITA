@@ -1,0 +1,466 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "196"
+msgid ""
+"This aisle gets hit pretty often, what with all the\r\n"
+"magazines, makeup, and other expensive items."
+msgstr ""
+
+msgctxt "208"
+msgid "Really? Even though it's out in the open like this?"
+msgstr ""
+
+msgctxt "220"
+msgid ""
+"Well, at this angle, it's hard to see from the registers.\r\n"
+"Plus, makeup is so small that it's easy to steal no matter\r\n"
+"where it is. Guess it's popular to sell to friends and such."
+msgstr ""
+
+msgctxt "232"
+msgid ""
+"People really do that? Sheesh, what is this world coming\r\n"
+"to..."
+msgstr ""
+
+msgctxt "244"
+msgid ""
+"Anyway. I need you to keep watch right here, and if you see\r\n"
+"anyone suspicious, confront them before they leave the\r\n"
+"store. Think you can do that?"
+msgstr ""
+
+msgctxt "256"
+msgid ""
+"Yeah. If I see somebody trying to pull something, I'll get\r\n"
+"all up in their face, no problem."
+msgstr ""
+
+msgctxt "268"
+msgid "That's what I'm talkin' about!"
+msgstr ""
+
+msgctxt "280"
+msgid ""
+"There's a lot of shoplifting at around this time of day, so\r\n"
+"I'm sure you'll find someone if you watch closely enough.\r\n"
+"Now go get these bastards!"
+msgstr ""
+
+msgctxt "292"
+msgid "All right. I'll see what I can do."
+msgstr ""
+
+msgctxt "304"
+msgid "I'll let you know when the time's up. Good luck."
+msgstr ""
+
+msgctxt "316"
+msgid "(Okay. So there are three customers in here...)"
+msgstr ""
+
+msgctxt "328"
+msgid "(A young girl looking at makeup...)"
+msgstr ""
+
+msgctxt "340"
+msgid "(A young guy looking at manga...)"
+msgstr ""
+
+msgctxt "352"
+msgid "(And a businessman looking at bento boxes.)"
+msgstr ""
+
+msgctxt "364"
+msgid "(One of these people could very well be a shoplifter.)"
+msgstr ""
+
+msgctxt "424"
+msgid ""
+"Convenience stores do sell pretty decent makeup after all...\r\n"
+"How wonderful."
+msgstr ""
+
+msgctxt "460"
+msgid "(She's on her way out. What should I do?)"
+msgstr ""
+
+msgctxt "472"
+msgid ""
+"Hold it right there, missy. I don't believe you paid for\r\n"
+"that."
+msgstr ""
+
+msgctxt "484"
+msgid ""
+"What, you think I look like a shoplifter or something? I bet\r\n"
+"you just want to feel me up, you disgusting creep!"
+msgstr ""
+
+msgctxt "496"
+msgid "I'd rather feel up the merchandise you took. Now let's see it."
+msgstr ""
+
+msgctxt "556"
+msgid "So? Did you find whatever I \"shoplifted\"?"
+msgstr ""
+
+msgctxt "568"
+msgid ""
+"No... It looks like I made a mistake. I'm very sorry to have\r\n"
+"bothered you."
+msgstr ""
+
+msgctxt "580"
+msgid "Get a life, ya perv! Geez..."
+msgstr ""
+
+msgctxt "592"
+msgid "(Guess I blew that one.)"
+msgstr ""
+
+msgctxt "604"
+msgid "(She doesn't quite fit the image of a shoplifter.)"
+msgstr ""
+
+msgctxt "616"
+msgid "......"
+msgstr ""
+
+msgctxt "688"
+msgid "Sweet. They got the new issue I've been lookin' for."
+msgstr ""
+
+msgctxt "724"
+msgid "(He's on his way out. What should I do?)"
+msgstr ""
+
+msgctxt "736"
+msgid ""
+"Hold it right there, buster. I don't believe you paid for\r\n"
+"that."
+msgstr ""
+
+msgctxt "748"
+msgid "What!?"
+msgstr ""
+
+msgctxt "760"
+msgid "Empty out your pockets. Let's see what you got."
+msgstr ""
+
+msgctxt "820"
+msgid "...Oh shit."
+msgstr ""
+
+msgctxt "832"
+msgid "Aha, what's this? I haven't seen you pay for that yet."
+msgstr ""
+
+msgctxt "844"
+msgid "I, um, was just about to take it to the register! Yeah!"
+msgstr ""
+
+msgctxt "916"
+msgid ""
+"Tell me about it in the office. Or you could tell that to\r\n"
+"the police, if you prefer."
+msgstr ""
+
+msgctxt "928"
+msgid "Well, I just... I, uh... Fuck!"
+msgstr ""
+
+msgctxt "940"
+msgid ""
+"Bingo! Looks like we caught him red-handed. Say, would you\r\n"
+"mind keeping watch a little longer? You know, in case anyone\r\n"
+"else manages to slip through the cracks while I'm occupied."
+msgstr ""
+
+msgctxt "1000"
+msgid "(All right. I'll stay at my post for a little longer.)"
+msgstr ""
+
+msgctxt "1012"
+msgid "(No, he doesn't exactly seem like the shoplifting type.)"
+msgstr ""
+
+msgctxt "1024"
+msgid "......"
+msgstr ""
+
+msgctxt "1108"
+msgid "I'm so sick of these bento lunches..."
+msgstr ""
+
+msgctxt "1144"
+msgid "(He's on his way out. What should I do?)"
+msgstr ""
+
+msgctxt "1156"
+msgid ""
+"Hold it right there, mister. I don't believe you paid for\r\n"
+"that."
+msgstr ""
+
+msgctxt "1168"
+msgid "Excuse me!? I don't have anything on me!"
+msgstr ""
+
+msgctxt "1180"
+msgid "You wouldn't be trying to shoplift anything, would you?"
+msgstr ""
+
+msgctxt "1192"
+msgid ""
+"What a rude accusation! I've been buying lunches here for a\r\n"
+"while now, but maybe I'll take my business elsewhere!"
+msgstr ""
+
+msgctxt "1204"
+msgid "Fine. But before that, cough up what you took. All of it."
+msgstr ""
+
+msgctxt "1264"
+msgid "There. Are you satisfied?"
+msgstr ""
+
+msgctxt "1276"
+msgid ""
+"No... It looks like I made a mistake. I'm very sorry to have\r\n"
+"bothered you."
+msgstr ""
+
+msgctxt "1288"
+msgid ""
+"I might not make much, but at least I'm not a thief! How\r\n"
+"about treating me with some respect!?"
+msgstr ""
+
+msgctxt "1300"
+msgid "(Guess I blew that one.)"
+msgstr ""
+
+msgctxt "1312"
+msgid "(No, I doubt he'd be one to shoplift anything.)"
+msgstr ""
+
+msgctxt "1324"
+msgid "......"
+msgstr ""
+
+msgctxt "1408"
+msgid "I really appreciate all the help you've given me."
+msgstr ""
+
+msgctxt "1444"
+msgid ""
+"I can't believe you found a criminal in such a short time!\r\n"
+"You've been a tremendous help!"
+msgstr ""
+
+msgctxt "1456"
+msgid "...Guess I have a knack for finding people like that."
+msgstr ""
+
+msgctxt "1468"
+msgid ""
+"Here's your day's pay. Just a little something for your\r\n"
+"trouble."
+msgstr ""
+
+msgctxt "1480"
+msgid "You got <Color:8>3,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "1492"
+msgid ""
+"Thanks again! I hope you'll help us again in the future if\r\n"
+"something else comes up!"
+msgstr ""
+
+msgctxt "1516"
+msgid "You got 5,000 EXP."
+msgstr ""
+
+msgctxt "1528"
+msgid ""
+"I can't believe you found a criminal in such a short time!\r\n"
+"You've been a great help."
+msgstr ""
+
+msgctxt "1540"
+msgid "...Guess I have a knack for finding people like that."
+msgstr ""
+
+msgctxt "1552"
+msgid ""
+"But you also accused someone else of shoplifting even though\r\n"
+"they didn't take anything at all."
+msgstr ""
+
+msgctxt "1564"
+msgid ""
+"I'd rather not make our honest, paying customers feel\r\n"
+"uncomfortable, you know..."
+msgstr ""
+
+msgctxt "1576"
+msgid "Sorry about that."
+msgstr ""
+
+msgctxt "1588"
+msgid "In any case... Here's your day's pay."
+msgstr ""
+
+msgctxt "1600"
+msgid "You got <Color:8>1,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "1612"
+msgid "Thanks again for your help. Hope to see you around soon."
+msgstr ""
+
+msgctxt "1636"
+msgid "You got 3,000 EXP."
+msgstr ""
+
+msgctxt "1648"
+msgid "No shoplifters, huh? That doesn't sound right..."
+msgstr ""
+
+msgctxt "1660"
+msgid "Hold on while I go check the security camera."
+msgstr ""
+
+msgctxt "1720"
+msgid ""
+"Right there! The guy reading magazines! He stole himself\r\n"
+"a goddamn manga, for crying out loud!"
+msgstr ""
+
+msgctxt "1732"
+msgid "Sorry. Guess I missed him."
+msgstr ""
+
+msgctxt "1744"
+msgid "*sigh* When is this craziness gonna end..."
+msgstr ""
+
+msgctxt "1756"
+msgid "Wish I could've been more of a help."
+msgstr ""
+
+msgctxt "1768"
+msgid ""
+"Oh, don't worry about it. I appreciate your efforts all the\r\n"
+"same."
+msgstr ""
+
+msgctxt "1792"
+msgid "You got 1,500 EXP."
+msgstr ""
+
+msgctxt "1816"
+msgid "Stop Her"
+msgstr ""
+
+msgctxt "1828"
+msgid "Let Her Go"
+msgstr ""
+
+msgctxt "1840"
+msgid "Stop Him"
+msgstr ""
+
+msgctxt "1852"
+msgid "Let Him Go"
+msgstr ""
+
+msgctxt "1864"
+msgid "Stop Him"
+msgstr ""
+
+msgctxt "1876"
+msgid "Let Him Go"
+msgstr ""
+
+msgctxt "15944"
+msgid "Convenience Store Manager"
+msgstr ""
+
+msgctxt "15948"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "15952"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "15956"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "15960"
+msgid "Woman"
+msgstr ""
+
+msgctxt "15964"
+msgid "F_nml_stand_tlk_manbiki"
+msgstr ""
+
+msgctxt "15968"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "15972"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "15976"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "15980"
+msgid "Talk_NoBig"
+msgstr ""
+
+msgctxt "15984"
+msgid "Man"
+msgstr ""
+
+msgctxt "15988"
+msgid "M_nml_stand_tlk_manbiki"
+msgstr ""
+
+msgctxt "15992"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "15996"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "16000"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "16004"
+msgid "Talk_Send"
+msgstr ""
+
+msgctxt "16008"
+msgid "Talk_Gakkari"
+msgstr ""

@@ -1,0 +1,114 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "108"
+msgid "(This shisa looks a lot like the one in that couple's photo.)"
+msgstr ""
+
+msgctxt "120"
+msgid "(Better give those two a call.)"
+msgstr ""
+
+msgctxt "132"
+msgid ""
+"(Hmm... This might not be the right one, though. Maybe I'll hold off for "
+"now.)"
+msgstr ""
+
+msgctxt "156"
+msgid "Hello?"
+msgstr ""
+
+msgctxt "168"
+msgid "Hey. I'm the one you gave the shisa photo to."
+msgstr ""
+
+msgctxt "180"
+msgid "Huh? You mean you've actually been looking for it!?"
+msgstr ""
+
+msgctxt "192"
+msgid "Yeah, and I found one that looks just like it. Can you come check it out?"
+msgstr ""
+
+msgctxt "204"
+msgid "Yes, absolutely! We'll be right there!"
+msgstr ""
+
+msgctxt "264"
+msgid "So, you say you've found the shisa in the photo?"
+msgstr ""
+
+msgctxt "276"
+msgid "Yeah. Over there."
+msgstr ""
+
+msgctxt "288"
+msgid "Oh, my goodness! That's it! That's the one, all right!"
+msgstr ""
+
+msgctxt "300"
+msgid ""
+"No, wait... It's a little different. Compare it to the\r\n"
+"photo. See now?"
+msgstr ""
+
+msgctxt "312"
+msgid "Oh, you're right. It is different."
+msgstr ""
+
+msgctxt "324"
+msgid "So that's not it, then."
+msgstr ""
+
+msgctxt "336"
+msgid ""
+"No, but don't worry. Shisa statues can often look alike.\r\n"
+"If you do find the one in the photo, please give us a call."
+msgstr ""
+
+msgctxt "384"
+msgid "Call the Couple"
+msgstr ""
+
+msgctxt "396"
+msgid "Forget It"
+msgstr ""
+
+msgctxt "3120"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "3124"
+msgid "Talk_Phone_st"
+msgstr ""
+
+msgctxt "3128"
+msgid "Shisa-searching Woman"
+msgstr ""
+
+msgctxt "3132"
+msgid "Idle"
+msgstr ""
+
+msgctxt "3136"
+msgid "Shisa-searching Man"
+msgstr ""
+
+msgctxt "3140"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "3144"
+msgid "Talk_No"
+msgstr ""

@@ -1,0 +1,42 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid "You just fought... through a whole fuckin' army..."
+msgstr ""
+
+msgctxt "76"
+msgid "Where's Daigo? Talk! Or do you need a little more convincing?"
+msgstr ""
+
+msgctxt "88"
+msgid ""
+"I'll talk, I'll talk... He's up on the 25th floor of the other building, "
+"room 2501. Chairman Mine should be up there with him."
+msgstr ""
+
+msgctxt "100"
+msgid "(The 25th floor!? I need to get moving!)"
+msgstr ""
+
+msgctxt "916"
+msgid "Hakuho Captain"
+msgstr ""
+
+msgctxt "920"
+msgid "dummy"
+msgstr ""
+
+msgctxt "924"
+msgid "Kiryu"
+msgstr ""

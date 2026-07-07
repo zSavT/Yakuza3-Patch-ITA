@@ -1,0 +1,52 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "112"
+msgid "*pant* *pant*"
+msgstr ""
+
+msgctxt "124"
+msgid "Dammit... I can't keep this up."
+msgstr ""
+
+msgctxt "172"
+msgid "Dammit! I lost him..."
+msgstr ""
+
+msgctxt "1276"
+msgid "P_damage"
+msgstr ""
+
+msgctxt "1280"
+msgid "Player_BACK��_1.5_ON"
+msgstr ""
+
+msgctxt "1284"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1288"
+msgid "Player_AORI_0.8_ON"
+msgstr ""
+
+msgctxt "1292"
+msgid "10_-15_SLOWER_VF_ON"
+msgstr ""
+
+msgctxt "1296"
+msgid "0"
+msgstr ""
+
+msgctxt "1300"
+msgid "P_stand_tlk_kyoro_lp"
+msgstr ""

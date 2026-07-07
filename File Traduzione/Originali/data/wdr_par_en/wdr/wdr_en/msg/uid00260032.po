@@ -1,0 +1,382 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "240"
+msgid "You done?"
+msgstr ""
+
+msgctxt "252"
+msgid "We're sorry... We must've been confused..."
+msgstr ""
+
+msgctxt "264"
+msgid ""
+"Oh, and this is the money we took from you earlier.\r\n"
+"I added a little on top..."
+msgstr ""
+
+msgctxt "276"
+msgid "You got <Color:8>120,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "288"
+msgid "......"
+msgstr ""
+
+msgctxt "300"
+msgid "Well then... If you'll excuse us..."
+msgstr ""
+
+msgctxt "312"
+msgid "What...? Whoa! I think gettin' hit fixed my shoulder!"
+msgstr ""
+
+msgctxt "324"
+msgid "Really!? Did you hear that, mister? You fixed his shoulder!"
+msgstr ""
+
+msgctxt "336"
+msgid "Well, gotta be goin'! Hehe... Hahaha!"
+msgstr ""
+
+msgctxt "408"
+msgid "You got 2,000 EXP."
+msgstr ""
+
+msgctxt "420"
+msgid "You done?"
+msgstr ""
+
+msgctxt "432"
+msgid "We're sorry... We must've been confused..."
+msgstr ""
+
+msgctxt "444"
+msgid "Hey! I think gettin' hit fixed my shoulder!"
+msgstr ""
+
+msgctxt "456"
+msgid ""
+"Really!? Did you hear that, mister? You fixed his shoulder!\r\n"
+"We... hope this covers your trouble..."
+msgstr ""
+
+msgctxt "468"
+msgid "You got <Color:8>10,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "480"
+msgid "Well, gotta be goin'! Heheh... Hahaha...!"
+msgstr ""
+
+msgctxt "552"
+msgid "You got 2,000 EXP."
+msgstr ""
+
+msgctxt "576"
+msgid "Ow!"
+msgstr ""
+
+msgctxt "600"
+msgid "Ooowww! It huuurts!"
+msgstr ""
+
+msgctxt "624"
+msgid "Hey! Watch where you're goin', jackass!"
+msgstr ""
+
+msgctxt "636"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "648"
+msgid ""
+"You go walkin' round Hatsumachi and act like you haven't heard of us? You "
+"better learn who you're screwin' with, asshole!"
+msgstr ""
+
+msgctxt "660"
+msgid "Aren't you kind of overreacting? We barely touched each other."
+msgstr ""
+
+msgctxt "672"
+msgid "Are you all right, Aniki? What's wrong!? You break a bone or something!?"
+msgstr ""
+
+msgctxt "684"
+msgid ""
+"My... My shoulder! I think I got a compound fracture! The pain! Ohhh, the "
+"pain!"
+msgstr ""
+
+msgctxt "696"
+msgid "Sorry pal, but this just got serious. Our aniki's hurt real bad!"
+msgstr ""
+
+msgctxt "708"
+msgid "This is all your fault, clumsy-ass! What do you got to say for yourself?"
+msgstr ""
+
+msgctxt "720"
+msgid "I don't have time for your little game."
+msgstr ""
+
+msgctxt "732"
+msgid "Ain't you got a conscience, pal? You broke his damn shoulder!"
+msgstr ""
+
+msgctxt "744"
+msgid "We really oughta sue you for the hospital bill... but we ain't no savages."
+msgstr ""
+
+msgctxt "756"
+msgid "How 'bout you just hand over 10 grand and we call it even?"
+msgstr ""
+
+msgctxt "768"
+msgid "Let me think."
+msgstr ""
+
+msgctxt "780"
+msgid "Sorry, but I'm not giving you a single yen."
+msgstr ""
+
+msgctxt "792"
+msgid ""
+"What are you, stupid? After we were nice enough to give you a chance to "
+"settle out of court?"
+msgstr ""
+
+msgctxt "804"
+msgid ""
+"Now you're just fuckin' with us! We're gonna send you floatin' down the "
+"Kubochi River!"
+msgstr ""
+
+msgctxt "828"
+msgid "Here. Just take the money."
+msgstr ""
+
+msgctxt "840"
+msgid "You handed over <Color:8>10,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "852"
+msgid "Good! Glad to see you know your place. We got a smart one here!"
+msgstr ""
+
+msgctxt "864"
+msgid ""
+"Money can't buy happiness, but it sure doesn't hurt.\r\n"
+"Pleasure doin' business with ya!"
+msgstr ""
+
+msgctxt "876"
+msgid "Hey, how long you gonna lay there? We're leavin', Aniki."
+msgstr ""
+
+msgctxt "888"
+msgid "Ugh... Hold on, I think I really did hurt my shoulder this time..."
+msgstr ""
+
+msgctxt "900"
+msgid "Quit dickin' around, man. We're outta here."
+msgstr ""
+
+msgctxt "972"
+msgid "You got 2,000 EXP."
+msgstr ""
+
+msgctxt "984"
+msgid "Oops... Looks like I'm short on cash."
+msgstr ""
+
+msgctxt "996"
+msgid "You think this is funny!?"
+msgstr ""
+
+msgctxt "1008"
+msgid ""
+"Now you're just fuckin' with us! We're gonna send you floatin' down the "
+"Kubochi River!"
+msgstr ""
+
+msgctxt "1032"
+msgid ""
+"Here, I'll give you ten times that... but I don't wanna ever see your faces "
+"around here again. Understand?"
+msgstr ""
+
+msgctxt "1044"
+msgid "You handed over <Color:8>100,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "1056"
+msgid "Whoa, 100 grand? Thanks!"
+msgstr ""
+
+msgctxt "1068"
+msgid "I wanna see! Gimme gimme! Holy shittt!"
+msgstr ""
+
+msgctxt "1080"
+msgid "Say... What happened to your broken shoulder?"
+msgstr ""
+
+msgctxt "1092"
+msgid "Huh? Oh, uh. It's... healed?"
+msgstr ""
+
+msgctxt "1104"
+msgid "What are ya sayin', dipshit? You blew our cover!"
+msgstr ""
+
+msgctxt "1116"
+msgid ""
+"We really do appreciate the 100K, ol' pal, but it looks like we gotta send "
+"you on a little swim in the Kubochi River. No hard feelings, yeah?"
+msgstr ""
+
+msgctxt "1128"
+msgid "Oops... Looks like I'm short on cash."
+msgstr ""
+
+msgctxt "1140"
+msgid "You think this is funny!?"
+msgstr ""
+
+msgctxt "1152"
+msgid ""
+"Now you're just fuckin' with us! We're gonna send you floatin' down the "
+"Kubochi River!"
+msgstr ""
+
+msgctxt "1176"
+msgid "Don't Pay Anything"
+msgstr ""
+
+msgctxt "1188"
+msgid "Pay 10,000 Yen"
+msgstr ""
+
+msgctxt "1200"
+msgid "Pay 100,000 Yen"
+msgstr ""
+
+msgctxt "13116"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "13120"
+msgid "Con Man's Partner"
+msgstr ""
+
+msgctxt "13124"
+msgid "M_nml_stand_tlk_sorry"
+msgstr ""
+
+msgctxt "13128"
+msgid "M_big_stand_tlk_sorry"
+msgstr ""
+
+msgctxt "13132"
+msgid "M_ykz_stand_tlk_sorry"
+msgstr ""
+
+msgctxt "13136"
+msgid "M_ykz_stand_tlk_request"
+msgstr ""
+
+msgctxt "13140"
+msgid "Con Man"
+msgstr ""
+
+msgctxt "13144"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "13148"
+msgid "M_ykz_stand_tlk_ok"
+msgstr ""
+
+msgctxt "13152"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "13156"
+msgid "0"
+msgstr ""
+
+msgctxt "13160"
+msgid "Korobu_DownL_lp"
+msgstr ""
+
+msgctxt "13164"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "13168"
+msgid "Talk_Away"
+msgstr ""
+
+msgctxt "13172"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "13176"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "13180"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "13184"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "13188"
+msgid "Korobu_DownL_StandupF"
+msgstr ""
+
+msgctxt "13192"
+msgid "Idle"
+msgstr ""
+
+msgctxt "13196"
+msgid "Talk_Chohatu"
+msgstr ""
+
+msgctxt "13200"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "13204"
+msgid "M_big_stand_tlk_odosu"
+msgstr ""
+
+msgctxt "13208"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "13212"
+msgid "Talk_Udekumi_st"
+msgstr ""
+
+msgctxt "13216"
+msgid "Talk_Udekumi_lp"
+msgstr ""
+
+msgctxt "13220"
+msgid "M_big_stand_tlk_gakkari"
+msgstr ""

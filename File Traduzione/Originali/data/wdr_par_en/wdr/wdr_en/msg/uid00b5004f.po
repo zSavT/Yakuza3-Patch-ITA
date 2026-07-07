@@ -1,0 +1,620 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "380"
+msgid "Ugh..."
+msgstr ""
+
+msgctxt "392"
+msgid "Ow..."
+msgstr ""
+
+msgctxt "404"
+msgid "Looks like your fortune was wrong... Again."
+msgstr ""
+
+msgctxt "416"
+msgid "Oh, come on! This is how the world works."
+msgstr ""
+
+msgctxt "428"
+msgid ""
+"You make a little line of customers in front of your store and make it look "
+"popular. Soon people will start talking about it."
+msgstr ""
+
+msgctxt "440"
+msgid "Then you just wait for idiots like you to show up and take their cash."
+msgstr ""
+
+msgctxt "452"
+msgid "That's pathetic."
+msgstr ""
+
+msgctxt "464"
+msgid ""
+"But as far as fortune telling goes, I'm not a fraud. I used to be a famous "
+"fortune teller."
+msgstr ""
+
+msgctxt "476"
+msgid ""
+"I was right about you, wasn't I? I told you you were being fooled by "
+"someone..."
+msgstr ""
+
+msgctxt "488"
+msgid "That person was me! Hehehe."
+msgstr ""
+
+msgctxt "500"
+msgid "......"
+msgstr ""
+
+msgctxt "512"
+msgid ""
+"Not funny, huh? Anyway... I've lost my flair for fortune telling lately, "
+"which is why I've been running this little gig."
+msgstr ""
+
+msgctxt "524"
+msgid ""
+"But you made me realize... This is a good time for me to retire. The world "
+"doesn't need fortune tellers who can't read fortunes."
+msgstr ""
+
+msgctxt "536"
+msgid ""
+"It's good to know when to stop. You based your business on deception, but "
+"your fortunes themselves weren't half bad."
+msgstr ""
+
+msgctxt "548"
+msgid "Ah, a man who recognizes quality!"
+msgstr ""
+
+msgctxt "560"
+msgid ""
+"The moment I saw your face, everything just came together. I felt that old "
+"energy I used to feel."
+msgstr ""
+
+msgctxt "572"
+msgid ""
+"But I'm tired of all this. I'm going to live the rest of my days peacefully "
+"with my sons. Please, just forget I was ever here."
+msgstr ""
+
+msgctxt "584"
+msgid "Don't tell anyone you saw me."
+msgstr ""
+
+msgctxt "596"
+msgid "Got it. I can keep a secret."
+msgstr ""
+
+msgctxt "644"
+msgid "......"
+msgstr ""
+
+msgctxt "704"
+msgid "Where's that fortune teller? I know I heard that voice of hers!"
+msgstr ""
+
+msgctxt "716"
+msgid "There you are! How'd it go? Did you find her?"
+msgstr ""
+
+msgctxt "728"
+msgid "Actually..."
+msgstr ""
+
+msgctxt "740"
+msgid "I couldn't find her. I don't think she's hanging around here anymore."
+msgstr ""
+
+msgctxt "752"
+msgid "Oh... I swear I heard her voice just now, though..."
+msgstr ""
+
+msgctxt "788"
+msgid "Let's try over there! I'm getting my 30,000 yen back, you hear me?"
+msgstr ""
+
+msgctxt "860"
+msgid "The fortune teller went that way."
+msgstr ""
+
+msgctxt "872"
+msgid "Really!? Okay, we're heading that way."
+msgstr ""
+
+msgctxt "908"
+msgid "After her! I'm getting my 30,000 yen back, you hear me?"
+msgstr ""
+
+msgctxt "1004"
+msgid ""
+"All right, now. One at a time. I put your wages in here, and then I want "
+"you all back next time we do this."
+msgstr ""
+
+msgctxt "1016"
+msgid ""
+"It's so easy! We get money just for lining up! Call me whenever you need "
+"help."
+msgstr ""
+
+msgctxt "1028"
+msgid ""
+"I will. In fact, we might have a TV station filming out here next week. "
+"I'll definitely call on all of you then."
+msgstr ""
+
+msgctxt "1040"
+msgid "Okay! I'll make sure to say how good you are!"
+msgstr ""
+
+msgctxt "1052"
+msgid ""
+"Thanks to all of you, I found a mark willing to pay 120,000 yen, so I've "
+"given each of you a bonus of 1,000 yen."
+msgstr ""
+
+msgctxt "1136"
+msgid "All right. What's going on here?"
+msgstr ""
+
+msgctxt "1148"
+msgid "Oh! It's you..."
+msgstr ""
+
+msgctxt "1160"
+msgid "What's with all these people?"
+msgstr ""
+
+msgctxt "1172"
+msgid "What's it to you? You seemed pleased with my fortune, if I recall correctly."
+msgstr ""
+
+msgctxt "1184"
+msgid ""
+"I'm not asking you to give me my money back. I just want you to stop paying "
+"people to make it look like you have satisfied customers."
+msgstr ""
+
+msgctxt "1196"
+msgid "Do you have a problem with the way I do things?"
+msgstr ""
+
+msgctxt "1208"
+msgid "Keep talking like that, and I'll introduce you to my charming sons."
+msgstr ""
+
+msgctxt "1220"
+msgid ""
+"You should know that my boys aren't like the puny waifs you normally deal "
+"with..."
+msgstr ""
+
+msgctxt "1232"
+msgid "Oh, boys! Would you come here for a moment? This man wants to talk to you."
+msgstr ""
+
+msgctxt "1256"
+msgid "What is it, Mom? Is this man accusing you of something?"
+msgstr ""
+
+msgctxt "1268"
+msgid "Yes, give this man a scolding, please..."
+msgstr ""
+
+msgctxt "1280"
+msgid "Hehe... Would you like me to read your fortune now? Why, I predict..."
+msgstr ""
+
+msgctxt "1292"
+msgid "...a very unpleasant experience in your near future!"
+msgstr ""
+
+msgctxt "1316"
+msgid ""
+"Talk like that, and of course you'll be unlucky! You have to straighten out "
+"your own life first!"
+msgstr ""
+
+msgctxt "1328"
+msgid ""
+"But he's cheating on me, too! Why am I the only one getting yelled at? It's "
+"not fair!"
+msgstr ""
+
+msgctxt "1340"
+msgid "......"
+msgstr ""
+
+msgctxt "1352"
+msgid ""
+"You again? Your fortune won't have changed so soon after your last reading. "
+"Please come back again later."
+msgstr ""
+
+msgctxt "1388"
+msgid "Oh, it's you! Back again, are you?"
+msgstr ""
+
+msgctxt "1400"
+msgid "I'm intrigued by your destiny. I'll give it a look right now, if you'd like."
+msgstr ""
+
+msgctxt "1412"
+msgid ""
+"The problem lies in your former life. The same is true of your father. He "
+"complains of pain in his legs, does he not?"
+msgstr ""
+
+msgctxt "1424"
+msgid "Yeah, he said something recently about it being hard to walk."
+msgstr ""
+
+msgctxt "1436"
+msgid "(A fortune teller?)"
+msgstr ""
+
+msgctxt "1448"
+msgid ""
+"Do you want me to read your fortune? If so, please get in line. Everybody "
+"must wait their turn, after all."
+msgstr ""
+
+msgctxt "1460"
+msgid "No, I⑬"
+msgstr ""
+
+msgctxt "1472"
+msgid "Wait...! Your face... its features are fascinating. Come here for a moment."
+msgstr ""
+
+msgctxt "1484"
+msgid "How about I give you a special reading?"
+msgstr ""
+
+msgctxt "1496"
+msgid "No, thank you. I'm not interested in fortune telling."
+msgstr ""
+
+msgctxt "1508"
+msgid "Well, that's unfortunate. Your face alone could lead you to the very top."
+msgstr ""
+
+msgctxt "1520"
+msgid ""
+"If you ever want to learn more about yourself, come see me. I'll let you "
+"jump to the front of the line for a special reading."
+msgstr ""
+
+msgctxt "1556"
+msgid "Sure. I'll give it a try."
+msgstr ""
+
+msgctxt "1568"
+msgid ""
+"Ah, a wise decision! Sometimes, you must make quick decisions, because you "
+"never know when you'll have the same chance again."
+msgstr ""
+
+msgctxt "1580"
+msgid ""
+"I'm sorry, but I have to stop here. I'll finish the rest of your reading "
+"after I read his fortune..."
+msgstr ""
+
+msgctxt "1592"
+msgid "What!? Well, you'd better..."
+msgstr ""
+
+msgctxt "1664"
+msgid "Now, could I have your name? Just write it on this piece of paper."
+msgstr ""
+
+msgctxt "1676"
+msgid "Kazuma... Kiryu."
+msgstr ""
+
+msgctxt "1688"
+msgid ""
+"Aha... This is the name of a hero. You have the wisdom and resources to be "
+"a great victor, but your name foretells a tempestuous future."
+msgstr ""
+
+msgctxt "1700"
+msgid "Oh..."
+msgstr ""
+
+msgctxt "1712"
+msgid ""
+"I can't read a man like you just from your name. I need your physiognomy "
+"and palm readings... I should probably look into your past life, too."
+msgstr ""
+
+msgctxt "1724"
+msgid ""
+"I usually charge 150,000 yen for this, but for an interesting man like you, "
+"it's only 120,000 yen."
+msgstr ""
+
+msgctxt "1736"
+msgid "120,000 yen?"
+msgstr ""
+
+msgctxt "1748"
+msgid "I'm sorry, but I refuse to pay 120,000 yen for a fortune."
+msgstr ""
+
+msgctxt "1760"
+msgid "I'm sorry to hear that. Beware, the shadow of death hangs over you."
+msgstr ""
+
+msgctxt "1772"
+msgid "If you want to know your fate, come back again."
+msgstr ""
+
+msgctxt "1796"
+msgid "Okay. If what you've said is true, I've got to hear what's next."
+msgstr ""
+
+msgctxt "1808"
+msgid "Well then. Do you mind paying the 120,000 yen up front?"
+msgstr ""
+
+msgctxt "1832"
+msgid "Here."
+msgstr ""
+
+msgctxt "1844"
+msgid "You paid <Color:8>120,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "1856"
+msgid "All right, thank you. Now, for your fortune..."
+msgstr ""
+
+msgctxt "1868"
+msgid "Let's see... First, let's start with your palm."
+msgstr ""
+
+msgctxt "1892"
+msgid "......"
+msgstr ""
+
+msgctxt "1904"
+msgid "......"
+msgstr ""
+
+msgctxt "1916"
+msgid "......"
+msgstr ""
+
+msgctxt "1928"
+msgid "......"
+msgstr ""
+
+msgctxt "1952"
+msgid ""
+"...I see it now. You are a hero. But as a hero, you must never forget there "
+"are many people supporting you."
+msgstr ""
+
+msgctxt "1964"
+msgid "I got it."
+msgstr ""
+
+msgctxt "1976"
+msgid "I also see... you are being fooled by someone you trust."
+msgstr ""
+
+msgctxt "1988"
+msgid "What...?"
+msgstr ""
+
+msgctxt "2000"
+msgid ""
+"But it's better to continue being fooled. You'll be happier that way. You "
+"must not let suspicion take over your heart."
+msgstr ""
+
+msgctxt "2012"
+msgid ""
+"Well then. Come back whenever you feel lost. I'll shine light on the "
+"path... to your future."
+msgstr ""
+
+msgctxt "2036"
+msgid "What, no cash!? Well, I hope you starve to death!"
+msgstr ""
+
+msgctxt "2144"
+msgid "Tell Her Where the Fortune Teller Is"
+msgstr ""
+
+msgctxt "2156"
+msgid "Pretend Nothing Happened"
+msgstr ""
+
+msgctxt "2168"
+msgid "Learn Your Destiny"
+msgstr ""
+
+msgctxt "2180"
+msgid "Decline"
+msgstr ""
+
+msgctxt "2192"
+msgid "Learn Your Destiny"
+msgstr ""
+
+msgctxt "2204"
+msgid "Decline"
+msgstr ""
+
+msgctxt "2216"
+msgid "Pay 120,000 Yen"
+msgstr ""
+
+msgctxt "2228"
+msgid "Decline"
+msgstr ""
+
+msgctxt "23092"
+msgid "Fortune Teller's Oldest Son"
+msgstr ""
+
+msgctxt "23096"
+msgid "Fortune Teller's Second Son"
+msgstr ""
+
+msgctxt "23100"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "23104"
+msgid "Fortune Teller"
+msgstr ""
+
+msgctxt "23108"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "23112"
+msgid "Talk_Chohatu"
+msgstr ""
+
+msgctxt "23116"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "23120"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "23124"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "23128"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "23132"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "23136"
+msgid "Talk_Kansin"
+msgstr ""
+
+msgctxt "23140"
+msgid "Talk_Request"
+msgstr ""
+
+msgctxt "23144"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "23148"
+msgid "Glamorous Businesswoman"
+msgstr ""
+
+msgctxt "23152"
+msgid "Gullible Businesswoman"
+msgstr ""
+
+msgctxt "23156"
+msgid "Glum Businesswoman"
+msgstr ""
+
+msgctxt "23160"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "23164"
+msgid "Talk_Info_L"
+msgstr ""
+
+msgctxt "23168"
+msgid "Talk_Kamae"
+msgstr ""
+
+msgctxt "23172"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "23176"
+msgid "Businesswoman"
+msgstr ""
+
+msgctxt "23180"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "23184"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "23188"
+msgid "High School Girl"
+msgstr ""
+
+msgctxt "23192"
+msgid "Talk_Away"
+msgstr ""
+
+msgctxt "23196"
+msgid "F_oba_stand"
+msgstr ""
+
+msgctxt "23200"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "23204"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "23208"
+msgid "Customer"
+msgstr ""
+
+msgctxt "23212"
+msgid "Idle"
+msgstr ""
+
+msgctxt "23216"
+msgid "Talk_Sorry"
+msgstr ""
+
+msgctxt "23220"
+msgid "P_sitchr"
+msgstr ""
+
+msgctxt "23224"
+msgid "Talk_NoBig"
+msgstr ""
+
+msgctxt "23228"
+msgid "P_stand"
+msgstr ""
+
+msgctxt "23232"
+msgid "0"
+msgstr ""

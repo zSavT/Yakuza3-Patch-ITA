@@ -1,0 +1,122 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "400"
+msgid "Not too bad!"
+msgstr ""
+
+msgctxt "412"
+msgid "That's the way it goes."
+msgstr ""
+
+msgctxt "424"
+msgid "Good one..."
+msgstr ""
+
+msgctxt "436"
+msgid "Maybe you oughta call it quits."
+msgstr ""
+
+msgctxt "448"
+msgid "Wanna keep going?"
+msgstr ""
+
+msgctxt "460"
+msgid "Try again next time!"
+msgstr ""
+
+msgctxt "472"
+msgid "Wanna play the house, one-on-one?"
+msgstr ""
+
+msgctxt "484"
+msgid ""
+"What're you goin' on about!? Quit making excuses and\r\n"
+"make a bet!"
+msgstr ""
+
+msgctxt "496"
+msgid "Heh... Fine."
+msgstr ""
+
+msgctxt "508"
+msgid "Hmph... You don't have a shred of proof, so just bet!"
+msgstr ""
+
+msgctxt "520"
+msgid "......"
+msgstr ""
+
+msgctxt "532"
+msgid "(She kept her cool. Guess I was wrong.)"
+msgstr ""
+
+msgctxt "544"
+msgid "You got me. Take it easy, why don't ya?"
+msgstr ""
+
+msgctxt "556"
+msgid "Heh, try again next time."
+msgstr ""
+
+msgctxt "568"
+msgid "Come again."
+msgstr ""
+
+msgctxt "580"
+msgid "Hold on now... Promise me you'll be back."
+msgstr ""
+
+msgctxt "592"
+msgid "Hold on now... Promise me you'll be back."
+msgstr ""
+
+msgctxt "604"
+msgid "So, what'll it be?"
+msgstr ""
+
+msgctxt "616"
+msgid "So, what'll it be?"
+msgstr ""
+
+msgctxt "628"
+msgid "So, what'll it be?"
+msgstr ""
+
+msgctxt "640"
+msgid "Carry over your winnings to play the house?"
+msgstr ""
+
+msgctxt "652"
+msgid "Carry over your winnings to play the house?"
+msgstr ""
+
+msgctxt "664"
+msgid "Carry over your winnings to play the house?"
+msgstr ""
+
+msgctxt "676"
+msgid "Hm, not bad."
+msgstr ""
+
+msgctxt "688"
+msgid "Hm, that's the way it goes."
+msgstr ""
+
+msgctxt "2576"
+msgid "Dealer"
+msgstr ""
+
+msgctxt "2580"
+msgid "Kiryu"
+msgstr ""

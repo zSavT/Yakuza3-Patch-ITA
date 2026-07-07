@@ -1,0 +1,97 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid "All right, Rikiya. Where to?"
+msgstr ""
+
+msgctxt "76"
+msgid ""
+"Aniki, uh... I do wanna go sightseein' and all, but you think\r\n"
+"we can grab some grub first? Fighting always puts a hole in\r\n"
+"my stomach like none other."
+msgstr ""
+
+msgctxt "88"
+msgid "Heh, sure. You have anything in mind?"
+msgstr ""
+
+msgctxt "100"
+msgid "Heck yeah I do! Yakiniku!"
+msgstr ""
+
+msgctxt "112"
+msgid ""
+"Sure you don't want something a little more... local? You\r\n"
+"can get yakiniku whenever you want down in Okinawa."
+msgstr ""
+
+msgctxt "124"
+msgid ""
+"Well yeah, but there's this one Korean joint I've been\r\n"
+"dyin' to go to."
+msgstr ""
+
+msgctxt "136"
+msgid ""
+"It's the one they always show on the tube, where all the\r\n"
+"celebrities hang out and stuff their faces!"
+msgstr ""
+
+msgctxt "148"
+msgid ""
+"I heard people even saw the Korean mega-star Il Yu-Jin\r\n"
+"chillin' there a few years back!"
+msgstr ""
+
+msgctxt "160"
+msgid ""
+"That... does sound familiar. I'm not sure if it's the same\r\n"
+"place, but I have a restaurant in mind. Let's go."
+msgstr ""
+
+msgctxt "172"
+msgid "You're the best, Aniki!"
+msgstr ""
+
+msgctxt "1956"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1960"
+msgid "Talk_Kosite_st"
+msgstr ""
+
+msgctxt "1964"
+msgid "Rikiya"
+msgstr ""
+
+msgctxt "1968"
+msgid "Talk_Kosite_Yes"
+msgstr ""
+
+msgctxt "1972"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "1976"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "1980"
+msgid "Talk_Kosite_ed"
+msgstr ""
+
+msgctxt "1984"
+msgid "Talk_Ojigi"
+msgstr ""

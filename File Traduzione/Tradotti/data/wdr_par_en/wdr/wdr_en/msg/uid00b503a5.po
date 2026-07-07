@@ -1,0 +1,66 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "120"
+msgid "Yo, Miki-chan! We got in some of those pickles you were asking about!"
+msgstr ""
+
+msgctxt "132"
+msgid "Huh? Seriously?"
+msgstr ""
+
+msgctxt "144"
+msgid "Here, try a little before you go."
+msgstr ""
+
+msgctxt "156"
+msgid "Okay, but just a little... *chomp*"
+msgstr ""
+
+msgctxt "168"
+msgid ""
+"Wow! These are really yummy! A nice steaming bowl of rice would go perfect "
+"with 'em."
+msgstr ""
+
+msgctxt "180"
+msgid "I know, right? I'm glad we managed to stock up for you."
+msgstr ""
+
+msgctxt "192"
+msgid "(What's he thinking, eating on duty?)"
+msgstr ""
+
+msgctxt "204"
+msgid "C'mon, sir! A thorough patrol means we gotta keep moving."
+msgstr ""
+
+msgctxt "1528"
+msgid "Market Man"
+msgstr ""
+
+msgctxt "1532"
+msgid "Mikio"
+msgstr ""
+
+msgctxt "1536"
+msgid "Talk_Send"
+msgstr ""
+
+msgctxt "1540"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1544"
+msgid "Talk_OK"
+msgstr ""

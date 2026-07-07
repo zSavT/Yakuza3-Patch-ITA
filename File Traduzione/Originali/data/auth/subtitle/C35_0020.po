@@ -1,0 +1,126 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "29\t91"
+msgid "Take this, fatass!"
+msgstr ""
+
+msgctxt "100\t156"
+msgid "Uncle Mikio!"
+msgstr ""
+
+msgctxt "157\t195"
+msgid "Izumi."
+msgstr ""
+
+msgctxt "196\t250"
+msgid "Take the dog! Go!"
+msgstr ""
+
+msgctxt "251\t293"
+msgid "But..."
+msgstr ""
+
+msgctxt "294\t390"
+msgid "You heard me! Run!"
+msgstr ""
+
+msgctxt "425\t493"
+msgid "Mame. Come on."
+msgstr ""
+
+msgctxt "511\t571"
+msgid "Please!"
+msgstr ""
+
+msgctxt "664\t719"
+msgid "The shit!?"
+msgstr ""
+
+msgctxt "720\t780"
+msgid "Mame!"
+msgstr ""
+
+msgctxt "823\t883"
+msgid "Don't hit me, hit the dog!"
+msgstr ""
+
+msgctxt "884\t918"
+msgid "You there!"
+msgstr ""
+
+msgctxt "919\t1010"
+msgid "Crap, we gotta leg it!"
+msgstr ""
+
+msgctxt "1013\t1073"
+msgid "Get back here!"
+msgstr ""
+
+msgctxt "1108\t1179"
+msgid "Hey, you okay?"
+msgstr ""
+
+msgctxt "1180\t1213"
+msgid "Oh, sir."
+msgstr ""
+
+msgctxt "1214\t1305"
+msgid ""
+"Looks like I was right\\n"
+"to worry about you."
+msgstr ""
+
+msgctxt "1306\t1404"
+msgid ""
+"That was my bad.\\n"
+"I tried to stop 'em."
+msgstr ""
+
+msgctxt "1432\t1497"
+msgid "Izumi. You all right?"
+msgstr ""
+
+msgctxt "1498\t1597"
+msgid "Yeah, I think so."
+msgstr ""
+
+msgctxt "1637\t1705"
+msgid "Mame! Where's Mame!?"
+msgstr ""
+
+msgctxt "2005\t2038"
+msgid "Ya did it!"
+msgstr ""
+
+msgctxt "2039\t2099"
+msgid "Mame."
+msgstr ""
+
+msgctxt "2117\t2361"
+msgid ""
+"A doghouse, huh? I can build stuff, sure...\\n"
+"but I dunno if I can build that."
+msgstr ""
+
+msgctxt "2370\t2476"
+msgid "Huh? But you promised!"
+msgstr ""
+
+msgctxt "2477\t2537"
+msgid "Didn't he, Mame?"
+msgstr ""
+
+msgctxt "2614\t2674"
+msgid "All right, all right."
+msgstr ""

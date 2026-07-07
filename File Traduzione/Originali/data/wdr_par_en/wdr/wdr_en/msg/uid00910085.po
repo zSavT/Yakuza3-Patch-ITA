@@ -1,0 +1,100 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "136"
+msgid "Great work, Kiryu-san. I'll take it from here."
+msgstr ""
+
+msgctxt "148"
+msgid "Here's your reward. We appreciate your hard work."
+msgstr ""
+
+msgctxt "160"
+msgid "You got <Color:8>150,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "172"
+msgid ""
+"I'm afraid we don't have any new information on hitmen\r\n"
+"right now."
+msgstr ""
+
+msgctxt "184"
+msgid ""
+"I hear they've got some new leads on another hitman in\r\n"
+"Kamurocho, though."
+msgstr ""
+
+msgctxt "196"
+msgid ""
+"Do you think you could help Ibuki-san until we learn\r\n"
+"something new about the Reapers in Downtown Ryukyu?"
+msgstr ""
+
+msgctxt "208"
+msgid "If anything new turns up here, we'll call you. Good luck."
+msgstr ""
+
+msgctxt "280"
+msgid "Great work, Kiryu-san. I'll take it from here."
+msgstr ""
+
+msgctxt "292"
+msgid "Here's your reward. We appreciate your hard work."
+msgstr ""
+
+msgctxt "304"
+msgid "You got <Color:8>150,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "316"
+msgid "Oh, by the way, we just got information on a new hitman."
+msgstr ""
+
+msgctxt "328"
+msgid "Would you like to see it now?"
+msgstr ""
+
+msgctxt "340"
+msgid ""
+"I'll be waiting at the shogi salon. Feel free to come see\r\n"
+"me at any time."
+msgstr ""
+
+msgctxt "400"
+msgid "This is the information we have on the hitman."
+msgstr ""
+
+msgctxt "436"
+msgid "Thank you, sir! Good luck!"
+msgstr ""
+
+msgctxt "484"
+msgid "Sure, I'll check it out."
+msgstr ""
+
+msgctxt "496"
+msgid "Not right now."
+msgstr ""
+
+msgctxt "3596"
+msgid "Okinawa HLA Member"
+msgstr ""
+
+msgctxt "3600"
+msgid "dummy"
+msgstr ""
+
+msgctxt "3604"
+msgid "0"
+msgstr ""

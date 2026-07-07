@@ -1,0 +1,136 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid ""
+"*pant* *pant* You're... gonna be sorry! Just you wait! Next time, you're "
+"toast!"
+msgstr ""
+
+msgctxt "100"
+msgid "Thank you so much. I really owe you for stepping in like that."
+msgstr ""
+
+msgctxt "112"
+msgid ""
+"Don't mention it. Listening to that nice song of yours was all the thanks I "
+"needed."
+msgstr ""
+
+msgctxt "124"
+msgid "Oh, you mean \"The Rose Balsam\"?"
+msgstr ""
+
+msgctxt "136"
+msgid ""
+"I learned that song from my grandmother when she first taught me how to "
+"play the sanshin."
+msgstr ""
+
+msgctxt "148"
+msgid ""
+"With your parents' counsel as your compass, with virtue as your shield, you "
+"can face this world with a will as strong as steel..."
+msgstr ""
+
+msgctxt "160"
+msgid ""
+"All of my grandmother's life lessons are right there in the lyrics. I bet "
+"that's why it's the first one she had me learn how to play."
+msgstr ""
+
+msgctxt "172"
+msgid "It's a beautiful song."
+msgstr ""
+
+msgctxt "184"
+msgid ""
+"I agree... And it's even more important to me nowadays. My grandmother... "
+"She passed away last year."
+msgstr ""
+
+msgctxt "196"
+msgid ""
+"She once told me that music is all I have, so the kindness of strangers is "
+"all I can rely on to make my way in the world."
+msgstr ""
+
+msgctxt "208"
+msgid ""
+"I sing that song in her memory so that I never forget the lessons she "
+"taught me."
+msgstr ""
+
+msgctxt "220"
+msgid "Sounds like she'd be proud of you. Hang in there, all right?"
+msgstr ""
+
+msgctxt "232"
+msgid ""
+"I'll do my best. Thanks again for your help. Oh, and... here. Please take "
+"this. It's an Okinawan delicacy, kind of like a donut."
+msgstr ""
+
+msgctxt "244"
+msgid "You got a <Color:8>Sata Andagi<Color:Default>."
+msgstr ""
+
+msgctxt "268"
+msgid ""
+"Thanks to you, I can keep singing here, sharing my grandmother's song with "
+"everyone."
+msgstr ""
+
+msgctxt "280"
+msgid "Keep it up. I'll be cheering you on."
+msgstr ""
+
+msgctxt "304"
+msgid "You got 2,000 EXP."
+msgstr ""
+
+msgctxt "3868"
+msgid "Punk"
+msgstr ""
+
+msgctxt "3872"
+msgid "Young Folk Singer"
+msgstr ""
+
+msgctxt "3876"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "3880"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "3884"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "3888"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "3892"
+msgid "Talk_Send"
+msgstr ""
+
+msgctxt "3896"
+msgid "dummy"
+msgstr ""
+
+msgctxt "3900"
+msgid "0"
+msgstr ""

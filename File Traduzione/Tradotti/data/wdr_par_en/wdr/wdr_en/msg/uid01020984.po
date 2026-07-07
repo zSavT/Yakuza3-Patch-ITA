@@ -1,0 +1,62 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "108"
+msgid "Are you... going in there, Uncle Kaz?"
+msgstr ""
+
+msgctxt "120"
+msgid "(Shoot, I forgot Haruka was with me! What now!?)"
+msgstr ""
+
+msgctxt "132"
+msgid ""
+"Yeah, sorry. Think you can be a big girl and wait here while\r\n"
+"I'm gone?"
+msgstr ""
+
+msgctxt "144"
+msgid "...Okay. Have fun, Uncle Kaz."
+msgstr ""
+
+msgctxt "156"
+msgid "No, I'm okay."
+msgstr ""
+
+msgctxt "168"
+msgid "Really? I don't mind."
+msgstr ""
+
+msgctxt "228"
+msgid "Go In Anyway"
+msgstr ""
+
+msgctxt "240"
+msgid "Forget It"
+msgstr ""
+
+msgctxt "1348"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "1352"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "1356"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1360"
+msgid "0"
+msgstr ""

@@ -1,0 +1,161 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "124"
+msgid ""
+"How many times have I told you, you can't take any food\r\n"
+"home with you!"
+msgstr ""
+
+msgctxt "136"
+msgid "We're just going to throw it out anyway. Why waste it?"
+msgstr ""
+
+msgctxt "148"
+msgid ""
+"That might be true, but you still need to pay for it.\r\n"
+"It's our merchandise, after all."
+msgstr ""
+
+msgctxt "160"
+msgid ""
+"You don't have to be such a cheapskate. You're still\r\n"
+"just going to throw it out."
+msgstr ""
+
+msgctxt "172"
+msgid ""
+"Look, if you still don't get it, then don't bother coming\r\n"
+"back tomorrow!"
+msgstr ""
+
+msgctxt "184"
+msgid "Whaaaaat!? Not again... This is the fourth shop..."
+msgstr ""
+
+msgctxt "232"
+msgid "Come again, Kiryu-san!"
+msgstr ""
+
+msgctxt "244"
+msgid "Oh! Kiryu-san! Hey! It's me!"
+msgstr ""
+
+msgctxt "256"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "268"
+msgid ""
+"It's me, Kaede! You told me about Tokyo in Downtown\r\n"
+"Ryukyu, remember?"
+msgstr ""
+
+msgctxt "280"
+msgid "Oh, hey, it's you. You really did move to Tokyo, huh."
+msgstr ""
+
+msgctxt "292"
+msgid ""
+"I'm doing great. The rent's really expensive, just like\r\n"
+"you said."
+msgstr ""
+
+msgctxt "304"
+msgid ""
+"And train transfers are pretty complicated... But I'm\r\n"
+"having the time of my life here in Tokyo! I'm glad I gave\r\n"
+"it a shot."
+msgstr ""
+
+msgctxt "316"
+msgid "Yeah? That's good to hear."
+msgstr ""
+
+msgctxt "328"
+msgid "Oh, right! Here, have this. Fresh off the griddle!"
+msgstr ""
+
+msgctxt "340"
+msgid "You got a <Color:8>Smile Fries<Color:Default>."
+msgstr ""
+
+msgctxt "364"
+msgid "Hold on... Are you sure you should be giving me this?"
+msgstr ""
+
+msgctxt "376"
+msgid ""
+"Oh, it's fine! Just between you and me... I take all the\r\n"
+"leftovers home with me."
+msgstr ""
+
+msgctxt "388"
+msgid "See you next time!"
+msgstr ""
+
+msgctxt "4024"
+msgid "Manager"
+msgstr ""
+
+msgctxt "4028"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "4032"
+msgid "Kaede"
+msgstr ""
+
+msgctxt "4036"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "4040"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "4044"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "4048"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "4052"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "4056"
+msgid "dummy"
+msgstr ""
+
+msgctxt "4060"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "4064"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "4068"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "4072"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "4076"
+msgid "Sync_Send"
+msgstr ""

@@ -1,0 +1,44 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid "You're the jerk who ran off with a sweet old lady's pension, aren't you?"
+msgstr ""
+
+msgctxt "88"
+msgid "Who the hell are you?"
+msgstr ""
+
+msgctxt "100"
+msgid "Just come with me. You're gonna give her that money back."
+msgstr ""
+
+msgctxt "708"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "712"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "716"
+msgid "Bag Snatcher"
+msgstr ""
+
+msgctxt "720"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "724"
+msgid "Talk_Angry"
+msgstr ""

@@ -1,0 +1,48 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "108"
+msgid "(There's something on the ground...)"
+msgstr ""
+
+msgctxt "120"
+msgid "Take the <Color:8>Fishing Champ Magazine<Color:Default>?"
+msgstr ""
+
+msgctxt "132"
+msgid "You got a <Color:8>Fishing Champ Magazine<Color:Default>."
+msgstr ""
+
+msgctxt "156"
+msgid "(I'll just leave it here for now.)"
+msgstr ""
+
+msgctxt "168"
+msgid "Take It"
+msgstr ""
+
+msgctxt "180"
+msgid "Don't Take It"
+msgstr ""
+
+msgctxt "864"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "868"
+msgid "P_stand_tlk_hirou_st"
+msgstr ""
+
+msgctxt "872"
+msgid "P_stand_tlk_hirou_ed"
+msgstr ""

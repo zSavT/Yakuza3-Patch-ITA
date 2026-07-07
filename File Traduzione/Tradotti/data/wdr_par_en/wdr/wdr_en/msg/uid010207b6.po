@@ -1,0 +1,54 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "100"
+msgid "Kiryu-san? It's Yuya. Sorry to trouble you, but..."
+msgstr ""
+
+msgctxt "112"
+msgid "What's wrong? Did something happen?"
+msgstr ""
+
+msgctxt "124"
+msgid "Well. I need to talk to you in person."
+msgstr ""
+
+msgctxt "136"
+msgid ""
+"Could you meet me over at Bantam? It's right across from the Millennium "
+"Tower."
+msgstr ""
+
+msgctxt "148"
+msgid "Bantam it is. I'll be there."
+msgstr ""
+
+msgctxt "1120"
+msgid "P_stand_tlk_phone_st"
+msgstr ""
+
+msgctxt "1124"
+msgid "Yuya"
+msgstr ""
+
+msgctxt "1128"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1132"
+msgid "P_stand_tlk_phone_ed"
+msgstr ""
+
+msgctxt "1136"
+msgid "dummy"
+msgstr ""

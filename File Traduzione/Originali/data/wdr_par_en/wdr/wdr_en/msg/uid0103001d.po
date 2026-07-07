@@ -1,0 +1,68 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "240"
+msgid "Let's see who's banker."
+msgstr ""
+
+msgctxt "252"
+msgid "Cool, I'm the banker."
+msgstr ""
+
+msgctxt "264"
+msgid "So how much are you gonna bet?"
+msgstr ""
+
+msgctxt "276"
+msgid "Let's get down to business!"
+msgstr ""
+
+msgctxt "288"
+msgid "My turn!"
+msgstr ""
+
+msgctxt "300"
+msgid "(This line signifies failure.)"
+msgstr ""
+
+msgctxt "312"
+msgid "Let's settle."
+msgstr ""
+
+msgctxt "324"
+msgid "You're banker, bro."
+msgstr ""
+
+msgctxt "336"
+msgid "So we change bankers now."
+msgstr ""
+
+msgctxt "348"
+msgid "Want to try it again?"
+msgstr ""
+
+msgctxt "360"
+msgid ""
+"Shit! I'm broke!\r\n"
+"I'm outta here!"
+msgstr ""
+
+msgctxt "372"
+msgid ""
+"Whoa, looks like you're broke.\r\n"
+"Better luck next time!"
+msgstr ""
+
+msgctxt "1352"
+msgid "Strongarm Eddie"
+msgstr ""

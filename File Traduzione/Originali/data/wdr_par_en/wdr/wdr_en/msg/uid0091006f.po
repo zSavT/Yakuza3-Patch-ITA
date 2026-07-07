@@ -1,0 +1,104 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "96"
+msgid "What the hell just happened...?"
+msgstr ""
+
+msgctxt "108"
+msgid "All talk and no substance. I'm going in."
+msgstr ""
+
+msgctxt "132"
+msgid "Is there a guy by the name of Gohren here?"
+msgstr ""
+
+msgctxt "144"
+msgid "Who are you?"
+msgstr ""
+
+msgctxt "156"
+msgid "I'm with the Honest Living Association. I'm here to see Gohren."
+msgstr ""
+
+msgctxt "168"
+msgid "The HLA?"
+msgstr ""
+
+msgctxt "180"
+msgid "You dumbass. If you had just waited, we woulda come to you."
+msgstr ""
+
+msgctxt "192"
+msgid "Look, I don't have time for flunkies like you. Bring Gohren out, right now."
+msgstr ""
+
+msgctxt "204"
+msgid "Hey! Who you calling flunkies, pops!?"
+msgstr ""
+
+msgctxt "216"
+msgid ""
+"Enjoy your ignorance while you can. Gohren-san only surrounds himself with "
+"the toughest badasses around."
+msgstr ""
+
+msgctxt "228"
+msgid "And that includes us!"
+msgstr ""
+
+msgctxt "240"
+msgid ""
+"I couldn't care less who you punks think you are. Are you gonna let me "
+"past, or not?"
+msgstr ""
+
+msgctxt "252"
+msgid "Enough of this bullshit! If you think you can get by us, go ahead and try!"
+msgstr ""
+
+msgctxt "2280"
+msgid "Guard"
+msgstr ""
+
+msgctxt "2284"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "2288"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "2292"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "2296"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "2300"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "2304"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "2308"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "2312"
+msgid "Talk_Chohatu"
+msgstr ""

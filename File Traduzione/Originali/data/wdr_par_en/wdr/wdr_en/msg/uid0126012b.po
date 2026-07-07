@@ -1,0 +1,340 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "200"
+msgid "(Hah... phew... What the hell? When did he get so agile?)"
+msgstr ""
+
+msgctxt "212"
+msgid "(Damn. Guess I should head back to the shop...)"
+msgstr ""
+
+msgctxt "284"
+msgid "Oh... Did he get away?"
+msgstr ""
+
+msgctxt "296"
+msgid "Okay. Well... if he comes back, I might have to ask you for help again..."
+msgstr ""
+
+msgctxt "356"
+msgid "Urgh... hah... Are... are you...?"
+msgstr ""
+
+msgctxt "368"
+msgid "Hey, it's me! You know, the old Kamurocho dine-and-dasher!"
+msgstr ""
+
+msgctxt "380"
+msgid "Wait, you're <Italic>that</Italic> dine-and-dasher? But..."
+msgstr ""
+
+msgctxt "392"
+msgid ""
+"Oh, I tried, but I just couldn't give it up. I dashed my way across Japan, "
+"and, well... Look how much weight I lost!"
+msgstr ""
+
+msgctxt "404"
+msgid ""
+"I run a popular blog, too! Maybe you've heard of the \"Dine and Dash Diet\" "
+"going around?"
+msgstr ""
+
+msgctxt "416"
+msgid "......"
+msgstr ""
+
+msgctxt "428"
+msgid "Something wrong?"
+msgstr ""
+
+msgctxt "440"
+msgid "Never mind. Just come back to the shop with me."
+msgstr ""
+
+msgctxt "512"
+msgid ""
+"Pork rib noodles, bitter melon stir-fry... It comes to 2,300 yen. If you "
+"can't pay, you can wash dishes for me."
+msgstr ""
+
+msgctxt "524"
+msgid "I'm so sorry. I just can't help myself..."
+msgstr ""
+
+msgctxt "536"
+msgid ""
+"I'll let you go this time, but remember that dining and dashing is a crime. "
+"Don't ever do this again."
+msgstr ""
+
+msgctxt "560"
+msgid ""
+"Thank you for bringing him to justice. I just don't know what kids these "
+"days are thinking."
+msgstr ""
+
+msgctxt "572"
+msgid "You got a <Color:8>Gold Plate<Color:Default>."
+msgstr ""
+
+msgctxt "608"
+msgid "I knew it'd be you! You're the only man who can catch me."
+msgstr ""
+
+msgctxt "620"
+msgid "Look, just give it up."
+msgstr ""
+
+msgctxt "632"
+msgid ""
+"Oh, yeah! My new diet made me famous, and I even got a girlfriend! That "
+"manager from the gelato place, remember?"
+msgstr ""
+
+msgctxt "644"
+msgid ""
+"I've got a thing for strong women. I sorta fell for her when she was "
+"scolding me, and now we're on a vacation together. Eheh..."
+msgstr ""
+
+msgctxt "656"
+msgid ""
+"So... what I'm trying to say is, I'm done for real. Today marks my final "
+"dash. Cause no matter what thrills I get from it..."
+msgstr ""
+
+msgctxt "668"
+msgid "It can't compare to the special lady in my life!"
+msgstr ""
+
+msgctxt "692"
+msgid "(I don't get it, but at least he's done.)"
+msgstr ""
+
+msgctxt "716"
+msgid "You got 8,000 EXP."
+msgstr ""
+
+msgctxt "776"
+msgid "Ho boy... Should have known he'd pull this stunt again."
+msgstr ""
+
+msgctxt "788"
+msgid "What happened?"
+msgstr ""
+
+msgctxt "800"
+msgid ""
+"That dine-and-dasher came back! He insisted he'd pay this time if we just "
+"let him eat."
+msgstr ""
+
+msgctxt "812"
+msgid "But then the bill comes, and out the door he goes!"
+msgstr ""
+
+msgctxt "824"
+msgid "Oh... He's back..."
+msgstr ""
+
+msgctxt "848"
+msgid ""
+"I just want to know why he keeps doing this. I got the sense he's not "
+"having money troubles or anything..."
+msgstr ""
+
+msgctxt "872"
+msgid ""
+"Could you catch the dine-and-dasher? If you help, I'll dig up some reward "
+"for you."
+msgstr ""
+
+msgctxt "884"
+msgid "Sorry. Not much I can do."
+msgstr ""
+
+msgctxt "896"
+msgid "All right... Sorry to have bothered you."
+msgstr ""
+
+msgctxt "920"
+msgid "Oh, no... He got away."
+msgstr ""
+
+msgctxt "944"
+msgid "Fine. I just need to catch him, right?"
+msgstr ""
+
+msgctxt "956"
+msgid "Sorry to drag you into this. I'll make sure it's worth your time."
+msgstr ""
+
+msgctxt "980"
+msgid "It's been years since our last dine and dash... How do I handle this?"
+msgstr ""
+
+msgctxt "992"
+msgid "What happened?"
+msgstr ""
+
+msgctxt "1004"
+msgid "Wow, a dine-and-dasher... We haven't had one in almost twenty years."
+msgstr ""
+
+msgctxt "1016"
+msgid "Hey! There he is! Over there!"
+msgstr ""
+
+msgctxt "1040"
+msgid "What do I do? I can't leave the shop, but I can't just let him go, either..."
+msgstr ""
+
+msgctxt "1064"
+msgid ""
+"Could you catch the dine-and-dasher? I'm sure I can find something to pay "
+"you with."
+msgstr ""
+
+msgctxt "1076"
+msgid "Sorry. Not much I can do."
+msgstr ""
+
+msgctxt "1088"
+msgid "All right... Sorry to have bothered you."
+msgstr ""
+
+msgctxt "1112"
+msgid "Oh, no... He got away."
+msgstr ""
+
+msgctxt "1136"
+msgid "Fine. I just need to catch him, right?"
+msgstr ""
+
+msgctxt "1148"
+msgid "Sorry to drag you into this. I'll make sure it's worth your time."
+msgstr ""
+
+msgctxt "1172"
+msgid "Chase the Dine-and-Dasher"
+msgstr ""
+
+msgctxt "1184"
+msgid "Leave Him Be"
+msgstr ""
+
+msgctxt "1196"
+msgid "Chase the Dine-and-Dasher"
+msgstr ""
+
+msgctxt "1208"
+msgid "Leave Him Be"
+msgstr ""
+
+msgctxt "14080"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "14084"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "14088"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "14092"
+msgid "Dried Sardine Shop Manager"
+msgstr ""
+
+msgctxt "14096"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "14100"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "14104"
+msgid "dummy"
+msgstr ""
+
+msgctxt "14108"
+msgid "0"
+msgstr ""
+
+msgctxt "14112"
+msgid "Dine-And-Dasher"
+msgstr ""
+
+msgctxt "14116"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "14120"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "14124"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "14128"
+msgid "Talk_Kosite_st"
+msgstr ""
+
+msgctxt "14132"
+msgid "Talk_Udekumi_st"
+msgstr ""
+
+msgctxt "14136"
+msgid "Talk_Send"
+msgstr ""
+
+msgctxt "14140"
+msgid "P_stand_tlk_send"
+msgstr ""
+
+msgctxt "14144"
+msgid "Talk_Udekumi_ed"
+msgstr ""
+
+msgctxt "14148"
+msgid "Sync_Send"
+msgstr ""
+
+msgctxt "14152"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "14156"
+msgid "Talk_Kosite_ed"
+msgstr ""
+
+msgctxt "14160"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "14164"
+msgid "Talk_Request"
+msgstr ""
+
+msgctxt "14168"
+msgid "Search_lp"
+msgstr ""
+
+msgctxt "14172"
+msgid "Talk_Ojigi"
+msgstr ""

@@ -1,0 +1,106 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "524\t738"
+msgid ""
+"I get it now. This is how you got\\n"
+"between Okinawa and Tokyo so fast."
+msgstr ""
+
+msgctxt "739\t799"
+msgid "Bingo."
+msgstr ""
+
+msgctxt "806\t893"
+msgid "The entire trip clocks in just under an hour."
+msgstr ""
+
+msgctxt "1162\t1243"
+msgid "You sure you're ready to go?"
+msgstr ""
+
+msgctxt "1240\t1341"
+msgid "Yeah. I made Rikiya a promise."
+msgstr ""
+
+msgctxt "1365\t1448"
+msgid "I'm going to end things with Mine."
+msgstr ""
+
+msgctxt "1777\t1837"
+msgid "Thanks for everything."
+msgstr ""
+
+msgctxt "1849\t1905"
+msgid "What are you doing?"
+msgstr ""
+
+msgctxt "1906\t1992"
+msgid "This isn't over yet."
+msgstr ""
+
+msgctxt "2065\t2230"
+msgid ""
+"Once you stop Mine,\\n"
+"and once I capture Richardson..."
+msgstr ""
+
+msgctxt "2231\t2373"
+msgid "Then, and only then, I'll shake your hand."
+msgstr ""
+
+msgctxt "2588\t2633"
+msgid "Now go."
+msgstr ""
+
+msgctxt "2652\t2721"
+msgid "It's just the two of you?"
+msgstr ""
+
+msgctxt "2726\t2786"
+msgid "Yeah."
+msgstr ""
+
+msgctxt "2823\t2910"
+msgid "You're coming, right, Haruka?"
+msgstr ""
+
+msgctxt "2925\t2977"
+msgid "Mhm!"
+msgstr ""
+
+msgctxt "2978\t3040"
+msgid "I won't be far behind."
+msgstr ""
+
+msgctxt "3051\t3178"
+msgid ""
+"After you find Daigo,\\n"
+"head up to the hospital roof."
+msgstr ""
+
+msgctxt "3179\t3255"
+msgid "I'll send a rescue helicopter your way."
+msgstr ""
+
+msgctxt "3257\t3309"
+msgid "Got it."
+msgstr ""
+
+msgctxt "3310\t3370"
+msgid "And be careful, you hear?"
+msgstr ""
+
+msgctxt "3387\t3487"
+msgid "I'll see you on the roof."
+msgstr ""

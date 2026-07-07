@@ -1,0 +1,72 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "92"
+msgid "Oh, Kiryu-san... It's such a shame what happened to your orphanage..."
+msgstr ""
+
+msgctxt "104"
+msgid "I'm just glad the kids are safe."
+msgstr ""
+
+msgctxt "116"
+msgid ""
+"It turns out that all this talk about the resort bringing money to Okinawa "
+"was a lie. The only ones getting rich are the yakuza."
+msgstr ""
+
+msgctxt "128"
+msgid ""
+"I was more than willing to move out of my house if it was for the good of "
+"Okinawa, but now I've made up my mind."
+msgstr ""
+
+msgctxt "140"
+msgid ""
+"I've decided to defend my home, even if it's the last thing I'll ever do. "
+"It's my house, and nobody is going to take it from me, no matter what."
+msgstr ""
+
+msgctxt "152"
+msgid "People from Okinawa certainly are strong."
+msgstr ""
+
+msgctxt "164"
+msgid ""
+"If you're planning to bring the fight back to those nasty yakuza, I'd be "
+"happy to look after the children while you're gone!"
+msgstr ""
+
+msgctxt "176"
+msgid "Thank you... You take care of yourself, too."
+msgstr ""
+
+msgctxt "1608"
+msgid "Neighbor"
+msgstr ""
+
+msgctxt "1612"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1616"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "1620"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "1624"
+msgid "Talk_Ojigi"
+msgstr ""

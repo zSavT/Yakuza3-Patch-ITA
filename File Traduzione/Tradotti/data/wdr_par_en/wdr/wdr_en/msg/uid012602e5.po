@@ -1,0 +1,196 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "108"
+msgid "You look like a good guy. Lend me a hand!"
+msgstr ""
+
+msgctxt "120"
+msgid "What's going on?"
+msgstr ""
+
+msgctxt "132"
+msgid "My granny's coming up from the sticks!"
+msgstr ""
+
+msgctxt "144"
+msgid ""
+"I kinda told her I was a company president here in Kamurocho... which is "
+"kinda... not true."
+msgstr ""
+
+msgctxt "156"
+msgid "So I'm begging you⑬please! Pretend you work for me so I can keep up the lie!"
+msgstr ""
+
+msgctxt "168"
+msgid "Why should I have to do that?"
+msgstr ""
+
+msgctxt "180"
+msgid ""
+"Granny's getting frail and was in a bad place for a while there. I thought "
+"I'd cheer her up by telling her I was a big corporate hotshot."
+msgstr ""
+
+msgctxt "192"
+msgid ""
+"I've been nothing but trouble since I was a little kid, so hearing I'd "
+"become an upstanding member of society thrilled her to no end."
+msgstr ""
+
+msgctxt "204"
+msgid ""
+"Now she's out of the hospital and on her way here to see how I've been "
+"doing."
+msgstr ""
+
+msgctxt "216"
+msgid "But if she found out I was lying..."
+msgstr ""
+
+msgctxt "228"
+msgid "I get where you're coming from, but you should just be honest with her."
+msgstr ""
+
+msgctxt "240"
+msgid ""
+"Yeah, I know... but I think there are times where a lie is "
+"justified⑬necessary, even."
+msgstr ""
+
+msgctxt "252"
+msgid "So please... back me up on this! For my granny's sake!"
+msgstr ""
+
+msgctxt "264"
+msgid ""
+"Well, if you're that dead set on the idea, we'll have to make sure your lie "
+"is airtight."
+msgstr ""
+
+msgctxt "276"
+msgid ""
+"Don't worry. I'm ready to take anything she throws at me. So what do you "
+"say?"
+msgstr ""
+
+msgctxt "288"
+msgid ""
+"No, I'm not interested. I won't be part of some farce that involves duping "
+"old women."
+msgstr ""
+
+msgctxt "300"
+msgid "But..."
+msgstr ""
+
+msgctxt "312"
+msgid ""
+"If your grandmother's that important to you, go back home and take care of "
+"her."
+msgstr ""
+
+msgctxt "324"
+msgid "Okay... Thanks anyway."
+msgstr ""
+
+msgctxt "384"
+msgid ""
+"Okay. I suppose I'll take a supporting role in the performance of your "
+"lifetime⑬for your grandmother's sake, you understand."
+msgstr ""
+
+msgctxt "396"
+msgid "Oh, thank you so much! You don't know how much this'll help me!"
+msgstr ""
+
+msgctxt "408"
+msgid "Come over this way. Granny's waiting."
+msgstr ""
+
+msgctxt "432"
+msgid "Help Him Out"
+msgstr ""
+
+msgctxt "444"
+msgid "Leave Him Be"
+msgstr ""
+
+msgctxt "5016"
+msgid "Panicked Punk"
+msgstr ""
+
+msgctxt "5020"
+msgid "Talk_Sorry"
+msgstr ""
+
+msgctxt "5024"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "5028"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "5032"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "5036"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "5040"
+msgid "Talk_Udekumi_st"
+msgstr ""
+
+msgctxt "5044"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "5048"
+msgid "Talk_Cry"
+msgstr ""
+
+msgctxt "5052"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "5056"
+msgid "Talk_Udekumi_ed"
+msgstr ""
+
+msgctxt "5060"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "5064"
+msgid "Talk_Kosite_st"
+msgstr ""
+
+msgctxt "5068"
+msgid "Talk_Kosite_No"
+msgstr ""
+
+msgctxt "5072"
+msgid "Talk_Kosite_ed"
+msgstr ""
+
+msgctxt "5076"
+msgid "Talk_Kosite_Yes"
+msgstr ""
+
+msgctxt "5080"
+msgid "Talk_Call"
+msgstr ""

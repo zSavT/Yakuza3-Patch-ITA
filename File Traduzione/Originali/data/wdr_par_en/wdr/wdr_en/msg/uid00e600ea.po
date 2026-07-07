@@ -1,0 +1,46 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid "I saw Kanda go into a hotel."
+msgstr ""
+
+msgctxt "76"
+msgid "Which hotel?"
+msgstr ""
+
+msgctxt "88"
+msgid "It's just down the road. The Red Brick Hotel."
+msgstr ""
+
+msgctxt "100"
+msgid ""
+"He went in alone, then sent his men out to find him some \"company.\" I "
+"wonder who tonight's lucky winner'll be..."
+msgstr ""
+
+msgctxt "696"
+msgid "Homeless Witness"
+msgstr ""
+
+msgctxt "700"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "704"
+msgid "Talk_Info_R"
+msgstr ""
+
+msgctxt "708"
+msgid "1_34_LINE_VF"
+msgstr ""

@@ -1,0 +1,85 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "120"
+msgid "Oh, sensei! I've been waiting for you!"
+msgstr ""
+
+msgctxt "132"
+msgid "...Sensei? The hell?"
+msgstr ""
+
+msgctxt "144"
+msgid ""
+"Remember me? You helped me at the burger joint and outside\r\n"
+"that cabaret club!"
+msgstr ""
+
+msgctxt "156"
+msgid "Oh... you again? What do you want this time?"
+msgstr ""
+
+msgctxt "168"
+msgid ""
+"Well, after we last met, I tried real hard to get a date\r\n"
+"all on my own, but no matter what I do, I can't get a girl\r\n"
+"to go on a second date, let alone a first!"
+msgstr ""
+
+msgctxt "180"
+msgid ""
+"So I decided to come here... and ask you to teach me how\r\n"
+"to talk to women!"
+msgstr ""
+
+msgctxt "192"
+msgid ""
+"I want to know everything you know. Will you come with me,\r\n"
+"just over there? Please!"
+msgstr ""
+
+msgctxt "204"
+msgid "Well, all right."
+msgstr ""
+
+msgctxt "1864"
+msgid "Lovelorn Teenager"
+msgstr ""
+
+msgctxt "1868"
+msgid "dummy"
+msgstr ""
+
+msgctxt "1872"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1876"
+msgid "Talk_Kosite_st"
+msgstr ""
+
+msgctxt "1880"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "1884"
+msgid "Talk_Kosite_Yes"
+msgstr ""
+
+msgctxt "1888"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "1892"
+msgid "Talk_Kosite_ed"
+msgstr ""

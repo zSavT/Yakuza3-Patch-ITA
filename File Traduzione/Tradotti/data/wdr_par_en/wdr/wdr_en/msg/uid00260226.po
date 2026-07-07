@@ -1,0 +1,88 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid "Har har har. Not bad, Kiryu-san."
+msgstr ""
+
+msgctxt "76"
+msgid ""
+"Just remember, golf is a mental sport. If you want to win, your mind must "
+"be at peace.  Keep a cool head and you'll go far."
+msgstr ""
+
+msgctxt "88"
+msgid ""
+"Looks like I really did need a pro golfer to get me into the spirit of "
+"competition. Har har har har."
+msgstr ""
+
+msgctxt "100"
+msgid "Tamura-kun, have you prepared what I told you for Kiryu-san?"
+msgstr ""
+
+msgctxt "124"
+msgid "Yes, of course. Kiryu-san, please accept this token of our gratitude."
+msgstr ""
+
+msgctxt "136"
+msgid "You got <Color:8>30,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "148"
+msgid "I hope we see you again."
+msgstr ""
+
+msgctxt "172"
+msgid "You got 3,000 EXP."
+msgstr ""
+
+msgctxt "2188"
+msgid "President Kurosawa"
+msgstr ""
+
+msgctxt "2192"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "2196"
+msgid "Talk_SmileBig_st"
+msgstr ""
+
+msgctxt "2200"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "2204"
+msgid "Talk_SmileBig_ed"
+msgstr ""
+
+msgctxt "2208"
+msgid "Talk_Info_L"
+msgstr ""
+
+msgctxt "2212"
+msgid "Low-level Employee Tamura"
+msgstr ""
+
+msgctxt "2216"
+msgid "Talk_Send"
+msgstr ""
+
+msgctxt "2220"
+msgid "dummy"
+msgstr ""
+
+msgctxt "2224"
+msgid "0"
+msgstr ""

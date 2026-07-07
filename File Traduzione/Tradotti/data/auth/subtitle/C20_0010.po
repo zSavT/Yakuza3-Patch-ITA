@@ -1,0 +1,86 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "208\t268"
+msgid "See ya 'round."
+msgstr ""
+
+msgctxt "921\t981"
+msgid "Mama..."
+msgstr ""
+
+msgctxt "1123\t1205"
+msgid "I bought something for you."
+msgstr ""
+
+msgctxt "1381\t1431"
+msgid "Mama?"
+msgstr ""
+
+msgctxt "1432\t1553"
+msgid "Oh... Date-san, you almost had me there!"
+msgstr ""
+
+msgctxt "1554\t1651"
+msgid ""
+"Isn't this the ring you were buying\\n"
+"for Saya-chan?"
+msgstr ""
+
+msgctxt "1652\t1767"
+msgid ""
+"I made that part up.\\n"
+"It was always for you..."
+msgstr ""
+
+msgctxt "1801\t1861"
+msgid "You're serious?"
+msgstr ""
+
+msgctxt "1885\t1962"
+msgid "Yeah. 'Course I am."
+msgstr ""
+
+msgctxt "2058\t2156"
+msgid "Mama, I've always been⑬"
+msgstr ""
+
+msgctxt "2157\t2217"
+msgid "You should go."
+msgstr ""
+
+msgctxt "2240\t2295"
+msgid "And I mean right now."
+msgstr ""
+
+msgctxt "2313\t2412"
+msgid "I've decided... to close up shop for the day."
+msgstr ""
+
+msgctxt "2413\t2474"
+msgid "So, you're saying..."
+msgstr ""
+
+msgctxt "2484\t2544"
+msgid "Date-san."
+msgstr ""
+
+msgctxt "2593\t2698"
+msgid ""
+"I appreciate you looking after me\\n"
+"all this time..."
+msgstr ""
+
+msgctxt "2730\t2800"
+msgid "But I never want to see you here again."
+msgstr ""

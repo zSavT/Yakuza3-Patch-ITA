@@ -1,0 +1,110 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "136"
+msgid "You still here?"
+msgstr ""
+
+msgctxt "148"
+msgid ""
+"I've asked a whole bunch of other people since I saw you last, but nobody "
+"would give me the time of day..."
+msgstr ""
+
+msgctxt "160"
+msgid "Please... back me up on this! For my granny's sake!"
+msgstr ""
+
+msgctxt "172"
+msgid "Just be honest with her. Those lies of yours will never hold water."
+msgstr ""
+
+msgctxt "184"
+msgid "But..."
+msgstr ""
+
+msgctxt "196"
+msgid ""
+"If your grandmother's that important to you, go back home and take care of "
+"her."
+msgstr ""
+
+msgctxt "208"
+msgid "Okay... Thanks anyway."
+msgstr ""
+
+msgctxt "268"
+msgid ""
+"Okay. I suppose I'll take a supporting role in the performance of your "
+"lifetime⑬for your grandmother's sake, you understand."
+msgstr ""
+
+msgctxt "280"
+msgid "Oh, thank you so much! You don't know how much this'll help me!"
+msgstr ""
+
+msgctxt "292"
+msgid "Come over this way. Granny's waiting."
+msgstr ""
+
+msgctxt "316"
+msgid "Help Him Out"
+msgstr ""
+
+msgctxt "328"
+msgid "Leave Him Be"
+msgstr ""
+
+msgctxt "2456"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "2460"
+msgid "Talk_Kosite_st"
+msgstr ""
+
+msgctxt "2464"
+msgid "Panicked Punk"
+msgstr ""
+
+msgctxt "2468"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "2472"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "2476"
+msgid "Talk_Kosite_No"
+msgstr ""
+
+msgctxt "2480"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "2484"
+msgid "Talk_Kosite_ed"
+msgstr ""
+
+msgctxt "2488"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "2492"
+msgid "Talk_Kosite_Yes"
+msgstr ""
+
+msgctxt "2496"
+msgid "Talk_Call"
+msgstr ""

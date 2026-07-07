@@ -1,0 +1,68 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "240"
+msgid "Let's start by choosing the banker."
+msgstr ""
+
+msgctxt "252"
+msgid "All right, I'm the banker."
+msgstr ""
+
+msgctxt "264"
+msgid "How much are you gonna wager?"
+msgstr ""
+
+msgctxt "276"
+msgid "Ready to get started?"
+msgstr ""
+
+msgctxt "288"
+msgid "Looks like I'm up."
+msgstr ""
+
+msgctxt "300"
+msgid "(This line signifies failure.)"
+msgstr ""
+
+msgctxt "312"
+msgid "Let's settle our bets, eh?"
+msgstr ""
+
+msgctxt "324"
+msgid "You're the banker, son."
+msgstr ""
+
+msgctxt "336"
+msgid "Time to change bankers."
+msgstr ""
+
+msgctxt "348"
+msgid "Wanna play one more?"
+msgstr ""
+
+msgctxt "360"
+msgid ""
+"Hmph... Guess that's it, huh?\r\n"
+"Can't teach an old dog new tricks..."
+msgstr ""
+
+msgctxt "372"
+msgid ""
+"Seems your luck ran out, boy.\r\n"
+"Come back once you've sharpened up."
+msgstr ""
+
+msgctxt "1464"
+msgid "Psychic Kihachi"
+msgstr ""

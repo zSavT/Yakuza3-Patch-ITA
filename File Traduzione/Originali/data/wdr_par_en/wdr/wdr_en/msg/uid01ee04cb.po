@@ -1,0 +1,150 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "240"
+msgid ""
+"Can you catch a <Color:8>gurukun<Color:Default>, Uncle Kaz? I wanna try "
+"cooking one\r\n"
+"for dinner!"
+msgstr ""
+
+msgctxt "252"
+msgid "(A <Color:8>gurukun<Color:Default>, huh?)"
+msgstr ""
+
+msgctxt "276"
+msgid "All right, I'll give it a shot."
+msgstr ""
+
+msgctxt "288"
+msgid "Yay! Good luck, Uncle Kaz!"
+msgstr ""
+
+msgctxt "312"
+msgid "(Hold on, I don't have any bait.)"
+msgstr ""
+
+msgctxt "324"
+msgid ""
+"Huh? You can't get any fish without bait! Guess I'll figure out something "
+"else for dinner, then..."
+msgstr ""
+
+msgctxt "336"
+msgid "Not now. Sorry, Haruka."
+msgstr ""
+
+msgctxt "348"
+msgid "Huh? But then what are we gonna do for dinner...?"
+msgstr ""
+
+msgctxt "360"
+msgid ""
+"Can you catch an <Color:8>irabucha<Color:Default>, Uncle Kaz? I wanna try "
+"cooking one\r\n"
+"for dinner!"
+msgstr ""
+
+msgctxt "372"
+msgid "(An <Color:8>irabucha<Color:Default>, huh?)"
+msgstr ""
+
+msgctxt "396"
+msgid "All right, I'll give it a shot."
+msgstr ""
+
+msgctxt "408"
+msgid "Yay! Good luck, Uncle Kaz!"
+msgstr ""
+
+msgctxt "432"
+msgid "(Hold on, I don't have any bait.)"
+msgstr ""
+
+msgctxt "444"
+msgid ""
+"Huh? You can't get any fish without bait! Guess I'll figure out something "
+"else for dinner, then..."
+msgstr ""
+
+msgctxt "456"
+msgid "Not now. Sorry, Haruka."
+msgstr ""
+
+msgctxt "468"
+msgid "Huh? But then what are we gonna do for dinner...?"
+msgstr ""
+
+msgctxt "480"
+msgid "(A fishing pole... A little fishing might be fun.)"
+msgstr ""
+
+msgctxt "504"
+msgid "(Okay, I'll give it a try.)"
+msgstr ""
+
+msgctxt "528"
+msgid "(I don't have anything to use as bait...)"
+msgstr ""
+
+msgctxt "540"
+msgid "(No, maybe not.)"
+msgstr ""
+
+msgctxt "564"
+msgid "Catch That Gurukun!"
+msgstr ""
+
+msgctxt "576"
+msgid "Not Now"
+msgstr ""
+
+msgctxt "588"
+msgid "Catch That Irabucha!"
+msgstr ""
+
+msgctxt "600"
+msgid "Not Now"
+msgstr ""
+
+msgctxt "612"
+msgid "Go Fishing"
+msgstr ""
+
+msgctxt "624"
+msgid "Not Now"
+msgstr ""
+
+msgctxt "4356"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "4360"
+msgid "Talk_Request"
+msgstr ""
+
+msgctxt "4364"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "4368"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "4372"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "4376"
+msgid "Talk_Think"
+msgstr ""

@@ -1,0 +1,111 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid "Kiryu-san! Thank goodness you're here..."
+msgstr ""
+
+msgctxt "76"
+msgid "You're not hurt, are you?"
+msgstr ""
+
+msgctxt "88"
+msgid ""
+"No... But there's no telling what might happen if we don't hand over the "
+"money. They said they need it all by the end of the day..."
+msgstr ""
+
+msgctxt "100"
+msgid "......"
+msgstr ""
+
+msgctxt "112"
+msgid ""
+"The total comes out to two million yen, plus interest. I understand that. "
+"But now, all of a sudden, they're claiming a totally different amount. It's "
+"crazy..."
+msgstr ""
+
+msgctxt "124"
+msgid "*sob* Oh... What are we to do...?"
+msgstr ""
+
+msgctxt "136"
+msgid ""
+"It's gonna be all right, Mom! You wait here with Nana. I'll try and reason "
+"with them."
+msgstr ""
+
+msgctxt "148"
+msgid ""
+"Don't do it, Nao! It's too dangerous to go alone! Who knows what they would "
+"do..."
+msgstr ""
+
+msgctxt "160"
+msgid "In that case, why don't we go together?"
+msgstr ""
+
+msgctxt "172"
+msgid "Are... you sure, Kiryu-san?"
+msgstr ""
+
+msgctxt "184"
+msgid ""
+"Yeah. Clearly they're not the best of people. So consider me your \"backup "
+"plan.\""
+msgstr ""
+
+msgctxt "196"
+msgid "You have no idea how much this means to us..."
+msgstr ""
+
+msgctxt "2772"
+msgid "Nao"
+msgstr ""
+
+msgctxt "2776"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "2780"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "2784"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "2788"
+msgid "Nao's Mother"
+msgstr ""
+
+msgctxt "2792"
+msgid "Talk_CryBig_st"
+msgstr ""
+
+msgctxt "2796"
+msgid "Talk_CryBig_ed"
+msgstr ""
+
+msgctxt "2800"
+msgid "Talk_Kosite_st"
+msgstr ""
+
+msgctxt "2804"
+msgid "Talk_Kosite_Yes"
+msgstr ""
+
+msgctxt "2808"
+msgid "Talk_Ojigi"
+msgstr ""

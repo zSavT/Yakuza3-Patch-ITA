@@ -1,0 +1,478 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "512"
+msgid "Controls"
+msgstr ""
+
+msgctxt "524"
+msgid ""
+"Use the "
+"<Action:Button_LS_Up@Cabaret><Action:Button_LS_Down@Cabaret><Action:Button_"
+"LS_Left@Cabaret><Action:Button_LS_Right@Cabaret> to control your gaze."
+msgstr ""
+
+msgctxt "536"
+msgid ""
+"Press <Action:Button_Cross@Cabaret> to stare at a particular area. Hold "
+"down <Action:Button_Cross@Cabaret> to focus."
+msgstr ""
+
+msgctxt "548"
+msgid "Looking at different areas will provoke different reactions."
+msgstr ""
+
+msgctxt "572"
+msgid "(Her eyes...?)"
+msgstr ""
+
+msgctxt "584"
+msgid "(Her lips...?)"
+msgstr ""
+
+msgctxt "596"
+msgid "(Her hands are nice...)"
+msgstr ""
+
+msgctxt "608"
+msgid "(It's covered up by her dress, but I'm sure she has great legs...)"
+msgstr ""
+
+msgctxt "620"
+msgid "(Her beautiful hair...)"
+msgstr ""
+
+msgctxt "632"
+msgid "(Not bad...)"
+msgstr ""
+
+msgctxt "644"
+msgid "(Hmm... Decisions, decisions...)"
+msgstr ""
+
+msgctxt "656"
+msgid "Your eyes. I always look at someone's eyes when I meet them."
+msgstr ""
+
+msgctxt "668"
+msgid "My eyes? Okay, huh."
+msgstr ""
+
+msgctxt "680"
+msgid "So, like... What do you think? About my eyes, I mean."
+msgstr ""
+
+msgctxt "692"
+msgid "They're beautiful."
+msgstr ""
+
+msgctxt "704"
+msgid ""
+"Hehehe... Thanks. You have really pretty eyes too, Kiryu-san. "
+"<Color:7>⑮⑮<Color:Default>"
+msgstr ""
+
+msgctxt "716"
+msgid "Heh, thanks."
+msgstr ""
+
+msgctxt "728"
+msgid "Your lips, for sure."
+msgstr ""
+
+msgctxt "740"
+msgid "My lips...? Okay, huh."
+msgstr ""
+
+msgctxt "752"
+msgid "I mean, there's a lotta guys out there who like my lips."
+msgstr ""
+
+msgctxt "764"
+msgid "Really?"
+msgstr ""
+
+msgctxt "776"
+msgid ""
+"Yeah, they tell me all the time, \"Oh, man, I'm totally in love with your "
+"lips!\""
+msgstr ""
+
+msgctxt "788"
+msgid ""
+"I mean, I get it. I like a good set of sexy lips, too. "
+"<Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "800"
+msgid "I think I'm a hands guy, too."
+msgstr ""
+
+msgctxt "812"
+msgid "Hands? Wow, it's so cool that we've got the same thing."
+msgstr ""
+
+msgctxt "824"
+msgid "I love it when a woman has beautiful, slender fingers."
+msgstr ""
+
+msgctxt "836"
+msgid ""
+"Ooohh... You know, I can do some pretty smooth and sexy movements with my "
+"hands 'cause of all my dancing."
+msgstr ""
+
+msgctxt "848"
+msgid ""
+"When you're belly dancing, you have to focus on every part of your body, "
+"even your fingertips, or your dancing is gonna suck."
+msgstr ""
+
+msgctxt "860"
+msgid ""
+"I reaaaally want you to see me belly dancing, Kiryu-san. "
+"<Color:7>⑮⑮<Color:Default>"
+msgstr ""
+
+msgctxt "872"
+msgid "Your legs."
+msgstr ""
+
+msgctxt "884"
+msgid "My legs...? Huh, okay."
+msgstr ""
+
+msgctxt "896"
+msgid ""
+"I'm wearing a long dress today, though. Sorry to like, disappoint. "
+"<Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "908"
+msgid "I'll admit, it's a bit disappointing."
+msgstr ""
+
+msgctxt "920"
+msgid ""
+"You know, I'm pretty proud of my legs, especially since I do all that "
+"dancing. I stretch a whole lot, too."
+msgstr ""
+
+msgctxt "932"
+msgid "Next time you're free, you should totally come see me do my belly dancing."
+msgstr ""
+
+msgctxt "944"
+msgid "Your hair... I love girls with long, beautiful hair."
+msgstr ""
+
+msgctxt "956"
+msgid "My hair... Okay, huh."
+msgstr ""
+
+msgctxt "968"
+msgid ""
+"I can totally get that. They say that a woman's hair is like, basically her "
+"life, after all. And I do put a ton of work into it."
+msgstr ""
+
+msgctxt "980"
+msgid ""
+"Also, when I do a hair flip, you can smell the amazing scents I put into "
+"it. Isn't that like, awesome?"
+msgstr ""
+
+msgctxt "992"
+msgid "Yeah, I definitely like that."
+msgstr ""
+
+msgctxt "1004"
+msgid "Your... chest."
+msgstr ""
+
+msgctxt "1016"
+msgid ""
+"Ohmigosh, you are so funny! I mean, I guess you <Italic>are</Italic> a boy, "
+"Kiryu-san. You can't help yourself. <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "1028"
+msgid "What do you mean, boy?"
+msgstr ""
+
+msgctxt "1040"
+msgid "Hehehe... Nothing!"
+msgstr ""
+
+msgctxt "1052"
+msgid "......"
+msgstr ""
+
+msgctxt "1064"
+msgid "Okay, I get it. You're not interested in me like, at all. Is that it?"
+msgstr ""
+
+msgctxt "1076"
+msgid "No, that's not it..."
+msgstr ""
+
+msgctxt "1088"
+msgid ""
+"I mean, I was just starting to think like, maybe you'd be a cool "
+"boyfriend..."
+msgstr ""
+
+msgctxt "1100"
+msgid "But I guess I was totally wrong about you feeling that way about me."
+msgstr ""
+
+msgctxt "1112"
+msgid "Sorry..."
+msgstr ""
+
+msgctxt "1124"
+msgid "(Her eyelids...?)"
+msgstr ""
+
+msgctxt "1136"
+msgid "(How about her lips...?)"
+msgstr ""
+
+msgctxt "1148"
+msgid "(Gotta be her hands...)"
+msgstr ""
+
+msgctxt "1160"
+msgid "(On her leg might be good...)"
+msgstr ""
+
+msgctxt "1172"
+msgid "(Her head...?)"
+msgstr ""
+
+msgctxt "1184"
+msgid "(Gotta be her breasts.)"
+msgstr ""
+
+msgctxt "1196"
+msgid "(A tattoo, huh...)"
+msgstr ""
+
+msgctxt "1208"
+msgid "How about... your eyelids?"
+msgstr ""
+
+msgctxt "1220"
+msgid "Ahahaha! Ohmigosh, what am I even gonna put on my eyelids?"
+msgstr ""
+
+msgctxt "1232"
+msgid ""
+"What, should I put like, eyeballs on them, so it looks like I'm awake when "
+"I'm asleep? That'd be sooo hilarious!"
+msgstr ""
+
+msgctxt "1244"
+msgid "Not a bad idea..."
+msgstr ""
+
+msgctxt "1256"
+msgid ""
+"You know, though, it's actually kind of a thing. Some people, like, inject "
+"color into their skin to give them better eyebrows or permanent eyeshadow. "
+"<Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "1268"
+msgid "I never knew that was a thing..."
+msgstr ""
+
+msgctxt "1280"
+msgid "How about your lips?"
+msgstr ""
+
+msgctxt "1292"
+msgid ""
+"Wow, I'm surprised you like, actually know about lip tattoos, Kiryu-san. "
+"<Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "1304"
+msgid "Some people tattoo the underside of their bottom lip, too."
+msgstr ""
+
+msgctxt "1316"
+msgid "Really?"
+msgstr ""
+
+msgctxt "1328"
+msgid "Hehehe. <Color:7>⑮<Color:Default> Isn't that totally weird?"
+msgstr ""
+
+msgctxt "1340"
+msgid "Why don't you put it on your hand?"
+msgstr ""
+
+msgctxt "1352"
+msgid "My hand? You know, that could be kind of cool."
+msgstr ""
+
+msgctxt "1364"
+msgid "And the right tattoo on the back of my hand could be pretty sexy..."
+msgstr ""
+
+msgctxt "1376"
+msgid ""
+"Hehehe... Wow, Kiryu-san, you're like, super good at this. "
+"<Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "1388"
+msgid "How about putting one on your leg somewhere?"
+msgstr ""
+
+msgctxt "1400"
+msgid ""
+"Could be good. Ooh, it might be like, super sexy to put one right on my "
+"inner thigh..."
+msgstr ""
+
+msgctxt "1412"
+msgid "Yeah."
+msgstr ""
+
+msgctxt "1424"
+msgid ""
+"You know, not too long ago, I was seriously considering putting a tattoo on "
+"the sole of my foot. A little picture of the Buddha."
+msgstr ""
+
+msgctxt "1436"
+msgid "On the sole of your foot...?"
+msgstr ""
+
+msgctxt "1448"
+msgid "I ended up not going through with it."
+msgstr ""
+
+msgctxt "1460"
+msgid ""
+"But a thigh tattoo sounds super sexy. <Color:7>⑮<Color:Default> You're "
+"like, super good at this, Kiryu-san. <Color:7>⑮⑮<Color:Default>"
+msgstr ""
+
+msgctxt "1472"
+msgid "Heh, thanks."
+msgstr ""
+
+msgctxt "1484"
+msgid "Why not put one on your head?"
+msgstr ""
+
+msgctxt "1496"
+msgid "Uh, but my hair'll just hide it, right?"
+msgstr ""
+
+msgctxt "1508"
+msgid ""
+"Ahahaha! Come on, like, really? Who would put a tattoo on top of their "
+"head!?"
+msgstr ""
+
+msgctxt "1520"
+msgid ""
+"I can't believe you said that with like, a straight face. You're so "
+"freaking hilarious, Kiryu-san."
+msgstr ""
+
+msgctxt "1532"
+msgid "You've got to put one on your chest."
+msgstr ""
+
+msgctxt "1544"
+msgid "My chest? But I've already got a tattoo there..."
+msgstr ""
+
+msgctxt "1556"
+msgid ""
+"If I'm gonna get a brand-new tattoo, I wanna, like, put it somewhere "
+"different, you know?"
+msgstr ""
+
+msgctxt "1568"
+msgid "Oh... That makes sense."
+msgstr ""
+
+msgctxt "1580"
+msgid "......"
+msgstr ""
+
+msgctxt "1592"
+msgid "What, do you not like tattoos or something?"
+msgstr ""
+
+msgctxt "1604"
+msgid "No, that's not it..."
+msgstr ""
+
+msgctxt "1616"
+msgid "Oh, well. I like them. They're like, so me."
+msgstr ""
+
+msgctxt "15708"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "15712"
+msgid "F_cab_sitsofa_talk_smileA"
+msgstr ""
+
+msgctxt "15716"
+msgid "Ranko"
+msgstr ""
+
+msgctxt "15720"
+msgid "F_cab_sitsofa_tlk_yes"
+msgstr ""
+
+msgctxt "15724"
+msgid "F_cab_sitsofa_sp5_sync_laugh"
+msgstr ""
+
+msgctxt "15728"
+msgid "P_sitsofa_sp5_sync_laugh"
+msgstr ""
+
+msgctxt "15732"
+msgid "F_cab_sitsofa_sp8_sync_crap"
+msgstr ""
+
+msgctxt "15736"
+msgid "P_sitsofa_sp8_sync_crap"
+msgstr ""
+
+msgctxt "15740"
+msgid "F_cab_sitsofa_tlk_angry"
+msgstr ""
+
+msgctxt "15744"
+msgid "F_cab_sitsofa_tlk_cry"
+msgstr ""
+
+msgctxt "15748"
+msgid "F_cab_sitsofa_tlk_happy"
+msgstr ""
+
+msgctxt "15752"
+msgid "F_cab_sitsofa_tlk_noA"
+msgstr ""

@@ -1,0 +1,310 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "148"
+msgid "You! You gotta help me! They're gonna murder me!"
+msgstr ""
+
+msgctxt "160"
+msgid "What's wrong?"
+msgstr ""
+
+msgctxt "172"
+msgid "Those guys there..."
+msgstr ""
+
+msgctxt "232"
+msgid "Hey, c'mon now! You know we don't get outsiders involved in this!"
+msgstr ""
+
+msgctxt "244"
+msgid ""
+"Garbage belongs in the dump, doesn't it? See, we're all about the "
+"environment. You gotta sort your trash! Gwahaha!"
+msgstr ""
+
+msgctxt "256"
+msgid "You wanna tell me what you're doing?"
+msgstr ""
+
+msgctxt "268"
+msgid "Takin' out the trash. Or if you wanna be cute about it, \"hobo hunting.\""
+msgstr ""
+
+msgctxt "280"
+msgid ""
+"We're cleanin' up the stinkin' hobos in this part of town. Like they say, "
+"everyone's gotta pitch in to keep the city clean."
+msgstr ""
+
+msgctxt "292"
+msgid ""
+"These punks... They didn't just go for my shelter, but they went after "
+"Tatsu... And Masa..."
+msgstr ""
+
+msgctxt "304"
+msgid ""
+"C'mon, pal. Just let us handle this garbage. Don't worry, we'll give it a "
+"real good beating."
+msgstr ""
+
+msgctxt "316"
+msgid "You bastards..."
+msgstr ""
+
+msgctxt "328"
+msgid "We'll see who gets that beating."
+msgstr ""
+
+msgctxt "340"
+msgid ""
+"And what's that supposed to mean, old man? You think someone's gonna give "
+"<Italic>us</Italic> a smackdown?"
+msgstr ""
+
+msgctxt "352"
+msgid ""
+"That would be me. Dumb kids like you should stick to your tree house clubs. "
+"We've got our own trash to deal with."
+msgstr ""
+
+msgctxt "364"
+msgid ""
+"Pfft... hahahahah! No way, man! Is this some kinda joke? Oh, man, you're "
+"killin' me here!"
+msgstr ""
+
+msgctxt "376"
+msgid "What can one old dude like you do, anyway? C'mon. Let's teach 'em a lesson!"
+msgstr ""
+
+msgctxt "400"
+msgid "All right. Fine. This isn't my place."
+msgstr ""
+
+msgctxt "412"
+msgid "Aaaaagh!"
+msgstr ""
+
+msgctxt "448"
+msgid "Hey, he's tryin' to get away! After him!"
+msgstr ""
+
+msgctxt "472"
+msgid "Now you listen good... Don't ever mess with us again. We clear, buddy?"
+msgstr ""
+
+msgctxt "520"
+msgid "*coughs* Argh... dammit! Why ain'tcha scared of us?"
+msgstr ""
+
+msgctxt "532"
+msgid "The Kamurocho I grew up in is very, very different from yours."
+msgstr ""
+
+msgctxt "544"
+msgid "Urgh..."
+msgstr ""
+
+msgctxt "556"
+msgid ""
+"These guys are a part of this community. You kids are just new trash on the "
+"block. So don't touch them again."
+msgstr ""
+
+msgctxt "568"
+msgid "Nrgh... This isn't over, old man!"
+msgstr ""
+
+msgctxt "664"
+msgid "Thank you so much!"
+msgstr ""
+
+msgctxt "676"
+msgid ""
+"You ever get in a pinch like that, just run. You don't want to tangle with "
+"those punks."
+msgstr ""
+
+msgctxt "688"
+msgid "......"
+msgstr ""
+
+msgctxt "700"
+msgid "I have a favor to ask you⑬from one man of Kamurocho to another!"
+msgstr ""
+
+msgctxt "712"
+msgid "Oh, yeah? What's that?"
+msgstr ""
+
+msgctxt "724"
+msgid "I need you to help our friends!"
+msgstr ""
+
+msgctxt "736"
+msgid "Help how?"
+msgstr ""
+
+msgctxt "748"
+msgid "As it happens, those punks have been targeting us homeless for a reason."
+msgstr ""
+
+msgctxt "760"
+msgid "They stormed our main shelter, and turned it into their own hideout!"
+msgstr ""
+
+msgctxt "772"
+msgid "Some abandoned building in Kamurocho, I take it?"
+msgstr ""
+
+msgctxt "784"
+msgid ""
+"Yeah. When Kamurocho Hills was slated for construction in Purgatory three "
+"years ago, we had to hole up somewhere else."
+msgstr ""
+
+msgctxt "796"
+msgid ""
+"But now those thugs have driven us out of our building... and whenever they "
+"see us, they beat us down!"
+msgstr ""
+
+msgctxt "808"
+msgid "They're the worst of the worst."
+msgstr ""
+
+msgctxt "820"
+msgid ""
+"These young thugs are too much for us! Can you step in for us, and take "
+"back the Dragon Palace once and for all?"
+msgstr ""
+
+msgctxt "832"
+msgid "Did you say it's the \"Dragon Palace\"?"
+msgstr ""
+
+msgctxt "844"
+msgid "Yep! That's what we've been calling the place. The Dragon Palace!"
+msgstr ""
+
+msgctxt "856"
+msgid ""
+"(The name sounds familiar... I feel like I heard about this Dragon Palace "
+"some three years back.)"
+msgstr ""
+
+msgctxt "868"
+msgid "Where is this Dragon Palace, anyway?"
+msgstr ""
+
+msgctxt "880"
+msgid ""
+"It's behind the MEB info center! So how 'bout it? Wanna take the Dragon "
+"Palace back from these punks?"
+msgstr ""
+
+msgctxt "892"
+msgid ""
+"Sure. Kamurocho is no place for that kind of toxic mold. We can't let it go "
+"unchecked."
+msgstr ""
+
+msgctxt "904"
+msgid "I'm not going to let some pack of kids ruin my town."
+msgstr ""
+
+msgctxt "916"
+msgid ""
+"I... I'm not sure what you're gettin' at, but thanks all the same! You're "
+"our savior! Good luck out there!"
+msgstr ""
+
+msgctxt "928"
+msgid "Got it."
+msgstr ""
+
+msgctxt "988"
+msgid ""
+"(He said the Dragon Palace was behind the MEB info center. I'll have to "
+"check it out sometime.)"
+msgstr ""
+
+msgctxt "1000"
+msgid "We'll see who gets that beating."
+msgstr ""
+
+msgctxt "1012"
+msgid "(I should just butt out.)"
+msgstr ""
+
+msgctxt "10704"
+msgid "Homeless Man"
+msgstr ""
+
+msgctxt "10708"
+msgid "Talk_Request"
+msgstr ""
+
+msgctxt "10712"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "10716"
+msgid "Talk_Info_L"
+msgstr ""
+
+msgctxt "10720"
+msgid "0"
+msgstr ""
+
+msgctxt "10724"
+msgid "Hobo Hunter"
+msgstr ""
+
+msgctxt "10728"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "10732"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "10736"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "10740"
+msgid "Talk_Cry"
+msgstr ""
+
+msgctxt "10744"
+msgid "Talk_Chohatu"
+msgstr ""
+
+msgctxt "10748"
+msgid "Talk_NoBig"
+msgstr ""
+
+msgctxt "10752"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "10756"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "10760"
+msgid "Talk_Ojigi"
+msgstr ""

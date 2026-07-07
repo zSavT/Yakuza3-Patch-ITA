@@ -1,0 +1,522 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "356"
+msgid "Oof... Good fight, Kiryu-san. You, my man, are full of shit and vinegar."
+msgstr ""
+
+msgctxt "368"
+msgid "......"
+msgstr ""
+
+msgctxt "380"
+msgid ""
+"I was serious that time, man. More serious than a trip to the crapper after "
+"my momma's five-alarm curry. And I'm seriously surprised you beat me."
+msgstr ""
+
+msgctxt "392"
+msgid ""
+"You're gonna have to give me a sec. Goin' Hyper Yonashiro takes a lot out "
+"of me. Gotta take some time to recharge it."
+msgstr ""
+
+msgctxt "440"
+msgid "Whew... So whaddya think? Strong as balls, right?"
+msgstr ""
+
+msgctxt "452"
+msgid "Yeah..."
+msgstr ""
+
+msgctxt "464"
+msgid ""
+"You're gonna have to give me a sec. Gotta recharge after goin' Hyper "
+"Yonashiro on ya."
+msgstr ""
+
+msgctxt "512"
+msgid ""
+"Damn, Kiryu-san! Ya done did it! Now you're a master of the nunchaku. Your "
+"training is done-chaku!"
+msgstr ""
+
+msgctxt "524"
+msgid "......"
+msgstr ""
+
+msgctxt "536"
+msgid "Come on, Kiryu-san. The pun wasn't that bad..."
+msgstr ""
+
+msgctxt "548"
+msgid "No, it's not that. Listen, Yonashiro-san... Are you really a strong fighter?"
+msgstr ""
+
+msgctxt "560"
+msgid ""
+"<Italic>What</Italic>!? You injure me, sir! How could you look upon my sick "
+"fighting skills and not despair?"
+msgstr ""
+
+msgctxt "572"
+msgid ""
+"No. That's why I'm asking. To tell you the truth, I didn't have much "
+"trouble beating you."
+msgstr ""
+
+msgctxt "584"
+msgid "......"
+msgstr ""
+
+msgctxt "596"
+msgid "So which is it? Are you holding back? Or are you really that weak?"
+msgstr ""
+
+msgctxt "608"
+msgid "Hah... Hahaha! Heeheehee! Ya got me!"
+msgstr ""
+
+msgctxt "620"
+msgid "......?"
+msgstr ""
+
+msgctxt "632"
+msgid ""
+"Not a single one of the chumps Kamiyama referred to me ever figured that "
+"out. Not one! But you... Ohoho, you! You did! I should'a known you would."
+msgstr ""
+
+msgctxt "644"
+msgid "What do you mean?"
+msgstr ""
+
+msgctxt "656"
+msgid ""
+"Well, let's talk about Kamiyama. Total genius, right? Yeah, nah. Only about "
+"weapons. He has no freakin' idea how to judge a person's character."
+msgstr ""
+
+msgctxt "668"
+msgid ""
+"Been workin' with him for eons, man! Not a single dude he's sent could beat "
+"a one-legged guy in an ass-kickin' contest. Ass-kickin' is what I teach, "
+"man!"
+msgstr ""
+
+msgctxt "680"
+msgid ""
+"But I didn't want to offend my roly-poly pal, so I've just been lettin' "
+"them beat me and givin' them a little gold star for doin' the thing."
+msgstr ""
+
+msgctxt "692"
+msgid ""
+"You, though. You could kick a billion asses without even breakin' a sweat! "
+"So you know what? Let's do this! <Italic>Let's do this</Italic>! "
+"<Italic>YEAH</Italic>!"
+msgstr ""
+
+msgctxt "776"
+msgid ""
+"Okay! It's... <Italic>Hyper</Italic>. <Italic>Yonashiro</Italic>. "
+"<Italic>Time</Italic>."
+msgstr ""
+
+msgctxt "788"
+msgid "......"
+msgstr ""
+
+msgctxt "800"
+msgid "What? Oh, too amazing for ya?"
+msgstr ""
+
+msgctxt "812"
+msgid "All you did was take off your hat..."
+msgstr ""
+
+msgctxt "824"
+msgid "Hey hey, someone's observant!"
+msgstr ""
+
+msgctxt "836"
+msgid "And that means you're going to fight seriously?"
+msgstr ""
+
+msgctxt "848"
+msgid ""
+"Right. Yes. Look. This cap? This cap is literally a cap. You feel me? A "
+"cap. On my abilities. When I'm wearing it, my power is capped. When it's "
+"off, I'm fully uncapped."
+msgstr ""
+
+msgctxt "860"
+msgid "Um... Are you okay?"
+msgstr ""
+
+msgctxt "872"
+msgid ""
+"Never better! Why do you ask? No, no, we can play doctor after this is "
+"done. So let's do it!"
+msgstr ""
+
+msgctxt "884"
+msgid ""
+"Same rules as before, drop me and don't get dropped. Only, forget that guy "
+"you just fought. This is hard mode Yonashiro."
+msgstr ""
+
+msgctxt "896"
+msgid "All right."
+msgstr ""
+
+msgctxt "908"
+msgid "Bring it on, Kiryu-san! I'll try not to kill ya!"
+msgstr ""
+
+msgctxt "956"
+msgid "How was that?"
+msgstr ""
+
+msgctxt "968"
+msgid "Yeah! Perfect!"
+msgstr ""
+
+msgctxt "980"
+msgid "So when do I get my nunchaku?"
+msgstr ""
+
+msgctxt "992"
+msgid ""
+"Never! Okay, not never. But they're my babies! I only give them out to "
+"people who I know can handle 'em!"
+msgstr ""
+
+msgctxt "1004"
+msgid ""
+"What!? I can't even hold them? How am I supposed to master nunchaku without "
+"using them?"
+msgstr ""
+
+msgctxt "1016"
+msgid ""
+"That's the Yonashiro style, baby. You can't truly master a weapon until you "
+"beat an armed opponent unarmed... using your arms! And legs, I guess."
+msgstr ""
+
+msgctxt "1028"
+msgid ""
+"Do that, and you'll be forced to learn the weapon's weak points. I've been "
+"traveling the world fighting weapon masters for years. This is how you "
+"learn."
+msgstr ""
+
+msgctxt "1040"
+msgid "I see..."
+msgstr ""
+
+msgctxt "1052"
+msgid ""
+"Of course, I've seen some shit in my travels, man. Some "
+"<Italic>real</Italic> shit, you feel me? That does things to a man. "
+"Kamiyama says I'm creepy. Psh, like he's one to talk."
+msgstr ""
+
+msgctxt "1064"
+msgid ""
+"But enough talk! Have any last regrets? No? Then let's begin the lesson! "
+"Beat me!"
+msgstr ""
+
+msgctxt "1088"
+msgid "Oof... Good fight, Kiryu-san. You, my man, are full of shit and vinegar."
+msgstr ""
+
+msgctxt "1100"
+msgid ""
+"You're gonna have to give me a sec. Goin' Hyper Yonashiro takes a lot out "
+"of me. Gotta take some time to recharge it."
+msgstr ""
+
+msgctxt "1148"
+msgid "Whew... So whaddya think? Strong as balls, right?"
+msgstr ""
+
+msgctxt "1160"
+msgid "Yeah..."
+msgstr ""
+
+msgctxt "1172"
+msgid ""
+"You're gonna have to give me a sec. Gotta recharge after goin' Hyper "
+"Yonashiro on ya."
+msgstr ""
+
+msgctxt "1220"
+msgid "Oof... Good fight, Kiryu-san. You, my man, are full of shit and vinegar."
+msgstr ""
+
+msgctxt "1232"
+msgid ""
+"You're gonna have to give me a sec. Goin' Hyper Yonashiro takes a lot out "
+"of me. Gotta take some time to recharge it."
+msgstr ""
+
+msgctxt "1280"
+msgid "Whew... So whaddya think? Strong as balls, right?"
+msgstr ""
+
+msgctxt "1292"
+msgid "Yeah..."
+msgstr ""
+
+msgctxt "1304"
+msgid ""
+"You're gonna have to give me a sec. Gotta recharge after goin' Hyper "
+"Yonashiro on ya."
+msgstr ""
+
+msgctxt "1352"
+msgid "Oof... Good fight, Kiryu-san. You, my man, are full of shit and vinegar."
+msgstr ""
+
+msgctxt "1364"
+msgid ""
+"You're gonna have to give me a sec. Goin' Hyper Yonashiro takes a lot out "
+"of me. Gotta take some time to recharge it."
+msgstr ""
+
+msgctxt "1412"
+msgid "Whew... So whaddya think? Strong as balls, right?"
+msgstr ""
+
+msgctxt "1424"
+msgid "Yeah..."
+msgstr ""
+
+msgctxt "1436"
+msgid ""
+"You're gonna have to give me a sec. Gotta recharge after goin' Hyper "
+"Yonashiro on ya."
+msgstr ""
+
+msgctxt "1532"
+msgid "Whoa, whoa, whoa! Hold on a sec, bub."
+msgstr ""
+
+msgctxt "1544"
+msgid ""
+"What do you think you're doin'? You're exactly the same as you were last "
+"time we trained."
+msgstr ""
+
+msgctxt "1556"
+msgid ""
+"How do you expect me to teach you new shit when you haven't even gone out "
+"and used the old shit?"
+msgstr ""
+
+msgctxt "1568"
+msgid ""
+"Didn't your momma ever tell you to play with your new toys before you buy "
+"more? Come back when you got a bit more <Color:7>experience<Color:Default>."
+msgstr ""
+
+msgctxt "1652"
+msgid ""
+"Second verse, same as the first. Beat me, and you win. Which do you wanna "
+"try?"
+msgstr ""
+
+msgctxt "1700"
+msgid ""
+"Second verse, same as the first. Beat me, and you win. Which do you wanna "
+"try?"
+msgstr ""
+
+msgctxt "1748"
+msgid ""
+"Second verse, same as the first. Beat me, and you win. Which do you wanna "
+"try?"
+msgstr ""
+
+msgctxt "1760"
+msgid ""
+"Nunchaku, huh? You sure? Maybe I hit ya so hard you forgot, but I whooped "
+"your ass with 'em last time. Or do you think you can actually beat me this "
+"time?"
+msgstr ""
+
+msgctxt "1772"
+msgid "I do."
+msgstr ""
+
+msgctxt "1784"
+msgid ""
+"Hahaha! Well all right then! Ladies and gents, would ya look at the jewels "
+"on this one! Well, let's do the thing!"
+msgstr ""
+
+msgctxt "1808"
+msgid "Tonfa? You got it. I'll show ya my one-handed tonfa technique."
+msgstr ""
+
+msgctxt "1820"
+msgid "One-handed?"
+msgstr ""
+
+msgctxt "1832"
+msgid ""
+"Yeah! Most chumps think they need a tonfa in each hand, but what they don't "
+"understand is that one is more than two."
+msgstr ""
+
+msgctxt "1844"
+msgid ""
+"My special one-handed tonfa technique is a real stunner. Heh, get it? Well, "
+"you'll get it if you get hit by it. Try not to get hit by it!"
+msgstr ""
+
+msgctxt "1856"
+msgid "All right."
+msgstr ""
+
+msgctxt "1868"
+msgid "Now let's get it on!"
+msgstr ""
+
+msgctxt "1892"
+msgid ""
+"You wanna learn about Kali Sticks? <Italic>You</Italic>? Kiryu-san, do you "
+"even know anything about Kali Sticks?"
+msgstr ""
+
+msgctxt "1904"
+msgid "No, not really."
+msgstr ""
+
+msgctxt "1916"
+msgid ""
+"They're part of Kali, a martial art from the Philippines. When I was "
+"learning, my master kicked my ass into... Well, let's just say I haven't "
+"completely caught up with it yet."
+msgstr ""
+
+msgctxt "1928"
+msgid ""
+"While he was wielding those sticks, I couldn't touch him. It was like, "
+"think you got me? Haha, nope! Wham! Ouch."
+msgstr ""
+
+msgctxt "1940"
+msgid ""
+"So I knew I had to learn how to do it. I knew it in my bones... Or maybe "
+"that was just all the cracks. But I did learn how to do it! And now, you're "
+"gonna learn it, too."
+msgstr ""
+
+msgctxt "1952"
+msgid "...All right."
+msgstr ""
+
+msgctxt "1964"
+msgid "Now let's get crackin'!"
+msgstr ""
+
+msgctxt "1988"
+msgid "Nunchaku"
+msgstr ""
+
+msgctxt "2000"
+msgid "Nunchaku"
+msgstr ""
+
+msgctxt "2012"
+msgid "Tonfa"
+msgstr ""
+
+msgctxt "2024"
+msgid "Nunchaku"
+msgstr ""
+
+msgctxt "2036"
+msgid "Tonfa"
+msgstr ""
+
+msgctxt "2048"
+msgid "Kali Sticks"
+msgstr ""
+
+msgctxt "20224"
+msgid "Yonashiro"
+msgstr ""
+
+msgctxt "20228"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "20232"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "20236"
+msgid "Talk_Udekumi_st"
+msgstr ""
+
+msgctxt "20240"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "20244"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "20248"
+msgid "Talk_Udekumi_ed"
+msgstr ""
+
+msgctxt "20252"
+msgid "Talk_SmileBig_st"
+msgstr ""
+
+msgctxt "20256"
+msgid "Talk_SmileBig_ed"
+msgstr ""
+
+msgctxt "20260"
+msgid "Talk_NoBig"
+msgstr ""
+
+msgctxt "20264"
+msgid "Talk_Kosite_st"
+msgstr ""
+
+msgctxt "20268"
+msgid "Talk_Kosite_ed"
+msgstr ""
+
+msgctxt "20272"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "20276"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "20280"
+msgid "Talk_Chohatu"
+msgstr ""
+
+msgctxt "20284"
+msgid "Talk_Smile"
+msgstr ""

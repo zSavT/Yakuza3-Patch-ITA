@@ -1,0 +1,88 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "248"
+msgid "(Let's see here...)"
+msgstr ""
+
+msgctxt "260"
+msgid "(Now what's a good song...?)"
+msgstr ""
+
+msgctxt "272"
+msgid "(Who's got the high score?)"
+msgstr ""
+
+msgctxt "296"
+msgid "(I've made some beautiful memories here...)"
+msgstr ""
+
+msgctxt "308"
+msgid "(Well, guess it's time to leave.)"
+msgstr ""
+
+msgctxt "320"
+msgid "(Let's see here...)"
+msgstr ""
+
+msgctxt "332"
+msgid "(Now what's a good song...?)"
+msgstr ""
+
+msgctxt "344"
+msgid "(Who's got the high score?)"
+msgstr ""
+
+msgctxt "368"
+msgid "(Well, guess it's time to leave.)"
+msgstr ""
+
+msgctxt "380"
+msgid "Sing Karaoke"
+msgstr ""
+
+msgctxt "392"
+msgid "View Rankings"
+msgstr ""
+
+msgctxt "404"
+msgid "Reminisce"
+msgstr ""
+
+msgctxt "416"
+msgid "How to Play"
+msgstr ""
+
+msgctxt "428"
+msgid "Leave"
+msgstr ""
+
+msgctxt "440"
+msgid "Sing Karaoke"
+msgstr ""
+
+msgctxt "452"
+msgid "View Rankings"
+msgstr ""
+
+msgctxt "464"
+msgid "How to Play"
+msgstr ""
+
+msgctxt "476"
+msgid "Leave"
+msgstr ""
+
+msgctxt "1988"
+msgid "Kiryu"
+msgstr ""

@@ -1,0 +1,183 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "80"
+msgid "What the hell...?"
+msgstr ""
+
+msgctxt "92"
+msgid ""
+"I'm sorry I had to do that. Now start talking about the\r\n"
+"Reapers. I want details."
+msgstr ""
+
+msgctxt "104"
+msgid ""
+"But I don't know anything! And I sure as hell don't know\r\n"
+"any of these details you're lookin' for!"
+msgstr ""
+
+msgctxt "116"
+msgid "I don't buy that. You'd better start talking."
+msgstr ""
+
+msgctxt "128"
+msgid ""
+"I'm at the very bottom of the heap! I don't even know\r\n"
+"who the boss is, I swear!"
+msgstr ""
+
+msgctxt "140"
+msgid ""
+"Look, I got kicked out of my family for missing a mark, and\r\n"
+"then some guy I met asked me to join, so I did. That's it!"
+msgstr ""
+
+msgctxt "152"
+msgid "This guy you met wasn't the boss?"
+msgstr ""
+
+msgctxt "164"
+msgid ""
+"No! Someone else is in charge! I don't even know the name\r\n"
+"of the guy who recruited me."
+msgstr ""
+
+msgctxt "176"
+msgid ""
+"(He's been talking up a storm, but he's not giving me any\r\n"
+"real info. Guess that means he probably is just an\r\n"
+"underling, just like he says.)"
+msgstr ""
+
+msgctxt "188"
+msgid "(I better turn him over to Ibuki now.)"
+msgstr ""
+
+msgctxt "260"
+msgid "This oughta be a good place."
+msgstr ""
+
+msgctxt "272"
+msgid "So where's this thing you were talking about?"
+msgstr ""
+
+msgctxt "284"
+msgid "Heh... Perfect."
+msgstr ""
+
+msgctxt "416"
+msgid "What do you say? Fascinating, right?"
+msgstr ""
+
+msgctxt "428"
+msgid "Are these guys Reapers, too?"
+msgstr ""
+
+msgctxt "440"
+msgid ""
+"Nah, I'm the only one. These guys are just here to help\r\n"
+"me..."
+msgstr ""
+
+msgctxt "452"
+msgid "Help me give you a good pummeling, that is! Hahaha!"
+msgstr ""
+
+msgctxt "464"
+msgid "And what do you hope to accomplish by doing that?"
+msgstr ""
+
+msgctxt "476"
+msgid ""
+"Don't you get it? We're taking you hostage. Then, we're\r\n"
+"gonna crush the HLA!"
+msgstr ""
+
+msgctxt "488"
+msgid ""
+"I knew somebody would be coming to see me if I leaked some\r\n"
+"info about myself."
+msgstr ""
+
+msgctxt "500"
+msgid "You walked straight into my trap. Too bad for you, dickhead."
+msgstr ""
+
+msgctxt "512"
+msgid "I see. It's definitely a very clever trap."
+msgstr ""
+
+msgctxt "524"
+msgid "Too bad it's not going to work."
+msgstr ""
+
+msgctxt "536"
+msgid "Hahaha! Get a load of this joker!"
+msgstr ""
+
+msgctxt "548"
+msgid "I guess we'll just see about that, huh!?"
+msgstr ""
+
+msgctxt "5624"
+msgid "Kurenai"
+msgstr ""
+
+msgctxt "5628"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "5632"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "5636"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "5640"
+msgid "Talk_NoBig"
+msgstr ""
+
+msgctxt "5644"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "5648"
+msgid "P_stand_tlk_phone_st"
+msgstr ""
+
+msgctxt "5652"
+msgid "Idle"
+msgstr ""
+
+msgctxt "5656"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "5660"
+msgid "Talk_SmileBig_st"
+msgstr ""
+
+msgctxt "5664"
+msgid "Talk_SmileBig_ed"
+msgstr ""
+
+msgctxt "5668"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "5672"
+msgid "Talk_Odosu"
+msgstr ""

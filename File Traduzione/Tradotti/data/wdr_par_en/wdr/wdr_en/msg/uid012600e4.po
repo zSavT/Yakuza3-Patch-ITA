@@ -1,0 +1,269 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "124"
+msgid "(...Looks like I found Izumi.)"
+msgstr ""
+
+msgctxt "136"
+msgid "Gotcha, Izumi!"
+msgstr ""
+
+msgctxt "148"
+msgid "What!? You actually found me?"
+msgstr ""
+
+msgctxt "220"
+msgid "*sigh* And I was keeping so still, too..."
+msgstr ""
+
+msgctxt "232"
+msgid ""
+"You had a great hiding spot, Izumi. That's why it took me so long to find "
+"you. Anyway, let's go meet up with the others."
+msgstr ""
+
+msgctxt "316"
+msgid "Well, I found everybody. Did you all enjoy yourselves?"
+msgstr ""
+
+msgctxt "328"
+msgid "Yeah! I thought we made it pretty tough for you, but I guess not."
+msgstr ""
+
+msgctxt "340"
+msgid "I was the very last one. Didn't I do a good job hiding, Uncle Kaz?"
+msgstr ""
+
+msgctxt "352"
+msgid "You sure did, Izumi. You were the best."
+msgstr ""
+
+msgctxt "364"
+msgid "(Good one, Uncle Kaz. Thanks for doing that for her.)"
+msgstr ""
+
+msgctxt "376"
+msgid "(No problem.)"
+msgstr ""
+
+msgctxt "388"
+msgid "Wasn't it fun playing together with everyone? Let's do this again sometime!"
+msgstr ""
+
+msgctxt "400"
+msgid "But I promise it won't be any easier!"
+msgstr ""
+
+msgctxt "412"
+msgid "Heh, I hope not."
+msgstr ""
+
+msgctxt "424"
+msgid "Come on everyone, let's go study! See you later, Uncle Kaz!"
+msgstr ""
+
+msgctxt "496"
+msgid "You got 3,000 EXP."
+msgstr ""
+
+msgctxt "508"
+msgid "(...Looks like I found Izumi.)"
+msgstr ""
+
+msgctxt "520"
+msgid "Gotcha, Izumi!"
+msgstr ""
+
+msgctxt "532"
+msgid "What!? You actually found me?"
+msgstr ""
+
+msgctxt "604"
+msgid "*sigh* And I was keeping so still, too..."
+msgstr ""
+
+msgctxt "628"
+msgid "Did you find everyone else yet? Am I the very last one?"
+msgstr ""
+
+msgctxt "640"
+msgid "Not quite, no."
+msgstr ""
+
+msgctxt "652"
+msgid "Oh, okay... Can I help you find the others, then?"
+msgstr ""
+
+msgctxt "664"
+msgid "Now that wouldn't be very fair, would it?"
+msgstr ""
+
+msgctxt "676"
+msgid "...I guess you're right. Okay then! I'll just wait over there."
+msgstr ""
+
+msgctxt "736"
+msgid "Did you find everyone else yet? Am I the very last one?"
+msgstr ""
+
+msgctxt "748"
+msgid "Actually, you're the first."
+msgstr ""
+
+msgctxt "760"
+msgid "What!? *sniffle* But I was trying so hard to be last!  Waaahhh!"
+msgstr ""
+
+msgctxt "772"
+msgid "Hey, now... Is it really worth all those tears?"
+msgstr ""
+
+msgctxt "844"
+msgid "Aw, there goes Izumi..."
+msgstr ""
+
+msgctxt "856"
+msgid "I didn't know that would upset her that much..."
+msgstr ""
+
+msgctxt "868"
+msgid "(Didn't I tell you to find her last, Uncle Kaz? Come on!)"
+msgstr ""
+
+msgctxt "880"
+msgid "(Right... Sorry about that.)"
+msgstr ""
+
+msgctxt "892"
+msgid ""
+"Guess what, Izumi? Uncle Kaz said if you stop crying, we can treat "
+"ourselves to some ice cream. How's that sound?"
+msgstr ""
+
+msgctxt "904"
+msgid "Ice cream!? Really!? We can...? I'll do anything for ice cream!"
+msgstr ""
+
+msgctxt "916"
+msgid "Sure... It's in the freezer. Go ahead, help yourselves."
+msgstr ""
+
+msgctxt "928"
+msgid "Yaaaay! Yippee! I love ice cream! C'mon, Eri-chan. Let's go!"
+msgstr ""
+
+msgctxt "976"
+msgid ""
+"Guess this taught you a good lesson, huh, Uncle Kaz? At least everything's "
+"back to normal."
+msgstr ""
+
+msgctxt "988"
+msgid "You're just happy you got ice cream out of it, Taichi."
+msgstr ""
+
+msgctxt "1000"
+msgid ""
+"Well, yeah... that definitely helps! Anyway, I'll wait here for Izumi, so "
+"you can get back to doing whatever you need to do. Thanks for playing with "
+"us, Uncle Kaz!"
+msgstr ""
+
+msgctxt "1072"
+msgid "You got 3,000 EXP."
+msgstr ""
+
+msgctxt "1084"
+msgid "(Now that I know where Izumi is, I can always come back to her later..)"
+msgstr ""
+
+msgctxt "1096"
+msgid "(This is a great spot! I hope he finds me last!)"
+msgstr ""
+
+msgctxt "1108"
+msgid "Gotcha!"
+msgstr ""
+
+msgctxt "1120"
+msgid "(On second thought...)"
+msgstr ""
+
+msgctxt "10732"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "10736"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "10740"
+msgid "Izumi"
+msgstr ""
+
+msgctxt "10744"
+msgid "Idle"
+msgstr ""
+
+msgctxt "10748"
+msgid "HAL_stand_tlk_gakkari"
+msgstr ""
+
+msgctxt "10752"
+msgid "Talk_Udekumi_st"
+msgstr ""
+
+msgctxt "10756"
+msgid "Shiro"
+msgstr ""
+
+msgctxt "10760"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "10764"
+msgid "Talk_Udekumi_ed"
+msgstr ""
+
+msgctxt "10768"
+msgid "Taichi"
+msgstr ""
+
+msgctxt "10772"
+msgid "Eri"
+msgstr ""
+
+msgctxt "10776"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "10780"
+msgid "Talk_Info_L"
+msgstr ""
+
+msgctxt "10784"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "10788"
+msgid "Talk_CryBig_st"
+msgstr ""
+
+msgctxt "10792"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "10796"
+msgid "Talk_CryBig_ed"
+msgstr ""

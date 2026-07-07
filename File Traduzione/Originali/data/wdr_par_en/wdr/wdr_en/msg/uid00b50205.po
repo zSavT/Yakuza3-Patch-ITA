@@ -1,0 +1,140 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "236"
+msgid "Here we are: Shellac."
+msgstr ""
+
+msgctxt "248"
+msgid ""
+"Thank you so much for doing this! Um... If you have time, I'd love to thank "
+"you with a drink..."
+msgstr ""
+
+msgctxt "260"
+msgid "It's really no problem."
+msgstr ""
+
+msgctxt "272"
+msgid ""
+"No, I insist! I've got some time before the meetup, so let\r\n"
+"me buy you a drink. Please?"
+msgstr ""
+
+msgctxt "284"
+msgid "Sorry, but I've gotta pass."
+msgstr ""
+
+msgctxt "296"
+msgid ""
+"Oh, okay... I suppose I've gotta find a way to kill time\r\n"
+"until he gets here..."
+msgstr ""
+
+msgctxt "320"
+msgid "Sure, why not?"
+msgstr ""
+
+msgctxt "332"
+msgid "Really!? Thank you! Let's go inside, then."
+msgstr ""
+
+msgctxt "428"
+msgid ""
+"The person I'm waiting for still hasn't showed up... Um,\r\n"
+"would you mind sharing a drink with me while I wait?"
+msgstr ""
+
+msgctxt "440"
+msgid ""
+"No, I insist! I've got some time before the meetup, so let\r\n"
+"me buy you a drink. Please?"
+msgstr ""
+
+msgctxt "452"
+msgid "Sorry, but I've gotta pass."
+msgstr ""
+
+msgctxt "464"
+msgid ""
+"Oh, okay... I suppose I've gotta find a way to kill time\r\n"
+"until he gets here..."
+msgstr ""
+
+msgctxt "488"
+msgid "Sure, why not?"
+msgstr ""
+
+msgctxt "500"
+msgid "Really!? Thank you! Let's go inside, then."
+msgstr ""
+
+msgctxt "596"
+msgid "Sorry, but I've gotta pass."
+msgstr ""
+
+msgctxt "608"
+msgid "Sure, why not?"
+msgstr ""
+
+msgctxt "620"
+msgid "Sorry, but I've gotta pass."
+msgstr ""
+
+msgctxt "632"
+msgid "Sure, why not?"
+msgstr ""
+
+msgctxt "644"
+msgid "Sorry, but I've gotta pass."
+msgstr ""
+
+msgctxt "656"
+msgid "Sure, why not?"
+msgstr ""
+
+msgctxt "4612"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "4616"
+msgid "Talk_Info_R"
+msgstr ""
+
+msgctxt "4620"
+msgid "Formerly Lost Woman"
+msgstr ""
+
+msgctxt "4624"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "4628"
+msgid "Formerly Uncertain Woman"
+msgstr ""
+
+msgctxt "4632"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "4636"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "4640"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "4644"
+msgid "Talk_Yes"
+msgstr ""

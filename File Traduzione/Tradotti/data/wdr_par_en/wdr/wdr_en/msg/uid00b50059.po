@@ -1,0 +1,188 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "132"
+msgid "Urk... We won't forget this!"
+msgstr ""
+
+msgctxt "144"
+msgid "Thanks a lot, sir."
+msgstr ""
+
+msgctxt "156"
+msgid "Nice job out there, Mikio."
+msgstr ""
+
+msgctxt "168"
+msgid "Oh, thank goodness you shut down those hoodlums!"
+msgstr ""
+
+msgctxt "180"
+msgid ""
+"You know Nakahara-san, do you? Then this is for you. What do you think? "
+"Pretty spectacular, huh?"
+msgstr ""
+
+msgctxt "192"
+msgid "It looks delicious."
+msgstr ""
+
+msgctxt "204"
+msgid "You got a <Color:8>Giant Blue Parrotfish<Color:Default>."
+msgstr ""
+
+msgctxt "228"
+msgid ""
+"Wow, Miki-chan, you can really hold your own! I knew we could count on you "
+"to keep us safe!"
+msgstr ""
+
+msgctxt "240"
+msgid "Right. With you watching over us, we can do business in peace."
+msgstr ""
+
+msgctxt "252"
+msgid "Really? Well then, it's my pleasure!"
+msgstr ""
+
+msgctxt "264"
+msgid "All right, Mikio. I'm heading out. Don't slack off on your patrol, now."
+msgstr ""
+
+msgctxt "276"
+msgid "I won't! Thanks again, sir!"
+msgstr ""
+
+msgctxt "300"
+msgid "You got 2,000 EXP."
+msgstr ""
+
+msgctxt "360"
+msgid "Cut it out, before I make you cut it out! This is Ryudo Family territory!"
+msgstr ""
+
+msgctxt "372"
+msgid "And what, you're one of them? Takes some guts to admit that!"
+msgstr ""
+
+msgctxt "384"
+msgid ""
+"Listen, this market's a real moneymaker, so we're gonna take it over as of "
+"riiight now. You can run on home, tubby!"
+msgstr ""
+
+msgctxt "396"
+msgid "Mikio!"
+msgstr ""
+
+msgctxt "408"
+msgid "This is Ryudo Family territory! You stay the hell out!"
+msgstr ""
+
+msgctxt "420"
+msgid "Yeah! The Ryudo Family takes good care of us!"
+msgstr ""
+
+msgctxt "432"
+msgid "We don't need your kind around here!"
+msgstr ""
+
+msgctxt "444"
+msgid "You wouldn't be doing this if Nakahara-san were here!"
+msgstr ""
+
+msgctxt "456"
+msgid "Shut up, you senile old farts! I'll deal with you later!"
+msgstr ""
+
+msgctxt "468"
+msgid "Wait! They're not the ones you're after!"
+msgstr ""
+
+msgctxt "480"
+msgid ""
+"Yeah, and neither are you! You wanna have it out with us, you bring "
+"Nakahara. Got it?"
+msgstr ""
+
+msgctxt "492"
+msgid "That is, if you got the balls! Wahahaha!"
+msgstr ""
+
+msgctxt "504"
+msgid "You bastard..."
+msgstr ""
+
+msgctxt "516"
+msgid "Mikio. Don't take the bait."
+msgstr ""
+
+msgctxt "528"
+msgid "But sir, these guys⑬"
+msgstr ""
+
+msgctxt "540"
+msgid "And who the hell are you?"
+msgstr ""
+
+msgctxt "552"
+msgid "Just a passerby with a job to do. Ready, Mikio?"
+msgstr ""
+
+msgctxt "564"
+msgid "Yeah! Let's give 'em hell, sir!"
+msgstr ""
+
+msgctxt "6096"
+msgid "Ryukyu Punk"
+msgstr ""
+
+msgctxt "6100"
+msgid "Mikio"
+msgstr ""
+
+msgctxt "6104"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "6108"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "6112"
+msgid "Market Lady"
+msgstr ""
+
+msgctxt "6116"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "6120"
+msgid "Market Guy"
+msgstr ""
+
+msgctxt "6124"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "6128"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "6132"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "6136"
+msgid "Talk_Angry"
+msgstr ""

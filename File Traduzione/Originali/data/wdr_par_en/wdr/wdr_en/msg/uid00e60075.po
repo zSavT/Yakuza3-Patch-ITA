@@ -1,0 +1,212 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "104"
+msgid "Phew... hah... Check it out, boss. I snagged a real pricey one today."
+msgstr ""
+
+msgctxt "116"
+msgid "Nice work, little man. Now we can⑬ Hey! Who the hell are you!?"
+msgstr ""
+
+msgctxt "128"
+msgid "I came to take back what's mine."
+msgstr ""
+
+msgctxt "140"
+msgid ""
+"What the shit, little man! I trust you with the business, and you bring "
+"back this big fuck!?"
+msgstr ""
+
+msgctxt "152"
+msgid "He must've followed me, man! I thought I lost him!"
+msgstr ""
+
+msgctxt "164"
+msgid "I might be getting old, but you can't lose me that easy."
+msgstr ""
+
+msgctxt "176"
+msgid ""
+"Un-fucking-believable! How many times have I told you to take the long "
+"route when somebody's chasin' you!?"
+msgstr ""
+
+msgctxt "188"
+msgid "So you're the head of this little \"syndicate\"?"
+msgstr ""
+
+msgctxt "200"
+msgid "Heh... damn right. Hostesses go nuts over those bags they sell."
+msgstr ""
+
+msgctxt "212"
+msgid ""
+"We give the hos what they want, and they give us what we need! Player's "
+"life, baby!"
+msgstr ""
+
+msgctxt "224"
+msgid "<Italic>Bam</Italic>! You said it, bro! We get all the hos we want!"
+msgstr ""
+
+msgctxt "236"
+msgid "Punks like you make me sick."
+msgstr ""
+
+msgctxt "248"
+msgid "Too bad you had to walk in on us. Now you're gonna die in this alley!"
+msgstr ""
+
+msgctxt "272"
+msgid "Dammit..."
+msgstr ""
+
+msgctxt "284"
+msgid "Argh... The player's life..."
+msgstr ""
+
+msgctxt "296"
+msgid "Still haven't learned your lesson?"
+msgstr ""
+
+msgctxt "308"
+msgid "No, we have! Please! Take this! We don't need it no more!"
+msgstr ""
+
+msgctxt "332"
+msgid "You reclaimed your <Color:8>Italian Shoulder Bag<Color:Default>."
+msgstr ""
+
+msgctxt "380"
+msgid "You reclaimed your <Color:8>French Handbag<Color:Default>."
+msgstr ""
+
+msgctxt "428"
+msgid "You reclaimed your <Color:8>Monogrammed Bag<Color:Default>."
+msgstr ""
+
+msgctxt "476"
+msgid "You reclaimed your <Color:8>Caviar Skin Bag<Color:Default>."
+msgstr ""
+
+msgctxt "512"
+msgid "And... and take this, too! Just please... don't hit us no more!"
+msgstr ""
+
+msgctxt "524"
+msgid "You got a <Color:8>Caviar Skin Bag<Color:Default>."
+msgstr ""
+
+msgctxt "548"
+msgid "It's an expensive designer bag. We all pitched in..."
+msgstr ""
+
+msgctxt "560"
+msgid "We were gonna use it to get the hottest chicks at the club..."
+msgstr ""
+
+msgctxt "572"
+msgid ""
+"Clean up your acts. If you want the attention of good women, start by "
+"acting like good men."
+msgstr ""
+
+msgctxt "596"
+msgid "You got 3,000 EXP."
+msgstr ""
+
+msgctxt "6420"
+msgid "Bag Snatcher"
+msgstr ""
+
+msgctxt "6424"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "6428"
+msgid "Head Bag Snatcher"
+msgstr ""
+
+msgctxt "6432"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "6436"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "6440"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "6444"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "6448"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "6452"
+msgid "Talk_SmileBig_st"
+msgstr ""
+
+msgctxt "6456"
+msgid "Talk_Chohatu"
+msgstr ""
+
+msgctxt "6460"
+msgid "Talk_SmileBig_ed"
+msgstr ""
+
+msgctxt "6464"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "6468"
+msgid "M_ykzs_damage"
+msgstr ""
+
+msgctxt "6472"
+msgid "M_ykz_damage"
+msgstr ""
+
+msgctxt "6476"
+msgid "Sync_Send"
+msgstr ""
+
+msgctxt "6480"
+msgid "Talk_Sorry"
+msgstr ""
+
+msgctxt "6484"
+msgid "Talk_Kosite_st"
+msgstr ""
+
+msgctxt "6488"
+msgid "Idle"
+msgstr ""
+
+msgctxt "6492"
+msgid "Player_100_100"
+msgstr ""
+
+msgctxt "6496"
+msgid "dummy"
+msgstr ""
+
+msgctxt "6500"
+msgid "0"
+msgstr ""

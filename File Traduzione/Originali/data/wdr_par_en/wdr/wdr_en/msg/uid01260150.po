@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "92"
+msgid "Excuse me, sir."
+msgstr ""
+
+msgctxt "104"
+msgid "You should really stay away from those lockers."
+msgstr ""
+
+msgctxt "116"
+msgid "And why is that?"
+msgstr ""
+
+msgctxt "128"
+msgid "Haruko! Shh... You shouldn't say stuff like that."
+msgstr ""
+
+msgctxt "140"
+msgid "People say that Locker 44 over there is cursed."
+msgstr ""
+
+msgctxt "152"
+msgid ""
+"People hear groaning and clanging noises coming out of it\r\n"
+"at night."
+msgstr ""
+
+msgctxt "164"
+msgid ""
+"I'm sorry. This girl loves to spread silly rumors. Don't\r\n"
+"take her seriously, okay?"
+msgstr ""
+
+msgctxt "176"
+msgid ""
+"Let's go, you guys. Everybody knows all that stuff about\r\n"
+"horrific sounds coming out of the locker is all a big lie."
+msgstr ""
+
+msgctxt "236"
+msgid "(A cursed locker, huh... Spooky.)"
+msgstr ""
+
+msgctxt "2172"
+msgid "Haruko"
+msgstr ""
+
+msgctxt "2176"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "2180"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "2184"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "2188"
+msgid "Talk_Kosite_st"
+msgstr ""
+
+msgctxt "2192"
+msgid "Hozumi"
+msgstr ""
+
+msgctxt "2196"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "2200"
+msgid "Talk_Info_R"
+msgstr ""
+
+msgctxt "2204"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "2208"
+msgid "Chisato"
+msgstr ""
+
+msgctxt "2212"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "2216"
+msgid "Talk_Ase"
+msgstr ""

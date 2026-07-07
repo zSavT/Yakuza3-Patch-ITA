@@ -1,0 +1,350 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "552"
+msgid "The place is a wreck, but we're still open!"
+msgstr ""
+
+msgctxt "564"
+msgid "Welcome. What can I do for you today?"
+msgstr ""
+
+msgctxt "576"
+msgid "Actually, I'm good."
+msgstr ""
+
+msgctxt "588"
+msgid "Okay, just let me know if you change your mind."
+msgstr ""
+
+msgctxt "600"
+msgid "Tell me about Flawless."
+msgstr ""
+
+msgctxt "612"
+msgid "What would you like to know about Flawless?"
+msgstr ""
+
+msgctxt "624"
+msgid "Tell me about Flawless itself."
+msgstr ""
+
+msgctxt "636"
+msgid "Flawless is the most popular hostess club in all of Okinawa."
+msgstr ""
+
+msgctxt "648"
+msgid "Best part is, it won't cost you an arm and a leg just to pop in for a bit!"
+msgstr ""
+
+msgctxt "660"
+msgid ""
+"You can find it over in Hatsumachi. There's a 5,000 yen cover charge, a "
+"1,000 yen hostess-request fee, and a 1,000 yen service charge."
+msgstr ""
+
+msgctxt "684"
+msgid "Tell me about Mika Tsuchiya."
+msgstr ""
+
+msgctxt "696"
+msgid ""
+"Mika's a caring, big-sister type. She's bright and cheerful, and she treats "
+"people well, but she's not very quick to say what's on her mind."
+msgstr ""
+
+msgctxt "708"
+msgid "That makes it hard to get to know the real Mika."
+msgstr ""
+
+msgctxt "720"
+msgid ""
+"She's 29, a Virgo, and her blood type's O! She's apparently hooked on "
+"bodyboarding right now."
+msgstr ""
+
+msgctxt "732"
+msgid "She hates goya, though, so be careful if you end up taking her out to eat."
+msgstr ""
+
+msgctxt "744"
+msgid ""
+"Hehehe... I guarantee you, once you get a taste of Mika's unique, mature "
+"sex appeal, you'll be totally hooked!"
+msgstr ""
+
+msgctxt "768"
+msgid "Tell me about Nao Kaneshiro."
+msgstr ""
+
+msgctxt "780"
+msgid "Nao is a polite, straight-laced girl."
+msgstr ""
+
+msgctxt "792"
+msgid ""
+"She has a soothing presence and loves children. I also hear that she can't "
+"stand being alone."
+msgstr ""
+
+msgctxt "804"
+msgid ""
+"She's 25, a Capricorn, and her blood type's A! Back home, her family are "
+"involved in the craft of Ryuku Bingata dyeing."
+msgstr ""
+
+msgctxt "816"
+msgid "Her favorite food is chicken, but I hear she hates shiitake mushrooms."
+msgstr ""
+
+msgctxt "828"
+msgid ""
+"Heh. Her eyes are absolutely stunning. You'll be totally entranced by "
+"them... maybe forever!"
+msgstr ""
+
+msgctxt "852"
+msgid "Tell me about Saya Unten."
+msgstr ""
+
+msgctxt "864"
+msgid ""
+"Saya is a spunky, Okinawa-born girl. With her rapid-fire way of speaking "
+"and sweet, high-pitched voice, she absolutely oozes personality."
+msgstr ""
+
+msgctxt "876"
+msgid "She's 20, a Gemini, and her blood type's B!"
+msgstr ""
+
+msgctxt "888"
+msgid "Her favorite food is pork, but she doesn't like cucumbers."
+msgstr ""
+
+msgctxt "900"
+msgid ""
+"Heh... At first, you may think Saya is a bit immature. She does have a bit "
+"of a childish streak."
+msgstr ""
+
+msgctxt "912"
+msgid ""
+"Just wait till you catch a glimpse of her mature side, though. You'll go "
+"crazy for her!"
+msgstr ""
+
+msgctxt "936"
+msgid "Tell me about Aqua Sky."
+msgstr ""
+
+msgctxt "948"
+msgid ""
+"Aqua Sky is a bar over in South Hatsumachi. It's quite roomy and very "
+"popular⑬the perfect place to meet new people."
+msgstr ""
+
+msgctxt "960"
+msgid ""
+"While you're there, don't forget to enjoy a game of pool or darts⑬if you "
+"think you're up to the challenge!"
+msgstr ""
+
+msgctxt "984"
+msgid "Could I get someone to show me how to get there?"
+msgstr ""
+
+msgctxt "1008"
+msgid ""
+"It seems you have someone waiting for you. You probably shouldn't keep them "
+"waiting."
+msgstr ""
+
+msgctxt "1020"
+msgid "Where to, sir?"
+msgstr ""
+
+msgctxt "1032"
+msgid "Take me to Shine."
+msgstr ""
+
+msgctxt "1044"
+msgid "Shine, the hostess club?"
+msgstr ""
+
+msgctxt "1056"
+msgid "Yeah, that's the one."
+msgstr ""
+
+msgctxt "1068"
+msgid "Take me to Jewel."
+msgstr ""
+
+msgctxt "1080"
+msgid "Jewel, the hostess club?"
+msgstr ""
+
+msgctxt "1092"
+msgid "Yeah, that's the one."
+msgstr ""
+
+msgctxt "1104"
+msgid "Take me to Love in Heart."
+msgstr ""
+
+msgctxt "1116"
+msgid "Love in Heart, the massage parlor?"
+msgstr ""
+
+msgctxt "1128"
+msgid "Yeah, that's the one."
+msgstr ""
+
+msgctxt "1140"
+msgid "Take me to Asia."
+msgstr ""
+
+msgctxt "1152"
+msgid "Asia, the bikini bar?"
+msgstr ""
+
+msgctxt "1164"
+msgid "Yeah, that's the one."
+msgstr ""
+
+msgctxt "1176"
+msgid "Thank you very much. Just a moment, please."
+msgstr ""
+
+msgctxt "1188"
+msgid "Hello? This is MEB calling. How are you this evening?"
+msgstr ""
+
+msgctxt "1200"
+msgid "Um, yes, I have a guest here who'd like to come by now."
+msgstr ""
+
+msgctxt "1212"
+msgid "So we're good? Great! Thank you!"
+msgstr ""
+
+msgctxt "1224"
+msgid "Okay, sir, please follow me. I'll take you there right away."
+msgstr ""
+
+msgctxt "1296"
+msgid "I'm sorry, sir, but you, um... You seem to be a little short on cash."
+msgstr ""
+
+msgctxt "1308"
+msgid "Ask About the Hostess Club Flawless"
+msgstr ""
+
+msgctxt "1320"
+msgid "Ask About the Bar Aqua Sky"
+msgstr ""
+
+msgctxt "1332"
+msgid "Nothing"
+msgstr ""
+
+msgctxt "1344"
+msgid "Tell me about the club itself."
+msgstr ""
+
+msgctxt "1356"
+msgid "Tell me about Mika Tsuchiya."
+msgstr ""
+
+msgctxt "1368"
+msgid "Tell me about Nao Kaneshiro."
+msgstr ""
+
+msgctxt "1380"
+msgid "Tell me about Saya Unten."
+msgstr ""
+
+msgctxt "1392"
+msgid "Tell me about a different hotspot."
+msgstr ""
+
+msgctxt "1404"
+msgid "Shine"
+msgstr ""
+
+msgctxt "1416"
+msgid "Jewel"
+msgstr ""
+
+msgctxt "1428"
+msgid "Love in Heart Massage Parlor"
+msgstr ""
+
+msgctxt "1440"
+msgid "Asia Bikini Bar"
+msgstr ""
+
+msgctxt "1452"
+msgid "Never Mind"
+msgstr ""
+
+msgctxt "1464"
+msgid "Yes"
+msgstr ""
+
+msgctxt "1476"
+msgid "No"
+msgstr ""
+
+msgctxt "1488"
+msgid "Yes"
+msgstr ""
+
+msgctxt "1500"
+msgid "No"
+msgstr ""
+
+msgctxt "1512"
+msgid "Yes"
+msgstr ""
+
+msgctxt "1524"
+msgid "No"
+msgstr ""
+
+msgctxt "1536"
+msgid "Yes"
+msgstr ""
+
+msgctxt "1548"
+msgid "No"
+msgstr ""
+
+msgctxt "9900"
+msgid "Employee"
+msgstr ""
+
+msgctxt "9904"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "9908"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "9912"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "9916"
+msgid "Talk_Smile"
+msgstr ""

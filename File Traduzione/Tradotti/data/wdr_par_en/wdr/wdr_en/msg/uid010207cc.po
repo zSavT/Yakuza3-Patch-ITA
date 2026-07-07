@@ -1,0 +1,272 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "80"
+msgid "Guah... Shit..."
+msgstr ""
+
+msgctxt "128"
+msgid "Kazuki, it's me."
+msgstr ""
+
+msgctxt "140"
+msgid "Kiryu-san? What's going on?"
+msgstr ""
+
+msgctxt "152"
+msgid ""
+"Get Yuya and bring him over to the alleyway behind Public Park 3, fast. "
+"I've got something to show you."
+msgstr ""
+
+msgctxt "164"
+msgid "All right."
+msgstr ""
+
+msgctxt "200"
+msgid "I don't believe this shit. Didn't you say you were gonna stay out of it?"
+msgstr ""
+
+msgctxt "212"
+msgid "All I said was the decision is theirs to make, not mine."
+msgstr ""
+
+msgctxt "224"
+msgid "Kiryu-san. What is it you wanted to show us?"
+msgstr ""
+
+msgctxt "236"
+msgid "Eiji!? What the hell's going on here?"
+msgstr ""
+
+msgctxt "248"
+msgid ""
+"He's been working with Kyogoku to cause friction between you and the other "
+"hosts."
+msgstr ""
+
+msgctxt "260"
+msgid ""
+"I don't believe this... So that's why you joined Stardust? To mess "
+"everything up?"
+msgstr ""
+
+msgctxt "272"
+msgid "I might as well tell you now..."
+msgstr ""
+
+msgctxt "284"
+msgid "That whole thing about a \"second club\"? All bullshit."
+msgstr ""
+
+msgctxt "296"
+msgid ""
+"The idea was to get all the hosts at Stardust to turn on each other, so "
+"Kyogoku could start pulling them away to join his own network."
+msgstr ""
+
+msgctxt "308"
+msgid "Then we'd step in to put things in order and take over the club itself."
+msgstr ""
+
+msgctxt "320"
+msgid ""
+"But man, I didn't think it'd be so easy! It was like dealing with a bunch "
+"of idiots!"
+msgstr ""
+
+msgctxt "332"
+msgid "I've heard enough from you! Where's Kyogoku!?"
+msgstr ""
+
+msgctxt "344"
+msgid "At our Millennium Tower office. You'll know it when you get there."
+msgstr ""
+
+msgctxt "356"
+msgid "Kazuki-san!"
+msgstr ""
+
+msgctxt "368"
+msgid "Dammit! Keeping Stardust trash-free is supposed to be my job!"
+msgstr ""
+
+msgctxt "380"
+msgid ""
+"Kiryu-san, I got something to take care of first. Could you go after "
+"Kazuki-san for me?"
+msgstr ""
+
+msgctxt "392"
+msgid ""
+"Gonna take out a little payback on Eiji, huh? Can't say I blame you. Okay, "
+"leave Kazuki to me."
+msgstr ""
+
+msgctxt "404"
+msgid ""
+"Thanks! I'll make sure this little tapeworm gets what he deserves, then "
+"I'll get right to the Millennium Tower!"
+msgstr ""
+
+msgctxt "416"
+msgid ""
+"What I deserve...? What's that supposed to mean? Are... Are you gonna hit "
+"me again!?"
+msgstr ""
+
+msgctxt "428"
+msgid "Get ready, 'cause Yuya's punches sting. Maybe even worse than mine."
+msgstr ""
+
+msgctxt "464"
+msgid "Aiyeeeeeeeeeeee!"
+msgstr ""
+
+msgctxt "500"
+msgid "(That's Eiji... the guy who was with Yuya.)"
+msgstr ""
+
+msgctxt "512"
+msgid "(Where could he be going?)"
+msgstr ""
+
+msgctxt "524"
+msgid ""
+"Yeah, everything's going great. Huh? Oh, for sure. Yuya's a major dumbass. "
+"Uh-huh..."
+msgstr ""
+
+msgctxt "536"
+msgid ""
+"I buttered him up like a turkey, telling him he'd be the perfect owner and "
+"other stupid shit..."
+msgstr ""
+
+msgctxt "548"
+msgid ""
+"Yeah, that's going according to plan, too. All the hosts at Stardust are "
+"pretty riled up. We oughta be able to take over soon."
+msgstr ""
+
+msgctxt "560"
+msgid ""
+"Right... I'll call again if anything happens. Oh, and President Kyogoku... "
+"Get the champagne ready."
+msgstr ""
+
+msgctxt "596"
+msgid "What the... Did you... Did you hear all that?"
+msgstr ""
+
+msgctxt "608"
+msgid ""
+"Hear what? That Yuya's a \"dumbass\"? Or that your boss, Kyogoku, is up to "
+"something?"
+msgstr ""
+
+msgctxt "620"
+msgid ""
+"Damn you! Aaaagh, I can't let you fuck this up! There's way too much at "
+"stake!"
+msgstr ""
+
+msgctxt "632"
+msgid ""
+"Shoulda thought twice before eavesdropping... 'cause I'm about to make you "
+"drop dead!"
+msgstr ""
+
+msgctxt "8528"
+msgid "Eiji"
+msgstr ""
+
+msgctxt "8532"
+msgid "P_stand_tlk_phone_st"
+msgstr ""
+
+msgctxt "8536"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "8540"
+msgid "Kazuki"
+msgstr ""
+
+msgctxt "8544"
+msgid "P_stand_tlk_phone_ed"
+msgstr ""
+
+msgctxt "8548"
+msgid "Yuya"
+msgstr ""
+
+msgctxt "8552"
+msgid "M_ykzs_stand_tlk_kamae"
+msgstr ""
+
+msgctxt "8556"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "8560"
+msgid "Talk_Chohatu"
+msgstr ""
+
+msgctxt "8564"
+msgid "Talk_SmileBig_st"
+msgstr ""
+
+msgctxt "8568"
+msgid "Talk_SmileBig_lp"
+msgstr ""
+
+msgctxt "8572"
+msgid "Talk_SmileBig_ed"
+msgstr ""
+
+msgctxt "8576"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "8580"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "8584"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "8588"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "8592"
+msgid "SetM_nml_cheer_walkback_03"
+msgstr ""
+
+msgctxt "8596"
+msgid "Phone_lp"
+msgstr ""
+
+msgctxt "8600"
+msgid "Phone_ed"
+msgstr ""
+
+msgctxt "8604"
+msgid "0"
+msgstr ""
+
+msgctxt "8608"
+msgid "Talk_Odosu"
+msgstr ""

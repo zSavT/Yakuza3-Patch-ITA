@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "96"
+msgid "I hope Shiro's okay..."
+msgstr ""
+
+msgctxt "108"
+msgid "Yeah. I'll go see if I can find out what's wrong."
+msgstr ""
+
+msgctxt "144"
+msgid "Shiro's still not looking so good, Uncle Kaz."
+msgstr ""
+
+msgctxt "156"
+msgid ""
+"Yeah, about that. It sounds like some kids at school have\r\n"
+"been bullying him."
+msgstr ""
+
+msgctxt "168"
+msgid "What!?"
+msgstr ""
+
+msgctxt "180"
+msgid ""
+"Taichi told me. Apparently he found bruises all over Shiro's\r\n"
+"body."
+msgstr ""
+
+msgctxt "192"
+msgid ""
+"Keep this between us, though. I just thought I should let\r\n"
+"you know."
+msgstr ""
+
+msgctxt "204"
+msgid "I guess bullies do tend to go after the quiet kids..."
+msgstr ""
+
+msgctxt "216"
+msgid ""
+"Nobody deserves that kind of treatment, quiet or not.\r\n"
+"I'll get to the bottom of this, Haruka."
+msgstr ""
+
+msgctxt "1628"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "1632"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1636"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "1640"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "1644"
+msgid "HAL_stand_tlk_kamae"
+msgstr ""

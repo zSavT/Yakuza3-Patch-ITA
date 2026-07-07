@@ -1,0 +1,195 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "248"
+msgid "Oh, Kiryu-san! Thanks for stopping by."
+msgstr ""
+
+msgctxt "260"
+msgid "So... Anything new regarding Gatling Sendo?"
+msgstr ""
+
+msgctxt "272"
+msgid ""
+"He's supposed to be at the MEB Info Center. Do you think you\r\n"
+"could go talk to him?"
+msgstr ""
+
+msgctxt "284"
+msgid "Oh, Kiryu-san! Thanks for stopping by."
+msgstr ""
+
+msgctxt "296"
+msgid "So... Anything new regarding the weapons fanatic?"
+msgstr ""
+
+msgctxt "308"
+msgid ""
+"He's supposed to be near the bikini bar on Pink Street.\r\n"
+"Could you go meet with him?"
+msgstr ""
+
+msgctxt "320"
+msgid "Oh, Kiryu-san! Thanks for stopping by."
+msgstr ""
+
+msgctxt "332"
+msgid "So... Anything new regarding the yakuza guy?"
+msgstr ""
+
+msgctxt "344"
+msgid ""
+"He's supposed to be hiding out in Tenkaichi Alley.\r\n"
+"Could you please go and try to find him?"
+msgstr ""
+
+msgctxt "356"
+msgid "Oh, Kiryu-san! Thanks for stopping by."
+msgstr ""
+
+msgctxt "368"
+msgid "So... Anything new regarding Iwakuma?"
+msgstr ""
+
+msgctxt "380"
+msgid ""
+"I heard he was causing a ruckus in front of the nabe place\r\n"
+"on Shichifuku Street. Could you go see him?"
+msgstr ""
+
+msgctxt "392"
+msgid "Oh, Kiryu-san! Thanks for stopping by."
+msgstr ""
+
+msgctxt "404"
+msgid "So... So, anything new regarding Violence Tobita?"
+msgstr ""
+
+msgctxt "416"
+msgid ""
+"He's supposed to be drinking somewhere in the\r\n"
+"Champion District. Could you go talk to him?"
+msgstr ""
+
+msgctxt "428"
+msgid "Oh, Kiryu-san! Thanks for stopping by."
+msgstr ""
+
+msgctxt "440"
+msgid ""
+"I'll send you a message if I find someone suitable to recruit\r\n"
+"as a bouncer."
+msgstr ""
+
+msgctxt "452"
+msgid "Until then, enjoy the casino."
+msgstr ""
+
+msgctxt "476"
+msgid "Oh, perfect timing, Kiryu-san!"
+msgstr ""
+
+msgctxt "488"
+msgid ""
+"I know we already owe you so much, but would you reconsider\r\n"
+"scouting some bouncers for us?"
+msgstr ""
+
+msgctxt "500"
+msgid ""
+"Sorry... But I'm gonna have to bounce on this one. As in,\r\n"
+"I can't help."
+msgstr ""
+
+msgctxt "512"
+msgid ""
+"I see... Well, if you ever change your mind and want to help,\r\n"
+"please come see me."
+msgstr ""
+
+msgctxt "524"
+msgid "It's a deal."
+msgstr ""
+
+msgctxt "536"
+msgid "All right. I'll see if I can round up a few bouncers for you."
+msgstr ""
+
+msgctxt "548"
+msgid ""
+"Thank you! I really feel bad asking you to do this, though.\r\n"
+"You've done so much for us already..."
+msgstr ""
+
+msgctxt "560"
+msgid "It's no problem. So who do you want me to start with?"
+msgstr ""
+
+msgctxt "572"
+msgid ""
+"There's a pro wrestler who goes by the name of\r\n"
+"Violence Tobita who might work out. Try him first."
+msgstr ""
+
+msgctxt "584"
+msgid ""
+"I heard he hurt his back and was tossed out of the wrestling\r\n"
+"federation, though Tobita still prowls around on his own,\r\n"
+"claiming he can fight."
+msgstr ""
+
+msgctxt "596"
+msgid "\"Violence\" Tobita, huh? Where can I find him?"
+msgstr ""
+
+msgctxt "608"
+msgid ""
+"I heard someone say they saw him drinking somewhere around\r\n"
+"the Champion District."
+msgstr ""
+
+msgctxt "620"
+msgid "Got it. Wonder if he really lives up to that name..."
+msgstr ""
+
+msgctxt "632"
+msgid "Start Scouting"
+msgstr ""
+
+msgctxt "644"
+msgid "Decline"
+msgstr ""
+
+msgctxt "4924"
+msgid "Casino Manager"
+msgstr ""
+
+msgctxt "4928"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "4932"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "4936"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "4940"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "4944"
+msgid "Talk_Yes"
+msgstr ""

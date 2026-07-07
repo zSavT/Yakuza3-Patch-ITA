@@ -1,0 +1,74 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "120"
+msgid "You hungry, Mikio-chan? As long as you're here, we've got some new treats..."
+msgstr ""
+
+msgctxt "132"
+msgid ""
+"Aw, thanks! There's nothing like a little sweetness to perk you up when "
+"you're dragging."
+msgstr ""
+
+msgctxt "144"
+msgid "Here, take this with you. Our brown sugar cake came out amazing today!"
+msgstr ""
+
+msgctxt "156"
+msgid "Hey, thanks! You let me know if anything comes up, okay?"
+msgstr ""
+
+msgctxt "168"
+msgid "Of course, of course! We know we can count on you."
+msgstr ""
+
+msgctxt "180"
+msgid "(This is starting to seem more like a taste test than a patrol.)"
+msgstr ""
+
+msgctxt "192"
+msgid "C'mon, sir! A thorough patrol means we gotta keep moving."
+msgstr ""
+
+msgctxt "1608"
+msgid "Market Woman"
+msgstr ""
+
+msgctxt "1612"
+msgid "Mikio"
+msgstr ""
+
+msgctxt "1616"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "1620"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "1624"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "1628"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1632"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "1636"
+msgid "dummy"
+msgstr ""

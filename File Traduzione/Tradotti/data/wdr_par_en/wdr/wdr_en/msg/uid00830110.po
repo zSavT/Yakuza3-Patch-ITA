@@ -1,0 +1,145 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid "I'm warning you. I've got a bodyguard!"
+msgstr ""
+
+msgctxt "76"
+msgid ""
+"Don't be like that, babe. You need the pocket change, don't you? Well, I "
+"got the perfect gig in mind for you."
+msgstr ""
+
+msgctxt "100"
+msgid ""
+"Come on, man, can't you see she's not interested? Lemme show you what "
+"happens when you don't leave innocent girls alone!"
+msgstr ""
+
+msgctxt "160"
+msgid ""
+"The hell's your problem, dude? Keep your paws outta other people's "
+"business! Ugh, I'm outta here!"
+msgstr ""
+
+msgctxt "184"
+msgid "Thanks, Rikiya. I don't know what I'd do without you."
+msgstr ""
+
+msgctxt "196"
+msgid ""
+"I've been thinking the same thing. What's with all the trouble you keep "
+"runnin' into, Akiho-san? Maybe Kamurocho's just too dangerous for you."
+msgstr ""
+
+msgctxt "208"
+msgid ""
+"I mean, yeah, it's dangerous, but now I have my knight in shining armor "
+"here to take care of me! It's... really nice having you around, Rikiya."
+msgstr ""
+
+msgctxt "220"
+msgid "Well, I wanna help, but..."
+msgstr ""
+
+msgctxt "232"
+msgid "Anyway, I've gotta run! Drop by the club again sometime, okay?"
+msgstr ""
+
+msgctxt "256"
+msgid "Rikiya... Doesn't it sort of feel like she's using you?"
+msgstr ""
+
+msgctxt "268"
+msgid ""
+"Akiho-san, using me? You've gotta get your head checked, Aniki. She'd never "
+"do that. I mean, I'm from Okinawa, she's from Okinawa. We're just lookin' "
+"out for each other!"
+msgstr ""
+
+msgctxt "280"
+msgid "...If you say so."
+msgstr ""
+
+msgctxt "292"
+msgid ""
+"Still, something doesn't seem quite right to me. I have a feeling she'll be "
+"in trouble again before long."
+msgstr ""
+
+msgctxt "304"
+msgid ""
+"She probably hasn't gone far, now that I think about it. Why don't we keep "
+"an eye on her and see what happens?"
+msgstr ""
+
+msgctxt "316"
+msgid ""
+"C'mon, we don't have to do that. Akiho-san'll ring me up if she's in "
+"trouble again!"
+msgstr ""
+
+msgctxt "328"
+msgid "I don't know..."
+msgstr ""
+
+msgctxt "340"
+msgid ""
+"Don't be such a droopy dragon, Aniki! Hey, the night's still young, right? "
+"We got plenty more sightseeing to do! Let's go!"
+msgstr ""
+
+msgctxt "5192"
+msgid "Akiho"
+msgstr ""
+
+msgctxt "5196"
+msgid "Aggressive Scout"
+msgstr ""
+
+msgctxt "5200"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "5204"
+msgid "Rikiya"
+msgstr ""
+
+msgctxt "5208"
+msgid "M_ykzs_damage"
+msgstr ""
+
+msgctxt "5212"
+msgid "Idle"
+msgstr ""
+
+msgctxt "5216"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "5220"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "5224"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "5228"
+msgid "dummy"
+msgstr ""
+
+msgctxt "5232"
+msgid "0"
+msgstr ""

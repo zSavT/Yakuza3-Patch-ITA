@@ -1,0 +1,88 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid "Well, if it isn't Yuto! Haha! So they caught you, too, eh?"
+msgstr ""
+
+msgctxt "76"
+msgid ""
+"Shut up. And stay away from me. I don't want any of your stupid to rub off "
+"on me."
+msgstr ""
+
+msgctxt "88"
+msgid "What the hell did you say to me!? Ya think that's funny?"
+msgstr ""
+
+msgctxt "100"
+msgid "I'm a professional killer, you know⑬! No, wait."
+msgstr ""
+
+msgctxt "112"
+msgid ""
+"I'm a <Italic>part-time</Italic> killer! Ha! What do ya think of "
+"<Italic>that</Italic>!? Ya scared yet!?"
+msgstr ""
+
+msgctxt "124"
+msgid "Uh... No."
+msgstr ""
+
+msgctxt "136"
+msgid "You still workin' as a hitman? That's freakin' hilarious!"
+msgstr ""
+
+msgctxt "148"
+msgid "There's nothing \"hilarious\" about it."
+msgstr ""
+
+msgctxt "1712"
+msgid "Kotaro"
+msgstr ""
+
+msgctxt "1716"
+msgid "Talk_SmileBig_st"
+msgstr ""
+
+msgctxt "1720"
+msgid "Yuto"
+msgstr ""
+
+msgctxt "1724"
+msgid "Talk_Away"
+msgstr ""
+
+msgctxt "1728"
+msgid "Talk_SmileBig_ed"
+msgstr ""
+
+msgctxt "1732"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "1736"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "1740"
+msgid "Talk_Chohatu"
+msgstr ""
+
+msgctxt "1744"
+msgid "dummy"
+msgstr ""
+
+msgctxt "1748"
+msgid "0"
+msgstr ""

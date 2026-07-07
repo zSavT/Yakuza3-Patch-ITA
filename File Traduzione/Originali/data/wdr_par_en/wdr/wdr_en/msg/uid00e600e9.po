@@ -1,0 +1,74 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "92"
+msgid "How could Kanda do that to Kashiwagi-san!?"
+msgstr ""
+
+msgctxt "104"
+msgid "You're not planning on going after the Nishikiyama Family, are you?"
+msgstr ""
+
+msgctxt "116"
+msgid "Fourth Chairman! Welcome!"
+msgstr ""
+
+msgctxt "128"
+msgid "We don't know that it was the Nishikiyama Family. Don't jump the gun."
+msgstr ""
+
+msgctxt "140"
+msgid ""
+"But it's just gotta be Kanda! I never really liked him in the first place. "
+"I mean, the guy swiped our territory right out from under us!"
+msgstr ""
+
+msgctxt "152"
+msgid ""
+"The boss let it slide because he didn't want any trouble between the "
+"families, and this is how that pig repays him!? I'll kill him for this!"
+msgstr ""
+
+msgctxt "164"
+msgid ""
+"Leave this to me. I don't want you running off and making a fool out of "
+"yourself. Kashiwagi-san wouldn't have wanted it, either."
+msgstr ""
+
+msgctxt "176"
+msgid "...Understood. Still, I'll never forgive Kanda for what he did!"
+msgstr ""
+
+msgctxt "1552"
+msgid "Kazama Family Member"
+msgstr ""
+
+msgctxt "1556"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1560"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "1564"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "1568"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "1572"
+msgid "Talk_Yes"
+msgstr ""

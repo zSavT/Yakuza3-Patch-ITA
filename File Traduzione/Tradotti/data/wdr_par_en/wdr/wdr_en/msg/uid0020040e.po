@@ -1,0 +1,50 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "80"
+msgid ""
+"Eng plz.\r\n"
+"Eng plz."
+msgstr ""
+
+msgctxt "104"
+msgid "Eng plz."
+msgstr ""
+
+msgctxt "116"
+msgid "Eng plz."
+msgstr ""
+
+msgctxt "152"
+msgid "Eng plz."
+msgstr ""
+
+msgctxt "880"
+msgid "謎の男"
+msgstr ""
+
+msgctxt "884"
+msgid "与那城"
+msgstr ""
+
+msgctxt "888"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "892"
+msgid "p_btlst_weaponT_01"
+msgstr ""
+
+msgctxt "896"
+msgid "桐生"
+msgstr ""

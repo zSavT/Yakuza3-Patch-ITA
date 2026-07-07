@@ -1,0 +1,144 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "152"
+msgid ""
+"She's wearing a straw hat and blue clothes! If anything happened to her... "
+"No, I can't think about it! Please, find her!"
+msgstr ""
+
+msgctxt "188"
+msgid ""
+"Oh, pardon me... Have you seen my daughter? I can't find her anywhere! "
+"Please, she's wearing blue!"
+msgstr ""
+
+msgctxt "200"
+msgid "Calm down. Tell me what happened."
+msgstr ""
+
+msgctxt "212"
+msgid ""
+"I'm sorry... It's my daughter. I think she's lost. And I just told her to "
+"stay close to me, too!"
+msgstr ""
+
+msgctxt "224"
+msgid "I'm from Tokyo⑬I'm only here on vacation! I don't know this place at all!"
+msgstr ""
+
+msgctxt "236"
+msgid "Please! Could you help me look for my daughter?"
+msgstr ""
+
+msgctxt "248"
+msgid "She can't be that hard to find! My Sakura is cute enough to be on TV!"
+msgstr ""
+
+msgctxt "260"
+msgid "(A lost child, huh? Seems pretty urgent.)"
+msgstr ""
+
+msgctxt "272"
+msgid "Don't worry. I'm sure she'll be back soon enough."
+msgstr ""
+
+msgctxt "284"
+msgid "What are you talking about?"
+msgstr ""
+
+msgctxt "296"
+msgid ""
+"I mean... what if she's been... been... kidnapped!? Oh, I can't take this! "
+"What do I do!?"
+msgstr ""
+
+msgctxt "308"
+msgid "Sakura! Where are you? Come here! Come to Mommy, darling!"
+msgstr ""
+
+msgctxt "332"
+msgid "Sure, I'll help. What does your daughter look like?"
+msgstr ""
+
+msgctxt "344"
+msgid "Thank you... She's wearing her favorite straw hat."
+msgstr ""
+
+msgctxt "356"
+msgid ""
+"I told her not to leave the arcade here, so she's probably in here "
+"somewhere..."
+msgstr ""
+
+msgctxt "368"
+msgid "All right. If I see her, I'll be sure to call you over."
+msgstr ""
+
+msgctxt "380"
+msgid ""
+"I don't want you to miss her if she does come this way, so you stay put, "
+"okay?"
+msgstr ""
+
+msgctxt "404"
+msgid "All right, I'm in."
+msgstr ""
+
+msgctxt "416"
+msgid "She'll be back soon."
+msgstr ""
+
+msgctxt "3728"
+msgid "Mother"
+msgstr ""
+
+msgctxt "3732"
+msgid "Talk_Kamae"
+msgstr ""
+
+msgctxt "3736"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "3740"
+msgid "SetF_nml_stand_lookfor"
+msgstr ""
+
+msgctxt "3744"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "3748"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "3752"
+msgid "Talk_Request"
+msgstr ""
+
+msgctxt "3756"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "3760"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "3764"
+msgid "Talk_Cry"
+msgstr ""
+
+msgctxt "3768"
+msgid "Talk_Yes"
+msgstr ""

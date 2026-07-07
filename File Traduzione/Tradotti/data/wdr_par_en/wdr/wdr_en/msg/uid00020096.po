@@ -1,0 +1,361 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "180"
+msgid ""
+"What's wrong, Izumi? You're usually the first one at the\r\n"
+"dinner table."
+msgstr ""
+
+msgctxt "192"
+msgid "...I don't wanna eat right now."
+msgstr ""
+
+msgctxt "204"
+msgid "What? Are you feeling okay?"
+msgstr ""
+
+msgctxt "216"
+msgid "......"
+msgstr ""
+
+msgctxt "228"
+msgid "(Something's definitely bothering her...)"
+msgstr ""
+
+msgctxt "240"
+msgid "Not hungry, huh?"
+msgstr ""
+
+msgctxt "252"
+msgid "......"
+msgstr ""
+
+msgctxt "264"
+msgid "Does your stomach hurt?"
+msgstr ""
+
+msgctxt "276"
+msgid "......"
+msgstr ""
+
+msgctxt "288"
+msgid "Izumi?"
+msgstr ""
+
+msgctxt "300"
+msgid "No, I feel fine..."
+msgstr ""
+
+msgctxt "312"
+msgid "(Guess that wasn't it. Maybe...)"
+msgstr ""
+
+msgctxt "324"
+msgid "Did something happen at school?"
+msgstr ""
+
+msgctxt "336"
+msgid "......"
+msgstr ""
+
+msgctxt "348"
+msgid "Come on, Izumi. You can tell me."
+msgstr ""
+
+msgctxt "360"
+msgid "...Hey, Uncle Kaz?"
+msgstr ""
+
+msgctxt "372"
+msgid "What's up?"
+msgstr ""
+
+msgctxt "384"
+msgid "Is not having parents... a bad thing?"
+msgstr ""
+
+msgctxt "396"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "408"
+msgid ""
+"The other kids at school were making fun of me 'cause\r\n"
+"I don't have a mom and dad."
+msgstr ""
+
+msgctxt "420"
+msgid "How'd that even get brought up?"
+msgstr ""
+
+msgctxt "432"
+msgid ""
+"Well, Bring Your Parents to School Day is pretty soon,\r\n"
+"so everyone started asking what I was gonna do."
+msgstr ""
+
+msgctxt "444"
+msgid "Uh-huh..."
+msgstr ""
+
+msgctxt "456"
+msgid "They... They said my parents can't come 'cause they're dead."
+msgstr ""
+
+msgctxt "468"
+msgid "(That's awful...)"
+msgstr ""
+
+msgctxt "480"
+msgid "Everyone knows I live here with you, Uncle Kaz."
+msgstr ""
+
+msgctxt "492"
+msgid "......"
+msgstr ""
+
+msgctxt "504"
+msgid ""
+"And it's not like I want you to pretend to be my dad or\r\n"
+"anything, but..."
+msgstr ""
+
+msgctxt "516"
+msgid "But what, Izumi? You can tell me."
+msgstr ""
+
+msgctxt "528"
+msgid "It's... really hard."
+msgstr ""
+
+msgctxt "540"
+msgid "......"
+msgstr ""
+
+msgctxt "552"
+msgid ""
+"Like, some of the other parents can't come 'cause they're\r\n"
+"too busy, but nobody makes fun of those kids. Why not!?\r\n"
+"Why can't I just have a real family like everyone else!?"
+msgstr ""
+
+msgctxt "564"
+msgid "Let's talk about this after dinner, okay?"
+msgstr ""
+
+msgctxt "576"
+msgid "Just go if you're hungry! I wanna stay here."
+msgstr ""
+
+msgctxt "588"
+msgid ""
+"Come on, you're not gonna grow big and strong if you don't\r\n"
+"eat your dinner."
+msgstr ""
+
+msgctxt "600"
+msgid "You can't tell me what to do! You're not my dad!"
+msgstr ""
+
+msgctxt "612"
+msgid "Izumi!"
+msgstr ""
+
+msgctxt "624"
+msgid ""
+"Just leave me alone! I don't have a family, so I can do\r\n"
+"what I want!"
+msgstr ""
+
+msgctxt "636"
+msgid "You're wrong."
+msgstr ""
+
+msgctxt "648"
+msgid "You do have a family, Izumi."
+msgstr ""
+
+msgctxt "660"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "672"
+msgid "Me, Haruka, and everyone else."
+msgstr ""
+
+msgctxt "684"
+msgid "I don't get it."
+msgstr ""
+
+msgctxt "696"
+msgid ""
+"Listen. Families come in all shapes and sizes. Having a \"real\" mom and "
+"dad isn't what matters here."
+msgstr ""
+
+msgctxt "708"
+msgid "But..."
+msgstr ""
+
+msgctxt "720"
+msgid ""
+"What matters is that you're surrounded by people who love\r\n"
+"you for who you are."
+msgstr ""
+
+msgctxt "732"
+msgid "But we're not related."
+msgstr ""
+
+msgctxt "744"
+msgid "Well, there's more to it than that."
+msgstr ""
+
+msgctxt "756"
+msgid ""
+"Related or not, you mean the world to all of us. That alone\r\n"
+"is enough to make us family."
+msgstr ""
+
+msgctxt "768"
+msgid "......"
+msgstr ""
+
+msgctxt "780"
+msgid ""
+"And besides, I don't think your classmates were really\r\n"
+"making fun of you."
+msgstr ""
+
+msgctxt "792"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "804"
+msgid ""
+"They've spent their whole lives with their moms and dads\r\n"
+"right by their side. They can't imagine it any other way."
+msgstr ""
+
+msgctxt "816"
+msgid ""
+"I'm sure they just don't realize how lonely life as an\r\n"
+"orphan can be."
+msgstr ""
+
+msgctxt "828"
+msgid "Then... they don't think I'm weird?"
+msgstr ""
+
+msgctxt "840"
+msgid ""
+"That's right. If anything, I'd say they were genuinely\r\n"
+"concerned about you feeling lonely."
+msgstr ""
+
+msgctxt "852"
+msgid "......"
+msgstr ""
+
+msgctxt "864"
+msgid "I was an orphan, too. I know just how hard it can be."
+msgstr ""
+
+msgctxt "876"
+msgid ""
+"Even so, I'll always think of the man who brought me up\r\n"
+"as my real dad."
+msgstr ""
+
+msgctxt "888"
+msgid "And the other kids from my orphanage? They're my siblings."
+msgstr ""
+
+msgctxt "900"
+msgid ""
+"Throughout all my time there... the idea of not having\r\n"
+"a real family never even crossed my mind."
+msgstr ""
+
+msgctxt "912"
+msgid "......"
+msgstr ""
+
+msgctxt "924"
+msgid ""
+"So you see? You have everything you could ever need right\r\n"
+"here at Morning Glory."
+msgstr ""
+
+msgctxt "936"
+msgid ""
+"Your family's just as real as any of the other kids' at\r\n"
+"school. You don't need to be jealous of them."
+msgstr ""
+
+msgctxt "948"
+msgid "I'm not! It's just, they say things sometimes..."
+msgstr ""
+
+msgctxt "960"
+msgid "And when they do, you can tell them this."
+msgstr ""
+
+msgctxt "972"
+msgid "\"I'm not alone. I have nine people in my family.\""
+msgstr ""
+
+msgctxt "984"
+msgid "Nine?"
+msgstr ""
+
+msgctxt "996"
+msgid "Me, Haruka, and the others. That makes nine."
+msgstr ""
+
+msgctxt "1008"
+msgid "We're... a family, huh?"
+msgstr ""
+
+msgctxt "1032"
+msgid "Not hungry, huh?"
+msgstr ""
+
+msgctxt "1044"
+msgid "Something happen at school?"
+msgstr ""
+
+msgctxt "1056"
+msgid "Let's talk about this after dinner."
+msgstr ""
+
+msgctxt "1068"
+msgid "You do have one, Izumi."
+msgstr ""
+
+msgctxt "10088"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "10092"
+msgid "Izumi"
+msgstr ""
+
+msgctxt "10096"
+msgid "P_sitgrd_tlk_jibeta_yes"
+msgstr ""
+
+msgctxt "10100"
+msgid "P_sitgrd_tlk_jibeta_no"
+msgstr ""

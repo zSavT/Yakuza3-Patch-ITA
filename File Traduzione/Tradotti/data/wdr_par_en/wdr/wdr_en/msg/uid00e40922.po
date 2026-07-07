@@ -1,0 +1,336 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "136"
+msgid "Kiryu-san! Konichiwa!"
+msgstr ""
+
+msgctxt "148"
+msgid "Who're you?"
+msgstr ""
+
+msgctxt "160"
+msgid ""
+"Aw, did you forget about me!? It's me, Maxim Soldadov!\r\n"
+"We fought in the Underground Coliseum!"
+msgstr ""
+
+msgctxt "172"
+msgid "Oh, yeah. Maxim. The boxer, right?"
+msgstr ""
+
+msgctxt "184"
+msgid "Yeah! That's me! So you <Italic>do</Italic> remember me!"
+msgstr ""
+
+msgctxt "196"
+msgid "Yeah. So what do you want?"
+msgstr ""
+
+msgctxt "208"
+msgid "I have a favor to ask."
+msgstr ""
+
+msgctxt "220"
+msgid "What is it?"
+msgstr ""
+
+msgctxt "232"
+msgid ""
+"I want you to compete in the Tag Match Grand Prix\r\n"
+"in the Underground Coliseum with me."
+msgstr ""
+
+msgctxt "244"
+msgid "The Tag Match Grand Prix?"
+msgstr ""
+
+msgctxt "256"
+msgid "Yes, exactly! The Tag Match Grand Prix!"
+msgstr ""
+
+msgctxt "268"
+msgid "Why me, though?"
+msgstr ""
+
+msgctxt "280"
+msgid "I came from the Ukraine in search of true strength."
+msgstr ""
+
+msgctxt "292"
+msgid ""
+"I thought back to the last time we fought and realized\r\n"
+"that you definitely have that strength."
+msgstr ""
+
+msgctxt "304"
+msgid "You really think so...?"
+msgstr ""
+
+msgctxt "316"
+msgid ""
+"Yeah! And I'm not talking about just physical strength,\r\n"
+"either. I mean <Italic>true</Italic> strength. I saw it in you that day."
+msgstr ""
+
+msgctxt "328"
+msgid "......"
+msgstr ""
+
+msgctxt "340"
+msgid ""
+"I decided that I wanted to learn that strength from you...\r\n"
+"That's when I heard about the Tag Match Grand Prix."
+msgstr ""
+
+msgctxt "352"
+msgid ""
+"If we fight together in the Tag Match Grand Prix, I'll get\r\n"
+"to see you fight, right up close!"
+msgstr ""
+
+msgctxt "364"
+msgid "It'd be the perfect opportunity!"
+msgstr ""
+
+msgctxt "376"
+msgid "Please, Kiryu-san! Join the Tag Match Grand Prix with me!"
+msgstr ""
+
+msgctxt "388"
+msgid "(Hmm. This guy might make a good tag match partner...)"
+msgstr ""
+
+msgctxt "400"
+msgid "Okay. Let's do it."
+msgstr ""
+
+msgctxt "412"
+msgid "Really!? Thank you, Kiryu-san!"
+msgstr ""
+
+msgctxt "424"
+msgid ""
+"Sure, but I don't know if I can teach you this \"true\r\n"
+"strength\" you're talking about."
+msgstr ""
+
+msgctxt "436"
+msgid ""
+"Don't worry about that! It's not something you can teach.\r\n"
+"It's something I can steal from you! Isn't that the\r\n"
+"Japanese way? Heh."
+msgstr ""
+
+msgctxt "448"
+msgid "Heh."
+msgstr ""
+
+msgctxt "460"
+msgid ""
+"Yay! Lucky me! I can't believe you're going to be my\r\n"
+"partner!"
+msgstr ""
+
+msgctxt "472"
+msgid ""
+"I heard all the Grand Prix fighters are having trouble\r\n"
+"finding partners."
+msgstr ""
+
+msgctxt "484"
+msgid "Is that right?"
+msgstr ""
+
+msgctxt "496"
+msgid "I guess it's not that easy to find a good tag partner."
+msgstr ""
+
+msgctxt "508"
+msgid "Guess not."
+msgstr ""
+
+msgctxt "520"
+msgid "Well, I'm going to head over to the Coliseum."
+msgstr ""
+
+msgctxt "532"
+msgid "All right."
+msgstr ""
+
+msgctxt "544"
+msgid "Come on by anytime!"
+msgstr ""
+
+msgctxt "616"
+msgid "No."
+msgstr ""
+
+msgctxt "628"
+msgid "Why not?"
+msgstr ""
+
+msgctxt "640"
+msgid ""
+"I'm not the man you think I am. I think you'd eventually\r\n"
+"regret teaming up with me."
+msgstr ""
+
+msgctxt "652"
+msgid ""
+"No, I wouldn't! You're the one I want for my partner.\r\n"
+"There's no way I would ever regret it!"
+msgstr ""
+
+msgctxt "664"
+msgid "You sure about that?"
+msgstr ""
+
+msgctxt "676"
+msgid ""
+"Absolutely! I'm determined to fight with you! Please,\r\n"
+"Kiryu-san!"
+msgstr ""
+
+msgctxt "688"
+msgid "Ugh... all right."
+msgstr ""
+
+msgctxt "700"
+msgid "Really!?"
+msgstr ""
+
+msgctxt "712"
+msgid ""
+"Yeah, but I don't know if I can teach you this \"true\r\n"
+"strength\" you're talking about."
+msgstr ""
+
+msgctxt "724"
+msgid ""
+"Don't worry about that! It's not something you can teach.\r\n"
+"It's something I can steal from you! Isn't that the\r\n"
+"Japanese way? Heh."
+msgstr ""
+
+msgctxt "736"
+msgid "Heh."
+msgstr ""
+
+msgctxt "748"
+msgid ""
+"Yay! Lucky me! I can't believe you're going to be my\r\n"
+"partner!"
+msgstr ""
+
+msgctxt "760"
+msgid ""
+"I heard all the Grand Prix fighters are having trouble\r\n"
+"finding partners."
+msgstr ""
+
+msgctxt "772"
+msgid "Is that right?"
+msgstr ""
+
+msgctxt "784"
+msgid "I guess it's not that easy to find a good tag partner."
+msgstr ""
+
+msgctxt "796"
+msgid "Guess not."
+msgstr ""
+
+msgctxt "808"
+msgid "Well, I'm going to head over to the Coliseum."
+msgstr ""
+
+msgctxt "820"
+msgid "All right."
+msgstr ""
+
+msgctxt "832"
+msgid "Come on by anytime!"
+msgstr ""
+
+msgctxt "904"
+msgid "Sure."
+msgstr ""
+
+msgctxt "916"
+msgid "No."
+msgstr ""
+
+msgctxt "8764"
+msgid "Bubbly Foreigner"
+msgstr ""
+
+msgctxt "8768"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "8772"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "8776"
+msgid "Maxim Soldadov"
+msgstr ""
+
+msgctxt "8780"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "8784"
+msgid "Talk_Kosite_st"
+msgstr ""
+
+msgctxt "8788"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "8792"
+msgid "Talk_Request"
+msgstr ""
+
+msgctxt "8796"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "8800"
+msgid "Talk_Kosite_ed"
+msgstr ""
+
+msgctxt "8804"
+msgid "Talk_Info_R"
+msgstr ""
+
+msgctxt "8808"
+msgid "dummy"
+msgstr ""
+
+msgctxt "8812"
+msgid "0"
+msgstr ""
+
+msgctxt "8816"
+msgid "Talk_Kosite_No"
+msgstr ""
+
+msgctxt "8820"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "8824"
+msgid "Talk_Think"
+msgstr ""

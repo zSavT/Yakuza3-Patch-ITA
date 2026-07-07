@@ -1,0 +1,42 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "331\t370"
+msgid "Take this!"
+msgstr ""
+
+msgctxt "371\t427"
+msgid "Strike!"
+msgstr ""
+
+msgctxt "428\t488"
+msgid "Oh c'mon!"
+msgstr ""
+
+msgctxt "764\t894"
+msgid ""
+"Hey, Taichi. That kid's been\\n"
+"hanging around here a lot, huh?"
+msgstr ""
+
+msgctxt "895\t939"
+msgid "Who is he?"
+msgstr ""
+
+msgctxt "940\t983"
+msgid "Beats me."
+msgstr ""
+
+msgctxt "984\t1077"
+msgid "Why don't you go see if he wants to play?"
+msgstr ""

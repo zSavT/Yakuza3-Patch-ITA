@@ -1,0 +1,94 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "217\t280"
+msgid "Oh man, curry!"
+msgstr ""
+
+msgctxt "282\t405"
+msgid ""
+"Spoons down! You know we don't eat\\n"
+"until everyone's at the table!"
+msgstr ""
+
+msgctxt "407\t457"
+msgid "Yeah, yeah..."
+msgstr ""
+
+msgctxt "657\t720"
+msgid "Looks like we're all here."
+msgstr ""
+
+msgctxt "742\t782"
+msgid "Wait."
+msgstr ""
+
+msgctxt "786\t834"
+msgid "Where's Izumi?"
+msgstr ""
+
+msgctxt "836\t934"
+msgid "Huh? Izumi-chan's still out?"
+msgstr ""
+
+msgctxt "986\t1027"
+msgid "I don't know."
+msgstr ""
+
+msgctxt "1029\t1144"
+msgid ""
+"Shiro! Weren't you supposed\\n"
+"to walk her home from school?"
+msgstr ""
+
+msgctxt "1146\t1238"
+msgid "I did. She was with me the whole time."
+msgstr ""
+
+msgctxt "1270\t1369"
+msgid ""
+"To be clear, Shiro...\\n"
+"you don't know where she is?"
+msgstr ""
+
+msgctxt "1371\t1416"
+msgid "Nope."
+msgstr ""
+
+msgctxt "1429\t1499"
+msgid "I wonder where she went..."
+msgstr ""
+
+msgctxt "1513\t1583"
+msgid "It's fine, let's just eat without her!"
+msgstr ""
+
+msgctxt "1585\t1691"
+msgid "Totally! I'm sure she's okay."
+msgstr ""
+
+msgctxt "1693\t1771"
+msgid "What do we do, Uncle Kaz?"
+msgstr ""
+
+msgctxt "1773\t1857"
+msgid "We go find her."
+msgstr ""
+
+msgctxt "1869\t1944"
+msgid "You all can go ahead without us."
+msgstr ""
+
+msgctxt "1960\t2020"
+msgid "Yay, finally!"
+msgstr ""

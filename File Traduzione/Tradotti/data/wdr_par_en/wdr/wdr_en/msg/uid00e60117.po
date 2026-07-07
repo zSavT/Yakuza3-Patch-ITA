@@ -1,0 +1,416 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "284"
+msgid "Well! Back again, I see! What say you and me play a little drinking game?"
+msgstr ""
+
+msgctxt "296"
+msgid ""
+"Say, you look like you can hold your booze! Howzabout you and me play a "
+"drinking game?"
+msgstr ""
+
+msgctxt "308"
+msgid "Sorry. I'm not the guy you're looking for."
+msgstr ""
+
+msgctxt "320"
+msgid "Oh, too bad. You looked like a worthy opponent, too!"
+msgstr ""
+
+msgctxt "332"
+msgid "But if you change your mind, just come on by. I'm ready when you are."
+msgstr ""
+
+msgctxt "344"
+msgid "All right. I accept. It's high time somebody put you in your place."
+msgstr ""
+
+msgctxt "356"
+msgid ""
+"Excellent! But I think you underestimate the drinking prowess of a man of "
+"Ryukyu!"
+msgstr ""
+
+msgctxt "440"
+msgid "So... What kind of game are we talking about, anyway?"
+msgstr ""
+
+msgctxt "452"
+msgid ""
+"Well, the way I see it, it's no fun to just sit down and drink until we "
+"pass out..."
+msgstr ""
+
+msgctxt "464"
+msgid ""
+"So I figured we could try a simple game of instincts. The loser drinks. "
+"Sound good?"
+msgstr ""
+
+msgctxt "476"
+msgid "What \"instincts,\" exactly?"
+msgstr ""
+
+msgctxt "488"
+msgid "I'll point either left or right, and you turn your head."
+msgstr ""
+
+msgctxt "500"
+msgid ""
+"If you face the same direction I'm pointing, you lose. But if you face the "
+"opposite direction, you win."
+msgstr ""
+
+msgctxt "512"
+msgid ""
+"The loser has to take a drink. Whoever gets falling-down drunk first pays "
+"the tab. So what do you think?"
+msgstr ""
+
+msgctxt "524"
+msgid "So the loser drinks, and the drunk pays... Sure, I can accept those terms."
+msgstr ""
+
+msgctxt "536"
+msgid "Then here we go!"
+msgstr ""
+
+msgctxt "596"
+msgid "Which..."
+msgstr ""
+
+msgctxt "608"
+msgid "way..."
+msgstr ""
+
+msgctxt "620"
+msgid "Which..."
+msgstr ""
+
+msgctxt "632"
+msgid "way..."
+msgstr ""
+
+msgctxt "668"
+msgid "...now!?"
+msgstr ""
+
+msgctxt "680"
+msgid "...now!?"
+msgstr ""
+
+msgctxt "692"
+msgid "Eheheheheh! I win!"
+msgstr ""
+
+msgctxt "704"
+msgid "Yes! Chug, chug, chug!"
+msgstr ""
+
+msgctxt "716"
+msgid "A deal's a deal."
+msgstr ""
+
+msgctxt "776"
+msgid "Say, that goes down smooth."
+msgstr ""
+
+msgctxt "812"
+msgid "Ugh. Might've... had a little too much..."
+msgstr ""
+
+msgctxt "836"
+msgid ""
+"You're a mess, my boy! Guess that means drinks are on you. *hic* Now tell "
+"me that wasn't a whole barrel o' fun!"
+msgstr ""
+
+msgctxt "848"
+msgid "Oh, and here... This is for you. Take some later. It'll do you some good!"
+msgstr ""
+
+msgctxt "860"
+msgid "You got a <Color:8>Legendary Drinker of Ryukyu<Color:Default>."
+msgstr ""
+
+msgctxt "884"
+msgid ""
+"I'm taking this stuff myself, y'know. Would never survive the hangovers "
+"without it. *hic*"
+msgstr ""
+
+msgctxt "896"
+msgid "......"
+msgstr ""
+
+msgctxt "908"
+msgid "Er, excuse me, sir..."
+msgstr ""
+
+msgctxt "932"
+msgid "Nrgh..."
+msgstr ""
+
+msgctxt "944"
+msgid ""
+"Yes, well... it appears the bill for you and that gentleman comes to 20,000 "
+"yen. Sir."
+msgstr ""
+
+msgctxt "956"
+msgid "(Damn. I don't have enough on me.)"
+msgstr ""
+
+msgctxt "968"
+msgid "Everything all right? You don't have enough to cover the bill?"
+msgstr ""
+
+msgctxt "980"
+msgid "Looks that way..."
+msgstr ""
+
+msgctxt "992"
+msgid ""
+"Ah, well... That customer was nothing but trouble, anyway. Just pay what "
+"you can."
+msgstr ""
+
+msgctxt "1004"
+msgid "I'm sorry."
+msgstr ""
+
+msgctxt "1016"
+msgid "You handed over <Color:8>all of your money<Color:Default>."
+msgstr ""
+
+msgctxt "1040"
+msgid "You got it."
+msgstr ""
+
+msgctxt "1052"
+msgid "You paid <Color:8>20,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "1064"
+msgid "(Who would've thought he could drink me under the table?)"
+msgstr ""
+
+msgctxt "1088"
+msgid "You got 3,000 EXP."
+msgstr ""
+
+msgctxt "1172"
+msgid "Phew... Okay, I've had my drink. Time for the next round."
+msgstr ""
+
+msgctxt "1184"
+msgid "...now!?"
+msgstr ""
+
+msgctxt "1196"
+msgid "...now!?"
+msgstr ""
+
+msgctxt "1208"
+msgid "Gwah! I lost! Me, of all people!"
+msgstr ""
+
+msgctxt "1220"
+msgid "Your turn to drink."
+msgstr ""
+
+msgctxt "1232"
+msgid "Abso-frickin-lutely! Heheheh... Barkeep! 'Nother one over here!"
+msgstr ""
+
+msgctxt "1292"
+msgid "You really can hold your liquor."
+msgstr ""
+
+msgctxt "1328"
+msgid "Aaah! That's the good stuff! Now... we keep playing!"
+msgstr ""
+
+msgctxt "1340"
+msgid "Say... I think I mighta had a... tad too much... t' driiinnnk..."
+msgstr ""
+
+msgctxt "1400"
+msgid "Zzzzz... Zzzzz... More... drinks..."
+msgstr ""
+
+msgctxt "1412"
+msgid "Looks like he's out cold."
+msgstr ""
+
+msgctxt "1424"
+msgid ""
+"Oh, thank you so much! This customer has been nothing but trouble the whole "
+"time he's been here."
+msgstr ""
+
+msgctxt "1436"
+msgid ""
+"You deserve this for finally shutting him down. I have to thank you "
+"somehow... well, on behalf of all of us."
+msgstr ""
+
+msgctxt "1448"
+msgid "You got <Color:8>50,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "1460"
+msgid "Here, m'boy... Take this. 'S yours now."
+msgstr ""
+
+msgctxt "1484"
+msgid "You got a <Color:8>Legendary Drinker of Ryukyu<Color:Default>."
+msgstr ""
+
+msgctxt "1508"
+msgid ""
+"Take that stuff... You won't feel so bad... after drinking... *snorfle* "
+"*snork*"
+msgstr ""
+
+msgctxt "1520"
+msgid "He's out again. What should we do with him?"
+msgstr ""
+
+msgctxt "1532"
+msgid ""
+"Seems like a decent guy, despite everything. He can sleep it off in the "
+"back office. Thanks again⑬I really appreciate it."
+msgstr ""
+
+msgctxt "1556"
+msgid "You got 3,000 EXP."
+msgstr ""
+
+msgctxt "1652"
+msgid "Accept."
+msgstr ""
+
+msgctxt "1664"
+msgid "Refuse."
+msgstr ""
+
+msgctxt "1676"
+msgid "Accept"
+msgstr ""
+
+msgctxt "1688"
+msgid "Refuse"
+msgstr ""
+
+msgctxt "1700"
+msgid "Turn to the Right"
+msgstr ""
+
+msgctxt "1712"
+msgid "Turn to the Left"
+msgstr ""
+
+msgctxt "1724"
+msgid "Turn to the Right"
+msgstr ""
+
+msgctxt "1736"
+msgid "Turn to the Left"
+msgstr ""
+
+msgctxt "16024"
+msgid "Upbeat Man"
+msgstr ""
+
+msgctxt "16028"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "16032"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "16036"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "16040"
+msgid "P_sitcnt"
+msgstr ""
+
+msgctxt "16044"
+msgid "M_yng_sitchr"
+msgstr ""
+
+msgctxt "16048"
+msgid "Idle"
+msgstr ""
+
+msgctxt "16052"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "16056"
+msgid "Talk_Info_L"
+msgstr ""
+
+msgctxt "16060"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "16064"
+msgid "Talk_Info_R"
+msgstr ""
+
+msgctxt "16068"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "16072"
+msgid "Bartender"
+msgstr ""
+
+msgctxt "16076"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "16080"
+msgid "P_stand_tlk_kamae"
+msgstr ""
+
+msgctxt "16084"
+msgid "dummy"
+msgstr ""
+
+msgctxt "16088"
+msgid "0"
+msgstr ""
+
+msgctxt "16092"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "16096"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "16100"
+msgid "ReM_nml_korobu_downl_lp"
+msgstr ""
+
+msgctxt "16104"
+msgid "Talk_Ojigi"
+msgstr ""

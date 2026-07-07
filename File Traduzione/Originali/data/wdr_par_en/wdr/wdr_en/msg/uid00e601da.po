@@ -1,0 +1,275 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "76"
+msgid "I'm sorry..."
+msgstr ""
+
+msgctxt "88"
+msgid "1,000,000 yen... Yup, that's everything."
+msgstr ""
+
+msgctxt "100"
+msgid ""
+"Thank you, Kiryu-san. I can't believe you caught him on\r\n"
+"your first try!"
+msgstr ""
+
+msgctxt "112"
+msgid ""
+"Well, then, here's the ten percent I promised you:\r\n"
+"100,000 yen."
+msgstr ""
+
+msgctxt "124"
+msgid "You got <Color:8>100,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "136"
+msgid ""
+"Motoyama, you're coming with me to my office. We've got lots\r\n"
+"of paperwork to do."
+msgstr ""
+
+msgctxt "148"
+msgid "Okay... I'm real sorry..."
+msgstr ""
+
+msgctxt "160"
+msgid "Kiryu-san, you're the legend I always heard you were!"
+msgstr ""
+
+msgctxt "172"
+msgid ""
+"You've inspired me to get better at collecting money,\r\n"
+"even from slippery bastards like Motoyama. Thank you.\r\n"
+"I learned a lot today!"
+msgstr ""
+
+msgctxt "244"
+msgid "You got 3,000 EXP."
+msgstr ""
+
+msgctxt "256"
+msgid "I'm sorry..."
+msgstr ""
+
+msgctxt "268"
+msgid ""
+"800,000 yen? You used 200,000 in that short amount\r\n"
+"of time?"
+msgstr ""
+
+msgctxt "280"
+msgid "Thank you, Kiryu-san. I can't believe you caught him!"
+msgstr ""
+
+msgctxt "292"
+msgid ""
+"Well, then, here's the ten percent I promised you:\r\n"
+"80,000 yen."
+msgstr ""
+
+msgctxt "304"
+msgid "You got <Color:8>80,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "316"
+msgid ""
+"Motoyama, you're coming with me to my office. We need to talk\r\n"
+"about how you'll be paying back the rest of the money you\r\n"
+"owe."
+msgstr ""
+
+msgctxt "328"
+msgid "Yes... I'm sorry, this is all I've got left..."
+msgstr ""
+
+msgctxt "340"
+msgid "Kiryu-san, you're the legend I always heard you were!"
+msgstr ""
+
+msgctxt "352"
+msgid ""
+"You've inspired me to get better at collecting money,\r\n"
+"even from slippery bastards like Motoyama. Thank you.\r\n"
+"I learned a lot today!"
+msgstr ""
+
+msgctxt "424"
+msgid "You got 3,000 EXP."
+msgstr ""
+
+msgctxt "436"
+msgid "This is all I've got left..."
+msgstr ""
+
+msgctxt "448"
+msgid "600,000 yen? You used 400,000 in that short amount of time?"
+msgstr ""
+
+msgctxt "460"
+msgid "Thank you, Kiryu-san. I can't believe you caught him!"
+msgstr ""
+
+msgctxt "472"
+msgid ""
+"Well, then, here's the ten percent I promised you:\r\n"
+"60,000 yen."
+msgstr ""
+
+msgctxt "484"
+msgid "You got <Color:8>60,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "496"
+msgid ""
+"Motoyama, you're coming with me to my office. We need to talk\r\n"
+"about how you'll be paying back the rest of the money you\r\n"
+"owe."
+msgstr ""
+
+msgctxt "508"
+msgid "Okay... I'm sorry..."
+msgstr ""
+
+msgctxt "520"
+msgid "Kiryu-san, you're the legend I always heard you were!"
+msgstr ""
+
+msgctxt "532"
+msgid ""
+"You've inspired me to get better at collecting money,\r\n"
+"even from slippery bastards like Motoyama. Thank you.\r\n"
+"I learned a lot today!"
+msgstr ""
+
+msgctxt "604"
+msgid "You got 3,000 EXP."
+msgstr ""
+
+msgctxt "616"
+msgid "This is all I've got left..."
+msgstr ""
+
+msgctxt "628"
+msgid "400,000 yen? You used 600,000 in that short amount of time?"
+msgstr ""
+
+msgctxt "640"
+msgid "Thank you, Kiryu-san. I can't believe you caught him!"
+msgstr ""
+
+msgctxt "652"
+msgid ""
+"Well, then, here's the ten percent I promised you:\r\n"
+"40,000 yen."
+msgstr ""
+
+msgctxt "664"
+msgid "You got <Color:8>40,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "676"
+msgid ""
+"Motoyama, you're coming with me to my office. We need to talk\r\n"
+"about how you'll be paying back the rest of the money you\r\n"
+"owe."
+msgstr ""
+
+msgctxt "688"
+msgid "Okay... I'm sorry..."
+msgstr ""
+
+msgctxt "700"
+msgid "Kiryu-san, you're the legend I always heard you were!"
+msgstr ""
+
+msgctxt "712"
+msgid ""
+"You've inspired me to get better at collecting money,\r\n"
+"even from slippery bastards like Motoyama. Thank you.\r\n"
+"I learned a lot today!"
+msgstr ""
+
+msgctxt "784"
+msgid "You got 3,000 EXP."
+msgstr ""
+
+msgctxt "796"
+msgid "Sorry... This is all I've got left..."
+msgstr ""
+
+msgctxt "808"
+msgid "200,000 yen? You used 800,000 in that short amount of time?"
+msgstr ""
+
+msgctxt "820"
+msgid "Thank you, Kiryu-san. I can't believe you caught him!"
+msgstr ""
+
+msgctxt "832"
+msgid ""
+"Well, then, here's the ten percent I promised you:\r\n"
+"20,000 yen."
+msgstr ""
+
+msgctxt "844"
+msgid "You got <Color:8>20,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "856"
+msgid ""
+"Motoyama, you're coming with me to my office. We need to talk\r\n"
+"about how you'll be paying back the rest of the money you\r\n"
+"owe."
+msgstr ""
+
+msgctxt "868"
+msgid "Okay... I'm sorry..."
+msgstr ""
+
+msgctxt "880"
+msgid "Kiryu-san, you're the legend I always heard you were!"
+msgstr ""
+
+msgctxt "892"
+msgid ""
+"You've inspired me to get better at collecting money,\r\n"
+"even from slippery bastards like Motoyama. Thank you.\r\n"
+"I learned a lot today!"
+msgstr ""
+
+msgctxt "964"
+msgid "You got 3,000 EXP."
+msgstr ""
+
+msgctxt "10616"
+msgid "Motoyama"
+msgstr ""
+
+msgctxt "10620"
+msgid "Shibayama the Loan Shark"
+msgstr ""
+
+msgctxt "10624"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "10628"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "10632"
+msgid "dummy"
+msgstr ""

@@ -1,0 +1,48 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid "Oh, excuse me."
+msgstr ""
+
+msgctxt "136"
+msgid "(That was a pickpocket! Dammit. He took 40,000 yen out of my wallet!)"
+msgstr ""
+
+msgctxt "148"
+msgid "Hey, you!"
+msgstr ""
+
+msgctxt "1040"
+msgid "???"
+msgstr ""
+
+msgctxt "1044"
+msgid "Yoroke_BR_small"
+msgstr ""
+
+msgctxt "1048"
+msgid "Nml_TurnR180"
+msgstr ""
+
+msgctxt "1052"
+msgid "0"
+msgstr ""
+
+msgctxt "1056"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1060"
+msgid "Talk_Info_F"
+msgstr ""

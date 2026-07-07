@@ -1,0 +1,124 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "124"
+msgid "Get on over to the dining room."
+msgstr ""
+
+msgctxt "136"
+msgid "......"
+msgstr ""
+
+msgctxt "148"
+msgid "Ayako?"
+msgstr ""
+
+msgctxt "160"
+msgid "...Okay."
+msgstr ""
+
+msgctxt "196"
+msgid ""
+"Why didn't you pay Taichi back, Ayako? Did you lose\r\n"
+"the money? Or accidentally spend it?"
+msgstr ""
+
+msgctxt "208"
+msgid "Um..."
+msgstr ""
+
+msgctxt "220"
+msgid ""
+"Come on, this isn't like you. When you borrow something from\r\n"
+"someone, you have to make sure you give it back."
+msgstr ""
+
+msgctxt "232"
+msgid "But..."
+msgstr ""
+
+msgctxt "244"
+msgid "I, um..."
+msgstr ""
+
+msgctxt "256"
+msgid "Don't be afraid. You can tell me."
+msgstr ""
+
+msgctxt "268"
+msgid "...Someone stole it."
+msgstr ""
+
+msgctxt "280"
+msgid "What!? One of the other kids?"
+msgstr ""
+
+msgctxt "304"
+msgid "Are you sure? Maybe it just fell out of your pocket."
+msgstr ""
+
+msgctxt "316"
+msgid "No, I keep all my money in my wallet inside my bag."
+msgstr ""
+
+msgctxt "328"
+msgid "(So whoever stole it would have to know it was there.)"
+msgstr ""
+
+msgctxt "340"
+msgid "......"
+msgstr ""
+
+msgctxt "352"
+msgid "All right. I'm gonna get to the bottom of this."
+msgstr ""
+
+msgctxt "364"
+msgid "No!"
+msgstr ""
+
+msgctxt "376"
+msgid "Ayako. We have to find out what happened."
+msgstr ""
+
+msgctxt "388"
+msgid "But..."
+msgstr ""
+
+msgctxt "400"
+msgid "I'll go round up the others. Wait for me in the dining room."
+msgstr ""
+
+msgctxt "412"
+msgid "Okay..."
+msgstr ""
+
+msgctxt "3648"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "3652"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "3656"
+msgid "Ayako"
+msgstr ""
+
+msgctxt "3660"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "3664"
+msgid "HAL_stand_tlk_kamae"
+msgstr ""

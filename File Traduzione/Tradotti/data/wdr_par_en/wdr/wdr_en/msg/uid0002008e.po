@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "76"
+msgid "Uncle Kaz... We don't have to leave, do we?"
+msgstr ""
+
+msgctxt "88"
+msgid ""
+"Not if I can help it. I'm not about to let those guys kick\r\n"
+"us out of our home."
+msgstr ""
+
+msgctxt "100"
+msgid ""
+"They must be Ryudo Family boys. That's who's been sending us\r\n"
+"those letters."
+msgstr ""
+
+msgctxt "112"
+msgid ""
+"One way or another, it's gonna have to stop. I can't have\r\n"
+"them keep scaring you guys."
+msgstr ""
+
+msgctxt "124"
+msgid "Maybe I should pay this Ryudo Family a little visit."
+msgstr ""
+
+msgctxt "136"
+msgid "......"
+msgstr ""
+
+msgctxt "148"
+msgid ""
+"Don't worry, Haruka. I'm not planning on getting into any\r\n"
+"fights, even if they are yakuza."
+msgstr ""
+
+msgctxt "160"
+msgid "Just... be careful, Uncle Kaz."
+msgstr ""
+
+msgctxt "172"
+msgid "I will. Be back tonight."
+msgstr ""
+
+msgctxt "2132"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "2136"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "2140"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "2144"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "2148"
+msgid "Talk_No"
+msgstr ""

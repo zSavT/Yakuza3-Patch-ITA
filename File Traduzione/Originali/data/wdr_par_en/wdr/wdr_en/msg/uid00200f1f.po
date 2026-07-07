@@ -1,0 +1,68 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "80"
+msgid "I told you, I don't have that book no more. I sold it to Ebisu Pawn."
+msgstr ""
+
+msgctxt "92"
+msgid ""
+"(Someone else might buy it if I don't hurry... I need to get to Ebisu Pawn "
+"in Nakamichi Alley.)"
+msgstr ""
+
+msgctxt "104"
+msgid "Hey, are you Kamekichi?"
+msgstr ""
+
+msgctxt "116"
+msgid ""
+"What the hell do you want? Can't you see I'm on a losing streak? I just "
+"wanna be left alone..."
+msgstr ""
+
+msgctxt "128"
+msgid ""
+"You took a book from Master Komaki's dojo, didn't you? I'm here to get it "
+"back."
+msgstr ""
+
+msgctxt "140"
+msgid "What book? Oh, you mean that dirty old thing?"
+msgstr ""
+
+msgctxt "152"
+msgid ""
+"I sold it to Ebisu Pawn to get me some gambling money. They didn't give me "
+"much for it, though... and the money's long gone."
+msgstr ""
+
+msgctxt "164"
+msgid "You sold it?"
+msgstr ""
+
+msgctxt "176"
+msgid "(I'd better get over there before someone else buys it.)"
+msgstr ""
+
+msgctxt "188"
+msgid "(I need to go to Ebisu Pawn in Nakamichi Alley.)"
+msgstr ""
+
+msgctxt "1700"
+msgid "Kamekichi"
+msgstr ""
+
+msgctxt "1704"
+msgid "Kiryu"
+msgstr ""

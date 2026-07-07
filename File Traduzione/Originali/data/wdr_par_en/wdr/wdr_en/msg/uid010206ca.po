@@ -1,0 +1,98 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid "...Oh, is that right? So you've been abroad this whole time?"
+msgstr ""
+
+msgctxt "76"
+msgid ""
+"Yeah... Somewhere real far. I only came back to Kamurocho because... Well, "
+"let's just say I wanted to pay a special  visit to a special someone."
+msgstr ""
+
+msgctxt "88"
+msgid ""
+"Well, hello, boys. Nice of you to show up. If you're looking for "
+"Haruka-chan, she's in the back."
+msgstr ""
+
+msgctxt "100"
+msgid "He a new customer? Haven't seen him around before."
+msgstr ""
+
+msgctxt "112"
+msgid ""
+"Yes, he says he's been overseas. Apparently there's someone in Kamurocho he "
+"came back to visit."
+msgstr ""
+
+msgctxt "124"
+msgid "...Is everything all right?"
+msgstr ""
+
+msgctxt "136"
+msgid "Oh, uh... I was wondering if I could speak with you a moment..."
+msgstr ""
+
+msgctxt "148"
+msgid "Why so formal all of a sudden?"
+msgstr ""
+
+msgctxt "160"
+msgid "I'll take the check... Mama."
+msgstr ""
+
+msgctxt "172"
+msgid "Sure, hon. Thanks for stopping by."
+msgstr ""
+
+msgctxt "2480"
+msgid "Mama"
+msgstr ""
+
+msgctxt "2484"
+msgid "Talk_Kansin"
+msgstr ""
+
+msgctxt "2488"
+msgid "Male Customer"
+msgstr ""
+
+msgctxt "2492"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "2496"
+msgid "M_nml_sitcnt_tlk_kamae"
+msgstr ""
+
+msgctxt "2500"
+msgid "Date"
+msgstr ""
+
+msgctxt "2504"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "2508"
+msgid "M_nml_sitcnt"
+msgstr ""
+
+msgctxt "2512"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "2516"
+msgid "Talk_Ojigi"
+msgstr ""

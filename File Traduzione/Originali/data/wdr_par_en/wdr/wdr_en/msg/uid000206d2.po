@@ -1,0 +1,248 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "92"
+msgid "Oh, Kiryu. How'd it go with Mama?"
+msgstr ""
+
+msgctxt "104"
+msgid ""
+"Well... it's kind of a tough situation. Her last husband was\r\n"
+"a cop. She says he died in the line of duty trying to save\r\n"
+"her when she got held hostage."
+msgstr ""
+
+msgctxt "116"
+msgid "......"
+msgstr ""
+
+msgctxt "128"
+msgid ""
+"She also said that being with somebody who came out of the\r\n"
+"force reminds her of that awful day."
+msgstr ""
+
+msgctxt "140"
+msgid "So she's still got him on her mind, huh..."
+msgstr ""
+
+msgctxt "152"
+msgid "Wait, you knew she was married?"
+msgstr ""
+
+msgctxt "164"
+msgid ""
+"Yeah... Her husband, Keisuke, was a cop under my\r\n"
+"jurisdiction. We crossed paths during a particularly\r\n"
+"dangerous case..."
+msgstr ""
+
+msgctxt "176"
+msgid ""
+"We were going after a serial armed robber by the name of Tsukishima. Guy "
+"was a real scumbag."
+msgstr ""
+
+msgctxt "200"
+msgid "After we tracked him down, Keisuke managed to corner Tsukishima."
+msgstr ""
+
+msgctxt "212"
+msgid ""
+"But then Mama walked by and that thug took her hostage. Held his gun right "
+"to her temple."
+msgstr ""
+
+msgctxt "224"
+msgid ""
+"We got the okay to shoot Tsukishima, but Keisuke was too\r\n"
+"afraid he'd hit his wife. So he hesitated."
+msgstr ""
+
+msgctxt "236"
+msgid "And it cost him his life?"
+msgstr ""
+
+msgctxt "260"
+msgid ""
+"Yup. Tsukishima took that opportunity to shoot first, and that was it... "
+"Keisuke went down. It was over in the blink of an eye."
+msgstr ""
+
+msgctxt "272"
+msgid ""
+"Keisuke did everything he could to protect Mama without pulling the "
+"trigger... Maybe that was all he could do, given the circumstances."
+msgstr ""
+
+msgctxt "284"
+msgid ""
+"If Keisuke had shot, there was no guarantee he wouldn't hit his wife. And "
+"even if he could hit Tsukishima, he'd have to end it in one bullet. "
+"Otherwise Mama would pay the price."
+msgstr ""
+
+msgctxt "296"
+msgid "...That's a decision no one should have to make."
+msgstr ""
+
+msgctxt "308"
+msgid ""
+"I never could see Keisuke taking another man's life. He always saw the best "
+"in even the worst of people... But his kindness ended up doing him in."
+msgstr ""
+
+msgctxt "320"
+msgid "What happened to Tsukishima?"
+msgstr ""
+
+msgctxt "332"
+msgid ""
+"The moment he shot Keisuke, the squad moved in to take him down. Long story "
+"short, Tsukishima got sent to the pen, and Mama, she... survived, but she "
+"lost her other half."
+msgstr ""
+
+msgctxt "344"
+msgid ""
+"I've always felt responsible, since the killer was under my jurisdiction. "
+"So I've been looking after Mama ever since."
+msgstr ""
+
+msgctxt "356"
+msgid ""
+"I think I understand. Closing the door on you was her way of closing the "
+"door to those painful memories... of losing someone she loved."
+msgstr ""
+
+msgctxt "368"
+msgid ""
+"Maybe that can be fixed. Date-san, does she know you were in charge of the "
+"case?"
+msgstr ""
+
+msgctxt "380"
+msgid ""
+"No, and I'd like to keep it that way. She thinks Keisuke just happened to "
+"be at the scene."
+msgstr ""
+
+msgctxt "392"
+msgid "I see."
+msgstr ""
+
+msgctxt "404"
+msgid ""
+"Anyway. Only thing I could do for Mama was set her up at Serena and show my "
+"face there every day."
+msgstr ""
+
+msgctxt "416"
+msgid "...That was something like nine years ago."
+msgstr ""
+
+msgctxt "428"
+msgid ""
+"At first, I looked after her out of a sense of duty to a fallen comrade. "
+"But sooner or later... I fell for her."
+msgstr ""
+
+msgctxt "440"
+msgid "Sounds like you two have quite the history already."
+msgstr ""
+
+msgctxt "452"
+msgid "Huh!? Wait a sec..."
+msgstr ""
+
+msgctxt "464"
+msgid "What's wrong?"
+msgstr ""
+
+msgctxt "476"
+msgid "That guy... I knew I've seen him before!"
+msgstr ""
+
+msgctxt "500"
+msgid "Kiryu, that's Tsukishima!"
+msgstr ""
+
+msgctxt "512"
+msgid "What!?"
+msgstr ""
+
+msgctxt "524"
+msgid ""
+"The man who was talking to Mama at the counter! He's the one who shot "
+"Keisuke!"
+msgstr ""
+
+msgctxt "536"
+msgid "Are you sure about this?"
+msgstr ""
+
+msgctxt "548"
+msgid ""
+"Hundred percent. He might look a little different than he used to, but I'll "
+"never forget those eyes..."
+msgstr ""
+
+msgctxt "572"
+msgid "Why would he be at Serena, then?"
+msgstr ""
+
+msgctxt "584"
+msgid "You don't think⑬!?"
+msgstr ""
+
+msgctxt "608"
+msgid "Date-san!"
+msgstr ""
+
+msgctxt "620"
+msgid ""
+"(Was he really the same person who murdered Mama's husband? If so, I can't "
+"just leave them alone at Serena!)"
+msgstr ""
+
+msgctxt "8568"
+msgid "Date"
+msgstr ""
+
+msgctxt "8572"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "8576"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "8580"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "8584"
+msgid "Talk_Away"
+msgstr ""
+
+msgctxt "8588"
+msgid "se_a_ss_mm001-a002_1_01"
+msgstr ""
+
+msgctxt "8592"
+msgid "Talk_Kansin"
+msgstr ""
+
+msgctxt "8596"
+msgid "se_a_at_C20_0010_s201"
+msgstr ""

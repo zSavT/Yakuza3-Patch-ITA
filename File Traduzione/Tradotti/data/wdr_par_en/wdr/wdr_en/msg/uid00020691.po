@@ -1,0 +1,44 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "76"
+msgid "Ayako. I've been looking all over for you."
+msgstr ""
+
+msgctxt "88"
+msgid "Uncle Kaz...?"
+msgstr ""
+
+msgctxt "100"
+msgid "Come on. Let's go home."
+msgstr ""
+
+msgctxt "136"
+msgid "No! I'm not going back!"
+msgstr ""
+
+msgctxt "148"
+msgid "Ayako, wait!"
+msgstr ""
+
+msgctxt "1488"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1492"
+msgid "Ayako"
+msgstr ""
+
+msgctxt "1496"
+msgid "Talk_Yes"
+msgstr ""

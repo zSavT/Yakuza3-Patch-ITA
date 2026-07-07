@@ -1,0 +1,217 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "192"
+msgid ""
+"Oh, you're the man from before. I was watching you work your\r\n"
+"magic! It looks like you're pretty well acquainted with that\r\n"
+"beautiful brunette."
+msgstr ""
+
+msgctxt "204"
+msgid "...I guess so."
+msgstr ""
+
+msgctxt "216"
+msgid ""
+"However, it seems like a language barrier is preventing you\r\n"
+"two from becoming as close as you could be..."
+msgstr ""
+
+msgctxt "228"
+msgid ""
+"...Which is why I'll offer you our Intermediate Handbook for\r\n"
+"the low, low price of only 20,000 yen! Only in Okinawa!\r\n"
+"How's that for a local specialty!?"
+msgstr ""
+
+msgctxt "240"
+msgid ""
+"The intermediate handbook focuses more on direct\r\n"
+"communication between close friends and even more intimate\r\n"
+"relationships. I'm sure you've just gotta have it, right?"
+msgstr ""
+
+msgctxt "252"
+msgid ""
+"No thanks. I'm not really interested in learning any more\r\n"
+"English."
+msgstr ""
+
+msgctxt "264"
+msgid ""
+"Are you sure? After all the trouble you went through to get to know her... "
+"Wouldn't that be a waste?"
+msgstr ""
+
+msgctxt "276"
+msgid ""
+"Either way, this discounted price is only available for a\r\n"
+"a limited time, so come find me if you change your mind!"
+msgstr ""
+
+msgctxt "300"
+msgid "20,000 yen... All right, then, I'll take it."
+msgstr ""
+
+msgctxt "312"
+msgid "Very well. Then here's your Intermediate Handbook."
+msgstr ""
+
+msgctxt "324"
+msgid "You paid <Color:8>20,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "336"
+msgid "You got an <Color:8>Intermediate English Textbook<Color:Default>."
+msgstr ""
+
+msgctxt "360"
+msgid "(Okay. This section is about \"Conversing with a Lover.\")"
+msgstr ""
+
+msgctxt "372"
+msgid ""
+"Ｉ　ｄｏｎ'ｔ　ｗａｎｔ　ｔｏ　ｇｏ　ｈｏｍｅ\r\n"
+" ｔｏｎｉｇｈｔ．"
+msgstr ""
+
+msgctxt "384"
+msgid "Ｉ　ｄｏｎ'ｔ　ｄｅｓｅｒｖｅ　ｙｏｕｒ　ｌｏｖｅ．"
+msgstr ""
+
+msgctxt "396"
+msgid "(These are way too cheesy...)"
+msgstr ""
+
+msgctxt "408"
+msgid ""
+"You'll be a real player if you can chat her up in English,\r\n"
+"you know. After all, there are some things you can only say\r\n"
+"in English that can show her how stylish and cultured you are."
+msgstr ""
+
+msgctxt "420"
+msgid ""
+"Our English handbooks only teach you the stuff you need to\r\n"
+"know, nothing more, nothing less. And the more effort you\r\n"
+"put into it, the more you'll get out of it, guaranteed!"
+msgstr ""
+
+msgctxt "432"
+msgid ""
+"By the way, I hear a lot of foreigners hang out at a bar in\r\n"
+"Hatsumachi called Aqua Sky. Well, as they say in English...\r\n"
+"Ｈａｖｅ　ａ　ｎｉｃｅ　ｄａｙ！"
+msgstr ""
+
+msgctxt "480"
+msgid "Actually, I think I'm a little short on cash. Sorry."
+msgstr ""
+
+msgctxt "492"
+msgid ""
+"Oh, that's okay. The book will be on sale all through this\r\n"
+"week, so you can always come back and find me when you have\r\n"
+"a little more to spend."
+msgstr ""
+
+msgctxt "504"
+msgid "Oh, you're the man from before. Have you changed your mind?"
+msgstr ""
+
+msgctxt "516"
+msgid ""
+"Our Intermediate Handbook is just 20,000 yen, but only for\r\n"
+"a limited time. Ready to beef up your knowledge?"
+msgstr ""
+
+msgctxt "528"
+msgid "Buy the Intermediate Handbook"
+msgstr ""
+
+msgctxt "540"
+msgid "Don't Buy the Handbook"
+msgstr ""
+
+msgctxt "552"
+msgid "Buy the Intermediate Handbook"
+msgstr ""
+
+msgctxt "564"
+msgid "Don't Buy the Handbook"
+msgstr ""
+
+msgctxt "5788"
+msgid "English School Promoter"
+msgstr ""
+
+msgctxt "5792"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "5796"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "5800"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "5804"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "5808"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "5812"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "5816"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "5820"
+msgid "Talk_Request"
+msgstr ""
+
+msgctxt "5824"
+msgid "Sync_Send"
+msgstr ""
+
+msgctxt "5828"
+msgid "P_stand_tlk_kamae_paper02"
+msgstr ""
+
+msgctxt "5832"
+msgid "Talk_Kamae"
+msgstr ""
+
+msgctxt "5836"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "5840"
+msgid "dummy"
+msgstr ""
+
+msgctxt "5844"
+msgid "0"
+msgstr ""
+
+msgctxt "5848"
+msgid "Talk_Gakkari"
+msgstr ""

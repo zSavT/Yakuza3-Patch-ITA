@@ -1,0 +1,106 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "180"
+msgid "Hey, lady, can you tell me where Doc Emoto's clinic is at?"
+msgstr ""
+
+msgctxt "204"
+msgid ""
+"Not even a response...? This ain't the city I remember. Or the people, for "
+"that matter..."
+msgstr ""
+
+msgctxt "216"
+msgid "(That guy's looking for Emoto Medical Clinic, huh?)"
+msgstr ""
+
+msgctxt "228"
+msgid "Hey, you said you were looking for Doc Emoto's clinic?"
+msgstr ""
+
+msgctxt "240"
+msgid "That's right. Can you help me out?"
+msgstr ""
+
+msgctxt "252"
+msgid "I know where the clinic's at, but what is it you need from him?"
+msgstr ""
+
+msgctxt "264"
+msgid ""
+"Well, the doc took good care of me in the past. Haven't been to this city "
+"in fifteen years, and I'd like to drop by, say hello."
+msgstr ""
+
+msgctxt "276"
+msgid ""
+"Think you could take me there? Hell, this city's changed so much, I don't "
+"know which way is up."
+msgstr ""
+
+msgctxt "288"
+msgid ""
+"To get there, go straight along this street, then take a left onto Taihei "
+"Boulevard."
+msgstr ""
+
+msgctxt "300"
+msgid ""
+"Go straight and take a left, huh? Maybe it'll come back to me if I keep "
+"walking."
+msgstr ""
+
+msgctxt "312"
+msgid "Thanks for the tip, pal."
+msgstr ""
+
+msgctxt "396"
+msgid "You got it. Just follow me."
+msgstr ""
+
+msgctxt "408"
+msgid "You're gonna take me there? Hey, I appreciate that, buddy."
+msgstr ""
+
+msgctxt "456"
+msgid "Take Him to Emoto Medical Clinic"
+msgstr ""
+
+msgctxt "468"
+msgid "Tell Him Where the Clinic's At"
+msgstr ""
+
+msgctxt "3412"
+msgid "Emotional Man"
+msgstr ""
+
+msgctxt "3416"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "3420"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "3424"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "3428"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "3432"
+msgid "Talk_Request"
+msgstr ""

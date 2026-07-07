@@ -1,0 +1,120 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "200"
+msgid ""
+"Listen... Work for me... and I'll make you\r\n"
+"rich beyond your wildest dreams!"
+msgstr ""
+
+msgctxt "212"
+msgid ""
+"Sound good? Let's forget about this whole thing with your\r\n"
+"father, and think about what's best for tomorrow."
+msgstr ""
+
+msgctxt "224"
+msgid "How much money you got in mind?"
+msgstr ""
+
+msgctxt "236"
+msgid "Uh... How much do you want?"
+msgstr ""
+
+msgctxt "248"
+msgid "My loyalty can't be bought."
+msgstr ""
+
+msgctxt "260"
+msgid "Keep your money. I want justice."
+msgstr ""
+
+msgctxt "320"
+msgid "So this is... the legendary Tatsu of Kamuro..."
+msgstr ""
+
+msgctxt "380"
+msgid ""
+"Listen... Work for me... and I'll make you\r\n"
+"rich beyond your wildest dreams!"
+msgstr ""
+
+msgctxt "392"
+msgid ""
+"Sound good? Let's forget about this whole thing with your\r\n"
+"father, and think about what's best for tomorrow."
+msgstr ""
+
+msgctxt "404"
+msgid "How much money you got in mind?"
+msgstr ""
+
+msgctxt "416"
+msgid "Uh... How much do you want?"
+msgstr ""
+
+msgctxt "428"
+msgid "My loyalty can't be bought."
+msgstr ""
+
+msgctxt "440"
+msgid "Keep your money. I want justice."
+msgstr ""
+
+msgctxt "500"
+msgid "So this is... the legendary Tatsu of Kamuro..."
+msgstr ""
+
+msgctxt "560"
+msgid "How much money you got in mind?"
+msgstr ""
+
+msgctxt "572"
+msgid "My loyalty can't be bought."
+msgstr ""
+
+msgctxt "584"
+msgid "Keep your money. I want justice."
+msgstr ""
+
+msgctxt "596"
+msgid "How much money you got in mind?"
+msgstr ""
+
+msgctxt "608"
+msgid "My loyalty can't be bought."
+msgstr ""
+
+msgctxt "620"
+msgid "Keep your money. I want justice."
+msgstr ""
+
+msgctxt "4308"
+msgid "Yamashiro"
+msgstr ""
+
+msgctxt "4312"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "4316"
+msgid "Tatsu"
+msgstr ""
+
+msgctxt "4320"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "4324"
+msgid "ReM_old_korobu_downr_lp"
+msgstr ""

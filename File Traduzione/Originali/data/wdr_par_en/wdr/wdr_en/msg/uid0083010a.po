@@ -1,0 +1,87 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid ""
+"Hey, I know this was kinda weird, Akiho-san, but I had fun tonight. I'll be "
+"back for sure. Oh, and say hi to Natsumi for me, will ya?"
+msgstr ""
+
+msgctxt "76"
+msgid ""
+"Of course. I'm sure she'll be surprised to hear I ran into you of all "
+"people. What are you up to nowadays, anyway?"
+msgstr ""
+
+msgctxt "88"
+msgid ""
+"Well... I'm part of the Ryudo Family. The yakuza gig runnin' downtown, "
+"remember? I'm actually their captain."
+msgstr ""
+
+msgctxt "100"
+msgid ""
+"Yakuza? I would never have pegged you for that kind of lifestyle, "
+"Rikiya-kun."
+msgstr ""
+
+msgctxt "112"
+msgid ""
+"Well, there's a lot more to me than whatever Natsumi told you, I'm sure. "
+"Oh, and just call me Rikiya. By the way, here's my cell. Gimme a line if "
+"you ever need help with something."
+msgstr ""
+
+msgctxt "124"
+msgid "You know, I might just do that."
+msgstr ""
+
+msgctxt "136"
+msgid "Well, let's get goin', Aniki!"
+msgstr ""
+
+msgctxt "148"
+msgid "Right."
+msgstr ""
+
+msgctxt "2052"
+msgid "Rikiya"
+msgstr ""
+
+msgctxt "2056"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "2060"
+msgid "Akiho"
+msgstr ""
+
+msgctxt "2064"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "2068"
+msgid "Talk_Send"
+msgstr ""
+
+msgctxt "2072"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "2076"
+msgid "dummy"
+msgstr ""
+
+msgctxt "2080"
+msgid "0"
+msgstr ""

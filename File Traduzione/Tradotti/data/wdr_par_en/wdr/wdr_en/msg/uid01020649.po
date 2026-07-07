@@ -1,0 +1,233 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "96"
+msgid "Welp, Aniki. Guess this is where we take our leave."
+msgstr ""
+
+msgctxt "108"
+msgid "Thanks for clearing all this up."
+msgstr ""
+
+msgctxt "120"
+msgid "Aw, no problem. Anyways, me n' the boss'll pop by tomorrow. Later!"
+msgstr ""
+
+msgctxt "132"
+msgid "Bye!"
+msgstr ""
+
+msgctxt "168"
+msgid "We should probably head home, too. It's getting late."
+msgstr ""
+
+msgctxt "180"
+msgid "...I'm sorry, Uncle Kaz."
+msgstr ""
+
+msgctxt "192"
+msgid ""
+"It's okay, Haruka. I'm just glad you're safe. Oh, and promise me you'll "
+"never get involved in something like that again."
+msgstr ""
+
+msgctxt "204"
+msgid "I won't, I promise!"
+msgstr ""
+
+msgctxt "252"
+msgid "You, uh... You heard that, huh?"
+msgstr ""
+
+msgctxt "264"
+msgid "...Yeah."
+msgstr ""
+
+msgctxt "276"
+msgid "Ha! Haha! Hahahahaha!"
+msgstr ""
+
+msgctxt "288"
+msgid "Uncle Mikio?"
+msgstr ""
+
+msgctxt "300"
+msgid ""
+"Ya got it all wrong, Haruka-chan. We were talking about the\r\n"
+"Ryudo office, not you guys!"
+msgstr ""
+
+msgctxt "312"
+msgid ""
+"Huh? But what about the rent? And the food bill? You said\r\n"
+"everyone eats truckloads..."
+msgstr ""
+
+msgctxt "324"
+msgid ""
+"This is all one big misunderstanding. The only place they're\r\n"
+"raisin' the rent for is our office."
+msgstr ""
+
+msgctxt "336"
+msgid ""
+"As for the food... I'm the only one in this town who eats\r\n"
+"like a truck, let's be honest. Heh."
+msgstr ""
+
+msgctxt "348"
+msgid "What're you proud of that for!?"
+msgstr ""
+
+msgctxt "360"
+msgid "...That's really all it was? What a relief!"
+msgstr ""
+
+msgctxt "372"
+msgid "Are you gonna be okay, though?"
+msgstr ""
+
+msgctxt "384"
+msgid ""
+"Eh, we'll figure something out. First step is puttin' our\r\n"
+"big boy Mikio here on a nice, looong diet!"
+msgstr ""
+
+msgctxt "396"
+msgid ""
+"Hehehe! Well if you ever want a nice hearty meal, you're\r\n"
+"always welcome at Morning Glory!"
+msgstr ""
+
+msgctxt "432"
+msgid "Haruka..."
+msgstr ""
+
+msgctxt "444"
+msgid "I..."
+msgstr ""
+
+msgctxt "456"
+msgid "Aniki!"
+msgstr ""
+
+msgctxt "468"
+msgid "Rikiya, Mikio. What's wrong?"
+msgstr ""
+
+msgctxt "480"
+msgid "Mikio told me all 'bout the thugs he saw our Haruka-chan with."
+msgstr ""
+
+msgctxt "492"
+msgid ""
+"So I swung by Morning Glory, but you and Haruka-chan were\r\n"
+"gone."
+msgstr ""
+
+msgctxt "504"
+msgid ""
+"I'd heard word 'bout these guys in Hatsumachi pumpin' out\r\n"
+"counterfeit credit cards, though, so I figured they were the\r\n"
+"ones Haruka-chan got mixed up with... and now here I am."
+msgstr ""
+
+msgctxt "516"
+msgid "Um..."
+msgstr ""
+
+msgctxt "528"
+msgid "What were you thinking, Haruka? You could have been in serious danger."
+msgstr ""
+
+msgctxt "540"
+msgid "I... I heard Uncle Rikiya and Uncle Mikio talking."
+msgstr ""
+
+msgctxt "552"
+msgid "About what?"
+msgstr ""
+
+msgctxt "564"
+msgid "They were saying money was really tight."
+msgstr ""
+
+msgctxt "576"
+msgid "What do you mean?"
+msgstr ""
+
+msgctxt "588"
+msgid ""
+"They said the cost to feed us and the rent were both going\r\n"
+"up..."
+msgstr ""
+
+msgctxt "600"
+msgid "That we might not make rent this month."
+msgstr ""
+
+msgctxt "8940"
+msgid "Rikiya"
+msgstr ""
+
+msgctxt "8944"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "8948"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "8952"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "8956"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "8960"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "8964"
+msgid "dummy"
+msgstr ""
+
+msgctxt "8968"
+msgid "0"
+msgstr ""
+
+msgctxt "8972"
+msgid "Mikio"
+msgstr ""
+
+msgctxt "8976"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "8980"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "8984"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "8988"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "8992"
+msgid "Talk_OK"
+msgstr ""

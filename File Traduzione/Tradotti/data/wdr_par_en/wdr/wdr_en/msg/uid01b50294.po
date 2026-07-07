@@ -1,0 +1,126 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "80"
+msgid "Shit! We know you're back in town now! You're gonna pay for this!"
+msgstr ""
+
+msgctxt "128"
+msgid "Sorry about that. Didn't wanna get you involved in all this..."
+msgstr ""
+
+msgctxt "140"
+msgid "...It's fine."
+msgstr ""
+
+msgctxt "152"
+msgid "So where'd you wanna go next?"
+msgstr ""
+
+msgctxt "164"
+msgid "Hmm... how about Shangri-La? For old time's sake."
+msgstr ""
+
+msgctxt "176"
+msgid "Shangri-La?"
+msgstr ""
+
+msgctxt "188"
+msgid ""
+"Right. If we keep going straight along Taihei Boulevard, there should be a "
+"high-class brothel over there."
+msgstr ""
+
+msgctxt "248"
+msgid "Here we are. The Millennium Tower."
+msgstr ""
+
+msgctxt "260"
+msgid "Real colossus, huh. Must have taken a lot to get it built."
+msgstr ""
+
+msgctxt "272"
+msgid ""
+"I heard a lot of rumors about this place. They say some bad stuff went down "
+"here."
+msgstr ""
+
+msgctxt "284"
+msgid ""
+"And just now, I heard some people talkin' about a chopper shootin' the hell "
+"out of it once?"
+msgstr ""
+
+msgctxt "296"
+msgid "Oh, yeah... There've also been two bombing incidents."
+msgstr ""
+
+msgctxt "308"
+msgid "Bombing incidents!? What's this city coming to...?"
+msgstr ""
+
+msgctxt "320"
+msgid "Hey! You got a lotta nerve comin' back to this city, old man!"
+msgstr ""
+
+msgctxt "332"
+msgid "And you ain't gettin' a free pass!"
+msgstr ""
+
+msgctxt "344"
+msgid "Dammit..."
+msgstr ""
+
+msgctxt "356"
+msgid "Get this asshole! This time, he's leaving town in a fuckin' hearse!"
+msgstr ""
+
+msgctxt "3468"
+msgid "Punk"
+msgstr ""
+
+msgctxt "3472"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "3476"
+msgid "Tatsumi"
+msgstr ""
+
+msgctxt "3480"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "3484"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "3488"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "3492"
+msgid "Talk_Kamae"
+msgstr ""
+
+msgctxt "3496"
+msgid "dummy"
+msgstr ""
+
+msgctxt "3500"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "3504"
+msgid "Talk_Odosu"
+msgstr ""

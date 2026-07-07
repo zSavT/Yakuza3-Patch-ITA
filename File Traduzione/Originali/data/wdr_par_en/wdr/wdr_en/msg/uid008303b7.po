@@ -1,0 +1,142 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "148"
+msgid "Hey. She and I have somewhere to be tonight, and you're not invited."
+msgstr ""
+
+msgctxt "160"
+msgid "Kiryu-san! Help!"
+msgstr ""
+
+msgctxt "172"
+msgid "Who the fuck? You got a death wish, asswipe?"
+msgstr ""
+
+msgctxt "184"
+msgid "Hey, now... Let's not get ahead of ourselves."
+msgstr ""
+
+msgctxt "196"
+msgid "You know Shiori? I don't think you had her requested..."
+msgstr ""
+
+msgctxt "208"
+msgid ""
+"Well, it's not like you're the only guy she met there. I've had her plenty "
+"of times myself..."
+msgstr ""
+
+msgctxt "220"
+msgid ""
+"Anyway, she's out of the club, so it doesn't matter. This is between me and "
+"her."
+msgstr ""
+
+msgctxt "232"
+msgid "Damn right I'm out! You kept blowing up over nothing!"
+msgstr ""
+
+msgctxt "244"
+msgid ""
+"Heheheh... Well, after all that cash I spent on you, I figure I deserve a "
+"little return on investment, right?"
+msgstr ""
+
+msgctxt "256"
+msgid "That's sick, man! Who'd want to touch a creep like you!?"
+msgstr ""
+
+msgctxt "268"
+msgid "You're pathetic."
+msgstr ""
+
+msgctxt "280"
+msgid ""
+"Oh, <Italic>I'm</Italic> pathetic? Maybe you don't know who you're talking "
+"to."
+msgstr ""
+
+msgctxt "292"
+msgid "See, I'm this club's biggest paying customer. Without me? They'd be nothing."
+msgstr ""
+
+msgctxt "304"
+msgid "......"
+msgstr ""
+
+msgctxt "316"
+msgid ""
+"Buddy, I don't know how many times you've gone to that club, but let me "
+"clue you in... You're out of your league."
+msgstr ""
+
+msgctxt "328"
+msgid ""
+"And if you're gonna get in my way, well, you're gonna find it real hard to "
+"enjoy the nightlife from a hospital bed."
+msgstr ""
+
+msgctxt "340"
+msgid ""
+"Cockblocked when it was just gettin' good... I'm gonna beat yer ass into "
+"the ground!"
+msgstr ""
+
+msgctxt "3696"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "3700"
+msgid "Shiori"
+msgstr ""
+
+msgctxt "3704"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "3708"
+msgid "Moriyama"
+msgstr ""
+
+msgctxt "3712"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "3716"
+msgid "Kaneda"
+msgstr ""
+
+msgctxt "3720"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "3724"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "3728"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "3732"
+msgid "Talk_NoBig"
+msgstr ""
+
+msgctxt "3736"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "3740"
+msgid "Domoto"
+msgstr ""

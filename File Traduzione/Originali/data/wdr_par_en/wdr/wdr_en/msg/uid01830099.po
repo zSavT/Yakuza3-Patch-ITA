@@ -1,0 +1,64 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "100"
+msgid "There it is, Aniki! Let's get inside!"
+msgstr ""
+
+msgctxt "112"
+msgid "Right."
+msgstr ""
+
+msgctxt "124"
+msgid "By the way... what'd this Kanda guy do anyway?"
+msgstr ""
+
+msgctxt "136"
+msgid ""
+"A few hours ago, someone shot up the Kazama Family office\r\n"
+"and murdered Kashiwagi-san, the captain of the Tojo Clan."
+msgstr ""
+
+msgctxt "148"
+msgid "What!?"
+msgstr ""
+
+msgctxt "160"
+msgid ""
+"But before he breathed his last words, Kashiwagi-san had\r\n"
+"something to tell me: there's a traitor in the Tojo Clan."
+msgstr ""
+
+msgctxt "172"
+msgid "More likely than not, Kanda is that traitor."
+msgstr ""
+
+msgctxt "184"
+msgid "Oh..."
+msgstr ""
+
+msgctxt "196"
+msgid "This is no time to talk, though. Come on."
+msgstr ""
+
+msgctxt "220"
+msgid "Right behind you, Aniki!"
+msgstr ""
+
+msgctxt "2340"
+msgid "Rikiya"
+msgstr ""
+
+msgctxt "2344"
+msgid "Kiryu"
+msgstr ""

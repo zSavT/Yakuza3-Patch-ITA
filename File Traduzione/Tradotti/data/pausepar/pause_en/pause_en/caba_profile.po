@@ -1,0 +1,212 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "860\tBIRTHDAY"
+msgid "December 22"
+msgstr ""
+
+msgctxt "872\tBIRTHDAY"
+msgid "April 13"
+msgstr ""
+
+msgctxt "881\tBIRTHDAY"
+msgid "December 24"
+msgstr ""
+
+msgctxt "893\tBIRTHDAY"
+msgid "May 1"
+msgstr ""
+
+msgctxt "899\tBIRTHDAY"
+msgid "August 28"
+msgstr ""
+
+msgctxt "909\tBIRTHDAY"
+msgid "February 4"
+msgstr ""
+
+msgctxt "920\tBIRTHDAY"
+msgid "May 24"
+msgstr ""
+
+msgctxt "927\tBIRTHDAY"
+msgid "September 16"
+msgstr ""
+
+msgctxt "940\tBIRTHDAY"
+msgid "January 11"
+msgstr ""
+
+msgctxt "951\tBIRTHDAY"
+msgid "May 4"
+msgstr ""
+
+msgctxt "957\tHEIGHT"
+msgid "156 cm (5 feet, 1.4 inches)"
+msgstr ""
+
+msgctxt "985\tHEIGHT"
+msgid "154 cm (5 feet, 0.6 inches)"
+msgstr ""
+
+msgctxt "1013\tHEIGHT"
+msgid "153 cm (5 feet, 0.2 inches)"
+msgstr ""
+
+msgctxt "1041\tHEIGHT"
+msgid "158 cm (5 feet, 2.2 inches)"
+msgstr ""
+
+msgctxt "1069\tHEIGHT"
+msgid "156 cm (5 feet, 1.4 inches)"
+msgstr ""
+
+msgctxt "1097\tHEIGHT"
+msgid "162 cm (5 feet, 3.8 inches)"
+msgstr ""
+
+msgctxt "1125\tHEIGHT"
+msgid "163 cm (5 feet, 4.2 inches)"
+msgstr ""
+
+msgctxt "1153\tHEIGHT"
+msgid "162 cm (5 feet, 3.8 inches)"
+msgstr ""
+
+msgctxt "1181\tHEIGHT"
+msgid "159 cm (5 feet, 2.6 inches)"
+msgstr ""
+
+msgctxt "1209\tHEIGHT"
+msgid "152 cm (4 feet, 11.8 inches)"
+msgstr ""
+
+msgctxt "1259\tCONSTELLATION"
+msgid "Capricorn"
+msgstr ""
+
+msgctxt "1269\tCONSTELLATION"
+msgid "Aries"
+msgstr ""
+
+msgctxt "1275\tCONSTELLATION"
+msgid "Capricorn"
+msgstr ""
+
+msgctxt "1285\tCONSTELLATION"
+msgid "Taurus"
+msgstr ""
+
+msgctxt "1292\tCONSTELLATION"
+msgid "Virgo"
+msgstr ""
+
+msgctxt "1298\tCONSTELLATION"
+msgid "Aquarius"
+msgstr ""
+
+msgctxt "1307\tCONSTELLATION"
+msgid "Gemini"
+msgstr ""
+
+msgctxt "1314\tCONSTELLATION"
+msgid "Virgo"
+msgstr ""
+
+msgctxt "1320\tCONSTELLATION"
+msgid "Capricorn"
+msgstr ""
+
+msgctxt "1330\tCONSTELLATION"
+msgid "Gemini"
+msgstr ""
+
+msgctxt "1337\tFAVORITE"
+msgid "Rice, shopping"
+msgstr ""
+
+msgctxt "1352\tFAVORITE"
+msgid "Spicy foods, omelette and rice"
+msgstr ""
+
+msgctxt "1383\tFAVORITE"
+msgid "Shaved ice"
+msgstr ""
+
+msgctxt "1394\tFAVORITE"
+msgid "Good smells, yuzu pepper"
+msgstr ""
+
+msgctxt "1419\tFAVORITE"
+msgid "Sushi"
+msgstr ""
+
+msgctxt "1425\tFAVORITE"
+msgid "Chawanmushi"
+msgstr ""
+
+msgctxt "1437\tFAVORITE"
+msgid "Yakiniku, chicken dishes"
+msgstr ""
+
+msgctxt "1462\tFAVORITE"
+msgid "Her tablet"
+msgstr ""
+
+msgctxt "1473\tFAVORITE"
+msgid "Chicken"
+msgstr ""
+
+msgctxt "1481\tFAVORITE"
+msgid "Pork"
+msgstr ""
+
+msgctxt "1486\tHATE"
+msgid "Raw fish, sushi"
+msgstr ""
+
+msgctxt "1502\tHATE"
+msgid "Rakkyo"
+msgstr ""
+
+msgctxt "1509\tHATE"
+msgid "Fish"
+msgstr ""
+
+msgctxt "1514\tHATE"
+msgid "Bad smells"
+msgstr ""
+
+msgctxt "1525\tHATE"
+msgid "Worms, hangovers"
+msgstr ""
+
+msgctxt "1542\tHATE"
+msgid "Mushrooms"
+msgstr ""
+
+msgctxt "1552\tHATE"
+msgid "Bugs"
+msgstr ""
+
+msgctxt "1557\tHATE"
+msgid "Goya"
+msgstr ""
+
+msgctxt "1562\tHATE"
+msgid "Shiitake mushrooms"
+msgstr ""
+
+msgctxt "1581\tHATE"
+msgid "Cucumbers"
+msgstr ""

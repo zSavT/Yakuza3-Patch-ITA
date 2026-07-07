@@ -1,0 +1,48 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "140"
+msgid "Your pack is too full. This will activate when you get another item."
+msgstr ""
+
+msgctxt "152"
+msgid "Throw away: got 1 item"
+msgstr ""
+
+msgctxt "164"
+msgid "Throw away: got a full stack of items"
+msgstr ""
+
+msgctxt "176"
+msgid "Send: got 1 item"
+msgstr ""
+
+msgctxt "188"
+msgid "Send: got a full stack of items"
+msgstr ""
+
+msgctxt "224"
+msgid "Throw away: item acquisition → 1"
+msgstr ""
+
+msgctxt "236"
+msgid "Throw away: item acquisition → full"
+msgstr ""
+
+msgctxt "248"
+msgid "Send: item acquisition → 1"
+msgstr ""
+
+msgctxt "260"
+msgid "Send: item acquisition → full"
+msgstr ""

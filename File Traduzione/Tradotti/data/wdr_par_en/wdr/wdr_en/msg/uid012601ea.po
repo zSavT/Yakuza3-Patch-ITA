@@ -1,0 +1,60 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "100"
+msgid ""
+"Kiryu-san! Oh, I'm so glad you picked up... I could really use your help "
+"right about now!"
+msgstr ""
+
+msgctxt "112"
+msgid "Why, what's going on?"
+msgstr ""
+
+msgctxt "124"
+msgid ""
+"It's the loan sharks I was telling you about... They're at my parents' "
+"house, tearing up the place as we speak..."
+msgstr ""
+
+msgctxt "136"
+msgid "What? Are you there right now?"
+msgstr ""
+
+msgctxt "148"
+msgid "I'm in front of the house, yeah. It's behind Kariyushi Arcade."
+msgstr ""
+
+msgctxt "160"
+msgid "Okay, I'll be right there. And stay safe."
+msgstr ""
+
+msgctxt "1388"
+msgid "P_stand_tlk_phone_st"
+msgstr ""
+
+msgctxt "1392"
+msgid "Nao"
+msgstr ""
+
+msgctxt "1396"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1400"
+msgid "P_stand_tlk_phone_ed"
+msgstr ""
+
+msgctxt "1404"
+msgid "dummy"
+msgstr ""

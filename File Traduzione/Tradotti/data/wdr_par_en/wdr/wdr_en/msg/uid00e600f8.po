@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid "Hey, what's the name of the current prime minister?"
+msgstr ""
+
+msgctxt "76"
+msgid "You idiot! How do you not know? Even grade school kids know that much."
+msgstr ""
+
+msgctxt "88"
+msgid "All right, wise guy. What's his name, then?"
+msgstr ""
+
+msgctxt "100"
+msgid ""
+"Uh... Shoot, I forgot. Man, they just asked this question on a quiz show "
+"the other night, too..."
+msgstr ""
+
+msgctxt "112"
+msgid "And to think you want to be a teacher..."
+msgstr ""
+
+msgctxt "124"
+msgid "Hey, you didn't know either!"
+msgstr ""
+
+msgctxt "1028"
+msgid "Business Major"
+msgstr ""
+
+msgctxt "1032"
+msgid "Education Major"
+msgstr ""
+
+msgctxt "1036"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "1040"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "1044"
+msgid "Talk_Angry"
+msgstr ""

@@ -1,0 +1,64 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "124"
+msgid ""
+"Hey pops, you alone? It ain't safe walkin' down this way on your own, "
+"y'know?"
+msgstr ""
+
+msgctxt "136"
+msgid ""
+"Haven't you heard? There've been some thugs huntin' down old guys walkin' "
+"this way... And you're face to face with 'em!"
+msgstr ""
+
+msgctxt "160"
+msgid "How did you win against all of us...? This doesn't make sense..."
+msgstr ""
+
+msgctxt "172"
+msgid "We've been kinda rude to you, huh? Here. Hope this'll make up for it!"
+msgstr ""
+
+msgctxt "184"
+msgid "You got a fuzzy %s."
+msgstr ""
+
+msgctxt "220"
+msgid "Are you alone? D-Don't go into any dark alleys!"
+msgstr ""
+
+msgctxt "1516"
+msgid "Irate Thug"
+msgstr ""
+
+msgctxt "1520"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "1524"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "1528"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "1532"
+msgid "Sync_Send"
+msgstr ""
+
+msgctxt "1536"
+msgid "Talk_Yes"
+msgstr ""

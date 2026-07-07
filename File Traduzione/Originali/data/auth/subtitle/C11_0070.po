@@ -1,0 +1,328 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "693\t771"
+msgid "You again?"
+msgstr ""
+
+msgctxt "784\t852"
+msgid "Just the guy I wanted to see!"
+msgstr ""
+
+msgctxt "853\t919"
+msgid "Where's Nakahara!?"
+msgstr ""
+
+msgctxt "1295\t1378"
+msgid "Easy, boy. Don't get antsy."
+msgstr ""
+
+msgctxt "1379\t1508"
+msgid "Lemme enjoy this reunion a bit first."
+msgstr ""
+
+msgctxt "1686\t1962"
+msgid ""
+"You know, when Mine told me we'd be meeting again...\\n"
+"I got goosebumps from head to toe."
+msgstr ""
+
+msgctxt "1972\t2032"
+msgid "And Mine?"
+msgstr ""
+
+msgctxt "2033\t2093"
+msgid "Where is he?"
+msgstr ""
+
+msgctxt "2153\t2289"
+msgid "Long gone by now. To Tokyo."
+msgstr ""
+
+msgctxt "2380\t2525"
+msgid ""
+"My only job was wrecking that\\n"
+"shithole of an orphanage you run."
+msgstr ""
+
+msgctxt "2548\t2674"
+msgid "Oh, and keeping you pinned down here."
+msgstr ""
+
+msgctxt "2744\t2899"
+msgid ""
+"If you die here, the Hakuho'll\\n"
+"make me a billionaire."
+msgstr ""
+
+msgctxt "2900\t3108"
+msgid ""
+"And if I wipe out the Ryudo too,\\n"
+"Okinawa'll be mine and mine alone."
+msgstr ""
+
+msgctxt "3109\t3169"
+msgid "Bastard..."
+msgstr ""
+
+msgctxt "3189\t3279"
+msgid "Now, we got all the time in the world."
+msgstr ""
+
+msgctxt "3280\t3388"
+msgid "Let's have a little fun, huh?"
+msgstr ""
+
+msgctxt "3716\t3776"
+msgid "Nakahara!"
+msgstr ""
+
+msgctxt "3802\t3863"
+msgid "Kiryu!"
+msgstr ""
+
+msgctxt "3925\t3988"
+msgid "Pretty picture, ain't it?"
+msgstr ""
+
+msgctxt "3989\t4148"
+msgid "An old bullshitter taking on some old bulls!"
+msgstr ""
+
+msgctxt "4163\t4247"
+msgid "The irony's killing me."
+msgstr ""
+
+msgctxt "4251\t4362"
+msgid "Tamashiro!"
+msgstr ""
+
+msgctxt "4406\t4466"
+msgid "Not so fast!"
+msgstr ""
+
+msgctxt "4494\t4671"
+msgid ""
+"You might not know, but bulls are\\n"
+"real sensitive to the sound of gunfire."
+msgstr ""
+
+msgctxt "4719\t4919"
+msgid ""
+"One little \"pop\" from this thing,\\n"
+"and they'll tear your buddy, Nakahara, to bits."
+msgstr ""
+
+msgctxt "4944\t5025"
+msgid "So whaddya say?"
+msgstr ""
+
+msgctxt "5097\t5195"
+msgid "Let's just forget about Nakahara for now."
+msgstr ""
+
+msgctxt "5206\t5428"
+msgid ""
+"He'll have plenty of playtime with his new pals\\n"
+"once you're out of the picture."
+msgstr ""
+
+msgctxt "5762\t5825"
+msgid "Not happenin'!"
+msgstr ""
+
+msgctxt "5853\t5913"
+msgid "Who's there?"
+msgstr ""
+
+msgctxt "6081\t6201"
+msgid ""
+"Sorry 'bout this, Aniki!\\n"
+"Don't get mad!"
+msgstr ""
+
+msgctxt "6202\t6263"
+msgid "The little lady..."
+msgstr ""
+
+msgctxt "6264\t6358"
+msgid "I caught her sneakin' here all on her own!"
+msgstr ""
+
+msgctxt "6359\t6419"
+msgid "Rikiya!"
+msgstr ""
+
+msgctxt "6437\t6497"
+msgid "Saki!"
+msgstr ""
+
+msgctxt "6583\t6685"
+msgid ""
+"The hell you want,\\n"
+"another bullet in the leg!?"
+msgstr ""
+
+msgctxt "6686\t6804"
+msgid "Tamashiro! The cops are on their way!"
+msgstr ""
+
+msgctxt "6805\t6923"
+msgid ""
+"In ten minutes they'll have every last\\n"
+"corner of this place covered!"
+msgstr ""
+
+msgctxt "6929\t6986"
+msgid "What!?"
+msgstr ""
+
+msgctxt "6987\t7167"
+msgid ""
+"A two-bit thug like you... You'll never\\n"
+"compete with Nakahara or Kiryu-aniki!"
+msgstr ""
+
+msgctxt "7168\t7232"
+msgid "You little shit."
+msgstr ""
+
+msgctxt "7243\t7306"
+msgid "I get it now."
+msgstr ""
+
+msgctxt "7307\t7474"
+msgid ""
+"You must reeeally wanna watch\\n"
+"your beloved patriarch bite the dust."
+msgstr ""
+
+msgctxt "7556\t7639"
+msgid "Fine. If you want it that bad..."
+msgstr ""
+
+msgctxt "7660\t7736"
+msgid "I'd be glad to oblige!"
+msgstr ""
+
+msgctxt "7950\t8125"
+msgid ""
+"Nakahara! It's the end of the line\\n"
+"for you and your chickenshit Ryudo boys!"
+msgstr ""
+
+msgctxt "8293\t8316"
+msgid "Boss!"
+msgstr ""
+
+msgctxt "8317\t8377"
+msgid "Nakahara!"
+msgstr ""
+
+msgctxt "8731\t8804"
+msgid "Dad!"
+msgstr ""
+
+msgctxt "8864\t8924"
+msgid "Saki!"
+msgstr ""
+
+msgctxt "8934\t9041"
+msgid "Dad, look out!"
+msgstr ""
+
+msgctxt "9501\t9539"
+msgid "Boss!"
+msgstr ""
+
+msgctxt "9540\t9582"
+msgid "Nakahara!"
+msgstr ""
+
+msgctxt "9583\t9645"
+msgid "The fuck?"
+msgstr ""
+
+msgctxt "9714\t9868"
+msgid "Tamashiro! I haven't felt this good in years!"
+msgstr ""
+
+msgctxt "9904\t10059"
+msgid ""
+"It's like I'm a kid again,\\n"
+"rulin' this town!"
+msgstr ""
+
+msgctxt "10088\t10154"
+msgid "Kiryu!"
+msgstr ""
+
+msgctxt "10182\t10280"
+msgid "Kiryu... I'll be fine!"
+msgstr ""
+
+msgctxt "10276\t10354"
+msgid "Handle him for me, will ya?"
+msgstr ""
+
+msgctxt "10355\t10415"
+msgid "Got it!"
+msgstr ""
+
+msgctxt "10579\t10630"
+msgid "Rikiya!"
+msgstr ""
+
+msgctxt "10631\t10660"
+msgid "Yeah?"
+msgstr ""
+
+msgctxt "10661\t10746"
+msgid "How long until the cops show up?"
+msgstr ""
+
+msgctxt "10747\t10793"
+msgid "Seven or eight minutes!"
+msgstr ""
+
+msgctxt "10794\t10839"
+msgid "Great."
+msgstr ""
+
+msgctxt "10840\t10974"
+msgid ""
+"That should be just enough time\\n"
+"to take out the trash here."
+msgstr ""
+
+msgctxt "10975\t11035"
+msgid "Right!"
+msgstr ""
+
+msgctxt "11039\t11145"
+msgid ""
+"But only just.\\n"
+"There's no time to waste."
+msgstr ""
+
+msgctxt "11181\t11274"
+msgid "We'll need to make this quick."
+msgstr ""
+
+msgctxt "11314\t11374"
+msgid "Works for me."
+msgstr ""
+
+msgctxt "11394\t11524"
+msgid "Go on, men! Fuck 'em up!"
+msgstr ""

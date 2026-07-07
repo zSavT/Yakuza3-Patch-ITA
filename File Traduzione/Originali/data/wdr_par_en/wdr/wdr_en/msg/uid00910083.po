@@ -1,0 +1,328 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "252"
+msgid ""
+"Oh, Kiryu-san.\r\n"
+"Thank you for all your help."
+msgstr ""
+
+msgctxt "264"
+msgid "Here's the info on the hitman we need you to find."
+msgstr ""
+
+msgctxt "288"
+msgid "Good luck."
+msgstr ""
+
+msgctxt "300"
+msgid ""
+"Kiryu-san, you've been invaluable in helping us capture all the hitmen in "
+"Downtown Ryukyu."
+msgstr ""
+
+msgctxt "312"
+msgid "It's no exaggeration to say we couldn't have done it without you."
+msgstr ""
+
+msgctxt "324"
+msgid ""
+"But... It's gotten a bit crowded in here, huh? Guess we'll have to look for "
+"a new place..."
+msgstr ""
+
+msgctxt "336"
+msgid "Oh, Kiryu-san. Thank you for all your help."
+msgstr ""
+
+msgctxt "348"
+msgid "I'm afraid we don't have any new information on hitmen right now."
+msgstr ""
+
+msgctxt "360"
+msgid "I hear they've got some new leads on another hitman in Kamurocho, though."
+msgstr ""
+
+msgctxt "372"
+msgid ""
+"Do you think you could help out Ibuki-san until we learn something new "
+"about the Reapers in Downtown Ryukyu?"
+msgstr ""
+
+msgctxt "384"
+msgid "If anything new turns up here, we'll call you. Good luck."
+msgstr ""
+
+msgctxt "396"
+msgid "Oh, Kiryu-san. Thank you for all your help."
+msgstr ""
+
+msgctxt "408"
+msgid "This is the hitman we're pursuing right now."
+msgstr ""
+
+msgctxt "444"
+msgid "Thank you, Kiryu-san. We really appreciate your help."
+msgstr ""
+
+msgctxt "456"
+msgid ""
+"The next hitman is Egami. He's a master of hand-to-hand combat and stronger "
+"than any of the barefisted fighters you've faced so far."
+msgstr ""
+
+msgctxt "468"
+msgid "Make sure you're well equipped before you go up against him."
+msgstr ""
+
+msgctxt "480"
+msgid "Good luck!"
+msgstr ""
+
+msgctxt "492"
+msgid ""
+"We're going to need your help again. I'd be grateful if you'd stop by when "
+"you have the time."
+msgstr ""
+
+msgctxt "504"
+msgid "We're counting on you, Kiryu-san."
+msgstr ""
+
+msgctxt "516"
+msgid "Oh, Kiryu-san. Thank you for all your help."
+msgstr ""
+
+msgctxt "528"
+msgid "I'm afraid we don't have any new information on hitmen right now."
+msgstr ""
+
+msgctxt "540"
+msgid "I hear they've got some new leads on another hitman in Kamurocho, though."
+msgstr ""
+
+msgctxt "552"
+msgid ""
+"Do you think you could help out Ibuki-san until we learn something new "
+"about the Reapers in Downtown Ryukyu?"
+msgstr ""
+
+msgctxt "564"
+msgid "If anything new turns up here, we'll call you. Good luck."
+msgstr ""
+
+msgctxt "576"
+msgid "Oh, Kiryu-san. Thank you for all your help."
+msgstr ""
+
+msgctxt "588"
+msgid "This is the hitman we're pursuing right now."
+msgstr ""
+
+msgctxt "624"
+msgid "Thank you, Kiryu-san."
+msgstr ""
+
+msgctxt "636"
+msgid "We really appreciate your help."
+msgstr ""
+
+msgctxt "648"
+msgid ""
+"We're going to need your help again. I'd be grateful if you'd stop by when "
+"you have the time."
+msgstr ""
+
+msgctxt "660"
+msgid "We're counting on you, Kiryu-san."
+msgstr ""
+
+msgctxt "672"
+msgid "Oh, Kiryu-san. Thank you for all your help."
+msgstr ""
+
+msgctxt "684"
+msgid "This is the hitman we're pursuing right now."
+msgstr ""
+
+msgctxt "720"
+msgid "Thank you, Kiryu-san."
+msgstr ""
+
+msgctxt "732"
+msgid "We really appreciate your help."
+msgstr ""
+
+msgctxt "744"
+msgid ""
+"We're going to need your help again. I'd be grateful if you'd stop by when "
+"you have the time."
+msgstr ""
+
+msgctxt "756"
+msgid "We're counting on you, Kiryu-san."
+msgstr ""
+
+msgctxt "768"
+msgid "Oh, Kiryu-san. Thank you for all your help."
+msgstr ""
+
+msgctxt "780"
+msgid "This is the hitman we're pursuing right now."
+msgstr ""
+
+msgctxt "816"
+msgid "Thank you, Kiryu-san."
+msgstr ""
+
+msgctxt "828"
+msgid "We really appreciate your help."
+msgstr ""
+
+msgctxt "840"
+msgid ""
+"We're going to need your help again. I'd be grateful if you'd stop by when "
+"you have the time."
+msgstr ""
+
+msgctxt "852"
+msgid "We're counting on you, Kiryu-san."
+msgstr ""
+
+msgctxt "864"
+msgid "Oh, Kiryu-san. Thank you for all your help."
+msgstr ""
+
+msgctxt "876"
+msgid "This is the hitman we're pursuing right now."
+msgstr ""
+
+msgctxt "912"
+msgid "Thank you, Kiryu-san."
+msgstr ""
+
+msgctxt "924"
+msgid "We really appreciate your help."
+msgstr ""
+
+msgctxt "936"
+msgid ""
+"We're going to need your help again. I'd be grateful if you'd stop by when "
+"you have the time."
+msgstr ""
+
+msgctxt "948"
+msgid "We're counting on you, Kiryu-san."
+msgstr ""
+
+msgctxt "960"
+msgid "Do you have a minute?"
+msgstr ""
+
+msgctxt "972"
+msgid "Sure. How can I help you?"
+msgstr ""
+
+msgctxt "984"
+msgid "My name is Kiryu. I was sent here by Ibuki up in Kamurocho."
+msgstr ""
+
+msgctxt "996"
+msgid "Oh, so you're Kiryu-san! Ibuki-san told me a lot about you."
+msgstr ""
+
+msgctxt "1008"
+msgid "He said you could help us catch the Reapers here."
+msgstr ""
+
+msgctxt "1020"
+msgid "Right. Do you have any info on any of the hitmen yet?"
+msgstr ""
+
+msgctxt "1032"
+msgid ""
+"Yeah, I do. Before that, though, would you like to learn how to accept a "
+"request?"
+msgstr ""
+
+msgctxt "1044"
+msgid ""
+"You can accept a request for a hitman mission from the HLA in Downtown "
+"Ryukyu in the same way you would from the HLA in Kamurocho."
+msgstr ""
+
+msgctxt "1056"
+msgid ""
+"If you select \"View Requests\" when talking to the Okinawa HLA member, a "
+"list of the requests you can accept at that time will be displayed.\r\n"
+"\r\n"
+"When you turn over a hitman to the HLA in Downtown Ryukyu, you can take on "
+"a new mission immediately if they have any new hitman intel."
+msgstr ""
+
+msgctxt "1068"
+msgid ""
+"You can only accept one request for a hitman mission at a time from each of "
+"the Kamurocho and Downtown Ryukyu HLA offices.\r\n"
+"Once you have accepted a request, you cannot cancel it."
+msgstr ""
+
+msgctxt "1080"
+msgid ""
+"Items on the list marked \"Done\" indicate missions that have already been "
+"completed. You can view the mission currently underway as well as "
+"previously completed missions by selecting \"Substories\" from the Pause "
+"Menu."
+msgstr ""
+
+msgctxt "1092"
+msgid "This is the hitman we're pursuing right now."
+msgstr ""
+
+msgctxt "1128"
+msgid "Thank you, Kiryu-san."
+msgstr ""
+
+msgctxt "1140"
+msgid "We really appreciate your help."
+msgstr ""
+
+msgctxt "1152"
+msgid ""
+"We're going to need your help again. I'd be grateful if you'd stop by when "
+"you have the time."
+msgstr ""
+
+msgctxt "1164"
+msgid "I'll be here if you need me. By the way, how do you play shogi?"
+msgstr ""
+
+msgctxt "1176"
+msgid "Sure, I'll check it out."
+msgstr ""
+
+msgctxt "1188"
+msgid "That won't be necessary."
+msgstr ""
+
+msgctxt "10720"
+msgid "Okinawa HLA Member"
+msgstr ""
+
+msgctxt "10724"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "10728"
+msgid "Requests in Downtown Ryukyu"
+msgstr ""

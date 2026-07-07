@@ -1,0 +1,202 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "80"
+msgid ""
+"(So that was Mikio's father... Let's see what his son has\r\n"
+"to say.)"
+msgstr ""
+
+msgctxt "104"
+msgid "Nakahara, you have a visitor."
+msgstr ""
+
+msgctxt "116"
+msgid "Pardon the intrusion."
+msgstr ""
+
+msgctxt "128"
+msgid "Pops!?"
+msgstr ""
+
+msgctxt "140"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "152"
+msgid "Why, if it isn't Mikio's father!"
+msgstr ""
+
+msgctxt "164"
+msgid "It's been quite a while, hasn't it..."
+msgstr ""
+
+msgctxt "176"
+msgid "......"
+msgstr ""
+
+msgctxt "188"
+msgid "Well, no need to talk out here. Why don't you come inside?"
+msgstr ""
+
+msgctxt "248"
+msgid "So, Aragaki-san, what brings you here?"
+msgstr ""
+
+msgctxt "260"
+msgid ""
+"I heard you were shot recently. I'll add that to my reasons\r\n"
+"I'd like you to let Mikio return to an honest life."
+msgstr ""
+
+msgctxt "272"
+msgid ""
+"I've got a job waiting for him at my brother's factory\r\n"
+"in Nagasaki."
+msgstr ""
+
+msgctxt "284"
+msgid "......"
+msgstr ""
+
+msgctxt "296"
+msgid ""
+"No one will know he was a yakuza up there. He'll be able to\r\n"
+"get a fresh start."
+msgstr ""
+
+msgctxt "308"
+msgid ""
+"What's the big idea, Pops!? You think you can just decide\r\n"
+"everything for me!? I'm stayin' here with the Ryudo Family!"
+msgstr ""
+
+msgctxt "320"
+msgid ""
+"You'll never survive in this kind of world without it taking\r\n"
+"everything from you, Mikio."
+msgstr ""
+
+msgctxt "332"
+msgid ""
+"Take it from this man, who was shot with an actual gun. This\r\n"
+"isn't some television drama, you know!"
+msgstr ""
+
+msgctxt "344"
+msgid "Tch..."
+msgstr ""
+
+msgctxt "356"
+msgid ""
+"I'll come by again. Make sure you've gathered up your\r\n"
+"things by then."
+msgstr ""
+
+msgctxt "392"
+msgid ""
+"Urgh, he's always been like this! Everything's always gotta\r\n"
+"be exactly his way⑬doesn't matter what I want! And now\r\n"
+"he wants to drag me to Nagasaki!? Get real, Pops!"
+msgstr ""
+
+msgctxt "428"
+msgid "Mikio..."
+msgstr ""
+
+msgctxt "440"
+msgid ""
+"His family's quite famous around here, y'know. They've been\r\n"
+"running a traditional restaurant by the station for years."
+msgstr ""
+
+msgctxt "452"
+msgid ""
+"However, Mikio's always had a tough time with his father.\r\n"
+"The reason he ran away was to get out from under his roof..."
+msgstr ""
+
+msgctxt "464"
+msgid ""
+"He told me he had nowhere else to go, so I decided to\r\n"
+"take him in."
+msgstr ""
+
+msgctxt "476"
+msgid "Is that right..."
+msgstr ""
+
+msgctxt "488"
+msgid ""
+"That said, yakuza never live easy. Not just any kid\r\n"
+"off the street can make the cut."
+msgstr ""
+
+msgctxt "500"
+msgid ""
+"Mikio's still young, and I know his father's only looking\r\n"
+"out for him. If Mikio's ever going to get out of this life,\r\n"
+"now might be his best chance."
+msgstr ""
+
+msgctxt "512"
+msgid "......"
+msgstr ""
+
+msgctxt "6632"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "6636"
+msgid "Aragaki"
+msgstr ""
+
+msgctxt "6640"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "6644"
+msgid "Mikio"
+msgstr ""
+
+msgctxt "6648"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "6652"
+msgid "Nakahara"
+msgstr ""
+
+msgctxt "6656"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "6660"
+msgid "P_sitgrd_tlk_agura_kamae"
+msgstr ""
+
+msgctxt "6664"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "6668"
+msgid "p_stand_nml"
+msgstr ""
+
+msgctxt "6672"
+msgid "dummy"
+msgstr ""
+
+msgctxt "6676"
+msgid "0"
+msgstr ""

@@ -1,0 +1,242 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "53\t277"
+msgid ""
+"A man at the Metropolitan Police HQ was\\n"
+"preparing to find a missing link..."
+msgstr ""
+
+msgctxt "354\t600"
+msgid ""
+"The link between the internal war of the Omi\\n"
+"Alliance and the explosion at Kamurocho."
+msgstr ""
+
+msgctxt "601\t726"
+msgid ""
+"Time sure does fly.\\n"
+"I can't believe it's been 20 years..."
+msgstr ""
+
+msgctxt "930\t1155"
+msgid ""
+"He was nicknamed \"Killer Kawara\" for\\n"
+"excessive gunfire use during investigations."
+msgstr ""
+
+msgctxt "1170\t1310"
+msgid "Age had only made his wits sharper."
+msgstr ""
+
+msgctxt "1332\t1565"
+msgid ""
+"He called his former partner, Date, to\\n"
+"help him investigate an underground gang."
+msgstr ""
+
+msgctxt "1623\t1717"
+msgid "Their target?"
+msgstr ""
+
+msgctxt "1805\t1937"
+msgid "Kazuki, the owner of the host bar, Stardust."
+msgstr ""
+
+msgctxt "2039\t2274"
+msgid "At the time, I was with Kaoru in Osaka."
+msgstr ""
+
+msgctxt "2324\t2656"
+msgid ""
+"She kept me in custody and had me\\n"
+"contact members of the Omi Alliance."
+msgstr ""
+
+msgctxt "2672\t2849"
+msgid ""
+"She wanted information about the\\n"
+"power struggle within the organization."
+msgstr ""
+
+msgctxt "2887\t3106"
+msgid ""
+"But I discovered she had an ulterior\\n"
+"motive for approaching me."
+msgstr ""
+
+msgctxt "3107\t3249"
+msgid ""
+"How many times do I gotta tell you?!\\n"
+"Your birth parents weren't yakuza!"
+msgstr ""
+
+msgctxt "3250\t3370"
+msgid "Then tell me. Who were my real parents?"
+msgstr ""
+
+msgctxt "3480\t3635"
+msgid ""
+"Enough with this topic.\\n"
+"I'm goin' after Kazuma Kiryu."
+msgstr ""
+
+msgctxt "3636\t3660"
+msgid "But why?"
+msgstr ""
+
+msgctxt "3685\t3780"
+msgid "Because he's from the Tojo Clan."
+msgstr ""
+
+msgctxt "3800\t3840"
+msgid "The Tojo Clan?!"
+msgstr ""
+
+msgctxt "3841\t3987"
+msgid ""
+"I can get close to the Tojo Clan by\\n"
+"puttin' him under protective custody."
+msgstr ""
+
+msgctxt "3988\t4106"
+msgid ""
+"Then maybe I can finally find out what\\n"
+"happened."
+msgstr ""
+
+msgctxt "4208\t4291"
+msgid "Her true goal..."
+msgstr ""
+
+msgctxt "4303\t4464"
+msgid "...was to answer questions about her past."
+msgstr ""
+
+msgctxt "4505\t4594"
+msgid "Who were her birth parents?"
+msgstr ""
+
+msgctxt "4605\t4750"
+msgid "And why did she have to lose them?"
+msgstr ""
+
+msgctxt "4820\t5114"
+msgid ""
+"She thought the Tojo Clan was involved.\\n"
+"And she was using me to find the truth."
+msgstr ""
+
+msgctxt "5200\t5300"
+msgid "I can understand how you feel."
+msgstr ""
+
+msgctxt "5330\t5350"
+msgid "Hm?"
+msgstr ""
+
+msgctxt "5410\t5520"
+msgid "I had a secret in my past, too."
+msgstr ""
+
+msgctxt "5545\t5585"
+msgid "A secret?"
+msgstr ""
+
+msgctxt "5630\t5910"
+msgid ""
+"Yes. And it nearly killed me when I found\\n"
+"out. In a way, I wish I never had."
+msgstr ""
+
+msgctxt "5930\t6090"
+msgid ""
+"There are some things we're better off\\n"
+"not knowing."
+msgstr ""
+
+msgctxt "6160\t6260"
+msgid "You can say that now because you know."
+msgstr ""
+
+msgctxt "6330\t6385"
+msgid "I suppose you're right."
+msgstr ""
+
+msgctxt "6526\t6601"
+msgid "I knew the pain of losing your parents."
+msgstr ""
+
+msgctxt "6636\t6728"
+msgid "And of growing up an orphan."
+msgstr ""
+
+msgctxt "6756\t6996"
+msgid "Maybe that was why I couldn't leave her."
+msgstr ""
+
+msgctxt "7028\t7130"
+msgid "I'm scared to find out about my past."
+msgstr ""
+
+msgctxt "7150\t7386"
+msgid "But it's okay. This is the path I chose."
+msgstr ""
+
+msgctxt "7310\t7430"
+msgid "I see. Then go ahead and use me."
+msgstr ""
+
+msgctxt "7480\t7600"
+msgid ""
+"Stick with me and we'll find out about\\n"
+"the Tojo Clan together."
+msgstr ""
+
+msgctxt "7660\t7740"
+msgid ""
+"But what if you were involved in what\\n"
+"happened?"
+msgstr ""
+
+msgctxt "7790\t7935"
+msgid ""
+"Then just point your gun at me and\\n"
+"pull the trigger."
+msgstr ""
+
+msgctxt "8030\t8135"
+msgid ""
+"You don't plan to forgive whoever did it,\\n"
+"do you?"
+msgstr ""
+
+msgctxt "8270\t8365"
+msgid "No... I guess I don't."
+msgstr ""
+
+msgctxt "8471\t8633"
+msgid "So there we were, a detective and a yakuza..."
+msgstr ""
+
+msgctxt "8634\t8787"
+msgid ""
+"...working together to accomplish\\n"
+"each other's goals."
+msgstr ""
+
+msgctxt "8842\t9061"
+msgid ""
+"We pressed forward, knowing that the\\n"
+"road would lead to nothing but sadness."
+msgstr ""

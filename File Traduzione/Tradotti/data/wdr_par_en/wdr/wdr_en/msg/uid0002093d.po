@@ -1,0 +1,267 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid "Welcome. What can I get for you?"
+msgstr ""
+
+msgctxt "76"
+msgid ""
+"Oh, no, I don't need anything. I'm here to talk to you about\r\n"
+"your son."
+msgstr ""
+
+msgctxt "88"
+msgid "My son? You know my son, Tsutomu?"
+msgstr ""
+
+msgctxt "100"
+msgid ""
+"Yeah, I do. Truth is, something crazy happened to him in\r\n"
+"Tokyo."
+msgstr ""
+
+msgctxt "112"
+msgid "Something crazy!? Is Tsutomu alright!? What happened!?"
+msgstr ""
+
+msgctxt "124"
+msgid "He's fine. Some people would think this is good news, actually."
+msgstr ""
+
+msgctxt "184"
+msgid "...He won the Shonen Five grand prize?"
+msgstr ""
+
+msgctxt "196"
+msgid ""
+"I know you might not think it's a great accomplishment,\r\n"
+"but in the manga world, this is a really big deal."
+msgstr ""
+
+msgctxt "208"
+msgid "......"
+msgstr ""
+
+msgctxt "220"
+msgid "I don't know that much about manga, but I do know this."
+msgstr ""
+
+msgctxt "232"
+msgid ""
+"There are hundreds of thousands of people aspiring to become\r\n"
+"professional manga artists. It's incredible that your son and\r\n"
+"his manga were chosen, out of the many hopefuls."
+msgstr ""
+
+msgctxt "244"
+msgid ""
+"Hell, even the kids I'm looking after read Shonen Five.\r\n"
+"One of them wanted to read it so badly, he asked me to pick\r\n"
+"up his copy while I was in Tokyo so he could read it early."
+msgstr ""
+
+msgctxt "256"
+msgid "......"
+msgstr ""
+
+msgctxt "268"
+msgid ""
+"Despite that, your son is trying to throw away his dream\r\n"
+"of becoming a manga artist because of what you might think."
+msgstr ""
+
+msgctxt "280"
+msgid ""
+"There's nothing wrong with wanting to be a doctor, but his\r\n"
+"dream of becoming a manga artist is just as good."
+msgstr ""
+
+msgctxt "292"
+msgid "...It's my fault. I put so much pressure on him."
+msgstr ""
+
+msgctxt "304"
+msgid "You wanted him to be a doctor, right?"
+msgstr ""
+
+msgctxt "316"
+msgid ""
+"That's right. For generations, every member of our family\r\n"
+"has followed a career in medicine, whether that meant\r\n"
+"being pharmacists, nurses, or medical researchers."
+msgstr ""
+
+msgctxt "328"
+msgid "Despite that... not one of us has ever become a doctor."
+msgstr ""
+
+msgctxt "340"
+msgid ""
+"So that's why you were hoping your son would become\r\n"
+"a doctor."
+msgstr ""
+
+msgctxt "352"
+msgid "Tsutomu had the grades and the potential to become a doctor."
+msgstr ""
+
+msgctxt "364"
+msgid ""
+"I made sure he wasn't distracted by anything silly when he\r\n"
+"was young. He needed to focus on his studies, after all."
+msgstr ""
+
+msgctxt "376"
+msgid "And manga was one of those silly things?"
+msgstr ""
+
+msgctxt "388"
+msgid ""
+"That's right. Tsutomu always loved to read manga. Truth\r\n"
+"be told, I bought him lots of manga when he was a child."
+msgstr ""
+
+msgctxt "400"
+msgid ""
+"But as soon as he started junior high, I made him throw away\r\n"
+"his entire collection. He had hundreds of manga volumes."
+msgstr ""
+
+msgctxt "412"
+msgid "And you made him throw every last one in the garbage?"
+msgstr ""
+
+msgctxt "424"
+msgid ""
+"Not the garbage... I made him throw them into the Kubochi\r\n"
+"River."
+msgstr ""
+
+msgctxt "436"
+msgid ""
+"I thought that doing so would make him hate manga and focus\r\n"
+"more on his studies."
+msgstr ""
+
+msgctxt "448"
+msgid "No surprise he's reacting the way he is now..."
+msgstr ""
+
+msgctxt "460"
+msgid ""
+"If Tsutomu really is going to throw away this amazing\r\n"
+"opportunity... then it's all my fault."
+msgstr ""
+
+msgctxt "472"
+msgid "I can see where you're coming from."
+msgstr ""
+
+msgctxt "484"
+msgid ""
+"Any father would want their son to fulfill the dreams\r\n"
+"he couldn't fulfill himself."
+msgstr ""
+
+msgctxt "496"
+msgid "It's not like that! My lifelong dream was... It was..."
+msgstr ""
+
+msgctxt "508"
+msgid "Huh? You okay? What was your dream?"
+msgstr ""
+
+msgctxt "520"
+msgid "It's nothing. My dream doesn't matter."
+msgstr ""
+
+msgctxt "532"
+msgid ""
+"If Tsutomu wants to follow his dream of becoming a manga artist\r\n"
+"then I don't want him to give it up for nothing..."
+msgstr ""
+
+msgctxt "544"
+msgid "If he's got a dream... I want him to chase after it."
+msgstr ""
+
+msgctxt "556"
+msgid "...You might be able to make it in time."
+msgstr ""
+
+msgctxt "568"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "580"
+msgid ""
+"I think he's here in Okinawa. Someone saw a guy carrying\r\n"
+"that huge backpack of his."
+msgstr ""
+
+msgctxt "592"
+msgid "A backpack?"
+msgstr ""
+
+msgctxt "604"
+msgid "I thought of something while we were talking."
+msgstr ""
+
+msgctxt "616"
+msgid ""
+"I think he's going to use the same method you made him use when he had to "
+"throw away all his manga: he's going to toss his dreams in the river."
+msgstr ""
+
+msgctxt "628"
+msgid "No... in the Kubochi River?"
+msgstr ""
+
+msgctxt "640"
+msgid "More than likely."
+msgstr ""
+
+msgctxt "652"
+msgid ""
+"What am I standing around here for, then!? I've got to find\r\n"
+"Tsutomu!"
+msgstr ""
+
+msgctxt "9416"
+msgid "Hirano's Father"
+msgstr ""
+
+msgctxt "9420"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "9424"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "9428"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "9432"
+msgid "M_nml_stand"
+msgstr ""
+
+msgctxt "9436"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "9440"
+msgid "Idle"
+msgstr ""

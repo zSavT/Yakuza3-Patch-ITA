@@ -1,0 +1,98 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "248"
+msgid "Don't Order Anything"
+msgstr ""
+
+msgctxt "269"
+msgid "Check Out"
+msgstr ""
+
+msgctxt "279"
+msgid "Order"
+msgstr ""
+
+msgctxt "285"
+msgid "(I'm short on cash.)"
+msgstr ""
+
+msgctxt "306"
+msgid "(I can't carry any more stuff.)"
+msgstr ""
+
+msgctxt "338"
+msgid "(I can't handle any more turtles.)"
+msgstr ""
+
+msgctxt "373"
+msgid "(I didn't choose anything.)"
+msgstr ""
+
+msgctxt "401"
+msgid "(They're sold out.)"
+msgstr ""
+
+msgctxt "421"
+msgid "Will that be all for you?"
+msgstr ""
+
+msgctxt "447"
+msgid "The king of champagnes. Sure to turn heads."
+msgstr ""
+
+msgctxt "491"
+msgid "Classy champagne for a classy man."
+msgstr ""
+
+msgctxt "526"
+msgid ""
+"A slightly more premium champagne for the\n"
+"discerning customer."
+msgstr ""
+
+msgctxt "589"
+msgid ""
+"A middle-of-the-road champagne. Not bad, but\n"
+"nothing too special."
+msgstr ""
+
+msgctxt "655"
+msgid ""
+"A Yamazaki whisky made with carefully-selected,\n"
+"mature malts for a flavorful, smooth finish."
+msgstr ""
+
+msgctxt "748"
+msgid "Perilla leaf shochu made in Asahikawa, Hokkaido."
+msgstr ""
+
+msgctxt "797"
+msgid "A simple draft beer with a nice head of foam."
+msgstr ""
+
+msgctxt "843"
+msgid ""
+"This is a cocktail of crème de cassis liqueur and \n"
+"orange juice."
+msgstr ""
+
+msgctxt "909"
+msgid "Plain old orange juice, pulp and all."
+msgstr ""
+
+msgctxt "947"
+msgid ""
+"A clean spring-water soju made with premier Korean\n"
+"barley."
+msgstr ""

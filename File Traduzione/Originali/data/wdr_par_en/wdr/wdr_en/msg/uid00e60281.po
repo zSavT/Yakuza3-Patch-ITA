@@ -1,0 +1,323 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "184"
+msgid "(So this is Stacy's room... What a lady.)"
+msgstr ""
+
+msgctxt "196"
+msgid "Ahaha!"
+msgstr ""
+
+msgctxt "208"
+msgid "(...Hm?)"
+msgstr ""
+
+msgctxt "220"
+msgid ""
+"Oh, but before you get down and dirty, there's something\r\n"
+"I'd like to discuss with you."
+msgstr ""
+
+msgctxt "232"
+msgid "What the...? What are you doing here!?"
+msgstr ""
+
+msgctxt "244"
+msgid ""
+"Allow me to introduce a special \"instructor's course,\" only\r\n"
+"available to valued customers who've purchased all the\r\n"
+"handbooks, such as yourself."
+msgstr ""
+
+msgctxt "256"
+msgid ""
+"Once you've registered for the instructor's course, you'll\r\n"
+"be qualified for a 15％ profit margin on every handbook you\r\n"
+"sell. Sounding good already? But wait, there's more!"
+msgstr ""
+
+msgctxt "268"
+msgid ""
+"You'll also receive 5％ of tuition fees from any and all\r\n"
+"instructors that sign up for the program through you...\r\n"
+"You'll be rolling in cash before you know it!"
+msgstr ""
+
+msgctxt "280"
+msgid ""
+"The instructor's course is totally a great deal, Kiryu-san.\r\n"
+"Let's become English teachers together!"
+msgstr ""
+
+msgctxt "292"
+msgid "Wait... Your Japanese isn't broken at all! You're fluent!"
+msgstr ""
+
+msgctxt "304"
+msgid ""
+"Well, duh! And besides, if you sign up for the instructor's\r\n"
+"course... I can instruct you on a more \"intimate\" level."
+msgstr ""
+
+msgctxt "316"
+msgid ""
+"If you register now, I'll mark off some of the additional\r\n"
+"fees and bump it down to 250,000 yen. Not a bad deal, right?"
+msgstr ""
+
+msgctxt "328"
+msgid ""
+"There's no way I'd pay that much. You're clearly running a\r\n"
+"scam."
+msgstr ""
+
+msgctxt "340"
+msgid "Oh, is that so. How unfortunate... You leave me no choice."
+msgstr ""
+
+msgctxt "352"
+msgid "All right, you guys! You're up!"
+msgstr ""
+
+msgctxt "388"
+msgid "Ｒｉｇｈｔ　ａｗａｙ，　ｍａ'ａｍ．"
+msgstr ""
+
+msgctxt "400"
+msgid "Ｅｎｄ　ｏｆ　ｔｈｅ　ｌｉｎｅ，　Ｋｉｒｙｕ！"
+msgstr ""
+
+msgctxt "436"
+msgid "250,000 yen... I guess I could part with that."
+msgstr ""
+
+msgctxt "448"
+msgid ""
+"You've made the right choice. Now then... Here's your\r\n"
+"Instructor's Handbook."
+msgstr ""
+
+msgctxt "460"
+msgid "You paid <Color:8>250,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "472"
+msgid "You got an <Color:8>English Teacher's Textbook<Color:Default>."
+msgstr ""
+
+msgctxt "496"
+msgid ""
+"Kiryu-san, instructor registration is at the end of next\r\n"
+"month. Once you finish that, we can send the Promoter's\r\n"
+"Handbook to your address so you can start making that money!"
+msgstr ""
+
+msgctxt "508"
+msgid ""
+"Oh, and Promoter's Handbooks are 50,000 yen each. Let me\r\n"
+"know when you want one, okay?"
+msgstr ""
+
+msgctxt "520"
+msgid "...What?"
+msgstr ""
+
+msgctxt "532"
+msgid ""
+"Bye, Kiryu-san! Oh, but before I go... You can have this.\r\n"
+"This is the stuff that'll really get you in the mood!"
+msgstr ""
+
+msgctxt "556"
+msgid "You got a <Color:8>Tauriner<Color:Default>."
+msgstr ""
+
+msgctxt "580"
+msgid "......"
+msgstr ""
+
+msgctxt "604"
+msgid "You got 5,000 EXP."
+msgstr ""
+
+msgctxt "628"
+msgid "Hmm... I don't think I have that much."
+msgstr ""
+
+msgctxt "640"
+msgid ""
+"Oh, that's too bad. Well, I'll be waiting in front of the\r\n"
+"train station, so come find me when you have more money."
+msgstr ""
+
+msgctxt "664"
+msgid ""
+"I assume you're here to sign up for the instructor's course?\r\n"
+"That'll be 250,000 yen, please."
+msgstr ""
+
+msgctxt "676"
+msgid "Oh, and cash only, by the way. No checks or card."
+msgstr ""
+
+msgctxt "688"
+msgid ""
+"There's no way I'd pay that much. You're clearly running a\r\n"
+"scam."
+msgstr ""
+
+msgctxt "700"
+msgid "Oh, is that so. How unfortunate... You leave me no choice."
+msgstr ""
+
+msgctxt "712"
+msgid "All right, you guys! You're up!"
+msgstr ""
+
+msgctxt "748"
+msgid "Ｒｉｇｈｔ　ａｗａｙ，　ｍａ'ａｍ．"
+msgstr ""
+
+msgctxt "760"
+msgid "Ｅｎｄ　ｏｆ　ｔｈｅ　ｌｉｎｅ，　Ｋｉｒｙｕ！"
+msgstr ""
+
+msgctxt "784"
+msgid "250,000 yen... I guess I could part with that."
+msgstr ""
+
+msgctxt "796"
+msgid ""
+"You've made the right choice. Now then... Here's your\r\n"
+"Instructor's Handbook."
+msgstr ""
+
+msgctxt "808"
+msgid "You paid <Color:8>250,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "820"
+msgid "You got <Color:8>English Teacher's Textbook<Color:Default>."
+msgstr ""
+
+msgctxt "844"
+msgid ""
+"Kiryu-san, instructor registration is at the end of next\r\n"
+"month. Once you finish that, we can send the Promoter's\r\n"
+"Handbook to your address so you can start making that money!"
+msgstr ""
+
+msgctxt "856"
+msgid ""
+"Promoter's handbooks are 50,000 yen each.\r\n"
+"Let me know if you want one, okay?"
+msgstr ""
+
+msgctxt "868"
+msgid "...What?"
+msgstr ""
+
+msgctxt "880"
+msgid ""
+"Bye, Kiryu-san! Oh, but before I go... You can have this.\r\n"
+"This is the stuff that'll really get you in the mood!"
+msgstr ""
+
+msgctxt "904"
+msgid "You got a <Color:8>Tauriner<Color:Default>."
+msgstr ""
+
+msgctxt "928"
+msgid "......"
+msgstr ""
+
+msgctxt "952"
+msgid "You got 5,000 EXP."
+msgstr ""
+
+msgctxt "988"
+msgid "Cough Up the 250,000"
+msgstr ""
+
+msgctxt "1000"
+msgid "Don't Pay"
+msgstr ""
+
+msgctxt "1012"
+msgid "Cough Up the 250,000"
+msgstr ""
+
+msgctxt "1024"
+msgid "Don't Pay"
+msgstr ""
+
+msgctxt "10804"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "10808"
+msgid "Stacy"
+msgstr ""
+
+msgctxt "10812"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "10816"
+msgid "P_stand_tlk_kyoro_ed"
+msgstr ""
+
+msgctxt "10820"
+msgid "English School Promoter"
+msgstr ""
+
+msgctxt "10824"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "10828"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "10832"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "10836"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "10840"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "10844"
+msgid "Mike"
+msgstr ""
+
+msgctxt "10848"
+msgid "Cage"
+msgstr ""
+
+msgctxt "10852"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "10856"
+msgid "Sync_Send"
+msgstr ""
+
+msgctxt "10860"
+msgid "Talk_Surp"
+msgstr ""

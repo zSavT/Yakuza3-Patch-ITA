@@ -1,0 +1,182 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid "Mommy!? You... *sniffle* You really came to find me!?"
+msgstr ""
+
+msgctxt "76"
+msgid "Of course I did! But Masa-kun... How did you get here all by yourself?"
+msgstr ""
+
+msgctxt "88"
+msgid ""
+"It was easy. I had the red balloon, so I knew you'd come to get me, just "
+"like you promised!"
+msgstr ""
+
+msgctxt "100"
+msgid "What is he talking about?"
+msgstr ""
+
+msgctxt "112"
+msgid ""
+"Well, my husband and I went through a divorce last year, and\r\n"
+"my ex was given custody of our son, Masa-kun."
+msgstr ""
+
+msgctxt "124"
+msgid ""
+"As a condition of the divorce... I was never allowed to see\r\n"
+"my son again."
+msgstr ""
+
+msgctxt "136"
+msgid "Mommy... I'm so happy to see you..."
+msgstr ""
+
+msgctxt "148"
+msgid ""
+"Whenever we went into town, I always used to give him a\r\n"
+"red balloon so I could find him if he ever got lost."
+msgstr ""
+
+msgctxt "160"
+msgid ""
+"I told him that as long as he held onto it, he'd never be far away from me. "
+"That he could always see me again, no matter how scary things got."
+msgstr ""
+
+msgctxt "172"
+msgid "So that's what this is about..."
+msgstr ""
+
+msgctxt "184"
+msgid ""
+"Oh, I missed you so much, sweetheart... This is all Mommy's\r\n"
+"fault."
+msgstr ""
+
+msgctxt "196"
+msgid "Mommy, are you... crying?"
+msgstr ""
+
+msgctxt "208"
+msgid "Well, these are happy tears, sweetie."
+msgstr ""
+
+msgctxt "220"
+msgid "......"
+msgstr ""
+
+msgctxt "232"
+msgid ""
+"At the same time, you're not legally allowed to see him.\r\n"
+"So let's just say you two met up by chance today and leave it at that."
+msgstr ""
+
+msgctxt "244"
+msgid ""
+"After all, you can't let a child go home alone in a city\r\n"
+"like this. How about you take him most of the way?"
+msgstr ""
+
+msgctxt "256"
+msgid "Oh..."
+msgstr ""
+
+msgctxt "268"
+msgid "I doubt there'd be a problem with that."
+msgstr ""
+
+msgctxt "280"
+msgid "Yes, you're right. Thank you so much, sir."
+msgstr ""
+
+msgctxt "292"
+msgid ""
+"Oh, and here's something for all you've done. I'm sorry it's\r\n"
+"not in the best of shape, but I hope you can find it useful."
+msgstr ""
+
+msgctxt "304"
+msgid "You got a <Color:8>Caviar Skin Bag<Color:Default>."
+msgstr ""
+
+msgctxt "328"
+msgid "Well, so long..."
+msgstr ""
+
+msgctxt "340"
+msgid "Bye, mister. Thanks for finding my mommy!"
+msgstr ""
+
+msgctxt "412"
+msgid "You got 8,000 EXP."
+msgstr ""
+
+msgctxt "5584"
+msgid "Lost Boy"
+msgstr ""
+
+msgctxt "5588"
+msgid "Talk_Cry"
+msgstr ""
+
+msgctxt "5592"
+msgid "Boy's Mother"
+msgstr ""
+
+msgctxt "5596"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "5600"
+msgid "kaiwabgm_sadness"
+msgstr ""
+
+msgctxt "5604"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "5608"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "5612"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "5616"
+msgid "Talk_Kosite_st"
+msgstr ""
+
+msgctxt "5620"
+msgid "Talk_Kosite_ed"
+msgstr ""
+
+msgctxt "5624"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "5628"
+msgid "Talk_Send"
+msgstr ""
+
+msgctxt "5632"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "5636"
+msgid "dummy"
+msgstr ""

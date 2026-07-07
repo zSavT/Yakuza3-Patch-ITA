@@ -1,0 +1,586 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "236"
+msgid "No way..."
+msgstr ""
+
+msgctxt "248"
+msgid "That means..."
+msgstr ""
+
+msgctxt "284"
+msgid "Yes... You people are..."
+msgstr ""
+
+msgctxt "308"
+msgid "You're... Natsume, right?"
+msgstr ""
+
+msgctxt "320"
+msgid "Good. You remembered me."
+msgstr ""
+
+msgctxt "332"
+msgid ""
+"I didn't expect you to mature this much during my little\r\n"
+"tropical excursion."
+msgstr ""
+
+msgctxt "344"
+msgid "......"
+msgstr ""
+
+msgctxt "356"
+msgid ""
+"Still, I have my pride as top hostess to defend. Soooo...\r\n"
+"We're gonna have a contest!"
+msgstr ""
+
+msgctxt "368"
+msgid "A contest? How's that supposed to work?"
+msgstr ""
+
+msgctxt "380"
+msgid ""
+"It's simple. You just need to train someone to be the best\r\n"
+"there is. I'm talking about a number one hostess here."
+msgstr ""
+
+msgctxt "392"
+msgid "......"
+msgstr ""
+
+msgctxt "404"
+msgid ""
+"Fashionable from head to toe, rigorously trained, motivated\r\n"
+"out the wazoo, yet calm and composed... Those are just the\r\n"
+"minimum requirements to compete with a girl like me."
+msgstr ""
+
+msgctxt "416"
+msgid "......"
+msgstr ""
+
+msgctxt "428"
+msgid "Got all that down? Then let the battle begin!"
+msgstr ""
+
+msgctxt "488"
+msgid ""
+"Coordinate your hostess's appearance and train her to the\r\n"
+"limit to make her a cabaret superstar. Let nothing hold her\r\n"
+"back from being number one!"
+msgstr ""
+
+msgctxt "500"
+msgid "All right, then. Let's aim for the top!"
+msgstr ""
+
+msgctxt "536"
+msgid "You said your name was %s? You're actually not half bad."
+msgstr ""
+
+msgctxt "548"
+msgid "Thank you very much."
+msgstr ""
+
+msgctxt "560"
+msgid ""
+"I'm sure you can become a top-ranking hostess at the rate\r\n"
+"you're going. Good luck!"
+msgstr ""
+
+msgctxt "632"
+msgid "Not bad at all, people."
+msgstr ""
+
+msgctxt "656"
+msgid "And you are...?"
+msgstr ""
+
+msgctxt "668"
+msgid "I'm Aiko."
+msgstr ""
+
+msgctxt "680"
+msgid "Nice to meet you."
+msgstr ""
+
+msgctxt "692"
+msgid "Uh-huh. You know what our goal is, don't you?"
+msgstr ""
+
+msgctxt "704"
+msgid "That would be... to please the customers, right?"
+msgstr ""
+
+msgctxt "716"
+msgid "That's just a means to an end."
+msgstr ""
+
+msgctxt "728"
+msgid ""
+"In the end, a hostess's value depends entirely on the money\r\n"
+"she brings in. That's just the way it is."
+msgstr ""
+
+msgctxt "740"
+msgid "......"
+msgstr ""
+
+msgctxt "752"
+msgid ""
+"If you were a club hostess, you'd need to make 100,000 yen\r\n"
+"for every three guests you entertain. Minimum."
+msgstr ""
+
+msgctxt "764"
+msgid "Don't you think that's asking a bit much?"
+msgstr ""
+
+msgctxt "776"
+msgid ""
+"Not really. A girl who can't even manage that can never hope\r\n"
+"to make it to the top."
+msgstr ""
+
+msgctxt "788"
+msgid "Fine. Then that's just what we'll do."
+msgstr ""
+
+msgctxt "800"
+msgid ""
+"Good. I'm glad you understand. 'Cause in this kinda\r\n"
+"business... only the strong survive."
+msgstr ""
+
+msgctxt "812"
+msgid "Well then. Let's see what you got."
+msgstr ""
+
+msgctxt "872"
+msgid ""
+"Earn enough money to blow other cabaret clubs right out of\r\n"
+"the water! Of course, your hostess is only competing against\r\n"
+"her peers right now, but she still needs to rake in the\r\n"
+"profit. Keep trying and eventually she'll get there!"
+msgstr ""
+
+msgctxt "884"
+msgid "All right. Let's step up our game and bring in the money."
+msgstr ""
+
+msgctxt "920"
+msgid "That's amazing, %s-san! You finally got a Super Service!"
+msgstr ""
+
+msgctxt "932"
+msgid "It's all thanks to everyone's support."
+msgstr ""
+
+msgctxt "944"
+msgid ""
+"I'm gonna keep on rooting for you, so do your best to become\r\n"
+"number one!"
+msgstr ""
+
+msgctxt "1016"
+msgid ""
+"Girl, you've been working it lately! Yeah, I've seen you out\r\n"
+"there! You too, big boy."
+msgstr ""
+
+msgctxt "1040"
+msgid "And you might be...?"
+msgstr ""
+
+msgctxt "1052"
+msgid "I'm Nana. Nice to meetcha!"
+msgstr ""
+
+msgctxt "1064"
+msgid "Ah. Likewise."
+msgstr ""
+
+msgctxt "1076"
+msgid "So! Have you ever seen a Super Service before?"
+msgstr ""
+
+msgctxt "1088"
+msgid "Super Service? No, I don't believe I have."
+msgstr ""
+
+msgctxt "1100"
+msgid ""
+"Well... Hmm, how should I put it? It's like, that moment\r\n"
+"when your service makes such a huge impact on a customer,\r\n"
+"it's like the stars are aligned... and everything stops..."
+msgstr ""
+
+msgctxt "1112"
+msgid ""
+"It's the kinda thing that happens when you're in tip-top\r\n"
+"shape. I'm talking good condition, perfect coordination,\r\n"
+"superior service stats... Stuff that makes ya stand out."
+msgstr ""
+
+msgctxt "1124"
+msgid "I think I get the picture..."
+msgstr ""
+
+msgctxt "1136"
+msgid ""
+"Seeing a Super Service happen in its natural environment\r\n"
+"is how you know your club is off the chain."
+msgstr ""
+
+msgctxt "1148"
+msgid ""
+"I see. So if we train and dress our hostesses well, we'll\r\n"
+"be able to pull off this \"Super Service\" you speak of."
+msgstr ""
+
+msgctxt "1160"
+msgid "Exactly."
+msgstr ""
+
+msgctxt "1172"
+msgid ""
+"Now, there might be times you can pull it off even if you're\r\n"
+"not in top form, so don't get too ahead of yourself."
+msgstr ""
+
+msgctxt "1232"
+msgid ""
+"All right, then we'll make sure our hospitality is good\r\n"
+"enough to perform a Super Service."
+msgstr ""
+
+msgctxt "1268"
+msgid ""
+"Well, well. Looks like you got the hang of training after\r\n"
+"all."
+msgstr ""
+
+msgctxt "1280"
+msgid ""
+"%s-san is shaping up to be quite the hostess.\r\n"
+"And Kiryu-san, you've got the makings of a great coach.\r\n"
+"Guess the rumors were true."
+msgstr ""
+
+msgctxt "1292"
+msgid "Thank you."
+msgstr ""
+
+msgctxt "1304"
+msgid ""
+"Sure. It's exciting to see someone rise up in our industry.\r\n"
+"Just don't fall off the boat while going full speed ahead!"
+msgstr ""
+
+msgctxt "1376"
+msgid "Oh, is this the girl I've heard so much about?"
+msgstr ""
+
+msgctxt "1400"
+msgid "Hm? Who are you?"
+msgstr ""
+
+msgctxt "1412"
+msgid ""
+"Keiko. What more do you need to know? Anyway, I hear you're\r\n"
+"aiming to take the number one spot here. That's pretty edgy\r\n"
+"for a couple of newcomers... You must be quite talented."
+msgstr ""
+
+msgctxt "1424"
+msgid "More or less."
+msgstr ""
+
+msgctxt "1436"
+msgid ""
+"Yeah, well I can tell you're both pretty new at this. Your\r\n"
+"hospitality's... missing something."
+msgstr ""
+
+msgctxt "1448"
+msgid "Really...?"
+msgstr ""
+
+msgctxt "1460"
+msgid ""
+"Mhm. A hostess's service skills are her livelihood, you see.\r\n"
+"You'll need to work with what she's got to reach the top."
+msgstr ""
+
+msgctxt "1472"
+msgid ""
+"That said, you should be training as much as you can during\r\n"
+"your downtime. And match your customers' preferences."
+msgstr ""
+
+msgctxt "1484"
+msgid ""
+"So what you're saying is, I should be inspecting the\r\n"
+"customers in the club, then training during break?"
+msgstr ""
+
+msgctxt "1496"
+msgid ""
+"That's exactly it. Oh, but don't always train the same skill! Variety's the "
+"spice of life, after all. Now get out there and make some magic happen!"
+msgstr ""
+
+msgctxt "1556"
+msgid ""
+"Giving good customer service can be broken down into two\r\n"
+"simple steps: First, walk around the club and observe your\r\n"
+"customers' preferences, then head to the break room and\r\n"
+"give your hostess some training. That's all there is to it."
+msgstr ""
+
+msgctxt "1568"
+msgid "All right. Let's get right to it, then."
+msgstr ""
+
+msgctxt "1604"
+msgid ""
+"Way to go, %s-san! You've really got a nice aesthetic there, and I know for "
+"a fact the customers noticed, too."
+msgstr ""
+
+msgctxt "1616"
+msgid "Keep up the good work, and you'll be number one in no time!"
+msgstr ""
+
+msgctxt "1628"
+msgid "Thanks for your support."
+msgstr ""
+
+msgctxt "1640"
+msgid "Of course! We hostesses gotta stick together, y'know?"
+msgstr ""
+
+msgctxt "1712"
+msgid "Oh, is that the new girl?"
+msgstr ""
+
+msgctxt "1736"
+msgid "Yeah... And you are?"
+msgstr ""
+
+msgctxt "1748"
+msgid ""
+"I'm Aya... Ah, and you must be the new guy... I guess that\r\n"
+"makes me your senpai!"
+msgstr ""
+
+msgctxt "1760"
+msgid ""
+"Hmm, I suppose I should teach you the tricks of the trade\r\n"
+"to help this job go smoothly. Otherwise, I wouldn't be much\r\n"
+"of a senpai, now would I?"
+msgstr ""
+
+msgctxt "1772"
+msgid ""
+"So, when it comes to doing well as a hostess, customer\r\n"
+"satisfaction is everything. Right?"
+msgstr ""
+
+msgctxt "1784"
+msgid "Right."
+msgstr ""
+
+msgctxt "1796"
+msgid ""
+"That's why it's important to get a grasp on the customers'\r\n"
+"preferences and do your best to satisfy them."
+msgstr ""
+
+msgctxt "1808"
+msgid ""
+"You should be able to get an idea of what the guests want\r\n"
+"when you walk the floor. Anyway, just get out there and see\r\n"
+"what you can learn. Use your eyes and ears."
+msgstr ""
+
+msgctxt "1820"
+msgid ""
+"So you're saying that I should gather information and\r\n"
+"coordinate %s's attributes and appearance?\r\n"
+"That way she can better satisfy the customers?"
+msgstr ""
+
+msgctxt "1832"
+msgid "Yup. Hehe, am I being a little too much?"
+msgstr ""
+
+msgctxt "1844"
+msgid ""
+"Either way, do your best and don't get stressed! Both of\r\n"
+"you guys!"
+msgstr ""
+
+msgctxt "1904"
+msgid ""
+"Get a feel for your customers' preferences by walking around\r\n"
+"the club, then return to the break room and coordinate your\r\n"
+"hostess to fit their ideal image."
+msgstr ""
+
+msgctxt "1916"
+msgid "All right, time to hit the floor."
+msgstr ""
+
+msgctxt "1952"
+msgid "Oh... You people are..."
+msgstr ""
+
+msgctxt "1976"
+msgid "You're... Natsume, right?"
+msgstr ""
+
+msgctxt "1988"
+msgid "Good. You remembered me."
+msgstr ""
+
+msgctxt "2000"
+msgid ""
+"I didn't expect you to mature this much during my little\r\n"
+"tropical excursion."
+msgstr ""
+
+msgctxt "2012"
+msgid "......"
+msgstr ""
+
+msgctxt "2024"
+msgid ""
+"Still, I have my pride as top hostess to defend. Soooo...\r\n"
+"We're gonna have a contest!"
+msgstr ""
+
+msgctxt "2036"
+msgid "A contest? How's that supposed to work?"
+msgstr ""
+
+msgctxt "2048"
+msgid ""
+"It's simple. You just need to train someone to be the best\r\n"
+"there is. I'm talking about a number one hostess here."
+msgstr ""
+
+msgctxt "2060"
+msgid "......"
+msgstr ""
+
+msgctxt "2072"
+msgid ""
+"Fashionable from head to toe, rigorously trained, motivated\r\n"
+"out the wazoo, yet calm and composed... Those are just the\r\n"
+"minimum requirements to compete with a girl like me."
+msgstr ""
+
+msgctxt "2084"
+msgid "......"
+msgstr ""
+
+msgctxt "2096"
+msgid "Got all that down? Then let the battle begin!"
+msgstr ""
+
+msgctxt "2156"
+msgid ""
+"Aim to make your hostess number one in the nightlife game\r\n"
+"by coordinating her appearance and teaching her the ways of\r\n"
+"hospitality through training!"
+msgstr ""
+
+msgctxt "2168"
+msgid "All right, time to hit the floor."
+msgstr ""
+
+msgctxt "21104"
+msgid "Natsume"
+msgstr ""
+
+msgctxt "21108"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "21112"
+msgid "Woman"
+msgstr ""
+
+msgctxt "21116"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "21120"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "21124"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "21128"
+msgid "Mission 4"
+msgstr ""
+
+msgctxt "21132"
+msgid "Aiko"
+msgstr ""
+
+msgctxt "21136"
+msgid "Hostess Trainee Name"
+msgstr ""
+
+msgctxt "21140"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "21144"
+msgid "Mission 3"
+msgstr ""
+
+msgctxt "21148"
+msgid "Nana"
+msgstr ""
+
+msgctxt "21152"
+msgid "Keiko"
+msgstr ""
+
+msgctxt "21156"
+msgid "Mission 2"
+msgstr ""
+
+msgctxt "21160"
+msgid "Aya"
+msgstr ""
+
+msgctxt "21164"
+msgid "Mission 1"
+msgstr ""
+
+msgctxt "21168"
+msgid "Talk_Kosite_st"
+msgstr ""
+
+msgctxt "21172"
+msgid "Talk_Udekumi_ed"
+msgstr ""

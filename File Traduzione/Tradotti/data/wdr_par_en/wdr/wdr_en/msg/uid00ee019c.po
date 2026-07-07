@@ -1,0 +1,275 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "288"
+msgid ""
+"Hello, sir. This is your first time here, right? Then allow me to explain "
+"the rules."
+msgstr ""
+
+msgctxt "300"
+msgid ""
+"Oil Massage is a minigame where you mash buttons to keep the gauge from "
+"going past the top or the bottom. If it does, you lose the game."
+msgstr ""
+
+msgctxt "312"
+msgid ""
+"The gauge is divided into five parts. The higher the gauge goes, the more "
+"points you earn. Go for the most points possible by keeping the gauge as "
+"high as you can without letting it go past the top or the bottom."
+msgstr ""
+
+msgctxt "324"
+msgid ""
+"If you make it to the end without letting the gauge go past the top or "
+"bottom, the Finish Gauge appears on the center of the screen. You win if "
+"you fill up this gauge before time runs out. Note that the gauge is harder "
+"to fill if you scored too few points earlier."
+msgstr ""
+
+msgctxt "336"
+msgid "Okay, which massage would you like?"
+msgstr ""
+
+msgctxt "348"
+msgid ""
+"The Standard Massage is 5,000 yen, and the Oil Massage & Ear Cleaning is "
+"8,000 yen."
+msgstr ""
+
+msgctxt "360"
+msgid ""
+"Welcome to⑬Oh, it's you, Kiryu-san! I heard all about you from Ayaka-san. "
+"We have a special discount for our best customers."
+msgstr ""
+
+msgctxt "372"
+msgid ""
+"The Standard Massage is 2,500 yen and the Oil Massage & Ear Cleaning is "
+"8,000 yen."
+msgstr ""
+
+msgctxt "396"
+msgid "I'll have the Standard Massage."
+msgstr ""
+
+msgctxt "408"
+msgid "All right, then. Please wait in the waiting room while we prepare your room."
+msgstr ""
+
+msgctxt "444"
+msgid "I'll have the Oil Massage & Ear Cleaning."
+msgstr ""
+
+msgctxt "456"
+msgid "All right, then. Please wait in the waiting room while we prepare your room."
+msgstr ""
+
+msgctxt "480"
+msgid "Hello, sir. Which massage would you like today?"
+msgstr ""
+
+msgctxt "492"
+msgid ""
+"The Standard Massage is 5,000 yen, and the Oil Massage & Ear Cleaning is "
+"8,000 yen."
+msgstr ""
+
+msgctxt "516"
+msgid "I'll have the Standard Massage."
+msgstr ""
+
+msgctxt "528"
+msgid "All right, then. Please wait in the waiting room while we prepare your room."
+msgstr ""
+
+msgctxt "564"
+msgid "I'll have the Oil Massage & Ear Cleaning."
+msgstr ""
+
+msgctxt "576"
+msgid "All right, then. Please wait in the waiting room while we prepare your room."
+msgstr ""
+
+msgctxt "648"
+msgid "(.................)"
+msgstr ""
+
+msgctxt "660"
+msgid "I hope you weren't waiting too long."
+msgstr ""
+
+msgctxt "684"
+msgid ""
+"My name is Ayaka Tsubaki, and I'll be your massage therapist for this "
+"session. I look forward to working with you today!"
+msgstr ""
+
+msgctxt "696"
+msgid "This way, please."
+msgstr ""
+
+msgctxt "720"
+msgid "You're back! I'm so glad you're here! ♪"
+msgstr ""
+
+msgctxt "732"
+msgid "This way, please."
+msgstr ""
+
+msgctxt "756"
+msgid "(I don't have that much on me.)"
+msgstr ""
+
+msgctxt "780"
+msgid "Sorry, I just remembered something I need to do."
+msgstr ""
+
+msgctxt "792"
+msgid "All right. We hope to see you again soon."
+msgstr ""
+
+msgctxt "816"
+msgid "Let me hear the rules."
+msgstr ""
+
+msgctxt "828"
+msgid "Of course. Allow me to explain."
+msgstr ""
+
+msgctxt "840"
+msgid ""
+"Oil Massage is a minigame where you mash buttons to keep the gauge from "
+"going past the top or the bottom. If it does, you lose the game."
+msgstr ""
+
+msgctxt "852"
+msgid ""
+"The gauge is divided into five parts. The higher the gauge goes, the more "
+"points you earn. Go for the most points possible by keeping the gauge as "
+"high as you can without letting it go past the top or the bottom."
+msgstr ""
+
+msgctxt "864"
+msgid ""
+"If you make it to the end without letting the gauge go past the top or "
+"bottom, the Finish Gauge appears on the center of the screen. You win if "
+"you fill up this gauge before time runs out. Note that the gauge is harder "
+"to fill if you scored too few points earlier."
+msgstr ""
+
+msgctxt "888"
+msgid "Let me hear the rules."
+msgstr ""
+
+msgctxt "900"
+msgid "Of course. Allow me to explain."
+msgstr ""
+
+msgctxt "912"
+msgid ""
+"Oil Massage is a minigame where you mash buttons to keep the gauge from "
+"going past the top or the bottom. If it does, you lose the game."
+msgstr ""
+
+msgctxt "924"
+msgid ""
+"The gauge is divided into five parts. The higher the gauge goes, the more "
+"points you earn. Go for the most points possible by keeping the gauge as "
+"high as you can without letting it go past the top or the bottom."
+msgstr ""
+
+msgctxt "936"
+msgid ""
+"If you make it to the end without letting the gauge go past the top or "
+"bottom, the Finish Gauge appears on the center of the screen. You win if "
+"you fill up this gauge before time runs out. Note that the gauge is harder "
+"to fill if you scored too few points earlier."
+msgstr ""
+
+msgctxt "960"
+msgid "Standard Massage"
+msgstr ""
+
+msgctxt "972"
+msgid "Oil Massage & Ear Cleaning"
+msgstr ""
+
+msgctxt "984"
+msgid "Never Mind"
+msgstr ""
+
+msgctxt "996"
+msgid "Standard Massage"
+msgstr ""
+
+msgctxt "1008"
+msgid "Oil Massage & Ear Cleaning"
+msgstr ""
+
+msgctxt "1020"
+msgid "Read the Rules"
+msgstr ""
+
+msgctxt "1032"
+msgid "Never Mind"
+msgstr ""
+
+msgctxt "1044"
+msgid "Standard Massage"
+msgstr ""
+
+msgctxt "1056"
+msgid "Oil Massage & Ear Cleaning"
+msgstr ""
+
+msgctxt "1068"
+msgid "Read the Rules"
+msgstr ""
+
+msgctxt "1080"
+msgid "Never Mind"
+msgstr ""
+
+msgctxt "10224"
+msgid "Receptionist"
+msgstr ""
+
+msgctxt "10228"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "10232"
+msgid "Oil Massage Rules"
+msgstr ""
+
+msgctxt "10236"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "10240"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "10244"
+msgid "Massage Therapist"
+msgstr ""
+
+msgctxt "10248"
+msgid "Ayaka"
+msgstr ""
+
+msgctxt "10252"
+msgid "Talk_No"
+msgstr ""

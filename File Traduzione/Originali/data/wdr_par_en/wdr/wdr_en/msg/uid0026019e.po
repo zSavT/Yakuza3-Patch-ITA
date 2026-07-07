@@ -1,0 +1,203 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "136"
+msgid ""
+"Excuse me, sir. I'll take one <Color:7>Coral Love Necklace<Color:Default>, "
+"please."
+msgstr ""
+
+msgctxt "148"
+msgid "A Coral Love Necklace, is it? That'll be 3,000 yen."
+msgstr ""
+
+msgctxt "160"
+msgid ""
+"Oh my gosh! Who did you buy that necklace for? You're gonna\r\n"
+"ask somebody to go steady, aren't you!? Is it Oyamada-senpai\r\n"
+"from the track club?"
+msgstr ""
+
+msgctxt "172"
+msgid "Hehehe... Maybe, maybe not."
+msgstr ""
+
+msgctxt "184"
+msgid "It's the tutor, isn't it! I saw the way you've been stealing glances at him!"
+msgstr ""
+
+msgctxt "196"
+msgid "Really!? Haruko, c'mon! Fill us in on the deets!"
+msgstr ""
+
+msgctxt "208"
+msgid ""
+"Hee-hee! They say whoever has a special love coral will never be turned "
+"down, so you're basically guaranteed a boyfriend!"
+msgstr ""
+
+msgctxt "220"
+msgid ""
+"Would you guys stop already!? Let's just go eat some burgers\r\n"
+"and go home!"
+msgstr ""
+
+msgctxt "232"
+msgid "(Those Coral Love Necklaces do seem pretty popular these days...)"
+msgstr ""
+
+msgctxt "304"
+msgid ""
+"How about a Coral Love Necklace for you, sir? Made with\r\n"
+"genuine Okinawan coral. We've got plenty in stock, but they\r\n"
+"won't last long!"
+msgstr ""
+
+msgctxt "316"
+msgid "(Those must be the necklaces those high schoolers were talking about.)"
+msgstr ""
+
+msgctxt "328"
+msgid ""
+"In fact, it's been making big waves on the internet lately.\r\n"
+"It's even considered something of a \"spiritual accessory.\""
+msgstr ""
+
+msgctxt "340"
+msgid ""
+"As you can see, this necklace is made from genuine, hermatypic coral "
+"weathered to a fine sheen. This process helps the coral release beneficial "
+"negative ions."
+msgstr ""
+
+msgctxt "352"
+msgid ""
+"Just keeping one of these special coral necklaces on your\r\n"
+"person is said to bolster your luck in love and money, too."
+msgstr ""
+
+msgctxt "364"
+msgid ""
+"So what do you say? One Coral Love Necklace is going for the\r\n"
+"incredibly reasonable price of 3,000 yen today."
+msgstr ""
+
+msgctxt "376"
+msgid "No... I'm fine."
+msgstr ""
+
+msgctxt "388"
+msgid ""
+"I see. Well, if you change your mind, then you'd better act quick! 'Cause "
+"these babies are selling like hotcakes!"
+msgstr ""
+
+msgctxt "400"
+msgid "Okay, then I'll take one."
+msgstr ""
+
+msgctxt "424"
+msgid ""
+"Thank you, sir! Here's your precious Coral Love Necklace!\r\n"
+"May it bring you only the best of fortune!"
+msgstr ""
+
+msgctxt "436"
+msgid "You got a <Color:8>Coral Love Necklace<Color:Default>."
+msgstr ""
+
+msgctxt "460"
+msgid ""
+"(...Is this thing really gonna make me lucky? I'll admit, I have my "
+"doubts...)"
+msgstr ""
+
+msgctxt "484"
+msgid "(3,000 yen... Wait, I don't have enough cash on me.)"
+msgstr ""
+
+msgctxt "496"
+msgid "Sorry. I'll make sure to stop by again."
+msgstr ""
+
+msgctxt "508"
+msgid "I see. Better hurry before they're all gone!"
+msgstr ""
+
+msgctxt "532"
+msgid "Buy a Coral Love Necklace"
+msgstr ""
+
+msgctxt "544"
+msgid "Don't Buy Anything"
+msgstr ""
+
+msgctxt "5908"
+msgid "Haruko"
+msgstr ""
+
+msgctxt "5912"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "5916"
+msgid "Employee"
+msgstr ""
+
+msgctxt "5920"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "5924"
+msgid "Chisato"
+msgstr ""
+
+msgctxt "5928"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "5932"
+msgid "Hozumi"
+msgstr ""
+
+msgctxt "5936"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "5940"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "5944"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "5948"
+msgid "Talk_Kansin"
+msgstr ""
+
+msgctxt "5952"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "5956"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "5960"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "5964"
+msgid "Talk_Ojigi"
+msgstr ""

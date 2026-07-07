@@ -1,0 +1,72 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "92"
+msgid "Have you ever been to the Diet building?"
+msgstr ""
+
+msgctxt "104"
+msgid "I went there on a field trip when I was in grade school. Why?"
+msgstr ""
+
+msgctxt "116"
+msgid ""
+"Oh, it's just that whenever I see it on the news, it's always just a bunch "
+"of politicians arguing with one another."
+msgstr ""
+
+msgctxt "128"
+msgid ""
+"Sometimes I think it'd be easier if they just had them all duke it out, pro "
+"wrestling style. You feel me?"
+msgstr ""
+
+msgctxt "140"
+msgid ""
+"Yeah, I think I know what you mean. It's almost as if all they do is shout "
+"at each other, and nothing ever gets done."
+msgstr ""
+
+msgctxt "152"
+msgid "In a way, the incident with the dump truck was kind of refreshing."
+msgstr ""
+
+msgctxt "164"
+msgid ""
+"I mean, I don't condone what they did by any means, but it does seem like "
+"you have to pull a stunt like that if you wanna make an impression nowadays."
+msgstr ""
+
+msgctxt "1460"
+msgid "Relieved Man"
+msgstr ""
+
+msgctxt "1464"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "1468"
+msgid "Attentive Listener"
+msgstr ""
+
+msgctxt "1472"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "1476"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "1480"
+msgid "Talk_Yes"
+msgstr ""

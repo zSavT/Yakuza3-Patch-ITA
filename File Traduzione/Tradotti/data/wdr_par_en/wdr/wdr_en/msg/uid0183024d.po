@@ -1,0 +1,108 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid ""
+"(What could Tamiya want with me? And who's that third party\r\n"
+"he mentioned? I knew there was more to this than just some\r\n"
+"internal Tojo Clan feud.)"
+msgstr ""
+
+msgctxt "76"
+msgid "(I should let Date-san know what's going on.)"
+msgstr ""
+
+msgctxt "124"
+msgid "What's the scoop, Kiryu?"
+msgstr ""
+
+msgctxt "136"
+msgid ""
+"Date-san. I just got off the phone with Tamiya, the Minister\r\n"
+"of Defense."
+msgstr ""
+
+msgctxt "148"
+msgid "What? Why would he want to talk to you?"
+msgstr ""
+
+msgctxt "160"
+msgid ""
+"I wish I knew. Either way, it looks like someone from the\r\n"
+"Tojo Clan is still pulling the strings in all this. Tamiya\r\n"
+"also mentioned some kind of third party being involved."
+msgstr ""
+
+msgctxt "172"
+msgid ""
+"He asked me to come to the Diet Building to talk to him in\r\n"
+"person. I'm about to head over."
+msgstr ""
+
+msgctxt "184"
+msgid "To the Diet Building? How are you gonna get there?"
+msgstr ""
+
+msgctxt "196"
+msgid ""
+"He's sending a driver over. Apparently we're meeting in\r\n"
+"front of the Millennium Tower."
+msgstr ""
+
+msgctxt "208"
+msgid "Wait, Kiryu. Take me with you."
+msgstr ""
+
+msgctxt "220"
+msgid "...Are you sure?"
+msgstr ""
+
+msgctxt "232"
+msgid ""
+"Of course I'm sure! So, wanna meet up outside the Millennium\r\n"
+"Tower?"
+msgstr ""
+
+msgctxt "244"
+msgid ""
+"And risk making Tamiya's driver suspicious? Probably not\r\n"
+"a good idea."
+msgstr ""
+
+msgctxt "256"
+msgid "Let's head over there together, okay? Where are you now?"
+msgstr ""
+
+msgctxt "268"
+msgid "At Serena, as always. I'll see you out front."
+msgstr ""
+
+msgctxt "2736"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "2740"
+msgid "P_stand_tlk_phone_st"
+msgstr ""
+
+msgctxt "2744"
+msgid "Date"
+msgstr ""
+
+msgctxt "2748"
+msgid "P_stand_tlk_phone_ed"
+msgstr ""
+
+msgctxt "2752"
+msgid "dummy"
+msgstr ""

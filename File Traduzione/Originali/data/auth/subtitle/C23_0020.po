@@ -1,0 +1,54 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "188\t219"
+msgid "\"Love\""
+msgstr ""
+
+msgctxt "288\t396"
+msgid "Well? Quakin' in your boots yet!?"
+msgstr ""
+
+msgctxt "442\t606"
+msgid ""
+"Let's get out of here, Aniki.\\n"
+"We don't have time to waste on fools like this."
+msgstr ""
+
+msgctxt "618\t678"
+msgid "You're right."
+msgstr ""
+
+msgctxt "710\t775"
+msgid "And just where do you think you're going!?"
+msgstr ""
+
+msgctxt "776\t872"
+msgid "Who gave you permission to walk away!?"
+msgstr ""
+
+msgctxt "877\t944"
+msgid "Just can it already."
+msgstr ""
+
+msgctxt "945\t1075"
+msgid "You're not doin' yourself any favors, kid."
+msgstr ""
+
+msgctxt "1076\t1250"
+msgid "Kid!? You're younger than me, jackass!"
+msgstr ""
+
+msgctxt "1440\t1533"
+msgid "On second thought, you can go this time!"
+msgstr ""

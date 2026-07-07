@@ -1,0 +1,462 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "244"
+msgid "Phew... hah... (How can somebody that fat be so fast...?)"
+msgstr ""
+
+msgctxt "256"
+msgid "(Damn. I guess I should head back to Gelateria Kamurocho...)"
+msgstr ""
+
+msgctxt "316"
+msgid "Urgh, he pisses me off! What kind of asshole runs out on his bill!?"
+msgstr ""
+
+msgctxt "328"
+msgid ""
+"Well, if he's so hungry... next time I see him, I'm gonna feed him a "
+"knuckle sandwich!"
+msgstr ""
+
+msgctxt "388"
+msgid "Urgh... hah... Dammit..."
+msgstr ""
+
+msgctxt "400"
+msgid ""
+"This time, it was like you were trying to get me to chase you. What were "
+"you thinking?"
+msgstr ""
+
+msgctxt "412"
+msgid "Nobody's ever chased after me like you do."
+msgstr ""
+
+msgctxt "424"
+msgid "There aren't enough dine and dash pros like me left in this world..."
+msgstr ""
+
+msgctxt "436"
+msgid "Dine and dash pros?"
+msgstr ""
+
+msgctxt "448"
+msgid ""
+"I mean it's hard to run on a full stomach, and even if you get away, you "
+"end up hungry again from all the exercise."
+msgstr ""
+
+msgctxt "460"
+msgid "It's hard being a dine and dash pro. You know what it's like, right?"
+msgstr ""
+
+msgctxt "472"
+msgid "Just hurry up and pay. I'm taking you right back to Gelateria Kamurocho."
+msgstr ""
+
+msgctxt "484"
+msgid "I... I'm sorry."
+msgstr ""
+
+msgctxt "568"
+msgid "The cost of your gelato comes to... 7,000 yen. So let's see the cash! Now!"
+msgstr ""
+
+msgctxt "580"
+msgid "Okay..."
+msgstr ""
+
+msgctxt "592"
+msgid ""
+"If you've got the cash, then just pay the damn bill in the first place! "
+"What, are you just doing this for kicks?"
+msgstr ""
+
+msgctxt "604"
+msgid "Oh..."
+msgstr ""
+
+msgctxt "616"
+msgid "I... I'm sorry."
+msgstr ""
+
+msgctxt "628"
+msgid "Don't ever show your face here again!"
+msgstr ""
+
+msgctxt "652"
+msgid ""
+"And you! You've earned this. Seriously, I'm grateful, even if I'm still "
+"pissed off..."
+msgstr ""
+
+msgctxt "664"
+msgid "You got a <Color:8>Staminan Spark<Color:Default>."
+msgstr ""
+
+msgctxt "700"
+msgid ""
+"I'm done. No more dining and dashing for me. If today proved anything, it's "
+"that I'll never escape you."
+msgstr ""
+
+msgctxt "712"
+msgid "Good. Glad to hear it."
+msgstr ""
+
+msgctxt "724"
+msgid ""
+"I think it's time I left on a journey for myself. Have a good life... I "
+"don't think we'll ever meet again."
+msgstr ""
+
+msgctxt "748"
+msgid "(Is this it? Is Kamurocho's era of dining and dashing finally over?)"
+msgstr ""
+
+msgctxt "772"
+msgid "You got 5,000 EXP."
+msgstr ""
+
+msgctxt "820"
+msgid ""
+"Then just quit dining and dashing. Think about how it affects the shops you "
+"raid."
+msgstr ""
+
+msgctxt "832"
+msgid ""
+"You're right. I'm done. No more dining and dashing for me. After all... "
+"I'll never be able to escape you."
+msgstr ""
+
+msgctxt "844"
+msgid "Good. Glad to hear it."
+msgstr ""
+
+msgctxt "856"
+msgid ""
+"I think it's time I left on a journey for myself.\r\n"
+"Have a good life... I don't think we'll ever meet again."
+msgstr ""
+
+msgctxt "868"
+msgid "If you're leaving, make sure you pay what you owe."
+msgstr ""
+
+msgctxt "880"
+msgid "Oh... I almost forgot."
+msgstr ""
+
+msgctxt "964"
+msgid "The cost of your gelato comes to... 7,000 yen. So let's see the cash! Now!"
+msgstr ""
+
+msgctxt "976"
+msgid "Okay..."
+msgstr ""
+
+msgctxt "988"
+msgid ""
+"If you've got the cash, then just pay the damn bill in the first place! "
+"What, are you just doing this for kicks?"
+msgstr ""
+
+msgctxt "1000"
+msgid "Oh..."
+msgstr ""
+
+msgctxt "1012"
+msgid "I... I'm sorry."
+msgstr ""
+
+msgctxt "1024"
+msgid "Don't ever show your face here again!"
+msgstr ""
+
+msgctxt "1048"
+msgid ""
+"And you! You've earned this. Seriously, I'm grateful, even if I'm still "
+"pissed off..."
+msgstr ""
+
+msgctxt "1060"
+msgid "You got a <Color:8>Staminan Spark<Color:Default>."
+msgstr ""
+
+msgctxt "1096"
+msgid ""
+"What's going on? Why do I feel so weird? Is it indigestion? But... I can't "
+"stop thinking about that shop manager! What is this?"
+msgstr ""
+
+msgctxt "1120"
+msgid "(Is this it? Is Kamurocho's era of dining and dashing finally over?)"
+msgstr ""
+
+msgctxt "1144"
+msgid "You got 5,000 EXP."
+msgstr ""
+
+msgctxt "1204"
+msgid "What!? That dine-and-dasher again!? What's with that guy!?"
+msgstr ""
+
+msgctxt "1216"
+msgid "What happened?"
+msgstr ""
+
+msgctxt "1228"
+msgid "Oh, it's you."
+msgstr ""
+
+msgctxt "1240"
+msgid "Look, over there. That damn dine-and-dasher's back again!"
+msgstr ""
+
+msgctxt "1252"
+msgid ""
+"What kind of smug asshole thinks he can get away with dining and dashing "
+"from the same place twice!?"
+msgstr ""
+
+msgctxt "1264"
+msgid ""
+"Dammit, I'm too mad to think straight! Could you catch him for me? I just "
+"want to know why he's doing this!"
+msgstr ""
+
+msgctxt "1276"
+msgid "I can't, but I'll watch the shop for you."
+msgstr ""
+
+msgctxt "1288"
+msgid ""
+"Uh-huh. Hilarious. I'll assume that was supposed to be a joke, and you're "
+"not looking to get slapped yourself."
+msgstr ""
+
+msgctxt "1312"
+msgid "Argh, are you kidding me!? He got away!"
+msgstr ""
+
+msgctxt "1324"
+msgid "......"
+msgstr ""
+
+msgctxt "1336"
+msgid "Petty goddamn thief... Next time I see him, I'll cave his face in!"
+msgstr ""
+
+msgctxt "1348"
+msgid "Fine. I just need to catch him, right?"
+msgstr ""
+
+msgctxt "1360"
+msgid "You'll do it? Great! You're a standup guy!"
+msgstr ""
+
+msgctxt "1372"
+msgid ""
+"Well, then, when you catch him, haul him back here, would you? I'll give "
+"him what he deserves!"
+msgstr ""
+
+msgctxt "1396"
+msgid ""
+"You gotta be kidding me! What kind of asshole runs out on his bill? In this "
+"day and age!?"
+msgstr ""
+
+msgctxt "1408"
+msgid "What happened?"
+msgstr ""
+
+msgctxt "1420"
+msgid ""
+"Urgh, just another dine-and-dasher! This guy eats every flavor of gelato we "
+"have, and then he's out the door!"
+msgstr ""
+
+msgctxt "1432"
+msgid "Oh, there he is!"
+msgstr ""
+
+msgctxt "1444"
+msgid "I wonder why he's waiting there?"
+msgstr ""
+
+msgctxt "1456"
+msgid "......"
+msgstr ""
+
+msgctxt "1468"
+msgid "Wish I could leave the shop and go after him..."
+msgstr ""
+
+msgctxt "1480"
+msgid "Hey, could you chase him down for me? I just want to slap that creep!"
+msgstr ""
+
+msgctxt "1492"
+msgid "I can't, but I'll watch the shop for you."
+msgstr ""
+
+msgctxt "1504"
+msgid "Uh-huh. Hilarious."
+msgstr ""
+
+msgctxt "1516"
+msgid ""
+"I'll assume that was supposed to be a joke, and you're not looking to get "
+"slapped yourself."
+msgstr ""
+
+msgctxt "1540"
+msgid "Argh, are you kidding me!? He got away!"
+msgstr ""
+
+msgctxt "1552"
+msgid "......"
+msgstr ""
+
+msgctxt "1564"
+msgid "Petty goddamn thief... Next time I see him, I'll cave his face in!"
+msgstr ""
+
+msgctxt "1576"
+msgid "All right. I just need to catch him, right?"
+msgstr ""
+
+msgctxt "1588"
+msgid "You'll do it? Great! You're a standup guy!"
+msgstr ""
+
+msgctxt "1600"
+msgid ""
+"Well, when you catch him, bring him here. I'll give him the punishment he "
+"deserves!"
+msgstr ""
+
+msgctxt "1624"
+msgid "Just hurry up and pay."
+msgstr ""
+
+msgctxt "1636"
+msgid "Then why don't you quit?"
+msgstr ""
+
+msgctxt "1648"
+msgid "Chase the Dine-and-Dasher"
+msgstr ""
+
+msgctxt "1660"
+msgid "Watch the Shop For the Manager"
+msgstr ""
+
+msgctxt "1672"
+msgid "Chase the Dine-and-Dasher"
+msgstr ""
+
+msgctxt "1684"
+msgid "Watch the Shop For the Manager"
+msgstr ""
+
+msgctxt "19376"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "19380"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "19384"
+msgid "Gelateria Kamurocho Manager"
+msgstr ""
+
+msgctxt "19388"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "19392"
+msgid "dummy"
+msgstr ""
+
+msgctxt "19396"
+msgid "0"
+msgstr ""
+
+msgctxt "19400"
+msgid "Dine-And-Dasher"
+msgstr ""
+
+msgctxt "19404"
+msgid "Talk_Udekumi_st"
+msgstr ""
+
+msgctxt "19408"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "19412"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "19416"
+msgid "Talk_Udekumi_ed"
+msgstr ""
+
+msgctxt "19420"
+msgid "Talk_Sorry"
+msgstr ""
+
+msgctxt "19424"
+msgid "Talk_Send"
+msgstr ""
+
+msgctxt "19428"
+msgid "Talk_Away"
+msgstr ""
+
+msgctxt "19432"
+msgid "Sync_Send"
+msgstr ""
+
+msgctxt "19436"
+msgid "Talk_Udekumi_Yes"
+msgstr ""
+
+msgctxt "19440"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "19444"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "19448"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "19452"
+msgid "Talk_Chohatu"
+msgstr ""
+
+msgctxt "19456"
+msgid "Talk_Kansin"
+msgstr ""
+
+msgctxt "19460"
+msgid "Talk_Request"
+msgstr ""

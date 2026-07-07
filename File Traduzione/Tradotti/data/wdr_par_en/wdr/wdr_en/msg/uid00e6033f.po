@@ -1,0 +1,66 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "92"
+msgid ""
+"You know that car parked in front of Millennium Tower? I think it belongs "
+"to Defense Minister Tamiya."
+msgstr ""
+
+msgctxt "104"
+msgid "Really? What makes you say that?"
+msgstr ""
+
+msgctxt "116"
+msgid ""
+"I saw it on the news. Tamiya was riding in the same exact car, surrounded "
+"by reporters."
+msgstr ""
+
+msgctxt "128"
+msgid "Just because it's the same make and model doesn't mean it's Tamiya's..."
+msgstr ""
+
+msgctxt "140"
+msgid ""
+"Well, maybe you'd be up to date if you actually watched the news instead of "
+"just reading the paper all the time!"
+msgstr ""
+
+msgctxt "1072"
+msgid "Regular News Viewer"
+msgstr ""
+
+msgctxt "1076"
+msgid "Talk_Info_R"
+msgstr ""
+
+msgctxt "1080"
+msgid "Newspaper Advocate"
+msgstr ""
+
+msgctxt "1084"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "1088"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "1092"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "1096"
+msgid "Talk_Angry"
+msgstr ""

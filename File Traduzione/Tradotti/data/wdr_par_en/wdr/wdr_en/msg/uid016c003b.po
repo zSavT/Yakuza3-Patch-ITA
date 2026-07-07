@@ -1,0 +1,515 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "512"
+msgid "Controls"
+msgstr ""
+
+msgctxt "524"
+msgid ""
+"Use the "
+"<Action:Button_LS_Up@Cabaret><Action:Button_LS_Down@Cabaret><Action:Button_"
+"LS_Left@Cabaret><Action:Button_LS_Right@Cabaret> to control your gaze."
+msgstr ""
+
+msgctxt "536"
+msgid ""
+"Press <Action:Button_Cross@Cabaret> to stare at a particular area. Hold "
+"down <Action:Button_Cross@Cabaret> to focus."
+msgstr ""
+
+msgctxt "548"
+msgid "Looking at different areas will provoke different reactions."
+msgstr ""
+
+msgctxt "572"
+msgid "(Her eyes...?)"
+msgstr ""
+
+msgctxt "584"
+msgid "(Her lips...?)"
+msgstr ""
+
+msgctxt "596"
+msgid "(Her hands...?)"
+msgstr ""
+
+msgctxt "608"
+msgid "(Her legs...?)"
+msgstr ""
+
+msgctxt "620"
+msgid "(Her hair...?)"
+msgstr ""
+
+msgctxt "632"
+msgid "(That's pretty nice...)"
+msgstr ""
+
+msgctxt "644"
+msgid "(Hmm...)"
+msgstr ""
+
+msgctxt "656"
+msgid "Your eyes. They're just the right shape."
+msgstr ""
+
+msgctxt "668"
+msgid "You think so? Hehehe..."
+msgstr ""
+
+msgctxt "680"
+msgid "Y'know, I like your eyes too, Kiryu-san. <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "692"
+msgid "Yeah?"
+msgstr ""
+
+msgctxt "704"
+msgid ""
+"You should stop staring at me, though, or I might die from blushing too "
+"hard! <Color:7>⑮⑮<Color:Default>"
+msgstr ""
+
+msgctxt "716"
+msgid "You're lips. They're so cute and plush."
+msgstr ""
+
+msgctxt "728"
+msgid ""
+"I dunno why, but I feel kinda embarrassed when you stare at my mouth like "
+"that... <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "740"
+msgid ""
+"Don't you have a hard time understanding me sometimes? I mean, I sprinkle "
+"in all sorts of Okinawan words whenever I'm talking."
+msgstr ""
+
+msgctxt "752"
+msgid "But I like that about you. Your dialect makes you cuter."
+msgstr ""
+
+msgctxt "764"
+msgid ""
+"Hehehehe... Well, now I'm gonna have to do it way more! "
+"<Color:7>⑮⑮⑮<Color:Default>"
+msgstr ""
+
+msgctxt "776"
+msgid "I love your hands. They're so tiny and cute."
+msgstr ""
+
+msgctxt "788"
+msgid ""
+"Really? I'm kinda surprised... With the amount of chores I do around the "
+"house, they've gotten all calloused and beaten up..."
+msgstr ""
+
+msgctxt "800"
+msgid "Really? I never noticed."
+msgstr ""
+
+msgctxt "812"
+msgid ""
+"Yeah. I'm pretty good at housewifey stuff. I'm a good cook, too! Hehehe. "
+"<Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "824"
+msgid "Your legs. That short dress perfectly shows them off."
+msgstr ""
+
+msgctxt "836"
+msgid "Wow! You're such a horndog, Kiryu-san!"
+msgstr ""
+
+msgctxt "848"
+msgid "Hey, I'm not that bad."
+msgstr ""
+
+msgctxt "860"
+msgid "C'mon, now... You just said that 'cause I'm wearing this dress today."
+msgstr ""
+
+msgctxt "872"
+msgid "Not at all. Your legs are slender and beautiful no matter what you wear."
+msgstr ""
+
+msgctxt "884"
+msgid ""
+"Mnnnnn... I mean, I'm super embarrassed about it, but also kinda happy... "
+"Geez, you're making me feel weird! <Color:7>⑮⑮⑮<Color:Default>"
+msgstr ""
+
+msgctxt "896"
+msgid "Your hair... That cut looks great on you."
+msgstr ""
+
+msgctxt "908"
+msgid ""
+"You really think so? You like a girl with hair this short,\r\n"
+"Kiryu-san? <Color:7>⑮⑮<Color:Default>"
+msgstr ""
+
+msgctxt "920"
+msgid ""
+"I mean, I like long hair, too, but it's such a pain! I always end up "
+"cutting it short again."
+msgstr ""
+
+msgctxt "932"
+msgid "Really?"
+msgstr ""
+
+msgctxt "944"
+msgid "Ehehe... yeah."
+msgstr ""
+
+msgctxt "956"
+msgid ""
+"All the models in the big fashion magazines have super long hair, though... "
+"I should try to grow mine out, too."
+msgstr ""
+
+msgctxt "968"
+msgid "Well... your chest."
+msgstr ""
+
+msgctxt "980"
+msgid "Wow! You're such a horndog, Kiryu-san!"
+msgstr ""
+
+msgctxt "992"
+msgid "Hey, I'm not that bad."
+msgstr ""
+
+msgctxt "1004"
+msgid ""
+"Man, I'm so embarrassed... I mean, I don't think my boobs look all that "
+"nice..."
+msgstr ""
+
+msgctxt "1016"
+msgid "They do, though."
+msgstr ""
+
+msgctxt "1028"
+msgid "Mnnn... You're making me mad..."
+msgstr ""
+
+msgctxt "1040"
+msgid "Heeeey! What're you looking at, huh?"
+msgstr ""
+
+msgctxt "1052"
+msgid "Um, uh..."
+msgstr ""
+
+msgctxt "1064"
+msgid "Kiryu-san... Are you trying to be mean to me?"
+msgstr ""
+
+msgctxt "1076"
+msgid "No, that's not it."
+msgstr ""
+
+msgctxt "1088"
+msgid ""
+"I really liked you, Kiryu-san... Maybe I should just give up on you, "
+"though..."
+msgstr ""
+
+msgctxt "1100"
+msgid "(She looks like she's having a good time...)"
+msgstr ""
+
+msgctxt "1112"
+msgid "(A silver accessory, huh...)"
+msgstr ""
+
+msgctxt "1124"
+msgid "(Her ring?)"
+msgstr ""
+
+msgctxt "1136"
+msgid "(Is it on her legs?)"
+msgstr ""
+
+msgctxt "1148"
+msgid "(Maybe it's in her hair?)"
+msgstr ""
+
+msgctxt "1160"
+msgid "(Is it her necklace?)"
+msgstr ""
+
+msgctxt "1172"
+msgid "(A silver accessory, huh...)"
+msgstr ""
+
+msgctxt "1184"
+msgid "You sure do love silver. You've got good taste, too."
+msgstr ""
+
+msgctxt "1196"
+msgid ""
+"Ehehe... I bet it was obvious. It was written all over my face, wasn't it? "
+"<Color:7>⑮⑮<Color:Default>"
+msgstr ""
+
+msgctxt "1208"
+msgid "Yeah, it was."
+msgstr ""
+
+msgctxt "1220"
+msgid ""
+"The accessory I bought was... this necklace! The second I saw it in the "
+"store, I was like, \"I've gotta buy it!\""
+msgstr ""
+
+msgctxt "1232"
+msgid ""
+"It's the perfect accessory. <Color:7>⑮<Color:Default> I'm gonna hold onto "
+"it forever. <Color:7>⑮⑮<Color:Default>"
+msgstr ""
+
+msgctxt "1244"
+msgid ""
+"You sure do love silver. I'm getting excited just listening to you talk "
+"about it."
+msgstr ""
+
+msgctxt "1256"
+msgid ""
+"Well, I was super happy about being able to buy it! Plus, I was sooo "
+"excited for you to be the first to hear about it! <Color:7>⑮⑮<Color:Default>"
+msgstr ""
+
+msgctxt "1268"
+msgid ""
+"Besides, don't you wanna talk about the things you love with the person "
+"you're into?"
+msgstr ""
+
+msgctxt "1280"
+msgid "Yeah, that's true."
+msgstr ""
+
+msgctxt "1292"
+msgid ""
+"The accessory I bought was... this necklace! The second I saw it in the "
+"store, I was like, \"I've gotta buy it!\""
+msgstr ""
+
+msgctxt "1304"
+msgid ""
+"It's the perfect accessory. <Color:7>⑮<Color:Default> I'm gonna hold onto "
+"it forever. <Color:7>⑮⑮<Color:Default>"
+msgstr ""
+
+msgctxt "1316"
+msgid "Did you buy a ring?"
+msgstr ""
+
+msgctxt "1328"
+msgid ""
+"What? Look at my hands, I'm not even wearing any rings today! C'mon, "
+"Kiryu-san... I thought you cared more about me than that."
+msgstr ""
+
+msgctxt "1340"
+msgid ""
+"The accessory I bought was... this necklace! The second I saw it in the "
+"store, I was like, \"I've gotta buy it!\""
+msgstr ""
+
+msgctxt "1352"
+msgid "Oh, it was your necklace..."
+msgstr ""
+
+msgctxt "1364"
+msgid ""
+"I do like rings, though... But I'd rather get one as a present from the guy "
+"I like."
+msgstr ""
+
+msgctxt "1376"
+msgid "You want a guy to give you a ring, huh?"
+msgstr ""
+
+msgctxt "1388"
+msgid ""
+"Y'know, I'd be over the moon if you bought me a ring,\r\n"
+"Kiryu-san... <Color:7>⑮⑮<Color:Default>"
+msgstr ""
+
+msgctxt "1400"
+msgid "Are you wearing it on your legs somewhere?"
+msgstr ""
+
+msgctxt "1412"
+msgid "Nope. There are definitely some anklets and toe rings I wanna buy, though..."
+msgstr ""
+
+msgctxt "1424"
+msgid "Toe rings? They make those?"
+msgstr ""
+
+msgctxt "1436"
+msgid ""
+"Uh, yeah? They're just like rings, but you wear them on your toes. You've "
+"really never heard of them?"
+msgstr ""
+
+msgctxt "1448"
+msgid "No, never..."
+msgstr ""
+
+msgctxt "1460"
+msgid ""
+"Anyway, the accessory I bought was... this necklace! The second I saw it in "
+"the store, I was like, \"I've gotta buy it!\""
+msgstr ""
+
+msgctxt "1472"
+msgid ""
+"It's the perfect accessory. <Color:7>⑮<Color:Default> I'm gonna hold onto "
+"it forever. <Color:7>⑮⑮<Color:Default>"
+msgstr ""
+
+msgctxt "1484"
+msgid "Are you wearing it in your hair?"
+msgstr ""
+
+msgctxt "1496"
+msgid "Nope, that's not it. This isn't even silver."
+msgstr ""
+
+msgctxt "1508"
+msgid ""
+"The accessory I bought was... this necklace! The second I saw it in the "
+"store, I was like, \"I've gotta buy it!\""
+msgstr ""
+
+msgctxt "1520"
+msgid ""
+"It's the perfect accessory. <Color:7>⑮<Color:Default> I'm gonna hold onto "
+"it forever. <Color:7>⑮⑮<Color:Default>"
+msgstr ""
+
+msgctxt "1532"
+msgid "Is it your necklace?"
+msgstr ""
+
+msgctxt "1544"
+msgid ""
+"Yup! I knew you'd get it. You know sooo much about me,\r\n"
+"after all! <Color:7>⑮⑮<Color:Default>"
+msgstr ""
+
+msgctxt "1556"
+msgid "I guess, heh."
+msgstr ""
+
+msgctxt "1568"
+msgid "Well, what do you think? Does it look good?"
+msgstr ""
+
+msgctxt "1580"
+msgid "Yeah. It's really pretty."
+msgstr ""
+
+msgctxt "1592"
+msgid ""
+"Ehehe... I'm so glad I was able to buy it! <Color:7>⑮⑮<Color:Default> I'm "
+"gonna treasure it forever. <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "1604"
+msgid "Sorry... What did you buy?"
+msgstr ""
+
+msgctxt "1616"
+msgid "Oh, all riiiiight. I'll tell you."
+msgstr ""
+
+msgctxt "1628"
+msgid ""
+"It's this necklace! The second I saw it in the store, I was like, \"I've "
+"gotta buy it!\""
+msgstr ""
+
+msgctxt "1640"
+msgid ""
+"It's the perfect accessory. <Color:7>⑮<Color:Default> I'm gonna hold onto "
+"it forever. <Color:7>⑮⑮<Color:Default>"
+msgstr ""
+
+msgctxt "17244"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "17248"
+msgid "F_cab_sitsofa_hot_momoA"
+msgstr ""
+
+msgctxt "17252"
+msgid "F_cab_sitsofa_hot_muneA"
+msgstr ""
+
+msgctxt "17256"
+msgid "Saya"
+msgstr ""
+
+msgctxt "17260"
+msgid "F_cab_sitsofa_tlk_happy"
+msgstr ""
+
+msgctxt "17264"
+msgid "F_cab_sitsofa_tlk_tereruA"
+msgstr ""
+
+msgctxt "17268"
+msgid "F_cab_sitsofa_talk_smileA"
+msgstr ""
+
+msgctxt "17272"
+msgid "F_cab_sitsofa_tlk_suprise"
+msgstr ""
+
+msgctxt "17276"
+msgid "F_cab_sitsofa_tlk_cry"
+msgstr ""
+
+msgctxt "17280"
+msgid "F_cab_sitsofa_tlk_angry"
+msgstr ""
+
+msgctxt "17284"
+msgid "F_cab_sitsofa_tlk_yes"
+msgstr ""
+
+msgctxt "17288"
+msgid "F_cab_sitsofa_tlk_kamaeAtoB"
+msgstr ""
+
+msgctxt "17292"
+msgid "F_cab_sitsofa_tlk_happyB"
+msgstr ""
+
+msgctxt "17296"
+msgid "F_cab_sitsofa_tlk_tereruB"
+msgstr ""

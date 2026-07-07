@@ -1,0 +1,212 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "244"
+msgid ""
+"All right, forget about that one, then...\r\n"
+"Your next target is..."
+msgstr ""
+
+msgctxt "256"
+msgid "(Who's that guy? I can't hear what they're saying...)"
+msgstr ""
+
+msgctxt "268"
+msgid "(Now they're splitting up. What should I do?)"
+msgstr ""
+
+msgctxt "364"
+msgid "Hey."
+msgstr ""
+
+msgctxt "376"
+msgid "Yeah?"
+msgstr ""
+
+msgctxt "388"
+msgid "Hey! You're one of the old targets!"
+msgstr ""
+
+msgctxt "400"
+msgid "What?"
+msgstr ""
+
+msgctxt "412"
+msgid "I'm done with you already!"
+msgstr ""
+
+msgctxt "436"
+msgid "Hey! Hold up!"
+msgstr ""
+
+msgctxt "496"
+msgid "Damn..."
+msgstr ""
+
+msgctxt "508"
+msgid "(Guess I'll have to go after that guy with the glasses.)"
+msgstr ""
+
+msgctxt "628"
+msgid "(I'll follow him for a while.)"
+msgstr ""
+
+msgctxt "652"
+msgid "Nnngh... What kinda monster are you?"
+msgstr ""
+
+msgctxt "664"
+msgid "Why'd you say I was a target?"
+msgstr ""
+
+msgctxt "676"
+msgid ""
+"Hey, I'm just doin' my job, man. They showed me your picture\r\n"
+"and told me to chase you out of Kamurocho, that's all."
+msgstr ""
+
+msgctxt "688"
+msgid ""
+"If you wouldn't listen to a \"polite\" request, then I was\r\n"
+"supposed to do whatever it took to get rid of you."
+msgstr ""
+
+msgctxt "700"
+msgid "What!?"
+msgstr ""
+
+msgctxt "712"
+msgid ""
+"If I'd known you were such a badass, I never woulda taken\r\n"
+"this job in the first place."
+msgstr ""
+
+msgctxt "724"
+msgid "Hey! Don't go yet!"
+msgstr ""
+
+msgctxt "784"
+msgid "Damn..."
+msgstr ""
+
+msgctxt "796"
+msgid "(No use standing around here. I better check in with Emi.)"
+msgstr ""
+
+msgctxt "820"
+msgid ""
+"Hey. Why the hell're you following me? You some kinda\r\n"
+"sick bastard cruising for ass?"
+msgstr ""
+
+msgctxt "832"
+msgid "(Dammit. He spotted me.)"
+msgstr ""
+
+msgctxt "904"
+msgid ""
+"Wait a second... You're the target! Heh! This job's too\r\n"
+"easy."
+msgstr ""
+
+msgctxt "916"
+msgid "Job? What job?"
+msgstr ""
+
+msgctxt "928"
+msgid ""
+"I'll ask you nicely just this once. Leave Kamurocho and\r\n"
+"don't come back, or I'll make you regret it."
+msgstr ""
+
+msgctxt "940"
+msgid "What the hell are you talking about?"
+msgstr ""
+
+msgctxt "952"
+msgid ""
+"Not gonna play nice? I didn't think so! In that case,\r\n"
+"there's only one thing left to do..."
+msgstr ""
+
+msgctxt "964"
+msgid "...tear you a new asshole!"
+msgstr ""
+
+msgctxt "988"
+msgid "(Dammit. I lost him.)"
+msgstr ""
+
+msgctxt "1000"
+msgid "(I better check in with Emi.)"
+msgstr ""
+
+msgctxt "1024"
+msgid "Talk to the tall man."
+msgstr ""
+
+msgctxt "1036"
+msgid "Follow the man with glasses."
+msgstr ""
+
+msgctxt "7856"
+msgid "dummy"
+msgstr ""
+
+msgctxt "7860"
+msgid "SetM_nml_stand_lookaround_01"
+msgstr ""
+
+msgctxt "7864"
+msgid "Bespectacled Man"
+msgstr ""
+
+msgctxt "7868"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "7872"
+msgid "0"
+msgstr ""
+
+msgctxt "7876"
+msgid "Tall Man"
+msgstr ""
+
+msgctxt "7880"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "7884"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "7888"
+msgid "Talk_Udekumi_st"
+msgstr ""
+
+msgctxt "7892"
+msgid "Talk_Chohatu"
+msgstr ""
+
+msgctxt "7896"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "7900"
+msgid "Talk_Kosite_st"
+msgstr ""
+
+msgctxt "7904"
+msgid "Talk_Smile"
+msgstr ""

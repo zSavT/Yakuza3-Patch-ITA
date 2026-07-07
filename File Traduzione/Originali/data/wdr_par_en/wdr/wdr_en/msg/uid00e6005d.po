@@ -1,0 +1,82 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "92"
+msgid "So those renovators were a couple of scam artists after all."
+msgstr ""
+
+msgctxt "104"
+msgid ""
+"Oh, hey there. Did you ever find that construction company you were looking "
+"for?"
+msgstr ""
+
+msgctxt "116"
+msgid ""
+"I sure did. In fact, they swindled me out of my money with some phony "
+"renovations."
+msgstr ""
+
+msgctxt "128"
+msgid "But I heard their president was just arrested by the police."
+msgstr ""
+
+msgctxt "140"
+msgid "Arrested?"
+msgstr ""
+
+msgctxt "152"
+msgid ""
+"Apparently some of their workers were in the hospital with some injuries, "
+"and they were identified by law enforcement there."
+msgstr ""
+
+msgctxt "164"
+msgid "I see. Will you be getting your money back, then?"
+msgstr ""
+
+msgctxt "176"
+msgid ""
+"Well, the police said they'll get my money back for me, so I can rest well "
+"in my old age."
+msgstr ""
+
+msgctxt "188"
+msgid ""
+"But I'd sure like to shake the person's hand who smashed up those blasted "
+"renovation workers and sent 'em to the hospital! Hehe..."
+msgstr ""
+
+msgctxt "1644"
+msgid "Once-Troubled Old Man"
+msgstr ""
+
+msgctxt "1648"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1652"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "1656"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "1660"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "1664"
+msgid "Talk_Think"
+msgstr ""

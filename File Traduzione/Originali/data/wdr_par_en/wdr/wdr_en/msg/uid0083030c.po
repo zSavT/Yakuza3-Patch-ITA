@@ -1,0 +1,239 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "80"
+msgid "Hey! Are you with those guys from before!?"
+msgstr ""
+
+msgctxt "92"
+msgid ""
+"Wait, don't touch my beautiful face! Go for the meh parts of me... Maybe my "
+"forearms? I've always thought they were too skinny."
+msgstr ""
+
+msgctxt "104"
+msgid "...Wait a sec! Kiryu-san!"
+msgstr ""
+
+msgctxt "116"
+msgid ""
+"You're that guy I met in Okinawa! Mack, right? What are you\r\n"
+"doing up in Kamurocho?"
+msgstr ""
+
+msgctxt "128"
+msgid ""
+"Didn't I tell you I was gonna travel the world in search of\r\n"
+"the perfect shot? Well it just so happens this grimy old town was the first "
+"stop on my global getaway!"
+msgstr ""
+
+msgctxt "140"
+msgid ""
+"Gotta keep it local before I let the Mack Attack loose on the unsuspecting "
+"people of the world, y'know?"
+msgstr ""
+
+msgctxt "152"
+msgid "...Forget I asked. Why did you run from me?"
+msgstr ""
+
+msgctxt "164"
+msgid ""
+"Well think about it! I just strolled up to see the most\r\n"
+"amazing flash of fists break out in some random little\r\n"
+"alleyway. One lone man versus an entire thug army!"
+msgstr ""
+
+msgctxt "176"
+msgid ""
+"My eyes were superglued to that shit, man! So I kept\r\n"
+"watching, thinking maybe I'd finally snag the perfect shot\r\n"
+"I've been looking for all these years."
+msgstr ""
+
+msgctxt "188"
+msgid "But the scuffle was over before my shutter even clicked."
+msgstr ""
+
+msgctxt "200"
+msgid ""
+"Then outta the blue, the guy who kicked those American asses\r\n"
+"to kingdom come starts coming my way! I was quaking in my goddamn boots!"
+msgstr ""
+
+msgctxt "212"
+msgid "So I ran. Never would've guessed that macho man was you, Kiryu-san!"
+msgstr ""
+
+msgctxt "224"
+msgid ""
+"You, uh... take photos of random street fights? Whatever.\r\n"
+"It's safe to say you're not working with those guys."
+msgstr ""
+
+msgctxt "236"
+msgid ""
+"Me? Of course not, Kiryu-san! I know I've got the scary suit\r\n"
+"and all, but I wouldn't hurt a fly! Or anything else, for that matter!"
+msgstr ""
+
+msgctxt "248"
+msgid ""
+"By the way, you got some legs on you, Kiryu-san! They used\r\n"
+"to call me the Scampering Chicken on my high school track\r\n"
+"team, but man you're on a whole 'nother level!"
+msgstr ""
+
+msgctxt "260"
+msgid ""
+"Y'know what? I think it's fate that we crossed paths here\r\n"
+"today. Actually, I'm sure of it! Nothing but the sweet\r\n"
+"string of destiny could bring us back together."
+msgstr ""
+
+msgctxt "272"
+msgid "Which reminds me. I got a special place I wanna show you. Interested?"
+msgstr ""
+
+msgctxt "284"
+msgid "...As long as it's nothing weird."
+msgstr ""
+
+msgctxt "296"
+msgid "Oh, you don't have to worry about that. Let's go!"
+msgstr ""
+
+msgctxt "320"
+msgid "Actually, let's not! It's email time!"
+msgstr ""
+
+msgctxt "332"
+msgid "......"
+msgstr ""
+
+msgctxt "344"
+msgid "............"
+msgstr ""
+
+msgctxt "356"
+msgid ""
+"Welp, let's just forget I ever invited you! Buddy of mine in\r\n"
+"town just asked me out for a drink, and I'm not the kinda\r\n"
+"guy to say no to a drink."
+msgstr ""
+
+msgctxt "368"
+msgid "Sorry, gotta jet!"
+msgstr ""
+
+msgctxt "380"
+msgid "Wait... You have friends?"
+msgstr ""
+
+msgctxt "392"
+msgid ""
+"Heck yeah I do! This one's a special friend, over in that\r\n"
+"special place I was telling you about. And hey, I've got\r\n"
+"pals in like 13 different time zones!"
+msgstr ""
+
+msgctxt "404"
+msgid ""
+"Anyway, Kiryu-san. I'll roll out the red carpet for you some\r\n"
+"time, yeah?"
+msgstr ""
+
+msgctxt "416"
+msgid "Catch you later!"
+msgstr ""
+
+msgctxt "440"
+msgid "Uh..."
+msgstr ""
+
+msgctxt "452"
+msgid ""
+"(Well he's an... interesting guy. I'm sure I'll run into him\r\n"
+"again sooner or later.)"
+msgstr ""
+
+msgctxt "464"
+msgid ""
+"(At least he's out of my hair, though. Now to get to the\r\n"
+"Millennium Tower and meet with Kashiwagi-san.)"
+msgstr ""
+
+msgctxt "6820"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "6824"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "6828"
+msgid "Man in Black"
+msgstr ""
+
+msgctxt "6832"
+msgid "Talk_Sorry"
+msgstr ""
+
+msgctxt "6836"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "6840"
+msgid "Mack"
+msgstr ""
+
+msgctxt "6844"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "6848"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "6852"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "6856"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "6860"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "6864"
+msgid "P_stand"
+msgstr ""
+
+msgctxt "6868"
+msgid "Talk_Mail_st"
+msgstr ""
+
+msgctxt "6872"
+msgid "Talk_Mail_ed"
+msgstr ""
+
+msgctxt "6876"
+msgid "M_nml_stand"
+msgstr ""
+
+msgctxt "6880"
+msgid "dummy"
+msgstr ""

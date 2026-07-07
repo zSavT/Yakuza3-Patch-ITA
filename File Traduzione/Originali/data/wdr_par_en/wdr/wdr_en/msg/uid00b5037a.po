@@ -1,0 +1,436 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "236"
+msgid ""
+"Won't you just try this cup of ramen and tell me what you\r\n"
+"think?"
+msgstr ""
+
+msgctxt "248"
+msgid ""
+"Looks like you got that old ramen shop owner pretty riled up\r\n"
+"back there. Is everything okay?"
+msgstr ""
+
+msgctxt "260"
+msgid "Ah, yeah... Everything's fine. It wasn't like we were fighting or anything."
+msgstr ""
+
+msgctxt "272"
+msgid "Weren't you arguing over the flavor for something?"
+msgstr ""
+
+msgctxt "284"
+msgid "Aye... That we were..."
+msgstr ""
+
+msgctxt "296"
+msgid ""
+"Hmm. Are you trying to get him to share the business with you? Is that what "
+"it is?"
+msgstr ""
+
+msgctxt "308"
+msgid "......"
+msgstr ""
+
+msgctxt "320"
+msgid "(What is up with this guy...?)"
+msgstr ""
+
+msgctxt "332"
+msgid "......"
+msgstr ""
+
+msgctxt "344"
+msgid "(...And why is he staring at me like that?)"
+msgstr ""
+
+msgctxt "356"
+msgid "......"
+msgstr ""
+
+msgctxt "368"
+msgid "Hey, if there's something you want to say, then just spit it out."
+msgstr ""
+
+msgctxt "380"
+msgid "Oh, well, it's just... You look like a guy who loves his ramen!"
+msgstr ""
+
+msgctxt "392"
+msgid "Well... I suppose I do enjoy a good bowl of ramen sometimes."
+msgstr ""
+
+msgctxt "404"
+msgid "Then I hafta ask you a favor!"
+msgstr ""
+
+msgctxt "416"
+msgid "...Such as?"
+msgstr ""
+
+msgctxt "428"
+msgid "I need ya to slurp down this cup of instant ramen for me. If ya do please."
+msgstr ""
+
+msgctxt "440"
+msgid "...You want me to do what now?"
+msgstr ""
+
+msgctxt "452"
+msgid ""
+"Oh geez, I didn't even introduce myself. The name's Ueda, I work in product "
+"development for Acecook. Ever heard of it?"
+msgstr ""
+
+msgctxt "464"
+msgid "Acecook? You mean the instant noodle company?"
+msgstr ""
+
+msgctxt "476"
+msgid ""
+"That's right! As you may know, we specialize in making only\r\n"
+"the best instant ramen on the market!"
+msgstr ""
+
+msgctxt "488"
+msgid ""
+"One day I fell in love with the delicious tonkotsu ramen at this here shop, "
+"so I started commuting here from Osaka to try and replicate it. Or at least "
+"an instant version of it."
+msgstr ""
+
+msgctxt "500"
+msgid "I see. That's quite the undertaking."
+msgstr ""
+
+msgctxt "512"
+msgid ""
+"Ain't that the truth? I mean, this is the seventh time I had\r\n"
+"to alter the flavor, yet the owner still won't approve it."
+msgstr ""
+
+msgctxt "524"
+msgid "Seven times and still no luck? Maybe you're in the wrong business."
+msgstr ""
+
+msgctxt "536"
+msgid ""
+"Hey, ya don't have to kick me when I'm down... Anyway, would ya mind givin' "
+"it a taste and tellin' me what ya think?"
+msgstr ""
+
+msgctxt "548"
+msgid "No... I think I'll pass."
+msgstr ""
+
+msgctxt "560"
+msgid "Oh, okay... Not even worth trying, huh?"
+msgstr ""
+
+msgctxt "572"
+msgid ""
+"In the end... I guess this broth still isn't good enough to\r\n"
+"to wear the Kyushu No. 1 Star logo."
+msgstr ""
+
+msgctxt "596"
+msgid "I guess I could give it a try."
+msgstr ""
+
+msgctxt "644"
+msgid "(Yeah... It's not quite like the real thing.)"
+msgstr ""
+
+msgctxt "656"
+msgid ""
+"Well, whaddya think? I'm pretty confident about this batch\r\n"
+"myself."
+msgstr ""
+
+msgctxt "668"
+msgid ""
+"Well, when I tried it, there was something off about the broth. It lacked "
+"the rich, distinctive flavor that the ramen at the shop has."
+msgstr ""
+
+msgctxt "680"
+msgid ""
+"That's what the owner said, too... Which means this broth still ain't good "
+"enough to wear the Kyushu No. 1 Star logo after all."
+msgstr ""
+
+msgctxt "692"
+msgid "But what else can I do? I tried everything already."
+msgstr ""
+
+msgctxt "704"
+msgid ""
+"And the owner says I have to think about the flavor on my\r\n"
+"own, too... It's like I'm at the end of my rope here."
+msgstr ""
+
+msgctxt "716"
+msgid ""
+"If all you can do is whine about it, then you might as well\r\n"
+"give up. Be happy with the fact you made the best instant\r\n"
+"ramen you could, and leave it at that."
+msgstr ""
+
+msgctxt "728"
+msgid ""
+"What're ya sayin'!? Don't ya realize how obsessed I am with\r\n"
+"the incredible taste that only Kyushu No. 1 Star delivers!?\r\n"
+"I ain't gonna quit just 'cause some rando tells me to!"
+msgstr ""
+
+msgctxt "752"
+msgid "Are you sure you've tried everything?"
+msgstr ""
+
+msgctxt "776"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "788"
+msgid ""
+"You are trying to recreate Kyushu No. 1 Star's ramen down to the last "
+"detail, right?"
+msgstr ""
+
+msgctxt "800"
+msgid "You bet your sweet bippy I am!"
+msgstr ""
+
+msgctxt "812"
+msgid ""
+"Well, that's not what you should be doing. Instead, you\r\n"
+"should be aiming for an instant version of their ramen."
+msgstr ""
+
+msgctxt "824"
+msgid "How... is that not what I'm already doing?"
+msgstr ""
+
+msgctxt "836"
+msgid ""
+"Well, I'm no ramen expert, but I imagine that restaurant-made ramen and "
+"instant noodles have very different methods of preparation. Not to mention "
+"ingredients."
+msgstr ""
+
+msgctxt "848"
+msgid "......"
+msgstr ""
+
+msgctxt "860"
+msgid ""
+"I'll bet the owner knows that already, and that's why he\r\n"
+"won't give you a recipe."
+msgstr ""
+
+msgctxt "872"
+msgid "Come again?"
+msgstr ""
+
+msgctxt "884"
+msgid ""
+"If he tells you the recipe, you'll be so influenced by it\r\n"
+"that you won't be able to condense it into its proper form."
+msgstr ""
+
+msgctxt "896"
+msgid ""
+"I think the owner wants you to create your own original\r\n"
+"instant ramen that replicates the Kyushu No. 1 Star taste,\r\n"
+"rather than copying it down to the last ingredient."
+msgstr ""
+
+msgctxt "908"
+msgid ""
+"Otherwise, he would've turned you down flat instead of\r\n"
+"bothering to let you try... what was it, seven times?"
+msgstr ""
+
+msgctxt "920"
+msgid ""
+"Now that I think about it, the owner never once told me "
+"<Italic>not</Italic>\r\n"
+"to make it into instant ramen... He just kept tellin' me to\r\n"
+"try over and over again."
+msgstr ""
+
+msgctxt "932"
+msgid ""
+"Alright, then, I won't give up! My love for that irresistible\r\n"
+"Kyushu No. 1 Star flavor's been redoubled, and I'll stop at\r\n"
+"nothing to meet the owner's expectations!"
+msgstr ""
+
+msgctxt "944"
+msgid "But... where do I go from here?"
+msgstr ""
+
+msgctxt "956"
+msgid ""
+"Well, you're gonna have to find a way to make a cup of instant noodles "
+"taste authentic. And that's no easy task."
+msgstr ""
+
+msgctxt "968"
+msgid ""
+"Right. It's gotta have that kinda flavor that kicks ya in the teeth and "
+"makes ya come back beggin' for more! Shocks ya at the first sip, and has ya "
+"addicted by the second! Wooh!"
+msgstr ""
+
+msgctxt "980"
+msgid "Now what I need to do first is figure out the magic ingredient..."
+msgstr ""
+
+msgctxt "992"
+msgid ""
+"By the way, you give some real good advice, ya know! I'll let this stew in "
+"my head for a while and see what I can whip up!"
+msgstr ""
+
+msgctxt "1040"
+msgid ""
+"Sorry about that, sir. You don't have to put up with any of this nonsense "
+"if you don't want to."
+msgstr ""
+
+msgctxt "1052"
+msgid "...Were you watching this whole time?"
+msgstr ""
+
+msgctxt "1064"
+msgid ""
+"Shoot, when people talk loudly enough out in front of the shop, I hear it "
+"whether I like it or not."
+msgstr ""
+
+msgctxt "1076"
+msgid ""
+"Heh. Then I guess we'll both see whether that Ueda kid can pull it off or "
+"not."
+msgstr ""
+
+msgctxt "1088"
+msgid ""
+"Right... At first, I was offended at the idea of my ramen\r\n"
+"going instant, but something about his motivation really\r\n"
+"stuck with me. The kid's got spunk, I'll tell you that."
+msgstr ""
+
+msgctxt "1100"
+msgid "So that's why you won't compromise until he gets it right."
+msgstr ""
+
+msgctxt "1112"
+msgid ""
+"Mm. I know he can make a soup that'll satisfy the masses.\r\n"
+"I believe it's all a matter of time."
+msgstr ""
+
+msgctxt "1124"
+msgid ""
+"And since it's like fate at work here, could I bother you to help him out "
+"if you run into him again? Consider it a favor for an old man."
+msgstr ""
+
+msgctxt "1184"
+msgid "Try the Ramen"
+msgstr ""
+
+msgctxt "1196"
+msgid "Refuse"
+msgstr ""
+
+msgctxt "1208"
+msgid "Try the Ramen"
+msgstr ""
+
+msgctxt "1220"
+msgid "Refuse"
+msgstr ""
+
+msgctxt "1232"
+msgid "Encourage Him"
+msgstr ""
+
+msgctxt "1244"
+msgid "Discourage Him"
+msgstr ""
+
+msgctxt "14216"
+msgid "Ueda"
+msgstr ""
+
+msgctxt "14220"
+msgid "M_nml_stand_tlk_yes_02"
+msgstr ""
+
+msgctxt "14224"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "14228"
+msgid "Passionate Youth"
+msgstr ""
+
+msgctxt "14232"
+msgid "M_nml_stand_tlk_no_02"
+msgstr ""
+
+msgctxt "14236"
+msgid "M_nml_stand_tlk_kamae"
+msgstr ""
+
+msgctxt "14240"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "14244"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "14248"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "14252"
+msgid "P_stand_tlk_ok"
+msgstr ""
+
+msgctxt "14256"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "14260"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "14264"
+msgid "Owner of Kyushu No. 1 Star"
+msgstr ""
+
+msgctxt "14268"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "14272"
+msgid "dummy"
+msgstr ""

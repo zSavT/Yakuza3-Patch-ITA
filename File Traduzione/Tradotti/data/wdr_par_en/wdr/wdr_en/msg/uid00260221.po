@@ -1,0 +1,84 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid ""
+"Hyahahaha! You'll have to hone your skills and do a lot better than that if "
+"you ever want to earn the coveted Death Bowler title!"
+msgstr ""
+
+msgctxt "76"
+msgid "......"
+msgstr ""
+
+msgctxt "88"
+msgid "What? Don't you want the coveted Death Bowler title? No?"
+msgstr ""
+
+msgctxt "100"
+msgid "Well, now it would appear there's no one left in this town who"
+msgstr ""
+
+msgctxt "112"
+msgid "will challenge me to a duel."
+msgstr ""
+
+msgctxt "124"
+msgid ""
+"Now I'm off on a journey to spread the fearsome mythos of the mighty Death "
+"Bowler far and wide! Adios!"
+msgstr ""
+
+msgctxt "184"
+msgid "(What was his deal, anyway?)"
+msgstr ""
+
+msgctxt "208"
+msgid "You got 3,000 EXP."
+msgstr ""
+
+msgctxt "2300"
+msgid "Death Bowler"
+msgstr ""
+
+msgctxt "2304"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "2308"
+msgid "Talk_SmileBig_ed"
+msgstr ""
+
+msgctxt "2312"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "2316"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "2320"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "2324"
+msgid "SetM_nml_stand_dance_02"
+msgstr ""
+
+msgctxt "2328"
+msgid "dummy"
+msgstr ""
+
+msgctxt "2332"
+msgid "0"
+msgstr ""

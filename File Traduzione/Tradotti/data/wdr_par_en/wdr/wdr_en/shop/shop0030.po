@@ -1,0 +1,78 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "148"
+msgid "Don't Order Anything"
+msgstr ""
+
+msgctxt "169"
+msgid "Check Out"
+msgstr ""
+
+msgctxt "179"
+msgid "Order"
+msgstr ""
+
+msgctxt "185"
+msgid "(I'm short on cash.)"
+msgstr ""
+
+msgctxt "206"
+msgid "(I can't carry any more stuff.)"
+msgstr ""
+
+msgctxt "238"
+msgid "(I can't handle any more turtles.)"
+msgstr ""
+
+msgctxt "273"
+msgid "(I didn't choose anything.)"
+msgstr ""
+
+msgctxt "301"
+msgid "(They're sold out.)"
+msgstr ""
+
+msgctxt "321"
+msgid ""
+msgstr ""
+
+msgctxt "322"
+msgid ""
+"Spaghetti made with eggplant, tomato sauce, and \n"
+"savory bacon imported from Denmark."
+msgstr ""
+
+msgctxt "407"
+msgid ""
+"Made with succulent mini shrimp and rich tomato \n"
+"cream sauce. A delightful and savory delicacy."
+msgstr ""
+
+msgctxt "503"
+msgid ""
+"Carefully simmered, rich meat sauce on our specially \n"
+"prepared spaghetti noodles."
+msgstr ""
+
+msgctxt "585"
+msgid ""
+"This delicious spaghetti dish is made with authentic \n"
+"spicy cod roe from Hakata."
+msgstr ""
+
+msgctxt "666"
+msgid ""
+"This is our Rich Egg Carbonara, with a tasty soft-boiled\n"
+"egg on top and creamy sauce."
+msgstr ""

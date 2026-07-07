@@ -1,0 +1,306 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "400"
+msgid ""
+"Did you know the Smile Burger over in Downtown Ryukyu is selling goya "
+"burgers?"
+msgstr ""
+
+msgctxt "412"
+msgid "Oh, yeah. That's an Okinawan specialty. Have you tried it?"
+msgstr ""
+
+msgctxt "424"
+msgid "Ah, so you knew about this already."
+msgstr ""
+
+msgctxt "436"
+msgid "Haha, of course."
+msgstr ""
+
+msgctxt "448"
+msgid ""
+"We get a lot of customers from the mainland, so we're always trying to tell "
+"them something about Okinawa. Gets them real excited. "
+"<Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "460"
+msgid "Naturally."
+msgstr ""
+
+msgctxt "472"
+msgid ""
+"They serve some rafute soba over at the Kariyushi Arcade that's supposed to "
+"be really good. Full of collagen, too."
+msgstr ""
+
+msgctxt "484"
+msgid ""
+"Oh, you mean the soba stand in front of the Public Market entrance? I "
+"actually haven't tried it yet."
+msgstr ""
+
+msgctxt "496"
+msgid ""
+"It's always so crowded by the time I get there, I never really got around "
+"to waiting in line."
+msgstr ""
+
+msgctxt "508"
+msgid "You should. The Okinawan soba there is definitely worth the wait."
+msgstr ""
+
+msgctxt "520"
+msgid ""
+"Well, if you're the one who's recommending it, then maybe I'll invite a "
+"friend and head over there sometime. Good looking out, Kiryu-san."
+msgstr ""
+
+msgctxt "532"
+msgid ""
+"So there's a bar in Hatsumachi called Aqua Sky, and they serve something "
+"with their drinks you'd probably never expect."
+msgstr ""
+
+msgctxt "544"
+msgid "What is it? Some kind of appetizer? Is it... tofuyo?"
+msgstr ""
+
+msgctxt "556"
+msgid "Nope. The answer is... salt."
+msgstr ""
+
+msgctxt "568"
+msgid "Salt!? That's it?"
+msgstr ""
+
+msgctxt "580"
+msgid ""
+"Not just any salt, but a special kind made on a remote Okinawan island. "
+"It's called Maboroshi Salt."
+msgstr ""
+
+msgctxt "592"
+msgid "Ooh... that sounds kinda cool. Have you tried it for yourself?"
+msgstr ""
+
+msgctxt "604"
+msgid ""
+"Yeah, the bartender put some out for me. It's salty, but it also has a "
+"sweetness to it that really makes your drink come alive."
+msgstr ""
+
+msgctxt "616"
+msgid ""
+"Quite impressive, Kiryu-san. <Color:7>⑮<Color:Default> There's nothing like "
+"a gentleman who boasts a refined palate. <Color:7>⑮⑮<Color:Default>"
+msgstr ""
+
+msgctxt "628"
+msgid "Someday I'll be a true connoisseur, just like you. <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "640"
+msgid "Do you know about Tantakatan? It's a shochu made from perilla leaves..."
+msgstr ""
+
+msgctxt "652"
+msgid ""
+"Oh, that? We have that at the club. Or at least I think I've seen some "
+"lying around..."
+msgstr ""
+
+msgctxt "664"
+msgid "Well, what's the best way to drink it?"
+msgstr ""
+
+msgctxt "676"
+msgid ""
+"Um... I have seen customers drink it on the rocks, or maybe mixed with "
+"water... but I don't know if that's any good."
+msgstr ""
+
+msgctxt "688"
+msgid "From what I hear, you're supposed to mix Tantakatan with juice."
+msgstr ""
+
+msgctxt "700"
+msgid ""
+"Oh really? Well, if you're suggesting it, then I know it can't be wrong. "
+"<Color:7>⑮<Color:Default> I'll give that a try sometime. "
+"<Color:7>⑮⑮<Color:Default>"
+msgstr ""
+
+msgctxt "712"
+msgid "Dummy"
+msgstr ""
+
+msgctxt "724"
+msgid "Dummy"
+msgstr ""
+
+msgctxt "736"
+msgid "Dummy"
+msgstr ""
+
+msgctxt "748"
+msgid "Dummy"
+msgstr ""
+
+msgctxt "760"
+msgid "Dummy"
+msgstr ""
+
+msgctxt "772"
+msgid "Dummy"
+msgstr ""
+
+msgctxt "784"
+msgid "Dummy"
+msgstr ""
+
+msgctxt "796"
+msgid "So, I heard that Smile Burger's offering a goya patty now..."
+msgstr ""
+
+msgctxt "808"
+msgid "Yeah, and only the Okinawa branches have it. You told me about it last time!"
+msgstr ""
+
+msgctxt "820"
+msgid "Did I?"
+msgstr ""
+
+msgctxt "832"
+msgid "Wow. You really are hopeless."
+msgstr ""
+
+msgctxt "844"
+msgid "About the rafute from Okinawan Soba..."
+msgstr ""
+
+msgctxt "856"
+msgid "Oh, right... Sorry, but I haven't been able to go just yet."
+msgstr ""
+
+msgctxt "868"
+msgid "Oh... Okay then."
+msgstr ""
+
+msgctxt "880"
+msgid "About that thing they serve over at Aqua Sky..."
+msgstr ""
+
+msgctxt "892"
+msgid ""
+"Oh, that rare salt? I'm honestly not sure I could handle a round of "
+"drinking with salt as my only appetizer. Sounds kinda rough to me."
+msgstr ""
+
+msgctxt "904"
+msgid "Hmm. Maybe so."
+msgstr ""
+
+msgctxt "916"
+msgid ""
+"Guess I still have a ways to go, huh? Maybe I should have you coach me "
+"through it. <Color:7>⑮<Color:Default> Now wouldn't that be nice?"
+msgstr ""
+
+msgctxt "928"
+msgid "Have you tried out Tantakatan with juice yet?"
+msgstr ""
+
+msgctxt "940"
+msgid "I did. In fact, I tried it out with lots of different juices."
+msgstr ""
+
+msgctxt "952"
+msgid ""
+"Cranberry juice was especially good. Tasted just like a cocktail! "
+"<Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "964"
+msgid ""
+"And the fact that it was so smooth... was dangerous. I ended up drinking "
+"too much. <Color:7>⑮⑮<Color:Default>"
+msgstr ""
+
+msgctxt "976"
+msgid "Heh. Careful next time."
+msgstr ""
+
+msgctxt "988"
+msgid ""
+"Right, right. But hey, with you making the recommendations, how could I go "
+"wrong? <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "1000"
+msgid "Dummy"
+msgstr ""
+
+msgctxt "1012"
+msgid "Dummy"
+msgstr ""
+
+msgctxt "1024"
+msgid "Dummy"
+msgstr ""
+
+msgctxt "1036"
+msgid "Dummy"
+msgstr ""
+
+msgctxt "1048"
+msgid "Dummy"
+msgstr ""
+
+msgctxt "1060"
+msgid "Dummy"
+msgstr ""
+
+msgctxt "1072"
+msgid "Dummy"
+msgstr ""
+
+msgctxt "9744"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "9748"
+msgid "Nao"
+msgstr ""
+
+msgctxt "9752"
+msgid "F_cab_sitsofa_talk_smileA"
+msgstr ""
+
+msgctxt "9756"
+msgid "F_cab_sitsofa_tlk_happy"
+msgstr ""
+
+msgctxt "9760"
+msgid "F_cab_sitsofa_tlk_noA"
+msgstr ""
+
+msgctxt "9764"
+msgid "F_cab_sitsofa_tlk_suprise"
+msgstr ""
+
+msgctxt "9768"
+msgid "F_cab_sitsofa_tlk_yes"
+msgstr ""

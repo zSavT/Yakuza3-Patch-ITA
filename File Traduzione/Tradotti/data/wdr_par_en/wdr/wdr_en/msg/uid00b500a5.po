@@ -1,0 +1,170 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "124"
+msgid "*pant* *pant* What the hell are you...?"
+msgstr ""
+
+msgctxt "136"
+msgid "It's over. Turn yourself in now, and you'll get a light sentence."
+msgstr ""
+
+msgctxt "148"
+msgid "No way... I can't get caught. I have to do this for her... I... I have to..."
+msgstr ""
+
+msgctxt "160"
+msgid "For her?"
+msgstr ""
+
+msgctxt "172"
+msgid "Outta my way!"
+msgstr ""
+
+msgctxt "256"
+msgid "What happened to that criminal?"
+msgstr ""
+
+msgctxt "268"
+msgid "Sorry. He got away. Is your cashier okay?"
+msgstr ""
+
+msgctxt "280"
+msgid "Just fine. We've still got all our money, and no one was injured."
+msgstr ""
+
+msgctxt "292"
+msgid "Wait! We have to chase down that criminal! And I've got to call the police!"
+msgstr ""
+
+msgctxt "304"
+msgid ""
+"I hate to be so bold, but could you go after that robber? We'd really "
+"appreciate it!"
+msgstr ""
+
+msgctxt "316"
+msgid "(That robber had something else going on... What was he talking about...?)"
+msgstr ""
+
+msgctxt "328"
+msgid "All right. Leave him to me."
+msgstr ""
+
+msgctxt "340"
+msgid "Thank you, sir! I'll pay you for your service, so please! Go after him!"
+msgstr ""
+
+msgctxt "352"
+msgid "I'll go after the robber. You call the cops."
+msgstr ""
+
+msgctxt "364"
+msgid "Yes, sir! I'll call them right now!"
+msgstr ""
+
+msgctxt "376"
+msgid ""
+"(That guy's quick on his feet. There's no trace of him. I need to ask "
+"around for witnesses.)"
+msgstr ""
+
+msgctxt "436"
+msgid "This is something the cops should handle. Call them right now."
+msgstr ""
+
+msgctxt "448"
+msgid "But... he'll get away..."
+msgstr ""
+
+msgctxt "460"
+msgid "Call the cops now, or he's long gone."
+msgstr ""
+
+msgctxt "472"
+msgid "Yes, sir! I'll get on it right away!"
+msgstr ""
+
+msgctxt "484"
+msgid "(I guess the cops can take it from here.)"
+msgstr ""
+
+msgctxt "532"
+msgid "Give it up. If you take this any further, you'll go to prison."
+msgstr ""
+
+msgctxt "544"
+msgid ""
+"I don't have a choice, man! Don't be a hero, I don't want to have to kill "
+"you!"
+msgstr ""
+
+msgctxt "568"
+msgid "Go After the Robber"
+msgstr ""
+
+msgctxt "580"
+msgid "Don't Go After the Robber"
+msgstr ""
+
+msgctxt "4748"
+msgid "Robber"
+msgstr ""
+
+msgctxt "4752"
+msgid "M_ykz_damage"
+msgstr ""
+
+msgctxt "4756"
+msgid "Talk_Kamae"
+msgstr ""
+
+msgctxt "4760"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "4764"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "4768"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "4772"
+msgid "Manager"
+msgstr ""
+
+msgctxt "4776"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "4780"
+msgid "Talk_Request"
+msgstr ""
+
+msgctxt "4784"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "4788"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "4792"
+msgid "dummy"
+msgstr ""
+
+msgctxt "4796"
+msgid "Talk_Odosu"
+msgstr ""

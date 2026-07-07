@@ -1,0 +1,88 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "112"
+msgid "*pant* *pant*"
+msgstr ""
+
+msgctxt "124"
+msgid "I can't... keep running..."
+msgstr ""
+
+msgctxt "148"
+msgid "*pant* *pant*"
+msgstr ""
+
+msgctxt "160"
+msgid "I'm all outta juice... Looks like my goose is cooked."
+msgstr ""
+
+msgctxt "232"
+msgid "The Mack Attack is back in action!"
+msgstr ""
+
+msgctxt "244"
+msgid "Damn, I lost..."
+msgstr ""
+
+msgctxt "1916"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1920"
+msgid "P_damage"
+msgstr ""
+
+msgctxt "1924"
+msgid "Talk_Kamae"
+msgstr ""
+
+msgctxt "1928"
+msgid "0"
+msgstr ""
+
+msgctxt "1932"
+msgid "10_-15_SLOWER_VF"
+msgstr ""
+
+msgctxt "1936"
+msgid "Player_AORI_1.5_ON"
+msgstr ""
+
+msgctxt "1940"
+msgid "Mack"
+msgstr ""
+
+msgctxt "1944"
+msgid "Talker_AORI_1.5_ON"
+msgstr ""
+
+msgctxt "1948"
+msgid "15_15_SLOWER_VF_ON"
+msgstr ""
+
+msgctxt "1952"
+msgid "CHS_8006"
+msgstr ""
+
+msgctxt "1956"
+msgid "SetM_nml_sync_chase_hold_lp"
+msgstr ""
+
+msgctxt "1960"
+msgid "SetP_sync_chase_hold_lp"
+msgstr ""
+
+msgctxt "1964"
+msgid "Player_TOP_2.5_ON"
+msgstr ""

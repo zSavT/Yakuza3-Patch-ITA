@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid "Outta my way, old man!"
+msgstr ""
+
+msgctxt "124"
+msgid "You lost your <Color:8>Italian Shoulder Bag<Color:Default>."
+msgstr ""
+
+msgctxt "172"
+msgid "You lost your <Color:8>French Handbag<Color:Default>."
+msgstr ""
+
+msgctxt "220"
+msgid "You lost your <Color:8>Monogrammed Bag<Color:Default>."
+msgstr ""
+
+msgctxt "268"
+msgid "You lost your <Color:8>Caviar Skin Bag<Color:Default>."
+msgstr ""
+
+msgctxt "304"
+msgid ""
+"(A bag snatcher! He must've been targeting customers who come out of this "
+"shop.)"
+msgstr ""
+
+msgctxt "316"
+msgid "(If he gets away, it's all over. I better go after him.)"
+msgstr ""
+
+msgctxt "2888"
+msgid "Bag Snatcher"
+msgstr ""
+
+msgctxt "2892"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "2896"
+msgid "Idle"
+msgstr ""
+
+msgctxt "2900"
+msgid "dummy"
+msgstr ""

@@ -1,0 +1,72 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "148"
+msgid "My presentation went great! Time to celebrate with some Tantakatan!"
+msgstr ""
+
+msgctxt "160"
+msgid "Oh, is that the shochu made from perilla leaves?"
+msgstr ""
+
+msgctxt "172"
+msgid ""
+"All the girls at the office are obsessed with it. We usually mix it with "
+"cranberry juice!"
+msgstr ""
+
+msgctxt "184"
+msgid "You know, we should get the team together and head down to a bar."
+msgstr ""
+
+msgctxt "196"
+msgid ""
+"Good idea. Everyone's been working so hard lately, after all. Might be nice "
+"to take a night off."
+msgstr ""
+
+msgctxt "208"
+msgid "Well, then, let's get going. Mind giving everyone at the company a call?"
+msgstr ""
+
+msgctxt "220"
+msgid "(Tantakatan, huh? I should remember this when I'm over at a cabaret club.)"
+msgstr ""
+
+msgctxt "1456"
+msgid "Businessman"
+msgstr ""
+
+msgctxt "1460"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "1464"
+msgid "Businesswoman"
+msgstr ""
+
+msgctxt "1468"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "1472"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "1476"
+msgid "Talk_Info_L"
+msgstr ""
+
+msgctxt "1480"
+msgid "Kiryu"
+msgstr ""

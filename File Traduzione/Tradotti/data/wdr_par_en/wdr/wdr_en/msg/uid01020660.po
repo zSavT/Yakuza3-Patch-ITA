@@ -1,0 +1,107 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "76"
+msgid "Phew, nothing like a nice, refreshing bath!"
+msgstr ""
+
+msgctxt "88"
+msgid "Haruka."
+msgstr ""
+
+msgctxt "100"
+msgid "Oh, hi, Uncle Kaz. Is something wrong?"
+msgstr ""
+
+msgctxt "112"
+msgid "It's Ayako."
+msgstr ""
+
+msgctxt "124"
+msgid "Ayako-chan? What about her?"
+msgstr ""
+
+msgctxt "184"
+msgid "Hmm. I see..."
+msgstr ""
+
+msgctxt "196"
+msgid ""
+"I mean, it's great that she puts so much effort into making\r\n"
+"sure everyone else is okay, but I'm honestly kinda worried\r\n"
+"she's not taking care of herself."
+msgstr ""
+
+msgctxt "208"
+msgid "Huh? Why do you say that?"
+msgstr ""
+
+msgctxt "220"
+msgid "Not sure. It's just the impression I get."
+msgstr ""
+
+msgctxt "232"
+msgid "...Honestly, I've kinda been feeling the same way."
+msgstr ""
+
+msgctxt "244"
+msgid ""
+"I'm sure Ayako-chan thinks she has to take care of everyone\r\n"
+"else since she's older than they are."
+msgstr ""
+
+msgctxt "256"
+msgid "She almost treats it like some kind of job."
+msgstr ""
+
+msgctxt "268"
+msgid ""
+"I keep offering help, too, but she turns me down flat every\r\n"
+"time. Plus..."
+msgstr ""
+
+msgctxt "280"
+msgid "Plus what?"
+msgstr ""
+
+msgctxt "292"
+msgid ""
+"I think the other kids ask her for stuff they're too afraid\r\n"
+"to ask me for. They probably think I'd get mad at them."
+msgstr ""
+
+msgctxt "304"
+msgid ""
+"And Ayako-chan's so nice that she can't say no, no matter\r\n"
+"what they ask for. She barely thinks of herself."
+msgstr ""
+
+msgctxt "316"
+msgid "Yeah, I think you're right..."
+msgstr ""
+
+msgctxt "3932"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "3936"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "3940"
+msgid "P_sitgrd_tlk_jibeta_kamae"
+msgstr ""
+
+msgctxt "3944"
+msgid "SetF_cld_sitgrd_asagao_01"
+msgstr ""

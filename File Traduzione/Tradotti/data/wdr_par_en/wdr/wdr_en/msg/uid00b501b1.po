@@ -1,0 +1,70 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "92"
+msgid "(A girl in a baseball cap... Is this the right Sakura?)"
+msgstr ""
+
+msgctxt "104"
+msgid "Hey, there. Is your name Sakura?"
+msgstr ""
+
+msgctxt "116"
+msgid "Nuh-uh. I'm Kanae. Who are you?"
+msgstr ""
+
+msgctxt "128"
+msgid "I'm just looking for a lost girl. Where'd you get the cap?"
+msgstr ""
+
+msgctxt "140"
+msgid ""
+"This? There was this girl from Tokyo who said she wanted my ribbon, so she "
+"traded me for it."
+msgstr ""
+
+msgctxt "152"
+msgid "(A ribbon. Great.)"
+msgstr ""
+
+msgctxt "164"
+msgid ""
+"I like sports! I don't wanna be a girly-girl... But my mom just won't "
+"listen! She keeps dressing me up in cute stuff."
+msgstr ""
+
+msgctxt "176"
+msgid "Okay, well... thanks anyway."
+msgstr ""
+
+msgctxt "188"
+msgid ""
+"(Now I'm looking for a girl in a ribbon? Why does this have to be so "
+"complicated?)"
+msgstr ""
+
+msgctxt "1504"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1508"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "1512"
+msgid "Kanae"
+msgstr ""
+
+msgctxt "1516"
+msgid "Talk_No"
+msgstr ""

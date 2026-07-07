@@ -1,0 +1,72 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "92"
+msgid "Hey, why don't we go to Kansai for our vacation?"
+msgstr ""
+
+msgctxt "104"
+msgid ""
+"Kansai...? The restaurants here are just as good. What do they have that we "
+"don't?"
+msgstr ""
+
+msgctxt "116"
+msgid "I heard they have a castle that splits in two!"
+msgstr ""
+
+msgctxt "128"
+msgid "Huh? What are you talking about?"
+msgstr ""
+
+msgctxt "140"
+msgid ""
+"And then a golden version of the exact same castle rises up from the first "
+"one!"
+msgstr ""
+
+msgctxt "152"
+msgid "I think you've had too much to drink..."
+msgstr ""
+
+msgctxt "164"
+msgid "No, it's true! Come on, we have to go see it!"
+msgstr ""
+
+msgctxt "1192"
+msgid "Gossip-Hungry Lady"
+msgstr ""
+
+msgctxt "1196"
+msgid "Realistic Colleague"
+msgstr ""
+
+msgctxt "1200"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "1204"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "1208"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "1212"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "1216"
+msgid "Talk_No"
+msgstr ""

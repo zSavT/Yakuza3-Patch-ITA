@@ -1,0 +1,44 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid "test1"
+msgstr ""
+
+msgctxt "76"
+msgid "test2"
+msgstr ""
+
+msgctxt "88"
+msgid "test3"
+msgstr ""
+
+msgctxt "304"
+msgid "Kashiwagi"
+msgstr ""
+
+msgctxt "308"
+msgid "adv_scene_101/kashiwagi_002"
+msgstr ""
+
+msgctxt "312"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "316"
+msgid "adv_scene_101/kiryu_193"
+msgstr ""
+
+msgctxt "320"
+msgid "adv_scene_101/kashiwagi_003"
+msgstr ""

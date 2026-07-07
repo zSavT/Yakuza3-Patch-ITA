@@ -1,0 +1,338 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "256"
+msgid "Welcome, sir."
+msgstr ""
+
+msgctxt "268"
+msgid ""
+"Sir, I feel obligated to warn you that there's been an uptick in bag "
+"robberies these last few months. Particularly high-end ones."
+msgstr ""
+
+msgctxt "280"
+msgid "Even some of our customers have had their goods snatched away from them."
+msgstr ""
+
+msgctxt "292"
+msgid "They just rob people in broad daylight?"
+msgstr ""
+
+msgctxt "304"
+msgid ""
+"Indeed. Apparently there's a syndicate running the streets. One or two "
+"members were caught, but crime is still out of control."
+msgstr ""
+
+msgctxt "316"
+msgid ""
+"I won't feel safe selling our luxury goods until the whole ring is brought "
+"to justice."
+msgstr ""
+
+msgctxt "328"
+msgid "(So there's a group of bag snatchers operating in this area...?)"
+msgstr ""
+
+msgctxt "340"
+msgid ""
+"Please take me seriously on this, sir. And if you happen to purchase "
+"something, please be very cautious on your way home."
+msgstr ""
+
+msgctxt "352"
+msgid ""
+"Expensive bags are being snatched right and left lately. It's put quite a "
+"dent in our business..."
+msgstr ""
+
+msgctxt "364"
+msgid ""
+"I hope they catch them soon, but if you buy something in the meantime, be "
+"extremely careful on your way home."
+msgstr ""
+
+msgctxt "376"
+msgid "On a lighter note, what might you be interested in today?"
+msgstr ""
+
+msgctxt "412"
+msgid "Will that be all, sir?"
+msgstr ""
+
+msgctxt "484"
+msgid "Of course, sir. Please be careful on your way home."
+msgstr ""
+
+msgctxt "520"
+msgid "Not just yet."
+msgstr ""
+
+msgctxt "532"
+msgid "Of course. Might I ask what you're looking for?"
+msgstr ""
+
+msgctxt "556"
+msgid "Please come again."
+msgstr ""
+
+msgctxt "568"
+msgid "Yeah, I'm done."
+msgstr ""
+
+msgctxt "580"
+msgid "Very good. Let me show you out."
+msgstr ""
+
+msgctxt "616"
+msgid ""
+"Thank you for shopping with us. Incidentally⑬is sir perhaps in the market "
+"for foreign merchandise?"
+msgstr ""
+
+msgctxt "628"
+msgid "You carry that, huh?"
+msgstr ""
+
+msgctxt "640"
+msgid "Yes, every two months, we order name-brand goods from Europe."
+msgstr ""
+
+msgctxt "652"
+msgid ""
+"If you make a reservation beforehand, we can track down European goods for "
+"you."
+msgstr ""
+
+msgctxt "664"
+msgid ""
+"They have luxury handbags that aren't yet available in Japan, so if you'd "
+"like to get your hands on one, please let us know."
+msgstr ""
+
+msgctxt "676"
+msgid ""
+"(They can reserve brand-name goods, huh? I should bring this up at the "
+"hostess club.)"
+msgstr ""
+
+msgctxt "700"
+msgid "Welcome, sir."
+msgstr ""
+
+msgctxt "712"
+msgid ""
+"You should know⑬those bag snatchers I warned you about have vanished "
+"without a trace! Perhaps they've been caught."
+msgstr ""
+
+msgctxt "724"
+msgid "At any rate, you can shop at ease now."
+msgstr ""
+
+msgctxt "760"
+msgid "Will that be all, sir?"
+msgstr ""
+
+msgctxt "772"
+msgid "Not just yet."
+msgstr ""
+
+msgctxt "784"
+msgid "Of course. Might I ask what you're looking for?"
+msgstr ""
+
+msgctxt "808"
+msgid "Please come again."
+msgstr ""
+
+msgctxt "820"
+msgid "Yeah, I'm done."
+msgstr ""
+
+msgctxt "832"
+msgid "Very good. Let me show you out."
+msgstr ""
+
+msgctxt "868"
+msgid ""
+"Thank you for shopping with us. Incidentally⑬is sir perhaps in the market "
+"for foreign merchandise?"
+msgstr ""
+
+msgctxt "880"
+msgid "You carry that, huh?"
+msgstr ""
+
+msgctxt "892"
+msgid "Yes, every two months, we order name-brand goods from Europe."
+msgstr ""
+
+msgctxt "904"
+msgid ""
+"If you make a reservation beforehand, we can track down European goods for "
+"you."
+msgstr ""
+
+msgctxt "916"
+msgid ""
+"They have luxury handbags that aren't yet available in Japan, so if you'd "
+"like to get your hands on one, please let us know."
+msgstr ""
+
+msgctxt "928"
+msgid ""
+"(They can reserve brand-name goods, huh? I should bring this up at the "
+"hostess club.)"
+msgstr ""
+
+msgctxt "952"
+msgid "Welcome, sir."
+msgstr ""
+
+msgctxt "964"
+msgid ""
+"It seems the bag snatching incidents I mentioned have been reduced "
+"dramatically."
+msgstr ""
+
+msgctxt "976"
+msgid ""
+"It seems they robbed the wrong man. One of their victims taught them a "
+"harsh lesson, which shook up the whole racket."
+msgstr ""
+
+msgctxt "988"
+msgid "Hopefully, that'll be enough for the entire syndicate to collapse."
+msgstr ""
+
+msgctxt "1000"
+msgid "At any rate, you may now shop worry-free."
+msgstr ""
+
+msgctxt "1036"
+msgid "Will that be all, sir?"
+msgstr ""
+
+msgctxt "1048"
+msgid "Not quite yet."
+msgstr ""
+
+msgctxt "1060"
+msgid "Of course. Might I ask what you're looking for?"
+msgstr ""
+
+msgctxt "1084"
+msgid "Please come again."
+msgstr ""
+
+msgctxt "1096"
+msgid "Yeah, I'm done."
+msgstr ""
+
+msgctxt "1108"
+msgid "Very good. Let me show you out."
+msgstr ""
+
+msgctxt "1144"
+msgid ""
+"Thank you for shopping with us. Incidentally⑬is sir perhaps in the market "
+"for foreign merchandise?"
+msgstr ""
+
+msgctxt "1156"
+msgid "You carry that, huh?"
+msgstr ""
+
+msgctxt "1168"
+msgid "Yes, every two months, we order name-brand goods from Europe."
+msgstr ""
+
+msgctxt "1180"
+msgid ""
+"If you make a reservation beforehand, we can track down European goods for "
+"you."
+msgstr ""
+
+msgctxt "1192"
+msgid ""
+"They have luxury handbags that aren't yet available in Japan, so if you'd "
+"like to get your hands on one, please let us know."
+msgstr ""
+
+msgctxt "1204"
+msgid ""
+"(They can reserve brand-name goods, huh? I should bring this up at the "
+"hostess club.)"
+msgstr ""
+
+msgctxt "1228"
+msgid "That's it."
+msgstr ""
+
+msgctxt "1240"
+msgid "Not yet."
+msgstr ""
+
+msgctxt "1252"
+msgid "That's it."
+msgstr ""
+
+msgctxt "1264"
+msgid "Not yet."
+msgstr ""
+
+msgctxt "1276"
+msgid "That's it."
+msgstr ""
+
+msgctxt "1288"
+msgid "Not yet."
+msgstr ""
+
+msgctxt "10988"
+msgid "Employee"
+msgstr ""
+
+msgctxt "10992"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "10996"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "11000"
+msgid "Talk_Kosite_st"
+msgstr ""
+
+msgctxt "11004"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "11008"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "11012"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "11016"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "11020"
+msgid "Owner"
+msgstr ""

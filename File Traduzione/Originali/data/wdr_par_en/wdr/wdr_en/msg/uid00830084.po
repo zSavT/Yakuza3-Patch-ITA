@@ -1,0 +1,428 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "216"
+msgid ""
+"Come let me know what went down when you're done your little\r\n"
+"sightseeing tour."
+msgstr ""
+
+msgctxt "228"
+msgid "All right, I will."
+msgstr ""
+
+msgctxt "240"
+msgid "You ready to talk, Kiryu?"
+msgstr ""
+
+msgctxt "252"
+msgid "Not just yet, sorry. Still have some things to do."
+msgstr ""
+
+msgctxt "264"
+msgid "Oh. Well, come on back when you're ready."
+msgstr ""
+
+msgctxt "276"
+msgid "Will do."
+msgstr ""
+
+msgctxt "288"
+msgid "Let's talk."
+msgstr ""
+
+msgctxt "300"
+msgid "Great. So, tell me what happened with Kanda."
+msgstr ""
+
+msgctxt "312"
+msgid "Well..."
+msgstr ""
+
+msgctxt "348"
+msgid ""
+"Oh, Kiryu. Feel like you've been gone for hours. You have\r\n"
+"trouble finding Kanda or something?"
+msgstr ""
+
+msgctxt "360"
+msgid "That was part of it. But also..."
+msgstr ""
+
+msgctxt "372"
+msgid "Also what?"
+msgstr ""
+
+msgctxt "384"
+msgid ""
+"Mama, you mind if a friend I brought up from Okinawa stays\r\n"
+"here with me? They won't be around any longer than I am."
+msgstr ""
+
+msgctxt "396"
+msgid "Oh, of course. Is this a, erm, \"special\" friend...?"
+msgstr ""
+
+msgctxt "408"
+msgid "Nah, you've gotta be talking about Haruka, right?"
+msgstr ""
+
+msgctxt "420"
+msgid ""
+"No on both counts. It's actually the captain of the Ryudo\r\n"
+"Family, one of the biggest syndicates in Okinawa."
+msgstr ""
+
+msgctxt "432"
+msgid ""
+"And we're definitely talking about a guy here, right? Or did you go and "
+"hook yourself some bigshot female yakuza?"
+msgstr ""
+
+msgctxt "444"
+msgid "His name's Rikiya. He's still pretty much just a kid."
+msgstr ""
+
+msgctxt "456"
+msgid ""
+"Oho, well in that case he's especially welcome! We could use\r\n"
+"some young blood to freshen up the place. All I normally get\r\n"
+"in here is middle-aged farts like Date-san."
+msgstr ""
+
+msgctxt "468"
+msgid "What's that supposed to mean!?"
+msgstr ""
+
+msgctxt "480"
+msgid ""
+"Hehe, just giving you a taste of your own medicine! That's\r\n"
+"what you get for calling me an old lady all the time!"
+msgstr ""
+
+msgctxt "492"
+msgid "...Well, guess I deserve that."
+msgstr ""
+
+msgctxt "504"
+msgid ""
+"Anyway, you guys are welcome to stay in the back office so\r\n"
+"long as you don't cause any trouble in here. I mostly just\r\n"
+"use it for storage."
+msgstr ""
+
+msgctxt "516"
+msgid "I appreciate it, Mama."
+msgstr ""
+
+msgctxt "528"
+msgid "So... where is this guy?"
+msgstr ""
+
+msgctxt "540"
+msgid ""
+"I let him go explore Kamurocho a bit, see the sights. He's\r\n"
+"coming here when he's done."
+msgstr ""
+
+msgctxt "552"
+msgid "Sounds like a damn tourist. So much for work ethic."
+msgstr ""
+
+msgctxt "564"
+msgid ""
+"Everything okay, Date-san? It doesn't sound like you're in\r\n"
+"a very good mood."
+msgstr ""
+
+msgctxt "576"
+msgid "Nah, it's nothing."
+msgstr ""
+
+msgctxt "612"
+msgid ""
+"Finally found ya, Aniki! Would you believe I went in like\r\n"
+"five different bars before I ended up here? This city's a\r\n"
+"goddamn maze or somethin'!"
+msgstr ""
+
+msgctxt "624"
+msgid "This your guy, Kiryu?"
+msgstr ""
+
+msgctxt "636"
+msgid "Yup."
+msgstr ""
+
+msgctxt "648"
+msgid ""
+"Rikiya, this is my friend Date-san. I couldn't tell you how many times he's "
+"helped me over the years. Oh, and this is the mama of this bar."
+msgstr ""
+
+msgctxt "660"
+msgid ""
+"Aniki's friends, huh? Pleasure meetin' you! The name's\r\n"
+"Rikiya Shimabukuro!"
+msgstr ""
+
+msgctxt "672"
+msgid "Well someone has a lot of energy, hehe!"
+msgstr ""
+
+msgctxt "684"
+msgid "I try, ma'am!"
+msgstr ""
+
+msgctxt "696"
+msgid "Hmph. It's Date. Pleased."
+msgstr ""
+
+msgctxt "708"
+msgid "Oh, the honor's all mine!"
+msgstr ""
+
+msgctxt "720"
+msgid "Rikiya. You finished looking around town?"
+msgstr ""
+
+msgctxt "732"
+msgid "I mean I guess, but..."
+msgstr ""
+
+msgctxt "744"
+msgid "What's wrong?"
+msgstr ""
+
+msgctxt "756"
+msgid ""
+"I never found that bikini bar I was lookin' for. I really\r\n"
+"wanted to see what kinda heat a Tokyo one could bring, too..."
+msgstr ""
+
+msgctxt "768"
+msgid "(I didn't realize it was that important to him...)"
+msgstr ""
+
+msgctxt "780"
+msgid ""
+"Anyway, Kiryu. I'm ready to hear what went down with Kanda\r\n"
+"whenever you're ready to spill it."
+msgstr ""
+
+msgctxt "792"
+msgid ""
+"Just let me know when it's time, okay? I wanna really dig\r\n"
+"into the details here."
+msgstr ""
+
+msgctxt "840"
+msgid ""
+"We settled? I'll dig around for anything on the man in this\r\n"
+"sketch, you get after Kanda."
+msgstr ""
+
+msgctxt "852"
+msgid "Right. Thanks, Date-san."
+msgstr ""
+
+msgctxt "864"
+msgid ""
+"We settled? I'll dig around for anything on the man in this\r\n"
+"sketch, you get after Kanda."
+msgstr ""
+
+msgctxt "876"
+msgid "Right."
+msgstr ""
+
+msgctxt "888"
+msgid ""
+"Rumor has it, Kanda gets his boys to haul a girl up to his\r\n"
+"hotel room every night. If anyone's gonna know where to find\r\n"
+"him, it's them."
+msgstr ""
+
+msgctxt "900"
+msgid ""
+"Mama, you mind if we use your bar as a sorta base of\r\n"
+"operations?"
+msgstr ""
+
+msgctxt "912"
+msgid "Hm?"
+msgstr ""
+
+msgctxt "924"
+msgid ""
+"Don't worry, we won't disrupt your business or anything.\r\n"
+"Just stick us in a back room and forget we even exist. Well,\r\n"
+"Mama?"
+msgstr ""
+
+msgctxt "936"
+msgid "Hmmm. I guess you are one of my best customers..."
+msgstr ""
+
+msgctxt "948"
+msgid "Oh, what the heck. Go ahead."
+msgstr ""
+
+msgctxt "960"
+msgid "Appreciate it, Mama."
+msgstr ""
+
+msgctxt "972"
+msgid "Just stay out of my customers' hair, okay?"
+msgstr ""
+
+msgctxt "984"
+msgid "Of course, of course."
+msgstr ""
+
+msgctxt "996"
+msgid "Sorry about this, Mama."
+msgstr ""
+
+msgctxt "1008"
+msgid ""
+"Oh, it's nothing. This is the least I can do with how often\r\n"
+"Date-san frequents my bar. It's rare you don't see him in\r\n"
+"here, glass of whisky in hand!"
+msgstr ""
+
+msgctxt "1020"
+msgid "Hmph."
+msgstr ""
+
+msgctxt "1032"
+msgid "Besides, Kiryu-san. You're kinda my type."
+msgstr ""
+
+msgctxt "1044"
+msgid "Your what!?"
+msgstr ""
+
+msgctxt "1056"
+msgid "Do I hear a tinge of jealousy in your voice, Date-san?"
+msgstr ""
+
+msgctxt "1068"
+msgid "Don't be ridiculous!"
+msgstr ""
+
+msgctxt "1080"
+msgid "Aww, you're blushing!"
+msgstr ""
+
+msgctxt "1092"
+msgid "Kiryu! Can you please just go find Kanda already?"
+msgstr ""
+
+msgctxt "1104"
+msgid "Heh. Don't let them bully you while I'm gone."
+msgstr ""
+
+msgctxt "1116"
+msgid "You now have access to a hideout."
+msgstr ""
+
+msgctxt "1128"
+msgid ""
+"Here you can save your game, move items to the item box,\r\n"
+"reminisce on past events, and view your play stats."
+msgstr ""
+
+msgctxt "1140"
+msgid "Furthermore, your health will recover while at a hideout."
+msgstr ""
+
+msgctxt "1176"
+msgid "Not just yet, sorry."
+msgstr ""
+
+msgctxt "1188"
+msgid "Let's talk."
+msgstr ""
+
+msgctxt "13536"
+msgid "Date"
+msgstr ""
+
+msgctxt "13540"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "13544"
+msgid "Mama"
+msgstr ""
+
+msgctxt "13548"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "13552"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "13556"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "13560"
+msgid "Rikiya"
+msgstr ""
+
+msgctxt "13564"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "13568"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "13572"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "13576"
+msgid "dummy"
+msgstr ""
+
+msgctxt "13580"
+msgid "0"
+msgstr ""
+
+msgctxt "13584"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "13588"
+msgid "Talk_Sorry"
+msgstr ""
+
+msgctxt "13592"
+msgid "Talk_Request"
+msgstr ""
+
+msgctxt "13596"
+msgid "Wakazo"
+msgstr ""
+
+msgctxt "13600"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "13604"
+msgid "Talk_No"
+msgstr ""

@@ -1,0 +1,67 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "116"
+msgid "Phew..."
+msgstr ""
+
+msgctxt "128"
+msgid "Finally done running, huh? Guess it's time to make you tell me the truth."
+msgstr ""
+
+msgctxt "140"
+msgid "Eep, wait! Wait! I tell you everything!"
+msgstr ""
+
+msgctxt "152"
+msgid ""
+"Boss is on roof of building <Color:7>on Nakamichi Alley<Color:Default>. "
+"Your friend\r\n"
+"there with him!"
+msgstr ""
+
+msgctxt "164"
+msgid "(Dammit... I need to get over there!)"
+msgstr ""
+
+msgctxt "1376"
+msgid "CHS_8003"
+msgstr ""
+
+msgctxt "1380"
+msgid "M_ykz_damage"
+msgstr ""
+
+msgctxt "1384"
+msgid "Player_FRONT_1.8_ON"
+msgstr ""
+
+msgctxt "1388"
+msgid "Idle"
+msgstr ""
+
+msgctxt "1392"
+msgid "10_-25_SLOWER_VF_ON"
+msgstr ""
+
+msgctxt "1396"
+msgid "Snake Flower Officer"
+msgstr ""
+
+msgctxt "1400"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1404"
+msgid "Talk_Odosu"
+msgstr ""

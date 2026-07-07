@@ -1,0 +1,178 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid "Guh... Who the hell are you, anyway...?"
+msgstr ""
+
+msgctxt "76"
+msgid ""
+"We're underage, you know... I don't care if you're a yakuza or whatever. If "
+"you screw with us... you know what'll happen?"
+msgstr ""
+
+msgctxt "88"
+msgid ""
+"I can guess. But I know Kamurocho cops aren't dumb enough to take your word "
+"for it. Learned that myself a long time ago."
+msgstr ""
+
+msgctxt "148"
+msgid ""
+"You guys gotta keep it down. Look what you've done to my poor widdle "
+"henchmen!"
+msgstr ""
+
+msgctxt "172"
+msgid "...So you're their leader?"
+msgstr ""
+
+msgctxt "184"
+msgid "And what if I am?"
+msgstr ""
+
+msgctxt "196"
+msgid "Get out of the Dragon Palace. Now."
+msgstr ""
+
+msgctxt "208"
+msgid "Sorry? The Dragon's what?"
+msgstr ""
+
+msgctxt "220"
+msgid ""
+"The building you've made your hideout. You're going to get out of there, "
+"now."
+msgstr ""
+
+msgctxt "232"
+msgid "And who's gonna make me, buddy? You don't look like a cop to me."
+msgstr ""
+
+msgctxt "244"
+msgid ""
+"I'm not in the mood for negotiations. This is an order, so I suggest you "
+"listen up."
+msgstr ""
+
+msgctxt "256"
+msgid "Heheh... hahahahaha! Oh man, you're hilarious!"
+msgstr ""
+
+msgctxt "268"
+msgid ""
+"I gotta hand it to you... In all my 19 years, you're the first guy to "
+"lecture me to my face like this! You think you're my babysitter?"
+msgstr ""
+
+msgctxt "280"
+msgid ""
+"I'm used to taking care of kids, yeah. Except mine are a lot smarter than "
+"you guys."
+msgstr ""
+
+msgctxt "292"
+msgid ""
+"Well, I guess I don't mind giving up a shithole like that place... long as "
+"you got a replacement in mind."
+msgstr ""
+
+msgctxt "304"
+msgid "There's no room in Kamurocho for you punks."
+msgstr ""
+
+msgctxt "316"
+msgid "Oooh, that's some pretty big talk... Okay, then. Let's play a game."
+msgstr ""
+
+msgctxt "328"
+msgid "What kind of game?"
+msgstr ""
+
+msgctxt "340"
+msgid ""
+"See, at first, I just kicked the hobos around cause I was in a bad mood. "
+"Didn't have to be them. Anyone would be fine."
+msgstr ""
+
+msgctxt "352"
+msgid ""
+"But once we started smackin' around the ones in that building, we got used "
+"to it. Now even that's gotten old."
+msgstr ""
+
+msgctxt "364"
+msgid "Cut the monologue. I asked you a question."
+msgstr ""
+
+msgctxt "376"
+msgid ""
+"Right, this game... Basically, all I wanna do is hit someone. Anyone. So "
+"how about I hit you instead?"
+msgstr ""
+
+msgctxt "388"
+msgid "Oh, but you can hit me back, of course!"
+msgstr ""
+
+msgctxt "400"
+msgid "So that's it. You're just looking for a fight."
+msgstr ""
+
+msgctxt "412"
+msgid ""
+"Hey, don't underestimate me. I'm stronger than I look! If you win, you get "
+"our little hangout, fair and square. Sound good?"
+msgstr ""
+
+msgctxt "424"
+msgid "Fine. So it's a one-on-one fight."
+msgstr ""
+
+msgctxt "436"
+msgid ""
+"Whoa there, old man! You're pretty into this, huh? Well, don't blame me if "
+"I accidentally kill ya!"
+msgstr ""
+
+msgctxt "5580"
+msgid "Hobo Hunter"
+msgstr ""
+
+msgctxt "5584"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "5588"
+msgid "Leader"
+msgstr ""
+
+msgctxt "5592"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "5596"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "5600"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "5604"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "5608"
+msgid "Talk_Chohatu"
+msgstr ""

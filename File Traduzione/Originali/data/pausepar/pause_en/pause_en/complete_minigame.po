@@ -1,0 +1,572 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "338\tNAME"
+msgid "Aroma Massage"
+msgstr ""
+
+msgctxt "354\tNAME"
+msgid "Darts"
+msgstr ""
+
+msgctxt "362\tNAME"
+msgid "Pool"
+msgstr ""
+
+msgctxt "369\tNAME"
+msgid "Karaoke"
+msgstr ""
+
+msgctxt "379\tNAME"
+msgid "Bowling"
+msgstr ""
+
+msgctxt "389\tNAME"
+msgid "Cee-lo"
+msgstr ""
+
+msgctxt "398\tNAME"
+msgid "Cho-han"
+msgstr ""
+
+msgctxt "408\tNAME"
+msgid "Koi-koi"
+msgstr ""
+
+msgctxt "418\tNAME"
+msgid "Oicho-kabu"
+msgstr ""
+
+msgctxt "431\tNAME"
+msgid "Roulette"
+msgstr ""
+
+msgctxt "442\tNAME"
+msgid "Poker"
+msgstr ""
+
+msgctxt "450\tNAME"
+msgid "Blackjack"
+msgstr ""
+
+msgctxt "461\tNAME"
+msgid "JUFO Catcher"
+msgstr ""
+
+msgctxt "476\tNAME"
+msgid "Answer×Answer"
+msgstr ""
+
+msgctxt "493\tNAME"
+msgid "Shogi"
+msgstr ""
+
+msgctxt "501\tNAME"
+msgid "Mahjong"
+msgstr ""
+
+msgctxt "511\tNAME"
+msgid "Batting Center"
+msgstr ""
+
+msgctxt "528\tNAME"
+msgid "Golf"
+msgstr ""
+
+msgctxt "535\tNAME"
+msgid "Fishing"
+msgstr ""
+
+msgctxt "545\tNAME"
+msgid "Shooting"
+msgstr ""
+
+msgctxt "556\tEXP"
+msgid "Get the highest rank in every course."
+msgstr ""
+
+msgctxt "596\tEXP"
+msgid "Beat each opponent in every mode."
+msgstr ""
+
+msgctxt "632\tEXP"
+msgid "Beat each opponent in every mode."
+msgstr ""
+
+msgctxt "668\tEXP"
+msgid "Get the highest rank for every song."
+msgstr ""
+
+msgctxt "707\tEXP"
+msgid "Get over 200 points in 10 frames."
+msgstr ""
+
+msgctxt "743\tEXP"
+msgid "Win over 20,000 points total."
+msgstr ""
+
+msgctxt "775\tEXP"
+msgid "Win over 20,000 points total."
+msgstr ""
+
+msgctxt "807\tEXP"
+msgid "Win over 10,000 points total."
+msgstr ""
+
+msgctxt "839\tEXP"
+msgid "Win over 10,000 points total."
+msgstr ""
+
+msgctxt "871\tEXP"
+msgid "Win over 20,000 chips in total."
+msgstr ""
+
+msgctxt "905\tEXP"
+msgid "Win over 10,000 chips in one session."
+msgstr ""
+
+msgctxt "945\tEXP"
+msgid "Win over 10,000 chips in one session."
+msgstr ""
+
+msgctxt "985\tEXP"
+msgid "Win every prize."
+msgstr ""
+
+msgctxt "1004\tEXP"
+msgid "Win over 5 rounds in each quiz."
+msgstr ""
+
+msgctxt "1038\tEXP"
+msgid "Win 5 games."
+msgstr ""
+
+msgctxt "1053\tEXP"
+msgid "Earn over 50,000 points in one match."
+msgstr ""
+
+msgctxt "1093\tEXP"
+msgid "Beat the specified score for each game difficulty."
+msgstr ""
+
+msgctxt "1146\tEXP"
+msgid "Get a score of -5 in Competition Mode."
+msgstr ""
+
+msgctxt "1187\tEXP"
+msgid "Catch every type of fish."
+msgstr ""
+
+msgctxt "1215\tEXP"
+msgid "Reach a certain level."
+msgstr ""
+
+msgctxt "1239\tSTRING"
+msgid "s Course"
+msgstr ""
+
+msgctxt "1249\tSTRING"
+msgid "s"
+msgstr ""
+
+msgctxt "1252\tSTRING"
+msgid "s Course"
+msgstr ""
+
+msgctxt "1262\tSTRING"
+msgid "s"
+msgstr ""
+
+msgctxt "1264\tSTRING"
+msgid "Kamurocho"
+msgstr ""
+
+msgctxt "1275\tSTRING"
+msgid "s"
+msgstr ""
+
+msgctxt "1278\tSTRING"
+msgid "s"
+msgstr ""
+
+msgctxt "1280\tSTRING"
+msgid "Cricket %s"
+msgstr ""
+
+msgctxt "1291\tSTRING"
+msgid "Count-Up %s"
+msgstr ""
+
+msgctxt "1304\tSTRING"
+msgid "s"
+msgstr ""
+
+msgctxt "1307\tSTRING"
+msgid "s"
+msgstr ""
+
+msgctxt "1309\tSTRING"
+msgid "Cricket %s"
+msgstr ""
+
+msgctxt "1320\tSTRING"
+msgid "Count-Up %s"
+msgstr ""
+
+msgctxt "1333\tSTRING"
+msgid "s"
+msgstr ""
+
+msgctxt "1336\tSTRING"
+msgid "s"
+msgstr ""
+
+msgctxt "1338\tSTRING"
+msgid "Cricket %s"
+msgstr ""
+
+msgctxt "1349\tSTRING"
+msgid "Count-Up %s"
+msgstr ""
+
+msgctxt "1361\tSTRING"
+msgid "Ryukyu"
+msgstr ""
+
+msgctxt "1369\tSTRING"
+msgid "s"
+msgstr ""
+
+msgctxt "1372\tSTRING"
+msgid "s"
+msgstr ""
+
+msgctxt "1374\tSTRING"
+msgid "Cricket %s"
+msgstr ""
+
+msgctxt "1385\tSTRING"
+msgid "Count-Up %s"
+msgstr ""
+
+msgctxt "1398\tSTRING"
+msgid "s"
+msgstr ""
+
+msgctxt "1401\tSTRING"
+msgid "s"
+msgstr ""
+
+msgctxt "1403\tSTRING"
+msgid "Cricket %s"
+msgstr ""
+
+msgctxt "1414\tSTRING"
+msgid "Count-Up %s"
+msgstr ""
+
+msgctxt "1427\tSTRING"
+msgid "s"
+msgstr ""
+
+msgctxt "1430\tSTRING"
+msgid "s"
+msgstr ""
+
+msgctxt "1432\tSTRING"
+msgid "Cricket %s"
+msgstr ""
+
+msgctxt "1443\tSTRING"
+msgid "Count-Up %s"
+msgstr ""
+
+msgctxt "1456\tSTRING"
+msgid "s"
+msgstr ""
+
+msgctxt "1458\tSTRING"
+msgid "Nine-ball %s"
+msgstr ""
+
+msgctxt "1471\tSTRING"
+msgid "Rotation %s"
+msgstr ""
+
+msgctxt "1483\tSTRING"
+msgid "Eight-ball %s"
+msgstr ""
+
+msgctxt "1498\tSTRING"
+msgid "s"
+msgstr ""
+
+msgctxt "1500\tSTRING"
+msgid "Nine-ball %s"
+msgstr ""
+
+msgctxt "1513\tSTRING"
+msgid "Rotation %s"
+msgstr ""
+
+msgctxt "1525\tSTRING"
+msgid "Eight-ball %s"
+msgstr ""
+
+msgctxt "1540\tSTRING"
+msgid "s"
+msgstr ""
+
+msgctxt "1542\tSTRING"
+msgid "Nine-ball %s"
+msgstr ""
+
+msgctxt "1555\tSTRING"
+msgid "Rotation %s"
+msgstr ""
+
+msgctxt "1567\tSTRING"
+msgid "Eight-ball %s"
+msgstr ""
+
+msgctxt "1582\tSTRING"
+msgid "s"
+msgstr ""
+
+msgctxt "1584\tSTRING"
+msgid "Nine-ball %s"
+msgstr ""
+
+msgctxt "1597\tSTRING"
+msgid "Rotation %s"
+msgstr ""
+
+msgctxt "1609\tSTRING"
+msgid "Eight-ball %s"
+msgstr ""
+
+msgctxt "1624\tSTRING"
+msgid "s"
+msgstr ""
+
+msgctxt "1627\tSTRING"
+msgid "s"
+msgstr ""
+
+msgctxt "1630\tSTRING"
+msgid "s"
+msgstr ""
+
+msgctxt "1633\tSTRING"
+msgid "s"
+msgstr ""
+
+msgctxt "1636\tSTRING"
+msgid "s"
+msgstr ""
+
+msgctxt "1639\tSTRING"
+msgid "s"
+msgstr ""
+
+msgctxt "1642\tSTRING"
+msgid "s"
+msgstr ""
+
+msgctxt "1645\tSTRING"
+msgid "s"
+msgstr ""
+
+msgctxt "1648\tSTRING"
+msgid "s"
+msgstr ""
+
+msgctxt "1651\tSTRING"
+msgid "s"
+msgstr ""
+
+msgctxt "1654\tSTRING"
+msgid "s"
+msgstr ""
+
+msgctxt "1657\tSTRING"
+msgid "s"
+msgstr ""
+
+msgctxt "1659\tSTRING"
+msgid "10-Frame Score"
+msgstr ""
+
+msgctxt "1675\tSTRING"
+msgid "s"
+msgstr ""
+
+msgctxt "1677\tSTRING"
+msgid "Total Points"
+msgstr ""
+
+msgctxt "1691\tSTRING"
+msgid "s"
+msgstr ""
+
+msgctxt "1693\tSTRING"
+msgid "Total Points"
+msgstr ""
+
+msgctxt "1707\tSTRING"
+msgid "s"
+msgstr ""
+
+msgctxt "1709\tSTRING"
+msgid "Total Points"
+msgstr ""
+
+msgctxt "1723\tSTRING"
+msgid "s"
+msgstr ""
+
+msgctxt "1725\tSTRING"
+msgid "Total Points"
+msgstr ""
+
+msgctxt "1739\tSTRING"
+msgid "s"
+msgstr ""
+
+msgctxt "1741\tSTRING"
+msgid "Total Chips"
+msgstr ""
+
+msgctxt "1754\tSTRING"
+msgid "s"
+msgstr ""
+
+msgctxt "1756\tSTRING"
+msgid "Total Chips in One Session"
+msgstr ""
+
+msgctxt "1784\tSTRING"
+msgid "s"
+msgstr ""
+
+msgctxt "1786\tSTRING"
+msgid "Total Chips in One Session"
+msgstr ""
+
+msgctxt "1814\tSTRING"
+msgid "s"
+msgstr ""
+
+msgctxt "1816\tSTRING"
+msgid "Prizes Won"
+msgstr ""
+
+msgctxt "1827\tSTRING"
+msgid "Unknown."
+msgstr ""
+
+msgctxt "1836\tSTRING"
+msgid "Speed Quiz"
+msgstr ""
+
+msgctxt "1848\tSTRING"
+msgid "s"
+msgstr ""
+
+msgctxt "1876\tSTRING"
+msgid "s"
+msgstr ""
+
+msgctxt "1907\tSTRING"
+msgid "s"
+msgstr ""
+
+msgctxt "1944\tSTRING"
+msgid "s"
+msgstr ""
+
+msgctxt "1946\tSTRING"
+msgid "Total Wins"
+msgstr ""
+
+msgctxt "1958\tSTRING"
+msgid "s"
+msgstr ""
+
+msgctxt "1960\tSTRING"
+msgid "Points Earned in One Match"
+msgstr ""
+
+msgctxt "1988\tSTRING"
+msgid "s"
+msgstr ""
+
+msgctxt "1990\tSTRING"
+msgid "Points Earned"
+msgstr ""
+
+msgctxt "2004\tSTRING"
+msgid "Easy Game"
+msgstr ""
+
+msgctxt "2015\tSTRING"
+msgid "s"
+msgstr ""
+
+msgctxt "2017\tSTRING"
+msgid "Normal Game"
+msgstr ""
+
+msgctxt "2030\tSTRING"
+msgid "s"
+msgstr ""
+
+msgctxt "2032\tSTRING"
+msgid "Hard Game"
+msgstr ""
+
+msgctxt "2043\tSTRING"
+msgid "s"
+msgstr ""
+
+msgctxt "2045\tSTRING"
+msgid "Extra Hard Game"
+msgstr ""
+
+msgctxt "2062\tSTRING"
+msgid "s"
+msgstr ""
+
+msgctxt "2064\tSTRING"
+msgid "Score"
+msgstr ""
+
+msgctxt "2071\tSTRING"
+msgid "s"
+msgstr ""
+
+msgctxt "2073\tSTRING"
+msgid "Fish Caught"
+msgstr ""
+
+msgctxt "2085\tSTRING"
+msgid "Unknown"
+msgstr ""
+
+msgctxt "2093\tSTRING"
+msgid "Level"
+msgstr ""
+
+msgctxt "2100\tSTRING"
+msgid "s"
+msgstr ""

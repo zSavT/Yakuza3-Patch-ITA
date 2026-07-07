@@ -1,0 +1,38 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "164"
+msgid "You're pretty quick!"
+msgstr ""
+
+msgctxt "176"
+msgid "C'mon, that all you got!?"
+msgstr ""
+
+msgctxt "188"
+msgid "Oh yeah, I've got you now!"
+msgstr ""
+
+msgctxt "200"
+msgid "Not bad!"
+msgstr ""
+
+msgctxt "212"
+msgid ""
+"C'mon now, move yer ass!\r\n"
+"I'll give ya a head start!"
+msgstr ""
+
+msgctxt "224"
+msgid "Here I come!"
+msgstr ""

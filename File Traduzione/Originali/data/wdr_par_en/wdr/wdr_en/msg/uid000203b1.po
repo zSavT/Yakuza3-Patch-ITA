@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "96"
+msgid "I hope Shiro's okay... Maybe the others can help?"
+msgstr ""
+
+msgctxt "108"
+msgid "Yeah, I'll go ask around."
+msgstr ""
+
+msgctxt "144"
+msgid "Oh, Uncle Kaz! Did you find Shiro?"
+msgstr ""
+
+msgctxt "156"
+msgid "Yeah, but he wasn't too keen on talking."
+msgstr ""
+
+msgctxt "168"
+msgid "I could've sworn he'd open up to you, though..."
+msgstr ""
+
+msgctxt "180"
+msgid ""
+"Me too. Guess I'll try talking to the others, see if\r\n"
+"anything's happened at school lately."
+msgstr ""
+
+msgctxt "192"
+msgid "Good idea. I'm sure someone knows something."
+msgstr ""
+
+msgctxt "1320"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "1324"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "1328"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1332"
+msgid "HAL_stand_tlk_kamae"
+msgstr ""

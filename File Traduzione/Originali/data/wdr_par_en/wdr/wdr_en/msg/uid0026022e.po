@@ -1,0 +1,256 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "124"
+msgid "I come here all the time. Their food's out of this world."
+msgstr ""
+
+msgctxt "136"
+msgid ""
+"Ha! Imagine runnin' into you in a place like this! You got that hundred "
+"grand ready?"
+msgstr ""
+
+msgctxt "148"
+msgid "Oh, uh... er..."
+msgstr ""
+
+msgctxt "160"
+msgid "(What's going on?)"
+msgstr ""
+
+msgctxt "172"
+msgid ""
+"(I borrowed eighty thou from this loan shark when I lost money on the "
+"horses the other day.)"
+msgstr ""
+
+msgctxt "184"
+msgid "(Can't you just make something up so he'll leave us alone? Please?)"
+msgstr ""
+
+msgctxt "196"
+msgid ""
+"C'mon, 100,000, including interest! Pay up now or it'll just keep growin', "
+"pal."
+msgstr ""
+
+msgctxt "220"
+msgid "(We're in the middle of something here. Take this and leave us alone.)"
+msgstr ""
+
+msgctxt "232"
+msgid "You handed over <Color:8>100,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "244"
+msgid "Let's see here... Yep, that makes 100,000 yen, all right! Thank you kindly!"
+msgstr ""
+
+msgctxt "256"
+msgid ""
+"What's this? Are you borrowing money? You know that'll bring you nothing "
+"but trouble."
+msgstr ""
+
+msgctxt "268"
+msgid "I know, I know. Your grandson is always scolding me about it, too. Hahaha."
+msgstr ""
+
+msgctxt "280"
+msgid ""
+"(We're kind of in the middle of something right now. I'll pay you, I "
+"promise. Just come back later.)"
+msgstr ""
+
+msgctxt "292"
+msgid "Sure, pal. That's what they all say."
+msgstr ""
+
+msgctxt "304"
+msgid "Oh, all right. I guess I'll have to pay this time. Here's your 100,000 yen."
+msgstr ""
+
+msgctxt "316"
+msgid "Let's see here... Yep, that makes 100,000 yen, all right! Thank you kindly!"
+msgstr ""
+
+msgctxt "328"
+msgid "You can pay me back through Masahiko. And stop borrowing so much, okay?"
+msgstr ""
+
+msgctxt "340"
+msgid ""
+"Absolutely! The 100,000 yen set you ordered, right? I'll make sure our "
+"president sends it to you right away."
+msgstr ""
+
+msgctxt "352"
+msgid "Yeah? You're not makin' any sense, pal."
+msgstr ""
+
+msgctxt "364"
+msgid ""
+"I'll make sure our president sends it to you right away. Please understand. "
+"That's all we can do today."
+msgstr ""
+
+msgctxt "376"
+msgid ""
+"Well, as long as you pay the interest, too... I guess I got no complaints. "
+"No slackin' off, though, you hear me?"
+msgstr ""
+
+msgctxt "388"
+msgid ""
+"Oh, a work conversation! You must be awfully busy to be talking shop even "
+"on your breaks."
+msgstr ""
+
+msgctxt "400"
+msgid "Loans, huh...?"
+msgstr ""
+
+msgctxt "412"
+msgid "You better pay them before they get too big."
+msgstr ""
+
+msgctxt "424"
+msgid ""
+"I didn't know you were in debt, Masahiko. Didn't I tell you to watch your "
+"expenses?"
+msgstr ""
+
+msgctxt "436"
+msgid ""
+"Er, well... it's just... I got a little carried away at the racetrack, "
+"that's all."
+msgstr ""
+
+msgctxt "448"
+msgid "Oh, all right. I guess I'll have to pay this time. Here's your 100,000 yen."
+msgstr ""
+
+msgctxt "460"
+msgid "Let's see here... Yep, that makes 100,000 yen, all right! Thank you kindly!"
+msgstr ""
+
+msgctxt "472"
+msgid ""
+"Now, Masahiko, I didn't give you that money, you know. You've got to pay me "
+"back."
+msgstr ""
+
+msgctxt "484"
+msgid "Is everybody ready for some yakiniku? Eat up, Granny. It'll make you strong."
+msgstr ""
+
+msgctxt "508"
+msgid "Pay the 100,000 Yen"
+msgstr ""
+
+msgctxt "520"
+msgid "Make Something Up"
+msgstr ""
+
+msgctxt "532"
+msgid "Make the Punk Pay"
+msgstr ""
+
+msgctxt "8256"
+msgid "Masahiko"
+msgstr ""
+
+msgctxt "8260"
+msgid "Talk_Info_R"
+msgstr ""
+
+msgctxt "8264"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "8268"
+msgid "???"
+msgstr ""
+
+msgctxt "8272"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "8276"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "8280"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "8284"
+msgid "Talk_Sorry"
+msgstr ""
+
+msgctxt "8288"
+msgid "Loan Shark"
+msgstr ""
+
+msgctxt "8292"
+msgid "Talk_Chohatu"
+msgstr ""
+
+msgctxt "8296"
+msgid "Talk_Send"
+msgstr ""
+
+msgctxt "8300"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "8304"
+msgid "Shizu"
+msgstr ""
+
+msgctxt "8308"
+msgid "M_ykz_stand_tlk_maru"
+msgstr ""
+
+msgctxt "8312"
+msgid "Talk_Away"
+msgstr ""
+
+msgctxt "8316"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "8320"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "8324"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "8328"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "8332"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "8336"
+msgid "Talk_Kansin"
+msgstr ""
+
+msgctxt "8340"
+msgid "M_ykz_stand_tlk_batu"
+msgstr ""

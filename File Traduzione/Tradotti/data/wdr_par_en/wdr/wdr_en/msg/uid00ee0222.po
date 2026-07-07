@@ -1,0 +1,98 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "76"
+msgid "Thanks so much! You don't know how much this means to us!"
+msgstr ""
+
+msgctxt "88"
+msgid "You're our hero!"
+msgstr ""
+
+msgctxt "100"
+msgid "Stop that."
+msgstr ""
+
+msgctxt "112"
+msgid ""
+"Now we can go back to the Dragon Palace... and that means we can reopen the "
+"gambling hall! Hahahahaha!"
+msgstr ""
+
+msgctxt "124"
+msgid "Hey, not so loud, ya idiot!"
+msgstr ""
+
+msgctxt "136"
+msgid "What gambling hall?"
+msgstr ""
+
+msgctxt "148"
+msgid ""
+"Keep it under your hat, but... us homeless guys like to get together and "
+"run some games of chance."
+msgstr ""
+
+msgctxt "160"
+msgid "We have cee-lo, hanafuda... you know. Well, yeah. Of course you know!"
+msgstr ""
+
+msgctxt "172"
+msgid "Yeah! How about you join our little club? That's all right, isn't it?"
+msgstr ""
+
+msgctxt "184"
+msgid "Yeah, we owe you one. You come by and play any time you like."
+msgstr ""
+
+msgctxt "196"
+msgid "All right. I'll stop by some time."
+msgstr ""
+
+msgctxt "208"
+msgid ""
+"We'll be waitin' for ya! Now we gotta go tell our buddies the Dragon Palace "
+"is ours again!"
+msgstr ""
+
+msgctxt "280"
+msgid "You got 3,000 EXP."
+msgstr ""
+
+msgctxt "2340"
+msgid "Homeless Man"
+msgstr ""
+
+msgctxt "2344"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "2348"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "2352"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "2356"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "2360"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "2364"
+msgid "Talk_Yes"
+msgstr ""

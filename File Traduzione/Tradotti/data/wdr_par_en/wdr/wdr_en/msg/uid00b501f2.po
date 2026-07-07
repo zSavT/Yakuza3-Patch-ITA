@@ -1,0 +1,244 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "260"
+msgid "You're Imagawa, right?"
+msgstr ""
+
+msgctxt "272"
+msgid "That's right. Who are you?"
+msgstr ""
+
+msgctxt "284"
+msgid "I'm looking into the Café Alps murder from six years ago."
+msgstr ""
+
+msgctxt "296"
+msgid "What!?"
+msgstr ""
+
+msgctxt "320"
+msgid "(Let's see. What to ask...?)"
+msgstr ""
+
+msgctxt "332"
+msgid ""
+"They say you weren't at the café the day of the murder.\r\n"
+"Is that true?"
+msgstr ""
+
+msgctxt "344"
+msgid "Yes. I spent the whole day at home."
+msgstr ""
+
+msgctxt "356"
+msgid "Alone?"
+msgstr ""
+
+msgctxt "368"
+msgid "No. Some friends came over and we played video games."
+msgstr ""
+
+msgctxt "380"
+msgid "And these friends corroborated your alibi?"
+msgstr ""
+
+msgctxt "392"
+msgid "That's right. So it wasn't me!"
+msgstr ""
+
+msgctxt "416"
+msgid "Do you know anything about the man seen fleeing the scene?"
+msgstr ""
+
+msgctxt "428"
+msgid ""
+"No, I didn't see anything! I didn't say anything! I didn't\r\n"
+"hear anything!"
+msgstr ""
+
+msgctxt "440"
+msgid "......"
+msgstr ""
+
+msgctxt "464"
+msgid "Can you think of anybody who'd wanna kill Oda?"
+msgstr ""
+
+msgctxt "476"
+msgid "I don't know anything! Don't ask me!"
+msgstr ""
+
+msgctxt "488"
+msgid "......"
+msgstr ""
+
+msgctxt "512"
+msgid "Your prints weren't found on the murder weapon, were they?"
+msgstr ""
+
+msgctxt "524"
+msgid ""
+"Next, you're going to start saying I wore gloves! Well,\r\n"
+"you're wrong! I wasn't anywhere near the café that day!"
+msgstr ""
+
+msgctxt "536"
+msgid "Guess it stands to reason your prints wouldn't be on it."
+msgstr ""
+
+msgctxt "560"
+msgid ""
+"I don't know anything about the murder. Just leave me\r\n"
+"alone!"
+msgstr ""
+
+msgctxt "572"
+msgid "(Man, this guy's got a persecution complex.)"
+msgstr ""
+
+msgctxt "596"
+msgid ""
+"Lemme know if you remember anything from around the time of\r\n"
+"the murder. Doesn't matter how small."
+msgstr ""
+
+msgctxt "608"
+msgid "I didn't do anything! Honest! You have to believe me!"
+msgstr ""
+
+msgctxt "620"
+msgid ""
+"Everyone's saying I'm the murderer, aren't they? Aren't\r\n"
+"they!?"
+msgstr ""
+
+msgctxt "632"
+msgid "No. Nobody's saying anything about you."
+msgstr ""
+
+msgctxt "644"
+msgid ""
+"I don't believe you! Everyone hated me at that café. They\r\n"
+"used to harass me!"
+msgstr ""
+
+msgctxt "656"
+msgid "Harassed you how?"
+msgstr ""
+
+msgctxt "668"
+msgid ""
+"Someone even stole my wallet, CDs, and uniform out of my\r\n"
+"locker on the day of the murder."
+msgstr ""
+
+msgctxt "680"
+msgid "Are you sure the police didn't pick them up as evidence?"
+msgstr ""
+
+msgctxt "692"
+msgid "Absolutely sure! Someone was harassing me, I tell you!"
+msgstr ""
+
+msgctxt "704"
+msgid "(So <Color:7>somebody stole Imagawa's things<Color:Default>, huh...?)"
+msgstr ""
+
+msgctxt "728"
+msgid "You got <Color:8>Imagawa's Testimony<Color:Default>."
+msgstr ""
+
+msgctxt "764"
+msgid "I'm looking into the Café Alps murder from six years ago."
+msgstr ""
+
+msgctxt "776"
+msgid "I didn't have anything to do with it!"
+msgstr ""
+
+msgctxt "788"
+msgid "(Let's see. What to ask...?)"
+msgstr ""
+
+msgctxt "800"
+msgid "Ask for Their Alibi"
+msgstr ""
+
+msgctxt "812"
+msgid "Ask About Witness Statements"
+msgstr ""
+
+msgctxt "824"
+msgid "Ask About the Motive"
+msgstr ""
+
+msgctxt "836"
+msgid "Ask About the Fingerprints"
+msgstr ""
+
+msgctxt "848"
+msgid "Stop Asking Questions"
+msgstr ""
+
+msgctxt "860"
+msgid "Ask for Their Alibi"
+msgstr ""
+
+msgctxt "872"
+msgid "Ask About Witness Statements"
+msgstr ""
+
+msgctxt "884"
+msgid "Ask About the Motive"
+msgstr ""
+
+msgctxt "896"
+msgid "Ask About the Fingerprints"
+msgstr ""
+
+msgctxt "908"
+msgid "Stop Asking Questions"
+msgstr ""
+
+msgctxt "7584"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "7588"
+msgid "Imagawa"
+msgstr ""
+
+msgctxt "7592"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "7596"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "7600"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "7604"
+msgid "Talk_Request"
+msgstr ""
+
+msgctxt "7608"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "7612"
+msgid "Talk_Quest"
+msgstr ""

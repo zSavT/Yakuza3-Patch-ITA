@@ -1,0 +1,144 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "164"
+msgid "Shall we go, Kiryu-sama?"
+msgstr ""
+
+msgctxt "176"
+msgid "Ah. You must be Kazuma Kiryu-sama."
+msgstr ""
+
+msgctxt "188"
+msgid "Yeah. And you're Tamiya's driver, right?"
+msgstr ""
+
+msgctxt "200"
+msgid "Actually, his secretary. You can call me Higaki, sir."
+msgstr ""
+
+msgctxt "212"
+msgid "And you. You're from... the media, yes?"
+msgstr ""
+
+msgctxt "224"
+msgid ""
+"Yup. Name's Date, from the Keihin News. Used to hang my hat\r\n"
+"with the force though. That's how I know Kiryu."
+msgstr ""
+
+msgctxt "236"
+msgid "I'm sorry, sir, but I'm afraid I can't allow a reporter to⑬"
+msgstr ""
+
+msgctxt "248"
+msgid ""
+"Now hold your horses. What we have here is a prominent government official "
+"arranging a private meeting with the ex-chairman of a major crime syndicate."
+msgstr ""
+
+msgctxt "260"
+msgid ""
+"If you don't let me come, I'll have to write an article based on that info "
+"alone. And who knows what kind of conclusions I could draw from that."
+msgstr ""
+
+msgctxt "272"
+msgid "But..."
+msgstr ""
+
+msgctxt "284"
+msgid ""
+"Sorry, but I think it's for the best if you let Date-san come with us. We "
+"promise he won't write about anything he hears today. Right, Date-san?"
+msgstr ""
+
+msgctxt "296"
+msgid "Yeah, sure."
+msgstr ""
+
+msgctxt "308"
+msgid "...Very well, then. Please get in the car when you're ready, sir."
+msgstr ""
+
+msgctxt "320"
+msgid "I actually still have one or two things I need to do first. Sorry."
+msgstr ""
+
+msgctxt "332"
+msgid "No need to apologize, sir."
+msgstr ""
+
+msgctxt "344"
+msgid "Just please, make it quick."
+msgstr ""
+
+msgctxt "356"
+msgid "All right, let's go."
+msgstr ""
+
+msgctxt "368"
+msgid "Very well, sir. Just get in the car and we'll be on our way."
+msgstr ""
+
+msgctxt "392"
+msgid "Not yet."
+msgstr ""
+
+msgctxt "404"
+msgid "Yeah, I'm ready."
+msgstr ""
+
+msgctxt "416"
+msgid "Don't Get In"
+msgstr ""
+
+msgctxt "428"
+msgid "Get In"
+msgstr ""
+
+msgctxt "3664"
+msgid "Higaki"
+msgstr ""
+
+msgctxt "3668"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "3672"
+msgid "Tamiya's Secretary"
+msgstr ""
+
+msgctxt "3676"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "3680"
+msgid "Date"
+msgstr ""
+
+msgctxt "3684"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "3688"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "3692"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "3696"
+msgid "Talk_Info_L"
+msgstr ""

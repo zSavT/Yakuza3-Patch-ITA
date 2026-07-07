@@ -1,0 +1,240 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "124"
+msgid "Should we head in?"
+msgstr ""
+
+msgctxt "136"
+msgid "Sure."
+msgstr ""
+
+msgctxt "160"
+msgid "Should we head in?"
+msgstr ""
+
+msgctxt "172"
+msgid "...Hold on a second. I just realized I'm short on cash."
+msgstr ""
+
+msgctxt "184"
+msgid "What? Kiryu-san, what do you mean?"
+msgstr ""
+
+msgctxt "196"
+msgid "Sorry..."
+msgstr ""
+
+msgctxt "208"
+msgid ""
+"Oh, okay... Guess that's it, huh? I'm going home. Maybe we can try again "
+"another time."
+msgstr ""
+
+msgctxt "220"
+msgid "(I'd better bring enough cash next time...)"
+msgstr ""
+
+msgctxt "328"
+msgid "Ahhh, that was fantastic. <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "340"
+msgid "Glad to hear you liked it."
+msgstr ""
+
+msgctxt "352"
+msgid ""
+"I usually don't eat sushi, but you've opened my eyes to a new world, "
+"Kiryu-san. <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "364"
+msgid "Take me out again sometime, 'kay? <Color:7>⑮<Color:Default> I'll be waiting."
+msgstr ""
+
+msgctxt "388"
+msgid "Thank you for treating me."
+msgstr ""
+
+msgctxt "400"
+msgid "No problem."
+msgstr ""
+
+msgctxt "412"
+msgid "Yeah, sushi's still not my thing..."
+msgstr ""
+
+msgctxt "424"
+msgid "......"
+msgstr ""
+
+msgctxt "436"
+msgid "Later, Kiryu-san. Stop by the club soon, 'kay?"
+msgstr ""
+
+msgctxt "460"
+msgid "......"
+msgstr ""
+
+msgctxt "472"
+msgid "What's wrong?"
+msgstr ""
+
+msgctxt "484"
+msgid "I really just can't handle sushi..."
+msgstr ""
+
+msgctxt "496"
+msgid "Oh..."
+msgstr ""
+
+msgctxt "508"
+msgid "I'm going to head home. I'll see you at the club..."
+msgstr ""
+
+msgctxt "520"
+msgid "(I shouldn't have made her eat something she didn't like...)"
+msgstr ""
+
+msgctxt "544"
+msgid "Major error! No flags set for conversation selection!"
+msgstr ""
+
+msgctxt "628"
+msgid "Should we head in?"
+msgstr ""
+
+msgctxt "640"
+msgid "Sure."
+msgstr ""
+
+msgctxt "664"
+msgid "Should we head in?"
+msgstr ""
+
+msgctxt "676"
+msgid "...Hold on a second. I just realized I'm short on cash."
+msgstr ""
+
+msgctxt "688"
+msgid "What? Kiryu-san, what do you mean?"
+msgstr ""
+
+msgctxt "700"
+msgid "Sorry..."
+msgstr ""
+
+msgctxt "712"
+msgid ""
+"Oh, okay... Guess that's it, huh? I'm going home. Maybe we can try again "
+"another time."
+msgstr ""
+
+msgctxt "724"
+msgid "(I'd better bring enough cash next time...)"
+msgstr ""
+
+msgctxt "832"
+msgid "Ahhh, that was fantastic. <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "844"
+msgid "Glad to hear you liked it."
+msgstr ""
+
+msgctxt "856"
+msgid ""
+"I usually don't eat sushi, but you've opened my eyes to a new world, "
+"Kiryu-san. <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "868"
+msgid "Take me out again sometime, 'kay? <Color:7>⑮<Color:Default> I'll be waiting."
+msgstr ""
+
+msgctxt "892"
+msgid "Thank you for treating me."
+msgstr ""
+
+msgctxt "904"
+msgid "No problem."
+msgstr ""
+
+msgctxt "916"
+msgid "Yeah, sushi's still not my thing..."
+msgstr ""
+
+msgctxt "928"
+msgid "......"
+msgstr ""
+
+msgctxt "940"
+msgid "Later, Kiryu-san. Stop by the club soon, 'kay?"
+msgstr ""
+
+msgctxt "964"
+msgid "......"
+msgstr ""
+
+msgctxt "976"
+msgid "What's wrong?"
+msgstr ""
+
+msgctxt "988"
+msgid "I really just can't handle sushi..."
+msgstr ""
+
+msgctxt "1000"
+msgid "Oh..."
+msgstr ""
+
+msgctxt "1012"
+msgid "I'm going to head home. I'll see you at the club..."
+msgstr ""
+
+msgctxt "1024"
+msgid "(I shouldn't have made her eat something she didn't like...)"
+msgstr ""
+
+msgctxt "1048"
+msgid "Major error! No flags set for conversation selection!"
+msgstr ""
+
+msgctxt "12908"
+msgid "Kana"
+msgstr ""
+
+msgctxt "12912"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "12916"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "12920"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "12924"
+msgid "dummy"
+msgstr ""
+
+msgctxt "12928"
+msgid "0"
+msgstr ""
+
+msgctxt "12932"
+msgid "Talk_No"
+msgstr ""

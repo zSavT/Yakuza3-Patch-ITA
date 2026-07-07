@@ -1,0 +1,256 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "124"
+msgid ""
+"I'm soooo excited for karaoke! <Color:7>⑮<Color:Default> I'm gonna sing "
+"till my throat dries up! <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "136"
+msgid "C'mon, let's go!"
+msgstr ""
+
+msgctxt "148"
+msgid "All right."
+msgstr ""
+
+msgctxt "172"
+msgid ""
+"I'm soooo excited for karaoke! <Color:7>⑮<Color:Default> I'm gonna sing "
+"till my throat dries up! <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "184"
+msgid "C'mon, let's go!"
+msgstr ""
+
+msgctxt "196"
+msgid "Hold on a second. I just realized I'm a little short on cash."
+msgstr ""
+
+msgctxt "208"
+msgid "Huh? Wait, whaaat?"
+msgstr ""
+
+msgctxt "220"
+msgid "Sorry..."
+msgstr ""
+
+msgctxt "232"
+msgid ""
+"Aww... I was really excited to sing with you, though... I guess I'll just "
+"go home..."
+msgstr ""
+
+msgctxt "244"
+msgid "(Guess I should bring some cash next time...)"
+msgstr ""
+
+msgctxt "352"
+msgid "Man, that was soooo much fun! ♪ What'd you think, huh?"
+msgstr ""
+
+msgctxt "364"
+msgid "You're pretty good."
+msgstr ""
+
+msgctxt "376"
+msgid ""
+"Hehehe... You really know how to have a good time, Kiryu-san. "
+"<Color:7>⑮<Color:Default> It was so easy to sing with you in the audience!"
+msgstr ""
+
+msgctxt "388"
+msgid "Take me out again sometime, okay? See you later!"
+msgstr ""
+
+msgctxt "412"
+msgid "Whew... That was fun! What'd you think, huh?"
+msgstr ""
+
+msgctxt "424"
+msgid "You're pretty good."
+msgstr ""
+
+msgctxt "436"
+msgid ""
+"I can sing better than that, though. I guess today's just not a good day "
+"for my voice."
+msgstr ""
+
+msgctxt "448"
+msgid "Take me out again sometime, okay? See you later!"
+msgstr ""
+
+msgctxt "472"
+msgid "That's weird... I was totally off-key. What's wrong with me today..."
+msgstr ""
+
+msgctxt "484"
+msgid "It's all right..."
+msgstr ""
+
+msgctxt "496"
+msgid "I'm gonna go home now... I'll see you at the club, okay?"
+msgstr ""
+
+msgctxt "520"
+msgid ""
+"Huge error!\r\n"
+"No flags set for conversation selection!"
+msgstr ""
+
+msgctxt "604"
+msgid ""
+"I'm soooo excited for karaoke! <Color:7>⑮<Color:Default> I'm gonna sing "
+"till my throat dries up! <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "616"
+msgid "C'mon, let's go!"
+msgstr ""
+
+msgctxt "628"
+msgid "All right."
+msgstr ""
+
+msgctxt "652"
+msgid ""
+"I'm soooo excited for karaoke! <Color:7>⑮<Color:Default> I'm gonna sing "
+"till my throat dries up! <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "664"
+msgid "C'mon, let's go!"
+msgstr ""
+
+msgctxt "676"
+msgid "Hold on a second. I just realized I'm a little short on cash."
+msgstr ""
+
+msgctxt "688"
+msgid "Huh? Wait, whaaat?"
+msgstr ""
+
+msgctxt "700"
+msgid "Sorry..."
+msgstr ""
+
+msgctxt "712"
+msgid ""
+"Aww... I was really excited to play with you, though... I guess I'll just "
+"go home..."
+msgstr ""
+
+msgctxt "724"
+msgid "(Guess I should bring some cash next time...)"
+msgstr ""
+
+msgctxt "832"
+msgid "Man, that was soooo much fun! ♪ What'd you think, huh?"
+msgstr ""
+
+msgctxt "844"
+msgid "You're pretty good."
+msgstr ""
+
+msgctxt "856"
+msgid ""
+"Hehehe... You really know how to have a good time, Kiryu-san. "
+"<Color:7>⑮<Color:Default> It was so easy to sing with you in the audience!"
+msgstr ""
+
+msgctxt "868"
+msgid "Should we head over to the club now?"
+msgstr ""
+
+msgctxt "880"
+msgid "Yeah, sounds good."
+msgstr ""
+
+msgctxt "904"
+msgid "Whew... That was fun! What'd you think, huh?"
+msgstr ""
+
+msgctxt "916"
+msgid "You're pretty good."
+msgstr ""
+
+msgctxt "928"
+msgid ""
+"I can sing better than that, though. I guess today's just not a good day "
+"for my voice."
+msgstr ""
+
+msgctxt "940"
+msgid "Should we head over to the club now?"
+msgstr ""
+
+msgctxt "952"
+msgid "Yeah, sounds good."
+msgstr ""
+
+msgctxt "976"
+msgid "That's weird... I was totally off-key. What's wrong with me today..."
+msgstr ""
+
+msgctxt "988"
+msgid "It's all right..."
+msgstr ""
+
+msgctxt "1000"
+msgid "Should we head over to the club now?"
+msgstr ""
+
+msgctxt "1012"
+msgid "Yeah, sounds good."
+msgstr ""
+
+msgctxt "1036"
+msgid ""
+"Huge error!\r\n"
+"No flags set for conversation selection!"
+msgstr ""
+
+msgctxt "12600"
+msgid "Saya"
+msgstr ""
+
+msgctxt "12604"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "12608"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "12612"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "12616"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "12620"
+msgid "dummy"
+msgstr ""
+
+msgctxt "12624"
+msgid "0"
+msgstr ""
+
+msgctxt "12628"
+msgid "Talk_No"
+msgstr ""

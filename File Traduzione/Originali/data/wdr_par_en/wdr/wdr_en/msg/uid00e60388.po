@@ -1,0 +1,75 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid ""
+"What do you think? Pretty happenin' place, huh? And that\r\n"
+"special cocktail will have you feelin' fine in no time flat."
+msgstr ""
+
+msgctxt "76"
+msgid "That was pretty good."
+msgstr ""
+
+msgctxt "88"
+msgid ""
+"That's right, drink up! Feel the liquid enchantment! And\r\n"
+"once that nice sake kicks in, I'll let you tour some nice\r\n"
+"\"beaches,\" if you know what I mean! Heh!"
+msgstr ""
+
+msgctxt "100"
+msgid "Hmm!?"
+msgstr ""
+
+msgctxt "148"
+msgid "(What the...? I hardly drank anything and I already feel... so... ugh...)"
+msgstr ""
+
+msgctxt "172"
+msgid ""
+"Heh. I put enough shit in there to knock out five horses. Nighty-night, "
+"motherfucker!"
+msgstr ""
+
+msgctxt "1560"
+msgid "Tom"
+msgstr ""
+
+msgctxt "1564"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "1568"
+msgid "P_sitcnt"
+msgstr ""
+
+msgctxt "1572"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1576"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "1580"
+msgid "Talk_SmileBig_st"
+msgstr ""
+
+msgctxt "1584"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "1588"
+msgid "P_stand"
+msgstr ""

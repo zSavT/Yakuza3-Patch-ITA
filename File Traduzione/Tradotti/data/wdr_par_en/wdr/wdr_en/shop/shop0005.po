@@ -1,0 +1,70 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "128"
+msgid "Don't Order Anything"
+msgstr ""
+
+msgctxt "149"
+msgid "Check Out"
+msgstr ""
+
+msgctxt "159"
+msgid "Order"
+msgstr ""
+
+msgctxt "165"
+msgid "(I'm short on cash.)"
+msgstr ""
+
+msgctxt "186"
+msgid "(I can't carry any more stuff.)"
+msgstr ""
+
+msgctxt "218"
+msgid "(I can't handle any more turtles.)"
+msgstr ""
+
+msgctxt "253"
+msgid "(I didn't choose anything.)"
+msgstr ""
+
+msgctxt "281"
+msgid "(They're sold out.)"
+msgstr ""
+
+msgctxt "301"
+msgid ""
+msgstr ""
+
+msgctxt "302"
+msgid ""
+"A single-malt whisky aged in sherry barrels for a\n"
+"balanced flavor."
+msgstr ""
+
+msgctxt "369"
+msgid ""
+"A Yamazaki whisky made with carefully-selected,\n"
+"mature malts for a flavorful, smooth finish."
+msgstr ""
+
+msgctxt "462"
+msgid ""
+"A whisky made in the Southern Alps of Japan. Has a\n"
+"fruity flavor with smoky accents."
+msgstr ""
+
+msgctxt "547"
+msgid "The champion of single-malt whiskies."
+msgstr ""

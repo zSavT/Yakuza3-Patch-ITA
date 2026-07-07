@@ -1,0 +1,68 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "387\t502"
+msgid "Ya know what I'm about by now."
+msgstr ""
+
+msgctxt "518\t613"
+msgid ""
+"The stronger they come,\\n"
+"the more I'm gonna like 'em."
+msgstr ""
+
+msgctxt "616\t771"
+msgid ""
+"Meanin' I'm not keen on takin' orders\\n"
+"from snot-nosed little brats."
+msgstr ""
+
+msgctxt "773\t826"
+msgid "I know."
+msgstr ""
+
+msgctxt "829\t1026"
+msgid ""
+"So if ya want me back on the Tojo's side,\\n"
+"you're gonna have to force me!"
+msgstr ""
+
+msgctxt "1029\t1104"
+msgid "Somehow I knew it'd go like this."
+msgstr ""
+
+msgctxt "1136\t1273"
+msgid "Then let's get rollin', Kiryu-chan."
+msgstr ""
+
+msgctxt "1463\t1620"
+msgid "Feels like ages since we threw down."
+msgstr ""
+
+msgctxt "1622\t1749"
+msgid ""
+"But y'know...\\n"
+"I'm not gonna pull any punches."
+msgstr ""
+
+msgctxt "1790\t1834"
+msgid "Fine by me."
+msgstr ""
+
+msgctxt "1848\t1901"
+msgid "Then bring it!"
+msgstr ""
+
+msgctxt "1973\t2062"
+msgid "Kiryu-chan!"
+msgstr ""

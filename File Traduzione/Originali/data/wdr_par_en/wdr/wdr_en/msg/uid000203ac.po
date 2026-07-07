@@ -1,0 +1,188 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "128"
+msgid "I'm real sorry about what I said, Uncle Kaz."
+msgstr ""
+
+msgctxt "140"
+msgid "Me too."
+msgstr ""
+
+msgctxt "152"
+msgid ""
+"It's okay. Just remember we all need to stick together.\r\n"
+"Everyone here is part of the same family, okay?"
+msgstr ""
+
+msgctxt "164"
+msgid "Okay... Oh, and did Shiro say anything?"
+msgstr ""
+
+msgctxt "176"
+msgid "Not yet. I'm still trying to figure it all out."
+msgstr ""
+
+msgctxt "188"
+msgid ""
+"Hey, something's up with Shiro. You two know if anything\r\n"
+"happened at school?"
+msgstr ""
+
+msgctxt "200"
+msgid "I don't. We barely even see each other most days."
+msgstr ""
+
+msgctxt "212"
+msgid "What about you, Riona?"
+msgstr ""
+
+msgctxt "224"
+msgid ""
+"Same. He's in a way lower grade than me, so our classes are\r\n"
+"really far away."
+msgstr ""
+
+msgctxt "236"
+msgid "Sorry."
+msgstr ""
+
+msgctxt "248"
+msgid "It's all right."
+msgstr ""
+
+msgctxt "260"
+msgid "Want me to figure out what's wrong, Uncle Kaz?"
+msgstr ""
+
+msgctxt "272"
+msgid "How are you gonna do that?"
+msgstr ""
+
+msgctxt "284"
+msgid ""
+"Easy, I'll just put him in a headlock! That'll get him\r\n"
+"talkin' in no time, haha!"
+msgstr ""
+
+msgctxt "296"
+msgid "Hey, that's a good idea! I bet I could take him, too."
+msgstr ""
+
+msgctxt "308"
+msgid "Come on, you two."
+msgstr ""
+
+msgctxt "320"
+msgid ""
+"You should be looking out for Shiro, not trying to beat\r\n"
+"him up."
+msgstr ""
+
+msgctxt "332"
+msgid ""
+"That's what being an older sibling is all about. I thought\r\n"
+"you knew better."
+msgstr ""
+
+msgctxt "344"
+msgid "......"
+msgstr ""
+
+msgctxt "356"
+msgid "......"
+msgstr ""
+
+msgctxt "368"
+msgid "Never mind, I'll do it."
+msgstr ""
+
+msgctxt "380"
+msgid ""
+"And keep your hands to yourself, Koji. You're just gonna\r\n"
+"make things worse."
+msgstr ""
+
+msgctxt "392"
+msgid "All right..."
+msgstr ""
+
+msgctxt "416"
+msgid "Are you sure you haven't seen Shiro?"
+msgstr ""
+
+msgctxt "428"
+msgid "You know that girl Takako?"
+msgstr ""
+
+msgctxt "440"
+msgid ""
+"Oh, yeah! She's so snobby, like she thinks she's better\r\n"
+"than all of us! Kinda crazy for a third-grader."
+msgstr ""
+
+msgctxt "452"
+msgid "(...They're not paying attention to me.)"
+msgstr ""
+
+msgctxt "476"
+msgid "Koji, have you seen Shiro around?"
+msgstr ""
+
+msgctxt "488"
+msgid "Ummm, nope!"
+msgstr ""
+
+msgctxt "500"
+msgid "What about you, Riona?"
+msgstr ""
+
+msgctxt "512"
+msgid "I haven't seen him either. Maybe he's off playing somewhere?"
+msgstr ""
+
+msgctxt "524"
+msgid "Anyway, this boy in my class, Okada-kun..."
+msgstr ""
+
+msgctxt "536"
+msgid "......"
+msgstr ""
+
+msgctxt "5196"
+msgid "Koji"
+msgstr ""
+
+msgctxt "5200"
+msgid "Riona"
+msgstr ""
+
+msgctxt "5204"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "5208"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "5212"
+msgid "M_cld_stand_tlk_kamae"
+msgstr ""
+
+msgctxt "5216"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "5220"
+msgid "Talk_Ase"
+msgstr ""

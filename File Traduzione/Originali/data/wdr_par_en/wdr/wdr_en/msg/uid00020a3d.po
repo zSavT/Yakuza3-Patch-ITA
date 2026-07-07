@@ -1,0 +1,157 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid "Thanks for talkin' to him, Aniki."
+msgstr ""
+
+msgctxt "76"
+msgid ""
+"But if we're really gonna look for Saki... I don't have the\r\n"
+"slimmest idea of where to start."
+msgstr ""
+
+msgctxt "88"
+msgid ""
+"Then we'll just have to ask around. We can focus on the area\r\n"
+"right around the office for now."
+msgstr ""
+
+msgctxt "100"
+msgid "But we already combed every last nook n' cranny!"
+msgstr ""
+
+msgctxt "112"
+msgid "...Nobody's seen her."
+msgstr ""
+
+msgctxt "124"
+msgid "And you don't know where her mom lives?"
+msgstr ""
+
+msgctxt "136"
+msgid "Nope, sorry to say."
+msgstr ""
+
+msgctxt "148"
+msgid "Is there anywhere you haven't looked?"
+msgstr ""
+
+msgctxt "160"
+msgid "Nowhere she'd be likely to turn up."
+msgstr ""
+
+msgctxt "172"
+msgid "Only stone left unturned is <Color:7>Hatsumachi<Color:Default>..."
+msgstr ""
+
+msgctxt "184"
+msgid "<Color:7>Hatsumachi<Color:Default>? Why haven't you checked there?"
+msgstr ""
+
+msgctxt "196"
+msgid ""
+"Place is the biggest red light district on the island. Chock\r\n"
+"full o' hostess clubs, brothels... All sorts of smut a kid's\r\n"
+"not gonna go anywhere near."
+msgstr ""
+
+msgctxt "208"
+msgid "Besides..."
+msgstr ""
+
+msgctxt "220"
+msgid "What?"
+msgstr ""
+
+msgctxt "232"
+msgid ""
+"It's Tamashiro Family turf. Things'd get real hairy\r\n"
+"real fast if we showed our faces over there."
+msgstr ""
+
+msgctxt "256"
+msgid "Then it's settled. We're going to <Color:7>Hatsumachi<Color:Default>."
+msgstr ""
+
+msgctxt "268"
+msgid "But Aniki, I just told you! <Color:7>Hatsumachi<Color:Default>'s⑬"
+msgstr ""
+
+msgctxt "280"
+msgid ""
+"The only place you haven't looked. I don't care whose turf\r\n"
+"it is. We're going."
+msgstr ""
+
+msgctxt "292"
+msgid ""
+"Well? You're welcome to stay behind if you think the\r\n"
+"Tamashiro are really that scary."
+msgstr ""
+
+msgctxt "304"
+msgid "Like hell that's gonna happen! I'm comin', Aniki!"
+msgstr ""
+
+msgctxt "316"
+msgid "Good. Now let's go."
+msgstr ""
+
+msgctxt "328"
+msgid "All right!"
+msgstr ""
+
+msgctxt "4696"
+msgid "Rikiya"
+msgstr ""
+
+msgctxt "4700"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "4704"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "4708"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "4712"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "4716"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "4720"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "4724"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "4728"
+msgid "Talk_NoBig"
+msgstr ""
+
+msgctxt "4732"
+msgid "dummy"
+msgstr ""
+
+msgctxt "4736"
+msgid "0"
+msgstr ""

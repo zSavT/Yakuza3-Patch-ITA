@@ -1,0 +1,566 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "400"
+msgid ""
+"There's a gelato place over on Taihei Boulevard called Gelateria Kamuro. "
+"Apparently it's pretty popular, even among businessmen."
+msgstr ""
+
+msgctxt "412"
+msgid "Oh, that place? Yeah, they do have some good gelato, huh?"
+msgstr ""
+
+msgctxt "424"
+msgid "Ah, so you've been."
+msgstr ""
+
+msgctxt "436"
+msgid ""
+"Yeah. And now that ya mention it, you're right! I went there one day after "
+"work, and the place was crawlin' with exhausted old dudes in suits!"
+msgstr ""
+
+msgctxt "448"
+msgid "So. You're a gelato man, eh?"
+msgstr ""
+
+msgctxt "460"
+msgid "Well, I wouldn't say I'm crazy about it."
+msgstr ""
+
+msgctxt "472"
+msgid ""
+"Huh. Hard to imagine ya liftin' a tiny little spoonful of spumoni into that "
+"jaw of yours."
+msgstr ""
+
+msgctxt "484"
+msgid "Yeah...?"
+msgstr ""
+
+msgctxt "496"
+msgid ""
+"There's this famous actor, Noboru Kudarizaka, who shows up at Sushi Gin "
+"sometimes. But he always goes incognito."
+msgstr ""
+
+msgctxt "508"
+msgid ""
+"Oooh, that must mean he's hiding something from the public! I wonder what "
+"kinda floozy he brought there with him. ♪"
+msgstr ""
+
+msgctxt "520"
+msgid "Hmm... I never heard anything like that."
+msgstr ""
+
+msgctxt "532"
+msgid ""
+"Well! That's rather enlightening. Maybe I'll go to Sushi Gin next time and "
+"take a little peek for myself!"
+msgstr ""
+
+msgctxt "544"
+msgid ""
+"Ever heard of Kanrai? It's a barbecue place over on Shichifuku Street that "
+"uses authentic Korean kimchi. It's apparently good for you, due to the... "
+"what was it again?"
+msgstr ""
+
+msgctxt "556"
+msgid ""
+"Oh, I know! Kimchi has capsaicin, right? Helps ya clear your sinuses, at "
+"least."
+msgstr ""
+
+msgctxt "568"
+msgid "Right..."
+msgstr ""
+
+msgctxt "580"
+msgid ""
+"But yeah, I'm a huge fan of Kanrai and their kimchi! ♪ And, spicy food in "
+"general. <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "592"
+msgid ""
+"Have you heard of Kyushu No. 1 Star on Pink Street? Apparently their "
+"ramen's full of collagen... Ladies like that, right?"
+msgstr ""
+
+msgctxt "604"
+msgid "We do... But I never really heard of that place."
+msgstr ""
+
+msgctxt "616"
+msgid ""
+"Oh. Well, the previous owner came back, and they started\r\n"
+"making their tonkotsu the way they do it in Kyushu."
+msgstr ""
+
+msgctxt "628"
+msgid ""
+"He said the extra collagen comes from slow-simmering the pork bone. That's "
+"why their chashu's so tender, too."
+msgstr ""
+
+msgctxt "640"
+msgid "Is that a fact? Huh... Maybe I'll try it sometime."
+msgstr ""
+
+msgctxt "652"
+msgid "You know about the Yoshida Batting Center on Shichifuku Street?"
+msgstr ""
+
+msgctxt "664"
+msgid "Oh, the batting cages? Yeah, why?"
+msgstr ""
+
+msgctxt "676"
+msgid ""
+"Well, did you know professional baseball players sometimes go there for "
+"practice?"
+msgstr ""
+
+msgctxt "688"
+msgid "Hunh. Alright then."
+msgstr ""
+
+msgctxt "700"
+msgid "That's all...?"
+msgstr ""
+
+msgctxt "712"
+msgid "What? I don't care much for baseball. Sorry if that offends ya."
+msgstr ""
+
+msgctxt "724"
+msgid ""
+"You heard about the Matcha Fair that Café Alps is having?\r\n"
+"It's that little place over on Nakamichi Street."
+msgstr ""
+
+msgctxt "736"
+msgid "Yeah, yeah, the one with the Japanese desserts, right?"
+msgstr ""
+
+msgctxt "748"
+msgid "That's the one."
+msgstr ""
+
+msgctxt "760"
+msgid ""
+"Hm. Honestly, I kinda like coconut and tropical stuff more.\r\n"
+"Ooh, and don't even get me started on boba! <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "772"
+msgid "Have you eaten the braised pork burger over at Smile Burger?"
+msgstr ""
+
+msgctxt "784"
+msgid "What the heck? No, but that sounds delicious!"
+msgstr ""
+
+msgctxt "796"
+msgid "Apparently it got popular because some idol blogged about it."
+msgstr ""
+
+msgctxt "808"
+msgid "Hmm... Braised pork does sound good in a burger..."
+msgstr ""
+
+msgctxt "820"
+msgid "I'll have one of our ladies buy it for me sometime!"
+msgstr ""
+
+msgctxt "832"
+msgid ""
+"There's a place called Le Marche over on Showa Street where you can order "
+"any kind of bag you want."
+msgstr ""
+
+msgctxt "844"
+msgid "Really!? Anything!?"
+msgstr ""
+
+msgctxt "856"
+msgid ""
+"I think so. Every two months, the owner heads over to Europe, so if you can "
+"catch him before then, he should be able to get you what you want."
+msgstr ""
+
+msgctxt "868"
+msgid ""
+"Wow, that's some hot info right there. Never knew the owner literally went "
+"the distance."
+msgstr ""
+
+msgctxt "880"
+msgid ""
+"I'd better hurry up on makin' that order. There're some shoes I missed out "
+"on last year..."
+msgstr ""
+
+msgctxt "892"
+msgid ""
+"They're practically sold out all over Japan, so... I'd love him forever if "
+"he could get 'em! <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "904"
+msgid "Do you know about Tantakatan? It's a shochu made from perilla leaves..."
+msgstr ""
+
+msgctxt "916"
+msgid "Shochu, huh? Well, I can't drink worth a damn... Haven't I said this before?"
+msgstr ""
+
+msgctxt "928"
+msgid ""
+"Oh, but don't let that stop ya. I'd love to learn more about somethin' I'll "
+"never be able to enjoy."
+msgstr ""
+
+msgctxt "940"
+msgid "Oh, all right..."
+msgstr ""
+
+msgctxt "952"
+msgid ""
+"If you're ever in Okinawa, try out the soba shop at the Kariyushi Arcade. "
+"They make it the traditional way, and their rafute's some of the best on "
+"the island."
+msgstr ""
+
+msgctxt "964"
+msgid "Rafute? As in that sweet braised pork stuff?"
+msgstr ""
+
+msgctxt "976"
+msgid ""
+"Actually, I've seen that on TV before. The rafute loses its excess fat "
+"while cookin', so the soup is chock-full of nutrients like collagen. Keeps "
+"your skin smooth and all."
+msgstr ""
+
+msgctxt "988"
+msgid "Oh, I'm surprised you knew."
+msgstr ""
+
+msgctxt "1000"
+msgid "Hehehe... I got some pretty juicy info of my own, now, don't I?"
+msgstr ""
+
+msgctxt "1012"
+msgid ""
+"Have you ever heard of a bar called Aqua Sky? It's all the way in Okinawa, "
+"over at Hatsumachi."
+msgstr ""
+
+msgctxt "1024"
+msgid "Hmm... Nope, this'd be the first time I've heard of it."
+msgstr ""
+
+msgctxt "1036"
+msgid ""
+"Apparently, they serve you a little something that pairs well with alcohol. "
+"Can you guess what that might be?"
+msgstr ""
+
+msgctxt "1048"
+msgid "Uh... Since it's Okinawa, would it be... that special tofu they have?"
+msgstr ""
+
+msgctxt "1060"
+msgid "Close. It's actually salt."
+msgstr ""
+
+msgctxt "1072"
+msgid "Salt? Ya mean, like, regular old salt?"
+msgstr ""
+
+msgctxt "1084"
+msgid ""
+"No, not just any old salt, but an especially rare one made only in Okinawa. "
+"Not only is it salty, but it also has a sweetness to it... Helps bring out "
+"the flavor of your drink."
+msgstr ""
+
+msgctxt "1096"
+msgid ""
+"Huh... Drinkin' with a side of salt... I guess I could see it workin'. That "
+"is sorta adult-ish."
+msgstr ""
+
+msgctxt "1108"
+msgid "You should try it out sometime. I think you'd like it."
+msgstr ""
+
+msgctxt "1120"
+msgid "So, about Gelateria Kamuro..."
+msgstr ""
+
+msgctxt "1132"
+msgid ""
+"The one that's popular with businessmen? Second time you're talkin' about "
+"it."
+msgstr ""
+
+msgctxt "1144"
+msgid "Oh. Really?"
+msgstr ""
+
+msgctxt "1156"
+msgid "Yep. You must really love gelato, Kiryu-san. Manly."
+msgstr ""
+
+msgctxt "1168"
+msgid "Have you tried out Sushi Gin yet?"
+msgstr ""
+
+msgctxt "1180"
+msgid "Yeah, it was a real letdown... Noboru Kudarizaka never showed up."
+msgstr ""
+
+msgctxt "1192"
+msgid "Sorry to hear that."
+msgstr ""
+
+msgctxt "1204"
+msgid "Grr... Well, whatever. I'm just gonna hafta keep going till I meet him!"
+msgstr ""
+
+msgctxt "1216"
+msgid "About that kimchi at Kanrai..."
+msgstr ""
+
+msgctxt "1228"
+msgid ""
+"Oh yeah. When I went there with some of the gals here, the\r\n"
+"manager gave us some kimchi on the house. ♪"
+msgstr ""
+
+msgctxt "1240"
+msgid "That's wonderful."
+msgstr ""
+
+msgctxt "1252"
+msgid ""
+"And when I told him I loved spicy things, he gave me some with extra "
+"peppers in it. <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "1264"
+msgid "Heh... As if you needed any more spice."
+msgstr ""
+
+msgctxt "1276"
+msgid "Have you gone to Kyushu No. 1 Star yet?"
+msgstr ""
+
+msgctxt "1288"
+msgid ""
+"I did, and it was so good! Nice goin', Kyushu! You made somethin' worthy of "
+"excellence! ♪"
+msgstr ""
+
+msgctxt "1300"
+msgid "I'm glad you enjoyed yourself."
+msgstr ""
+
+msgctxt "1312"
+msgid ""
+"And how! I'll definitely be back for more of their tonkotsu. "
+"<Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "1324"
+msgid "Have you been to the Yoshida Batting Center by any chance?"
+msgstr ""
+
+msgctxt "1336"
+msgid "Nope, haven't gone. And I don't do baseball to begin with."
+msgstr ""
+
+msgctxt "1348"
+msgid "It ain't my kinda sport... Didn't I say that before?"
+msgstr ""
+
+msgctxt "1360"
+msgid "That's right, you did..."
+msgstr ""
+
+msgctxt "1372"
+msgid "Come on... Listen to me for once."
+msgstr ""
+
+msgctxt "1384"
+msgid "Have you been to the Matcha Fair over at Café Alps?"
+msgstr ""
+
+msgctxt "1396"
+msgid "Oh... No, I haven't. Sorry."
+msgstr ""
+
+msgctxt "1408"
+msgid "That's okay..."
+msgstr ""
+
+msgctxt "1420"
+msgid "Did you end up trying the braised pork burger?"
+msgstr ""
+
+msgctxt "1432"
+msgid "Sure did. And ya know what? It was actually not bad."
+msgstr ""
+
+msgctxt "1444"
+msgid ""
+"But... I think they could've at least made it into a patty. What they did "
+"was just take the recipe for regular braised pork and dump it onto a bun. "
+"That's just lazy."
+msgstr ""
+
+msgctxt "1456"
+msgid "...Maybe so."
+msgstr ""
+
+msgctxt "1468"
+msgid "Did you get to reserve anything at Le Marche?"
+msgstr ""
+
+msgctxt "1480"
+msgid "Nope. Turns out they don't visit the place that makes my shoes."
+msgstr ""
+
+msgctxt "1492"
+msgid ""
+"Knowing how cute and limited-edition they are, not being able to get 'em is "
+"the crappiest feeling on earth!"
+msgstr ""
+
+msgctxt "1504"
+msgid "I see... That's too bad."
+msgstr ""
+
+msgctxt "1516"
+msgid ""
+"You're tellin' me! I was more let down than I've ever been, and it's all "
+"your fault! You better take responsibility and find me some."
+msgstr ""
+
+msgctxt "1528"
+msgid "Hey... I never said it was satisfaction guaranteed."
+msgstr ""
+
+msgctxt "1540"
+msgid "So about Tantakatan..."
+msgstr ""
+
+msgctxt "1552"
+msgid "Sorry, I don't drink. So I wouldn't know anything about that."
+msgstr ""
+
+msgctxt "1564"
+msgid "That's right..."
+msgstr ""
+
+msgctxt "1576"
+msgid ""
+"However... Tantakatan is pretty popular at the club. And apparently it's "
+"good when ya mix it with cranberry juice."
+msgstr ""
+
+msgctxt "1588"
+msgid ""
+"The gals here say they like it, so I'm sure it's real tasty. If you're a "
+"drinker, anyway."
+msgstr ""
+
+msgctxt "1600"
+msgid "So. Let's talk rafute soba..."
+msgstr ""
+
+msgctxt "1612"
+msgid ""
+"Right! After ya brought it up, I decided I just had to have some, so I went "
+"to the Okinawan restaurant near my house."
+msgstr ""
+
+msgctxt "1624"
+msgid ""
+"And wouldn't ya know it⑬it was delicious! Sure wish I could head over to "
+"Okinawa right now and get the full experience... Hey, maybe I should take a "
+"vacation!"
+msgstr ""
+
+msgctxt "1636"
+msgid "Have I mentioned there's a really popular snack⑬"
+msgstr ""
+
+msgctxt "1648"
+msgid "Yep. It's some kinda Okinawan salt, right?"
+msgstr ""
+
+msgctxt "1660"
+msgid ""
+"I looked, and it turns out ya can't get it over here. Buy some for me next "
+"time you're on vacation, will ya?"
+msgstr ""
+
+msgctxt "19136"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "19140"
+msgid "Rin"
+msgstr ""
+
+msgctxt "19144"
+msgid "F_cab_sitsofa_talk_smileA"
+msgstr ""
+
+msgctxt "19148"
+msgid "F_cab_sitsofa_tlk_happy"
+msgstr ""
+
+msgctxt "19152"
+msgid "F_cab_sitsofa_tlk_kamaeAtoB"
+msgstr ""
+
+msgctxt "19156"
+msgid "F_cab_sitsofa_tlk_noA"
+msgstr ""
+
+msgctxt "19160"
+msgid "F_cab_sitsofa_tlk_yes"
+msgstr ""
+
+msgctxt "19164"
+msgid "F_cab_sitsofa_tlk_suprise"
+msgstr ""
+
+msgctxt "19168"
+msgid "P_sitsofaR_tlk_smile"
+msgstr ""
+
+msgctxt "19172"
+msgid "F_cab_sitsofa_tlk_cry"
+msgstr ""
+
+msgctxt "19176"
+msgid "F_cab_sitsofa_tlk_angry"
+msgstr ""

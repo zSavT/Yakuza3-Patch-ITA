@@ -1,0 +1,94 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "136"
+msgid "Welcome. We've got a variety of options, so please look around."
+msgstr ""
+
+msgctxt "148"
+msgid "Can I see what you have?"
+msgstr ""
+
+msgctxt "172"
+msgid "Thanks. Please come again."
+msgstr ""
+
+msgctxt "184"
+msgid "You got the \"Mixed-bathing Hot Springs Special\"?"
+msgstr ""
+
+msgctxt "196"
+msgid "......"
+msgstr ""
+
+msgctxt "220"
+msgid "Follow me."
+msgstr ""
+
+msgctxt "232"
+msgid "But first, I need to ask⑬did you bring anyone else here?"
+msgstr ""
+
+msgctxt "244"
+msgid "No... But I do have someone waiting for me outside."
+msgstr ""
+
+msgctxt "256"
+msgid ""
+"Sorry, but I can't show you what you want right now. Come back alone next "
+"time."
+msgstr ""
+
+msgctxt "268"
+msgid "All right. You mind coming outside with me?"
+msgstr ""
+
+msgctxt "292"
+msgid "Welcome. We've got a variety of options, so please look around."
+msgstr ""
+
+msgctxt "316"
+msgid "Thanks. Please come again."
+msgstr ""
+
+msgctxt "328"
+msgid "Welcome. We've got a variety of options, so please look around."
+msgstr ""
+
+msgctxt "352"
+msgid "Thanks. Please come again."
+msgstr ""
+
+msgctxt "364"
+msgid "Browse"
+msgstr ""
+
+msgctxt "376"
+msgid "Ask About the Mixed-bathing Hot Springs Special"
+msgstr ""
+
+msgctxt "2632"
+msgid "Employee"
+msgstr ""
+
+msgctxt "2636"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "2640"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "2644"
+msgid "Talk_No"
+msgstr ""

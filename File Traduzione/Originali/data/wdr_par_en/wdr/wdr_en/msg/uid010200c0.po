@@ -1,0 +1,235 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "92"
+msgid "Shit... This guy really eats his spinach, huh?"
+msgstr ""
+
+msgctxt "104"
+msgid ""
+"So, you ready to talk now? Tell me about this \"brat\" you\r\n"
+"mentioned."
+msgstr ""
+
+msgctxt "116"
+msgid "Urgh..."
+msgstr ""
+
+msgctxt "128"
+msgid "You listenin', punk!?"
+msgstr ""
+
+msgctxt "140"
+msgid ""
+"Open your mouth or I'll open it for you! Now did you kidnap\r\n"
+"Saki or not? Huh!?"
+msgstr ""
+
+msgctxt "152"
+msgid ""
+"Look, we didn't take nobody! Some bitch claimin' to be\r\n"
+"the girl's mother brought her in!"
+msgstr ""
+
+msgctxt "164"
+msgid "What could her mom possibly have to do with the Tamashiro...?"
+msgstr ""
+
+msgctxt "176"
+msgid ""
+"Duh, the tramp's sleepin' with the boss! Probably doesn't\r\n"
+"realize she's just another notch on the bedpost for him."
+msgstr ""
+
+msgctxt "188"
+msgid ""
+"In other words, you have no reason to keep Saki. Give her\r\n"
+"back."
+msgstr ""
+
+msgctxt "200"
+msgid ""
+"Look, we don't have her in a cage or nothin'! She and her\r\n"
+"mom could be anywhere!"
+msgstr ""
+
+msgctxt "212"
+msgid ""
+"Hm, I think there's more to this than you're letting on.\r\n"
+"Maybe we should go pay your boss a little visit."
+msgstr ""
+
+msgctxt "224"
+msgid "Rikiya. Where's the Tamashiro office?"
+msgstr ""
+
+msgctxt "236"
+msgid ""
+"Are you outta your mind, Aniki!? We can't go in there just\r\n"
+"the two of us!"
+msgstr ""
+
+msgctxt "248"
+msgid ""
+"Heh, your boy's right. They're gonna tear you limb from limb\r\n"
+"in there... but if you really wanna die, I'll tell you!"
+msgstr ""
+
+msgctxt "260"
+msgid "It's on the street <Color:7>behind the convenience store<Color:Default>."
+msgstr ""
+
+msgctxt "272"
+msgid "You heard the man, Rikiya. Come on."
+msgstr ""
+
+msgctxt "284"
+msgid "But Aniki..."
+msgstr ""
+
+msgctxt "308"
+msgid "You there! In the kitschy shirt!"
+msgstr ""
+
+msgctxt "320"
+msgid "Hm?"
+msgstr ""
+
+msgctxt "332"
+msgid "Oh shit..."
+msgstr ""
+
+msgctxt "356"
+msgid "Who are you?"
+msgstr ""
+
+msgctxt "368"
+msgid "Me? Who the fuck are you!?"
+msgstr ""
+
+msgctxt "380"
+msgid ""
+"Don't tell me you didn't know you're waddling all over\r\n"
+"Tamashiro Family territory right now."
+msgstr ""
+
+msgctxt "392"
+msgid ""
+"Tamashiro? Sorry, never heard of 'em. I usually try to keep\r\n"
+"my nose out of yakuza business."
+msgstr ""
+
+msgctxt "404"
+msgid ""
+"Bullshit! It's clear as the damn Okinawa sky what you do for\r\n"
+"a living!"
+msgstr ""
+
+msgctxt "416"
+msgid ""
+"I'm telling the truth. And even if I was a yakuza, I'm not\r\n"
+"here looking for trouble. Now I suggest you leave us alone."
+msgstr ""
+
+msgctxt "428"
+msgid "Or else."
+msgstr ""
+
+msgctxt "440"
+msgid ""
+"Wait, is that Rikiya back there? Your little game of hide\r\n"
+"and seek's not gonna work on me, Ryudo asshole!"
+msgstr ""
+
+msgctxt "452"
+msgid "Aw, shit..."
+msgstr ""
+
+msgctxt "464"
+msgid "I knew it!"
+msgstr ""
+
+msgctxt "476"
+msgid ""
+"Not yakuza, my ass! If you weren't yakuza, you wouldn't\r\n"
+"be spendin' your time with this Ryudo sap! You here to try\r\n"
+"and take the brat back!?"
+msgstr ""
+
+msgctxt "488"
+msgid "Hm? What brat?"
+msgstr ""
+
+msgctxt "500"
+msgid "I don't got time for the twenty questions, bitch!"
+msgstr ""
+
+msgctxt "512"
+msgid "C'mon boys, let's show them what we do to trespassers!"
+msgstr ""
+
+msgctxt "7996"
+msgid "Tamashiro Thug"
+msgstr ""
+
+msgctxt "8000"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "8004"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "8008"
+msgid "Rikiya"
+msgstr ""
+
+msgctxt "8012"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "8016"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "8020"
+msgid "Man's Voice"
+msgstr ""
+
+msgctxt "8024"
+msgid "M_nml_stand"
+msgstr ""
+
+msgctxt "8028"
+msgid "0"
+msgstr ""
+
+msgctxt "8032"
+msgid "Aggressive Man"
+msgstr ""
+
+msgctxt "8036"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "8040"
+msgid "Talk_Chohatu"
+msgstr ""
+
+msgctxt "8044"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "8048"
+msgid "Tamashiro Thugs"
+msgstr ""

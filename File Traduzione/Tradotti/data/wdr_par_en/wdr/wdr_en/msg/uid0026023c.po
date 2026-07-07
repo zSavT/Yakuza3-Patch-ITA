@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid "A tie, eh? That means... I didn't lose!"
+msgstr ""
+
+msgctxt "76"
+msgid "Death Bowler never loses! Hyahahaha!"
+msgstr ""
+
+msgctxt "88"
+msgid "......"
+msgstr ""
+
+msgctxt "100"
+msgid ""
+"Well, now, it would appear there's nobody left\r\n"
+"in this town who will challenge me to a duel."
+msgstr ""
+
+msgctxt "112"
+msgid ""
+"Now I'm off on a journey to spread the fearsome mythos of the mighty Death "
+"Bowler far and wide! Adios!"
+msgstr ""
+
+msgctxt "172"
+msgid "(What was his deal, anyway?)"
+msgstr ""
+
+msgctxt "196"
+msgid "You got 3,000 EXP."
+msgstr ""
+
+msgctxt "2084"
+msgid "Death Bowler"
+msgstr ""
+
+msgctxt "2088"
+msgid "Talk_SmileBig_st"
+msgstr ""
+
+msgctxt "2092"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "2096"
+msgid "Talk_SmileBig_ed"
+msgstr ""
+
+msgctxt "2100"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "2104"
+msgid "SetM_nml_stand_dance_02"
+msgstr ""
+
+msgctxt "2108"
+msgid "dummy"
+msgstr ""
+
+msgctxt "2112"
+msgid "0"
+msgstr ""

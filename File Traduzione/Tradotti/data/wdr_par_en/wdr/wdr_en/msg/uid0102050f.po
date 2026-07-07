@@ -1,0 +1,38 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "108"
+msgid ""
+"(I can't say for sure if Majima-san's my friend or my foe.\r\n"
+"I need to be ready for anything before I head inside.)"
+msgstr ""
+
+msgctxt "120"
+msgid "(What should I do?)"
+msgstr ""
+
+msgctxt "144"
+msgid "(Not quite ready yet.)"
+msgstr ""
+
+msgctxt "168"
+msgid "Continue Preparing"
+msgstr ""
+
+msgctxt "180"
+msgid "Go Inside"
+msgstr ""
+
+msgctxt "732"
+msgid "Kiryu"
+msgstr ""

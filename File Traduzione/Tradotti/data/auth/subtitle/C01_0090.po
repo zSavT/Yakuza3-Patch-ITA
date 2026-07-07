@@ -1,0 +1,50 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "218\t374"
+msgid ""
+"This is probably the last time\\n"
+"we'll be in Kamurocho together, huh?"
+msgstr ""
+
+msgctxt "376\t438"
+msgid "Of course not."
+msgstr ""
+
+msgctxt "443\t519"
+msgid "We can still come visit."
+msgstr ""
+
+msgctxt "600\t643"
+msgid "What's wrong?"
+msgstr ""
+
+msgctxt "683\t788"
+msgid "I just wanna have fun today."
+msgstr ""
+
+msgctxt "828\t907"
+msgid "Me and you, Uncle Kaz."
+msgstr ""
+
+msgctxt "980\t1020"
+msgid "Can we?"
+msgstr ""
+
+msgctxt "1049\t1095"
+msgid "Of course."
+msgstr ""
+
+msgctxt "1118\t1219"
+msgid "Kamurocho won't know what hit it."
+msgstr ""

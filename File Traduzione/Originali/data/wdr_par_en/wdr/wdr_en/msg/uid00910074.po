@@ -1,0 +1,132 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "80"
+msgid ""
+"As long as you're being so hospitable, why don't you just tell me where "
+"Gohren is?"
+msgstr ""
+
+msgctxt "92"
+msgid "He's got his men together up on the roof of the Millennium Tower."
+msgstr ""
+
+msgctxt "104"
+msgid ""
+"The Millennium Tower roof? That's just above the Kazama Family Office. "
+"There's no way they could've pulled that off."
+msgstr ""
+
+msgctxt "116"
+msgid ""
+"The best place to hide is right under somebody's nose. Several Reapers are "
+"former members of the Kazama Family. They could get the keys no problem."
+msgstr ""
+
+msgctxt "128"
+msgid ""
+"It's time they headed out to storm the HLA. If you wanna go, better make it "
+"fast."
+msgstr ""
+
+msgctxt "140"
+msgid "If you're in a hurry to die, that is. Heh..."
+msgstr ""
+
+msgctxt "152"
+msgid "(Dammit... I better get to the Millennium Tower, fast.)"
+msgstr ""
+
+msgctxt "164"
+msgid ""
+"Everybody's meeting up at midnight. If you get there at the right time, you "
+"oughta be able to see Gohren-san."
+msgstr ""
+
+msgctxt "176"
+msgid "If you're in a hurry to die, that is. Heh."
+msgstr ""
+
+msgctxt "188"
+msgid ""
+"(No point in going to the Millennium Tower if Gohren's not there yet... "
+"I'll wait until midnight.)"
+msgstr ""
+
+msgctxt "236"
+msgid "Who the hell are you!? What happened to the guards!?"
+msgstr ""
+
+msgctxt "248"
+msgid "They're taking a little rest out front."
+msgstr ""
+
+msgctxt "260"
+msgid "Get the fuck outta here, man. You⑬"
+msgstr ""
+
+msgctxt "272"
+msgid "I'm with the Honest Living Association. I'm here to see Gohren."
+msgstr ""
+
+msgctxt "284"
+msgid "You idiot! Gohren-san ain't here."
+msgstr ""
+
+msgctxt "296"
+msgid "What?"
+msgstr ""
+
+msgctxt "308"
+msgid ""
+"He already left for the attack on the HLA. Probably givin' all his men a "
+"pep talk right about now."
+msgstr ""
+
+msgctxt "320"
+msgid ""
+"He already left for the attack on the HLA. He'll be gettin' his men "
+"together for a nice pep talk tonight."
+msgstr ""
+
+msgctxt "332"
+msgid "I see. No reason for me to be here, then."
+msgstr ""
+
+msgctxt "344"
+msgid "Whoa! Just a minute, pal. Not so fast. Why don't ya stay a while?"
+msgstr ""
+
+msgctxt "356"
+msgid "Let us show ya a bit of our hospitality!"
+msgstr ""
+
+msgctxt "4140"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "4144"
+msgid "Gohren's Underling"
+msgstr ""
+
+msgctxt "4148"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "4152"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "4156"
+msgid "Talk_Odosu"
+msgstr ""

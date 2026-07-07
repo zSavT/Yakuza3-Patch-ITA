@@ -1,0 +1,207 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "140"
+msgid "Are you finished, Kiryu-san?"
+msgstr ""
+
+msgctxt "152"
+msgid "Not quite yet, sorry."
+msgstr ""
+
+msgctxt "164"
+msgid "Don't apologize. Just let me know when you're done."
+msgstr ""
+
+msgctxt "176"
+msgid "Yeah, I've done all I need to do."
+msgstr ""
+
+msgctxt "188"
+msgid "Right... I guess you'll be leaving, then."
+msgstr ""
+
+msgctxt "200"
+msgid "Yup, heading down to Okinawa tomorrow morning."
+msgstr ""
+
+msgctxt "212"
+msgid ""
+"You know, I never pegged you as the kind of guy to start\r\n"
+"an orphanage."
+msgstr ""
+
+msgctxt "224"
+msgid ""
+"It's been a dream of mine to take care of kids, though.\r\n"
+"Just like Kazama-san did for me when I had nowhere to turn."
+msgstr ""
+
+msgctxt "236"
+msgid "A textbook Kazuma Kiryu response if I've ever heard one. But why Okinawa?"
+msgstr ""
+
+msgctxt "248"
+msgid "There's a place there with ties to Sunflower."
+msgstr ""
+
+msgctxt "260"
+msgid ""
+"When their old manager died, they asked me if I knew anyone\r\n"
+"who might be able to lend a hand."
+msgstr ""
+
+msgctxt "272"
+msgid "And you decided that person should be you?"
+msgstr ""
+
+msgctxt "284"
+msgid ""
+"It seemed like the perfect opportunity. Aren't many\r\n"
+"opportunities for an ex-yakuza out in the wild, anyway."
+msgstr ""
+
+msgctxt "308"
+msgid "I hear Okinawa's beautiful, too."
+msgstr ""
+
+msgctxt "320"
+msgid ""
+"Yeah, and the orphanage is right down by the beach.\r\n"
+"You should come visit when you get the chance."
+msgstr ""
+
+msgctxt "332"
+msgid "I'd love that... but I doubt I'll be able to for a while."
+msgstr ""
+
+msgctxt "344"
+msgid "Why's that?"
+msgstr ""
+
+msgctxt "356"
+msgid "Well... I'm actually leaving the country. Tomorrow."
+msgstr ""
+
+msgctxt "368"
+msgid "Where to?"
+msgstr ""
+
+msgctxt "380"
+msgid ""
+"The U.S. They're starting a training program for a new\r\n"
+"branch of the Metropolitan Police, and they've asked me\r\n"
+"to be an instructor."
+msgstr ""
+
+msgctxt "392"
+msgid "...Is it really that simple?"
+msgstr ""
+
+msgctxt "404"
+msgid ""
+"You'd probably try to stop me if I said more.\r\n"
+"Might be best to just leave it at that."
+msgstr ""
+
+msgctxt "416"
+msgid ""
+"...Right. Well, I can't say I'm not happy for you.\r\n"
+"It's good to see you following your heart."
+msgstr ""
+
+msgctxt "428"
+msgid ""
+"I thought you'd say that. And besides, I don't think you'd\r\n"
+"like it very much if I turned them down to stay with you."
+msgstr ""
+
+msgctxt "440"
+msgid "Heh, guess not."
+msgstr ""
+
+msgctxt "452"
+msgid ""
+"There's still a lot I want to accomplish as a police officer,\r\n"
+"Kiryu-san. Career goals, you know."
+msgstr ""
+
+msgctxt "464"
+msgid "And... I think America's the best place for me to do that."
+msgstr ""
+
+msgctxt "476"
+msgid "You're probably right."
+msgstr ""
+
+msgctxt "488"
+msgid "So let's... go our separate ways. For now."
+msgstr ""
+
+msgctxt "500"
+msgid ""
+"I'll come find you once I've done what I need to do, okay?\r\n"
+"Promise."
+msgstr ""
+
+msgctxt "512"
+msgid "...It's a promise."
+msgstr ""
+
+msgctxt "536"
+msgid ""
+"Done already? I thought you'd want to spend some more time\r\n"
+"paying your respects to the people you've lost."
+msgstr ""
+
+msgctxt "548"
+msgid ""
+"Good point. It might be nice to stop for a second and reflect\r\n"
+"on everything that's happened..."
+msgstr ""
+
+msgctxt "560"
+msgid ""
+"We can get to that later, though. I assume you'd like to pay\r\n"
+"your respects to the people you've lost first."
+msgstr ""
+
+msgctxt "572"
+msgid ""
+"Yeah, it might be nice to stop for a second and reflect on\r\n"
+"everything that's happened."
+msgstr ""
+
+msgctxt "584"
+msgid "Not quite yet."
+msgstr ""
+
+msgctxt "596"
+msgid "Yeah, I've done all I need to do."
+msgstr ""
+
+msgctxt "7376"
+msgid "Sayama"
+msgstr ""
+
+msgctxt "7380"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "7384"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "7388"
+msgid "Talk_No"
+msgstr ""

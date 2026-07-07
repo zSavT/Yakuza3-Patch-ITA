@@ -1,0 +1,409 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "140"
+msgid "Owww..."
+msgstr ""
+
+msgctxt "152"
+msgid "Sorry, just a little more."
+msgstr ""
+
+msgctxt "164"
+msgid "Huh? What's goin' on?"
+msgstr ""
+
+msgctxt "176"
+msgid "Looks like Mitsuo didn't need your help after all."
+msgstr ""
+
+msgctxt "188"
+msgid "Not like your suggestion was any better..."
+msgstr ""
+
+msgctxt "200"
+msgid "Did you say something?"
+msgstr ""
+
+msgctxt "212"
+msgid "Nope, nothing at all! Haha!"
+msgstr ""
+
+msgctxt "224"
+msgid ""
+"By the way, Rikiya. You should probably go grab your bags.\r\n"
+"Our flight's pretty soon."
+msgstr ""
+
+msgctxt "236"
+msgid ""
+"Huh? Shit on a stick, you're right! Lemme head home real\r\n"
+"quick, and I'll be back before you know it."
+msgstr ""
+
+msgctxt "248"
+msgid "See you in a bit, Aniki!"
+msgstr ""
+
+msgctxt "284"
+msgid "(Sorry, Rikiya.)"
+msgstr ""
+
+msgctxt "296"
+msgid "(This has to be a one-man job.)"
+msgstr ""
+
+msgctxt "356"
+msgid ""
+"(I hope Mitsuo's okay. My best bet would be to head downtown\r\n"
+"and see if I can head him off.)"
+msgstr ""
+
+msgctxt "380"
+msgid "Aniki!"
+msgstr ""
+
+msgctxt "404"
+msgid "Rikiya. What are you doing over here?"
+msgstr ""
+
+msgctxt "416"
+msgid ""
+"Well, you said we were gonna be shippin' up to Kamurocho\r\n"
+"tonight, but I realized we never agreed on a time! Figured\r\n"
+"I'd stop by and check with you."
+msgstr ""
+
+msgctxt "428"
+msgid "Oh, uh... The flight'll be at 8, I guess."
+msgstr ""
+
+msgctxt "440"
+msgid ""
+"You guess? Shouldn't you have booked by now? And hey,\r\n"
+"that's pretty late! We're not gonna get into Tokyo 'til 11!"
+msgstr ""
+
+msgctxt "452"
+msgid "That's fine. Kamurocho never sleeps, after all."
+msgstr ""
+
+msgctxt "464"
+msgid ""
+"Good point, Aniki! Oh, and I'm all packed and ready to go.\r\n"
+"This trip's gonna be great!"
+msgstr ""
+
+msgctxt "476"
+msgid "We're not going to have fun, Rikiya. This is all business."
+msgstr ""
+
+msgctxt "488"
+msgid ""
+"Yeah, yeah, I know. Anyways, we got some time 'til we\r\n"
+"gotta head out for the 8 o'clock flight. Guess I'll just\r\n"
+"chill here for now."
+msgstr ""
+
+msgctxt "500"
+msgid "Right, uh... Good idea."
+msgstr ""
+
+msgctxt "512"
+msgid "By the way, Aniki. Take a gander over there."
+msgstr ""
+
+msgctxt "524"
+msgid "Hm?"
+msgstr ""
+
+msgctxt "536"
+msgid "Mitsuo and Riona? What about them?"
+msgstr ""
+
+msgctxt "548"
+msgid "Someone's got a mean case of young love, if you catch me."
+msgstr ""
+
+msgctxt "560"
+msgid "I'm not sure I do \"catch you.\""
+msgstr ""
+
+msgctxt "572"
+msgid "Just watch, yeah?"
+msgstr ""
+
+msgctxt "596"
+msgid "Hey, Riona!"
+msgstr ""
+
+msgctxt "608"
+msgid "You know Okada from school?"
+msgstr ""
+
+msgctxt "620"
+msgid ""
+"His dad's like, mega-rich! Apparently he owns three whole\r\n"
+"movie theaters in town! Did you know that!?"
+msgstr ""
+
+msgctxt "632"
+msgid "Yup."
+msgstr ""
+
+msgctxt "644"
+msgid ""
+"Oh. Well anyway, me and Okada were talking and he gave me\r\n"
+"two free tickets for a movie at one of his dad's theaters."
+msgstr ""
+
+msgctxt "656"
+msgid "Uh-huh. Are you sure you didn't beat the tickets out of him?"
+msgstr ""
+
+msgctxt "668"
+msgid "What? Of course not!"
+msgstr ""
+
+msgctxt "680"
+msgid "Yeah. Sure."
+msgstr ""
+
+msgctxt "692"
+msgid ""
+"Anyway, it turns out those tickets're only good until today!\r\n"
+"Can you believe it!?"
+msgstr ""
+
+msgctxt "704"
+msgid "I'm outta luck if I don't go now. What should I do?"
+msgstr ""
+
+msgctxt "716"
+msgid "Um. Just go?"
+msgstr ""
+
+msgctxt "728"
+msgid "Well... I wanna, but none of my friends can do it today."
+msgstr ""
+
+msgctxt "740"
+msgid "Huh. Can't you just go alone, then?"
+msgstr ""
+
+msgctxt "752"
+msgid "But... Riona!"
+msgstr ""
+
+msgctxt "764"
+msgid "Will you go with me!?"
+msgstr ""
+
+msgctxt "776"
+msgid "Sorry, I have plans."
+msgstr ""
+
+msgctxt "788"
+msgid "Huh? What kinda plans!?"
+msgstr ""
+
+msgctxt "800"
+msgid ""
+"Don't you have a movie to get to? Maybe Shiro or one of\r\n"
+"the other guys would wanna go."
+msgstr ""
+
+msgctxt "812"
+msgid "Oh, um... yeah."
+msgstr ""
+
+msgctxt "824"
+msgid "Ouchie wowchie. That's gotta hurt."
+msgstr ""
+
+msgctxt "836"
+msgid "Not surprising with those clothes, though."
+msgstr ""
+
+msgctxt "848"
+msgid "Not sure you're one to be critiquing fashion, Rikiya."
+msgstr ""
+
+msgctxt "860"
+msgid ""
+"Oh c'mon! Just look at this luscious hair! Not a single\r\n"
+"strand outta place!"
+msgstr ""
+
+msgctxt "872"
+msgid "Yeah, because it's one solid block."
+msgstr ""
+
+msgctxt "884"
+msgid "Hold up, Aniki. Do you... not like how I look?"
+msgstr ""
+
+msgctxt "896"
+msgid "Eh, whatever. Guess you're just behind the times."
+msgstr ""
+
+msgctxt "908"
+msgid "Excuse me?"
+msgstr ""
+
+msgctxt "920"
+msgid "You gotta accept that fashions change, old-timer."
+msgstr ""
+
+msgctxt "932"
+msgid "I know more about fashion than you do."
+msgstr ""
+
+msgctxt "944"
+msgid ""
+"Suuure you do, Aniki. Hey, why don't we have a little\r\n"
+"friendly contest? Y'know, see who's really got the best\r\n"
+"taste?"
+msgstr ""
+
+msgctxt "956"
+msgid "A fashion contest, huh?"
+msgstr ""
+
+msgctxt "968"
+msgid "I'm gonna make you regret challenging me, Rikiya."
+msgstr ""
+
+msgctxt "980"
+msgid "Heh, sure you are, Aniki. Sure you are."
+msgstr ""
+
+msgctxt "992"
+msgid "Sounds childish to me."
+msgstr ""
+
+msgctxt "1004"
+msgid "What's the matter, Aniki? You chicken? Bok bok bok!"
+msgstr ""
+
+msgctxt "1016"
+msgid ""
+"...Fine, I'll do it. I'm gonna make you regret ever\r\n"
+"challenging me, Rikiya."
+msgstr ""
+
+msgctxt "1028"
+msgid "Heh, famous last words."
+msgstr ""
+
+msgctxt "1040"
+msgid ""
+"All right, here come the rules. Each of us is gonna pick\r\n"
+"out some stuff to really make Mitsuo's style pop."
+msgstr ""
+
+msgctxt "1052"
+msgid "One clothin' item and one accessory, got it?"
+msgstr ""
+
+msgctxt "1064"
+msgid "Yeah."
+msgstr ""
+
+msgctxt "1076"
+msgid ""
+"Good, then let's regroup back here when we've got 'em.\r\n"
+"I'm gonna whoop your ass to high heaven, Aniki!"
+msgstr ""
+
+msgctxt "1100"
+msgid ""
+"(How do I always end up agreeing to these absurd requests?\r\n"
+"I do want to help Mitsuo, though. I guess I'll play along.)"
+msgstr ""
+
+msgctxt "1148"
+msgid "You're gonna regret this."
+msgstr ""
+
+msgctxt "1160"
+msgid "Sounds childish."
+msgstr ""
+
+msgctxt "14124"
+msgid "Mitsuo"
+msgstr ""
+
+msgctxt "14128"
+msgid "Riona"
+msgstr ""
+
+msgctxt "14132"
+msgid "Rikiya"
+msgstr ""
+
+msgctxt "14136"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "14140"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "14144"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "14148"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "14152"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "14156"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "14160"
+msgid "dummy"
+msgstr ""
+
+msgctxt "14164"
+msgid "0"
+msgstr ""
+
+msgctxt "14168"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "14172"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "14176"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "14180"
+msgid "Talk_Info_R"
+msgstr ""
+
+msgctxt "14184"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "14188"
+msgid "Talk_Surp"
+msgstr ""

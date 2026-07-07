@@ -1,0 +1,98 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "304"
+msgid "Oh..."
+msgstr ""
+
+msgctxt "316"
+msgid "(I dropped the ice cream. He said it was 1,200 yen a pair, didn't he?)"
+msgstr ""
+
+msgctxt "412"
+msgid "Oh..."
+msgstr ""
+
+msgctxt "424"
+msgid "(I dropped the ice cream. He said it was 1,200 yen a pair, didn't he?)"
+msgstr ""
+
+msgctxt "520"
+msgid "Oh..."
+msgstr ""
+
+msgctxt "532"
+msgid "(I dropped the ice cream. He said they were 1,200 yen a pair, didn't he?)"
+msgstr ""
+
+msgctxt "628"
+msgid "Oh..."
+msgstr ""
+
+msgctxt "640"
+msgid "(The ice cream melted... He said they were 1,200 yen a pair, didn't he?)"
+msgstr ""
+
+msgctxt "736"
+msgid "Oops..."
+msgstr ""
+
+msgctxt "748"
+msgid ""
+"Please be careful! If you bump into someone, you'll drop the ice cream! I "
+"don't have to tell you that, do I?"
+msgstr ""
+
+msgctxt "760"
+msgid "Pay for Them and Try Again"
+msgstr ""
+
+msgctxt "772"
+msgid "Apologize and Give Up"
+msgstr ""
+
+msgctxt "784"
+msgid "Pay for Them and Try Again"
+msgstr ""
+
+msgctxt "796"
+msgid "Apologize and Give Up"
+msgstr ""
+
+msgctxt "808"
+msgid "Pay for Them and Try Again"
+msgstr ""
+
+msgctxt "820"
+msgid "Apologize and Give Up"
+msgstr ""
+
+msgctxt "832"
+msgid "Pay for Them and Try Again"
+msgstr ""
+
+msgctxt "844"
+msgid "Apologize and Give Up"
+msgstr ""
+
+msgctxt "4820"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "4824"
+msgid "MvP_walk_ice_fall_st"
+msgstr ""
+
+msgctxt "4828"
+msgid "Kind Father"
+msgstr ""

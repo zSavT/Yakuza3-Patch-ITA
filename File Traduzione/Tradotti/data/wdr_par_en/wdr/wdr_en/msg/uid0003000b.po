@@ -1,0 +1,52 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid "Show 1 picture"
+msgstr ""
+
+msgctxt "76"
+msgid "first picture   normal"
+msgstr ""
+
+msgctxt "88"
+msgid "Erase"
+msgstr ""
+
+msgctxt "100"
+msgid "second picture   full screen"
+msgstr ""
+
+msgctxt "112"
+msgid "Erase"
+msgstr ""
+
+msgctxt "124"
+msgid "third picture   normal"
+msgstr ""
+
+msgctxt "136"
+msgid "fourth picture   normal   crossfeed!"
+msgstr ""
+
+msgctxt "148"
+msgid "Erase"
+msgstr ""
+
+msgctxt "160"
+msgid "That's the end"
+msgstr ""
+
+msgctxt "600"
+msgid "2d_cf_adv_logo_sega"
+msgstr ""

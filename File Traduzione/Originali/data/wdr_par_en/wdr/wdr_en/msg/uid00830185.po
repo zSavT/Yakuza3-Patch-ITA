@@ -1,0 +1,38 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "92"
+msgid "Huh? Yokoi Office? Nope, don't know where that is."
+msgstr ""
+
+msgctxt "104"
+msgid ""
+"Try going more toward Pink Street. 'Cause I ain't seen anything like that "
+"around here."
+msgstr ""
+
+msgctxt "116"
+msgid "I see. Thanks."
+msgstr ""
+
+msgctxt "536"
+msgid "Showa Street Bum"
+msgstr ""
+
+msgctxt "540"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "544"
+msgid "Kiryu"
+msgstr ""

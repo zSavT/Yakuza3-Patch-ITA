@@ -1,0 +1,169 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "108"
+msgid ""
+"I told you we don't want any ice cream! Uncle Kaz is gonna say the same "
+"thing!"
+msgstr ""
+
+msgctxt "120"
+msgid ""
+"Dammit, kid, you're not listenin' to the words comin' out of my mouth! I "
+"need to see a guy named Kazuma Kiryu."
+msgstr ""
+
+msgctxt "132"
+msgid "What's going on here?"
+msgstr ""
+
+msgctxt "144"
+msgid "Wait... Are you Kazuma Kiryu?"
+msgstr ""
+
+msgctxt "156"
+msgid ""
+"Yeah. What do you want with one of my kids? I don't appreciate people "
+"pressuring them to buy ice cream."
+msgstr ""
+
+msgctxt "168"
+msgid ""
+"Kazuma Kiryu! I have come for you! Yeah, that's right. I know you know "
+"Kamiyama."
+msgstr ""
+
+msgctxt "180"
+msgid ""
+"I trained Kamiyama in the use of a bunch of the weapons he carries. I'm "
+"kind of a master at 'em. A weapons master, you might say. Name's Yonashiro."
+msgstr ""
+
+msgctxt "192"
+msgid ""
+"Kamiyama told me all about how you were lookin' for new and exciting ways "
+"to bust skulls, so here I am."
+msgstr ""
+
+msgctxt "204"
+msgid "Why would a master come all this way at the request of his pupil?"
+msgstr ""
+
+msgctxt "216"
+msgid ""
+"Okay, okay, you're a little suspicious. Understandable. But I'm not a rich "
+"dude. I spend most of my time selling ice cream on the beach."
+msgstr ""
+
+msgctxt "228"
+msgid ""
+"Kamiyama is my pupil, but he also sells me weapons at a discount 'cause I'm "
+"such a great guy. And because I'm such a great guy, I can't refuse him when "
+"he asks me to do something."
+msgstr ""
+
+msgctxt "240"
+msgid "(So this is Kamiyama's weapons master? Maybe I should have him teach me.)"
+msgstr ""
+
+msgctxt "252"
+msgid "Okay, I'll take you up on that."
+msgstr ""
+
+msgctxt "264"
+msgid ""
+"Yesss! I was worried you were gonna chicken out. Come find me on the beach. "
+"If you're man enough, that is!"
+msgstr ""
+
+msgctxt "276"
+msgid "Got it. I'll see you down there."
+msgstr ""
+
+msgctxt "336"
+msgid "Sorry, but I'm a little busy right now. Let's do it another time."
+msgstr ""
+
+msgctxt "348"
+msgid "<Italic>What</Italic>!? Too busy to learn how to bust skulls!?"
+msgstr ""
+
+msgctxt "360"
+msgid ""
+"Hey, I understand. The power weighs heavy on many a fighter. I'll be down "
+"at the beach when you've worked up the courage to come."
+msgstr ""
+
+msgctxt "372"
+msgid "Got it. I'll see you down there when I'm ready."
+msgstr ""
+
+msgctxt "432"
+msgid "Learn From Him"
+msgstr ""
+
+msgctxt "444"
+msgid "Maybe Later"
+msgstr ""
+
+msgctxt "5000"
+msgid "Mitsuo"
+msgstr ""
+
+msgctxt "5004"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "5008"
+msgid "Man Wearing Straw Hat"
+msgstr ""
+
+msgctxt "5012"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "5016"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "5020"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "5024"
+msgid "Yonashiro"
+msgstr ""
+
+msgctxt "5028"
+msgid "Talk_Kosite_st"
+msgstr ""
+
+msgctxt "5032"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "5036"
+msgid "Talk_Kosite_ed"
+msgstr ""
+
+msgctxt "5040"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "5044"
+msgid "dummy"
+msgstr ""
+
+msgctxt "5048"
+msgid "0"
+msgstr ""

@@ -1,0 +1,193 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "112"
+msgid "(...Uh-oh.)"
+msgstr ""
+
+msgctxt "124"
+msgid "(There aren't any foxtails here. What now?)"
+msgstr ""
+
+msgctxt "136"
+msgid "Oh, Kiryu-san. What're you poking around over there for?"
+msgstr ""
+
+msgctxt "148"
+msgid "Foxtails, actually. I thought I'd seen some around here."
+msgstr ""
+
+msgctxt "160"
+msgid ""
+"Ah, the elusive foxtail. I like to refer to them by their\r\n"
+"scientific name: <Italic>Setaria viridis</Italic>."
+msgstr ""
+
+msgctxt "172"
+msgid "That's, uh... a bit of a mouthful."
+msgstr ""
+
+msgctxt "184"
+msgid ""
+"It's a beautiful plant, though. The name foxtail is such\r\n"
+"an apt description of its bushy spikes, don't you think?"
+msgstr ""
+
+msgctxt "196"
+msgid "Uh, sure. Anyway, I didn't find any."
+msgstr ""
+
+msgctxt "208"
+msgid ""
+"Well, of course not. Not this time of year, at least. You see,\r\n"
+"it has to do with the fluffy tail-like spikes at the end of\r\n"
+"the stem."
+msgstr ""
+
+msgctxt "220"
+msgid ""
+"While the plant itself grows all year round, the spikes\r\n"
+"only grow in during the summer and autumn."
+msgstr ""
+
+msgctxt "232"
+msgid "Oh."
+msgstr ""
+
+msgctxt "244"
+msgid ""
+"So, I'm afraid you're out of luck, Kiryu-san. Mind if I ask\r\n"
+"what you want them for?"
+msgstr ""
+
+msgctxt "256"
+msgid ""
+"Well, I actually wanted a cat toy, but there aren't any pet\r\n"
+"shops around. Figured a foxtail was a fine second choice."
+msgstr ""
+
+msgctxt "268"
+msgid ""
+"Then it's good you didn't find one. They're awful for pets.\r\n"
+"As for cat toys... I may have a spare one I can give you."
+msgstr ""
+
+msgctxt "280"
+msgid "That would be great. I only need to borrow it, though."
+msgstr ""
+
+msgctxt "292"
+msgid ""
+"No, no. I insist you take it. My wife's obsession with cats\r\n"
+"has brought more toys than I know what to humanly do with."
+msgstr ""
+
+msgctxt "304"
+msgid "Huh. Well, thanks."
+msgstr ""
+
+msgctxt "316"
+msgid "Just wait here a moment. I'll go get it."
+msgstr ""
+
+msgctxt "328"
+msgid "Okay."
+msgstr ""
+
+msgctxt "388"
+msgid "Sorry to keep you waiting. Here."
+msgstr ""
+
+msgctxt "400"
+msgid "You got a <Color:8>Green Cat Toy<Color:Default>."
+msgstr ""
+
+msgctxt "424"
+msgid "Thanks for this, Miyara-san."
+msgstr ""
+
+msgctxt "436"
+msgid ""
+"Ah, it's nothing. I hope your cat enjoys it. By the way,\r\n"
+"did you know there's another species called a dog's tail?"
+msgstr ""
+
+msgctxt "448"
+msgid "I suppose one man's fox is another man's dog."
+msgstr ""
+
+msgctxt "460"
+msgid "There's even another one... The cat's tail."
+msgstr ""
+
+msgctxt "472"
+msgid "Interesting."
+msgstr ""
+
+msgctxt "484"
+msgid ""
+"Isn't it? Given my wife's penchant for all things feline, it\r\n"
+"should be no surprise that our house is full of cat's tails."
+msgstr ""
+
+msgctxt "496"
+msgid "By which I of course mean both plant and animal! Hahaha!"
+msgstr ""
+
+msgctxt "5732"
+msgid "P_stand_tlk_child_lp"
+msgstr ""
+
+msgctxt "5736"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "5740"
+msgid "P_stand_tlk_child_ed"
+msgstr ""
+
+msgctxt "5744"
+msgid "Miyara"
+msgstr ""
+
+msgctxt "5748"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "5752"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "5756"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "5760"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "5764"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "5768"
+msgid "Sync_Send"
+msgstr ""
+
+msgctxt "5772"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "5776"
+msgid "Talk_Think"
+msgstr ""

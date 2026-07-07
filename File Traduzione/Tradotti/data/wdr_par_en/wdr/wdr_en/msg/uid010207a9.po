@@ -1,0 +1,110 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "92"
+msgid "...All right, Kazuki-san. But I do hope you consider a second club."
+msgstr ""
+
+msgctxt "104"
+msgid "It's not gonna happen. My mind is made up on this."
+msgstr ""
+
+msgctxt "116"
+msgid "Heh... No need to be so stubborn. I'll be back later."
+msgstr ""
+
+msgctxt "140"
+msgid "Oh, Kiryu-san. What's going on?"
+msgstr ""
+
+msgctxt "152"
+msgid ""
+"Not much. But who was he? Has one of the \"families\" been paying you a "
+"visit?"
+msgstr ""
+
+msgctxt "164"
+msgid ""
+"No, that was Kyogoku-san. He's a businessman in charge of all kinds of host "
+"and hostess venues."
+msgstr ""
+
+msgctxt "176"
+msgid ""
+"And lately, he's been trying to get us to open up another branch of "
+"Stardust..."
+msgstr ""
+
+msgctxt "188"
+msgid "A second club, huh? That sure would be something..."
+msgstr ""
+
+msgctxt "200"
+msgid ""
+"Indeed... The Stardust name has really taken off, so he wants us to expand "
+"to another region."
+msgstr ""
+
+msgctxt "212"
+msgid "And where was he thinking that would be?"
+msgstr ""
+
+msgctxt "224"
+msgid ""
+"Yokohama. He thinks it would be a good way to avoid the tight competition "
+"in Tokyo and plant some new roots."
+msgstr ""
+
+msgctxt "236"
+msgid "Kyogoku-san's group doesn't have a club with any star power in Yokohama."
+msgstr ""
+
+msgctxt "248"
+msgid ""
+"That's why he's offering me capital to really promote the Stardust name "
+"there."
+msgstr ""
+
+msgctxt "260"
+msgid "I see..."
+msgstr ""
+
+msgctxt "272"
+msgid ""
+"But I have absolutely no desire for a second club. What I have here is more "
+"than enough."
+msgstr ""
+
+msgctxt "3440"
+msgid "Kyogoku"
+msgstr ""
+
+msgctxt "3444"
+msgid "Kazuki"
+msgstr ""
+
+msgctxt "3448"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "3452"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "3456"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "3460"
+msgid "Talk_Kansin"
+msgstr ""

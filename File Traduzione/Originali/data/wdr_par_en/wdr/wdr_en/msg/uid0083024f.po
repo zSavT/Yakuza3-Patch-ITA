@@ -1,0 +1,48 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "96"
+msgid ""
+"Tamiya's one of the biggest names in Japanese politics\r\n"
+"nowadays."
+msgstr ""
+
+msgctxt "108"
+msgid "You should be ready for anything when you head over there."
+msgstr ""
+
+msgctxt "120"
+msgid ""
+"Speaking of which, his car's waiting for us over at the\r\n"
+"Millennium Tower, right? I'm ready when you are."
+msgstr ""
+
+msgctxt "132"
+msgid "Thanks, Date-san."
+msgstr ""
+
+msgctxt "144"
+msgid "Phew!"
+msgstr ""
+
+msgctxt "156"
+msgid "Now let's get back to Serena!"
+msgstr ""
+
+msgctxt "832"
+msgid "Date"
+msgstr ""
+
+msgctxt "836"
+msgid "Kiryu"
+msgstr ""

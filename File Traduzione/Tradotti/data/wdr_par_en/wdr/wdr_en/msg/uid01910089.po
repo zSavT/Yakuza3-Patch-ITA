@@ -1,0 +1,96 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "92"
+msgid "(That looks like Batsu, the hitman...)"
+msgstr ""
+
+msgctxt "104"
+msgid "What are you doing!?"
+msgstr ""
+
+msgctxt "116"
+msgid ""
+"It's your own damn fault for joining the yakuza. Now it's\r\n"
+"time for you to pay the price."
+msgstr ""
+
+msgctxt "128"
+msgid "What the hell are you talking about!?"
+msgstr ""
+
+msgctxt "140"
+msgid "Hold it right there. That's enough."
+msgstr ""
+
+msgctxt "152"
+msgid "Who the hell are you?"
+msgstr ""
+
+msgctxt "164"
+msgid "You're Batsu, the hitman, aren't you?"
+msgstr ""
+
+msgctxt "176"
+msgid "What if I am?"
+msgstr ""
+
+msgctxt "188"
+msgid "Hey. I'll take care of this. Get out of here."
+msgstr ""
+
+msgctxt "200"
+msgid "Thank you! I'll never forget this!"
+msgstr ""
+
+msgctxt "224"
+msgid "You in the biz, too?"
+msgstr ""
+
+msgctxt "236"
+msgid "Not anymore. Why? Would you kill me if I were?"
+msgstr ""
+
+msgctxt "248"
+msgid "Yeah. That's right. The yakuza have to be destroyed."
+msgstr ""
+
+msgctxt "260"
+msgid "That's extreme. What do you have against the yakuza, anyway?"
+msgstr ""
+
+msgctxt "272"
+msgid ""
+"If you side with them, you're just as guilty as they are!\r\n"
+"You deserve to die, too!"
+msgstr ""
+
+msgctxt "284"
+msgid "Looks like talking isn't gonna get us anywhere."
+msgstr ""
+
+msgctxt "296"
+msgid "Pay for your sins, yakuza scum!"
+msgstr ""
+
+msgctxt "2884"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "2888"
+msgid "Terrified Yakuza"
+msgstr ""
+
+msgctxt "2892"
+msgid "Batsu"
+msgstr ""

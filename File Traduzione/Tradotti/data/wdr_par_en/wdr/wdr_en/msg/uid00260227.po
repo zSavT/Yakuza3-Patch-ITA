@@ -1,0 +1,240 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "168"
+msgid "Oh, Kiryu-san. You're back."
+msgstr ""
+
+msgctxt "180"
+msgid ""
+"So, will you play golf with the president? We'll pay for the round, of "
+"course."
+msgstr ""
+
+msgctxt "192"
+msgid "Sorry... You'll have to find somebody else."
+msgstr ""
+
+msgctxt "204"
+msgid "Oh... All right. I'm sorry for bothering you."
+msgstr ""
+
+msgctxt "216"
+msgid ""
+"Once the president requests something, I must do as he says. If you change "
+"your mind, come talk to me."
+msgstr ""
+
+msgctxt "228"
+msgid "Well, okay. It might be fun to play against someone for a change."
+msgstr ""
+
+msgctxt "240"
+msgid "Thank you! I'm in your debt!"
+msgstr ""
+
+msgctxt "312"
+msgid "This is Kiryu-san. He will be playing with you today, sir."
+msgstr ""
+
+msgctxt "324"
+msgid ""
+"Excellent! Please, call me Kurosawa. Go easy on me, okay?\r\n"
+"Har har har."
+msgstr ""
+
+msgctxt "384"
+msgid ""
+"(Kiryu-san, please beat the president for me. It'll be a good lesson for "
+"him if he loses.)"
+msgstr ""
+
+msgctxt "396"
+msgid ""
+"(I'll be sure to give you a reward if you can knock his tee down a few "
+"holes, if you know what I mean. Heheh.)"
+msgstr ""
+
+msgctxt "420"
+msgid ""
+"I'm tired of playing with you. I want to play someone who's actually good "
+"at golf."
+msgstr ""
+
+msgctxt "432"
+msgid ""
+"As you wish, sir. I sincerely apologize. I will find you a more suitable "
+"opponent."
+msgstr ""
+
+msgctxt "444"
+msgid ""
+"Can you find one soon? Today's my golf day. It would be a shame if you "
+"weren't able to find someone in time."
+msgstr ""
+
+msgctxt "456"
+msgid ""
+"I hope there's somebody around. I'm not asking you to find a professional "
+"golfer, but I'd like to play with someone of that caliber."
+msgstr ""
+
+msgctxt "468"
+msgid "As you wish, sir. Now, who can I find...?"
+msgstr ""
+
+msgctxt "528"
+msgid ""
+"Excuse me. I'm sorry to bother you, sir, but are you here to play golf "
+"today?"
+msgstr ""
+
+msgctxt "540"
+msgid "Yeah..."
+msgstr ""
+
+msgctxt "552"
+msgid ""
+"I apologize for not introducing myself. My name\r\n"
+"is Tamura. I work for a fish processing company."
+msgstr ""
+
+msgctxt "564"
+msgid "I'm Kiryu."
+msgstr ""
+
+msgctxt "576"
+msgid ""
+"I don't mean to put you on the spot, but would you be willing to play a "
+"round of golf with our president?"
+msgstr ""
+
+msgctxt "588"
+msgid ""
+"(To be honest, he is tired of playing golf with a novice like me. He asked "
+"me to find him somebody with the skill level of a pro.)"
+msgstr ""
+
+msgctxt "600"
+msgid ""
+"(So, will you play with our president? I'll be sure to make it worth your "
+"while.)"
+msgstr ""
+
+msgctxt "612"
+msgid "Sorry. You'll have to ask somebody else."
+msgstr ""
+
+msgctxt "624"
+msgid "Oh... All right. I'm sorry for bothering you."
+msgstr ""
+
+msgctxt "636"
+msgid ""
+"Once the president requests something, I must do as he says. If you change "
+"your mind, come talk to me."
+msgstr ""
+
+msgctxt "696"
+msgid "Well, okay. It might be fun to play against someone for a change."
+msgstr ""
+
+msgctxt "708"
+msgid "Thank you! I'm in your debt!"
+msgstr ""
+
+msgctxt "780"
+msgid "This is Kiryu-san. He will be playing with you today, sir."
+msgstr ""
+
+msgctxt "792"
+msgid ""
+"Excellent! Please, call me Kurosawa. Go easy on me, okay?\r\n"
+" Har har har."
+msgstr ""
+
+msgctxt "852"
+msgid ""
+"(Kiryu-san, please beat the president for me. It'll be a good lesson for "
+"him if he loses.)"
+msgstr ""
+
+msgctxt "864"
+msgid ""
+"(I'll be sure to give you a reward if you can knock his tee down a few "
+"holes, if you know what I mean. Heheh.)"
+msgstr ""
+
+msgctxt "888"
+msgid "Play Golf with the President"
+msgstr ""
+
+msgctxt "900"
+msgid "Come Back Later"
+msgstr ""
+
+msgctxt "912"
+msgid "Play Golf with the President"
+msgstr ""
+
+msgctxt "924"
+msgid "Come Back Later"
+msgstr ""
+
+msgctxt "9460"
+msgid "Low-level Employee Tamura"
+msgstr ""
+
+msgctxt "9464"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "9468"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "9472"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "9476"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "9480"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "9484"
+msgid "Talk_Info_L"
+msgstr ""
+
+msgctxt "9488"
+msgid "President Kurosawa"
+msgstr ""
+
+msgctxt "9492"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "9496"
+msgid "President"
+msgstr ""
+
+msgctxt "9500"
+msgid "Low-Level Employee"
+msgstr ""
+
+msgctxt "9504"
+msgid "SetM_nml_stand_lookfor_02"
+msgstr ""

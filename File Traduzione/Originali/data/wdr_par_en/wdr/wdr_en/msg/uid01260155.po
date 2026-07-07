@@ -1,0 +1,325 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "140"
+msgid "Waugh... *sniffle* My car..."
+msgstr ""
+
+msgctxt "152"
+msgid "Aaaaagh! I told you we oughta stop doing hit-and-stops..."
+msgstr ""
+
+msgctxt "164"
+msgid ""
+"I've heard of guys who jump in front of cars, but actually trying to run "
+"into people? And even demanding repair money?"
+msgstr ""
+
+msgctxt "176"
+msgid ""
+"Well... people usually get intimidated by the luxury car, so nobody puts up "
+"a fight... They usually just pay."
+msgstr ""
+
+msgctxt "188"
+msgid ""
+"You're actually the first person who hasn't paid us... What's your deal, "
+"anyway?"
+msgstr ""
+
+msgctxt "200"
+msgid "I guess this just isn't your day."
+msgstr ""
+
+msgctxt "212"
+msgid ""
+"Okay... uh... we apologize. To make up for the trouble we caused, please "
+"accept this."
+msgstr ""
+
+msgctxt "224"
+msgid "You got <Color:8>50,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "260"
+msgid "Sure we shouldn't call a tow truck?"
+msgstr ""
+
+msgctxt "284"
+msgid "You got 3,000 EXP."
+msgstr ""
+
+msgctxt "344"
+msgid "Aaaaagh! Who <Italic>are</Italic> you?"
+msgstr ""
+
+msgctxt "356"
+msgid "I told you we oughta stop doing hit-and-stops..."
+msgstr ""
+
+msgctxt "368"
+msgid ""
+"I've heard of guys who jump in front of cars, but actually trying to run "
+"into people? And even demanding repair money?"
+msgstr ""
+
+msgctxt "380"
+msgid ""
+"Well... people usually get intimidated by the luxury car, so nobody puts up "
+"a fight... They usually just pay."
+msgstr ""
+
+msgctxt "392"
+msgid ""
+"You're actually the first person who hasn't paid us... What's your deal, "
+"anyway?"
+msgstr ""
+
+msgctxt "404"
+msgid "I guess this just isn't your day."
+msgstr ""
+
+msgctxt "416"
+msgid ""
+"Okay... uh... we apologize. To make up for the trouble we caused, please "
+"accept this."
+msgstr ""
+
+msgctxt "428"
+msgid "You got <Color:8>30,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "452"
+msgid "You got 3,000 EXP."
+msgstr ""
+
+msgctxt "536"
+msgid "Whoa⑬"
+msgstr ""
+
+msgctxt "608"
+msgid "(That guy almost hit me!)"
+msgstr ""
+
+msgctxt "620"
+msgid ""
+"Hey! The hell are you doing!? Did you guys see how he jumped in front of "
+"me!?"
+msgstr ""
+
+msgctxt "632"
+msgid ""
+"Oh, no... Looks like you damaged the car.\r\n"
+"You have any idea how much this car costs?\r\n"
+"You better pay for this!"
+msgstr ""
+
+msgctxt "644"
+msgid "How could I have damaged your car if I didn't even touch it?"
+msgstr ""
+
+msgctxt "656"
+msgid ""
+"Are you trying to be a wiseass now? You got any idea how much this car is "
+"worth? It's gonna cost 500,000 yen just to fix this!"
+msgstr ""
+
+msgctxt "668"
+msgid ""
+"Ugh, my neck's starting to hurt. I think I might have whiplash⑬I had to "
+"slam on the brakes, thanks to him..."
+msgstr ""
+
+msgctxt "680"
+msgid "......"
+msgstr ""
+
+msgctxt "692"
+msgid ""
+"Well, part of this was our fault. We could settle this for 100,000... or we "
+"could go to the cops and you could pay for it all."
+msgstr ""
+
+msgctxt "704"
+msgid "Fine. 100,000 yen, right?"
+msgstr ""
+
+msgctxt "728"
+msgid ""
+"Oh, good. You're gonna pay up? Smart move. Always better when we can settle "
+"this the easy way."
+msgstr ""
+
+msgctxt "740"
+msgid "You handed over <Color:8>100,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "752"
+msgid ""
+"One... two... three... That's ten bills.\r\n"
+"Thanks."
+msgstr ""
+
+msgctxt "776"
+msgid "You got 3,000 EXP."
+msgstr ""
+
+msgctxt "836"
+msgid ""
+"Oh, good. You're gonna pay up? Smart move. Always better when we can settle "
+"this the easy way."
+msgstr ""
+
+msgctxt "848"
+msgid ""
+"One... two... three... huh?\r\n"
+"This ain't enough."
+msgstr ""
+
+msgctxt "860"
+msgid ""
+"Here we are tryin' to solve this like gentlemen, and you pull this shit on "
+"us!?"
+msgstr ""
+
+msgctxt "872"
+msgid ""
+"You think you can mess with us, pal!? Well, if you won't cough up the cash, "
+"maybe we'll just beat it out of you!"
+msgstr ""
+
+msgctxt "884"
+msgid ""
+"Why would I pay you? The car isn't damaged. And why should I believe you "
+"have whiplash?"
+msgstr ""
+
+msgctxt "896"
+msgid ""
+"What did you say!? I try and let you off easy, and this is how you treat "
+"me!?"
+msgstr ""
+
+msgctxt "908"
+msgid ""
+"You've got guts, jerk. Well, if you won't cough up the cash, I'll just beat "
+"it out of you!"
+msgstr ""
+
+msgctxt "932"
+msgid "Don't Pay"
+msgstr ""
+
+msgctxt "944"
+msgid "Pay 100,000 Yen"
+msgstr ""
+
+msgctxt "10592"
+msgid "Hit-and-Stop Toguchi"
+msgstr ""
+
+msgctxt "10596"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "10600"
+msgid "Hit-and-Stop Partner"
+msgstr ""
+
+msgctxt "10604"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "10608"
+msgid "Talk_Udekumi_st"
+msgstr ""
+
+msgctxt "10612"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "10616"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "10620"
+msgid "Talk_Udekumi_Yes"
+msgstr ""
+
+msgctxt "10624"
+msgid "Talk_Sorry"
+msgstr ""
+
+msgctxt "10628"
+msgid "Talk_CryBig_st"
+msgstr ""
+
+msgctxt "10632"
+msgid "Idle"
+msgstr ""
+
+msgctxt "10636"
+msgid "Talk_Send"
+msgstr ""
+
+msgctxt "10640"
+msgid "Talk_Chohatu"
+msgstr ""
+
+msgctxt "10644"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "10648"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "10652"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "10656"
+msgid "Talk_Udekumi_ed"
+msgstr ""
+
+msgctxt "10660"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "10664"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "10668"
+msgid "P_stand_sp15_sync_yubi_ed"
+msgstr ""
+
+msgctxt "10672"
+msgid "dummy"
+msgstr ""
+
+msgctxt "10676"
+msgid "0"
+msgstr ""
+
+msgctxt "10680"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "10684"
+msgid "Talk_Udekumi_No"
+msgstr ""
+
+msgctxt "10688"
+msgid "Talk_NoBig"
+msgstr ""

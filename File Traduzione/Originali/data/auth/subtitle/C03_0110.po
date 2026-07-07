@@ -1,0 +1,68 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "178\t220"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "223\t283"
+msgid "Who's this asshole?"
+msgstr ""
+
+msgctxt "310\t382"
+msgid "You lost, little Ryudo boy?"
+msgstr ""
+
+msgctxt "387\t446"
+msgid "Where's Saki?"
+msgstr ""
+
+msgctxt "528\t607"
+msgid "You mean the brat?"
+msgstr ""
+
+msgctxt "658\t738"
+msgid "She's up with the boss."
+msgstr ""
+
+msgctxt "741\t769"
+msgid "Sorry."
+msgstr ""
+
+msgctxt "770\t853"
+msgid "But the only way you're gettin' up there..."
+msgstr ""
+
+msgctxt "855\t950"
+msgid "Is in a body bag!"
+msgstr ""
+
+msgctxt "953\t1012"
+msgid "I don't have time for this."
+msgstr ""
+
+msgctxt "1014\t1066"
+msgid "Let me through."
+msgstr ""
+
+msgctxt "1069\t1156"
+msgid "Well someone's got balls."
+msgstr ""
+
+msgctxt "1247\t1301"
+msgid "Go on, boys!"
+msgstr ""
+
+msgctxt "1304\t1376"
+msgid "Tear him a new one!"
+msgstr ""

@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "92"
+msgid ""
+"That was great! <Color:255,200,200,255>⑮<Color:Default> See you later! "
+"<Color:255,200,200,255>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "104"
+msgid ""
+"I had so much fun! <Color:255,200,200,255>⑮<Color:Default> Bye bye! "
+"<Color:255,200,200,255>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "236"
+msgid "Mika here."
+msgstr ""
+
+msgctxt "248"
+msgid "I'm over at Aqua Sky. How about meeting me here for a game of pool?"
+msgstr ""
+
+msgctxt "260"
+msgid "Pool? Sure, I'll head over there right now."
+msgstr ""
+
+msgctxt "356"
+msgid ""
+"Sorry to keep you waiting. <Color:255,200,200,255>⑮<Color:Default> Hehe... "
+"You're going down!"
+msgstr ""
+
+msgctxt "416"
+msgid "Heeey, this is Saya!"
+msgstr ""
+
+msgctxt "428"
+msgid "I'm over at Aqua Sky. How about meeting me here for a game of pool?"
+msgstr ""
+
+msgctxt "440"
+msgid ""
+"Pool? That sounds fun! Just sit tight, I'll be right there! "
+"<Color:255,200,200,255>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "536"
+msgid ""
+"Sorry to make you wait! <Color:255,200,200,255>⑮<Color:Default> You're "
+"going down, Kiryu-san!"
+msgstr ""
+
+msgctxt "548"
+msgid "All right, that will be 1,600 yen for two players."
+msgstr ""
+
+msgctxt "4120"
+msgid "Mika"
+msgstr ""
+
+msgctxt "4124"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "4128"
+msgid "Saya"
+msgstr ""
+
+msgctxt "4132"
+msgid "dummy"
+msgstr ""
+
+msgctxt "4136"
+msgid "0"
+msgstr ""
+
+msgctxt "4140"
+msgid "P_stand_tlk_phone_st"
+msgstr ""
+
+msgctxt "4144"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "4148"
+msgid "P_stand_tlk_phone_ed"
+msgstr ""
+
+msgctxt "4152"
+msgid "Bartender"
+msgstr ""

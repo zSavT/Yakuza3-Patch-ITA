@@ -1,0 +1,94 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "368"
+msgid "(Guess I'll head to the beach, see what Akimoto's up to...)"
+msgstr ""
+
+msgctxt "392"
+msgid ""
+"(Izumi couldn't have gone too far. I bet she's somewhere\r\n"
+"near the orphanage.)"
+msgstr ""
+
+msgctxt "416"
+msgid ""
+"(I don't see him... but I can't head downtown just yet.\r\n"
+"Not before I find those Ryudo guys.)"
+msgstr ""
+
+msgctxt "452"
+msgid "(I can use the monorail to get to the airport.)"
+msgstr ""
+
+msgctxt "464"
+msgid "Go to Kamurocho?"
+msgstr ""
+
+msgctxt "524"
+msgid "Take the monorail to the airport and fly to Kamurocho?"
+msgstr ""
+
+msgctxt "572"
+msgid ""
+"You can now go to Downtown Ryukyu from here.\r\n"
+"Would you like to go there now?"
+msgstr ""
+
+msgctxt "584"
+msgid "Go to Downtown Ryukyu?"
+msgstr ""
+
+msgctxt "596"
+msgid "(Maybe later...)"
+msgstr ""
+
+msgctxt "668"
+msgid "Go to Downtown Ryukyu"
+msgstr ""
+
+msgctxt "680"
+msgid "Go to Kamurocho"
+msgstr ""
+
+msgctxt "692"
+msgid "Stay Here"
+msgstr ""
+
+msgctxt "704"
+msgid "Yes"
+msgstr ""
+
+msgctxt "716"
+msgid "No"
+msgstr ""
+
+msgctxt "728"
+msgid "Not Now"
+msgstr ""
+
+msgctxt "740"
+msgid "Go to Downtown Ryukyu"
+msgstr ""
+
+msgctxt "752"
+msgid "Not Now"
+msgstr ""
+
+msgctxt "764"
+msgid "Go to Downtown Ryukyu"
+msgstr ""
+
+msgctxt "3056"
+msgid "Kiryu"
+msgstr ""

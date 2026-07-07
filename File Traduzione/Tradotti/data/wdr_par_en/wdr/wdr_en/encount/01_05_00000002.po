@@ -1,0 +1,66 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "124"
+msgid ""
+"Hey, buddy. Why're you walkin' around like you own the town while you're so "
+"drunk? That's dangerous, y'know?"
+msgstr ""
+
+msgctxt "136"
+msgid ""
+"Why don't I show you just how dangerous that can be? 'Course, my tutorin' "
+"fee's pretty high!"
+msgstr ""
+
+msgctxt "160"
+msgid ""
+"Guess drunk people can be pretty dangerous...\r\n"
+"I think I've learned my lesson."
+msgstr ""
+
+msgctxt "172"
+msgid "This is all I got, but... Consider it your tutorin' fee."
+msgstr ""
+
+msgctxt "184"
+msgid "You got a robust %s."
+msgstr ""
+
+msgctxt "220"
+msgid "I learned a valuable lesson! Let me call you \"sensei\"!"
+msgstr ""
+
+msgctxt "1480"
+msgid "Disgruntled Yakuza"
+msgstr ""
+
+msgctxt "1484"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "1488"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "1492"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "1496"
+msgid "Sync_Send"
+msgstr ""
+
+msgctxt "1500"
+msgid "Talk_Sorry"
+msgstr ""

@@ -1,0 +1,182 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "88"
+msgid ""
+"(She just tossed a bottle in the ocean... Could that be the person he's "
+"here for?)"
+msgstr ""
+
+msgctxt "100"
+msgid "Mom!"
+msgstr ""
+
+msgctxt "112"
+msgid "Akihiko! Sweetheart, what are you doing here?"
+msgstr ""
+
+msgctxt "124"
+msgid ""
+"This man says he found a letter in a bottle and I think it's the one you "
+"tossed into the ocean a long time ago!"
+msgstr ""
+
+msgctxt "136"
+msgid "Oh... Is that so?"
+msgstr ""
+
+msgctxt "148"
+msgid "Yeah. Here it is. I found it washed up on the shore near my place."
+msgstr ""
+
+msgctxt "160"
+msgid "Oh my goodness... This is from all the way back then..."
+msgstr ""
+
+msgctxt "172"
+msgid ""
+"When I read it, I figured it might have been a suicide note. I'm glad to "
+"see you're alive and well, though."
+msgstr ""
+
+msgctxt "184"
+msgid ""
+"It was a suicide note, yes, one I wrote ten years ago. I had planned to "
+"throw myself into the ocean along with the letter and the bottle."
+msgstr ""
+
+msgctxt "196"
+msgid "But before I could take the jump... I felt Akihiko kick inside of me."
+msgstr ""
+
+msgctxt "208"
+msgid ""
+"It was like Yasuaki was shouting at me from beyond the grave. \"Live, "
+"dammit!\""
+msgstr ""
+
+msgctxt "220"
+msgid "Wow..."
+msgstr ""
+
+msgctxt "232"
+msgid "Ever since that moment..."
+msgstr ""
+
+msgctxt "244"
+msgid ""
+"Every year, on Akihiko's birthday, I come to this cliff to send Yasu-kun "
+"another letter."
+msgstr ""
+
+msgctxt "256"
+msgid "So that's why he bought this particular bottle..."
+msgstr ""
+
+msgctxt "268"
+msgid "Uh-huh. It was for my mom."
+msgstr ""
+
+msgctxt "280"
+msgid ""
+"It all makes sense now. We were pretty shocked when we read the letter. "
+"Thought we might have to plan a rescue."
+msgstr ""
+
+msgctxt "292"
+msgid ""
+"I'm sorry about that. You don't have to worry about that. I have my son "
+"now, and he's my world."
+msgstr ""
+
+msgctxt "304"
+msgid "Good to hear."
+msgstr ""
+
+msgctxt "316"
+msgid "Isn't that right, Akihiko?"
+msgstr ""
+
+msgctxt "328"
+msgid "Yeah. I'll watch out for you too, Mom."
+msgstr ""
+
+msgctxt "340"
+msgid "Take good care of your mother, Akihiko."
+msgstr ""
+
+msgctxt "352"
+msgid "Don't worry, I will!"
+msgstr ""
+
+msgctxt "364"
+msgid "Aww, thank you, sweetheart."
+msgstr ""
+
+msgctxt "376"
+msgid "All right, then, I'll stop bothering you and head out on my way."
+msgstr ""
+
+msgctxt "388"
+msgid ""
+"Wait... Here, will you take some of these with you? They were Yasu-kun's "
+"favorite. I don't think you came here today by chance."
+msgstr ""
+
+msgctxt "400"
+msgid "You got a <Color:8>Sata Andagi<Color:Default>."
+msgstr ""
+
+msgctxt "424"
+msgid "The kids at Morning Glory will love these, thanks. Take care."
+msgstr ""
+
+msgctxt "448"
+msgid "You got 3,000 EXP."
+msgstr ""
+
+msgctxt "6356"
+msgid "F_nml_stand_tlk_throw_binB"
+msgstr ""
+
+msgctxt "6360"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "6364"
+msgid "Akihiko"
+msgstr ""
+
+msgctxt "6368"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "6372"
+msgid "Minako"
+msgstr ""
+
+msgctxt "6376"
+msgid "Sync_Send"
+msgstr ""
+
+msgctxt "6380"
+msgid "kaiwabgm_love"
+msgstr ""
+
+msgctxt "6384"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "6388"
+msgid "Talk_Smile"
+msgstr ""

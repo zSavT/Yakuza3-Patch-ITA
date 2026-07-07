@@ -1,0 +1,64 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "124"
+msgid ""
+"You reek of booze, old man! The hell are you thinkin' walkin' around like "
+"that?"
+msgstr ""
+
+msgctxt "136"
+msgid ""
+"Don't you know you're bothering everyone? Take a nap and sleep off the "
+"booze!"
+msgstr ""
+
+msgctxt "160"
+msgid "Whoa, sorry! Yeah, that was all an excuse to attack you..."
+msgstr ""
+
+msgctxt "172"
+msgid "Here, I hope this'll make up for it."
+msgstr ""
+
+msgctxt "184"
+msgid "You got a decent %s."
+msgstr ""
+
+msgctxt "220"
+msgid "I hurt all over... Just gonna lie down here for a minute..."
+msgstr ""
+
+msgctxt "1384"
+msgid "Irate Thug"
+msgstr ""
+
+msgctxt "1388"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "1392"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "1396"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "1400"
+msgid "Sync_Send"
+msgstr ""
+
+msgctxt "1404"
+msgid "Talk_Yes"
+msgstr ""

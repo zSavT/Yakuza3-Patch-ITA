@@ -1,0 +1,110 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "220"
+msgid ""
+"Hey, you're not from Okinawa, are you? Did you come here\r\n"
+"from Tokyo?"
+msgstr ""
+
+msgctxt "232"
+msgid "Yeah."
+msgstr ""
+
+msgctxt "244"
+msgid "I knew it!"
+msgstr ""
+
+msgctxt "256"
+msgid ""
+"I've never seen anyone from Okinawa wear expensive leather shoes with "
+"pointy toes like that."
+msgstr ""
+
+msgctxt "268"
+msgid "...Can you really tell where I'm from just by my shoes?"
+msgstr ""
+
+msgctxt "280"
+msgid "Never mind that! Anyway, I've always wanted to visit Tokyo!"
+msgstr ""
+
+msgctxt "292"
+msgid ""
+"Maybe you could tell me about it? I'll get you something to\r\n"
+"make up for it, promise!"
+msgstr ""
+
+msgctxt "316"
+msgid "Sorry, I'm a little busy right now."
+msgstr ""
+
+msgctxt "328"
+msgid ""
+"Well, come back when you're not, then! I'll be waiting\r\n"
+"for you right around here."
+msgstr ""
+
+msgctxt "340"
+msgid "Sure, I guess I could spare a few minutes."
+msgstr ""
+
+msgctxt "352"
+msgid ""
+"Yay! There's a bar I like right near here, so let's grab\r\n"
+"some drinks and talk away!"
+msgstr ""
+
+msgctxt "376"
+msgid "Please, I want to know more about Tokyo!"
+msgstr ""
+
+msgctxt "388"
+msgid "Tell Her About Tokyo"
+msgstr ""
+
+msgctxt "400"
+msgid "Leave Her Be"
+msgstr ""
+
+msgctxt "412"
+msgid "Tell Her About Tokyo"
+msgstr ""
+
+msgctxt "424"
+msgid "Leave Her Be"
+msgstr ""
+
+msgctxt "2664"
+msgid "Woman Curious About Tokyo"
+msgstr ""
+
+msgctxt "2668"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "2672"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "2676"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "2680"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "2684"
+msgid "Talk_Request"
+msgstr ""

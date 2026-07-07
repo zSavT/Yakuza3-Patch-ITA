@@ -1,0 +1,280 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "564"
+msgid "Haruka."
+msgstr ""
+
+msgctxt "576"
+msgid "What is it, Uncle Kaz?"
+msgstr ""
+
+msgctxt "588"
+msgid "(Should I keep her with me?)"
+msgstr ""
+
+msgctxt "600"
+msgid "Never mind, it's nothing."
+msgstr ""
+
+msgctxt "612"
+msgid "...Oh. You're funny sometimes, Uncle Kaz!"
+msgstr ""
+
+msgctxt "624"
+msgid "There's something I need to do alone."
+msgstr ""
+
+msgctxt "636"
+msgid "Oh, okay. Let's spend some more time together soon, though!"
+msgstr ""
+
+msgctxt "696"
+msgid "...Is it time, Uncle Kaz?"
+msgstr ""
+
+msgctxt "708"
+msgid ""
+"Not yet. I think I'll stick around a little longer if it's\r\n"
+"all right with you."
+msgstr ""
+
+msgctxt "720"
+msgid "Of course!"
+msgstr ""
+
+msgctxt "780"
+msgid "Yeah. It's time I put an end to this."
+msgstr ""
+
+msgctxt "792"
+msgid "Just... come home safe. Okay, Uncle Kaz?"
+msgstr ""
+
+msgctxt "804"
+msgid "I will. I promise."
+msgstr ""
+
+msgctxt "816"
+msgid "Well, now you promised so you definitely have to!"
+msgstr ""
+
+msgctxt "828"
+msgid "Don't worry. Just wait here. I'll be back before you know it."
+msgstr ""
+
+msgctxt "936"
+msgid "Haruka."
+msgstr ""
+
+msgctxt "948"
+msgid "What's up, Uncle Kaz?"
+msgstr ""
+
+msgctxt "960"
+msgid "The sky."
+msgstr ""
+
+msgctxt "972"
+msgid "...That's not funny, Uncle Kaz."
+msgstr ""
+
+msgctxt "996"
+msgid ""
+"I have some things I need to take care of on my own. Go on and head home, "
+"okay?"
+msgstr ""
+
+msgctxt "1008"
+msgid "All right! Just come tell me before you leave!"
+msgstr ""
+
+msgctxt "1080"
+msgid "What's up, Uncle Kaz?"
+msgstr ""
+
+msgctxt "1092"
+msgid "What's up, Uncle Kaz?"
+msgstr ""
+
+msgctxt "1104"
+msgid "What's up, Uncle Kaz?"
+msgstr ""
+
+msgctxt "1116"
+msgid "The sky."
+msgstr ""
+
+msgctxt "1128"
+msgid "That's not a very good joke... Come on, let's go explore!"
+msgstr ""
+
+msgctxt "1140"
+msgid "Let's head home."
+msgstr ""
+
+msgctxt "1152"
+msgid "Yeah, I guess it's kinda late. Last one home's a rotten Bun-chan egg!"
+msgstr ""
+
+msgctxt "1176"
+msgid "Let's head home."
+msgstr ""
+
+msgctxt "1188"
+msgid ""
+"Yeah, I guess it's kinda late. That was a lot of fun, though! Let's do it "
+"again sometime!"
+msgstr ""
+
+msgctxt "1200"
+msgid "It's time for bed, young lady."
+msgstr ""
+
+msgctxt "1212"
+msgid ""
+"Yeah, I guess it's kinda late. That was a lot of fun, though! Let's do it "
+"again sometime!"
+msgstr ""
+
+msgctxt "1224"
+msgid "Now, come on! Last one home's a rotten Bunchan egg!"
+msgstr ""
+
+msgctxt "1236"
+msgid "Heh, I think you've got me beat."
+msgstr ""
+
+msgctxt "1284"
+msgid "Are you going somewhere, Uncle Kaz?"
+msgstr ""
+
+msgctxt "1296"
+msgid "...Yeah. I need to talk to Majima-san before we leave."
+msgstr ""
+
+msgctxt "1308"
+msgid "Can I come?"
+msgstr ""
+
+msgctxt "1320"
+msgid ""
+"Sorry, but I need you to be a big girl and stay here, okay?\r\n"
+"Majima-san and I have some adult things to discuss."
+msgstr ""
+
+msgctxt "1332"
+msgid ""
+"Oh... Well are you going now? I thought we were gonna spend\r\n"
+"some time together..."
+msgstr ""
+
+msgctxt "1344"
+msgid "Well, maybe a little more time wouldn't hurt."
+msgstr ""
+
+msgctxt "1356"
+msgid "Yay! Where do you wanna go!?"
+msgstr ""
+
+msgctxt "1368"
+msgid "Sorry, Haruka. It has to be now."
+msgstr ""
+
+msgctxt "1380"
+msgid "...All right. Just don't take too long, okay?"
+msgstr ""
+
+msgctxt "1440"
+msgid "Never mind, it's nothing."
+msgstr ""
+
+msgctxt "1452"
+msgid "There's something I need to do alone."
+msgstr ""
+
+msgctxt "1464"
+msgid "Stay with Haruka"
+msgstr ""
+
+msgctxt "1476"
+msgid "Go to Touto Hospital"
+msgstr ""
+
+msgctxt "1488"
+msgid "The sky."
+msgstr ""
+
+msgctxt "1500"
+msgid "There's something I need to do alone."
+msgstr ""
+
+msgctxt "1512"
+msgid "The sky."
+msgstr ""
+
+msgctxt "1524"
+msgid "Let's head home."
+msgstr ""
+
+msgctxt "1536"
+msgid "The sky."
+msgstr ""
+
+msgctxt "1548"
+msgid "Let's head home."
+msgstr ""
+
+msgctxt "1560"
+msgid "The sky."
+msgstr ""
+
+msgctxt "1572"
+msgid "It's time for bed."
+msgstr ""
+
+msgctxt "1584"
+msgid "Maybe a little more time wouldn't hurt."
+msgstr ""
+
+msgctxt "1596"
+msgid "Sorry, Haruka. It has to be now."
+msgstr ""
+
+msgctxt "9948"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "9952"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "9956"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "9960"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "9964"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "9968"
+msgid "dummy"
+msgstr ""
+
+msgctxt "9972"
+msgid "0"
+msgstr ""

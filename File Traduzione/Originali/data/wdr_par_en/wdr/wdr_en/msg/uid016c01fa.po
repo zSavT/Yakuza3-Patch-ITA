@@ -1,0 +1,297 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "400"
+msgid "Have you heard about the goya burger at Smile Burger in Downtown Ryukyu?"
+msgstr ""
+
+msgctxt "412"
+msgid "The goya burger? Yes, I've heard of it. What about it?"
+msgstr ""
+
+msgctxt "424"
+msgid "Apparently you can only get it here in Okinawa."
+msgstr ""
+
+msgctxt "436"
+msgid ""
+"Oh, really? I think I did hear something about that. I never saw those "
+"burgers on the menu when I lived in Tokyo."
+msgstr ""
+
+msgctxt "448"
+msgid ""
+"I was so used to seeing them here, I guess I forgot about that. "
+"<Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "460"
+msgid "Makes sense."
+msgstr ""
+
+msgctxt "472"
+msgid "I suppose that means I've gotten used to living in Okinawa, hehehe... Good."
+msgstr ""
+
+msgctxt "484"
+msgid ""
+"I heard the rafute soba over at the Okinawan Soba place in the Kariyushi "
+"Arcade is really delicious, and rich in collagen, too."
+msgstr ""
+
+msgctxt "496"
+msgid ""
+"Oh, I've heard of that. It's at that little shop in front of the entrance "
+"to the Public Market, right?"
+msgstr ""
+
+msgctxt "508"
+msgid "I go there to eat with one of my bodyboarding friends every now and then."
+msgstr ""
+
+msgctxt "520"
+msgid "Really?"
+msgstr ""
+
+msgctxt "532"
+msgid ""
+"Yup! It tastes even better after a long day out on the waves. "
+"<Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "544"
+msgid ""
+"Have you heard about the \"legendary\" appetizer they have at Aqua Sky in "
+"Hatsumachi?"
+msgstr ""
+
+msgctxt "556"
+msgid ""
+"A legendary appetizer? Well, since we're in Okinawa... would it be "
+"something like tofuyo?"
+msgstr ""
+
+msgctxt "568"
+msgid "It's actually just salt."
+msgstr ""
+
+msgctxt "580"
+msgid "Salt? Hold on... You mean, like, salt and pepper, salt?"
+msgstr ""
+
+msgctxt "592"
+msgid ""
+"Yeah, it's a special salt that's only made in Okinawa. It has a hint of "
+"sweetness to it, too, which supposedly brings out the flavor in alcoholic "
+"drinks."
+msgstr ""
+
+msgctxt "604"
+msgid ""
+"Wow... So their \"legendary\" appetizer is just salt. That's really\r\n"
+"classy. <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "616"
+msgid ""
+"Have you ever heard of Tantakatan? It's a kind of shochu made with red "
+"perilla."
+msgstr ""
+
+msgctxt "628"
+msgid ""
+"Tantakatan? Kiryu-san, how did you know what my favorite kind of alcohol "
+"is? <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "640"
+msgid "Oh, it is?"
+msgstr ""
+
+msgctxt "652"
+msgid ""
+"Yes! I love to drink Tantakatan with cranberry juice. "
+"<Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "664"
+msgid ""
+"It's so smooth... I always end up drinking way too much. "
+"<Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "676"
+msgid "Dummy"
+msgstr ""
+
+msgctxt "688"
+msgid "Dummy"
+msgstr ""
+
+msgctxt "700"
+msgid "Dummy"
+msgstr ""
+
+msgctxt "712"
+msgid "Dummy"
+msgstr ""
+
+msgctxt "724"
+msgid "Dummy"
+msgstr ""
+
+msgctxt "736"
+msgid "Dummy"
+msgstr ""
+
+msgctxt "748"
+msgid "Dummy"
+msgstr ""
+
+msgctxt "760"
+msgid "Have you ever had the goya burger over at Smile Burger?"
+msgstr ""
+
+msgctxt "772"
+msgid ""
+"I have! One of my coworkers bought one for me once. It was a little bitter, "
+"but sooo delicious. <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "784"
+msgid "I liked it, even though I'm not a big fan of goya."
+msgstr ""
+
+msgctxt "796"
+msgid "I'm glad to hear that."
+msgstr ""
+
+msgctxt "808"
+msgid "Have you heard about the rafute soba at Okinawan Soba?"
+msgstr ""
+
+msgctxt "820"
+msgid ""
+"It's full of collagen, right? I've definitely noticed that the day after I "
+"eat their rafute soba, my skin feels a lot smoother. "
+"<Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "832"
+msgid ""
+"They say lots of Okinawan foods are good for your health. "
+"<Color:7>⑮<Color:Default> And they're delicious, too⑬what could be better "
+"than that? <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "844"
+msgid "Have you heard of the \"legendary\" appetizer they've got over at Aqua Sky?"
+msgstr ""
+
+msgctxt "856"
+msgid ""
+"Oh, that rare salt, right? I asked my friend about it, but they won't have "
+"any until next year, apparently."
+msgstr ""
+
+msgctxt "868"
+msgid "Oh, is that right?"
+msgstr ""
+
+msgctxt "880"
+msgid ""
+"So we're going to have to wait until next year... Guess we'll have to be "
+"patient."
+msgstr ""
+
+msgctxt "892"
+msgid "Have you heard of Tantakatan?"
+msgstr ""
+
+msgctxt "904"
+msgid "You mentioned that before, right? Do you like it too, Kiryu-san?"
+msgstr ""
+
+msgctxt "916"
+msgid "Yeah, it's good."
+msgstr ""
+
+msgctxt "928"
+msgid "That's something we have in common, then. Hehe. <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "940"
+msgid ""
+"I'm glad we've got the same taste in alcohol. <Color:7>⑮<Color:Default> "
+"Maybe we should go drinking together sometime! <Color:7>⑮⑮<Color:Default>"
+msgstr ""
+
+msgctxt "952"
+msgid "Dummy"
+msgstr ""
+
+msgctxt "964"
+msgid "Dummy"
+msgstr ""
+
+msgctxt "976"
+msgid "Dummy"
+msgstr ""
+
+msgctxt "988"
+msgid "Dummy"
+msgstr ""
+
+msgctxt "1000"
+msgid "Dummy"
+msgstr ""
+
+msgctxt "1012"
+msgid "Dummy"
+msgstr ""
+
+msgctxt "1024"
+msgid "Dummy"
+msgstr ""
+
+msgctxt "9120"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "9124"
+msgid "Mika"
+msgstr ""
+
+msgctxt "9128"
+msgid "F_cab_sitsofa_tlk_suprise"
+msgstr ""
+
+msgctxt "9132"
+msgid "F_cab_sitsofa_tlk_yes"
+msgstr ""
+
+msgctxt "9136"
+msgid "F_cab_sitsofa_tlk_happy"
+msgstr ""
+
+msgctxt "9140"
+msgid "F_cab_sitsofa_talk_smileA"
+msgstr ""
+
+msgctxt "9144"
+msgid "F_cab_sitsofa_tlk_kamaeAtoB"
+msgstr ""
+
+msgctxt "9148"
+msgid "F_cab_sitsofa_tlk_yesB"
+msgstr ""

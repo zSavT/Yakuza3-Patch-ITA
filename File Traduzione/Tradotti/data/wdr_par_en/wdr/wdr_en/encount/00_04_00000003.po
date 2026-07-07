@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "124"
+msgid "Heh, you're surrounded. Nowhere to run, big guy! You're totally screwed!"
+msgstr ""
+
+msgctxt "136"
+msgid ""
+"Give us some cash so we can go party. This is gonna hurt, but life's a "
+"bitch!"
+msgstr ""
+
+msgctxt "160"
+msgid "Hey, I'm real sorry! We won't cause any more trouble!"
+msgstr ""
+
+msgctxt "172"
+msgid "Here, lemme apologize."
+msgstr ""
+
+msgctxt "184"
+msgid "You got a boozy %s."
+msgstr ""
+
+msgctxt "220"
+msgid "I'll just be on my way!"
+msgstr ""
+
+msgctxt "1240"
+msgid "Angry Punk"
+msgstr ""
+
+msgctxt "1244"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "1248"
+msgid "Talk_Sorry"
+msgstr ""
+
+msgctxt "1252"
+msgid "Sync_Send"
+msgstr ""
+
+msgctxt "1256"
+msgid "Talk_No"
+msgstr ""

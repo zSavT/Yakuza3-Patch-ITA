@@ -1,0 +1,75 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid "Wait up, Kiryu-san!"
+msgstr ""
+
+msgctxt "88"
+msgid ""
+"I saw you in there flinging those fists of yours at the boss! Pretty dang "
+"impressive, I've gotta say!"
+msgstr ""
+
+msgctxt "100"
+msgid "Sorry, Nishida. I'm kinda in a hurry here."
+msgstr ""
+
+msgctxt "112"
+msgid "Oh, right... Guess I'll let you go then."
+msgstr ""
+
+msgctxt "124"
+msgid ""
+"Hey, but before you do! We're dusting off the ol' Coliseum\r\n"
+"and opening it back up for full-time business! Haven't seen\r\n"
+"the boss this pumped since that time he gave me acupuncture!"
+msgstr ""
+
+msgctxt "136"
+msgid ""
+"Anyway, we've got a lot of beefy fighters lined up, so drop\r\n"
+"by and take a few swings when you get the chance!"
+msgstr ""
+
+msgctxt "148"
+msgid "Thanks, Nishida. I will."
+msgstr ""
+
+msgctxt "2000"
+msgid "Nishida"
+msgstr ""
+
+msgctxt "2004"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "2008"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "2012"
+msgid "Talk_Sorry"
+msgstr ""
+
+msgctxt "2016"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "2020"
+msgid "dummy"
+msgstr ""
+
+msgctxt "2024"
+msgid "0"
+msgstr ""

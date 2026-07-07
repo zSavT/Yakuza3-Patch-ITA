@@ -1,0 +1,50 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "92"
+msgid "Have you seen a little boy around here?"
+msgstr ""
+
+msgctxt "104"
+msgid ""
+"Parents gotta take better care of their kids, y'know?\r\n"
+"I bet you were off playin' pachinko, is that right?"
+msgstr ""
+
+msgctxt "116"
+msgid "Yeeeah. Poor kid was out here cryin' for his mommy or somethin'..."
+msgstr ""
+
+msgctxt "128"
+msgid "...Do you know which way he went?"
+msgstr ""
+
+msgctxt "140"
+msgid "Hmmm... He's probably in that park over there."
+msgstr ""
+
+msgctxt "828"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "832"
+msgid "Drunk Man"
+msgstr ""
+
+msgctxt "836"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "840"
+msgid "Talk_Think"
+msgstr ""

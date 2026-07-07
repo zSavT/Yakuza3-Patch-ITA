@@ -1,0 +1,156 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "92"
+msgid ""
+"Guess what! So those guys who were threatening my dad?\r\n"
+"They suddenly up and left Downtown Ryukyu for good!"
+msgstr ""
+
+msgctxt "104"
+msgid ""
+"Dad even went to their office with his lawyer, and it was\r\n"
+"completely deserted."
+msgstr ""
+
+msgctxt "116"
+msgid ""
+"Oh, Haruko, that's wonderful! Now you don't have to move to\r\n"
+"Tokushima anymore!"
+msgstr ""
+
+msgctxt "128"
+msgid ""
+"We can't get back the money they took, but at least there\r\n"
+"won't be any more psychos pounding on our door."
+msgstr ""
+
+msgctxt "140"
+msgid ""
+"People around town are saying that this big, ripped,\r\n"
+"scary-looking old guy really taught those guys a lesson."
+msgstr ""
+
+msgctxt "152"
+msgid ""
+"Well I think those coins we tossed in the river really made\r\n"
+"our wishes come true!"
+msgstr ""
+
+msgctxt "164"
+msgid "Maybe, huh? And if that's the case..."
+msgstr ""
+
+msgctxt "176"
+msgid ""
+"This could be the last of the Seven Mysteries of Downtown\r\n"
+"Ryukyu. We had the cursed lockers, the Golden Agu pork..."
+msgstr ""
+
+msgctxt "188"
+msgid ""
+"And now, if three people stand on the bridge and toss a coin\r\n"
+"into the river, they'll get their wishes granted..."
+msgstr ""
+
+msgctxt "200"
+msgid ""
+"Oh my gosh. We just made up one of the Seven Mysteries!\r\n"
+"Hahahahaha!"
+msgstr ""
+
+msgctxt "212"
+msgid ""
+"All this excitement's got me starving! Let's go grab some\r\n"
+"goya burgers!"
+msgstr ""
+
+msgctxt "236"
+msgid ""
+"(Could that \"ripped, scary-looking old guy\" they were\r\n"
+"talking about... be me?)"
+msgstr ""
+
+msgctxt "248"
+msgid "(Huh? There's something under the railing...)"
+msgstr ""
+
+msgctxt "284"
+msgid ""
+"(Must be a lucky coin. I'll keep it as compensation for getting to the "
+"bottom of all those mysteries.)"
+msgstr ""
+
+msgctxt "296"
+msgid "You picked up a <Color:8>Lucky Coin<Color:Default>."
+msgstr ""
+
+msgctxt "3532"
+msgid "Haruko"
+msgstr ""
+
+msgctxt "3536"
+msgid "Idle"
+msgstr ""
+
+msgctxt "3540"
+msgid "Chisato"
+msgstr ""
+
+msgctxt "3544"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "3548"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "3552"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "3556"
+msgid "Hozumi"
+msgstr ""
+
+msgctxt "3560"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "3564"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "3568"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "3572"
+msgid "Talk_SmileBig_st"
+msgstr ""
+
+msgctxt "3576"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "3580"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "3584"
+msgid "Talk_Hirou_st"
+msgstr ""
+
+msgctxt "3588"
+msgid "Talk_Hirou_ed"
+msgstr ""

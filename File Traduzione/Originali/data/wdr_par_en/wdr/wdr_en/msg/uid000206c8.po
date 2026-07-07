@@ -1,0 +1,231 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "120"
+msgid "Hmm..."
+msgstr ""
+
+msgctxt "132"
+msgid "Date-san, what are you doing here?"
+msgstr ""
+
+msgctxt "144"
+msgid "Oh, Kiryu! I'm, uh, just here on an errand..."
+msgstr ""
+
+msgctxt "156"
+msgid "Errand? What happened to watching Haruka?"
+msgstr ""
+
+msgctxt "168"
+msgid ""
+"Oh, I told her I was going shopping. She's over at Serena\r\n"
+"right now, so I really should be heading back..."
+msgstr ""
+
+msgctxt "180"
+msgid "Well, are you going inside or not? Just staring at the window won't help."
+msgstr ""
+
+msgctxt "192"
+msgid "Ah, no, I was just... window shopping, that's all."
+msgstr ""
+
+msgctxt "204"
+msgid "You sure about that? Looks to me like you came here to buy someone a gift."
+msgstr ""
+
+msgctxt "216"
+msgid "Well, yeah, but... I don't really know what to get."
+msgstr ""
+
+msgctxt "228"
+msgid "Who's it for?"
+msgstr ""
+
+msgctxt "240"
+msgid "...You swear not to laugh?"
+msgstr ""
+
+msgctxt "252"
+msgid "Yeah."
+msgstr ""
+
+msgctxt "264"
+msgid "It's for Mama. You know... the owner of Serena."
+msgstr ""
+
+msgctxt "276"
+msgid "Ah... You do have a thing for her. I was right after all."
+msgstr ""
+
+msgctxt "288"
+msgid ""
+"What do you mean, you were \"right\"? How about you get \"right\" out of my "
+"business!"
+msgstr ""
+
+msgctxt "300"
+msgid "I could, but I find that your business with Mama is way more interesting..."
+msgstr ""
+
+msgctxt "312"
+msgid "So you're really gonna buy her a present, huh?"
+msgstr ""
+
+msgctxt "324"
+msgid ""
+"Oh, I get it! Why would a beautiful young woman go out with\r\n"
+"a lonely old fart like me, right?"
+msgstr ""
+
+msgctxt "336"
+msgid "I was just pulling your leg. You know I stand behind you."
+msgstr ""
+
+msgctxt "348"
+msgid ""
+"Yeah, stand behind me while I crash and burn... Well,\r\n"
+"at least I got that off my chest. Now let's just get this\r\n"
+"over with."
+msgstr ""
+
+msgctxt "384"
+msgid "I hope it goes well."
+msgstr ""
+
+msgctxt "396"
+msgid ""
+"Thanks. I'm glad I finally got that off my chest. All right,\r\n"
+"let's get this over with."
+msgstr ""
+
+msgctxt "480"
+msgid "I've gotta ask you, Date-san. How did you find out Mama's ring size?"
+msgstr ""
+
+msgctxt "492"
+msgid ""
+"Heh, another trick of the trade. I told Mama I was getting a ring for my "
+"daughter, then just slipped the question in there. She never suspected a "
+"thing."
+msgstr ""
+
+msgctxt "504"
+msgid ""
+"Right, Saya-chan must be a young adult now... But Date-san, I never knew "
+"you were such a sly devil."
+msgstr ""
+
+msgctxt "516"
+msgid "Hah. Well, you have to be, if you wanna live to be my age."
+msgstr ""
+
+msgctxt "528"
+msgid ""
+"I'm sure you gained a lot of wisdom from your previous marriage, too. By "
+"the way, was it you who helped Mama get settled into Serena?"
+msgstr ""
+
+msgctxt "540"
+msgid ""
+"Yeah. After what happened to Reina, no one would rent the\r\n"
+"property. People thought some kind of curse hung over the\r\n"
+"place."
+msgstr ""
+
+msgctxt "552"
+msgid "And Mama didn't mind that?"
+msgstr ""
+
+msgctxt "564"
+msgid ""
+"Not one bit. The price had gotten so cheap, she was practically begging me "
+"for the details."
+msgstr ""
+
+msgctxt "576"
+msgid "I see..."
+msgstr ""
+
+msgctxt "588"
+msgid ""
+"I gotta say, I've never seen a lady with that much spunk. She'd probably do "
+"well no matter where she set up shop."
+msgstr ""
+
+msgctxt "600"
+msgid "Is that what you like about her?"
+msgstr ""
+
+msgctxt "612"
+msgid "Maybe so."
+msgstr ""
+
+msgctxt "624"
+msgid ""
+"(Would Mama really accept a ring from Date-san? Guess I'll find out once "
+"we're back at Serena.)"
+msgstr ""
+
+msgctxt "648"
+msgid "You're really gonna buy her a present?"
+msgstr ""
+
+msgctxt "660"
+msgid "I hope it goes well."
+msgstr ""
+
+msgctxt "7972"
+msgid "Date"
+msgstr ""
+
+msgctxt "7976"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "7980"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "7984"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "7988"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "7992"
+msgid "Talk_Kamae"
+msgstr ""
+
+msgctxt "7996"
+msgid "Talk_Kansin"
+msgstr ""
+
+msgctxt "8000"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "8004"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "8008"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "8012"
+msgid "0"
+msgstr ""

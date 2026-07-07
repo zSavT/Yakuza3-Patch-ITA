@@ -1,0 +1,186 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "256"
+msgid "My goodness, Miki-chan! Patrolling the place all by yourself today, are you?"
+msgstr ""
+
+msgctxt "268"
+msgid "Y'know how it is. Anything I should know about? Any problems around here?"
+msgstr ""
+
+msgctxt "280"
+msgid ""
+"No, we're just fine. Nakahara-san takes good care of us. We never have to "
+"worry about a thing."
+msgstr ""
+
+msgctxt "292"
+msgid "Good to hear. You just let me know if something comes up, okay?"
+msgstr ""
+
+msgctxt "304"
+msgid "(Hey, Mikio's doing pretty well.)"
+msgstr ""
+
+msgctxt "316"
+msgid "C'mon, sir! A thorough patrol means we gotta keep moving."
+msgstr ""
+
+msgctxt "400"
+msgid "Okay, on to the next shop..."
+msgstr ""
+
+msgctxt "412"
+msgid "What's wrong?"
+msgstr ""
+
+msgctxt "424"
+msgid ""
+"Hey there, sir. I'm standin' in for the boss on his patrol rounds while "
+"he's in the hospital."
+msgstr ""
+
+msgctxt "436"
+msgid "This place gets a whole lot of tourists, so things can get out of hand fast."
+msgstr ""
+
+msgctxt "448"
+msgid ""
+"And hey, it's easy to see how. The food's great, and the booze is even "
+"better."
+msgstr ""
+
+msgctxt "460"
+msgid "Heh, point taken."
+msgstr ""
+
+msgctxt "472"
+msgid ""
+"Laugh all you want, but this patrol is important enough that the boss does "
+"it personally!"
+msgstr ""
+
+msgctxt "484"
+msgid "Well, keep at it."
+msgstr ""
+
+msgctxt "496"
+msgid ""
+"Hey, I know! Why don't you come with me, sir? You can see how a real Ryudo "
+"man gets the job done!"
+msgstr ""
+
+msgctxt "508"
+msgid "Well..."
+msgstr ""
+
+msgctxt "520"
+msgid "All right. Let's see what you can do."
+msgstr ""
+
+msgctxt "532"
+msgid ""
+"All right, leave it to me! I'll show you a day in the life of an "
+"up-and-coming Ryudo man!"
+msgstr ""
+
+msgctxt "544"
+msgid "All right, come this way. I'll show you around the market."
+msgstr ""
+
+msgctxt "568"
+msgid "Sorry. Maybe next time."
+msgstr ""
+
+msgctxt "580"
+msgid ""
+"Oh, okay. If you change your mind, come on back. I should still be around "
+"here somewhere."
+msgstr ""
+
+msgctxt "592"
+msgid "You're not out on your patrol yet, Mikio?"
+msgstr ""
+
+msgctxt "604"
+msgid ""
+"Oh, hey, sir! Good to see you again. Since you're here anyway, want to come "
+"with me?"
+msgstr ""
+
+msgctxt "616"
+msgid "You can see a real Ryudo man in action!"
+msgstr ""
+
+msgctxt "628"
+msgid "Well..."
+msgstr ""
+
+msgctxt "640"
+msgid "On second thought... I'm gonna have to take a rain check. Sorry."
+msgstr ""
+
+msgctxt "652"
+msgid ""
+"Aw, seriously? You got my hopes up! If you change your mind, come on back. "
+"I should still be around here."
+msgstr ""
+
+msgctxt "664"
+msgid "Go with Mikio"
+msgstr ""
+
+msgctxt "676"
+msgid "Maybe next time."
+msgstr ""
+
+msgctxt "688"
+msgid "Go with Mikio."
+msgstr ""
+
+msgctxt "700"
+msgid "On second thought..."
+msgstr ""
+
+msgctxt "5336"
+msgid "Market Lady"
+msgstr ""
+
+msgctxt "5340"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "5344"
+msgid "Mikio"
+msgstr ""
+
+msgctxt "5348"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "5352"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "5356"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "5360"
+msgid "Talk_Kansin"
+msgstr ""
+
+msgctxt "5364"
+msgid "Talk_No"
+msgstr ""

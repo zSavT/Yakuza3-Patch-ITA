@@ -1,0 +1,302 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "164"
+msgid "I'm sorry about the ruckus."
+msgstr ""
+
+msgctxt "176"
+msgid "That guy with the backpack looked pretty down in the dumps."
+msgstr ""
+
+msgctxt "188"
+msgid "Pardon my asking, but are you one of Hirano-san's friends?"
+msgstr ""
+
+msgctxt "200"
+msgid "Hirano? Who's that?"
+msgstr ""
+
+msgctxt "212"
+msgid ""
+"The man I was just speaking with. It looked like he knew you\r\n"
+"somehow."
+msgstr ""
+
+msgctxt "224"
+msgid "I found him collapsed in the street earlier."
+msgstr ""
+
+msgctxt "236"
+msgid "Collapsed in the street!?"
+msgstr ""
+
+msgctxt "248"
+msgid ""
+"That's awful... Creating that masterpiece of his must have\r\n"
+"taken its toll on his body..."
+msgstr ""
+
+msgctxt "260"
+msgid "No, I think it was because his backpack is too damn heavy."
+msgstr ""
+
+msgctxt "272"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "284"
+msgid "Forget it, it's not important."
+msgstr ""
+
+msgctxt "296"
+msgid ""
+"You said something about manga. What's that got to do\r\n"
+"with him?"
+msgstr ""
+
+msgctxt "308"
+msgid "Hirano-san's a professional manga artist!"
+msgstr ""
+
+msgctxt "320"
+msgid ""
+"Or, well... he was going to be a professional manga artist.\r\n"
+"I'm not sure he will anymore..."
+msgstr ""
+
+msgctxt "332"
+msgid "What's that supposed to mean?"
+msgstr ""
+
+msgctxt "344"
+msgid ""
+"This week's Shonen Five announced the winners of the\r\n"
+"Shonen Five Awards."
+msgstr ""
+
+msgctxt "356"
+msgid ""
+"One of those winners was Hirano-san, who won the grand\r\n"
+"prize in the Young Artist division."
+msgstr ""
+
+msgctxt "368"
+msgid "Is that right?"
+msgstr ""
+
+msgctxt "380"
+msgid ""
+"This week, we ran the winning entries in Shonen Five, but now Hirano-san "
+"says he won't draw manga ever again."
+msgstr ""
+
+msgctxt "392"
+msgid ""
+"I overheard you mentioning his parents. Are they part of\r\n"
+"the problem?"
+msgstr ""
+
+msgctxt "404"
+msgid "That seems to be the case."
+msgstr ""
+
+msgctxt "416"
+msgid ""
+"Apparently, Hirano-san's family is somewhat famous in\r\n"
+"Okinawa: they're all brilliant doctors."
+msgstr ""
+
+msgctxt "428"
+msgid ""
+"Hirano-san himself is studying to be a doctor, too. He's\r\n"
+"currently attending medical school at Touto University."
+msgstr ""
+
+msgctxt "440"
+msgid "Okinawa? Funny you should say that."
+msgstr ""
+
+msgctxt "452"
+msgid ""
+"I wish I could go to Okinawa and convince his parents\r\n"
+"to let him pursue this dream..."
+msgstr ""
+
+msgctxt "464"
+msgid "But I'm afraid that Hirano-san has already given up."
+msgstr ""
+
+msgctxt "476"
+msgid "And he comes from a family of doctors in Okinawa, right? Hmm."
+msgstr ""
+
+msgctxt "488"
+msgid ""
+"Hirano-san's got so much talent. As an editor, I can't\r\n"
+"let myself give up on someone like him..."
+msgstr ""
+
+msgctxt "500"
+msgid ""
+"It takes one in a million to become a professional manga\r\n"
+"artist, and of those, only those who are personally selected."
+msgstr ""
+
+msgctxt "512"
+msgid ""
+"Hirano-san's talents deserve to be put on display\r\n"
+"for the whole world to see."
+msgstr ""
+
+msgctxt "524"
+msgid "And his parents are famous doctors in Okinawa... Hmm."
+msgstr ""
+
+msgctxt "536"
+msgid ""
+"Hey, are you even listening to me? You keep going on and on\r\n"
+"about that Okinawan doctor thing! What's wrong?"
+msgstr ""
+
+msgctxt "548"
+msgid "Oh, sorry."
+msgstr ""
+
+msgctxt "560"
+msgid "Truth is, I actually live in Okinawa."
+msgstr ""
+
+msgctxt "572"
+msgid "Wait, really!?"
+msgstr ""
+
+msgctxt "584"
+msgid "That's perfect! Would you come with me to Okinawa?"
+msgstr ""
+
+msgctxt "596"
+msgid "Wait, what?"
+msgstr ""
+
+msgctxt "608"
+msgid ""
+"I wanted to go to Okinawa to meet with Hirano-san's parents,\r\n"
+"but to be honest, I was too worried to go! I have no idea\r\n"
+"what things are like down south!"
+msgstr ""
+
+msgctxt "620"
+msgid ""
+"I can wait until you go back to Okinawa! Please,\r\n"
+"I just need someone to be my guide!"
+msgstr ""
+
+msgctxt "632"
+msgid ""
+"I know you say you can wait, but I have no idea when I'll\r\n"
+"be getting back to Okinawa."
+msgstr ""
+
+msgctxt "644"
+msgid ""
+"That's fine. Until you do, I'm going to spend some time\r\n"
+"finding out where Hirano-san's family lives."
+msgstr ""
+
+msgctxt "656"
+msgid "How do you plan on meeting up with me in Okinawa?"
+msgstr ""
+
+msgctxt "668"
+msgid ""
+"Hmm, good question. It'd be easiest to meet you on the\r\n"
+"main street of Downtown Ryukyu. Is there a good meet-up\r\n"
+"place somewhere along that road?"
+msgstr ""
+
+msgctxt "680"
+msgid ""
+"Let's see. There's the OPA building. That could be a\r\n"
+"good spot."
+msgstr ""
+
+msgctxt "692"
+msgid "OPA? Oh, I know what that is! Sounds great!"
+msgstr ""
+
+msgctxt "704"
+msgid ""
+"Right then, when you get back to Okinawa, meet me in front\r\n"
+"of the OPA building! I'll be waiting there!"
+msgstr ""
+
+msgctxt "716"
+msgid ""
+"Hold on. You're speeding way too fast through this\r\n"
+"conversation. No need to rush."
+msgstr ""
+
+msgctxt "728"
+msgid "I've gotta get going now... Oh, right! What's your name?"
+msgstr ""
+
+msgctxt "740"
+msgid "It's Kiryu."
+msgstr ""
+
+msgctxt "752"
+msgid "Kiryu-san, got it! I'll see you soon!"
+msgstr ""
+
+msgctxt "824"
+msgid ""
+"(That editor guy didn't even ask for my cell phone or\r\n"
+"anything. At least he's got my name.)"
+msgstr ""
+
+msgctxt "836"
+msgid "(Hope he'll be okay.)"
+msgstr ""
+
+msgctxt "10168"
+msgid "Editor"
+msgstr ""
+
+msgctxt "10172"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "10176"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "10180"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "10184"
+msgid "Talk_Udekumi_st"
+msgstr ""
+
+msgctxt "10188"
+msgid "Talk_Udekumi_ed"
+msgstr ""
+
+msgctxt "10192"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "10196"
+msgid "Talk_Call"
+msgstr ""

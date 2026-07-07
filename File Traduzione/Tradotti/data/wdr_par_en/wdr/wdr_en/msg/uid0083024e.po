@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "164"
+msgid "You ready to get moving, Kiryu?"
+msgstr ""
+
+msgctxt "176"
+msgid "Kiryu! What took you so long?"
+msgstr ""
+
+msgctxt "188"
+msgid "Sorry, Date-san. I got here as fast as I could."
+msgstr ""
+
+msgctxt "200"
+msgid ""
+"Don't worry about it. Gotta say, though. Tamiya ringing you up is a pretty "
+"unexpected development."
+msgstr ""
+
+msgctxt "212"
+msgid "Yeah... Hopefully meeting him will clear some things up."
+msgstr ""
+
+msgctxt "224"
+msgid ""
+"Hope so. And don't forget that Tamiya's one of the biggest political "
+"figureheads in the country. Who knows what he could be planning."
+msgstr ""
+
+msgctxt "236"
+msgid ""
+"In other words, we should be ready for anything. You about\r\n"
+"good to go?"
+msgstr ""
+
+msgctxt "248"
+msgid "Not quite yet. There are still a few things I need to take care of."
+msgstr ""
+
+msgctxt "260"
+msgid "All right, just don't take too long! I'm not getting any younger here."
+msgstr ""
+
+msgctxt "272"
+msgid "Yeah, let's do it."
+msgstr ""
+
+msgctxt "284"
+msgid "Great. Time to swing by the Millennium Tower then."
+msgstr ""
+
+msgctxt "332"
+msgid "Not quite yet."
+msgstr ""
+
+msgctxt "344"
+msgid "Yeah, let's do it."
+msgstr ""
+
+msgctxt "356"
+msgid "Not quite yet."
+msgstr ""
+
+msgctxt "368"
+msgid "Yeah, let's do it."
+msgstr ""
+
+msgctxt "2796"
+msgid "Date"
+msgstr ""
+
+msgctxt "2800"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "2804"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "2808"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "2812"
+msgid "dummy"
+msgstr ""
+
+msgctxt "2816"
+msgid "0"
+msgstr ""

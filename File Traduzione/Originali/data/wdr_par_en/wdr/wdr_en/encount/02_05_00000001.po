@@ -1,0 +1,56 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "124"
+msgid "Hey man, you're lookin' pretty unsteady. You okay?"
+msgstr ""
+
+msgctxt "136"
+msgid "Careful, you might get attacked by someone like me!"
+msgstr ""
+
+msgctxt "160"
+msgid "Ugh... You're stronger than you look..."
+msgstr ""
+
+msgctxt "172"
+msgid "Sorry for ruinin' your good time..."
+msgstr ""
+
+msgctxt "184"
+msgid "You got a saliva-flecked %s."
+msgstr ""
+
+msgctxt "220"
+msgid "That's some strong alcohol..."
+msgstr ""
+
+msgctxt "1272"
+msgid "Irate Thug"
+msgstr ""
+
+msgctxt "1276"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "1280"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "1284"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "1288"
+msgid "Sync_Send"
+msgstr ""

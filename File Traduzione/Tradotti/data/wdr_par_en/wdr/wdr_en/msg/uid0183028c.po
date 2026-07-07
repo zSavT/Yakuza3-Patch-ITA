@@ -1,0 +1,46 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid ""
+"What a waste. I figured the guy who did your tattoo was gonna be some "
+"badass needle-slinger. Not a hack job."
+msgstr ""
+
+msgctxt "76"
+msgid "That's enough, Rikiya. Learn to show some respect."
+msgstr ""
+
+msgctxt "88"
+msgid "Hmph."
+msgstr ""
+
+msgctxt "644"
+msgid "Rikiya"
+msgstr ""
+
+msgctxt "648"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "652"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "656"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "660"
+msgid "dummy"
+msgstr ""

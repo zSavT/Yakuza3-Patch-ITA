@@ -1,0 +1,96 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid "Darn! I don't see her anywhere!"
+msgstr ""
+
+msgctxt "76"
+msgid "Maybe she ran away. Maybe someone found out she was lying."
+msgstr ""
+
+msgctxt "88"
+msgid "Let's try over there! I'm not going to let her get away with my money!"
+msgstr ""
+
+msgctxt "124"
+msgid "......"
+msgstr ""
+
+msgctxt "184"
+msgid "Did you just... help us get away?"
+msgstr ""
+
+msgctxt "196"
+msgid "Who, me?"
+msgstr ""
+
+msgctxt "208"
+msgid "You're a good man. I'm confident something good will happen to you."
+msgstr ""
+
+msgctxt "220"
+msgid "Well, then. Goodbye for real this time. Let me thank you by giving you this."
+msgstr ""
+
+msgctxt "232"
+msgid "You got a <Color:8>Crystal Ball<Color:Default>."
+msgstr ""
+
+msgctxt "268"
+msgid "You got 3,000 EXP."
+msgstr ""
+
+msgctxt "2456"
+msgid "Glamorous Businesswoman"
+msgstr ""
+
+msgctxt "2460"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "2464"
+msgid "Glum Businesswoman"
+msgstr ""
+
+msgctxt "2468"
+msgid "Gullible Businesswoman"
+msgstr ""
+
+msgctxt "2472"
+msgid "Talk_Info_R"
+msgstr ""
+
+msgctxt "2476"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "2480"
+msgid "Fortune Teller"
+msgstr ""
+
+msgctxt "2484"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "2488"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "2492"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "2496"
+msgid "Talk_Ojigi"
+msgstr ""

@@ -1,0 +1,72 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid "Kiryu-san!"
+msgstr ""
+
+msgctxt "76"
+msgid "Is your son still in this part of town?"
+msgstr ""
+
+msgctxt "88"
+msgid ""
+"He might be! His grandpa and the rest of the family are\r\n"
+"looking for him now..."
+msgstr ""
+
+msgctxt "100"
+msgid "What's his name? Do you know what he was wearing?"
+msgstr ""
+
+msgctxt "112"
+msgid "His name is Subaru! I think he was wearing a white sweatshirt today!"
+msgstr ""
+
+msgctxt "124"
+msgid ""
+"He got separated from the others over on Nakamichi Street,\r\n"
+"so he might still be there..."
+msgstr ""
+
+msgctxt "136"
+msgid "All right. We'll look for him together."
+msgstr ""
+
+msgctxt "148"
+msgid "Thank you so much!"
+msgstr ""
+
+msgctxt "1380"
+msgid "Miyu"
+msgstr ""
+
+msgctxt "1384"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1388"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "1392"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "1396"
+msgid "dummy"
+msgstr ""
+
+msgctxt "1400"
+msgid "0"
+msgstr ""

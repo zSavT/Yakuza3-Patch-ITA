@@ -1,0 +1,70 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "100"
+msgid "Hello, is this Kiryu-san?"
+msgstr ""
+
+msgctxt "112"
+msgid "Yeah, speaking."
+msgstr ""
+
+msgctxt "124"
+msgid "Sorry to call you out of the blue like this. I'm from the Dragon Palace."
+msgstr ""
+
+msgctxt "136"
+msgid "The Dragon Palace? Oh, right..."
+msgstr ""
+
+msgctxt "148"
+msgid "Yes. Thanks to you, the Dragon Palace has regained its former glory."
+msgstr ""
+
+msgctxt "160"
+msgid ""
+"Our casino and our gambling hall have both reopened. I hope you'll come "
+"visit us soon."
+msgstr ""
+
+msgctxt "172"
+msgid "I think I'll do just that."
+msgstr ""
+
+msgctxt "184"
+msgid "We're looking forward to seeing you. Thank you again."
+msgstr ""
+
+msgctxt "1548"
+msgid "P_stand_tlk_phone_st"
+msgstr ""
+
+msgctxt "1552"
+msgid "???"
+msgstr ""
+
+msgctxt "1556"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1560"
+msgid "Casino Manager"
+msgstr ""
+
+msgctxt "1564"
+msgid "P_stand_tlk_phone_ed"
+msgstr ""
+
+msgctxt "1568"
+msgid "dummy"
+msgstr ""

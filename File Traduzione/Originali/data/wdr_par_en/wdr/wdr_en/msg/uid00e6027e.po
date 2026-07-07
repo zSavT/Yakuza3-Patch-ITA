@@ -1,0 +1,61 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "92"
+msgid "Oh, Kiryu-san. Did you bring the 250,000 yen?"
+msgstr ""
+
+msgctxt "104"
+msgid "Yeah, I got it all here."
+msgstr ""
+
+msgctxt "116"
+msgid ""
+"In that case... Would you mind coming over to that apartment\r\n"
+"again?"
+msgstr ""
+
+msgctxt "140"
+msgid "No, I don't have it all quite yet."
+msgstr ""
+
+msgctxt "152"
+msgid ""
+"I see. The instructor's course is in high demand, so I can't\r\n"
+"guarantee there'll always be a slot open. I suggest you\r\n"
+"enroll as soon as possible."
+msgstr ""
+
+msgctxt "1060"
+msgid "English School Promoter"
+msgstr ""
+
+msgctxt "1064"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "1068"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1072"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "1076"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "1080"
+msgid "Talk_Think"
+msgstr ""

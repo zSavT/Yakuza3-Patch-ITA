@@ -1,0 +1,60 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "80"
+msgid "Kamekichi said he was goin' to the gambling hall."
+msgstr ""
+
+msgctxt "92"
+msgid "(Gambling hall? He must be talking about the Dragon Palace. I'll try there.)"
+msgstr ""
+
+msgctxt "104"
+msgid "Hey, you."
+msgstr ""
+
+msgctxt "116"
+msgid "Hmm? Who're you? What do you want from me?"
+msgstr ""
+
+msgctxt "128"
+msgid "Are you Kamekichi?"
+msgstr ""
+
+msgctxt "140"
+msgid "Nah, buddy. You've got the wrong guy. I'm no Kamekichi. Hic!"
+msgstr ""
+
+msgctxt "152"
+msgid ""
+"The real Kamekichi was here until just a little while ago, though. Let's "
+"see. Where did he say he was going...?"
+msgstr ""
+
+msgctxt "164"
+msgid ""
+"Oh, that's right. He got himself some money, so he said he was heading to "
+"the gambling hall."
+msgstr ""
+
+msgctxt "176"
+msgid "(Gambling hall? He must be talking about the Dragon Palace. I'll try there.)"
+msgstr ""
+
+msgctxt "1608"
+msgid "Homeless Man"
+msgstr ""
+
+msgctxt "1612"
+msgid "Kiryu"
+msgstr ""

@@ -1,0 +1,142 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "212"
+msgid "Uncle Kaz! Get at least 1,000 points in an Easy Game! I know you can do it!"
+msgstr ""
+
+msgctxt "224"
+msgid ""
+"(At least 1,000 points in an Easy Game... One play is 300 yen. Should I "
+"give it a try?)"
+msgstr ""
+
+msgctxt "236"
+msgid "Okay, I'll give it a try."
+msgstr ""
+
+msgctxt "248"
+msgid "Good luck, Uncle Kaz!"
+msgstr ""
+
+msgctxt "272"
+msgid "(No, maybe not.)"
+msgstr ""
+
+msgctxt "284"
+msgid "Aww! You should play!"
+msgstr ""
+
+msgctxt "296"
+msgid "(One Easy Game is 300 yen. I don't have enough money, though...)"
+msgstr ""
+
+msgctxt "308"
+msgid "Aww! You should play!"
+msgstr ""
+
+msgctxt "320"
+msgid ""
+"Hit the pitched balls by pressing <Action:Button_Cross@Battingcenter> at "
+"the right time."
+msgstr ""
+
+msgctxt "332"
+msgid ""
+"Hit the home run target to earn points. Aim carefully and try for a high "
+"score!"
+msgstr ""
+
+msgctxt "356"
+msgid "(Hmm... The Easy Game is 300 yen. Maybe I should give it a try.)"
+msgstr ""
+
+msgctxt "368"
+msgid "(Okay, I'll try it.)"
+msgstr ""
+
+msgctxt "392"
+msgid "(No, maybe not.)"
+msgstr ""
+
+msgctxt "416"
+msgid ""
+"Hit the pitched balls by pressing <Action:Button_Cross@Battingcenter> at "
+"the right time."
+msgstr ""
+
+msgctxt "428"
+msgid ""
+"Hit the home run target to earn points. Aim carefully and try for a high "
+"score!"
+msgstr ""
+
+msgctxt "440"
+msgid "(One Easy Game is 300 yen. I don't have enough money, though...)"
+msgstr ""
+
+msgctxt "464"
+msgid "Play"
+msgstr ""
+
+msgctxt "476"
+msgid "Don't Play"
+msgstr ""
+
+msgctxt "488"
+msgid "Read the Rules"
+msgstr ""
+
+msgctxt "500"
+msgid "Play"
+msgstr ""
+
+msgctxt "512"
+msgid "Never Mind"
+msgstr ""
+
+msgctxt "524"
+msgid "Read the Rules"
+msgstr ""
+
+msgctxt "3764"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "3768"
+msgid "HAL_stand_tlk_happy_small"
+msgstr ""
+
+msgctxt "3772"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "3776"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "3780"
+msgid "Talk_Kansin"
+msgstr ""
+
+msgctxt "3784"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "3788"
+msgid "HAL_stand_tlk_unhappy_small"
+msgstr ""
+
+msgctxt "3792"
+msgid "Batting Center: Easy Game"
+msgstr ""

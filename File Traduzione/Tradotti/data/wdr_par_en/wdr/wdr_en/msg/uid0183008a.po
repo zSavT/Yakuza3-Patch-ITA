@@ -1,0 +1,72 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "168"
+msgid ""
+"(I'm not too fond of this wild Rikiya chase. I'll just have to try "
+"somewhere else.)"
+msgstr ""
+
+msgctxt "180"
+msgid "(It's gotta be the Tenkaichi Street Poppo. Guess I'll head over.)"
+msgstr ""
+
+msgctxt "192"
+msgid "(It's the Nakamichi Street Poppo, no doubt about it.)"
+msgstr ""
+
+msgctxt "204"
+msgid "(Something tells me it's the Showa Street Poppo. Guess I'll give it a try.)"
+msgstr ""
+
+msgctxt "216"
+msgid ""
+"(Maybe the M Store on Shichifuku Street? You can see the\r\n"
+"Millennium Tower from there, too.)"
+msgstr ""
+
+msgctxt "228"
+msgid "(The M Store's the one place I haven't checked...)"
+msgstr ""
+
+msgctxt "288"
+msgid "(No sign of Rikiya...)"
+msgstr ""
+
+msgctxt "324"
+msgid "(No sign of Rikiya...)"
+msgstr ""
+
+msgctxt "348"
+msgid "(No sign of Rikiya...)"
+msgstr ""
+
+msgctxt "372"
+msgid "It's gotta be the Tenkaichi Street Poppo."
+msgstr ""
+
+msgctxt "384"
+msgid "It's the Nakamichi Street Poppo, no doubt."
+msgstr ""
+
+msgctxt "396"
+msgid "Something tells me it's the Showa Street Poppo."
+msgstr ""
+
+msgctxt "408"
+msgid "Maybe the Shichifuku Street M Store."
+msgstr ""
+
+msgctxt "2400"
+msgid "Kiryu"
+msgstr ""

@@ -1,0 +1,217 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "280"
+msgid "Whoa... No way..."
+msgstr ""
+
+msgctxt "292"
+msgid "You're not cut out to be a bouncer. Get the hell outta here."
+msgstr ""
+
+msgctxt "304"
+msgid "You're no joke... What's your name?"
+msgstr ""
+
+msgctxt "316"
+msgid "Kazuma Kiryu."
+msgstr ""
+
+msgctxt "328"
+msgid ""
+"Kiryu-san. Okay, I got it. I'm gonna leave now. Sorry to\r\n"
+"have bothered you."
+msgstr ""
+
+msgctxt "388"
+msgid "Um... Thank you very much."
+msgstr ""
+
+msgctxt "412"
+msgid ""
+"I'm tellin' you, you really need <Italic>me</Italic> as a bouncer for\r\n"
+"this place!"
+msgstr ""
+
+msgctxt "424"
+msgid ""
+"This is a dangerous area. You probably have all kinds of\r\n"
+"trouble and people gettin' into fights all the time, right?"
+msgstr ""
+
+msgctxt "436"
+msgid ""
+"That's where I come in! I'll jump in and settle things\r\n"
+"before they get outta hand. Whaddya say? Sounds pretty good,\r\n"
+"don't it?"
+msgstr ""
+
+msgctxt "448"
+msgid "No, we have the police for that kind of thing."
+msgstr ""
+
+msgctxt "460"
+msgid ""
+"The police these days don't do nothing! Or are you tryin'\r\n"
+"to say you don't think I can do the job!? Are ya!?"
+msgstr ""
+
+msgctxt "472"
+msgid "No! I didn't say that!"
+msgstr ""
+
+msgctxt "484"
+msgid ""
+"It's a deal, then! I'll watch over this business from now\r\n"
+"on. Fifty percent of the profits oughta be a fair wage..."
+msgstr ""
+
+msgctxt "496"
+msgid ""
+"Wait. I didn't even answer yet...! And fifty percent of\r\n"
+"the profits... Isn't that a bit much?"
+msgstr ""
+
+msgctxt "508"
+msgid ""
+"Stop hemmin' and hawin'! It's gettin' annoying! Are you\r\n"
+"tryin' to piss me off on purpose!? Are ya!?"
+msgstr ""
+
+msgctxt "520"
+msgid ""
+"(Not the sharpest tool in the shed, is he... Should I lend\r\n"
+"him a hand?)"
+msgstr ""
+
+msgctxt "532"
+msgid "(Should I give him a hand?)"
+msgstr ""
+
+msgctxt "544"
+msgid "(I don't wanna get involved in this.)"
+msgstr ""
+
+msgctxt "556"
+msgid "(Guess I better help...)"
+msgstr ""
+
+msgctxt "568"
+msgid "Okay, that's enough. You're clearly bothering them."
+msgstr ""
+
+msgctxt "580"
+msgid ""
+"Uh, what did you just say? Just who do you think you're\r\n"
+"talkin' to!?"
+msgstr ""
+
+msgctxt "592"
+msgid ""
+"You. I'm not impressed with the way you handle business...\r\n"
+"What family are you from?"
+msgstr ""
+
+msgctxt "604"
+msgid "All right, man, watch this."
+msgstr ""
+
+msgctxt "616"
+msgid "Watch what!?"
+msgstr ""
+
+msgctxt "628"
+msgid ""
+"The punk rolled up at just the right moment. I'll take this\r\n"
+"opportunity to show you my skills. Watch close, now!"
+msgstr ""
+
+msgctxt "640"
+msgid "Okay..."
+msgstr ""
+
+msgctxt "652"
+msgid ""
+"Hey, buddy! You're just tryin' to elbow your way in and\r\n"
+"make a buck off this business for yourself, aren't ya!?"
+msgstr ""
+
+msgctxt "664"
+msgid "What? I'm pretty sure that was your plan here, not mine."
+msgstr ""
+
+msgctxt "676"
+msgid ""
+"Hey! Shut your trap! I'm the muscle of this business now!\r\n"
+"Butt out!"
+msgstr ""
+
+msgctxt "700"
+msgid "Help the Employee"
+msgstr ""
+
+msgctxt "712"
+msgid "Stay Out of It"
+msgstr ""
+
+msgctxt "724"
+msgid "Help the Employee"
+msgstr ""
+
+msgctxt "736"
+msgid "Stay Out of It"
+msgstr ""
+
+msgctxt "6172"
+msgid "Wannabe Bouncer"
+msgstr ""
+
+msgctxt "6176"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "6180"
+msgid "Employee"
+msgstr ""
+
+msgctxt "6184"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "6188"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "6192"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "6196"
+msgid "Talk_NoBig"
+msgstr ""
+
+msgctxt "6200"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "6204"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "6208"
+msgid "M_ykz_stand_tlk_angry"
+msgstr ""
+
+msgctxt "6212"
+msgid "Talk_Chohatu"
+msgstr ""

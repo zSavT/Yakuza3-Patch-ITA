@@ -1,0 +1,136 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "388"
+msgid "Don't Order Anything"
+msgstr ""
+
+msgctxt "409"
+msgid "Check Out"
+msgstr ""
+
+msgctxt "419"
+msgid "Order"
+msgstr ""
+
+msgctxt "425"
+msgid "(I'm short on cash.)"
+msgstr ""
+
+msgctxt "446"
+msgid "(I can't carry any more stuff.)"
+msgstr ""
+
+msgctxt "478"
+msgid "(I can't handle any more turtles.)"
+msgstr ""
+
+msgctxt "513"
+msgid "(I didn't choose anything.)"
+msgstr ""
+
+msgctxt "541"
+msgid "(They're sold out.)"
+msgstr ""
+
+msgctxt "561"
+msgid "Okay. That'll be %s."
+msgstr ""
+
+msgctxt "582"
+msgid ""
+"Basically a mini flamethrower handcrafted by \n"
+"Kamiyama Works."
+msgstr ""
+
+msgctxt "644"
+msgid ""
+"A knife used by military personnel. Its blade is \n"
+"extremely sharp, so don't cut yourself!"
+msgstr ""
+
+msgctxt "734"
+msgid "I'm sure you know all about this handy little weapon."
+msgstr ""
+
+msgctxt "788"
+msgid "The next generation in self-defense technology."
+msgstr ""
+
+msgctxt "836"
+msgid "Has more of a kick than the normal stun gun."
+msgstr ""
+
+msgctxt "881"
+msgid ""
+"These are normally used for kendo practice, but they\n"
+"still pack a punch."
+msgstr ""
+
+msgctxt "954"
+msgid "A good nunchaku set for beginners to start out with."
+msgstr ""
+
+msgctxt "1007"
+msgid ""
+"The street brawler's weapons of choice. Put them on\n"
+"your fists to increase the power of your punches."
+msgstr ""
+
+msgctxt "1109"
+msgid ""
+"Collapsible and easy to store in a purse or jacket\n"
+"pocket. It's good for blocking low attacks, too."
+msgstr ""
+
+msgctxt "1209"
+msgid "It's a shotgun. What more do you want?"
+msgstr ""
+
+msgctxt "1248"
+msgid "A cheap replica of a standard military issue weapon."
+msgstr ""
+
+msgctxt "1301"
+msgid ""
+"Better against bladed weapons than a bulletproof \n"
+"vest."
+msgstr ""
+
+msgctxt "1357"
+msgid ""
+"Historically worn by gamblers and is stronger than\n"
+"regular chain mail."
+msgstr ""
+
+msgctxt "1428"
+msgid "Stronger than iron, as I'm sure you know."
+msgstr ""
+
+msgctxt "1470"
+msgid ""
+"Actually just an iron grill pounded into this shape. It's\n"
+"heavy as hell, but it'll stop bullets."
+msgstr ""
+
+msgctxt "1567"
+msgid ""
+"Standard issue for Special Weapons and Tactics units.\n"
+"It holds up well against bullets."
+msgstr ""
+
+msgctxt "1655"
+msgid ""
+"Kamiyama told me to stock this rubber hose 'cause\n"
+"it's a \"guaranteed sale.\""
+msgstr ""

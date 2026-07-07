@@ -1,0 +1,144 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "136"
+msgid "Hey, Kiryu-san! Did you wanna talk to Kazuki-san about something?"
+msgstr ""
+
+msgctxt "148"
+msgid "Actually, I just dropped in to say hello."
+msgstr ""
+
+msgctxt "160"
+msgid ""
+"Gotcha. Hope you don't mind, but I've got some important business to deal "
+"with right now. Think we could chat some other time?"
+msgstr ""
+
+msgctxt "172"
+msgid "No problem. Sorry to interrupt."
+msgstr ""
+
+msgctxt "184"
+msgid "Tell it to me straight, Eiji. Just what is it you're getting at?"
+msgstr ""
+
+msgctxt "196"
+msgid "I'm saying you have to open up a second club to keep the Stardust image hot!"
+msgstr ""
+
+msgctxt "208"
+msgid "It's now or never, Yuya-san! Kazuki-san could stay here in Kamurocho..."
+msgstr ""
+
+msgctxt "220"
+msgid ""
+"And you could be the owner of the second club in Yokohama! It'd be great "
+"for everybody!"
+msgstr ""
+
+msgctxt "232"
+msgid "But I'm the manager here. What would happen to this club without me?"
+msgstr ""
+
+msgctxt "244"
+msgid "I'm sure Kazuki-san can handle it!"
+msgstr ""
+
+msgctxt "256"
+msgid ""
+"I'm telling you, man. You gotta break away from Kazuki-san and be your own "
+"man. Don't you think it's time by now?"
+msgstr ""
+
+msgctxt "268"
+msgid ""
+"That's enough, Eiji. You might not know, since you haven't been here long, "
+"but what Kazuki-san says is what goes."
+msgstr ""
+
+msgctxt "280"
+msgid ""
+"And he says we're not opening a second club, so that's the end of this "
+"discussion."
+msgstr ""
+
+msgctxt "292"
+msgid "But..."
+msgstr ""
+
+msgctxt "304"
+msgid ""
+"We can continue this discussion some other time. You need to get back to "
+"work."
+msgstr ""
+
+msgctxt "316"
+msgid "Hmph..."
+msgstr ""
+
+msgctxt "340"
+msgid ""
+"Sorry about that. Kyogoku's got everybody all worked up about opening a "
+"second club..."
+msgstr ""
+
+msgctxt "352"
+msgid ""
+"That's understandable. Expanding the business like that would be a big "
+"change."
+msgstr ""
+
+msgctxt "364"
+msgid ""
+"You got that right. But we've got enough to worry about just trying to keep "
+"this place on top..."
+msgstr ""
+
+msgctxt "376"
+msgid ""
+"Anyway, please make yourself at home, Kiryu-san. I still have some work to "
+"take care of, so... Sorry about that."
+msgstr ""
+
+msgctxt "4220"
+msgid "Yuya"
+msgstr ""
+
+msgctxt "4224"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "4228"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "4232"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "4236"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "4240"
+msgid "Eiji"
+msgstr ""
+
+msgctxt "4244"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "4248"
+msgid "Talk_Ojigi"
+msgstr ""

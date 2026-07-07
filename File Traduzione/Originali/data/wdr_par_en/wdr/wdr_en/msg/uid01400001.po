@@ -1,0 +1,100 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "384"
+msgid "Snake Eyes, even!"
+msgstr ""
+
+msgctxt "396"
+msgid "1-2, odd!"
+msgstr ""
+
+msgctxt "408"
+msgid "3-1, even!"
+msgstr ""
+
+msgctxt "420"
+msgid "4-1, odd!"
+msgstr ""
+
+msgctxt "432"
+msgid "5-1, even!"
+msgstr ""
+
+msgctxt "444"
+msgid "1-6, odd!"
+msgstr ""
+
+msgctxt "456"
+msgid "2-2, even!"
+msgstr ""
+
+msgctxt "468"
+msgid "3-2, odd!"
+msgstr ""
+
+msgctxt "480"
+msgid "4-2, even!"
+msgstr ""
+
+msgctxt "492"
+msgid "5-2, odd!"
+msgstr ""
+
+msgctxt "504"
+msgid "2-6, even!"
+msgstr ""
+
+msgctxt "516"
+msgid "3-3, even!"
+msgstr ""
+
+msgctxt "528"
+msgid "4-3, odd!"
+msgstr ""
+
+msgctxt "540"
+msgid "5-3, even!"
+msgstr ""
+
+msgctxt "552"
+msgid "3-6, odd!"
+msgstr ""
+
+msgctxt "564"
+msgid "4-4, even!"
+msgstr ""
+
+msgctxt "576"
+msgid "5-4, odd!"
+msgstr ""
+
+msgctxt "588"
+msgid "4-6, even!"
+msgstr ""
+
+msgctxt "600"
+msgid "5-5, even!"
+msgstr ""
+
+msgctxt "612"
+msgid "5-6, odd!"
+msgstr ""
+
+msgctxt "624"
+msgid "6-6, even!"
+msgstr ""
+
+msgctxt "2208"
+msgid "Dealer"
+msgstr ""

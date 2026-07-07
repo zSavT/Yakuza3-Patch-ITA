@@ -1,0 +1,84 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "136"
+msgid "What the hell do you want!?"
+msgstr ""
+
+msgctxt "160"
+msgid "I've come to avenge my father."
+msgstr ""
+
+msgctxt "172"
+msgid ""
+"You've got some nerve busting in here.\r\n"
+"So you want to see your precious father, huh?\r\n"
+"Oh, I'll send you to meet him... in hell!"
+msgstr ""
+
+msgctxt "184"
+msgid "I've come to collect my money."
+msgstr ""
+
+msgctxt "196"
+msgid "You... what? That's, uh, mighty bold of you."
+msgstr ""
+
+msgctxt "208"
+msgid ""
+"How about I pay your fare to hell and we call it even!?\r\n"
+"Now get this bastard!"
+msgstr ""
+
+msgctxt "220"
+msgid "You killed my father, and I want payback."
+msgstr ""
+
+msgctxt "232"
+msgid ""
+"You've got some nerve busting in here.\r\n"
+"So you want to see your precious father, huh?\r\n"
+"Oh, I'll send you to meet him... in hell!"
+msgstr ""
+
+msgctxt "256"
+msgid "I've come to avenge my father."
+msgstr ""
+
+msgctxt "268"
+msgid "I've come to collect my money."
+msgstr ""
+
+msgctxt "280"
+msgid "You killed my father, and I want payback."
+msgstr ""
+
+msgctxt "3088"
+msgid "Yamashiro"
+msgstr ""
+
+msgctxt "3092"
+msgid "Idle"
+msgstr ""
+
+msgctxt "3096"
+msgid "Tatsu"
+msgstr ""
+
+msgctxt "3100"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "3104"
+msgid "Talk_Think"
+msgstr ""

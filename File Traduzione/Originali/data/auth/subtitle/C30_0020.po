@@ -1,0 +1,60 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "729\t789"
+msgid "Wait."
+msgstr ""
+
+msgctxt "801\t882"
+msgid "Dragon! Look out!"
+msgstr ""
+
+msgctxt "977\t1037"
+msgid "Taichi!"
+msgstr ""
+
+msgctxt "1044\t1098"
+msgid "Hold on, I was just⑬"
+msgstr ""
+
+msgctxt "1099\t1191"
+msgid "Super Flying..."
+msgstr ""
+
+msgctxt "1192\t1268"
+msgid "Taichi Kick!"
+msgstr ""
+
+msgctxt "1343\t1403"
+msgid "Eat this!"
+msgstr ""
+
+msgctxt "1513\t1553"
+msgid "One!"
+msgstr ""
+
+msgctxt "1554\t1599"
+msgid "Two!"
+msgstr ""
+
+msgctxt "1600\t1691"
+msgid "Three!"
+msgstr ""
+
+msgctxt "1816\t1883"
+msgid "You all right, Taichi?"
+msgstr ""
+
+msgctxt "1888\t1979"
+msgid "Huh? I feel... great."
+msgstr ""

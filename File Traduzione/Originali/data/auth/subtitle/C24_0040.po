@@ -1,0 +1,92 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "33\t252"
+msgid ""
+"Please, don't ever say that you want \\n"
+"to die!"
+msgstr ""
+
+msgctxt "275\t394"
+msgid "Do I deserve to live?"
+msgstr ""
+
+msgctxt "395\t464"
+msgid "Of course you do!"
+msgstr ""
+
+msgctxt "492\t618"
+msgid "If you died, I..."
+msgstr ""
+
+msgctxt "649\t709"
+msgid "Mizuki-chan."
+msgstr ""
+
+msgctxt "713\t840"
+msgid "Can we start over?"
+msgstr ""
+
+msgctxt "874\t981"
+msgid "Can we start from the very beginning..."
+msgstr ""
+
+msgctxt "982\t1098"
+msgid ""
+"And relive those early days\\n"
+"we spent together?"
+msgstr ""
+
+msgctxt "1115\t1238"
+msgid "You still want to be with me?"
+msgstr ""
+
+msgctxt "1261\t1355"
+msgid ""
+"Only if you still want to be\\n"
+"with me."
+msgstr ""
+
+msgctxt "1379\t1433"
+msgid "Akimoto-kun!"
+msgstr ""
+
+msgctxt "1434\t1494"
+msgid "Mizuki-chan!"
+msgstr ""
+
+msgctxt "1519\t1579"
+msgid "I'm sorry."
+msgstr ""
+
+msgctxt "1589\t1738"
+msgid ""
+"We'll be together forever,\\n"
+"from this moment on."
+msgstr ""
+
+msgctxt "1982\t2047"
+msgid "We should go, Uncle Kaz."
+msgstr ""
+
+msgctxt "2051\t2147"
+msgid "Yeah."
+msgstr ""
+
+msgctxt "2360\t2475"
+msgid "I love you, Mizuki-chan."
+msgstr ""
+
+msgctxt "2480\t2580"
+msgid "I love you, too."
+msgstr ""

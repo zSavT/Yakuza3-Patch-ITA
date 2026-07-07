@@ -1,0 +1,56 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid "Oh hey, another call from Akiho-san."
+msgstr ""
+
+msgctxt "88"
+msgid "What's up, Akiho-san? More trouble?"
+msgstr ""
+
+msgctxt "100"
+msgid "What? Another stalker!? Where are you?"
+msgstr ""
+
+msgctxt "112"
+msgid "Got it. I'll be right over."
+msgstr ""
+
+msgctxt "136"
+msgid "Sorry, Aniki... Think you can show me where the batting center is?"
+msgstr ""
+
+msgctxt "148"
+msgid "I guess I wouldn't mind."
+msgstr ""
+
+msgctxt "1156"
+msgid "Rikiya"
+msgstr ""
+
+msgctxt "1160"
+msgid "Phone_st"
+msgstr ""
+
+msgctxt "1164"
+msgid "Phone_ed"
+msgstr ""
+
+msgctxt "1168"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1172"
+msgid "dummy"
+msgstr ""

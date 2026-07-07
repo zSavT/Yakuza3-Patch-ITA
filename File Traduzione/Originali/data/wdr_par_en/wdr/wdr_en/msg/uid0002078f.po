@@ -1,0 +1,116 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "180"
+msgid "I hope they're gonna be okay..."
+msgstr ""
+
+msgctxt "216"
+msgid "What's wrong, Koji?"
+msgstr ""
+
+msgctxt "228"
+msgid "Hey, Haruka. Did you see the couple that was swimming here earlier?"
+msgstr ""
+
+msgctxt "240"
+msgid "Yeah. It looked like they were really happy together, right?"
+msgstr ""
+
+msgctxt "252"
+msgid ""
+"I dunno about that... They were just here again, and I'm pretty sure they "
+"were fighting about something."
+msgstr ""
+
+msgctxt "264"
+msgid "What? Why!?"
+msgstr ""
+
+msgctxt "276"
+msgid ""
+"I dunno. They walked off down the beach before I could hear what was going "
+"on."
+msgstr ""
+
+msgctxt "288"
+msgid "Should we go check up on them, Uncle Kaz?"
+msgstr ""
+
+msgctxt "300"
+msgid "Should we go check up on them, Uncle Kaz?"
+msgstr ""
+
+msgctxt "312"
+msgid "All couples fight every now and then."
+msgstr ""
+
+msgctxt "324"
+msgid "Really? But these two have a long history..."
+msgstr ""
+
+msgctxt "348"
+msgid "Yeah, I'm definitely worried about them."
+msgstr ""
+
+msgctxt "360"
+msgid "Then let's go!"
+msgstr ""
+
+msgctxt "384"
+msgid "All couples fight every now and then."
+msgstr ""
+
+msgctxt "396"
+msgid "Yeah, I'm worried."
+msgstr ""
+
+msgctxt "408"
+msgid "All couples fight every now and then."
+msgstr ""
+
+msgctxt "420"
+msgid "Yeah, I'm kinda worried."
+msgstr ""
+
+msgctxt "3012"
+msgid "Koji"
+msgstr ""
+
+msgctxt "3016"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "3020"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "3024"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "3028"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "3032"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "3036"
+msgid "Talk_Info_L"
+msgstr ""
+
+msgctxt "3040"
+msgid "Kiryu"
+msgstr ""

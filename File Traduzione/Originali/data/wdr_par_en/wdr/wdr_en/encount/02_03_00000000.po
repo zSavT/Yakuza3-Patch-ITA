@@ -1,0 +1,56 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "96"
+msgid "Hey... Don't ignore me, asshole."
+msgstr ""
+
+msgctxt "108"
+msgid "I'll teach you what happens when you walk past me and don't say shit!"
+msgstr ""
+
+msgctxt "132"
+msgid "Ugh... Sorry..."
+msgstr ""
+
+msgctxt "144"
+msgid "Here... Guess you taught me something today..."
+msgstr ""
+
+msgctxt "156"
+msgid "You got a slick %s."
+msgstr ""
+
+msgctxt "192"
+msgid "Don't worry... Just ignore me..."
+msgstr ""
+
+msgctxt "1320"
+msgid "Irate Thug"
+msgstr ""
+
+msgctxt "1324"
+msgid "P_stand_sync_btl_neck_st"
+msgstr ""
+
+msgctxt "1328"
+msgid "M_ykz_stand_sync_btl_neck_st"
+msgstr ""
+
+msgctxt "1332"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "1336"
+msgid "Sync_Send"
+msgstr ""

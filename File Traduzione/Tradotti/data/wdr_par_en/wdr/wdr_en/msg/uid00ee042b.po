@@ -1,0 +1,317 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "108"
+msgid ""
+"You've done it again, Kiryu-san! I must say, I'm impressed.\r\n"
+"Raising a hostess to the highest rank there is... That's no\r\n"
+"small task."
+msgstr ""
+
+msgctxt "120"
+msgid ""
+"But I suppose that's what I saw in you when you first\r\n"
+"approached me. That unmistakable leadership ability."
+msgstr ""
+
+msgctxt "132"
+msgid "Well, I'm just glad %s turned out to be so good."
+msgstr ""
+
+msgctxt "144"
+msgid ""
+"Yes indeed! From here on out, I'm going to work hard with\r\n"
+"%s-chan to make the club even better than before!"
+msgstr ""
+
+msgctxt "156"
+msgid "About that, Sasaki-san... I actually have an announcement."
+msgstr ""
+
+msgctxt "168"
+msgid ""
+"Oh? You do? Then please go ahead, I'd be happy to⑬\r\n"
+"Wait a minute..."
+msgstr ""
+
+msgctxt "180"
+msgid "Yeah, so... I'm quitting. Effective immediately."
+msgstr ""
+
+msgctxt "192"
+msgid "Whaaaaaaaaaat!? %s-chan, not you too! But why...?"
+msgstr ""
+
+msgctxt "204"
+msgid "......"
+msgstr ""
+
+msgctxt "216"
+msgid ""
+"Well... now that I'm number one here, I thought I'd be good\r\n"
+"enough to work in Tokyo and make some real money. Sorry!"
+msgstr ""
+
+msgctxt "228"
+msgid "Well..."
+msgstr ""
+
+msgctxt "240"
+msgid "*sigh* I suppose there's not much I can do about that..."
+msgstr ""
+
+msgctxt "252"
+msgid "......"
+msgstr ""
+
+msgctxt "288"
+msgid "...Don't worry. I'll help."
+msgstr ""
+
+msgctxt "312"
+msgid "Natsume-chan...?"
+msgstr ""
+
+msgctxt "324"
+msgid "I know what you must be thinking."
+msgstr ""
+
+msgctxt "336"
+msgid ""
+"But I swear, I'm not up to anything this time. I know I've\r\n"
+"been a terrible hostess... And... I was wrong."
+msgstr ""
+
+msgctxt "348"
+msgid ""
+"I realized that after watching you work so hard to help\r\n"
+"those girls reach the top. Meanwhile, I was off running\r\n"
+"around, behaving like a spoiled little girl..."
+msgstr ""
+
+msgctxt "360"
+msgid ""
+"Every girl Kiryu-san coached turned out to be excellent\r\n"
+"hostesses. The way they went above and beyond to put the\r\n"
+"customers first was what stood out to me the most."
+msgstr ""
+
+msgctxt "372"
+msgid ""
+"You showed me that's how a real pro operates. So from now\r\n"
+"on, I'm gonna put my heart and soul into my work, like I\r\n"
+"used to... That is, as long as that's okay with you..."
+msgstr ""
+
+msgctxt "384"
+msgid ""
+"...Of course, it is, Natsume-chan. Together, we can put\r\n"
+"this club back on the map! Are you ready!?"
+msgstr ""
+
+msgctxt "396"
+msgid "Absolutely."
+msgstr ""
+
+msgctxt "432"
+msgid ""
+"That's amazing, Kiryu-san! Raising a hostess to the highest\r\n"
+"rank there is... That's no small task."
+msgstr ""
+
+msgctxt "444"
+msgid ""
+"But I suppose that's what I saw in you when you first\r\n"
+"approached me. That unmistakable leadership ability."
+msgstr ""
+
+msgctxt "456"
+msgid "Well, I'm just glad %s turned out to be so good."
+msgstr ""
+
+msgctxt "468"
+msgid ""
+"Yes indeed! From here on out, I'm going to work hard with\r\n"
+"%s-chan to make the club even better than before!"
+msgstr ""
+
+msgctxt "480"
+msgid "About that, Sasaki-san... I actually have an announcement."
+msgstr ""
+
+msgctxt "492"
+msgid ""
+"Oh? You do? Then please go ahead, I'd be happy to⑬\r\n"
+"Wait a minute..."
+msgstr ""
+
+msgctxt "504"
+msgid "Yeah, so... I'm quitting. Effective immediately."
+msgstr ""
+
+msgctxt "516"
+msgid "Wh... Wh... Whaaaaaaaaaat!?"
+msgstr ""
+
+msgctxt "528"
+msgid "......"
+msgstr ""
+
+msgctxt "540"
+msgid ""
+"I wanna challenge myself. So I'm gonna leave Okinawa and\r\n"
+"travel the world... to gain more life experience!"
+msgstr ""
+
+msgctxt "552"
+msgid ""
+"I think that I should work as a hostess in a lot of places,\r\n"
+"actually. I want to grow more as a person, using the\r\n"
+"knowledge and skills I learned here."
+msgstr ""
+
+msgctxt "564"
+msgid "......"
+msgstr ""
+
+msgctxt "576"
+msgid "*sigh* Well, with an answer like that... how can I object?"
+msgstr ""
+
+msgctxt "588"
+msgid "...I suppose it's back to square one for me."
+msgstr ""
+
+msgctxt "600"
+msgid "......"
+msgstr ""
+
+msgctxt "636"
+msgid ""
+"That's amazing, Kiryu-san! Raising a hostess to the highest\r\n"
+"rank there is... That's no small task."
+msgstr ""
+
+msgctxt "648"
+msgid "I'm sure this will change Natsume's mind."
+msgstr ""
+
+msgctxt "660"
+msgid "Well, I'm just glad %s turned out to be so good."
+msgstr ""
+
+msgctxt "672"
+msgid ""
+"Yes indeed! From here on out, I'm going to work hard with\r\n"
+"%s-chan to make the club even better than before!"
+msgstr ""
+
+msgctxt "684"
+msgid "About that, Sasaki-san... I actually have an announcement."
+msgstr ""
+
+msgctxt "696"
+msgid ""
+"Oh? You do? Then please go ahead, I'd be happy to⑬\r\n"
+"Wait a minute..."
+msgstr ""
+
+msgctxt "708"
+msgid "Yeah, so... I'm quitting. Effective immediately."
+msgstr ""
+
+msgctxt "720"
+msgid "Wh... Wh... Whaaaaaaaaaat!?"
+msgstr ""
+
+msgctxt "732"
+msgid "......"
+msgstr ""
+
+msgctxt "744"
+msgid ""
+"I like this club, and I love working with you and the rest\r\n"
+"of the staff."
+msgstr ""
+
+msgctxt "756"
+msgid ""
+"But, since I started as a hostess, I've met a lot of people\r\n"
+"and found my true calling."
+msgstr ""
+
+msgctxt "768"
+msgid ""
+"The job's been fun... But now, I want to meet even more\r\n"
+"people. From all walks of life."
+msgstr ""
+
+msgctxt "780"
+msgid ""
+"And... now that I'm number one here, I thought I'd be good\r\n"
+"enough to work in Tokyo⑬the most happening place in Japan!"
+msgstr ""
+
+msgctxt "792"
+msgid "......"
+msgstr ""
+
+msgctxt "804"
+msgid ""
+"*sigh* Well, with an answer like that... how can I object?\r\n"
+"All right, then. If that's your dream, then go for it."
+msgstr ""
+
+msgctxt "816"
+msgid "......"
+msgstr ""
+
+msgctxt "828"
+msgid "Looks like it's back to the drawing board..."
+msgstr ""
+
+msgctxt "10656"
+msgid "Manager"
+msgstr ""
+
+msgctxt "10660"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "10664"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "10668"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "10672"
+msgid "Hostess Trainee Name"
+msgstr ""
+
+msgctxt "10676"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "10680"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "10684"
+msgid "Natsume"
+msgstr ""
+
+msgctxt "10688"
+msgid "Talk_No"
+msgstr ""

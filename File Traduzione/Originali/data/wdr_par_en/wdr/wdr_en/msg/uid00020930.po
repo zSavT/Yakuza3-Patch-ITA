@@ -1,0 +1,171 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "164"
+msgid "Uncle Kaz! Did you buy my Shonen Five!?"
+msgstr ""
+
+msgctxt "176"
+msgid "Yeah, I got it."
+msgstr ""
+
+msgctxt "188"
+msgid "Woohoo! Gimme!"
+msgstr ""
+
+msgctxt "200"
+msgid "Hold on a sec."
+msgstr ""
+
+msgctxt "212"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "224"
+msgid ""
+"(...That Shonen Five editor said he'd wait for me in\r\n"
+"front of the OPA building.)"
+msgstr ""
+
+msgctxt "236"
+msgid ""
+"(Just to be safe, I should probably hold onto this issue.\r\n"
+"It's got Hirano's work in it, after all. Might be useful\r\n"
+" later.)"
+msgstr ""
+
+msgctxt "248"
+msgid "C'mon! Lemme have it!"
+msgstr ""
+
+msgctxt "260"
+msgid "You're gonna have to wait a little longer."
+msgstr ""
+
+msgctxt "272"
+msgid "Wait, why!? Come on!"
+msgstr ""
+
+msgctxt "284"
+msgid ""
+"I have to show this magazine to someone else first. I'll\r\n"
+"be back with it as soon as I'm done, I swear."
+msgstr ""
+
+msgctxt "296"
+msgid "Awww!"
+msgstr ""
+
+msgctxt "308"
+msgid "I'll pay for the manga to make up for the added wait."
+msgstr ""
+
+msgctxt "320"
+msgid "Mngh..."
+msgstr ""
+
+msgctxt "332"
+msgid ""
+"I won't be long. I'll come right back when it's done,\r\n"
+"and it'll be all yours."
+msgstr ""
+
+msgctxt "344"
+msgid "Fine... But make it quick, okay!?"
+msgstr ""
+
+msgctxt "356"
+msgid "I promise."
+msgstr ""
+
+msgctxt "392"
+msgid "Uncle Kaz! Did you buy my Shonen Five!?"
+msgstr ""
+
+msgctxt "404"
+msgid "Yeah, I got it."
+msgstr ""
+
+msgctxt "416"
+msgid "Woohoo! Gimme!"
+msgstr ""
+
+msgctxt "440"
+msgid ""
+"...wait, this isn't it! I wanted Shonen Five! Did you\r\n"
+"forget to buy it for me?"
+msgstr ""
+
+msgctxt "452"
+msgid "Nah, I was just messing with you. I'll be back with it."
+msgstr ""
+
+msgctxt "464"
+msgid "Sorry, I don't have it right now."
+msgstr ""
+
+msgctxt "476"
+msgid "Wait, what!? You were supposed to buy it, though!"
+msgstr ""
+
+msgctxt "488"
+msgid "I will, just give me a little more time."
+msgstr ""
+
+msgctxt "500"
+msgid "This is it, right?"
+msgstr ""
+
+msgctxt "512"
+msgid "You handed over the <Color:8>Shonen Five<Color:Default>."
+msgstr ""
+
+msgctxt "536"
+msgid "Yeah, just what I wanted! Thanks, Uncle Kaz!"
+msgstr ""
+
+msgctxt "4896"
+msgid "Taichi"
+msgstr ""
+
+msgctxt "4900"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "4904"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "4908"
+msgid "SetM_cld_cheer_stand_jitabata"
+msgstr ""
+
+msgctxt "4912"
+msgid "Idle"
+msgstr ""
+
+msgctxt "4916"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "4920"
+msgid "Talk_NoBig"
+msgstr ""
+
+msgctxt "4924"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "4928"
+msgid "Sync_Send"
+msgstr ""

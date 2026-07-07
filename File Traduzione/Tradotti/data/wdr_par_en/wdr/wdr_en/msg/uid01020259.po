@@ -1,0 +1,62 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "128"
+msgid "(That guy in the red sportswear got away from me...)"
+msgstr ""
+
+msgctxt "140"
+msgid "(Guess I'm heading back to Bantam to deliver the bad news.)"
+msgstr ""
+
+msgctxt "212"
+msgid ""
+"(Somebody's coming down. Maybe it's the husband of that lady\r\n"
+"I spoke with at Bantam.)"
+msgstr ""
+
+msgctxt "272"
+msgid ""
+"Can't believe I friggin' lost again... I just do not have\r\n"
+"any luck before work."
+msgstr ""
+
+msgctxt "296"
+msgid ""
+"(He's covered in red sportswear, all right. That's gotta be\r\n"
+"the guy I'm looking for.)"
+msgstr ""
+
+msgctxt "308"
+msgid "(Time to see what he's up to.)"
+msgstr ""
+
+msgctxt "2428"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "2432"
+msgid "Man"
+msgstr ""
+
+msgctxt "2436"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "2440"
+msgid "0"
+msgstr ""
+
+msgctxt "2444"
+msgid "dummy"
+msgstr ""

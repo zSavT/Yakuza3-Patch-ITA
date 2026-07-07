@@ -1,0 +1,96 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "156"
+msgid "Welcome. You can exchange cash for chips here."
+msgstr ""
+
+msgctxt "168"
+msgid "How many would you like, sir?"
+msgstr ""
+
+msgctxt "192"
+msgid "Very good, sir."
+msgstr ""
+
+msgctxt "204"
+msgid "Here are your 50 chips. Thank you very much, sir."
+msgstr ""
+
+msgctxt "240"
+msgid "Very good, sir."
+msgstr ""
+
+msgctxt "252"
+msgid "Here are your 100 chips. Thank you very much, sir."
+msgstr ""
+
+msgctxt "288"
+msgid "Very good, sir."
+msgstr ""
+
+msgctxt "300"
+msgid "Here are your 500 chips. Thank you very much, sir."
+msgstr ""
+
+msgctxt "336"
+msgid "Very good, sir."
+msgstr ""
+
+msgctxt "348"
+msgid "Here are your 1,000 chips. Thank you very much, sir."
+msgstr ""
+
+msgctxt "372"
+msgid "I'm afraid you don't have enough money to pay for these chips."
+msgstr ""
+
+msgctxt "384"
+msgid "Please stop by again soon."
+msgstr ""
+
+msgctxt "396"
+msgid "Buy 50 Chips (5,000 yen)"
+msgstr ""
+
+msgctxt "408"
+msgid "Buy 100 Chips (10,000 yen)"
+msgstr ""
+
+msgctxt "420"
+msgid "Buy 500 Chips (50,000 yen)"
+msgstr ""
+
+msgctxt "432"
+msgid "Buy 1,000 Chips (100,000 yen)"
+msgstr ""
+
+msgctxt "444"
+msgid "Not Now"
+msgstr ""
+
+msgctxt "2568"
+msgid "Employee"
+msgstr ""
+
+msgctxt "2572"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "2576"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "2580"
+msgid "Talk_No"
+msgstr ""

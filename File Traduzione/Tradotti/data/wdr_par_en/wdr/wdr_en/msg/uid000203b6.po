@@ -1,0 +1,100 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "80"
+msgid "I better go check in with Shiro."
+msgstr ""
+
+msgctxt "92"
+msgid "Uncle Kaz..."
+msgstr ""
+
+msgctxt "104"
+msgid "Taichi."
+msgstr ""
+
+msgctxt "116"
+msgid "Oh, Uncle Kaz."
+msgstr ""
+
+msgctxt "128"
+msgid ""
+"Don't tell anyone about this... but do you think you can\r\n"
+"find out who's been bullying Shiro for me?"
+msgstr ""
+
+msgctxt "140"
+msgid "I already know. That's what I was trying to tell you before."
+msgstr ""
+
+msgctxt "152"
+msgid "Who is it?"
+msgstr ""
+
+msgctxt "164"
+msgid "Some kid named Yoshinori, but..."
+msgstr ""
+
+msgctxt "176"
+msgid "But what?"
+msgstr ""
+
+msgctxt "188"
+msgid ""
+"...It's kinda complicated. Yoshinori's the son of Shiro's\r\n"
+"teacher, Hashimoto."
+msgstr ""
+
+msgctxt "200"
+msgid "What!?"
+msgstr ""
+
+msgctxt "212"
+msgid "Are you sure?"
+msgstr ""
+
+msgctxt "224"
+msgid ""
+"Hashimoto would be in big trouble if he admitted his own son\r\n"
+"was a bully... so I dunno if he'll ever fess up."
+msgstr ""
+
+msgctxt "236"
+msgid ""
+"Well now I really need to get involved. I'd better check\r\n"
+"with Shiro again to make sure."
+msgstr ""
+
+msgctxt "248"
+msgid "Uncle Kaz..."
+msgstr ""
+
+msgctxt "2532"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "2536"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "2540"
+msgid "Taichi"
+msgstr ""
+
+msgctxt "2544"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "2548"
+msgid "Talk_No"
+msgstr ""

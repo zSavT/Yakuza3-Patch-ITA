@@ -1,0 +1,88 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "92"
+msgid ""
+"Did you see that dump truck smash into the Diet building? I saw it on the "
+"news! It was crazy!"
+msgstr ""
+
+msgctxt "104"
+msgid ""
+"Yeah, they said it might've been some kind of protest about the military "
+"expansion bill, but it was basically a terrorist attack, right?"
+msgstr ""
+
+msgctxt "116"
+msgid "I don't think violence is ever the answer, no matter what the cause."
+msgstr ""
+
+msgctxt "128"
+msgid "Passing bills is the Diet's business, right? What's it got to do with us?"
+msgstr ""
+
+msgctxt "140"
+msgid ""
+"What do you mean? We elected them. They're supposed to be representing our "
+"interests."
+msgstr ""
+
+msgctxt "152"
+msgid ""
+"If you don't like how the current Diet handles things, you should get your "
+"opinion across by voting in the next election."
+msgstr ""
+
+msgctxt "164"
+msgid ""
+"Yeah, but that's not for a while, right? Seems like the only way to get "
+"your opinion across right away is by doing something crazy."
+msgstr ""
+
+msgctxt "176"
+msgid ""
+"I don't know... It all seems so complicated. Though I do feel like I should "
+"watch the news more often!"
+msgstr ""
+
+msgctxt "1804"
+msgid "Young Businesswoman"
+msgstr ""
+
+msgctxt "1808"
+msgid "Lazy Nonvoter"
+msgstr ""
+
+msgctxt "1812"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "1816"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "1820"
+msgid "Experienced Voter"
+msgstr ""
+
+msgctxt "1824"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "1828"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "1832"
+msgid "Talk_Kansin"
+msgstr ""

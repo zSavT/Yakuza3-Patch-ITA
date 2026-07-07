@@ -1,0 +1,180 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "656\tNAME"
+msgid "Hell Impulse"
+msgstr ""
+
+msgctxt "669\tNAME"
+msgid "American Powers"
+msgstr ""
+
+msgctxt "685\tNAME"
+msgid "Octopus Shooters"
+msgstr ""
+
+msgctxt "702\tNAME"
+msgid "East-West Hero Team-Up"
+msgstr ""
+
+msgctxt "725\tNAME"
+msgid "The Mad Dogs"
+msgstr ""
+
+msgctxt "738\tNAME"
+msgid "The Double Volcano"
+msgstr ""
+
+msgctxt "757\tNAME"
+msgid "The Super Overdrives"
+msgstr ""
+
+msgctxt "778\tNAME"
+msgid "Masked Bourgeoisie I and II"
+msgstr ""
+
+msgctxt "806\tNAME"
+msgid "Dual Fist Fighters"
+msgstr ""
+
+msgctxt "825\tNAME"
+msgid "Beast King Brothers"
+msgstr ""
+
+msgctxt "845\tNAME"
+msgid "The Studly Boys"
+msgstr ""
+
+msgctxt "861\tNAME"
+msgid "Yi-san and Er-san"
+msgstr ""
+
+msgctxt "879\tNAME"
+msgid "Bad Twins"
+msgstr ""
+
+msgctxt "889\tNAME"
+msgid "Boxing Alliance"
+msgstr ""
+
+msgctxt "905\tNAME"
+msgid "Kamurocho Hooligans"
+msgstr ""
+
+msgctxt "925\tNAME"
+msgid "Torpedo Massacre Brothers"
+msgstr ""
+
+msgctxt "951\tNAME"
+msgid "The Revolutions"
+msgstr ""
+
+msgctxt "967\tNAME"
+msgid "Metabolic Muscles"
+msgstr ""
+
+msgctxt "985\tNAME"
+msgid "Divine Wrath Alliance"
+msgstr ""
+
+msgctxt "1007\tNAME"
+msgid "High and Low Brothers"
+msgstr ""
+
+msgctxt "1029\tNAME"
+msgid "Unknown"
+msgstr ""
+
+msgctxt "1037\tCATCHPHRASE"
+msgid "The Devils that Shake the Heavens"
+msgstr ""
+
+msgctxt "1071\tCATCHPHRASE"
+msgid "The Black Ship of the Underground"
+msgstr ""
+
+msgctxt "1105\tCATCHPHRASE"
+msgid "The Eight Limbs of Fury"
+msgstr ""
+
+msgctxt "1129\tCATCHPHRASE"
+msgid "Hunters of the Sun and Stars"
+msgstr ""
+
+msgctxt "1158\tCATCHPHRASE"
+msgid "The Devil's Right-Hand Canines"
+msgstr ""
+
+msgctxt "1189\tCATCHPHRASE"
+msgid "The Subterranean Heat-Bringers"
+msgstr ""
+
+msgctxt "1220\tCATCHPHRASE"
+msgid "One-Way Ticket to Death"
+msgstr ""
+
+msgctxt "1244\tCATCHPHRASE"
+msgid "The Faces of Budo"
+msgstr ""
+
+msgctxt "1262\tCATCHPHRASE"
+msgid "Punches from Heaven and Kicks from Hell"
+msgstr ""
+
+msgctxt "1302\tCATCHPHRASE"
+msgid "The Untamed Siblings of the Wild"
+msgstr ""
+
+msgctxt "1335\tCATCHPHRASE"
+msgid "The Faces Too Pretty to Touch"
+msgstr ""
+
+msgctxt "1365\tCATCHPHRASE"
+msgid "The Chinese Octomillennium"
+msgstr ""
+
+msgctxt "1392\tCATCHPHRASE"
+msgid "The Troublemakers of Kamurocho"
+msgstr ""
+
+msgctxt "1423\tCATCHPHRASE"
+msgid "The Savage Heavy Handers"
+msgstr ""
+
+msgctxt "1448\tCATCHPHRASE"
+msgid "The Fists of Fire and Ice"
+msgstr ""
+
+msgctxt "1474\tCATCHPHRASE"
+msgid "The Men Who Never Miss a Punch"
+msgstr ""
+
+msgctxt "1505\tCATCHPHRASE"
+msgid "Innovators of Muscle and Technique"
+msgstr ""
+
+msgctxt "1540\tCATCHPHRASE"
+msgid "The Chemical Reaction of the Ring"
+msgstr ""
+
+msgctxt "1574\tCATCHPHRASE"
+msgid "The Deliverymen of Divine Punishment"
+msgstr ""
+
+msgctxt "1611\tCATCHPHRASE"
+msgid "The Ferocious Pair"
+msgstr ""
+
+msgctxt "1630\tCATCHPHRASE"
+msgid "Unknown"
+msgstr ""

@@ -1,0 +1,126 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "152"
+msgid "Heya, Doc. What's it been, fifteen years?"
+msgstr ""
+
+msgctxt "164"
+msgid "Well, if it isn't Tatsumi. So you're out of jail now, huh?"
+msgstr ""
+
+msgctxt "176"
+msgid ""
+"That's right, thanks to you. You were right, Doc... It was easy to get out "
+"when I learned to keep my head down."
+msgstr ""
+
+msgctxt "188"
+msgid "Good. Glad to hear that."
+msgstr ""
+
+msgctxt "200"
+msgid "What exactly did he get out of?"
+msgstr ""
+
+msgctxt "212"
+msgid ""
+"Tatsumi here was in the yakuza, and he was thrown in the slammer some "
+"fifteen years ago for something trivial."
+msgstr ""
+
+msgctxt "224"
+msgid ""
+"I've got an idea, Kiryu. Why don't you show Tatsumi around the city? I'll "
+"bet he hardly recognizes it."
+msgstr ""
+
+msgctxt "236"
+msgid "Sorry. I've got things to do."
+msgstr ""
+
+msgctxt "248"
+msgid "I see..."
+msgstr ""
+
+msgctxt "260"
+msgid "Give the guy a break, Kiryu."
+msgstr ""
+
+msgctxt "272"
+msgid "He's been locked up for fifteen years. Can't you show him around for me?"
+msgstr ""
+
+msgctxt "284"
+msgid "It's a deal. I'll show you around."
+msgstr ""
+
+msgctxt "296"
+msgid "I appreciate that. I don't even know any good places to eat here anymore."
+msgstr ""
+
+msgctxt "308"
+msgid "So long, Doc. Let's go out for a few drinks next time, huh? On me."
+msgstr ""
+
+msgctxt "320"
+msgid "I'll take you up on that. Take care now."
+msgstr ""
+
+msgctxt "344"
+msgid "Show Him Around Kamurocho"
+msgstr ""
+
+msgctxt "356"
+msgid "Leave Him Here"
+msgstr ""
+
+msgctxt "368"
+msgid "Show Him Around Kamurocho"
+msgstr ""
+
+msgctxt "380"
+msgid "Leave Him Here"
+msgstr ""
+
+msgctxt "3012"
+msgid "Emotional Man"
+msgstr ""
+
+msgctxt "3016"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "3020"
+msgid "Doc Emoto"
+msgstr ""
+
+msgctxt "3024"
+msgid "Tatsumi"
+msgstr ""
+
+msgctxt "3028"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "3032"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "3036"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "3040"
+msgid "Talk_No"
+msgstr ""

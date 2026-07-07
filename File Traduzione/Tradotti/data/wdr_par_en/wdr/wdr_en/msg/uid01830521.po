@@ -1,0 +1,48 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "188"
+msgid "Yum! ⑮ I can't believe how sweet it is!"
+msgstr ""
+
+msgctxt "212"
+msgid "But I wanted that!"
+msgstr ""
+
+msgctxt "236"
+msgid ""
+"Uncle Kaz, the <Color:8>Cake Set<Color:Default> here is delicious! "
+"Strawberry cake <Italic>and</Italic> a drink for only 800 yen!"
+msgstr ""
+
+msgctxt "260"
+msgid ""
+"Parfait! Parfait! Parfait! I want a <Color:8>Strawberry "
+"Parfait<Color:Default>!"
+msgstr ""
+
+msgctxt "1184"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "1188"
+msgid "HAL_stand_tlk_happy_small"
+msgstr ""
+
+msgctxt "1192"
+msgid "HAL_stand_tlk_unhappy_big"
+msgstr ""
+
+msgctxt "1196"
+msgid "Talk_Request"
+msgstr ""

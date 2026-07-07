@@ -1,0 +1,220 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "124"
+msgid "Hehe... I'm not going easy on you, Kiryu-san."
+msgstr ""
+
+msgctxt "136"
+msgid "Shall we head inside?"
+msgstr ""
+
+msgctxt "148"
+msgid "All right."
+msgstr ""
+
+msgctxt "172"
+msgid "Hehe... I'm not going easy on you, Kiryu-san."
+msgstr ""
+
+msgctxt "184"
+msgid "Shall we head inside?"
+msgstr ""
+
+msgctxt "196"
+msgid "...Hold on a second. I just realized I'm short on cash."
+msgstr ""
+
+msgctxt "208"
+msgid "Huh? What do you mean?"
+msgstr ""
+
+msgctxt "220"
+msgid "Sorry..."
+msgstr ""
+
+msgctxt "232"
+msgid "Oh... That's too bad... Let's just call it a day, then. Goodbye, Kiryu-san."
+msgstr ""
+
+msgctxt "244"
+msgid "(I'd better remember to bring enough cash next time...)"
+msgstr ""
+
+msgctxt "352"
+msgid "Wow, Kiryu-san. You're good at bowling, too."
+msgstr ""
+
+msgctxt "364"
+msgid "I guess so."
+msgstr ""
+
+msgctxt "376"
+msgid ""
+"That was a lot of fun! <Color:7>⑮<Color:Default> I'd love to go out again "
+"sometime. <Color:7>⑮⑮<Color:Default>"
+msgstr ""
+
+msgctxt "400"
+msgid "Hehehe... Looks like it's a tie."
+msgstr ""
+
+msgctxt "412"
+msgid "I guess so."
+msgstr ""
+
+msgctxt "424"
+msgid "That was a lot of fun. I'd love to go out again sometime."
+msgstr ""
+
+msgctxt "448"
+msgid ""
+"Hehehe... Better luck next time, Kiryu-san. I win this round. "
+"<Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "460"
+msgid "I guess so."
+msgstr ""
+
+msgctxt "472"
+msgid "That was a lot of fun. I'd love to go out again sometime."
+msgstr ""
+
+msgctxt "496"
+msgid "Major error! No flags set for conversation selection!"
+msgstr ""
+
+msgctxt "580"
+msgid "Hehe... I'm not going easy on you, Kiryu-san."
+msgstr ""
+
+msgctxt "592"
+msgid "Shall we head inside?"
+msgstr ""
+
+msgctxt "604"
+msgid "All right."
+msgstr ""
+
+msgctxt "628"
+msgid "Hehe... I'm not going easy on you, Kiryu-san."
+msgstr ""
+
+msgctxt "640"
+msgid "Shall we head inside?"
+msgstr ""
+
+msgctxt "652"
+msgid "...Hold on a second. I just realized I'm short on cash."
+msgstr ""
+
+msgctxt "664"
+msgid "Huh? What do you mean?"
+msgstr ""
+
+msgctxt "676"
+msgid "Sorry..."
+msgstr ""
+
+msgctxt "688"
+msgid "Oh... That's too bad... Let's just call it a day, then. Goodbye, Kiryu-san."
+msgstr ""
+
+msgctxt "700"
+msgid "(I'd better remember to bring enough cash next time...)"
+msgstr ""
+
+msgctxt "808"
+msgid "Wow, Kiryu-san. You're good at bowling, too."
+msgstr ""
+
+msgctxt "820"
+msgid "I guess so."
+msgstr ""
+
+msgctxt "832"
+msgid ""
+"I had so much fun! <Color:7>⑮⑮<Color:Default> Shall we head over to the "
+"club now? <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "844"
+msgid "Yeah, okay."
+msgstr ""
+
+msgctxt "868"
+msgid "Hehehe... Looks like it's a tie."
+msgstr ""
+
+msgctxt "880"
+msgid "I guess so."
+msgstr ""
+
+msgctxt "892"
+msgid "I had a lot of fun today. Shall we continue this over at the club?"
+msgstr ""
+
+msgctxt "904"
+msgid "Yeah, okay."
+msgstr ""
+
+msgctxt "928"
+msgid ""
+"Hehehe... Better luck next time, Kiryu-san. I win this round. "
+"<Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "940"
+msgid "I guess so."
+msgstr ""
+
+msgctxt "952"
+msgid "I had a lot of fun today. Shall we continue this over at the club?"
+msgstr ""
+
+msgctxt "964"
+msgid "Yeah, okay."
+msgstr ""
+
+msgctxt "988"
+msgid "Major error! No flags set for conversation selection!"
+msgstr ""
+
+msgctxt "11444"
+msgid "Miyu"
+msgstr ""
+
+msgctxt "11448"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "11452"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "11456"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "11460"
+msgid "dummy"
+msgstr ""
+
+msgctxt "11464"
+msgid "0"
+msgstr ""
+
+msgctxt "11468"
+msgid "Talk_Yes"
+msgstr ""

@@ -1,0 +1,112 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "108"
+msgid "(This shisa looks a lot like the one in that couple's photo.)"
+msgstr ""
+
+msgctxt "120"
+msgid "(Better give those two a call.)"
+msgstr ""
+
+msgctxt "132"
+msgid ""
+"(Hmm... This might not be the right one, though. Maybe I'll hold off for "
+"now.)"
+msgstr ""
+
+msgctxt "204"
+msgid "Hello?"
+msgstr ""
+
+msgctxt "216"
+msgid "Hey. I'm the one you gave the shisa photo to."
+msgstr ""
+
+msgctxt "228"
+msgid "Huh? You mean you've actually been looking for it!?"
+msgstr ""
+
+msgctxt "240"
+msgid "Yeah, and I found one that looks just like it. Can you come check it out?"
+msgstr ""
+
+msgctxt "252"
+msgid "Yes, absolutely! We'll be right there!"
+msgstr ""
+
+msgctxt "360"
+msgid "So, you say you've found the shisa in the photo?"
+msgstr ""
+
+msgctxt "372"
+msgid "Yeah. Over there."
+msgstr ""
+
+msgctxt "384"
+msgid "This one? ...No, it's not quite right. See? Look carefully."
+msgstr ""
+
+msgctxt "396"
+msgid "Now that you mention it..."
+msgstr ""
+
+msgctxt "408"
+msgid ""
+"It's okay. Shisa statues can look a lot alike. If you do end up finding the "
+"one in the photo, please give us a call."
+msgstr ""
+
+msgctxt "456"
+msgid "Call the Couple"
+msgstr ""
+
+msgctxt "468"
+msgid "Forget It"
+msgstr ""
+
+msgctxt "3244"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "3248"
+msgid "P_stand_tlk_phone_st"
+msgstr ""
+
+msgctxt "3252"
+msgid "Shisa-searching Woman"
+msgstr ""
+
+msgctxt "3256"
+msgid "P_stand_tlk_phone_ed"
+msgstr ""
+
+msgctxt "3260"
+msgid "Idle"
+msgstr ""
+
+msgctxt "3264"
+msgid "Shisa-searching Man"
+msgstr ""
+
+msgctxt "3268"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "3272"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "3276"
+msgid "dummy"
+msgstr ""

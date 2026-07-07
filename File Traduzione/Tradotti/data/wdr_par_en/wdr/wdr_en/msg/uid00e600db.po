@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "92"
+msgid ""
+"Could I have a minute, sir? I just need to take a look inside that bag of "
+"yours."
+msgstr ""
+
+msgctxt "104"
+msgid "What!? My bag...?"
+msgstr ""
+
+msgctxt "116"
+msgid ""
+"We just want to make sure you don't have any knives or other dangerous "
+"items on you. It'll just take a moment. We appreciate your cooperation."
+msgstr ""
+
+msgctxt "128"
+msgid ""
+"No! These are my souvenirs from tonight's idol concert! They're priceless! "
+"I won't let you take them from me...!"
+msgstr ""
+
+msgctxt "940"
+msgid "Cop"
+msgstr ""
+
+msgctxt "944"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "948"
+msgid "Sketchy Man"
+msgstr ""
+
+msgctxt "952"
+msgid "Head Officer"
+msgstr ""
+
+msgctxt "956"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "960"
+msgid "Talk_No"
+msgstr ""

@@ -1,0 +1,720 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "928"
+msgid ""
+"I have to thank you for the match, Kiryu-san. Golf isn't\r\n"
+"much without an enjoyable conversation to go with it."
+msgstr ""
+
+msgctxt "940"
+msgid ""
+"I hope I'll have the chance to stop by your orphanage\r\n"
+"sometime soon. And I mean that sincerely."
+msgstr ""
+
+msgctxt "952"
+msgid "We'd love to have you."
+msgstr ""
+
+msgctxt "964"
+msgid ""
+"Perhaps there's even some way the city could support all\r\n"
+"the charitable work you do for those children."
+msgstr ""
+
+msgctxt "976"
+msgid ""
+"If you ever need anything, please feel free to give me\r\n"
+"a call. I'll do everything within my power to help you."
+msgstr ""
+
+msgctxt "988"
+msgid "I appreciate that, Akasaka-san."
+msgstr ""
+
+msgctxt "1000"
+msgid "Farewell, now."
+msgstr ""
+
+msgctxt "1012"
+msgid "See you later."
+msgstr ""
+
+msgctxt "1024"
+msgid ""
+"Ah, and before I forget. I signed you up on my permanent\r\n"
+"guest list, so you'll be free to visit the club whenever\r\n"
+"you please."
+msgstr ""
+
+msgctxt "1036"
+msgid "Perhaps we'll even play again some time."
+msgstr ""
+
+msgctxt "1048"
+msgid "I hope so."
+msgstr ""
+
+msgctxt "1072"
+msgid "Welcome, sir. Are you a member of our club?"
+msgstr ""
+
+msgctxt "1084"
+msgid "Well, no. I, uh..."
+msgstr ""
+
+msgctxt "1096"
+msgid "Ah, so you're a visitor. Do you have a guest pass?"
+msgstr ""
+
+msgctxt "1108"
+msgid "Uh..."
+msgstr ""
+
+msgctxt "1120"
+msgid ""
+"My deepest apologies, sir, but this is a highly exclusive\r\n"
+"club for local businessmen and government officials only."
+msgstr ""
+
+msgctxt "1132"
+msgid ""
+"If you don't have an invitation from a current member,\r\n"
+"I'm going to have to ask you to leave."
+msgstr ""
+
+msgctxt "1144"
+msgid "I'm very sorry, sir."
+msgstr ""
+
+msgctxt "1156"
+msgid ""
+"(Dammit. How am I ever gonna find Akasaka if I can't even\r\n"
+"get in the club?)"
+msgstr ""
+
+msgctxt "1168"
+msgid "If you'll allow me to intrude..."
+msgstr ""
+
+msgctxt "1180"
+msgid "Hm?"
+msgstr ""
+
+msgctxt "1192"
+msgid "I hear you don't have a guest pass."
+msgstr ""
+
+msgctxt "1204"
+msgid "Yeah, I didn't realize this was a private club..."
+msgstr ""
+
+msgctxt "1216"
+msgid "In that case, why don't you join me for a couple of holes?"
+msgstr ""
+
+msgctxt "1228"
+msgid "Really?"
+msgstr ""
+
+msgctxt "1240"
+msgid ""
+"I was actually meant to meet a friend here, but it seems\r\n"
+"he won't be showing up. I suppose he had some last-minute\r\n"
+"business to attend to."
+msgstr ""
+
+msgctxt "1252"
+msgid ""
+"I'm not too fond of playing by myself, though, so if you\r\n"
+"wouldn't mind joining me, I'd be glad to have you along."
+msgstr ""
+
+msgctxt "1264"
+msgid "And... who are you exactly?"
+msgstr ""
+
+msgctxt "1276"
+msgid "Ah, where are my manners? My name is Akasaka."
+msgstr ""
+
+msgctxt "1288"
+msgid "You mean from the city council?"
+msgstr ""
+
+msgctxt "1300"
+msgid "Ah, I take it you've heard of me. May I ask your name?"
+msgstr ""
+
+msgctxt "1312"
+msgid "It's Kiryu."
+msgstr ""
+
+msgctxt "1324"
+msgid "Well then, Kiryu-san. Shall we play?"
+msgstr ""
+
+msgctxt "1336"
+msgid "Yeah, let's do it."
+msgstr ""
+
+msgctxt "1348"
+msgid ""
+"(Talk about luck. This is the perfect chance for me to\r\n"
+"get closer to Akasaka.)"
+msgstr ""
+
+msgctxt "1372"
+msgid "Welcome. How can I help you?"
+msgstr ""
+
+msgctxt "1396"
+msgid "Uncle Kaz! Get at least +2 in Competition Mode!"
+msgstr ""
+
+msgctxt "1408"
+msgid "(At least +2 in Competition Mode, eh...? Should I try it?)"
+msgstr ""
+
+msgctxt "1420"
+msgid "Not right now."
+msgstr ""
+
+msgctxt "1432"
+msgid "All right. Please come again."
+msgstr ""
+
+msgctxt "1444"
+msgid "Aww! But I want to watch you play golf!"
+msgstr ""
+
+msgctxt "1456"
+msgid "Sure, I'll enter the competition."
+msgstr ""
+
+msgctxt "1468"
+msgid "Very well. The fee is 5,000 yen."
+msgstr ""
+
+msgctxt "1492"
+msgid "All right."
+msgstr ""
+
+msgctxt "1504"
+msgid "All right. Best of luck to you."
+msgstr ""
+
+msgctxt "1516"
+msgid "Good luck, Uncle Kaz!"
+msgstr ""
+
+msgctxt "1540"
+msgid "(I don't have enough money...)"
+msgstr ""
+
+msgctxt "1552"
+msgid "Aww! But I want to watch you play golf!"
+msgstr ""
+
+msgctxt "1564"
+msgid "Uncle Kaz! Get at least 400 points in a near-pin contest!"
+msgstr ""
+
+msgctxt "1576"
+msgid "(At least 400 points in a near-pin contest... Should I give it a try?)"
+msgstr ""
+
+msgctxt "1588"
+msgid "Not right now."
+msgstr ""
+
+msgctxt "1600"
+msgid "All right. Please come again."
+msgstr ""
+
+msgctxt "1612"
+msgid "Aww! But I want to watch you play golf!"
+msgstr ""
+
+msgctxt "1624"
+msgid "I think I'll try the near-pin contest."
+msgstr ""
+
+msgctxt "1636"
+msgid "Very well. The fee is 2,500 yen."
+msgstr ""
+
+msgctxt "1660"
+msgid "All right."
+msgstr ""
+
+msgctxt "1672"
+msgid "All right. Best of luck to you."
+msgstr ""
+
+msgctxt "1684"
+msgid "Good luck, Uncle Kaz!"
+msgstr ""
+
+msgctxt "1708"
+msgid "(I don't have enough money...)"
+msgstr ""
+
+msgctxt "1720"
+msgid "Aww! But I want to watch you play golf!"
+msgstr ""
+
+msgctxt "1732"
+msgid "Uncle Kaz! Get 1,500 points in a near-pin contest!"
+msgstr ""
+
+msgctxt "1744"
+msgid ""
+"(At least 1,500 points in a near-pin contest? That would be tough. Should I "
+"give it a try...?)"
+msgstr ""
+
+msgctxt "1756"
+msgid "Not right now."
+msgstr ""
+
+msgctxt "1768"
+msgid "All right. Please come again."
+msgstr ""
+
+msgctxt "1780"
+msgid "Aww! But I want to watch you play golf!"
+msgstr ""
+
+msgctxt "1792"
+msgid "I'd like to try a near-pin contest."
+msgstr ""
+
+msgctxt "1804"
+msgid "Very well. The fee is 2,500 yen."
+msgstr ""
+
+msgctxt "1828"
+msgid "All right."
+msgstr ""
+
+msgctxt "1840"
+msgid "All right. Best of luck to you."
+msgstr ""
+
+msgctxt "1852"
+msgid "Good luck, Uncle Kaz!"
+msgstr ""
+
+msgctxt "1876"
+msgid "(I don't have enough money...)"
+msgstr ""
+
+msgctxt "1888"
+msgid "Aww! But I want to watch you play golf!"
+msgstr ""
+
+msgctxt "1912"
+msgid "Well done. Please come again."
+msgstr ""
+
+msgctxt "1936"
+msgid "Well done. Please come again."
+msgstr ""
+
+msgctxt "1960"
+msgid "Congratulations! Here's your prize."
+msgstr ""
+
+msgctxt "1972"
+msgid "You got <Color:8>100,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "1984"
+msgid "We hope you'll try again soon!"
+msgstr ""
+
+msgctxt "2008"
+msgid "Congratulations! Here's your prize."
+msgstr ""
+
+msgctxt "2020"
+msgid "You got <Color:8>50,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "2032"
+msgid "We hope you'll try again soon!"
+msgstr ""
+
+msgctxt "2056"
+msgid "Congratulations. Here's your prize."
+msgstr ""
+
+msgctxt "2068"
+msgid "You got <Color:8>20,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "2080"
+msgid "We hope you'll try again soon!"
+msgstr ""
+
+msgctxt "2104"
+msgid "Great work. We hope to see you again soon."
+msgstr ""
+
+msgctxt "2128"
+msgid "Great work. Here's your prize."
+msgstr ""
+
+msgctxt "2152"
+msgid "We hope you'll try again soon!"
+msgstr ""
+
+msgctxt "2176"
+msgid "I'm sorry, sir, but we're closed today."
+msgstr ""
+
+msgctxt "2188"
+msgid "Welcome. How can I help you?"
+msgstr ""
+
+msgctxt "2200"
+msgid "Sure, I'll enter the competition."
+msgstr ""
+
+msgctxt "2212"
+msgid "Very well. The fee is 5,000 yen."
+msgstr ""
+
+msgctxt "2236"
+msgid "All right."
+msgstr ""
+
+msgctxt "2248"
+msgid "All right. Best of luck to you."
+msgstr ""
+
+msgctxt "2272"
+msgid "(I don't have enough money...)"
+msgstr ""
+
+msgctxt "2284"
+msgid "I think I'll try the near-pin contest."
+msgstr ""
+
+msgctxt "2296"
+msgid "Would you like to hear the rules of our near-pin contest?"
+msgstr ""
+
+msgctxt "2308"
+msgid "I'm good for now."
+msgstr ""
+
+msgctxt "2320"
+msgid "Very well. The fee is 2,500 yen."
+msgstr ""
+
+msgctxt "2344"
+msgid "All right."
+msgstr ""
+
+msgctxt "2356"
+msgid "All right. Best of luck to you."
+msgstr ""
+
+msgctxt "2380"
+msgid "Yeah, let's hear them."
+msgstr ""
+
+msgctxt "2392"
+msgid "You will make ten tee shots at the second hole."
+msgstr ""
+
+msgctxt "2404"
+msgid "The closer your ball gets to the hole, the more points you'll be awarded."
+msgstr ""
+
+msgctxt "2416"
+msgid ""
+"Each shot is worth between 0 to 150 points⑬depending how close to the hole "
+"it gets⑬while a hole-in-one is worth 300 points."
+msgstr ""
+
+msgctxt "2428"
+msgid ""
+"At the end of the contest, you'll receive a prize based on the number of "
+"points you scored. Try hard and you might win a really nice prize!"
+msgstr ""
+
+msgctxt "2440"
+msgid ""
+"That's about it for the near-pin contest rules. Would you like to hear them "
+"again?"
+msgstr ""
+
+msgctxt "2452"
+msgid "(I don't have enough money...)"
+msgstr ""
+
+msgctxt "2464"
+msgid "I think I'll practice."
+msgstr ""
+
+msgctxt "2476"
+msgid "Very well. There is no fee for that."
+msgstr ""
+
+msgctxt "2488"
+msgid "What hole would you like to practice?"
+msgstr ""
+
+msgctxt "2500"
+msgid "I'll try the first hole."
+msgstr ""
+
+msgctxt "2512"
+msgid "I'll try the second hole."
+msgstr ""
+
+msgctxt "2524"
+msgid "I'll try the third hole."
+msgstr ""
+
+msgctxt "2536"
+msgid "I'll try the fourth hole."
+msgstr ""
+
+msgctxt "2548"
+msgid "I'll try the fifth hole."
+msgstr ""
+
+msgctxt "2560"
+msgid "I'll try the sixth hole."
+msgstr ""
+
+msgctxt "2572"
+msgid "I'll try the seventh hole."
+msgstr ""
+
+msgctxt "2584"
+msgid "I'll try the eighth hole."
+msgstr ""
+
+msgctxt "2596"
+msgid "I'll try the ninth hole."
+msgstr ""
+
+msgctxt "2608"
+msgid "Very well, sir. Have a good time out there."
+msgstr ""
+
+msgctxt "2632"
+msgid "Not right now."
+msgstr ""
+
+msgctxt "2644"
+msgid "All right. Please come again."
+msgstr ""
+
+msgctxt "2668"
+msgid "Not Now"
+msgstr ""
+
+msgctxt "2680"
+msgid "Play"
+msgstr ""
+
+msgctxt "2692"
+msgid "Pay the Fee"
+msgstr ""
+
+msgctxt "2704"
+msgid "Never Mind"
+msgstr ""
+
+msgctxt "2716"
+msgid "Not Now"
+msgstr ""
+
+msgctxt "2728"
+msgid "Play"
+msgstr ""
+
+msgctxt "2740"
+msgid "Pay"
+msgstr ""
+
+msgctxt "2752"
+msgid "Never Mind"
+msgstr ""
+
+msgctxt "2764"
+msgid "Not Now"
+msgstr ""
+
+msgctxt "2776"
+msgid "Play"
+msgstr ""
+
+msgctxt "2788"
+msgid "Pay"
+msgstr ""
+
+msgctxt "2800"
+msgid "Not Now"
+msgstr ""
+
+msgctxt "2812"
+msgid "Never Mind"
+msgstr ""
+
+msgctxt "2824"
+msgid "Enter the Tournament"
+msgstr ""
+
+msgctxt "2836"
+msgid "Enter the Near-Pin Contest"
+msgstr ""
+
+msgctxt "2848"
+msgid "Practice"
+msgstr ""
+
+msgctxt "2860"
+msgid "Pay the Fee"
+msgstr ""
+
+msgctxt "2872"
+msgid "Not Now"
+msgstr ""
+
+msgctxt "2884"
+msgid "No thanks."
+msgstr ""
+
+msgctxt "2896"
+msgid "Sure."
+msgstr ""
+
+msgctxt "2908"
+msgid "Pay"
+msgstr ""
+
+msgctxt "2920"
+msgid "Not Now"
+msgstr ""
+
+msgctxt "2932"
+msgid "No thanks."
+msgstr ""
+
+msgctxt "2944"
+msgid "Sure."
+msgstr ""
+
+msgctxt "2956"
+msgid "First Hole (Par 4)"
+msgstr ""
+
+msgctxt "2968"
+msgid "Second Hole (Par 3)"
+msgstr ""
+
+msgctxt "2980"
+msgid "Third Hole (Par 4)"
+msgstr ""
+
+msgctxt "2992"
+msgid "Fourth Hole (Par 4)"
+msgstr ""
+
+msgctxt "3004"
+msgid "Fifth Hole (Par 5)"
+msgstr ""
+
+msgctxt "3016"
+msgid "Sixth Hole (Par 4)"
+msgstr ""
+
+msgctxt "3028"
+msgid "Seventh Hole (Par 3)"
+msgstr ""
+
+msgctxt "3040"
+msgid "Eighth Hole (Par 4)"
+msgstr ""
+
+msgctxt "3052"
+msgid "Ninth Hole (Par 5)"
+msgstr ""
+
+msgctxt "3064"
+msgid "Not Now"
+msgstr ""
+
+msgctxt "23208"
+msgid "Akasaka"
+msgstr ""
+
+msgctxt "23212"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "23216"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "23220"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "23224"
+msgid "Receptionist"
+msgstr ""
+
+msgctxt "23228"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "23232"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "23236"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "23240"
+msgid "Stranger"
+msgstr ""
+
+msgctxt "23244"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "23248"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "23252"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "23256"
+msgid "Talk_Request"
+msgstr ""
+
+msgctxt "23260"
+msgid "HAL_stand_tlk_unhappy_small"
+msgstr ""

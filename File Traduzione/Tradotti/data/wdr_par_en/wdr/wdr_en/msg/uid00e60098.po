@@ -1,0 +1,60 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "92"
+msgid "You get hurt again? You sure know how to keep the doc busy!"
+msgstr ""
+
+msgctxt "104"
+msgid "No, I'm just visiting someone today."
+msgstr ""
+
+msgctxt "116"
+msgid ""
+"Oh, the young man from the host club? He was hurt pretty badly from what I "
+"hear."
+msgstr ""
+
+msgctxt "128"
+msgid ""
+"Then again, so were you, and just look at you now! You'd never know you "
+"once had a brush with death. Just what are you made of, huh?"
+msgstr ""
+
+msgctxt "140"
+msgid "I owe it all to the doctor..."
+msgstr ""
+
+msgctxt "1020"
+msgid "Drifter"
+msgstr ""
+
+msgctxt "1024"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "1028"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1032"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "1036"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "1040"
+msgid "Talk_Think"
+msgstr ""

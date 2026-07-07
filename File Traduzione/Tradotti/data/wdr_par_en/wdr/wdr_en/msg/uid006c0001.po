@@ -1,0 +1,330 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "576"
+msgid "Welcome, sir."
+msgstr ""
+
+msgctxt "588"
+msgid "Will you be enjoying our club today?"
+msgstr ""
+
+msgctxt "600"
+msgid "Welcome, sir."
+msgstr ""
+
+msgctxt "612"
+msgid "(Damn... There's no way I can skate by with this chump change.)"
+msgstr ""
+
+msgctxt "624"
+msgid "Hold on."
+msgstr ""
+
+msgctxt "636"
+msgid "What's the matter?"
+msgstr ""
+
+msgctxt "648"
+msgid "Nothing... I'll just come back some other time."
+msgstr ""
+
+msgctxt "660"
+msgid "(I need at least 20,000 on me to have a good time...)"
+msgstr ""
+
+msgctxt "684"
+msgid "Excellent."
+msgstr ""
+
+msgctxt "696"
+msgid "Who should we assign to you?"
+msgstr ""
+
+msgctxt "708"
+msgid "Very well. Please come again."
+msgstr ""
+
+msgctxt "780"
+msgid "Miyu-san, then? Right this way, sir."
+msgstr ""
+
+msgctxt "804"
+msgid "Sir, I apologize. Miyu-san isn't scheduled today."
+msgstr ""
+
+msgctxt "828"
+msgid "Sir, I apologize. Miyu-san isn't scheduled today."
+msgstr ""
+
+msgctxt "840"
+msgid "I will ask her to contact you the next time she's available."
+msgstr ""
+
+msgctxt "864"
+msgid "Sir, I apologize. Miyu-san no longer works here."
+msgstr ""
+
+msgctxt "924"
+msgid "Shiori-san, then? Right this way, sir."
+msgstr ""
+
+msgctxt "948"
+msgid "Sir, I apologize. Shiori-san isn't scheduled today."
+msgstr ""
+
+msgctxt "972"
+msgid "Sir, I apologize. Shiori-san isn't scheduled today."
+msgstr ""
+
+msgctxt "1008"
+msgid "Yui-san, then? Right this way, sir."
+msgstr ""
+
+msgctxt "1032"
+msgid "Sir, I apologize. Yui-san isn't scheduled today."
+msgstr ""
+
+msgctxt "1056"
+msgid "Would you prefer someone else?"
+msgstr ""
+
+msgctxt "1068"
+msgid "Hmm..."
+msgstr ""
+
+msgctxt "1080"
+msgid "We look forward to serving you again."
+msgstr ""
+
+msgctxt "1104"
+msgid ""
+"Here's your bill. Please let me know if there's anything else we can do for "
+"you."
+msgstr ""
+
+msgctxt "1116"
+msgid "Thanks."
+msgstr ""
+
+msgctxt "1128"
+msgid "We appreciate you coming in today."
+msgstr ""
+
+msgctxt "1140"
+msgid "Hope to see you again."
+msgstr ""
+
+msgctxt "1152"
+msgid "All right, then..."
+msgstr ""
+
+msgctxt "1212"
+msgid "So. Why don't ya come on in?"
+msgstr ""
+
+msgctxt "1224"
+msgid "Will you be staying with us awhile?"
+msgstr ""
+
+msgctxt "1236"
+msgid "(Shoot. I don't have nearly enough money for this.)"
+msgstr ""
+
+msgctxt "1248"
+msgid "Hold that thought."
+msgstr ""
+
+msgctxt "1260"
+msgid "Something wrong?"
+msgstr ""
+
+msgctxt "1272"
+msgid "No, it's just... I'll come back some other time."
+msgstr ""
+
+msgctxt "1296"
+msgid "Wonderful! Happy to be of service, truly."
+msgstr ""
+
+msgctxt "1308"
+msgid "Take a look at this amazing group of gals. Well?"
+msgstr ""
+
+msgctxt "1320"
+msgid "Ah. Sorry to hear that. Well, we look forward to serving you anytime."
+msgstr ""
+
+msgctxt "1356"
+msgid "Miyu Shiraboshi?"
+msgstr ""
+
+msgctxt "1380"
+msgid "Yeah, so she isn't actually here right now."
+msgstr ""
+
+msgctxt "1416"
+msgid "Shiori Nagamori?"
+msgstr ""
+
+msgctxt "1440"
+msgid "Yeah, so she isn't actually here right now."
+msgstr ""
+
+msgctxt "1476"
+msgid "Yui Hatano?"
+msgstr ""
+
+msgctxt "1500"
+msgid "Yeah, so she isn't actually here right now."
+msgstr ""
+
+msgctxt "1524"
+msgid "Can I get you someone else?"
+msgstr ""
+
+msgctxt "1536"
+msgid "Hmm..."
+msgstr ""
+
+msgctxt "1548"
+msgid "(Shoot. I don't have nearly enough money for this.)"
+msgstr ""
+
+msgctxt "1560"
+msgid "Hold that thought."
+msgstr ""
+
+msgctxt "1572"
+msgid "What's wrong? Change your mind?"
+msgstr ""
+
+msgctxt "1584"
+msgid "Hmm..."
+msgstr ""
+
+msgctxt "1596"
+msgid "Aw, sorry to see ya go. Hope to see you again sometime."
+msgstr ""
+
+msgctxt "1620"
+msgid "Enter"
+msgstr ""
+
+msgctxt "1632"
+msgid "Leave"
+msgstr ""
+
+msgctxt "1644"
+msgid "Miyu Shiraboshi"
+msgstr ""
+
+msgctxt "1656"
+msgid "Shiori Nagamori"
+msgstr ""
+
+msgctxt "1668"
+msgid "Yui Hatano"
+msgstr ""
+
+msgctxt "1680"
+msgid "On second thought, no thanks."
+msgstr ""
+
+msgctxt "1692"
+msgid "Miyu Shiraboshi"
+msgstr ""
+
+msgctxt "1704"
+msgid "Shiori Nagamori"
+msgstr ""
+
+msgctxt "1716"
+msgid "Yui Hatano"
+msgstr ""
+
+msgctxt "1728"
+msgid "On second thought, I'll pass."
+msgstr ""
+
+msgctxt "1740"
+msgid "Enter"
+msgstr ""
+
+msgctxt "1752"
+msgid "Leave"
+msgstr ""
+
+msgctxt "1764"
+msgid "Miyu Shiraboshi"
+msgstr ""
+
+msgctxt "1776"
+msgid "Shiori Nagamori"
+msgstr ""
+
+msgctxt "1788"
+msgid "Yui Hatano"
+msgstr ""
+
+msgctxt "1800"
+msgid "On second thought, I'll pass."
+msgstr ""
+
+msgctxt "1812"
+msgid "Miyu Shiraboshi"
+msgstr ""
+
+msgctxt "1824"
+msgid "Shiori Nagamori"
+msgstr ""
+
+msgctxt "1836"
+msgid "Yui Hatano"
+msgstr ""
+
+msgctxt "1848"
+msgid "On second thought, no thanks."
+msgstr ""
+
+msgctxt "1860"
+msgid "Miyu Shiraboshi"
+msgstr ""
+
+msgctxt "1872"
+msgid "Shiori Nagamori"
+msgstr ""
+
+msgctxt "1884"
+msgid "Yui Hatano"
+msgstr ""
+
+msgctxt "1896"
+msgid "On second thought, no thanks."
+msgstr ""
+
+msgctxt "10552"
+msgid "Attendant"
+msgstr ""
+
+msgctxt "10556"
+msgid "M_shp_stand_tlk_ojigi"
+msgstr ""
+
+msgctxt "10560"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "10564"
+msgid "P_sitsofaR_tlk_standup"
+msgstr ""

@@ -1,0 +1,70 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "96"
+msgid "Uncle Kaz! Where's Date-san and Mama!?"
+msgstr ""
+
+msgctxt "108"
+msgid "Date-san went after Mama alone. He said this was his problem to solve."
+msgstr ""
+
+msgctxt "120"
+msgid "But...! You really think that's okay...?"
+msgstr ""
+
+msgctxt "132"
+msgid "I'm sure it'll be just fine. Let's put our trust in Date-san for now."
+msgstr ""
+
+msgctxt "144"
+msgid ""
+"Date-san can't do this by himself, Uncle Kaz! You gotta go\r\n"
+"after her, too!"
+msgstr ""
+
+msgctxt "156"
+msgid "(Mama's not here... Where is she!?)"
+msgstr ""
+
+msgctxt "168"
+msgid "Uncle Kaz! A man just came in here and took Mama away!"
+msgstr ""
+
+msgctxt "180"
+msgid "What!? Are you sure!?"
+msgstr ""
+
+msgctxt "192"
+msgid "Yeah! And Date-san went after him!"
+msgstr ""
+
+msgctxt "216"
+msgid "Haruka, stay right here until I come back. Okay?"
+msgstr ""
+
+msgctxt "228"
+msgid "Okay. Don't hurt yourself, Uncle Kaz!"
+msgstr ""
+
+msgctxt "2304"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "2308"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "2312"
+msgid "Talk_Yes"
+msgstr ""

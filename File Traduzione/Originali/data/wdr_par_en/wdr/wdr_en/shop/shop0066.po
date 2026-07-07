@@ -1,0 +1,108 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "348"
+msgid "Don't Order Anything"
+msgstr ""
+
+msgctxt "369"
+msgid "Check Out"
+msgstr ""
+
+msgctxt "379"
+msgid "Order"
+msgstr ""
+
+msgctxt "385"
+msgid "(I'm short on cash.)"
+msgstr ""
+
+msgctxt "406"
+msgid "(I can't carry any more stuff.)"
+msgstr ""
+
+msgctxt "438"
+msgid "(I can't handle any more turtles.)"
+msgstr ""
+
+msgctxt "473"
+msgid "(I didn't choose anything.)"
+msgstr ""
+
+msgctxt "501"
+msgid "(They're sold out.)"
+msgstr ""
+
+msgctxt "521"
+msgid "%s please."
+msgstr ""
+
+msgctxt "532"
+msgid "Refreshing, locally drawn water."
+msgstr ""
+
+msgctxt "565"
+msgid "Tasty local salt."
+msgstr ""
+
+msgctxt "583"
+msgid "Tasty local sugar."
+msgstr ""
+
+msgctxt "602"
+msgid "Tasty local brown sugar."
+msgstr ""
+
+msgctxt "627"
+msgid "Tasty local sugar cane."
+msgstr ""
+
+msgctxt "651"
+msgid "Fresh, locally grown bitter melon."
+msgstr ""
+
+msgctxt "686"
+msgid "Delicious bananas imported from the Philippines."
+msgstr ""
+
+msgctxt "735"
+msgid "Freshly picked, local aloe."
+msgstr ""
+
+msgctxt "763"
+msgid "Fresh island carrots."
+msgstr ""
+
+msgctxt "785"
+msgid "A fresh, locally produced egg."
+msgstr ""
+
+msgctxt "816"
+msgid "Delicious peanuts from Chiba."
+msgstr ""
+
+msgctxt "846"
+msgid "Hot peppers imported from China."
+msgstr ""
+
+msgctxt "879"
+msgid "Our special shikwasa is pretty sour."
+msgstr ""
+
+msgctxt "916"
+msgid "These signature island bananas are nice and sweet."
+msgstr ""
+
+msgctxt "967"
+msgid "A locally grown, sour lemon."
+msgstr ""

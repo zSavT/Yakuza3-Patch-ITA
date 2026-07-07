@@ -1,0 +1,112 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "124"
+msgid ""
+"(...Hey, what about her? As far as being a hostess goes, she\r\n"
+"might be a good fit. Let's see here...)"
+msgstr ""
+
+msgctxt "148"
+msgid ""
+"(She doesn't seem like a talker, and I doubt she knows all\r\n"
+"that much about the world... But I can tell she's very\r\n"
+"diligent. Maybe I should approach her?)"
+msgstr ""
+
+msgctxt "160"
+msgid "(On second thought... maybe not.)"
+msgstr ""
+
+msgctxt "184"
+msgid "(Okay, let's see what I can come up with...)"
+msgstr ""
+
+msgctxt "196"
+msgid "Hello there."
+msgstr ""
+
+msgctxt "208"
+msgid "Huh? What? Oh, were you talking to me?"
+msgstr ""
+
+msgctxt "220"
+msgid ""
+"Yeah. Sorry if this is coming out of nowhere, but I find you\r\n"
+"absolutely fascinating. Could I have a moment of your time?"
+msgstr ""
+
+msgctxt "232"
+msgid "Hehe. You may. What do you want to talk about?"
+msgstr ""
+
+msgctxt "244"
+msgid "I'd like to introduce you to a job I think is perfect for you."
+msgstr ""
+
+msgctxt "256"
+msgid "Oh, are you a recruiter? For one of those cabaret clubs?"
+msgstr ""
+
+msgctxt "268"
+msgid "Yeah, I am, at a club over on Hatsumachi."
+msgstr ""
+
+msgctxt "280"
+msgid ""
+"That does sound somewhat appealing... I mean, I could always\r\n"
+"use the work."
+msgstr ""
+
+msgctxt "292"
+msgid "Well? What are we waiting for? Show me this club of yours!"
+msgstr ""
+
+msgctxt "304"
+msgid "With pleasure. Oh, and the name's Kiryu... Kazuma Kiryu."
+msgstr ""
+
+msgctxt "316"
+msgid ""
+"All right then, Kazuma Kiryu. You can call me Jo! I'm 21, I\r\n"
+"love to garden, aaand I'm licensed in CPR! Anyway, that's\r\n"
+"me in a nutshell! Take it or leave it!"
+msgstr ""
+
+msgctxt "340"
+msgid "Approach Her"
+msgstr ""
+
+msgctxt "352"
+msgid "Hold That Thought"
+msgstr ""
+
+msgctxt "3628"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "3632"
+msgid "dummy"
+msgstr ""
+
+msgctxt "3636"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "3640"
+msgid "Woman"
+msgstr ""
+
+msgctxt "3644"
+msgid "Talk_Smile"
+msgstr ""

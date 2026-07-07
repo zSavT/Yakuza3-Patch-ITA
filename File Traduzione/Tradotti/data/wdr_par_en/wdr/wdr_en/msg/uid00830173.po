@@ -1,0 +1,418 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "260"
+msgid "Dammit... There's gotta be somebody here I can hire for a bodyguard."
+msgstr ""
+
+msgctxt "272"
+msgid "You're still here?"
+msgstr ""
+
+msgctxt "284"
+msgid ""
+"I'm so scared, I can't even move. You've gotta be my bodyguard, man! I'll "
+"pay you good for it!"
+msgstr ""
+
+msgctxt "296"
+msgid "Just take me to the nearest taxi!"
+msgstr ""
+
+msgctxt "308"
+msgid "Hmm..."
+msgstr ""
+
+msgctxt "320"
+msgid "I'm busy. You'll have to take care of it yourself."
+msgstr ""
+
+msgctxt "332"
+msgid "Dammit... What am I supposed to do now!?"
+msgstr ""
+
+msgctxt "344"
+msgid "Before I answer, how about you show me that lucky ticket of yours?"
+msgstr ""
+
+msgctxt "356"
+msgid "Well, for you I guess it's okay. Here it is."
+msgstr ""
+
+msgctxt "368"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "380"
+msgid "What's wrong?"
+msgstr ""
+
+msgctxt "392"
+msgid "The date's not right. This thing is from a month ago. Take a look."
+msgstr ""
+
+msgctxt "404"
+msgid "What!?"
+msgstr ""
+
+msgctxt "416"
+msgid "What the hell is this!?"
+msgstr ""
+
+msgctxt "428"
+msgid "You mean... I didn't actually win the 300,000,000 big ones...?"
+msgstr ""
+
+msgctxt "440"
+msgid "Sure seems that way."
+msgstr ""
+
+msgctxt "452"
+msgid "Aaah... Well, I'll be damned."
+msgstr ""
+
+msgctxt "464"
+msgid ""
+"But you know what, I actually feel a huge sense of relief. I was going a "
+"bit crazy when I thought I'd had all that money."
+msgstr ""
+
+msgctxt "476"
+msgid "Good thing I found out before I quit my job."
+msgstr ""
+
+msgctxt "488"
+msgid "Money makes me sick. I mean, I was acting like a raving lunatic."
+msgstr ""
+
+msgctxt "500"
+msgid ""
+"I imagine most people would go a little cuckoo if they thought they'd won "
+"that much."
+msgstr ""
+
+msgctxt "512"
+msgid ""
+"Sorry for putting you through all that drama. I can't even look at money "
+"right now. Please, take this."
+msgstr ""
+
+msgctxt "524"
+msgid "You got <Color:8>10,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "536"
+msgid "You sure about this?"
+msgstr ""
+
+msgctxt "548"
+msgid ""
+"Positive. I'm gonna walk home tonight and cool off in the fresh night "
+"air... So long, buddy."
+msgstr ""
+
+msgctxt "572"
+msgid "You got 2,000 EXP."
+msgstr ""
+
+msgctxt "620"
+msgid "Yeah, why not? I'll get you to a taxi."
+msgstr ""
+
+msgctxt "632"
+msgid "I can't thank you enough for this!"
+msgstr ""
+
+msgctxt "656"
+msgid "*pant* *pant*"
+msgstr ""
+
+msgctxt "668"
+msgid "Did that calm you down a bit?"
+msgstr ""
+
+msgctxt "680"
+msgid "*pant*"
+msgstr ""
+
+msgctxt "692"
+msgid " *cough* ...You know, I... I got the numbers..."
+msgstr ""
+
+msgctxt "704"
+msgid "What do you mean?"
+msgstr ""
+
+msgctxt "716"
+msgid "The lottery. I won the lottery."
+msgstr ""
+
+msgctxt "728"
+msgid "Oh, yeah? How much?"
+msgstr ""
+
+msgctxt "740"
+msgid "I won the big one. 300,000,000 yen."
+msgstr ""
+
+msgctxt "752"
+msgid "Wow... 300,000,000, eh?"
+msgstr ""
+
+msgctxt "764"
+msgid ""
+"But now everybody around me has this look in their eyes, like they wanna "
+"come take my winnings..."
+msgstr ""
+
+msgctxt "776"
+msgid ""
+"My paranoia won't go away until I exchange this damn ticket for money. I'd "
+"hire a bodyguard, but I'm flat broke right now."
+msgstr ""
+
+msgctxt "788"
+msgid "So that's what's got you so edgy."
+msgstr ""
+
+msgctxt "800"
+msgid "I've got it! You look like a solid guy, how about working as my bodyguard!?"
+msgstr ""
+
+msgctxt "812"
+msgid ""
+"I'll pay you a generous sum as soon as I get this ticket exchanged! You "
+"gotta help me, or I'm gonna keel over and die of paranoia!"
+msgstr ""
+
+msgctxt "824"
+msgid "Hmm..."
+msgstr ""
+
+msgctxt "836"
+msgid "I'm busy. You'll have to take care of it yourself."
+msgstr ""
+
+msgctxt "848"
+msgid "Dammit... What am I supposed to do now!?"
+msgstr ""
+
+msgctxt "860"
+msgid "Before I answer, how about you show me that lucky ticket of yours?"
+msgstr ""
+
+msgctxt "872"
+msgid "Well, for you I guess it's okay. Here it is."
+msgstr ""
+
+msgctxt "884"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "896"
+msgid "What's wrong?"
+msgstr ""
+
+msgctxt "908"
+msgid "The date's not right. This thing is from a month ago. Take a look."
+msgstr ""
+
+msgctxt "920"
+msgid "What!?"
+msgstr ""
+
+msgctxt "932"
+msgid "What the hell is this!?"
+msgstr ""
+
+msgctxt "944"
+msgid "You mean... I didn't actually win the 300,000,000 big ones...?"
+msgstr ""
+
+msgctxt "956"
+msgid "Sure seems that way."
+msgstr ""
+
+msgctxt "968"
+msgid "Aaah... Well, I'll be damned."
+msgstr ""
+
+msgctxt "980"
+msgid ""
+"But you know what, I actually feel a huge sense of relief. I was going a "
+"bit crazy when I thought I'd had all that money."
+msgstr ""
+
+msgctxt "992"
+msgid "Good thing I found out before I quit my job."
+msgstr ""
+
+msgctxt "1004"
+msgid "Money makes me sick. I mean, I was acting like a raving lunatic."
+msgstr ""
+
+msgctxt "1016"
+msgid ""
+"I imagine most people would go a little cuckoo if they thought they'd won "
+"that much."
+msgstr ""
+
+msgctxt "1028"
+msgid ""
+"Sorry for putting you through all that drama. I can't even look at money "
+"right now. Please, take this."
+msgstr ""
+
+msgctxt "1040"
+msgid "You got <Color:8>10,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "1052"
+msgid "You sure about this?"
+msgstr ""
+
+msgctxt "1064"
+msgid ""
+"Positive. I'm gonna walk home tonight and cool off in the fresh night "
+"air... So long, buddy."
+msgstr ""
+
+msgctxt "1088"
+msgid "You got 2,000 EXP."
+msgstr ""
+
+msgctxt "1136"
+msgid "Yeah, why not? I'll get you to a taxi."
+msgstr ""
+
+msgctxt "1148"
+msgid "I can't thank you enough for this!"
+msgstr ""
+
+msgctxt "1184"
+msgid ""
+"I can't trust anybody! They're all after me! Just look at all their evil "
+"eyes!"
+msgstr ""
+
+msgctxt "1196"
+msgid "What happened to you?"
+msgstr ""
+
+msgctxt "1208"
+msgid "Stay back! You're just like the others! You're after my money, aren't you!"
+msgstr ""
+
+msgctxt "1220"
+msgid "I don't know what you're talking about. Maybe just calm down a little."
+msgstr ""
+
+msgctxt "1232"
+msgid "Shut up! Stay back, or I'm gonna kill you!"
+msgstr ""
+
+msgctxt "1256"
+msgid "Agree"
+msgstr ""
+
+msgctxt "1268"
+msgid "Refuse"
+msgstr ""
+
+msgctxt "1280"
+msgid "Ask to See the Ticket"
+msgstr ""
+
+msgctxt "1292"
+msgid "Agree"
+msgstr ""
+
+msgctxt "1304"
+msgid "Refuse"
+msgstr ""
+
+msgctxt "1316"
+msgid "Ask to See the Ticket"
+msgstr ""
+
+msgctxt "11920"
+msgid "Big Winner"
+msgstr ""
+
+msgctxt "11924"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "11928"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "11932"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "11936"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "11940"
+msgid "Talk_Send"
+msgstr ""
+
+msgctxt "11944"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "11948"
+msgid "Big Winner?"
+msgstr ""
+
+msgctxt "11952"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "11956"
+msgid "dummy"
+msgstr ""
+
+msgctxt "11960"
+msgid "0"
+msgstr ""
+
+msgctxt "11964"
+msgid "Talk_Request"
+msgstr ""
+
+msgctxt "11968"
+msgid "Sketchy Man"
+msgstr ""
+
+msgctxt "11972"
+msgid "Talk_NoBig"
+msgstr ""
+
+msgctxt "11976"
+msgid "Talk_Kosite_st"
+msgstr ""
+
+msgctxt "11980"
+msgid "Talk_Kosite_ed"
+msgstr ""
+
+msgctxt "11984"
+msgid "M_nml_stand_tlk_kamae"
+msgstr ""
+
+msgctxt "11988"
+msgid "Talk_Odosu"
+msgstr ""

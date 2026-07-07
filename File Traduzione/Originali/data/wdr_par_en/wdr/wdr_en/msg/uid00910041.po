@@ -1,0 +1,184 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "80"
+msgid "Man, you're strong..."
+msgstr ""
+
+msgctxt "92"
+msgid "Sorry, but I won't be cold or lifeless anytime soon."
+msgstr ""
+
+msgctxt "104"
+msgid "Son of a bitch..."
+msgstr ""
+
+msgctxt "116"
+msgid "You're right. I have been watching from a distance."
+msgstr ""
+
+msgctxt "128"
+msgid "You're Ibuki?"
+msgstr ""
+
+msgctxt "140"
+msgid "But I'm doing my best to fight you guys in my own way."
+msgstr ""
+
+msgctxt "152"
+msgid ""
+"And I believe that someday, you'll come to understand us\r\n"
+"better..."
+msgstr ""
+
+msgctxt "164"
+msgid ""
+"But for now, I hope you'll give me a few minutes of your\r\n"
+"time and listen to what I have to say."
+msgstr ""
+
+msgctxt "176"
+msgid "Aw, son of a bitch..."
+msgstr ""
+
+msgctxt "188"
+msgid "Thank you, Kiryu-san. I'll take it from here."
+msgstr ""
+
+msgctxt "224"
+msgid ""
+"That's the hitman Sentetsu. I've heard he's a hot-blooded\r\n"
+"guy."
+msgstr ""
+
+msgctxt "236"
+msgid "I'll go check him out. Don't come out until it's over."
+msgstr ""
+
+msgctxt "248"
+msgid "Ibuki of the HLA! Get your ass out here!"
+msgstr ""
+
+msgctxt "260"
+msgid "What do you want with the HLA?"
+msgstr ""
+
+msgctxt "272"
+msgid "Are you Ibuki?"
+msgstr ""
+
+msgctxt "284"
+msgid ""
+"No, but if you've got business with the HLA, you can hash\r\n"
+"it out with me."
+msgstr ""
+
+msgctxt "296"
+msgid "This has nothing to do with you. Get Ibuki the fuck out here."
+msgstr ""
+
+msgctxt "308"
+msgid "What do you want with Ibuki?"
+msgstr ""
+
+msgctxt "320"
+msgid "I heard he hired some tough guy who's been after our men."
+msgstr ""
+
+msgctxt "332"
+msgid ""
+"The cowardly little bitch, watchin' from a distance like\r\n"
+"that! Figured I come beat his ass."
+msgstr ""
+
+msgctxt "344"
+msgid "I see."
+msgstr ""
+
+msgctxt "356"
+msgid "What if I told you I was the guy he hired?"
+msgstr ""
+
+msgctxt "368"
+msgid "......"
+msgstr ""
+
+msgctxt "380"
+msgid "Oh, really, now!?"
+msgstr ""
+
+msgctxt "392"
+msgid "Yeah, really."
+msgstr ""
+
+msgctxt "404"
+msgid "That makes it easier, then! I'll just kill you instead."
+msgstr ""
+
+msgctxt "416"
+msgid ""
+"As soon as I hand Ibuki your cold, lifeless body, he'll know\r\n"
+"not to meddle in our affairs ever again!"
+msgstr ""
+
+msgctxt "4476"
+msgid "Sentetsu"
+msgstr ""
+
+msgctxt "4480"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "4484"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "4488"
+msgid "Ibuki"
+msgstr ""
+
+msgctxt "4492"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "4496"
+msgid "M_ykzs_damage_tlk_kamae"
+msgstr ""
+
+msgctxt "4500"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "4504"
+msgid "Talk_Away"
+msgstr ""
+
+msgctxt "4508"
+msgid "Talk_Udekumi_st"
+msgstr ""
+
+msgctxt "4512"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "4516"
+msgid "Talk_Udekumi_ed"
+msgstr ""
+
+msgctxt "4520"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "4524"
+msgid "Talk_Smile"
+msgstr ""

@@ -1,0 +1,121 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "180"
+msgid ""
+"(...Hey, what about her? As far as being a hostess goes, she\r\n"
+"might be a good fit. Let's see here...)"
+msgstr ""
+
+msgctxt "204"
+msgid ""
+"(She appears to be a good conversationalist, and she's\r\n"
+"also pretty smart... but I don't think she's all that\r\n"
+"motivated as a person. Should I give her a chance?)"
+msgstr ""
+
+msgctxt "216"
+msgid "(On second thought... maybe not.)"
+msgstr ""
+
+msgctxt "240"
+msgid "(Okay, let's see what I can come up with...)"
+msgstr ""
+
+msgctxt "252"
+msgid "Hey there."
+msgstr ""
+
+msgctxt "264"
+msgid "\"Hey there\"? What, do I know you or something?"
+msgstr ""
+
+msgctxt "276"
+msgid ""
+"Not yet. But I feel like we've met somewhere before. Maybe\r\n"
+"in a dream or a past life... Perhaps fate drew us together."
+msgstr ""
+
+msgctxt "288"
+msgid ""
+"You are soooo not the type to be talking like that... But\r\n"
+"it is a little cute coming from a big guy like you."
+msgstr ""
+
+msgctxt "300"
+msgid ""
+"Thank you. To be frank, I'd like to introduce you to a job\r\n"
+"I feel you would excel at. Would you care to hear more?"
+msgstr ""
+
+msgctxt "312"
+msgid "What are you, some kind of cabaret club recruiter?"
+msgstr ""
+
+msgctxt "324"
+msgid ""
+"Yes, and I think you would make a fine hostess. Have you\r\n"
+"ever considered giving it a try?"
+msgstr ""
+
+msgctxt "336"
+msgid "Hmm... I don't know..."
+msgstr ""
+
+msgctxt "348"
+msgid "......"
+msgstr ""
+
+msgctxt "360"
+msgid ""
+"Oh, what the heck. Might as well give it a shot while I'm\r\n"
+"still young, right?"
+msgstr ""
+
+msgctxt "372"
+msgid ""
+"Definitely. Now please, allow me to show you to our club.\r\n"
+"My name is Kiryu, by the way."
+msgstr ""
+
+msgctxt "384"
+msgid "Cool. I'm Shoko, and I'm 22. It's a pleasure."
+msgstr ""
+
+msgctxt "408"
+msgid "Approach Her"
+msgstr ""
+
+msgctxt "420"
+msgid "Hold That Thought"
+msgstr ""
+
+msgctxt "3776"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "3780"
+msgid "dummy"
+msgstr ""
+
+msgctxt "3784"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "3788"
+msgid "Woman"
+msgstr ""
+
+msgctxt "3792"
+msgid "Talk_Smile"
+msgstr ""

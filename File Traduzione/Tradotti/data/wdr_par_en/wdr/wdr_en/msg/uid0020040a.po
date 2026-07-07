@@ -1,0 +1,59 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid "Now, in just a few seconds, the TGS introduction will begin."
+msgstr ""
+
+msgctxt "100"
+msgid "Hehehe! Curious, aren't ya?"
+msgstr ""
+
+msgctxt "136"
+msgid "What is this thing...?"
+msgstr ""
+
+msgctxt "160"
+msgid "This is my revolutionary invention, the IF7!"
+msgstr ""
+
+msgctxt "172"
+msgid ""
+"Now then, you're about to fight your inner demons using\r\n"
+"my revolutionary IF7 machine! Your mental fortitude will be\r\n"
+"the key! Got it?"
+msgstr ""
+
+msgctxt "184"
+msgid "Let the games begin! Hehehe..."
+msgstr ""
+
+msgctxt "1496"
+msgid "Elderly Man"
+msgstr ""
+
+msgctxt "1500"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1504"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "1508"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "1512"
+msgid "Talk_Yes"
+msgstr ""

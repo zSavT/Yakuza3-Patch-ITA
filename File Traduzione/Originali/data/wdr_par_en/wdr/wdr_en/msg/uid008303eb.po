@@ -1,0 +1,82 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "76"
+msgid ""
+"You better apologize to me, Kiryu-san. "
+"<Color:255,200,200,255>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "88"
+msgid "What for?"
+msgstr ""
+
+msgctxt "100"
+msgid ""
+"You never told me you were that... amazing. "
+"<Color:255,200,200,255>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "112"
+msgid "Oh... Well, sorry I never told you."
+msgstr ""
+
+msgctxt "124"
+msgid ""
+"Ahaha! <Color:255,200,200,255>⑮<Color:Default> I'm just glad I get to be "
+"with you, Kiryu-san. "
+"<Color:255,200,200,255>⑮<Color:Default><Color:255,200,200,255"
+">⑮<Color:Default><Color:255,200,200,255>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "136"
+msgid ""
+"Thanks for helping me out today! <Color:255,200,200,255>⑮<Color:Default> "
+"Come by the club to see me, okay? <Color:255,200,200,255>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "148"
+msgid "See you later! <Color:255,200,200,255>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "172"
+msgid "You got 5,000 EXP."
+msgstr ""
+
+msgctxt "2356"
+msgid "Yui"
+msgstr ""
+
+msgctxt "2360"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "2364"
+msgid "F_sxy_stand_sync_dakitukiA_ed"
+msgstr ""
+
+msgctxt "2368"
+msgid "P_stand_sync_dakitukiA_ed"
+msgstr ""
+
+msgctxt "2372"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "2376"
+msgid "dummy"
+msgstr ""
+
+msgctxt "2380"
+msgid "0"
+msgstr ""

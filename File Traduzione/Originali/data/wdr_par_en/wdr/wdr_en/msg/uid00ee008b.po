@@ -1,0 +1,717 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "552"
+msgid "Welcome. The fee is 1,000 yen for two people. Shall I show you to your room?"
+msgstr ""
+
+msgctxt "564"
+msgid "Yeah. I'm ready to sing."
+msgstr ""
+
+msgctxt "576"
+msgid "All right, then. Right this way, please."
+msgstr ""
+
+msgctxt "684"
+msgid "Thank you, sir. Please come again."
+msgstr ""
+
+msgctxt "708"
+msgid "Thank you, sir. Please come again."
+msgstr ""
+
+msgctxt "732"
+msgid "Hmm... For some reason, I wasn't singing my best today..."
+msgstr ""
+
+msgctxt "756"
+msgid "Hmm... For some reason, I wasn't singing my best today..."
+msgstr ""
+
+msgctxt "780"
+msgid "Thank you, sir. Please come again."
+msgstr ""
+
+msgctxt "804"
+msgid "That rocked! Thanks, Uncle Kaz!"
+msgstr ""
+
+msgctxt "816"
+msgid "(Haruka seems happy...)"
+msgstr ""
+
+msgctxt "840"
+msgid "That rocked! Thanks, Uncle Kaz!"
+msgstr ""
+
+msgctxt "852"
+msgid "(Haruka seems happy...)"
+msgstr ""
+
+msgctxt "924"
+msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
+msgstr ""
+
+msgctxt "936"
+msgid "You got <Color:8>Haruka's Necklace<Color:Default>."
+msgstr ""
+
+msgctxt "984"
+msgid ""
+"Thanks a ton, Uncle Kaz! I wanna come with you to play\r\n"
+"cho-han with you next time, okay?"
+msgstr ""
+
+msgctxt "996"
+msgid ""
+"Haruka will now occasionally predict the outcome of a round\r\n"
+"when you are playing cho-han."
+msgstr ""
+
+msgctxt "1032"
+msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
+msgstr ""
+
+msgctxt "1044"
+msgid "You got <Color:8>Haruka's Bento<Color:Default>."
+msgstr ""
+
+msgctxt "1092"
+msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
+msgstr ""
+
+msgctxt "1104"
+msgid "You got <Color:8>Haruka's First-Aid Kit<Color:Default>."
+msgstr ""
+
+msgctxt "1152"
+msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
+msgstr ""
+
+msgctxt "1164"
+msgid "You got a <Color:8>Red Jewel<Color:Default>."
+msgstr ""
+
+msgctxt "1212"
+msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
+msgstr ""
+
+msgctxt "1224"
+msgid "You got <Color:8>Haruka's Amulet<Color:Default>."
+msgstr ""
+
+msgctxt "1272"
+msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
+msgstr ""
+
+msgctxt "1284"
+msgid "You got <Color:8>Haruka's Chocolate<Color:Default>."
+msgstr ""
+
+msgctxt "1332"
+msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
+msgstr ""
+
+msgctxt "1344"
+msgid "You got <Color:8>Haruka's Candy<Color:Default>."
+msgstr ""
+
+msgctxt "1404"
+msgid "Thank you, sir. Please come again."
+msgstr ""
+
+msgctxt "1428"
+msgid "That was fun! <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "1440"
+msgid "Yeah..."
+msgstr ""
+
+msgctxt "1452"
+msgid ""
+"Let's hang out again soon. <Color:7>⑮<Color:Default> Bye, now! <Color:7> "
+"⑮<Color:Default>"
+msgstr ""
+
+msgctxt "1476"
+msgid "That was lots of fun! <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "1488"
+msgid "Yeah..."
+msgstr ""
+
+msgctxt "1500"
+msgid ""
+"Let's hang out again soon, yeah? <Color:7>⑮<Color:Default> See you! "
+"<Color:7> ⑮<Color:Default>"
+msgstr ""
+
+msgctxt "1524"
+msgid "I hope you had as much fun as I did, Kiryu-san. <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "1536"
+msgid "Yeah..."
+msgstr ""
+
+msgctxt "1548"
+msgid ""
+"We can do this again sometime, can't we? <Color:7>⑮<Color:Default> I'll be "
+"waiting to hear from you again. Bye! <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "1572"
+msgid "That was sooo much fun! <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "1584"
+msgid "Yeah..."
+msgstr ""
+
+msgctxt "1596"
+msgid ""
+"We so have to do this again. <Color:7>⑮<Color:Default> See you later! "
+"<Color:7> ⑮<Color:Default>"
+msgstr ""
+
+msgctxt "1620"
+msgid "I had a wonderful time. <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "1632"
+msgid "Yeah..."
+msgstr ""
+
+msgctxt "1644"
+msgid ""
+"I hope you'll invite me out again sometime. <Color:7>⑮<Color:Default> "
+"Thanks for today. <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "1668"
+msgid "That was fun. <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "1680"
+msgid "Yeah..."
+msgstr ""
+
+msgctxt "1692"
+msgid ""
+"Let's hang out again soon, 'kay? <Color:7>⑮<Color:Default> Bye bye! "
+"<Color:7> ⑮<Color:Default>"
+msgstr ""
+
+msgctxt "1716"
+msgid "That was super fun, Kiryu-san! <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "1728"
+msgid "Yeah..."
+msgstr ""
+
+msgctxt "1740"
+msgid ""
+"Don't forget to stop by the club sometime. <Color:7>⑮<Color:Default> See "
+"you later. <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "1764"
+msgid "Thank you, sir. Please come again."
+msgstr ""
+
+msgctxt "1788"
+msgid "Welcome. The fee is 500 yen for one person. Shall I show you to your room?"
+msgstr ""
+
+msgctxt "1800"
+msgid "Yeah. I'm ready to sing."
+msgstr ""
+
+msgctxt "1824"
+msgid "Of course. Right this way, please."
+msgstr ""
+
+msgctxt "1848"
+msgid "(I don't have enough money...)"
+msgstr ""
+
+msgctxt "1860"
+msgid "Um, maybe not right now."
+msgstr ""
+
+msgctxt "1872"
+msgid "Of course. Please come again."
+msgstr ""
+
+msgctxt "1896"
+msgid "I think I'll call someone to join me."
+msgstr ""
+
+msgctxt "1908"
+msgid "All right. That will be 1,000 yen for two."
+msgstr ""
+
+msgctxt "1932"
+msgid "Got it. Just give me a moment..."
+msgstr ""
+
+msgctxt "1944"
+msgid "Who are you going to call?"
+msgstr ""
+
+msgctxt "1956"
+msgid "(Let's see if Reimi's interested.)"
+msgstr ""
+
+msgctxt "2040"
+msgid ""
+"Sorry to keep you waiting! <Color:7>⑮<Color:Default> Okay, let's get this "
+"party started! ♪"
+msgstr ""
+
+msgctxt "2052"
+msgid "Thanks for coming."
+msgstr ""
+
+msgctxt "2064"
+msgid ""
+"Oh, Kiryu-san! <Color:7>⑮<Color:Default> I could never turn you down! "
+"<Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "2076"
+msgid "Right this way, please."
+msgstr ""
+
+msgctxt "2100"
+msgid "(Let's see if Rin's interested.)"
+msgstr ""
+
+msgctxt "2184"
+msgid ""
+"Hey, sorry to keep ya waitin'! <Color:7>⑮<Color:Default> I am hyped as hell "
+"to sing some karaoke! ♪"
+msgstr ""
+
+msgctxt "2196"
+msgid "Thanks for coming."
+msgstr ""
+
+msgctxt "2208"
+msgid ""
+"Are you kiddin'? Just say karaoke, and I'm there! <Color:7>⑮<Color:Default> "
+"I'm gonna sing my brains out!"
+msgstr ""
+
+msgctxt "2220"
+msgid "Right this way, please."
+msgstr ""
+
+msgctxt "2244"
+msgid "(Let's see if Kana's interested.)"
+msgstr ""
+
+msgctxt "2328"
+msgid ""
+"Hope I didn't keep you waiting too long, Kiryu-san. <Color:7> ⑮ "
+"<Color:Default> I kind of had to rush to get ready. Hehehe. "
+"<Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "2340"
+msgid "You sure your club won't mind?"
+msgstr ""
+
+msgctxt "2352"
+msgid "Hehehe. They won't notice if I'm not gone too long."
+msgstr ""
+
+msgctxt "2364"
+msgid "Besides, I was totally ready for a break. <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "2376"
+msgid "Right this way, please."
+msgstr ""
+
+msgctxt "2400"
+msgid "(Let's see if Ranko's still around.)"
+msgstr ""
+
+msgctxt "2484"
+msgid ""
+"Sorry if you waited long. <Color:7>⑮<Color:Default> Man, like, I can't "
+"believe you asked me out all of a sudden, Kiryu-san!"
+msgstr ""
+
+msgctxt "2496"
+msgid "How come you haven't left yet?"
+msgstr ""
+
+msgctxt "2508"
+msgid "I still have a ton of things to do before I head out to Istanbul."
+msgstr ""
+
+msgctxt "2520"
+msgid ""
+"I haven't been going out much lately, and I totally couldn't say no to a "
+"date with you, Kiryu-san. <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "2532"
+msgid "Right this way, please."
+msgstr ""
+
+msgctxt "2556"
+msgid "(I should give Miyu a try.)"
+msgstr ""
+
+msgctxt "2640"
+msgid "Teehee. I was just thinking about you, Kiryu-san. <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "2652"
+msgid "Thanks for coming."
+msgstr ""
+
+msgctxt "2664"
+msgid "Hehehe... Let's have some fun. <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "2676"
+msgid "Right this way, please."
+msgstr ""
+
+msgctxt "2700"
+msgid "(I'll see if Shiori's interested.)"
+msgstr ""
+
+msgctxt "2784"
+msgid ""
+"Hope you didn't wait too long. <Color:7>⑮<Color:Default> So what's with the "
+"sudden invite, Kiryu-san? Couldn't have planned ahead a bit?"
+msgstr ""
+
+msgctxt "2796"
+msgid "You okay to be here?"
+msgstr ""
+
+msgctxt "2808"
+msgid ""
+"Teehee. <Color:7>⑮<Color:Default> Oh, for sure. I just finished an "
+"after-hours date. I'm totally fine."
+msgstr ""
+
+msgctxt "2820"
+msgid "Anyway, let's do this!"
+msgstr ""
+
+msgctxt "2832"
+msgid "Right this way, please."
+msgstr ""
+
+msgctxt "2856"
+msgid "(I'll see if Yui's interested.)"
+msgstr ""
+
+msgctxt "2940"
+msgid "Thanks for waiting! <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "2952"
+msgid "Thanks for coming."
+msgstr ""
+
+msgctxt "2964"
+msgid ""
+"Hehehe!<Color:7> ⑮ <Color:Default>I can't turn down an invitation from you, "
+"Kiryu-san."
+msgstr ""
+
+msgctxt "2976"
+msgid "Now, let's go have some fun! ♪"
+msgstr ""
+
+msgctxt "2988"
+msgid "Right this way, please."
+msgstr ""
+
+msgctxt "3012"
+msgid ""
+"Welcome. The charge for two people is 1,000 yen. Shall I show you to your "
+"room?"
+msgstr ""
+
+msgctxt "3036"
+msgid "Uncle Kaz! I want to try to be a karaoke pro in the rankings!"
+msgstr ""
+
+msgctxt "3048"
+msgid ""
+"(Haruka wants me to cheer her on and help her reach \"Karaoke "
+"Professional\" in the rankings...)"
+msgstr ""
+
+msgctxt "3060"
+msgid "All right, let's sing."
+msgstr ""
+
+msgctxt "3084"
+msgid "(I don't have enough money...)"
+msgstr ""
+
+msgctxt "3096"
+msgid "Um, maybe not right now."
+msgstr ""
+
+msgctxt "3108"
+msgid "Of course. Please come again."
+msgstr ""
+
+msgctxt "3120"
+msgid "But I wanted to sing..."
+msgstr ""
+
+msgctxt "3132"
+msgid "Of course. Right this way, please."
+msgstr ""
+
+msgctxt "3144"
+msgid ""
+"All right! I'm going to sing my lungs out! You have to cheer me on, Uncle "
+"Kaz!"
+msgstr ""
+
+msgctxt "3168"
+msgid "Uncle Kaz! I want to try to be a karaoke king in the rankings!"
+msgstr ""
+
+msgctxt "3180"
+msgid ""
+"(Haruka wants me to cheer her on and help her reach \"Karaoke King\" in the "
+"rankings...)"
+msgstr ""
+
+msgctxt "3192"
+msgid "All right, let's sing."
+msgstr ""
+
+msgctxt "3216"
+msgid "(I don't have enough money...)"
+msgstr ""
+
+msgctxt "3228"
+msgid "Um, maybe not right now."
+msgstr ""
+
+msgctxt "3240"
+msgid "Of course. Please come again."
+msgstr ""
+
+msgctxt "3252"
+msgid "But I wanted to sing..."
+msgstr ""
+
+msgctxt "3264"
+msgid "Of course. Right this way, please."
+msgstr ""
+
+msgctxt "3276"
+msgid ""
+"All right! I'm going to sing my lungs out! You have to cheer me on, Uncle "
+"Kaz!"
+msgstr ""
+
+msgctxt "3336"
+msgid "Welcome. The fee is 1,000 yen for two people. Shall I show you to your room?"
+msgstr ""
+
+msgctxt "3348"
+msgid "All right, let's sing."
+msgstr ""
+
+msgctxt "3372"
+msgid "Of course. Right this way, please."
+msgstr ""
+
+msgctxt "3396"
+msgid "Welcome. The fee is 500 yen for one person. Shall I show you to your room?"
+msgstr ""
+
+msgctxt "3408"
+msgid "All right, let's sing."
+msgstr ""
+
+msgctxt "3432"
+msgid "Of course. Right this way, please."
+msgstr ""
+
+msgctxt "3456"
+msgid "(I don't have enough money...)"
+msgstr ""
+
+msgctxt "3468"
+msgid "Um, maybe not right now."
+msgstr ""
+
+msgctxt "3480"
+msgid "Of course. Please come again."
+msgstr ""
+
+msgctxt "3504"
+msgid "Sing Alone"
+msgstr ""
+
+msgctxt "3516"
+msgid "Call a Date to Sing with"
+msgstr ""
+
+msgctxt "3528"
+msgid "Not Now"
+msgstr ""
+
+msgctxt "3540"
+msgid "Reimi Hanayama"
+msgstr ""
+
+msgctxt "3552"
+msgid "Rin Sasaba"
+msgstr ""
+
+msgctxt "3564"
+msgid "Kana Momonogi"
+msgstr ""
+
+msgctxt "3576"
+msgid "Ranko Yazuki"
+msgstr ""
+
+msgctxt "3588"
+msgid "Miyu Shiraboshi"
+msgstr ""
+
+msgctxt "3600"
+msgid "Shiori Nagamori"
+msgstr ""
+
+msgctxt "3612"
+msgid "Yui Hatano"
+msgstr ""
+
+msgctxt "3624"
+msgid "Play"
+msgstr ""
+
+msgctxt "3636"
+msgid "Don't Play"
+msgstr ""
+
+msgctxt "3648"
+msgid "Play"
+msgstr ""
+
+msgctxt "3660"
+msgid "Don't Play"
+msgstr ""
+
+msgctxt "3672"
+msgid "Sing"
+msgstr ""
+
+msgctxt "3684"
+msgid "Not Now"
+msgstr ""
+
+msgctxt "3696"
+msgid "Sing"
+msgstr ""
+
+msgctxt "3708"
+msgid "Not Now"
+msgstr ""
+
+msgctxt "31308"
+msgid "Employee"
+msgstr ""
+
+msgctxt "31312"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "31316"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "31320"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "31324"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "31328"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "31332"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "31336"
+msgid "Reimi"
+msgstr ""
+
+msgctxt "31340"
+msgid "Rin"
+msgstr ""
+
+msgctxt "31344"
+msgid "Kana"
+msgstr ""
+
+msgctxt "31348"
+msgid "Ranko"
+msgstr ""
+
+msgctxt "31352"
+msgid "Miyu"
+msgstr ""
+
+msgctxt "31356"
+msgid "Shiori"
+msgstr ""
+
+msgctxt "31360"
+msgid "Yui"
+msgstr ""
+
+msgctxt "31364"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "31368"
+msgid "Talk_Phone_st"
+msgstr ""
+
+msgctxt "31372"
+msgid "Talk_Kamae"
+msgstr ""
+
+msgctxt "31376"
+msgid "HAL_stand_tlk_happy_small"
+msgstr ""

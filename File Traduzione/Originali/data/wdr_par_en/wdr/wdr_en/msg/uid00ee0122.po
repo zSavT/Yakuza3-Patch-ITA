@@ -1,0 +1,157 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "204"
+msgid ""
+"Oh! Kiryu-san. Long time no see. I guess you found out about my store "
+"somehow..."
+msgstr ""
+
+msgctxt "216"
+msgid ""
+"<Color:7>Renji Kamiyama<Color:Default>\r\n"
+"Resident of Kamurocho who Kiryu met by chance two years ago. Sells rare "
+"martial arts videos and handmade weapons. Good friends with Majima."
+msgstr ""
+
+msgctxt "228"
+msgid "Yeah. Your brother emailed me about you."
+msgstr ""
+
+msgctxt "240"
+msgid "My brother? You mean Renta?"
+msgstr ""
+
+msgctxt "252"
+msgid "Yeah, and I also met your master, Yonashiro."
+msgstr ""
+
+msgctxt "264"
+msgid "You met Yona-san, too!? Sheesh, my life's like an open book to you."
+msgstr ""
+
+msgctxt "276"
+msgid "Huh? Is something wrong?"
+msgstr ""
+
+msgctxt "288"
+msgid ""
+"No, it's just, I'm the kind of guy who likes to keep personal information "
+"like that private. Never mind about me, though."
+msgstr ""
+
+msgctxt "300"
+msgid "All right..."
+msgstr ""
+
+msgctxt "312"
+msgid ""
+"Anyway, I have to say you still look like you could kick some serious ass. "
+"How about buying something to ramp up the ass-kicking level?"
+msgstr ""
+
+msgctxt "324"
+msgid ""
+"I have some of the same stuff as over at Renta's place, and even some stuff "
+"he doesn't have."
+msgstr ""
+
+msgctxt "336"
+msgid "You can modify your weapons, gear, and accessories here."
+msgstr ""
+
+msgctxt "348"
+msgid ""
+"Start by getting all the required items.\r\n"
+"Then, make a selection on the Mod menu to modify equipped items.\r\n"
+"\r\n"
+"You will need a <Color:255,255,0,255>design from a book or "
+"DVD<Color:Default>,\r\n"
+"a <Color:255,255,0,255>weapon or piece of equipment<Color:Default> to  "
+"mod,\r\n"
+"<Color:255,255,0,255>materials<Color:Default> with which to complete the "
+"mod,\r\n"
+"and the <Color:255,255,0,255>funds<Color:Default> to cover Kamiyama's costs."
+msgstr ""
+
+msgctxt "360"
+msgid ""
+"Check the required weapons and materials by displaying the Pause Menu and "
+"then going to \"Designs\" under \"Valuables\" in the Items screen."
+msgstr ""
+
+msgctxt "372"
+msgid ""
+"In addition to modding, I also make my own equipment. I'll show it to you, "
+"if you want."
+msgstr ""
+
+msgctxt "396"
+msgid "Hey, there. What can I do for you today?"
+msgstr ""
+
+msgctxt "492"
+msgid "All right, then. Maybe next time."
+msgstr ""
+
+msgctxt "504"
+msgid "Mod Weapons"
+msgstr ""
+
+msgctxt "516"
+msgid "Mod Gear or Accessories"
+msgstr ""
+
+msgctxt "528"
+msgid "Repair Weapons"
+msgstr ""
+
+msgctxt "540"
+msgid "Reload Ammo"
+msgstr ""
+
+msgctxt "552"
+msgid "View Designs"
+msgstr ""
+
+msgctxt "564"
+msgid "Buy Equipment/Designs"
+msgstr ""
+
+msgctxt "576"
+msgid "Never Mind"
+msgstr ""
+
+msgctxt "5212"
+msgid "Kamiyama"
+msgstr ""
+
+msgctxt "5216"
+msgid "Renji Kamiyama"
+msgstr ""
+
+msgctxt "5220"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "5224"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "5228"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "5232"
+msgid "Equipment Modding"
+msgstr ""

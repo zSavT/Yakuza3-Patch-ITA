@@ -1,0 +1,50 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "160"
+msgid "Hold it... Don't think an amateur like you can trick me."
+msgstr ""
+
+msgctxt "172"
+msgid "Nice try... but there's no way that's gonna work on me."
+msgstr ""
+
+msgctxt "184"
+msgid "Heh... Fine."
+msgstr ""
+
+msgctxt "196"
+msgid "......"
+msgstr ""
+
+msgctxt "208"
+msgid ""
+"\r\n"
+"(He's really not budging. Maybe I was wrong?)"
+msgstr ""
+
+msgctxt "220"
+msgid "(Haruka says it'll be even... What should I do?)"
+msgstr ""
+
+msgctxt "232"
+msgid "(Haruka says it'll be odd... What should I do?)"
+msgstr ""
+
+msgctxt "244"
+msgid "(I'm all spent out.)"
+msgstr ""
+
+msgctxt "936"
+msgid "Kiryu"
+msgstr ""

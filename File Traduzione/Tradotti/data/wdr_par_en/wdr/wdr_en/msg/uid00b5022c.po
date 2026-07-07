@@ -1,0 +1,78 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "136"
+msgid ""
+"Hey, you're that fella from a little bit ago. I've been walkin' around this "
+"city, but I can't figure out what's what..."
+msgstr ""
+
+msgctxt "148"
+msgid "Think you could show me around a little?"
+msgstr ""
+
+msgctxt "160"
+msgid "Sorry. I've got things to do."
+msgstr ""
+
+msgctxt "172"
+msgid ""
+"Hey, I understand... Maybe I'll figure out where I am eventually. Might be "
+"a while off, though..."
+msgstr ""
+
+msgctxt "184"
+msgid "Sure thing. I'll show you around."
+msgstr ""
+
+msgctxt "196"
+msgid "I appreciate that. I don't even know any good places to eat here anymore."
+msgstr ""
+
+msgctxt "208"
+msgid "So... anywhere you wanna go?"
+msgstr ""
+
+msgctxt "220"
+msgid ""
+"I wanna check out that humongous building. It wasn't even built when I was "
+"here last."
+msgstr ""
+
+msgctxt "232"
+msgid "The Millennium Tower? Sure, let's go take a look."
+msgstr ""
+
+msgctxt "280"
+msgid "Show Him Around Kamurocho"
+msgstr ""
+
+msgctxt "292"
+msgid "Leave Him Here"
+msgstr ""
+
+msgctxt "1900"
+msgid "Tatsumi"
+msgstr ""
+
+msgctxt "1904"
+msgid "Talk_Request"
+msgstr ""
+
+msgctxt "1908"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1912"
+msgid "Talk_Quest"
+msgstr ""

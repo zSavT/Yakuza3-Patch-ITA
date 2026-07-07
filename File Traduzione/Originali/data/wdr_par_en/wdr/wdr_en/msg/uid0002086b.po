@@ -1,0 +1,96 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "180"
+msgid "Are you going out with Uncle Rikiya? Okay, see you later!"
+msgstr ""
+
+msgctxt "192"
+msgid "Going somewhere, Uncle Kaz?"
+msgstr ""
+
+msgctxt "204"
+msgid "Looks like it, yeah."
+msgstr ""
+
+msgctxt "216"
+msgid "I wanna go, too! Can I come with you?"
+msgstr ""
+
+msgctxt "228"
+msgid "Sorry, Haruka. Not this time."
+msgstr ""
+
+msgctxt "240"
+msgid "Oh... Then promise you'll take me next time!"
+msgstr ""
+
+msgctxt "252"
+msgid "All right, sure."
+msgstr ""
+
+msgctxt "264"
+msgid "Hurray! So where're we going?"
+msgstr ""
+
+msgctxt "312"
+msgid "Sorry, not this time."
+msgstr ""
+
+msgctxt "324"
+msgid "All right, sure."
+msgstr ""
+
+msgctxt "1828"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "1832"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "1836"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "1840"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1844"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "1848"
+msgid "Talk_Request"
+msgstr ""
+
+msgctxt "1852"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "1856"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "1860"
+msgid "Talk_Kansin"
+msgstr ""
+
+msgctxt "1864"
+msgid "dummy"
+msgstr ""
+
+msgctxt "1868"
+msgid "0"
+msgstr ""

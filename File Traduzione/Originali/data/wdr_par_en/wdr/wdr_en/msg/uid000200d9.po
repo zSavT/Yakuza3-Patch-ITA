@@ -1,0 +1,176 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "108"
+msgid "Majima's over in <Color:7>Purgatory<Color:Default> like always."
+msgstr ""
+
+msgctxt "120"
+msgid ""
+"Way in hasn't changed either. It's still just the "
+"<Color:7>bathroom<Color:Default>\r\n"
+"in the park."
+msgstr ""
+
+msgctxt "132"
+msgid "And Kiryu? Promise me you won't let your guard down."
+msgstr ""
+
+msgctxt "156"
+msgid ""
+"Have to say, I never thought Majima would be mixed up in all\r\n"
+"this. Even with his reputation."
+msgstr ""
+
+msgctxt "168"
+msgid "Yeah."
+msgstr ""
+
+msgctxt "180"
+msgid ""
+"Not sure if he's the one leading the charge, but he's\r\n"
+"definitely involved. You think maybe he shot Daigo and\r\n"
+"Kashiwagi?"
+msgstr ""
+
+msgctxt "192"
+msgid "No. There's no chance."
+msgstr ""
+
+msgctxt "204"
+msgid ""
+"Look, Kiryu. I know you two are pals and all, but a yakuza\r\n"
+"who's your friend is still a yakuza. And Majima especially.\r\n"
+"Let that dog off his leash and who knows what'll happen."
+msgstr ""
+
+msgctxt "216"
+msgid "You're wrong. Majima-san promised me he'd look after Daigo."
+msgstr ""
+
+msgctxt "228"
+msgid "And he's not the promise breaking type. I trust him."
+msgstr ""
+
+msgctxt "240"
+msgid "I get how you feel, I really do."
+msgstr ""
+
+msgctxt "252"
+msgid "But what if you're wrong? What if Majima really is behind all this?"
+msgstr ""
+
+msgctxt "264"
+msgid "If that's the case..."
+msgstr ""
+
+msgctxt "276"
+msgid "Then I'll have no choice but to kill him."
+msgstr ""
+
+msgctxt "288"
+msgid "Kiryu..."
+msgstr ""
+
+msgctxt "324"
+msgid "I'm gonna go talk to him."
+msgstr ""
+
+msgctxt "336"
+msgid "Hold on, Kiryu! We don't know whose side he's on!"
+msgstr ""
+
+msgctxt "348"
+msgid "That's exactly why I need to go."
+msgstr ""
+
+msgctxt "360"
+msgid "I have a lot of questions, and Majima-san's going to answer them."
+msgstr ""
+
+msgctxt "372"
+msgid "Kiryu..."
+msgstr ""
+
+msgctxt "384"
+msgid "Is he still over in <Color:7>Purgatory<Color:Default>?"
+msgstr ""
+
+msgctxt "396"
+msgid ""
+"Yup, family headquarters hasn't moved an inch. Still looks\r\n"
+"like nothing more than an empty lot, though."
+msgstr ""
+
+msgctxt "408"
+msgid ""
+"Oh, and the way in's the same, too. Through the "
+"<Color:7>bathroom<Color:Default> in\r\n"
+"the park, just like always."
+msgstr ""
+
+msgctxt "420"
+msgid "Got it."
+msgstr ""
+
+msgctxt "432"
+msgid "And Kiryu? Promise me you won't let your guard down."
+msgstr ""
+
+msgctxt "444"
+msgid "I promise."
+msgstr ""
+
+msgctxt "5820"
+msgid "Date"
+msgstr ""
+
+msgctxt "5824"
+msgid "M_nml_sitcntR"
+msgstr ""
+
+msgctxt "5828"
+msgid "Idle"
+msgstr ""
+
+msgctxt "5832"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "5836"
+msgid "M_nml_sitcntR_tlk_yes"
+msgstr ""
+
+msgctxt "5840"
+msgid "P_stand"
+msgstr ""
+
+msgctxt "5844"
+msgid "M_nml_stand"
+msgstr ""
+
+msgctxt "5848"
+msgid "0"
+msgstr ""
+
+msgctxt "5852"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "5856"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "5860"
+msgid "dummy"
+msgstr ""

@@ -1,0 +1,320 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "380"
+msgid "(No time for this right now...)"
+msgstr ""
+
+msgctxt "404"
+msgid "What took you so long, Uncle Kaz? I was getting tired of waiting..."
+msgstr ""
+
+msgctxt "416"
+msgid "The hell took so long, Aniki? Let's get movin'."
+msgstr ""
+
+msgctxt "428"
+msgid ""
+"You got that out of your system? Good. Let's get back on\r\n"
+"the case."
+msgstr ""
+
+msgctxt "452"
+msgid ""
+"Evening, friends! What do you say to a bikini bar? We got\r\n"
+"babes, we got booze, we got everything a guy could need!"
+msgstr ""
+
+msgctxt "464"
+msgid "Oh man, I've always wanted to check one of these things out!"
+msgstr ""
+
+msgctxt "476"
+msgid "(...What should we do?)"
+msgstr ""
+
+msgctxt "488"
+msgid "Let's do this later, Rikiya."
+msgstr ""
+
+msgctxt "500"
+msgid "If you say so, Aniki! You're the boss!"
+msgstr ""
+
+msgctxt "512"
+msgid "All right, let's take a look."
+msgstr ""
+
+msgctxt "524"
+msgid "Yesss! You're the best, Aniki!"
+msgstr ""
+
+msgctxt "536"
+msgid "Party of two, right this way!"
+msgstr ""
+
+msgctxt "560"
+msgid ""
+"Hey there, tough guy. What do you say to a bikini bar?\r\n"
+"Only 3,000 yen to satisfy all your wildest fantasies!"
+msgstr ""
+
+msgctxt "596"
+msgid "Are you... going in there, Uncle Kaz?"
+msgstr ""
+
+msgctxt "608"
+msgid "(Shoot, I forgot Haruka was with me! What now!?)"
+msgstr ""
+
+msgctxt "620"
+msgid ""
+"Yeah, sorry. Think you can be a big girl and wait here while\r\n"
+"I'm gone?"
+msgstr ""
+
+msgctxt "632"
+msgid "...Okay. Have fun, Uncle Kaz."
+msgstr ""
+
+msgctxt "644"
+msgid "No, I'm okay."
+msgstr ""
+
+msgctxt "656"
+msgid "Really? I don't mind."
+msgstr ""
+
+msgctxt "668"
+msgid "We, uh... goin' in, Aniki?"
+msgstr ""
+
+msgctxt "680"
+msgid "(Shoot, I forgot Rikiya was with me! What now!?)"
+msgstr ""
+
+msgctxt "692"
+msgid "Yeah, you wanna come?"
+msgstr ""
+
+msgctxt "704"
+msgid ""
+"Nah, I'm not really in the mood. I'll be chillin' out here\r\n"
+"when you're done, though. Later, Aniki."
+msgstr ""
+
+msgctxt "716"
+msgid "Nah, it can wait."
+msgstr ""
+
+msgctxt "728"
+msgid "Huh? Changed your mind?"
+msgstr ""
+
+msgctxt "740"
+msgid "Hold on, Kiryu. You're not going in there, are you?"
+msgstr ""
+
+msgctxt "752"
+msgid "(Shoot, I forgot Date-san was with me! What now!?)"
+msgstr ""
+
+msgctxt "764"
+msgid "Of course I am. Want to join me, Date-san?"
+msgstr ""
+
+msgctxt "776"
+msgid ""
+"...Nah, I'm good. But you go ahead. Who am I to get in the\r\n"
+"way of a man and his pleasure?"
+msgstr ""
+
+msgctxt "788"
+msgid "No, I'm okay."
+msgstr ""
+
+msgctxt "800"
+msgid "You sure? I'm cool with you going in."
+msgstr ""
+
+msgctxt "812"
+msgid ""
+"You're kinda... short on cash there, pal. Come back when you\r\n"
+"have a few more stacks in your wallet!"
+msgstr ""
+
+msgctxt "824"
+msgid ""
+"Not in the mood, huh? Too bad. Come back when you're up for\r\n"
+"some Tokyo titties, okay?"
+msgstr ""
+
+msgctxt "836"
+msgid "Right this way, sir!"
+msgstr ""
+
+msgctxt "860"
+msgid "(Asia can wait. I need to get after that bag snatcher.)"
+msgstr ""
+
+msgctxt "884"
+msgid "Hm? Are you the man from the Dragon Palace?"
+msgstr ""
+
+msgctxt "896"
+msgid "Yeah, I got your message."
+msgstr ""
+
+msgctxt "908"
+msgid ""
+"Great. There's a strange man in here waving weapons around\r\n"
+"and refusing to answer us when we speak to him."
+msgstr ""
+
+msgctxt "920"
+msgid "Hopefully you can take care of him for us..."
+msgstr ""
+
+msgctxt "944"
+msgid "Please do something about that weirdo!"
+msgstr ""
+
+msgctxt "956"
+msgid ""
+"We can't let customers in and risk exposing them to that\r\n"
+"awful nutjob of a human being."
+msgstr ""
+
+msgctxt "968"
+msgid "All right, I'm going. Wish me luck."
+msgstr ""
+
+msgctxt "980"
+msgid ""
+"Of course! I'll wish you all the luck you need if it means\r\n"
+"getting rid of him!"
+msgstr ""
+
+msgctxt "1004"
+msgid ""
+"Hey there, tough guy. What do you say to a bikini bar?\r\n"
+"Only 3,000 yen to satisfy all your wildest fantasies!"
+msgstr ""
+
+msgctxt "1028"
+msgid "Right this way, sir!"
+msgstr ""
+
+msgctxt "1052"
+msgid ""
+"You're kinda... short on cash there, pal. Come back when you\r\n"
+"have a few more stacks in your wallet!"
+msgstr ""
+
+msgctxt "1064"
+msgid ""
+"Not in the mood, huh? Too bad. Come back when you're up for\r\n"
+"some Tokyo titties, okay?"
+msgstr ""
+
+msgctxt "1076"
+msgid "Leave For Now"
+msgstr ""
+
+msgctxt "1088"
+msgid "Check It Out"
+msgstr ""
+
+msgctxt "1100"
+msgid "Go In Anyway"
+msgstr ""
+
+msgctxt "1112"
+msgid "Forget It"
+msgstr ""
+
+msgctxt "1124"
+msgid "Go In Anyway"
+msgstr ""
+
+msgctxt "1136"
+msgid "Forget It"
+msgstr ""
+
+msgctxt "1148"
+msgid "Go In Anyway"
+msgstr ""
+
+msgctxt "1160"
+msgid "Forget It"
+msgstr ""
+
+msgctxt "1172"
+msgid "Check It Out"
+msgstr ""
+
+msgctxt "1184"
+msgid "Not Now"
+msgstr ""
+
+msgctxt "9588"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "9592"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "9596"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "9600"
+msgid "Rikiya"
+msgstr ""
+
+msgctxt "9604"
+msgid "Date"
+msgstr ""
+
+msgctxt "9608"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "9612"
+msgid "Barker"
+msgstr ""
+
+msgctxt "9616"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "9620"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "9624"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "9628"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "9632"
+msgid "Attendant"
+msgstr ""
+
+msgctxt "9636"
+msgid "Talk_Quest"
+msgstr ""

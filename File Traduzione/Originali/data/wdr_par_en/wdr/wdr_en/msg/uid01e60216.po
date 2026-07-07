@@ -1,0 +1,42 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid "Dude, I'm so loaded!"
+msgstr ""
+
+msgctxt "76"
+msgid "This is rad!"
+msgstr ""
+
+msgctxt "88"
+msgid ""
+"(I just heard Motoyama's voice, but I don't see him around\r\n"
+"the entrance.)"
+msgstr ""
+
+msgctxt "100"
+msgid "(Maybe I'll look around a little more.)"
+msgstr ""
+
+msgctxt "500"
+msgid "Motoyama"
+msgstr ""
+
+msgctxt "504"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "508"
+msgid "Talk_Think"
+msgstr ""

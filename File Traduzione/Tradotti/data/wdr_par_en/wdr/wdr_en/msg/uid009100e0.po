@@ -1,0 +1,570 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "680"
+msgid "Hey, Kiryu-san. What's going on?"
+msgstr ""
+
+msgctxt "692"
+msgid ""
+"I'm looking for somebody. All I know is he's been seen on Taihei Boulevard "
+"East."
+msgstr ""
+
+msgctxt "704"
+msgid "You're talking about a pretty large area."
+msgstr ""
+
+msgctxt "716"
+msgid ""
+"And one of the most dangerous, too⑬especially around the deserted parking "
+"lot by the entrance to the Champion District."
+msgstr ""
+
+msgctxt "728"
+msgid "(Sounds like I'm going to have to check out this deserted parking lot.)"
+msgstr ""
+
+msgctxt "752"
+msgid "Hey, Kiryu-san. How's it going?"
+msgstr ""
+
+msgctxt "764"
+msgid ""
+"Hey. I've heard some dangerous guys have been seen lately in West Park. You "
+"know anything about that?"
+msgstr ""
+
+msgctxt "776"
+msgid "West Park? Oh, that small park by Purgatory?"
+msgstr ""
+
+msgctxt "788"
+msgid ""
+"That park's not the only place. Kamurocho's full of those dangerous types. "
+"You could probably pass for one."
+msgstr ""
+
+msgctxt "800"
+msgid "Anyway, we'd better be careful, especially at night."
+msgstr ""
+
+msgctxt "824"
+msgid "Oh, hey, Kiryu-san. Here you are again."
+msgstr ""
+
+msgctxt "836"
+msgid "Hey. You're always here, too, huh?"
+msgstr ""
+
+msgctxt "848"
+msgid "Not always. I like to get around and have fun, too, you know."
+msgstr ""
+
+msgctxt "860"
+msgid ""
+"I actually went bowling the other day, but I was surprised about how many "
+"older people were there."
+msgstr ""
+
+msgctxt "872"
+msgid ""
+"I didn't know so many middle-aged people played. It was a bit of a shock, "
+"really."
+msgstr ""
+
+msgctxt "884"
+msgid "(So older people wouldn't look out of place in a bowling alley, then..)"
+msgstr ""
+
+msgctxt "908"
+msgid ""
+"(So only people authorized by the Kazama Family have access to the "
+"Millennium Tower roof...)"
+msgstr ""
+
+msgctxt "920"
+msgid ""
+"(The HLA is under the Kazama Family's control... I'll try talking to one of "
+"Ibuki's men.)"
+msgstr ""
+
+msgctxt "932"
+msgid "Oh, hey, Kiryu-san."
+msgstr ""
+
+msgctxt "944"
+msgid "Hey, I'm looking for a place where I can get a panoramic view of the city."
+msgstr ""
+
+msgctxt "956"
+msgid "A panoramic view? Planning a hot date?"
+msgstr ""
+
+msgctxt "968"
+msgid ""
+"In any case, the roof of the Millennium Tower would give you a real nice "
+"view."
+msgstr ""
+
+msgctxt "980"
+msgid "The roof of the Millennium Tower... of course."
+msgstr ""
+
+msgctxt "992"
+msgid ""
+"(I doubt Shu could hit anybody in the city from way up on the Millennium "
+"Tower roof. I don't care how good of a sniper he is...)"
+msgstr ""
+
+msgctxt "1004"
+msgid "But if I'm remembering right, access to the roof is usually closed off."
+msgstr ""
+
+msgctxt "1016"
+msgid ""
+"The Kazama Family Office is on the top floor, and they don't allow "
+"unauthorized people up there."
+msgstr ""
+
+msgctxt "1028"
+msgid ""
+"(The HLA is under the Kazama Family's control... I'll try talking to one of "
+"Ibuki's men.)"
+msgstr ""
+
+msgctxt "1040"
+msgid "Well, sorry to bother you."
+msgstr ""
+
+msgctxt "1088"
+msgid "Oh, hey, Kiryu-san. Looking for somebody again?"
+msgstr ""
+
+msgctxt "1100"
+msgid "Yeah, something like that. Have you ever been to Public Park 3?"
+msgstr ""
+
+msgctxt "1112"
+msgid "How old do you think I am? You think I hang out at parks?"
+msgstr ""
+
+msgctxt "1124"
+msgid "That place is crawling with kids. Wouldn't go near it if you paid me."
+msgstr ""
+
+msgctxt "1136"
+msgid ""
+"(The Reaper Hasutani seems to be operating in the park... but how can he do "
+"what he does with kids around?)"
+msgstr ""
+
+msgctxt "1160"
+msgid ""
+"Kiryu-san, there you are again! You must have an awful lot of time on your "
+"hands."
+msgstr ""
+
+msgctxt "1172"
+msgid "Not as much as you."
+msgstr ""
+
+msgctxt "1184"
+msgid "Touché. But hey, it could always be worse."
+msgstr ""
+
+msgctxt "1196"
+msgid ""
+"What about all those lazy-ass dudes who do nothing but chill in front of "
+"the theater all the time?"
+msgstr ""
+
+msgctxt "1208"
+msgid ""
+"Sometimes I even see those tough wannabe thugs over there. It's pretty "
+"funny."
+msgstr ""
+
+msgctxt "1220"
+msgid "(Thugs hanging out in front of the theater? I bet they're easy to spot.)"
+msgstr ""
+
+msgctxt "1244"
+msgid "Oh, hey, Kiryu-san. I've got something to tell you."
+msgstr ""
+
+msgctxt "1256"
+msgid ""
+"Man came by on his way back from the bathhouse. Said there were all these "
+"shady guys on Park Boulevard, and they were up to something."
+msgstr ""
+
+msgctxt "1268"
+msgid ""
+"Maybe this guy was dizzy from staying in the bath too long or something, "
+"but he couldn't really tell me what exactly happened."
+msgstr ""
+
+msgctxt "1280"
+msgid "But nothing out of the ordinary for this city, I guess."
+msgstr ""
+
+msgctxt "1292"
+msgid ""
+"(Sounds like something went down somewhere around the bathhouse on Park "
+"Boulevard.)"
+msgstr ""
+
+msgctxt "1304"
+msgid "(Maybe it has something to do with the hitman Zen. I should check it out...)"
+msgstr ""
+
+msgctxt "1328"
+msgid "Oh, hey, Kiryu-san."
+msgstr ""
+
+msgctxt "1340"
+msgid "Hey. What would you say is the most deserted place in this city?"
+msgstr ""
+
+msgctxt "1352"
+msgid ""
+"Y'know that's a really suspicious question right? I know you're a good guy, "
+"though."
+msgstr ""
+
+msgctxt "1364"
+msgid ""
+"I'd say it gets pretty deserted as soon as you go north of Shichifuku "
+"Street."
+msgstr ""
+
+msgctxt "1376"
+msgid ""
+"Especially back behind the Yoshida Batting Center. It's so deserted, it's "
+"like the place is haunted."
+msgstr ""
+
+msgctxt "1388"
+msgid ""
+"(Behind Yoshida Batting Center... There's a construction site around "
+"there...)"
+msgstr ""
+
+msgctxt "1412"
+msgid "Oh, hey, Kiryu-san. You come here a lot, now, don't you?"
+msgstr ""
+
+msgctxt "1424"
+msgid "Now that you mention it, how come you're always here playing?"
+msgstr ""
+
+msgctxt "1436"
+msgid "Well, the Millennium Tower is kind of like the symbol of Kamurocho."
+msgstr ""
+
+msgctxt "1448"
+msgid "A lot of tourists come to see it, too."
+msgstr ""
+
+msgctxt "1460"
+msgid ""
+"They even stop to listen to my songs. I guess I'm part of the local "
+"\"color.\""
+msgstr ""
+
+msgctxt "1472"
+msgid ""
+"People from around here, though... They don't have any interest in street "
+"musicians like me."
+msgstr ""
+
+msgctxt "1484"
+msgid ""
+"(He's right. First-time visitors to Kamurocho will probably want to visit "
+"the Millennium Tower.)"
+msgstr ""
+
+msgctxt "1508"
+msgid "Oh, hey, Kiryu-san. Can't get enough of my singing, huh?"
+msgstr ""
+
+msgctxt "1520"
+msgid "Uh, not exactly..."
+msgstr ""
+
+msgctxt "1532"
+msgid "You're supposed to say, \"Yes, I love it!\" even if you don't mean it."
+msgstr ""
+
+msgctxt "1544"
+msgid "Aw, I've had enough of singing for now. Maybe I'll go get something to eat."
+msgstr ""
+
+msgctxt "1556"
+msgid "Kiryu-san, wanna go have some yakitori with me?"
+msgstr ""
+
+msgctxt "1568"
+msgid "Yakitori? Wouldn't have guessed that was your scene."
+msgstr ""
+
+msgctxt "1580"
+msgid "Hey, c'mon! Yakitori...? Skewering stuff and grilling it?"
+msgstr ""
+
+msgctxt "1592"
+msgid "What could be more rock-'n'-roll than that?"
+msgstr ""
+
+msgctxt "1604"
+msgid "...Can't say I follow your logic there."
+msgstr ""
+
+msgctxt "1616"
+msgid ""
+"Whatever. There's a great yakitori place on Senryo Avenue, across from that "
+"big office building."
+msgstr ""
+
+msgctxt "1628"
+msgid "C'mon. You can treat me."
+msgstr ""
+
+msgctxt "1640"
+msgid "Sorry. You'll have to ask somebody else."
+msgstr ""
+
+msgctxt "1652"
+msgid "Hmph."
+msgstr ""
+
+msgctxt "1664"
+msgid ""
+"(The big office building on Senryo Avenue... Could Samejima's office be "
+"there?)"
+msgstr ""
+
+msgctxt "1676"
+msgid "(Across from the yakitori place, huh? Guess I'll go take a look.)"
+msgstr ""
+
+msgctxt "1700"
+msgid "Oh, hey, Kiryu-san. Listen to this."
+msgstr ""
+
+msgctxt "1712"
+msgid ""
+"When I came out of the men's room at the park earlier, these punks started "
+"harassing me."
+msgstr ""
+
+msgctxt "1724"
+msgid "They were all, \"Drop the fuckin' 'innocent' bit!\""
+msgstr ""
+
+msgctxt "1736"
+msgid "But I'd just come out of the men's room. How else was I supposed to look?"
+msgstr ""
+
+msgctxt "1748"
+msgid ""
+"Why do they have to harass people because of the way they look, anyway? "
+"Hmph..."
+msgstr ""
+
+msgctxt "1772"
+msgid "Oh, Kiryu-san."
+msgstr ""
+
+msgctxt "1784"
+msgid "You came at kind of a bad time for me. Sorry, but I'm in a crappy mood."
+msgstr ""
+
+msgctxt "1796"
+msgid "I see. Sorry, then."
+msgstr ""
+
+msgctxt "1808"
+msgid "Nothing ever seems to go right..."
+msgstr ""
+
+msgctxt "1820"
+msgid "Well, maybe I'll see you some other time, then."
+msgstr ""
+
+msgctxt "1844"
+msgid "Oh, hey, Kiryu-san."
+msgstr ""
+
+msgctxt "1856"
+msgid "This isn't very good, but just listen for a sec."
+msgstr ""
+
+msgctxt "1880"
+msgid "......"
+msgstr ""
+
+msgctxt "1892"
+msgid "Like my song?"
+msgstr ""
+
+msgctxt "1904"
+msgid "Well, I'm no expert, but I'd say it wasn't bad."
+msgstr ""
+
+msgctxt "1916"
+msgid "I see..."
+msgstr ""
+
+msgctxt "1928"
+msgid "No matter how much I play here, nobody ever listens."
+msgstr ""
+
+msgctxt "1940"
+msgid "But I guess it doesn't really matter if anybody listens or not..."
+msgstr ""
+
+msgctxt "1952"
+msgid "......"
+msgstr ""
+
+msgctxt "1964"
+msgid "Sorry about that. Didn't mean to complain."
+msgstr ""
+
+msgctxt "1976"
+msgid "It's all right."
+msgstr ""
+
+msgctxt "1988"
+msgid "I'm Hideki, by the way. A washed-up musician, as you can see."
+msgstr ""
+
+msgctxt "2000"
+msgid "And you are?"
+msgstr ""
+
+msgctxt "2012"
+msgid "Kiryu."
+msgstr ""
+
+msgctxt "2024"
+msgid "Kiryu? Where have I heard that name before...?"
+msgstr ""
+
+msgctxt "2036"
+msgid "Meh, I guess Kiryu is a pretty common name."
+msgstr ""
+
+msgctxt "2048"
+msgid "You're the only Kiryu-san who's ever stopped to hear me sing, though."
+msgstr ""
+
+msgctxt "2060"
+msgid "Thanks for listening."
+msgstr ""
+
+msgctxt "2072"
+msgid "You can usually find me here. Come by and listen again sometime."
+msgstr ""
+
+msgctxt "2084"
+msgid "Sure, if I get the chance."
+msgstr ""
+
+msgctxt "2096"
+msgid "Sorry to keep you. See you around."
+msgstr ""
+
+msgctxt "2144"
+msgid "So, did you come to see me about something?"
+msgstr ""
+
+msgctxt "2156"
+msgid ""
+"I'm not sure if you're the one to ask, but I'm looking for a place where I "
+"can get a panoramic view of the city."
+msgstr ""
+
+msgctxt "2168"
+msgid "What, looking for a good date spot or something?"
+msgstr ""
+
+msgctxt "2180"
+msgid ""
+"In any case, the roof of the Millennium Tower would give you a real nice "
+"view."
+msgstr ""
+
+msgctxt "2192"
+msgid "The roof of the Millennium Tower... of course."
+msgstr ""
+
+msgctxt "2204"
+msgid ""
+"(I doubt Shu could hit anybody in the city from way up on the Millennium "
+"Tower roof. I don't care how good of a sniper he is...)"
+msgstr ""
+
+msgctxt "2216"
+msgid "But if I recall, I think access to the roof is usually closed off."
+msgstr ""
+
+msgctxt "2228"
+msgid ""
+"The Kazama Family Office is on the top floor, and they don't allow "
+"unauthorized people up there."
+msgstr ""
+
+msgctxt "2240"
+msgid ""
+"(The HLA is under the Kazama Family's control... I'll try talking to one of "
+"Ibuki's men.)"
+msgstr ""
+
+msgctxt "2252"
+msgid "Well, sorry to bother you."
+msgstr ""
+
+msgctxt "20220"
+msgid "Hideki"
+msgstr ""
+
+msgctxt "20224"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "20228"
+msgid "Talk_Udekumi_st"
+msgstr ""
+
+msgctxt "20232"
+msgid "Talk_Udekumi_ed"
+msgstr ""
+
+msgctxt "20236"
+msgid "Musician"
+msgstr ""
+
+msgctxt "20240"
+msgid "M_nml_sitgrd_tlk_no_guitar"
+msgstr ""
+
+msgctxt "20244"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "20248"
+msgid "M_nml_sitgrd_tlk_yes_guitar"
+msgstr ""

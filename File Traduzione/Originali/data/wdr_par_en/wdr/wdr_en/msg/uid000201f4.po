@@ -1,0 +1,204 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "116"
+msgid "Was it around here? Gah! This sucks!"
+msgstr ""
+
+msgctxt "128"
+msgid "What's wrong?"
+msgstr ""
+
+msgctxt "140"
+msgid "I lost a key somewhere around here. You haven't seen it, have you?"
+msgstr ""
+
+msgctxt "152"
+msgid "A key? Can't say I have."
+msgstr ""
+
+msgctxt "164"
+msgid ""
+"Shoot. I live on the third floor here, and I know I had it when I left my "
+"place."
+msgstr ""
+
+msgctxt "176"
+msgid "So if I dropped it, I must have done so somewhere around this building."
+msgstr ""
+
+msgctxt "188"
+msgid "Or maybe it was when I was looking out that window..."
+msgstr ""
+
+msgctxt "200"
+msgid "I bet I can find it if I look hard enough."
+msgstr ""
+
+msgctxt "212"
+msgid ""
+"Press <Action:Button_R3@Adventure> to enter first-person mode.\r\n"
+"Use the "
+"<Action:Turn_Camera_Up@Adventure><Action:Turn_Camera_"
+"Down@Adventure><Action:Turn_Camera_Left@Adventure><Action:Turn_Camera_"
+"Right@Adventure> to look around.\r\n"
+"You can get a good look at things in this mode⑬\r\n"
+"useful when you're searching for something.\r\n"
+"\r\n"
+"Use first-person mode to find the key that's\r\n"
+"been dropped somewhere in the area."
+msgstr ""
+
+msgctxt "224"
+msgid ""
+"Could you let me know if you see a key around here? Thank you so much for "
+"your help."
+msgstr ""
+
+msgctxt "248"
+msgid "Where did I drop that stupid key? I can't get back into my place without it."
+msgstr ""
+
+msgctxt "260"
+msgid "Still haven't found it?"
+msgstr ""
+
+msgctxt "272"
+msgid "No⑬and I've looked everywhere."
+msgstr ""
+
+msgctxt "284"
+msgid "Maybe it's somewhere totally random, like, caught on the roof or something?"
+msgstr ""
+
+msgctxt "296"
+msgid "Or maybe it was when I was looking out that window..."
+msgstr ""
+
+msgctxt "308"
+msgid "Where did I drop that stupid key? I can't get back into my place without it."
+msgstr ""
+
+msgctxt "320"
+msgid "Hey, you were looking for your key, right?"
+msgstr ""
+
+msgctxt "332"
+msgid "Yes! Did you find it?"
+msgstr ""
+
+msgctxt "344"
+msgid "Maybe. There's something up on the edge of that hallway on the third floor."
+msgstr ""
+
+msgctxt "356"
+msgid "The third floor? Oh, that could be it!"
+msgstr ""
+
+msgctxt "368"
+msgid "I'll check and see! Could you just wait here a second?"
+msgstr ""
+
+msgctxt "440"
+msgid "That was it, all right! What a dumb place to drop a key!"
+msgstr ""
+
+msgctxt "452"
+msgid "It must have fallen when I was looking out the window. Unbelievable!"
+msgstr ""
+
+msgctxt "464"
+msgid "Thank you so much!"
+msgstr ""
+
+msgctxt "476"
+msgid "I don't know if you could call this a reward, but here."
+msgstr ""
+
+msgctxt "488"
+msgid "You got <Color:255,255,200,255>Ryukyu Locker Key No. 33<Color:Default>."
+msgstr ""
+
+msgctxt "512"
+msgid "A locker key?"
+msgstr ""
+
+msgctxt "524"
+msgid ""
+"Oh, yes! If you look hard enough, you'll find them all over the place. I "
+"don't know why, but people are so careless with these things."
+msgstr ""
+
+msgctxt "536"
+msgid ""
+"I found this one earlier and opened the locker, but I had no use for what "
+"was in there."
+msgstr ""
+
+msgctxt "548"
+msgid "I bet it would come in handy for you, though."
+msgstr ""
+
+msgctxt "560"
+msgid "Anyway, I have to hit the road! Thank you again!"
+msgstr ""
+
+msgctxt "584"
+msgid ""
+"(That sounds... vaguely illegal. But hey, no point looking a gift horse in "
+"the mouth. Looks like I have a locker to open.)"
+msgstr ""
+
+msgctxt "608"
+msgid "You got 2,000 EXP."
+msgstr ""
+
+msgctxt "7428"
+msgid "Keyless Woman"
+msgstr ""
+
+msgctxt "7432"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "7436"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "7440"
+msgid "Idle"
+msgstr ""
+
+msgctxt "7444"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "7448"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "7452"
+msgid "First-Person View"
+msgstr ""
+
+msgctxt "7456"
+msgid "Talk_Info_R"
+msgstr ""
+
+msgctxt "7460"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "7464"
+msgid "Talk_Send"
+msgstr ""

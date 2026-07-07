@@ -1,0 +1,78 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "92"
+msgid "Hold it!"
+msgstr ""
+
+msgctxt "164"
+msgid "Don't hurt me! I didn't have any bad intentions!"
+msgstr ""
+
+msgctxt "176"
+msgid "You rob convenience stores with the best of intentions, is that it?"
+msgstr ""
+
+msgctxt "188"
+msgid ""
+"I didn't do anything like that. I just kinda... took a boxed lunch from the "
+"convenience store. I know it was a stupid thing to do..."
+msgstr ""
+
+msgctxt "200"
+msgid "And I'm really sorry. Here! I'll give it back if you'll forgive me!"
+msgstr ""
+
+msgctxt "212"
+msgid "Don't give it to me. Go back to the convenience store and apologize."
+msgstr ""
+
+msgctxt "224"
+msgid ""
+"Yeah... That's just what I'll do! Doing bad things is so, so wrong... and "
+"bad...! Um... bye!"
+msgstr ""
+
+msgctxt "248"
+msgid ""
+"(I guess the robber was wearing something else. I'm sure he's long gone by "
+"now.)"
+msgstr ""
+
+msgctxt "2380"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "2384"
+msgid "0"
+msgstr ""
+
+msgctxt "2388"
+msgid "M_ykz_damage"
+msgstr ""
+
+msgctxt "2392"
+msgid "Talk_Kamae"
+msgstr ""
+
+msgctxt "2396"
+msgid "Man in Loud V-Neck Shirt"
+msgstr ""
+
+msgctxt "2400"
+msgid "Talk_Sorry"
+msgstr ""
+
+msgctxt "2404"
+msgid "dummy"
+msgstr ""

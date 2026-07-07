@@ -1,0 +1,48 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "92"
+msgid ""
+"If you're gonna hit a convenience store, M Store on Shichifuku Street is a "
+"good target."
+msgstr ""
+
+msgctxt "104"
+msgid ""
+"Not many people on that street, and the main strip's close for an easy "
+"getaway."
+msgstr ""
+
+msgctxt "176"
+msgid "(Is something going down at the M Store on Shichifuku Street?)"
+msgstr ""
+
+msgctxt "888"
+msgid "Shifty-eyed Man"
+msgstr ""
+
+msgctxt "892"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "896"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "900"
+msgid "dummy"
+msgstr ""
+
+msgctxt "904"
+msgid "Kiryu"
+msgstr ""

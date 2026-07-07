@@ -1,0 +1,107 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid "I'll remember this! Next time I see ya, yer ass is goin' down!"
+msgstr ""
+
+msgctxt "100"
+msgid "You all right, Pops? What happened to you?"
+msgstr ""
+
+msgctxt "112"
+msgid ""
+"Don't touch me! You yakuza trash only know vulgarity\r\n"
+"and violence!"
+msgstr ""
+
+msgctxt "124"
+msgid ""
+"Those hooligans even threatened my life! And you...\r\n"
+"You're no better than any of them!"
+msgstr ""
+
+msgctxt "136"
+msgid "Pops..."
+msgstr ""
+
+msgctxt "148"
+msgid ""
+"Wasn't that a little harsh? I don't know what's going on,\r\n"
+"but something bad would've happened if Mikio didn't\r\n"
+"show up to save you."
+msgstr ""
+
+msgctxt "160"
+msgid ""
+"I'll call the police if I'm in trouble. I don't need help\r\n"
+"from the yakuza⑬and I certainly don't need help\r\n"
+"from my son if that's what he considers himself!"
+msgstr ""
+
+msgctxt "172"
+msgid ""
+"Mikio, I want you to go to Nagasaki at once. Understood?\r\n"
+"You still have a chance to return to a normal life."
+msgstr ""
+
+msgctxt "196"
+msgid ""
+"I wonder what's gotten into my old man... I mean, when I\r\n"
+"joined the family, he wasn't exactly thrilled, but he's\r\n"
+"never been this outta whack before..."
+msgstr ""
+
+msgctxt "208"
+msgid "If you want to find out, then ask. You're not a kid anymore, you know."
+msgstr ""
+
+msgctxt "220"
+msgid "Yeah... You're right, sir."
+msgstr ""
+
+msgctxt "3228"
+msgid "Senior Kansai Yakuza"
+msgstr ""
+
+msgctxt "3232"
+msgid "Mikio"
+msgstr ""
+
+msgctxt "3236"
+msgid "Aragaki"
+msgstr ""
+
+msgctxt "3240"
+msgid "Talk_Away"
+msgstr ""
+
+msgctxt "3244"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "3248"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "3252"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "3256"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "3260"
+msgid "Talk_Ojigi"
+msgstr ""

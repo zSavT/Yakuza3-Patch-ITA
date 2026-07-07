@@ -1,0 +1,503 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "512"
+msgid "Controls"
+msgstr ""
+
+msgctxt "524"
+msgid ""
+"Use the "
+"<Action:Button_LS_Up@Cabaret><Action:Button_LS_Down@Cabaret><Action:Button_"
+"LS_Left@Cabaret><Action:Button_LS_Right@Cabaret> to control where Kiryu "
+"looks.\r\n"
+"This is your big chance to feast your eyes on a real beauty."
+msgstr ""
+
+msgctxt "536"
+msgid ""
+"Press <Action:Button_Cross@Cabaret> when you want to focus intently on one "
+"of her features.\r\n"
+"Holding down <Action:Button_Cross@Cabaret> allows you to focus your gaze.\r\n"
+"Show Miyu how intense you can be."
+msgstr ""
+
+msgctxt "548"
+msgid "Note that her response will change depending on where you look."
+msgstr ""
+
+msgctxt "572"
+msgid "(Her gentle eyes...)"
+msgstr ""
+
+msgctxt "584"
+msgid "(Her cute mouth...)"
+msgstr ""
+
+msgctxt "596"
+msgid "(Her hands look so soft...)"
+msgstr ""
+
+msgctxt "608"
+msgid "(They're hidden by her dress... but she's got some nice legs.)"
+msgstr ""
+
+msgctxt "620"
+msgid "(It's gotta be her hairstyle...)"
+msgstr ""
+
+msgctxt "632"
+msgid "(Not bad...)"
+msgstr ""
+
+msgctxt "644"
+msgid "(Let me think...)"
+msgstr ""
+
+msgctxt "656"
+msgid "I love how gentle your eyes are."
+msgstr ""
+
+msgctxt "668"
+msgid ""
+"I'm happy you think so, too. My son always likes to say how pretty his "
+"mommy's eyes are."
+msgstr ""
+
+msgctxt "680"
+msgid "Well, he's right."
+msgstr ""
+
+msgctxt "692"
+msgid "He also says that my eyes shoot these shiny beams sometimes..."
+msgstr ""
+
+msgctxt "704"
+msgid "Shiny beams?"
+msgstr ""
+
+msgctxt "716"
+msgid ""
+"I'm not too sure what he means myself, but I think he means that my eyes "
+"sparkle when I look at someone."
+msgstr ""
+
+msgctxt "728"
+msgid "I see... Shiny beams, huh?"
+msgstr ""
+
+msgctxt "740"
+msgid ""
+"Hehehehehe... Kiryu-san, maybe I should use my beams on you, too. "
+"<Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "752"
+msgid "Heheh..."
+msgstr ""
+
+msgctxt "764"
+msgid "I like your mouth."
+msgstr ""
+
+msgctxt "776"
+msgid "Hehe... Do you now?"
+msgstr ""
+
+msgctxt "788"
+msgid "Yeah, you have a gentle way of speaking, too. It's soothing."
+msgstr ""
+
+msgctxt "800"
+msgid "Really? Maybe it's just in my nature."
+msgstr ""
+
+msgctxt "812"
+msgid "You seem down to earth, and I like that."
+msgstr ""
+
+msgctxt "824"
+msgid ""
+"I like your mouth too, Kiryu-san. It's all tight and stern...\r\n"
+"Hehehehe..."
+msgstr ""
+
+msgctxt "836"
+msgid "I like your hands. They look really soft."
+msgstr ""
+
+msgctxt "848"
+msgid "Do you have a hand fetish, Kiryu-san?"
+msgstr ""
+
+msgctxt "860"
+msgid "Not exactly..."
+msgstr ""
+
+msgctxt "872"
+msgid ""
+"Actually... I try to take really good care of my hands since I have to cook "
+"for my son and do household chores and stuff."
+msgstr ""
+
+msgctxt "884"
+msgid "My son gets worried if he holds my hand and it feels all rough..."
+msgstr ""
+
+msgctxt "896"
+msgid "It's gotta be... your legs."
+msgstr ""
+
+msgctxt "908"
+msgid ""
+"I'm wearing a long dress so you can't even see them. Can you really tell "
+"how they look?"
+msgstr ""
+
+msgctxt "920"
+msgid "Oh, yeah."
+msgstr ""
+
+msgctxt "932"
+msgid "Ahahahaha! You must have a leg fetish, Kiryu-san."
+msgstr ""
+
+msgctxt "944"
+msgid ""
+"Maybe I'll wear a miniskirt next time, just for you. "
+"<Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "956"
+msgid "I'll be looking forward to that."
+msgstr ""
+
+msgctxt "968"
+msgid "I like your hair."
+msgstr ""
+
+msgctxt "980"
+msgid "You mean how it's like a princess's hair? Hehehehehe..."
+msgstr ""
+
+msgctxt "992"
+msgid "My son likes my hair, too. He even helped me brush it today."
+msgstr ""
+
+msgctxt "1004"
+msgid "You two are pretty close."
+msgstr ""
+
+msgctxt "1016"
+msgid ""
+"Of course we are. He helps me wash it in the bath, too. "
+"<Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "1028"
+msgid "It's gotta be... your chest."
+msgstr ""
+
+msgctxt "1040"
+msgid "Oh, Kiryu-san... That's too forward!"
+msgstr ""
+
+msgctxt "1052"
+msgid "Is it?"
+msgstr ""
+
+msgctxt "1064"
+msgid ""
+"But maybe that's for the best. I don't like it when guys ogle me out of the "
+"corner of their eyes."
+msgstr ""
+
+msgctxt "1076"
+msgid ""
+"Though hearing it up front from you somehow makes it a little easier to "
+"accept."
+msgstr ""
+
+msgctxt "1088"
+msgid "Is that how that works?"
+msgstr ""
+
+msgctxt "1100"
+msgid ""
+"Uh-huh. It makes you more confident when someone tells you straight up that "
+"they like you. <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "1112"
+msgid "Heh..."
+msgstr ""
+
+msgctxt "1124"
+msgid "Hey! Where do you think you're looking!"
+msgstr ""
+
+msgctxt "1136"
+msgid "Oh, uh..."
+msgstr ""
+
+msgctxt "1148"
+msgid "You don't find me attractive?"
+msgstr ""
+
+msgctxt "1160"
+msgid "That's not..."
+msgstr ""
+
+msgctxt "1172"
+msgid "Fine, then! Be a jerk about it..."
+msgstr ""
+
+msgctxt "1184"
+msgid "Sorry..."
+msgstr ""
+
+msgctxt "1196"
+msgid "(Her eyes are pretty...)"
+msgstr ""
+
+msgctxt "1208"
+msgid "(Her lips are pretty...)"
+msgstr ""
+
+msgctxt "1220"
+msgid "(I have to say... her hands are really pretty.)"
+msgstr ""
+
+msgctxt "1232"
+msgid "(How about those legs?)"
+msgstr ""
+
+msgctxt "1244"
+msgid "(Her hair is pretty...)"
+msgstr ""
+
+msgctxt "1256"
+msgid "(Her skin is so pretty...)"
+msgstr ""
+
+msgctxt "1268"
+msgid "(She wants me to look at her skin, but...)"
+msgstr ""
+
+msgctxt "1280"
+msgid "Your eyes are pretty."
+msgstr ""
+
+msgctxt "1292"
+msgid "Oh, are they? I was wondering if I looked tired or not."
+msgstr ""
+
+msgctxt "1304"
+msgid ""
+"I slept like a log after going to the salon the other day. I think both my "
+"son and I were out for about 10 hours."
+msgstr ""
+
+msgctxt "1316"
+msgid "That beautician really knows what she's doing. <Color:7>⑮⑮<Color:Default>"
+msgstr ""
+
+msgctxt "1328"
+msgid "Your lips are pretty."
+msgstr ""
+
+msgctxt "1340"
+msgid "Hehehe... They've always been this soft, you know."
+msgstr ""
+
+msgctxt "1352"
+msgid "Have they?"
+msgstr ""
+
+msgctxt "1364"
+msgid ""
+"Yup, my soft baby lips. <Color:7>⑮⑮<Color:Default> Care to feel them for "
+"yourself?"
+msgstr ""
+
+msgctxt "1376"
+msgid "Uh..."
+msgstr ""
+
+msgctxt "1388"
+msgid "Hehe... You're blushing, Kiryu-san. <Color:7>⑮⑮<Color:Default>"
+msgstr ""
+
+msgctxt "1400"
+msgid "I have to say, your hands are pretty, too."
+msgstr ""
+
+msgctxt "1412"
+msgid "Oh, you noticed? My son always tells me how smooth they are."
+msgstr ""
+
+msgctxt "1424"
+msgid "We hold hands pretty often. <Color:7>⑮⑮<Color:Default>"
+msgstr ""
+
+msgctxt "1436"
+msgid "Makes sense..."
+msgstr ""
+
+msgctxt "1448"
+msgid "How about those legs?"
+msgstr ""
+
+msgctxt "1460"
+msgid "Oh, you! Kiryu-san... <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "1472"
+msgid "I mean, my legs are smooth. <Color:7>⑮⑮<Color:Default>"
+msgstr ""
+
+msgctxt "1484"
+msgid ""
+"But, Kiryu-san... you keep giving me those perverted looks, so I'm not "
+"going to show you my legs. <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "1496"
+msgid "Your hair is pretty."
+msgstr ""
+
+msgctxt "1508"
+msgid ""
+"I'm surprised you noticed. I went to a hair stylist. "
+"<Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "1520"
+msgid ""
+"They used these Indian oils that smelled really nice... And when they were "
+"finished, my hair was all silky and glossy. <Color:7>⑮⑮<Color:Default>"
+msgstr ""
+
+msgctxt "1532"
+msgid ""
+"It feels amazing. I could definitely get used to it. "
+"<Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "1544"
+msgid "Your skin is very pretty."
+msgstr ""
+
+msgctxt "1556"
+msgid ""
+"I know, right? <Color:7>⑮<Color:Default> It's so soft and smooth. "
+"<Color:7>⑮⑮<Color:Default>"
+msgstr ""
+
+msgctxt "1568"
+msgid "Yeah, definitely."
+msgstr ""
+
+msgctxt "1580"
+msgid ""
+"Oh... I'm getting embarrassed, so please don't stare so much. "
+"<Color:7>⑮⑮<Color:Default>"
+msgstr ""
+
+msgctxt "1592"
+msgid "You told me to look, though."
+msgstr ""
+
+msgctxt "1604"
+msgid ""
+"Hehe... So I did. <Color:7>⑮<Color:Default> But don't think that means you "
+"can do anything dirty, okay? <Color:7>⑮⑮<Color:Default>"
+msgstr ""
+
+msgctxt "1616"
+msgid "What's wrong, Kiryu-san?"
+msgstr ""
+
+msgctxt "1628"
+msgid "Well... You asked me to look at your skin, but..."
+msgstr ""
+
+msgctxt "1640"
+msgid "Are you too shy to look?"
+msgstr ""
+
+msgctxt "1652"
+msgid "It's hard when someone tells you to stare."
+msgstr ""
+
+msgctxt "1664"
+msgid ""
+"Hehehe... That's what makes you so cute, Kiryu-san. "
+"<Color:7>⑮⑮<Color:Default>"
+msgstr ""
+
+msgctxt "1676"
+msgid "Heh. You're being silly."
+msgstr ""
+
+msgctxt "15488"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "15492"
+msgid "F_cab_sitsofa_hot_muneA"
+msgstr ""
+
+msgctxt "15496"
+msgid "Miyu"
+msgstr ""
+
+msgctxt "15500"
+msgid "F_cab_sitsofa_talk_smileA"
+msgstr ""
+
+msgctxt "15504"
+msgid "F_cab_sitsofa_tlk_happy"
+msgstr ""
+
+msgctxt "15508"
+msgid "F_cab_sitsofa_tlk_kamaeAtoB"
+msgstr ""
+
+msgctxt "15512"
+msgid "F_cab_sitsofa_tlk_angry"
+msgstr ""
+
+msgctxt "15516"
+msgid "F_cab_sitsofa_tlk_kamaeA"
+msgstr ""
+
+msgctxt "15520"
+msgid "F_cab_sitsofa_tlk_cry"
+msgstr ""
+
+msgctxt "15524"
+msgid "F_cab_sitsofa_hot_momoA"
+msgstr ""
+
+msgctxt "15528"
+msgid "F_cab_sitsofa_sp5_sync_laugh"
+msgstr ""
+
+msgctxt "15532"
+msgid "P_sitsofa_sp5_sync_laugh"
+msgstr ""
+
+msgctxt "15536"
+msgid "F_cab_sitsofa_tlk_tereruA"
+msgstr ""

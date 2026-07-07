@@ -1,0 +1,583 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "512"
+msgid "Controls"
+msgstr ""
+
+msgctxt "524"
+msgid ""
+"Use the "
+"<Action:Button_LS_Up@Cabaret><Action:Button_LS_Down@Cabaret><Action:Button_"
+"LS_Left@Cabaret><Action:Button_LS_Right@Cabaret> to control where Kiryu "
+"looks.\r\n"
+"This is your big chance to feast your eyes on a perfect incarnation of "
+"beauty."
+msgstr ""
+
+msgctxt "536"
+msgid ""
+"Press <Action:Button_Cross@Cabaret> when you want to focus intently on one "
+"of her features. Holding down <Action:Button_Cross@Cabaret> allows you to "
+"focus your gaze."
+msgstr ""
+
+msgctxt "548"
+msgid "Note that her response will change depending on where you look."
+msgstr ""
+
+msgctxt "572"
+msgid "(She's got these large, beautiful eyes...)"
+msgstr ""
+
+msgctxt "584"
+msgid "(Her lips are so full and glossy...)"
+msgstr ""
+
+msgctxt "596"
+msgid "(Those delicate hands...?)"
+msgstr ""
+
+msgctxt "608"
+msgid "(Maybe those fishnet stockings...? They're... something.)"
+msgstr ""
+
+msgctxt "620"
+msgid "(I'm actually starting to get pretty fond of her hair...)"
+msgstr ""
+
+msgctxt "632"
+msgid "(Her chest, maybe...? Can I even say that?)"
+msgstr ""
+
+msgctxt "644"
+msgid "(Hmm... Decisions, decisions...)"
+msgstr ""
+
+msgctxt "656"
+msgid "I'm gonna go with your eyes. They're stunning."
+msgstr ""
+
+msgctxt "668"
+msgid "Really? I always thought they were overpowering..."
+msgstr ""
+
+msgctxt "680"
+msgid ""
+"That's what I like, though. I get lost in your eyes every time you look at "
+"me."
+msgstr ""
+
+msgctxt "692"
+msgid "You're kidding me, right?"
+msgstr ""
+
+msgctxt "704"
+msgid "I kid you not."
+msgstr ""
+
+msgctxt "716"
+msgid ""
+"Still... You don't have to stare at me like that... It makes me all "
+"nervous! <Color:7>⑮⑮⑮<Color:Default>"
+msgstr ""
+
+msgctxt "728"
+msgid "Heh..."
+msgstr ""
+
+msgctxt "740"
+msgid "You've got some nice lips."
+msgstr ""
+
+msgctxt "752"
+msgid ""
+"And that mole right there is the perfect accent to that perfectly shaped "
+"mouth."
+msgstr ""
+
+msgctxt "764"
+msgid "Haha, so I've heard."
+msgstr ""
+
+msgctxt "776"
+msgid ""
+"They say that people with a mole near their mouth won't any have trouble "
+"with what they eat."
+msgstr ""
+
+msgctxt "788"
+msgid "Is that right..."
+msgstr ""
+
+msgctxt "800"
+msgid "And... They get kisses pretty easily. <Color:7>⑮⑮⑮<Color:Default>"
+msgstr ""
+
+msgctxt "812"
+msgid "Interesting. I'll have to keep that in mind."
+msgstr ""
+
+msgctxt "824"
+msgid ""
+"I'd say it's your hands. They're slender, and I bet they're soft to the "
+"touch."
+msgstr ""
+
+msgctxt "836"
+msgid ""
+"Are they really? I think this is the first time a guy has told me they like "
+"my hands."
+msgstr ""
+
+msgctxt "848"
+msgid "Oh yeah?"
+msgstr ""
+
+msgctxt "860"
+msgid ""
+"Yeah. It's also nice to know you've been checking me out every time you "
+"stop by. <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "872"
+msgid "Well... What can I say."
+msgstr ""
+
+msgctxt "884"
+msgid "Those fishnet stockings... are actually pretty sexy."
+msgstr ""
+
+msgctxt "896"
+msgid "Whoa... Just where were those eyes going, mister!?"
+msgstr ""
+
+msgctxt "908"
+msgid "Oh... Nowhere in particular."
+msgstr ""
+
+msgctxt "920"
+msgid "Uh-huh. You were thinking something dirty, and I know it."
+msgstr ""
+
+msgctxt "932"
+msgid ""
+"All I'm trying to say is that you have some nice legs. Nothing more, "
+"nothing less."
+msgstr ""
+
+msgctxt "944"
+msgid "Nope. Still not falling for it. You lose this round, Kiryu-san."
+msgstr ""
+
+msgctxt "956"
+msgid "Your hair... It's beautiful."
+msgstr ""
+
+msgctxt "968"
+msgid ""
+"Hehe. I figured you were coming to see me, so I put even more work into it "
+"today."
+msgstr ""
+
+msgctxt "980"
+msgid "Well... It paid off."
+msgstr ""
+
+msgctxt "992"
+msgid "Are you blushing, Kiryu-san? You're turning a little red."
+msgstr ""
+
+msgctxt "1004"
+msgid "There's no way. I don't blush."
+msgstr ""
+
+msgctxt "1016"
+msgid ""
+"Hehe. You're so cute when you're pretending, Kiryu-san. "
+"<Color:7>⑮<Color:Default> You don't have to hide it from me."
+msgstr ""
+
+msgctxt "1028"
+msgid "Your... chest area. It pleases me."
+msgstr ""
+
+msgctxt "1040"
+msgid ""
+"My goodness...! I knew you were thinking something dirty, what with those "
+"odd glances you've been giving me..."
+msgstr ""
+
+msgctxt "1052"
+msgid "Well, you asked me what I liked about you, and I answered."
+msgstr ""
+
+msgctxt "1064"
+msgid ""
+"That is true, but still... Saying it so bluntly like that... that's not "
+"what a girl wants to hear, you know."
+msgstr ""
+
+msgctxt "1076"
+msgid ""
+"Besides... If that's the only reason you're looking at me, then I'd prefer "
+"it if you stopped."
+msgstr ""
+
+msgctxt "1088"
+msgid "......"
+msgstr ""
+
+msgctxt "1100"
+msgid "Is there something wrong?"
+msgstr ""
+
+msgctxt "1112"
+msgid "Huh? Oh, no, nothing."
+msgstr ""
+
+msgctxt "1124"
+msgid "So, which part of me do you like the best?"
+msgstr ""
+
+msgctxt "1136"
+msgid "Oh, uh... Hmm."
+msgstr ""
+
+msgctxt "1148"
+msgid ""
+"I knew it. You weren't listening to me at all. And here I was, thinking you "
+"weren't so bad of a guy... How shameless."
+msgstr ""
+
+msgctxt "1160"
+msgid "(Maybe she did something to her eyes...?)"
+msgstr ""
+
+msgctxt "1172"
+msgid "(Matching lipstick, maybe...?)"
+msgstr ""
+
+msgctxt "1184"
+msgid "(Uh, her bracelet...?)"
+msgstr ""
+
+msgctxt "1196"
+msgid "(...Her fishnet stockings? Heh.)"
+msgstr ""
+
+msgctxt "1208"
+msgid "(Did she get a new hair accessory...?)"
+msgstr ""
+
+msgctxt "1220"
+msgid "(How about this dress she's wearing...)"
+msgstr ""
+
+msgctxt "1232"
+msgid "(Hmm... Could be almost anything.)"
+msgstr ""
+
+msgctxt "1244"
+msgid "Does it have something to do with your eyes?"
+msgstr ""
+
+msgctxt "1256"
+msgid "My eyes...? You mean, like, lashes or contacts?"
+msgstr ""
+
+msgctxt "1268"
+msgid "Yeah, sure."
+msgstr ""
+
+msgctxt "1280"
+msgid "No, we wouldn't match those up. What we bought was..."
+msgstr ""
+
+msgctxt "1292"
+msgid ""
+"This bracelet. That way we could wear it anytime and always think of each "
+"other. <Color:7>⑮⑮<Color:Default>"
+msgstr ""
+
+msgctxt "1304"
+msgid ""
+"Moreover, the friends I have work at offices or teach preschool kids, so we "
+"figured a bracelet would be the best option for all of us."
+msgstr ""
+
+msgctxt "1316"
+msgid "I see... That's smart."
+msgstr ""
+
+msgctxt "1328"
+msgid ""
+"It's kind of like a lucky charm, in a way. Wearing it makes me feel like I "
+"can be all that I set out to be. <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "1340"
+msgid "Is it your lipstick?"
+msgstr ""
+
+msgctxt "1352"
+msgid "Haha, wrong! Nice guess, though."
+msgstr ""
+
+msgctxt "1364"
+msgid "Then what is it?"
+msgstr ""
+
+msgctxt "1376"
+msgid ""
+"It's this bracelet. This way, we can wear it anytime and always think of "
+"each other. <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "1388"
+msgid ""
+"Besides, the friends I have work at offices or teach preschool kids, so we "
+"figured a bracelet would be the best option for all of us."
+msgstr ""
+
+msgctxt "1400"
+msgid "I see... That's smart."
+msgstr ""
+
+msgctxt "1412"
+msgid ""
+"It's kind of like a lucky charm, in a way. Wearing it makes me feel like I "
+"can be all that I set out to be. <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "1424"
+msgid "Is it that bracelet of yours?"
+msgstr ""
+
+msgctxt "1436"
+msgid ""
+"Yup, you got it! We all bought these bracelets together. "
+"<Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "1448"
+msgid ""
+"The friends I have work at offices or teach preschool kids, so we figured a "
+"bracelet would be the best option for all of us."
+msgstr ""
+
+msgctxt "1460"
+msgid "I see... That's smart."
+msgstr ""
+
+msgctxt "1472"
+msgid ""
+"It's kind of like a lucky charm, in a way. Wearing it makes me feel like I "
+"can be all that I set out to be. <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "1484"
+msgid "Could it be... those sexy fishnet stockings?"
+msgstr ""
+
+msgctxt "1496"
+msgid ""
+"Ahahahaha, that's the last thing we would match! Kiryu-san, you can be so "
+"weird sometimes. <Color:7>⑮⑮<Color:Default>"
+msgstr ""
+
+msgctxt "1508"
+msgid "Then if it's not that, then what is it?"
+msgstr ""
+
+msgctxt "1520"
+msgid ""
+"It's this bracelet. This way, we can wear it anytime and always think of "
+"each other. <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "1532"
+msgid ""
+"Besides, the friends I have work at offices or teach preschool kids, so we "
+"figured a bracelet would be the best option for all of us."
+msgstr ""
+
+msgctxt "1544"
+msgid "I see... That's smart."
+msgstr ""
+
+msgctxt "1556"
+msgid ""
+"It's kind of like a lucky charm, in a way. Wearing it makes me feel like I "
+"can be all that I set out to be. <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "1568"
+msgid "Maybe you all did something... to your hair?"
+msgstr ""
+
+msgctxt "1580"
+msgid "No, that's not really... cool. What we decided to buy was..."
+msgstr ""
+
+msgctxt "1592"
+msgid ""
+"This bracelet right here. It's something we can wear anytime. "
+"<Color:7>⑮⑮<Color:Default>"
+msgstr ""
+
+msgctxt "1604"
+msgid ""
+"Plus, the friends I have work at offices or teach preschool kids, so we "
+"figured a bracelet would be the best option for all of us."
+msgstr ""
+
+msgctxt "1616"
+msgid "I see... That's smart."
+msgstr ""
+
+msgctxt "1628"
+msgid ""
+"It's kind of like a lucky charm, in a way. Wearing it makes me feel like I "
+"can be all that I set out to be. <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "1640"
+msgid "Is it that dress you have on?"
+msgstr ""
+
+msgctxt "1652"
+msgid ""
+"Ahahahaha, there's no way we would buy matching dresses! Besides, I'm the "
+"only one that works as a hostess..."
+msgstr ""
+
+msgctxt "1664"
+msgid "Then what did you guys get?"
+msgstr ""
+
+msgctxt "1676"
+msgid ""
+"This bracelet. It's something we can wear anytime and always think of each "
+"other. <Color:7>⑮⑮<Color:Default>"
+msgstr ""
+
+msgctxt "1688"
+msgid ""
+"Besides, the friends I have work at offices or teach preschool kids, so we "
+"figured a bracelet would be the best option for all of us."
+msgstr ""
+
+msgctxt "1700"
+msgid "I see... That's smart."
+msgstr ""
+
+msgctxt "1712"
+msgid ""
+"It's kind of like a lucky charm, in a way. Wearing it makes me feel like I "
+"can be all that I set out to be. <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "1724"
+msgid "Sorry, I give up."
+msgstr ""
+
+msgctxt "1736"
+msgid "Aww, that's no fun... Well, I guess I could just tell you."
+msgstr ""
+
+msgctxt "1748"
+msgid ""
+"What we bought was this bracelet. It's something we can wear anytime. "
+"<Color:7>⑮⑮<Color:Default>"
+msgstr ""
+
+msgctxt "1760"
+msgid ""
+"Plus, the friends I have work at offices or teach preschool kids, so we "
+"figured a bracelet would be the best option for all of us."
+msgstr ""
+
+msgctxt "1772"
+msgid "I see... That's smart."
+msgstr ""
+
+msgctxt "1784"
+msgid ""
+"It's kind of like a lucky charm, in a way. Wearing it makes me feel like I "
+"can be all that I set out to be. <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "19312"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "19316"
+msgid "F_cab_sitsofa_hot_momoA"
+msgstr ""
+
+msgctxt "19320"
+msgid "F_cab_sitsofa_hot_muneA"
+msgstr ""
+
+msgctxt "19324"
+msgid "Nao"
+msgstr ""
+
+msgctxt "19328"
+msgid "F_cab_sitsofa_talk_smileA"
+msgstr ""
+
+msgctxt "19332"
+msgid "F_cab_sitsofa_tlk_tereruA"
+msgstr ""
+
+msgctxt "19336"
+msgid "F_cab_sitsofa_sp5_sync_laugh"
+msgstr ""
+
+msgctxt "19340"
+msgid "P_sitsofa_sp5_sync_laugh"
+msgstr ""
+
+msgctxt "19344"
+msgid "F_cab_sitsofa_tlk_happy"
+msgstr ""
+
+msgctxt "19348"
+msgid "F_cab_sitsofa_tlk_angry"
+msgstr ""
+
+msgctxt "19352"
+msgid "F_cab_sitsofa_tlk_kamaeA"
+msgstr ""
+
+msgctxt "19356"
+msgid "F_cab_sitsofa_tlk_cry"
+msgstr ""
+
+msgctxt "19360"
+msgid "F_cab_sitsofa_sp8_sync_crap"
+msgstr ""
+
+msgctxt "19364"
+msgid "P_sitsofa_sp8_sync_crap"
+msgstr ""
+
+msgctxt "19368"
+msgid "F_cab_sitsofa_tlk_yes"
+msgstr ""
+
+msgctxt "19372"
+msgid "F_cab_sitsofa_tlk_noA"
+msgstr ""

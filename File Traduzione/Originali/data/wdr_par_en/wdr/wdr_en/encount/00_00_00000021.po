@@ -1,0 +1,62 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "124"
+msgid ""
+"Your face is really pissin' me off, asshole. You got somethin' to say for "
+"yourself, huh!?"
+msgstr ""
+
+msgctxt "136"
+msgid ""
+"If you ain't gonna get on the ground and apologize, I'm gonna smash that "
+"face into the ground for you!"
+msgstr ""
+
+msgctxt "160"
+msgid "I didn't mean it! Your face is great, man!"
+msgstr ""
+
+msgctxt "172"
+msgid ""
+"And hey, I'm not even mad anymore! So, uh... let me thank you for that! "
+"Here, take this."
+msgstr ""
+
+msgctxt "184"
+msgid "You got a lukewarm %s."
+msgstr ""
+
+msgctxt "220"
+msgid "Please, no more..."
+msgstr ""
+
+msgctxt "1464"
+msgid "Angry Punk"
+msgstr ""
+
+msgctxt "1468"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "1472"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "1476"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "1480"
+msgid "Sync_Send"
+msgstr ""

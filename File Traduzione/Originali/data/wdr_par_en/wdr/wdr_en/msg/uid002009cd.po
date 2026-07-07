@@ -1,0 +1,181 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "96"
+msgid "You win! You're as strong as I thought you were."
+msgstr ""
+
+msgctxt "108"
+msgid "You're quite the impressive fighter yourself."
+msgstr ""
+
+msgctxt "120"
+msgid ""
+"Hahaha... Hearing that from you makes the sting of defeat a little less "
+"painful."
+msgstr ""
+
+msgctxt "132"
+msgid "I guess my training didn't go to waste after all."
+msgstr ""
+
+msgctxt "144"
+msgid ""
+"You don't need your fists anymore. Your sushi should be enough to protect "
+"your father's restaurant. You'll be all right."
+msgstr ""
+
+msgctxt "156"
+msgid ""
+"Heh, thanks. You've got a way with words, you know. I feel a little better "
+"now, thanks to you."
+msgstr ""
+
+msgctxt "168"
+msgid "Guess I'd better get back to work."
+msgstr ""
+
+msgctxt "180"
+msgid "If you'll excuse me..."
+msgstr ""
+
+msgctxt "216"
+msgid ""
+"Fighting him dredged up memories of one of the Komaki techniques I used to "
+"know..."
+msgstr ""
+
+msgctxt "228"
+msgid ""
+"You can now use <Color:9>Komaki Knock Back<Color:Default>. Guard as the "
+"enemy attacks, and immediately press <Action:Battle_Heavy_Attack@Combat> to "
+"parry the attack."
+msgstr ""
+
+msgctxt "264"
+msgid "Well, I'd better find the next student."
+msgstr ""
+
+msgctxt "276"
+msgid ""
+"I've defeated all of the old man's pupils. I'd better get back to the "
+"Komaki Dojo."
+msgstr ""
+
+msgctxt "288"
+msgid ""
+"Well, it looks like I won that one. Feel free to come back at any time. "
+"I'll take you on whenever you like."
+msgstr ""
+
+msgctxt "300"
+msgid "(I lost. I should try fighting him again sometime.)"
+msgstr ""
+
+msgctxt "372"
+msgid "Here should be good enough. Right then, let's get started."
+msgstr ""
+
+msgctxt "384"
+msgid "Why did you quit Komaki's dojo?"
+msgstr ""
+
+msgctxt "396"
+msgid "......"
+msgstr ""
+
+msgctxt "408"
+msgid ""
+"I came to train in a Tokyo sushi restaurant to help my father get out of "
+"debt."
+msgstr ""
+
+msgctxt "420"
+msgid "But you know how things can be in a city like this..."
+msgstr ""
+
+msgctxt "432"
+msgid ""
+"You have to do whatever you can to survive. In the end, my hands were most "
+"often used to hurt people, not to make delicious sushi..."
+msgstr ""
+
+msgctxt "444"
+msgid ""
+"I heard about Komaki style fighting at the gambling hall. The moment I did, "
+"I forgot all about my training as a sushi chef."
+msgstr ""
+
+msgctxt "456"
+msgid ""
+"But when I met the owner of the place I'm working at now, I remembered how "
+"I used to feel about everything... about sushi."
+msgstr ""
+
+msgctxt "468"
+msgid ""
+"I want to make the best sushi in the world and help my father keep his "
+"restaurant afloat."
+msgstr ""
+
+msgctxt "480"
+msgid "That's why I quit Master Komaki's dojo."
+msgstr ""
+
+msgctxt "492"
+msgid "I see..."
+msgstr ""
+
+msgctxt "504"
+msgid ""
+"Still, I liked that dojo. I knew I could get stronger there. I've always "
+"wanted to be strong."
+msgstr ""
+
+msgctxt "516"
+msgid ""
+"All right, then, Kiryu-san. Let's see how my Komaki training fares against "
+"a real opponent! Are you ready?"
+msgstr ""
+
+msgctxt "6276"
+msgid "Sushi Bar Worker"
+msgstr ""
+
+msgctxt "6280"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "6284"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "6288"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "6292"
+msgid "Talk_Sorry"
+msgstr ""
+
+msgctxt "6296"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "6300"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "6304"
+msgid "Talk_OK"
+msgstr ""

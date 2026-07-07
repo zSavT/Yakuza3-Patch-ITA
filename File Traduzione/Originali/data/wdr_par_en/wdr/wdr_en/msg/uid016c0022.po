@@ -1,0 +1,599 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "512"
+msgid "Controls"
+msgstr ""
+
+msgctxt "524"
+msgid ""
+"Use the "
+"<Action:Button_LS_Up@Cabaret><Action:Button_LS_Down@Cabaret><Action:Button_"
+"LS_Left@Cabaret><Action:Button_LS_Right@Cabaret> to aim Kiryu's gaze.\r\n"
+"Feast your eyes on a gorgeous vision of beauty!"
+msgstr ""
+
+msgctxt "536"
+msgid ""
+"Press <Action:Button_Cross@Cabaret> to focus on one of her features.\r\n"
+"Holding down <Action:Button_Cross@Cabaret> will focus your gaze further.\r\n"
+"Show Shiori how intense you can be."
+msgstr ""
+
+msgctxt "548"
+msgid "Note that her reaction will change depending on where you look."
+msgstr ""
+
+msgctxt "572"
+msgid "(It's gotta be her eyes...)"
+msgstr ""
+
+msgctxt "584"
+msgid "(Her lips look so soft...)"
+msgstr ""
+
+msgctxt "596"
+msgid "(Her beautiful hands...)"
+msgstr ""
+
+msgctxt "608"
+msgid "(I like the shape of those legs...)"
+msgstr ""
+
+msgctxt "620"
+msgid "(It's gotta be her hairstyle...)"
+msgstr ""
+
+msgctxt "632"
+msgid "(Definitely... her chest.)"
+msgstr ""
+
+msgctxt "644"
+msgid "(Hmm...)"
+msgstr ""
+
+msgctxt "656"
+msgid "Your eyes. They always draw me in."
+msgstr ""
+
+msgctxt "668"
+msgid "My eyes? Hmm... You must be a real romantic, Kiryu-san."
+msgstr ""
+
+msgctxt "680"
+msgid "Me, a romantic?"
+msgstr ""
+
+msgctxt "692"
+msgid ""
+"Yeah. <Color:7>⑮<Color:Default> If a man likes a woman's eyes, it usually "
+"means they're a romantic. <Color:7>⑮⑮<Color:Default>"
+msgstr ""
+
+msgctxt "704"
+msgid "Don't tell me... You love stargazing, and stuff like that?"
+msgstr ""
+
+msgctxt "716"
+msgid "You might be right."
+msgstr ""
+
+msgctxt "728"
+msgid "Heheheh... That's cute, Kiryu-san. <Color:7>⑮⑮<Color:Default>"
+msgstr ""
+
+msgctxt "740"
+msgid "Your... lips."
+msgstr ""
+
+msgctxt "752"
+msgid "Hmm... So does that mean you like talking to me?"
+msgstr ""
+
+msgctxt "764"
+msgid "That too."
+msgstr ""
+
+msgctxt "776"
+msgid ""
+"I see... Makes sense. It's nice to hang out with people who are fun to talk "
+"to."
+msgstr ""
+
+msgctxt "788"
+msgid "But if you said \"that too\"... it's my lips you were interested in, huh?"
+msgstr ""
+
+msgctxt "800"
+msgid "Well... yeah."
+msgstr ""
+
+msgctxt "812"
+msgid ""
+"Hehehehe... Kiryu-san, you've got some sexy lips yourself. "
+"<Color:7>⑮⑮<Color:Default>"
+msgstr ""
+
+msgctxt "824"
+msgid "It's your hands. Your nails are spot on today."
+msgstr ""
+
+msgctxt "836"
+msgid "You can tell!? I love my nails! <Color:7>⑮⑮<Color:Default>"
+msgstr ""
+
+msgctxt "848"
+msgid ""
+"Having pretty nails makes me feel good, so I like to do all I can for them. "
+"<Color:7>⑮⑮<Color:Default>"
+msgstr ""
+
+msgctxt "860"
+msgid "They're definitely pretty."
+msgstr ""
+
+msgctxt "872"
+msgid ""
+"You know, they do nail art for men these days. Why don't you go get yours "
+"done?"
+msgstr ""
+
+msgctxt "884"
+msgid "Heh. Maybe next time."
+msgstr ""
+
+msgctxt "896"
+msgid "Your legs. I like a woman with pretty legs."
+msgstr ""
+
+msgctxt "908"
+msgid "You know... This dress is part transparent. <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "920"
+msgid "Now that you mention it, I can see a lot of them."
+msgstr ""
+
+msgctxt "932"
+msgid "Hey... Kiryu-san! You're staring too much! <Color:7>⑮⑮<Color:Default>"
+msgstr ""
+
+msgctxt "944"
+msgid "Oh, uh..."
+msgstr ""
+
+msgctxt "956"
+msgid "So, what's the verdict? Do my legs meet your high standards, Kiryu-san?"
+msgstr ""
+
+msgctxt "968"
+msgid "Let's see... That's a definite yes."
+msgstr ""
+
+msgctxt "980"
+msgid "Hehehe... Maybe I'll wear a miniskirt next time. <Color:7>⑮⑮<Color:Default>"
+msgstr ""
+
+msgctxt "992"
+msgid "I'm looking forward to it."
+msgstr ""
+
+msgctxt "1004"
+msgid "Your... hair. I like women with beautiful hair."
+msgstr ""
+
+msgctxt "1016"
+msgid "I'm guessing you prefer long hair?"
+msgstr ""
+
+msgctxt "1028"
+msgid "Well... yeah."
+msgstr ""
+
+msgctxt "1040"
+msgid "Heheheh... I can tell, somehow. Kiryu-san, you totally have a type."
+msgstr ""
+
+msgctxt "1052"
+msgid "It's gotta be... your chest."
+msgstr ""
+
+msgctxt "1064"
+msgid "So, my chest after all, huh?"
+msgstr ""
+
+msgctxt "1076"
+msgid "Yeah, that's right."
+msgstr ""
+
+msgctxt "1088"
+msgid "Hey! You're staring too much!"
+msgstr ""
+
+msgctxt "1100"
+msgid "Oh, sorry."
+msgstr ""
+
+msgctxt "1112"
+msgid "Man, I guess I understand a little, but... why are boobs such a big deal?"
+msgstr ""
+
+msgctxt "1124"
+msgid "Where are you looking? What, you... you don't think I'm pretty?"
+msgstr ""
+
+msgctxt "1136"
+msgid "That's not it."
+msgstr ""
+
+msgctxt "1148"
+msgid "You know, if I'm boring you here, you can always leave."
+msgstr ""
+
+msgctxt "1160"
+msgid "Sorry."
+msgstr ""
+
+msgctxt "1172"
+msgid "You're really bringing me down, man."
+msgstr ""
+
+msgctxt "1184"
+msgid "......"
+msgstr ""
+
+msgctxt "1196"
+msgid "(Her eyes...?)"
+msgstr ""
+
+msgctxt "1208"
+msgid "(Her lips...?)"
+msgstr ""
+
+msgctxt "1220"
+msgid "(Her hands... Those nails are really well done.)"
+msgstr ""
+
+msgctxt "1232"
+msgid "(Her legs...?)"
+msgstr ""
+
+msgctxt "1244"
+msgid "(Her hair...?)"
+msgstr ""
+
+msgctxt "1256"
+msgid "(Her chest...?)"
+msgstr ""
+
+msgctxt "1268"
+msgid "(Let me think...)"
+msgstr ""
+
+msgctxt "1280"
+msgid "If it's pretty... then... your eyes?"
+msgstr ""
+
+msgctxt "1292"
+msgid ""
+"My eyes? Well... I guess I put makeup on, but that's not really what I "
+"meant."
+msgstr ""
+
+msgctxt "1304"
+msgid "The answer is... my nails."
+msgstr ""
+
+msgctxt "1316"
+msgid "Your nails? That's your work?"
+msgstr ""
+
+msgctxt "1328"
+msgid "Yeah. I get them done at salons too, but today I did them all by myself."
+msgstr ""
+
+msgctxt "1340"
+msgid ""
+"And they turned out better than I expected. Look. See how they're really "
+"fancy, but still kinda low-key?"
+msgstr ""
+
+msgctxt "1352"
+msgid "Yeah, I noticed that."
+msgstr ""
+
+msgctxt "1364"
+msgid ""
+"Heheheh... If there's one thing I'm serious about, it's my nails. "
+"<Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "1376"
+msgid "If it's pretty... Your... lips?"
+msgstr ""
+
+msgctxt "1388"
+msgid "Nope, not quite. Though I'm glad you like them."
+msgstr ""
+
+msgctxt "1400"
+msgid "Then what is it?"
+msgstr ""
+
+msgctxt "1412"
+msgid "The answer is... my nails."
+msgstr ""
+
+msgctxt "1424"
+msgid "Your nails? That's your work?"
+msgstr ""
+
+msgctxt "1436"
+msgid "Yeah. I get them done at salons too, but today I did them all by myself."
+msgstr ""
+
+msgctxt "1448"
+msgid ""
+"And they turned out better than I expected. Look. See how they're really "
+"fancy, but still kinda low-key?"
+msgstr ""
+
+msgctxt "1460"
+msgid "Yeah, I noticed that."
+msgstr ""
+
+msgctxt "1472"
+msgid ""
+"Heheheh... If there's one thing I'm serious about, it's my nails. "
+"<Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "1484"
+msgid "If it's pretty... I have to say, your nails look great."
+msgstr ""
+
+msgctxt "1496"
+msgid "Exactly! I'm impressed, Kiryu-san. You really do know me!"
+msgstr ""
+
+msgctxt "1508"
+msgid "You think?"
+msgstr ""
+
+msgctxt "1520"
+msgid "Yeah. For real, I'm really happy you noticed."
+msgstr ""
+
+msgctxt "1532"
+msgid "Sometimes I get them done at salons too, but today I did them all by myself."
+msgstr ""
+
+msgctxt "1544"
+msgid ""
+"And they turned out better than I expected. Look. See how they're really "
+"fancy, but still kinda low-key?"
+msgstr ""
+
+msgctxt "1556"
+msgid "Yeah, I noticed that."
+msgstr ""
+
+msgctxt "1568"
+msgid ""
+"Heheheh... If there's one thing I'm serious about, it's my nails. "
+"<Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "1580"
+msgid "If it's pretty... Your legs?"
+msgstr ""
+
+msgctxt "1592"
+msgid "Nope, not quite. Though I'm glad you like them."
+msgstr ""
+
+msgctxt "1604"
+msgid "Then what is it?"
+msgstr ""
+
+msgctxt "1616"
+msgid "The answer is... my nails."
+msgstr ""
+
+msgctxt "1628"
+msgid "Your nails? That's your work?"
+msgstr ""
+
+msgctxt "1640"
+msgid "Yeah. I get them done at salons too, but today I did them all by myself."
+msgstr ""
+
+msgctxt "1652"
+msgid ""
+"And they turned out better than I expected. Look. See how they're really "
+"fancy, but still kinda low-key?"
+msgstr ""
+
+msgctxt "1664"
+msgid "Yeah, I noticed that."
+msgstr ""
+
+msgctxt "1676"
+msgid ""
+"Heheheh... If there's one thing I'm serious about, it's my nails. "
+"<Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "1688"
+msgid "Your... hair? It's definitely pretty."
+msgstr ""
+
+msgctxt "1700"
+msgid "Nope, not quite. Though I'm glad you like it."
+msgstr ""
+
+msgctxt "1712"
+msgid "Then what is it?"
+msgstr ""
+
+msgctxt "1724"
+msgid "The answer is... my nails."
+msgstr ""
+
+msgctxt "1736"
+msgid "Your nails? That's your work?"
+msgstr ""
+
+msgctxt "1748"
+msgid "Yeah. I get them done at salons too, but today I did them all by myself."
+msgstr ""
+
+msgctxt "1760"
+msgid ""
+"And they turned out better than I expected. Look. See how they're really "
+"fancy, but still kinda low-key?"
+msgstr ""
+
+msgctxt "1772"
+msgid "Yeah, I noticed that."
+msgstr ""
+
+msgctxt "1784"
+msgid ""
+"Heheheh... If there's one thing I'm serious about, it's my nails. "
+"<Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "1796"
+msgid "Your... chest? It's definitely pretty."
+msgstr ""
+
+msgctxt "1808"
+msgid "I said I did it myself, didn't I? What would that even mean for my boobs?"
+msgstr ""
+
+msgctxt "1820"
+msgid "Sorry..."
+msgstr ""
+
+msgctxt "1832"
+msgid "The answer is... my nails."
+msgstr ""
+
+msgctxt "1844"
+msgid "Your nails? That's your work?"
+msgstr ""
+
+msgctxt "1856"
+msgid "Yeah. I get them done at salons too, but today I did them all by myself."
+msgstr ""
+
+msgctxt "1868"
+msgid ""
+"And they turned out better than I expected. Look. See how they're really "
+"fancy, but still kinda low-key?"
+msgstr ""
+
+msgctxt "1880"
+msgid "Yeah, I noticed that."
+msgstr ""
+
+msgctxt "1892"
+msgid ""
+"Heheheh... If there's one thing I'm serious about, it's my nails. "
+"<Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "1904"
+msgid "Hmm... Sorry, what is it then?"
+msgstr ""
+
+msgctxt "1916"
+msgid "The answer is... my nails."
+msgstr ""
+
+msgctxt "1928"
+msgid "Your nails? That's your work?"
+msgstr ""
+
+msgctxt "1940"
+msgid "Yeah. I get them done at salons too, but today I did them all by myself."
+msgstr ""
+
+msgctxt "1952"
+msgid ""
+"And they turned out better than I expected. Look. See how they're really "
+"fancy, but still kinda low-key?"
+msgstr ""
+
+msgctxt "1964"
+msgid "Yeah, I noticed that."
+msgstr ""
+
+msgctxt "1976"
+msgid ""
+"Heheheh... If there's one thing I'm serious about, it's my nails. "
+"<Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "19668"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "19672"
+msgid "Shiori"
+msgstr ""
+
+msgctxt "19676"
+msgid "F_cab_sitsofa_talk_smileA"
+msgstr ""
+
+msgctxt "19680"
+msgid "F_cab_sitsofa_tlk_happy"
+msgstr ""
+
+msgctxt "19684"
+msgid "F_cab_sitsofa_hot_momoA"
+msgstr ""
+
+msgctxt "19688"
+msgid "F_cab_sitsofa_tlk_yes"
+msgstr ""
+
+msgctxt "19692"
+msgid "F_cab_sitsofa_hot_muneA"
+msgstr ""
+
+msgctxt "19696"
+msgid "F_cab_sitsofa_tlk_kamaeA"
+msgstr ""
+
+msgctxt "19700"
+msgid "F_cab_sitsofa_tlk_cry"
+msgstr ""
+
+msgctxt "19704"
+msgid "F_cab_sitsofa_tlk_refuse"
+msgstr ""
+
+msgctxt "19708"
+msgid "F_cab_sitsofa_sp5_sync_laugh"
+msgstr ""
+
+msgctxt "19712"
+msgid "P_sitsofa_sp5_sync_laugh"
+msgstr ""
+
+msgctxt "19716"
+msgid "F_cab_sitsofa_tlk_angry"
+msgstr ""

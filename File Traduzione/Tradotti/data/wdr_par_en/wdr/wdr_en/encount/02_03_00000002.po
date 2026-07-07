@@ -1,0 +1,56 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "96"
+msgid "Hey, pops! I saw you lookin' at me!"
+msgstr ""
+
+msgctxt "108"
+msgid "You can't run away now! Gimme all your cash!"
+msgstr ""
+
+msgctxt "132"
+msgid "Dammit... Ow... Sorry about botherin' you, man..."
+msgstr ""
+
+msgctxt "144"
+msgid "Take this as an apology."
+msgstr ""
+
+msgctxt "156"
+msgid "You got a heavy %s."
+msgstr ""
+
+msgctxt "192"
+msgid "Ow, ow... What do you want now?"
+msgstr ""
+
+msgctxt "1276"
+msgid "Irate Thug"
+msgstr ""
+
+msgctxt "1280"
+msgid "P_stand_sync_btl_neck_st"
+msgstr ""
+
+msgctxt "1284"
+msgid "M_ykz_stand_sync_btl_neck_st"
+msgstr ""
+
+msgctxt "1288"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "1292"
+msgid "Sync_Send"
+msgstr ""

@@ -1,0 +1,128 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "248"
+msgid "(The phone's ringing. It's probably that same guy.)"
+msgstr ""
+
+msgctxt "260"
+msgid "(I don't want to get involved.)"
+msgstr ""
+
+msgctxt "272"
+msgid "(It's probably the guy from before.)"
+msgstr ""
+
+msgctxt "284"
+msgid "(The phone's ringing. It's probably that same guy.)"
+msgstr ""
+
+msgctxt "296"
+msgid "(Picking up would be asking for trouble. Not my problem.)"
+msgstr ""
+
+msgctxt "308"
+msgid ""
+"(Nobody picked up this whole time. Whoever it was, he probably got the "
+"hint.)"
+msgstr ""
+
+msgctxt "320"
+msgid ""
+"(Guess I'll pick it up. I wonder if I can figure out where he is from the "
+"background noise?)"
+msgstr ""
+
+msgctxt "380"
+msgid ""
+"I see you bought the monogrammed bag. A man of such wealth must be used to "
+"these luxuries..."
+msgstr ""
+
+msgctxt "392"
+msgid ""
+"(There's some sort of sound in the background... I know I've heard that "
+"before.)"
+msgstr ""
+
+msgctxt "404"
+msgid "Now I want you to get 200,000 yen together."
+msgstr ""
+
+msgctxt "416"
+msgid ""
+"Bring the money, the necklace, and the bag to the parking lot behind the "
+"Millennium Tower."
+msgstr ""
+
+msgctxt "428"
+msgid ""
+"Immediately, if you please. If you don't show up, well... you know the "
+"consequences, don't you?"
+msgstr ""
+
+msgctxt "440"
+msgid "......"
+msgstr ""
+
+msgctxt "536"
+msgid ""
+"(This background noise is a clue, at least. I think I've heard that at a "
+"slots parlor somewhere in town...)"
+msgstr ""
+
+msgctxt "548"
+msgid ""
+"(I've got two choices: track down the caller, or bring 200,000 yen to the "
+"parking lot behind the Millennium Tower.)"
+msgstr ""
+
+msgctxt "572"
+msgid "Pick Up the Phone"
+msgstr ""
+
+msgctxt "584"
+msgid "Leave It Be"
+msgstr ""
+
+msgctxt "596"
+msgid "(Guess I'll pick up the phone.)"
+msgstr ""
+
+msgctxt "608"
+msgid "(I shouldn't get involved.)"
+msgstr ""
+
+msgctxt "4032"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "4036"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "4040"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "4044"
+msgid "???"
+msgstr ""
+
+msgctxt "4048"
+msgid "P_stand_tlk_phone_ed"
+msgstr ""
+
+msgctxt "4052"
+msgid "dummy"
+msgstr ""

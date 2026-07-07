@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "96"
+msgid "Hey, you. Were you plannin' on goin' this way?"
+msgstr ""
+
+msgctxt "108"
+msgid ""
+"Don't you know you gotta ask permission to use this road? We're gonna show "
+"you what happens when you go against the yakuza!"
+msgstr ""
+
+msgctxt "132"
+msgid "I'm sorry!"
+msgstr ""
+
+msgctxt "144"
+msgid "Here, let me give you this for the trouble we caused you! Take it!"
+msgstr ""
+
+msgctxt "156"
+msgid "You got a complimentary %s."
+msgstr ""
+
+msgctxt "192"
+msgid "I'm really sorry!"
+msgstr ""
+
+msgctxt "1172"
+msgid "Disgruntled Yakuza"
+msgstr ""
+
+msgctxt "1176"
+msgid "P_stand_sync_btl_neck_st"
+msgstr ""
+
+msgctxt "1180"
+msgid "M_ykz_stand_sync_btl_neck_st"
+msgstr ""
+
+msgctxt "1184"
+msgid "Talk_Sorry"
+msgstr ""
+
+msgctxt "1188"
+msgid "Sync_Send"
+msgstr ""

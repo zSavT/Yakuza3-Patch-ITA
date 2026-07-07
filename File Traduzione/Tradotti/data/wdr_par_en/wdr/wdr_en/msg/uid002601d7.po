@@ -1,0 +1,224 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid "Kiryu-san! Are you okay!?"
+msgstr ""
+
+msgctxt "76"
+msgid "Yeah, I'm fine..."
+msgstr ""
+
+msgctxt "88"
+msgid "Heh... That's one hell of a man you've got there."
+msgstr ""
+
+msgctxt "100"
+msgid "Dad!? Why would you do this!? What on earth were you thinking!?"
+msgstr ""
+
+msgctxt "112"
+msgid "Kiryu-san... Let me apologize for my daughter's frivolous actions."
+msgstr ""
+
+msgctxt "124"
+msgid "Huh? What are you talking about?"
+msgstr ""
+
+msgctxt "136"
+msgid ""
+"You can stop pretending. I know she asked you to pretend to be her "
+"boyfriend."
+msgstr ""
+
+msgctxt "148"
+msgid "...Huh?"
+msgstr ""
+
+msgctxt "160"
+msgid "Heh. I know the way your mind works, young lady."
+msgstr ""
+
+msgctxt "172"
+msgid "So you knew the whole time..."
+msgstr ""
+
+msgctxt "184"
+msgid ""
+"I was worried before, but I feel a lot better now that I know that a big, "
+"strong guy like you is good enough friends with her to play along with her "
+"like this."
+msgstr ""
+
+msgctxt "196"
+msgid "Kiryu-san..."
+msgstr ""
+
+msgctxt "208"
+msgid ""
+"If my daughter starts down the wrong path... you'd better do everything in "
+"your power to put her back on the right course."
+msgstr ""
+
+msgctxt "220"
+msgid "Please watch over for her, in my stead."
+msgstr ""
+
+msgctxt "232"
+msgid "I will."
+msgstr ""
+
+msgctxt "292"
+msgid "I can't believe he knew the whole time..."
+msgstr ""
+
+msgctxt "304"
+msgid "Heh... No fooling him, I guess."
+msgstr ""
+
+msgctxt "316"
+msgid "Still... I never knew how much my dad cared about me."
+msgstr ""
+
+msgctxt "328"
+msgid "He sure seems to care a lot about you. He's a good dad."
+msgstr ""
+
+msgctxt "340"
+msgid ""
+"Yeah... You know what, you're right. I'm not going to sit around and worry "
+"about myself anymore!"
+msgstr ""
+
+msgctxt "352"
+msgid "I made the choice to move to Okinawa, and I'm going to make the most of it!"
+msgstr ""
+
+msgctxt "364"
+msgid "That's the spirit."
+msgstr ""
+
+msgctxt "376"
+msgid "But before I do..."
+msgstr ""
+
+msgctxt "388"
+msgid "What now?"
+msgstr ""
+
+msgctxt "400"
+msgid ""
+"Well, I have to thank you for all your help, don't I? "
+"<Color:255,200,200,255>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "412"
+msgid "...Oh."
+msgstr ""
+
+msgctxt "424"
+msgid ""
+"Kiryu-san... I know you're probably only into younger women, but... would "
+"you ever be interested in an old lady like me?"
+msgstr ""
+
+msgctxt "436"
+msgid "You're hardly an old lady."
+msgstr ""
+
+msgctxt "448"
+msgid ""
+"Hehehe! <Color:255,200,200,255>⑮<Color:Default> I'm glad you think so! "
+"<Color:255,200,200,255>⑮<Color:Default><Color:255,200,200,255"
+">⑮<Color:Default><Color:255,200,200,255>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "460"
+msgid ""
+"I feel like I've been waiting for this moment to come forever... "
+"<Color:255,200,200,255>⑮<Color:Default> So... you know... maybe we could... "
+"<Color:255,200,200,255>⑮<Color:Default><Color:255,200,200,255"
+">⑮<Color:Default>"
+msgstr ""
+
+msgctxt "6664"
+msgid "Mika"
+msgstr ""
+
+msgctxt "6668"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "6672"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "6676"
+msgid "Mika's Father"
+msgstr ""
+
+msgctxt "6680"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "6684"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "6688"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "6692"
+msgid "Talk_Udekumi_st"
+msgstr ""
+
+msgctxt "6696"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "6700"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "6704"
+msgid "Talk_Udekumi_ed"
+msgstr ""
+
+msgctxt "6708"
+msgid "Talk_Cry"
+msgstr ""
+
+msgctxt "6712"
+msgid "Talk_Kamae"
+msgstr ""
+
+msgctxt "6716"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "6720"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "6724"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "6728"
+msgid "F_sxy_stand_sync_dakitukiA_st"
+msgstr ""
+
+msgctxt "6732"
+msgid "P_stand_sync_dakitukiA_st"
+msgstr ""

@@ -1,0 +1,156 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "92"
+msgid "Agh... Those kids really messed me up..."
+msgstr ""
+
+msgctxt "104"
+msgid "Hey, are you okay?"
+msgstr ""
+
+msgctxt "116"
+msgid ""
+"These little punks swarmed me all of a sudden, laughing about \"hunting "
+"homeless\"..."
+msgstr ""
+
+msgctxt "128"
+msgid ""
+"Unforgivable... Anyone who doesn't follow Kamurocho's rules doesn't deserve "
+"to live here."
+msgstr ""
+
+msgctxt "152"
+msgid "I have a favor to ask you⑬from one man of Kamurocho to another!"
+msgstr ""
+
+msgctxt "164"
+msgid "Oh, yeah? What's that?"
+msgstr ""
+
+msgctxt "176"
+msgid "I need you to help our friends!"
+msgstr ""
+
+msgctxt "188"
+msgid "Help how?"
+msgstr ""
+
+msgctxt "200"
+msgid "As it happens, those punks have been targeting us homeless for a reason."
+msgstr ""
+
+msgctxt "212"
+msgid "They stormed our main shelter, and turned it into their own hideout!"
+msgstr ""
+
+msgctxt "224"
+msgid "Some abandoned building in Kamurocho, I take it?"
+msgstr ""
+
+msgctxt "236"
+msgid ""
+"Yeah. When Kamurocho Hills was slated for construction in Purgatory three "
+"years ago, we had to hole up somewhere else."
+msgstr ""
+
+msgctxt "248"
+msgid ""
+"But now those thugs have driven us out of our building... and whenever they "
+"see us, they beat us down!"
+msgstr ""
+
+msgctxt "260"
+msgid "They're the worst of the worst."
+msgstr ""
+
+msgctxt "272"
+msgid ""
+"These young thugs are too much for us! Can you step in for us, and take "
+"back the Dragon Palace once and for all?"
+msgstr ""
+
+msgctxt "284"
+msgid "Did you say it's the \"Dragon Palace\"?"
+msgstr ""
+
+msgctxt "296"
+msgid "Yep! That's what we've been calling the place. The Dragon Palace!"
+msgstr ""
+
+msgctxt "308"
+msgid ""
+"(The name sounds familiar... I feel like I heard about this Dragon Palace "
+"some three years back.)"
+msgstr ""
+
+msgctxt "320"
+msgid "Where is this Dragon Palace, anyway?"
+msgstr ""
+
+msgctxt "332"
+msgid ""
+"It's behind the MEB info center! So how 'bout it? Wanna take the Dragon "
+"Palace back from these punks?"
+msgstr ""
+
+msgctxt "344"
+msgid ""
+"Sure. Kamurocho is no place for that kind of toxic mold. We can't let it go "
+"unchecked."
+msgstr ""
+
+msgctxt "356"
+msgid "I'm not going to let some pack of kids ruin my town."
+msgstr ""
+
+msgctxt "368"
+msgid ""
+"I... I'm not sure what you're gettin' at, but thanks all the same! You're "
+"our savior! Good luck out there!"
+msgstr ""
+
+msgctxt "380"
+msgid "Got it."
+msgstr ""
+
+msgctxt "440"
+msgid ""
+"(He said the Dragon Palace was behind the MEB info center. I'll have to "
+"check it out sometime.)"
+msgstr ""
+
+msgctxt "4216"
+msgid "Homeless Man"
+msgstr ""
+
+msgctxt "4220"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "4224"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "4228"
+msgid "M_old_stand"
+msgstr ""
+
+msgctxt "4232"
+msgid "Talk_Request"
+msgstr ""
+
+msgctxt "4236"
+msgid "Talk_Yes"
+msgstr ""

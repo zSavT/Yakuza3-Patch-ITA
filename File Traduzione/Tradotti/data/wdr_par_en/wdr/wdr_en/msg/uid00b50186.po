@@ -1,0 +1,122 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "80"
+msgid "Eeeeeeep! Somebody help!"
+msgstr ""
+
+msgctxt "92"
+msgid "Well? Did that loosen your tongue?"
+msgstr ""
+
+msgctxt "104"
+msgid ""
+"I think I might've bit my tongue, as a matter of fact...\r\n"
+"Anyway, what do you want from me?"
+msgstr ""
+
+msgctxt "116"
+msgid ""
+"I'm looking for bouncers on behalf of a casino, and we could\r\n"
+"use your knowledge of weapons."
+msgstr ""
+
+msgctxt "128"
+msgid ""
+"Weapons, you say! In that case, I'm your man! Stun guns...\r\n"
+"handguns... You name it!"
+msgstr ""
+
+msgctxt "140"
+msgid "Bouncers can use weapons whenever they want, right!?"
+msgstr ""
+
+msgctxt "152"
+msgid "Well... Yeah, I guess so."
+msgstr ""
+
+msgctxt "164"
+msgid ""
+"Really!? And I can use the stuff at the club, right!? Hmm,\r\n"
+"I wonder if they got anything rare... There's only so much\r\n"
+"you can buy online..."
+msgstr ""
+
+msgctxt "176"
+msgid ""
+"Okay, look. The place is in a building on Park Boulevard.\r\n"
+"I'll give you the number. You can go there whenever you're\r\n"
+"ready. Sound good?"
+msgstr ""
+
+msgctxt "188"
+msgid ""
+"Shoot, I'll head over there right away! Oh, and the name's\r\n"
+"Hirano!"
+msgstr ""
+
+msgctxt "272"
+msgid "You got 3,000 EXP."
+msgstr ""
+
+msgctxt "284"
+msgid "I can put my weapons to work here."
+msgstr ""
+
+msgctxt "296"
+msgid "Don't worry, Rumi-chan! I'll protect you!"
+msgstr ""
+
+msgctxt "2888"
+msgid "Weapons Nut"
+msgstr ""
+
+msgctxt "2892"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "2896"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "2900"
+msgid "M_ykz_damage_tlk_yes"
+msgstr ""
+
+msgctxt "2904"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "2908"
+msgid "Hirano"
+msgstr ""
+
+msgctxt "2912"
+msgid "dummy"
+msgstr ""
+
+msgctxt "2916"
+msgid "M_nml_stand"
+msgstr ""
+
+msgctxt "2920"
+msgid "Talk_Kamae"
+msgstr ""
+
+msgctxt "2924"
+msgid "0"
+msgstr ""
+
+msgctxt "2928"
+msgid "Talk_Odosu"
+msgstr ""

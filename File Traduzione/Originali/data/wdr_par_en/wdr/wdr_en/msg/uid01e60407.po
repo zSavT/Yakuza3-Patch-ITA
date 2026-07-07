@@ -1,0 +1,64 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "80"
+msgid "(Hm... I guess it <Italic>does</Italic> look a bit like a turtle.)"
+msgstr ""
+
+msgctxt "92"
+msgid "(Better give Matsushima a call.)"
+msgstr ""
+
+msgctxt "140"
+msgid "Awamori Emporium, Matsushima speaking."
+msgstr ""
+
+msgctxt "152"
+msgid ""
+"It's Kiryu. I found a rock on the beach that looks like\r\n"
+"a turtle."
+msgstr ""
+
+msgctxt "164"
+msgid "Really!?"
+msgstr ""
+
+msgctxt "176"
+msgid ""
+"Yeah. It's out in front of Morning Glory. Come see for\r\n"
+"yourself."
+msgstr ""
+
+msgctxt "188"
+msgid "Of course! I'll be right there!"
+msgstr ""
+
+msgctxt "1660"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1664"
+msgid "P_stand_tlk_phone_st"
+msgstr ""
+
+msgctxt "1668"
+msgid "Awamori-Maker Matsushima"
+msgstr ""
+
+msgctxt "1672"
+msgid "P_stand_tlk_phone_ed"
+msgstr ""
+
+msgctxt "1676"
+msgid "dummy"
+msgstr ""

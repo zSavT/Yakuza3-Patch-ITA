@@ -1,0 +1,169 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "100"
+msgid "*cough* What the hell..."
+msgstr ""
+
+msgctxt "112"
+msgid "Now how about you admit you were trying to scam me?"
+msgstr ""
+
+msgctxt "124"
+msgid "Yeah, all right. I'm sure you figured it out already."
+msgstr ""
+
+msgctxt "136"
+msgid ""
+"Mariko plants her wallet in somebody's bag or whatever, makes a big deal "
+"out of getting robbed, and convinces them to \"settle\" things with a "
+"payment."
+msgstr ""
+
+msgctxt "148"
+msgid "If they don't pay up, we come out to set them straight."
+msgstr ""
+
+msgctxt "160"
+msgid ""
+"A lot of people panic when they find out they have somebody else's wallet. "
+"It's easy to make them pay a settlement when they're all worked up..."
+msgstr ""
+
+msgctxt "172"
+msgid "How did you get away with this lame scam for so long?"
+msgstr ""
+
+msgctxt "184"
+msgid "It worked out fine until you showed up..."
+msgstr ""
+
+msgctxt "196"
+msgid ""
+"Let's just go, Toru. This trick isn't gonna work anymore now that we've "
+"been caught."
+msgstr ""
+
+msgctxt "208"
+msgid ""
+"Maybe we could just find real jobs? I'm so afraid that one day, we're going "
+"to try to scam someone dangerous who doesn't fall for it..."
+msgstr ""
+
+msgctxt "220"
+msgid ""
+"You should listen to her. Trying to pull crap like this in Kamurocho is a "
+"good way to get yourself killed."
+msgstr ""
+
+msgctxt "232"
+msgid "Quit now before you're bleeding out in an alley."
+msgstr ""
+
+msgctxt "244"
+msgid "Don't lecture me on my own trade, old man."
+msgstr ""
+
+msgctxt "256"
+msgid ""
+"I don't care if you want to ruin your own life, but it's not right to drag "
+"your girlfriend down with you."
+msgstr ""
+
+msgctxt "268"
+msgid "I'm giving you a lecture for her sake, not for yours."
+msgstr ""
+
+msgctxt "280"
+msgid "......"
+msgstr ""
+
+msgctxt "292"
+msgid ""
+"Look at how scared she is. Can't you tell that she doesn't want anything to "
+"do with these schemes anymore?"
+msgstr ""
+
+msgctxt "304"
+msgid "Huh? Is that true, Mariko?"
+msgstr ""
+
+msgctxt "316"
+msgid "It's just..."
+msgstr ""
+
+msgctxt "328"
+msgid ""
+"The longer you keep this up, the more danger she'll be in. The money isn't "
+"worth her life."
+msgstr ""
+
+msgctxt "340"
+msgid "Maybe you're right... Guess I've got some thinking to do..."
+msgstr ""
+
+msgctxt "352"
+msgid "Let's get outta here, Mariko."
+msgstr ""
+
+msgctxt "412"
+msgid "You got 3,000 EXP."
+msgstr ""
+
+msgctxt "4712"
+msgid "Toru"
+msgstr ""
+
+msgctxt "4716"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "4720"
+msgid "Talk_Kamae"
+msgstr ""
+
+msgctxt "4724"
+msgid "Talk_Udekumi_st"
+msgstr ""
+
+msgctxt "4728"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "4732"
+msgid "Mariko"
+msgstr ""
+
+msgctxt "4736"
+msgid "Talk_Udekumi_Yes"
+msgstr ""
+
+msgctxt "4740"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "4744"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "4748"
+msgid "P_stand_tlk_kamae"
+msgstr ""
+
+msgctxt "4752"
+msgid "0"
+msgstr ""
+
+msgctxt "4756"
+msgid "dummy"
+msgstr ""

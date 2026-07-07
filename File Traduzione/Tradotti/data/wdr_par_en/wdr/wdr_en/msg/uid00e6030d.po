@@ -1,0 +1,197 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "116"
+msgid "Kiryu-san! Hey, Kiryu-san!"
+msgstr ""
+
+msgctxt "128"
+msgid "Hmm? Yuya, what're you doing here?"
+msgstr ""
+
+msgctxt "140"
+msgid ""
+"I come by here for drinks now and then. Man, who's that\r\n"
+"cutie with you? On a date? I'm jealous!"
+msgstr ""
+
+msgctxt "152"
+msgid "It's not a date. I just happened to run into her here."
+msgstr ""
+
+msgctxt "164"
+msgid ""
+"Oh, come on, don't be coy! I saw you two over there!\r\n"
+"You were really hitting it off!"
+msgstr ""
+
+msgctxt "176"
+msgid "Were you listening in, too?"
+msgstr ""
+
+msgctxt "188"
+msgid ""
+"...Yeah, sorry. I know I shouldn't but when I saw you here\r\n"
+"with a cute girl, I couldn't help but get curious!"
+msgstr ""
+
+msgctxt "200"
+msgid "......"
+msgstr ""
+
+msgctxt "212"
+msgid ""
+"Anyway, so I heard what she was saying about that guy she\r\n"
+"likes. Don't you think she's talking about you, Kiryu-san?"
+msgstr ""
+
+msgctxt "224"
+msgid ""
+"No, I don't think so. She's just opening up to me about\r\n"
+"something she's worried about."
+msgstr ""
+
+msgctxt "236"
+msgid ""
+"Come on, that can't be it. I see what's going on here. I'm a\r\n"
+"host, after all!"
+msgstr ""
+
+msgctxt "248"
+msgid ""
+"See, some girls act like they want to get advice, but really,\r\n"
+"what they're doing is trying to figure out how the other person\r\n"
+"feels about them."
+msgstr ""
+
+msgctxt "260"
+msgid "Is that so?"
+msgstr ""
+
+msgctxt "272"
+msgid "Remember what she said earlier. First impression: scary guy."
+msgstr ""
+
+msgctxt "284"
+msgid "Honest, straightforward gaze."
+msgstr ""
+
+msgctxt "296"
+msgid "A back that hints at a serious past."
+msgstr ""
+
+msgctxt "308"
+msgid "Really strong."
+msgstr ""
+
+msgctxt "320"
+msgid ""
+"That describes you down to the letter, Kiryu-san. Plus,\r\n"
+"there's the way she looks at you. It's the exact same way\r\n"
+"a girl might look at her celebrity crush."
+msgstr ""
+
+msgctxt "332"
+msgid "......"
+msgstr ""
+
+msgctxt "344"
+msgid ""
+"With the way she's been talking to you, it doesn't seem like\r\n"
+"she's that inexperienced when it comes to romance."
+msgstr ""
+
+msgctxt "356"
+msgid ""
+"There's gotta be a reason why she's not coming out and\r\n"
+"telling you how she feels."
+msgstr ""
+
+msgctxt "368"
+msgid "What do you mean?"
+msgstr ""
+
+msgctxt "380"
+msgid ""
+"Like, some sort of secret she doesn't want you to know!\r\n"
+"For example, maybe she's a single mother, or helping her\r\n"
+"parents pay off a ton of debt."
+msgstr ""
+
+msgctxt "392"
+msgid ""
+"She might just be curious about how you'll react to that\r\n"
+"secret of hers."
+msgstr ""
+
+msgctxt "404"
+msgid "It's how girls gotta do things, sometimes."
+msgstr ""
+
+msgctxt "428"
+msgid ""
+"Oh, shoot, she's probably coming back soon! I'll back\r\n"
+"off. Good luck!"
+msgstr ""
+
+msgctxt "440"
+msgid "See ya."
+msgstr ""
+
+msgctxt "5044"
+msgid "P_sitcntL"
+msgstr ""
+
+msgctxt "5048"
+msgid "P_sitcntL_tlk_kamae"
+msgstr ""
+
+msgctxt "5052"
+msgid "Yuya"
+msgstr ""
+
+msgctxt "5056"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "5060"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "5064"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "5068"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "5072"
+msgid "Talk_Sorry"
+msgstr ""
+
+msgctxt "5076"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "5080"
+msgid "Talk_NoBig"
+msgstr ""
+
+msgctxt "5084"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "5088"
+msgid "Talk_Info_F"
+msgstr ""

@@ -1,0 +1,132 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "129\t195"
+msgid "Date!"
+msgstr ""
+
+msgctxt "180\t247"
+msgid ""
+"What're you doing!?\\n"
+"Let her go!"
+msgstr ""
+
+msgctxt "306\t356"
+msgid "Don't move!"
+msgstr ""
+
+msgctxt "357\t417"
+msgid "Or she gets it."
+msgstr ""
+
+msgctxt "509\t654"
+msgid ""
+"Feeling a little nostalgic?\\n"
+"Or perhaps a bit of deja vu?"
+msgstr ""
+
+msgctxt "655\t797"
+msgid ""
+"Ironic, ain't it? Bumping off a cop and\\n"
+"his superior officer in the very same spot."
+msgstr ""
+
+msgctxt "875\t1005"
+msgid ""
+"I admit I botched things up back then,\\n"
+"but you won't be so lucky this time."
+msgstr ""
+
+msgctxt "1018\t1132"
+msgid "I'll put bullets in every single one of you."
+msgstr ""
+
+msgctxt "1139\t1249"
+msgid "So, who wants to go first?"
+msgstr ""
+
+msgctxt "1260\t1320"
+msgid "Tsukishima."
+msgstr ""
+
+msgctxt "1327\t1388"
+msgid "I won't let you pull the same trick twice."
+msgstr ""
+
+msgctxt "1389\t1442"
+msgid "Excuse me?"
+msgstr ""
+
+msgctxt "1443\t1505"
+msgid "Listen, Mama."
+msgstr ""
+
+msgctxt "1518\t1609"
+msgid "I don't mean to speak ill of the dead..."
+msgstr ""
+
+msgctxt "1610\t1672"
+msgid "But Keisuke shouldn't have hesitated."
+msgstr ""
+
+msgctxt "1730\t1808"
+msgid ""
+"If there's someone that's really\\n"
+"precious to you..."
+msgstr ""
+
+msgctxt "1809\t1960"
+msgid ""
+"Then you have to do whatever it takes\\n"
+"to protect them. There's no running from that."
+msgstr ""
+
+msgctxt "1987\t2215"
+msgid ""
+"Otherwise, all you'll end up doing is leaving\\n"
+"behind regrets. For yourself and your loved ones."
+msgstr ""
+
+msgctxt "2237\t2297"
+msgid "Date-san..."
+msgstr ""
+
+msgctxt "2314\t2396"
+msgid "You've always been precious to me."
+msgstr ""
+
+msgctxt "2404\t2541"
+msgid ""
+"And I protect what's precious to me,\\n"
+"no matter what I have to do."
+msgstr ""
+
+msgctxt "2568\t2631"
+msgid "I've always prided myself on that!"
+msgstr ""
+
+msgctxt "2636\t2732"
+msgid "So... That's how I'm gonna end this situation!"
+msgstr ""
+
+msgctxt "2733\t2830"
+msgid "I'll end you first, Date!"
+msgstr ""
+
+msgctxt "3195\t3255"
+msgid "Mama..."
+msgstr ""
+
+msgctxt "3287\t3347"
+msgid "Date-san..."
+msgstr ""

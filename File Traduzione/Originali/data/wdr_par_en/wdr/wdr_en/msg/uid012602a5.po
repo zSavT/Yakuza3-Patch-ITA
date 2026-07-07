@@ -1,0 +1,64 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "100"
+msgid "It's Kiryu."
+msgstr ""
+
+msgctxt "112"
+msgid "Hey, it's Yanai. The freelance photographer, remember?"
+msgstr ""
+
+msgctxt "124"
+msgid "Yanai... Oh, yeah. From the Hirata case."
+msgstr ""
+
+msgctxt "136"
+msgid "The papers loved the shots. They're gonna be in next week's edition."
+msgstr ""
+
+msgctxt "148"
+msgid ""
+"They've printed off a few proofs, so I sent one to that bar for you. "
+"Shellac, I mean."
+msgstr ""
+
+msgctxt "160"
+msgid "Might be worth reading, if you've got time. See you."
+msgstr ""
+
+msgctxt "208"
+msgid ""
+"(An article about the Hiratas, huh...? Guess I should head over to Shellac "
+"sooner or later.)"
+msgstr ""
+
+msgctxt "1464"
+msgid "P_stand_tlk_phone_st"
+msgstr ""
+
+msgctxt "1468"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1472"
+msgid "Yanai the Photographer"
+msgstr ""
+
+msgctxt "1476"
+msgid "P_stand_tlk_phone_ed"
+msgstr ""
+
+msgctxt "1480"
+msgid "dummy"
+msgstr ""

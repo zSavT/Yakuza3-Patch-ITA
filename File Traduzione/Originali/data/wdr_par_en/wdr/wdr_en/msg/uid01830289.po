@@ -1,0 +1,68 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid "Divine Dragon? What kinda shop is this?"
+msgstr ""
+
+msgctxt "76"
+msgid "It's a tattoo parlor."
+msgstr ""
+
+msgctxt "88"
+msgid "Seriously? You're tellin' me there's a tattoo artist holed up in there?"
+msgstr ""
+
+msgctxt "100"
+msgid "Yeah, Master Utabori. He's the one who takes care of the tattoo on my back."
+msgstr ""
+
+msgctxt "112"
+msgid "Whoa... The guy's gotta be legendary if he did your dragon."
+msgstr ""
+
+msgctxt "124"
+msgid "Heh, you starstruck?"
+msgstr ""
+
+msgctxt "136"
+msgid ""
+"No, it's just... my viper's not finished. So I was thinking, maybe, "
+"y'know..."
+msgstr ""
+
+msgctxt "148"
+msgid "I get it. You want me to ask Master Utabori if he'll finish it up for you."
+msgstr ""
+
+msgctxt "160"
+msgid ""
+"Would you!? I'd be honored to get work done by the same guy who worked on "
+"you, Aniki!"
+msgstr ""
+
+msgctxt "172"
+msgid "Follow me."
+msgstr ""
+
+msgctxt "1968"
+msgid "Rikiya"
+msgstr ""
+
+msgctxt "1972"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1976"
+msgid "Talk_Think"
+msgstr ""

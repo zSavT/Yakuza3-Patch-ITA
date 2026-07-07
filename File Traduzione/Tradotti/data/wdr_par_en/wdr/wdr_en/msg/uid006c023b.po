@@ -1,0 +1,230 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "124"
+msgid "Heheheh. You can't beat me, Kiryu-san."
+msgstr ""
+
+msgctxt "136"
+msgid "C'mon, let's go inside."
+msgstr ""
+
+msgctxt "148"
+msgid "Sure."
+msgstr ""
+
+msgctxt "172"
+msgid "Heheheh. You can't beat me, Kiryu-san."
+msgstr ""
+
+msgctxt "184"
+msgid "C'mon, let's go inside."
+msgstr ""
+
+msgctxt "196"
+msgid "Hold on a second... Looks like I'm a little short on cash."
+msgstr ""
+
+msgctxt "208"
+msgid "Huh? Are you serious?"
+msgstr ""
+
+msgctxt "220"
+msgid "Sorry..."
+msgstr ""
+
+msgctxt "232"
+msgid "Aww... Then I'm gonna go home for the day. See you, Kiryu-san."
+msgstr ""
+
+msgctxt "244"
+msgid "(Better make sure I bring enough cash next time...)"
+msgstr ""
+
+msgctxt "352"
+msgid "That was awesome! I should've figured you were a bowling pro."
+msgstr ""
+
+msgctxt "364"
+msgid "You could say that."
+msgstr ""
+
+msgctxt "376"
+msgid "I had a lot of fun! Take me out again soon, okay? <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "388"
+msgid "See you later!"
+msgstr ""
+
+msgctxt "412"
+msgid "Heheheh... Let's call it a draw."
+msgstr ""
+
+msgctxt "424"
+msgid "Yep."
+msgstr ""
+
+msgctxt "436"
+msgid "I had a lot of fun! Take me out again soon, okay? <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "448"
+msgid "See you later!"
+msgstr ""
+
+msgctxt "472"
+msgid "Heheh... Too bad, Kiryu-san. That's my win! <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "484"
+msgid "Yep."
+msgstr ""
+
+msgctxt "496"
+msgid "I had a lot of fun. Take me out again soon, okay? <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "508"
+msgid "See you later!"
+msgstr ""
+
+msgctxt "532"
+msgid "Major error! No flags set for conversation selection!"
+msgstr ""
+
+msgctxt "616"
+msgid "Heheheh. You can't beat me, Kiryu-san."
+msgstr ""
+
+msgctxt "628"
+msgid "C'mon, let's go inside."
+msgstr ""
+
+msgctxt "640"
+msgid "Sure."
+msgstr ""
+
+msgctxt "664"
+msgid "Heheheh. You can't beat me, Kiryu-san."
+msgstr ""
+
+msgctxt "676"
+msgid "C'mon, let's go inside."
+msgstr ""
+
+msgctxt "688"
+msgid "Hold on a second... Looks like I'm a little short on cash."
+msgstr ""
+
+msgctxt "700"
+msgid "Huh? Are you serious?"
+msgstr ""
+
+msgctxt "712"
+msgid "Sorry..."
+msgstr ""
+
+msgctxt "724"
+msgid "Aww... Then I'm gonna go home for the day. See you, Kiryu-san."
+msgstr ""
+
+msgctxt "736"
+msgid "(Better make sure I bring enough cash next time...)"
+msgstr ""
+
+msgctxt "844"
+msgid "That was awesome! I should've figured you were a bowling pro."
+msgstr ""
+
+msgctxt "856"
+msgid "Maybe."
+msgstr ""
+
+msgctxt "868"
+msgid ""
+"I had a great time! Let's head over to the club now. "
+"<Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "880"
+msgid "Yeah, let's do that."
+msgstr ""
+
+msgctxt "904"
+msgid "Heheheh... Let's call it a draw."
+msgstr ""
+
+msgctxt "916"
+msgid "Sure."
+msgstr ""
+
+msgctxt "928"
+msgid ""
+"I had a great time! Let's head over to the club now. "
+"<Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "940"
+msgid "Yeah, let's do that."
+msgstr ""
+
+msgctxt "964"
+msgid "Heheh... Too bad, Kiryu-san. That's my win! <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "976"
+msgid "Yep."
+msgstr ""
+
+msgctxt "988"
+msgid ""
+"I had a great time! Let's head over to the club now. "
+"<Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "1000"
+msgid "Yeah, let's do that."
+msgstr ""
+
+msgctxt "1024"
+msgid "Major error! No flags set for conversation selection!"
+msgstr ""
+
+msgctxt "11540"
+msgid "Shiori"
+msgstr ""
+
+msgctxt "11544"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "11548"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "11552"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "11556"
+msgid "dummy"
+msgstr ""
+
+msgctxt "11560"
+msgid "0"
+msgstr ""
+
+msgctxt "11564"
+msgid "Talk_Yes"
+msgstr ""

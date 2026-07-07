@@ -1,0 +1,224 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "124"
+msgid "Welcome. Can I help you find something?"
+msgstr ""
+
+msgctxt "148"
+msgid ""
+"Uncle Kaz, I want to get some Shikwasa Candy for everybody back at Morning "
+"Glory."
+msgstr ""
+
+msgctxt "160"
+msgid "(Haruka wants to buy some Shikwasa Candy to bring back to Morning Glory...)"
+msgstr ""
+
+msgctxt "184"
+msgid ""
+"Aww... Everyone would've loved some <Color:8>Shikwasa "
+"Candy<Color:Default>..."
+msgstr ""
+
+msgctxt "196"
+msgid "Thank you very much."
+msgstr ""
+
+msgctxt "220"
+msgid "Thanks, Uncle Kaz! Everyone's gonna love these!"
+msgstr ""
+
+msgctxt "232"
+msgid "(Haruka seems happy...)"
+msgstr ""
+
+msgctxt "256"
+msgid ""
+"Uncle Kaz, I want to buy some Assorted Chinsuko Cookies for everybody back "
+"at Morning Glory!"
+msgstr ""
+
+msgctxt "268"
+msgid ""
+"(Haruka wants to buy some Assorted Chinsuko Cookies for the kids at Morning "
+"Glory...)"
+msgstr ""
+
+msgctxt "292"
+msgid ""
+"Aww... Everyone would've loved some <Color:8>Assorted Chinsuko "
+"Cookies<Color:Default>..."
+msgstr ""
+
+msgctxt "304"
+msgid "Thank you very much."
+msgstr ""
+
+msgctxt "328"
+msgid "Thanks, Uncle Kaz! Everyone's gonna love these!"
+msgstr ""
+
+msgctxt "340"
+msgid "(Haruka seems happy...)"
+msgstr ""
+
+msgctxt "412"
+msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
+msgstr ""
+
+msgctxt "424"
+msgid "You got <Color:8>Haruka's Necklace<Color:Default>."
+msgstr ""
+
+msgctxt "472"
+msgid ""
+"Thanks a ton, Uncle Kaz! I wanna come with you to play\r\n"
+"cho-han with you next time, okay?"
+msgstr ""
+
+msgctxt "484"
+msgid ""
+"Haruka will now occasionally predict the outcome of a round\r\n"
+"when you are playing cho-han."
+msgstr ""
+
+msgctxt "520"
+msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
+msgstr ""
+
+msgctxt "532"
+msgid "You got <Color:8>Haruka's Bento<Color:Default>."
+msgstr ""
+
+msgctxt "580"
+msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
+msgstr ""
+
+msgctxt "592"
+msgid "You got <Color:8>Haruka's First-Aid Kit<Color:Default>."
+msgstr ""
+
+msgctxt "640"
+msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
+msgstr ""
+
+msgctxt "652"
+msgid "You got a <Color:8>Red Jewel<Color:Default>."
+msgstr ""
+
+msgctxt "700"
+msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
+msgstr ""
+
+msgctxt "712"
+msgid "You got <Color:8>Haruka's Amulet<Color:Default>."
+msgstr ""
+
+msgctxt "760"
+msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
+msgstr ""
+
+msgctxt "772"
+msgid "You got <Color:8>Haruka's Chocolate<Color:Default>."
+msgstr ""
+
+msgctxt "820"
+msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
+msgstr ""
+
+msgctxt "832"
+msgid "You got <Color:8>Haruka's Candy<Color:Default>."
+msgstr ""
+
+msgctxt "880"
+msgid "Welcome, sir. Can I help you find something today?"
+msgstr ""
+
+msgctxt "892"
+msgid "Yeah, actually. I'm looking for a bone."
+msgstr ""
+
+msgctxt "904"
+msgid "A... what?"
+msgstr ""
+
+msgctxt "916"
+msgid "You know, like something a dog can chew on?"
+msgstr ""
+
+msgctxt "928"
+msgid "Ah, yes. Of course. And it's... a bone you want?"
+msgstr ""
+
+msgctxt "940"
+msgid "I don't know why this is so hard. Yes, a bone."
+msgstr ""
+
+msgctxt "952"
+msgid ""
+"Well then I must apologize, sir. We don't carry anything of\r\n"
+"the sort in this store."
+msgstr ""
+
+msgctxt "964"
+msgid "...Not sure why I thought you would. Sorry to bother you."
+msgstr ""
+
+msgctxt "988"
+msgid "Welcome, sir. Can I help you find something today?"
+msgstr ""
+
+msgctxt "1012"
+msgid "Thank you very much."
+msgstr ""
+
+msgctxt "8780"
+msgid "Employee"
+msgstr ""
+
+msgctxt "8784"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "8788"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "8792"
+msgid "Talk_Request"
+msgstr ""
+
+msgctxt "8796"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "8800"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "8804"
+msgid "HAL_stand_tlk_happy_small"
+msgstr ""
+
+msgctxt "8808"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "8812"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "8816"
+msgid "Talk_Gakkari"
+msgstr ""

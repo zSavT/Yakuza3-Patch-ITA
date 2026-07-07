@@ -1,0 +1,158 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "80"
+msgid "Uncle Kaz!"
+msgstr ""
+
+msgctxt "92"
+msgid "What's up, Riona?"
+msgstr ""
+
+msgctxt "104"
+msgid "Do you know where Haruka-chan is? I need to talk to her!"
+msgstr ""
+
+msgctxt "116"
+msgid "Probably out shopping for groceries if she's not home."
+msgstr ""
+
+msgctxt "128"
+msgid "Huh!? But I need her now!"
+msgstr ""
+
+msgctxt "140"
+msgid "What's the rush?"
+msgstr ""
+
+msgctxt "152"
+msgid ""
+"Well, I'm gonna go hang out with some friends from school,\r\n"
+"so I was trying to make a bento."
+msgstr ""
+
+msgctxt "164"
+msgid ""
+"But I can't figure out how to make duruwakashi...\r\n"
+"You know, the mashed taro with pork?"
+msgstr ""
+
+msgctxt "176"
+msgid ""
+"I've definitely seen Haruka-chan make it before, but I can't\r\n"
+"find her anywhere. Do you know how to make it, Uncle Kaz?"
+msgstr ""
+
+msgctxt "188"
+msgid "More or less. I'm not a local, but I can manage."
+msgstr ""
+
+msgctxt "200"
+msgid "Really? Come on, teach me! Let's go!"
+msgstr ""
+
+msgctxt "224"
+msgid "All right, all right. Calm down."
+msgstr ""
+
+msgctxt "284"
+msgid "So? Think you understand?"
+msgstr ""
+
+msgctxt "296"
+msgid ""
+"Yeah! Thanks, Uncle Kaz! I didn't realize you could make\r\n"
+"stuff that wasn't curry!"
+msgstr ""
+
+msgctxt "308"
+msgid "...I guess my menu has been a bit limited at times."
+msgstr ""
+
+msgctxt "332"
+msgid "Anyway, go have fun. And stay out of the street, okay?"
+msgstr ""
+
+msgctxt "344"
+msgid "Mhm!"
+msgstr ""
+
+msgctxt "392"
+msgid "Ah, Kiryu-san! I couldn't help but overhear!"
+msgstr ""
+
+msgctxt "404"
+msgid ""
+"You and that flowery man... Rikiya-kun, was it? You want to\r\n"
+"make Mitsuo-kun more popular with the ladies, yes?"
+msgstr ""
+
+msgctxt "416"
+msgid ""
+"Uh... yeah. I honestly don't know a whole lot about the\r\n"
+"latest trends, though. I was just gonna window shop a bit\r\n"
+"downtown."
+msgstr ""
+
+msgctxt "428"
+msgid ""
+"I see. In that case, I'd recommend stopping in the store\r\n"
+"<Color:7>right near the big intersection<Color:Default>."
+msgstr ""
+
+msgctxt "440"
+msgid ""
+"I've never actually stepped foot in the place myself, but\r\n"
+"one of the resident neighborhood housewives seemed very\r\n"
+"keen on their products."
+msgstr ""
+
+msgctxt "452"
+msgid "All right, I'll give it a shot. Thanks, Miyara-san."
+msgstr ""
+
+msgctxt "5340"
+msgid "Riona"
+msgstr ""
+
+msgctxt "5344"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "5348"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "5352"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "5356"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "5360"
+msgid "Talk_Kansin"
+msgstr ""
+
+msgctxt "5364"
+msgid "0"
+msgstr ""
+
+msgctxt "5368"
+msgid "dummy"
+msgstr ""
+
+msgctxt "5372"
+msgid "Miyara"
+msgstr ""

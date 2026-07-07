@@ -1,0 +1,712 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "3948\tDIFFICULT"
+msgid "EASY"
+msgstr ""
+
+msgctxt "3953\tDIFFICULT"
+msgid "NORMAL"
+msgstr ""
+
+msgctxt "3960\tDIFFICULT"
+msgid "HARD"
+msgstr ""
+
+msgctxt "3965\tDIFFICULT"
+msgid "SUPER_HARD"
+msgstr ""
+
+msgctxt "4123\tDIFFICULT"
+msgid "30000"
+msgstr ""
+
+msgctxt "5819\tNAME_ENEMY"
+msgid "Dog"
+msgstr ""
+
+msgctxt "5823\tNAME_ENEMY"
+msgid "Dog"
+msgstr ""
+
+msgctxt "5827\tNAME_ENEMY"
+msgid "Dog"
+msgstr ""
+
+msgctxt "5831\tNAME_ENEMY"
+msgid "Dog"
+msgstr ""
+
+msgctxt "5835\tNAME_ENEMY"
+msgid "Man in Black"
+msgstr ""
+
+msgctxt "5848\tNAME_ENEMY"
+msgid "Man in Black"
+msgstr ""
+
+msgctxt "5861\tNAME_ENEMY"
+msgid "Man in Black"
+msgstr ""
+
+msgctxt "5874\tNAME_ENEMY"
+msgid "Man in Black"
+msgstr ""
+
+msgctxt "5887\tNAME_ENEMY"
+msgid "Police Officer"
+msgstr ""
+
+msgctxt "5902\tNAME_ENEMY"
+msgid "Police Officer"
+msgstr ""
+
+msgctxt "5917\tNAME_ENEMY"
+msgid "Police Officer"
+msgstr ""
+
+msgctxt "5932\tNAME_ENEMY"
+msgid "Police Officer"
+msgstr ""
+
+msgctxt "5947\tNAME_ENEMY"
+msgid "Snake Flower Officer"
+msgstr ""
+
+msgctxt "5968\tNAME_ENEMY"
+msgid "Snake Flower Officer"
+msgstr ""
+
+msgctxt "5989\tNAME_ENEMY"
+msgid "Snake Flower Officer"
+msgstr ""
+
+msgctxt "6010\tNAME_ENEMY"
+msgid "Snake Flower Officer"
+msgstr ""
+
+msgctxt "6031\tNAME_ENEMY"
+msgid "Ayako"
+msgstr ""
+
+msgctxt "6037\tNAME_ENEMY"
+msgid "Ayako"
+msgstr ""
+
+msgctxt "6043\tNAME_ENEMY"
+msgid "Ayako"
+msgstr ""
+
+msgctxt "6049\tNAME_ENEMY"
+msgid "Ayako"
+msgstr ""
+
+msgctxt "6055\tNAME_ENEMY"
+msgid "Ayako"
+msgstr ""
+
+msgctxt "6061\tNAME_ENEMY"
+msgid "Ayako"
+msgstr ""
+
+msgctxt "6067\tNAME_ENEMY"
+msgid "Ayako"
+msgstr ""
+
+msgctxt "6073\tNAME_ENEMY"
+msgid "Ayako"
+msgstr ""
+
+msgctxt "6079\tNAME_ENEMY"
+msgid "Ayako"
+msgstr ""
+
+msgctxt "6085\tNAME_ENEMY"
+msgid "Ayako"
+msgstr ""
+
+msgctxt "6091\tNAME_ENEMY"
+msgid "Ayako"
+msgstr ""
+
+msgctxt "6097\tNAME_ENEMY"
+msgid "Ayako"
+msgstr ""
+
+msgctxt "6103\tNAME_ENEMY"
+msgid "Police Officer"
+msgstr ""
+
+msgctxt "6118\tNAME_ENEMY"
+msgid "Police Officer"
+msgstr ""
+
+msgctxt "6133\tNAME_ENEMY"
+msgid "Police Officer"
+msgstr ""
+
+msgctxt "6148\tNAME_ENEMY"
+msgid "Police Officer"
+msgstr ""
+
+msgctxt "6163\tNAME_ENEMY"
+msgid "Mack"
+msgstr ""
+
+msgctxt "6168\tNAME_ENEMY"
+msgid "Mack"
+msgstr ""
+
+msgctxt "6173\tNAME_ENEMY"
+msgid "Mack"
+msgstr ""
+
+msgctxt "6178\tNAME_ENEMY"
+msgid "Mack"
+msgstr ""
+
+msgctxt "6183\tNAME_ENEMY"
+msgid "Mack"
+msgstr ""
+
+msgctxt "6188\tNAME_ENEMY"
+msgid "Mack"
+msgstr ""
+
+msgctxt "6193\tNAME_ENEMY"
+msgid "Mack"
+msgstr ""
+
+msgctxt "6198\tNAME_ENEMY"
+msgid "Mack"
+msgstr ""
+
+msgctxt "6203\tNAME_ENEMY"
+msgid "Mack"
+msgstr ""
+
+msgctxt "6208\tNAME_ENEMY"
+msgid "Mack"
+msgstr ""
+
+msgctxt "6213\tNAME_ENEMY"
+msgid "Mack"
+msgstr ""
+
+msgctxt "6218\tNAME_ENEMY"
+msgid "Mack"
+msgstr ""
+
+msgctxt "6223\tNAME_ENEMY"
+msgid "Mack"
+msgstr ""
+
+msgctxt "6228\tNAME_ENEMY"
+msgid "Mack"
+msgstr ""
+
+msgctxt "6233\tNAME_ENEMY"
+msgid "Mack"
+msgstr ""
+
+msgctxt "6238\tNAME_ENEMY"
+msgid "Mack"
+msgstr ""
+
+msgctxt "6243\tNAME_ENEMY"
+msgid "Mack"
+msgstr ""
+
+msgctxt "6248\tNAME_ENEMY"
+msgid "Mack"
+msgstr ""
+
+msgctxt "6253\tNAME_ENEMY"
+msgid "Mack"
+msgstr ""
+
+msgctxt "6258\tNAME_ENEMY"
+msgid "Mack"
+msgstr ""
+
+msgctxt "6263\tNAME_ENEMY"
+msgid "Mack"
+msgstr ""
+
+msgctxt "6268\tNAME_ENEMY"
+msgid "Mack"
+msgstr ""
+
+msgctxt "6273\tNAME_ENEMY"
+msgid "Mack"
+msgstr ""
+
+msgctxt "6278\tNAME_ENEMY"
+msgid "Mack"
+msgstr ""
+
+msgctxt "6283\tNAME_ENEMY"
+msgid "Mack"
+msgstr ""
+
+msgctxt "6288\tNAME_ENEMY"
+msgid "Mack"
+msgstr ""
+
+msgctxt "6293\tNAME_ENEMY"
+msgid "Mack"
+msgstr ""
+
+msgctxt "6298\tNAME_ENEMY"
+msgid "Mack"
+msgstr ""
+
+msgctxt "6303\tNAME_ENEMY"
+msgid "President"
+msgstr ""
+
+msgctxt "6313\tNAME_ENEMY"
+msgid "President"
+msgstr ""
+
+msgctxt "6323\tNAME_ENEMY"
+msgid "President"
+msgstr ""
+
+msgctxt "6333\tNAME_ENEMY"
+msgid "President"
+msgstr ""
+
+msgctxt "6343\tNAME_ENEMY"
+msgid "Mr. Try and Flee Me"
+msgstr ""
+
+msgctxt "6363\tNAME_ENEMY"
+msgid "Mr. Try and Flee Me"
+msgstr ""
+
+msgctxt "6383\tNAME_ENEMY"
+msgid "Mr. Try and Flee Me"
+msgstr ""
+
+msgctxt "6403\tNAME_ENEMY"
+msgid "Mr. Try and Flee Me"
+msgstr ""
+
+msgctxt "6423\tNAME_ENEMY"
+msgid "Mr. Try and Catch Me"
+msgstr ""
+
+msgctxt "6444\tNAME_ENEMY"
+msgid "Mr. Try and Catch Me"
+msgstr ""
+
+msgctxt "6465\tNAME_ENEMY"
+msgid "Mr. Try and Catch Me"
+msgstr ""
+
+msgctxt "6486\tNAME_ENEMY"
+msgid "Mr. Try and Catch Me"
+msgstr ""
+
+msgctxt "6507\tNAME_ENEMY"
+msgid "Bag Snatcher"
+msgstr ""
+
+msgctxt "6520\tNAME_ENEMY"
+msgid "Bag Snatcher"
+msgstr ""
+
+msgctxt "6533\tNAME_ENEMY"
+msgid "Bag Snatcher"
+msgstr ""
+
+msgctxt "6546\tNAME_ENEMY"
+msgid "Bag Snatcher"
+msgstr ""
+
+msgctxt "6559\tNAME_ENEMY"
+msgid "Dine-and-Dasher"
+msgstr ""
+
+msgctxt "6575\tNAME_ENEMY"
+msgid "Dine-and-Dasher"
+msgstr ""
+
+msgctxt "6591\tNAME_ENEMY"
+msgid "Dine-and-Dasher"
+msgstr ""
+
+msgctxt "6607\tNAME_ENEMY"
+msgid "Dine-and-Dasher"
+msgstr ""
+
+msgctxt "6623\tNAME_ENEMY"
+msgid "Dine-and-Dasher"
+msgstr ""
+
+msgctxt "6639\tNAME_ENEMY"
+msgid "Dine-and-Dasher"
+msgstr ""
+
+msgctxt "6655\tNAME_ENEMY"
+msgid "Dine-and-Dasher"
+msgstr ""
+
+msgctxt "6671\tNAME_ENEMY"
+msgid "Dine-and-Dasher"
+msgstr ""
+
+msgctxt "6687\tNAME_ENEMY"
+msgid "Dine-and-Dasher"
+msgstr ""
+
+msgctxt "6703\tNAME_ENEMY"
+msgid "Dine-and-Dasher"
+msgstr ""
+
+msgctxt "6719\tNAME_ENEMY"
+msgid "Dine-and-Dasher"
+msgstr ""
+
+msgctxt "6735\tNAME_ENEMY"
+msgid "Dine-and-Dasher"
+msgstr ""
+
+msgctxt "6751\tNAME_ENEMY"
+msgid "Dine-and-Dasher"
+msgstr ""
+
+msgctxt "6767\tNAME_ENEMY"
+msgid "Dine-and-Dasher"
+msgstr ""
+
+msgctxt "6783\tNAME_ENEMY"
+msgid "Dine-and-Dasher"
+msgstr ""
+
+msgctxt "6799\tNAME_ENEMY"
+msgid "Dine-and-Dasher"
+msgstr ""
+
+msgctxt "6815\tNAME_ENEMY"
+msgid "Bag Snatcher"
+msgstr ""
+
+msgctxt "6828\tNAME_ENEMY"
+msgid "Bag Snatcher"
+msgstr ""
+
+msgctxt "6841\tNAME_ENEMY"
+msgid "Bag Snatcher"
+msgstr ""
+
+msgctxt "6854\tNAME_ENEMY"
+msgid "Bag Snatcher"
+msgstr ""
+
+msgctxt "6867\tNAME_ENEMY"
+msgid "Pickpocket"
+msgstr ""
+
+msgctxt "6878\tNAME_ENEMY"
+msgid "Pickpocket"
+msgstr ""
+
+msgctxt "6889\tNAME_ENEMY"
+msgid "Pickpocket"
+msgstr ""
+
+msgctxt "6900\tNAME_ENEMY"
+msgid "Pickpocket"
+msgstr ""
+
+msgctxt "6911\tNAME_ENEMY"
+msgid "Michiru"
+msgstr ""
+
+msgctxt "6919\tNAME_ENEMY"
+msgid "Michiru"
+msgstr ""
+
+msgctxt "6927\tNAME_ENEMY"
+msgid "Michiru"
+msgstr ""
+
+msgctxt "6935\tNAME_ENEMY"
+msgid "Michiru"
+msgstr ""
+
+msgctxt "6943\tNAME_ENEMY"
+msgid "Michiru"
+msgstr ""
+
+msgctxt "6951\tNAME_ENEMY"
+msgid "Michiru"
+msgstr ""
+
+msgctxt "6959\tNAME_ENEMY"
+msgid "Michiru"
+msgstr ""
+
+msgctxt "6967\tNAME_ENEMY"
+msgid "Michiru"
+msgstr ""
+
+msgctxt "6975\tNAME_ENEMY"
+msgid "Michiru"
+msgstr ""
+
+msgctxt "6983\tNAME_ENEMY"
+msgid "Michiru"
+msgstr ""
+
+msgctxt "6991\tNAME_ENEMY"
+msgid "Michiru"
+msgstr ""
+
+msgctxt "6999\tNAME_ENEMY"
+msgid "Michiru"
+msgstr ""
+
+msgctxt "7007\tNAME_ENEMY"
+msgid "Michiru"
+msgstr ""
+
+msgctxt "7015\tNAME_ENEMY"
+msgid "Michiru"
+msgstr ""
+
+msgctxt "7023\tNAME_ENEMY"
+msgid "Michiru"
+msgstr ""
+
+msgctxt "7031\tNAME_ENEMY"
+msgid "Michiru"
+msgstr ""
+
+msgctxt "7039\tNAME_ENEMY"
+msgid "Michiru"
+msgstr ""
+
+msgctxt "7047\tNAME_ENEMY"
+msgid "Michiru"
+msgstr ""
+
+msgctxt "7055\tNAME_ENEMY"
+msgid "Michiru"
+msgstr ""
+
+msgctxt "7063\tNAME_ENEMY"
+msgid "Michiru"
+msgstr ""
+
+msgctxt "7071\tNAME_ENEMY"
+msgid "Kotaro"
+msgstr ""
+
+msgctxt "7078\tNAME_ENEMY"
+msgid "Kotaro"
+msgstr ""
+
+msgctxt "7085\tNAME_ENEMY"
+msgid "Kotaro"
+msgstr ""
+
+msgctxt "7092\tNAME_ENEMY"
+msgid "Kotaro"
+msgstr ""
+
+msgctxt "7099\tNAME_ENEMY"
+msgid "Kurenai"
+msgstr ""
+
+msgctxt "7107\tNAME_ENEMY"
+msgid "Kurenai"
+msgstr ""
+
+msgctxt "7115\tNAME_ENEMY"
+msgid "Kurenai"
+msgstr ""
+
+msgctxt "7123\tNAME_ENEMY"
+msgid "Kurenai"
+msgstr ""
+
+msgctxt "7131\tNAME_ENEMY"
+msgid "Kengo"
+msgstr ""
+
+msgctxt "7137\tNAME_ENEMY"
+msgid "Kengo"
+msgstr ""
+
+msgctxt "7143\tNAME_ENEMY"
+msgid "Kengo"
+msgstr ""
+
+msgctxt "7149\tNAME_ENEMY"
+msgid "Kengo"
+msgstr ""
+
+msgctxt "7155\tNAME_ENEMY"
+msgid "Gohren's Underling"
+msgstr ""
+
+msgctxt "7174\tNAME_ENEMY"
+msgid "Gohren's Underling"
+msgstr ""
+
+msgctxt "7193\tNAME_ENEMY"
+msgid "Gohren's Underling"
+msgstr ""
+
+msgctxt "7212\tNAME_ENEMY"
+msgid "Gohren's Underling"
+msgstr ""
+
+msgctxt "7231\tNAME_ENEMY"
+msgid "Shinzaki"
+msgstr ""
+
+msgctxt "7240\tNAME_ENEMY"
+msgid "Shinzaki"
+msgstr ""
+
+msgctxt "7249\tNAME_ENEMY"
+msgid "Shinzaki"
+msgstr ""
+
+msgctxt "7258\tNAME_ENEMY"
+msgid "Shinzaki"
+msgstr ""
+
+msgctxt "7267\tNAME_ENEMY"
+msgid "Union President"
+msgstr ""
+
+msgctxt "7283\tNAME_ENEMY"
+msgid "Union President"
+msgstr ""
+
+msgctxt "7299\tNAME_ENEMY"
+msgid "Union President"
+msgstr ""
+
+msgctxt "7315\tNAME_ENEMY"
+msgid "Union President"
+msgstr ""
+
+msgctxt "7332\tNAME_ENEMY"
+msgid "Ultimate Mack"
+msgstr ""
+
+msgctxt "7346\tNAME_ENEMY"
+msgid "Police Officer"
+msgstr ""
+
+msgctxt "18122\tCATEGORY"
+msgid "Mack"
+msgstr ""
+
+msgctxt "18127\tCATEGORY"
+msgid "Mack"
+msgstr ""
+
+msgctxt "18132\tCATEGORY"
+msgid "Mack"
+msgstr ""
+
+msgctxt "18137\tCATEGORY"
+msgid "Mack"
+msgstr ""
+
+msgctxt "18142\tCATEGORY"
+msgid "Mack"
+msgstr ""
+
+msgctxt "18147\tCATEGORY"
+msgid "Mack"
+msgstr ""
+
+msgctxt "18152\tCATEGORY"
+msgid "Mack"
+msgstr ""
+
+msgctxt "18157\tCATEGORY"
+msgid "Mack"
+msgstr ""
+
+msgctxt "18162\tCATEGORY"
+msgid "Mack"
+msgstr ""
+
+msgctxt "18167\tCATEGORY"
+msgid "Mack"
+msgstr ""
+
+msgctxt "18172\tCATEGORY"
+msgid "Mack"
+msgstr ""
+
+msgctxt "18177\tCATEGORY"
+msgid "Mack"
+msgstr ""
+
+msgctxt "18186\tCATEGORY"
+msgid "Mack"
+msgstr ""
+
+msgctxt "18191\tCATEGORY"
+msgid "Mack"
+msgstr ""
+
+msgctxt "18196\tCATEGORY"
+msgid "Mack"
+msgstr ""
+
+msgctxt "18201\tCATEGORY"
+msgid "Mack"
+msgstr ""
+
+msgctxt "18206\tCATEGORY"
+msgid "Mack"
+msgstr ""
+
+msgctxt "18211\tCATEGORY"
+msgid "Mack"
+msgstr ""
+
+msgctxt "18216\tCATEGORY"
+msgid "Mack"
+msgstr ""
+
+msgctxt "18221\tCATEGORY"
+msgid "Mack"
+msgstr ""
+
+msgctxt "18226\tCATEGORY"
+msgid "Mack"
+msgstr ""
+
+msgctxt "18231\tCATEGORY"
+msgid "Mack"
+msgstr ""
+
+msgctxt "18236\tCATEGORY"
+msgid "Mack"
+msgstr ""
+
+msgctxt "18241\tCATEGORY"
+msgid "Mack"
+msgstr ""

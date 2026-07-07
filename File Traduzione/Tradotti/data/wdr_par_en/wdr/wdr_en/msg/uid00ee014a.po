@@ -1,0 +1,186 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "268"
+msgid "It looks like you don't have enough chips to play roulette, sir."
+msgstr ""
+
+msgctxt "280"
+msgid "If you'd like to purchase chips, you can do so at the front desk."
+msgstr ""
+
+msgctxt "292"
+msgid "Welcome. Would you like to play roulette?"
+msgstr ""
+
+msgctxt "316"
+msgid "Uncle Kaz! Get 1,000 points in roulette!"
+msgstr ""
+
+msgctxt "328"
+msgid "(1,000 points in roulette... Should I give it a try?)"
+msgstr ""
+
+msgctxt "340"
+msgid "All right, I'll play."
+msgstr ""
+
+msgctxt "352"
+msgid "An excellent choice."
+msgstr ""
+
+msgctxt "364"
+msgid "Good luck, Uncle Kaz!"
+msgstr ""
+
+msgctxt "388"
+msgid "Not right now."
+msgstr ""
+
+msgctxt "400"
+msgid "Very well. We hope you'll play with us next time."
+msgstr ""
+
+msgctxt "412"
+msgid "But I wanted you to play roulette..."
+msgstr ""
+
+msgctxt "424"
+msgid "Uncle Kaz! Get 2,000 points in roulette!"
+msgstr ""
+
+msgctxt "436"
+msgid "(2,000 points in roulette... Should I give it a try?)"
+msgstr ""
+
+msgctxt "448"
+msgid "All right, I'll play."
+msgstr ""
+
+msgctxt "460"
+msgid "An excellent choice."
+msgstr ""
+
+msgctxt "472"
+msgid "Good luck, Uncle Kaz!"
+msgstr ""
+
+msgctxt "496"
+msgid "Not right now."
+msgstr ""
+
+msgctxt "508"
+msgid "Very well. We hope you'll play with us next time."
+msgstr ""
+
+msgctxt "520"
+msgid "But I wanted you to play roulette..."
+msgstr ""
+
+msgctxt "532"
+msgid "Welcome. Would you like to play roulette?"
+msgstr ""
+
+msgctxt "556"
+msgid "Sure, I'll play."
+msgstr ""
+
+msgctxt "580"
+msgid ""
+"How about playing the house one-on-one, sir? You won't be able to place "
+"outside bets, but you get five spins with double the odds."
+msgstr ""
+
+msgctxt "592"
+msgid "Hmm..."
+msgstr ""
+
+msgctxt "616"
+msgid "An excellent choice."
+msgstr ""
+
+msgctxt "640"
+msgid "It looks like you don't have enough chips to play roulette, sir."
+msgstr ""
+
+msgctxt "652"
+msgid "Not right now."
+msgstr ""
+
+msgctxt "664"
+msgid "Very well. We hope you'll play with us next time."
+msgstr ""
+
+msgctxt "676"
+msgid "Play"
+msgstr ""
+
+msgctxt "688"
+msgid "Not Now"
+msgstr ""
+
+msgctxt "700"
+msgid "Play"
+msgstr ""
+
+msgctxt "712"
+msgid "Not Now"
+msgstr ""
+
+msgctxt "724"
+msgid "Yes"
+msgstr ""
+
+msgctxt "736"
+msgid "No"
+msgstr ""
+
+msgctxt "748"
+msgid "Play Against the House"
+msgstr ""
+
+msgctxt "760"
+msgid "Play a Standard Game"
+msgstr ""
+
+msgctxt "4940"
+msgid "Dealer"
+msgstr ""
+
+msgctxt "4944"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "4948"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "4952"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "4956"
+msgid "HAL_stand_tlk_happy_small"
+msgstr ""
+
+msgctxt "4960"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "4964"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "4968"
+msgid "Talk_Quest"
+msgstr ""

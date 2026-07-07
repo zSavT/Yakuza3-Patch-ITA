@@ -1,0 +1,62 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "120"
+msgid ""
+"You wanna play a game of mahjong, man? Gotta have 25,000 points on you. You "
+"can buy 'em over at the desk."
+msgstr ""
+
+msgctxt "132"
+msgid "Yo, play some mahjong with us? We'll put up a pretty tough fight."
+msgstr ""
+
+msgctxt "144"
+msgid "Yeah, I'm feeling lucky today."
+msgstr ""
+
+msgctxt "156"
+msgid "Okay, let's get started, then!"
+msgstr ""
+
+msgctxt "180"
+msgid "Not right now."
+msgstr ""
+
+msgctxt "192"
+msgid "Aw, man... Well, come talk to me if you're feeling up to it later."
+msgstr ""
+
+msgctxt "204"
+msgid "Play"
+msgstr ""
+
+msgctxt "216"
+msgid "Not Now"
+msgstr ""
+
+msgctxt "1324"
+msgid "Customer"
+msgstr ""
+
+msgctxt "1328"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1332"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "1336"
+msgid "Talk_No"
+msgstr ""

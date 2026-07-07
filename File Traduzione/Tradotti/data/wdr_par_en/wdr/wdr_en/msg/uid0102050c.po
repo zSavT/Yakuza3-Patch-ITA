@@ -1,0 +1,148 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "76"
+msgid ""
+"Hi, Riona-chan! What are you making that bento for?\r\n"
+"Are you going on a date?"
+msgstr ""
+
+msgctxt "88"
+msgid "Yeah, though it's not gonna be just us."
+msgstr ""
+
+msgctxt "100"
+msgid "...Is it with Mitsuo?"
+msgstr ""
+
+msgctxt "112"
+msgid "What? No!"
+msgstr ""
+
+msgctxt "124"
+msgid "Oh... Well, I think you two would be good together."
+msgstr ""
+
+msgctxt "136"
+msgid ""
+"I know he's kinda immature sometimes, but you'd be happy\r\n"
+"with him, Riona-chan."
+msgstr ""
+
+msgctxt "148"
+msgid "Look, it's not gonna happen, Haruka-chan!"
+msgstr ""
+
+msgctxt "160"
+msgid "I just can't see myself dating a black guy!"
+msgstr ""
+
+msgctxt "172"
+msgid "Riona-chan!"
+msgstr ""
+
+msgctxt "184"
+msgid "Sorry, that came out wrong..."
+msgstr ""
+
+msgctxt "196"
+msgid "......"
+msgstr ""
+
+msgctxt "208"
+msgid "Anyway, I have to go!"
+msgstr ""
+
+msgctxt "244"
+msgid ""
+"(Sounds like she doesn't like Mitsuo because he's different.\r\n"
+"That's not how I raised her...)"
+msgstr ""
+
+msgctxt "268"
+msgid "What the heck? Riona nearly ran right into me..."
+msgstr ""
+
+msgctxt "280"
+msgid "Taichi."
+msgstr ""
+
+msgctxt "292"
+msgid "Huh? Oh, hi, Uncle Kaz."
+msgstr ""
+
+msgctxt "304"
+msgid "Aren't you supposed to be at the movies with Mitsuo?"
+msgstr ""
+
+msgctxt "316"
+msgid ""
+"I was gonna go, but then he told me it was some gross love\r\n"
+"story! I don't wanna see that with him!"
+msgstr ""
+
+msgctxt "328"
+msgid "...And where is he now?"
+msgstr ""
+
+msgctxt "340"
+msgid ""
+"I dunno, he just kinda walked off. He didn't look too\r\n"
+"happy..."
+msgstr ""
+
+msgctxt "352"
+msgid "Do you remember which direction he went in?"
+msgstr ""
+
+msgctxt "364"
+msgid ""
+"Pretty sure it was over towards downtown. Oh, I bet he's\r\n"
+"gonna go see that movie by himself!"
+msgstr ""
+
+msgctxt "376"
+msgid "(Hm. Sounds like I should check up on him.)"
+msgstr ""
+
+msgctxt "4512"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "4516"
+msgid "Riona"
+msgstr ""
+
+msgctxt "4520"
+msgid "Idle"
+msgstr ""
+
+msgctxt "4524"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "4528"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "4532"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "4536"
+msgid "Taichi"
+msgstr ""
+
+msgctxt "4540"
+msgid "Talk_Quest"
+msgstr ""

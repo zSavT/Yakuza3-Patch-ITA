@@ -1,0 +1,68 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid "Welcome! What can I get ya today?"
+msgstr ""
+
+msgctxt "76"
+msgid "Hm? Did the ownership change recently?"
+msgstr ""
+
+msgctxt "88"
+msgid ""
+"I guess you could say that. My son was running this place\r\n"
+"before..."
+msgstr ""
+
+msgctxt "100"
+msgid ""
+"... But I sent him off to Kyushu to learn how to make ramen\r\n"
+"the old-fashioned way."
+msgstr ""
+
+msgctxt "112"
+msgid "I'm here to mind the place while he's gone."
+msgstr ""
+
+msgctxt "124"
+msgid "I see."
+msgstr ""
+
+msgctxt "136"
+msgid ""
+"Kyushu No. 1 Star is famous for its authentic tonkotsu broth. S'got a real "
+"kick to it."
+msgstr ""
+
+msgctxt "148"
+msgid ""
+"I don't mean to brag, but ya haven't tried real ramen till you've had it "
+"the Kyushu way! And boy do we deliver!"
+msgstr ""
+
+msgctxt "1224"
+msgid "Owner of Kyushu No. 1 Star"
+msgstr ""
+
+msgctxt "1228"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "1232"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1236"
+msgid "Talk_Yes"
+msgstr ""

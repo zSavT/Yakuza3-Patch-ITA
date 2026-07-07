@@ -1,0 +1,219 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "124"
+msgid ""
+"He thinks he can just boss me around! Freakin' Nagasaki\r\n"
+"though... Like hell I'm gonna go!"
+msgstr ""
+
+msgctxt "136"
+msgid "Mikio..."
+msgstr ""
+
+msgctxt "148"
+msgid "Go back to an honest life."
+msgstr ""
+
+msgctxt "160"
+msgid ""
+"I heard you joined the yakuza because you hated your father.\r\n"
+"You'll never make it if that's the only reason you're here."
+msgstr ""
+
+msgctxt "172"
+msgid "But... sir..."
+msgstr ""
+
+msgctxt "184"
+msgid "Once a runaway, always a runaway. Isn't that how the saying goes?"
+msgstr ""
+
+msgctxt "196"
+msgid ""
+"Yakuza live by strength of will alone, no matter what\r\n"
+"the cost. Do you really think you're up to that, Mikio?"
+msgstr ""
+
+msgctxt "208"
+msgid ""
+"If you want to stay in the yakuza, then let's talk.\r\n"
+"What is it you really want out of this?"
+msgstr ""
+
+msgctxt "220"
+msgid "Look, I get what you're sayin'..."
+msgstr ""
+
+msgctxt "232"
+msgid ""
+"That I'm not up to snuff yet. That all I'm doing is gettin'\r\n"
+"in the way of Rikiya and the old man..."
+msgstr ""
+
+msgctxt "244"
+msgid ""
+"But this place is the only home I got. Honestly, all I wanna\r\n"
+"do is be a part of the Ryudo Family."
+msgstr ""
+
+msgctxt "256"
+msgid ""
+"Aren't you just running away again? Don't tell me you plan on avoiding your "
+"father for the rest of your life..."
+msgstr ""
+
+msgctxt "268"
+msgid "So what if I am!? What's it to you, anyway!?"
+msgstr ""
+
+msgctxt "280"
+msgid ""
+"Nothing. But what about the kids at Morning Glory?\r\n"
+"Is that the kind of example you want to set for them?"
+msgstr ""
+
+msgctxt "292"
+msgid "......"
+msgstr ""
+
+msgctxt "316"
+msgid "Stop! Or else... I'll call the police!"
+msgstr ""
+
+msgctxt "328"
+msgid ""
+"What're ya whinin' about? Yer the one who needs to stop\r\n"
+"the bullshit."
+msgstr ""
+
+msgctxt "340"
+msgid "We know you've been snoopin' around."
+msgstr ""
+
+msgctxt "352"
+msgid "Yeah. In fact, we hear ya been diggin' up all kindsa dirt..."
+msgstr ""
+
+msgctxt "364"
+msgid ""
+"If ya insist on keepin' that up, we're gonna hafta send ya\r\n"
+"on a nice little vacation... to the bottom of the Okinawan\r\n"
+"sea."
+msgstr ""
+
+msgctxt "376"
+msgid "Wait... Pops!?"
+msgstr ""
+
+msgctxt "412"
+msgid ""
+"What do you bastards think you're doin'!?\r\n"
+"You're steppin' in Ryudo Family territory!"
+msgstr ""
+
+msgctxt "424"
+msgid ""
+"Ryudo Family? Sorry, but we can't keep track of all the tiny\r\n"
+"two-bit families out here."
+msgstr ""
+
+msgctxt "436"
+msgid ""
+"You disrespectin' us, asshole? You'd better get gone before\r\n"
+"we lay the smackdown on you!"
+msgstr ""
+
+msgctxt "448"
+msgid "Hey, what do you want with this man?"
+msgstr ""
+
+msgctxt "460"
+msgid "You shut yer goddamn mouth! Or do I hafta shut it for ya!?"
+msgstr ""
+
+msgctxt "484"
+msgid "Go back to an honest life."
+msgstr ""
+
+msgctxt "496"
+msgid "So you want to stay in the yakuza?"
+msgstr ""
+
+msgctxt "508"
+msgid "Are you running away again?"
+msgstr ""
+
+msgctxt "6244"
+msgid "Mikio"
+msgstr ""
+
+msgctxt "6248"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "6252"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "6256"
+msgid "Talk_Kosite_st"
+msgstr ""
+
+msgctxt "6260"
+msgid "Talk_Kosite_No"
+msgstr ""
+
+msgctxt "6264"
+msgid "Talk_Kosite_ed"
+msgstr ""
+
+msgctxt "6268"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "6272"
+msgid "Aragaki"
+msgstr ""
+
+msgctxt "6276"
+msgid "Junior Kansai Yakuza"
+msgstr ""
+
+msgctxt "6280"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "6284"
+msgid "Senior Kansai Yakuza"
+msgstr ""
+
+msgctxt "6288"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "6292"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "6296"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "6300"
+msgid "Talk_Away"
+msgstr ""
+
+msgctxt "6304"
+msgid "Talk_Chohatu"
+msgstr ""

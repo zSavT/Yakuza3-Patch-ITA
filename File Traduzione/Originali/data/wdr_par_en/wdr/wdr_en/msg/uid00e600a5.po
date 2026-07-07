@@ -1,0 +1,60 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "92"
+msgid "Oh, excuse me!"
+msgstr ""
+
+msgctxt "104"
+msgid ""
+"Um, we're looking for an Okinawan restaurant called Umachi, but we can't "
+"seem to find it..."
+msgstr ""
+
+msgctxt "116"
+msgid ""
+"Hm? Oh, well, to tell you the truth, I just arrived here myself, so I don't "
+"think I'll be much help..."
+msgstr ""
+
+msgctxt "128"
+msgid "Oh, I see..."
+msgstr ""
+
+msgctxt "140"
+msgid "Ugh! Tourists everywhere! Where're all the locals?"
+msgstr ""
+
+msgctxt "952"
+msgid "Woman from Tokyo"
+msgstr ""
+
+msgctxt "956"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "960"
+msgid "Man from Kanagawa"
+msgstr ""
+
+msgctxt "964"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "968"
+msgid "Woman from Chiba"
+msgstr ""
+
+msgctxt "972"
+msgid "Talk_Angry"
+msgstr ""

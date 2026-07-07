@@ -1,0 +1,175 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "148"
+msgid "Don't move. If you so much as flinch, you're gonna get hurt."
+msgstr ""
+
+msgctxt "160"
+msgid "...Aren't you the guy trying to get out of the yakuza?"
+msgstr ""
+
+msgctxt "172"
+msgid "What difference does that make? And who's asking, anyway?"
+msgstr ""
+
+msgctxt "184"
+msgid ""
+"I'm looking for bouncers for a casino, so I came here to\r\n"
+"recruit you."
+msgstr ""
+
+msgctxt "196"
+msgid ""
+"...You screwin' with me? What does some goddamn casino have\r\n"
+"to do with anything!?"
+msgstr ""
+
+msgctxt "208"
+msgid "You know what, why don't you just get the hell outta here!?"
+msgstr ""
+
+msgctxt "268"
+msgid "I'm Kiryu. Kazuma Kiryu."
+msgstr ""
+
+msgctxt "280"
+msgid ""
+"Kazuma... Kiryu? Wait... You mean the fourth chairman of the\r\n"
+"Tojo Clan!? That Kazuma Kiryu!?"
+msgstr ""
+
+msgctxt "292"
+msgid "That's right."
+msgstr ""
+
+msgctxt "304"
+msgid ""
+"Well shit... I'm Shuichi Nanba. Sorry, but I ain't exactly\r\n"
+"at liberty to tell you the name of my family."
+msgstr ""
+
+msgctxt "316"
+msgid "Because you want to get out of that life?"
+msgstr ""
+
+msgctxt "328"
+msgid "Yeah... Going into detail would only cause more problems."
+msgstr ""
+
+msgctxt "340"
+msgid ""
+"Matter of fact, all I ever done in the yakuza was cause\r\n"
+"people problems... and I don't wanna do that no more."
+msgstr ""
+
+msgctxt "352"
+msgid ""
+"Actually, I wanted to talk to you about something. Right now\r\n"
+"I'm looking for some bouncers for a casino."
+msgstr ""
+
+msgctxt "364"
+msgid ""
+"The place is being targeted by some yakuza right now, so I\r\n"
+"thought it'd be a good idea to have you on board. You seem\r\n"
+"like you could handle it."
+msgstr ""
+
+msgctxt "376"
+msgid "But... the yakuza are after me, too..."
+msgstr ""
+
+msgctxt "400"
+msgid ""
+"I don't see that as an issue. As they say, the enemy of my\r\n"
+"enemy is my friend. Maybe you're just the guy we need."
+msgstr ""
+
+msgctxt "412"
+msgid ""
+"Maybe so... I doubt I can get any other form of employment,\r\n"
+"legitimate or not."
+msgstr ""
+
+msgctxt "424"
+msgid "Well then..."
+msgstr ""
+
+msgctxt "460"
+msgid ""
+"We got you now, Nanba! So this is where you been hiding\r\n"
+"out, huh?"
+msgstr ""
+
+msgctxt "472"
+msgid ""
+"And what do we got here? A fuckin' pain in the ass, that's\r\n"
+"what... Guess we'll just take care of both of you at once!"
+msgstr ""
+
+msgctxt "484"
+msgid "Watch out, Kiryu-san. These guys don't mess around."
+msgstr ""
+
+msgctxt "496"
+msgid ""
+"They sure don't look like the types who listen to reason...\r\n"
+"This kind you have to teach with your fists."
+msgstr ""
+
+msgctxt "508"
+msgid ""
+"What did you say!? Ohhh, you're dead now! We're gonna toss\r\n"
+"both of your fuckin' corpses into Tokyo Bay!"
+msgstr ""
+
+msgctxt "532"
+msgid "Kiryu. Kazuma Kiryu."
+msgstr ""
+
+msgctxt "544"
+msgid "I'm here to recruit you."
+msgstr ""
+
+msgctxt "5244"
+msgid "???"
+msgstr ""
+
+msgctxt "5248"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "5252"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "5256"
+msgid "dummy"
+msgstr ""
+
+msgctxt "5260"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "5264"
+msgid "Nanba"
+msgstr ""
+
+msgctxt "5268"
+msgid "Thug"
+msgstr ""
+
+msgctxt "5272"
+msgid "Talk_Odosu"
+msgstr ""

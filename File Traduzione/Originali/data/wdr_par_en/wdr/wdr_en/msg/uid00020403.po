@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid "Hey, can you two go to the dining room for me?"
+msgstr ""
+
+msgctxt "76"
+msgid "What's wrong, Uncle Kaz?"
+msgstr ""
+
+msgctxt "88"
+msgid ""
+"Nothing really, we just need to have a family discussion\r\n"
+"about something."
+msgstr ""
+
+msgctxt "100"
+msgid "Oh, okay!"
+msgstr ""
+
+msgctxt "112"
+msgid "Did something happen?"
+msgstr ""
+
+msgctxt "124"
+msgid "I'll tell you later. See you girls in the dining room."
+msgstr ""
+
+msgctxt "136"
+msgid "Okay."
+msgstr ""
+
+msgctxt "1480"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1484"
+msgid "Izumi"
+msgstr ""
+
+msgctxt "1488"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "1492"
+msgid "Eri"
+msgstr ""

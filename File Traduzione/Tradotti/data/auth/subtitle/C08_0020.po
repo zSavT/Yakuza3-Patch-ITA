@@ -1,0 +1,48 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "204\t264"
+msgid "What in the...?"
+msgstr ""
+
+msgctxt "302\t545"
+msgid ""
+"Real shocker, huh? For you, at least.\\n"
+"It's like his ghost's come back to haunt you."
+msgstr ""
+
+msgctxt "601\t712"
+msgid "Fishy stuff. Too fishy."
+msgstr ""
+
+msgctxt "919\t1043"
+msgid "Just... who is he?"
+msgstr ""
+
+msgctxt "1059\t1178"
+msgid ""
+"What's that you got there?\\n"
+"Why do you have a sketch of him?"
+msgstr ""
+
+msgctxt "1179\t1283"
+msgid "Boss! Something's going down in Kamurocho!"
+msgstr ""
+
+msgctxt "1284\t1344"
+msgid "What!?"
+msgstr ""
+
+msgctxt "1623\t1712"
+msgid "Lau Ka Long..."
+msgstr ""

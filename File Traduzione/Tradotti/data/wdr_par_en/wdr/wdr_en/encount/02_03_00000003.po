@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "96"
+msgid "Hey, Gramps. You're pretty ripped for an old guy, aren't you?"
+msgstr ""
+
+msgctxt "108"
+msgid "Sorry if this is kinda sudden, but how about we go a round, huh?"
+msgstr ""
+
+msgctxt "132"
+msgid "Ah, crap... I just wanted a friendly match..."
+msgstr ""
+
+msgctxt "144"
+msgid ""
+"Never mind, forget I even asked... It was just a random thought!\r\n"
+"Sorry, man!"
+msgstr ""
+
+msgctxt "156"
+msgid "You got a surprisingly light %s."
+msgstr ""
+
+msgctxt "192"
+msgid "I'll try to find someone I might actually be able to beat next time..."
+msgstr ""
+
+msgctxt "1472"
+msgid "Irate Thug"
+msgstr ""
+
+msgctxt "1476"
+msgid "P_stand_sync_btl_neck_st"
+msgstr ""
+
+msgctxt "1480"
+msgid "M_ykz_stand_sync_btl_neck_st"
+msgstr ""
+
+msgctxt "1484"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "1488"
+msgid "Sync_Send"
+msgstr ""

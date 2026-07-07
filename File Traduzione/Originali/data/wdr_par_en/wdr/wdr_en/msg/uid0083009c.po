@@ -1,0 +1,296 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "200"
+msgid "Phew... urgh... uh? What the hell am I doing here?"
+msgstr ""
+
+msgctxt "212"
+msgid ""
+"Ow, ow, ow... I'm all sobered up again. Think I'll find a little place to "
+"get my drink on before the last train."
+msgstr ""
+
+msgctxt "224"
+msgid ""
+"Me, I better call the wife. You know, you oughta settle down with someone! "
+"Getting tied down isn't so bad, y'know?"
+msgstr ""
+
+msgctxt "320"
+msgid ""
+"I hate to say this after all your help... but did you have to damage my "
+"taxi like that?"
+msgstr ""
+
+msgctxt "332"
+msgid "......"
+msgstr ""
+
+msgctxt "344"
+msgid "My insurance should cover it, but they've been a little particular lately..."
+msgstr ""
+
+msgctxt "356"
+msgid "Anyway, here. And thank you again."
+msgstr ""
+
+msgctxt "368"
+msgid "You got <Color:8>5,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "392"
+msgid "You got 2,000 EXP."
+msgstr ""
+
+msgctxt "452"
+msgid "Thanks so much! You've saved my business⑬for the night, at least."
+msgstr ""
+
+msgctxt "464"
+msgid "All right."
+msgstr ""
+
+msgctxt "476"
+msgid "Here's something for your trouble."
+msgstr ""
+
+msgctxt "488"
+msgid "You got <Color:8>20,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "512"
+msgid "You got 2,000 EXP."
+msgstr ""
+
+msgctxt "584"
+msgid "No man can tie me down, you got that? Not nobody, not nohow!"
+msgstr ""
+
+msgctxt "596"
+msgid "Please, stop! You have to get down from there!"
+msgstr ""
+
+msgctxt "608"
+msgid "No man can tie me down, you got that? Not nobody, not nohow!"
+msgstr ""
+
+msgctxt "620"
+msgid "Look, if you don't fasten your seatbelt, the police are going to blame me!"
+msgstr ""
+
+msgctxt "632"
+msgid ""
+"Oh, you wanna tie me down, huh? Izzat it? Well, too bad! You can't! See, "
+"I'm even takin' off my tie!"
+msgstr ""
+
+msgctxt "644"
+msgid "Hear, hear! You said it, pal! You got my vote!"
+msgstr ""
+
+msgctxt "656"
+msgid "Wahahahah! Now this is a taxi ride!"
+msgstr ""
+
+msgctxt "668"
+msgid "Hey..."
+msgstr ""
+
+msgctxt "680"
+msgid "What's going on?"
+msgstr ""
+
+msgctxt "692"
+msgid "Oh, these people wouldn't settle down and put their seatbelts on."
+msgstr ""
+
+msgctxt "704"
+msgid "Isn't that a law now?"
+msgstr ""
+
+msgctxt "716"
+msgid "Yep. Even backseat passengers need to wear seatbelts these days."
+msgstr ""
+
+msgctxt "728"
+msgid ""
+"Seatbelts are just the tip of the iceberg! Nothing can tie me down! "
+"Nothiiing!"
+msgstr ""
+
+msgctxt "740"
+msgid ""
+"Give it up already. You're in the way, and some people actually have places "
+"to be."
+msgstr ""
+
+msgctxt "752"
+msgid "My company can eat shit and die! Everybody's tryin' to tie me down, man!"
+msgstr ""
+
+msgctxt "764"
+msgid "Hey, y'know the only one who can tie you down? I'll tell ya who... Taeko!"
+msgstr ""
+
+msgctxt "776"
+msgid ""
+"Wahahaha! That's this guy's wife, see. Keeps her purse strings tighter than "
+"a... well, uh, somethin' tight! Haw!"
+msgstr ""
+
+msgctxt "788"
+msgid "Taeko! I love youuu!"
+msgstr ""
+
+msgctxt "800"
+msgid "I need a taxi."
+msgstr ""
+
+msgctxt "812"
+msgid "I understand that, sir, but as you can see..."
+msgstr ""
+
+msgctxt "824"
+msgid "Taeko! I love youuu!"
+msgstr ""
+
+msgctxt "836"
+msgid ""
+"I'll never make any money like this! Can't you do something about them? "
+"Please!"
+msgstr ""
+
+msgctxt "848"
+msgid "Hmm..."
+msgstr ""
+
+msgctxt "860"
+msgid "Hey... You keep this up, and you'll have to deal with me."
+msgstr ""
+
+msgctxt "872"
+msgid "The hell'd you say!? What, we got another guy tryin' to tie me down!?"
+msgstr ""
+
+msgctxt "884"
+msgid "Screw that!"
+msgstr ""
+
+msgctxt "932"
+msgid "I'd rather be the tie-er than the tie-ee!"
+msgstr ""
+
+msgctxt "956"
+msgid "I'll have to pass. Drunks aren't worth the hassle."
+msgstr ""
+
+msgctxt "968"
+msgid "Ugh, you're telling me... Tonight's gonna be a total bust."
+msgstr ""
+
+msgctxt "1028"
+msgid "What's going on?"
+msgstr ""
+
+msgctxt "1040"
+msgid "Give it up already."
+msgstr ""
+
+msgctxt "1052"
+msgid "I need a taxi."
+msgstr ""
+
+msgctxt "1064"
+msgid "All right."
+msgstr ""
+
+msgctxt "1076"
+msgid "Leave him be."
+msgstr ""
+
+msgctxt "9648"
+msgid "Freedom-Loving Drunk"
+msgstr ""
+
+msgctxt "9652"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "9656"
+msgid "Drunk"
+msgstr ""
+
+msgctxt "9660"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "9664"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "9668"
+msgid "Taxi Driver"
+msgstr ""
+
+msgctxt "9672"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "9676"
+msgid "Talk_Send"
+msgstr ""
+
+msgctxt "9680"
+msgid "dummy"
+msgstr ""
+
+msgctxt "9684"
+msgid "0"
+msgstr ""
+
+msgctxt "9688"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "9692"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "9696"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "9700"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "9704"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "9708"
+msgid "P_stand_tlk_hirou_lp"
+msgstr ""
+
+msgctxt "9712"
+msgid "Idle"
+msgstr ""
+
+msgctxt "9716"
+msgid "P_stand_tlk_hirou_ed"
+msgstr ""
+
+msgctxt "9720"
+msgid "SetM_nml_stand_ododo"
+msgstr ""

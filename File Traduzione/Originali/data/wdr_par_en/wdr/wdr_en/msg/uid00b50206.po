@@ -1,0 +1,152 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid "Man, that was easy!"
+msgstr ""
+
+msgctxt "76"
+msgid ""
+"Here I was, wondering if anyone would really stop to help\r\n"
+"some girl being harassed by a guy on the street, but we\r\n"
+"nabbed one pretty fast!"
+msgstr ""
+
+msgctxt "88"
+msgid ""
+"You moron. It was only easy because I made a great shitty\r\n"
+"boyfriend. My performance was legendary."
+msgstr ""
+
+msgctxt "100"
+msgid "Everything went according to plan."
+msgstr ""
+
+msgctxt "112"
+msgid ""
+"And not only are we getting money from that chick who\r\n"
+"ordered an escort, we're gonna get even more money by\r\n"
+"blackmailing that guy."
+msgstr ""
+
+msgctxt "124"
+msgid "You really do think of everything!"
+msgstr ""
+
+msgctxt "136"
+msgid ""
+"Hahaha! That's what happens when you got a good head on your shoulders! I "
+"bet that right about now, that shady guy's making bank off that old fart."
+msgstr ""
+
+msgctxt "148"
+msgid ""
+"The dumbass honestly believed that I ran away from home\r\n"
+"to see my boyfriend, then followed me all the way to that\r\n"
+"hotel. What a schmuck!"
+msgstr ""
+
+msgctxt "160"
+msgid "It's obvious he was cruising for something else! Hah!"
+msgstr ""
+
+msgctxt "172"
+msgid ""
+"Well, he should be havin' fun with a hottie right about now. He can't be "
+"too pissed about that."
+msgstr ""
+
+msgctxt "184"
+msgid "Bet he doesn't expect to be scared shitless! Hahaha!"
+msgstr ""
+
+msgctxt "196"
+msgid "Hahahaha!"
+msgstr ""
+
+msgctxt "220"
+msgid "You might wanna keep your voices down next time."
+msgstr ""
+
+msgctxt "232"
+msgid "Shit! It's you...!"
+msgstr ""
+
+msgctxt "244"
+msgid ""
+"You spent all that time thinking up this plan, but didn't\r\n"
+"spend the extra second making sure it went right."
+msgstr ""
+
+msgctxt "256"
+msgid ""
+"What? It's not like we did anything bad to you. You're the\r\n"
+"one who put yourself in that shitty situation!"
+msgstr ""
+
+msgctxt "268"
+msgid ""
+"Is that all you have to say for taking advantage of those\r\n"
+"people? Then I'll stop trying to convince you and let my\r\n"
+"fists do the talking instead."
+msgstr ""
+
+msgctxt "280"
+msgid ""
+"Shit...! Well, whatever. I'll end this little encounter\r\n"
+"by helping myself to all the cash you've got on you!"
+msgstr ""
+
+msgctxt "4732"
+msgid "Tomoko"
+msgstr ""
+
+msgctxt "4736"
+msgid "Fumiyoshi"
+msgstr ""
+
+msgctxt "4740"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "4744"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "4748"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "4752"
+msgid "Talk_Udekumi_st"
+msgstr ""
+
+msgctxt "4756"
+msgid "Talk_Udekumi_lp"
+msgstr ""
+
+msgctxt "4760"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "4764"
+msgid "Talk_Udekumi_No"
+msgstr ""
+
+msgctxt "4768"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "4772"
+msgid "Talk_Udekumi_Yes"
+msgstr ""

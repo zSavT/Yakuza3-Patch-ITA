@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "80\t157"
+msgid "What's going on, Aniki?"
+msgstr ""
+
+msgctxt "154\t329"
+msgid "From the sounds of it..."
+msgstr ""
+
+msgctxt "234\t329"
+msgid "The Tojo Clan's sixth chairman has been shot."
+msgstr ""
+
+msgctxt "347\t431"
+msgid "Hold on a sec."
+msgstr ""
+
+msgctxt "445\t538"
+msgid ""
+"When you and the boss\\n"
+"swore your oath a year ago..."
+msgstr ""
+
+msgctxt "539\t633"
+msgid "The sixth chairman was the witness, right?"
+msgstr ""
+
+msgctxt "794\t885"
+msgid "And the one who shot Daigo..."
+msgstr ""
+
+msgctxt "888\t933"
+msgid "It was him."
+msgstr ""
+
+msgctxt "952\t999"
+msgid "The man in the drawing."
+msgstr ""
+
+msgctxt "1000\t1036"
+msgid "Yup."
+msgstr ""
+
+msgctxt "1051\t1114"
+msgid "Looks like it was."
+msgstr ""

@@ -1,0 +1,68 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "240"
+msgid "Time to choose a banker."
+msgstr ""
+
+msgctxt "252"
+msgid "I'm the banker."
+msgstr ""
+
+msgctxt "264"
+msgid "How much you gonna wager?"
+msgstr ""
+
+msgctxt "276"
+msgid "All right, here goes."
+msgstr ""
+
+msgctxt "288"
+msgid "My turn."
+msgstr ""
+
+msgctxt "300"
+msgid "(This line signifies failure.)"
+msgstr ""
+
+msgctxt "312"
+msgid "Time to settle up."
+msgstr ""
+
+msgctxt "324"
+msgid "You're the banker."
+msgstr ""
+
+msgctxt "336"
+msgid "Let's switch bankers."
+msgstr ""
+
+msgctxt "348"
+msgid "You wanna play again?"
+msgstr ""
+
+msgctxt "360"
+msgid ""
+"That's it for me.\r\n"
+"Ugh, I'm outta here..."
+msgstr ""
+
+msgctxt "372"
+msgid ""
+"Ya couldn't bet more if ya wanted to.\r\n"
+"Come back when you got the cash."
+msgstr ""
+
+msgctxt "1332"
+msgid "Yutaka the Hyena"
+msgstr ""

@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "100"
+msgid "Kiryu-san! Something terrible's happened!"
+msgstr ""
+
+msgctxt "112"
+msgid "What's wrong?"
+msgstr ""
+
+msgctxt "124"
+msgid ""
+"My company's accusing me of embezzlement, but I haven't done a darn thing, "
+"and... I... I don't know what to do!!"
+msgstr ""
+
+msgctxt "136"
+msgid "How exactly did this happen?"
+msgstr ""
+
+msgctxt "148"
+msgid ""
+"Heck, I have no idea! Somehow, two million yen just showed up in my bank "
+"account outta the blue..."
+msgstr ""
+
+msgctxt "160"
+msgid ""
+"I swear, I would've remembered depositing that much! But it's too late "
+"now... I'm already at the station, being read my rights..."
+msgstr ""
+
+msgctxt "172"
+msgid "Kiryu-san... What am I supposed to do...?"
+msgstr ""
+
+msgctxt "184"
+msgid "Let's calm down and think this through together."
+msgstr ""
+
+msgctxt "196"
+msgid ""
+"Mm... Afraid I can't do that. They're saying time's up. I'll call ya again "
+"later if I can..."
+msgstr ""
+
+msgctxt "1868"
+msgid "P_stand_tlk_phone_st"
+msgstr ""
+
+msgctxt "1872"
+msgid "Rin"
+msgstr ""
+
+msgctxt "1876"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1880"
+msgid "P_stand_tlk_phone_ed"
+msgstr ""
+
+msgctxt "1884"
+msgid "dummy"
+msgstr ""

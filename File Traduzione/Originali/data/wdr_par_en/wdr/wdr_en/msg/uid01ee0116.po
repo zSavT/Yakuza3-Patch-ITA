@@ -1,0 +1,130 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "204"
+msgid "(Lots of magazines here. Wonder if there's anything interesting...)"
+msgstr ""
+
+msgctxt "216"
+msgid "(Maybe later...)"
+msgstr ""
+
+msgctxt "240"
+msgid ""
+"(This weekly manga magazine gets kids hooked so bad they can barely wait "
+"for the next issue.)"
+msgstr ""
+
+msgctxt "276"
+msgid ""
+"(This one's a weekly photo magazine. It's got a reputation for publishing "
+"news scoops.)"
+msgstr ""
+
+msgctxt "312"
+msgid ""
+"(I've heard of this biweekly magazine. It's packed with information on "
+"urban trends.)"
+msgstr ""
+
+msgctxt "348"
+msgid "(This one's a monthly magazine loaded with useful information for adults.)"
+msgstr ""
+
+msgctxt "384"
+msgid ""
+"(A monthly fashion magazine... Looks like it's for college girls and female "
+"office workers.)"
+msgstr ""
+
+msgctxt "420"
+msgid "(Looks like a monthly lifestyle magazine targeting women.)"
+msgstr ""
+
+msgctxt "456"
+msgid "(This monthly news magazine covers Japan from a global perspective.)"
+msgstr ""
+
+msgctxt "492"
+msgid ""
+"(This one's a weekly comic magazine. Looks like it targets a broad range of "
+"age groups.)"
+msgstr ""
+
+msgctxt "516"
+msgid "Morning"
+msgstr ""
+
+msgctxt "528"
+msgid "Young Magazine"
+msgstr ""
+
+msgctxt "540"
+msgid "FRIDAY"
+msgstr ""
+
+msgctxt "552"
+msgid "Otona no Shumatsu"
+msgstr ""
+
+msgctxt "564"
+msgid "COURRiER Japon"
+msgstr ""
+
+msgctxt "576"
+msgid "with"
+msgstr ""
+
+msgctxt "588"
+msgid "ViVi"
+msgstr ""
+
+msgctxt "600"
+msgid "Don't Play"
+msgstr ""
+
+msgctxt "3208"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "3212"
+msgid "2d_cf_zasshi_yanmaga"
+msgstr ""
+
+msgctxt "3216"
+msgid "2d_cf_zasshi_friday"
+msgstr ""
+
+msgctxt "3220"
+msgid "2d_cf_zasshi_t1"
+msgstr ""
+
+msgctxt "3224"
+msgid "2d_cf_zasshi_otona"
+msgstr ""
+
+msgctxt "3228"
+msgid "2d_cf_zasshi_vivi"
+msgstr ""
+
+msgctxt "3232"
+msgid "2d_cf_zasshi_with"
+msgstr ""
+
+msgctxt "3236"
+msgid "2d_cf_zasshi_courrier"
+msgstr ""
+
+msgctxt "3240"
+msgid "2d_cf_zasshi_morning"
+msgstr ""

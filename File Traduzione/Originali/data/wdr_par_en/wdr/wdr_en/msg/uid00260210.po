@@ -1,0 +1,82 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid "Kiryu-san... Thank you, truly."
+msgstr ""
+
+msgctxt "76"
+msgid "I don't know what would've happened to me if I hadn't met you..."
+msgstr ""
+
+msgctxt "88"
+msgid ""
+"Your loans haven't gone away, you know. You'll still need to work hard to "
+"pay them back."
+msgstr ""
+
+msgctxt "100"
+msgid "I know! I will! I won't rest until I've paid off every last yen of my debt."
+msgstr ""
+
+msgctxt "112"
+msgid ""
+"I'd like to give you something to show my gratitude, but this is all I "
+"have, I'm afraid."
+msgstr ""
+
+msgctxt "124"
+msgid "You got a <Color:8>Staminan Spark<Color:Default>."
+msgstr ""
+
+msgctxt "148"
+msgid ""
+"You've done so much for me. I'm so glad our fates were intertwined. Thank "
+"you, again!"
+msgstr ""
+
+msgctxt "172"
+msgid "You got 5,000 EXP."
+msgstr ""
+
+msgctxt "1992"
+msgid "Kishimoto"
+msgstr ""
+
+msgctxt "1996"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "2000"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "2004"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "2008"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "2012"
+msgid "Sync_Send"
+msgstr ""
+
+msgctxt "2016"
+msgid "dummy"
+msgstr ""
+
+msgctxt "2020"
+msgid "0"
+msgstr ""

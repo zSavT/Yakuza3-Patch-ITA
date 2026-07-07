@@ -1,0 +1,44 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid "What's going on with Shiro, Uncle Kaz?"
+msgstr ""
+
+msgctxt "76"
+msgid "Last I checked he was still inside."
+msgstr ""
+
+msgctxt "88"
+msgid "Is he gonna be okay?"
+msgstr ""
+
+msgctxt "100"
+msgid "Yeah. I'll make sure of it."
+msgstr ""
+
+msgctxt "504"
+msgid "Koji"
+msgstr ""
+
+msgctxt "508"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "512"
+msgid "Riona"
+msgstr ""
+
+msgctxt "516"
+msgid "Talk_Yes"
+msgstr ""

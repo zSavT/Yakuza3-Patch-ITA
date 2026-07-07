@@ -1,0 +1,122 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "140"
+msgid "Ah, hello there."
+msgstr ""
+
+msgctxt "152"
+msgid "You wouldn't happen to have any bones, would you?"
+msgstr ""
+
+msgctxt "164"
+msgid "Pardon?"
+msgstr ""
+
+msgctxt "176"
+msgid "Bones. The things you give to dogs?"
+msgstr ""
+
+msgctxt "188"
+msgid "Do I look like I'm made of bones?"
+msgstr ""
+
+msgctxt "200"
+msgid "Uh..."
+msgstr ""
+
+msgctxt "212"
+msgid "You must be mistaking us for another store."
+msgstr ""
+
+msgctxt "224"
+msgid "Yeah, um... Sorry about that."
+msgstr ""
+
+msgctxt "248"
+msgid "Hello. What can I do for you today?"
+msgstr ""
+
+msgctxt "260"
+msgid "Show me what you've got for sale."
+msgstr ""
+
+msgctxt "272"
+msgid "Sure thing. We got a wide selection. See for yourself."
+msgstr ""
+
+msgctxt "296"
+msgid "Thank you. Come again."
+msgstr ""
+
+msgctxt "308"
+msgid "I have something I'd like to sell."
+msgstr ""
+
+msgctxt "320"
+msgid ""
+"Sure thing. Let's see what you got there. But don't forget, used weapons "
+"are worth less than new weapons."
+msgstr ""
+
+msgctxt "344"
+msgid "Thank you. Come again."
+msgstr ""
+
+msgctxt "356"
+msgid "Nothing right now."
+msgstr ""
+
+msgctxt "368"
+msgid "Is that so? Well, please come again."
+msgstr ""
+
+msgctxt "380"
+msgid "I'm here to buy."
+msgstr ""
+
+msgctxt "392"
+msgid "I'm here to sell."
+msgstr ""
+
+msgctxt "404"
+msgid "Never mind."
+msgstr ""
+
+msgctxt "2672"
+msgid "Employee"
+msgstr ""
+
+msgctxt "2676"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "2680"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "2684"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "2688"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "2692"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "2696"
+msgid "Talk_No"
+msgstr ""

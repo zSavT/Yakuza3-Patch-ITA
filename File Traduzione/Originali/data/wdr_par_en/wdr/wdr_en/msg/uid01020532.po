@@ -1,0 +1,186 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "252"
+msgid "Well, that's a helicopter mom if I've ever seen one."
+msgstr ""
+
+msgctxt "264"
+msgid "She didn't mean what she said, Koji. Don't let it get to you, okay?"
+msgstr ""
+
+msgctxt "276"
+msgid "I won't! Especially 'cause I made a new friend out of it!"
+msgstr ""
+
+msgctxt "288"
+msgid "Heh, that's one way to look at it. You're a good kid, Koji."
+msgstr ""
+
+msgctxt "348"
+msgid "Isn't your flight soon, Uncle Kaz?"
+msgstr ""
+
+msgctxt "360"
+msgid "Oh yeah, I almost forgot."
+msgstr ""
+
+msgctxt "372"
+msgid ""
+"Just let me know when you're gonna leave, okay? I'll get the others to come "
+"say goodbye."
+msgstr ""
+
+msgctxt "384"
+msgid "Or... are you leaving now?"
+msgstr ""
+
+msgctxt "396"
+msgid "Yeah, it's time to go."
+msgstr ""
+
+msgctxt "408"
+msgid "Okay! Just a second, I'll grab everyone."
+msgstr ""
+
+msgctxt "420"
+msgid "Thanks, Haruka."
+msgstr ""
+
+msgctxt "444"
+msgid "Not quite yet. Still have some things to do around town."
+msgstr ""
+
+msgctxt "456"
+msgid "Oh, okay. Want me to come with you?"
+msgstr ""
+
+msgctxt "468"
+msgid "Not this time. Sorry, Haruka."
+msgstr ""
+
+msgctxt "480"
+msgid "It's okay! Just come let me know when you're about to leave!"
+msgstr ""
+
+msgctxt "492"
+msgid "Of course I do. Can't exactly go exploring without you, can I?"
+msgstr ""
+
+msgctxt "504"
+msgid "Hehe, yay! Let's go!"
+msgstr ""
+
+msgctxt "564"
+msgid "Hey, Uncle Kaz! Let's play some baseball!"
+msgstr ""
+
+msgctxt "576"
+msgid "(I guess I do have a little time before I have to go.)"
+msgstr ""
+
+msgctxt "588"
+msgid "All right, but just a bit, okay?"
+msgstr ""
+
+msgctxt "600"
+msgid "Yeah! I'm pumped!"
+msgstr ""
+
+msgctxt "624"
+msgid "Hey, guys!"
+msgstr ""
+
+msgctxt "648"
+msgid "Uncle Kaz is gonna play with us!"
+msgstr ""
+
+msgctxt "660"
+msgid "We'll meet you down at the beach, okay? Don't make us wait!"
+msgstr ""
+
+msgctxt "672"
+msgid "Baseball boys... Baseball girls..."
+msgstr ""
+
+msgctxt "696"
+msgid "Move out!"
+msgstr ""
+
+msgctxt "768"
+msgid "Not quite yet."
+msgstr ""
+
+msgctxt "780"
+msgid "Yeah, it's time to go."
+msgstr ""
+
+msgctxt "792"
+msgid "Not this time."
+msgstr ""
+
+msgctxt "804"
+msgid "Of course I do."
+msgstr ""
+
+msgctxt "7408"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "7412"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "7416"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "7420"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "7424"
+msgid "Koji"
+msgstr ""
+
+msgctxt "7428"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "7432"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "7436"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "7440"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "7444"
+msgid "dummy"
+msgstr ""
+
+msgctxt "7448"
+msgid "0"
+msgstr ""
+
+msgctxt "7452"
+msgid "SetM_cld_stand_react_happy"
+msgstr ""
+
+msgctxt "7456"
+msgid "Idle"
+msgstr ""

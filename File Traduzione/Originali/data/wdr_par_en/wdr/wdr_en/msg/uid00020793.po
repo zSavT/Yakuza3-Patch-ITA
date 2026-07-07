@@ -1,0 +1,147 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid "(Those two again...)"
+msgstr ""
+
+msgctxt "76"
+msgid "Wow, we sure bought a lot of souvenirs!"
+msgstr ""
+
+msgctxt "88"
+msgid "Thank you sooo much, Akimoto-kun! This makes me so happy!"
+msgstr ""
+
+msgctxt "100"
+msgid ""
+"But of course, my love! After all, they're all mementos of the first "
+"vacation we ever spent together."
+msgstr ""
+
+msgctxt "112"
+msgid "Hehehe! Maybe we should buy more, then!"
+msgstr ""
+
+msgctxt "124"
+msgid "Great idea! Oh man, I'm so happy...! Okinawa's the best!"
+msgstr ""
+
+msgctxt "136"
+msgid "Hey, they're actually doing pretty well!"
+msgstr ""
+
+msgctxt "148"
+msgid "Yeah. Looks like there was no need to worry."
+msgstr ""
+
+msgctxt "160"
+msgid "So, how about we head back to the hotel and get a little more comfortable?"
+msgstr ""
+
+msgctxt "172"
+msgid "Oh, um!"
+msgstr ""
+
+msgctxt "184"
+msgid "What's wrong, Mizuki-chan?"
+msgstr ""
+
+msgctxt "196"
+msgid "I, um, think I forgot something at the beach... Can I run back and get it?"
+msgstr ""
+
+msgctxt "208"
+msgid "Of course!"
+msgstr ""
+
+msgctxt "220"
+msgid ""
+"I can handle it by myself, don't worry! I'll meet you back at the hotel, "
+"Akimoto-kun!"
+msgstr ""
+
+msgctxt "232"
+msgid "Huh? Don't be ridiculous. I'm coming, too!"
+msgstr ""
+
+msgctxt "244"
+msgid ""
+"But I need to take all this to the pawn sh⑬ I mean, it's my fault for being "
+"such a dummy. I'd feel bad if I dragged you along!"
+msgstr ""
+
+msgctxt "256"
+msgid ""
+"No way, I'm not leaving your side, not for a single moment! Now let's get "
+"back to that beach!"
+msgstr ""
+
+msgctxt "268"
+msgid "Okay..."
+msgstr ""
+
+msgctxt "304"
+msgid "Something was up with Mizuki-san..."
+msgstr ""
+
+msgctxt "316"
+msgid ""
+"You're right about that. It sounded like they were heading back to the "
+"beach over by <Color:7>Morning Glory<Color:Default>. We should probably go "
+"keep an eye on them."
+msgstr ""
+
+msgctxt "328"
+msgid "Yeah, that's a good idea. I'm kinda worried..."
+msgstr ""
+
+msgctxt "4540"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "4544"
+msgid "Akimoto"
+msgstr ""
+
+msgctxt "4548"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "4552"
+msgid "Idle"
+msgstr ""
+
+msgctxt "4556"
+msgid "Mizuki"
+msgstr ""
+
+msgctxt "4560"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "4564"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "4568"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "4572"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "4576"
+msgid "Talk_No"
+msgstr ""

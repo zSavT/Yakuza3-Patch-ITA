@@ -1,0 +1,68 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "240"
+msgid "First things first, let's pick the banker."
+msgstr ""
+
+msgctxt "252"
+msgid "Looks like I'm the banker."
+msgstr ""
+
+msgctxt "264"
+msgid "Place your bets!"
+msgstr ""
+
+msgctxt "276"
+msgid "Get ready, here she goes!"
+msgstr ""
+
+msgctxt "288"
+msgid "My turn."
+msgstr ""
+
+msgctxt "300"
+msgid "(This line signifies failure.)"
+msgstr ""
+
+msgctxt "312"
+msgid "Let's settle up, eh?"
+msgstr ""
+
+msgctxt "324"
+msgid "You're the banker, pal."
+msgstr ""
+
+msgctxt "336"
+msgid "Time to change up."
+msgstr ""
+
+msgctxt "348"
+msgid "How's one more sound?"
+msgstr ""
+
+msgctxt "360"
+msgid ""
+"Aw, brother, that's all I can take.\r\n"
+"Be seein' ya. Next time, yeah?"
+msgstr ""
+
+msgctxt "372"
+msgid ""
+"Heh! You're all cleaned out!\r\n"
+"Better save up for next time."
+msgstr ""
+
+msgctxt "1484"
+msgid "Stormy Minamoto"
+msgstr ""

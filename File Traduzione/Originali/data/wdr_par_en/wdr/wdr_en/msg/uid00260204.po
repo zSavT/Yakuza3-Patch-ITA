@@ -1,0 +1,206 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid "Please, stop it! Leave my son alone!"
+msgstr ""
+
+msgctxt "76"
+msgid "......"
+msgstr ""
+
+msgctxt "88"
+msgid ""
+"Tatsuo, if... if it'll really stop your pain, you can kill me. Just leave "
+"him out of it... I'm the one who abandoned you all."
+msgstr ""
+
+msgctxt "100"
+msgid "......"
+msgstr ""
+
+msgctxt "112"
+msgid "Kiryu-san... You don't have to go that far. Please⑬have mercy on him..."
+msgstr ""
+
+msgctxt "124"
+msgid "Dad..."
+msgstr ""
+
+msgctxt "136"
+msgid ""
+"Please, Tatsuo, listen. All that debt was too much for me to take... I felt "
+"like all I could do was run."
+msgstr ""
+
+msgctxt "148"
+msgid ""
+"I knew my business... I knew what would happen to my family if I left them "
+"with my debts. Of course I knew..."
+msgstr ""
+
+msgctxt "160"
+msgid "......"
+msgstr ""
+
+msgctxt "172"
+msgid ""
+"I don't know what I was thinking... I never thought about how all my "
+"strongarm tactics would come back to haunt me..."
+msgstr ""
+
+msgctxt "184"
+msgid ""
+"And now... after a decade of being on the run... I'm just a broken, "
+"homeless, sad old man."
+msgstr ""
+
+msgctxt "196"
+msgid "All I wanted was to see you one more time... before I'm finally gone."
+msgstr ""
+
+msgctxt "208"
+msgid "Dad..."
+msgstr ""
+
+msgctxt "220"
+msgid "I needed to see you... I needed you to know how sorry I am."
+msgstr ""
+
+msgctxt "232"
+msgid ""
+"I know I can't ask you to forgive me. I just... needed to apologize to "
+"you..."
+msgstr ""
+
+msgctxt "244"
+msgid "Dad..."
+msgstr ""
+
+msgctxt "256"
+msgid ""
+"...From the very beginning, I thought I had to kill you. I thought what "
+"you'd done was unforgivable. But still, I..."
+msgstr ""
+
+msgctxt "268"
+msgid "Tatsuo..."
+msgstr ""
+
+msgctxt "280"
+msgid "I... I wanted to see you one more time, too."
+msgstr ""
+
+msgctxt "316"
+msgid "Tatsuo... I'm so sorry..."
+msgstr ""
+
+msgctxt "376"
+msgid ""
+"Heheh... A humble family, torn apart by a legendary yakuza... Now that's a "
+"story. And I got the shots to sell it."
+msgstr ""
+
+msgctxt "388"
+msgid "Sorry, but this is just too good to pass up."
+msgstr ""
+
+msgctxt "400"
+msgid "Write it up, put it in a magazine. Whatever. I don't care."
+msgstr ""
+
+msgctxt "412"
+msgid "Really now?"
+msgstr ""
+
+msgctxt "424"
+msgid ""
+"I won't run, and I won't hide. If I really did ruin this family, go ahead "
+"and tell the world."
+msgstr ""
+
+msgctxt "436"
+msgid "Hirata and his son are making peace. That's enough for me."
+msgstr ""
+
+msgctxt "448"
+msgid "......"
+msgstr ""
+
+msgctxt "460"
+msgid "See you."
+msgstr ""
+
+msgctxt "484"
+msgid "You got 8,000 EXP."
+msgstr ""
+
+msgctxt "6368"
+msgid "Hirata"
+msgstr ""
+
+msgctxt "6372"
+msgid "Talk_Request"
+msgstr ""
+
+msgctxt "6376"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "6380"
+msgid "kaiwabgm_loneliness"
+msgstr ""
+
+msgctxt "6384"
+msgid "Hirata's Son"
+msgstr ""
+
+msgctxt "6388"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "6392"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "6396"
+msgid "Talk_Cry"
+msgstr ""
+
+msgctxt "6400"
+msgid "M_yng_stand_sync_hirata_st"
+msgstr ""
+
+msgctxt "6404"
+msgid "M_nml_stand_sync_hirata_st"
+msgstr ""
+
+msgctxt "6408"
+msgid "Yanai the Photographer"
+msgstr ""
+
+msgctxt "6412"
+msgid "M_nml_stand_tlk_kamae"
+msgstr ""
+
+msgctxt "6416"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "6420"
+msgid "dummy"
+msgstr ""
+
+msgctxt "6424"
+msgid "0"
+msgstr ""

@@ -1,0 +1,60 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid "Hold on, it's Akiho-san again. This is getting ridiculous."
+msgstr ""
+
+msgctxt "88"
+msgid "Hello? What's wrong this time, Akiho-san?"
+msgstr ""
+
+msgctxt "100"
+msgid "Huh? A scout this time?"
+msgstr ""
+
+msgctxt "112"
+msgid "Got it. Be there in a flash."
+msgstr ""
+
+msgctxt "136"
+msgid "Hey, uh, Aniki... Think you can show me where the Millennium Tower is?"
+msgstr ""
+
+msgctxt "148"
+msgid "I'm starting to lose my patience for this..."
+msgstr ""
+
+msgctxt "1212"
+msgid "Rikiya"
+msgstr ""
+
+msgctxt "1216"
+msgid "Phone_st"
+msgstr ""
+
+msgctxt "1220"
+msgid "Phone_ed"
+msgstr ""
+
+msgctxt "1224"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1228"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "1232"
+msgid "dummy"
+msgstr ""

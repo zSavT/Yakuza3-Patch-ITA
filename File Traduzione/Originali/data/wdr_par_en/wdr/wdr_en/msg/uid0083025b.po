@@ -1,0 +1,74 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "164"
+msgid "...Is it time, Uncle Kaz?"
+msgstr ""
+
+msgctxt "176"
+msgid ""
+"Not yet. I think I'll stick around a little longer if it's\r\n"
+"all right with you."
+msgstr ""
+
+msgctxt "188"
+msgid "Of course!"
+msgstr ""
+
+msgctxt "248"
+msgid "Yeah. It's time I put an end to this."
+msgstr ""
+
+msgctxt "260"
+msgid "Just... come home safe. Okay, Uncle Kaz?"
+msgstr ""
+
+msgctxt "272"
+msgid "I will. I promise."
+msgstr ""
+
+msgctxt "284"
+msgid "Well, now you promised so you definitely have to!"
+msgstr ""
+
+msgctxt "296"
+msgid "Don't worry. Just wait here. I'll be back before you know it."
+msgstr ""
+
+msgctxt "344"
+msgid "Stay with Haruka"
+msgstr ""
+
+msgctxt "356"
+msgid "Go to Touto Hospital"
+msgstr ""
+
+msgctxt "1972"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "1976"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1980"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "1984"
+msgid "dummy"
+msgstr ""
+
+msgctxt "1988"
+msgid "0"
+msgstr ""

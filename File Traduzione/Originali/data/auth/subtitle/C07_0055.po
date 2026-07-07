@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "71\t133"
+msgid "Kiryu-chan."
+msgstr ""
+
+msgctxt "163\t332"
+msgid ""
+"Doubt ya believe it, but I take\\n"
+"the yakuza code real serious."
+msgstr ""
+
+msgctxt "371\t584"
+msgid ""
+"Even if someone's up and framed me,\\n"
+"I'm not gonna go spillin' the beans for free."
+msgstr ""
+
+msgctxt "1497\t1573"
+msgid "Ladies and gentlemen!"
+msgstr ""
+
+msgctxt "1574\t1758"
+msgid "At long last, the legendary duo returns!\\n"
+msgstr ""
+
+msgctxt "1825\t1900"
+msgid "So this is how it is."
+msgstr ""
+
+msgctxt "1908\t2001"
+msgid "If you want me spillin' my guts..."
+msgstr ""
+
+msgctxt "2008\t2127"
+msgid "...you're gonna have to beat 'em out of me!"
+msgstr ""
+
+msgctxt "2233\t2296"
+msgid "No surprise there."
+msgstr ""
+
+msgctxt "2299\t2472"
+msgid "That's how it always goes with us."
+msgstr ""
+
+msgctxt "2550\t2761"
+msgid ""
+"First is the King of the Ring,\\n"
+"the Dragon of Dojima... Kazuma Kiryu! Versus!"
+msgstr ""
+
+msgctxt "2762\t3002"
+msgid ""
+"The One-Eyed Demon, the Mad Dog of Shimano,\\n"
+"and the Patron Saint of Pain... Goro Majima!"
+msgstr ""
+
+msgctxt "3017\t3261"
+msgid ""
+"For the first time in two years, these titans\\n"
+"are back in action! Who will emerge victorious!?"
+msgstr ""
+
+msgctxt "3262\t3483"
+msgid ""
+"That's my Kiryu-chan!\\n"
+"Wouldn't have it any other way."
+msgstr ""
+
+msgctxt "3515\t3648"
+msgid ""
+"Ya ask me, there's nothin' better\\n"
+"than us two rumbling!"
+msgstr ""
+
+msgctxt "3649\t3777"
+msgid "Yeah... I guess not."
+msgstr ""
+
+msgctxt "3775\t3890"
+msgid "So, no holds barred."
+msgstr ""
+
+msgctxt "3910\t4054"
+msgid "Hit me with all ya got, Kiryu-chan!"
+msgstr ""
+
+msgctxt "4055\t4139"
+msgid "Now, the gong!"
+msgstr ""

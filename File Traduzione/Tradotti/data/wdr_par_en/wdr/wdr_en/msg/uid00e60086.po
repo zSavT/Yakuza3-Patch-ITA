@@ -1,0 +1,378 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "256"
+msgid ""
+"I finally got a Ryukyu sea bream! Once Kazuo-chan hears about this, he'll "
+"be a regular for life..."
+msgstr ""
+
+msgctxt "268"
+msgid "Hey. You the one who bought a Ryukyu sea bream at the Public Market?"
+msgstr ""
+
+msgctxt "280"
+msgid "Huh? Yeah, that was me, all right. Why do you ask?"
+msgstr ""
+
+msgctxt "292"
+msgid ""
+"Somebody else had already reserved that fish. I'm gonna have to buy it back "
+"from you."
+msgstr ""
+
+msgctxt "304"
+msgid ""
+"No way! It took me forever to score this baby! My regular's gonna get the "
+"feast he deserves!"
+msgstr ""
+
+msgctxt "316"
+msgid ""
+"You sure you won't change your mind? That fishmonger's prepared to offer "
+"twice what you paid for it."
+msgstr ""
+
+msgctxt "328"
+msgid ""
+"Twice? Wow, he must really want it bad. Then again, I guess I kinda bullied "
+"him into selling it..."
+msgstr ""
+
+msgctxt "340"
+msgid ""
+"Okay, how about triple what I paid for it? 300,000 yen? Oughta be enough "
+"for me to find a good replacement fish."
+msgstr ""
+
+msgctxt "352"
+msgid "300,000 yen?"
+msgstr ""
+
+msgctxt "364"
+msgid ""
+"Of course, we could always make a trade. If you can catch a tuna or "
+"something, I'll swap for the sea bream."
+msgstr ""
+
+msgctxt "376"
+msgid "Okay, then... 300,000 yen for your Ryukyu sea bream."
+msgstr ""
+
+msgctxt "388"
+msgid "All right. A deal's a deal. Here you go."
+msgstr ""
+
+msgctxt "400"
+msgid "You paid <Color:8>300,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "412"
+msgid "You bought the <Color:8>Ryukyu Sea Bream<Color:Default>."
+msgstr ""
+
+msgctxt "436"
+msgid "(Now to get this back to the fishmonger at the Public Market.)"
+msgstr ""
+
+msgctxt "448"
+msgid "All right. A deal's a deal. So, where's that cash?"
+msgstr ""
+
+msgctxt "460"
+msgid "(Damn. I don't have enough on me.)"
+msgstr ""
+
+msgctxt "472"
+msgid ""
+"What, a little light in the ol' pocketbook? I'll just wait here while you "
+"top it off, okay?"
+msgstr ""
+
+msgctxt "484"
+msgid ""
+"(I guess I'll have to head back to the fishmonger at the Public Market for "
+"now.)"
+msgstr ""
+
+msgctxt "496"
+msgid "Sure, why not? I think I can catch you a whopper."
+msgstr ""
+
+msgctxt "508"
+msgid ""
+"Now we're talking! And I want a real lunker, see? Some storebought shrimp "
+"fresh off the ice ain't gonna cut it."
+msgstr ""
+
+msgctxt "520"
+msgid ""
+"Don't worry, I'm on it. I'll get you the perfect fish if it's the last "
+"thing I do."
+msgstr ""
+
+msgctxt "532"
+msgid ""
+"It's not my decision to make. I'll go ask the fishmonger at the Public "
+"Market."
+msgstr ""
+
+msgctxt "544"
+msgid ""
+"You go do that. Don't worry⑬I'll hold off on this sea bream until we figure "
+"it out."
+msgstr ""
+
+msgctxt "556"
+msgid ""
+"(I guess I'll have to head back to the fishmonger at the Public Market for "
+"now.)"
+msgstr ""
+
+msgctxt "568"
+msgid "Oh, you're back! About time!"
+msgstr ""
+
+msgctxt "580"
+msgid ""
+"So what's it going to be? You paying up, or catching my fish? Cash... or "
+"char?"
+msgstr ""
+
+msgctxt "592"
+msgid "300,000 yen for your Ryukyu sea bream."
+msgstr ""
+
+msgctxt "604"
+msgid "All right. A deal's a deal. Here you go."
+msgstr ""
+
+msgctxt "616"
+msgid "You paid <Color:8>300,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "628"
+msgid "You got the <Color:8>Ryukyu Sea Bream<Color:Default>."
+msgstr ""
+
+msgctxt "652"
+msgid "(Now to get this back to the fishmonger at the Public Market.)"
+msgstr ""
+
+msgctxt "700"
+msgid "All right. A deal's a deal. So where's the cash?"
+msgstr ""
+
+msgctxt "712"
+msgid "(Damn. I don't have enough on me.)"
+msgstr ""
+
+msgctxt "724"
+msgid ""
+"What, a little light in the ol' pocketbook? I'll just wait here while you "
+"top it off, okay?"
+msgstr ""
+
+msgctxt "736"
+msgid ""
+"(I guess I'll have to head back to the fishmonger at the Public Market for "
+"now.)"
+msgstr ""
+
+msgctxt "748"
+msgid "(Uh-oh... I'm going to have to earn back that 300,000 yen myself.)"
+msgstr ""
+
+msgctxt "772"
+msgid "I've got another fish for you. Take a look. Is it up to your standards?"
+msgstr ""
+
+msgctxt "796"
+msgid "What are you thinking? I don't want some slimy snail!"
+msgstr ""
+
+msgctxt "808"
+msgid "You've gotta be kidding me... You could pick this up at any old market!"
+msgstr ""
+
+msgctxt "820"
+msgid ""
+"If you want this Ryukyu sea bream, I need a fish you can't just buy "
+"anywhere. Even a fresh-caught tuna could do the trick."
+msgstr ""
+
+msgctxt "832"
+msgid "All right. A deal's a deal. I'll be back."
+msgstr ""
+
+msgctxt "844"
+msgid ""
+"Hmm... Well, it's nice and fresh, that's for sure, but it's not quite what "
+"I was expecting."
+msgstr ""
+
+msgctxt "856"
+msgid ""
+"How about a tuna, or something more along those lines? This one just isn't "
+"cutting it."
+msgstr ""
+
+msgctxt "868"
+msgid "All right. A deal's a deal. I'll be back."
+msgstr ""
+
+msgctxt "880"
+msgid ""
+"Wow! Now that's what I call a fish! Who needs a Ryukyu sea bream when you "
+"have a catch like this baby!?"
+msgstr ""
+
+msgctxt "892"
+msgid "The sea bream is all yours, friend. I'm a man of my word."
+msgstr ""
+
+msgctxt "904"
+msgid "You handed over a <Color:8>Maguro<Color:Default>."
+msgstr ""
+
+msgctxt "928"
+msgid "You got the <Color:8>Ryukyu Sea Bream<Color:Default>."
+msgstr ""
+
+msgctxt "952"
+msgid "(Now to get this back to the fishmonger at the Public Market.)"
+msgstr ""
+
+msgctxt "1000"
+msgid "Could you wait just a little longer? I'll go catch you a first-class fish."
+msgstr ""
+
+msgctxt "1012"
+msgid ""
+"Now we're talking! And I want a real lunker, see? Some storebought shrimp "
+"fresh off the ice ain't gonna cut it."
+msgstr ""
+
+msgctxt "1024"
+msgid ""
+"Don't worry, I'm on it. I'll get you the perfect fish if it's the last "
+"thing I do."
+msgstr ""
+
+msgctxt "1036"
+msgid ""
+"It's not my decision to make. I'll go ask the fishmonger at the Public "
+"Market."
+msgstr ""
+
+msgctxt "1048"
+msgid ""
+"You go do that. Don't worry⑬I'll hold off on this sea bream until we figure "
+"it out."
+msgstr ""
+
+msgctxt "1060"
+msgid "(I guess I'll head back to the fishmonger at the Public Market for now.)"
+msgstr ""
+
+msgctxt "1072"
+msgid "Pay the Money"
+msgstr ""
+
+msgctxt "1084"
+msgid "Go Fishing"
+msgstr ""
+
+msgctxt "1096"
+msgid "Head Back"
+msgstr ""
+
+msgctxt "1108"
+msgid "Pay the Money"
+msgstr ""
+
+msgctxt "1120"
+msgid "Trade Fish"
+msgstr ""
+
+msgctxt "1132"
+msgid "Head Back"
+msgstr ""
+
+msgctxt "12380"
+msgid "Stubborn Chef"
+msgstr ""
+
+msgctxt "12384"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "12388"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "12392"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "12396"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "12400"
+msgid "Talk_Udekumi_st"
+msgstr ""
+
+msgctxt "12404"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "12408"
+msgid "0.8_128_SLOWER_VF"
+msgstr ""
+
+msgctxt "12412"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "12416"
+msgid "Talk_Udekumi_ed"
+msgstr ""
+
+msgctxt "12420"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "12424"
+msgid "Talk_Send"
+msgstr ""
+
+msgctxt "12428"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "12432"
+msgid "dummy"
+msgstr ""
+
+msgctxt "12436"
+msgid "0"
+msgstr ""
+
+msgctxt "12440"
+msgid "Talk_Away"
+msgstr ""
+
+msgctxt "12444"
+msgid "Talk_Surp"
+msgstr ""

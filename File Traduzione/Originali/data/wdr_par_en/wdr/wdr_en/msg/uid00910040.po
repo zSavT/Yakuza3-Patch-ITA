@@ -1,0 +1,134 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "136"
+msgid "Ugh..."
+msgstr ""
+
+msgctxt "148"
+msgid "Don't you usually wear a mask?"
+msgstr ""
+
+msgctxt "160"
+msgid ""
+"I used to wear one when I was with the yakuza, but I don't\r\n"
+"anymore."
+msgstr ""
+
+msgctxt "172"
+msgid "Why not? I thought you wanted to hide your identity."
+msgstr ""
+
+msgctxt "184"
+msgid ""
+"A masked imposter showed up, pretending to be me. He ruined\r\n"
+"my reputation and got me kicked out of my family."
+msgstr ""
+
+msgctxt "196"
+msgid ""
+"Besides, wearing a mask around Kamurocho just makes you\r\n"
+"stick out like a sore thumb."
+msgstr ""
+
+msgctxt "208"
+msgid "I'll give you that."
+msgstr ""
+
+msgctxt "220"
+msgid ""
+"These days, the best way to hide your identity is to wear\r\n"
+"a suit."
+msgstr ""
+
+msgctxt "232"
+msgid "In this city, a suit is a mask of its own."
+msgstr ""
+
+msgctxt "244"
+msgid "You've got a point there."
+msgstr ""
+
+msgctxt "256"
+msgid "Are you with the HLA?"
+msgstr ""
+
+msgctxt "268"
+msgid "Yeah, I am."
+msgstr ""
+
+msgctxt "280"
+msgid "I'll go with you, but I'm not talking."
+msgstr ""
+
+msgctxt "292"
+msgid ""
+"I know you're probably not the kind of guy to talk, but you've got the "
+"wrong idea about the HLA."
+msgstr ""
+
+msgctxt "304"
+msgid "What?"
+msgstr ""
+
+msgctxt "316"
+msgid ""
+"The HLA is an organization that helps ex-yakuza. They're\r\n"
+"not your enemy."
+msgstr ""
+
+msgctxt "328"
+msgid "They aren't going to force you to confess anything."
+msgstr ""
+
+msgctxt "340"
+msgid ""
+"Once you meet them, you just might form a different opinion\r\n"
+"of them."
+msgstr ""
+
+msgctxt "2980"
+msgid "Tokoyami"
+msgstr ""
+
+msgctxt "2984"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "2988"
+msgid "M_ykzs_damage_tlk_no"
+msgstr ""
+
+msgctxt "2992"
+msgid "Idle"
+msgstr ""
+
+msgctxt "2996"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "3000"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "3004"
+msgid "Talk_Udekumi_st"
+msgstr ""
+
+msgctxt "3008"
+msgid "Talk_Udekumi_ed"
+msgstr ""
+
+msgctxt "3012"
+msgid "P_stand_tlk_phone_st"
+msgstr ""

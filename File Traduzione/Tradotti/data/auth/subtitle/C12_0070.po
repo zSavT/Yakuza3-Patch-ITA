@@ -1,0 +1,424 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "495\t635"
+msgid "Looks like... I..."
+msgstr ""
+
+msgctxt "649\t709"
+msgid "Lost."
+msgstr ""
+
+msgctxt "1085\t1145"
+msgid "This is Katase."
+msgstr ""
+
+msgctxt "1160\t1220"
+msgid "Uh-huh."
+msgstr ""
+
+msgctxt "1230\t1347"
+msgid "Sir? Are you hurt?"
+msgstr ""
+
+msgctxt "1348\t1381"
+msgid "I'm fine."
+msgstr ""
+
+msgctxt "1382\t1512"
+msgid "Chairman, I've been so worried about⑬"
+msgstr ""
+
+msgctxt "1585\t1704"
+msgid "You know... Katase."
+msgstr ""
+
+msgctxt "1714\t1774"
+msgid "You're the only one..."
+msgstr ""
+
+msgctxt "1796\t1911"
+msgid ""
+"I need your advice, sir.\\n"
+"Please."
+msgstr ""
+
+msgctxt "1916\t2066"
+msgid ""
+"We've received an offer on the Dubai stock deal.\\n"
+"10 times the original market value."
+msgstr ""
+
+msgctxt "2067\t2275"
+msgid ""
+"Our European creditors have requested a meeting\\n"
+"with you after hearing the news, and..."
+msgstr ""
+
+msgctxt "2278\t2398"
+msgid "Money, huh? No surprise there."
+msgstr ""
+
+msgctxt "2441\t2560"
+msgid "It's the only thing I have left."
+msgstr ""
+
+msgctxt "2575\t2748"
+msgid "All this time, I've been vain."
+msgstr ""
+
+msgctxt "2755\t2895"
+msgid ""
+"Never relied on anyone.\\n"
+"Never trusted anyone."
+msgstr ""
+
+msgctxt "2909\t2983"
+msgid "Only the power of money."
+msgstr ""
+
+msgctxt "2996\t3107"
+msgid "Chairman, this deal could bring you billions!"
+msgstr ""
+
+msgctxt "3140\t3229"
+msgid "Please, you need to make a decision."
+msgstr ""
+
+msgctxt "3270\t3435"
+msgid ""
+"But I suppose...\\n"
+"people yearn to trust others."
+msgstr ""
+
+msgctxt "3463\t3537"
+msgid "And to be trusted in return."
+msgstr ""
+
+msgctxt "3556\t3640"
+msgid "Maybe that's all anyone really needs."
+msgstr ""
+
+msgctxt "3673\t3763"
+msgid "Hey, Kiryu."
+msgstr ""
+
+msgctxt "3780\t3949"
+msgid ""
+"Chairman! If we don't respond soon,\\n"
+"who knows how they may respond!"
+msgstr ""
+
+msgctxt "3950\t4049"
+msgid ""
+"Please, sir! Answer me!\\n"
+"Chairma⑬"
+msgstr ""
+
+msgctxt "4205\t4265"
+msgid "Why is it..."
+msgstr ""
+
+msgctxt "4297\t4404"
+msgid "Why is it I feel so at peace?"
+msgstr ""
+
+msgctxt "4444\t4532"
+msgid "Is this how it feels..."
+msgstr ""
+
+msgctxt "4572\t4641"
+msgid "When your world comes crashing down?"
+msgstr ""
+
+msgctxt "4717\t4777"
+msgid "Mine."
+msgstr ""
+
+msgctxt "4783\t4890"
+msgid ""
+"As long as you live,\\n"
+"you can always rebuild."
+msgstr ""
+
+msgctxt "4938\t5016"
+msgid "It's never too late to change."
+msgstr ""
+
+msgctxt "5842\t5895"
+msgid "So they've come."
+msgstr ""
+
+msgctxt "5896\t6022"
+msgid ""
+"What the...\\n"
+"What are the CIA doing here?"
+msgstr ""
+
+msgctxt "6030\t6120"
+msgid "They're not CIA."
+msgstr ""
+
+msgctxt "6121\t6181"
+msgid "It's merely a cover."
+msgstr ""
+
+msgctxt "6191\t6275"
+msgid "They're all Black Monday leadership."
+msgstr ""
+
+msgctxt "6344\t6446"
+msgid "Then, that man is..."
+msgstr ""
+
+msgctxt "6452\t6512"
+msgid "Yes."
+msgstr ""
+
+msgctxt "6533\t6603"
+msgid "Andre Richardson."
+msgstr ""
+
+msgctxt "6628\t6688"
+msgid "So it's him."
+msgstr ""
+
+msgctxt "6698\t6885"
+msgid ""
+"That's right. He's the one who told me\\n"
+"you were on your way here."
+msgstr ""
+
+msgctxt "6899\t7045"
+msgid ""
+"They knew everything the CIA\\n"
+"and that fool Kazama were trying to do."
+msgstr ""
+
+msgctxt "7059\t7209"
+msgid ""
+"I'm afraid your role in all of this\\n"
+"has come to an end."
+msgstr ""
+
+msgctxt "7240\t7369"
+msgid "Dammit. What are they gonna do?"
+msgstr ""
+
+msgctxt "7438\t7611"
+msgid ""
+"Kill us and search for someone else\\n"
+"who can get the military expansion bill passed."
+msgstr ""
+
+msgctxt "7656\t7716"
+msgid "In other words..."
+msgstr ""
+
+msgctxt "7720\t7811"
+msgid "I've outlived my usefulness to them."
+msgstr ""
+
+msgctxt "8030\t8163"
+msgid ""
+"Oh, there are plenty of people\\n"
+"who could replace you."
+msgstr ""
+
+msgctxt "8164\t8218"
+msgid "And unfortunately..."
+msgstr ""
+
+msgctxt "8219\t8416"
+msgid ""
+"You both know far too much\\n"
+"for me to let either of you live."
+msgstr ""
+
+msgctxt "8464\t8524"
+msgid "Die."
+msgstr ""
+
+msgctxt "8605\t8665"
+msgid "What!?"
+msgstr ""
+
+msgctxt "8924\t9007"
+msgid "What the fuck!?"
+msgstr ""
+
+msgctxt "9073\t9245"
+msgid ""
+"I'm not... ready to die yet!\\n"
+"You hear me!?"
+msgstr ""
+
+msgctxt "9438\t9498"
+msgid "Dammit!"
+msgstr ""
+
+msgctxt "9615\t9675"
+msgid "Daigo!"
+msgstr ""
+
+msgctxt "9760\t9814"
+msgid "Daigo."
+msgstr ""
+
+msgctxt "9815\t9869"
+msgid "Kiryu-san!"
+msgstr ""
+
+msgctxt "9870\t9932"
+msgid "Are you hurt!?"
+msgstr ""
+
+msgctxt "9947\t10071"
+msgid "I... could ask you the same thing."
+msgstr ""
+
+msgctxt "10072\t10186"
+msgid "What... happened here?"
+msgstr ""
+
+msgctxt "10340\t10400"
+msgid "Mine?"
+msgstr ""
+
+msgctxt "10417\t10613"
+msgid ""
+"Mine. What are you doing here?\\n"
+"Are you hurt?"
+msgstr ""
+
+msgctxt "10703\t10891"
+msgid ""
+"That was a close one, huh?\\n"
+"But... it's all okay now."
+msgstr ""
+
+msgctxt "10992\t11052"
+msgid "Chairman..."
+msgstr ""
+
+msgctxt "11572\t11685"
+msgid "Damn. He's tougher than I thought!"
+msgstr ""
+
+msgctxt "11735\t11945"
+msgid ""
+"I won't let it end like this.\\n"
+"I'll kill you all!"
+msgstr ""
+
+msgctxt "12254\t12384"
+msgid "Die, god damn you! Die!"
+msgstr ""
+
+msgctxt "12676\t12747"
+msgid "Stop! Stop!"
+msgstr ""
+
+msgctxt "12748\t12836"
+msgid "Chairman. I'm sorry."
+msgstr ""
+
+msgctxt "12837\t12988"
+msgid ""
+"Mine! You don't need to do this!\\n"
+"You hear me!? Get back here!"
+msgstr ""
+
+msgctxt "12989\t13148"
+msgid ""
+"Sorry, but the truth of it is...\\n"
+"I don't deserve to live."
+msgstr ""
+
+msgctxt "13149\t13209"
+msgid "Mine!"
+msgstr ""
+
+msgctxt "13222\t13282"
+msgid "Kiryu-san."
+msgstr ""
+
+msgctxt "13304\t13401"
+msgid "I might be a sorry excuse for a yakuza..."
+msgstr ""
+
+msgctxt "13402\t13526"
+msgid "But I still know how to uphold my code of honor."
+msgstr ""
+
+msgctxt "13527\t13570"
+msgid "Mine!"
+msgstr ""
+
+msgctxt "13571\t13678"
+msgid "Stop it! Are you nuts!?"
+msgstr ""
+
+msgctxt "13791\t14006"
+msgid ""
+"Kiryu-san. I wish we could have met sooner.\\n"
+"I really do."
+msgstr ""
+
+msgctxt "14035\t14095"
+msgid "Mine...!"
+msgstr ""
+
+msgctxt "14461\t14530"
+msgid "Maybe in my next life..."
+msgstr ""
+
+msgctxt "14549\t14626"
+msgid ""
+"I'll have what it takes\\n"
+"to earn your respect."
+msgstr ""
+
+msgctxt "14656\t14728"
+msgid "No! Don't do this, Mine!"
+msgstr ""
+
+msgctxt "14729\t14789"
+msgid "Mine!"
+msgstr ""
+
+msgctxt "15683\t15743"
+msgid "Uncle Kaz!"
+msgstr ""
+
+msgctxt "15917\t15977"
+msgid "Kiryu-san."
+msgstr ""
+
+msgctxt "15984\t16098"
+msgid ""
+"Tell me the truth.\\n"
+"The traitor to the Tojo..."
+msgstr ""
+
+msgctxt "16151\t16247"
+msgid "Was it Mine?"
+msgstr ""
+
+msgctxt "16304\t16414"
+msgid "No. Not a chance."
+msgstr ""
+
+msgctxt "16458\t16614"
+msgid "He... would never have betrayed you."
+msgstr ""

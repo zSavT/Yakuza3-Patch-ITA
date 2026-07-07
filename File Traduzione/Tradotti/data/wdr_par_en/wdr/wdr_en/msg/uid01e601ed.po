@@ -1,0 +1,108 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "100"
+msgid ""
+"Kiryu-san? It's me, Shibayama, the guy who asked you to\r\n"
+"help collect that loan."
+msgstr ""
+
+msgctxt "112"
+msgid "Oh, hey. What's going on?"
+msgstr ""
+
+msgctxt "124"
+msgid "It looks like Motoyama isn't at the bowling alley anymore."
+msgstr ""
+
+msgctxt "136"
+msgid ""
+"Sorry for the extra trouble, but do you think you could\r\n"
+"find out where he is now?"
+msgstr ""
+
+msgctxt "148"
+msgid "...All right. Sorry I didn't get to him in time."
+msgstr ""
+
+msgctxt "160"
+msgid ""
+"Nah, I'm the one who should be apologizing for all this\r\n"
+"trouble. Well, good luck!"
+msgstr ""
+
+msgctxt "208"
+msgid "Guess I'll just have to have another look around Kamurocho."
+msgstr ""
+
+msgctxt "220"
+msgid ""
+"Well, I managed to catch Motoyama, but he'd already spent\r\n"
+"the 1,000,000 yen."
+msgstr ""
+
+msgctxt "232"
+msgid ""
+"Looks like we won't be able to collect that loan today\r\n"
+"after all..."
+msgstr ""
+
+msgctxt "244"
+msgid "I see..."
+msgstr ""
+
+msgctxt "256"
+msgid "Sorry about all that running around I made you do..."
+msgstr ""
+
+msgctxt "268"
+msgid "Guess this means I won't be needing your help anymore..."
+msgstr ""
+
+msgctxt "280"
+msgid "All right. Sorry I couldn't help."
+msgstr ""
+
+msgctxt "292"
+msgid ""
+"You helped plenty! You taught me a lot, and I'm really\r\n"
+"grateful for that."
+msgstr ""
+
+msgctxt "304"
+msgid "Well, bye, now. Thanks again."
+msgstr ""
+
+msgctxt "376"
+msgid "You got 3,000 EXP."
+msgstr ""
+
+msgctxt "3084"
+msgid "P_stand_tlk_phone_st"
+msgstr ""
+
+msgctxt "3088"
+msgid "Shibayama the Loan Shark"
+msgstr ""
+
+msgctxt "3092"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "3096"
+msgid "P_stand_tlk_phone_ed"
+msgstr ""
+
+msgctxt "3100"
+msgid "dummy"
+msgstr ""

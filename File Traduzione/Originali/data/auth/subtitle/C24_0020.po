@@ -1,0 +1,82 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "123\t204"
+msgid "It's not what you think, Akimoto-kun!"
+msgstr ""
+
+msgctxt "209\t269"
+msgid "Or should I say..."
+msgstr ""
+
+msgctxt "270\t330"
+msgid "Big brother!"
+msgstr ""
+
+msgctxt "369\t429"
+msgid "Big brother?"
+msgstr ""
+
+msgctxt "490\t607"
+msgid "You and I, Akimoto-kun..."
+msgstr ""
+
+msgctxt "628\t726"
+msgid "We're actually long-lost siblings!"
+msgstr ""
+
+msgctxt "728\t783"
+msgid "What!?"
+msgstr ""
+
+msgctxt "784\t906"
+msgid "I love you, Akimoto-kun."
+msgstr ""
+
+msgctxt "909\t1067"
+msgid ""
+"But we're siblings.\\n"
+"We can never be together."
+msgstr ""
+
+msgctxt "1086\t1159"
+msgid "I can't believe it..."
+msgstr ""
+
+msgctxt "1160\t1277"
+msgid "Mizuki-chan is actually my little sister!"
+msgstr ""
+
+msgctxt "1303\t1484"
+msgid ""
+"So then... you can never marry\\n"
+"into my family?"
+msgstr ""
+
+msgctxt "1635\t1699"
+msgid "Wait."
+msgstr ""
+
+msgctxt "1710\t1859"
+msgid "But if you were my little sister all along..."
+msgstr ""
+
+msgctxt "1871\t1998"
+msgid ""
+"That means we're family already!\\n"
+"Woo-hoo!"
+msgstr ""
+
+msgctxt "1999\t2120"
+msgid "Yeah! All right!"
+msgstr ""

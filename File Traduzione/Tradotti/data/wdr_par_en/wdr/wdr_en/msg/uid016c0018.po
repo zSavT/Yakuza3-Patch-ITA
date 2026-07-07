@@ -1,0 +1,486 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "512"
+msgid "Controls"
+msgstr ""
+
+msgctxt "524"
+msgid ""
+"Use the "
+"<Action:Button_LS_Up@Cabaret><Action:Button_LS_Down@Cabaret><Action:Button_"
+"LS_Left@Cabaret><Action:Button_LS_Right@Cabaret> to control where Kiryu "
+"looks. This is your big chance to feast your eyes on a perfect incarnation "
+"of beauty."
+msgstr ""
+
+msgctxt "536"
+msgid ""
+"Press <Action:Button_Cross@Cabaret> when you want to focus intently on one "
+"of her features. Holding down <Action:Button_Cross@Cabaret> allows you to "
+"focus your gaze."
+msgstr ""
+
+msgctxt "548"
+msgid "Note that her response will change depending on where you look."
+msgstr ""
+
+msgctxt "572"
+msgid "(Her cute eyes...)"
+msgstr ""
+
+msgctxt "584"
+msgid "(Her soft lips...)"
+msgstr ""
+
+msgctxt "596"
+msgid "(Her beautiful hands...)"
+msgstr ""
+
+msgctxt "608"
+msgid "(Her slender, shapely legs...)"
+msgstr ""
+
+msgctxt "620"
+msgid "(Her silky, beautiful hair...)"
+msgstr ""
+
+msgctxt "632"
+msgid "(I can't see them well, but... they're a good size.)"
+msgstr ""
+
+msgctxt "644"
+msgid "(Hmm...)"
+msgstr ""
+
+msgctxt "656"
+msgid "I was just thinking your eyes look cute."
+msgstr ""
+
+msgctxt "668"
+msgid ""
+"Oh, gosh, Kiryu-san! You're embarrassing me! I'm seriously blushing right "
+"now. <Color:7>⑮⑮<Color:Default>"
+msgstr ""
+
+msgctxt "680"
+msgid "I'm pretty fond of them."
+msgstr ""
+
+msgctxt "692"
+msgid "You really know how to woo a girl, Kiryu-san. <Color:7>⑮⑮⑮<Color:Default>"
+msgstr ""
+
+msgctxt "704"
+msgid "Heh."
+msgstr ""
+
+msgctxt "716"
+msgid "That mouth of yours. Your lips look so soft and lovely."
+msgstr ""
+
+msgctxt "728"
+msgid ""
+"Really...? I'm not sure anyone's ever said that to me before. "
+"<Color:7>⑮⑮<Color:Default>"
+msgstr ""
+
+msgctxt "740"
+msgid ""
+"And I really like your lips, too, Kiryu-san. Thin lips are my type. "
+"<Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "752"
+msgid "Your slender hands. Even your fingers are beautiful."
+msgstr ""
+
+msgctxt "764"
+msgid ""
+"Wow... I'm flattered, I guess, but... Do you have some kind of fetish, "
+"Kiryu-san?"
+msgstr ""
+
+msgctxt "776"
+msgid "...No?"
+msgstr ""
+
+msgctxt "788"
+msgid "You've got beautiful legs."
+msgstr ""
+
+msgctxt "800"
+msgid "Really? I don't really do anything special with them, though..."
+msgstr ""
+
+msgctxt "812"
+msgid "I think they're pretty sexy."
+msgstr ""
+
+msgctxt "824"
+msgid ""
+"Hmm, is that because part of my dress is see-through? Are you thinking lewd "
+"thoughts, Kiryu-san?"
+msgstr ""
+
+msgctxt "836"
+msgid "...Of course not."
+msgstr ""
+
+msgctxt "848"
+msgid "Well, I guess you are a man after all. But still, Kiryu-san. Geez!"
+msgstr ""
+
+msgctxt "860"
+msgid "You've got silky, beautiful hair."
+msgstr ""
+
+msgctxt "872"
+msgid ""
+"Really!? Thanks, Kiryu-san! I really like my hair, too! "
+"<Color:7>⑮⑮<Color:Default>"
+msgstr ""
+
+msgctxt "884"
+msgid ""
+"I don't really have anything special I do to it, though. I guess I just "
+"have naturally good hair."
+msgstr ""
+
+msgctxt "896"
+msgid ""
+"Actually, when I'm feeling tired or lazy, I just don't care for it at all. "
+"Hahaha!"
+msgstr ""
+
+msgctxt "908"
+msgid "Well, it looks great nonetheless."
+msgstr ""
+
+msgctxt "920"
+msgid ""
+"Hehehe. That hairstyle really suits you, too, Kiryu-san. "
+"<Color:7>⑮⑮<Color:Default>"
+msgstr ""
+
+msgctxt "932"
+msgid "Gotta be... your chest."
+msgstr ""
+
+msgctxt "944"
+msgid "Kiryu-san, I can't believe you! Are you trying to sexually harass me!?"
+msgstr ""
+
+msgctxt "956"
+msgid "No, that's not..."
+msgstr ""
+
+msgctxt "968"
+msgid ""
+"For goodness' sake, Kiryu-san. I thought you were a little more stoic than "
+"that..."
+msgstr ""
+
+msgctxt "980"
+msgid "Ugh... Don't look at me like that... It's making me embarrassed..."
+msgstr ""
+
+msgctxt "992"
+msgid "Kiryu-san! Where are you looking!?"
+msgstr ""
+
+msgctxt "1004"
+msgid "Uh, well..."
+msgstr ""
+
+msgctxt "1016"
+msgid "Ugh... I kind of don't want to do this anymore..."
+msgstr ""
+
+msgctxt "1028"
+msgid "Sorry..."
+msgstr ""
+
+msgctxt "1040"
+msgid "(Her eyes...?)"
+msgstr ""
+
+msgctxt "1052"
+msgid "(Her lips...?)"
+msgstr ""
+
+msgctxt "1064"
+msgid "(Her watch...?)"
+msgstr ""
+
+msgctxt "1076"
+msgid "(Her legs...?)"
+msgstr ""
+
+msgctxt "1088"
+msgid "(Her hair...?)"
+msgstr ""
+
+msgctxt "1100"
+msgid "(Her necklace, maybe?)"
+msgstr ""
+
+msgctxt "1112"
+msgid "(Treasure, huh...?)"
+msgstr ""
+
+msgctxt "1124"
+msgid ""
+"If we're talking treasure... It has to be those eyes. They're like shining "
+"diamonds."
+msgstr ""
+
+msgctxt "1136"
+msgid "Uh... What!? Okay, so that's a little creepy..."
+msgstr ""
+
+msgctxt "1148"
+msgid "Is it? Your eyes are beautiful, you know."
+msgstr ""
+
+msgctxt "1160"
+msgid ""
+"Okay, I know they say that sort of thing on soap operas and stuff, but it's "
+"kind of creepy when you say it in real life..."
+msgstr ""
+
+msgctxt "1172"
+msgid ""
+"What I was trying to show you is this watch. It's my favorite. "
+"<Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "1184"
+msgid "If we're talking treasure... Then it has to be those plush lips."
+msgstr ""
+
+msgctxt "1196"
+msgid "Uh... What!? Okay, so that's a little creepy..."
+msgstr ""
+
+msgctxt "1208"
+msgid "You think so? Your lips are cute, though."
+msgstr ""
+
+msgctxt "1220"
+msgid ""
+"Okay, I know they say that sort of thing on soap operas and stuff, but it's "
+"kind of creepy when you say it in real life..."
+msgstr ""
+
+msgctxt "1232"
+msgid ""
+"What I was trying to show you is this watch. It's my favorite. "
+"<Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "1244"
+msgid "Is it that watch?"
+msgstr ""
+
+msgctxt "1256"
+msgid "Yes, it is! How'd you know, Kiryu-san?"
+msgstr ""
+
+msgctxt "1268"
+msgid "I knew it was something you treasured the moment I saw it."
+msgstr ""
+
+msgctxt "1280"
+msgid "Hehehe. I bought it as a treat for myself last year."
+msgstr ""
+
+msgctxt "1292"
+msgid ""
+"It's simple, and it goes with pretty much all of my clothes. That's why "
+"it's my favorite. <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "1304"
+msgid "I'm impressed, Kiryu-san. You really do know me! <Color:7>⑮⑮⑮<Color:Default>"
+msgstr ""
+
+msgctxt "1316"
+msgid "Of course I do."
+msgstr ""
+
+msgctxt "1328"
+msgid "If we're talking treasure... It has to be those legs."
+msgstr ""
+
+msgctxt "1340"
+msgid ""
+"Uh... What!? Kiryu-san, I said I brought a <Italic>treasure</Italic> with "
+"me."
+msgstr ""
+
+msgctxt "1352"
+msgid "Your legs aren't a treasure...?"
+msgstr ""
+
+msgctxt "1364"
+msgid ""
+"I'm not a marathon runner, Kiryu-san. I mean, legs are nice to have, but "
+"they're not exactly my treasure."
+msgstr ""
+
+msgctxt "1376"
+msgid ""
+"What I was trying to show you is this watch. It's my favorite. "
+"<Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "1388"
+msgid "Is it... Your hair?"
+msgstr ""
+
+msgctxt "1400"
+msgid ""
+"Well, my hair is beautiful, and I do love it, but it's not quite my "
+"treasure. <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "1412"
+msgid "My treasure is..."
+msgstr ""
+
+msgctxt "1424"
+msgid "This watch. I bought it as a treat for myself last year."
+msgstr ""
+
+msgctxt "1436"
+msgid ""
+"It's simple, and it goes with pretty much all of my clothes. That's why "
+"it's my favorite. <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "1448"
+msgid "Hehehe. Isn't it lovely? <Color:7>⑮⑮⑮<Color:Default>"
+msgstr ""
+
+msgctxt "1460"
+msgid "Absolutely."
+msgstr ""
+
+msgctxt "1472"
+msgid "Is it that necklace?"
+msgstr ""
+
+msgctxt "1484"
+msgid ""
+"Okay, so this necklace is definitely one of my favorites, but it's not my "
+"treasure."
+msgstr ""
+
+msgctxt "1496"
+msgid "The answer is..."
+msgstr ""
+
+msgctxt "1508"
+msgid "This watch. I bought it as a treat for myself last year."
+msgstr ""
+
+msgctxt "1520"
+msgid ""
+"It's simple, and it goes with pretty much all of my clothes. That's why "
+"it's my favorite. <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "1532"
+msgid "I have no idea."
+msgstr ""
+
+msgctxt "1544"
+msgid "Come on, Kiryu-san! You're not even gonna try?"
+msgstr ""
+
+msgctxt "1556"
+msgid "So what's your treasure?"
+msgstr ""
+
+msgctxt "1568"
+msgid ""
+"Ugh... Well, my treasure is this watch. I bought it as a treat for myself "
+"last year."
+msgstr ""
+
+msgctxt "1580"
+msgid ""
+"It's simple, and it goes with pretty much all of my clothes. That's why "
+"it's my favorite. <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "15804"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "15808"
+msgid "F_cab_sitsofa_hot_muneA"
+msgstr ""
+
+msgctxt "15812"
+msgid "Kana"
+msgstr ""
+
+msgctxt "15816"
+msgid "F_cab_sitsofa_tlk_happy"
+msgstr ""
+
+msgctxt "15820"
+msgid "F_cab_sitsofa_tlk_tereruA"
+msgstr ""
+
+msgctxt "15824"
+msgid "F_cab_sitsofa_hot_momoA"
+msgstr ""
+
+msgctxt "15828"
+msgid "F_cab_sitsofa_tlk_noA"
+msgstr ""
+
+msgctxt "15832"
+msgid "F_cab_sitsofa_sp8_sync_crap"
+msgstr ""
+
+msgctxt "15836"
+msgid "P_sitsofa_sp8_sync_crap"
+msgstr ""
+
+msgctxt "15840"
+msgid "F_cab_sitsofa_tlk_angry"
+msgstr ""
+
+msgctxt "15844"
+msgid "F_cab_sitsofa_tlk_cry"
+msgstr ""
+
+msgctxt "15848"
+msgid "F_cab_sitsofa_tlk_suprise"
+msgstr ""
+
+msgctxt "15852"
+msgid "F_cab_sitsofa_talk_smileA"
+msgstr ""
+
+msgctxt "15856"
+msgid "F_cab_sitsofa_sp5_sync_laugh"
+msgstr ""
+
+msgctxt "15860"
+msgid "P_sitsofa_sp5_sync_laugh"
+msgstr ""

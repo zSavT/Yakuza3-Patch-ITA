@@ -1,0 +1,50 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "160"
+msgid "(Is that a locker key? Might be worth taking a closer look.)"
+msgstr ""
+
+msgctxt "184"
+msgid ""
+"(Huh, there's something shiny over there. Might be worth\r\n"
+"taking a closer look.)"
+msgstr ""
+
+msgctxt "220"
+msgid "(What's this?)"
+msgstr ""
+
+msgctxt "232"
+msgid "You got <Color:255,255,200,255>Ryukyu Locker Key No. 31<Color:Default>."
+msgstr ""
+
+msgctxt "256"
+msgid "(What's this?)"
+msgstr ""
+
+msgctxt "268"
+msgid "You got <Color:255,255,200,255>Ryukyu Locker Key No. 31<Color:Default>."
+msgstr ""
+
+msgctxt "1512"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1516"
+msgid "P_stand_tlk_hirou_st"
+msgstr ""
+
+msgctxt "1520"
+msgid "P_stand_tlk_hirou_ed"
+msgstr ""

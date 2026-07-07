@@ -1,0 +1,360 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "124"
+msgid "Urgh... What the hell, man?"
+msgstr ""
+
+msgctxt "136"
+msgid ""
+"You're done for now. Just wait until these two finish\r\n"
+"talking things through."
+msgstr ""
+
+msgctxt "148"
+msgid ""
+"Tagami... Take this money. Please. I can't keep going on\r\n"
+"like this."
+msgstr ""
+
+msgctxt "160"
+msgid ""
+"My current debts have nothing to do with you. This...\r\n"
+"This is all for my wife."
+msgstr ""
+
+msgctxt "172"
+msgid ""
+"It's cancer... She was in the hospital for surgery. All her\r\n"
+"treatments cost us a near-fortune..."
+msgstr ""
+
+msgctxt "184"
+msgid ""
+"We've had to work so hard for so long... All I've ever\r\n"
+"wanted was for us to spend our last years together in\r\n"
+"peace... Is that so much to ask?"
+msgstr ""
+
+msgctxt "196"
+msgid "But, Tagami..."
+msgstr ""
+
+msgctxt "208"
+msgid "In fact, your sticky fingers led me to my wife."
+msgstr ""
+
+msgctxt "220"
+msgid ""
+"I lost my money and had to sell the shop, as you well know.\r\n"
+"Eventually, I wound up living and working in a sushi joint\r\n"
+"out here in Kamurocho. That's where I met her."
+msgstr ""
+
+msgctxt "232"
+msgid ""
+"I did hate you once upon a time, when I was younger... But\r\n"
+"why hold on to old grudges? I'm content with the way things\r\n"
+"turned out."
+msgstr ""
+
+msgctxt "244"
+msgid ""
+"That might be all well and good for you, but not for me!\r\n"
+"Now I insist that you take this money!"
+msgstr ""
+
+msgctxt "256"
+msgid ""
+"Hey, collector! Here, this is yours⑬all of it. Take it and\r\n"
+"never show your face around here again!"
+msgstr ""
+
+msgctxt "268"
+msgid ""
+"Yes, sir! You got it! Oh, and thanks a million... No, make\r\n"
+"that ten million!"
+msgstr ""
+
+msgctxt "316"
+msgid "Zaizen! Why on earth did you⑬"
+msgstr ""
+
+msgctxt "328"
+msgid ""
+"Stop. I didn't give that money to you. I gave it to your\r\n"
+"wife."
+msgstr ""
+
+msgctxt "340"
+msgid ""
+"Out of pity for having to put up with a royal pain in the\r\n"
+"keister like you."
+msgstr ""
+
+msgctxt "352"
+msgid "It's still way too much money."
+msgstr ""
+
+msgctxt "364"
+msgid "Then what say my drinks are on the house from now on?"
+msgstr ""
+
+msgctxt "376"
+msgid ""
+"Well, if that's what you want... Then those drinks better be\r\n"
+"damn strong! Now go introduce yourself to my wife."
+msgstr ""
+
+msgctxt "388"
+msgid "That sounds like a fine idea."
+msgstr ""
+
+msgctxt "400"
+msgid ""
+"I can't thank you enough for all you've done. I would never\r\n"
+"have been able to talk with my old friend without your help."
+msgstr ""
+
+msgctxt "412"
+msgid "All I did was bring you here. Nothing more."
+msgstr ""
+
+msgctxt "424"
+msgid ""
+"Heheheh... Live as long as I have and you can tell...\r\n"
+"You're a man of no ordinary caliber. Won't you tell me your\r\n"
+"name?"
+msgstr ""
+
+msgctxt "436"
+msgid "Kiryu... Kazuma Kiryu."
+msgstr ""
+
+msgctxt "448"
+msgid ""
+"I thank you from the bottom of my heart, Kiryu-san.\r\n"
+"I'll never forget you, not as long as I live."
+msgstr ""
+
+msgctxt "460"
+msgid ""
+"Please accept this as a mere token of my gratitude. Now, if\r\n"
+"you'll excuse me..."
+msgstr ""
+
+msgctxt "472"
+msgid "You got <Color:8>100,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "496"
+msgid "You got 3,000 EXP."
+msgstr ""
+
+msgctxt "556"
+msgid "So this is it, eh...? This is his place?"
+msgstr ""
+
+msgctxt "568"
+msgid "Tagami! It's me... It's Zaizen. Shintaro Zaizen."
+msgstr ""
+
+msgctxt "580"
+msgid "Zaizen?"
+msgstr ""
+
+msgctxt "640"
+msgid "Zaizen... Is it really you, after all these years?"
+msgstr ""
+
+msgctxt "652"
+msgid ""
+"Forgive me, Tagami... I have to apologize for what I've\r\n"
+"done."
+msgstr ""
+
+msgctxt "664"
+msgid "What are you talking about?"
+msgstr ""
+
+msgctxt "676"
+msgid ""
+"Back when we were working on the black market, I... I stole\r\n"
+"the money we'd earned. Worse, I betrayed my friend."
+msgstr ""
+
+msgctxt "688"
+msgid ""
+"I know this won't make up for anything I've done, but...\r\n"
+"I've set aside ten million yen for you, and I want you to\r\n"
+"accept it."
+msgstr ""
+
+msgctxt "700"
+msgid ""
+"Wait just a second. I can't take that kind of money from\r\n"
+"you."
+msgstr ""
+
+msgctxt "712"
+msgid "Tagami... Be reasonable now."
+msgstr ""
+
+msgctxt "736"
+msgid ""
+"Oh? Then we'll gladly accept it on your behalf! Right,\r\n"
+"Tagami-san? Heheheh."
+msgstr ""
+
+msgctxt "748"
+msgid ""
+"This is perfect! You owe us eight million as it is, and once\r\n"
+"you tack on various fees... Well, we'll call it square at a\r\n"
+"cool ten mil."
+msgstr ""
+
+msgctxt "760"
+msgid "Tagami... You're in debt?"
+msgstr ""
+
+msgctxt "772"
+msgid "You stay out of this."
+msgstr ""
+
+msgctxt "784"
+msgid "Enough bullshit! Pay up now... or else!"
+msgstr ""
+
+msgctxt "796"
+msgid ""
+"You're out of place, friend. Can't you see these men are\r\n"
+"trying to have a conversation?"
+msgstr ""
+
+msgctxt "808"
+msgid ""
+"Who the fuck do you think you are, stickin' your nose in\r\n"
+"where it don't belong!?"
+msgstr ""
+
+msgctxt "820"
+msgid "What are you doing?"
+msgstr ""
+
+msgctxt "832"
+msgid "Hey, aren't you Zaizen's buddy? Do something! Do something!"
+msgstr ""
+
+msgctxt "844"
+msgid ""
+"What? You got some kinda problem with how I go about doin'\r\n"
+"things? Then speak up, you big chickenshit!"
+msgstr ""
+
+msgctxt "856"
+msgid "......"
+msgstr ""
+
+msgctxt "868"
+msgid ""
+"Don't you give me that look... Ohhh, now you're really gettin'\r\n"
+"gettin' on my nerves! Now I'm itchin' to beat yer bitch ass!"
+msgstr ""
+
+msgctxt "892"
+msgid "Stop the Collection"
+msgstr ""
+
+msgctxt "904"
+msgid "Watch and Wait"
+msgstr ""
+
+msgctxt "12928"
+msgid "Debt Collector's Boss"
+msgstr ""
+
+msgctxt "12932"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "12936"
+msgid "Talk_Udekumi_st"
+msgstr ""
+
+msgctxt "12940"
+msgid "Zaizen"
+msgstr ""
+
+msgctxt "12944"
+msgid "Talk_Send"
+msgstr ""
+
+msgctxt "12948"
+msgid "Tagami"
+msgstr ""
+
+msgctxt "12952"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "12956"
+msgid "kaiwabgm_loneliness"
+msgstr ""
+
+msgctxt "12960"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "12964"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "12968"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "12972"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "12976"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "12980"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "12984"
+msgid "Sync_Send"
+msgstr ""
+
+msgctxt "12988"
+msgid "Older Gentleman"
+msgstr ""
+
+msgctxt "12992"
+msgid "Talk_NoBig"
+msgstr ""
+
+msgctxt "12996"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "13000"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "13004"
+msgid "Talk_Chohatu"
+msgstr ""

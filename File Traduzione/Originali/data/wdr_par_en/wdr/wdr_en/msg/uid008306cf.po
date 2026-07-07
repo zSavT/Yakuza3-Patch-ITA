@@ -1,0 +1,506 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "244"
+msgid "It's you..."
+msgstr ""
+
+msgctxt "256"
+msgid "(Here we go...)"
+msgstr ""
+
+msgctxt "280"
+msgid "(Wait a minute. I don't have 30,000,000 yet.)"
+msgstr ""
+
+msgctxt "292"
+msgid "Wait a little longer. I'll figure out some way to get that 30,000,000 yen."
+msgstr ""
+
+msgctxt "304"
+msgid "Thank you. I'll be waiting!"
+msgstr ""
+
+msgctxt "316"
+msgid "I'm sorry this took so long. Please take this."
+msgstr ""
+
+msgctxt "328"
+msgid "You handed over <Color:8>30,000,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "340"
+msgid "Oh! Oh, dear!"
+msgstr ""
+
+msgctxt "352"
+msgid "Is this really happening!?"
+msgstr ""
+
+msgctxt "364"
+msgid "Oh, thank you! Thank you so much!"
+msgstr ""
+
+msgctxt "376"
+msgid "I told you to trust me, didn't I?"
+msgstr ""
+
+msgctxt "388"
+msgid "You did it, Uncle Kaz! I'm so proud of you!"
+msgstr ""
+
+msgctxt "448"
+msgid "Uncle Kaz... Thank you."
+msgstr ""
+
+msgctxt "460"
+msgid "Don't mention it..."
+msgstr ""
+
+msgctxt "472"
+msgid "You always do so much for me..."
+msgstr ""
+
+msgctxt "484"
+msgid "I'm just really glad you're here for me!"
+msgstr ""
+
+msgctxt "496"
+msgid "I love you, Uncle Kaz!"
+msgstr ""
+
+msgctxt "508"
+msgid "(Haruka seems happy...)"
+msgstr ""
+
+msgctxt "544"
+msgid "Thanks for doing all that stuff for me, Uncle Kaz!"
+msgstr ""
+
+msgctxt "556"
+msgid ""
+"So, um, me and everyone else at Morning Glory made you\r\n"
+"a present to make up for it! I even knitted part of it myself!"
+msgstr ""
+
+msgctxt "568"
+msgid "You got the <Color:8>Morning Glory Scarf<Color:Default>."
+msgstr ""
+
+msgctxt "640"
+msgid "Oh, you're the man from earlier..."
+msgstr ""
+
+msgctxt "652"
+msgid "Please, Uncle Kaz. We can't just look the other way!"
+msgstr ""
+
+msgctxt "664"
+msgid "(This seems really important to Haruka...)"
+msgstr ""
+
+msgctxt "676"
+msgid "Haruka's right. We can't just stand by and do nothing."
+msgstr ""
+
+msgctxt "688"
+msgid "Uncle Kaz..."
+msgstr ""
+
+msgctxt "700"
+msgid ""
+"I'll see what I can do about that 30,000,000 yen of yours. Now stop talking "
+"about dying, okay?"
+msgstr ""
+
+msgctxt "712"
+msgid "What? But, I..."
+msgstr ""
+
+msgctxt "724"
+msgid "Trust me. Okay?"
+msgstr ""
+
+msgctxt "736"
+msgid "......"
+msgstr ""
+
+msgctxt "748"
+msgid ""
+"Okay. If you're willing to try and help someone you just met, the least I "
+"can do is trust you."
+msgstr ""
+
+msgctxt "760"
+msgid "Please! You're my only hope!"
+msgstr ""
+
+msgctxt "772"
+msgid "Okay! Maybe I can get a job, and...!"
+msgstr ""
+
+msgctxt "784"
+msgid "Did you forget the last time you tried that?"
+msgstr ""
+
+msgctxt "796"
+msgid "Oh, yeah..."
+msgstr ""
+
+msgctxt "808"
+msgid ""
+"Leave this to me. There are a million ways to earn money in this town. I'm "
+"sure I can figure something out."
+msgstr ""
+
+msgctxt "820"
+msgid ""
+"(Still, 30 mil is a lot of money. I'll just have to come up with "
+"something...)"
+msgstr ""
+
+msgctxt "832"
+msgid "Let's go, Haruka. There's nothing we can do to help."
+msgstr ""
+
+msgctxt "844"
+msgid "Uncle Kaz..."
+msgstr ""
+
+msgctxt "856"
+msgid "Yes, this is my own problem. Please don't worry about it..."
+msgstr ""
+
+msgctxt "868"
+msgid "......"
+msgstr ""
+
+msgctxt "904"
+msgid "Oh, well... I guess dying is my only choice..."
+msgstr ""
+
+msgctxt "916"
+msgid "What's the matter? Are you feeling okay?"
+msgstr ""
+
+msgctxt "928"
+msgid "......"
+msgstr ""
+
+msgctxt "940"
+msgid "Excuse me! Are you okay?"
+msgstr ""
+
+msgctxt "952"
+msgid "Huh? What was that? I'm sorry. I wasn't listening."
+msgstr ""
+
+msgctxt "964"
+msgid "Had too much to drink? You look terrible."
+msgstr ""
+
+msgctxt "976"
+msgid ""
+"Haha. Alcohol? No, I can't afford to drink. In fact, I've hardly eaten "
+"anything for the last few days..."
+msgstr ""
+
+msgctxt "988"
+msgid "What's the matter, mister? You said something about dying..."
+msgstr ""
+
+msgctxt "1000"
+msgid "......"
+msgstr ""
+
+msgctxt "1012"
+msgid "Why don't you talk about it? It might make you feel better..."
+msgstr ""
+
+msgctxt "1024"
+msgid "......"
+msgstr ""
+
+msgctxt "1036"
+msgid "......"
+msgstr ""
+
+msgctxt "1048"
+msgid "......"
+msgstr ""
+
+msgctxt "1060"
+msgid ""
+"Talking about it will just make me feel even more ashamed than I already "
+"do, but... You sure you want to hear about it?"
+msgstr ""
+
+msgctxt "1072"
+msgid "Of course. Go ahead."
+msgstr ""
+
+msgctxt "1084"
+msgid "Up until a year ago, I owned a restaurant right here in Kamurocho."
+msgstr ""
+
+msgctxt "1096"
+msgid ""
+"It was just a small place. I managed to make do with the support of a few "
+"regular customers."
+msgstr ""
+
+msgctxt "1108"
+msgid ""
+"But three years ago, the yakuza controlling this area went to war with some "
+"yakuza from Osaka."
+msgstr ""
+
+msgctxt "1120"
+msgid "...!"
+msgstr ""
+
+msgctxt "1132"
+msgid ""
+"It practically destroyed this town. There were incidents of violence "
+"occurring daily."
+msgstr ""
+
+msgctxt "1144"
+msgid "Before long, almost all of my regular customers had left town..."
+msgstr ""
+
+msgctxt "1156"
+msgid "......"
+msgstr ""
+
+msgctxt "1168"
+msgid "......"
+msgstr ""
+
+msgctxt "1180"
+msgid ""
+"I did my best to try to make it through, but I didn't have any choice but "
+"to keep borrowing money to stay afloat."
+msgstr ""
+
+msgctxt "1192"
+msgid ""
+"And that led to the sorry state of affairs I'm in today. I sold nearly "
+"everything I own, and I'm still 30,000,000 yen in debt..."
+msgstr ""
+
+msgctxt "1204"
+msgid "30,000,000...!"
+msgstr ""
+
+msgctxt "1216"
+msgid ""
+"I could file for bankruptcy, but that would only mean that the people who "
+"co-signed for my loans would get stuck repaying them."
+msgstr ""
+
+msgctxt "1228"
+msgid "I'm sick of it all. I just don't know what to do anymore."
+msgstr ""
+
+msgctxt "1240"
+msgid "So you're going to kill yourself for the life insurance money?"
+msgstr ""
+
+msgctxt "1252"
+msgid "...!"
+msgstr ""
+
+msgctxt "1264"
+msgid "Yes... I just don't see any other way out of this..."
+msgstr ""
+
+msgctxt "1276"
+msgid "Wait! We can help you!"
+msgstr ""
+
+msgctxt "1288"
+msgid "Haruka..."
+msgstr ""
+
+msgctxt "1300"
+msgid ""
+"Thank you, young lady. I'm afraid there's nothing you can do, but I "
+"appreciate the sentiment."
+msgstr ""
+
+msgctxt "1312"
+msgid "But now that we've heard your story, we can't just look the other way!"
+msgstr ""
+
+msgctxt "1324"
+msgid "(The war three years ago was what ruined him...)"
+msgstr ""
+
+msgctxt "1336"
+msgid "Haruka's right. We can't just stand by and do nothing."
+msgstr ""
+
+msgctxt "1348"
+msgid "Uncle Kaz..."
+msgstr ""
+
+msgctxt "1360"
+msgid ""
+"I'll see what I can do about that 30,000,000 yen of yours. So stop talking "
+"about dying, okay?"
+msgstr ""
+
+msgctxt "1372"
+msgid "What? But, I..."
+msgstr ""
+
+msgctxt "1384"
+msgid "Trust me. Okay?"
+msgstr ""
+
+msgctxt "1396"
+msgid "......"
+msgstr ""
+
+msgctxt "1408"
+msgid ""
+"Okay. If you're willing to try and help someone you just met, the least I "
+"can do is trust you."
+msgstr ""
+
+msgctxt "1420"
+msgid "Please! You're my only hope!"
+msgstr ""
+
+msgctxt "1432"
+msgid "Okay! Maybe I can get a job, and...!"
+msgstr ""
+
+msgctxt "1444"
+msgid "Did you forget the last time you tried that?"
+msgstr ""
+
+msgctxt "1456"
+msgid "Oh, yeah..."
+msgstr ""
+
+msgctxt "1468"
+msgid ""
+"Leave this to me. There are a million ways to earn money in this town. I'm "
+"sure I can figure something out."
+msgstr ""
+
+msgctxt "1480"
+msgid ""
+"(Still, 30 mil is a lot of money. I'll just have to come up with "
+"something...)"
+msgstr ""
+
+msgctxt "1492"
+msgid "Let's go, Haruka. There's nothing we can do to help."
+msgstr ""
+
+msgctxt "1504"
+msgid "Uncle Kaz..."
+msgstr ""
+
+msgctxt "1516"
+msgid ""
+"He's right. I'm sorry for taking so much of your time. But talking did make "
+"me feel a bit better. Thank you very much."
+msgstr ""
+
+msgctxt "1528"
+msgid "......"
+msgstr ""
+
+msgctxt "1540"
+msgid "Please take this 30,000,000 yen."
+msgstr ""
+
+msgctxt "1552"
+msgid "Never mind."
+msgstr ""
+
+msgctxt "1564"
+msgid "I have to try and help him."
+msgstr ""
+
+msgctxt "1576"
+msgid "It's nothing to do with me."
+msgstr ""
+
+msgctxt "1588"
+msgid "I have to try and help him."
+msgstr ""
+
+msgctxt "1600"
+msgid "It's got nothing to do with me."
+msgstr ""
+
+msgctxt "15868"
+msgid "Exhausted Man"
+msgstr ""
+
+msgctxt "15872"
+msgid "Talk_Kamae"
+msgstr ""
+
+msgctxt "15876"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "15880"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "15884"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "15888"
+msgid "Talk_Kosite_st"
+msgstr ""
+
+msgctxt "15892"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "15896"
+msgid "HAL_stand_tlk_happy_big"
+msgstr ""
+
+msgctxt "15900"
+msgid "HAL_stand_tlk_happy_small"
+msgstr ""
+
+msgctxt "15904"
+msgid "dummy"
+msgstr ""
+
+msgctxt "15908"
+msgid "0"
+msgstr ""
+
+msgctxt "15912"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "15916"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "15920"
+msgid "Talk_Kosite_ed"
+msgstr ""

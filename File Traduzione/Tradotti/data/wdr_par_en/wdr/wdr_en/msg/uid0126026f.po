@@ -1,0 +1,81 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid "Sorry, little guy. It ended up getting away."
+msgstr ""
+
+msgctxt "76"
+msgid "*sniff* So then... I can't ever see my mommy again?"
+msgstr ""
+
+msgctxt "100"
+msgid "Is everything all right over here?"
+msgstr ""
+
+msgctxt "112"
+msgid ""
+"Not exactly. This kid got separated from his mother. Would you mind looking "
+"after him?"
+msgstr ""
+
+msgctxt "124"
+msgid ""
+"Is that right? Well, how about you come along with me, son?\r\n"
+"I'll get you back to the station so we can find your mom.\r\n"
+"Hopefully she didn't go too far."
+msgstr ""
+
+msgctxt "136"
+msgid "No... I'm okay. I can find my own way home."
+msgstr ""
+
+msgctxt "148"
+msgid "Thanks for chasing after my balloon, mister..."
+msgstr ""
+
+msgctxt "220"
+msgid "You got 8,000 EXP."
+msgstr ""
+
+msgctxt "2348"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "2352"
+msgid "Lost Boy"
+msgstr ""
+
+msgctxt "2356"
+msgid "Talk_CryBig_st"
+msgstr ""
+
+msgctxt "2360"
+msgid "Officer"
+msgstr ""
+
+msgctxt "2364"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "2368"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "2372"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "2376"
+msgid "dummy"
+msgstr ""

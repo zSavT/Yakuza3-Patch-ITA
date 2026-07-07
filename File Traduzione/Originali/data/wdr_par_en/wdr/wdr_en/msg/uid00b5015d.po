@@ -1,0 +1,156 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "76"
+msgid "Daddy! What did you get us?"
+msgstr ""
+
+msgctxt "88"
+msgid "Tadaaa! Six-scoop ice cream cones!"
+msgstr ""
+
+msgctxt "100"
+msgid "Whoa! You're the best, Dad!"
+msgstr ""
+
+msgctxt "112"
+msgid ""
+"Daddy does love to spoil his little treasures.\r\n"
+"And who's this gentleman?"
+msgstr ""
+
+msgctxt "124"
+msgid ""
+"There was too much ice cream for me to carry on my own, so this nice man "
+"helped me to bring it here. Thank you, sir!"
+msgstr ""
+
+msgctxt "136"
+msgid "Don't mention it."
+msgstr ""
+
+msgctxt "148"
+msgid ""
+"Yes, thank you very much! There must be something we can do to repay your "
+"kindness..."
+msgstr ""
+
+msgctxt "160"
+msgid "Oh, I know! Why don't you take this cone for yourself?"
+msgstr ""
+
+msgctxt "172"
+msgid "Are you sure?"
+msgstr ""
+
+msgctxt "184"
+msgid "Yes, it's fine. My husband and I can share one. Right, honey?"
+msgstr ""
+
+msgctxt "196"
+msgid ""
+"Absolutely! Sharing an ice cream cone with my wife... Gosh, it reminds me "
+"of when we were just schoolkids on a date."
+msgstr ""
+
+msgctxt "208"
+msgid ""
+"See? I told you he wouldn't mind.\r\n"
+"Here you go! It's all yours."
+msgstr ""
+
+msgctxt "220"
+msgid "All right, if you say so."
+msgstr ""
+
+msgctxt "244"
+msgid "You got a <Color:8>Six-Scoop Ice Cream<Color:Default>."
+msgstr ""
+
+msgctxt "268"
+msgid "Thanks for helping my daddy, mister! This ice cream tastes really yummy!"
+msgstr ""
+
+msgctxt "280"
+msgid ""
+"Now, how about we take this ice cream and head downtown for some "
+"sightseeing?"
+msgstr ""
+
+msgctxt "352"
+msgid "(Looks like they're enjoying their vacation. Glad I could lend a hand.)"
+msgstr ""
+
+msgctxt "376"
+msgid "You got 3,000 EXP."
+msgstr ""
+
+msgctxt "3704"
+msgid "Well-Behaved Daughter"
+msgstr ""
+
+msgctxt "3708"
+msgid "Kind Father"
+msgstr ""
+
+msgctxt "3712"
+msgid "Enthusiastic Son"
+msgstr ""
+
+msgctxt "3716"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "3720"
+msgid "Kind Mother"
+msgstr ""
+
+msgctxt "3724"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "3728"
+msgid "dummy"
+msgstr ""
+
+msgctxt "3732"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "3736"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "3740"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "3744"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "3748"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "3752"
+msgid "Talk_Request"
+msgstr ""
+
+msgctxt "3756"
+msgid "Talk_Send"
+msgstr ""
+
+msgctxt "3760"
+msgid "Talk_OK"
+msgstr ""

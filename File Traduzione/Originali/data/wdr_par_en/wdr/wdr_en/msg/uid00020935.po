@@ -1,0 +1,498 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "212"
+msgid "What are you doing?"
+msgstr ""
+
+msgctxt "224"
+msgid "Oh, you're the guy who helped me in Kamurocho..."
+msgstr ""
+
+msgctxt "236"
+msgid ""
+"Did you seriously come all the way to Okinawa just to\r\n"
+"throw the stuff in your backpack into this river?"
+msgstr ""
+
+msgctxt "248"
+msgid ""
+"Wait, what are you talking about, Kiryu-san? What's he\r\n"
+"going to throw away?"
+msgstr ""
+
+msgctxt "260"
+msgid "Hirano's backpack is packed full of copies of Shonen Five."
+msgstr ""
+
+msgctxt "272"
+msgid "What!? Is that⑬ Is that true, Hirano-san!?"
+msgstr ""
+
+msgctxt "284"
+msgid "......"
+msgstr ""
+
+msgctxt "296"
+msgid ""
+"You know, no matter how many times you throw your manga\r\n"
+"into this river, you won't be able to get over your pain and regret."
+msgstr ""
+
+msgctxt "308"
+msgid "How do you know about..."
+msgstr ""
+
+msgctxt "320"
+msgid "I heard it from your old man."
+msgstr ""
+
+msgctxt "332"
+msgid "Shit... What the hell is happening here?"
+msgstr ""
+
+msgctxt "344"
+msgid ""
+"Hirano-san! You bought all those Shonen Fives, just to\r\n"
+"throw them away!? Why!?"
+msgstr ""
+
+msgctxt "356"
+msgid ""
+"So why would you buy so many Shonen Fives, just to throw\r\n"
+"them all away!?"
+msgstr ""
+
+msgctxt "368"
+msgid "He probably didn't want his dad to know about it."
+msgstr ""
+
+msgctxt "380"
+msgid "His dad might've recognized his manga in the magazine..."
+msgstr ""
+
+msgctxt "392"
+msgid ""
+"That's why he bought all the copies of Shonen Five he\r\n"
+"could, to throw them all away at once."
+msgstr ""
+
+msgctxt "404"
+msgid ""
+"That doesn't make sense... Why would he buy up all the\r\n"
+"Shonen Fives in Kamurocho, then?"
+msgstr ""
+
+msgctxt "416"
+msgid "...You've got a point there."
+msgstr ""
+
+msgctxt "428"
+msgid ""
+"Is that right, Hirano-san? You were going to throw away\r\n"
+"these magazines to keep your father from finding out?"
+msgstr ""
+
+msgctxt "440"
+msgid ""
+"I mean, yeah, I didn't want my father to know about the\r\n"
+"manga thing..."
+msgstr ""
+
+msgctxt "452"
+msgid "But... that's not why I bought them..."
+msgstr ""
+
+msgctxt "476"
+msgid "He just really hates Shonen Five."
+msgstr ""
+
+msgctxt "488"
+msgid ""
+"That's ridiculous! That's not why I'm doing this, not\r\n"
+"at all!"
+msgstr ""
+
+msgctxt "500"
+msgid ""
+"It's been my dream to have a series published in Shonen\r\n"
+"Five... Why would I ever hate it!?"
+msgstr ""
+
+msgctxt "512"
+msgid "If that's the case, then why are you throwing them away?"
+msgstr ""
+
+msgctxt "524"
+msgid "Well..."
+msgstr ""
+
+msgctxt "536"
+msgid "Hirano-san, please, tell us! Why!?"
+msgstr ""
+
+msgctxt "548"
+msgid "No, that's... that's not it..."
+msgstr ""
+
+msgctxt "572"
+msgid "He's giving up on his dream of being a manga artist."
+msgstr ""
+
+msgctxt "584"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "596"
+msgid ""
+"Hirano should've been over the moon to win that award.\r\n"
+"Instead, he only felt conflicted."
+msgstr ""
+
+msgctxt "608"
+msgid ""
+"He thought he had to become a doctor to fulfill his\r\n"
+"family's expectations of him and tried to suppress his\r\n"
+"desire to go pro with his manga."
+msgstr ""
+
+msgctxt "620"
+msgid "Isn't that right, Hirano?"
+msgstr ""
+
+msgctxt "632"
+msgid "......"
+msgstr ""
+
+msgctxt "644"
+msgid ""
+"So, to get rid of the conflict he was feeling, he bought as\r\n"
+"many issues of Shonen Five as he could..."
+msgstr ""
+
+msgctxt "656"
+msgid ""
+"...and tried to absolve himself of his self-perceived\r\n"
+"\"sin\" by throwing them away."
+msgstr ""
+
+msgctxt "668"
+msgid "He thought it was a sin...?"
+msgstr ""
+
+msgctxt "680"
+msgid ""
+"Throwing away something you love so dearly is something\r\n"
+"Hirano considers to be a sin."
+msgstr ""
+
+msgctxt "692"
+msgid ""
+"Because of this \"sin\" of his, he felt he had to force\r\n"
+"himself to give up on his dream."
+msgstr ""
+
+msgctxt "704"
+msgid ""
+"You're right... It's just as you said, Kiryu-san. It's a sin.\r\n"
+"I don't have the right to draw manga..."
+msgstr ""
+
+msgctxt "716"
+msgid "But why would drawing manga be a sin...?"
+msgstr ""
+
+msgctxt "728"
+msgid ""
+"I don't want to give up on my manga... But I have to, if I'm\r\n"
+"going to become a doctor in the future..."
+msgstr ""
+
+msgctxt "740"
+msgid "Hirano-san..."
+msgstr ""
+
+msgctxt "764"
+msgid "You don't need to give up on your dream."
+msgstr ""
+
+msgctxt "824"
+msgid "Tsutomu... You don't need to throw your dream away."
+msgstr ""
+
+msgctxt "836"
+msgid "Dad..."
+msgstr ""
+
+msgctxt "848"
+msgid "Dad...?"
+msgstr ""
+
+msgctxt "860"
+msgid "I'm so sorry, Tsutomu."
+msgstr ""
+
+msgctxt "872"
+msgid ""
+"I had no idea you were pushing yourself so hard, you were\r\n"
+"lying to people about being from a family of doctors..."
+msgstr ""
+
+msgctxt "884"
+msgid ""
+"Wait... I don't have to give up on my dream? What do you\r\n"
+"mean, Dad?"
+msgstr ""
+
+msgctxt "896"
+msgid "You should become a professional manga artist."
+msgstr ""
+
+msgctxt "908"
+msgid "Dad... But, why...?"
+msgstr ""
+
+msgctxt "920"
+msgid ""
+"Tsutomu... Do you know why I made you get rid of all your\r\n"
+"manga, all those years ago?"
+msgstr ""
+
+msgctxt "932"
+msgid "You wanted me to focus on studying, right?"
+msgstr ""
+
+msgctxt "944"
+msgid ""
+"That was part of it, but to tell you the truth... I was\r\n"
+"afraid you'd make the same mistakes that I did."
+msgstr ""
+
+msgctxt "956"
+msgid "What...?"
+msgstr ""
+
+msgctxt "968"
+msgid ""
+"The reason I bought you so much manga when you were young...\r\n"
+"is because I love manga more than anyone."
+msgstr ""
+
+msgctxt "980"
+msgid "Wait, you do!?"
+msgstr ""
+
+msgctxt "992"
+msgid ""
+"I always wanted to be a manga artist, but I never had the\r\n"
+"talent to go pro."
+msgstr ""
+
+msgctxt "1004"
+msgid ""
+"I submitted my work to dozens of manga contests, but I never\r\n"
+"won a single award. Hell, the Shonen Five contest was\r\n"
+"so out of my league, I never even considered it an option."
+msgstr ""
+
+msgctxt "1016"
+msgid "Dad..."
+msgstr ""
+
+msgctxt "1028"
+msgid ""
+"Despite that, I kept drawing my manga, to the point of\r\n"
+"shirking my studies to become a doctor."
+msgstr ""
+
+msgctxt "1040"
+msgid ""
+"In the end, I couldn't fulfill either goal... That's how I\r\n"
+"ended up inheriting the family pharmacy."
+msgstr ""
+
+msgctxt "1052"
+msgid "I didn't want the same thing happening to you."
+msgstr ""
+
+msgctxt "1064"
+msgid "Wait, so you mean..."
+msgstr ""
+
+msgctxt "1076"
+msgid "You've got what it takes to be a professional manga artist."
+msgstr ""
+
+msgctxt "1088"
+msgid ""
+"As someone who once dreamed of becoming just that, I know\r\n"
+"just how wasteful it would be to throw it all away."
+msgstr ""
+
+msgctxt "1100"
+msgid ""
+"Wait, so you'll support Tsutomu-san's efforts to become\r\n"
+"a manga artist!?"
+msgstr ""
+
+msgctxt "1112"
+msgid ""
+"Of course I will. If Tsutomu wants to be a manga artist...\r\n"
+"Then it's my duty as his father to believe in him and give\r\n"
+"him all the support he needs."
+msgstr ""
+
+msgctxt "1124"
+msgid "You're an editor for Shonen Five, right?"
+msgstr ""
+
+msgctxt "1136"
+msgid "I trust you will help my son down the path he's chosen."
+msgstr ""
+
+msgctxt "1148"
+msgid "Of course, I'll do my best!"
+msgstr ""
+
+msgctxt "1160"
+msgid ""
+"This is fantastic, Hirano-san! Now nothing's stopping\r\n"
+"you from making the manga you love!"
+msgstr ""
+
+msgctxt "1172"
+msgid ""
+"Let's get right to business and start talking about your\r\n"
+"new series! I'm sure it'll be your greatest work yet!"
+msgstr ""
+
+msgctxt "1184"
+msgid "Dad... Thank you so much..."
+msgstr ""
+
+msgctxt "1196"
+msgid "You've chosen this path. Now give it your all, Tsutomu."
+msgstr ""
+
+msgctxt "1208"
+msgid ""
+"I will. I swear I will... I'll make my debut as an artist in\r\n"
+"Shonen Five!"
+msgstr ""
+
+msgctxt "1220"
+msgid ""
+"Thank you so much, Kiryu-san... You've done so much for\r\n"
+"my son, and our family."
+msgstr ""
+
+msgctxt "1232"
+msgid "Don't mention it."
+msgstr ""
+
+msgctxt "1244"
+msgid "Um... Here. Have my magazines."
+msgstr ""
+
+msgctxt "1256"
+msgid ""
+"The manga I created is in this issue. Please read it,\r\n"
+"and show it to everyone you know."
+msgstr ""
+
+msgctxt "1268"
+msgid "Received a stack of <Color:8>50 Issues of Shonen Five<Color:Default>."
+msgstr ""
+
+msgctxt "1292"
+msgid ""
+"Thanks, I will. Good luck with your career, I hear being a\r\n"
+"manga artist is pretty tough. Give it your all, both for\r\n"
+"yourself and that dad of yours."
+msgstr ""
+
+msgctxt "1316"
+msgid "You got 10,000 EXP."
+msgstr ""
+
+msgctxt "1364"
+msgid "He didn't want his father to know."
+msgstr ""
+
+msgctxt "1376"
+msgid "He's giving up on his dream."
+msgstr ""
+
+msgctxt "1388"
+msgid "He hates Shonen Five."
+msgstr ""
+
+msgctxt "1400"
+msgid "He didn't want his father to know."
+msgstr ""
+
+msgctxt "1412"
+msgid "He's giving up on his dream."
+msgstr ""
+
+msgctxt "1424"
+msgid "He hates Shonen Five."
+msgstr ""
+
+msgctxt "18080"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "18084"
+msgid "Hirano"
+msgstr ""
+
+msgctxt "18088"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "18092"
+msgid "Editor"
+msgstr ""
+
+msgctxt "18096"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "18100"
+msgid "Hirano's Father"
+msgstr ""
+
+msgctxt "18104"
+msgid "kaiwabgm_sadness"
+msgstr ""
+
+msgctxt "18108"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "18112"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "18116"
+msgid "Sync_Send"
+msgstr ""
+
+msgctxt "18120"
+msgid "dummy"
+msgstr ""
+
+msgctxt "18124"
+msgid "0"
+msgstr ""

@@ -1,0 +1,258 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "124"
+msgid "This is one of the best places to get Okinawan food. Let's head in!"
+msgstr ""
+
+msgctxt "136"
+msgid "Sounds good."
+msgstr ""
+
+msgctxt "160"
+msgid "This is one of the best places to get Okinawan food. Let's head in!"
+msgstr ""
+
+msgctxt "172"
+msgid "Hold on a second. I just realized I'm a little short on cash."
+msgstr ""
+
+msgctxt "184"
+msgid "Huh? Wait, really?"
+msgstr ""
+
+msgctxt "196"
+msgid "Sorry..."
+msgstr ""
+
+msgctxt "208"
+msgid ""
+"Oh... That's too bad. I think I'm going to head home, then. See you later, "
+"Kiryu-san..."
+msgstr ""
+
+msgctxt "220"
+msgid "(Guess I should bring some cash next time...)"
+msgstr ""
+
+msgctxt "328"
+msgid "Thanks for treating me. <Color:7>⑮<Color:Default> That was delicious."
+msgstr ""
+
+msgctxt "340"
+msgid "Glad to hear it."
+msgstr ""
+
+msgctxt "352"
+msgid ""
+"Okinawan food is so good. I think I ate a little too much... "
+"<Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "364"
+msgid ""
+"Take me out again sometime, okay? <Color:7>⑮<Color:Default> I'll see you "
+"later."
+msgstr ""
+
+msgctxt "388"
+msgid "Thanks for treating me."
+msgstr ""
+
+msgctxt "400"
+msgid "Don't mention it."
+msgstr ""
+
+msgctxt "412"
+msgid ""
+"Okinawan food is so good. I think I ate a little too much... It was just "
+"that good. <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "424"
+msgid "Take me out again sometime, okay? I'll see you later."
+msgstr ""
+
+msgctxt "448"
+msgid "......"
+msgstr ""
+
+msgctxt "460"
+msgid "Everything all right?"
+msgstr ""
+
+msgctxt "472"
+msgid "I'm sorry, just... I didn't really like what I had..."
+msgstr ""
+
+msgctxt "484"
+msgid "Sorry to hear that..."
+msgstr ""
+
+msgctxt "496"
+msgid "I'm going to head home. I'll see you at the club..."
+msgstr ""
+
+msgctxt "508"
+msgid "(I shouldn't have made her eat something she didn't like...)"
+msgstr ""
+
+msgctxt "532"
+msgid ""
+"Huge error!\r\n"
+"No flags set for conversation selection!"
+msgstr ""
+
+msgctxt "616"
+msgid "This is one of the best places to get Okinawan food. Let's head in!"
+msgstr ""
+
+msgctxt "628"
+msgid "All right."
+msgstr ""
+
+msgctxt "652"
+msgid "This is one of the best places to get Okinawan food. Let's head in!"
+msgstr ""
+
+msgctxt "664"
+msgid "Hold on a second. I just realized I'm a little short on cash."
+msgstr ""
+
+msgctxt "676"
+msgid "Huh? Wait, really?"
+msgstr ""
+
+msgctxt "688"
+msgid "Sorry..."
+msgstr ""
+
+msgctxt "700"
+msgid ""
+"Oh... That's too bad. I think I'm going to head home, then. See you later, "
+"Kiryu-san..."
+msgstr ""
+
+msgctxt "712"
+msgid "(Guess I should bring some cash next time...)"
+msgstr ""
+
+msgctxt "820"
+msgid "Thanks for treating me. <Color:7>⑮<Color:Default> That was delicious."
+msgstr ""
+
+msgctxt "832"
+msgid "Glad to hear it."
+msgstr ""
+
+msgctxt "844"
+msgid ""
+"Okinawan food is so good. I think I ate a little too much... "
+"<Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "856"
+msgid "Now, should we head back to the club?"
+msgstr ""
+
+msgctxt "868"
+msgid "Yeah, sounds good."
+msgstr ""
+
+msgctxt "892"
+msgid "Thanks for treating me."
+msgstr ""
+
+msgctxt "904"
+msgid "My pleasure."
+msgstr ""
+
+msgctxt "916"
+msgid ""
+"Okinawan food is so good. I think I ate a little too much... It was just "
+"that good. <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "928"
+msgid "Well, I guess we should head over to the club."
+msgstr ""
+
+msgctxt "940"
+msgid "Yeah, sounds good."
+msgstr ""
+
+msgctxt "964"
+msgid "......"
+msgstr ""
+
+msgctxt "976"
+msgid "Everything all right?"
+msgstr ""
+
+msgctxt "988"
+msgid "I'm sorry, just... I didn't really like what I had..."
+msgstr ""
+
+msgctxt "1000"
+msgid "Sorry to hear that..."
+msgstr ""
+
+msgctxt "1012"
+msgid "Well, I guess we should head over to the club."
+msgstr ""
+
+msgctxt "1024"
+msgid "(I shouldn't have made her eat something she didn't like...)"
+msgstr ""
+
+msgctxt "1048"
+msgid ""
+"Huge error!\r\n"
+"No flags set for conversation selection!"
+msgstr ""
+
+msgctxt "12336"
+msgid "Mika"
+msgstr ""
+
+msgctxt "12340"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "12344"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "12348"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "12352"
+msgid "dummy"
+msgstr ""
+
+msgctxt "12356"
+msgid "0"
+msgstr ""
+
+msgctxt "12360"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "12364"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "12368"
+msgid "Talk_No"
+msgstr ""

@@ -1,0 +1,94 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid "You're a tough one, Kiryu-san! You got me beat."
+msgstr ""
+
+msgctxt "76"
+msgid ""
+"I thought I could take on a pro, but it looks like I've still got a ways to "
+"go."
+msgstr ""
+
+msgctxt "88"
+msgid ""
+"Tamura-kun, have you prepared what I told\r\n"
+"you for Kiryu-san?"
+msgstr ""
+
+msgctxt "112"
+msgid "Yes, of course. Kiryu-san, please accept this token of our gratitude."
+msgstr ""
+
+msgctxt "124"
+msgid "You got <Color:8>100,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "184"
+msgid ""
+"(Really, thank you. The president will be much easier to deal with from now "
+"on, thanks to you.)"
+msgstr ""
+
+msgctxt "196"
+msgid "(This is from me. It's not much, but please accept it.)"
+msgstr ""
+
+msgctxt "208"
+msgid "You got a <Color:8>Staminan Spark<Color:Default>."
+msgstr ""
+
+msgctxt "232"
+msgid "I hope we see you again. Next time I won't lose!"
+msgstr ""
+
+msgctxt "256"
+msgid "You got 3,000 EXP."
+msgstr ""
+
+msgctxt "2920"
+msgid "President Kurosawa"
+msgstr ""
+
+msgctxt "2924"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "2928"
+msgid "Talk_Kansin"
+msgstr ""
+
+msgctxt "2932"
+msgid "Talk_Info_L"
+msgstr ""
+
+msgctxt "2936"
+msgid "Low-level Employee Tamura"
+msgstr ""
+
+msgctxt "2940"
+msgid "Talk_Send"
+msgstr ""
+
+msgctxt "2944"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "2948"
+msgid "dummy"
+msgstr ""
+
+msgctxt "2952"
+msgid "0"
+msgstr ""

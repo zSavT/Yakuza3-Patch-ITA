@@ -1,0 +1,447 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "96"
+msgid ""
+"(We're supposed to meet up in front of Smile Burger, right?\r\n"
+"According to Chika, this is the place...)"
+msgstr ""
+
+msgctxt "108"
+msgid "Um, are you the guy who called me?"
+msgstr ""
+
+msgctxt "132"
+msgid "Huh? What are you talking about?"
+msgstr ""
+
+msgctxt "144"
+msgid ""
+"Oh, I'm sorry! I'm waiting for someone, I just thought you\r\n"
+"were them!"
+msgstr ""
+
+msgctxt "156"
+msgid "Wait a sec."
+msgstr ""
+
+msgctxt "168"
+msgid "...What?"
+msgstr ""
+
+msgctxt "180"
+msgid "You wouldn't happen to be from the telephone club, would you?"
+msgstr ""
+
+msgctxt "192"
+msgid "Yes, actually... Oh, so you were the guy on the phone?"
+msgstr ""
+
+msgctxt "204"
+msgid "Not quite. I'm not looking to be a customer."
+msgstr ""
+
+msgctxt "216"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "228"
+msgid "By any chance, is your name Nami?"
+msgstr ""
+
+msgctxt "240"
+msgid "W... Wait, whaaat!? How do you know my name?"
+msgstr ""
+
+msgctxt "252"
+msgid ""
+"I ran into your dad not too long ago. He's been looking\r\n"
+"for you."
+msgstr ""
+
+msgctxt "264"
+msgid "Huh!? Why is Dad looking for me in Kamurocho?"
+msgstr ""
+
+msgctxt "276"
+msgid "You wait here, I'm gonna give him a call."
+msgstr ""
+
+msgctxt "288"
+msgid "No, please, don't!"
+msgstr ""
+
+msgctxt "300"
+msgid "No complaining. Stay here for a moment."
+msgstr ""
+
+msgctxt "348"
+msgid "Hello?"
+msgstr ""
+
+msgctxt "360"
+msgid "Is this Nami's dad? It's me."
+msgstr ""
+
+msgctxt "372"
+msgid "Oh, it's you! Did you find her!?"
+msgstr ""
+
+msgctxt "384"
+msgid ""
+"Yeah, I found Nami. We're at Smile Burger on Nakamichi\r\n"
+"Street."
+msgstr ""
+
+msgctxt "396"
+msgid "Really!? Stay there! I'm on my way!"
+msgstr ""
+
+msgctxt "492"
+msgid "Nami! You're okay..."
+msgstr ""
+
+msgctxt "504"
+msgid "Dad..."
+msgstr ""
+
+msgctxt "516"
+msgid ""
+"Where the hell have you been, Nami!? I've been looking\r\n"
+"everywhere for you!"
+msgstr ""
+
+msgctxt "528"
+msgid ""
+"Why're you so mad!? I just wanted to get away from home for\r\n"
+"a while! You didn't have to chase me all the way here!"
+msgstr ""
+
+msgctxt "552"
+msgid ""
+"We're going home, right now! This is no place for you\r\n"
+"to live!"
+msgstr ""
+
+msgctxt "576"
+msgid "Whoa, hey, it's Nami. What's up? You in some kinda trouble?"
+msgstr ""
+
+msgctxt "588"
+msgid "Oh... Yuto-kun..."
+msgstr ""
+
+msgctxt "600"
+msgid "Who the hell are you guys!?"
+msgstr ""
+
+msgctxt "612"
+msgid "Who's this guy? One of your clients?"
+msgstr ""
+
+msgctxt "624"
+msgid "No... Actually, he's⑬"
+msgstr ""
+
+msgctxt "636"
+msgid "Client? Like hell I am! I'm her father, dammit!"
+msgstr ""
+
+msgctxt "648"
+msgid "Wait, you're her dad? For real? Dude, that's hilarious!"
+msgstr ""
+
+msgctxt "672"
+msgid "Who are these rude young men, Nami? Tell me everything!"
+msgstr ""
+
+msgctxt "696"
+msgid ""
+"Hah! We're Nami-chan's Tokyo buddies! Don't worry, ever\r\n"
+"since she ran off to Tokyo, we've been takin' good care of\r\n"
+"her. In more ways than one, heh."
+msgstr ""
+
+msgctxt "708"
+msgid "......"
+msgstr ""
+
+msgctxt "720"
+msgid "Taking care of her!?"
+msgstr ""
+
+msgctxt "732"
+msgid ""
+"That's right! We taught Nami-chan how to con those telephone\r\n"
+"club losers out of their cash when she's not doin' so hot."
+msgstr ""
+
+msgctxt "744"
+msgid ""
+"It only took a few days for us to turn Nami-chan into a\r\n"
+"real adult woman!"
+msgstr ""
+
+msgctxt "756"
+msgid "You little bastards!"
+msgstr ""
+
+msgctxt "828"
+msgid "Hey, ow! What gives, old man!?"
+msgstr ""
+
+msgctxt "840"
+msgid ""
+"I'll deal with Nami later. First, I'm going to teach you\r\n"
+"punks a lesson!"
+msgstr ""
+
+msgctxt "852"
+msgid "The <Italic>fuck</Italic> you say to us!?"
+msgstr ""
+
+msgctxt "864"
+msgid ""
+"If you're gonna act like a mischievous punk, you'd better be\r\n"
+"prepared to get treated like one."
+msgstr ""
+
+msgctxt "876"
+msgid ""
+"Shut it, you old fuck! You really think you can beat us in\r\n"
+"a fight!?"
+msgstr ""
+
+msgctxt "888"
+msgid ""
+"You ain't gonna make it outta this with all your bones\r\n"
+"intact! Let's fuck 'em up!"
+msgstr ""
+
+msgctxt "912"
+msgid ""
+"Who the hell are these guys... They ain't human...\r\n"
+"I can't believe we lost to a bunch of old farts..."
+msgstr ""
+
+msgctxt "924"
+msgid "*pant* Like I'd ever lose... to half-baked punks like you!"
+msgstr ""
+
+msgctxt "996"
+msgid ""
+"Nami! When I'm done with you, you'll wish you never made\r\n"
+"that stupid decision to run away from home!"
+msgstr ""
+
+msgctxt "1056"
+msgid ""
+"What the hell, Dad!? This is the exactly why I left home\r\n"
+"in the first place!"
+msgstr ""
+
+msgctxt "1068"
+msgid ""
+"Why didn't you ever tell me anything, then!? Your mother\r\n"
+"and I have been worried sick about you!"
+msgstr ""
+
+msgctxt "1080"
+msgid "You left without a note or saying anything... Like a coward!"
+msgstr ""
+
+msgctxt "1092"
+msgid "......"
+msgstr ""
+
+msgctxt "1104"
+msgid ""
+"Try and understand how your old man feels. There aren't\r\n"
+"a lot of parents out there that care enough about their\r\n"
+"kids to get this angry."
+msgstr ""
+
+msgctxt "1116"
+msgid ""
+"If you're unhappy about something, then we should talk\r\n"
+"about it. After all, we're a family... aren't we, Nami?"
+msgstr ""
+
+msgctxt "1128"
+msgid "Daddy..."
+msgstr ""
+
+msgctxt "1140"
+msgid ""
+"It's up to you whether or not you wanna live in Kamurocho.\r\n"
+"But it's not easy for a woman to live in this town by\r\n"
+"herself. You'll have to sacrifice a lot of comforts."
+msgstr ""
+
+msgctxt "1152"
+msgid ""
+"Unless you're prepared to make that sacrifice, you'll get\r\n"
+"duped by idiots like them."
+msgstr ""
+
+msgctxt "1164"
+msgid "......"
+msgstr ""
+
+msgctxt "1176"
+msgid "You got that?"
+msgstr ""
+
+msgctxt "1188"
+msgid "Yeah, I get it."
+msgstr ""
+
+msgctxt "1200"
+msgid ""
+"Let's go home, Nami. Your mother and I are going to\r\n"
+"have a word with you when we get home."
+msgstr ""
+
+msgctxt "1212"
+msgid "Okay..."
+msgstr ""
+
+msgctxt "1236"
+msgid ""
+"I can't thank you enough. I'll never, ever forget what\r\n"
+"you've done for our family!"
+msgstr ""
+
+msgctxt "1248"
+msgid "Please, take this, as a token of my gratitude."
+msgstr ""
+
+msgctxt "1260"
+msgid "You got <Color:8>100,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "1272"
+msgid "Again, thank you so much!"
+msgstr ""
+
+msgctxt "1380"
+msgid "You got 3,000 EXP."
+msgstr ""
+
+msgctxt "14724"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "14728"
+msgid "Girl"
+msgstr ""
+
+msgctxt "14732"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "14736"
+msgid "Talk_Sorry"
+msgstr ""
+
+msgctxt "14740"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "14744"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "14748"
+msgid "Nami"
+msgstr ""
+
+msgctxt "14752"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "14756"
+msgid "Talk_NoBig"
+msgstr ""
+
+msgctxt "14760"
+msgid "P_stand_tlk_phone_st"
+msgstr ""
+
+msgctxt "14764"
+msgid "Nami's Father"
+msgstr ""
+
+msgctxt "14768"
+msgid "P_stand_tlk_phone_ed"
+msgstr ""
+
+msgctxt "14772"
+msgid "dummy"
+msgstr ""
+
+msgctxt "14776"
+msgid "Idle"
+msgstr ""
+
+msgctxt "14780"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "14784"
+msgid "Young Punk"
+msgstr ""
+
+msgctxt "14788"
+msgid "Yuto"
+msgstr ""
+
+msgctxt "14792"
+msgid "Talk_Info_L"
+msgstr ""
+
+msgctxt "14796"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "14800"
+msgid "Talk_Chohatu"
+msgstr ""
+
+msgctxt "14804"
+msgid "Talk_Kamae"
+msgstr ""
+
+msgctxt "14808"
+msgid "0"
+msgstr ""
+
+msgctxt "14812"
+msgid "SetM_nml_sitground_okiagari"
+msgstr ""
+
+msgctxt "14816"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "14820"
+msgid "kaiwabgm_sadness"
+msgstr ""
+
+msgctxt "14824"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "14828"
+msgid "Talk_Send"
+msgstr ""

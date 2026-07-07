@@ -1,0 +1,94 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "120"
+msgid "Uncle Kaz!"
+msgstr ""
+
+msgctxt "144"
+msgid "Did you bring me my Shonen Five!?"
+msgstr ""
+
+msgctxt "156"
+msgid "Yeah, here."
+msgstr ""
+
+msgctxt "168"
+msgid "You handed over the <Color:8>50 Issues of Shonen Five<Color:Default>."
+msgstr ""
+
+msgctxt "192"
+msgid "Whoa... Why'd you buy so many!?"
+msgstr ""
+
+msgctxt "204"
+msgid "I only wanted one!"
+msgstr ""
+
+msgctxt "216"
+msgid "Heh. Just take 'em."
+msgstr ""
+
+msgctxt "228"
+msgid "Geez!"
+msgstr ""
+
+msgctxt "240"
+msgid "You did do me a favor, though... Here, take this!"
+msgstr ""
+
+msgctxt "252"
+msgid "You got a <Color:8>Gold Plate<Color:Default>."
+msgstr ""
+
+msgctxt "276"
+msgid ""
+"I found it washed up on the shore. Anyway, I gotta go read\r\n"
+"this issue! I can't wait to find out what happens!"
+msgstr ""
+
+msgctxt "288"
+msgid "You bought me my magazine, so you can have this!"
+msgstr ""
+
+msgctxt "300"
+msgid "I found it washed up on the shore."
+msgstr ""
+
+msgctxt "312"
+msgid "You got a <Color:8>Gold Plate<Color:Default>."
+msgstr ""
+
+msgctxt "336"
+msgid "Thanks, Uncle Kaz!"
+msgstr ""
+
+msgctxt "2760"
+msgid "Taichi"
+msgstr ""
+
+msgctxt "2764"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "2768"
+msgid "Sync_Send"
+msgstr ""
+
+msgctxt "2772"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "2776"
+msgid "Talk_Yes"
+msgstr ""

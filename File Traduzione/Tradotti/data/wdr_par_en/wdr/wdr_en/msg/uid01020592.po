@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "80"
+msgid "Uncle Kaz! Come quick!"
+msgstr ""
+
+msgctxt "104"
+msgid "What's wrong!?"
+msgstr ""
+
+msgctxt "116"
+msgid "Taichi fell on his back! He's not moving!"
+msgstr ""
+
+msgctxt "128"
+msgid "What!?"
+msgstr ""
+
+msgctxt "140"
+msgid "You gotta do something, Uncle Kaz!"
+msgstr ""
+
+msgctxt "152"
+msgid ""
+"Right! You find Haruka and tell her to call the doctor, I'll go check on "
+"Taichi!"
+msgstr ""
+
+msgctxt "164"
+msgid "Okay!"
+msgstr ""
+
+msgctxt "1460"
+msgid "Mitsuo"
+msgstr ""
+
+msgctxt "1464"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1468"
+msgid "SetM_cld_cheer_stand_jitabata"
+msgstr ""
+
+msgctxt "1472"
+msgid "Talk_Yes"
+msgstr ""

@@ -1,0 +1,50 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "124"
+msgid ""
+"Hey, you're the guy who's been bossin' around town like you own the goddamn "
+"place!"
+msgstr ""
+
+msgctxt "136"
+msgid "Well I ain't gonna stand for it! Time for me to show you your place!"
+msgstr ""
+
+msgctxt "160"
+msgid "Hgh... You're too much for me, man."
+msgstr ""
+
+msgctxt "172"
+msgid "Sorry for gettin' in yer face like that. Here, lemme apologize."
+msgstr ""
+
+msgctxt "184"
+msgid "You got a dreamy %s."
+msgstr ""
+
+msgctxt "220"
+msgid "Fucking shit, man. You're built like a goddamn truck."
+msgstr ""
+
+msgctxt "1296"
+msgid "Angry Punk"
+msgstr ""
+
+msgctxt "1300"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "1304"
+msgid "Sync_Send"
+msgstr ""

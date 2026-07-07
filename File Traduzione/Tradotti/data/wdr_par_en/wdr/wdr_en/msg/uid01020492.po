@@ -1,0 +1,70 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "76"
+msgid "(There it is!)"
+msgstr ""
+
+msgctxt "88"
+msgid "Grrr!"
+msgstr ""
+
+msgctxt "100"
+msgid "Don't worry, boy. I'm not gonna hurt you."
+msgstr ""
+
+msgctxt "136"
+msgid "Hey, get back here!"
+msgstr ""
+
+msgctxt "148"
+msgid ""
+"Hold down <Action:Button_R2@Chase> to dash,\r\n"
+"and don't let the dog out of your sight!"
+msgstr ""
+
+msgctxt "1320"
+msgid "A_dog_sitgrd_tlk_lp"
+msgstr ""
+
+msgctxt "1324"
+msgid "A_dog_sitgrd_tlk_mimikaki"
+msgstr ""
+
+msgctxt "1328"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1332"
+msgid "Energetic Dog"
+msgstr ""
+
+msgctxt "1336"
+msgid "A_dog_stand_ikaku_lp"
+msgstr ""
+
+msgctxt "1340"
+msgid "A_dog_stand_ikaku_st"
+msgstr ""
+
+msgctxt "1344"
+msgid "P_stand_tlk_child_st"
+msgstr ""
+
+msgctxt "1348"
+msgid "P_stand_tlk_child_ed"
+msgstr ""
+
+msgctxt "1352"
+msgid "Catch Up to That Pup!"
+msgstr ""

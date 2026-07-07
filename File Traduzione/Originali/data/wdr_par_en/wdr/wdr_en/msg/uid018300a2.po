@@ -1,0 +1,87 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid ""
+"Whoa, it's even more incredible than I was expectin'! Sure\r\n"
+"are lots of teenagers in there."
+msgstr ""
+
+msgctxt "76"
+msgid ""
+"Yeah, it's pretty popular with the younger crowd. Anyway,\r\n"
+"I think I'll wait out here. Don't buy any more than you're willing to "
+"carry, okay?"
+msgstr ""
+
+msgctxt "88"
+msgid "'Course not! Be back in a bit!"
+msgstr ""
+
+msgctxt "172"
+msgid "Sorry to keep you waitin' out here, Aniki!"
+msgstr ""
+
+msgctxt "184"
+msgid "...Looks like you bought the entire store."
+msgstr ""
+
+msgctxt "196"
+msgid ""
+"Heh, guess I got kinda carried away. But it was all so\r\n"
+"cheap, I couldn't help it! Oh, and I nabbed some souvenirs\r\n"
+"for the kids back at the orphanage."
+msgstr ""
+
+msgctxt "208"
+msgid "You did? I really appreciate that, Rikiya."
+msgstr ""
+
+msgctxt "220"
+msgid "Naw, it was nothin'."
+msgstr ""
+
+msgctxt "232"
+msgid ""
+"Anyways. You think there's somewhere I can dump all this\r\n"
+"stuff 'til we head home for the night? Maybe one of them\r\n"
+"coin lockers?"
+msgstr ""
+
+msgctxt "244"
+msgid "Oh, yeah. There are some lockers just down this street."
+msgstr ""
+
+msgctxt "256"
+msgid "Sweet, lead the way!"
+msgstr ""
+
+msgctxt "2500"
+msgid "Rikiya"
+msgstr ""
+
+msgctxt "2504"
+msgid "Talk_Kansin"
+msgstr ""
+
+msgctxt "2508"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "2512"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "2516"
+msgid "Talk_No"
+msgstr ""

@@ -1,0 +1,392 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "156"
+msgid "Dammit...! I'm not gonna let you mess this up!"
+msgstr ""
+
+msgctxt "168"
+msgid "Yoshio... Please stop doing all this."
+msgstr ""
+
+msgctxt "180"
+msgid "Akemi! What are you doing here?"
+msgstr ""
+
+msgctxt "204"
+msgid ""
+"A police officer was asking me all these questions about a convenience "
+"store robbery and some investigation. I didn't want to believe it."
+msgstr ""
+
+msgctxt "216"
+msgid "Well, I did it... But this is the only way I can make you happy!"
+msgstr ""
+
+msgctxt "228"
+msgid ""
+"Because my ex left me in debt? That's not anything for you to worry about, "
+"Yoshio."
+msgstr ""
+
+msgctxt "240"
+msgid ""
+"But, Akemi, you're pregnant! What are we gonna do about the baby? What kind "
+"of father would I be if I let our child start out life in debt!?"
+msgstr ""
+
+msgctxt "252"
+msgid ""
+"If we keep working hard, we can make it through somehow. What am I gonna do "
+"if you're arrested? What do I tell him when he asks about you?"
+msgstr ""
+
+msgctxt "264"
+msgid "I just... I don't know..."
+msgstr ""
+
+msgctxt "276"
+msgid "(So that's what this is all about.)"
+msgstr ""
+
+msgctxt "288"
+msgid ""
+"Turn yourself in. It's your first offense, right? And no money was stolen, "
+"so it's a petty crime you won't be getting locked up for."
+msgstr ""
+
+msgctxt "300"
+msgid "But..."
+msgstr ""
+
+msgctxt "312"
+msgid ""
+"And think about your kid. It's a lot harder to have a dad in jail than "
+"parents in debt, right?"
+msgstr ""
+
+msgctxt "324"
+msgid ""
+"That's right. And what if you're not there when our child is born, Yoshio? "
+"I just couldn't deal with that..."
+msgstr ""
+
+msgctxt "336"
+msgid "Akemi..."
+msgstr ""
+
+msgctxt "348"
+msgid "I'll go with you to the police."
+msgstr ""
+
+msgctxt "360"
+msgid "...All right."
+msgstr ""
+
+msgctxt "372"
+msgid ""
+"You know, I actually feel kinda grateful to you, guy. You helped us sort "
+"out this mess, so I'm gonna turn myself into the cops now."
+msgstr ""
+
+msgctxt "384"
+msgid "And you were right. I wanna clean myself up before I hold my kid."
+msgstr ""
+
+msgctxt "396"
+msgid ""
+"Well, it's time for us to pay a visit to the police now. Thanks for all "
+"your help."
+msgstr ""
+
+msgctxt "432"
+msgid "Officer? Yeah... I found the suspect at Children's Park in Kamurocho."
+msgstr ""
+
+msgctxt "444"
+msgid "What are you doing!? Don't call the cops!"
+msgstr ""
+
+msgctxt "456"
+msgid ""
+"Stop it, Yoshio! This is what's best for us! We didn't have the courage to "
+"do it ourselves."
+msgstr ""
+
+msgctxt "468"
+msgid ""
+"Pay for the crime and clean yourself up again for the sake of our child. "
+"Please..."
+msgstr ""
+
+msgctxt "480"
+msgid "Akemi..."
+msgstr ""
+
+msgctxt "492"
+msgid "Thank you for all the help. Now we can sort out this mess once and for all."
+msgstr ""
+
+msgctxt "504"
+msgid "......"
+msgstr ""
+
+msgctxt "564"
+msgid ""
+"You're the thief, aren't you! Those clothes and that face match up with the "
+"report from the convenience store!"
+msgstr ""
+
+msgctxt "576"
+msgid "Wait for me, Akemi. I'll pay for this and come back for you."
+msgstr ""
+
+msgctxt "588"
+msgid "You know I will. Please come back soon."
+msgstr ""
+
+msgctxt "600"
+msgid ""
+"You're the one who contacted us, right? We appreciate your cooperation in "
+"this case!"
+msgstr ""
+
+msgctxt "612"
+msgid "I'm sorry about all the trouble we've caused you..."
+msgstr ""
+
+msgctxt "636"
+msgid "Run. I never saw you."
+msgstr ""
+
+msgctxt "648"
+msgid "Wha..."
+msgstr ""
+
+msgctxt "660"
+msgid "No! If he runs now, he'll be on the run for the rest of his life!"
+msgstr ""
+
+msgctxt "672"
+msgid "How could you say such an irresponsible thing!?"
+msgstr ""
+
+msgctxt "684"
+msgid "......"
+msgstr ""
+
+msgctxt "696"
+msgid ""
+"I don't want our child to learn to be the kind of person who doesn't own up "
+"to his mistakes."
+msgstr ""
+
+msgctxt "708"
+msgid ""
+"And I don't want our child to be ashamed of his own father! Please don't do "
+"this to us!"
+msgstr ""
+
+msgctxt "720"
+msgid "Akemi..."
+msgstr ""
+
+msgctxt "732"
+msgid "Turn yourself in, Yoshio. Pay for your mistakes and come back a new man."
+msgstr ""
+
+msgctxt "744"
+msgid ""
+"I promise I'll wait for you for as long as it takes. I'll be waiting with "
+"our child."
+msgstr ""
+
+msgctxt "756"
+msgid "You're right, Akemi. I'm so sorry about all this..."
+msgstr ""
+
+msgctxt "768"
+msgid "......"
+msgstr ""
+
+msgctxt "780"
+msgid ""
+"You know, I actually feel kinda grateful to you, buddy. You helped us sort "
+"out this mess, so I'm gonna turn myself into the cops now."
+msgstr ""
+
+msgctxt "792"
+msgid "And it's just like Akemi said. I wanna clean myself up before I hold my kid."
+msgstr ""
+
+msgctxt "804"
+msgid ""
+"Well, it's time for us to pay a visit to the police now. Thanks for all "
+"your help."
+msgstr ""
+
+msgctxt "876"
+msgid "...And that's what happened."
+msgstr ""
+
+msgctxt "888"
+msgid "I see."
+msgstr ""
+
+msgctxt "900"
+msgid "That robber knew he was making a mistake all along."
+msgstr ""
+
+msgctxt "912"
+msgid ""
+"And robbing a convenience store wouldn't get him nearly enough to pay off "
+"that heavy debt anyway."
+msgstr ""
+
+msgctxt "924"
+msgid ""
+"You know, I've got a little one of my own, and I can sort of empathize with "
+"how panicked that guy must've been."
+msgstr ""
+
+msgctxt "936"
+msgid ""
+"I'll go give my testimony to the police now, and I'll do what I can to get "
+"him a lighter sentence."
+msgstr ""
+
+msgctxt "948"
+msgid "......"
+msgstr ""
+
+msgctxt "960"
+msgid ""
+"Oh, yeah, and here's that payment I promised you. It's not much, but I'd "
+"like you to take it."
+msgstr ""
+
+msgctxt "972"
+msgid "You got <Color:8>30,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "984"
+msgid "Well, I'd better get going."
+msgstr ""
+
+msgctxt "1056"
+msgid "You got 3,000 EXP."
+msgstr ""
+
+msgctxt "1080"
+msgid "Hey!"
+msgstr ""
+
+msgctxt "1152"
+msgid "You've got nowhere else to run."
+msgstr ""
+
+msgctxt "1164"
+msgid "How the hell did you find me? I'm not going to the cops!"
+msgstr ""
+
+msgctxt "1188"
+msgid "Urge Him to Turn Himself In"
+msgstr ""
+
+msgctxt "1200"
+msgid "Call the Police"
+msgstr ""
+
+msgctxt "1212"
+msgid "Tell Him to Run"
+msgstr ""
+
+msgctxt "12336"
+msgid "Robber"
+msgstr ""
+
+msgctxt "12340"
+msgid "M_ykz_damage"
+msgstr ""
+
+msgctxt "12344"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "12348"
+msgid "Woman"
+msgstr ""
+
+msgctxt "12352"
+msgid "Yoshio"
+msgstr ""
+
+msgctxt "12356"
+msgid "Akemi"
+msgstr ""
+
+msgctxt "12360"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "12364"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "12368"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "12372"
+msgid "Talk_Phone_st"
+msgstr ""
+
+msgctxt "12376"
+msgid "Talk_Cry"
+msgstr ""
+
+msgctxt "12380"
+msgid "Talk_Phone_ed"
+msgstr ""
+
+msgctxt "12384"
+msgid "Police Officer"
+msgstr ""
+
+msgctxt "12388"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "12392"
+msgid "Manager"
+msgstr ""
+
+msgctxt "12396"
+msgid "Talk_Send"
+msgstr ""
+
+msgctxt "12400"
+msgid "dummy"
+msgstr ""
+
+msgctxt "12404"
+msgid "Talk_Kamae"
+msgstr ""
+
+msgctxt "12408"
+msgid "0"
+msgstr ""
+
+msgctxt "12412"
+msgid "Talk_Odosu"
+msgstr ""

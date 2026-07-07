@@ -1,0 +1,371 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "140"
+msgid "You sure can run."
+msgstr ""
+
+msgctxt "164"
+msgid "It's okay, I'm not gonna hurt you. Come here, boy."
+msgstr ""
+
+msgctxt "176"
+msgid "Grrrrr!"
+msgstr ""
+
+msgctxt "212"
+msgid "Oh, sir! You cornered him!"
+msgstr ""
+
+msgctxt "224"
+msgid "Yup. Only took running half a marathon to do it..."
+msgstr ""
+
+msgctxt "236"
+msgid "Wow, sir! That's incredible!"
+msgstr ""
+
+msgctxt "248"
+msgid "He's still scared, though."
+msgstr ""
+
+msgctxt "260"
+msgid "Grrrr... Bark, bark!"
+msgstr ""
+
+msgctxt "272"
+msgid "Uncle Kaz, Uncle Kaz! Can we keep him?"
+msgstr ""
+
+msgctxt "284"
+msgid ""
+"Whaddya mean, keep him? The thing's terrified of you guys.\r\n"
+"Can't see why you'd want him, anyway."
+msgstr ""
+
+msgctxt "296"
+msgid "Well I do want him! Because... Because..."
+msgstr ""
+
+msgctxt "308"
+msgid "What is it, Izumi?"
+msgstr ""
+
+msgctxt "320"
+msgid "Because he looks like Mame!"
+msgstr ""
+
+msgctxt "332"
+msgid "...Mame?"
+msgstr ""
+
+msgctxt "344"
+msgid "That's the dog my mommy and daddy got for me when I was born."
+msgstr ""
+
+msgctxt "356"
+msgid ""
+"Izumi-chan... They might look the same, but this dog here's\r\n"
+"not your Mame."
+msgstr ""
+
+msgctxt "368"
+msgid ""
+"I know he's not. I had to give Mame away when mommy and\r\n"
+"daddy died."
+msgstr ""
+
+msgctxt "380"
+msgid "Izumi..."
+msgstr ""
+
+msgctxt "392"
+msgid ""
+"But when this doggy showed up near our house, I thought for\r\n"
+"a sec that Mame came to see me."
+msgstr ""
+
+msgctxt "404"
+msgid "Izumi-chan..."
+msgstr ""
+
+msgctxt "416"
+msgid "So can we keep him, Uncle Kaz? Please!"
+msgstr ""
+
+msgctxt "428"
+msgid "...Okay, but only if you train him to not be so crazy."
+msgstr ""
+
+msgctxt "440"
+msgid "Deal!"
+msgstr ""
+
+msgctxt "452"
+msgid "Come on, Izumi-chan. That dog's never gonna be normal."
+msgstr ""
+
+msgctxt "464"
+msgid "Look."
+msgstr ""
+
+msgctxt "476"
+msgid "Grrrrrrrrrrrrrr... Bark, bark bark!"
+msgstr ""
+
+msgctxt "488"
+msgid "But..."
+msgstr ""
+
+msgctxt "500"
+msgid ""
+"It's okay, Izumi. Everyone's afraid of new things, dogs and\r\n"
+"people alike."
+msgstr ""
+
+msgctxt "512"
+msgid ""
+"But if you show him you're scared, he'll be scared, too.\r\n"
+"So you just have to put on a brave face. Understand?"
+msgstr ""
+
+msgctxt "524"
+msgid "Mhm!"
+msgstr ""
+
+msgctxt "584"
+msgid "Well? How're you gonna tame him, Izumi-chan?"
+msgstr ""
+
+msgctxt "596"
+msgid "I'm just gonna keep trying 'til he's used to me!"
+msgstr ""
+
+msgctxt "608"
+msgid "Trying... what?"
+msgstr ""
+
+msgctxt "620"
+msgid "Uncle Kaz, what do dogs like to eat?"
+msgstr ""
+
+msgctxt "632"
+msgid "Oh, that's an easy one."
+msgstr ""
+
+msgctxt "644"
+msgid "Dog food, obviously."
+msgstr ""
+
+msgctxt "656"
+msgid "Well duh, Uncle Kaz! But, um... can you go buy some?"
+msgstr ""
+
+msgctxt "668"
+msgid "...Why do I have to go?"
+msgstr ""
+
+msgctxt "680"
+msgid "So I can stay here with the puppy. I think he likes me!"
+msgstr ""
+
+msgctxt "692"
+msgid "Please, Uncle Kaz!"
+msgstr ""
+
+msgctxt "716"
+msgid "Hamburgers, believe it or not. I think it's the bun."
+msgstr ""
+
+msgctxt "728"
+msgid "Really...? Then can you go get us one, Uncle Kaz?"
+msgstr ""
+
+msgctxt "740"
+msgid "...Why do I have to go?"
+msgstr ""
+
+msgctxt "752"
+msgid "So I can stay here with the puppy. I think he likes me!"
+msgstr ""
+
+msgctxt "764"
+msgid "Please, Uncle Kaz!"
+msgstr ""
+
+msgctxt "788"
+msgid "He's still just a puppy, so maybe some milk?"
+msgstr ""
+
+msgctxt "800"
+msgid ""
+"Oh, that's a good idea! I'm sure he's thirsty, too. Can you\r\n"
+"go get some, Uncle Kaz?"
+msgstr ""
+
+msgctxt "812"
+msgid "...Why do I have to go?"
+msgstr ""
+
+msgctxt "824"
+msgid "So I can stay here with the puppy. I think he likes me!"
+msgstr ""
+
+msgctxt "836"
+msgid "Please, Uncle Kaz!"
+msgstr ""
+
+msgctxt "860"
+msgid "Definitely bones!"
+msgstr ""
+
+msgctxt "872"
+msgid "Bones? Seriously, Uncle Kaz?"
+msgstr ""
+
+msgctxt "884"
+msgid ""
+"Of course. All the dogs in cartoons love them, so a real\r\n"
+"dog would probably think the same way."
+msgstr ""
+
+msgctxt "896"
+msgid "Okay! Can you go get one?"
+msgstr ""
+
+msgctxt "908"
+msgid "...Why do I have to go?"
+msgstr ""
+
+msgctxt "920"
+msgid "So I can stay here with the puppy. I think he likes me!"
+msgstr ""
+
+msgctxt "932"
+msgid "Please, Uncle Kaz!"
+msgstr ""
+
+msgctxt "944"
+msgid "I don't even know if they sell bones around here..."
+msgstr ""
+
+msgctxt "956"
+msgid "But it was your idea! Come onnn!"
+msgstr ""
+
+msgctxt "968"
+msgid ""
+"...All right, I'll be back in a minute. Keep an eye on Izumi\r\n"
+"for me, Mikio."
+msgstr ""
+
+msgctxt "980"
+msgid "Yes, sir!"
+msgstr ""
+
+msgctxt "992"
+msgid ""
+"(I should've just kept my big mouth shut. Where am I\r\n"
+"supposed to find a bone around here anyway? Guess I\r\n"
+"could always check the stores...)"
+msgstr ""
+
+msgctxt "1016"
+msgid ""
+"All right, I'll be back in a minute. Keep an eye on Izumi\r\n"
+"for me, Mikio."
+msgstr ""
+
+msgctxt "1028"
+msgid "Yes, sir!"
+msgstr ""
+
+msgctxt "1052"
+msgid "Dog food, obviously."
+msgstr ""
+
+msgctxt "1064"
+msgid "Hamburgers, believe it or not."
+msgstr ""
+
+msgctxt "1076"
+msgid "Maybe milk?"
+msgstr ""
+
+msgctxt "1088"
+msgid "Definitely bones!"
+msgstr ""
+
+msgctxt "11752"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "11756"
+msgid "P_stand_tlk_child_st"
+msgstr ""
+
+msgctxt "11760"
+msgid "Scared Dog"
+msgstr ""
+
+msgctxt "11764"
+msgid "Mikio"
+msgstr ""
+
+msgctxt "11768"
+msgid "P_stand_tlk_child_ed"
+msgstr ""
+
+msgctxt "11772"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "11776"
+msgid "0"
+msgstr ""
+
+msgctxt "11780"
+msgid "Izumi"
+msgstr ""
+
+msgctxt "11784"
+msgid "Talk_CryBig_st"
+msgstr ""
+
+msgctxt "11788"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "11792"
+msgid "Talk_CryBig_ed"
+msgstr ""
+
+msgctxt "11796"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "11800"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "11804"
+msgid "P_stand_tlk_child_yes"
+msgstr ""
+
+msgctxt "11808"
+msgid "P_stand_tlk_child_no"
+msgstr ""
+
+msgctxt "11812"
+msgid "Talk_Ase"
+msgstr ""

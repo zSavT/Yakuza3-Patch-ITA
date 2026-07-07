@@ -1,0 +1,276 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "96"
+msgid "Haha... I'm no match for you."
+msgstr ""
+
+msgctxt "108"
+msgid "You truly are above me."
+msgstr ""
+
+msgctxt "120"
+msgid "Losing a fist fight doesn't make you any less of a man."
+msgstr ""
+
+msgctxt "132"
+msgid "Why don't you try getting some help from the HLA again?"
+msgstr ""
+
+msgctxt "144"
+msgid "The HLA, huh..."
+msgstr ""
+
+msgctxt "156"
+msgid "Do you really think I could make a fresh start with them?"
+msgstr ""
+
+msgctxt "168"
+msgid ""
+"I can't make any promises, but if you still wanna make\r\n"
+"good, it couldn't hurt to try."
+msgstr ""
+
+msgctxt "180"
+msgid "Yeah... I guess so. Might be worth a shot."
+msgstr ""
+
+msgctxt "192"
+msgid "Heh. You make me feel like I really can do it."
+msgstr ""
+
+msgctxt "204"
+msgid "I'll give it one more try..."
+msgstr ""
+
+msgctxt "216"
+msgid "Thanks for the push."
+msgstr ""
+
+msgctxt "300"
+msgid "What a pain..."
+msgstr ""
+
+msgctxt "312"
+msgid "You must be Tetsuji, one of the Reapers."
+msgstr ""
+
+msgctxt "324"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "336"
+msgid "Wait, you're Kazuma Kiryu-san, aren't you!?"
+msgstr ""
+
+msgctxt "348"
+msgid "Yeah, that's right. You know who I am?"
+msgstr ""
+
+msgctxt "360"
+msgid "Sure do! So what brings you down here?"
+msgstr ""
+
+msgctxt "372"
+msgid "I live in Okinawa now."
+msgstr ""
+
+msgctxt "384"
+msgid "You don't say... What a small world, huh?"
+msgstr ""
+
+msgctxt "396"
+msgid "Kiryu-san. Do you mind if I ask you something?"
+msgstr ""
+
+msgctxt "408"
+msgid "Go ahead."
+msgstr ""
+
+msgctxt "480"
+msgid "Have things gone smoothly for you since you left the yakuza?"
+msgstr ""
+
+msgctxt "492"
+msgid ""
+"I wouldn't say smoothly, but, yeah, it's been working out\r\n"
+"all right."
+msgstr ""
+
+msgctxt "504"
+msgid ""
+"I see... I put in some time myself with a family directly\r\n"
+"under the Tojo Clan."
+msgstr ""
+
+msgctxt "516"
+msgid "That's how I recognized you."
+msgstr ""
+
+msgctxt "528"
+msgid "That makes sense."
+msgstr ""
+
+msgctxt "540"
+msgid ""
+"I wanted to get out pretty bad. I cut all ties and left\r\n"
+"Kamurocho."
+msgstr ""
+
+msgctxt "552"
+msgid ""
+"But the flak I got for my criminal record from my yakuza\r\n"
+"days was much harsher than I expected."
+msgstr ""
+
+msgctxt "564"
+msgid ""
+"Full-time work was out of the question. I couldn't\r\n"
+"even get part-time jobs..."
+msgstr ""
+
+msgctxt "576"
+msgid ""
+"And even if I did manage to get hired, it was all over\r\n"
+" as soon as word got around that I'd been in the yakuza."
+msgstr ""
+
+msgctxt "588"
+msgid "Yeah, I understand."
+msgstr ""
+
+msgctxt "600"
+msgid ""
+"When I couldn't make ends meet, I went to see my brothers in\r\n"
+"the family."
+msgstr ""
+
+msgctxt "612"
+msgid "They found me work as a hitman."
+msgstr ""
+
+msgctxt "624"
+msgid "So that's why you're back with the yakuza."
+msgstr ""
+
+msgctxt "636"
+msgid ""
+"But once I went back into the business, everybody treated\r\n"
+"me like a coward who tried to run away from it all."
+msgstr ""
+
+msgctxt "648"
+msgid ""
+"Finally, I couldn't take it anymore. That's when I left and\r\n"
+"came to join up with the Reapers."
+msgstr ""
+
+msgctxt "660"
+msgid "Anyway, what brings you to come see me?"
+msgstr ""
+
+msgctxt "672"
+msgid "The HLA sent me to pick you up."
+msgstr ""
+
+msgctxt "684"
+msgid "The HLA, huh? Seems like an ancient memory now."
+msgstr ""
+
+msgctxt "696"
+msgid ""
+"Look, I'm not seeking revenge against the yakuza or\r\n"
+"anything."
+msgstr ""
+
+msgctxt "708"
+msgid ""
+"It's just that the Reapers were the only ones who helped\r\n"
+"me."
+msgstr ""
+
+msgctxt "720"
+msgid "They took me in when I had nowhere else to go."
+msgstr ""
+
+msgctxt "732"
+msgid "If they're against the HLA, then I have to side with them."
+msgstr ""
+
+msgctxt "744"
+msgid "So I'm sorry, but I can't go with you."
+msgstr ""
+
+msgctxt "756"
+msgid "You seem like a decent guy, so I hate to do this..."
+msgstr ""
+
+msgctxt "768"
+msgid "...but I'm prepared to use force if I have to."
+msgstr ""
+
+msgctxt "780"
+msgid "So that's how it is, huh?"
+msgstr ""
+
+msgctxt "792"
+msgid "You quit and made good. I quit but couldn't get by."
+msgstr ""
+
+msgctxt "804"
+msgid "Let's see which one of us comes out on top!"
+msgstr ""
+
+msgctxt "7800"
+msgid "Tetsuji"
+msgstr ""
+
+msgctxt "7804"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "7808"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "7812"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "7816"
+msgid "P_stand_tlk_phone_st"
+msgstr ""
+
+msgctxt "7820"
+msgid "Idle"
+msgstr ""
+
+msgctxt "7824"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "7828"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "7832"
+msgid "Talk_Udekumi_st"
+msgstr ""
+
+msgctxt "7836"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "7840"
+msgid "Talk_Udekumi_ed"
+msgstr ""

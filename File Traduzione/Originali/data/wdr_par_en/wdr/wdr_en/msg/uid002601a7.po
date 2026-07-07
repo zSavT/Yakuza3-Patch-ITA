@@ -1,0 +1,122 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "136"
+msgid ""
+"How about a Coral Love Necklace for you, sir? Made with\r\n"
+"genuine Okinawan coral. We've got plenty in stock, but they\r\n"
+"won't last long!"
+msgstr ""
+
+msgctxt "148"
+msgid "(Those must be the necklaces those high schoolers were talking about.)"
+msgstr ""
+
+msgctxt "160"
+msgid ""
+"In fact, it's been making big waves on the internet lately.\r\n"
+"It's even considered something of a \"spiritual accessory.\""
+msgstr ""
+
+msgctxt "172"
+msgid ""
+"As you can see, this necklace is made from genuine, hermatypic coral "
+"weathered to a fine sheen. This process helps the coral release beneficial "
+"negative ions."
+msgstr ""
+
+msgctxt "184"
+msgid ""
+"Just keeping one of these special coral necklaces on your\r\n"
+"person is said to bolster your luck in love and money, too."
+msgstr ""
+
+msgctxt "196"
+msgid ""
+"What do you say? One Coral Love Necklace is going for the\r\n"
+"incredibly reasonable price of 3,000 yen today."
+msgstr ""
+
+msgctxt "208"
+msgid "No... I'm fine."
+msgstr ""
+
+msgctxt "220"
+msgid ""
+"I see. Well, if you change your mind, then you'd better act quick! 'Cause "
+"these babies are selling like hotcakes!"
+msgstr ""
+
+msgctxt "232"
+msgid "Okay, then I'll take one."
+msgstr ""
+
+msgctxt "256"
+msgid ""
+"Thank you, sir! Here's your precious Coral Love Necklace!\r\n"
+"May it bring you only the best of fortune!"
+msgstr ""
+
+msgctxt "268"
+msgid "You got a <Color:8>Coral Love Necklace<Color:Default>."
+msgstr ""
+
+msgctxt "292"
+msgid ""
+"(...Is this thing really gonna make me lucky? I'll admit, I have my "
+"doubts...)"
+msgstr ""
+
+msgctxt "316"
+msgid "(3,000 yen... Wait, I don't have enough cash on me.)"
+msgstr ""
+
+msgctxt "328"
+msgid "Sorry. I'll make sure to stop by again."
+msgstr ""
+
+msgctxt "340"
+msgid "I see. Better hurry before they're all gone!"
+msgstr ""
+
+msgctxt "364"
+msgid "Buy a Coral Love Necklace"
+msgstr ""
+
+msgctxt "376"
+msgid "Don't Buy Anything"
+msgstr ""
+
+msgctxt "3404"
+msgid "Employee"
+msgstr ""
+
+msgctxt "3408"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "3412"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "3416"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "3420"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "3424"
+msgid "Talk_No"
+msgstr ""

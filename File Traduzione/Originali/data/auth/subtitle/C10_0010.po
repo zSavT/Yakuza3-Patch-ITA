@@ -1,0 +1,178 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "233.26\t248.4"
+msgid "Yoshitaka!"
+msgstr ""
+
+msgctxt "254.64\t267.41"
+msgid "Yoshitaka!"
+msgstr ""
+
+msgctxt "267.71\t276.62"
+msgid "Hey, dad!"
+msgstr ""
+
+msgctxt "276.92\t323.25"
+msgid ""
+"Where have you been?\\n"
+"Do you know how late it is, young man!?"
+msgstr ""
+
+msgctxt "364\t418"
+msgid "Um..."
+msgstr ""
+
+msgctxt "419\t497"
+msgid "Me and my friends were playing baseball!"
+msgstr ""
+
+msgctxt "498\t685"
+msgid ""
+"Oh, that's all it was?\\n"
+"And here I was worrying you'd run away."
+msgstr ""
+
+msgctxt "686\t839"
+msgid ""
+"Hey, and listen to this! I got the best\\n"
+"grade in my class on our test today!"
+msgstr ""
+
+msgctxt "840\t1000"
+msgid "Wow. I always knew you were a bright kid."
+msgstr ""
+
+msgctxt "1090\t1169"
+msgid "Guys! Let me play, too!"
+msgstr ""
+
+msgctxt "1174\t1281"
+msgid "Yeah, right. You don't even have a bat and glove."
+msgstr ""
+
+msgctxt "1282\t1391"
+msgid "There's no room in our game for poor orphanage trash!"
+msgstr ""
+
+msgctxt "1557\t1605"
+msgid "Dad!"
+msgstr ""
+
+msgctxt "1606\t1687"
+msgid "Get up, please!"
+msgstr ""
+
+msgctxt "1688\t1746"
+msgid "Yoshitaka..."
+msgstr ""
+
+msgctxt "1747\t1794"
+msgid "Dad!"
+msgstr ""
+
+msgctxt "1795\t1865"
+msgid "Yoshitaka..."
+msgstr ""
+
+msgctxt "1866\t1926"
+msgid "Listen to me."
+msgstr ""
+
+msgctxt "1977\t2099"
+msgid ""
+"I always knew...\\n"
+"you were the smart one."
+msgstr ""
+
+msgctxt "2156\t2226"
+msgid "Don't put that brain to waste."
+msgstr ""
+
+msgctxt "2280\t2344"
+msgid "...Make something of yourself."
+msgstr ""
+
+msgctxt "2345\t2405"
+msgid "Dad..."
+msgstr ""
+
+msgctxt "2478\t2545"
+msgid "I'm so sorry..."
+msgstr ""
+
+msgctxt "2595\t2725"
+msgid "I can't... be there for you..."
+msgstr ""
+
+msgctxt "2760\t2820"
+msgid "Dad!"
+msgstr ""
+
+msgctxt "2951\t3003"
+msgid "Who is it?"
+msgstr ""
+
+msgctxt "3004\t3064"
+msgid "Katase, sir."
+msgstr ""
+
+msgctxt "3166\t3226"
+msgid "Come in."
+msgstr ""
+
+msgctxt "3340\t3400"
+msgid "Apologies if I interrupted anything."
+msgstr ""
+
+msgctxt "3511\t3610"
+msgid "I've booked your flight to Okinawa."
+msgstr ""
+
+msgctxt "3611\t3693"
+msgid "It leaves from Haneda in an hour and a half."
+msgstr ""
+
+msgctxt "3708\t3768"
+msgid "Then let's go."
+msgstr ""
+
+msgctxt "3951\t4011"
+msgid "Chairman..."
+msgstr ""
+
+msgctxt "4013\t4073"
+msgid "What is it?"
+msgstr ""
+
+msgctxt "4125\t4232"
+msgid ""
+"Never mind.\\n"
+"It's nothing."
+msgstr ""
+
+msgctxt "4255\t4411"
+msgid ""
+"It's just... you've been working\\n"
+"yourself awfully hard lately."
+msgstr ""
+
+msgctxt "4460\t4564"
+msgid "If something happened to you, I..."
+msgstr ""
+
+msgctxt "4575\t4703"
+msgid ""
+"Don't give me that look.\\n"
+"I'll be fine."
+msgstr ""

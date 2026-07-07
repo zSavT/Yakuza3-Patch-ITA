@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "108"
+msgid "Welcome to Sega! What can I do for you today, sir?"
+msgstr ""
+
+msgctxt "120"
+msgid "(Let me think...)"
+msgstr ""
+
+msgctxt "132"
+msgid "Think you could change out the prizes in the UFO catchers?"
+msgstr ""
+
+msgctxt "144"
+msgid "Of course, sir. One moment, please."
+msgstr ""
+
+msgctxt "192"
+msgid "There you go, sir. Have fun!"
+msgstr ""
+
+msgctxt "204"
+msgid "Nothing right now."
+msgstr ""
+
+msgctxt "216"
+msgid "If you need any assistance, we're here to help. Have fun!"
+msgstr ""
+
+msgctxt "228"
+msgid "Change UFO Catcher Prizes"
+msgstr ""
+
+msgctxt "240"
+msgid "Nothing in particular."
+msgstr ""
+
+msgctxt "1436"
+msgid "Club SEGA Employee"
+msgstr ""
+
+msgctxt "1440"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "1444"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1448"
+msgid "Employee"
+msgstr ""
+
+msgctxt "1452"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "1456"
+msgid "dummy"
+msgstr ""
+
+msgctxt "1460"
+msgid "Talk_No"
+msgstr ""

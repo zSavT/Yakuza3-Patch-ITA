@@ -1,0 +1,100 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "116"
+msgid ""
+"Did something happen while I was gone? I thought I heard\r\n"
+"some kind of ruckus..."
+msgstr ""
+
+msgctxt "128"
+msgid "It was... nothing out of the ordinary."
+msgstr ""
+
+msgctxt "140"
+msgid "Hmm... All right, then. Keep up the good work, handsome."
+msgstr ""
+
+msgctxt "212"
+msgid "Hey... What are you doing up there?"
+msgstr ""
+
+msgctxt "224"
+msgid ""
+"Oh, er... just hanging out. Everything's fine, so...\r\n"
+"Would you mind not talking to me?"
+msgstr ""
+
+msgctxt "236"
+msgid "You don't look fine to me."
+msgstr ""
+
+msgctxt "248"
+msgid "Hey! I know you've got a man in here, you cheating bitch!"
+msgstr ""
+
+msgctxt "260"
+msgid "No! Stop! That window, it's... dirty! I was still cleaning!"
+msgstr ""
+
+msgctxt "272"
+msgid "Uh-oh... Not good...!"
+msgstr ""
+
+msgctxt "380"
+msgid "Get back here you little shit!"
+msgstr ""
+
+msgctxt "392"
+msgid "......"
+msgstr ""
+
+msgctxt "2948"
+msgid "P_stand_tlk_phone_st"
+msgstr ""
+
+msgctxt "2952"
+msgid "Alluring Woman"
+msgstr ""
+
+msgctxt "2956"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "2960"
+msgid "P_stand_tlk_phone_ed"
+msgstr ""
+
+msgctxt "2964"
+msgid "dummy"
+msgstr ""
+
+msgctxt "2968"
+msgid "Guy Hanging from Window"
+msgstr ""
+
+msgctxt "2972"
+msgid "Shouting Man"
+msgstr ""
+
+msgctxt "2976"
+msgid "Screaming Woman"
+msgstr ""
+
+msgctxt "2980"
+msgid "kaiwabgm_funny"
+msgstr ""
+
+msgctxt "2984"
+msgid "0"
+msgstr ""

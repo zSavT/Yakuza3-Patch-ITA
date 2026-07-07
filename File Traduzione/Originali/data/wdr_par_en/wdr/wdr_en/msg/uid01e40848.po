@@ -1,0 +1,153 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "76"
+msgid "Hey, uh, Kiryu-san... Do you have a minute?"
+msgstr ""
+
+msgctxt "88"
+msgid "Oh, not you again."
+msgstr ""
+
+msgctxt "100"
+msgid "Kiryu-san... I want to be your apprentice!"
+msgstr ""
+
+msgctxt "112"
+msgid "Huh? What the hell are you talking about?"
+msgstr ""
+
+msgctxt "124"
+msgid ""
+"I always wanted to be strong and tough. I've done a ton of\r\n"
+"bouncing jobs all over the country so I get to fight people\r\n"
+"and test my own strength."
+msgstr ""
+
+msgctxt "136"
+msgid ""
+"So that explains that display back there at the bowling\r\n"
+"alley."
+msgstr ""
+
+msgctxt "148"
+msgid "Yeah... But I'm not gonna do that anymore."
+msgstr ""
+
+msgctxt "160"
+msgid ""
+"Kiryu-san! Make me your apprentice! I wanna retrain myself\r\n"
+"under your expert tutelage!"
+msgstr ""
+
+msgctxt "172"
+msgid "Slow down a second. I don't take on apprentices."
+msgstr ""
+
+msgctxt "184"
+msgid "Please! I'm beggin' you!"
+msgstr ""
+
+msgctxt "196"
+msgid "What's your name, anyway?"
+msgstr ""
+
+msgctxt "208"
+msgid "Keigo Jinno."
+msgstr ""
+
+msgctxt "220"
+msgid ""
+"Huh. Well, Jinno, I can't be your master or anything, but I\r\n"
+"can tell you somewhere you might be able to find one."
+msgstr ""
+
+msgctxt "232"
+msgid "Really?"
+msgstr ""
+
+msgctxt "244"
+msgid "Yeah. The Underground Coliseum."
+msgstr ""
+
+msgctxt "256"
+msgid "Underground Coliseum? What's that?"
+msgstr ""
+
+msgctxt "268"
+msgid ""
+"It's like an underground fighting ring. The place is full of\r\n"
+"tough guys."
+msgstr ""
+
+msgctxt "280"
+msgid ""
+"Never heard of it before, but it sounds perfect for me!\r\n"
+"Kiryu-san, will you show me how to get there?"
+msgstr ""
+
+msgctxt "292"
+msgid "Sure."
+msgstr ""
+
+msgctxt "304"
+msgid "Thank you!"
+msgstr ""
+
+msgctxt "3476"
+msgid "Wannabe Bouncer"
+msgstr ""
+
+msgctxt "3480"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "3484"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "3488"
+msgid "Talk_Kosite_st"
+msgstr ""
+
+msgctxt "3492"
+msgid "Talk_Kosite_ed"
+msgstr ""
+
+msgctxt "3496"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "3500"
+msgid "Talk_Request"
+msgstr ""
+
+msgctxt "3504"
+msgid "Keigo Jinno"
+msgstr ""
+
+msgctxt "3508"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "3512"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "3516"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "3520"
+msgid "Talk_OK"
+msgstr ""

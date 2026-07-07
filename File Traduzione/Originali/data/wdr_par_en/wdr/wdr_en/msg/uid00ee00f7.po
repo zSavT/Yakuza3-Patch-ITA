@@ -1,0 +1,70 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "108"
+msgid "What? What do you want?"
+msgstr ""
+
+msgctxt "120"
+msgid "Huh? You're the Dragon of... Heh, so you're back now, huh?"
+msgstr ""
+
+msgctxt "132"
+msgid ""
+"All right, then, lemme tell ya what ya need to do. Go over to the video "
+"store and say the following to the guy working there:"
+msgstr ""
+
+msgctxt "144"
+msgid "\"You got the Mixed-bathing Hot Springs Special?\""
+msgstr ""
+
+msgctxt "156"
+msgid "I'm tellin' ya, it'll be worth your while."
+msgstr ""
+
+msgctxt "168"
+msgid ""
+"You'll just have to trust me on this one. After all, I'm rooting for ya big "
+"time!"
+msgstr ""
+
+msgctxt "180"
+msgid "What? What do you want? Ya haven't been to the video store yet?"
+msgstr ""
+
+msgctxt "192"
+msgid "Just go over to guy working there and say:"
+msgstr ""
+
+msgctxt "204"
+msgid "\"You got the Mixed-bathing Hot Springs Special?\""
+msgstr ""
+
+msgctxt "216"
+msgid ""
+"You'll just have to trust me on this one. After all, I'm rooting for ya big "
+"time!"
+msgstr ""
+
+msgctxt "1472"
+msgid "Man"
+msgstr ""
+
+msgctxt "1476"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "1480"
+msgid "Talk_Yes"
+msgstr ""

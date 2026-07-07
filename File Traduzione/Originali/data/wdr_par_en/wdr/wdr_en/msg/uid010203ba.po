@@ -1,0 +1,338 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "96"
+msgid "What are you doing here?"
+msgstr ""
+
+msgctxt "108"
+msgid ""
+"Truthfully, I've been wanting to pay this orphanage a visit\r\n"
+"for some time now."
+msgstr ""
+
+msgctxt "120"
+msgid ""
+"So of course, I didn't waste any time when Kiryu-san here\r\n"
+"invited me. I needed to see the children he clearly loves\r\n"
+"so much for myself."
+msgstr ""
+
+msgctxt "132"
+msgid ""
+"They'll certainly grow into fine young adults. Is it the\r\n"
+"environment? Or perhaps Kiryu-san's guiding hand?"
+msgstr ""
+
+msgctxt "144"
+msgid "What's your secret?"
+msgstr ""
+
+msgctxt "156"
+msgid ""
+"Honestly, I can't take that much credit. They're all really\r\n"
+"independent. I only step in when absolutely necessary."
+msgstr ""
+
+msgctxt "168"
+msgid "I see. You should take a page out of his book, Hashimoto."
+msgstr ""
+
+msgctxt "180"
+msgid "Yes, sir. I agree."
+msgstr ""
+
+msgctxt "192"
+msgid ""
+"Hey, what about Shiro!? He thinks he's better than all us\r\n"
+"regular kids 'cause he doesn't have parents!"
+msgstr ""
+
+msgctxt "204"
+msgid ""
+"Don't speak to him like that, young man! He didn't choose\r\n"
+"to be an orphan. None of these kids did."
+msgstr ""
+
+msgctxt "216"
+msgid ""
+"If you were really his friend, you would help him solve\r\n"
+"his problems, not make them worse."
+msgstr ""
+
+msgctxt "228"
+msgid "Whatever, you old fart!"
+msgstr ""
+
+msgctxt "240"
+msgid "Well I never! I feel sorry for that boy's parents."
+msgstr ""
+
+msgctxt "252"
+msgid "Though I'm sure being his teacher is hard enough, Hashimoto-sensei."
+msgstr ""
+
+msgctxt "264"
+msgid "Well... I should be going."
+msgstr ""
+
+msgctxt "288"
+msgid ""
+"I must say, Kiryu-san, it warms my heart to see how happy\r\n"
+"and healthy your children are. You have the full support of\r\n"
+"the city, I assure you."
+msgstr ""
+
+msgctxt "336"
+msgid "Oh, Akasaka-san."
+msgstr ""
+
+msgctxt "348"
+msgid ""
+"Good to see you again, Kiryu-san. I told you I'd stop by,\r\n"
+"didn't I?"
+msgstr ""
+
+msgctxt "360"
+msgid "Yeah, though I wasn't expecting it to be so soon..."
+msgstr ""
+
+msgctxt "372"
+msgid ""
+"Hahaha! Once an idea crosses my mind, I simply have to see\r\n"
+"it through as soon as possible!"
+msgstr ""
+
+msgctxt "384"
+msgid "Taichi in the house!"
+msgstr ""
+
+msgctxt "396"
+msgid "Yo, Uncle Kaz!"
+msgstr ""
+
+msgctxt "408"
+msgid "Hey, you forgot to say hello to our guest!"
+msgstr ""
+
+msgctxt "420"
+msgid "And take your shoes off before you go inside!"
+msgstr ""
+
+msgctxt "468"
+msgid "Hi, Uncle Kaz!"
+msgstr ""
+
+msgctxt "492"
+msgid "We're home!"
+msgstr ""
+
+msgctxt "504"
+msgid "You two have a good day at school?"
+msgstr ""
+
+msgctxt "528"
+msgid "Mhm! Oh, a guest!"
+msgstr ""
+
+msgctxt "552"
+msgid "Hi, Mister!"
+msgstr ""
+
+msgctxt "564"
+msgid "Hi!"
+msgstr ""
+
+msgctxt "576"
+msgid "Haha. Hello there, kids."
+msgstr ""
+
+msgctxt "588"
+msgid "Come on, Izumi-chan!"
+msgstr ""
+
+msgctxt "600"
+msgid "Okay!"
+msgstr ""
+
+msgctxt "612"
+msgid "Hahaha! Such energetic kids."
+msgstr ""
+
+msgctxt "648"
+msgid "Everything okay, Kiryu-san? You look kinda worried."
+msgstr ""
+
+msgctxt "660"
+msgid ""
+"Hi there, Miyara-san. It turns out Shiro's been getting\r\n"
+"bullied at school."
+msgstr ""
+
+msgctxt "672"
+msgid ""
+"What!? Who would go after a sweet kid like Shiro-kun?\r\n"
+"I'd like to give them a piece of my mind!"
+msgstr ""
+
+msgctxt "684"
+msgid ""
+"Well, it's a kid named Yoshinori... but his dad's the real\r\n"
+"problem. Apparently he's pretty tight with Akasaka-sensei."
+msgstr ""
+
+msgctxt "696"
+msgid ""
+"Meaning if I don't go about this the right way, they'll get\r\n"
+"city council to come shut my orphanage down."
+msgstr ""
+
+msgctxt "708"
+msgid "Really? That doesn't seem like the Akasaka-san I know."
+msgstr ""
+
+msgctxt "720"
+msgid "Wait, you know him?"
+msgstr ""
+
+msgctxt "732"
+msgid "Of course. He's famous 'round these parts."
+msgstr ""
+
+msgctxt "744"
+msgid ""
+"Well, as famous as a city councilman can be. Anyway, he's\r\n"
+"definitely the honest type, not the kind of guy to use his\r\n"
+"position to settle grudges."
+msgstr ""
+
+msgctxt "756"
+msgid ""
+"Why don't you go talk to him? He loves chatting with his\r\n"
+"constituents, so I'm sure he'd be willing."
+msgstr ""
+
+msgctxt "768"
+msgid ""
+"Even so, I can't just go marching into city hall over this.\r\n"
+"Maybe if there was somewhere else I could run into him..."
+msgstr ""
+
+msgctxt "780"
+msgid "Oh, why don't you try the golf course?"
+msgstr ""
+
+msgctxt "792"
+msgid "...Why the golf course?"
+msgstr ""
+
+msgctxt "804"
+msgid ""
+"That's where he spends most of his free time. They say he\r\n"
+"wouldn't be caught dead without his trusty set of clubs!"
+msgstr ""
+
+msgctxt "816"
+msgid ""
+"Apparently he loves it so much he forgets to eat sometimes!\r\n"
+"But golf balls can't fill an empty stomach, you know?"
+msgstr ""
+
+msgctxt "828"
+msgid "Huh. I wonder how even he finds time to work."
+msgstr ""
+
+msgctxt "840"
+msgid ""
+"Second that, Kiryu-san. Anyway, the monorail's the best way\r\n"
+"there. Just get off at <Color:7>Golf Course Station<Color:Default> and "
+"you're golden."
+msgstr ""
+
+msgctxt "852"
+msgid ""
+"Thanks a ton, Miyara-san. Time to go find out if those\r\n"
+"rumors are true."
+msgstr ""
+
+msgctxt "12344"
+msgid "Hashimoto"
+msgstr ""
+
+msgctxt "12348"
+msgid "Akasaka"
+msgstr ""
+
+msgctxt "12352"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "12356"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "12360"
+msgid "Yoshinori"
+msgstr ""
+
+msgctxt "12364"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "12368"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "12372"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "12376"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "12380"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "12384"
+msgid "Taichi"
+msgstr ""
+
+msgctxt "12388"
+msgid "Koji"
+msgstr ""
+
+msgctxt "12392"
+msgid "Eri"
+msgstr ""
+
+msgctxt "12396"
+msgid "Izumi"
+msgstr ""
+
+msgctxt "12400"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "12404"
+msgid "Miyara"
+msgstr ""
+
+msgctxt "12408"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "12412"
+msgid "Talk_Quest"
+msgstr ""

@@ -1,0 +1,44 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "156"
+msgid "(%s looks a little worn out over there...)"
+msgstr ""
+
+msgctxt "180"
+msgid "(%s... your service is second to none.)"
+msgstr ""
+
+msgctxt "204"
+msgid "(What's wrong, %s? You look pretty stressed...)"
+msgstr ""
+
+msgctxt "228"
+msgid "(Not bad, %s... You're really turning this place around.)"
+msgstr ""
+
+msgctxt "252"
+msgid "(You call that service? Then again... %s must be pretty stressed out...)"
+msgstr ""
+
+msgctxt "276"
+msgid "(That was some excellent service. %s is in proper form.)"
+msgstr ""
+
+msgctxt "1652"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1656"
+msgid "SetM_nml_sitsofa_nml_f_02"
+msgstr ""

@@ -1,0 +1,303 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "188"
+msgid ""
+"Shiro. Taichi told me all about what's been going on.\r\n"
+"Has the teacher's son really been bullying you?"
+msgstr ""
+
+msgctxt "200"
+msgid "...Yeah."
+msgstr ""
+
+msgctxt "212"
+msgid "Why didn't you tell me sooner?"
+msgstr ""
+
+msgctxt "224"
+msgid "......"
+msgstr ""
+
+msgctxt "236"
+msgid "Please, Shiro. I need you to talk to me."
+msgstr ""
+
+msgctxt "248"
+msgid "But Yoshinori... He said..."
+msgstr ""
+
+msgctxt "260"
+msgid ""
+"He said his dad plays golf with Akasaka-sensei from the\r\n"
+"city council."
+msgstr ""
+
+msgctxt "272"
+msgid ""
+"That he'd get them to shut Morning Glory down if I tattled\r\n"
+"on him..."
+msgstr ""
+
+msgctxt "284"
+msgid "Guess the apple doesn't fall far from the tree."
+msgstr ""
+
+msgctxt "308"
+msgid "It's okay, Shiro. Don't cry."
+msgstr ""
+
+msgctxt "320"
+msgid "I'm not crying! I'm just... frustrated."
+msgstr ""
+
+msgctxt "332"
+msgid ""
+"Yoshinori only picks on kids when he knows they're not\r\n"
+"gonna fight back... It's not right."
+msgstr ""
+
+msgctxt "344"
+msgid "Don't worry, Morning Glory's not going anywhere."
+msgstr ""
+
+msgctxt "356"
+msgid "Huh...?"
+msgstr ""
+
+msgctxt "368"
+msgid "I promise."
+msgstr ""
+
+msgctxt "380"
+msgid ""
+"So the next time he tries to mess with you, I want you to\r\n"
+"stand up for yourself. You hear me?"
+msgstr ""
+
+msgctxt "392"
+msgid "...Mhm."
+msgstr ""
+
+msgctxt "476"
+msgid ""
+"(I figured out why Shiro's so down... but that's not enough.\r\n"
+"I've gotta fix this somehow.)"
+msgstr ""
+
+msgctxt "500"
+msgid "Shiro."
+msgstr ""
+
+msgctxt "512"
+msgid "......"
+msgstr ""
+
+msgctxt "524"
+msgid "I want you to tell me what happened."
+msgstr ""
+
+msgctxt "536"
+msgid "......"
+msgstr ""
+
+msgctxt "548"
+msgid "You can trust me, Shiro."
+msgstr ""
+
+msgctxt "560"
+msgid "......"
+msgstr ""
+
+msgctxt "572"
+msgid ""
+"Please. All I want is for you to be happy. You and everyone\r\n"
+"else here."
+msgstr ""
+
+msgctxt "584"
+msgid ""
+"I'm not gonna just stand around doing nothing when you're\r\n"
+"so clearly in need of help."
+msgstr ""
+
+msgctxt "596"
+msgid "......"
+msgstr ""
+
+msgctxt "608"
+msgid "Come on, just tell me what's going on."
+msgstr ""
+
+msgctxt "620"
+msgid "...Is someone bullying you?"
+msgstr ""
+
+msgctxt "644"
+msgid "All right. I'll go have a talk with your school."
+msgstr ""
+
+msgctxt "656"
+msgid "You can't!"
+msgstr ""
+
+msgctxt "668"
+msgid ""
+"Why not? I already spoke to your teacher, but he wasn't\r\n"
+"a whole lot of help."
+msgstr ""
+
+msgctxt "680"
+msgid "......"
+msgstr ""
+
+msgctxt "692"
+msgid "Shiro..."
+msgstr ""
+
+msgctxt "716"
+msgid "You sure you're feeling all right, Shiro?"
+msgstr ""
+
+msgctxt "728"
+msgid "I said I'm fine."
+msgstr ""
+
+msgctxt "740"
+msgid "You don't seem fine."
+msgstr ""
+
+msgctxt "752"
+msgid "Ugh, why don't you listen!? Just leave me alone!"
+msgstr ""
+
+msgctxt "764"
+msgid "......"
+msgstr ""
+
+msgctxt "776"
+msgid "Hey there, Shiro. Everything okay?"
+msgstr ""
+
+msgctxt "788"
+msgid "...I'm fine."
+msgstr ""
+
+msgctxt "800"
+msgid ""
+"You don't look fine. Everyone else is having fun outside,\r\n"
+"but you're sitting in here all by yourself. Are you sure\r\n"
+"you're okay?"
+msgstr ""
+
+msgctxt "812"
+msgid "Just leave me alone."
+msgstr ""
+
+msgctxt "824"
+msgid "......"
+msgstr ""
+
+msgctxt "836"
+msgid "Does your stomach hurt?"
+msgstr ""
+
+msgctxt "848"
+msgid "Not really..."
+msgstr ""
+
+msgctxt "872"
+msgid "Did something happen at school?"
+msgstr ""
+
+msgctxt "884"
+msgid "No..."
+msgstr ""
+
+msgctxt "908"
+msgid "Does this have to do with a girl?"
+msgstr ""
+
+msgctxt "920"
+msgid "...What do you mean?"
+msgstr ""
+
+msgctxt "932"
+msgid "Well, you're at the age that boys start⑬"
+msgstr ""
+
+msgctxt "944"
+msgid "That's not it! Just leave me alone, okay!?"
+msgstr ""
+
+msgctxt "956"
+msgid "(Guess I was wrong.)"
+msgstr ""
+
+msgctxt "980"
+msgid ""
+"(Hm, doesn't look like he wants to talk. Maybe the other\r\n"
+"kids would know something.)"
+msgstr ""
+
+msgctxt "1004"
+msgid "Does your stomach hurt?"
+msgstr ""
+
+msgctxt "1016"
+msgid "Something happen at school?"
+msgstr ""
+
+msgctxt "1028"
+msgid "Does this have to do with a girl?"
+msgstr ""
+
+msgctxt "9768"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "9772"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "9776"
+msgid "Shiro"
+msgstr ""
+
+msgctxt "9780"
+msgid "C30_SetM_cld_sitgrd_talkB_yes"
+msgstr ""
+
+msgctxt "9784"
+msgid "P_stand_tlk_child_st"
+msgstr ""
+
+msgctxt "9788"
+msgid "C30_SetM_cld_sitgrd_talkB_no"
+msgstr ""
+
+msgctxt "9792"
+msgid "P_stand_tlk_child_ed"
+msgstr ""
+
+msgctxt "9796"
+msgid "M_cld_sitgrd_tlk_taiiku_lp"
+msgstr ""
+
+msgctxt "9800"
+msgid "ifc_jimaku_date_adv_yokujitu"
+msgstr ""
+
+msgctxt "9804"
+msgid "P_stand_tlk_child_yes"
+msgstr ""

@@ -1,0 +1,131 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "136"
+msgid "Dang blast it... Where could it possibly be?"
+msgstr ""
+
+msgctxt "148"
+msgid "Still haven't figured it out?"
+msgstr ""
+
+msgctxt "160"
+msgid "Oh, you're back..."
+msgstr ""
+
+msgctxt "172"
+msgid ""
+"Nobody seems to know what I'm talking about...\r\n"
+"I'm at my wit's end trying to figure this out."
+msgstr ""
+
+msgctxt "184"
+msgid ""
+"Please... Will you help an old man find his lost fortune?\r\n"
+"It's right here on this map, as I keep sayin'."
+msgstr ""
+
+msgctxt "196"
+msgid "Sorry. Maybe some other time."
+msgstr ""
+
+msgctxt "208"
+msgid ""
+"Not like there'll be another time... *sigh* But why should yeh believe me? "
+"A crazy old coot and his cockamamie war stories..."
+msgstr ""
+
+msgctxt "220"
+msgid "Never you mind. I'll find it myself somehow."
+msgstr ""
+
+msgctxt "280"
+msgid ""
+"Treasure hunting does sound like a nice diversion.\r\n"
+"Okay, I'll help you find what you're looking for."
+msgstr ""
+
+msgctxt "292"
+msgid ""
+"Many thanks, young man. Once we find this treasure, I'll\r\n"
+"make sure you get your share. I ain't the type to hog it.\r\n"
+"Can't live this long being selfish."
+msgstr ""
+
+msgctxt "304"
+msgid ""
+"Well then, here's a copy of the map.\r\n"
+"Let's split up and search."
+msgstr ""
+
+msgctxt "316"
+msgid "You got an <Color:8>Old Map Copy<Color:Default>."
+msgstr ""
+
+msgctxt "340"
+msgid ""
+"Name's Tabayashi, by the way. I'll give you my cell phone\r\n"
+"number, too. Give me a call if you find anything."
+msgstr ""
+
+msgctxt "352"
+msgid ""
+"Okay. I'm Kiryu, by the way. So all I have to do is follow\r\n"
+"this map?"
+msgstr ""
+
+msgctxt "364"
+msgid ""
+"Mhm. Make sure to call me when you find the treasure, too.\r\n"
+"Don't go pullin' any fast ones!"
+msgstr ""
+
+msgctxt "412"
+msgid "I'll help you, old man."
+msgstr ""
+
+msgctxt "424"
+msgid "Maybe some other time."
+msgstr ""
+
+msgctxt "3752"
+msgid "Troubled Old Man"
+msgstr ""
+
+msgctxt "3756"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "3760"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "3764"
+msgid "Talk_Request"
+msgstr ""
+
+msgctxt "3768"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "3772"
+msgid "Talk_Send"
+msgstr ""
+
+msgctxt "3776"
+msgid "Tabayashi"
+msgstr ""
+
+msgctxt "3780"
+msgid "Talk_Info_F"
+msgstr ""

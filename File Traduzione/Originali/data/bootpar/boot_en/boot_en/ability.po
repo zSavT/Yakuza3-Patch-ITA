@@ -1,0 +1,2802 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "594\tCATEGORY"
+msgid "Basic Controls"
+msgstr ""
+
+msgctxt "611\tCATEGORY"
+msgid "Basic Attacks"
+msgstr ""
+
+msgctxt "627\tCATEGORY"
+msgid "Basic Weapons"
+msgstr ""
+
+msgctxt "643\tCATEGORY"
+msgid "Soul Abilities"
+msgstr ""
+
+msgctxt "660\tCATEGORY"
+msgid "Tech Abilities"
+msgstr ""
+
+msgctxt "677\tCATEGORY"
+msgid "Body Abilities"
+msgstr ""
+
+msgctxt "694\tCATEGORY"
+msgid "Essence Abilities"
+msgstr ""
+
+msgctxt "714\tCATEGORY"
+msgid "Komaki Techniques"
+msgstr ""
+
+msgctxt "733\tCATEGORY"
+msgid "]IF7 Abilities"
+msgstr ""
+
+msgctxt "750\tCATEGORY"
+msgid "Yonashiro Weapons"
+msgstr ""
+
+msgctxt "770\tCATEGORY"
+msgid "Revelations"
+msgstr ""
+
+msgctxt "784\tCATEGORY"
+msgid "Ancient Techniques"
+msgstr ""
+
+msgctxt "805\tCATEGORY"
+msgid "All Heat Actions"
+msgstr ""
+
+msgctxt "822\tSKILL"
+msgid "Walk/Run"
+msgstr ""
+
+msgctxt "831\tSKILL"
+msgid "Fighting Stance"
+msgstr ""
+
+msgctxt "847\tSKILL"
+msgid "Grab Enemy"
+msgstr ""
+
+msgctxt "858\tSKILL"
+msgid "Grab Legs"
+msgstr ""
+
+msgctxt "868\tSKILL"
+msgid "Pull Up (fallen enemy)"
+msgstr ""
+
+msgctxt "891\tSKILL"
+msgid "Pick Up Weapon"
+msgstr ""
+
+msgctxt "906\tSKILL"
+msgid "Guard (bare hands)"
+msgstr ""
+
+msgctxt "925\tSKILL"
+msgid "Guard (weapon)"
+msgstr ""
+
+msgctxt "940\tSKILL"
+msgid "Quickstep"
+msgstr ""
+
+msgctxt "950\tSKILL"
+msgid "Recovery Stance"
+msgstr ""
+
+msgctxt "966\tSKILL"
+msgid "Taunt"
+msgstr ""
+
+msgctxt "972\tSKILL"
+msgid "Camera Controls"
+msgstr ""
+
+msgctxt "988\tSKILL"
+msgid "Reset Camera"
+msgstr ""
+
+msgctxt "1001\tSKILL"
+msgid "Rush Combo"
+msgstr ""
+
+msgctxt "1012\tSKILL"
+msgid "Finishing Blow"
+msgstr ""
+
+msgctxt "1027\tSKILL"
+msgid "Directional Attack"
+msgstr ""
+
+msgctxt "1046\tSKILL"
+msgid "Front Kick"
+msgstr ""
+
+msgctxt "1057\tSKILL"
+msgid "Charge Kick"
+msgstr ""
+
+msgctxt "1069\tSKILL"
+msgid "Back Kick"
+msgstr ""
+
+msgctxt "1079\tSKILL"
+msgid "Dropkick"
+msgstr ""
+
+msgctxt "1088\tSKILL"
+msgid "Grab Attack"
+msgstr ""
+
+msgctxt "1100\tSKILL"
+msgid "Spinning Grab Attack"
+msgstr ""
+
+msgctxt "1121\tSKILL"
+msgid "Throw Enemy"
+msgstr ""
+
+msgctxt "1133\tSKILL"
+msgid "Take Out Weapon"
+msgstr ""
+
+msgctxt "1149\tSKILL"
+msgid "Throw Weapon"
+msgstr ""
+
+msgctxt "1162\tSKILL"
+msgid "One-handed Weapons"
+msgstr ""
+
+msgctxt "1181\tSKILL"
+msgid "Spray Can Weapons"
+msgstr ""
+
+msgctxt "1199\tSKILL"
+msgid "Knives"
+msgstr ""
+
+msgctxt "1206\tSKILL"
+msgid "Japanese Katanas and Swords"
+msgstr ""
+
+msgctxt "1234\tSKILL"
+msgid "White Lotus Staff"
+msgstr ""
+
+msgctxt "1252\tSKILL"
+msgid "Pole Weapons"
+msgstr ""
+
+msgctxt "1265\tSKILL"
+msgid "Long Weapons"
+msgstr ""
+
+msgctxt "1278\tSKILL"
+msgid "Light Weapons"
+msgstr ""
+
+msgctxt "1292\tSKILL"
+msgid "Heavy Weapons"
+msgstr ""
+
+msgctxt "1306\tSKILL"
+msgid "Super Heavy Weapons"
+msgstr ""
+
+msgctxt "1326\tSKILL"
+msgid "Hammer Weapons"
+msgstr ""
+
+msgctxt "1341\tSKILL"
+msgid "Explosives"
+msgstr ""
+
+msgctxt "1352\tSKILL"
+msgid "Guns"
+msgstr ""
+
+msgctxt "1357\tSKILL"
+msgid "Increase Max Heat Gauge"
+msgstr ""
+
+msgctxt "1381\tSKILL"
+msgid "Phoenix Spirit"
+msgstr ""
+
+msgctxt "1396\tSKILL"
+msgid "Stability"
+msgstr ""
+
+msgctxt "1406\tSKILL"
+msgid "White Tiger Spirit"
+msgstr ""
+
+msgctxt "1425\tSKILL"
+msgid "Thunder God"
+msgstr ""
+
+msgctxt "1437\tSKILL"
+msgid "Tortoise Spirit"
+msgstr ""
+
+msgctxt "1453\tSKILL"
+msgid "True Stability"
+msgstr ""
+
+msgctxt "1468\tSKILL"
+msgid "Azure Dragon Spirit"
+msgstr ""
+
+msgctxt "1488\tSKILL"
+msgid "Wind God"
+msgstr ""
+
+msgctxt "1497\tSKILL"
+msgid "Golden Dragon Spirit"
+msgstr ""
+
+msgctxt "1518\tSKILL"
+msgid "Komaki Cat-Like Reflexes"
+msgstr ""
+
+msgctxt "1543\tSKILL"
+msgid "Rising Kick"
+msgstr ""
+
+msgctxt "1555\tSKILL"
+msgid "Speed Boost 1"
+msgstr ""
+
+msgctxt "1569\tSKILL"
+msgid "Lotus Flare Fist"
+msgstr ""
+
+msgctxt "1586\tSKILL"
+msgid "Double Finishing Blow"
+msgstr ""
+
+msgctxt "1608\tSKILL"
+msgid "Komaki Dodge Shot"
+msgstr ""
+
+msgctxt "1626\tSKILL"
+msgid "Speed Boost 2"
+msgstr ""
+
+msgctxt "1640\tSKILL"
+msgid "Knockdown Reversal"
+msgstr ""
+
+msgctxt "1659\tSKILL"
+msgid "Bounding Throw"
+msgstr ""
+
+msgctxt "1674\tSKILL"
+msgid "Kawauchi Release Throw"
+msgstr ""
+
+msgctxt "1697\tSKILL"
+msgid "Speed Boost 3"
+msgstr ""
+
+msgctxt "1711\tSKILL"
+msgid "Quickstep Cancel"
+msgstr ""
+
+msgctxt "1728\tSKILL"
+msgid "Increase Health Gauge Max"
+msgstr ""
+
+msgctxt "1754\tSKILL"
+msgid "Grab Escape 1"
+msgstr ""
+
+msgctxt "1768\tSKILL"
+msgid "Quick Stand 1"
+msgstr ""
+
+msgctxt "1782\tSKILL"
+msgid "Re-Guard"
+msgstr ""
+
+msgctxt "1791\tSKILL"
+msgid "Increase Throw Power"
+msgstr ""
+
+msgctxt "1812\tSKILL"
+msgid "Quick Stand 2"
+msgstr ""
+
+msgctxt "1826\tSKILL"
+msgid "Grab Escape 2"
+msgstr ""
+
+msgctxt "1840\tSKILL"
+msgid "Collateral Damage"
+msgstr ""
+
+msgctxt "1858\tSKILL"
+msgid "Red Heat Gauge 1"
+msgstr ""
+
+msgctxt "1875\tSKILL"
+msgid "Red Heat Gauge 2"
+msgstr ""
+
+msgctxt "1892\tSKILL"
+msgid "Red Heat Gauge 3"
+msgstr ""
+
+msgctxt "1909\tSKILL"
+msgid "Essence of Finishing"
+msgstr ""
+
+msgctxt "1930\tSKILL"
+msgid "Essence of Slamming"
+msgstr ""
+
+msgctxt "1950\tSKILL"
+msgid "Essence of Swinging"
+msgstr ""
+
+msgctxt "1970\tSKILL"
+msgid "Essence of Fear"
+msgstr ""
+
+msgctxt "1986\tSKILL"
+msgid "Essence of Head Bashing"
+msgstr ""
+
+msgctxt "2010\tSKILL"
+msgid "Extra Heat Attack 1"
+msgstr ""
+
+msgctxt "2030\tSKILL"
+msgid "Komaki Fist Reversal"
+msgstr ""
+
+msgctxt "2051\tSKILL"
+msgid "Komaki Firearm Flip"
+msgstr ""
+
+msgctxt "2071\tSKILL"
+msgid "Essence of Wreckage"
+msgstr ""
+
+msgctxt "2091\tSKILL"
+msgid "Extra Heat Attack 2"
+msgstr ""
+
+msgctxt "2111\tSKILL"
+msgid "Ultimate Essence"
+msgstr ""
+
+msgctxt "2128\tSKILL"
+msgid "Komaki Cat-Like Reflexes"
+msgstr ""
+
+msgctxt "2153\tSKILL"
+msgid "Komaki Dodge Shot"
+msgstr ""
+
+msgctxt "2171\tSKILL"
+msgid "Komaki Knock Back"
+msgstr ""
+
+msgctxt "2189\tSKILL"
+msgid "Komaki Tiger Drop"
+msgstr ""
+
+msgctxt "2207\tSKILL"
+msgid "Komaki Parry"
+msgstr ""
+
+msgctxt "2220\tSKILL"
+msgid "Komaki Daruma Tumbler"
+msgstr ""
+
+msgctxt "2242\tSKILL"
+msgid "Komaki Fist Reversal"
+msgstr ""
+
+msgctxt "2263\tSKILL"
+msgid "Komaki Firearm Flip"
+msgstr ""
+
+msgctxt "2283\tSKILL"
+msgid "Komaki Bowl Crusher"
+msgstr ""
+
+msgctxt "2303\tSKILL"
+msgid "Komaki Swordless Rebirth"
+msgstr ""
+
+msgctxt "2328\tSKILL"
+msgid "Komaki Dragon King Essence"
+msgstr ""
+
+msgctxt "2355\tSKILL"
+msgid "Fist Weapons"
+msgstr ""
+
+msgctxt "2368\tSKILL"
+msgid "Essence of Might"
+msgstr ""
+
+msgctxt "2385\tSKILL"
+msgid "Smoke Break"
+msgstr ""
+
+msgctxt "2397\tSKILL"
+msgid "True Lotus Flare Fist"
+msgstr ""
+
+msgctxt "2419\tSKILL"
+msgid "Dragon God Defense"
+msgstr ""
+
+msgctxt "2438\tSKILL"
+msgid "Asura Spirit"
+msgstr ""
+
+msgctxt "2451\tSKILL"
+msgid "Nunchaku"
+msgstr ""
+
+msgctxt "2460\tSKILL"
+msgid "Tonfa"
+msgstr ""
+
+msgctxt "2466\tSKILL"
+msgid "Kali Sticks"
+msgstr ""
+
+msgctxt "2478\tSKILL"
+msgid "Essence of Jumping"
+msgstr ""
+
+msgctxt "2497\tSKILL"
+msgid "Essence of Hurling"
+msgstr ""
+
+msgctxt "2516\tSKILL"
+msgid "Essence of Pole Dancing"
+msgstr ""
+
+msgctxt "2540\tSKILL"
+msgid "Super Finish: Knock Down"
+msgstr ""
+
+msgctxt "2565\tSKILL"
+msgid "Essence of Rolling"
+msgstr ""
+
+msgctxt "2584\tSKILL"
+msgid "Essence of Self-Destruction"
+msgstr ""
+
+msgctxt "2612\tSKILL"
+msgid "Essence of Reversal"
+msgstr ""
+
+msgctxt "2632\tSKILL"
+msgid "Essence of Terror"
+msgstr ""
+
+msgctxt "2650\tSKILL"
+msgid "Essence of Drunken Thrust"
+msgstr ""
+
+msgctxt "2676\tSKILL"
+msgid "Super Finish: Hell's Gauntlet"
+msgstr ""
+
+msgctxt "2706\tSKILL"
+msgid "Hidden Blade: Hook"
+msgstr ""
+
+msgctxt "2725\tSKILL"
+msgid "Hidden Blade: Raging Bull"
+msgstr ""
+
+msgctxt "2751\tSKILL"
+msgid "Finish Blade: Dancing Cat"
+msgstr ""
+
+msgctxt "2777\tSKILL"
+msgid "Finish Blade: Musashi"
+msgstr ""
+
+msgctxt "2799\tSKILL"
+msgid "Heavy Maul: Fly Swatter"
+msgstr ""
+
+msgctxt "2823\tSKILL"
+msgid "Dual Short Sword: Sly Wolf"
+msgstr ""
+
+msgctxt "2850\tSKILL"
+msgid "Terrain Essence"
+msgstr ""
+
+msgctxt "2866\tSKILL"
+msgid "Weapon Essence"
+msgstr ""
+
+msgctxt "2881\tSKILL"
+msgid "Essence of Finishing"
+msgstr ""
+
+msgctxt "2902\tSKILL"
+msgid "Essence of Slamming"
+msgstr ""
+
+msgctxt "2922\tSKILL"
+msgid "Essence of Swinging"
+msgstr ""
+
+msgctxt "2942\tSKILL"
+msgid "Essence of Fear"
+msgstr ""
+
+msgctxt "2958\tSKILL"
+msgid "Essence of Head Bashing"
+msgstr ""
+
+msgctxt "2982\tSKILL"
+msgid "Komaki Fist Reversal"
+msgstr ""
+
+msgctxt "3003\tSKILL"
+msgid "Komaki Firearm Flip"
+msgstr ""
+
+msgctxt "3023\tSKILL"
+msgid "Essence of Cornering"
+msgstr ""
+
+msgctxt "3044\tSKILL"
+msgid "Ultimate Essence"
+msgstr ""
+
+msgctxt "3061\tSKILL"
+msgid "Essence of Might"
+msgstr ""
+
+msgctxt "3078\tSKILL"
+msgid "Essence of Smoking"
+msgstr ""
+
+msgctxt "3097\tSKILL"
+msgid "Komaki Bowl Crusher"
+msgstr ""
+
+msgctxt "3117\tSKILL"
+msgid "Komaki Swordless Rebirth"
+msgstr ""
+
+msgctxt "3142\tSKILL"
+msgid "Komaki Dragon King Essence"
+msgstr ""
+
+msgctxt "3169\tSKILL"
+msgid "Essence of Jumping"
+msgstr ""
+
+msgctxt "3188\tSKILL"
+msgid "Essence of Hurling"
+msgstr ""
+
+msgctxt "3207\tSKILL"
+msgid "Essence of Self Destruction"
+msgstr ""
+
+msgctxt "3235\tSKILL"
+msgid "Essence of Pole Dancing"
+msgstr ""
+
+msgctxt "3259\tSKILL"
+msgid "Essence of Terror"
+msgstr ""
+
+msgctxt "3277\tSKILL"
+msgid "Essence of Reversing"
+msgstr ""
+
+msgctxt "3298\tSKILL"
+msgid "Essence of Rolling"
+msgstr ""
+
+msgctxt "3317\tSKILL"
+msgid "Essence of Drunken Thrust"
+msgstr ""
+
+msgctxt "3343\tSKILL"
+msgid "Super Finish: Head Press"
+msgstr ""
+
+msgctxt "3368\tSKILL"
+msgid "Super Finish: Knock Down"
+msgstr ""
+
+msgctxt "3393\tSKILL"
+msgid "Super Finish: Hell's Abyss"
+msgstr ""
+
+msgctxt "3420\tSKILL"
+msgid "Hidden Blade: Hook"
+msgstr ""
+
+msgctxt "3439\tSKILL"
+msgid "Hidden Blade: Raging Bull"
+msgstr ""
+
+msgctxt "3465\tSKILL"
+msgid "Finish Blade: Dancing Cat"
+msgstr ""
+
+msgctxt "3491\tSKILL"
+msgid "Finish Blade: Musashi"
+msgstr ""
+
+msgctxt "3513\tSKILL"
+msgid "Heavy Maul: Fly Swatter"
+msgstr ""
+
+msgctxt "3537\tSKILL"
+msgid "Kodachi: Sly Wolf"
+msgstr ""
+
+msgctxt "3788\tTIMING"
+msgid "Soul"
+msgstr ""
+
+msgctxt "3793\tTIMING"
+msgid "Soul"
+msgstr ""
+
+msgctxt "3798\tTIMING"
+msgid "Soul"
+msgstr ""
+
+msgctxt "3803\tTIMING"
+msgid "Soul"
+msgstr ""
+
+msgctxt "3808\tTIMING"
+msgid "Soul"
+msgstr ""
+
+msgctxt "3813\tTIMING"
+msgid "Soul"
+msgstr ""
+
+msgctxt "3818\tTIMING"
+msgid "Soul"
+msgstr ""
+
+msgctxt "3823\tTIMING"
+msgid "Soul"
+msgstr ""
+
+msgctxt "3828\tTIMING"
+msgid "Soul"
+msgstr ""
+
+msgctxt "3833\tTIMING"
+msgid "Soul"
+msgstr ""
+
+msgctxt "3838\tTIMING"
+msgid "Tech"
+msgstr ""
+
+msgctxt "3843\tTIMING"
+msgid "Tech"
+msgstr ""
+
+msgctxt "3848\tTIMING"
+msgid "Tech"
+msgstr ""
+
+msgctxt "3853\tTIMING"
+msgid "Tech"
+msgstr ""
+
+msgctxt "3858\tTIMING"
+msgid "Tech"
+msgstr ""
+
+msgctxt "3863\tTIMING"
+msgid "Tech"
+msgstr ""
+
+msgctxt "3868\tTIMING"
+msgid "Tech"
+msgstr ""
+
+msgctxt "3873\tTIMING"
+msgid "Tech"
+msgstr ""
+
+msgctxt "3878\tTIMING"
+msgid "Tech"
+msgstr ""
+
+msgctxt "3883\tTIMING"
+msgid "Tech"
+msgstr ""
+
+msgctxt "3888\tTIMING"
+msgid "Tech"
+msgstr ""
+
+msgctxt "3893\tTIMING"
+msgid "Tech"
+msgstr ""
+
+msgctxt "3898\tTIMING"
+msgid "Body"
+msgstr ""
+
+msgctxt "3903\tTIMING"
+msgid "Body"
+msgstr ""
+
+msgctxt "3908\tTIMING"
+msgid "Body"
+msgstr ""
+
+msgctxt "3913\tTIMING"
+msgid "Body"
+msgstr ""
+
+msgctxt "3918\tTIMING"
+msgid "Body"
+msgstr ""
+
+msgctxt "3923\tTIMING"
+msgid "Body"
+msgstr ""
+
+msgctxt "3928\tTIMING"
+msgid "Body"
+msgstr ""
+
+msgctxt "3933\tTIMING"
+msgid "Body"
+msgstr ""
+
+msgctxt "3938\tTIMING"
+msgid "Heat"
+msgstr ""
+
+msgctxt "3943\tTIMING"
+msgid "Heat"
+msgstr ""
+
+msgctxt "3948\tTIMING"
+msgid "Heat"
+msgstr ""
+
+msgctxt "3953\tTIMING"
+msgid "Heat"
+msgstr ""
+
+msgctxt "3958\tTIMING"
+msgid "Heat"
+msgstr ""
+
+msgctxt "3963\tTIMING"
+msgid "Heat"
+msgstr ""
+
+msgctxt "3968\tTIMING"
+msgid "Heat"
+msgstr ""
+
+msgctxt "3973\tTIMING"
+msgid "Heat"
+msgstr ""
+
+msgctxt "3978\tTIMING"
+msgid "Heat"
+msgstr ""
+
+msgctxt "3983\tTIMING"
+msgid "Heat"
+msgstr ""
+
+msgctxt "3988\tTIMING"
+msgid "Heat"
+msgstr ""
+
+msgctxt "3993\tTIMING"
+msgid "Heat"
+msgstr ""
+
+msgctxt "3998\tTIMING"
+msgid "Heat"
+msgstr ""
+
+msgctxt "4003\tTIMING"
+msgid "Heat"
+msgstr ""
+
+msgctxt "4008\tTIMING"
+msgid "Tech Lv. 2"
+msgstr ""
+
+msgctxt "4019\tTIMING"
+msgid "Tech Lv. 6"
+msgstr ""
+
+msgctxt "4030\tTIMING"
+msgid "From Komaki"
+msgstr ""
+
+msgctxt "4042\tTIMING"
+msgid "From Komaki"
+msgstr ""
+
+msgctxt "4054\tTIMING"
+msgid "From Komaki"
+msgstr ""
+
+msgctxt "4066\tTIMING"
+msgid "From Komaki"
+msgstr ""
+
+msgctxt "4078\tTIMING"
+msgid "Heat Lv. 7"
+msgstr ""
+
+msgctxt "4089\tTIMING"
+msgid "Heat Lv. 8"
+msgstr ""
+
+msgctxt "4100\tTIMING"
+msgid "From Komaki"
+msgstr ""
+
+msgctxt "4112\tTIMING"
+msgid "From Komaki"
+msgstr ""
+
+msgctxt "4124\tTIMING"
+msgid "From Komaki"
+msgstr ""
+
+msgctxt "4136\tTIMING"
+msgid "From IF7"
+msgstr ""
+
+msgctxt "4145\tTIMING"
+msgid "From IF7"
+msgstr ""
+
+msgctxt "4154\tTIMING"
+msgid "From IF7"
+msgstr ""
+
+msgctxt "4163\tTIMING"
+msgid "From IF7"
+msgstr ""
+
+msgctxt "4172\tTIMING"
+msgid "From IF7"
+msgstr ""
+
+msgctxt "4181\tTIMING"
+msgid "From IF7"
+msgstr ""
+
+msgctxt "4190\tTIMING"
+msgid "From Yonashiro"
+msgstr ""
+
+msgctxt "4205\tTIMING"
+msgid "From Yonashiro"
+msgstr ""
+
+msgctxt "4220\tTIMING"
+msgid "From Yonashiro"
+msgstr ""
+
+msgctxt "4235\tTIMING"
+msgid "Revelation"
+msgstr ""
+
+msgctxt "4246\tTIMING"
+msgid "Revelation"
+msgstr ""
+
+msgctxt "4257\tTIMING"
+msgid "Revelation"
+msgstr ""
+
+msgctxt "4268\tTIMING"
+msgid "Revelation"
+msgstr ""
+
+msgctxt "4279\tTIMING"
+msgid "Revelation"
+msgstr ""
+
+msgctxt "4290\tTIMING"
+msgid "Revelation"
+msgstr ""
+
+msgctxt "4301\tTIMING"
+msgid "Revelation"
+msgstr ""
+
+msgctxt "4312\tTIMING"
+msgid "Revelation"
+msgstr ""
+
+msgctxt "4323\tTIMING"
+msgid "Revelation"
+msgstr ""
+
+msgctxt "4334\tTIMING"
+msgid "Revelation"
+msgstr ""
+
+msgctxt "4345\tTIMING"
+msgid "From Texts"
+msgstr ""
+
+msgctxt "4356\tTIMING"
+msgid "From Texts"
+msgstr ""
+
+msgctxt "4367\tTIMING"
+msgid "From Texts"
+msgstr ""
+
+msgctxt "4378\tTIMING"
+msgid "From Texts"
+msgstr ""
+
+msgctxt "4389\tTIMING"
+msgid "From Texts"
+msgstr ""
+
+msgctxt "4400\tTIMING"
+msgid "From Texts"
+msgstr ""
+
+msgctxt "4413\tTIMING"
+msgid "Heat Lv. 2"
+msgstr ""
+
+msgctxt "4424\tTIMING"
+msgid "Heat Lv. 3"
+msgstr ""
+
+msgctxt "4435\tTIMING"
+msgid "Heat Lv. 4"
+msgstr ""
+
+msgctxt "4446\tTIMING"
+msgid "Heat Lv. 5"
+msgstr ""
+
+msgctxt "4457\tTIMING"
+msgid "Heat Lv. 6"
+msgstr ""
+
+msgctxt "4468\tTIMING"
+msgid "Heat Lv. 7"
+msgstr ""
+
+msgctxt "4479\tTIMING"
+msgid "Heat Lv. 8"
+msgstr ""
+
+msgctxt "4490\tTIMING"
+msgid "Heat Lv. 9"
+msgstr ""
+
+msgctxt "4501\tTIMING"
+msgid "Heat Lv. 10"
+msgstr ""
+
+msgctxt "4513\tTIMING"
+msgid "From IF7"
+msgstr ""
+
+msgctxt "4522\tTIMING"
+msgid "From IF7"
+msgstr ""
+
+msgctxt "4531\tTIMING"
+msgid "From Komaki"
+msgstr ""
+
+msgctxt "4543\tTIMING"
+msgid "From Komaki"
+msgstr ""
+
+msgctxt "4555\tTIMING"
+msgid "From Komaki"
+msgstr ""
+
+msgctxt "4567\tTIMING"
+msgid "Revelation"
+msgstr ""
+
+msgctxt "4578\tTIMING"
+msgid "Revelation"
+msgstr ""
+
+msgctxt "4589\tTIMING"
+msgid "Revelation"
+msgstr ""
+
+msgctxt "4600\tTIMING"
+msgid "Revelation"
+msgstr ""
+
+msgctxt "4611\tTIMING"
+msgid "Revelation"
+msgstr ""
+
+msgctxt "4622\tTIMING"
+msgid "Revelation"
+msgstr ""
+
+msgctxt "4633\tTIMING"
+msgid "Revelation"
+msgstr ""
+
+msgctxt "4644\tTIMING"
+msgid "Revelation"
+msgstr ""
+
+msgctxt "4656\tTIMING"
+msgid "Revelation"
+msgstr ""
+
+msgctxt "4667\tTIMING"
+msgid "Revelation"
+msgstr ""
+
+msgctxt "4678\tTIMING"
+msgid "From Texts"
+msgstr ""
+
+msgctxt "4689\tTIMING"
+msgid "From Texts"
+msgstr ""
+
+msgctxt "4700\tTIMING"
+msgid "From Texts"
+msgstr ""
+
+msgctxt "4711\tTIMING"
+msgid "From Texts"
+msgstr ""
+
+msgctxt "4722\tTIMING"
+msgid "From Texts"
+msgstr ""
+
+msgctxt "4733\tTIMING"
+msgid "From Texts"
+msgstr ""
+
+msgctxt "6169\tEXPLANATION"
+msgid ""
+"Use the "
+"<Action:Button_LS_Up@Adventure><Action:Button_LS_"
+"Down@Adventure><Action:Button_LS_Left@Adventure><Action:Button_LS_"
+"Right@Adventure> to walk and run."
+msgstr ""
+
+msgctxt "6326\tEXPLANATION"
+msgid ""
+"Lock on to enemies in front of you.\n"
+"Effective for concentrated attacks."
+msgstr ""
+
+msgctxt "6398\tEXPLANATION"
+msgid ""
+"Grab enemy in front of you to prevent movement.\n"
+"Some enemies can immediately escape your grasp."
+msgstr ""
+
+msgctxt "6494\tEXPLANATION"
+msgid ""
+"Grab the legs of a downed enemy.\n"
+"From here you can spin, throw, or kick them."
+msgstr ""
+
+msgctxt "6572\tEXPLANATION"
+msgid ""
+"Force a downed enemy onto his feet. Enemies pulled\n"
+"up while in agony will stand in a stunned state."
+msgstr ""
+
+msgctxt "6672\tEXPLANATION"
+msgid ""
+"Pick up a weapon with a <Action:Battle_Drop_Weapon@Combat> icon.\n"
+"Items can be thrown by pressing <Action:Battle_Drop_Weapon@Combat> again."
+msgstr ""
+
+msgctxt "6811\tEXPLANATION"
+msgid ""
+"Guard against attacks from the front. Blunt objects\n"
+"can be stopped. Knives and guns cannot."
+msgstr ""
+
+msgctxt "6903\tEXPLANATION"
+msgid ""
+"Guard against knife attacks from the front.\n"
+"Certain weapons can even block bullets."
+msgstr ""
+
+msgctxt "6987\tEXPLANATION"
+msgid ""
+"Evade attacks with agile footwork.\n"
+"Some grabs cannot be evaded."
+msgstr ""
+
+msgctxt "7051\tEXPLANATION"
+msgid ""
+"After certain attacks, increase Heat Gauge with\n"
+"Recovery Stance. Fight calmly to avoid defeat."
+msgstr ""
+
+msgctxt "7146\tEXPLANATION"
+msgid ""
+"Taunt to avoid lowering Heat gauge. Enhance\n"
+"performance by strengthening certain abilities."
+msgstr ""
+
+msgctxt "7238\tEXPLANATION"
+msgid ""
+"Move camera up, down, right, or left. Change the\n"
+"controls in Settings from the pause menu."
+msgstr ""
+
+msgctxt "7329\tEXPLANATION"
+msgid "Set the camera behind the character."
+msgstr ""
+
+msgctxt "7366\tEXPLANATION"
+msgid "A combo attack."
+msgstr ""
+
+msgctxt "7382\tEXPLANATION"
+msgid ""
+"A powerful finish for a Rush Combo.\n"
+"A must-have for dominating unarmed matches."
+msgstr ""
+
+msgctxt "7462\tEXPLANATION"
+msgid ""
+"Attack enemies to the sides and rear without taking\n"
+"a Fighting Stance."
+msgstr ""
+
+msgctxt "7533\tEXPLANATION"
+msgid ""
+"A high kick. Take a Fighting Stance to do a kick to\n"
+"your front. Can also kick away weapons."
+msgstr ""
+
+msgctxt "7625\tEXPLANATION"
+msgid ""
+"A kick thrown from a lower stance.\n"
+"Knocks down enemies and sends weapons flying."
+msgstr ""
+
+msgctxt "7706\tEXPLANATION"
+msgid ""
+"A backward kick for when an enemy is behind you.\n"
+"Kick away pests to deal with stronger enemies."
+msgstr ""
+
+msgctxt "7802\tEXPLANATION"
+msgid ""
+"A leaping kick performed from a run.\n"
+"A risky maneuver that requires precaution."
+msgstr ""
+
+msgctxt "7882\tEXPLANATION"
+msgid ""
+"Grab and attack an enemy. Keep hitting the enemy\n"
+"or hurl them into a group of other enemies."
+msgstr ""
+
+msgctxt "7975\tEXPLANATION"
+msgid ""
+"Attack when you are grabbing or are grabbed.\n"
+"Attack direction differs based on your stance."
+msgstr ""
+
+msgctxt "8067\tEXPLANATION"
+msgid ""
+"Grab and throw an enemy. Hurl them into others and\n"
+"thwart incoming attacks."
+msgstr ""
+
+msgctxt "8143\tEXPLANATION"
+msgid ""
+"Take out a weapon while fighting. Stuns some\n"
+"enemies. Change weapons from the pause menu."
+msgstr ""
+
+msgctxt "8233\tEXPLANATION"
+msgid ""
+"Pick up and throw weapons at enemies.\n"
+"The impact differs based on the weapon."
+msgstr ""
+
+msgctxt "8311\tEXPLANATION"
+msgid ""
+"Small weapons such as beer bottles.\n"
+"Some weapons can knock enemies out."
+msgstr ""
+
+msgctxt "8383\tEXPLANATION"
+msgid ""
+"Spray various substances in enemies' faces.\n"
+"Not very effective when used to hit enemies."
+msgstr ""
+
+msgctxt "8472\tEXPLANATION"
+msgid ""
+"All small-bladed weapons.\n"
+"Use for swift slashing attacks."
+msgstr ""
+
+msgctxt "8530\tEXPLANATION"
+msgid ""
+"All large-bladed weapons.\n"
+"Kicking with <Action:Battle_Drop_Weapon@Combat> will break an enemy's guard."
+msgstr ""
+
+msgctxt "8633\tEXPLANATION"
+msgid ""
+"Ancient staff technique learned from Granny White.\n"
+"Good for attacking the feet and defending."
+msgstr ""
+
+msgctxt "8727\tEXPLANATION"
+msgid ""
+"Uneven poles picked up in the city cannot be used\n"
+"as staves but can be swung to attack."
+msgstr ""
+
+msgctxt "8815\tEXPLANATION"
+msgid ""
+"Iron pipes, bats, and golf clubs. The <Action:Battle_Heavy_Attack@Combat> "
+"attack\n"
+"changes depending on the weapon's shape."
+msgstr ""
+
+msgctxt "8937\tEXPLANATION"
+msgid ""
+"Light weapons like beer cases that can be used\n"
+"to attack. Combo attacks briefly stun enemies."
+msgstr ""
+
+msgctxt "9031\tEXPLANATION"
+msgid ""
+"Heaviest objects among weapons that can be held\n"
+"such as neon signs. Spin and throw at enemies."
+msgstr ""
+
+msgctxt "9126\tEXPLANATION"
+msgid ""
+"Weapons too heavy to pick up.\n"
+"They can, however, be kicked at enemies."
+msgstr ""
+
+msgctxt "9197\tEXPLANATION"
+msgid ""
+"Hammer from a construction site. Attack by waving\n"
+"around. Portable ones are said to be available."
+msgstr ""
+
+msgctxt "9295\tEXPLANATION"
+msgid ""
+"Explosives or smoke-emitting devices.\n"
+"Make sure to take them away from enemies."
+msgstr ""
+
+msgctxt "9375\tEXPLANATION"
+msgid ""
+"Weapons such as handguns and shotguns.\n"
+"These can be reloaded at stores."
+msgstr ""
+
+msgctxt "9447\tEXPLANATION"
+msgid "Increases the maximum limit of your Heat Gauge."
+msgstr ""
+
+msgctxt "9495\tEXPLANATION"
+msgid ""
+"The phoenix's spirit automatically fills up the Heat\n"
+"Gauge if your health gauge is flashing red."
+msgstr ""
+
+msgctxt "9592\tEXPLANATION"
+msgid ""
+"First level in the art of balance. Makes it difficult\n"
+"to be knocked down when in Heat Mode."
+msgstr ""
+
+msgctxt "9684\tEXPLANATION"
+msgid ""
+"Taunt enemies with the spirit of the white tiger\n"
+"to boost morale and increase your Heat gauge."
+msgstr ""
+
+msgctxt "9779\tEXPLANATION"
+msgid ""
+"Thwart enemy attacks while running in Heat Mode\n"
+"with the tireless spirit of the Thunder God."
+msgstr ""
+
+msgctxt "9872\tEXPLANATION"
+msgid ""
+"Block enemy attacks with the spirit of the black\n"
+"tortoise to increase your Heat gauge."
+msgstr ""
+
+msgctxt "9959\tEXPLANATION"
+msgid ""
+"Mastery of the art of balance. Become even more\n"
+"difficult to knock down when in Heat Mode."
+msgstr ""
+
+msgctxt "10050\tEXPLANATION"
+msgid ""
+"Stay alive while in Heat Mode with the tireless\n"
+"strength of the azure dragon."
+msgstr ""
+
+msgctxt "10128\tEXPLANATION"
+msgid ""
+"Increase agility of Quickstep with the alacrity of\n"
+"the Wind God. Cannot use while holding weapons."
+msgstr ""
+
+msgctxt "10227\tEXPLANATION"
+msgid ""
+"Fully charge your energy with the spirit of the\n"
+"golden dragon to fill your Heat gauge."
+msgstr ""
+
+msgctxt "10314\tEXPLANATION"
+msgid ""
+"Swiftly return to your feet after being thrown.\n"
+"A Komaki technique for avoiding knockdown."
+msgstr ""
+
+msgctxt "10405\tEXPLANATION"
+msgid "A counterattack executed while downed."
+msgstr ""
+
+msgctxt "10444\tEXPLANATION"
+msgid "Boosts the speed of combo attacks."
+msgstr ""
+
+msgctxt "10479\tEXPLANATION"
+msgid ""
+"A Lotus Style fist attack that employs both body\n"
+"and soul. Strips enemy of spiritual strength."
+msgstr ""
+
+msgctxt "10574\tEXPLANATION"
+msgid "A devastating strike executed after a Finishing Blow."
+msgstr ""
+
+msgctxt "10628\tEXPLANATION"
+msgid ""
+"An attack executed while Quickstepping.\n"
+"Technique and effects differ based on direction."
+msgstr ""
+
+msgctxt "10717\tEXPLANATION"
+msgid "Boosts the speed of combo attacks."
+msgstr ""
+
+msgctxt "10752\tEXPLANATION"
+msgid ""
+"A counterattack executed after being knocked away.\n"
+"Use to get out of tight situations."
+msgstr ""
+
+msgctxt "10839\tEXPLANATION"
+msgid ""
+"A dynamic throw executed after a Finishing Blow.\n"
+"Using this move drains your Heat gauge."
+msgstr ""
+
+msgctxt "10928\tEXPLANATION"
+msgid ""
+"An ancient throw executed when surrounded by\n"
+"enemies. Cannot execute in certain situations."
+msgstr ""
+
+msgctxt "11020\tEXPLANATION"
+msgid "Boosts the speed of combo attacks."
+msgstr ""
+
+msgctxt "11055\tEXPLANATION"
+msgid ""
+"A Quickstep executed during a Rush Combo.\n"
+"Cannot be performed when in Heat mode."
+msgstr ""
+
+msgctxt "11136\tEXPLANATION"
+msgid "Increases the maximum limit of your health gauge."
+msgstr ""
+
+msgctxt "11186\tEXPLANATION"
+msgid ""
+"Escape from an enemy hold faster by enhancing\n"
+"your physical strength."
+msgstr ""
+
+msgctxt "11256\tEXPLANATION"
+msgid "Stand up faster after being knocked down."
+msgstr ""
+
+msgctxt "11298\tEXPLANATION"
+msgid ""
+"Swiftly regain your guard in tight situations where\n"
+"your guard has been broken."
+msgstr ""
+
+msgctxt "11378\tEXPLANATION"
+msgid "Increases the power of throws."
+msgstr ""
+
+msgctxt "11409\tEXPLANATION"
+msgid "Stand up faster after being knocked down."
+msgstr ""
+
+msgctxt "11451\tEXPLANATION"
+msgid ""
+"Escape from an enemy hold faster by enhancing\n"
+"your physical strength."
+msgstr ""
+
+msgctxt "11521\tEXPLANATION"
+msgid ""
+"Increases the damage inflicted on enemies who\n"
+"are hit by thrown enemies."
+msgstr ""
+
+msgctxt "11594\tEXPLANATION"
+msgid ""
+"Adds a red section to your Heat Gauge. Must fill to\n"
+"this section for especially strong techniques."
+msgstr ""
+
+msgctxt "11693\tEXPLANATION"
+msgid ""
+"Adds a second red Heat section. Must fill to the red\n"
+"sections for especially strong techniques."
+msgstr ""
+
+msgctxt "11789\tEXPLANATION"
+msgid ""
+"Adds a third red Heat section. Must fill to the red\n"
+"sections for especially strong techniques."
+msgstr ""
+
+msgctxt "11884\tEXPLANATION"
+msgid ""
+"A ruthless attack executed on a downed enemy.\n"
+"Can also be executed when holding a weapon."
+msgstr ""
+
+msgctxt "11974\tEXPLANATION"
+msgid ""
+"A brutal attack where you slam one enemy down\n"
+"onto another on the ground."
+msgstr ""
+
+msgctxt "12048\tEXPLANATION"
+msgid ""
+"Grab an enemy's legs and swing them around. Can\n"
+"also be used to swing an enemy into others."
+msgstr ""
+
+msgctxt "12140\tEXPLANATION"
+msgid ""
+"A secret move that catches enemies off guard. Holding\n"
+"your weapon is enough to strike fear into your foes."
+msgstr ""
+
+msgctxt "12247\tEXPLANATION"
+msgid ""
+"Take out two enemies by smashing their heads\n"
+"together. Effect depends on enemies' sizes."
+msgstr ""
+
+msgctxt "12336\tEXPLANATION"
+msgid ""
+"An additional attack for Heat Actions using\n"
+"walls, platforms, and Super Finishes."
+msgstr ""
+
+msgctxt "12418\tEXPLANATION"
+msgid ""
+"A flowing technique used against attacking enemies.\n"
+"Only works on weaker enemies."
+msgstr ""
+
+msgctxt "12500\tEXPLANATION"
+msgid ""
+"A technique used on enemies with guns. Repurposed\n"
+"by Komaki for modern times."
+msgstr ""
+
+msgctxt "12578\tEXPLANATION"
+msgid ""
+"An intense punching combo that can be executed\n"
+"when you are injured."
+msgstr ""
+
+msgctxt "12647\tEXPLANATION"
+msgid ""
+"An additional attack for Heat Actions using\n"
+"walls, platforms, and Super Finishes."
+msgstr ""
+
+msgctxt "12729\tEXPLANATION"
+msgid "An attack with immense power that belies its simplicity."
+msgstr ""
+
+msgctxt "12786\tEXPLANATION"
+msgid ""
+"Swiftly return to your feet after being thrown.\n"
+"A Komaki technique for avoiding knockdown."
+msgstr ""
+
+msgctxt "12877\tEXPLANATION"
+msgid ""
+"An attack executed while Quickstepping.\n"
+"Technique and effects differ based on direction."
+msgstr ""
+
+msgctxt "12966\tEXPLANATION"
+msgid ""
+"One of Komaki's Ultimate Three techniques.\n"
+"Send an enemy's attack right back at them."
+msgstr ""
+
+msgctxt "13052\tEXPLANATION"
+msgid ""
+"One of Komaki's Ultimate Three techniques.\n"
+"A counterattack with a tiger's power."
+msgstr ""
+
+msgctxt "13133\tEXPLANATION"
+msgid ""
+"The third and final of Komaki's Ultimate Three, but\n"
+"strangely enough, the Tiger Drop is more powerful."
+msgstr ""
+
+msgctxt "13236\tEXPLANATION"
+msgid ""
+"Roll after a Quickstep to evade attacks. Use it\n"
+"wisely as you will lose your chance to counter."
+msgstr ""
+
+msgctxt "13332\tEXPLANATION"
+msgid ""
+"A flowing technique used against attacking enemies.\n"
+"Only works on weaker enemies."
+msgstr ""
+
+msgctxt "13414\tEXPLANATION"
+msgid ""
+"A technique used on enemies with guns. Repurposed\n"
+"by Komaki for modern times."
+msgstr ""
+
+msgctxt "13492\tEXPLANATION"
+msgid ""
+"The oldest of Komaki's secret techniques.\n"
+"Crush an enemy's head against a platform."
+msgstr ""
+
+msgctxt "13576\tEXPLANATION"
+msgid ""
+"An ancient technique from the samurai era.\n"
+"Komaki later changed this to a non-deadly move."
+msgstr ""
+
+msgctxt "13667\tEXPLANATION"
+msgid ""
+"The last of Komaki's secret techniques.\n"
+"A finishing blow named for its immense power."
+msgstr ""
+
+msgctxt "13753\tEXPLANATION"
+msgid ""
+"Use fist weapons such as brass knuckles.\n"
+"Learned from the IF7 fight with Tamashiro."
+msgstr ""
+
+msgctxt "13837\tEXPLANATION"
+msgid ""
+"A huge pounding technique of brute force.\n"
+"Learned from Kanda's powerful moves in IF7."
+msgstr ""
+
+msgctxt "13923\tEXPLANATION"
+msgid ""
+"Smoke in front of an enemy to show them who is\n"
+"boss. Learned from Majima's battle laugh in IF7."
+msgstr ""
+
+msgctxt "14019\tEXPLANATION"
+msgid ""
+"A power increase for the Lotus Fist stance.\n"
+"Learned from the IF7 battle with Lau Ka Long."
+msgstr ""
+
+msgctxt "14109\tEXPLANATION"
+msgid ""
+"Guard against knife attacks with bare hands.\n"
+"Learned from the IF7 battle with Joji Kazama."
+msgstr ""
+
+msgctxt "14200\tEXPLANATION"
+msgid ""
+"Final ability gained from your spiritual battle.\n"
+"Depletes Heat Gauge but replenishes some health."
+msgstr ""
+
+msgctxt "14298\tEXPLANATION"
+msgid ""
+"Weapon from Okinawa with the fastest combo attacks.\n"
+"Useful against difficult enemies."
+msgstr ""
+
+msgctxt "14384\tEXPLANATION"
+msgid ""
+"A weapon from Okinawan martial arts. Useful for\n"
+"taking out enemies with pressing attacks."
+msgstr ""
+
+msgctxt "14474\tEXPLANATION"
+msgid ""
+"A weapon from the Philippines. Allows you to\n"
+"block attacks from all directions."
+msgstr ""
+
+msgctxt "14554\tEXPLANATION"
+msgid ""
+"Jump over rails and short objects to land a crushing\n"
+"blow. Inspired by a lady obsessed with a movie star."
+msgstr ""
+
+msgctxt "14660\tEXPLANATION"
+msgid ""
+"Teach an enemy to keep their hands to themselves.\n"
+"Inspired by a girl being grabbed by a drunk."
+msgstr ""
+
+msgctxt "14755\tEXPLANATION"
+msgid ""
+"Wrap around an enemy and bring them to the ground\n"
+"acrobatically. Inspired by a pole-dancing drunk."
+msgstr ""
+
+msgctxt "14854\tEXPLANATION"
+msgid ""
+"Use a boss enemy to wipe out nearby enemies.\n"
+"Inspired by a strike at a bowling alley."
+msgstr ""
+
+msgctxt "14940\tEXPLANATION"
+msgid ""
+"Launch out of a forward roll and into your opponent.\n"
+"Inspired by a pathetic guy at the batting center."
+msgstr ""
+
+msgctxt "15043\tEXPLANATION"
+msgid ""
+"Disarm a foe, then use their weapon to beat them into\n"
+"submission. Inspired by a guy delivering noodles."
+msgstr ""
+
+msgctxt "15147\tEXPLANATION"
+msgid ""
+"Surprise an opponent while you're knocked down.\n"
+"Inspired by an upset boy outside a toy store."
+msgstr ""
+
+msgctxt "15241\tEXPLANATION"
+msgid ""
+"Strike down your opponents with frightful speed.\n"
+"Inspired by a woman who was passing out tissues."
+msgstr ""
+
+msgctxt "15339\tEXPLANATION"
+msgid ""
+"Drunkenly avoid an attack, then retaliate with a\n"
+"shoulder thrust. Inspired by a drunk in Hatsumachi."
+msgstr ""
+
+msgctxt "15440\tEXPLANATION"
+msgid ""
+"A ferocious combo move. Inspired by a guy who\n"
+"experienced disaster because of a banana peel."
+msgstr ""
+
+msgctxt "15533\tEXPLANATION"
+msgid ""
+"One of Miyamoto Musashi's secret techniques.\n"
+"Reminiscent of a bird capturing its prey."
+msgstr ""
+
+msgctxt "15620\tEXPLANATION"
+msgid ""
+"One of Miyamoto Musashi's secret techniques.\n"
+"Reminiscent of a charging bull."
+msgstr ""
+
+msgctxt "15697\tEXPLANATION"
+msgid ""
+"One of Miyamoto Musashi's secret techniques.\n"
+"Reminiscent of a cat's nimble two-step leap."
+msgstr ""
+
+msgctxt "15787\tEXPLANATION"
+msgid ""
+"One of Miyamoto Musashi's secret techniques. Epitomizes\n"
+"the ferocity of his unique double-bladed style."
+msgstr ""
+
+msgctxt "15891\tEXPLANATION"
+msgid ""
+"One of Miyamoto Musashi's secret techniques.\n"
+"Swat down your foes as though they were but flies."
+msgstr ""
+
+msgctxt "15987\tEXPLANATION"
+msgid ""
+"One of Miyamoto Musashi's secret techniques.\n"
+"Reminiscent of a wolf's swift and accurate strike."
+msgstr ""
+
+msgctxt "16083\tEXPLANATION"
+msgid ""
+"A dynamic move that utilizes the terrain of where\n"
+"you are fighting. Basic secret technique."
+msgstr ""
+
+msgctxt "16175\tEXPLANATION"
+msgid ""
+"A flexible weapon attack. Extremely effective\n"
+"against enemies who you cannot grab."
+msgstr ""
+
+msgctxt "16258\tEXPLANATION"
+msgid ""
+"A ruthless attack executed on a downed enemy.\n"
+"Can also be executed when holding a weapon."
+msgstr ""
+
+msgctxt "16348\tEXPLANATION"
+msgid ""
+"A brutal attack where you slam one enemy down\n"
+"onto another on the ground."
+msgstr ""
+
+msgctxt "16422\tEXPLANATION"
+msgid ""
+"Grab an enemy's legs and swing them around. Can\n"
+"also be used to swing an enemy into others."
+msgstr ""
+
+msgctxt "16514\tEXPLANATION"
+msgid ""
+"A secret move that catches enemies off guard. Holding\n"
+"your weapon is enough to strike fear into your foes."
+msgstr ""
+
+msgctxt "16621\tEXPLANATION"
+msgid ""
+"Take out two enemies by smashing their heads\n"
+"together. Effect depends on enemies' sizes."
+msgstr ""
+
+msgctxt "16710\tEXPLANATION"
+msgid ""
+"A flowing technique used against attacking enemies.\n"
+"Only works on weaker enemies."
+msgstr ""
+
+msgctxt "16792\tEXPLANATION"
+msgid ""
+"A technique used on enemies with guns. Repurposed\n"
+"by Komaki for modern times."
+msgstr ""
+
+msgctxt "16870\tEXPLANATION"
+msgid ""
+"An intense punching combo that can be executed when\n"
+"you are injured."
+msgstr ""
+
+msgctxt "16939\tEXPLANATION"
+msgid "An attack with immense power that belies its simplicity."
+msgstr ""
+
+msgctxt "16996\tEXPLANATION"
+msgid ""
+"A huge pounding technique of brute force.\n"
+"Learned from Kanda's powerful moves in IF7."
+msgstr ""
+
+msgctxt "17082\tEXPLANATION"
+msgid ""
+"Anger enemies by having a smoke. A secret\n"
+"technique that takes advantage of their anger."
+msgstr ""
+
+msgctxt "17171\tEXPLANATION"
+msgid ""
+"The oldest of Komaki's secret techniques.\n"
+"Crush an enemy's head against a platform."
+msgstr ""
+
+msgctxt "17255\tEXPLANATION"
+msgid ""
+"An ancient technique from the samurai era.\n"
+"Komaki later changed this to a non-deadly move."
+msgstr ""
+
+msgctxt "17346\tEXPLANATION"
+msgid ""
+"The last of Komaki's secret techniques.\n"
+"A finishing blow named for its immense power."
+msgstr ""
+
+msgctxt "17432\tEXPLANATION"
+msgid ""
+"Jump over rails and short objects to land a crushing\n"
+"blow. Inspired by a lady obsessed with a movie star."
+msgstr ""
+
+msgctxt "17538\tEXPLANATION"
+msgid ""
+"Teach an enemy to keep their hands to themselves.\n"
+"Inspired by a girl being grabbed by a drunk."
+msgstr ""
+
+msgctxt "17633\tEXPLANATION"
+msgid ""
+"Disarm a foe, then use their weapon to beat them into\n"
+"submission. Inspired by a guy delivering noodles."
+msgstr ""
+
+msgctxt "17737\tEXPLANATION"
+msgid ""
+"Wrap around an enemy and bring them to the ground\n"
+"acrobatically. Inspired by a pole-dancing drunk."
+msgstr ""
+
+msgctxt "17836\tEXPLANATION"
+msgid ""
+"Strike down your opponents with frightful speed.\n"
+"Inspired by a woman passing out tissues."
+msgstr ""
+
+msgctxt "17926\tEXPLANATION"
+msgid ""
+"Surprise an opponent while you're knocked down.\n"
+"Inspired by an upset boy outside a toy store."
+msgstr ""
+
+msgctxt "18020\tEXPLANATION"
+msgid ""
+"Launch out of a forward roll and into your opponent.\n"
+"Inspired by a pathetic guy at the batting center."
+msgstr ""
+
+msgctxt "18123\tEXPLANATION"
+msgid ""
+"Drunkenly avoid an attack, then retaliate with a\n"
+"shoulder thrust. Inspired by a drunk in Hatsumachi."
+msgstr ""
+
+msgctxt "18224\tEXPLANATION"
+msgid "A basic combo for cornering strong enemies."
+msgstr ""
+
+msgctxt "18268\tEXPLANATION"
+msgid ""
+"Use a boss enemy to wipe out nearby enemies.\n"
+"Inspired by a strike at a bowling alley."
+msgstr ""
+
+msgctxt "18354\tEXPLANATION"
+msgid ""
+"A ferocious combo move. Inspired by a guy who\n"
+"experienced disaster because of a banana peel."
+msgstr ""
+
+msgctxt "18447\tEXPLANATION"
+msgid ""
+"One of Miyamoto Musashi's secret techniques.\n"
+"Reminiscent of a bird capturing its prey."
+msgstr ""
+
+msgctxt "18534\tEXPLANATION"
+msgid ""
+"One of Miyamoto Musashi's secret techniques.\n"
+"Reminiscent of a charging bull."
+msgstr ""
+
+msgctxt "18611\tEXPLANATION"
+msgid ""
+"One of Miyamoto Musashi's secret techniques.\n"
+"Reminiscent of a cat's nimble two-step leap."
+msgstr ""
+
+msgctxt "18701\tEXPLANATION"
+msgid ""
+"One of Miyamoto Musashi's secret techniques. Epitomizes\n"
+"the ferocity of his unique double-bladed style."
+msgstr ""
+
+msgctxt "18805\tEXPLANATION"
+msgid ""
+"One of Miyamoto Musashi's secret techniques.\n"
+"Swat down your foes as though they were but flies."
+msgstr ""
+
+msgctxt "18901\tEXPLANATION"
+msgid ""
+"One of Miyamoto Musashi's secret techniques.\n"
+"Reminiscent of a wolf's swift and accurate strike."
+msgstr ""
+
+msgctxt "19132\tCONTROL_EXPLANATION"
+msgid ""
+"<Action:Button_LS_Up@Adventure><Action:Button_LS_"
+"Down@Adventure><Action:Button_LS_Left@Adventure><Action:Button_LS_"
+"Right@Adventure>"
+msgstr ""
+
+msgctxt "19264\tCONTROL_EXPLANATION"
+msgid "<Action:Battle_Fight_Stance@Combat>"
+msgstr ""
+
+msgctxt "19300\tCONTROL_EXPLANATION"
+msgid "<Action:Battle_Drop_Weapon@Combat> near an enemy"
+msgstr ""
+
+msgctxt "19349\tCONTROL_EXPLANATION"
+msgid "<Action:Battle_Drop_Weapon@Combat> towards a downed enemy's legs"
+msgstr ""
+
+msgctxt "19414\tCONTROL_EXPLANATION"
+msgid "<Action:Battle_Drop_Weapon@Combat> towards a downed enemy's head"
+msgstr ""
+
+msgctxt "19479\tCONTROL_EXPLANATION"
+msgid ""
+"<Action:Battle_Drop_Weapon@Combat> near a weapon with "
+"<Action:Battle_Drop_Weapon@Combat> icon"
+msgstr ""
+
+msgctxt "19573\tCONTROL_EXPLANATION"
+msgid "<Action:Battle_Guard@Combat>"
+msgstr ""
+
+msgctxt "19602\tCONTROL_EXPLANATION"
+msgid "<Action:Battle_Guard@Combat>"
+msgstr ""
+
+msgctxt "19631\tCONTROL_EXPLANATION"
+msgid "<Action:Battle_Dodge@Combat>"
+msgstr ""
+
+msgctxt "19660\tCONTROL_EXPLANATION"
+msgid "Repeat last button in certain attacks"
+msgstr ""
+
+msgctxt "19698\tCONTROL_EXPLANATION"
+msgid "<Action:Battle_Extreme_Heat@Combat> while facing a nearby enemy"
+msgstr ""
+
+msgctxt "19762\tCONTROL_EXPLANATION"
+msgid ""
+"<Action:Turn_Camera_Up@Adventure><Action:Turn_Camera_"
+"Down@Adventure><Action:Turn_Camera_Left@Adventure><Action:Turn_Camera_"
+"Right@Adventure>"
+msgstr ""
+
+msgctxt "19902\tCONTROL_EXPLANATION"
+msgid "<Action:Battle_Center_Camera@Combat>"
+msgstr ""
+
+msgctxt "19939\tCONTROL_EXPLANATION"
+msgid "Repeatedly press <Action:Battle_Normal_Attack@Combat>"
+msgstr ""
+
+msgctxt "19993\tCONTROL_EXPLANATION"
+msgid "<Action:Battle_Heavy_Attack@Combat> after a Rush Combo"
+msgstr ""
+
+msgctxt "20048\tCONTROL_EXPLANATION"
+msgid ""
+"<Action:Move_Forward@Combat><Action:Move_Back@Combat><Action:Move_"
+"Left@Combat><Action:Move_Right@Combat> + attack without Fighting Stance"
+msgstr ""
+
+msgctxt "20186\tCONTROL_EXPLANATION"
+msgid "<Action:Battle_Heavy_Attack@Combat>"
+msgstr ""
+
+msgctxt "20222\tCONTROL_EXPLANATION"
+msgid "Hold <Action:Battle_Heavy_Attack@Combat>"
+msgstr ""
+
+msgctxt "20263\tCONTROL_EXPLANATION"
+msgid ""
+"<Action:Move_Back@Combat> + <Action:Battle_Heavy_Attack@Combat> in Fighting "
+"Stance"
+msgstr ""
+
+msgctxt "20346\tCONTROL_EXPLANATION"
+msgid "<Action:Battle_Heavy_Attack@Combat> while running"
+msgstr ""
+
+msgctxt "20396\tCONTROL_EXPLANATION"
+msgid ""
+"Grab enemy and press <Action:Battle_Normal_Attack@Combat> or "
+"<Action:Battle_Heavy_Attack@Combat>"
+msgstr ""
+
+msgctxt "20493\tCONTROL_EXPLANATION"
+msgid "<Action:Battle_Normal_Attack@Combat> when grabbed/grabbing"
+msgstr ""
+
+msgctxt "20552\tCONTROL_EXPLANATION"
+msgid "Grab enemy and press <Action:Battle_Drop_Weapon@Combat>"
+msgstr ""
+
+msgctxt "20608\tCONTROL_EXPLANATION"
+msgid ""
+"Use "
+"<Action:Battle_Pull_Weapon_Up@Combat><Action:Battle_Hide_"
+"Weapon@Combat><Action:Battle_Pull_Weapon_Left@Combat><Action:Battle_Pull_"
+"Weapon_Right@Combat>"
+msgstr ""
+
+msgctxt "20763\tCONTROL_EXPLANATION"
+msgid "<Action:Battle_Drop_Weapon@Combat> using an acquired weapon"
+msgstr ""
+
+msgctxt "20823\tCONTROL_EXPLANATION"
+msgid ""
+"<Action:Battle_Drop_Weapon@Combat><Action:Battle_"
+"Dodge@Combat><Action:Battle_Heavy_Attack@Combat><Action:Battle_Normal_"
+"Attack@Combat> etc."
+msgstr ""
+
+msgctxt "20962\tCONTROL_EXPLANATION"
+msgid ""
+"<Action:Battle_Drop_Weapon@Combat><Action:Battle_"
+"Dodge@Combat><Action:Battle_Heavy_Attack@Combat><Action:Battle_Normal_"
+"Attack@Combat> etc."
+msgstr ""
+
+msgctxt "21101\tCONTROL_EXPLANATION"
+msgid ""
+"<Action:Battle_Drop_Weapon@Combat><Action:Battle_"
+"Dodge@Combat><Action:Battle_Heavy_Attack@Combat><Action:Battle_Normal_"
+"Attack@Combat> etc."
+msgstr ""
+
+msgctxt "21240\tCONTROL_EXPLANATION"
+msgid ""
+"<Action:Battle_Drop_Weapon@Combat><Action:Battle_"
+"Dodge@Combat><Action:Battle_Heavy_Attack@Combat><Action:Battle_Normal_"
+"Attack@Combat> etc."
+msgstr ""
+
+msgctxt "21379\tCONTROL_EXPLANATION"
+msgid ""
+"<Action:Battle_Drop_Weapon@Combat><Action:Battle_"
+"Dodge@Combat><Action:Battle_Heavy_Attack@Combat><Action:Battle_Normal_"
+"Attack@Combat> etc."
+msgstr ""
+
+msgctxt "21518\tCONTROL_EXPLANATION"
+msgid ""
+"<Action:Battle_Drop_Weapon@Combat><Action:Battle_"
+"Dodge@Combat><Action:Battle_Heavy_Attack@Combat><Action:Battle_Normal_"
+"Attack@Combat> etc."
+msgstr ""
+
+msgctxt "21657\tCONTROL_EXPLANATION"
+msgid ""
+"<Action:Battle_Drop_Weapon@Combat><Action:Battle_"
+"Dodge@Combat><Action:Battle_Heavy_Attack@Combat><Action:Battle_Normal_"
+"Attack@Combat> etc."
+msgstr ""
+
+msgctxt "21796\tCONTROL_EXPLANATION"
+msgid ""
+"<Action:Battle_Drop_Weapon@Combat><Action:Battle_"
+"Dodge@Combat><Action:Battle_Heavy_Attack@Combat><Action:Battle_Normal_"
+"Attack@Combat> etc."
+msgstr ""
+
+msgctxt "21935\tCONTROL_EXPLANATION"
+msgid ""
+"<Action:Battle_Drop_Weapon@Combat><Action:Battle_"
+"Dodge@Combat><Action:Battle_Heavy_Attack@Combat><Action:Battle_Normal_"
+"Attack@Combat> etc."
+msgstr ""
+
+msgctxt "22074\tCONTROL_EXPLANATION"
+msgid ""
+"<Action:Battle_Drop_Weapon@Combat><Action:Battle_"
+"Dodge@Combat><Action:Battle_Heavy_Attack@Combat><Action:Battle_Normal_"
+"Attack@Combat> etc."
+msgstr ""
+
+msgctxt "22213\tCONTROL_EXPLANATION"
+msgid ""
+"<Action:Battle_Drop_Weapon@Combat><Action:Battle_"
+"Dodge@Combat><Action:Battle_Heavy_Attack@Combat><Action:Battle_Normal_"
+"Attack@Combat> etc."
+msgstr ""
+
+msgctxt "22352\tCONTROL_EXPLANATION"
+msgid "Explodes when thrown using <Action:Battle_Drop_Weapon@Combat>"
+msgstr ""
+
+msgctxt "22414\tCONTROL_EXPLANATION"
+msgid "Shoot using <Action:Battle_Heavy_Attack@Combat>"
+msgstr ""
+
+msgctxt "22462\tCONTROL_EXPLANATION"
+msgid "Enhances Heat Gauge"
+msgstr ""
+
+msgctxt "22482\tCONTROL_EXPLANATION"
+msgid ""
+"Activated when <Color:255,255,150,255>health gauge is flashing "
+"red<Color:Default>"
+msgstr ""
+
+msgctxt "22564\tCONTROL_EXPLANATION"
+msgid "Activated when in Heat Mode"
+msgstr ""
+
+msgctxt "22592\tCONTROL_EXPLANATION"
+msgid "<Action:Battle_Extreme_Heat@Combat> while facing a nearby enemy"
+msgstr ""
+
+msgctxt "22656\tCONTROL_EXPLANATION"
+msgid "Activated when in Heat Mode"
+msgstr ""
+
+msgctxt "22684\tCONTROL_EXPLANATION"
+msgid "Activated after successful guard with <Action:Battle_Guard@Combat>"
+msgstr ""
+
+msgctxt "22751\tCONTROL_EXPLANATION"
+msgid "Activated when in Heat Mode"
+msgstr ""
+
+msgctxt "22779\tCONTROL_EXPLANATION"
+msgid ""
+"Activated in Heat Mode if <Color:255,255,150,255>health is "
+"flashing<Color:Default>"
+msgstr ""
+
+msgctxt "22862\tCONTROL_EXPLANATION"
+msgid "<Action:Battle_Dodge@Combat> to Quickstep when not in Heat mode"
+msgstr ""
+
+msgctxt "22926\tCONTROL_EXPLANATION"
+msgid "Hold <Action:Battle_Extreme_Heat@Combat> when close to an enemy"
+msgstr ""
+
+msgctxt "22990\tCONTROL_EXPLANATION"
+msgid "<Action:Battle_Dodge@Combat> while emitting white energy in flight"
+msgstr ""
+
+msgctxt "23057\tCONTROL_EXPLANATION"
+msgid "<Action:Battle_Normal_Attack@Combat> when down"
+msgstr ""
+
+msgctxt "23104\tCONTROL_EXPLANATION"
+msgid "Enhances all actions"
+msgstr ""
+
+msgctxt "23125\tCONTROL_EXPLANATION"
+msgid "Hold <Action:Battle_Heavy_Attack@Combat> longer than a Charge Kick"
+msgstr ""
+
+msgctxt "23192\tCONTROL_EXPLANATION"
+msgid "<Action:Battle_Heavy_Attack@Combat> after a Finishing Blow"
+msgstr ""
+
+msgctxt "23251\tCONTROL_EXPLANATION"
+msgid "<Action:Battle_Heavy_Attack@Combat> while Quickstepping"
+msgstr ""
+
+msgctxt "23307\tCONTROL_EXPLANATION"
+msgid "Mainly accelerates unarmed attacks"
+msgstr ""
+
+msgctxt "23342\tCONTROL_EXPLANATION"
+msgid "<Action:Battle_Heavy_Attack@Combat> while emitting white energy in flight"
+msgstr ""
+
+msgctxt "23416\tCONTROL_EXPLANATION"
+msgid "<Action:Battle_Drop_Weapon@Combat> after a Finishing Blow in Heat mode"
+msgstr ""
+
+msgctxt "23487\tCONTROL_EXPLANATION"
+msgid "Repeatedly tap <Action:Battle_Drop_Weapon@Combat> when surrounded"
+msgstr ""
+
+msgctxt "23553\tCONTROL_EXPLANATION"
+msgid "Mainly accelerates unarmed attacks"
+msgstr ""
+
+msgctxt "23588\tCONTROL_EXPLANATION"
+msgid "<Action:Battle_Dodge@Combat> during Rush Combo when not in Heat mode"
+msgstr ""
+
+msgctxt "23657\tCONTROL_EXPLANATION"
+msgid "Enhances health gauge"
+msgstr ""
+
+msgctxt "23679\tCONTROL_EXPLANATION"
+msgid "Repeatedly tap <Action:Battle_Dodge@Combat> when grabbed"
+msgstr ""
+
+msgctxt "23736\tCONTROL_EXPLANATION"
+msgid "Tap <Action:Battle_Dodge@Combat> as fast as possible"
+msgstr ""
+
+msgctxt "23789\tCONTROL_EXPLANATION"
+msgid "<Action:Battle_Guard@Combat> when your guard is broken"
+msgstr ""
+
+msgctxt "23844\tCONTROL_EXPLANATION"
+msgid "Grab enemy and press <Action:Battle_Drop_Weapon@Combat>"
+msgstr ""
+
+msgctxt "23900\tCONTROL_EXPLANATION"
+msgid "Tap <Action:Battle_Dodge@Combat> as fast as possible"
+msgstr ""
+
+msgctxt "23953\tCONTROL_EXPLANATION"
+msgid "Repeatedly tap <Action:Battle_Dodge@Combat> when grabbed"
+msgstr ""
+
+msgctxt "24010\tCONTROL_EXPLANATION"
+msgid "Grab enemy and press <Action:Battle_Drop_Weapon@Combat>"
+msgstr ""
+
+msgctxt "24066\tCONTROL_EXPLANATION"
+msgid "Adds red section to Heat Gauge"
+msgstr ""
+
+msgctxt "24097\tCONTROL_EXPLANATION"
+msgid "Adds second red section to Heat Gauge"
+msgstr ""
+
+msgctxt "24135\tCONTROL_EXPLANATION"
+msgid "Adds a third red section to Heat Gauge"
+msgstr ""
+
+msgctxt "24174\tCONTROL_EXPLANATION"
+msgid ""
+"<Action:Battle_Heavy_Attack@Combat> <Color:109,193,240,255>near a downed "
+"enemy<Color:Default>"
+msgstr ""
+
+msgctxt "24268\tCONTROL_EXPLANATION"
+msgid ""
+"<Color:109,193,240,255>Grab an enemy and press<Color:Default> "
+"<Action:Battle_Heavy_Attack@Combat> <Color:109,193,240,255>near a downed "
+"enemy<Color:Default>"
+msgstr ""
+
+msgctxt "24424\tCONTROL_EXPLANATION"
+msgid ""
+"<Action:Battle_Heavy_Attack@Combat> <Color:109,193,240,255>in various "
+"places while grabbing foe's legs<Color:Default>"
+msgstr ""
+
+msgctxt "24542\tCONTROL_EXPLANATION"
+msgid ""
+"<Action:Battle_Heavy_Attack@Combat> <Color:109,193,240,255>near a scared "
+"enemy with a weapon<Color:Default>"
+msgstr ""
+
+msgctxt "24650\tCONTROL_EXPLANATION"
+msgid ""
+"<Color:255,100,100,255>Grab an enemy and<Color:Default> "
+"<Action:Battle_Heavy_Attack@Combat> <Color:255,100,100,255>near other "
+"enemies<Color:Default>"
+msgstr ""
+
+msgctxt "24799\tCONTROL_EXPLANATION"
+msgid "<Color:109,193,240,255>Press the button displayed<Color:Default>"
+msgstr ""
+
+msgctxt "24864\tCONTROL_EXPLANATION"
+msgid ""
+"<Action:Battle_Heavy_Attack@Combat> <Color:109,193,240,255>against unarmed "
+"attack w/o Fighting Stance<Color:Default>"
+msgstr ""
+
+msgctxt "24981\tCONTROL_EXPLANATION"
+msgid ""
+"<Action:Battle_Heavy_Attack@Combat> <Color:109,193,240,255>near an enemy "
+"with a gun<Color:Default>"
+msgstr ""
+
+msgctxt "25080\tCONTROL_EXPLANATION"
+msgid ""
+"<Action:Battle_Heavy_Attack@Combat> <Color:109,193,240,255>near downed "
+"enemy<Color:Default> <Color:255,255,150,255>when health is "
+"flashing<Color:Default>"
+msgstr ""
+
+msgctxt "25234\tCONTROL_EXPLANATION"
+msgid "<Color:109,193,240,255>Press the button displayed<Color:Default>"
+msgstr ""
+
+msgctxt "25299\tCONTROL_EXPLANATION"
+msgid ""
+"<Action:Battle_Heavy_Attack@Combat> <Color:255,100,100,255>near a knocked "
+"out enemy<Color:Default>"
+msgstr ""
+
+msgctxt "25398\tCONTROL_EXPLANATION"
+msgid "<Action:Battle_Dodge@Combat> while in mid-air"
+msgstr ""
+
+msgctxt "25444\tCONTROL_EXPLANATION"
+msgid "<Action:Battle_Heavy_Attack@Combat> while Quickstepping"
+msgstr ""
+
+msgctxt "25500\tCONTROL_EXPLANATION"
+msgid ""
+"<Action:Battle_Guard@Combat> to guard attack and then "
+"<Action:Battle_Heavy_Attack@Combat>"
+msgstr ""
+
+msgctxt "25590\tCONTROL_EXPLANATION"
+msgid ""
+"Stance with <Action:Battle_Fight_Stance@Combat>, then "
+"<Action:Battle_Heavy_Attack@Combat> when enemy attacks"
+msgstr ""
+
+msgctxt "25699\tCONTROL_EXPLANATION"
+msgid ""
+"Stance with <Action:Battle_Fight_Stance@Combat>, then "
+"<Action:Battle_Drop_Weapon@Combat> when enemy punches"
+msgstr ""
+
+msgctxt "25807\tCONTROL_EXPLANATION"
+msgid "<Action:Battle_Dodge@Combat> while Quickstepping"
+msgstr ""
+
+msgctxt "25856\tCONTROL_EXPLANATION"
+msgid ""
+"<Action:Battle_Heavy_Attack@Combat> <Color:109,193,240,255>against unarmed "
+"attack w/o Fighting Stance<Color:Default>"
+msgstr ""
+
+msgctxt "25973\tCONTROL_EXPLANATION"
+msgid ""
+"<Action:Battle_Heavy_Attack@Combat> <Color:109,193,240,255>near an enemy "
+"with a gun<Color:Default>"
+msgstr ""
+
+msgctxt "26072\tCONTROL_EXPLANATION"
+msgid ""
+"<Color:109,193,240,255>Grab enemy and<Color:Default> "
+"<Action:Battle_Heavy_Attack@Combat> <Color:109,193,240,255>near a low "
+"platform<Color:Default>"
+msgstr ""
+
+msgctxt "26219\tCONTROL_EXPLANATION"
+msgid ""
+"<Action:Battle_Heavy_Attack@Combat> <Color:109,193,240,255>against sword "
+"attacks while unarmed<Color:Default>"
+msgstr ""
+
+msgctxt "26329\tCONTROL_EXPLANATION"
+msgid ""
+"<Action:Battle_Heavy_Attack@Combat> <Color:255,100,100,255>on an enemy "
+"dazed from a Komaki Parry<Color:Default>"
+msgstr ""
+
+msgctxt "26441\tCONTROL_EXPLANATION"
+msgid ""
+"<Action:Battle_Drop_Weapon@Combat><Action:Battle_"
+"Dodge@Combat><Action:Battle_Heavy_Attack@Combat><Action:Battle_Normal_"
+"Attack@Combat> etc."
+msgstr ""
+
+msgctxt "26580\tCONTROL_EXPLANATION"
+msgid ""
+"<Color:255,100,100,255>Grab enemy and press<Color:Default> "
+"<Action:Battle_Heavy_Attack@Combat>"
+msgstr ""
+
+msgctxt "26675\tCONTROL_EXPLANATION"
+msgid "Press the <Action:Battle_Hide_Weapon@Combat> while unarmed."
+msgstr ""
+
+msgctxt "26735\tCONTROL_EXPLANATION"
+msgid "Hold <Action:Battle_Heavy_Attack@Combat> when using Lotus Flare Fist"
+msgstr ""
+
+msgctxt "26804\tCONTROL_EXPLANATION"
+msgid "<Action:Battle_Guard@Combat> when in Heat mode"
+msgstr ""
+
+msgctxt "26851\tCONTROL_EXPLANATION"
+msgid ""
+"<Action:Button_L3@Combat><Action:Button_R3@Combat> together in Heat Mode if "
+"<Color:255,255,150,255>health is flashing<Color:Default>"
+msgstr ""
+
+msgctxt "26984\tCONTROL_EXPLANATION"
+msgid ""
+"<Action:Battle_Drop_Weapon@Combat><Action:Battle_"
+"Dodge@Combat><Action:Battle_Heavy_Attack@Combat><Action:Battle_Normal_"
+"Attack@Combat> etc."
+msgstr ""
+
+msgctxt "27123\tCONTROL_EXPLANATION"
+msgid ""
+"<Action:Battle_Drop_Weapon@Combat><Action:Battle_"
+"Dodge@Combat><Action:Battle_Heavy_Attack@Combat><Action:Battle_Normal_"
+"Attack@Combat> etc."
+msgstr ""
+
+msgctxt "27262\tCONTROL_EXPLANATION"
+msgid ""
+"<Action:Battle_Drop_Weapon@Combat><Action:Battle_"
+"Dodge@Combat><Action:Battle_Heavy_Attack@Combat><Action:Battle_Normal_"
+"Attack@Combat> etc."
+msgstr ""
+
+msgctxt "27401\tCONTROL_EXPLANATION"
+msgid ""
+"<Action:Battle_Heavy_Attack@Combat> <Color:109,193,240,255>when a fence "
+"separates you and an enemy<Color:Default>"
+msgstr ""
+
+msgctxt "27515\tCONTROL_EXPLANATION"
+msgid ""
+"<Action:Battle_Heavy_Attack@Combat> <Color:255,100,100,255>when grabbed "
+"from behind<Color:Default>"
+msgstr ""
+
+msgctxt "27614\tCONTROL_EXPLANATION"
+msgid ""
+"<Action:Battle_Heavy_Attack@Combat> <Color:109,193,240,255>when drunk and "
+"running<Color:Default>"
+msgstr ""
+
+msgctxt "27711\tCONTROL_EXPLANATION"
+msgid ""
+"<Color:109,193,240,255>Select when using a Super Finish on a "
+"boss<Color:Default>"
+msgstr ""
+
+msgctxt "27792\tCONTROL_EXPLANATION"
+msgid ""
+"<Action:Battle_Heavy_Attack@Combat> <Color:109,193,240,255>while doing a "
+"Komaki Daruma Tumbler<Color:Default>"
+msgstr ""
+
+msgctxt "27902\tCONTROL_EXPLANATION"
+msgid ""
+"<Action:Battle_Heavy_Attack@Combat> <Color:109,193,240,255>against an enemy "
+"with a big weapon in both hands<Color:Default>"
+msgstr ""
+
+msgctxt "28025\tCONTROL_EXPLANATION"
+msgid ""
+"<Action:Battle_Heavy_Attack@Combat> <Color:109,193,240,255>when knocked "
+"down<Color:Default>"
+msgstr ""
+
+msgctxt "28117\tCONTROL_EXPLANATION"
+msgid ""
+"<Action:Battle_Heavy_Attack@Combat> <Color:109,193,240,255>while running "
+"towards 4 or more enemies<Color:Default>"
+msgstr ""
+
+msgctxt "28231\tCONTROL_EXPLANATION"
+msgid ""
+"<Action:Battle_Heavy_Attack@Combat> <Color:109,193,240,255>while in "
+"Fighting Stance when drunk<Color:Default>"
+msgstr ""
+
+msgctxt "28341\tCONTROL_EXPLANATION"
+msgid ""
+"<Color:109,193,240,255>Select when using a Super Finish on a "
+"boss<Color:Default>"
+msgstr ""
+
+msgctxt "28422\tCONTROL_EXPLANATION"
+msgid ""
+"<Action:Battle_Heavy_Attack@Combat> <Color:109,193,240,255>when using a "
+"sword against an enemy with a sword<Color:Default>"
+msgstr ""
+
+msgctxt "28545\tCONTROL_EXPLANATION"
+msgid ""
+"<Action:Battle_Heavy_Attack@Combat> <Color:255,100,100,255>while in Stance "
+"from afar when using sword<Color:Default>"
+msgstr ""
+
+msgctxt "28662\tCONTROL_EXPLANATION"
+msgid ""
+"<Action:Battle_Heavy_Attack@Combat> <Color:109,193,240,255>while in Stance "
+"from afar when using Kali Sticks<Color:Default>"
+msgstr ""
+
+msgctxt "28785\tCONTROL_EXPLANATION"
+msgid ""
+"<Action:Battle_Heavy_Attack@Combat> <Color:255,100,100,255>when using Kali "
+"Sticks<Color:Default>"
+msgstr ""
+
+msgctxt "28882\tCONTROL_EXPLANATION"
+msgid ""
+"<Action:Battle_Heavy_Attack@Combat> <Color:109,193,240,255>near a wall when "
+"using a hammer<Color:Default>"
+msgstr ""
+
+msgctxt "28988\tCONTROL_EXPLANATION"
+msgid ""
+"<Action:Battle_Heavy_Attack@Combat> <Color:109,193,240,255>when running "
+"with knife at 4 or more enemies<Color:Default>"
+msgstr ""
+
+msgctxt "29107\tCONTROL_EXPLANATION"
+msgid ""
+"<Action:Battle_Heavy_Attack@Combat> <Color:109,193,240,255>by certain "
+"terrain after grabbing enemy<Color:Default>"
+msgstr ""
+
+msgctxt "29221\tCONTROL_EXPLANATION"
+msgid ""
+"<Action:Battle_Heavy_Attack@Combat> <Color:109,193,240,255>while holding a "
+"weapon<Color:Default>"
+msgstr ""
+
+msgctxt "29318\tCONTROL_EXPLANATION"
+msgid ""
+"<Action:Battle_Heavy_Attack@Combat> <Color:109,193,240,255>near a downed "
+"enemy<Color:Default>"
+msgstr ""
+
+msgctxt "29412\tCONTROL_EXPLANATION"
+msgid ""
+"<Color:109,193,240,255>Grab an enemy and press<Color:Default> "
+"<Action:Battle_Heavy_Attack@Combat> <Color:109,193,240,255>near a downed "
+"enemy<Color:Default>"
+msgstr ""
+
+msgctxt "29568\tCONTROL_EXPLANATION"
+msgid ""
+"<Action:Battle_Heavy_Attack@Combat> <Color:109,193,240,255>in various "
+"places while grabbing foe's legs<Color:Default>"
+msgstr ""
+
+msgctxt "29686\tCONTROL_EXPLANATION"
+msgid ""
+"<Action:Battle_Heavy_Attack@Combat> <Color:109,193,240,255>near a scared "
+"enemy with a weapon<Color:Default>"
+msgstr ""
+
+msgctxt "29794\tCONTROL_EXPLANATION"
+msgid ""
+"<Color:255,100,100,255>Grab an enemy and<Color:Default> "
+"<Action:Battle_Heavy_Attack@Combat> <Color:255,100,100,255>near other "
+"enemies<Color:Default>"
+msgstr ""
+
+msgctxt "29943\tCONTROL_EXPLANATION"
+msgid ""
+"<Action:Battle_Heavy_Attack@Combat> <Color:109,193,240,255>against unarmed "
+"attack w/o Fighting Stance<Color:Default>"
+msgstr ""
+
+msgctxt "30060\tCONTROL_EXPLANATION"
+msgid ""
+"<Action:Battle_Heavy_Attack@Combat> <Color:109,193,240,255>near an enemy "
+"with a gun<Color:Default>"
+msgstr ""
+
+msgctxt "30159\tCONTROL_EXPLANATION"
+msgid ""
+"<Action:Battle_Heavy_Attack@Combat> <Color:109,193,240,255>near downed "
+"enemy<Color:Default> <Color:255,255,150,255>when health is "
+"flashing<Color:Default>"
+msgstr ""
+
+msgctxt "30313\tCONTROL_EXPLANATION"
+msgid ""
+"<Action:Battle_Heavy_Attack@Combat> <Color:255,100,100,255>near a knocked "
+"out enemy<Color:Default>"
+msgstr ""
+
+msgctxt "30412\tCONTROL_EXPLANATION"
+msgid ""
+"<Color:255,100,100,255>Grab enemy and press<Color:Default> "
+"<Action:Battle_Heavy_Attack@Combat>"
+msgstr ""
+
+msgctxt "30507\tCONTROL_EXPLANATION"
+msgid ""
+"<Action:Battle_Heavy_Attack@Combat> <Color:109,193,240,255>while smoking a "
+"cigarette<Color:Default>"
+msgstr ""
+
+msgctxt "30607\tCONTROL_EXPLANATION"
+msgid ""
+"<Color:109,193,240,255>Grab enemy and<Color:Default> "
+"<Action:Battle_Heavy_Attack@Combat> <Color:109,193,240,255>near a low "
+"platform<Color:Default>"
+msgstr ""
+
+msgctxt "30754\tCONTROL_EXPLANATION"
+msgid ""
+"<Action:Battle_Heavy_Attack@Combat> <Color:109,193,240,255>towards an enemy "
+"attacking with a sword<Color:Default>"
+msgstr ""
+
+msgctxt "30868\tCONTROL_EXPLANATION"
+msgid ""
+"<Action:Battle_Heavy_Attack@Combat> <Color:255,100,100,255>on an enemy "
+"dazed from a Komaki Parry<Color:Default>"
+msgstr ""
+
+msgctxt "30980\tCONTROL_EXPLANATION"
+msgid ""
+"<Action:Battle_Heavy_Attack@Combat> <Color:109,193,240,255>when a fence "
+"separates you and an enemy<Color:Default>"
+msgstr ""
+
+msgctxt "31094\tCONTROL_EXPLANATION"
+msgid ""
+"<Action:Battle_Heavy_Attack@Combat> <Color:255,100,100,255>when grabbed "
+"from behind<Color:Default>"
+msgstr ""
+
+msgctxt "31193\tCONTROL_EXPLANATION"
+msgid ""
+"<Action:Battle_Heavy_Attack@Combat> <Color:109,193,240,255>against an enemy "
+"with a big weapon in both hands<Color:Default>"
+msgstr ""
+
+msgctxt "31316\tCONTROL_EXPLANATION"
+msgid ""
+"<Action:Battle_Heavy_Attack@Combat> <Color:109,193,240,255>when drunk and "
+"running<Color:Default>"
+msgstr ""
+
+msgctxt "31413\tCONTROL_EXPLANATION"
+msgid ""
+"<Action:Battle_Heavy_Attack@Combat> <Color:109,193,240,255>while running "
+"towards 4 or more enemies<Color:Default>"
+msgstr ""
+
+msgctxt "31527\tCONTROL_EXPLANATION"
+msgid ""
+"<Action:Battle_Heavy_Attack@Combat> <Color:109,193,240,255>when knocked "
+"down<Color:Default>"
+msgstr ""
+
+msgctxt "31619\tCONTROL_EXPLANATION"
+msgid ""
+"<Action:Battle_Heavy_Attack@Combat> <Color:109,193,240,255>while doing a "
+"Komaki Daruma Tumbler<Color:Default>"
+msgstr ""
+
+msgctxt "31729\tCONTROL_EXPLANATION"
+msgid ""
+"<Action:Battle_Heavy_Attack@Combat> <Color:109,193,240,255>while in "
+"Fighting Stance when drunk<Color:Default>"
+msgstr ""
+
+msgctxt "31839\tCONTROL_EXPLANATION"
+msgid ""
+"<Color:109,193,240,255>Select when using a Super Finish on a "
+"boss<Color:Default>"
+msgstr ""
+
+msgctxt "31920\tCONTROL_EXPLANATION"
+msgid ""
+"<Color:109,193,240,255>Select when using a Super Finish on a "
+"boss<Color:Default>"
+msgstr ""
+
+msgctxt "32001\tCONTROL_EXPLANATION"
+msgid ""
+"<Color:109,193,240,255>Select when using a Super Finish on a "
+"boss<Color:Default>"
+msgstr ""
+
+msgctxt "32082\tCONTROL_EXPLANATION"
+msgid ""
+"<Action:Battle_Heavy_Attack@Combat> <Color:109,193,240,255>when using a "
+"sword against an enemy with a sword<Color:Default>"
+msgstr ""
+
+msgctxt "32205\tCONTROL_EXPLANATION"
+msgid ""
+"<Action:Battle_Heavy_Attack@Combat> <Color:255,100,100,255>while in Stance "
+"from afar when using sword<Color:Default>"
+msgstr ""
+
+msgctxt "32322\tCONTROL_EXPLANATION"
+msgid ""
+"<Action:Battle_Heavy_Attack@Combat> <Color:109,193,240,255>while in Stance "
+"from afar when using Kali Sticks<Color:Default>"
+msgstr ""
+
+msgctxt "32445\tCONTROL_EXPLANATION"
+msgid ""
+"<Action:Battle_Heavy_Attack@Combat> <Color:255,100,100,255>when using Kali "
+"Sticks<Color:Default>"
+msgstr ""
+
+msgctxt "32542\tCONTROL_EXPLANATION"
+msgid ""
+"<Action:Battle_Heavy_Attack@Combat> <Color:109,193,240,255>near a wall when "
+"using a hammer<Color:Default>"
+msgstr ""
+
+msgctxt "32648\tCONTROL_EXPLANATION"
+msgid ""
+"<Action:Battle_Heavy_Attack@Combat> <Color:109,193,240,255>when running "
+"with knife at 4 or more enemies<Color:Default>"
+msgstr ""

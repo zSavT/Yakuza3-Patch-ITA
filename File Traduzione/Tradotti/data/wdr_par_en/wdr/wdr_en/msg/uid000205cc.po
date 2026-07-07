@@ -1,0 +1,65 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "92"
+msgid "A job, huh...?"
+msgstr ""
+
+msgctxt "104"
+msgid "(Haruka? What is she doing here?)"
+msgstr ""
+
+msgctxt "128"
+msgid "Haruka? Is everything okay?"
+msgstr ""
+
+msgctxt "140"
+msgid "Oh, uh, Uncle Kaz!"
+msgstr ""
+
+msgctxt "152"
+msgid ""
+"It's... It's nothing, nope! I was just about to head over\r\n"
+"to the market!"
+msgstr ""
+
+msgctxt "176"
+msgid "Haruka, wait!"
+msgstr ""
+
+msgctxt "188"
+msgid "(What was she looking at?)"
+msgstr ""
+
+msgctxt "200"
+msgid ""
+"(Probably this help wanted poster...  Hm. If she was really\r\n"
+"here to go shopping, she wouldn't be hanging around in\r\n"
+"Hatsumachi. Something's fishy here.)"
+msgstr ""
+
+msgctxt "2064"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "2068"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "2072"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "2076"
+msgid "Talk_No"
+msgstr ""

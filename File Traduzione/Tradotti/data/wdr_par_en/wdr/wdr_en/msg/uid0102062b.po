@@ -1,0 +1,357 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "408"
+msgid "Uncle Kaz!?"
+msgstr ""
+
+msgctxt "432"
+msgid ""
+"Hey, the hell's this? Nobody told me anythin' about some\r\n"
+"buff-ass uncle!"
+msgstr ""
+
+msgctxt "444"
+msgid ""
+"(He got away... Guess all I can do now is wait for the men\r\n"
+"from earlier to come back.)"
+msgstr ""
+
+msgctxt "468"
+msgid ""
+"(Huh, I wonder where Haruka went. Guess I just need to wait\r\n"
+"for those punks from before to come back.)"
+msgstr ""
+
+msgctxt "492"
+msgid ""
+"Listen, princess. I get that you're cute n' all, but ya\r\n"
+"can't go musclin' your way into our turf like it's the\r\n"
+"simplest damn thing in the world. Who ya work for?"
+msgstr ""
+
+msgctxt "504"
+msgid "I, um..."
+msgstr ""
+
+msgctxt "516"
+msgid "Haruka? What's going on here?"
+msgstr ""
+
+msgctxt "528"
+msgid "Oh, Uncle Kaz!"
+msgstr ""
+
+msgctxt "540"
+msgid ""
+"So, the bossman decides to come showin' his face. And what\r\n"
+"a face it is. You tryin' to steal our territory, old man?"
+msgstr ""
+
+msgctxt "552"
+msgid ""
+"No. But if you want to start trouble with that girl, you're gonna have to "
+"go through me first."
+msgstr ""
+
+msgctxt "564"
+msgid "Fine by me. Bring it, wrinkleface!"
+msgstr ""
+
+msgctxt "600"
+msgid "Uncle Kaz!?"
+msgstr ""
+
+msgctxt "624"
+msgid ""
+"Whoa, I don't want no part of this uncle dude! I'm outta\r\n"
+"here!"
+msgstr ""
+
+msgctxt "636"
+msgid ""
+"(He got away... Guess all I can do now is wait for the men\r\n"
+"from earlier to come back.)"
+msgstr ""
+
+msgctxt "660"
+msgid ""
+"(Huh, I wonder where Haruka went. Guess I just need to wait\r\n"
+"for those punks from before to come back.)"
+msgstr ""
+
+msgctxt "696"
+msgid "Haruka? What's going on here?"
+msgstr ""
+
+msgctxt "708"
+msgid "Huh? I... No!"
+msgstr ""
+
+msgctxt "720"
+msgid "Hm? Who are you? What do you want with this child?"
+msgstr ""
+
+msgctxt "744"
+msgid "Hey! Ma'am, wait!"
+msgstr ""
+
+msgctxt "756"
+msgid "Haruka!"
+msgstr ""
+
+msgctxt "768"
+msgid ""
+"You there! Why would a child run away at the mere sight of\r\n"
+"you? Let's get you down to the station for a few questions!"
+msgstr ""
+
+msgctxt "780"
+msgid ""
+"(I don't have time for this. Better get out of here while\r\n"
+"I still can.)"
+msgstr ""
+
+msgctxt "816"
+msgid "That's what I'm talkin' about! Good work, girlie!"
+msgstr ""
+
+msgctxt "828"
+msgid "Here ya go. 10 grand. Don't spend it all in one place, heh!"
+msgstr ""
+
+msgctxt "840"
+msgid "Thank you very much."
+msgstr ""
+
+msgctxt "876"
+msgid "That's a lot of money. What's it for?"
+msgstr ""
+
+msgctxt "888"
+msgid "Huh? Who the hell're you, man!?"
+msgstr ""
+
+msgctxt "900"
+msgid "Uhhh..."
+msgstr ""
+
+msgctxt "912"
+msgid "Uncle Kaz..."
+msgstr ""
+
+msgctxt "924"
+msgid ""
+"Counterfeit credit cards? You two should be ashamed of yourselves for using "
+"a child in some two-bit scam!"
+msgstr ""
+
+msgctxt "936"
+msgid "Aw, shit! Who are you!?"
+msgstr ""
+
+msgctxt "948"
+msgid ""
+"Doesn't matter who he is. He better get walkin' if he ever wants to walk "
+"again."
+msgstr ""
+
+msgctxt "960"
+msgid ""
+"I'm not going anywhere. It's time I teach you what happens\r\n"
+"when you take advantage of a helpless child."
+msgstr ""
+
+msgctxt "996"
+msgid "Hm?"
+msgstr ""
+
+msgctxt "1068"
+msgid "(Another sleazeball talking to Haruka... What should I do?)"
+msgstr ""
+
+msgctxt "1080"
+msgid "Interrupt them?"
+msgstr ""
+
+msgctxt "1092"
+msgid ""
+"(Even if I stepped in, I don't think Haruka would tell me\r\n"
+"anything. Guess I'll just wait and see what happens.)"
+msgstr ""
+
+msgctxt "1140"
+msgid "(This guy's yakuza through and through. What now?)"
+msgstr ""
+
+msgctxt "1152"
+msgid "Interrupt them?"
+msgstr ""
+
+msgctxt "1164"
+msgid ""
+"(Even if I stepped in, I don't think Haruka would tell me\r\n"
+"anything. Guess I'll just wait and see what happens.)"
+msgstr ""
+
+msgctxt "1212"
+msgid "(Yet another \"customer\"... Hm.)"
+msgstr ""
+
+msgctxt "1224"
+msgid "Interrupt them?"
+msgstr ""
+
+msgctxt "1236"
+msgid ""
+"(Even if I stepped in, I don't think Haruka would tell me\r\n"
+"anything. Guess I'll just wait and see what happens.)"
+msgstr ""
+
+msgctxt "1284"
+msgid "(This one's a cop! What should I do?)"
+msgstr ""
+
+msgctxt "1296"
+msgid "Interrupt them?"
+msgstr ""
+
+msgctxt "1308"
+msgid "(Maybe I'll just wait a little longer...)"
+msgstr ""
+
+msgctxt "1356"
+msgid "(Wait, those are the punks Haruka was with earlier.)"
+msgstr ""
+
+msgctxt "1368"
+msgid "Interrupt them?"
+msgstr ""
+
+msgctxt "1380"
+msgid ""
+"(Even if I stepped in, I don't think Haruka would tell me\r\n"
+"anything. Guess I'll just wait and see what happens.)"
+msgstr ""
+
+msgctxt "1476"
+msgid "Step In"
+msgstr ""
+
+msgctxt "1488"
+msgid "Wait and See"
+msgstr ""
+
+msgctxt "1500"
+msgid "Step In"
+msgstr ""
+
+msgctxt "1512"
+msgid "Wait and See"
+msgstr ""
+
+msgctxt "1524"
+msgid "Step In"
+msgstr ""
+
+msgctxt "1536"
+msgid "Wait and See"
+msgstr ""
+
+msgctxt "1548"
+msgid "Step In"
+msgstr ""
+
+msgctxt "1560"
+msgid "Wait and See"
+msgstr ""
+
+msgctxt "1572"
+msgid "Step In"
+msgstr ""
+
+msgctxt "1584"
+msgid "Wait and See"
+msgstr ""
+
+msgctxt "15312"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "15316"
+msgid "Sleazeball"
+msgstr ""
+
+msgctxt "15320"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "15324"
+msgid "Kansai Yakuza"
+msgstr ""
+
+msgctxt "15328"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "15332"
+msgid "Talk_Chohatu"
+msgstr ""
+
+msgctxt "15336"
+msgid "Bespectacled Customer"
+msgstr ""
+
+msgctxt "15340"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "15344"
+msgid "Officer"
+msgstr ""
+
+msgctxt "15348"
+msgid "Shady Man"
+msgstr ""
+
+msgctxt "15352"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "15356"
+msgid "Suspicious Man"
+msgstr ""
+
+msgctxt "15360"
+msgid "Talk_Send"
+msgstr ""
+
+msgctxt "15364"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "15368"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "15372"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "15376"
+msgid "C37_SetHAL_stand_talk_futo_st"
+msgstr ""
+
+msgctxt "15380"
+msgid "C37_SetHAL_stand_talk_futo_ed"
+msgstr ""

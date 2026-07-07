@@ -1,0 +1,138 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "96"
+msgid "(Bingo. The elusive Italian cat.)"
+msgstr ""
+
+msgctxt "108"
+msgid "Lasagna? Here, kitty."
+msgstr ""
+
+msgctxt "120"
+msgid "Myaooowr! Ftts!"
+msgstr ""
+
+msgctxt "132"
+msgid "(That's not a happy cat. I'll need to distract her...)"
+msgstr ""
+
+msgctxt "156"
+msgid "Ftts! Myawr!"
+msgstr ""
+
+msgctxt "168"
+msgid ""
+"(This won't work. She'll shred my arm to ribbons if I try to grab her. What "
+"might a cat like to eat? Maybe I can find something like that at the "
+"convenience store.)"
+msgstr ""
+
+msgctxt "216"
+msgid "You gave her a <Color:8>Catnip Stick<Color:Default>."
+msgstr ""
+
+msgctxt "264"
+msgid "You gave her a <Color:8>Sushi Set<Color:Default>."
+msgstr ""
+
+msgctxt "288"
+msgid "Meow!"
+msgstr ""
+
+msgctxt "300"
+msgid ""
+"(There we go. She's happily munching away. I should be able to grab her "
+"now.)"
+msgstr ""
+
+msgctxt "312"
+msgid "Mrowl!"
+msgstr ""
+
+msgctxt "324"
+msgid "(I'll just bring her back over to her owner.)"
+msgstr ""
+
+msgctxt "360"
+msgid "Lasagna? Here, kitty."
+msgstr ""
+
+msgctxt "372"
+msgid "Myaooowr! Ftts!"
+msgstr ""
+
+msgctxt "384"
+msgid "(That's not a happy cat. I'll need to distract her...)"
+msgstr ""
+
+msgctxt "408"
+msgid "Ftts! Myawr!"
+msgstr ""
+
+msgctxt "420"
+msgid ""
+"(This won't work. She'll shred my arm to ribbons if I try to grab her. What "
+"might a cat like to eat? Maybe I can find something like that at the "
+"convenience store.)"
+msgstr ""
+
+msgctxt "468"
+msgid "You gave her a <Color:8>Catnip Stick<Color:Default>."
+msgstr ""
+
+msgctxt "516"
+msgid "You gave her a <Color:8>Sushi Set<Color:Default>."
+msgstr ""
+
+msgctxt "540"
+msgid "Meow!"
+msgstr ""
+
+msgctxt "552"
+msgid ""
+"(There we go. She's happily munching away. I should be able to grab her "
+"now.)"
+msgstr ""
+
+msgctxt "564"
+msgid "Mrowl!"
+msgstr ""
+
+msgctxt "576"
+msgid "(I'll just bring her back over to her owner.)"
+msgstr ""
+
+msgctxt "5268"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "5272"
+msgid "Lasagna"
+msgstr ""
+
+msgctxt "5276"
+msgid "A_cat_stand_tlk_nobi"
+msgstr ""
+
+msgctxt "5280"
+msgid "Talk_Hirou_st"
+msgstr ""
+
+msgctxt "5284"
+msgid "A_cat_sitgrd_tlk_kedukuroi_st"
+msgstr ""
+
+msgctxt "5288"
+msgid "Idle"
+msgstr ""

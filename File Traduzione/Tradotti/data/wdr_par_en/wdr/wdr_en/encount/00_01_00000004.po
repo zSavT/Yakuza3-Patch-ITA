@@ -1,0 +1,50 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "124"
+msgid "Hey, what family you with!?"
+msgstr ""
+
+msgctxt "136"
+msgid ""
+"You hear me, old man!? Guess I gotta smack you in the head and fix your "
+"hearin'!"
+msgstr ""
+
+msgctxt "160"
+msgid "Sorry! I'm so sorry!"
+msgstr ""
+
+msgctxt "172"
+msgid "Just take this and leave me alone!"
+msgstr ""
+
+msgctxt "184"
+msgid "You got a beaten-up %s."
+msgstr ""
+
+msgctxt "220"
+msgid "You're fuckin' tough..."
+msgstr ""
+
+msgctxt "1120"
+msgid "Angry Punk"
+msgstr ""
+
+msgctxt "1124"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "1128"
+msgid "Sync_Send"
+msgstr ""

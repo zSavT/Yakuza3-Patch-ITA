@@ -1,0 +1,78 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "68\t148"
+msgid "Things aren't lookin' so hot, huh?"
+msgstr ""
+
+msgctxt "149\t223"
+msgid "You're dang right they're not."
+msgstr ""
+
+msgctxt "228\t365"
+msgid ""
+"I did some figuring, and we're really\\n"
+"gonna have to start scrimpin'."
+msgstr ""
+
+msgctxt "398\t496"
+msgid "Sucks how quick they spring those rent hikes on ya."
+msgstr ""
+
+msgctxt "497\t655"
+msgid ""
+"Can't forget the food bill either.\\n"
+"Everyone eats truckloads."
+msgstr ""
+
+msgctxt "656\t775"
+msgid "We can't afford to spend another yen, though."
+msgstr ""
+
+msgctxt "776\t901"
+msgid ""
+"Next month's rent's gonna be tight.\\n"
+"Way too tight for comfort."
+msgstr ""
+
+msgctxt "902\t962"
+msgid "I get it, I get it!"
+msgstr ""
+
+msgctxt "980\t1043"
+msgid "But what can we do?"
+msgstr ""
+
+msgctxt "1044\t1101"
+msgid "What'd Kiryu-aniki have to say?"
+msgstr ""
+
+msgctxt "1102\t1218"
+msgid ""
+"Didn't tell him.\\n"
+"I don't want him worryin'."
+msgstr ""
+
+msgctxt "1267\t1411"
+msgid "Then, maybe if we... chip in⑬"
+msgstr ""
+
+msgctxt "1412\t1566"
+msgid ""
+"Dumbass! We can't help if\\n"
+"we can barely support ourselves!"
+msgstr ""
+
+msgctxt "1568\t1642"
+msgid "Guess so, huh."
+msgstr ""

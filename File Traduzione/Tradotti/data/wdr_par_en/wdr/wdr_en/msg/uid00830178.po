@@ -1,0 +1,162 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "108"
+msgid "I wonder if he's coming...?"
+msgstr ""
+
+msgctxt "120"
+msgid "Hey..."
+msgstr ""
+
+msgctxt "132"
+msgid "What!?"
+msgstr ""
+
+msgctxt "144"
+msgid "Something wrong?"
+msgstr ""
+
+msgctxt "156"
+msgid "No, no. It's just that, uh... Well, it's about the lottery ticket..."
+msgstr ""
+
+msgctxt "168"
+msgid "When I took it to get the money, they told me it was from a month ago..."
+msgstr ""
+
+msgctxt "180"
+msgid ""
+"So it's an old ticket, and I didn't win squat. They even confirmed it with "
+"the machine."
+msgstr ""
+
+msgctxt "192"
+msgid "......"
+msgstr ""
+
+msgctxt "204"
+msgid ""
+"But you know what, I actually feel a huge sense of relief. I was going a "
+"bit crazy when I thought I'd had all that money."
+msgstr ""
+
+msgctxt "216"
+msgid "Good thing I found out before I quit my job."
+msgstr ""
+
+msgctxt "228"
+msgid "Money makes me sick. I mean, I was acting like a raving lunatic."
+msgstr ""
+
+msgctxt "240"
+msgid ""
+"I imagine most people would go a little cuckoo if they thought they'd won "
+"that much."
+msgstr ""
+
+msgctxt "252"
+msgid ""
+"Sorry for putting you through all that drama. I can't even look at money "
+"right now. Please, take this."
+msgstr ""
+
+msgctxt "264"
+msgid "You got <Color:8>10,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "276"
+msgid "You sure about this?"
+msgstr ""
+
+msgctxt "288"
+msgid ""
+"Positive. I'm gonna walk home tonight and cool off in the fresh night "
+"air... So long, buddy."
+msgstr ""
+
+msgctxt "312"
+msgid "You got 2,000 EXP."
+msgstr ""
+
+msgctxt "360"
+msgid ""
+"Whew... I feel much better. Now all I gotta do is take a taxi to the "
+"exchange center. Thanks for the help, buddy."
+msgstr ""
+
+msgctxt "372"
+msgid "So..."
+msgstr ""
+
+msgctxt "384"
+msgid ""
+"All right, all right. Hold your horses. I'll pay you once I get the "
+"300,000,000!"
+msgstr ""
+
+msgctxt "396"
+msgid "Let's meet up right at this spot, okay? Come back for me later!"
+msgstr ""
+
+msgctxt "408"
+msgid "......"
+msgstr ""
+
+msgctxt "420"
+msgid "Trust me on this, I'm an honest guy. See ya later!"
+msgstr ""
+
+msgctxt "3992"
+msgid "Big Winner"
+msgstr ""
+
+msgctxt "3996"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "4000"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "4004"
+msgid "Big Winner?"
+msgstr ""
+
+msgctxt "4008"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "4012"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "4016"
+msgid "Talk_Send"
+msgstr ""
+
+msgctxt "4020"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "4024"
+msgid "dummy"
+msgstr ""
+
+msgctxt "4028"
+msgid "0"
+msgstr ""
+
+msgctxt "4032"
+msgid "Talk_OK"
+msgstr ""

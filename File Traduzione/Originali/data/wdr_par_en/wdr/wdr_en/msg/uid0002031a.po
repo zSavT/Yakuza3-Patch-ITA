@@ -1,0 +1,72 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "204"
+msgid ""
+"(I... can't even afford the cab fare. Guess I'll need to\r\n"
+"scrape together 350 yen somehow.)"
+msgstr ""
+
+msgctxt "216"
+msgid "The minimum fare is 350 yen. Where do you want to go?"
+msgstr ""
+
+msgctxt "252"
+msgid "Are you sure? It will cost you about 30,000 yen to get there."
+msgstr ""
+
+msgctxt "276"
+msgid "Yeah, take me there."
+msgstr ""
+
+msgctxt "288"
+msgid "Very well, sir."
+msgstr ""
+
+msgctxt "300"
+msgid ""
+"I'm sorry, sir, but you don't have any money. Please come\r\n"
+"back when you do."
+msgstr ""
+
+msgctxt "312"
+msgid "Very well, sir. Futenma Airfield it is."
+msgstr ""
+
+msgctxt "360"
+msgid "Very well, sir. The bullring it is."
+msgstr ""
+
+msgctxt "408"
+msgid "Very well, sir."
+msgstr ""
+
+msgctxt "456"
+msgid "Very well, sir."
+msgstr ""
+
+msgctxt "468"
+msgid "Yes"
+msgstr ""
+
+msgctxt "480"
+msgid "No"
+msgstr ""
+
+msgctxt "2928"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "2932"
+msgid "Velotaxi Driver"
+msgstr ""

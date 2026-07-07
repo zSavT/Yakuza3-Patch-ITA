@@ -1,0 +1,81 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "76"
+msgid ""
+"Kiryu-san... <Color:255,200,200,255>⑮<Color:Default> That was amazing. "
+"<Color:255,200,200,255>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "88"
+msgid "Uh, sure."
+msgstr ""
+
+msgctxt "100"
+msgid "I'm gonna try applying to work at Jewel one more time!"
+msgstr ""
+
+msgctxt "112"
+msgid ""
+"I don't want to stop seeing you! <Color:255,200,200,255>⑮<Color:Default> "
+"Plus, extra cash is always nice."
+msgstr ""
+
+msgctxt "124"
+msgid "Heh. I see."
+msgstr ""
+
+msgctxt "136"
+msgid ""
+"I'm gonna head home now. See you around. "
+"<Color:255,200,200,255>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "148"
+msgid "Yeah, see you."
+msgstr ""
+
+msgctxt "160"
+msgid ""
+"Kiryu-san... <Color:255,200,200,255>⑮<Color:Default> I love you. "
+"<Color:255,200,200,255>⑮<Color:Default><Color:255,200,200,255"
+">⑮<Color:Default><Color:255,200,200,255>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "184"
+msgid "You got 5,000 EXP."
+msgstr ""
+
+msgctxt "2284"
+msgid "Shiori"
+msgstr ""
+
+msgctxt "2288"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "2292"
+msgid "F_sxy_stand_sync_dakitukiA_ed"
+msgstr ""
+
+msgctxt "2296"
+msgid "P_stand_sync_dakitukiA_ed"
+msgstr ""
+
+msgctxt "2300"
+msgid "dummy"
+msgstr ""
+
+msgctxt "2304"
+msgid "0"
+msgstr ""

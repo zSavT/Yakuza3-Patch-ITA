@@ -1,0 +1,218 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "96"
+msgid "Oh shit... This guy doesn't mess around!"
+msgstr ""
+
+msgctxt "108"
+msgid "Ahhhh! Please! No more! It hurts so bad..."
+msgstr ""
+
+msgctxt "120"
+msgid "...Did you two set Rin up?"
+msgstr ""
+
+msgctxt "132"
+msgid "I...I dunno what you're talking about!"
+msgstr ""
+
+msgctxt "144"
+msgid "......"
+msgstr ""
+
+msgctxt "156"
+msgid "Guess you haven't learned your lessons yet."
+msgstr ""
+
+msgctxt "168"
+msgid ""
+"No, no, no! We have, we totally have! See, I'm the one who funneled the "
+"money from our company's payroll into Rin's account..."
+msgstr ""
+
+msgctxt "180"
+msgid ""
+"And Masaya's the one who gave me the account number! Said he was happy to "
+"do it!"
+msgstr ""
+
+msgctxt "192"
+msgid "Takeshita, you goddamn sellout! *sigh* Hate this asshole..."
+msgstr ""
+
+msgctxt "204"
+msgid ""
+"I'm tellin' you, man, Rin thinks she's such a smartass. All she's ever done "
+"is make me look incompetent at my job... Someone had to put her in her "
+"place!"
+msgstr ""
+
+msgctxt "216"
+msgid "But now... Everything I've worked so hard for is ruined..."
+msgstr ""
+
+msgctxt "228"
+msgid ""
+"Save your lame excuses for the judge. Now I'm gonna give you a choice: "
+"either go turn yourselves in to the police, or I can drag you there bruised "
+"and battered. Up to you."
+msgstr ""
+
+msgctxt "240"
+msgid "No need for that last option! We were just about to leave!"
+msgstr ""
+
+msgctxt "252"
+msgid "...Fuck my life."
+msgstr ""
+
+msgctxt "288"
+msgid "Huh? What the..."
+msgstr ""
+
+msgctxt "300"
+msgid "Who the hell is this guy?"
+msgstr ""
+
+msgctxt "312"
+msgid "Hey... He's the dude who keeps popping up with Rin."
+msgstr ""
+
+msgctxt "324"
+msgid "I'll get straight to the point. Rin's been charged with embezzlement."
+msgstr ""
+
+msgctxt "336"
+msgid "Would you guys know anything about that?"
+msgstr ""
+
+msgctxt "348"
+msgid "Pfft... You're really that hard for her, huh? What a dumbass."
+msgstr ""
+
+msgctxt "360"
+msgid ""
+"Heh... Yeah, she's got him by the balls, all right. Looks like he's her "
+"latest victim."
+msgstr ""
+
+msgctxt "372"
+msgid ""
+"I'll say. That tramp goes through men like she goes through cheap shoes. "
+"Picks 'em out at random and wears 'em out quick with that nasty attitude of "
+"hers."
+msgstr ""
+
+msgctxt "384"
+msgid ""
+"And once she grows tired of playing her little game? She tosses the poor "
+"sap⑬no matter how serious they think it is."
+msgstr ""
+
+msgctxt "396"
+msgid "......"
+msgstr ""
+
+msgctxt "408"
+msgid ""
+"I mean, look at you. You think she's pretty into you, right? Well, you'll "
+"just meet the same fate as every other guy she's burned."
+msgstr ""
+
+msgctxt "420"
+msgid ""
+"Is that your only takeaway from the relationship you had? Maybe if you "
+"decided to man up instead of shift the blame on her, Rin would've given you "
+"another chance."
+msgstr ""
+
+msgctxt "432"
+msgid "...What did you just say?"
+msgstr ""
+
+msgctxt "444"
+msgid "What's wrong? Struck a nerve?"
+msgstr ""
+
+msgctxt "456"
+msgid ""
+"Wow. You really are deluded, aren't you? Throwing money at that skank and "
+"running your mouth like that... This is some prime time comedy, man."
+msgstr ""
+
+msgctxt "468"
+msgid "C'mon, Takeshita! Let's beat some sense into this dickwad!"
+msgstr ""
+
+msgctxt "480"
+msgid "...Did you just say Takeshita?"
+msgstr ""
+
+msgctxt "492"
+msgid ""
+"What, you got a problem with my name!? Gonna make more \"take a shit\" "
+"jokes!? That's it, I'm murdering this guy!"
+msgstr ""
+
+msgctxt "6456"
+msgid "Takeshita"
+msgstr ""
+
+msgctxt "6460"
+msgid "M_ykzs_damage"
+msgstr ""
+
+msgctxt "6464"
+msgid "M_yng_damage"
+msgstr ""
+
+msgctxt "6468"
+msgid "Masaya"
+msgstr ""
+
+msgctxt "6472"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "6476"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "6480"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "6484"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "6488"
+msgid "Young Man"
+msgstr ""
+
+msgctxt "6492"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "6496"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "6500"
+msgid "Talk_Kosite_st"
+msgstr ""
+
+msgctxt "6504"
+msgid "Talk_Kosite_ed"
+msgstr ""

@@ -1,0 +1,194 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "396"
+msgid "Good work, Kiryu-san. Thank you very much."
+msgstr ""
+
+msgctxt "408"
+msgid "I'll continue to do everything I can to help Ibuki-san from this end."
+msgstr ""
+
+msgctxt "420"
+msgid "Oh, Kotaro found a job somewhere."
+msgstr ""
+
+msgctxt "432"
+msgid "We'll miss him, but it's a good thing if he doesn't need us anymore."
+msgstr ""
+
+msgctxt "444"
+msgid "Kiryu-san, do you want to go up to the Millennium Tower roof now?"
+msgstr ""
+
+msgctxt "456"
+msgid "All right. I'll accompany you there."
+msgstr ""
+
+msgctxt "492"
+msgid "All right. Whenever you're ready, let me know."
+msgstr ""
+
+msgctxt "504"
+msgid ""
+"We can't get to the Millennium Tower roof during the day with so many "
+"people watching. Why don't we wait until night?"
+msgstr ""
+
+msgctxt "516"
+msgid "Understood."
+msgstr ""
+
+msgctxt "576"
+msgid "It should be dark enough now. I'll accompany you there."
+msgstr ""
+
+msgctxt "612"
+msgid "All right. Whenever you're ready, let me know."
+msgstr ""
+
+msgctxt "624"
+msgid "Kiryu-san, do you want to go up to the Millennium Tower roof now?"
+msgstr ""
+
+msgctxt "636"
+msgid "Understood. I'll accompany you there."
+msgstr ""
+
+msgctxt "672"
+msgid "All right. Whenever you're ready, let me know."
+msgstr ""
+
+msgctxt "684"
+msgid ""
+"We can't get to the Millennium Tower roof during the day with so many "
+"people watching. Why don't we wait until night?"
+msgstr ""
+
+msgctxt "696"
+msgid "Understood. I'll accompany you there."
+msgstr ""
+
+msgctxt "756"
+msgid "It should be dark enough now. I'll accompany you there."
+msgstr ""
+
+msgctxt "792"
+msgid "All right. Whenever you're ready, let me know."
+msgstr ""
+
+msgctxt "804"
+msgid "Hey, do you have a minute?"
+msgstr ""
+
+msgctxt "816"
+msgid "Sure. What is it?"
+msgstr ""
+
+msgctxt "828"
+msgid "I've got a hunch the hitman Shu is up on the roof of the Millennium Tower..."
+msgstr ""
+
+msgctxt "840"
+msgid "Huh!? But it's impossible to hit anybody from way up there, isn't it?"
+msgstr ""
+
+msgctxt "852"
+msgid ""
+"I've been thinking the same thing, but I'd still like to check it out just "
+"the same."
+msgstr ""
+
+msgctxt "864"
+msgid "Okay, understood. Whenever you're ready, just let me know."
+msgstr ""
+
+msgctxt "876"
+msgid "To think that Hideki was the hitman Shinzaki all this time..."
+msgstr ""
+
+msgctxt "888"
+msgid "Kiryu-san, do you know the street musician named Hideki?"
+msgstr ""
+
+msgctxt "900"
+msgid ""
+"He's this young guy who's always singing and playing his guitar in front of "
+"the Millennium Tower. He's pretty good, too."
+msgstr ""
+
+msgctxt "912"
+msgid ""
+"Since he's always there, you might be able to get some good information out "
+"of him that'll help you track your targets down."
+msgstr ""
+
+msgctxt "924"
+msgid "Contact me whenever you catch one of the hitmen."
+msgstr ""
+
+msgctxt "936"
+msgid "I'll come pick you up."
+msgstr ""
+
+msgctxt "948"
+msgid "I'm ready to go."
+msgstr ""
+
+msgctxt "960"
+msgid "No, I'm not ready yet."
+msgstr ""
+
+msgctxt "972"
+msgid "I'm ready to go."
+msgstr ""
+
+msgctxt "984"
+msgid "No, I'm not ready yet."
+msgstr ""
+
+msgctxt "996"
+msgid "I'm ready to go."
+msgstr ""
+
+msgctxt "1008"
+msgid "No, I'm not ready yet."
+msgstr ""
+
+msgctxt "1020"
+msgid "I'm ready to go."
+msgstr ""
+
+msgctxt "1032"
+msgid "No, I'm not ready yet."
+msgstr ""
+
+msgctxt "6312"
+msgid "HLA Member"
+msgstr ""
+
+msgctxt "6316"
+msgid "dummy"
+msgstr ""
+
+msgctxt "6320"
+msgid "0"
+msgstr ""
+
+msgctxt "6324"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "6328"
+msgid "Talk_Surp"
+msgstr ""

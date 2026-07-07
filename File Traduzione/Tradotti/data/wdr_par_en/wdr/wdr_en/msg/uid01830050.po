@@ -1,0 +1,241 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "80"
+msgid "Well? Had enough?"
+msgstr ""
+
+msgctxt "92"
+msgid ""
+"Shit! I'm sorry, man! We'll get outta your hair! No harm,\r\n"
+"no foul... yeah?"
+msgstr ""
+
+msgctxt "104"
+msgid "I don't remember saying you could leave."
+msgstr ""
+
+msgctxt "116"
+msgid "Eep! Please don't kick our asses anymore, old man!"
+msgstr ""
+
+msgctxt "128"
+msgid ""
+"You really don't know how to talk to your elders, huh?\r\n"
+"Am I gonna have to beat some more manners into you?"
+msgstr ""
+
+msgctxt "140"
+msgid ""
+"Wait, no! No more beating, please! Anything but more beating!\r\n"
+"Just, please. Let us go!"
+msgstr ""
+
+msgctxt "152"
+msgid "Hmph. Maybe next time you'll remember your place."
+msgstr ""
+
+msgctxt "164"
+msgid "Yeah, of course! I'm goin' on the straight and narrow! Promise!"
+msgstr ""
+
+msgctxt "176"
+msgid "...Fine. Get out of here."
+msgstr ""
+
+msgctxt "188"
+msgid "Oh thank god! I mean... thank god, sir!"
+msgstr ""
+
+msgctxt "200"
+msgid "C'mon boys, let's leg it!"
+msgstr ""
+
+msgctxt "260"
+msgid "Kids these days. You all right, Haruka?"
+msgstr ""
+
+msgctxt "272"
+msgid "Mhm!"
+msgstr ""
+
+msgctxt "284"
+msgid "Good. Now let's go see your Uncle Kazuki."
+msgstr ""
+
+msgctxt "296"
+msgid "Okay!"
+msgstr ""
+
+msgctxt "344"
+msgid "This is where Uncle Kazuki is, right?"
+msgstr ""
+
+msgctxt "356"
+msgid "Yup. Something up?"
+msgstr ""
+
+msgctxt "368"
+msgid ""
+"Well, I was just thinking... Can we go have some fun after we\r\n"
+"see him?"
+msgstr ""
+
+msgctxt "380"
+msgid "Heh. Of course, Haruka."
+msgstr ""
+
+msgctxt "392"
+msgid "Just a sec there, buddy!"
+msgstr ""
+
+msgctxt "440"
+msgid "Can I help you?"
+msgstr ""
+
+msgctxt "452"
+msgid ""
+"This town's no place to be bringin' a little girl, old man.\r\n"
+"You get lost on your way to the fun fair?"
+msgstr ""
+
+msgctxt "464"
+msgid "None of your business. Now back off, or I'll make you back off."
+msgstr ""
+
+msgctxt "476"
+msgid "Ooooh! I'm sooo scared!"
+msgstr ""
+
+msgctxt "488"
+msgid "Dude, what's with this asshole? Guy's pissing me off."
+msgstr ""
+
+msgctxt "500"
+msgid ""
+"Sure, pal. We'll back off... if you hand over some cash.\r\n"
+"I mean, that girl of yours gets an allowance, yeah? How\r\n"
+"'bout sharing the wealth?"
+msgstr ""
+
+msgctxt "512"
+msgid "Sorry, not happening."
+msgstr ""
+
+msgctxt "524"
+msgid ""
+"Just fork it over, man! You don't wanna get your ass beat\r\n"
+"in front of your kid, do ya?"
+msgstr ""
+
+msgctxt "536"
+msgid "You even listening, you old fuck!?"
+msgstr ""
+
+msgctxt "548"
+msgid ""
+"Look. If you get lost now, I'll forget this ever happened.\r\n"
+"But if you stick around... you're gonna pay. Promise."
+msgstr ""
+
+msgctxt "560"
+msgid "You think you can take us, asshole!?"
+msgstr ""
+
+msgctxt "572"
+msgid ""
+"You're the only one who's gonna be payin' today, man.\r\n"
+"Either in cash, or in blood. Your choice."
+msgstr ""
+
+msgctxt "584"
+msgid ""
+"I'll get you some blood if you want... but it's not gonna be\r\n"
+"mine, if you catch me."
+msgstr ""
+
+msgctxt "596"
+msgid "Ha, good one! You're gonna regret this!"
+msgstr ""
+
+msgctxt "608"
+msgid "We'll see about that. Let's go."
+msgstr ""
+
+msgctxt "8148"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "8152"
+msgid "Cocky Punk"
+msgstr ""
+
+msgctxt "8156"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "8160"
+msgid "Talk_Sorry"
+msgstr ""
+
+msgctxt "8164"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "8168"
+msgid "dummy"
+msgstr ""
+
+msgctxt "8172"
+msgid "柄本医院"
+msgstr ""
+
+msgctxt "8180"
+msgid "???"
+msgstr ""
+
+msgctxt "8184"
+msgid "0"
+msgstr ""
+
+msgctxt "8188"
+msgid "Talk_SmileBig_st"
+msgstr ""
+
+msgctxt "8192"
+msgid "Talk_SmileBig_ed"
+msgstr ""
+
+msgctxt "8196"
+msgid "Belligerent Thug"
+msgstr ""
+
+msgctxt "8200"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "8204"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "8208"
+msgid "Talk_Chohatu"
+msgstr ""
+
+msgctxt "8212"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "8216"
+msgid "Talk_Odosu"
+msgstr ""

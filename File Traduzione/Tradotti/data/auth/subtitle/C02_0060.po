@@ -1,0 +1,282 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "437\t523"
+msgid "Ugh, this heat's a freakin' killer."
+msgstr ""
+
+msgctxt "529\t596"
+msgid "Hey there, punks."
+msgstr ""
+
+msgctxt "631\t691"
+msgid "It's him!"
+msgstr ""
+
+msgctxt "712\t790"
+msgid "Want something, old man?"
+msgstr ""
+
+msgctxt "792\t922"
+msgid "You two are in the Ryudo Family, right?"
+msgstr ""
+
+msgctxt "924\t1004"
+msgid "So what if we are?"
+msgstr ""
+
+msgctxt "1006\t1239"
+msgid ""
+"You boys make a habit of dishing out\\n"
+"eviction notices to ordinary civilians?"
+msgstr ""
+
+msgctxt "1262\t1352"
+msgid "\"Civilian,\" huh? You're funny."
+msgstr ""
+
+msgctxt "1355\t1476"
+msgid ""
+"Don't think I've ever seen a civilian\\n"
+"with that kinda ink on his back."
+msgstr ""
+
+msgctxt "1478\t1566"
+msgid "Either way, you can't keep scaring my kids."
+msgstr ""
+
+msgctxt "1569\t1657"
+msgid "I don't want to see your faces again. "
+msgstr ""
+
+msgctxt "1670\t1730"
+msgid "Listen here, man."
+msgstr ""
+
+msgctxt "1751\t1876"
+msgid ""
+"Ain't nobody we hate more\\n"
+"than arrogant outsiders like you."
+msgstr ""
+
+msgctxt "1894\t1982"
+msgid "Now get the hell outta Okinawa."
+msgstr ""
+
+msgctxt "1988\t2058"
+msgid "...That's why you're trying to evict me?"
+msgstr ""
+
+msgctxt "2060\t2112"
+msgid "Can't say."
+msgstr ""
+
+msgctxt "2113\t2180"
+msgid "If you wanna know the truth..."
+msgstr ""
+
+msgctxt "2197\t2283"
+msgid "You'll have to ask our boss."
+msgstr ""
+
+msgctxt "2362\t2422"
+msgid "Just a sec there!"
+msgstr ""
+
+msgctxt "2430\t2490"
+msgid "Where do you think you're goin'?"
+msgstr ""
+
+msgctxt "2494\t2565"
+msgid "To the Ryudo office."
+msgstr ""
+
+msgctxt "2577\t2666"
+msgid "Could use a chat with this boss of yours."
+msgstr ""
+
+msgctxt "2685\t2786"
+msgid "Aniki! We've gotta warn him!"
+msgstr ""
+
+msgctxt "2833\t2937"
+msgid ""
+"He doesn't have time to deal\\n"
+"with petty shit like this."
+msgstr ""
+
+msgctxt "2991\t3083"
+msgid ""
+"Our only job right now\\n"
+"is keepin' this guy in check."
+msgstr ""
+
+msgctxt "3108\t3269"
+msgid ""
+"So sorry to say, I can't let you\\n"
+"just stroll on over to our office."
+msgstr ""
+
+msgctxt "3285\t3383"
+msgid "How do you think that'd make me look, huh?"
+msgstr ""
+
+msgctxt "3387\t3452"
+msgid "Then what should I do?"
+msgstr ""
+
+msgctxt "3454\t3527"
+msgid "If you really wanna see the boss..."
+msgstr ""
+
+msgctxt "3529\t3598"
+msgid "You're gonna have to beat me first!"
+msgstr ""
+
+msgctxt "3600\t3700"
+msgid "Huh. Is that it?"
+msgstr ""
+
+msgctxt "3703\t3798"
+msgid ""
+"You don't know who you're\\n"
+"messing with, old man!"
+msgstr ""
+
+msgctxt "3800\t3923"
+msgid "The captain's not gonna go easy on you!"
+msgstr ""
+
+msgctxt "3925\t3960"
+msgid "Captain?"
+msgstr ""
+
+msgctxt "3962\t4009"
+msgid "You heard me!"
+msgstr ""
+
+msgctxt "4011\t4118"
+msgid ""
+"My aniki here is the captain\\n"
+"of the Ryudo Family..."
+msgstr ""
+
+msgctxt "4120\t4255"
+msgid "The Fighting Viper, Rikiya Shimabukuro-san!"
+msgstr ""
+
+msgctxt "4263\t4348"
+msgid "Now run while you still can, asshole!"
+msgstr ""
+
+msgctxt "4382\t4430"
+msgid "Put a sock in it."
+msgstr ""
+
+msgctxt "4433\t4470"
+msgid "What was that!?"
+msgstr ""
+
+msgctxt "4473\t4602"
+msgid ""
+"I can't imagine this makes\\n"
+"your family look too good."
+msgstr ""
+
+msgctxt "4604\t4764"
+msgid ""
+"Don't try n' talk your way outta this,\\n"
+"you fucking coward!"
+msgstr ""
+
+msgctxt "4766\t4868"
+msgid "You might be a big shot down here in Okinawa..."
+msgstr ""
+
+msgctxt "4872\t5024"
+msgid ""
+"But if you think that'll scare me off,\\n"
+"you're just a damn fool."
+msgstr ""
+
+msgctxt "5218\t5265"
+msgid "Hold this for me."
+msgstr ""
+
+msgctxt "5465\t5516"
+msgid "Well?"
+msgstr ""
+
+msgctxt "5518\t5588"
+msgid "Cute snake you've got there."
+msgstr ""
+
+msgctxt "5590\t5646"
+msgid "What did you say!?"
+msgstr ""
+
+msgctxt "5648\t5685"
+msgid "It's not a snake!"
+msgstr ""
+
+msgctxt "5687\t5726"
+msgid "It's a goddamn viper!"
+msgstr ""
+
+msgctxt "5728\t5807"
+msgid "That's why they call me the Fighting Viper!"
+msgstr ""
+
+msgctxt "5811\t5878"
+msgid "Doesn't matter to me what it is."
+msgstr ""
+
+msgctxt "5880\t6005"
+msgid "Well it should! This thing's the symbol of Okinawa!"
+msgstr ""
+
+msgctxt "6008\t6103"
+msgid ""
+"Got the heart and soul of this island\\n"
+"right on my damn back."
+msgstr ""
+
+msgctxt "6105\t6195"
+msgid "Safe to say you like your hometown, then."
+msgstr ""
+
+msgctxt "6198\t6246"
+msgid "Damn right!"
+msgstr ""
+
+msgctxt "6261\t6434"
+msgid ""
+"And now I'm gonna show you\\n"
+"just what Okinawa's all about."
+msgstr ""
+
+msgctxt "6497\t6587"
+msgid "Mikio! Back off, this one's mine!"
+msgstr ""
+
+msgctxt "6651\t6716"
+msgid "Ready to rumble?"
+msgstr ""
+
+msgctxt "6723\t6766"
+msgid "Ready when you are."
+msgstr ""
+
+msgctxt "6775\t6826"
+msgid "Then bring it!"
+msgstr ""

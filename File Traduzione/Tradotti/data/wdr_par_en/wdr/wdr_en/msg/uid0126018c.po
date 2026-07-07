@@ -1,0 +1,114 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid "Ahh!"
+msgstr ""
+
+msgctxt "76"
+msgid "Oh... Excuse me."
+msgstr ""
+
+msgctxt "88"
+msgid "No, it was my fault. Are... Are you okay?"
+msgstr ""
+
+msgctxt "100"
+msgid "Yeah, I'm fine. Hope I didn't knock into you too hard."
+msgstr ""
+
+msgctxt "112"
+msgid ""
+"Oh, not at all... And by the way, I couldn't help but notice that necklace "
+"you have there. It's lovely."
+msgstr ""
+
+msgctxt "124"
+msgid "(She must mean the Coral Love Necklace.)"
+msgstr ""
+
+msgctxt "136"
+msgid "Well, guess I should be going..."
+msgstr ""
+
+msgctxt "148"
+msgid ""
+"(She actually noticed my necklace... Maybe what that salesman was telling "
+"me was true?)"
+msgstr ""
+
+msgctxt "208"
+msgid "Hm...?"
+msgstr ""
+
+msgctxt "220"
+msgid "...My wallet! That woman must've been a pickpocket!"
+msgstr ""
+
+msgctxt "244"
+msgid "(She just lifted 50,000 yen right out from under my nose...)"
+msgstr ""
+
+msgctxt "256"
+msgid "You lost <Color:8>50,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "268"
+msgid ""
+"(So much for being lucky. I'd be improving my luck just throwing this thing "
+"away.)"
+msgstr ""
+
+msgctxt "292"
+msgid ""
+"(The only thing she left was the shirt on my back... and I guess my pants, "
+"too. But how could I be so careless?)"
+msgstr ""
+
+msgctxt "304"
+msgid "You lost all your money."
+msgstr ""
+
+msgctxt "316"
+msgid ""
+"(So much for being lucky. I'd be improving my luck just throwing this thing "
+"away.)"
+msgstr ""
+
+msgctxt "3072"
+msgid "Local Lady"
+msgstr ""
+
+msgctxt "3076"
+msgid "Yoroke_BR_small"
+msgstr ""
+
+msgctxt "3080"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "3084"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "3088"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "3092"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "3096"
+msgid "Talk_No"
+msgstr ""

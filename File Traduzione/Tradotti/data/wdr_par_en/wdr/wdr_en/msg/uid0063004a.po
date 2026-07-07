@@ -1,0 +1,162 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "308"
+msgid "Karaoke? Hmhmhm... This should be fun."
+msgstr ""
+
+msgctxt "320"
+msgid "I think I'm gonna sing \"Summer Memories.\" <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "332"
+msgid "Sounds good."
+msgstr ""
+
+msgctxt "344"
+msgid "Let's check our ranking..."
+msgstr ""
+
+msgctxt "368"
+msgid "Wait, we're leaving already? Seriously? We haven't even sung anything yet!"
+msgstr ""
+
+msgctxt "380"
+msgid ""
+"You really know how to party, Kiryu-san. ♪ It puts me in the perfect mood "
+"to sing."
+msgstr ""
+
+msgctxt "392"
+msgid "Oh, hey! Why don't you sing, too?"
+msgstr ""
+
+msgctxt "404"
+msgid "I'll sing \"Kamurocho Lullaby,\" then."
+msgstr ""
+
+msgctxt "416"
+msgid "Whoa, is that enka? I gotta hear this!"
+msgstr ""
+
+msgctxt "428"
+msgid "Nah, not right now."
+msgstr ""
+
+msgctxt "440"
+msgid "Aw, really? Bummer..."
+msgstr ""
+
+msgctxt "452"
+msgid "Oof, that was a hard song... Well, that sucked, but it's whatever."
+msgstr ""
+
+msgctxt "464"
+msgid "Sorry."
+msgstr ""
+
+msgctxt "476"
+msgid ""
+"You're a great singer, Kiryu-san! ♪ Think you can give us an encore? "
+"<Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "488"
+msgid ""
+"Wow, you were totally into that song. Do you go to karaoke a lot, "
+"Kiryu-san? Or, wait... do you practice on your own?"
+msgstr ""
+
+msgctxt "500"
+msgid "Heh... Nothing to it."
+msgstr ""
+
+msgctxt "512"
+msgid "Is singing not your thing, Kiryu-san? You're just like, whatever about it?"
+msgstr ""
+
+msgctxt "524"
+msgid "Well, uh..."
+msgstr ""
+
+msgctxt "536"
+msgid ""
+"That was just amazing! <Color:7>⑮<Color:Default> You really know how to "
+"fire it up, Kiryu-san!"
+msgstr ""
+
+msgctxt "548"
+msgid "Oh, hey! Why don't you sing, too?"
+msgstr ""
+
+msgctxt "560"
+msgid "I'll sing \"Kamurocho Lullaby,\" then."
+msgstr ""
+
+msgctxt "572"
+msgid "Whoa, is that enka? I gotta hear this!"
+msgstr ""
+
+msgctxt "584"
+msgid "Nah, not right now."
+msgstr ""
+
+msgctxt "596"
+msgid "Aw, really? Bummer..."
+msgstr ""
+
+msgctxt "608"
+msgid ""
+"Wow, Kiryu-san, you're fantastic! <Color:7>⑮<Color:Default> I could listen "
+"to you sing all day. <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "620"
+msgid "Heh... Thanks."
+msgstr ""
+
+msgctxt "632"
+msgid "Sing Karaoke"
+msgstr ""
+
+msgctxt "644"
+msgid "View Rankings"
+msgstr ""
+
+msgctxt "656"
+msgid "How to Play"
+msgstr ""
+
+msgctxt "668"
+msgid "Sing"
+msgstr ""
+
+msgctxt "680"
+msgid "Don't Sing"
+msgstr ""
+
+msgctxt "692"
+msgid "Sing"
+msgstr ""
+
+msgctxt "704"
+msgid "Don't Sing"
+msgstr ""
+
+msgctxt "5364"
+msgid "Shiori"
+msgstr ""
+
+msgctxt "5368"
+msgid "Kiryu"
+msgstr ""

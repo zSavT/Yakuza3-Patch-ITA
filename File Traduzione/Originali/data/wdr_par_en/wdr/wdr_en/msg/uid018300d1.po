@@ -1,0 +1,32 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "108"
+msgid "Are you ready to leave the monitor room?"
+msgstr ""
+
+msgctxt "132"
+msgid "(Guess I'll stick around a little longer.)"
+msgstr ""
+
+msgctxt "144"
+msgid "Don't Leave"
+msgstr ""
+
+msgctxt "156"
+msgid "Leave"
+msgstr ""
+
+msgctxt "524"
+msgid "Kiryu"
+msgstr ""

@@ -1,0 +1,48 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "124"
+msgid "You got some balls, strutting around like that on our turf."
+msgstr ""
+
+msgctxt "136"
+msgid "Standin' out like that is a great way to get your shit kicked in!"
+msgstr ""
+
+msgctxt "160"
+msgid "Fuck. You were supposed to be the one to get your shit kicked in..."
+msgstr ""
+
+msgctxt "172"
+msgid "Sorry, man. Will this make up for it?"
+msgstr ""
+
+msgctxt "184"
+msgid "You got a mellow %s."
+msgstr ""
+
+msgctxt "220"
+msgid "Can't believe I got my shit kicked in by an old man..."
+msgstr ""
+
+msgctxt "1212"
+msgid "Disgruntled Yakuza"
+msgstr ""
+
+msgctxt "1216"
+msgid "Sync_Send"
+msgstr ""
+
+msgctxt "1220"
+msgid "Talk_No"
+msgstr ""

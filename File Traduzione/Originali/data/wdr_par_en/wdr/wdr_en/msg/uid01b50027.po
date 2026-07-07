@@ -1,0 +1,132 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid "(This shisa looks a lot like the one in that couple's photo.)"
+msgstr ""
+
+msgctxt "76"
+msgid "(Better give those two a call.)"
+msgstr ""
+
+msgctxt "100"
+msgid "Hello?"
+msgstr ""
+
+msgctxt "112"
+msgid "Hey. I'm the one you gave the shisa photo to."
+msgstr ""
+
+msgctxt "124"
+msgid "Huh? You mean you've actually been looking for it!?"
+msgstr ""
+
+msgctxt "136"
+msgid "Yeah, and I found one that looks just like it. Can you come check it out?"
+msgstr ""
+
+msgctxt "148"
+msgid "Yes, absolutely! We'll be right there!"
+msgstr ""
+
+msgctxt "208"
+msgid "So, you say you've found the shisa in the photo?"
+msgstr ""
+
+msgctxt "220"
+msgid "Yeah. Over there."
+msgstr ""
+
+msgctxt "232"
+msgid ""
+"Oh my goodness! That's it! It's the spitting image of the\r\n"
+"one we have at home!"
+msgstr ""
+
+msgctxt "244"
+msgid "So, ours used to live on someone's roof, huh? That's pretty wild!"
+msgstr ""
+
+msgctxt "256"
+msgid ""
+"I did think it was a little too old and historical-looking\r\n"
+"to be just another souvenir."
+msgstr ""
+
+msgctxt "268"
+msgid "I'll go ask if they'll let us buy it."
+msgstr ""
+
+msgctxt "280"
+msgid ""
+"Thank you so much. It's not a whole lot, but please, take\r\n"
+"this."
+msgstr ""
+
+msgctxt "292"
+msgid "You got <Color:8>10,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "304"
+msgid ""
+"Now our house is properly protected. I hope we can stay\r\n"
+"as close as these two crazy creatures!"
+msgstr ""
+
+msgctxt "316"
+msgid ""
+"...Close enough to welcome a new little creature into our lives? Maybe next "
+"year?"
+msgstr ""
+
+msgctxt "328"
+msgid ""
+"You don't mean... a baby? Then... I guess all three of us will have to come "
+"back to Okinawa for a family trip!"
+msgstr ""
+
+msgctxt "352"
+msgid "You got 3,000 EXP."
+msgstr ""
+
+msgctxt "3572"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "3576"
+msgid "Talk_Phone_st"
+msgstr ""
+
+msgctxt "3580"
+msgid "Shisa-searching Woman"
+msgstr ""
+
+msgctxt "3584"
+msgid "Idle"
+msgstr ""
+
+msgctxt "3588"
+msgid "Shisa-searching Man"
+msgstr ""
+
+msgctxt "3592"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "3596"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "3600"
+msgid "Talk_Ojigi"
+msgstr ""

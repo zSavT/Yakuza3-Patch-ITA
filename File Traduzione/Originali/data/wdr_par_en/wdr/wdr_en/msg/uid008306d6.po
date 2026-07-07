@@ -1,0 +1,106 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid "Well, that was quite a match."
+msgstr ""
+
+msgctxt "76"
+msgid ""
+"As a matter of fact, we're offering a little promotion here for couples who "
+"play together. Would you care to try it out?"
+msgstr ""
+
+msgctxt "88"
+msgid "What kind of promotion?"
+msgstr ""
+
+msgctxt "100"
+msgid ""
+"It's called Prize Roulette. The names of prizes will be written on the dart "
+"board."
+msgstr ""
+
+msgctxt "112"
+msgid "You win whatever your dart hits. Simple, right?"
+msgstr ""
+
+msgctxt "124"
+msgid ""
+"Your lady friend will have to work extra hard for some of these prizes. "
+"What do you say?"
+msgstr ""
+
+msgctxt "148"
+msgid ""
+"Ooh! Sounds fun! <Color:255,200,200,255>⑮<Color:Default> Let's try it, "
+"Kiryu-san!"
+msgstr ""
+
+msgctxt "160"
+msgid ""
+"Ooh! Sounds fun! <Color:255,200,200,255>⑮<Color:Default> Let's try it, "
+"Kiryu-san!"
+msgstr ""
+
+msgctxt "172"
+msgid ""
+"Ooh! Sounds fun! <Color:255,200,200,255>⑮<Color:Default> Let's try it, "
+"Kiryu-san!"
+msgstr ""
+
+msgctxt "184"
+msgid ""
+"Ooh! Sounds fun! <Color:255,200,200,255>⑮<Color:Default> Let's try it, "
+"Kiryu-san!"
+msgstr ""
+
+msgctxt "196"
+msgid "All right. Let's give it a try."
+msgstr ""
+
+msgctxt "208"
+msgid "Very well, sir!"
+msgstr ""
+
+msgctxt "2596"
+msgid "Bartender"
+msgstr ""
+
+msgctxt "2600"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "2604"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "2608"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "2612"
+msgid "Reimi"
+msgstr ""
+
+msgctxt "2616"
+msgid "Shiori"
+msgstr ""
+
+msgctxt "2620"
+msgid "Kana"
+msgstr ""
+
+msgctxt "2624"
+msgid "Ranko"
+msgstr ""

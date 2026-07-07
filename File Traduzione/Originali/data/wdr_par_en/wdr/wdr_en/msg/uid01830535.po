@@ -1,0 +1,48 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "144"
+msgid "See anything you like, Haruka?"
+msgstr ""
+
+msgctxt "156"
+msgid "Huh!? Um, no... That's okay! Uh... Why don't we get something to eat?"
+msgstr ""
+
+msgctxt "168"
+msgid "(I'll try and find something nice for her...)"
+msgstr ""
+
+msgctxt "192"
+msgid "Thanks, Uncle Kaz! That was really nice of you."
+msgstr ""
+
+msgctxt "216"
+msgid "Huh!? What is it, Uncle Kaz?"
+msgstr ""
+
+msgctxt "1040"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1044"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "1048"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "1052"
+msgid "Talk_Request"
+msgstr ""

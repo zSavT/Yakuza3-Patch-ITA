@@ -1,0 +1,28 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "431\t518"
+msgid "Today's the day, huh?"
+msgstr ""
+
+msgctxt "532\t570"
+msgid "Yup."
+msgstr ""
+
+msgctxt "596\t635"
+msgid "...Right."
+msgstr ""
+
+msgctxt "658\t729"
+msgid "I'm here to say goodbye, too."
+msgstr ""

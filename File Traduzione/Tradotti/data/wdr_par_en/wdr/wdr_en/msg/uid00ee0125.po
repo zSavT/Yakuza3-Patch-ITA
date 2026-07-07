@@ -1,0 +1,186 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "216"
+msgid "Oh, hey there... You finally made it."
+msgstr ""
+
+msgctxt "228"
+msgid "Yeah, I thought I'd come check things out."
+msgstr ""
+
+msgctxt "240"
+msgid "Oh, and I ran into that Yonashiro-san you told me about."
+msgstr ""
+
+msgctxt "252"
+msgid ""
+"Yonashiro-san's a pretty tough opponent, huh? He can use all sorts of "
+"weapons, like nunchaku and whatnot. You could really learn a lot from him."
+msgstr ""
+
+msgctxt "264"
+msgid "I bet. I just didn't like how he showed up at my house all of the sudden."
+msgstr ""
+
+msgctxt "276"
+msgid "What!? Was that a problem...?"
+msgstr ""
+
+msgctxt "288"
+msgid "No, he's a great teacher. Thanks for sending him my way."
+msgstr ""
+
+msgctxt "300"
+msgid "Anyway, Yonashiro-san told me to bring the Certificates over to your place."
+msgstr ""
+
+msgctxt "312"
+msgid ""
+"Oh, right, the Master Certificates. See, I only mod weapons for people who "
+"have them."
+msgstr ""
+
+msgctxt "324"
+msgid "Why's that?"
+msgstr ""
+
+msgctxt "336"
+msgid ""
+"Because Yonashiro-san said so. He got really pissed at me one time and "
+"said, \"Don't you go selling weapons to just any fool off the street.\""
+msgstr ""
+
+msgctxt "348"
+msgid ""
+"Frankly, I think I should be able to sell to anyone I want, but he really "
+"scares me. Can't figure the guy out."
+msgstr ""
+
+msgctxt "360"
+msgid "......"
+msgstr ""
+
+msgctxt "384"
+msgid "Oh, hey there... You finally made it."
+msgstr ""
+
+msgctxt "396"
+msgid ""
+"At this shop, I sell weapons I've made and replenish ammo. I also have a "
+"weapon-modding service."
+msgstr ""
+
+msgctxt "408"
+msgid "Modding? What's that?"
+msgstr ""
+
+msgctxt "420"
+msgid "Well, it's a way to upgrade your weapons. I call it modding."
+msgstr ""
+
+msgctxt "432"
+msgid ""
+"To mod a weapon, you need a design, a weapon to serve as the starting "
+"point, and some materials. I can mod gear and accessories, too."
+msgstr ""
+
+msgctxt "444"
+msgid "Oh, I almost forgot... Did I tell you how my shop works?"
+msgstr ""
+
+msgctxt "456"
+msgid "You can modify your weapons, gear, and accessories here."
+msgstr ""
+
+msgctxt "468"
+msgid ""
+"Start by getting all the required items.\r\n"
+"Then, make a selection on the Mod menu to modify equipped items.\r\n"
+"\r\n"
+"You will need a <Color:255,255,0,255>design from a book or "
+"DVD<Color:Default>,\r\n"
+"a <Color:255,255,0,255>weapon or piece of equipment<Color:Default> to  "
+"mod,\r\n"
+"<Color:255,255,0,255>materials<Color:Default> with which to complete the "
+"mod,\r\n"
+"and the <Color:255,255,0,255>funds<Color:Default> to cover Kamiyama's costs."
+msgstr ""
+
+msgctxt "480"
+msgid ""
+"Check the required weapons and materials by displaying the Pause Menu and "
+"then going to \"Designs\" under \"Valuables\" in the Items screen."
+msgstr ""
+
+msgctxt "492"
+msgid ""
+"In addition to modding, I also make my own equipment. I'll show it to you, "
+"if you want."
+msgstr ""
+
+msgctxt "516"
+msgid "Oh, hey there. What can I do for you today?"
+msgstr ""
+
+msgctxt "612"
+msgid "All right, then. Maybe next time."
+msgstr ""
+
+msgctxt "624"
+msgid "Mod Weapons"
+msgstr ""
+
+msgctxt "636"
+msgid "Mod Gear or Accessories"
+msgstr ""
+
+msgctxt "648"
+msgid "Repair Weapons"
+msgstr ""
+
+msgctxt "660"
+msgid "Reload Ammo"
+msgstr ""
+
+msgctxt "672"
+msgid "View Designs"
+msgstr ""
+
+msgctxt "684"
+msgid "Buy Equipment/Designs"
+msgstr ""
+
+msgctxt "696"
+msgid "Never Mind"
+msgstr ""
+
+msgctxt "6828"
+msgid "Kamiyama"
+msgstr ""
+
+msgctxt "6832"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "6836"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "6840"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "6844"
+msgid "Equipment Modding"
+msgstr ""

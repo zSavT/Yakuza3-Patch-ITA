@@ -1,0 +1,214 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "260"
+msgid "Oh, Kiryu-san!"
+msgstr ""
+
+msgctxt "272"
+msgid ""
+"I don't have much in terms of accommodations to offer you, but you're free "
+"to rest here until tomorrow morning if you want."
+msgstr ""
+
+msgctxt "284"
+msgid ""
+"(Probably shouldn't. Not when I have Date-san with me, at least. We better "
+"head over to Serena.)"
+msgstr ""
+
+msgctxt "296"
+msgid "No thanks, Nishida. Maybe next time."
+msgstr ""
+
+msgctxt "308"
+msgid "Okay, you're welcome here anytime!"
+msgstr ""
+
+msgctxt "320"
+msgid "Oh, Kiryu-san!"
+msgstr ""
+
+msgctxt "332"
+msgid "Nishida. How have you been?"
+msgstr ""
+
+msgctxt "344"
+msgid ""
+"Oh just great, thanks for asking! I don't have much in terms of "
+"accommodations to offer you, but you're free to rest here until tomorrow "
+"morning if you want."
+msgstr ""
+
+msgctxt "368"
+msgid "(This is no time to relax. I need to get over to Serena, quick.)"
+msgstr ""
+
+msgctxt "380"
+msgid ""
+"(This is no time to relax. I need to get back to Kamurocho and check on "
+"Date, quick.)"
+msgstr ""
+
+msgctxt "392"
+msgid "Oh, Kiryu-san!"
+msgstr ""
+
+msgctxt "404"
+msgid "Nishida. How have you been?"
+msgstr ""
+
+msgctxt "416"
+msgid ""
+"Oh just great, thanks for asking! I don't have much in terms of "
+"accommodations to offer you, but you're free to rest here until dusk if you "
+"want."
+msgstr ""
+
+msgctxt "428"
+msgid "(That does sound kinda nice...)"
+msgstr ""
+
+msgctxt "440"
+msgid "No thanks, Nishida. Maybe next time."
+msgstr ""
+
+msgctxt "452"
+msgid "Okay, you're welcome here anytime!"
+msgstr ""
+
+msgctxt "464"
+msgid "Yeah, I think I'll kick back for a while."
+msgstr ""
+
+msgctxt "476"
+msgid "It's just a barebones prefab, but it's yours!"
+msgstr ""
+
+msgctxt "500"
+msgid "Oh, Kiryu-san!"
+msgstr ""
+
+msgctxt "512"
+msgid "Nishida. How have you been?"
+msgstr ""
+
+msgctxt "524"
+msgid ""
+"Oh just great, thanks for asking! I don't have much in terms of "
+"accommodations to offer you, but you're free to rest here until evening if "
+"you want."
+msgstr ""
+
+msgctxt "536"
+msgid "(That does sound kinda nice...)"
+msgstr ""
+
+msgctxt "548"
+msgid "No thanks, Nishida. Maybe next time."
+msgstr ""
+
+msgctxt "560"
+msgid "Okay, you're welcome here anytime!"
+msgstr ""
+
+msgctxt "572"
+msgid "Yeah, I think I'll kick back for a while."
+msgstr ""
+
+msgctxt "584"
+msgid "It's just a barebones prefab, but it's yours!"
+msgstr ""
+
+msgctxt "608"
+msgid "Oh, Kiryu-san!"
+msgstr ""
+
+msgctxt "620"
+msgid "Nishida. How have you been?"
+msgstr ""
+
+msgctxt "632"
+msgid ""
+"Oh just great, thanks for asking! I don't have much in terms of "
+"accommodations to offer you, but you're free to rest here until tomorrow "
+"morning if you want."
+msgstr ""
+
+msgctxt "644"
+msgid "(That does sound kinda nice...)"
+msgstr ""
+
+msgctxt "656"
+msgid "No thanks, Nishida. Maybe next time."
+msgstr ""
+
+msgctxt "668"
+msgid "Okay, you're welcome here anytime!"
+msgstr ""
+
+msgctxt "680"
+msgid "Yeah, I think I'll kick back for a while."
+msgstr ""
+
+msgctxt "692"
+msgid "It's just a barebones prefab, but it's yours!"
+msgstr ""
+
+msgctxt "716"
+msgid "Don't Rest"
+msgstr ""
+
+msgctxt "728"
+msgid "Rest Until Dusk"
+msgstr ""
+
+msgctxt "740"
+msgid "Don't Rest"
+msgstr ""
+
+msgctxt "752"
+msgid "Rest Until Evening"
+msgstr ""
+
+msgctxt "764"
+msgid "Don't Rest"
+msgstr ""
+
+msgctxt "776"
+msgid "Rest Until Morning"
+msgstr ""
+
+msgctxt "6136"
+msgid "Nishida"
+msgstr ""
+
+msgctxt "6140"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "6144"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "6148"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "6152"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "6156"
+msgid "Talk_Info_L"
+msgstr ""

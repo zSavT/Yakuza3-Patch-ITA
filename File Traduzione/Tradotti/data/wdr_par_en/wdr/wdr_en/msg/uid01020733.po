@@ -1,0 +1,241 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "80"
+msgid "Hey, are you all right? Can you tell me what's going on?"
+msgstr ""
+
+msgctxt "92"
+msgid "...Will you promise to keep this from Mikio?"
+msgstr ""
+
+msgctxt "104"
+msgid "Depends on what you say. I'll decide after I hear it."
+msgstr ""
+
+msgctxt "116"
+msgid ""
+"The new president of the Commerce Union's been laundering\r\n"
+"money, and it all goes to a yakuza family in Kansai. Only I\r\n"
+"have the proof to stop him."
+msgstr ""
+
+msgctxt "128"
+msgid ""
+"To make matters worse, the president is doing anything he\r\n"
+"can to close my restaurant and replace it with a supermarket\r\n"
+"chain from Kansai."
+msgstr ""
+
+msgctxt "140"
+msgid "Huh. So that's why all those Kansai punks are down here..."
+msgstr ""
+
+msgctxt "152"
+msgid ""
+"Yes. So just a little while ago, I waited for the president\r\n"
+"to leave, and then I took these."
+msgstr ""
+
+msgctxt "164"
+msgid "And those are?"
+msgstr ""
+
+msgctxt "176"
+msgid ""
+"The company ledgers. Soon enough, the president will realize\r\n"
+"I stole them, and then he'll most likely go after me... and\r\n"
+"my family."
+msgstr ""
+
+msgctxt "188"
+msgid ""
+"If they find out Mikio's a yakuza and it ends up starting a\r\n"
+"war... There'll be hell to pay."
+msgstr ""
+
+msgctxt "200"
+msgid "So that's why you wanted to send Mikio off to Nagasaki... Out of harm's way."
+msgstr ""
+
+msgctxt "212"
+msgid ""
+"Indeed. I don't care what happens to me, but I can't let anything happen to "
+"my family."
+msgstr ""
+
+msgctxt "224"
+msgid ""
+"Now I understand your situation. But the police can't always\r\n"
+"move fast enough to stop the yakuza, you know."
+msgstr ""
+
+msgctxt "236"
+msgid "......"
+msgstr ""
+
+msgctxt "248"
+msgid ""
+"Don't worry. I'll watch out for your family. You want to get\r\n"
+"those ledgers to the police, right?"
+msgstr ""
+
+msgctxt "260"
+msgid "Oh, yes."
+msgstr ""
+
+msgctxt "272"
+msgid "Can you go by yourself?"
+msgstr ""
+
+msgctxt "284"
+msgid "Yes, I'll go right away. I'm really grateful for this!"
+msgstr ""
+
+msgctxt "308"
+msgid ""
+"(So this runs deeper than a simple family issue... Mikio\r\n"
+"should know what's going on. He's probably back at the\r\n"
+"Ryudo Family office.)"
+msgstr ""
+
+msgctxt "332"
+msgid "All right, where are they? Talk!"
+msgstr ""
+
+msgctxt "344"
+msgid "I have no idea!"
+msgstr ""
+
+msgctxt "356"
+msgid "If we find out yer hiding 'em, you're gonna be in fer a world of hurt."
+msgstr ""
+
+msgctxt "368"
+msgid ""
+"Threaten me all you want! All I have to do is call\r\n"
+"the police and you'll be put away for good!"
+msgstr ""
+
+msgctxt "380"
+msgid ""
+"Be my guest, Aragaki-san. We don't care. One of us gets the\r\n"
+"slammer, and yer gonna be in the afterlife. In fact, that'd\r\n"
+"solve our problem entirely!"
+msgstr ""
+
+msgctxt "392"
+msgid "Can't be yakuza if we're afraid of police and prison time!"
+msgstr ""
+
+msgctxt "404"
+msgid "Urgh...!"
+msgstr ""
+
+msgctxt "416"
+msgid ""
+"But we're human, too. We don't enjoy killin' people just to\r\n"
+"solve problems."
+msgstr ""
+
+msgctxt "428"
+msgid "So how about just givin' us back them ledgers and none'll be the wiser?"
+msgstr ""
+
+msgctxt "440"
+msgid "......!"
+msgstr ""
+
+msgctxt "476"
+msgid "Whatever you're trying to do, you need to give it up."
+msgstr ""
+
+msgctxt "488"
+msgid "Yer that shithead from last time! This time, we'll shut yer ass up for good!"
+msgstr ""
+
+msgctxt "6996"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "7000"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "7004"
+msgid "Aragaki"
+msgstr ""
+
+msgctxt "7008"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "7012"
+msgid "Talk_Kosite_st"
+msgstr ""
+
+msgctxt "7016"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "7020"
+msgid "Talk_Kosite_ed"
+msgstr ""
+
+msgctxt "7024"
+msgid "Talk_Send"
+msgstr ""
+
+msgctxt "7028"
+msgid "Junior Kansai Yakuza"
+msgstr ""
+
+msgctxt "7032"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "7036"
+msgid "Talk_NoBig"
+msgstr ""
+
+msgctxt "7040"
+msgid "Senior Kansai Yakuza"
+msgstr ""
+
+msgctxt "7044"
+msgid "Talk_Away"
+msgstr ""
+
+msgctxt "7048"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "7052"
+msgid "Talk_Request"
+msgstr ""
+
+msgctxt "7056"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "7060"
+msgid "Talk_Udekumi_st"
+msgstr ""
+
+msgctxt "7064"
+msgid "Talk_Udekumi_lp"
+msgstr ""
+
+msgctxt "7068"
+msgid "Talk_Udekumi_ed"
+msgstr ""

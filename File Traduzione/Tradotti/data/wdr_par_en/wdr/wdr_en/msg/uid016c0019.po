@@ -1,0 +1,524 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "512"
+msgid "Controls"
+msgstr ""
+
+msgctxt "524"
+msgid ""
+"Use the "
+"<Action:Button_LS_Up@Cabaret><Action:Button_LS_Down@Cabaret><Action:Button_"
+"LS_Left@Cabaret><Action:Button_LS_Right@Cabaret> to control your gaze."
+msgstr ""
+
+msgctxt "536"
+msgid ""
+"Press <Action:Button_Cross@Cabaret> to stare at a particular area. Hold "
+"down <Action:Button_Cross@Cabaret> to focus."
+msgstr ""
+
+msgctxt "548"
+msgid "Looking at different areas will provoke different reactions."
+msgstr ""
+
+msgctxt "572"
+msgid "(Her eyes...?)"
+msgstr ""
+
+msgctxt "584"
+msgid "(Her lips...?)"
+msgstr ""
+
+msgctxt "596"
+msgid "(Her hands are nice...)"
+msgstr ""
+
+msgctxt "608"
+msgid "(I like her legs...)"
+msgstr ""
+
+msgctxt "620"
+msgid "(That's a cute hairstyle...)"
+msgstr ""
+
+msgctxt "632"
+msgid "(Not bad...)"
+msgstr ""
+
+msgctxt "644"
+msgid "(Hmm...)"
+msgstr ""
+
+msgctxt "656"
+msgid "You have really nice eyes. I could stare into them all day."
+msgstr ""
+
+msgctxt "668"
+msgid "Really? You think my eyes are cute?"
+msgstr ""
+
+msgctxt "680"
+msgid "Yeah, they're adorable."
+msgstr ""
+
+msgctxt "692"
+msgid "I love getting fake eyelashes, or having my eyelashes permed."
+msgstr ""
+
+msgctxt "704"
+msgid "Wait, you... perm your eyelashes?"
+msgstr ""
+
+msgctxt "716"
+msgid "Yeah! They look soooo much cuter when I perm them!"
+msgstr ""
+
+msgctxt "728"
+msgid ""
+"Hey, next time we hang out, we can perm yours! I'm getting pretty good at "
+"doing it by myself. <Color:7>⑮⑮<Color:Default>"
+msgstr ""
+
+msgctxt "740"
+msgid "I love your lips."
+msgstr ""
+
+msgctxt "752"
+msgid "Really!? Even though they're only good for saying stupid stuff?"
+msgstr ""
+
+msgctxt "764"
+msgid "I don't mind that at all. I have a lot of fun talking with you."
+msgstr ""
+
+msgctxt "776"
+msgid "Same! Talking to you always cheers me up, Kiryu-san!"
+msgstr ""
+
+msgctxt "788"
+msgid ""
+"Man, if you were my boyfriend, I'd give you a big kiss right now! Too bad. "
+"<Color:7>⑮⑮<Color:Default>"
+msgstr ""
+
+msgctxt "800"
+msgid "I like your hands."
+msgstr ""
+
+msgctxt "812"
+msgid "My hands? Even though my arms are chubby?"
+msgstr ""
+
+msgctxt "824"
+msgid "Yeah. I like them just the way they are."
+msgstr ""
+
+msgctxt "836"
+msgid "Ehehe... I'm glad I'm a little chubby, then. <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "848"
+msgid ""
+"If you're nice to me, I'll let you touch my chubby curves,\r\n"
+"Kiryu-san. <Color:7>⑮⑮<Color:Default>"
+msgstr ""
+
+msgctxt "860"
+msgid "I guess I'll have to be nicer, then."
+msgstr ""
+
+msgctxt "872"
+msgid "I like your legs."
+msgstr ""
+
+msgctxt "884"
+msgid ""
+"Hey! I know what you're doing here! You're trying to peek up my skirt, "
+"aren't you!?"
+msgstr ""
+
+msgctxt "896"
+msgid "...Wait, what?"
+msgstr ""
+
+msgctxt "908"
+msgid ""
+"Geez, Kiryu-san... I thought you were better than all those other guys, but "
+"I guess you're a perv like the rest..."
+msgstr ""
+
+msgctxt "920"
+msgid "Hold on a sec. What are you talking about? I'm seriously confused here."
+msgstr ""
+
+msgctxt "932"
+msgid ""
+"I saw something on TV that sketchy guys are using compliments like that to "
+"try and get girls to pull up their skirts a little! That's when they strike."
+msgstr ""
+
+msgctxt "944"
+msgid "Uh..."
+msgstr ""
+
+msgctxt "956"
+msgid "What? You've never heard of that, Kiryu-san?"
+msgstr ""
+
+msgctxt "968"
+msgid "I like your hair. It's really cute today."
+msgstr ""
+
+msgctxt "980"
+msgid "Really!? You think this is cute?"
+msgstr ""
+
+msgctxt "992"
+msgid "It's so me, isn't it? All fluffy and wavy! <Color:7>⑮⑮<Color:Default>"
+msgstr ""
+
+msgctxt "1004"
+msgid ""
+"Earlier today, one of my other customers started petting it. He said it was "
+"really cute! <Color:7>⑮⑮<Color:Default>"
+msgstr ""
+
+msgctxt "1016"
+msgid "I'll admit, I'm pretty tempted to do the same."
+msgstr ""
+
+msgctxt "1028"
+msgid "...Your breasts."
+msgstr ""
+
+msgctxt "1040"
+msgid "What!? I can't believe you just like, said that, right to my face!"
+msgstr ""
+
+msgctxt "1052"
+msgid "You asked me what I thought was cute. Your breasts are really cute."
+msgstr ""
+
+msgctxt "1064"
+msgid "Huh!? I mean, sure, I guess..."
+msgstr ""
+
+msgctxt "1076"
+msgid "It's the truth. You have a nice chest."
+msgstr ""
+
+msgctxt "1088"
+msgid "Well, okay... You know, you're pretty persuasive, Kiryu-san."
+msgstr ""
+
+msgctxt "1100"
+msgid ""
+"I feel a lot more confident about myself now. <Color:7>⑮⑮<Color:Default> "
+"Thanks a bunch, Kiryu-san. <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "1112"
+msgid "No problem."
+msgstr ""
+
+msgctxt "1124"
+msgid "What? Did you see something somewhere?"
+msgstr ""
+
+msgctxt "1136"
+msgid "Oh, no, I just..."
+msgstr ""
+
+msgctxt "1148"
+msgid "Oh, geez... You don't see any ghosts, right? Right!?"
+msgstr ""
+
+msgctxt "1160"
+msgid ""
+"I can't handle that kind of scary stuff! Don't say anything, okay!? I don't "
+"want to know if it's there or not! Let me live in blissful ignorance!"
+msgstr ""
+
+msgctxt "1172"
+msgid "Oh..."
+msgstr ""
+
+msgctxt "1184"
+msgid "(Her eyes...?)"
+msgstr ""
+
+msgctxt "1196"
+msgid "(Her lips...)"
+msgstr ""
+
+msgctxt "1208"
+msgid "(Her hands...)"
+msgstr ""
+
+msgctxt "1220"
+msgid "(Her legs...)"
+msgstr ""
+
+msgctxt "1232"
+msgid "(Her hair...)"
+msgstr ""
+
+msgctxt "1244"
+msgid "(...Definitely her chest. How do I put that nicely...)"
+msgstr ""
+
+msgctxt "1256"
+msgid "(Hmm...)"
+msgstr ""
+
+msgctxt "1268"
+msgid "You're right... Your eyes are pretty amazing."
+msgstr ""
+
+msgctxt "1280"
+msgid ""
+"Right!? I permed my eyelashes and put on falsies on top of them! "
+"<Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "1292"
+msgid ""
+"I always try to look super glittery and pretty, but today I put a lot of "
+"extra work into being super glaudy, too!"
+msgstr ""
+
+msgctxt "1304"
+msgid ""
+"I mean, when I realized you'd be coming to see me, I couldn't help but put "
+"a ton of effort into my makeup."
+msgstr ""
+
+msgctxt "1316"
+msgid ""
+"It's pretty awesome, right? Tell me how awesome it is! "
+"<Color:7>⑮⑮<Color:Default>"
+msgstr ""
+
+msgctxt "1328"
+msgid "Hahaha, you got it."
+msgstr ""
+
+msgctxt "1340"
+msgid "I think your lips are much more glittery and gaudy."
+msgstr ""
+
+msgctxt "1352"
+msgid "Wait... Really? I mean, I did put a lot of work into my lips..."
+msgstr ""
+
+msgctxt "1364"
+msgid "You sure like this whole \"glaudy\" thing, huh?"
+msgstr ""
+
+msgctxt "1376"
+msgid ""
+"Heck yeah I do! <Color:7>⑮<Color:Default> It's way better to be glaudy than "
+"just gaudy, you know? It's so energizing."
+msgstr ""
+
+msgctxt "1388"
+msgid "Your hands are pretty glittery and gaudy."
+msgstr ""
+
+msgctxt "1400"
+msgid ""
+"You think so? I was trying to be a little more subtle with my nails, "
+"actually..."
+msgstr ""
+
+msgctxt "1412"
+msgid "Really?"
+msgstr ""
+
+msgctxt "1424"
+msgid ""
+"Today was all about maxing out the glam on my eyes. "
+"<Color:7>⑮<Color:Default> But if you're into my nails, I can glaud them out "
+"for you next time, Kiryu-san."
+msgstr ""
+
+msgctxt "1436"
+msgid "I like your legs."
+msgstr ""
+
+msgctxt "1448"
+msgid "Uh, Kiryu-san? I told you to look at my eyes! Come on!"
+msgstr ""
+
+msgctxt "1460"
+msgid "Oh, right..."
+msgstr ""
+
+msgctxt "1472"
+msgid "Man, Kiryu-san, you need to learn to listen. You're a grown man!"
+msgstr ""
+
+msgctxt "1484"
+msgid "Pot, meet kettle..."
+msgstr ""
+
+msgctxt "1496"
+msgid "What did you say!?"
+msgstr ""
+
+msgctxt "1508"
+msgid "Uh, nothing..."
+msgstr ""
+
+msgctxt "1520"
+msgid "Your hair's a lot more glittery and gaudy today."
+msgstr ""
+
+msgctxt "1532"
+msgid "Uh, I don't think so. This style isn't glaudy, it's more gorg than anything."
+msgstr ""
+
+msgctxt "1544"
+msgid "But maybe you like the gorg style more than the glaudy style..."
+msgstr ""
+
+msgctxt "1556"
+msgid ""
+"Well, then maybe next time, I'll put on a more gorg look instead of my "
+"usual glaudy fashion."
+msgstr ""
+
+msgctxt "1568"
+msgid "Sure. Can't wait to see what you come up with."
+msgstr ""
+
+msgctxt "1580"
+msgid "Hey! What do you think you're doing, huh!? Come on!"
+msgstr ""
+
+msgctxt "1592"
+msgid "I can't believe you. I told you to look at my eyes, remember?"
+msgstr ""
+
+msgctxt "1604"
+msgid "Yeah, you did..."
+msgstr ""
+
+msgctxt "1616"
+msgid "Man, Kiryu-san, you need to learn to listen. You're a grown man!"
+msgstr ""
+
+msgctxt "1628"
+msgid "Pot, meet kettle..."
+msgstr ""
+
+msgctxt "1640"
+msgid "What did you say!?"
+msgstr ""
+
+msgctxt "1652"
+msgid "Uh, nothing..."
+msgstr ""
+
+msgctxt "1664"
+msgid "Hey! What do you think you're doing, huh!? Come on!"
+msgstr ""
+
+msgctxt "1676"
+msgid "Oh... Sorry."
+msgstr ""
+
+msgctxt "1688"
+msgid "Man, Kiryu-san, you need to learn to listen. You're a grown man!"
+msgstr ""
+
+msgctxt "1700"
+msgid "Pot, meet kettle..."
+msgstr ""
+
+msgctxt "1712"
+msgid "What did you say!?"
+msgstr ""
+
+msgctxt "1724"
+msgid "Uh, nothing..."
+msgstr ""
+
+msgctxt "17172"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "17176"
+msgid "F_cab_sitsofa_hot_momoA"
+msgstr ""
+
+msgctxt "17180"
+msgid "F_cab_sitsofa_hot_muneA"
+msgstr ""
+
+msgctxt "17184"
+msgid "Yui"
+msgstr ""
+
+msgctxt "17188"
+msgid "F_cab_sitsofa_tlk_happy"
+msgstr ""
+
+msgctxt "17192"
+msgid "F_cab_sitsofa_talk_smileA"
+msgstr ""
+
+msgctxt "17196"
+msgid "F_cab_sitsofa_tlk_suprise"
+msgstr ""
+
+msgctxt "17200"
+msgid "F_cab_sitsofa_tlk_angry"
+msgstr ""
+
+msgctxt "17204"
+msgid "F_cab_sitsofa_tlk_noA"
+msgstr ""
+
+msgctxt "17208"
+msgid "F_cab_sitsofa_tlk_yes"
+msgstr ""
+
+msgctxt "17212"
+msgid "F_cab_sitsofa_tlk_kamaeAtoB"
+msgstr ""
+
+msgctxt "17216"
+msgid "F_cab_sitsofa_tlk_cry"
+msgstr ""
+
+msgctxt "17220"
+msgid "F_cab_sitsofa_tlk_refuse"
+msgstr ""
+
+msgctxt "17224"
+msgid "F_cab_sitsofa_sp8_sync_crap"
+msgstr ""
+
+msgctxt "17228"
+msgid "P_sitsofa_sp8_sync_crap"
+msgstr ""
+
+msgctxt "17232"
+msgid "F_cab_sitsofa_sp3_sync_uwame"
+msgstr ""
+
+msgctxt "17236"
+msgid "P_sitsofa_sp3_sync_uwame"
+msgstr ""

@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid "Date-san! What happened? Are you hurt!?"
+msgstr ""
+
+msgctxt "76"
+msgid ""
+"Dammit... That bastard slipped away from me... And he's still got Mama with "
+"him!"
+msgstr ""
+
+msgctxt "88"
+msgid ""
+"He mentioned going somewhere that would bring back memories... Could that "
+"be...?"
+msgstr ""
+
+msgctxt "100"
+msgid "Yeah... Probably where he shot Keisuke."
+msgstr ""
+
+msgctxt "112"
+msgid "Where did it happen? I'll go get Mama back."
+msgstr ""
+
+msgctxt "124"
+msgid ""
+"Don't be stupid, Kiryu. This is my problem, so I need to be\r\n"
+"the one to solve it. You shouldn't get involved."
+msgstr ""
+
+msgctxt "136"
+msgid "Date-san..."
+msgstr ""
+
+msgctxt "148"
+msgid "Sorry, Kiryu. But I need to take care of this one alone."
+msgstr ""
+
+msgctxt "160"
+msgid ""
+"If I don't, I'll never have peace of mind... Not about Keisuke, and not "
+"about the woman I love."
+msgstr ""
+
+msgctxt "184"
+msgid "Date-san... Don't get yourself killed."
+msgstr ""
+
+msgctxt "2312"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "2316"
+msgid "Date"
+msgstr ""
+
+msgctxt "2320"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "2324"
+msgid "Idle"
+msgstr ""

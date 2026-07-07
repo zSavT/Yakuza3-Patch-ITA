@@ -1,0 +1,64 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "92"
+msgid "Have you seen a girl with a sketchbook around here recently?"
+msgstr ""
+
+msgctxt "104"
+msgid "Yeah. I think I saw her walk by with her mother a little bit ago."
+msgstr ""
+
+msgctxt "116"
+msgid "Her mother?"
+msgstr ""
+
+msgctxt "128"
+msgid ""
+"I mean, I imagine it was her mother... The two of 'em were holding hands, "
+"so I thought for sure they were mother and daughter."
+msgstr ""
+
+msgctxt "140"
+msgid "Where did you see them?"
+msgstr ""
+
+msgctxt "152"
+msgid ""
+"Over in Hatsumachi. I remember because I was thinking it was a bit of a "
+"strange place to bring a kid."
+msgstr ""
+
+msgctxt "164"
+msgid "Hatsumachi, huh? All right, thanks."
+msgstr ""
+
+msgctxt "1212"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1216"
+msgid "Sharp-Eyed Man"
+msgstr ""
+
+msgctxt "1220"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "1224"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "1228"
+msgid "Talk_Quest"
+msgstr ""

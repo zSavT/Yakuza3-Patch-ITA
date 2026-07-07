@@ -1,0 +1,242 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "124"
+msgid "Hehe... Get ready to lose, Kiryu-san."
+msgstr ""
+
+msgctxt "136"
+msgid "Come on, let's go in."
+msgstr ""
+
+msgctxt "148"
+msgid "All right."
+msgstr ""
+
+msgctxt "172"
+msgid "Hehe... Get ready to lose, Kiryu-san."
+msgstr ""
+
+msgctxt "184"
+msgid "Come on, let's go in."
+msgstr ""
+
+msgctxt "196"
+msgid "...Actually, hold on. I'm a little short on cash today."
+msgstr ""
+
+msgctxt "208"
+msgid "Huh? What are you trying to say here?"
+msgstr ""
+
+msgctxt "220"
+msgid "I'm saying we might have to postpone our game... Sorry about that."
+msgstr ""
+
+msgctxt "232"
+msgid "*sigh* Then maybe I should just go home. Bye..."
+msgstr ""
+
+msgctxt "244"
+msgid ""
+"(How did I run out of money in the middle of a date...? I won't let that "
+"happen next time.)"
+msgstr ""
+
+msgctxt "352"
+msgid "Wow, you're even good at darts? I'm impressed."
+msgstr ""
+
+msgctxt "364"
+msgid "Heh. It's all in the wrist."
+msgstr ""
+
+msgctxt "376"
+msgid ""
+"Today was really fun. Hope we can go out again soon. "
+"<Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "388"
+msgid "Anyway, I'd better get going now. Take care."
+msgstr ""
+
+msgctxt "412"
+msgid "Hehe, so it's a tie. Good game."
+msgstr ""
+
+msgctxt "424"
+msgid "Thanks. You were a worthy opponent."
+msgstr ""
+
+msgctxt "436"
+msgid "Today was really fun. Ask me out again sometime, okay?"
+msgstr ""
+
+msgctxt "448"
+msgid "Well, I'd better be on my way. Take care."
+msgstr ""
+
+msgctxt "472"
+msgid "Ooh, looks like I won. Better luck next time? <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "484"
+msgid "I guess so."
+msgstr ""
+
+msgctxt "496"
+msgid ""
+"Today was really fun. Hope we can go out again soon. "
+"<Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "508"
+msgid "Anyway, I'd better get going now. Take care."
+msgstr ""
+
+msgctxt "532"
+msgid ""
+"Major error!\r\n"
+"No flags set for conversation selection!"
+msgstr ""
+
+msgctxt "616"
+msgid "Hehe... Get ready to lose, Kiryu-san."
+msgstr ""
+
+msgctxt "628"
+msgid "Come on, let's go in."
+msgstr ""
+
+msgctxt "640"
+msgid "All right."
+msgstr ""
+
+msgctxt "664"
+msgid "Hehe... Get ready to lose, Kiryu-san."
+msgstr ""
+
+msgctxt "676"
+msgid "Come on, let's go in."
+msgstr ""
+
+msgctxt "688"
+msgid "...Actually, hold on. I'm a little short on cash today."
+msgstr ""
+
+msgctxt "700"
+msgid "Huh? What are you trying to say here?"
+msgstr ""
+
+msgctxt "712"
+msgid "I'm saying we might have to postpone our game... Sorry about that."
+msgstr ""
+
+msgctxt "724"
+msgid "*sigh* Then maybe I should just go home. Bye..."
+msgstr ""
+
+msgctxt "736"
+msgid ""
+"(How did I run out of money in the middle of a date...? I won't let that "
+"happen next time.)"
+msgstr ""
+
+msgctxt "844"
+msgid "Wow, you're even good at darts? I'm impressed."
+msgstr ""
+
+msgctxt "856"
+msgid "Heh. It's all in the wrist."
+msgstr ""
+
+msgctxt "868"
+msgid ""
+"Well, why don't we head over to the club and continue the fun? "
+"<Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "880"
+msgid "Yeah, let's do that."
+msgstr ""
+
+msgctxt "904"
+msgid "Hehe, so it's a tie. Good game."
+msgstr ""
+
+msgctxt "916"
+msgid "Thanks. You were a worthy opponent."
+msgstr ""
+
+msgctxt "928"
+msgid ""
+"Well, why don't we head over to the club and continue the fun? "
+"<Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "940"
+msgid "Yeah, let's do that."
+msgstr ""
+
+msgctxt "964"
+msgid "Ooh, looks like I won. Better luck next time? <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "976"
+msgid "I guess so."
+msgstr ""
+
+msgctxt "988"
+msgid ""
+"Well, why don't we head over to the club and continue the fun? "
+"<Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "1000"
+msgid "Yeah, let's do that."
+msgstr ""
+
+msgctxt "1024"
+msgid ""
+"Major error!\r\n"
+"No flags set for conversation selection!"
+msgstr ""
+
+msgctxt "12452"
+msgid "Nao"
+msgstr ""
+
+msgctxt "12456"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "12460"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "12464"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "12468"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "12472"
+msgid "dummy"
+msgstr ""
+
+msgctxt "12476"
+msgid "0"
+msgstr ""

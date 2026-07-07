@@ -1,0 +1,112 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid "Ugh, this is goin' nowhere..."
+msgstr ""
+
+msgctxt "76"
+msgid ""
+"You're gonna love it at Morning Glory, doggy! Everyone's\r\n"
+"really nice!"
+msgstr ""
+
+msgctxt "88"
+msgid "Will you build him a doghouse, Uncle Mikio? Pleeease!"
+msgstr ""
+
+msgctxt "100"
+msgid "Uh... Suuure."
+msgstr ""
+
+msgctxt "112"
+msgid "Really!?"
+msgstr ""
+
+msgctxt "124"
+msgid ""
+"Did you hear that, Mame? You get to live in a brand-new\r\n"
+"house!"
+msgstr ""
+
+msgctxt "136"
+msgid "Mame? You already named him...?"
+msgstr ""
+
+msgctxt "148"
+msgid "Hey, outta the way!"
+msgstr ""
+
+msgctxt "160"
+msgid "This store's Tamashiro property now! Scram!"
+msgstr ""
+
+msgctxt "184"
+msgid ""
+"Ugh, quit your fuckin' yapping! C'mon, let's teach that\r\n"
+"mutt a lesson!"
+msgstr ""
+
+msgctxt "196"
+msgid "No!"
+msgstr ""
+
+msgctxt "208"
+msgid ""
+"Well, well, well. The Ryudo's resident lardbucket came to\r\n"
+"pay us a visit! How 'bout we show him some hospitality!"
+msgstr ""
+
+msgctxt "2648"
+msgid "Mikio"
+msgstr ""
+
+msgctxt "2652"
+msgid "Izumi"
+msgstr ""
+
+msgctxt "2656"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "2660"
+msgid "Aggressive Man"
+msgstr ""
+
+msgctxt "2664"
+msgid "Tamashiro Grunt"
+msgstr ""
+
+msgctxt "2668"
+msgid "M_big_stand_tlk_kamae"
+msgstr ""
+
+msgctxt "2672"
+msgid "Idle"
+msgstr ""
+
+msgctxt "2676"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "2680"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "2684"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "2688"
+msgid "Talk_Chohatu"
+msgstr ""

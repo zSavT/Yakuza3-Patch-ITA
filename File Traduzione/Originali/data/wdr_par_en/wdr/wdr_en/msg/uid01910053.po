@@ -1,0 +1,330 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "196"
+msgid "Who the hell is this guy...?"
+msgstr ""
+
+msgctxt "208"
+msgid ""
+"By changing, I assume you mean you were dressing as\r\n"
+"a woman to disguise yourself?"
+msgstr ""
+
+msgctxt "220"
+msgid ""
+"That's right. A couple looks less suspicious. Doesn't\r\n"
+"attract as much attention."
+msgstr ""
+
+msgctxt "232"
+msgid "What? You think it's funny? Fine. Laugh all you want."
+msgstr ""
+
+msgctxt "244"
+msgid ""
+"This is how we work best, but the guys in the family always\r\n"
+"looked down on us for that."
+msgstr ""
+
+msgctxt "256"
+msgid ""
+"No matter how big of a job we pulled off, they'd laugh and\r\n"
+"tell us, \"yakuza don't wear skirts.\""
+msgstr ""
+
+msgctxt "268"
+msgid "Eventually, we had enough and got the hell out."
+msgstr ""
+
+msgctxt "280"
+msgid "And you joined the Reapers?"
+msgstr ""
+
+msgctxt "292"
+msgid ""
+"It's hilarious to see yakuza members getting thrashed by\r\n"
+"a guy in drag!"
+msgstr ""
+
+msgctxt "304"
+msgid ""
+"And everyone who sees it thinks some tough guy is getting\r\n"
+"the shit beat out of him by a girl."
+msgstr ""
+
+msgctxt "316"
+msgid "Shoots the yakuza's pride all to hell. Heh."
+msgstr ""
+
+msgctxt "328"
+msgid ""
+"Kind of ironic that guys who used to look down on us are\r\n"
+"now getting their asses kicked by us."
+msgstr ""
+
+msgctxt "340"
+msgid "That's how you're getting revenge on them?"
+msgstr ""
+
+msgctxt "352"
+msgid "I wouldn't call it revenge."
+msgstr ""
+
+msgctxt "364"
+msgid ""
+"We're just living our lives the way we want to. And enjoying\r\n"
+"the hell out of it, too."
+msgstr ""
+
+msgctxt "376"
+msgid ""
+"I see. Well, you can tell them all about the Reapers over\r\n"
+"at the Honest Living Association."
+msgstr ""
+
+msgctxt "448"
+msgid "(Isn't that Mr. and Mrs. Odagiri? Ibuki told me about them.)"
+msgstr ""
+
+msgctxt "496"
+msgid "(They're splitting up... Who should I follow?)"
+msgstr ""
+
+msgctxt "508"
+msgid "(The Odagiris are talking to each other again.)"
+msgstr ""
+
+msgctxt "556"
+msgid "(Splitting up again? I bet the husband's on to me...)"
+msgstr ""
+
+msgctxt "568"
+msgid "(Guess I'll go after the husband.)"
+msgstr ""
+
+msgctxt "640"
+msgid "(Huh? He's going outside?)"
+msgstr ""
+
+msgctxt "652"
+msgid "What do you want with my husband?"
+msgstr ""
+
+msgctxt "664"
+msgid "(Damn, I was spotted...)"
+msgstr ""
+
+msgctxt "676"
+msgid "Huh? What's going on?"
+msgstr ""
+
+msgctxt "688"
+msgid "This man has been spying on you!"
+msgstr ""
+
+msgctxt "700"
+msgid "What!? Excuse me, but what the hell are you doing?"
+msgstr ""
+
+msgctxt "712"
+msgid ""
+"Excuse me, sir! Call the police! This man is harassing\r\n"
+"my husband!"
+msgstr ""
+
+msgctxt "724"
+msgid "(Uh-oh...)"
+msgstr ""
+
+msgctxt "784"
+msgid "What seems to be the problem?"
+msgstr ""
+
+msgctxt "796"
+msgid "This man has been stalking my husband!"
+msgstr ""
+
+msgctxt "808"
+msgid "Please do something!"
+msgstr ""
+
+msgctxt "820"
+msgid "You there! Let's see some identification."
+msgstr ""
+
+msgctxt "832"
+msgid "(I don't like the way this is going...)"
+msgstr ""
+
+msgctxt "868"
+msgid "(Guess I'll go after the wife.)"
+msgstr ""
+
+msgctxt "952"
+msgid "(She went into the men's room... What's going on?)"
+msgstr ""
+
+msgctxt "1012"
+msgid "(That guy's got the same bag Mrs. Odagiri had.)"
+msgstr ""
+
+msgctxt "1024"
+msgid "Hey, I've got a question for you."
+msgstr ""
+
+msgctxt "1036"
+msgid "What is it?"
+msgstr ""
+
+msgctxt "1048"
+msgid ""
+"A woman carrying that exact bag just went into the men's\r\n"
+"room. What's the story there?"
+msgstr ""
+
+msgctxt "1060"
+msgid "No idea. Can I go now?"
+msgstr ""
+
+msgctxt "1072"
+msgid "Not yet. I need to find the owner of that bag."
+msgstr ""
+
+msgctxt "1084"
+msgid "Tell me where she went."
+msgstr ""
+
+msgctxt "1096"
+msgid "You ready...? Huh? Who's this guy?"
+msgstr ""
+
+msgctxt "1108"
+msgid "No, see... Aw, to hell with it!"
+msgstr ""
+
+msgctxt "1120"
+msgid "He caught me changing! Let's get rid of him!"
+msgstr ""
+
+msgctxt "1132"
+msgid "What!? Well, no going back now..."
+msgstr ""
+
+msgctxt "1144"
+msgid "Brace yourself, asshole!"
+msgstr ""
+
+msgctxt "1168"
+msgid "Follow the Husband"
+msgstr ""
+
+msgctxt "1180"
+msgid "Follow the Wife"
+msgstr ""
+
+msgctxt "1192"
+msgid "Follow the Husband"
+msgstr ""
+
+msgctxt "1204"
+msgid "Follow the Wife"
+msgstr ""
+
+msgctxt "10324"
+msgid "Mr. Odagiri"
+msgstr ""
+
+msgctxt "10328"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "10332"
+msgid "Talk_Udekumi_st"
+msgstr ""
+
+msgctxt "10336"
+msgid "Idle"
+msgstr ""
+
+msgctxt "10340"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "10344"
+msgid "Talk_Away"
+msgstr ""
+
+msgctxt "10348"
+msgid "Talk_Udekumi_ed"
+msgstr ""
+
+msgctxt "10352"
+msgid "Talk_SmileBig_st"
+msgstr ""
+
+msgctxt "10356"
+msgid "Talk_SmileBig_ed"
+msgstr ""
+
+msgctxt "10360"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "10364"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "10368"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "10372"
+msgid "P_stand_tlk_phone_st"
+msgstr ""
+
+msgctxt "10376"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "10380"
+msgid "Mrs. Odagiri"
+msgstr ""
+
+msgctxt "10384"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "10388"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "10392"
+msgid "Officer"
+msgstr ""
+
+msgctxt "10396"
+msgid "0"
+msgstr ""
+
+msgctxt "10400"
+msgid "Man with a Familiar Bag"
+msgstr ""
+
+msgctxt "10404"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "10408"
+msgid "Talk_Chohatu"
+msgstr ""

@@ -1,0 +1,54 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "124"
+msgid ""
+"You're lookin' pretty sharp, fella. I feel bad fer people like you, weighed "
+"down by buttloads of cash. Let me do ya a favor and take some off yer hands."
+msgstr ""
+
+msgctxt "136"
+msgid "Whoa, where do ya think you're goin'? I said I was gonna take your money!"
+msgstr ""
+
+msgctxt "160"
+msgid "Sorry about that! I just wanted a little spendin' cash is all."
+msgstr ""
+
+msgctxt "172"
+msgid "Look, I know I was bein' an ass. Take this and we'll call it even, yeah?"
+msgstr ""
+
+msgctxt "184"
+msgid "You got a whisky-soaked %s."
+msgstr ""
+
+msgctxt "220"
+msgid "Guess I should look for a job, huh?"
+msgstr ""
+
+msgctxt "1412"
+msgid "Angry Punk"
+msgstr ""
+
+msgctxt "1416"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "1420"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "1424"
+msgid "Sync_Send"
+msgstr ""

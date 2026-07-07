@@ -1,0 +1,68 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid "Where the hell'd she go?"
+msgstr ""
+
+msgctxt "76"
+msgid ""
+"Better find out quick. You know what Aniki's like when he doesn't get what "
+"he wants."
+msgstr ""
+
+msgctxt "88"
+msgid "Shut up, man! You think I don't know that!?"
+msgstr ""
+
+msgctxt "100"
+msgid "It's about time I taught that bitch a lesson..."
+msgstr ""
+
+msgctxt "112"
+msgid ""
+"I'm gettin' hard just thinkin' about it. I dunno how much longer I can "
+"wait..."
+msgstr ""
+
+msgctxt "124"
+msgid "Then think with the head on your shoulders, idiot. We still gotta find her."
+msgstr ""
+
+msgctxt "136"
+msgid "On it."
+msgstr ""
+
+msgctxt "208"
+msgid "(Were they talking about Shiori...?)"
+msgstr ""
+
+msgctxt "1760"
+msgid "Moriyama"
+msgstr ""
+
+msgctxt "1764"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "1768"
+msgid "Domoto"
+msgstr ""
+
+msgctxt "1772"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "1776"
+msgid "Kiryu"
+msgstr ""

@@ -1,0 +1,42 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "92"
+msgid ""
+"What's that you're looking for? Yokoi Office?\r\n"
+"Yeah, it's right inside this building."
+msgstr ""
+
+msgctxt "104"
+msgid "It's on the eighth floor. Can't miss it."
+msgstr ""
+
+msgctxt "116"
+msgid "Got it. Thanks."
+msgstr ""
+
+msgctxt "128"
+msgid "(So it's on the eighth floor... Hope the elevator's working.)"
+msgstr ""
+
+msgctxt "744"
+msgid "Salaryman on Showa Street"
+msgstr ""
+
+msgctxt "748"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "752"
+msgid "Kiryu"
+msgstr ""

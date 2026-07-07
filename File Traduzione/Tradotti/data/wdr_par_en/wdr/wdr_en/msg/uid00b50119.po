@@ -1,0 +1,778 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "396"
+msgid "Arf, arf!"
+msgstr ""
+
+msgctxt "408"
+msgid "Isn't it wonderful, Mame?"
+msgstr ""
+
+msgctxt "420"
+msgid "Check this out, Uncle Kaz! Uncle Mikio built Mame a doghouse!"
+msgstr ""
+
+msgctxt "432"
+msgid "Huh... He actually did a pretty good job."
+msgstr ""
+
+msgctxt "444"
+msgid "Did you tell Mikio thank you?"
+msgstr ""
+
+msgctxt "456"
+msgid "Of course!"
+msgstr ""
+
+msgctxt "468"
+msgid "Hehe! Mame, you're one lucky pup!"
+msgstr ""
+
+msgctxt "480"
+msgid "Arf, arf!"
+msgstr ""
+
+msgctxt "492"
+msgid "Ahahaha! Mame's saying he thinks so, too!"
+msgstr ""
+
+msgctxt "504"
+msgid "That's good to hear. You keep looking after him, all right?"
+msgstr ""
+
+msgctxt "516"
+msgid "You bet, Uncle Kaz!"
+msgstr ""
+
+msgctxt "576"
+msgid "Bark, bark!"
+msgstr ""
+
+msgctxt "588"
+msgid "Sit!"
+msgstr ""
+
+msgctxt "600"
+msgid "Woof!"
+msgstr ""
+
+msgctxt "624"
+msgid "Turn around!"
+msgstr ""
+
+msgctxt "636"
+msgid "Arf!"
+msgstr ""
+
+msgctxt "660"
+msgid "Fetch!"
+msgstr ""
+
+msgctxt "672"
+msgid "Ruff!"
+msgstr ""
+
+msgctxt "708"
+msgid "Great job, Mame! You're amazing!"
+msgstr ""
+
+msgctxt "720"
+msgid "Woof, woof, woof!"
+msgstr ""
+
+msgctxt "732"
+msgid ""
+"Thanks, Uncle Kaz! Now Mame can hold his head up high around\r\n"
+"all his doggy friends!"
+msgstr ""
+
+msgctxt "744"
+msgid "Ruff!"
+msgstr ""
+
+msgctxt "756"
+msgid "What's that? You want to give it to Uncle Kaz?"
+msgstr ""
+
+msgctxt "768"
+msgid "Arf!"
+msgstr ""
+
+msgctxt "780"
+msgid "What is it, boy?"
+msgstr ""
+
+msgctxt "792"
+msgid "You got a <Color:8>Staminan Spark<Color:Default>."
+msgstr ""
+
+msgctxt "816"
+msgid "Now what do we have here..."
+msgstr ""
+
+msgctxt "828"
+msgid ""
+"It must be a present from Mame! He wants to thank you for\r\n"
+"helping him get so smart!"
+msgstr ""
+
+msgctxt "840"
+msgid "I see... Thanks, Mame."
+msgstr ""
+
+msgctxt "852"
+msgid "Woof, woof, woof!"
+msgstr ""
+
+msgctxt "948"
+msgid "C'mon! Sit, Mame!"
+msgstr ""
+
+msgctxt "960"
+msgid "Woof?"
+msgstr ""
+
+msgctxt "972"
+msgid "I said, sit! Why won't you do what I say?"
+msgstr ""
+
+msgctxt "984"
+msgid "What's up, Izumi? What are you trying to do?"
+msgstr ""
+
+msgctxt "996"
+msgid ""
+"Oh, hi, Uncle Kaz. I tried teaching Mame to sit, but he won't\r\n"
+"listen to a word I say."
+msgstr ""
+
+msgctxt "1008"
+msgid ""
+"That's because you've got to give dogs rewards when you're training them. "
+"Otherwise, the message won't stick."
+msgstr ""
+
+msgctxt "1020"
+msgid "Hmm, okay. Say, Uncle Kaz, why don't we train Mame together?"
+msgstr ""
+
+msgctxt "1032"
+msgid "You want both of us to teach him at the same time?"
+msgstr ""
+
+msgctxt "1044"
+msgid "Sorry, Izumi. Maybe next time."
+msgstr ""
+
+msgctxt "1056"
+msgid "Aww, that's too bad! Come back later, then, okay?"
+msgstr ""
+
+msgctxt "1080"
+msgid "Sure, why not? I'll help you teach Mame to sit."
+msgstr ""
+
+msgctxt "1092"
+msgid "Hooray! Okay, let's go!"
+msgstr ""
+
+msgctxt "1152"
+msgid "Hey, Uncle Kaz! I'm trying to get Mame to sit, but he just won't do it..."
+msgstr ""
+
+msgctxt "1164"
+msgid "Please, can't we try together? I really want him to learn this."
+msgstr ""
+
+msgctxt "1188"
+msgid ""
+"Hey, Uncle Kaz! I'm trying to get Mame to turn around, but he just won't do "
+"it..."
+msgstr ""
+
+msgctxt "1200"
+msgid "Please, can't we try together? I really want him to learn this."
+msgstr ""
+
+msgctxt "1260"
+msgid "Hey, Uncle Kaz! I'm trying to get Mame to fetch, but he just won't do it..."
+msgstr ""
+
+msgctxt "1272"
+msgid "Please, can't we try together? I really want him to learn this."
+msgstr ""
+
+msgctxt "1404"
+msgid "Sit, Mame."
+msgstr ""
+
+msgctxt "1428"
+msgid "Woof, woof!"
+msgstr ""
+
+msgctxt "1440"
+msgid "Nice going, Mame. That's a good boy."
+msgstr ""
+
+msgctxt "1452"
+msgid "Arf!"
+msgstr ""
+
+msgctxt "1476"
+msgid "Turn around, Mame."
+msgstr ""
+
+msgctxt "1500"
+msgid "Woof, woof!"
+msgstr ""
+
+msgctxt "1512"
+msgid "Very good, Mame. You're a smart boy, aren't you?"
+msgstr ""
+
+msgctxt "1524"
+msgid "Ruff!"
+msgstr ""
+
+msgctxt "1548"
+msgid "Now... fetch!"
+msgstr ""
+
+msgctxt "1572"
+msgid "Woof, woof!"
+msgstr ""
+
+msgctxt "1608"
+msgid "Mame, you're such a good boy. A quick learner, too."
+msgstr ""
+
+msgctxt "1620"
+msgid "Ruff!"
+msgstr ""
+
+msgctxt "1644"
+msgid "Now, let's see..."
+msgstr ""
+
+msgctxt "1656"
+msgid "Now, let's see..."
+msgstr ""
+
+msgctxt "1668"
+msgid "Now, let's see..."
+msgstr ""
+
+msgctxt "1680"
+msgid "Sit."
+msgstr ""
+
+msgctxt "1704"
+msgid "Turn around."
+msgstr ""
+
+msgctxt "1728"
+msgid "Fetch."
+msgstr ""
+
+msgctxt "1944"
+msgid "Arf!"
+msgstr ""
+
+msgctxt "1980"
+msgid "Woof!"
+msgstr ""
+
+msgctxt "2028"
+msgid "Bark!"
+msgstr ""
+
+msgctxt "2076"
+msgid "Ruff!"
+msgstr ""
+
+msgctxt "2124"
+msgid "Arf!"
+msgstr ""
+
+msgctxt "2148"
+msgid "Mame! You did it! You really sat!"
+msgstr ""
+
+msgctxt "2172"
+msgid "Hey, who told you to sit?"
+msgstr ""
+
+msgctxt "2196"
+msgid "Mame! You did it! You really turned around!"
+msgstr ""
+
+msgctxt "2220"
+msgid "C'mon! We didn't tell you to turn around!"
+msgstr ""
+
+msgctxt "2244"
+msgid "Mame! You did it! You really fetched!"
+msgstr ""
+
+msgctxt "2268"
+msgid "No, not fetch!"
+msgstr ""
+
+msgctxt "2292"
+msgid "Hey, who told you to beg!?"
+msgstr ""
+
+msgctxt "2316"
+msgid "Argh! Why won't you do what I tell you?"
+msgstr ""
+
+msgctxt "2328"
+msgid "Haha, why don't you give it a rest for now? Mame looks pretty worn out."
+msgstr ""
+
+msgctxt "2340"
+msgid "We can always try again later."
+msgstr ""
+
+msgctxt "2364"
+msgid "*whimper*"
+msgstr ""
+
+msgctxt "2376"
+msgid "Now, let's see..."
+msgstr ""
+
+msgctxt "2448"
+msgid ""
+"Good idea, Uncle Kaz! I think he'll remember how to sit if we give him a "
+"treat now!"
+msgstr ""
+
+msgctxt "2472"
+msgid "You're gonna give him a treat? But he didn't sit!"
+msgstr ""
+
+msgctxt "2484"
+msgid "Oh, right. Well, it's too late now."
+msgstr ""
+
+msgctxt "2496"
+msgid "Ruff!"
+msgstr ""
+
+msgctxt "2520"
+msgid ""
+"Good idea, Uncle Kaz! I think he'll remember how to turn around if we give "
+"him a treat now!"
+msgstr ""
+
+msgctxt "2544"
+msgid "You're gonna give him a treat? But he didn't turn around!"
+msgstr ""
+
+msgctxt "2556"
+msgid "Oh, right. Well, it's too late now."
+msgstr ""
+
+msgctxt "2568"
+msgid "Arf!"
+msgstr ""
+
+msgctxt "2592"
+msgid ""
+"Good idea, Uncle Kaz! I think he'll remember how to fetch if we give him a "
+"treat now!"
+msgstr ""
+
+msgctxt "2616"
+msgid "You're gonna give him a treat? But he didn't fetch!"
+msgstr ""
+
+msgctxt "2628"
+msgid "Oh, right. Well, it's too late now."
+msgstr ""
+
+msgctxt "2640"
+msgid "Bark!"
+msgstr ""
+
+msgctxt "2916"
+msgid "Here goes... Okay, sit!"
+msgstr ""
+
+msgctxt "2940"
+msgid "Woof!"
+msgstr ""
+
+msgctxt "2952"
+msgid "Good job, Mame. You really got it down!"
+msgstr ""
+
+msgctxt "2964"
+msgid "Bark bark!"
+msgstr ""
+
+msgctxt "2976"
+msgid "Isn't Mame the best? He can sit perfectly now!"
+msgstr ""
+
+msgctxt "2988"
+msgid ""
+"Thanks a lot, Uncle Kaz! I wanna teach him lots more tricks. You'll help "
+"me, right?"
+msgstr ""
+
+msgctxt "3012"
+msgid "You got 2,000 EXP."
+msgstr ""
+
+msgctxt "3024"
+msgid "Sit, Mame!"
+msgstr ""
+
+msgctxt "3048"
+msgid "Now when I tell Mame to sit, he turns around instead!"
+msgstr ""
+
+msgctxt "3060"
+msgid "Oh, uh..."
+msgstr ""
+
+msgctxt "3072"
+msgid ""
+"This is your fault for giving him that treat, Uncle Kaz! Let's train him "
+"right next time!"
+msgstr ""
+
+msgctxt "3120"
+msgid "Sit, Mame!"
+msgstr ""
+
+msgctxt "3156"
+msgid "Grrr! Now when I tell Mame to sit, he begs instead!"
+msgstr ""
+
+msgctxt "3168"
+msgid "That's weird..."
+msgstr ""
+
+msgctxt "3180"
+msgid ""
+"This is your fault for giving him that treat, Uncle Kaz! Let's train him "
+"right next time!"
+msgstr ""
+
+msgctxt "3204"
+msgid "Turn around, Mame!"
+msgstr ""
+
+msgctxt "3228"
+msgid "Geez! Now when I tell Mame to turn around, he sits instead!"
+msgstr ""
+
+msgctxt "3240"
+msgid "Uh-oh..."
+msgstr ""
+
+msgctxt "3252"
+msgid ""
+"This is your fault for giving him that treat, Uncle Kaz! Let's train him "
+"right next time!"
+msgstr ""
+
+msgctxt "3276"
+msgid "Here goes... Turn around!"
+msgstr ""
+
+msgctxt "3300"
+msgid "Woof!"
+msgstr ""
+
+msgctxt "3312"
+msgid "Good job, Mame. You really got it down!"
+msgstr ""
+
+msgctxt "3324"
+msgid "Ruff, ruff!"
+msgstr ""
+
+msgctxt "3336"
+msgid "Isn't Mame the best? He can turn around perfectly now!"
+msgstr ""
+
+msgctxt "3348"
+msgid ""
+"Thanks a lot, Uncle Kaz! I wanna teach him lots more tricks. You'll help "
+"me, right?"
+msgstr ""
+
+msgctxt "3372"
+msgid "You got 2,000 EXP."
+msgstr ""
+
+msgctxt "3408"
+msgid "Turn around, Mame!"
+msgstr ""
+
+msgctxt "3444"
+msgid "Ugh. Now when I tell Mame to turn around, he starts begging instead!"
+msgstr ""
+
+msgctxt "3456"
+msgid "You don't say..."
+msgstr ""
+
+msgctxt "3468"
+msgid ""
+"This is your fault for giving him that treat, Uncle Kaz! Let's train him "
+"right next time!"
+msgstr ""
+
+msgctxt "3492"
+msgid "Fetch, Mame!"
+msgstr ""
+
+msgctxt "3516"
+msgid "Now when I tell Mame to fetch, he sits instead!"
+msgstr ""
+
+msgctxt "3528"
+msgid "Hm..."
+msgstr ""
+
+msgctxt "3540"
+msgid ""
+"This is your fault for giving him that treat, Uncle Kaz! Let's train him "
+"right next time!"
+msgstr ""
+
+msgctxt "3564"
+msgid "Fetch, Mame!"
+msgstr ""
+
+msgctxt "3588"
+msgid "Argh! Now when I tell Mame to fetch, he turns around instead!"
+msgstr ""
+
+msgctxt "3600"
+msgid "Oh, uh..."
+msgstr ""
+
+msgctxt "3612"
+msgid ""
+"This is your fault for giving him that treat, Uncle Kaz! Let's train him "
+"right next time!"
+msgstr ""
+
+msgctxt "3636"
+msgid "Here goes... Fetch!"
+msgstr ""
+
+msgctxt "3672"
+msgid "Woof!"
+msgstr ""
+
+msgctxt "3684"
+msgid "Good job, Mame. You really got it down!"
+msgstr ""
+
+msgctxt "3696"
+msgid "Ruff, ruff!"
+msgstr ""
+
+msgctxt "3708"
+msgid "Isn't Mame the best? He can fetch perfectly now!"
+msgstr ""
+
+msgctxt "3732"
+msgid "You got 3,000 EXP."
+msgstr ""
+
+msgctxt "3744"
+msgid "Fetch, Mame!"
+msgstr ""
+
+msgctxt "3780"
+msgid "Geez! Now when I tell Mame to fetch, he begs instead!"
+msgstr ""
+
+msgctxt "3792"
+msgid "Wait, really?"
+msgstr ""
+
+msgctxt "3804"
+msgid ""
+"This is your fault for giving him that treat, Uncle Kaz! Let's train him "
+"right next time!"
+msgstr ""
+
+msgctxt "3828"
+msgid "We've gotta keep at it until Mame gets it down pat!"
+msgstr ""
+
+msgctxt "3972"
+msgid "Sure, why not?"
+msgstr ""
+
+msgctxt "3984"
+msgid "Maybe next time."
+msgstr ""
+
+msgctxt "3996"
+msgid "Sit."
+msgstr ""
+
+msgctxt "4008"
+msgid "Turn around."
+msgstr ""
+
+msgctxt "4020"
+msgid "Sit."
+msgstr ""
+
+msgctxt "4032"
+msgid "Fetch."
+msgstr ""
+
+msgctxt "4044"
+msgid "Turn around."
+msgstr ""
+
+msgctxt "4056"
+msgid "Sit."
+msgstr ""
+
+msgctxt "4068"
+msgid "Give Him a Treat"
+msgstr ""
+
+msgctxt "4080"
+msgid "Make Him Try Again"
+msgstr ""
+
+msgctxt "33128"
+msgid "Mame"
+msgstr ""
+
+msgctxt "33132"
+msgid "Izumi"
+msgstr ""
+
+msgctxt "33136"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "33140"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "33144"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "33148"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "33152"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "33156"
+msgid "A_dog_sitgrd_tlk_st"
+msgstr ""
+
+msgctxt "33160"
+msgid "A_dog_sitgrd_tlk_ed"
+msgstr ""
+
+msgctxt "33164"
+msgid "A_dog_stand_tlk_omawari"
+msgstr ""
+
+msgctxt "33168"
+msgid "A_dog_stand_tlk_bakuten"
+msgstr ""
+
+msgctxt "33172"
+msgid "SetF_cld_stand_talk_f"
+msgstr ""
+
+msgctxt "33176"
+msgid "dummy"
+msgstr ""
+
+msgctxt "33180"
+msgid "Talk_Kamae"
+msgstr ""
+
+msgctxt "33184"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "33188"
+msgid "MvHAL_stand_nml_turnl90"
+msgstr ""
+
+msgctxt "33192"
+msgid "kaiwabgm_happy"
+msgstr ""
+
+msgctxt "33196"
+msgid "0"
+msgstr ""
+
+msgctxt "33200"
+msgid "Talk_Request"
+msgstr ""
+
+msgctxt "33204"
+msgid "P_stand_tlk_child_st"
+msgstr ""
+
+msgctxt "33208"
+msgid "P_stand_tlk_child_order"
+msgstr ""
+
+msgctxt "33212"
+msgid "A_dog_stand_tlk_tin_lp"
+msgstr ""
+
+msgctxt "33216"
+msgid "A_dog_stand_tlk_tin_ed"
+msgstr ""
+
+msgctxt "33220"
+msgid "A_dog_sitgrd_tlk_mimikaki"
+msgstr ""
+
+msgctxt "33224"
+msgid "P_stand_tlk_child_ed"
+msgstr ""
+
+msgctxt "33228"
+msgid "F_cld_stand_tlk_kansin"
+msgstr ""
+
+msgctxt "33232"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "33236"
+msgid "F_cld_stand_tlk_gakkari"
+msgstr ""
+
+msgctxt "33240"
+msgid "P_stand_tlk_kamae"
+msgstr ""

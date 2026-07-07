@@ -1,0 +1,955 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "612"
+msgid "Oh! Did you finally remember who I am?"
+msgstr ""
+
+msgctxt "624"
+msgid "(Where did I meet her before?)"
+msgstr ""
+
+msgctxt "636"
+msgid "Maybe someone like me shouldn't..."
+msgstr ""
+
+msgctxt "648"
+msgid "(Looks like something's on her mind.)"
+msgstr ""
+
+msgctxt "660"
+msgid "Oh!"
+msgstr ""
+
+msgctxt "672"
+msgid "Hmm?"
+msgstr ""
+
+msgctxt "684"
+msgid "Wow, what a coincidence seeing you here!"
+msgstr ""
+
+msgctxt "696"
+msgid "Huh? You talking to me?"
+msgstr ""
+
+msgctxt "708"
+msgid "Of course! Don't you remember me?"
+msgstr ""
+
+msgctxt "720"
+msgid "(She knows me somehow. Where did I meet her?)"
+msgstr ""
+
+msgctxt "732"
+msgid "I don't believe we've met."
+msgstr ""
+
+msgctxt "744"
+msgid ""
+"Huh!? We've definitely met! I can't believe you don't\r\n"
+"remember me..."
+msgstr ""
+
+msgctxt "756"
+msgid "......"
+msgstr ""
+
+msgctxt "816"
+msgid "...Was it at Shine?"
+msgstr ""
+
+msgctxt "828"
+msgid "What? No, not there! You really don't remember me?"
+msgstr ""
+
+msgctxt "840"
+msgid "......"
+msgstr ""
+
+msgctxt "900"
+msgid "...Was it at Jewel?"
+msgstr ""
+
+msgctxt "912"
+msgid "What? No, not there! I'm shocked you don't remember me!"
+msgstr ""
+
+msgctxt "924"
+msgid "......"
+msgstr ""
+
+msgctxt "984"
+msgid ""
+"I remember you. You're Ayaka from the Love in Heart\r\n"
+"massage parlor."
+msgstr ""
+
+msgctxt "996"
+msgid "That's right! Oh, I'm so glad you remember who I am!"
+msgstr ""
+
+msgctxt "1008"
+msgid "Though I... don't believe I got your name."
+msgstr ""
+
+msgctxt "1020"
+msgid "Right, I guess I didn't give it to you. It's Kiryu."
+msgstr ""
+
+msgctxt "1032"
+msgid "Kiryu-san! What a cute name. ⑮ Here all by yourself today?"
+msgstr ""
+
+msgctxt "1044"
+msgid "Yeah."
+msgstr ""
+
+msgctxt "1056"
+msgid "Would you mind if I sat with you for a bit?"
+msgstr ""
+
+msgctxt "1068"
+msgid "Go right ahead."
+msgstr ""
+
+msgctxt "1092"
+msgid "Okay! Cheers!"
+msgstr ""
+
+msgctxt "1104"
+msgid "Cheers."
+msgstr ""
+
+msgctxt "1128"
+msgid "Say, this is the first time we get to properly chat! ⑮"
+msgstr ""
+
+msgctxt "1140"
+msgid "That's right. Before, you were busy being my masseuse."
+msgstr ""
+
+msgctxt "1152"
+msgid "Actually, the name of my profession is \"massage therapist.\""
+msgstr ""
+
+msgctxt "1164"
+msgid "How's that different from \"masseuse\"?"
+msgstr ""
+
+msgctxt "1176"
+msgid ""
+"While both professions give massages to clients, my job at\r\n"
+"the shop is to use both massage and aromatherapy to soothe\r\n"
+"my clients' stress and worries."
+msgstr ""
+
+msgctxt "1188"
+msgid "I had to study pretty hard to get licensed for my job."
+msgstr ""
+
+msgctxt "1200"
+msgid ""
+"Sounds pretty tough. From how down you looked earlier,\r\n"
+"you could probably use some of that therapy yourself, huh?"
+msgstr ""
+
+msgctxt "1212"
+msgid "Huh? How'd you know?"
+msgstr ""
+
+msgctxt "1224"
+msgid ""
+"...Oh. I must've been talking to myself again. You heard\r\n"
+"that, huh..."
+msgstr ""
+
+msgctxt "1236"
+msgid "Yeah."
+msgstr ""
+
+msgctxt "1248"
+msgid "God, I'm so embarrassed!"
+msgstr ""
+
+msgctxt "1260"
+msgid ""
+"When I get lost in thought, sometimes I start mumbling\r\n"
+"all the things I'm thinking about..."
+msgstr ""
+
+msgctxt "1272"
+msgid "Heh."
+msgstr ""
+
+msgctxt "1284"
+msgid ""
+"Aww, don't laugh at me! I know I might seem like the serious\r\n"
+"type, but I was really thinking hard about this!"
+msgstr ""
+
+msgctxt "1296"
+msgid "Sorry."
+msgstr ""
+
+msgctxt "1308"
+msgid ""
+"Hehehe. ⑮ You know, I got this feeling the first time we\r\n"
+"met, but you're surprisingly easy to talk to, Kiryu-san."
+msgstr ""
+
+msgctxt "1320"
+msgid "You think so?"
+msgstr ""
+
+msgctxt "1332"
+msgid ""
+"You're so mature, too! I've always wanted to sit down and\r\n"
+"chat with you. I don't have a lot of mature, cool-headed\r\n"
+"guys like you in my life."
+msgstr ""
+
+msgctxt "1344"
+msgid "Can I get your advice on something that's bothering me?"
+msgstr ""
+
+msgctxt "1356"
+msgid "You want my advice?"
+msgstr ""
+
+msgctxt "1368"
+msgid "Or do you have to leave soon...?"
+msgstr ""
+
+msgctxt "1380"
+msgid "(She did look pretty bothered. What should I do?)"
+msgstr ""
+
+msgctxt "1392"
+msgid "Sorry, I don't have that much time right now."
+msgstr ""
+
+msgctxt "1404"
+msgid ""
+"Oh, really...? I'm sorry. I just really wish we could\r\n"
+"talk more..."
+msgstr ""
+
+msgctxt "1416"
+msgid ""
+"(Seems like she's really worked up about this. I'm starting\r\n"
+"to get a bit worried about her, myself.)"
+msgstr ""
+
+msgctxt "1428"
+msgid "(I'm curious, but I should go.)"
+msgstr ""
+
+msgctxt "1512"
+msgid "All right, then, let's hear it."
+msgstr ""
+
+msgctxt "1524"
+msgid "Huh? Are you sure?"
+msgstr ""
+
+msgctxt "1536"
+msgid "Yeah. I might not be able to help, but I'll try."
+msgstr ""
+
+msgctxt "1548"
+msgid "Okay! ⑮ I knew you were a nice guy, Kiryu-san."
+msgstr ""
+
+msgctxt "1560"
+msgid "You think so? (Wonder how she figured that...)"
+msgstr ""
+
+msgctxt "1572"
+msgid ""
+"Well, uh... So there's this guy I'm really into. But...\r\n"
+"Ahh, it's complicated."
+msgstr ""
+
+msgctxt "1584"
+msgid "Go on."
+msgstr ""
+
+msgctxt "1596"
+msgid ""
+"Well. I like him a lot, but I get this feeling that it's\r\n"
+"just not going to work out..."
+msgstr ""
+
+msgctxt "1608"
+msgid "Really?"
+msgstr ""
+
+msgctxt "1632"
+msgid "Well..."
+msgstr ""
+
+msgctxt "1644"
+msgid ""
+"He's one of my clients. To be honest, when I first met him,\r\n"
+"I thought he was pretty scary..."
+msgstr ""
+
+msgctxt "1656"
+msgid ""
+"But after talking to him, I realized he was so kind and\r\n"
+"mature and relaxed..."
+msgstr ""
+
+msgctxt "1668"
+msgid "Sounds like a nice guy."
+msgstr ""
+
+msgctxt "1680"
+msgid "Yeah! ⑮ He's such a sweet guy! ⑮"
+msgstr ""
+
+msgctxt "1692"
+msgid ""
+"Glad to hear it. Just be careful, a lot of those \"sweet\r\n"
+"guys\" can turn out to be playboys in disguise."
+msgstr ""
+
+msgctxt "1704"
+msgid ""
+"Oh... He did seem like he was used to being around women,\r\n"
+"so maybe there's some truth to your words..."
+msgstr ""
+
+msgctxt "1716"
+msgid "It's a possibility."
+msgstr ""
+
+msgctxt "1728"
+msgid "But no, I'm sure he's not that kind of guy!"
+msgstr ""
+
+msgctxt "1740"
+msgid "Why's that?"
+msgstr ""
+
+msgctxt "1752"
+msgid ""
+"Sometimes, he gives me this honest, straightforward look...\r\n"
+"It makes me believe that he's not the kind of guy who'd\r\n"
+"purposefully hurt anyone."
+msgstr ""
+
+msgctxt "1764"
+msgid "(Man, she's really into him.)"
+msgstr ""
+
+msgctxt "1776"
+msgid "That... I don't know."
+msgstr ""
+
+msgctxt "1788"
+msgid "You never asked?"
+msgstr ""
+
+msgctxt "1800"
+msgid "No. I thought maybe I shouldn't..."
+msgstr ""
+
+msgctxt "1812"
+msgid "Why's that? You think he's involved in something shady?"
+msgstr ""
+
+msgctxt "1824"
+msgid ""
+"I mean, maybe. From what I saw on his back, he's got to\r\n"
+"have a serious past..."
+msgstr ""
+
+msgctxt "1836"
+msgid "(There's something on his back? A tattoo, maybe?)"
+msgstr ""
+
+msgctxt "1848"
+msgid ""
+"I think he's got some demons he's struggling with...\r\n"
+"Not to mention the burdens he's carrying."
+msgstr ""
+
+msgctxt "1860"
+msgid "But that's the part about him that makes me swoon! ⑮"
+msgstr ""
+
+msgctxt "1872"
+msgid "I see..."
+msgstr ""
+
+msgctxt "1884"
+msgid "Everything! ⑮"
+msgstr ""
+
+msgctxt "1896"
+msgid "......"
+msgstr ""
+
+msgctxt "1908"
+msgid "Hey, don't just clam up, say something!"
+msgstr ""
+
+msgctxt "1920"
+msgid "Sorry. What was the thing that made you decide he's the one?"
+msgstr ""
+
+msgctxt "1932"
+msgid ""
+"The one thing that made me decide? Hmm... Probably when I\r\n"
+"thought about how strong he was. ⑮"
+msgstr ""
+
+msgctxt "1944"
+msgid ""
+"He was so confident and sure of himself. I knew he'd protect\r\n"
+"me, no matter what happened! ⑮"
+msgstr ""
+
+msgctxt "1956"
+msgid "(Strong physically and mentally, then...)"
+msgstr ""
+
+msgctxt "1968"
+msgid ""
+"Oh, gosh, my heart's racing just talking about him! I'm\r\n"
+"starting to feel that drink, too."
+msgstr ""
+
+msgctxt "1980"
+msgid "I'm gonna go to the bathroom real quick."
+msgstr ""
+
+msgctxt "2052"
+msgid "Sorry about that! ⑮"
+msgstr ""
+
+msgctxt "2064"
+msgid "Don't worry about it."
+msgstr ""
+
+msgctxt "2076"
+msgid ""
+"Kiryu-san, do you still have time? There's more I want\r\n"
+"to ask you about..."
+msgstr ""
+
+msgctxt "2088"
+msgid "Hmm..."
+msgstr ""
+
+msgctxt "2100"
+msgid "Sorry, but I've gotta head out."
+msgstr ""
+
+msgctxt "2112"
+msgid "...Please, it's not going to take much longer. Please?"
+msgstr ""
+
+msgctxt "2124"
+msgid "(I probably should hear her out till the end, but...)"
+msgstr ""
+
+msgctxt "2136"
+msgid "All right, then, let's hear it."
+msgstr ""
+
+msgctxt "2148"
+msgid "Sure, I'll stay."
+msgstr ""
+
+msgctxt "2160"
+msgid "Thank you. ⑮"
+msgstr ""
+
+msgctxt "2172"
+msgid "Right now I'm not sure if I should tell him how I feel..."
+msgstr ""
+
+msgctxt "2184"
+msgid "Why's that?"
+msgstr ""
+
+msgctxt "2196"
+msgid "I'm afraid of what he might say..."
+msgstr ""
+
+msgctxt "2208"
+msgid ""
+"Well, you're an attractive woman, Ayaka. Any guy would be\r\n"
+"thrilled to hear you were interested in them."
+msgstr ""
+
+msgctxt "2220"
+msgid "You really think so? Aww, thanks. ⑮"
+msgstr ""
+
+msgctxt "2232"
+msgid "But... there's something I still haven't told you, Kiryu-san."
+msgstr ""
+
+msgctxt "2244"
+msgid "What's that?"
+msgstr ""
+
+msgctxt "2256"
+msgid "Umm, I..."
+msgstr ""
+
+msgctxt "2268"
+msgid "......"
+msgstr ""
+
+msgctxt "2280"
+msgid "I was born a man."
+msgstr ""
+
+msgctxt "2292"
+msgid "Huh? Wait, so you're transgender?"
+msgstr ""
+
+msgctxt "2304"
+msgid "Yeah."
+msgstr ""
+
+msgctxt "2328"
+msgid "!!"
+msgstr ""
+
+msgctxt "2352"
+msgid "Ever since I was a kid, I felt like I was a girl."
+msgstr ""
+
+msgctxt "2364"
+msgid ""
+"But my whole life, I had... boy parts. It was really\r\n"
+"hard for me to live like that."
+msgstr ""
+
+msgctxt "2376"
+msgid ""
+"Doctors sometimes call it \"gender identity disorder.\"\r\n"
+"Personally, I don't like the word \"disorder\" being used\r\n"
+"to describe who I am..."
+msgstr ""
+
+msgctxt "2388"
+msgid "I see. Is it the same thing as being gay?"
+msgstr ""
+
+msgctxt "2400"
+msgid ""
+"It's different. Being gay means you're attracted to people\r\n"
+"of the same sex. Being trans means your gender identity is\r\n"
+"different than the sex you were assigned at birth."
+msgstr ""
+
+msgctxt "2412"
+msgid ""
+"Oh, I get it. You were born as a man on the outside, but\r\n"
+"on the inside, you felt like you were a woman."
+msgstr ""
+
+msgctxt "2424"
+msgid ""
+"That's right. I underwent gender reassignment surgery,\r\n"
+"so now my physical appearance matches the gender I\r\n"
+"identify as. I'm a woman, through and through."
+msgstr ""
+
+msgctxt "2436"
+msgid "Even so... I'm terrified of telling him."
+msgstr ""
+
+msgctxt "2448"
+msgid ""
+"I'm scared he'll completely lose interest in me. There's no\r\n"
+"way I can come out and tell him..."
+msgstr ""
+
+msgctxt "2460"
+msgid "It's funny. I'm so in love, but so scared of being in love."
+msgstr ""
+
+msgctxt "2472"
+msgid "......"
+msgstr ""
+
+msgctxt "2484"
+msgid ""
+"...I'm sorry. I'm sure this is really shocking to hear. It\r\n"
+"must be difficult to come to terms with..."
+msgstr ""
+
+msgctxt "2496"
+msgid "To be completely honest, it is a bit difficult."
+msgstr ""
+
+msgctxt "2508"
+msgid "No, not at all."
+msgstr ""
+
+msgctxt "2520"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "2532"
+msgid ""
+"Love is about accepting one another for who you are. It's\r\n"
+"not always easy to find someone who will, however."
+msgstr ""
+
+msgctxt "2544"
+msgid ""
+"Everyone has obstacles they've got to deal with. Yours are\r\n"
+"just a bit bigger than everyone else's, Ayaka."
+msgstr ""
+
+msgctxt "2556"
+msgid "Kiryu-san..."
+msgstr ""
+
+msgctxt "2568"
+msgid ""
+"I can't tell you how he'll react, but know this: If it\r\n"
+"doesn't go well, it's not your fault."
+msgstr ""
+
+msgctxt "2580"
+msgid ""
+"It just means you weren't compatible, or it just wasn't\r\n"
+"the right timing for either of you. That's all."
+msgstr ""
+
+msgctxt "2592"
+msgid ""
+"Just keep on keeping on, and one day, you'll meet someone\r\n"
+"who's right for you. I sincerely believe that."
+msgstr ""
+
+msgctxt "2604"
+msgid "......"
+msgstr ""
+
+msgctxt "2616"
+msgid "Thank you. I feel a lot better about this now..."
+msgstr ""
+
+msgctxt "2628"
+msgid "No problem."
+msgstr ""
+
+msgctxt "2640"
+msgid "...Kiryu-san."
+msgstr ""
+
+msgctxt "2652"
+msgid "...What is it?"
+msgstr ""
+
+msgctxt "2664"
+msgid "I'm going to tell Kentaro-san how I feel."
+msgstr ""
+
+msgctxt "2676"
+msgid "Wait, who's Kentaro-san?"
+msgstr ""
+
+msgctxt "2688"
+msgid ""
+"Oh, sorry! That's the name of the guy. ⑮ Sorry, guess I\r\n"
+"forgot to mention it earlier."
+msgstr ""
+
+msgctxt "2712"
+msgid "!!"
+msgstr ""
+
+msgctxt "2724"
+msgid ""
+"Thank you so much for today. ⑮ Oh, right! Can I get your\r\n"
+"cell phone number?"
+msgstr ""
+
+msgctxt "2736"
+msgid "Sure."
+msgstr ""
+
+msgctxt "2796"
+msgid "Aaand saved! ⑮ I'll text you what happens with Kentaro-san!"
+msgstr ""
+
+msgctxt "2808"
+msgid ""
+"And hey, if you're ever feeling exhausted, swing by the\r\n"
+"massage parlor anytime!"
+msgstr ""
+
+msgctxt "2880"
+msgid ""
+"How'd it go, Kiryu-san!? I didn't get to hear everything she\r\n"
+"said. Who's this Kentaro-san she mentioned?"
+msgstr ""
+
+msgctxt "2892"
+msgid "That's the guy she's crushing on."
+msgstr ""
+
+msgctxt "2904"
+msgid "What?"
+msgstr ""
+
+msgctxt "2916"
+msgid ""
+"Weren't you just going on about how she was into me or\r\n"
+"something?"
+msgstr ""
+
+msgctxt "2928"
+msgid "......"
+msgstr ""
+
+msgctxt "2940"
+msgid ""
+"Man, my read was totally off. Looks like I've got a ways\r\n"
+"to go before I'm a real host."
+msgstr ""
+
+msgctxt "2952"
+msgid "There was one other important detail."
+msgstr ""
+
+msgctxt "2964"
+msgid "She's a trans woman who was born as a man."
+msgstr ""
+
+msgctxt "2988"
+msgid "!?"
+msgstr ""
+
+msgctxt "3000"
+msgid ""
+"...Oh, come on, Kiryu-san! You don't have to make up\r\n"
+"something like that to cover your ass. It's okay if you\r\n"
+"got rejected!"
+msgstr ""
+
+msgctxt "3012"
+msgid ""
+"Besides, if I didn't pick up on something like that, I'd\r\n"
+"really be a failure of a host!"
+msgstr ""
+
+msgctxt "3024"
+msgid "Well, you sure are a failure, then."
+msgstr ""
+
+msgctxt "3036"
+msgid "......"
+msgstr ""
+
+msgctxt "3048"
+msgid ""
+"Y'know, though, if someone like her came up to me and said\r\n"
+"she was interested, I'd definitely consider it."
+msgstr ""
+
+msgctxt "3060"
+msgid "What a nice girl. Too bad for you, though, Kiryu-san."
+msgstr ""
+
+msgctxt "3072"
+msgid "(Yeah, it really is too bad...)"
+msgstr ""
+
+msgctxt "3084"
+msgid "Oh man, look at the time!"
+msgstr ""
+
+msgctxt "3096"
+msgid "I gotta get back to work! See ya!"
+msgstr ""
+
+msgctxt "3108"
+msgid "Hey! Hold up!"
+msgstr ""
+
+msgctxt "3192"
+msgid "Shine"
+msgstr ""
+
+msgctxt "3204"
+msgid "Jewel"
+msgstr ""
+
+msgctxt "3216"
+msgid "Love in Heart"
+msgstr ""
+
+msgctxt "3228"
+msgid "We've never met before."
+msgstr ""
+
+msgctxt "3240"
+msgid "Shine"
+msgstr ""
+
+msgctxt "3252"
+msgid "Jewel"
+msgstr ""
+
+msgctxt "3264"
+msgid "Love in Heart"
+msgstr ""
+
+msgctxt "3276"
+msgid "We've never met before."
+msgstr ""
+
+msgctxt "3288"
+msgid "I'll hear you out."
+msgstr ""
+
+msgctxt "3300"
+msgid "Not now."
+msgstr ""
+
+msgctxt "3312"
+msgid "You know what, I'll stay."
+msgstr ""
+
+msgctxt "3324"
+msgid "I'm curious, but I've gotta go."
+msgstr ""
+
+msgctxt "3336"
+msgid "What's he like?"
+msgstr ""
+
+msgctxt "3348"
+msgid "What does he do for work?"
+msgstr ""
+
+msgctxt "3360"
+msgid "What do you like about him?"
+msgstr ""
+
+msgctxt "3372"
+msgid "Sure, I have time."
+msgstr ""
+
+msgctxt "3384"
+msgid "Sorry, gotta go."
+msgstr ""
+
+msgctxt "3396"
+msgid "You know what, I'll stay."
+msgstr ""
+
+msgctxt "3408"
+msgid "Sorry, not now."
+msgstr ""
+
+msgctxt "3420"
+msgid "No, not at all."
+msgstr ""
+
+msgctxt "3432"
+msgid "It is a bit difficult."
+msgstr ""
+
+msgctxt "33496"
+msgid "P_sitcntL"
+msgstr ""
+
+msgctxt "33500"
+msgid "Idle"
+msgstr ""
+
+msgctxt "33504"
+msgid "Ayaka"
+msgstr ""
+
+msgctxt "33508"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "33512"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "33516"
+msgid "P_stand"
+msgstr ""
+
+msgctxt "33520"
+msgid "dummy"
+msgstr ""
+
+msgctxt "33524"
+msgid "0"
+msgstr ""
+
+msgctxt "33528"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "33532"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "33536"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "33540"
+msgid "kaiwabgm_love"
+msgstr ""
+
+msgctxt "33544"
+msgid "60_87.259_LINE_VF"
+msgstr ""
+
+msgctxt "33548"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "33552"
+msgid "P_sitcnt"
+msgstr ""
+
+msgctxt "33556"
+msgid "Yuya"
+msgstr ""
+
+msgctxt "33560"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "33564"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "33568"
+msgid "Talk_NoBig"
+msgstr ""
+
+msgctxt "33572"
+msgid "Talk_Call"
+msgstr ""

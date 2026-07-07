@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "80"
+msgid "Say, what sort of work do you do, Kiryu-san?"
+msgstr ""
+
+msgctxt "92"
+msgid "I run an orphanage called Morning Glory."
+msgstr ""
+
+msgctxt "104"
+msgid "Wow. Taking care of all those children is quite a task."
+msgstr ""
+
+msgctxt "116"
+msgid ""
+"It's not easy, sure... but nothing makes me happier than\r\n"
+"seeing them smile."
+msgstr ""
+
+msgctxt "128"
+msgid ""
+"Haha, that's wonderful. I'm glad to know you enjoy your\r\n"
+"work, Kiryu-san... and what vital work it is."
+msgstr ""
+
+msgctxt "140"
+msgid "Now let's get this hole started."
+msgstr ""
+
+msgctxt "164"
+msgid ""
+"Speaking of the orphanage, Kiryu-san. How many kids do you\r\n"
+"have there?"
+msgstr ""
+
+msgctxt "176"
+msgid "Nine, all in elementary school."
+msgstr ""
+
+msgctxt "188"
+msgid ""
+"And you take care of them all by yourself? Do you have any\r\n"
+"helpers?"
+msgstr ""
+
+msgctxt "200"
+msgid ""
+"No, but the oldest girl, Haruka, takes on a lot of that\r\n"
+"responsibility. She'll be starting sixth grade next month."
+msgstr ""
+
+msgctxt "212"
+msgid ""
+"And the chores are divided up between all the kids. Everyone\r\n"
+"has to help out."
+msgstr ""
+
+msgctxt "224"
+msgid ""
+"How wonderful. Too many kids these days sit around watching\r\n"
+"TV while their parents do all the work."
+msgstr ""
+
+msgctxt "236"
+msgid "Now, shall we head to the next hole?"
+msgstr ""
+
+msgctxt "2640"
+msgid "Akasaka"
+msgstr ""
+
+msgctxt "2644"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "2648"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "2652"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "2656"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "2660"
+msgid "Talk_No"
+msgstr ""

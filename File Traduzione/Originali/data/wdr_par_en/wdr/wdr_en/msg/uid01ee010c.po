@@ -1,0 +1,230 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "400"
+msgid "What took you so long, Uncle Kaz? I was getting tired of waiting..."
+msgstr ""
+
+msgctxt "412"
+msgid "The hell took so long, Aniki? Let's get movin'."
+msgstr ""
+
+msgctxt "424"
+msgid "Let's get going, sir."
+msgstr ""
+
+msgctxt "436"
+msgid "Uncle Kaz, can we just go home already?"
+msgstr ""
+
+msgctxt "448"
+msgid "C'mon, Uncle Kaz! I wanna go home!"
+msgstr ""
+
+msgctxt "484"
+msgid "Are you... going in there, Uncle Kaz?"
+msgstr ""
+
+msgctxt "496"
+msgid "(Shoot, I forgot Haruka was with me! What now!?)"
+msgstr ""
+
+msgctxt "508"
+msgid "Yeah. Sorry, but I need you to wait out here."
+msgstr ""
+
+msgctxt "520"
+msgid "...Okay. Have fun, Uncle Kaz."
+msgstr ""
+
+msgctxt "532"
+msgid "Nah, it can wait."
+msgstr ""
+
+msgctxt "544"
+msgid "Really? I don't mind."
+msgstr ""
+
+msgctxt "556"
+msgid "We, uh... goin' in, Aniki?"
+msgstr ""
+
+msgctxt "568"
+msgid "(Shoot, I forgot Rikiya was with me! What now!?)"
+msgstr ""
+
+msgctxt "580"
+msgid "Yeah. You want to come with?"
+msgstr ""
+
+msgctxt "592"
+msgid ""
+"Nah, I'm not really in the mood. I'll be chillin' out here\r\n"
+"when you're done, though. Later, Aniki."
+msgstr ""
+
+msgctxt "604"
+msgid "No, I'm okay."
+msgstr ""
+
+msgctxt "616"
+msgid "Huh? Changed your mind?"
+msgstr ""
+
+msgctxt "628"
+msgid "You goin' in there, sir?"
+msgstr ""
+
+msgctxt "640"
+msgid "(Shoot, I forgot Mikio was with me! What now!?)"
+msgstr ""
+
+msgctxt "652"
+msgid "Naturally. Do you want to join me?"
+msgstr ""
+
+msgctxt "664"
+msgid "Uh... Thanks, but no thanks."
+msgstr ""
+
+msgctxt "676"
+msgid "No, I'm okay."
+msgstr ""
+
+msgctxt "688"
+msgid "Huh? Don't go changin' your plans on account of me, sir."
+msgstr ""
+
+msgctxt "700"
+msgid "Are you going in there, Uncle Kaz?"
+msgstr ""
+
+msgctxt "712"
+msgid "(Shoot, I forgot Ayako was with me! What now!?)"
+msgstr ""
+
+msgctxt "724"
+msgid "Yeah. Think you can wait here for me?"
+msgstr ""
+
+msgctxt "736"
+msgid "...Okay, but don't take too long!"
+msgstr ""
+
+msgctxt "748"
+msgid "No, I'm okay."
+msgstr ""
+
+msgctxt "760"
+msgid ""
+"Are you sure? I don't mind, if that's what you're worried\r\n"
+"about."
+msgstr ""
+
+msgctxt "772"
+msgid ""
+"You're going in there, Uncle Kaz!? C'mon, we don't have\r\n"
+"time for that kinda stuff right now!"
+msgstr ""
+
+msgctxt "784"
+msgid "(Shoot, I forgot Taichi was with me! What now!?)"
+msgstr ""
+
+msgctxt "796"
+msgid "Sorry, Taichi. I won't be long."
+msgstr ""
+
+msgctxt "808"
+msgid "Huh!? But Morning Glory's in trouble, Uncle Kaz! C'mon!"
+msgstr ""
+
+msgctxt "820"
+msgid "(He's right. Now's not the time for this.)"
+msgstr ""
+
+msgctxt "880"
+msgid "Go In Anyway"
+msgstr ""
+
+msgctxt "892"
+msgid "Forget It"
+msgstr ""
+
+msgctxt "904"
+msgid "Go In Anyway"
+msgstr ""
+
+msgctxt "916"
+msgid "Forget It"
+msgstr ""
+
+msgctxt "928"
+msgid "Go In Anyway"
+msgstr ""
+
+msgctxt "940"
+msgid "Forget It"
+msgstr ""
+
+msgctxt "952"
+msgid "Go In Anyway"
+msgstr ""
+
+msgctxt "964"
+msgid "Forget It"
+msgstr ""
+
+msgctxt "976"
+msgid "Go In Anyway"
+msgstr ""
+
+msgctxt "988"
+msgid "Forget It"
+msgstr ""
+
+msgctxt "6784"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "6788"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "6792"
+msgid "Rikiya"
+msgstr ""
+
+msgctxt "6796"
+msgid "Mikio"
+msgstr ""
+
+msgctxt "6800"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "6804"
+msgid "Ayako"
+msgstr ""
+
+msgctxt "6808"
+msgid "Taichi"
+msgstr ""
+
+msgctxt "6812"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "6816"
+msgid "Talk_No"
+msgstr ""

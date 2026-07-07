@@ -1,0 +1,52 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "128"
+msgid "Stop right there!"
+msgstr ""
+
+msgctxt "140"
+msgid "Dammit!"
+msgstr ""
+
+msgctxt "748"
+msgid "CHS_8006"
+msgstr ""
+
+msgctxt "752"
+msgid "Player_BACK��_2.0_ON"
+msgstr ""
+
+msgctxt "756"
+msgid "SetM_nml_sync_chase_hold_lp"
+msgstr ""
+
+msgctxt "760"
+msgid "SetP_sync_chase_hold_lp"
+msgstr ""
+
+msgctxt "764"
+msgid "Player_TOP_2.5_ON"
+msgstr ""
+
+msgctxt "768"
+msgid "15_15_SLOWER_VF_ON"
+msgstr ""
+
+msgctxt "772"
+msgid "Officer"
+msgstr ""
+
+msgctxt "776"
+msgid "Kiryu"
+msgstr ""

@@ -1,0 +1,70 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "92"
+msgid "I wanna be the number one host in Kamurocho!"
+msgstr ""
+
+msgctxt "104"
+msgid ""
+"Well, if you're aiming for the top, that means you're gonna want to work at "
+"Stardust or Adam."
+msgstr ""
+
+msgctxt "116"
+msgid "I know Stardust, but where's Adam? Is it really that famous?"
+msgstr ""
+
+msgctxt "128"
+msgid ""
+"Wait, you seriously haven't heard of it? It's a super famous club, it used "
+"to go toe to toe with Stardust. It's over in the Hotel District."
+msgstr ""
+
+msgctxt "140"
+msgid ""
+"Wow, Senpai, I shouldn't be surprised you knew all that! You know so much "
+"random stuff!"
+msgstr ""
+
+msgctxt "152"
+msgid "It's not random, you idiot..."
+msgstr ""
+
+msgctxt "1196"
+msgid "Rookie Host"
+msgstr ""
+
+msgctxt "1200"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "1204"
+msgid "Regular Host"
+msgstr ""
+
+msgctxt "1208"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "1212"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "1216"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "1220"
+msgid "Talk_Gakkari"
+msgstr ""

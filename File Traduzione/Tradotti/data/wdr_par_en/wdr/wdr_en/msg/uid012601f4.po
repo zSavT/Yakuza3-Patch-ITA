@@ -1,0 +1,177 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid "What can I do for you, little miss? Come to borrow a little spending money?"
+msgstr ""
+
+msgctxt "76"
+msgid "No. I'm here to return what I owe."
+msgstr ""
+
+msgctxt "88"
+msgid "Uh...huh. Your name is?"
+msgstr ""
+
+msgctxt "100"
+msgid "Kaneshiro."
+msgstr ""
+
+msgctxt "112"
+msgid "Ooh, the bingata folks. Right, right..."
+msgstr ""
+
+msgctxt "124"
+msgid "So. I can safely assume you brought me eight million yen. Correct?"
+msgstr ""
+
+msgctxt "136"
+msgid ""
+"Actually, it's only two million. It says so on the contract, so that's all "
+"I'm paying."
+msgstr ""
+
+msgctxt "148"
+msgid ""
+"Don't you go making shit up outta nowhere, girlie. Now where's the rest of "
+"the money?"
+msgstr ""
+
+msgctxt "160"
+msgid ""
+"Like I said, it's all here. Two million yen, plus interest. Why don't you "
+"check what we agreed on?"
+msgstr ""
+
+msgctxt "172"
+msgid ""
+"Oh, I've got what we agreed on right here, and according to this... You're "
+"trying to pull a fast one, aren't you?"
+msgstr ""
+
+msgctxt "184"
+msgid ""
+"See? The document states an even eight million⑬and it's been stamped, "
+"signed, everything!"
+msgstr ""
+
+msgctxt "196"
+msgid "But... How can this be? I never signed anything like that..."
+msgstr ""
+
+msgctxt "208"
+msgid "Why don't you let me take a look?"
+msgstr ""
+
+msgctxt "232"
+msgid "Huh? And who might you be? Her boyfriend, her dad, or her hired goon?"
+msgstr ""
+
+msgctxt "244"
+msgid "Doesn't matter. Just hand over the contract."
+msgstr ""
+
+msgctxt "256"
+msgid ""
+"What, so you can pick it apart!? We're running a goddamn business here! "
+"What's the world coming to when a client can't trust their lender!?"
+msgstr ""
+
+msgctxt "268"
+msgid ""
+"That's the line you're feeding us? Heh. I'm sure you made some alterations "
+"on your end... Otherwise you wouldn't be so paranoid."
+msgstr ""
+
+msgctxt "280"
+msgid "Paranoid, my ass! You're the one barging in here with all the accusations!"
+msgstr ""
+
+msgctxt "292"
+msgid ""
+"Really... So it's an accusation to ask one's lender to go over the terms of "
+"their contract? If that's how collection agencies work these days, your "
+"industry is done for."
+msgstr ""
+
+msgctxt "304"
+msgid ""
+"Hah. I'll bet the only reason you know about debt collecting is 'cause "
+"you're flat broke!"
+msgstr ""
+
+msgctxt "316"
+msgid ""
+"And if not... then I'll just have to break you myself! Hope you know a good "
+"chiropractor, asshole!"
+msgstr ""
+
+msgctxt "5600"
+msgid "Loan Shark"
+msgstr ""
+
+msgctxt "5604"
+msgid "Nao"
+msgstr ""
+
+msgctxt "5608"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "5612"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "5616"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "5620"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "5624"
+msgid "Talk_Chohatu"
+msgstr ""
+
+msgctxt "5628"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "5632"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "5636"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "5640"
+msgid "Talk_Udekumi_st"
+msgstr ""
+
+msgctxt "5644"
+msgid "Talk_Udekumi_Yes"
+msgstr ""
+
+msgctxt "5648"
+msgid "Talk_NoBig"
+msgstr ""
+
+msgctxt "5652"
+msgid "Talk_Udekumi_ed"
+msgstr ""
+
+msgctxt "5656"
+msgid "Talk_Away"
+msgstr ""

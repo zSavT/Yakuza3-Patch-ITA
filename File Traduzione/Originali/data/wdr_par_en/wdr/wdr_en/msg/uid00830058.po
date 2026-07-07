@@ -1,0 +1,139 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "80"
+msgid ""
+"Let me know next time you're in Kamurocho, Kiryu-san!\r\n"
+"I'll roll out the limo, just for you!"
+msgstr ""
+
+msgctxt "92"
+msgid "Heh. Thanks, Nishida."
+msgstr ""
+
+msgctxt "104"
+msgid ""
+"Oh, and before you go. The boss has been kinda... catty\r\n"
+"lately. You might wanna be careful. Who know's what'll set\r\n"
+"him off."
+msgstr ""
+
+msgctxt "116"
+msgid "Oh, Kiryu-san!"
+msgstr ""
+
+msgctxt "140"
+msgid "It's Nishida, right? What are you up to?"
+msgstr ""
+
+msgctxt "152"
+msgid ""
+"Oh, well the boss had some business with Kashiwagi-san, so\r\n"
+"I came over with him. But once we got here... he told me to just go home."
+msgstr ""
+
+msgctxt "164"
+msgid ""
+"The problem is, if I really do up and leave, I'll totally\r\n"
+"get chewed out later. So, I'm sticking around for now."
+msgstr ""
+
+msgctxt "176"
+msgid "Huh. I was actually heading over to see Majima-san myself."
+msgstr ""
+
+msgctxt "188"
+msgid "Is he still with Kashiwagi-san?"
+msgstr ""
+
+msgctxt "200"
+msgid ""
+"Doubt it. The boss thinks meetings are \"the most boring shit\r\n"
+"in the world,\" so I doubt it lasted longer than half an hour."
+msgstr ""
+
+msgctxt "212"
+msgid "Then where is he now?"
+msgstr ""
+
+msgctxt "224"
+msgid ""
+"On the roof, most likely. Looking down on the city.\r\n"
+"He may not look it, but he's actually a big softie."
+msgstr ""
+
+msgctxt "236"
+msgid "I'm sure he's torn up about you leaving Kamurocho, Kiryu-san."
+msgstr ""
+
+msgctxt "248"
+msgid ""
+"And hey! Don't tell the boss I said he's soft! Think I'd end\r\n"
+"up losing an eye myself if he found out..."
+msgstr ""
+
+msgctxt "260"
+msgid "Heh, I won't. Take care of yourself, Nishida."
+msgstr ""
+
+msgctxt "272"
+msgid "Same goes for you, Kiryu-san!"
+msgstr ""
+
+msgctxt "284"
+msgid ""
+"Oh, before you go. The boss has been kinda... catty lately.\r\n"
+"You might wanna be careful. Who knows what'll set him off?"
+msgstr ""
+
+msgctxt "296"
+msgid ""
+"You know what? Here, you should take this. Better safe than\r\n"
+"sorry, I always say!"
+msgstr ""
+
+msgctxt "308"
+msgid "You got a <Color:8>Staminan X<Color:Default>."
+msgstr ""
+
+msgctxt "332"
+msgid "You got a <Color:8>Staminan X<Color:Default>."
+msgstr ""
+
+msgctxt "4080"
+msgid "Nishida"
+msgstr ""
+
+msgctxt "4084"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "4088"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "4092"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "4096"
+msgid "Hat-Donning Man"
+msgstr ""
+
+msgctxt "4100"
+msgid "Talk_Request"
+msgstr ""
+
+msgctxt "4104"
+msgid "Talk_Send"
+msgstr ""

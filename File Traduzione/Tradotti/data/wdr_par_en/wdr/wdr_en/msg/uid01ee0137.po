@@ -1,0 +1,168 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "232"
+msgid "(Somebody's already here. Guess I can't play right now.)"
+msgstr ""
+
+msgctxt "244"
+msgid "(Somebody's already here. Guess I can't play right now.)"
+msgstr ""
+
+msgctxt "268"
+msgid "Uncle Kaz! Get at least 3,000 points in a Hard Game!"
+msgstr ""
+
+msgctxt "280"
+msgid ""
+"(At least 3,000 points in a Hard Game... One play is 300 yen. Should I give "
+"it a try?)"
+msgstr ""
+
+msgctxt "292"
+msgid "Okay, I'll give it a try."
+msgstr ""
+
+msgctxt "304"
+msgid "Good luck, Uncle Kaz!"
+msgstr ""
+
+msgctxt "328"
+msgid "(No, maybe not.)"
+msgstr ""
+
+msgctxt "340"
+msgid "Aww! You should play!"
+msgstr ""
+
+msgctxt "352"
+msgid "(One Hard Game is 300 yen, but I don't have enough cash...)"
+msgstr ""
+
+msgctxt "364"
+msgid "Aww! You should play!"
+msgstr ""
+
+msgctxt "376"
+msgid ""
+"In this game, there are bingo squares numbered 1 through 9. Hit balls to "
+"form a line of numbers down, across, or diagonally to score points."
+msgstr ""
+
+msgctxt "388"
+msgid ""
+"You can also hit two targets at once by hitting a ball between two adjacent "
+"targets. However, the center target, number 5, has a steel frame around it "
+"that prevents it from being hit at the same time as another target."
+msgstr ""
+
+msgctxt "400"
+msgid ""
+"Once you hit all the targets, a bonus target will appear. However, you only "
+"get one chance to hit it. The bonus target disappears after one pitch, "
+"whether you hit it or not. Go for a new high score by hitting all the "
+"numbers down, across, and diagonally!"
+msgstr ""
+
+msgctxt "424"
+msgid "(Hmm... The Hard Game is 300 yen. Maybe I should give it a try.)"
+msgstr ""
+
+msgctxt "436"
+msgid "(Okay, I'll try it.)"
+msgstr ""
+
+msgctxt "460"
+msgid "(No, maybe not.)"
+msgstr ""
+
+msgctxt "484"
+msgid ""
+"In this game, there are bingo squares numbered 1 through 9. Hit balls to "
+"form a line of numbers down, across, or diagonally to score points."
+msgstr ""
+
+msgctxt "496"
+msgid ""
+"You can also hit two targets at once by hitting a ball between two adjacent "
+"targets. However, the center target, number 5, has a steel frame around it "
+"that prevents it from being hit at the same time as another target."
+msgstr ""
+
+msgctxt "508"
+msgid ""
+"Once you hit all the targets, a bonus target will appear. However, you only "
+"get one chance to hit it. The bonus target disappears after one pitch, "
+"whether you hit it or not. Go for a new high score by hitting all the "
+"numbers down, across, and diagonally!"
+msgstr ""
+
+msgctxt "520"
+msgid "(One Hard Game is 300 yen, but I don't have enough cash...)"
+msgstr ""
+
+msgctxt "544"
+msgid "Play"
+msgstr ""
+
+msgctxt "556"
+msgid "Don't Play"
+msgstr ""
+
+msgctxt "568"
+msgid "Read the Rules"
+msgstr ""
+
+msgctxt "580"
+msgid "Play"
+msgstr ""
+
+msgctxt "592"
+msgid "Never Mind"
+msgstr ""
+
+msgctxt "604"
+msgid "Read the Rules"
+msgstr ""
+
+msgctxt "5472"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "5476"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "5480"
+msgid "HAL_stand_tlk_happy_small"
+msgstr ""
+
+msgctxt "5484"
+msgid "Talk_Kansin"
+msgstr ""
+
+msgctxt "5488"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "5492"
+msgid "HAL_stand_tlk_unhappy_small"
+msgstr ""
+
+msgctxt "5496"
+msgid "Batting Center: Hard Game"
+msgstr ""
+
+msgctxt "5500"
+msgid "Talk_Yes"
+msgstr ""

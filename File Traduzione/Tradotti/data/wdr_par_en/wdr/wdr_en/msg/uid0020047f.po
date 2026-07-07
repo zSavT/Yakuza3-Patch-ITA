@@ -1,0 +1,125 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "112"
+msgid ""
+"*pant* *pant* Dammit!\r\n"
+"I can't..."
+msgstr ""
+
+msgctxt "136"
+msgid ""
+"Hey, Sugar Buns...\r\n"
+"Sorry to keep ya waitin'."
+msgstr ""
+
+msgctxt "148"
+msgid ""
+"Get away from me!\r\n"
+"Aaaaaaagh!"
+msgstr ""
+
+msgctxt "172"
+msgid ""
+"Oh, dingleberries!\r\n"
+"Where'd he go?"
+msgstr ""
+
+msgctxt "184"
+msgid "I'll find you, my sexy snake..."
+msgstr ""
+
+msgctxt "256"
+msgid ""
+"You're mine, sailor!\r\n"
+"\r\n"
+"Now Big Mama's gonna rock your world!"
+msgstr ""
+
+msgctxt "268"
+msgid ""
+"No...!\r\n"
+"This can't be happening..."
+msgstr ""
+
+msgctxt "2312"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "2316"
+msgid "0"
+msgstr ""
+
+msgctxt "2320"
+msgid "Michiru"
+msgstr ""
+
+msgctxt "2324"
+msgid "Player_BACK_1.5_ON"
+msgstr ""
+
+msgctxt "2328"
+msgid "2_40_FASTER_VF_ON"
+msgstr ""
+
+msgctxt "2332"
+msgid "Walk"
+msgstr ""
+
+msgctxt "2336"
+msgid "Idle"
+msgstr ""
+
+msgctxt "2340"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "2344"
+msgid "Player_AORI_0.8_ON"
+msgstr ""
+
+msgctxt "2348"
+msgid "M_ykz_damage"
+msgstr ""
+
+msgctxt "2352"
+msgid "Talker_AORI_0.8_ON"
+msgstr ""
+
+msgctxt "2356"
+msgid "15_15_SLOWER_VF_ON"
+msgstr ""
+
+msgctxt "2360"
+msgid "CHS_8006"
+msgstr ""
+
+msgctxt "2364"
+msgid "Player_BACK��_2.0_ON"
+msgstr ""
+
+msgctxt "2368"
+msgid "SetM_nml_sync_chase_hold_lp"
+msgstr ""
+
+msgctxt "2372"
+msgid "SetP_sync_chase_hold_lp"
+msgstr ""
+
+msgctxt "2376"
+msgid "Player_TOP_2.5_ON"
+msgstr ""
+
+msgctxt "2380"
+msgid "15_35_SLOWER_VF_ON"
+msgstr ""

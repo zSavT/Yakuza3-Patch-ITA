@@ -1,0 +1,305 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "96"
+msgid "...How long are you going to wait out here?"
+msgstr ""
+
+msgctxt "108"
+msgid ""
+"I wonder when this club closes... Hopefully she's free\r\n"
+"after work..."
+msgstr ""
+
+msgctxt "120"
+msgid "Do you know when it closes?"
+msgstr ""
+
+msgctxt "132"
+msgid "No idea. I don't keep track of that stuff."
+msgstr ""
+
+msgctxt "144"
+msgid ""
+"If I were old enough, I could go visit her in the club...\r\n"
+"You're so lucky that you get to go in."
+msgstr ""
+
+msgctxt "156"
+msgid "......"
+msgstr ""
+
+msgctxt "168"
+msgid ""
+"Hey, look! That's her! That's the gorgeous woman I saw\r\n"
+"earlier!"
+msgstr ""
+
+msgctxt "192"
+msgid "This time... I'll talk to her all on my own!"
+msgstr ""
+
+msgctxt "204"
+msgid "Excuse me!"
+msgstr ""
+
+msgctxt "216"
+msgid "......"
+msgstr ""
+
+msgctxt "252"
+msgid "...How long are you going to wait out here?"
+msgstr ""
+
+msgctxt "264"
+msgid ""
+"I wonder when this club closes... Hopefully she's free\r\n"
+"after work..."
+msgstr ""
+
+msgctxt "276"
+msgid "Do you know when it closes?"
+msgstr ""
+
+msgctxt "288"
+msgid "No idea. I don't keep track of that stuff."
+msgstr ""
+
+msgctxt "300"
+msgid ""
+"If I were old enough, I could go visit her in the club...\r\n"
+"You're so lucky that you get to go in."
+msgstr ""
+
+msgctxt "312"
+msgid "......"
+msgstr ""
+
+msgctxt "324"
+msgid ""
+"Hey, look! That's her! That's the gorgeous woman I saw\r\n"
+"earlier!"
+msgstr ""
+
+msgctxt "348"
+msgid "This time... I'll talk to her all on my own!"
+msgstr ""
+
+msgctxt "360"
+msgid "Excuse me!"
+msgstr ""
+
+msgctxt "372"
+msgid "......"
+msgstr ""
+
+msgctxt "420"
+msgid "Huh? Are you talking to me, sweetheart?"
+msgstr ""
+
+msgctxt "432"
+msgid "Um... Well... I..."
+msgstr ""
+
+msgctxt "444"
+msgid "Oh, hi, Kiryu-san! Who's this? Is he your son?"
+msgstr ""
+
+msgctxt "456"
+msgid "He's not, don't worry. He wants to talk to you, though."
+msgstr ""
+
+msgctxt "468"
+msgid "I saw you on that street earlier, and I just..."
+msgstr ""
+
+msgctxt "480"
+msgid "You... saw me? And? What is it you want from me, honey?"
+msgstr ""
+
+msgctxt "492"
+msgid ""
+"What!? What do I want? I, uh... I want to eat ice cream\r\n"
+"with you... maybe see a movie..."
+msgstr ""
+
+msgctxt "504"
+msgid ""
+"Aww, that's nice, but... Sorry, sweetie, I'm a grown woman. I need a little "
+"bit more than that in my love life."
+msgstr ""
+
+msgctxt "516"
+msgid ""
+"But feel free to ask me out again once Kiryu-san teaches you how to handle "
+"an older woman like me. ⑮"
+msgstr ""
+
+msgctxt "540"
+msgid ""
+"Hey, Kiryu-san, you should stop by the club sometime. I'd\r\n"
+"love to spend more time with you. Trust me, I'll make it\r\n"
+"worth your while. ⑮"
+msgstr ""
+
+msgctxt "552"
+msgid "What!?"
+msgstr ""
+
+msgctxt "576"
+msgid "......"
+msgstr ""
+
+msgctxt "588"
+msgid "W... Waaaaaah! I hate yooouuuu!"
+msgstr ""
+
+msgctxt "636"
+msgid "You got 2,000 EXP."
+msgstr ""
+
+msgctxt "648"
+msgid "Huh? Are you talking to me, hon?"
+msgstr ""
+
+msgctxt "660"
+msgid "Um... Well... I..."
+msgstr ""
+
+msgctxt "672"
+msgid "Do you know this boy? Is he yours?"
+msgstr ""
+
+msgctxt "684"
+msgid "No, he's not. He wants to talk to you, though."
+msgstr ""
+
+msgctxt "696"
+msgid "I saw you on that street earlier, and I just..."
+msgstr ""
+
+msgctxt "708"
+msgid "You... saw me? And? What is it you want from me, honey?"
+msgstr ""
+
+msgctxt "720"
+msgid ""
+"What!? What do I want? I, uh... I want to eat ice cream\r\n"
+"with you... maybe see a movie..."
+msgstr ""
+
+msgctxt "732"
+msgid ""
+"Aww, that's nice, but... Sorry, sweetie, I'm a grown woman. I need a little "
+"bit more than that in my love life."
+msgstr ""
+
+msgctxt "744"
+msgid ""
+"...and as much as I appreciate the thought, I'm much more interested in a "
+"date with this handsome man right here."
+msgstr ""
+
+msgctxt "768"
+msgid ""
+"I work here at this club. I'd be really happy if you came to see me "
+"sometime. ⑮"
+msgstr ""
+
+msgctxt "780"
+msgid "I'll make it worth your while. ⑮"
+msgstr ""
+
+msgctxt "792"
+msgid "What!?"
+msgstr ""
+
+msgctxt "816"
+msgid "......"
+msgstr ""
+
+msgctxt "828"
+msgid "W... Waaaaaah! I hate yooouuuu!"
+msgstr ""
+
+msgctxt "876"
+msgid "You got 2,000 EXP."
+msgstr ""
+
+msgctxt "10272"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "10276"
+msgid "Lovelorn Teenager"
+msgstr ""
+
+msgctxt "10280"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "10284"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "10288"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "10292"
+msgid "Idle"
+msgstr ""
+
+msgctxt "10296"
+msgid "Mika"
+msgstr ""
+
+msgctxt "10300"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "10304"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "10308"
+msgid "F_sxy_stand_sync_dakitukiA_st"
+msgstr ""
+
+msgctxt "10312"
+msgid "P_stand_sync_dakitukiA_st"
+msgstr ""
+
+msgctxt "10316"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "10320"
+msgid "F_sxy_stand_sync_dakitukiA_ed"
+msgstr ""
+
+msgctxt "10324"
+msgid "P_stand_sync_dakitukiA_ed"
+msgstr ""
+
+msgctxt "10328"
+msgid "Attractive Woman"
+msgstr ""
+
+msgctxt "10332"
+msgid "F_sxy_stand_sync_dakitukiA_lp"
+msgstr ""
+
+msgctxt "10336"
+msgid "P_stand_sync_dakitukiA_lp"
+msgstr ""

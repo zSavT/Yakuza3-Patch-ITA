@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "100"
+msgid "Kiryu-san! My son's gone missing!"
+msgstr ""
+
+msgctxt "112"
+msgid "What?"
+msgstr ""
+
+msgctxt "124"
+msgid ""
+"He was on the way over with his grandpa and the rest\r\n"
+"of the family..."
+msgstr ""
+
+msgctxt "136"
+msgid "But they got separated..."
+msgstr ""
+
+msgctxt "148"
+msgid "......"
+msgstr ""
+
+msgctxt "160"
+msgid "He said he wanted to see Mommy at work..."
+msgstr ""
+
+msgctxt "172"
+msgid "Kiryu-san... I don't know what to do..."
+msgstr ""
+
+msgctxt "184"
+msgid "Where are you now?"
+msgstr ""
+
+msgctxt "196"
+msgid ""
+"In front of the coin lockers... Please, Kiryu-san!\r\n"
+"Please help me!"
+msgstr ""
+
+msgctxt "208"
+msgid "Okay... Wait right there."
+msgstr ""
+
+msgctxt "1512"
+msgid "P_stand_tlk_phone_st"
+msgstr ""
+
+msgctxt "1516"
+msgid "Miyu"
+msgstr ""
+
+msgctxt "1520"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1524"
+msgid "P_stand_tlk_phone_ed"
+msgstr ""
+
+msgctxt "1528"
+msgid "dummy"
+msgstr ""

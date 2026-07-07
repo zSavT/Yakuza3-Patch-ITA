@@ -1,0 +1,156 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "92"
+msgid "Sorry to keep you waiting."
+msgstr ""
+
+msgctxt "104"
+msgid "Dad... This is Kazuma Kiryu, the guy I was telling you about over the phone."
+msgstr ""
+
+msgctxt "116"
+msgid "Pleasure to meet you, sir."
+msgstr ""
+
+msgctxt "128"
+msgid "...Hmm. I'm Mika's father."
+msgstr ""
+
+msgctxt "140"
+msgid "Dad... Kiryu-san and I are getting married."
+msgstr ""
+
+msgctxt "152"
+msgid "What!?"
+msgstr ""
+
+msgctxt "164"
+msgid "That's why I moved to Okinawa. I wanted to be with him."
+msgstr ""
+
+msgctxt "176"
+msgid "......"
+msgstr ""
+
+msgctxt "188"
+msgid ""
+"It's all right, Dad. Kiryu-san is going to take care of me, and we're going "
+"to have a beautiful life together!"
+msgstr ""
+
+msgctxt "200"
+msgid "You don't have to worry about me anymore. I'll be fine."
+msgstr ""
+
+msgctxt "212"
+msgid "...Hmm."
+msgstr ""
+
+msgctxt "224"
+msgid "Hehe..."
+msgstr ""
+
+msgctxt "236"
+msgid "Tell me, Kiryu-san, do you truly love my daughter?"
+msgstr ""
+
+msgctxt "248"
+msgid "I do."
+msgstr ""
+
+msgctxt "260"
+msgid "Do you think you can make her happy?"
+msgstr ""
+
+msgctxt "272"
+msgid "I promise I will."
+msgstr ""
+
+msgctxt "284"
+msgid "I see... Let's put your feelings to the test, then."
+msgstr ""
+
+msgctxt "296"
+msgid "Come on out."
+msgstr ""
+
+msgctxt "368"
+msgid ""
+"This guy here is one of our family bodyguards. He's here to keep our family "
+"safe."
+msgstr ""
+
+msgctxt "380"
+msgid "What are you doing, Dad!? Stop this right now!"
+msgstr ""
+
+msgctxt "392"
+msgid "You be quiet! Let Dad handle this!"
+msgstr ""
+
+msgctxt "404"
+msgid "Hehehe... You ready for an ass whoopin'?"
+msgstr ""
+
+msgctxt "416"
+msgid "Then I'm gonna make sure you get it!"
+msgstr ""
+
+msgctxt "4312"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "4316"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "4320"
+msgid "Mika"
+msgstr ""
+
+msgctxt "4324"
+msgid "Mika's Father"
+msgstr ""
+
+msgctxt "4328"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "4332"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "4336"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "4340"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "4344"
+msgid "Talk_NoBig"
+msgstr ""
+
+msgctxt "4348"
+msgid "Suspicious Man"
+msgstr ""
+
+msgctxt "4352"
+msgid "Talk_Chohatu"
+msgstr ""
+
+msgctxt "4356"
+msgid "Talk_Odosu"
+msgstr ""

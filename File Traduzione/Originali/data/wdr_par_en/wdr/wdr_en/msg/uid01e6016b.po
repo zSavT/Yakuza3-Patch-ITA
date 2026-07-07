@@ -1,0 +1,100 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "100"
+msgid "Well, Ms. Takahashi and the host made it to their taxi."
+msgstr ""
+
+msgctxt "112"
+msgid "Sorry I couldn't do better."
+msgstr ""
+
+msgctxt "124"
+msgid ""
+"It's all right. My office will just have to sort it out with the paparazzi, "
+"most likely buying up their pictures..."
+msgstr ""
+
+msgctxt "136"
+msgid ""
+"(But between you and me, maybe this will teach her a lesson. A big star "
+"like her has to be more careful.)"
+msgstr ""
+
+msgctxt "148"
+msgid " Now then... As promised, here's a token of our gratitude."
+msgstr ""
+
+msgctxt "160"
+msgid "You got <Color:8>30,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "172"
+msgid ""
+"(Keep your lips sealed about Ms. Takahashi and her new host friend, all "
+"right?)"
+msgstr ""
+
+msgctxt "184"
+msgid "Guess I blew it. Sorry about that."
+msgstr ""
+
+msgctxt "196"
+msgid ""
+"It's all right. My office will just have to sort it out with the paparazzi, "
+"most likely buying up their pictures..."
+msgstr ""
+
+msgctxt "208"
+msgid "I have to be on my way now."
+msgstr ""
+
+msgctxt "232"
+msgid "You got 8,000 EXP."
+msgstr ""
+
+msgctxt "2504"
+msgid "Manager"
+msgstr ""
+
+msgctxt "2508"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "2512"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "2516"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "2520"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "2524"
+msgid "Talk_Send"
+msgstr ""
+
+msgctxt "2528"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "2532"
+msgid "dummy"
+msgstr ""
+
+msgctxt "2536"
+msgid "0"
+msgstr ""

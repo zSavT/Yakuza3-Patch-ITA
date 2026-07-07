@@ -1,0 +1,155 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "96"
+msgid "I apologize... but Serena's closed for the day."
+msgstr ""
+
+msgctxt "108"
+msgid "Wasn't that a bit too harsh?"
+msgstr ""
+
+msgctxt "120"
+msgid "Kiryu-san..."
+msgstr ""
+
+msgctxt "132"
+msgid "Date-san was serious, you know. His heart was in that ring."
+msgstr ""
+
+msgctxt "144"
+msgid "Did I ever tell you... I was married once?"
+msgstr ""
+
+msgctxt "156"
+msgid "No..."
+msgstr ""
+
+msgctxt "168"
+msgid "Well. It was a long time ago."
+msgstr ""
+
+msgctxt "180"
+msgid "So that means... you're divorced?"
+msgstr ""
+
+msgctxt "192"
+msgid "No... That's not what happened at all."
+msgstr ""
+
+msgctxt "204"
+msgid "Then..."
+msgstr ""
+
+msgctxt "216"
+msgid "My husband... He died."
+msgstr ""
+
+msgctxt "228"
+msgid "......"
+msgstr ""
+
+msgctxt "240"
+msgid "He was a police officer, you know."
+msgstr ""
+
+msgctxt "252"
+msgid "Really..."
+msgstr ""
+
+msgctxt "264"
+msgid "Date-san was, too, right? A detective?"
+msgstr ""
+
+msgctxt "276"
+msgid "Yeah."
+msgstr ""
+
+msgctxt "288"
+msgid ""
+"Well... I suppose I should fill you in. One day, I was... let's just say I "
+"was in the wrong place at the wrong time, and a robber took me hostage."
+msgstr ""
+
+msgctxt "312"
+msgid "Really... How did you make it out?"
+msgstr ""
+
+msgctxt "324"
+msgid "...It was my husband. He sacrificed his life for me."
+msgstr ""
+
+msgctxt "336"
+msgid "......"
+msgstr ""
+
+msgctxt "360"
+msgid ""
+"Look, I know Date-san left the force to be a journalist, but there's just "
+"something about him that makes me think of my husband... It's too much for "
+"me to handle."
+msgstr ""
+
+msgctxt "372"
+msgid "Maybe they might be similar in some way, but Date-san's his own man."
+msgstr ""
+
+msgctxt "384"
+msgid "Even so... I just can't erase that horrible memory."
+msgstr ""
+
+msgctxt "396"
+msgid ""
+"Every time I think about Date-san as a detective, images of what happened "
+"that day flash through my mind... and I just can't block them out."
+msgstr ""
+
+msgctxt "408"
+msgid "......"
+msgstr ""
+
+msgctxt "420"
+msgid "That's why I can't see him... Please tell him I'm sorry."
+msgstr ""
+
+msgctxt "4580"
+msgid "Mama"
+msgstr ""
+
+msgctxt "4584"
+msgid "Talk_Sorry"
+msgstr ""
+
+msgctxt "4588"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "4592"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "4596"
+msgid "C20_MAM_stand_talk_yes_obie"
+msgstr ""
+
+msgctxt "4600"
+msgid "C20_MAM_stand_talk_no_obie"
+msgstr ""
+
+msgctxt "4604"
+msgid "se_a_ss_mm001-a002_1_01"
+msgstr ""
+
+msgctxt "4608"
+msgid "se_a_ss_mm001-a002_1_02"
+msgstr ""

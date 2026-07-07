@@ -1,0 +1,48 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid "Huh? Pardon me, sir, but you are...?"
+msgstr ""
+
+msgctxt "76"
+msgid "Wait... Is this the office for the Tuna Fund?"
+msgstr ""
+
+msgctxt "88"
+msgid "The Tuna Fund? No, sir, it's not."
+msgstr ""
+
+msgctxt "100"
+msgid ""
+"A lot of people have been asking us that lately, though.\r\n"
+"Is something going on with this Tuna Fund group?"
+msgstr ""
+
+msgctxt "112"
+msgid ""
+"(Something's not right. I'll have to ask around once I get\r\n"
+"back to Kamurocho.)"
+msgstr ""
+
+msgctxt "904"
+msgid "Clerk"
+msgstr ""
+
+msgctxt "908"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "912"
+msgid "Talk_No"
+msgstr ""

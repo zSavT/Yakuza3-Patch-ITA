@@ -1,0 +1,50 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "208"
+msgid "It's Kiryu."
+msgstr ""
+
+msgctxt "220"
+msgid ""
+"Just when were you planning on coming back, hmm!?\r\n"
+"And you'd better be done with those deliveries!"
+msgstr ""
+
+msgctxt "232"
+msgid "Anyway, just get back here on the double!"
+msgstr ""
+
+msgctxt "244"
+msgid "...Right."
+msgstr ""
+
+msgctxt "1432"
+msgid "Player_BACK_0.9_OFF"
+msgstr ""
+
+msgctxt "1436"
+msgid "P_stand_tlk_phone_st"
+msgstr ""
+
+msgctxt "1440"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1444"
+msgid "Waraba Owner"
+msgstr ""
+
+msgctxt "1448"
+msgid "P_stand_tlk_phone_ed"
+msgstr ""

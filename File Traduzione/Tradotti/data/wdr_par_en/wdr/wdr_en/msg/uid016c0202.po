@@ -1,0 +1,506 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "308"
+msgid "Hello, Kiryu-san? It's me, Reimi from Shine."
+msgstr ""
+
+msgctxt "320"
+msgid "Oh, hey... What's going on?"
+msgstr ""
+
+msgctxt "332"
+msgid ""
+"I was just kinda thinking about you, Kiryu-san... If you don't mind, do you "
+"wanna go out right now?"
+msgstr ""
+
+msgctxt "344"
+msgid "Sure..."
+msgstr ""
+
+msgctxt "356"
+msgid "Heheh... Then, let's meet up at Gelateria Kamuro on Taihei Boulevard."
+msgstr ""
+
+msgctxt "368"
+msgid "Gelateria Kamuro on Taihei Boulevard, got it."
+msgstr ""
+
+msgctxt "380"
+msgid "Yep. Okay, see you later. <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "464"
+msgid "Hello, Kiryu-san? It's me, Reimi from Shine."
+msgstr ""
+
+msgctxt "476"
+msgid "Oh, hey. What's going on?"
+msgstr ""
+
+msgctxt "488"
+msgid ""
+"Um... Can you come to the club today? If you could... I'd really like you "
+"to escort me."
+msgstr ""
+
+msgctxt "500"
+msgid "Sure..."
+msgstr ""
+
+msgctxt "512"
+msgid ""
+"I'll be waiting at Gelateria Kamuro on Taihei Boulevard. Can you come pick "
+"me up there?"
+msgstr ""
+
+msgctxt "524"
+msgid "Gelateria Kamuro on Taihei Boulevard, got it."
+msgstr ""
+
+msgctxt "536"
+msgid "Okay, I'll be waiting... You better come. <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "620"
+msgid "Hello, Kiryu-san? It's Rin from Shine."
+msgstr ""
+
+msgctxt "632"
+msgid "Hey, what's going on?"
+msgstr ""
+
+msgctxt "644"
+msgid "Ya feelin' up for a li'l date right now?"
+msgstr ""
+
+msgctxt "656"
+msgid "Sure..."
+msgstr ""
+
+msgctxt "668"
+msgid "Then it's settled! Let's meet up at Gelateria Kamuro on Taihei Boulevard."
+msgstr ""
+
+msgctxt "680"
+msgid "Gelateria Kamuro on Taihei Boulevard, got it."
+msgstr ""
+
+msgctxt "692"
+msgid "Yep. I expect ya to be there. <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "776"
+msgid "Hello, Kiryu-san? It's Rin... Ya got some time?"
+msgstr ""
+
+msgctxt "788"
+msgid "Hey... What's going on?"
+msgstr ""
+
+msgctxt "800"
+msgid "So I was wantin' to ask ya... Wanna be my escort?"
+msgstr ""
+
+msgctxt "812"
+msgid "Sure..."
+msgstr ""
+
+msgctxt "824"
+msgid ""
+"I'm over at the Gelateria Kamuro on Taihei Boulevard... Can ya come pick me "
+"up?"
+msgstr ""
+
+msgctxt "836"
+msgid "Gelateria Kamuro on Taihei Boulevard, got it."
+msgstr ""
+
+msgctxt "848"
+msgid ""
+"Hehe... Thank ya kindly. I'll be waitin', so ya better come\r\n"
+"quick. <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "932"
+msgid "Hello, Kiryu-san? This is Kana from Shine..."
+msgstr ""
+
+msgctxt "944"
+msgid "Hey, Kana. What's going on?"
+msgstr ""
+
+msgctxt "956"
+msgid ""
+"Well, I know I messed up the other day, so I wanted to make it up to you... "
+"Would you be free for a date right now?"
+msgstr ""
+
+msgctxt "968"
+msgid "Make it up to me?"
+msgstr ""
+
+msgctxt "980"
+msgid "Yes... I want to apologize for disappointing you so much..."
+msgstr ""
+
+msgctxt "992"
+msgid ""
+"So... Can we meet up at Gelateria Kamuro? The one on Taihei Boulevard. "
+"Please?"
+msgstr ""
+
+msgctxt "1004"
+msgid "Sure."
+msgstr ""
+
+msgctxt "1016"
+msgid "Really? I'll get there as fast as I can, then. <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "1100"
+msgid "Hello, Kiryu-san? It's me... Kana..."
+msgstr ""
+
+msgctxt "1112"
+msgid "Oh, hey. What do you need?"
+msgstr ""
+
+msgctxt "1124"
+msgid ""
+"Um... I... kinda wanted to show you how grateful I am for stuff, "
+"Kiryu-san..."
+msgstr ""
+
+msgctxt "1136"
+msgid "So I was thinking we could... maybe... go on an after-hours date...?"
+msgstr ""
+
+msgctxt "1148"
+msgid "Sure..."
+msgstr ""
+
+msgctxt "1160"
+msgid ""
+"Then I'll be waiting at Gelateria Kamuro on Taihei Boulevard,\r\n"
+"okay? <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "1172"
+msgid "Gelateria Kamuro on Taihei Boulevard, got it."
+msgstr ""
+
+msgctxt "1184"
+msgid "Hehehe. I'll be waiting for you, Kiryu-san. <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "1268"
+msgid "Hey, Kiryu-san! This is Ranko from Shine!"
+msgstr ""
+
+msgctxt "1280"
+msgid "Oh, hey. What's going on?"
+msgstr ""
+
+msgctxt "1292"
+msgid ""
+"So like, some stuff happened, and I'm totally free the rest of the day. "
+"Wanna go out?"
+msgstr ""
+
+msgctxt "1304"
+msgid "Sure."
+msgstr ""
+
+msgctxt "1316"
+msgid "Sweet! Let's meet up at Gelateria Kamuro on Taihei Boulevard. See you there!"
+msgstr ""
+
+msgctxt "1328"
+msgid "Sounds like a plan."
+msgstr ""
+
+msgctxt "1340"
+msgid "You better come! <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "1424"
+msgid "Hey, Kiryu-san! This is Ranko from Shine!"
+msgstr ""
+
+msgctxt "1436"
+msgid "Oh, hey. What's going on?"
+msgstr ""
+
+msgctxt "1448"
+msgid ""
+"I really wanna see you, Kiryu-san... We should totally hang out today, if "
+"you're free, of course."
+msgstr ""
+
+msgctxt "1460"
+msgid "Sure, sounds great."
+msgstr ""
+
+msgctxt "1472"
+msgid ""
+"Yay! So, like, let's meet up at Gelateria Kamuro on Taihei Boulevard. Sound "
+"good?"
+msgstr ""
+
+msgctxt "1484"
+msgid "Sounds like a plan."
+msgstr ""
+
+msgctxt "1496"
+msgid "Hehe... It's a date, then! I'll see you there! <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "1580"
+msgid "Hello, is this Kiryu-san? It's Miyu from Jewel."
+msgstr ""
+
+msgctxt "1592"
+msgid "Oh, hey. What's going on?"
+msgstr ""
+
+msgctxt "1604"
+msgid ""
+"Um... If you'd like... Would you like to go out on an after-hours date "
+"right now?"
+msgstr ""
+
+msgctxt "1616"
+msgid "Sure, sounds great."
+msgstr ""
+
+msgctxt "1628"
+msgid "Okay, meet you at Smile Burger on Nakamichi Street?"
+msgstr ""
+
+msgctxt "1640"
+msgid "Smile Burger on Nakamichi Street. Got it."
+msgstr ""
+
+msgctxt "1652"
+msgid "I hope you come. <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "1736"
+msgid "Hello, is this Kiryu-san? It's Miyu..."
+msgstr ""
+
+msgctxt "1748"
+msgid "Oh, hey. What's going on?"
+msgstr ""
+
+msgctxt "1760"
+msgid "I was just wanting to see you... Would you be able to escort me right now?"
+msgstr ""
+
+msgctxt "1772"
+msgid "Sure, sounds great."
+msgstr ""
+
+msgctxt "1784"
+msgid "Can we meet at the Smile Burger on Nakamichi Street, same as before?"
+msgstr ""
+
+msgctxt "1796"
+msgid "Smile Burger on Nakamichi Street. Got it."
+msgstr ""
+
+msgctxt "1808"
+msgid "Hehe. I'm so happy. <Color:7>⑮<Color:Default> I'll be waiting."
+msgstr ""
+
+msgctxt "1892"
+msgid "Hello, Kiryu-san? It's me, Shiori from Jewel."
+msgstr ""
+
+msgctxt "1904"
+msgid "Oh, hey. What's going on?"
+msgstr ""
+
+msgctxt "1916"
+msgid ""
+"You feeling up for an after-hours date, Kiryu-san? I won't mind tagging "
+"along with you."
+msgstr ""
+
+msgctxt "1928"
+msgid "Sure, sounds great."
+msgstr ""
+
+msgctxt "1940"
+msgid "Okay, come to the Smile Burger on Nakamichi Street."
+msgstr ""
+
+msgctxt "1952"
+msgid "Smile Burger on Nakamichi Street. Got it."
+msgstr ""
+
+msgctxt "1964"
+msgid "All right, just wait there. <Color:7>⑮<Color:Default> Don't you forget."
+msgstr ""
+
+msgctxt "2048"
+msgid "Hello, Kiryu-san? It's me, Shiori."
+msgstr ""
+
+msgctxt "2060"
+msgid "Oh, hey. What's going on?"
+msgstr ""
+
+msgctxt "2072"
+msgid "Just bored right now... Feeling up to being my escort?"
+msgstr ""
+
+msgctxt "2084"
+msgid "Sure, sounds great."
+msgstr ""
+
+msgctxt "2096"
+msgid "Okay, I'll meet you at Smile Burger on Nakamichi Street, like before."
+msgstr ""
+
+msgctxt "2108"
+msgid "Smile Burger on Nakamichi Street. Got it."
+msgstr ""
+
+msgctxt "2120"
+msgid ""
+"You better get there. I'll keep waiting until you come. "
+"<Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "2204"
+msgid "Heeey, Kiryu-san? It's me, Yui, from Jewel."
+msgstr ""
+
+msgctxt "2216"
+msgid "Oh, hey. What's going on?"
+msgstr ""
+
+msgctxt "2228"
+msgid ""
+"I'm done with work, but I don't wanna just head home... Wanna go hang out "
+"somewhere?"
+msgstr ""
+
+msgctxt "2240"
+msgid "For an after-hours date?"
+msgstr ""
+
+msgctxt "2252"
+msgid "Yeah! You wouldn't turn me down, would you?"
+msgstr ""
+
+msgctxt "2264"
+msgid "Hey, now, that's unfair."
+msgstr ""
+
+msgctxt "2276"
+msgid ""
+"What's unfair about that? Anyway, I'll meet you at the Smile Burger on "
+"Nakamichi Street. <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "2288"
+msgid "Smile Burger on Nakamichi Street... Okay."
+msgstr ""
+
+msgctxt "2300"
+msgid "I really hate waiting, so you better hurry over fast. ♪"
+msgstr ""
+
+msgctxt "2384"
+msgid "Hey, Kiryu-san? It's me, Yui."
+msgstr ""
+
+msgctxt "2396"
+msgid "Oh, hey. What's going on?"
+msgstr ""
+
+msgctxt "2408"
+msgid "So I was thinking... wanna come hang out with me before work?"
+msgstr ""
+
+msgctxt "2420"
+msgid "Sure, sounds great."
+msgstr ""
+
+msgctxt "2432"
+msgid ""
+"I just suddenly had the urge to see you, Kiryu-san... Man, I'm just feeling "
+"so weird right now, haha."
+msgstr ""
+
+msgctxt "2444"
+msgid "Anyway, I'll meet you at Smile Burger on Nakamichi Street."
+msgstr ""
+
+msgctxt "2456"
+msgid "Smile Burger on Nakamichi Street. Got it."
+msgstr ""
+
+msgctxt "2468"
+msgid ""
+"Hehehe... You better be there. Don't make me wait, okay? "
+"<Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "20988"
+msgid "P_stand_tlk_phone_st"
+msgstr ""
+
+msgctxt "20992"
+msgid "Reimi"
+msgstr ""
+
+msgctxt "20996"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "21000"
+msgid "P_stand_tlk_phone_ed"
+msgstr ""
+
+msgctxt "21004"
+msgid "dummy"
+msgstr ""
+
+msgctxt "21008"
+msgid "Rin"
+msgstr ""
+
+msgctxt "21012"
+msgid "Kana"
+msgstr ""
+
+msgctxt "21016"
+msgid "Ranko"
+msgstr ""
+
+msgctxt "21020"
+msgid "Miyu"
+msgstr ""
+
+msgctxt "21024"
+msgid "Shiori"
+msgstr ""
+
+msgctxt "21028"
+msgid "Yui"
+msgstr ""

@@ -1,0 +1,92 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "54\t114"
+msgid "I..."
+msgstr ""
+
+msgctxt "134\t246"
+msgid "I really am Natsumi."
+msgstr ""
+
+msgctxt "271\t359"
+msgid "I never actually had a sister."
+msgstr ""
+
+msgctxt "543\t638"
+msgid "I know. I've known all along."
+msgstr ""
+
+msgctxt "643\t732"
+msgid "I'd never forget that face."
+msgstr ""
+
+msgctxt "742\t802"
+msgid "Rikiya."
+msgstr ""
+
+msgctxt "938\t1098"
+msgid "I'm sorry! I'm so sorry!"
+msgstr ""
+
+msgctxt "1110\t1252"
+msgid ""
+"It's all right.\\n"
+"Tokyo doesn't suit you much anyway."
+msgstr ""
+
+msgctxt "1261\t1398"
+msgid ""
+"So come home.\\n"
+"To Okinawa, with me."
+msgstr ""
+
+msgctxt "1389\t1446"
+msgid "Okay."
+msgstr ""
+
+msgctxt "1447\t1595"
+msgid "I hope... you can forgive me, Rikiya."
+msgstr ""
+
+msgctxt "1603\t1661"
+msgid "Natsumi."
+msgstr ""
+
+msgctxt "1662\t1750"
+msgid "I meant it when I said I'd take care of you."
+msgstr ""
+
+msgctxt "1772\t1886"
+msgid "So let's just go home, okay?"
+msgstr ""
+
+msgctxt "1927\t1975"
+msgid "Mhm."
+msgstr ""
+
+msgctxt "1976\t2120"
+msgid ""
+"I have some stuff to take care of\\n"
+"with Kiryu-aniki here first."
+msgstr ""
+
+msgctxt "2121\t2255"
+msgid ""
+"But I'll come get you when I'm done.\\n"
+"I promise."
+msgstr ""
+
+msgctxt "2262\t2322"
+msgid "Rikiya!"
+msgstr ""

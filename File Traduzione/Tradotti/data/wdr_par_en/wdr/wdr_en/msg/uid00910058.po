@@ -1,0 +1,106 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "136"
+msgid "What the hell...?"
+msgstr ""
+
+msgctxt "148"
+msgid "I'm not wasting any more time on you. Step aside."
+msgstr ""
+
+msgctxt "184"
+msgid "Is a guy named Zen here?"
+msgstr ""
+
+msgctxt "196"
+msgid "Huh? What do you want?"
+msgstr ""
+
+msgctxt "208"
+msgid ""
+"I'm with the Honest Living Association. Now, release those\r\n"
+"hostages."
+msgstr ""
+
+msgctxt "220"
+msgid "No way! What is the HLA doing here!?"
+msgstr ""
+
+msgctxt "232"
+msgid ""
+"If you thought taking hostages would stop us from coming\r\n"
+"after you, then you're dumber than I thought."
+msgstr ""
+
+msgctxt "244"
+msgid ""
+"We're freeing those hostages, even if it means beating some sense into you "
+"first."
+msgstr ""
+
+msgctxt "256"
+msgid "Hey! Go report this to Zen."
+msgstr ""
+
+msgctxt "268"
+msgid "Got it!"
+msgstr ""
+
+msgctxt "340"
+msgid ""
+"Who do you think you are, some kind of superhero or\r\n"
+"something? You must be gettin' senile in your old age!"
+msgstr ""
+
+msgctxt "352"
+msgid ""
+"After a good ass-kicking, you can join your friends...\r\n"
+"as another hostage!"
+msgstr ""
+
+msgctxt "2532"
+msgid "Portly Guard"
+msgstr ""
+
+msgctxt "2536"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "2540"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "2544"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "2548"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "2552"
+msgid "Young Guard"
+msgstr ""
+
+msgctxt "2556"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "2560"
+msgid "Cool Guard"
+msgstr ""
+
+msgctxt "2564"
+msgid "Talk_Info_F"
+msgstr ""

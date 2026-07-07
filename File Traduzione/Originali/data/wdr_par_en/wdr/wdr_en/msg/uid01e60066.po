@@ -1,0 +1,620 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "288"
+msgid "(......)"
+msgstr ""
+
+msgctxt "300"
+msgid "(......)"
+msgstr ""
+
+msgctxt "312"
+msgid "(Still no customers...)"
+msgstr ""
+
+msgctxt "324"
+msgid "(Wait, somebody's coming.)"
+msgstr ""
+
+msgctxt "336"
+msgid "You the owner here? We're from Ashimoto Renovations."
+msgstr ""
+
+msgctxt "348"
+msgid ""
+"We're based in the city, but we mainly renovate old buildings all over "
+"Kamurocho."
+msgstr ""
+
+msgctxt "360"
+msgid "(Ashimoto Renovations? Where have I heard that name before?)"
+msgstr ""
+
+msgctxt "372"
+msgid ""
+"This building is pretty darn old. I'll bet it was built before "
+"earthquake-proof construction was implemented."
+msgstr ""
+
+msgctxt "384"
+msgid ""
+"But what I'm really worried about is termites, 'cause those little "
+"buggers'll eat away at the foundation."
+msgstr ""
+
+msgctxt "396"
+msgid "Mind if we take a look? It won't take long."
+msgstr ""
+
+msgctxt "408"
+msgid "(Termites? I'm pretty sure this building's made of concrete...)"
+msgstr ""
+
+msgctxt "420"
+msgid "Since you're here, be my guest."
+msgstr ""
+
+msgctxt "432"
+msgid ""
+"That's a wise decision. You gotta nip these things in the bud before it's "
+"too late."
+msgstr ""
+
+msgctxt "444"
+msgid "Let's check it out."
+msgstr ""
+
+msgctxt "468"
+msgid "Uh-huh... This is pretty bad."
+msgstr ""
+
+msgctxt "492"
+msgid ""
+"Those little bastards really tore up your foundation. Good thing we dropped "
+"by when we did."
+msgstr ""
+
+msgctxt "504"
+msgid "And what about your plumbing? You got any leaks? Bad pipes?"
+msgstr ""
+
+msgctxt "516"
+msgid "No, this place is made of concrete. Not exactly a delicacy for termites."
+msgstr ""
+
+msgctxt "528"
+msgid ""
+"Oh, yeah!? Heh... Sorry about that, buddy. Guess we got our buildings mixed "
+"up."
+msgstr ""
+
+msgctxt "540"
+msgid "But what about your plumbing? You got any leaks? Bad pipes?"
+msgstr ""
+
+msgctxt "552"
+msgid "I think we better check out the plumbing to be on the safe side."
+msgstr ""
+
+msgctxt "564"
+msgid "(I think the plumbing was just fixed.)"
+msgstr ""
+
+msgctxt "576"
+msgid "Go right ahead."
+msgstr ""
+
+msgctxt "588"
+msgid ""
+"Wise decision. Plumbing can really be a bitch 'cause it's hidden away, you "
+"know."
+msgstr ""
+
+msgctxt "600"
+msgid "Let's check it out."
+msgstr ""
+
+msgctxt "624"
+msgid "Uh-huh... I knew it."
+msgstr ""
+
+msgctxt "648"
+msgid ""
+"Your water pipes are a disaster waiting to happen. But we can fix it right "
+"up."
+msgstr ""
+
+msgctxt "660"
+msgid "No thanks. We just had the plumbing fixed, so I'm sure it's fine."
+msgstr ""
+
+msgctxt "672"
+msgid "Oh, yeah? Well, if you say so..."
+msgstr ""
+
+msgctxt "684"
+msgid ""
+"But before we go, what's your smoke alarm situation? They're required by "
+"law, you know. They were just talkin' about that on TV."
+msgstr ""
+
+msgctxt "696"
+msgid ""
+"You gotta pay a hefty fine if you don't got no smoke alarms. And a lot of "
+"people have paid dearly when fires break out without warning."
+msgstr ""
+
+msgctxt "708"
+msgid "(Smoke alarms? I'm pretty sure this place had 'em put in a long time ago.)"
+msgstr ""
+
+msgctxt "720"
+msgid "Do what you need to do."
+msgstr ""
+
+msgctxt "732"
+msgid ""
+"Good choice, buddy. A lot of people really regret not puttin' 'em in after "
+"their place burns up."
+msgstr ""
+
+msgctxt "744"
+msgid "No need. I'm pretty sure this place had smoke alarms put in a while back."
+msgstr ""
+
+msgctxt "756"
+msgid "Oh, yeah? Well, I hope you're right."
+msgstr ""
+
+msgctxt "780"
+msgid "Well, let's get down to business, huh?"
+msgstr ""
+
+msgctxt "792"
+msgid ""
+"We can start working right away, so if you could just sign here. We'll make "
+"sure you get a good deal."
+msgstr ""
+
+msgctxt "804"
+msgid "(They want me to sign a contract?)"
+msgstr ""
+
+msgctxt "816"
+msgid "All right. Do what you need to do."
+msgstr ""
+
+msgctxt "828"
+msgid "Thank you! We'll be done before you know it!"
+msgstr ""
+
+msgctxt "912"
+msgid "......"
+msgstr ""
+
+msgctxt "936"
+msgid "That'll do here! Everything's up to snuff now."
+msgstr ""
+
+msgctxt "948"
+msgid "That was fast."
+msgstr ""
+
+msgctxt "960"
+msgid "In this business, we gotta be fast, buddy. Anyway, here's the bill..."
+msgstr ""
+
+msgctxt "972"
+msgid "Make sure you pay on time!"
+msgstr ""
+
+msgctxt "1032"
+msgid "(Those guys were sure in a hurry.)"
+msgstr ""
+
+msgctxt "1056"
+msgid "Oh, there you are."
+msgstr ""
+
+msgctxt "1068"
+msgid "I'm back. Were those men customers?"
+msgstr ""
+
+msgctxt "1080"
+msgid "Not exactly..."
+msgstr ""
+
+msgctxt "1092"
+msgid "You know, I was just talking to a restaurant owner nearby..."
+msgstr ""
+
+msgctxt "1104"
+msgid ""
+"He was telling me there are a lot of renovation scams going around lately. "
+"People asking about termites, smoke alarms, and such."
+msgstr ""
+
+msgctxt "1116"
+msgid "......"
+msgstr ""
+
+msgctxt "1128"
+msgid ""
+"Those men on their way out had coveralls on, so I thought they might be a "
+"couple of phony renovators."
+msgstr ""
+
+msgctxt "1140"
+msgid "Hmm? What's that paper? A bill...?"
+msgstr ""
+
+msgctxt "1152"
+msgid "You're not gonna like this..."
+msgstr ""
+
+msgctxt "1164"
+msgid ""
+"It's from... Ashimoto Renovations!? That's the company conning people out "
+"of money!"
+msgstr ""
+
+msgctxt "1176"
+msgid "Kiryu-san... I thought I could trust you to watch over the place..."
+msgstr ""
+
+msgctxt "1188"
+msgid "Termite extermination... 200,000 yen!"
+msgstr ""
+
+msgctxt "1212"
+msgid "Plumbing repairs... 200,000 yen!"
+msgstr ""
+
+msgctxt "1236"
+msgid "Smoke alarm installation... 200,000 yen!"
+msgstr ""
+
+msgctxt "1248"
+msgid "Kiryu-san! Why on earth did you sign this!?"
+msgstr ""
+
+msgctxt "1260"
+msgid "Sorry, I fell for it big time..."
+msgstr ""
+
+msgctxt "1272"
+msgid ""
+"What am I gonna do? I guess I can cover this, but I've got a new rent "
+"contract due next month and all sorts of other expenses..."
+msgstr ""
+
+msgctxt "1284"
+msgid "It's my fault. I'll pay."
+msgstr ""
+
+msgctxt "1296"
+msgid ""
+"What? But I'm the one who asked you to watch the place. Besides, I "
+"certainly can't let you pay for things for my bar."
+msgstr ""
+
+msgctxt "1308"
+msgid "No, I'll pay. No ifs, ands, or buts about it."
+msgstr ""
+
+msgctxt "1320"
+msgid "Let me do this, Mariko."
+msgstr ""
+
+msgctxt "1332"
+msgid "All right, how about we go fifty-fifty? Does that sound good?"
+msgstr ""
+
+msgctxt "1344"
+msgid "It's a deal."
+msgstr ""
+
+msgctxt "1404"
+msgid "(Ouch... That's a big chunk of change.)"
+msgstr ""
+
+msgctxt "1416"
+msgid "(Ouch... That's a big chunk of change.)"
+msgstr ""
+
+msgctxt "1428"
+msgid "(Ouch... That's a big chunk of change.)"
+msgstr ""
+
+msgctxt "1440"
+msgid "(Dammit... Looks like I'm short on cash.)"
+msgstr ""
+
+msgctxt "1452"
+msgid "What's the matter?"
+msgstr ""
+
+msgctxt "1464"
+msgid "Well... Seems I'm a little low on cash..."
+msgstr ""
+
+msgctxt "1476"
+msgid ""
+"Don't worry about it. Look, if you really feel the need to pay, just give "
+"whatever you can now, and that'll be the end of it."
+msgstr ""
+
+msgctxt "1488"
+msgid "Thanks."
+msgstr ""
+
+msgctxt "1500"
+msgid ""
+"Sorry I forced you to watch over the place like that. This never would've "
+"happened if I'd been smart enough to keep the place stocked."
+msgstr ""
+
+msgctxt "1512"
+msgid ""
+"No, I'm the one to blame here. Those bastards really pulled the wool over "
+"my eyes."
+msgstr ""
+
+msgctxt "1536"
+msgid "You got 500 EXP."
+msgstr ""
+
+msgctxt "1584"
+msgid ""
+"Sorry I forced you to watch over the place like that. This never would've "
+"happened if I'd been smart enough to keep the place stocked."
+msgstr ""
+
+msgctxt "1596"
+msgid ""
+"No, I'm the one to blame here. Those bastards really pulled the wool over "
+"my eyes."
+msgstr ""
+
+msgctxt "1620"
+msgid "You got 1,000 EXP."
+msgstr ""
+
+msgctxt "1668"
+msgid ""
+"Sorry I forced you to watch over the place like that. This never would've "
+"happened if I'd been smart enough to keep the place stocked."
+msgstr ""
+
+msgctxt "1680"
+msgid ""
+"No, I'm the one to blame here. Those bastards really pulled the wool over "
+"my eyes."
+msgstr ""
+
+msgctxt "1704"
+msgid "You got 3,000 EXP."
+msgstr ""
+
+msgctxt "1752"
+msgid "That's enough. This place is fine, so get out."
+msgstr ""
+
+msgctxt "1764"
+msgid ""
+"What the hell is your problem? We were nice enough to come down here and "
+"help, and now you try to chase us out!?"
+msgstr ""
+
+msgctxt "1776"
+msgid "Maybe we oughta teach you some manners, pops!"
+msgstr ""
+
+msgctxt "1788"
+msgid "I'm dying to learn some. Let's take it outside."
+msgstr ""
+
+msgctxt "1812"
+msgid "I'm not signing this."
+msgstr ""
+
+msgctxt "1824"
+msgid "Not signing!? After all the fuckin' examination you made us do!?"
+msgstr ""
+
+msgctxt "1836"
+msgid ""
+"Maybe this guy needs a little incentive to help him sign! Like a few broken "
+"ribs!"
+msgstr ""
+
+msgctxt "1848"
+msgid "Fine. Let's see what you've got."
+msgstr ""
+
+msgctxt "1872"
+msgid "I don't think so. Get outta here."
+msgstr ""
+
+msgctxt "1884"
+msgid ""
+"What the hell is your problem? We were nice enough to come down here and "
+"help, and now you try to chase us out!?"
+msgstr ""
+
+msgctxt "1896"
+msgid ""
+"Sounds to me like you need a little attitude adjustment. Termites are "
+"nothin' compared to what we're gonna do to this place!"
+msgstr ""
+
+msgctxt "1908"
+msgid "All right. We'll continue this conversation outside."
+msgstr ""
+
+msgctxt "1932"
+msgid "Let Them Inspect for Termites"
+msgstr ""
+
+msgctxt "1944"
+msgid "Refuse"
+msgstr ""
+
+msgctxt "1956"
+msgid "Kick Them Out"
+msgstr ""
+
+msgctxt "1968"
+msgid "Let Them Inspect the Plumbing"
+msgstr ""
+
+msgctxt "1980"
+msgid "Refuse"
+msgstr ""
+
+msgctxt "1992"
+msgid "Kick Them Out"
+msgstr ""
+
+msgctxt "2004"
+msgid "Let Them Install Smoke Alarms"
+msgstr ""
+
+msgctxt "2016"
+msgid "Refuse"
+msgstr ""
+
+msgctxt "2028"
+msgid "Kick Them Out"
+msgstr ""
+
+msgctxt "2040"
+msgid "Sign It"
+msgstr ""
+
+msgctxt "2052"
+msgid "Refuse"
+msgstr ""
+
+msgctxt "21428"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "21432"
+msgid "Talk_Kosite_st"
+msgstr ""
+
+msgctxt "21436"
+msgid "Talk_Kosite_ed"
+msgstr ""
+
+msgctxt "21440"
+msgid "Renovation Worker"
+msgstr ""
+
+msgctxt "21444"
+msgid "Talk_Kamae"
+msgstr ""
+
+msgctxt "21448"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "21452"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "21456"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "21460"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "21464"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "21468"
+msgid "Talk_NoBig"
+msgstr ""
+
+msgctxt "21472"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "21476"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "21480"
+msgid "M_ykz_sitgrd_tlk_agura_lp"
+msgstr ""
+
+msgctxt "21484"
+msgid "Sync_Send"
+msgstr ""
+
+msgctxt "21488"
+msgid "Idle"
+msgstr ""
+
+msgctxt "21492"
+msgid "Owner of Serena"
+msgstr ""
+
+msgctxt "21496"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "21500"
+msgid "Talk_Send"
+msgstr ""
+
+msgctxt "21504"
+msgid "SetF_nml_stand_read_maga"
+msgstr ""
+
+msgctxt "21508"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "21512"
+msgid "M_ykzs_stand_tlk_odosu"
+msgstr ""
+
+msgctxt "21516"
+msgid "M_ykzs_stand_tlk_angry"
+msgstr ""
+
+msgctxt "21520"
+msgid "Talk_Udekumi_st"
+msgstr ""
+
+msgctxt "21524"
+msgid "M_ykzs_stand"
+msgstr ""
+
+msgctxt "21528"
+msgid "M_ykz_stand"
+msgstr ""
+
+msgctxt "21532"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "21536"
+msgid "Talk_Angry"
+msgstr ""

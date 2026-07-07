@@ -1,0 +1,251 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "722\tGROUP"
+msgid "Majima Family"
+msgstr ""
+
+msgctxt "738\tGROUP"
+msgid "Tojo Clan"
+msgstr ""
+
+msgctxt "750\tGROUP"
+msgid "Kiryu's Ally"
+msgstr ""
+
+msgctxt "765\tGROUP"
+msgid "People of Okinawa"
+msgstr ""
+
+msgctxt "785\tGROUP"
+msgid "Politician"
+msgstr ""
+
+msgctxt "798\tGROUP"
+msgid "Snake Flower Triad"
+msgstr ""
+
+msgctxt "819\tGROUP"
+msgid "Unknown Individual"
+msgstr ""
+
+msgctxt "840\tGROUP"
+msgid "CIA"
+msgstr ""
+
+msgctxt "846\tDIAGRAM_GROUP"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "854\tDIAGRAM_GROUP"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "863\tDIAGRAM_GROUP"
+msgid "Sayama"
+msgstr ""
+
+msgctxt "872\tDIAGRAM_GROUP"
+msgid "Majima Family"
+msgstr ""
+
+msgctxt "888\tDIAGRAM_GROUP"
+msgid "Tojo Clan"
+msgstr ""
+
+msgctxt "900\tDIAGRAM_GROUP"
+msgid "Majima Family"
+msgstr ""
+
+msgctxt "916\tDIAGRAM_GROUP"
+msgid "Hamazaki Family"
+msgstr ""
+
+msgctxt "934\tDIAGRAM_GROUP"
+msgid "Kazama Family"
+msgstr ""
+
+msgctxt "950\tDIAGRAM_GROUP"
+msgid "Hakuho Clan"
+msgstr ""
+
+msgctxt "964\tDIAGRAM_GROUP"
+msgid "Nishikiyama Family"
+msgstr ""
+
+msgctxt "985\tDIAGRAM_GROUP"
+msgid "Tokyo PD"
+msgstr ""
+
+msgctxt "996\tDIAGRAM_GROUP"
+msgid "People of Kamurocho"
+msgstr ""
+
+msgctxt "1018\tDIAGRAM_GROUP"
+msgid "Morning Glory"
+msgstr ""
+
+msgctxt "1034\tDIAGRAM_GROUP"
+msgid "Ryudo Family"
+msgstr ""
+
+msgctxt "1049\tDIAGRAM_GROUP"
+msgid "Tamashiro Family"
+msgstr ""
+
+msgctxt "1068\tDIAGRAM_GROUP"
+msgid "Citizens' Liberal Party"
+msgstr ""
+
+msgctxt "1094\tDIAGRAM_GROUP"
+msgid "Snake Flower Triad"
+msgstr ""
+
+msgctxt "1115\tDIAGRAM_GROUP"
+msgid "Unknown Individual"
+msgstr ""
+
+msgctxt "1136\tDIAGRAM_GROUP"
+msgid "CIA"
+msgstr ""
+
+msgctxt "1566\tEXPLANATION"
+msgid "[Individual]"
+msgstr ""
+
+msgctxt "1581\tEXPLANATION"
+msgid "[Individual]"
+msgstr ""
+
+msgctxt "1596\tEXPLANATION"
+msgid "[Individual]"
+msgstr ""
+
+msgctxt "1611\tEXPLANATION"
+msgid ""
+"A construction company run by the Tojo Clan-affiliated Majima Family. "
+"President: Goro Majima."
+msgstr ""
+
+msgctxt "1707\tEXPLANATION"
+msgid ""
+"A yakuza syndicate in control of Kamurocho and the Kanto region. Run by "
+"Sixth Chairman Daigo Dojima."
+msgstr ""
+
+msgctxt "1810\tEXPLANATION"
+msgid ""
+"One of the central families of the Tojo Clan. Formerly estranged but has "
+"since returned to the clan. Patriarch: Goro Majima."
+msgstr ""
+
+msgctxt "1937\tEXPLANATION"
+msgid ""
+"One of the central families of the Tojo Clan. Formerly estranged but has "
+"since returned to the clan. Patriarch: Goro Majima."
+msgstr ""
+
+msgctxt "2064\tEXPLANATION"
+msgid "One of the central families of the Tojo Clan. Patriarch: Goh Hamazaki."
+msgstr ""
+
+msgctxt "2137\tEXPLANATION"
+msgid ""
+"One of the central families of the Tojo Clan. A small but powerful "
+"organization based out of Yokohama. Patriarch: Goh Hamazaki."
+msgstr ""
+
+msgctxt "2267\tEXPLANATION"
+msgid ""
+"One of the central families of the Tojo Clan. Patriarch Osamu Kashiwagi now "
+"runs it in place of the late founder Shintaro Kazama."
+msgstr ""
+
+msgctxt "2399\tEXPLANATION"
+msgid "One of the central families of the Tojo Clan. Chairman: Yoshitaka Mine."
+msgstr ""
+
+msgctxt "2473\tEXPLANATION"
+msgid ""
+"One of the central families of the Tojo Clan. After growing rapidly due to "
+"vast funds, the Hakuho Clan now currently handles financial support for the "
+"entire Tojo Clan. Chairman: Yoshitaka Mine."
+msgstr ""
+
+msgctxt "2670\tEXPLANATION"
+msgid ""
+"One of the central families of the Tojo Clan. Patriarch Tsuyoshi Kanda now "
+"runs it in place of its founder Akira Nishikiyama and second head Koji "
+"Shindo."
+msgstr ""
+
+msgctxt "2826\tEXPLANATION"
+msgid "Tokyo's central police organization. Protects VIPs and national property."
+msgstr ""
+
+msgctxt "2902\tEXPLANATION"
+msgid "Kiryu's allies through various hardships."
+msgstr ""
+
+msgctxt "2946\tEXPLANATION"
+msgid ""
+"An orphanage in Okinawa. After its former director passed away, Kazuma "
+"Kiryu takes over to assist with management. He and the children now live "
+"together at the orphanage."
+msgstr ""
+
+msgctxt "3119\tEXPLANATION"
+msgid ""
+"A yakuza organization in control of the southern area of Downtown Ryukyu. "
+"Patriarch: Shigeru Nakahara."
+msgstr ""
+
+msgctxt "3224\tEXPLANATION"
+msgid ""
+"A yakuza organization in control of the northern area of Downtown Ryukyu. "
+"Patriarch: Tetsuo Tamashiro."
+msgstr ""
+
+msgctxt "3329\tEXPLANATION"
+msgid ""
+"A yakuza organization in control of the northern area of Downtown Ryukyu. "
+"Affiliated with the Tojo Clan. Patriarch: Tetsuo Tamashiro."
+msgstr ""
+
+msgctxt "3465\tEXPLANATION"
+msgid ""
+"The controlling political party. Minister of Defense Tamiya's military "
+"expansion bill and Minister of Land, Infrastructure, and Transportation "
+"Suzuki's resort deal are garnering national attention."
+msgstr ""
+
+msgctxt "3665\tEXPLANATION"
+msgid ""
+"A mafia organization based in mainland China. The Japanese branch is headed "
+"by Lau Ka Long."
+msgstr ""
+
+msgctxt "3759\tEXPLANATION"
+msgid "An unknown person encountered by Kiryu."
+msgstr ""
+
+msgctxt "3801\tEXPLANATION"
+msgid "Unknown persons encountered by Kiryu."
+msgstr ""
+
+msgctxt "3841\tEXPLANATION"
+msgid ""
+"The American Central Intelligence Agency. The CIA is conducting operations "
+"in Japan to destroy the international arms smuggling syndicate known as "
+"Black Monday."
+msgstr ""

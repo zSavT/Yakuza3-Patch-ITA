@@ -1,0 +1,48 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "15\t56"
+msgid "Damn, where'd he go...?"
+msgstr ""
+
+msgctxt "57\t130"
+msgid "Let's try over there."
+msgstr ""
+
+msgctxt "540\t580"
+msgid "Looking good."
+msgstr ""
+
+msgctxt "581\t641"
+msgid "Who's there?"
+msgstr ""
+
+msgctxt "773\t823"
+msgid "Date-san!"
+msgstr ""
+
+msgctxt "857\t984"
+msgid ""
+"Should've known all this\\n"
+"was a Kazuma Kiryu special."
+msgstr ""
+
+msgctxt "1017\t1078"
+msgid "We need to talk."
+msgstr ""
+
+msgctxt "1086\t1181"
+msgid ""
+"How about a drink?\\n"
+"For old time's sake."
+msgstr ""

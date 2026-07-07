@@ -1,0 +1,294 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "184"
+msgid ""
+"I'd like to introduce you to somebody, Granny. This here is my employee, "
+"Mr..."
+msgstr ""
+
+msgctxt "196"
+msgid "Kazuma Kiryu. I work for the president."
+msgstr ""
+
+msgctxt "208"
+msgid "My, Masahiko must certainly keep you busy!"
+msgstr ""
+
+msgctxt "220"
+msgid "Masahiko?"
+msgstr ""
+
+msgctxt "232"
+msgid "Hey, what's wrong with you, Kiryu-kun? Forgot my first name, eh? Hahaha!"
+msgstr ""
+
+msgctxt "244"
+msgid "(You could have told me...)"
+msgstr ""
+
+msgctxt "256"
+msgid ""
+"I'm Masahiko's grandmother, Shizu. You'll be giving me a tour of Kamurocho "
+"today, hmm? How exciting!"
+msgstr ""
+
+msgctxt "268"
+msgid "But, my goodness... don't businessmen wear ties these days?"
+msgstr ""
+
+msgctxt "280"
+msgid "Actually..."
+msgstr ""
+
+msgctxt "292"
+msgid "We try not to use our air conditioner."
+msgstr ""
+
+msgctxt "304"
+msgid ""
+"Ah, yes, to conserve energy in summer. That's a popular idea nowadays. But "
+"in winter? Aren't you cold, dear?"
+msgstr ""
+
+msgctxt "316"
+msgid "Yes, even in winter. Our president is very ecologically-minded."
+msgstr ""
+
+msgctxt "328"
+msgid ""
+"Come to think of it, even the prime minister goes without a tie now and "
+"again..."
+msgstr ""
+
+msgctxt "340"
+msgid "Our president hates ties, so..."
+msgstr ""
+
+msgctxt "352"
+msgid ""
+"Oh, yes! He's preferred street-punk clothing styles since he was little. It "
+"must be very trying for you."
+msgstr ""
+
+msgctxt "364"
+msgid "Well, he asked me kind of out of the blue... I had no time to change."
+msgstr ""
+
+msgctxt "376"
+msgid "Asked you...? Why would you change your clothes?"
+msgstr ""
+
+msgctxt "388"
+msgid ""
+"Ahem! That's... that's because Kiryu-kun here is actually on vacation! He "
+"came here because the company president asked him to!"
+msgstr ""
+
+msgctxt "400"
+msgid "Oh, dear, I'm sorry my grandson is so demanding of you."
+msgstr ""
+
+msgctxt "412"
+msgid ""
+"It's so hard for me to imagine this boy running a company headquartered in "
+"such a big, impressive building!"
+msgstr ""
+
+msgctxt "424"
+msgid "Hehehe. I've been working hard here in Tokyo, Granny!"
+msgstr ""
+
+msgctxt "436"
+msgid ""
+"How about you show me around the office, then? I'd love to meet all of your "
+"employees."
+msgstr ""
+
+msgctxt "448"
+msgid "Well, about that... Um... Kiryu-kun?"
+msgstr ""
+
+msgctxt "460"
+msgid "They have the day off today."
+msgstr ""
+
+msgctxt "472"
+msgid "Oh, is that so? What a laid-back company you have there, Masahiko!"
+msgstr ""
+
+msgctxt "484"
+msgid "There was an accident, and now it's off limits."
+msgstr ""
+
+msgctxt "496"
+msgid ""
+"You see that kind of thing on the TV sometimes. Tokyo can be such a "
+"dangerous place..."
+msgstr ""
+
+msgctxt "508"
+msgid "I'm afraid the building is open to authorized personnel only."
+msgstr ""
+
+msgctxt "520"
+msgid ""
+"Authorized personnel? But isn't Masahiko's company in there? He's "
+"authorized enough!"
+msgstr ""
+
+msgctxt "532"
+msgid ""
+"But you couldn't go in, Granny! There've been bomb threats and explosions. "
+"Even our closest relatives aren't allowed in!"
+msgstr ""
+
+msgctxt "544"
+msgid ""
+"What a bother! Bomb threats and such... Tokyo really is a terribly "
+"dangerous place."
+msgstr ""
+
+msgctxt "556"
+msgid ""
+"Say, Granny, you must be hungry! Why don't we go to my favorite yakiniku "
+"place?"
+msgstr ""
+
+msgctxt "568"
+msgid "Yes... yes, why not? Go ahead and show me the way, sweetie."
+msgstr ""
+
+msgctxt "592"
+msgid "We try not to use A/C."
+msgstr ""
+
+msgctxt "604"
+msgid "Our president hates ties."
+msgstr ""
+
+msgctxt "616"
+msgid "I had no time to change."
+msgstr ""
+
+msgctxt "628"
+msgid "They have the day off today."
+msgstr ""
+
+msgctxt "640"
+msgid "It's off-limits due to an accident."
+msgstr ""
+
+msgctxt "652"
+msgid "Authorized personnel only."
+msgstr ""
+
+msgctxt "8776"
+msgid "Panicked Punk"
+msgstr ""
+
+msgctxt "8780"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "8784"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "8788"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "8792"
+msgid "Panicked Punk's Grandmother"
+msgstr ""
+
+msgctxt "8796"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "8800"
+msgid "Masahiko"
+msgstr ""
+
+msgctxt "8804"
+msgid "Talk_SmileBig_st"
+msgstr ""
+
+msgctxt "8808"
+msgid "Talk_SmileBig_lp"
+msgstr ""
+
+msgctxt "8812"
+msgid "Talk_SmileBig_ed"
+msgstr ""
+
+msgctxt "8816"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "8820"
+msgid "Shizu"
+msgstr ""
+
+msgctxt "8824"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "8828"
+msgid "Talk_Udekumi_st"
+msgstr ""
+
+msgctxt "8832"
+msgid "Talk_Udekumi_ed"
+msgstr ""
+
+msgctxt "8836"
+msgid "Talk_Kansin"
+msgstr ""
+
+msgctxt "8840"
+msgid "M_ykz_stand_tlk_maru"
+msgstr ""
+
+msgctxt "8844"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "8848"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "8852"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "8856"
+msgid "M_ykz_stand_tlk_batu"
+msgstr ""
+
+msgctxt "8860"
+msgid "Talk_Sorry"
+msgstr ""
+
+msgctxt "8864"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "8868"
+msgid "Talk_Info_R"
+msgstr ""
+
+msgctxt "8872"
+msgid "Talk_Info_L"
+msgstr ""

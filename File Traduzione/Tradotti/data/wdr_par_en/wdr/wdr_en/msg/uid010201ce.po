@@ -1,0 +1,499 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "132"
+msgid "Kiryu? It's me."
+msgstr ""
+
+msgctxt "144"
+msgid "Tamiya. I've been waiting to hear from you. Where's Toma?"
+msgstr ""
+
+msgctxt "156"
+msgid "His meeting with the Prefectural Assembly just ended."
+msgstr ""
+
+msgctxt "168"
+msgid ""
+"My informant seems to believe he's on his way to celebrate\r\n"
+"with a drink. Perhaps many more than just one."
+msgstr ""
+
+msgctxt "180"
+msgid ""
+"Got it. I have to wonder, though. If you have eyes on Toma,\r\n"
+"why don't you just have your guy tell him what's going on?\r\n"
+"It seems like that's the easiest way to protect him."
+msgstr ""
+
+msgctxt "192"
+msgid ""
+"My operative is not only a valuable asset to me, but a\r\n"
+"prominent Okinawan politician as well."
+msgstr ""
+
+msgctxt "204"
+msgid ""
+"Revealing his identity would undoubtedly hinder future progress for the "
+"island."
+msgstr ""
+
+msgctxt "216"
+msgid ""
+"Not to mention the fact that Toma no longer trusts me.\r\n"
+"It was his decision to leave, after all."
+msgstr ""
+
+msgctxt "228"
+msgid ""
+"True, he probably wouldn't even think of listening to your\r\n"
+"informant after that."
+msgstr ""
+
+msgctxt "240"
+msgid "So, what's the plan? Do you know where he went drinking?"
+msgstr ""
+
+msgctxt "252"
+msgid "Hatsumachi, most likely."
+msgstr ""
+
+msgctxt "264"
+msgid "Any idea what bar?"
+msgstr ""
+
+msgctxt "276"
+msgid ""
+"There are several that I recall him frequenting. We hopped\r\n"
+"around quite a few places when he brought me down there."
+msgstr ""
+
+msgctxt "288"
+msgid ""
+"But come to think of it, there was one that he seemed to\r\n"
+"love more than any other."
+msgstr ""
+
+msgctxt "300"
+msgid ""
+"It was a bar specializing in pole dancing... though it seems I'm having "
+"trouble recalling the name."
+msgstr ""
+
+msgctxt "312"
+msgid "A pole-dancing bar in Hatsumachi. Got it."
+msgstr ""
+
+msgctxt "324"
+msgid "Please, Kiryu. Toma doesn't deserve the fate that Joji would lead him to."
+msgstr ""
+
+msgctxt "336"
+msgid ""
+"I'll handle it. You focus on stopping the resort.\r\n"
+"The land acquisition part of it, at least."
+msgstr ""
+
+msgctxt "348"
+msgid ""
+"You needn't worry about that. Unlike most politicians\r\n"
+"nowadays, I am a man of my word."
+msgstr ""
+
+msgctxt "360"
+msgid "Glad to hear it. Later, Tamiya."
+msgstr ""
+
+msgctxt "408"
+msgid "(A pole-dancing bar in Hatsumachi, huh?)"
+msgstr ""
+
+msgctxt "432"
+msgid "All good over there, Aniki?"
+msgstr ""
+
+msgctxt "444"
+msgid "Tamiya just told me where he thinks Toma is."
+msgstr ""
+
+msgctxt "456"
+msgid "Guess that means you're headin' out, then?"
+msgstr ""
+
+msgctxt "468"
+msgid ""
+"That's the plan. Can the two of you keep an eye on the kids\r\n"
+"for me while I'm gone?"
+msgstr ""
+
+msgctxt "480"
+msgid ""
+"Don't you worry, Aniki. We'll watch 'em like a friggin'\r\n"
+"hawk! Oh... and be careful, yeah?"
+msgstr ""
+
+msgctxt "492"
+msgid "I will."
+msgstr ""
+
+msgctxt "564"
+msgid "Hello, Kiryu? It's Tamiya."
+msgstr ""
+
+msgctxt "576"
+msgid "Hey. Any updates?"
+msgstr ""
+
+msgctxt "588"
+msgid "Where are you now?"
+msgstr ""
+
+msgctxt "600"
+msgid ""
+"Back in Okinawa. I wanted to stop by the orphanage, but\r\n"
+"I'll be heading out to look for Toma any minute now."
+msgstr ""
+
+msgctxt "612"
+msgid ""
+"There's no need. He'll be at the prefectural office with his\r\n"
+"advisors all day long."
+msgstr ""
+
+msgctxt "624"
+msgid "And tonight?"
+msgstr ""
+
+msgctxt "636"
+msgid "They're discussing the details of the resort deal, Kiryu."
+msgstr ""
+
+msgctxt "648"
+msgid ""
+"I expect this meeting to be quite lengthy. In fact, they'll\r\n"
+"more likely than not continue working through the night."
+msgstr ""
+
+msgctxt "660"
+msgid "As long as Toma's at the prefectural office, he'll be safe."
+msgstr ""
+
+msgctxt "672"
+msgid "In other words, you can rest easy for now. The real test will come tomorrow."
+msgstr ""
+
+msgctxt "684"
+msgid "Right..."
+msgstr ""
+
+msgctxt "696"
+msgid ""
+"I'm not sure when the meeting will end... but whenever it\r\n"
+"does, Toma will instantly be in danger."
+msgstr ""
+
+msgctxt "708"
+msgid "Joji will undoubtedly strike at his most vulnerable moment."
+msgstr ""
+
+msgctxt "720"
+msgid ""
+"I have someone keeping tabs on the meeting, though. I'll\r\n"
+"contact you again when I learn where Toma's going."
+msgstr ""
+
+msgctxt "732"
+msgid ""
+"For today, try to get some rest for the battle ahead.\r\n"
+"I expect you'll need it."
+msgstr ""
+
+msgctxt "744"
+msgid "Oh, and be ready to leap into action at the drop of a hat tomorrow."
+msgstr ""
+
+msgctxt "756"
+msgid "Will do. Talk to you later, Tamiya."
+msgstr ""
+
+msgctxt "768"
+msgid "Farewell."
+msgstr ""
+
+msgctxt "816"
+msgid ""
+"That was Tamiya. Sounds like Toma's gonna be tied up in a\r\n"
+"meeting until tomorrow. He's safe for now."
+msgstr ""
+
+msgctxt "828"
+msgid ""
+"Good, good. Gives you the chance to take a load off, spend\r\n"
+"some time with your kids. They missed you somethin' fierce\r\n"
+"while you were gone."
+msgstr ""
+
+msgctxt "840"
+msgid "Heh. I couldn't tell."
+msgstr ""
+
+msgctxt "852"
+msgid ""
+"Haha, never seen 'em quite this pumped before. I'm sure they have tons they "
+"wanna ask you!"
+msgstr ""
+
+msgctxt "864"
+msgid "Seconded. Anyway, Rikiya, we should get goin'."
+msgstr ""
+
+msgctxt "876"
+msgid "Oh, right."
+msgstr ""
+
+msgctxt "888"
+msgid "Hm? Where to?"
+msgstr ""
+
+msgctxt "900"
+msgid ""
+"Just some overnight tests at the hospital. Nothing too\r\n"
+"serious. I'll swing by tomorrow, okay?"
+msgstr ""
+
+msgctxt "912"
+msgid "Yeah, sounds good."
+msgstr ""
+
+msgctxt "924"
+msgid "We'll be back after we drop the boss off, Aniki. Later!"
+msgstr ""
+
+msgctxt "960"
+msgid "How are you doing, Nakahara?"
+msgstr ""
+
+msgctxt "972"
+msgid ""
+"Heh, never been better. It'll take more than a few little\r\n"
+"bits of metal to drag me down."
+msgstr ""
+
+msgctxt "984"
+msgid ""
+"Aniki. Did you learn anythin' else about the guy who saved\r\n"
+"me?"
+msgstr ""
+
+msgctxt "996"
+msgid ""
+"...Yeah. He's actually the brother of the man who raised me\r\n"
+"as a kid. And apparently, he works for the CIA."
+msgstr ""
+
+msgctxt "1008"
+msgid "The CIA!?"
+msgstr ""
+
+msgctxt "1020"
+msgid ""
+"Wait, that same guy was there when I was staring down the other side of "
+"that barrel. What's the CIA get outta shooting me, though?"
+msgstr ""
+
+msgctxt "1032"
+msgid "...They're here on a mission."
+msgstr ""
+
+msgctxt "1044"
+msgid ""
+"I can't really say much more than that, but them wanting the\r\n"
+"deed to Morning Glory's land has something to do with it."
+msgstr ""
+
+msgctxt "1056"
+msgid "What's so special about this patch of sand, though?"
+msgstr ""
+
+msgctxt "1068"
+msgid ""
+"The land itself isn't what matters. It's the project they're\r\n"
+"going to build on it."
+msgstr ""
+
+msgctxt "1080"
+msgid "The resort..."
+msgstr ""
+
+msgctxt "1092"
+msgid ""
+"Exactly. That, and the military expansion that hinges on\r\n"
+"Tamiya's new bill."
+msgstr ""
+
+msgctxt "1104"
+msgid ""
+"I dunno if I get it, Aniki. What's the CIA gotta do with\r\n"
+"buildin' a resort? Or this military base stuff?"
+msgstr ""
+
+msgctxt "1116"
+msgid ""
+"What, ya don't know, Mikio? It's simple! The CIA, they,\r\n"
+"uh... Well, they... want money! That's it, yeah! They're\r\n"
+"gonna make bank for the U.S. government!"
+msgstr ""
+
+msgctxt "1128"
+msgid "Wow. You sure know a lot, Rikiya!"
+msgstr ""
+
+msgctxt "1140"
+msgid ""
+"That's not right at all. The point of this is to smoke out an arms "
+"smuggling syndicate which has been undermining the U.S. for years now."
+msgstr ""
+
+msgctxt "1152"
+msgid ""
+"Once the CIA gets them out into the open, they're gonna\r\n"
+"crush them once and for all."
+msgstr ""
+
+msgctxt "1164"
+msgid ""
+"Turns out Nakahara, Daigo, and I were all just pawns in\r\n"
+"their plan."
+msgstr ""
+
+msgctxt "1176"
+msgid "How'd you find out about all this?"
+msgstr ""
+
+msgctxt "1188"
+msgid "I heard it straight from Tamiya, the Minister of Defense."
+msgstr ""
+
+msgctxt "1200"
+msgid "Tamiya!?"
+msgstr ""
+
+msgctxt "1212"
+msgid ""
+"You remember Toma, his secretary? Well, Tamiya says if we\r\n"
+"save Toma, he'll put a stop to the resort."
+msgstr ""
+
+msgctxt "1224"
+msgid "What do you mean, \"save\" him?"
+msgstr ""
+
+msgctxt "1236"
+msgid ""
+"Toma learned too much about the connection between Tamiya\r\n"
+"and the CIA, so he decided to take matters into his own\r\n"
+"hands. And now, the CIA wants him dead."
+msgstr ""
+
+msgctxt "1248"
+msgid ""
+"Wait, but if Toma's muckin' up the works, wouldn't it be\r\n"
+"better for Tamiya if the CIA actually offed him?"
+msgstr ""
+
+msgctxt "1260"
+msgid ""
+"That's not exactly Tamiya's style. He's far more honorable\r\n"
+"than that."
+msgstr ""
+
+msgctxt "1272"
+msgid ""
+"Huh, and here I thought politicians wouldn't lift a damn finger if it "
+"wasn't gonna benefit them. Good to know there are some that actually give a "
+"shit."
+msgstr ""
+
+msgctxt "1284"
+msgid ""
+"Yeah. Anyway, that's why I came back: to save Toma. Now I\r\n"
+"just need to figure out where he is."
+msgstr ""
+
+msgctxt "17092"
+msgid "P_stand_tlk_phone_st"
+msgstr ""
+
+msgctxt "17096"
+msgid "Tamiya"
+msgstr ""
+
+msgctxt "17100"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "17104"
+msgid "P_stand_tlk_phone_ed"
+msgstr ""
+
+msgctxt "17108"
+msgid "Rikiya"
+msgstr ""
+
+msgctxt "17112"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "17116"
+msgid "Nml_TurnR180"
+msgstr ""
+
+msgctxt "17120"
+msgid "Nakahara"
+msgstr ""
+
+msgctxt "17124"
+msgid "SetM_cld_cheer_stand_jitabata"
+msgstr ""
+
+msgctxt "17128"
+msgid "SetM_cld_cheer_stand_jump_01"
+msgstr ""
+
+msgctxt "17132"
+msgid "SetF_cld_stand_kamae_genki"
+msgstr ""
+
+msgctxt "17136"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "17140"
+msgid "Idle"
+msgstr ""
+
+msgctxt "17144"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "17148"
+msgid "Mikio"
+msgstr ""
+
+msgctxt "17152"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "17156"
+msgid "SetMIK_stand_sync_damage_kega"
+msgstr ""

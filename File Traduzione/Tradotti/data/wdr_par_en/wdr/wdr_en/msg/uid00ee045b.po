@@ -1,0 +1,160 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "308"
+msgid "Welcome, sir. To X-Tiger, the House of Extras."
+msgstr ""
+
+msgctxt "320"
+msgid "House of Extras? What's that?"
+msgstr ""
+
+msgctxt "332"
+msgid "A location wherein someone from your world may exist in this one."
+msgstr ""
+
+msgctxt "344"
+msgid "...So, what exactly can I do here?"
+msgstr ""
+
+msgctxt "356"
+msgid ""
+"I can offer you special game modes you'll only find here. They are as "
+"follows:"
+msgstr ""
+
+msgctxt "368"
+msgid ""
+"Welcome to the House of Extras. Which special game mode can I interest you "
+"in today?"
+msgstr ""
+
+msgctxt "380"
+msgid "Very well, Battle for Survival it is."
+msgstr ""
+
+msgctxt "392"
+msgid "Now, if you're ready, I'll show you to the world of special game modes."
+msgstr ""
+
+msgctxt "416"
+msgid "Very well, Survival Tag it is."
+msgstr ""
+
+msgctxt "428"
+msgid "Now, if you're ready, I'll show you to the world of special game modes."
+msgstr ""
+
+msgctxt "452"
+msgid "Very well, All Star Tournament it is."
+msgstr ""
+
+msgctxt "464"
+msgid "Now, if you're ready, I'll show you to the world of special game modes."
+msgstr ""
+
+msgctxt "500"
+msgid "Have fun."
+msgstr ""
+
+msgctxt "524"
+msgid "We hope to see you again."
+msgstr ""
+
+msgctxt "548"
+msgid "Very well. All-Star Tag Tournament it is."
+msgstr ""
+
+msgctxt "560"
+msgid "Now, if you're ready, I'll show you to the world of special game modes."
+msgstr ""
+
+msgctxt "596"
+msgid "Have fun."
+msgstr ""
+
+msgctxt "620"
+msgid "We hope to see you again."
+msgstr ""
+
+msgctxt "644"
+msgid "You're going to leave us now? Please come see us again sometime."
+msgstr ""
+
+msgctxt "656"
+msgid "Oh, you're done already? Well, we look forward to seeing you again soon."
+msgstr ""
+
+msgctxt "680"
+msgid ""
+"How was it? I trust you had a good time? I hope you come visit us again "
+"soon."
+msgstr ""
+
+msgctxt "692"
+msgid ""
+"How was it? I trust you had a good time? I hope you come visit us again "
+"soon."
+msgstr ""
+
+msgctxt "704"
+msgid "Battle for Survival"
+msgstr ""
+
+msgctxt "716"
+msgid "Survival Tag"
+msgstr ""
+
+msgctxt "728"
+msgid "All-Star Tournament"
+msgstr ""
+
+msgctxt "740"
+msgid "All-Star Tag Tournament"
+msgstr ""
+
+msgctxt "752"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "764"
+msgid "Battle for Survival"
+msgstr ""
+
+msgctxt "776"
+msgid "Survival Tag"
+msgstr ""
+
+msgctxt "788"
+msgid "All-Star Tournament"
+msgstr ""
+
+msgctxt "800"
+msgid "All-Star Tag Tournament"
+msgstr ""
+
+msgctxt "812"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "4884"
+msgid "Shady Woman"
+msgstr ""
+
+msgctxt "4888"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "4892"
+msgid "House of Extras"
+msgstr ""

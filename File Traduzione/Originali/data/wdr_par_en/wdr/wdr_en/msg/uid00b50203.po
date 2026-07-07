@@ -1,0 +1,232 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "168"
+msgid "Hey, baby. You lost? Want me to give you directions?"
+msgstr ""
+
+msgctxt "180"
+msgid "No, I'm fine..."
+msgstr ""
+
+msgctxt "192"
+msgid ""
+"Aw, come on, sweetheart! I know. Why don't I take you\r\n"
+"somewhere real nice? Hehehe."
+msgstr ""
+
+msgctxt "204"
+msgid "Please, stop!"
+msgstr ""
+
+msgctxt "216"
+msgid "Someone, help! This man won't leave me alone!"
+msgstr ""
+
+msgctxt "228"
+msgid ""
+"Huh? What do you want, grandpa? Got somethin' to say? I'm\r\n"
+"just tryin' to help her out is all."
+msgstr ""
+
+msgctxt "240"
+msgid "Make sure to treat her with respect."
+msgstr ""
+
+msgctxt "252"
+msgid "Will do, man. Let's get going, sweetheart!"
+msgstr ""
+
+msgctxt "264"
+msgid "No! Let go of me!"
+msgstr ""
+
+msgctxt "288"
+msgid "Leave her alone before I make you."
+msgstr ""
+
+msgctxt "300"
+msgid "What!? Dammit... My luck with the ladies is shit today..."
+msgstr ""
+
+msgctxt "324"
+msgid "Thank you very much..."
+msgstr ""
+
+msgctxt "336"
+msgid "Don't worry about it."
+msgstr ""
+
+msgctxt "348"
+msgid "I really am lost... I have no idea where I am right now."
+msgstr ""
+
+msgctxt "360"
+msgid "Where do you need to go?"
+msgstr ""
+
+msgctxt "372"
+msgid "A bar named Shellac. I'm meeting up with someone there."
+msgstr ""
+
+msgctxt "384"
+msgid "Well, since I'm here, I might as well help you get there."
+msgstr ""
+
+msgctxt "396"
+msgid "Oh, thank you!"
+msgstr ""
+
+msgctxt "432"
+msgid "C'mon, sweetheart! I'll take you somewhere real nice!"
+msgstr ""
+
+msgctxt "444"
+msgid "Please, help me!"
+msgstr ""
+
+msgctxt "456"
+msgid "Make sure to treat her with respect."
+msgstr ""
+
+msgctxt "468"
+msgid "Will do, man. Let's get going, sweetheart!"
+msgstr ""
+
+msgctxt "480"
+msgid "No! Let go of me!"
+msgstr ""
+
+msgctxt "504"
+msgid "Leave her alone before I make you."
+msgstr ""
+
+msgctxt "516"
+msgid "What!? Dammit... My luck with the ladies is shit today..."
+msgstr ""
+
+msgctxt "540"
+msgid "Thank you very much..."
+msgstr ""
+
+msgctxt "552"
+msgid "Don't worry about it."
+msgstr ""
+
+msgctxt "564"
+msgid "I really am lost... I have no idea where I am right now."
+msgstr ""
+
+msgctxt "576"
+msgid "Where do you need to go?"
+msgstr ""
+
+msgctxt "588"
+msgid "A bar named Shellac. I'm meeting up with someone there."
+msgstr ""
+
+msgctxt "600"
+msgid "Well, since I'm here, I might as well help you get there."
+msgstr ""
+
+msgctxt "612"
+msgid "Oh, thank you!"
+msgstr ""
+
+msgctxt "648"
+msgid "Make sure to treat her with respect."
+msgstr ""
+
+msgctxt "660"
+msgid "Leave her alone before I make you."
+msgstr ""
+
+msgctxt "672"
+msgid "Make sure to treat her with respect."
+msgstr ""
+
+msgctxt "684"
+msgid "Get outta here if you don't wanna get hurt."
+msgstr ""
+
+msgctxt "6944"
+msgid "Sketchy Guy"
+msgstr ""
+
+msgctxt "6948"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "6952"
+msgid "Uncertain Woman"
+msgstr ""
+
+msgctxt "6956"
+msgid "Talk_Info_L"
+msgstr ""
+
+msgctxt "6960"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "6964"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "6968"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "6972"
+msgid "Talk_Request"
+msgstr ""
+
+msgctxt "6976"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "6980"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "6984"
+msgid "Talk_NoBig"
+msgstr ""
+
+msgctxt "6988"
+msgid "Talk_Away"
+msgstr ""
+
+msgctxt "6992"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "6996"
+msgid "Talk_Udekumi_st"
+msgstr ""
+
+msgctxt "7000"
+msgid "Talk_Udekumi_lp"
+msgstr ""
+
+msgctxt "7004"
+msgid "Talk_Udekumi_Yes"
+msgstr ""
+
+msgctxt "7008"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "7012"
+msgid "Talk_Odosu"
+msgstr ""

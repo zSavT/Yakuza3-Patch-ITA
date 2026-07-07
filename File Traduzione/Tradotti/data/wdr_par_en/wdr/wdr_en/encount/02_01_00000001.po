@@ -1,0 +1,50 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "124"
+msgid "Hey, you... You look like the asshole who stole my girl!"
+msgstr ""
+
+msgctxt "136"
+msgid ""
+"I can't stand that smug look on your face... Hope you're ready to get your "
+"shit kicked in!"
+msgstr ""
+
+msgctxt "160"
+msgid "Sorry for attackin' you... It's my fault she dumped me..."
+msgstr ""
+
+msgctxt "172"
+msgid "Here... This is a gift!"
+msgstr ""
+
+msgctxt "184"
+msgid "You got a spoiled %s."
+msgstr ""
+
+msgctxt "220"
+msgid "Sorry about that... We're good, right...?"
+msgstr ""
+
+msgctxt "1472"
+msgid "Irate Thug"
+msgstr ""
+
+msgctxt "1476"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "1480"
+msgid "Sync_Send"
+msgstr ""

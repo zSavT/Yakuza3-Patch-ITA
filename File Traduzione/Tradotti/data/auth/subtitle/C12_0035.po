@@ -1,0 +1,98 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "378\t438"
+msgid "Hey, Uncle Kaz?"
+msgstr ""
+
+msgctxt "455\t515"
+msgid "What's up?"
+msgstr ""
+
+msgctxt "548\t680"
+msgid "You're here to save Daigo-san, aren't you?"
+msgstr ""
+
+msgctxt "794\t923"
+msgid "Why'd you ask me to come with you?"
+msgstr ""
+
+msgctxt "947\t1082"
+msgid ""
+"You usually make me stay home,\\n"
+"even when I beg to go."
+msgstr ""
+
+msgctxt "1234\t1288"
+msgid "Uncle Kaz."
+msgstr ""
+
+msgctxt "1289\t1370"
+msgid "Are you gonna die up here!?"
+msgstr ""
+
+msgctxt "1396\t1553"
+msgid ""
+"Is that why you brought me with you?\\n"
+"Because you know this is the end!?"
+msgstr ""
+
+msgctxt "1885\t1966"
+msgid "I'm sorry, Haruka."
+msgstr ""
+
+msgctxt "1971\t2028"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "2029\t2168"
+msgid ""
+"I just wanted to see Kamurocho\\n"
+"with you one last time."
+msgstr ""
+
+msgctxt "2195\t2255"
+msgid "Uncle Kaz..."
+msgstr ""
+
+msgctxt "2268\t2323"
+msgid "I'm sorry."
+msgstr ""
+
+msgctxt "2324\t2393"
+msgid "It was selfish of me to bring you."
+msgstr ""
+
+msgctxt "2396\t2471"
+msgid "I should have just left you⑬"
+msgstr ""
+
+msgctxt "2502\t2562"
+msgid "It's okay."
+msgstr ""
+
+msgctxt "2568\t2674"
+msgid "I'm happy I'm here."
+msgstr ""
+
+msgctxt "2701\t2761"
+msgid "Haruka."
+msgstr ""
+
+msgctxt "2773\t2835"
+msgid "I really am."
+msgstr ""
+
+msgctxt "2850\t2930"
+msgid "Thank you, Uncle Kaz."
+msgstr ""

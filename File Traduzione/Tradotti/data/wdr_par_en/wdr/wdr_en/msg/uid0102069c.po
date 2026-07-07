@@ -1,0 +1,40 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid "Ayako... I need you to listen to me."
+msgstr ""
+
+msgctxt "76"
+msgid "No! I'm always doing stuff for other people!"
+msgstr ""
+
+msgctxt "88"
+msgid "I don't care about Morning Glory anymore!"
+msgstr ""
+
+msgctxt "100"
+msgid "Ayako!"
+msgstr ""
+
+msgctxt "892"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "896"
+msgid "Ayako"
+msgstr ""
+
+msgctxt "900"
+msgid "Talk_Surp"
+msgstr ""

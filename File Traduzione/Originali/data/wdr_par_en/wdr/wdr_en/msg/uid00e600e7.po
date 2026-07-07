@@ -1,0 +1,74 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "92"
+msgid "You mean you were really kidnapped by yakuza? What happened?"
+msgstr ""
+
+msgctxt "104"
+msgid ""
+"Well, they took me to this hotel where there was this fat bald guy waiting "
+"for me."
+msgstr ""
+
+msgctxt "116"
+msgid "And then?"
+msgstr ""
+
+msgctxt "128"
+msgid ""
+"He pushed me down on the bed and ran his hands all over my shoulders and "
+"lower back. Then he just started massaging me..."
+msgstr ""
+
+msgctxt "140"
+msgid "Oh god... I'm so sorry to make you remember all of this again..."
+msgstr ""
+
+msgctxt "152"
+msgid ""
+"Well, actually, he was a really good masseuse. It kinda hurt at first, but "
+"after a minute or so, it started to feel really good..."
+msgstr ""
+
+msgctxt "164"
+msgid "You're kidding!"
+msgstr ""
+
+msgctxt "1320"
+msgid "Worried Friend"
+msgstr ""
+
+msgctxt "1324"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "1328"
+msgid "Abducted Woman"
+msgstr ""
+
+msgctxt "1332"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "1336"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "1340"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "1344"
+msgid "Talk_Surp"
+msgstr ""

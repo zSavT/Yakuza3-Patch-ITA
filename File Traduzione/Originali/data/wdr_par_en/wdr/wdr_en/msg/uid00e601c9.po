@@ -1,0 +1,60 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "104"
+msgid ""
+"Who are you!? If this is about that loan, I'm not\r\n"
+"paying it back!"
+msgstr ""
+
+msgctxt "116"
+msgid "You borrow money, you pay it back."
+msgstr ""
+
+msgctxt "128"
+msgid ""
+"Dammit! If you want the money, you're just gonna have to\r\n"
+"try and take it from me!"
+msgstr ""
+
+msgctxt "152"
+msgid "Aaaaagh! I'm sorry! I'm sorry!"
+msgstr ""
+
+msgctxt "164"
+msgid "Ready to pay now? I'm taking you back to Shibayama."
+msgstr ""
+
+msgctxt "1256"
+msgid "Motoyama"
+msgstr ""
+
+msgctxt "1260"
+msgid "Talk_NoBig"
+msgstr ""
+
+msgctxt "1264"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1268"
+msgid "Talk_Chohatu"
+msgstr ""
+
+msgctxt "1272"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "1276"
+msgid "M_yng_damage"
+msgstr ""

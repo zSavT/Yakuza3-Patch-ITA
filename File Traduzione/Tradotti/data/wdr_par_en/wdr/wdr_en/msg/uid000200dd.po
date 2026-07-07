@@ -1,0 +1,118 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid ""
+"Got fond memories tradin' blows with ya here, Kiryu-chan. Too bad it's a "
+"damn ghost town now."
+msgstr ""
+
+msgctxt "76"
+msgid "The Coliseum's closed?"
+msgstr ""
+
+msgctxt "88"
+msgid ""
+"Been so for 'bout a year now. Somethin' else came up, pulled\r\n"
+"my attention away."
+msgstr ""
+
+msgctxt "100"
+msgid "Something like the Okinawa resort deal?"
+msgstr ""
+
+msgctxt "124"
+msgid "Guess the viper's outta the bag, huh?"
+msgstr ""
+
+msgctxt "136"
+msgid "Majima-san. Why did you do it? Why get involved?"
+msgstr ""
+
+msgctxt "148"
+msgid "I was keepin' my eye out for Daigo. Just like we promised."
+msgstr ""
+
+msgctxt "160"
+msgid "What do you mean?"
+msgstr ""
+
+msgctxt "172"
+msgid "I was just... tryin' to make shit easier for him."
+msgstr ""
+
+msgctxt "184"
+msgid "Y'know how intense all that politics bull can get."
+msgstr ""
+
+msgctxt "196"
+msgid "But Daigo didn't want any part of the resort deal."
+msgstr ""
+
+msgctxt "208"
+msgid "That's what got him shot. Right?"
+msgstr ""
+
+msgctxt "220"
+msgid "Been wonderin' about that myself."
+msgstr ""
+
+msgctxt "232"
+msgid "Majima-san."
+msgstr ""
+
+msgctxt "244"
+msgid "...Kiryu-chan."
+msgstr ""
+
+msgctxt "256"
+msgid ""
+"I don't think you could've come up with this whole resort\r\n"
+"scheme on your own. You have to be working with someone."
+msgstr ""
+
+msgctxt "268"
+msgid "......"
+msgstr ""
+
+msgctxt "280"
+msgid "The question is, who is it?"
+msgstr ""
+
+msgctxt "292"
+msgid "......"
+msgstr ""
+
+msgctxt "304"
+msgid "Why aren't you saying anything?"
+msgstr ""
+
+msgctxt "316"
+msgid "......"
+msgstr ""
+
+msgctxt "328"
+msgid "Majima-san. Tell me the truth, now."
+msgstr ""
+
+msgctxt "3968"
+msgid "Majima"
+msgstr ""
+
+msgctxt "3972"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "3976"
+msgid "Talk_Yes"
+msgstr ""

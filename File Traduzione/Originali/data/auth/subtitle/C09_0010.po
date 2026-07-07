@@ -1,0 +1,120 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "243\t376"
+msgid "That Kazama-lookin' guy really said all that?"
+msgstr ""
+
+msgctxt "377\t437"
+msgid "Yeah."
+msgstr ""
+
+msgctxt "429\t483"
+msgid "Hm..."
+msgstr ""
+
+msgctxt "484\t579"
+msgid "Can't help but wonder what he wants."
+msgstr ""
+
+msgctxt "592\t713"
+msgid ""
+"All we know for sure is that he's\\n"
+"wrapped up in this whole mess somehow."
+msgstr ""
+
+msgctxt "887\t977"
+msgid "What's wrong? You still hurt?"
+msgstr ""
+
+msgctxt "978\t1038"
+msgid "Not really."
+msgstr ""
+
+msgctxt "1114\t1277"
+msgid ""
+"Aniki. I just... don't know\\n"
+"what to think of all this."
+msgstr ""
+
+msgctxt "1295\t1450"
+msgid "Why'd that guy with the mustache save my life?"
+msgstr ""
+
+msgctxt "1462\t1626"
+msgid ""
+"'Specially after he shot the boss.\\n"
+"...Why help me?"
+msgstr ""
+
+msgctxt "1683\t1743"
+msgid "Rikiya."
+msgstr ""
+
+msgctxt "1760\t1837"
+msgid "I need you to head back to Okinawa."
+msgstr ""
+
+msgctxt "1869\t1969"
+msgid "I have some loose ends to tie up here."
+msgstr ""
+
+msgctxt "1972\t2105"
+msgid "But you? There's nothing keeping you in this city."
+msgstr ""
+
+msgctxt "2106\t2126"
+msgid "But!"
+msgstr ""
+
+msgctxt "2127\t2200"
+msgid "Just hear me out, okay?"
+msgstr ""
+
+msgctxt "2206\t2390"
+msgid ""
+"Right now, we don't know whether\\n"
+"the man in the sketch is a friend or foe."
+msgstr ""
+
+msgctxt "2399\t2584"
+msgid ""
+"Go home, be safe. Take care of Saki for me.\\n"
+"Watch after Morning Glory."
+msgstr ""
+
+msgctxt "2666\t2726"
+msgid "Can you do that?"
+msgstr ""
+
+msgctxt "2761\t2821"
+msgid "Yeah."
+msgstr ""
+
+msgctxt "2953\t3013"
+msgid "What's up?"
+msgstr ""
+
+msgctxt "3021\t3130"
+msgid "What? The chairman of the Hakuho?"
+msgstr ""
+
+msgctxt "3194\t3239"
+msgid "Hey, Kiryu."
+msgstr ""
+
+msgctxt "3240\t3417"
+msgid ""
+"You know Mine, from the Hakuho Clan?\\n"
+"Sounds like he swung over here to see you."
+msgstr ""

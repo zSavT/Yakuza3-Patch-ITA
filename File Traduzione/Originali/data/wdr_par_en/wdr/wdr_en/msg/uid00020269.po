@@ -1,0 +1,144 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "212"
+msgid "Oh! You came back!"
+msgstr ""
+
+msgctxt "224"
+msgid ""
+"Are you up for a good time now? Well, hear me out first,\r\n"
+"'cause I have a favor to ask you."
+msgstr ""
+
+msgctxt "236"
+msgid "Sorry. I'm not the man for you."
+msgstr ""
+
+msgctxt "248"
+msgid ""
+"Oh, but you are! You're exactly the man I've been looking\r\n"
+"for!"
+msgstr ""
+
+msgctxt "260"
+msgid ""
+"I'll be waiting right here, so if you change your mind about\r\n"
+"that good time I promised you... You just come on back and\r\n"
+"see me, okay?"
+msgstr ""
+
+msgctxt "272"
+msgid "Fine. What sort of favor did you have in mind?"
+msgstr ""
+
+msgctxt "284"
+msgid "Okay... Close your eyes, now."
+msgstr ""
+
+msgctxt "332"
+msgid ""
+"Hey, handsome... You looking for something to do tonight?\r\n"
+"Or rather, someone?"
+msgstr ""
+
+msgctxt "344"
+msgid "Ooh..."
+msgstr ""
+
+msgctxt "356"
+msgid "That muscular body..."
+msgstr ""
+
+msgctxt "368"
+msgid "And those eyes... You could undress me with them all night."
+msgstr ""
+
+msgctxt "380"
+msgid ""
+"I just have a small, little favor to ask. Hear me out now,\r\n"
+"and later we'll have ourselves a good time. What do you say?"
+msgstr ""
+
+msgctxt "392"
+msgid "Sorry. I'm not the man for you."
+msgstr ""
+
+msgctxt "404"
+msgid ""
+"Oh, but you are! You're exactly the man I've been looking\r\n"
+"for!"
+msgstr ""
+
+msgctxt "416"
+msgid ""
+"I'll be here, so if you change your mind about that good\r\n"
+"time I promised you... You just come on back and see me,\r\n"
+"okay?"
+msgstr ""
+
+msgctxt "428"
+msgid "Fine. What sort of favor did you have in mind?"
+msgstr ""
+
+msgctxt "440"
+msgid "Okay... Close your eyes, now."
+msgstr ""
+
+msgctxt "464"
+msgid "Ignore Her"
+msgstr ""
+
+msgctxt "476"
+msgid "Hear Her Out"
+msgstr ""
+
+msgctxt "488"
+msgid "Ignore Her"
+msgstr ""
+
+msgctxt "500"
+msgid "Hear Her Out"
+msgstr ""
+
+msgctxt "4256"
+msgid "Alluring Woman"
+msgstr ""
+
+msgctxt "4260"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "4264"
+msgid "Talk_Chohatu"
+msgstr ""
+
+msgctxt "4268"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "4272"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "4276"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "4280"
+msgid "0"
+msgstr ""
+
+msgctxt "4284"
+msgid "Talk_Kansin"
+msgstr ""

@@ -1,0 +1,104 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "398\t446"
+msgid "Kazama-san!"
+msgstr ""
+
+msgctxt "470\t555"
+msgid "But I thought you were..."
+msgstr ""
+
+msgctxt "595\t659"
+msgid "Sorry for the surprise."
+msgstr ""
+
+msgctxt "945\t1002"
+msgid "What's this?"
+msgstr ""
+
+msgctxt "1007\t1137"
+msgid "Something very important to you."
+msgstr ""
+
+msgctxt "1233\t1275"
+msgid "This is..."
+msgstr ""
+
+msgctxt "1283\t1375"
+msgid "A deed to that land in Okinawa."
+msgstr ""
+
+msgctxt "1403\t1508"
+msgid "But this is where the fourth chairman is⑬"
+msgstr ""
+
+msgctxt "1509\t1565"
+msgid "I'm aware."
+msgstr ""
+
+msgctxt "1587\t1730"
+msgid ""
+"You had no interest in taking\\n"
+"Kazuma Kiryu's land for yourself."
+msgstr ""
+
+msgctxt "1738\t1890"
+msgid ""
+"So we went ahead and did it for you.\\n"
+"No need to thank me."
+msgstr ""
+
+msgctxt "1891\t1957"
+msgid "But... why?"
+msgstr ""
+
+msgctxt "1958\t2182"
+msgid ""
+"We can't let the Tojo walk from this deal.\\n"
+"That outcome is simply unacceptable."
+msgstr ""
+
+msgctxt "2189\t2230"
+msgid "Sorry, but..."
+msgstr ""
+
+msgctxt "2239\t2353"
+msgid "I've already made my decision."
+msgstr ""
+
+msgctxt "2361\t2433"
+msgid "I don't want anything to do with this."
+msgstr ""
+
+msgctxt "2439\t2530"
+msgid "You may want to reconsider, Sixth Chairman."
+msgstr ""
+
+msgctxt "2532\t2684"
+msgid ""
+"With 30,000 members to support,\\n"
+"can you really afford to refuse?"
+msgstr ""
+
+msgctxt "2802\t2850"
+msgid "And..."
+msgstr ""
+
+msgctxt "2895\t3023"
+msgid "What happens if I do?"
+msgstr ""
+
+msgctxt "3243\t3358"
+msgid "We'll do what must be done."
+msgstr ""

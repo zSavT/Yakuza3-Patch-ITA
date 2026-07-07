@@ -1,0 +1,222 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "80"
+msgid "Urgh..."
+msgstr ""
+
+msgctxt "92"
+msgid "Hiroto!"
+msgstr ""
+
+msgctxt "104"
+msgid ""
+"So Rikiya was right all along. You really are Natsumi. Haven't you stopped "
+"to think about how he feels in all this?"
+msgstr ""
+
+msgctxt "116"
+msgid ""
+"What's it to you? He said he'd do whatever I wanted, so I'm taking him up "
+"on the offer! Besides, it's none of your business!"
+msgstr ""
+
+msgctxt "128"
+msgid ""
+"Enough excuses. Come with me. It's time you see just how far Rikiya's "
+"willing to go for you."
+msgstr ""
+
+msgctxt "152"
+msgid "It's nothing like that! I told you, he's just my bodyguard!"
+msgstr ""
+
+msgctxt "164"
+msgid ""
+"Come on, girl. You, me, and every other bitch on the street knows you're "
+"using him!"
+msgstr ""
+
+msgctxt "176"
+msgid "(Hold on... Isn't that Akiho?)"
+msgstr ""
+
+msgctxt "188"
+msgid ""
+"But seriously, Natsumi. I'm like, sooo jealous. How'd you get a brute like "
+"that doing your dirty work for you?"
+msgstr ""
+
+msgctxt "200"
+msgid ""
+"Isn't it just the greatest? I was kinda shocked when he told me he was from "
+"Okinawa, but it turns out he's this guy Rikiya I used to sit next to in "
+"middle school."
+msgstr ""
+
+msgctxt "212"
+msgid ""
+"He started going on and on and on with these old stories from when we were "
+"kids. Total snoozefest."
+msgstr ""
+
+msgctxt "224"
+msgid ""
+"But oh, get this! It turns out he's part of the Okinawa yakuza! And not "
+"only that, but he's dumb as a rock! He'll believe any old sob story I tell "
+"him."
+msgstr ""
+
+msgctxt "236"
+msgid "(What!?)"
+msgstr ""
+
+msgctxt "248"
+msgid ""
+"Haha, yeah. What was that fake name you gave him again? Akiho or something? "
+"Where'd you even come up with that?"
+msgstr ""
+
+msgctxt "260"
+msgid ""
+"Besides, wouldn't most guys know if their \"best friend\" has a sister? "
+"Like, get a clue, dude!"
+msgstr ""
+
+msgctxt "272"
+msgid ""
+"Are you really surprised? All those yakuza thugs are all brawns and no "
+"brains. Natsumi needs a man like me who's got the whole package. Ain't that "
+"right, baby?"
+msgstr ""
+
+msgctxt "284"
+msgid ""
+"Yeah, yeah, your \"whole package\" is the only thing you ever talk about! "
+"But I'll admit, I never would've come up with that plan on my own. It's "
+"thanks to you I'm gonna be living debt-free!"
+msgstr ""
+
+msgctxt "296"
+msgid ""
+"That's what happens when you hang with a man of ideas, sweetheart. It was a "
+"real stroke of genius, conning that yakuza fool into paying off your loan. "
+"What would you do without me?"
+msgstr ""
+
+msgctxt "308"
+msgid ""
+"My bank account would have a few less zeros in it, that's for sure! Anyway, "
+"I'm finally done owing your club for all the drinks I bought! Which means I "
+"can start spending money on you again!"
+msgstr ""
+
+msgctxt "320"
+msgid "Mm, and that's why I love you."
+msgstr ""
+
+msgctxt "332"
+msgid "What's going on here?"
+msgstr ""
+
+msgctxt "344"
+msgid "Oh, um!"
+msgstr ""
+
+msgctxt "356"
+msgid "Akiho... or should I say Natsumi?"
+msgstr ""
+
+msgctxt "368"
+msgid "Whichever it is, you've got some explaining to do. Come with me."
+msgstr ""
+
+msgctxt "380"
+msgid ""
+"She's not going anywhere, you old fuck! What gives you the right to just "
+"walk up and snag some other guy's girl?"
+msgstr ""
+
+msgctxt "392"
+msgid ""
+"All I want to do is talk to her. But if you're looking for a fight, I'd be "
+"glad to oblige."
+msgstr ""
+
+msgctxt "6076"
+msgid "Hiroto"
+msgstr ""
+
+msgctxt "6080"
+msgid "M_ykz_damage"
+msgstr ""
+
+msgctxt "6084"
+msgid "Natsumi"
+msgstr ""
+
+msgctxt "6088"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "6092"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "6096"
+msgid "Talk_Chohatu"
+msgstr ""
+
+msgctxt "6100"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "6104"
+msgid "Akiho"
+msgstr ""
+
+msgctxt "6108"
+msgid "Dancer Friend"
+msgstr ""
+
+msgctxt "6112"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "6116"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "6120"
+msgid "Talk_SmileBig_st"
+msgstr ""
+
+msgctxt "6124"
+msgid "Talk_SmileBig_ed"
+msgstr ""
+
+msgctxt "6128"
+msgid "\"Akiho\""
+msgstr ""
+
+msgctxt "6132"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "6136"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "6140"
+msgid "Talk_Odosu"
+msgstr ""

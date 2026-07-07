@@ -1,0 +1,672 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "380"
+msgid "...That's the gist of it."
+msgstr ""
+
+msgctxt "392"
+msgid "I see... You really do know a lot about this case."
+msgstr ""
+
+msgctxt "404"
+msgid ""
+"But from what you say, Yuichi's motive seems pretty clear.\r\n"
+"Sounds obvious he killed the guy his girlfriend was\r\n"
+"cheating on him with."
+msgstr ""
+
+msgctxt "416"
+msgid ""
+"I'm sure that's what the police thought, too. And when\r\n"
+"they discovered more evidence later, they decided to\r\n"
+"arrest Yuichi-san."
+msgstr ""
+
+msgctxt "428"
+msgid "They found more evidence?"
+msgstr ""
+
+msgctxt "440"
+msgid "Oh, I should give you this."
+msgstr ""
+
+msgctxt "452"
+msgid "What is it?"
+msgstr ""
+
+msgctxt "464"
+msgid ""
+"<Color:7>The notebook I used to collect information about the "
+"case<Color:Default>.\r\n"
+"Please take a look at it. You might see something I missed."
+msgstr ""
+
+msgctxt "476"
+msgid "You got <Color:8>Wakazo's Notebook<Color:Default>."
+msgstr ""
+
+msgctxt "500"
+msgid ""
+"Access <Color:8>Wakazo's Notebook<Color:Default> by pausing, navigating to "
+"the Items\r\n"
+"screen, and pressing <Action:Button_R1@UI>."
+msgstr ""
+
+msgctxt "512"
+msgid ""
+"Select <Color:8>Wakazo's Notebook<Color:Default> to look at information "
+"on\r\n"
+"people related to the case."
+msgstr ""
+
+msgctxt "524"
+msgid ""
+"New information may be added to the notebook as the\r\n"
+"investigation unfolds. Check the notebook frequently to\r\n"
+"find hints as to where to go next."
+msgstr ""
+
+msgctxt "536"
+msgid ""
+"If you get stuck, take another look at <Color:8>Wakazo's "
+"Notebook<Color:Default>\r\n"
+"and think about where you might need to go to find\r\n"
+"the next clue."
+msgstr ""
+
+msgctxt "548"
+msgid "Got it."
+msgstr ""
+
+msgctxt "608"
+msgid ""
+"So tell me more about this crime Yuichi Akechi was arrested\r\n"
+"for six years ago."
+msgstr ""
+
+msgctxt "620"
+msgid "All right. Here's the rundown."
+msgstr ""
+
+msgctxt "656"
+msgid ""
+"The crime occurred late at night. The café had closed and\r\n"
+"the employees were busy cleaning up."
+msgstr ""
+
+msgctxt "668"
+msgid ""
+"The first person to discover the crime was a waiter\r\n"
+"by the name of Kinoshita-san."
+msgstr ""
+
+msgctxt "692"
+msgid ""
+"During this cleanup, Yuichi Akechi-san, who was another\r\n"
+"one of the waiters at the time, headed to the dumpster\r\n"
+"behind the café."
+msgstr ""
+
+msgctxt "716"
+msgid ""
+"But as he passed by the locker room on the way to the\r\n"
+"dumpster, he noticed the door was ajar."
+msgstr ""
+
+msgctxt "740"
+msgid ""
+"Through the crack in the door, he saw café manager\r\n"
+"Oda-san and waitress Usami-san in a compromising\r\n"
+"position inside the locker room."
+msgstr ""
+
+msgctxt "752"
+msgid ""
+"Usami was Yuichi-san's girlfriend, and so this meant that\r\n"
+"Yuichi-san had just witnessed the scene of his lover's\r\n"
+"infidelity."
+msgstr ""
+
+msgctxt "776"
+msgid ""
+"Upon seeing that, Yuichi-san flew into a rage, barged into\r\n"
+"the locker room, and began grappling with Oda-san."
+msgstr ""
+
+msgctxt "800"
+msgid ""
+"All the while, Kinoshita-san, the waiter, was at the front\r\n"
+"of the café, still cleaning up."
+msgstr ""
+
+msgctxt "824"
+msgid ""
+"Worried that Yuichi-san hadn't come back yet, Kinoshita-san\r\n"
+"went to check on him."
+msgstr ""
+
+msgctxt "848"
+msgid "He spotted Yuichi-san leaving through the back exit."
+msgstr ""
+
+msgctxt "872"
+msgid ""
+"Kinoshita-san then noticed the door to the locker room was open. When he "
+"peeked inside, he found Oda-san dead, bleeding from the head."
+msgstr ""
+
+msgctxt "896"
+msgid ""
+"The cause of death was \"cerebral contusion from blunt force\r\n"
+"trauma to the head.\" They found a bloody ashtray by the body."
+msgstr ""
+
+msgctxt "956"
+msgid "Six years ago, there was a murder here at Café Alps."
+msgstr ""
+
+msgctxt "968"
+msgid "Here?"
+msgstr ""
+
+msgctxt "980"
+msgid ""
+"The suspect was a man named <Color:7>Yuichi Akechi-san<Color:Default>. That "
+"woman you\r\n"
+"just saw is his sister, Nozomi Akechi."
+msgstr ""
+
+msgctxt "992"
+msgid "Yuichi Akechi..."
+msgstr ""
+
+msgctxt "1004"
+msgid ""
+"I investigated the story and wrote an article implicating\r\n"
+"Yuichi-san as the murderer."
+msgstr ""
+
+msgctxt "1016"
+msgid "And this was the article that woman was talking about?"
+msgstr ""
+
+msgctxt "1028"
+msgid ""
+"That's right. Yuichi has consistently denied any involvement\r\n"
+"in the crime since his arrest."
+msgstr ""
+
+msgctxt "1040"
+msgid ""
+"To be honest, even though I wrote the article, I wasn't\r\n"
+"completely convinced he'd done the deed."
+msgstr ""
+
+msgctxt "1052"
+msgid ""
+"I didn't even want to publish it. I didn't want to make him\r\n"
+"out to be the criminal before we had all the facts."
+msgstr ""
+
+msgctxt "1064"
+msgid "Let me guess, it got published anyway."
+msgstr ""
+
+msgctxt "1076"
+msgid ""
+"I was the only person in the department who even considered\r\n"
+"Yuichi-san might be innocent."
+msgstr ""
+
+msgctxt "1088"
+msgid ""
+"And I was only just getting my start as a journalist, so I\r\n"
+"had to go along with what my department wanted to do..."
+msgstr ""
+
+msgctxt "1100"
+msgid "......"
+msgstr ""
+
+msgctxt "1112"
+msgid ""
+"I dug much too far into Yuichi-san's life for my\r\n"
+"investigation. I interviewed his relatives, even people\r\n"
+"in his neighborhood..."
+msgstr ""
+
+msgctxt "1124"
+msgid ""
+"Because of my reporting, people started labeling the Akechi\r\n"
+"family as the \"murderer family.\" They were forced to move..."
+msgstr ""
+
+msgctxt "1136"
+msgid "Poor Nozomi-san got bullied a lot at school, too."
+msgstr ""
+
+msgctxt "1148"
+msgid ""
+"That kind of stuff happens... But I guess she does have\r\n"
+"a pretty good reason to resent you."
+msgstr ""
+
+msgctxt "1160"
+msgid ""
+"Ever since Yuichi-san was declared guilty, I can't stop\r\n"
+"thinking about him."
+msgstr ""
+
+msgctxt "1172"
+msgid ""
+"Should I have written that article? Were the charges\r\n"
+"against him false?"
+msgstr ""
+
+msgctxt "1184"
+msgid ""
+"False? You mean there's a chance Yuichi didn't do it?\r\n"
+"What makes you think that?"
+msgstr ""
+
+msgctxt "1196"
+msgid ""
+"I actually used to have a part-time job here, a long\r\n"
+"time ago."
+msgstr ""
+
+msgctxt "1208"
+msgid "Is that so?"
+msgstr ""
+
+msgctxt "1220"
+msgid ""
+"I worked with Yuichi-san. We talked all the time, and I\r\n"
+"got to know him pretty well."
+msgstr ""
+
+msgctxt "1232"
+msgid "I just don't think he's a murderer."
+msgstr ""
+
+msgctxt "1244"
+msgid "Huh."
+msgstr ""
+
+msgctxt "1256"
+msgid ""
+"After that story got published, I swore I'd never repeat\r\n"
+"the same mistake."
+msgstr ""
+
+msgctxt "1268"
+msgid "I've become an honest journalist who only reports the truth."
+msgstr ""
+
+msgctxt "1280"
+msgid "Are you really just gonna let this go, then?"
+msgstr ""
+
+msgctxt "1292"
+msgid "What...?"
+msgstr ""
+
+msgctxt "1304"
+msgid "You still have doubts about the case, right?"
+msgstr ""
+
+msgctxt "1316"
+msgid "Yes..."
+msgstr ""
+
+msgctxt "1328"
+msgid "Then shouldn't you be trying to discover the truth?"
+msgstr ""
+
+msgctxt "1340"
+msgid ""
+"...You know what? You're right. I think I gave up after\r\n"
+"that article came out..."
+msgstr ""
+
+msgctxt "1352"
+msgid ""
+"But you're absolutely right! I think I'll look into it one\r\n"
+"more time!"
+msgstr ""
+
+msgctxt "1364"
+msgid ""
+"How should I go about it, though? I mean, it's been six\r\n"
+"years since the murder happened."
+msgstr ""
+
+msgctxt "1376"
+msgid ""
+"I guess you gotta start by talking to everybody involved\r\n"
+"in the case."
+msgstr ""
+
+msgctxt "1388"
+msgid "Sure, but..."
+msgstr ""
+
+msgctxt "1400"
+msgid "But what?"
+msgstr ""
+
+msgctxt "1412"
+msgid "Could you help me, Kiryu-san?"
+msgstr ""
+
+msgctxt "1424"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "1436"
+msgid ""
+"If I don't find out the truth, I'll regret writing that\r\n"
+"article for the rest of my life."
+msgstr ""
+
+msgctxt "1448"
+msgid "You want me to look into that old murder with you?"
+msgstr ""
+
+msgctxt "1460"
+msgid "All right. I'll do it."
+msgstr ""
+
+msgctxt "1472"
+msgid "Thank you!"
+msgstr ""
+
+msgctxt "1532"
+msgid "I don't have that kind of time."
+msgstr ""
+
+msgctxt "1544"
+msgid ""
+"Look, if I do this alone, I'll be at the same place I was\r\n"
+"six years ago. What if I get stuck again?"
+msgstr ""
+
+msgctxt "1556"
+msgid ""
+"If I could get your help, I'm sure I'd be able to find out\r\n"
+"the truth!"
+msgstr ""
+
+msgctxt "1652"
+msgid "Who was that woman talking to Kinoshita?"
+msgstr ""
+
+msgctxt "1664"
+msgid "That's Kinoshita-san's wife, <Color:7>Yuko-san<Color:Default>."
+msgstr ""
+
+msgctxt "1676"
+msgid "Kinoshita's wife? How did you know that?"
+msgstr ""
+
+msgctxt "1688"
+msgid ""
+"She actually <Color:7>used to work here<Color:Default>. That's how I know "
+"her."
+msgstr ""
+
+msgctxt "1700"
+msgid "She worked here? Is that so?"
+msgstr ""
+
+msgctxt "1712"
+msgid "That's right."
+msgstr ""
+
+msgctxt "1724"
+msgid ""
+"She'd already quit by the time the murder happened, though.\r\n"
+"And she wasn't on the security tapes of the dining area, so\r\n"
+"she definitely <Color:7>wasn't at the café that day<Color:Default>."
+msgstr ""
+
+msgctxt "1736"
+msgid "I see..."
+msgstr ""
+
+msgctxt "1748"
+msgid ""
+"(It doesn't sound like Kinoshita's wife Yuko is involved in\r\n"
+"the case, but maybe I should look into her anyway.)"
+msgstr ""
+
+msgctxt "1772"
+msgid "You got <Color:8>Wakazo's Testimony<Color:Default>."
+msgstr ""
+
+msgctxt "1844"
+msgid ""
+"Kiryu-san, will you please help me investigate the\r\n"
+"Café Alps murder?"
+msgstr ""
+
+msgctxt "1856"
+msgid "All right. I'll do it."
+msgstr ""
+
+msgctxt "1868"
+msgid "Thank you!"
+msgstr ""
+
+msgctxt "1940"
+msgid "I don't have that kind of time."
+msgstr ""
+
+msgctxt "1952"
+msgid ""
+"Look, if I do this alone, I'll be at the same place I was\r\n"
+"six years ago. What if I get stuck again?"
+msgstr ""
+
+msgctxt "1964"
+msgid ""
+"If I could get your help, I'm sure I'd be able to find out\r\n"
+"the truth!"
+msgstr ""
+
+msgctxt "2024"
+msgid "Oh, Kiryu-san. Did you find out anything?"
+msgstr ""
+
+msgctxt "2036"
+msgid "No, nothing conclusive yet."
+msgstr ""
+
+msgctxt "2048"
+msgid ""
+"I see... Still, I guess our only option is to talk to\r\n"
+"everybody related to the case."
+msgstr ""
+
+msgctxt "2060"
+msgid ""
+"My notebook should have information on everybody who was\r\n"
+"involved with the incident. Give it a look when you get the\r\n"
+"chance."
+msgstr ""
+
+msgctxt "2072"
+msgid ""
+"Access <Color:8>Wakazo's Notebook<Color:Default> by pausing, navigating to "
+"the Items\r\n"
+"screen, and pressing <Action:Button_R1@UI>."
+msgstr ""
+
+msgctxt "2084"
+msgid ""
+"Select <Color:8>Wakazo's Notebook<Color:Default> to look at information "
+"on\r\n"
+"people related to the case."
+msgstr ""
+
+msgctxt "2096"
+msgid ""
+"New information may be added to the notebook as the\r\n"
+"investigation unfolds. Check the notebook frequently to\r\n"
+"find hints as to where to go next."
+msgstr ""
+
+msgctxt "2108"
+msgid ""
+"If you get stuck, take another look at <Color:8>Wakazo's "
+"Notebook<Color:Default>\r\n"
+"and think about where you might need to go to find\r\n"
+"the next clue."
+msgstr ""
+
+msgctxt "2120"
+msgid "Got it."
+msgstr ""
+
+msgctxt "2132"
+msgid "All right. I'll do it."
+msgstr ""
+
+msgctxt "2144"
+msgid "I don't have that kind of time."
+msgstr ""
+
+msgctxt "2156"
+msgid "All right. I'll do it."
+msgstr ""
+
+msgctxt "2168"
+msgid "I don't have that kind of time."
+msgstr ""
+
+msgctxt "21972"
+msgid "M_nml_sitchr"
+msgstr ""
+
+msgctxt "21976"
+msgid "P_sitchr"
+msgstr ""
+
+msgctxt "21980"
+msgid "Wakazo"
+msgstr ""
+
+msgctxt "21984"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "21988"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "21992"
+msgid "P_stand_tlk_kamae"
+msgstr ""
+
+msgctxt "21996"
+msgid "P_stand"
+msgstr ""
+
+msgctxt "22000"
+msgid "Talk_Kamae"
+msgstr ""
+
+msgctxt "22004"
+msgid "0"
+msgstr ""
+
+msgctxt "22008"
+msgid "dummy"
+msgstr ""
+
+msgctxt "22012"
+msgid "sub008/sub_wakazou_001"
+msgstr ""
+
+msgctxt "22016"
+msgid "sub008/sub_wakazou_013"
+msgstr ""
+
+msgctxt "22020"
+msgid "sub008/sub_wakazou_002"
+msgstr ""
+
+msgctxt "22024"
+msgid "sub008/sub_wakazou_003"
+msgstr ""
+
+msgctxt "22028"
+msgid "sub008/sub_wakazou_004"
+msgstr ""
+
+msgctxt "22032"
+msgid "sub008/sub_wakazou_005"
+msgstr ""
+
+msgctxt "22036"
+msgid "sub008/sub_wakazou_006"
+msgstr ""
+
+msgctxt "22040"
+msgid "sub008/sub_wakazou_007"
+msgstr ""
+
+msgctxt "22044"
+msgid "sub008/sub_wakazou_014"
+msgstr ""
+
+msgctxt "22048"
+msgid "sub008/sub_wakazou_008"
+msgstr ""
+
+msgctxt "22052"
+msgid "sub008/sub_wakazou_009"
+msgstr ""
+
+msgctxt "22056"
+msgid "2d_cf_event_ashtray"
+msgstr ""
+
+msgctxt "22060"
+msgid "sub008/sub_wakazou_010"
+msgstr ""
+
+msgctxt "22064"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "22068"
+msgid "Talk_Request"
+msgstr ""
+
+msgctxt "22072"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "22076"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "22080"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "22084"
+msgid "P_sitchr_tlk_kamae"
+msgstr ""

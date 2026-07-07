@@ -1,0 +1,68 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "240"
+msgid "Why don't we choose the banker?"
+msgstr ""
+
+msgctxt "252"
+msgid "I'm the banker."
+msgstr ""
+
+msgctxt "264"
+msgid "How much do you want to put up?"
+msgstr ""
+
+msgctxt "276"
+msgid "Let's start!"
+msgstr ""
+
+msgctxt "288"
+msgid "Now it's my turn."
+msgstr ""
+
+msgctxt "300"
+msgid "(This line signifies failure.)"
+msgstr ""
+
+msgctxt "312"
+msgid "Let's settle up."
+msgstr ""
+
+msgctxt "324"
+msgid "Your turn to be banker."
+msgstr ""
+
+msgctxt "336"
+msgid "Time to change dealers."
+msgstr ""
+
+msgctxt "348"
+msgid "Wanna try your luck again?"
+msgstr ""
+
+msgctxt "360"
+msgid ""
+"Aw, come on! Looks like I'm out.\r\n"
+"I'll catch you next time."
+msgstr ""
+
+msgctxt "372"
+msgid ""
+"Heheheh, guess that's it for you.\r\n"
+"Practice some and come on back!"
+msgstr ""
+
+msgctxt "1384"
+msgid "Fuyumi 456"
+msgstr ""

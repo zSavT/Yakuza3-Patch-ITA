@@ -1,0 +1,103 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid "Kiryu. This boy has quite the fire in his belly."
+msgstr ""
+
+msgctxt "76"
+msgid "I'm sorry for how he's acting. He doesn't usually do this."
+msgstr ""
+
+msgctxt "88"
+msgid "Well? Let's hear it, old man! Tell me what you think!"
+msgstr ""
+
+msgctxt "100"
+msgid ""
+"It's a fine work, yes. Not only does its technique impress, but I can tell "
+"the original artist truly cared about both you and this tattoo."
+msgstr ""
+
+msgctxt "112"
+msgid "Damn right he did! So what do you say? You gonna finish the job for me!?"
+msgstr ""
+
+msgctxt "124"
+msgid "Please forgive me. I'm afraid I just can't do it."
+msgstr ""
+
+msgctxt "136"
+msgid "Huh? But why not!?"
+msgstr ""
+
+msgctxt "148"
+msgid ""
+"Your artist did an exquisite job on this piece, there's no doubt about "
+"that. But as I said, both the tattoo's creator and receiver must be "
+"prepared to bear the responsibility it brings."
+msgstr ""
+
+msgctxt "160"
+msgid "Ugh, not this crap again."
+msgstr ""
+
+msgctxt "172"
+msgid ""
+"I don't know you. I don't know your ambitions, and I don't know why you've "
+"chosen to carry that tattoo."
+msgstr ""
+
+msgctxt "184"
+msgid "As long as those things remain a mystery to me, I cannot do what you ask."
+msgstr ""
+
+msgctxt "196"
+msgid "Pfft. Stubborn old shit."
+msgstr ""
+
+msgctxt "208"
+msgid "Watch it, Rikiya."
+msgstr ""
+
+msgctxt "220"
+msgid "My apologies, but I'm going to have to ask you to leave now."
+msgstr ""
+
+msgctxt "232"
+msgid "Right. Sorry we barged in on you like this. Come on, Rikiya. Let's go."
+msgstr ""
+
+msgctxt "3376"
+msgid "Utabori"
+msgstr ""
+
+msgctxt "3380"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "3384"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "3388"
+msgid "Rikiya"
+msgstr ""
+
+msgctxt "3392"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "3396"
+msgid "Talk_Away"
+msgstr ""

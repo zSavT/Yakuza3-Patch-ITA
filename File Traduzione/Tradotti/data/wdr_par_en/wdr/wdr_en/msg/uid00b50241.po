@@ -1,0 +1,197 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid ""
+"Sir, would you mind waiting outside? We've got a full house,\r\n"
+"but you're welcome to wait for a spot to open up..."
+msgstr ""
+
+msgctxt "76"
+msgid "Oh, Kiryu-san! Welcome! Come by to take a load off?"
+msgstr ""
+
+msgctxt "88"
+msgid ""
+"This girl's pretty cute. I heard she's from Okinawa.\r\n"
+"She really knows how to soothe this old heart of mine."
+msgstr ""
+
+msgctxt "100"
+msgid "Kaede-chan, could I get another order of rafute and a beer, hon?"
+msgstr ""
+
+msgctxt "112"
+msgid "Coming right up! You should have some vegetables, too, y'know."
+msgstr ""
+
+msgctxt "124"
+msgid "This job is perfect for me. It's so much fun, too!"
+msgstr ""
+
+msgctxt "136"
+msgid "Yeah? That's good to hear."
+msgstr ""
+
+msgctxt "148"
+msgid ""
+"I swear, all the men in Tokyo are always exhausted.\r\n"
+"They come here to eat and drink their troubles away so they\r\n"
+"can give it their all again tomorrow."
+msgstr ""
+
+msgctxt "160"
+msgid ""
+"Kaede-chan, it's thanks to you that we can keep chuggin'\r\n"
+"along. Your Okinawan accent is so nice and relaxing."
+msgstr ""
+
+msgctxt "172"
+msgid ""
+"Ehehe... That's nice of you to say, sir. Here, have this on\r\n"
+"the house. Eat up!"
+msgstr ""
+
+msgctxt "208"
+msgid ""
+"Well, if it isn't Kiryu-san! It's been how many years now?\r\n"
+"God, this brings back memories!"
+msgstr ""
+
+msgctxt "220"
+msgid "Aren't you Yuuya's friend's..."
+msgstr ""
+
+msgctxt "232"
+msgid "That's me! It's been two years, right? Quite a while."
+msgstr ""
+
+msgctxt "244"
+msgid "Yeah. Looks like business is booming."
+msgstr ""
+
+msgctxt "256"
+msgid ""
+"It's all thanks to Kaede-chan! She said that someone named\r\n"
+"Kiryu convinced her to come to Tokyo."
+msgstr ""
+
+msgctxt "292"
+msgid "I had an inkling that might've been you. Turns out it was!"
+msgstr ""
+
+msgctxt "304"
+msgid "Looks like business is booming."
+msgstr ""
+
+msgctxt "316"
+msgid ""
+"It's all thanks to Kaede-chan! She said that someone named\r\n"
+"Kiryu convinced her to come to Tokyo."
+msgstr ""
+
+msgctxt "328"
+msgid ""
+"And she's simply amazing! Here, take this. A token\r\n"
+"of my thanks."
+msgstr ""
+
+msgctxt "340"
+msgid "You got <Color:8>50,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "352"
+msgid ""
+"I just kept getting fired from job after job... I was\r\n"
+"starting to think that I couldn't make it in Tokyo. But\r\n"
+"after coming here, I know I just gotta keep trying my best!"
+msgstr ""
+
+msgctxt "364"
+msgid "That's the spirit. This place might be a good fit for you."
+msgstr ""
+
+msgctxt "376"
+msgid ""
+"We're completely packed right now, so you'll have to\r\n"
+"swing by again later. When you do, it'll be on the house,\r\n"
+"Kiryu-san!"
+msgstr ""
+
+msgctxt "400"
+msgid "You got 3,000 EXP."
+msgstr ""
+
+msgctxt "5756"
+msgid "Kaede"
+msgstr ""
+
+msgctxt "5760"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "5764"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "5768"
+msgid "Fatigued Father"
+msgstr ""
+
+msgctxt "5772"
+msgid "Talk_Kansin"
+msgstr ""
+
+msgctxt "5776"
+msgid "Forlorn Father"
+msgstr ""
+
+msgctxt "5780"
+msgid "Talk_Request"
+msgstr ""
+
+msgctxt "5784"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "5788"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "5792"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "5796"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "5800"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "5804"
+msgid "Frazzled Father"
+msgstr ""
+
+msgctxt "5808"
+msgid "Earth Angel Proprietress"
+msgstr ""
+
+msgctxt "5812"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "5816"
+msgid "Sync_Send"
+msgstr ""

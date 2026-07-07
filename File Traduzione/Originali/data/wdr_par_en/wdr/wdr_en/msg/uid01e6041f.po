@@ -1,0 +1,414 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "164"
+msgid ""
+"Kiryu-san? It's me, Shibayama, the guy who asked you to\r\n"
+"help collect that loan."
+msgstr ""
+
+msgctxt "176"
+msgid "Oh, hey. What's going on?"
+msgstr ""
+
+msgctxt "188"
+msgid ""
+"It looks like Motoyama isn't in the Champion District\r\n"
+"anymore."
+msgstr ""
+
+msgctxt "200"
+msgid ""
+"Sorry for the extra trouble, but do you think you could\r\n"
+"find out where he is now?"
+msgstr ""
+
+msgctxt "212"
+msgid "...All right. Sorry I didn't get to him in time."
+msgstr ""
+
+msgctxt "224"
+msgid ""
+"Nah, I'm the one who should be apologizing for all this\r\n"
+"trouble. Well, good luck!"
+msgstr ""
+
+msgctxt "272"
+msgid "Guess I'll just have to have another look around Kamurocho."
+msgstr ""
+
+msgctxt "284"
+msgid ""
+"Well, I managed to catch Motoyama, but he'd already spent\r\n"
+"the 1,000,000 yen."
+msgstr ""
+
+msgctxt "296"
+msgid ""
+"Looks like we won't be able to collect that loan today\r\n"
+"after all..."
+msgstr ""
+
+msgctxt "308"
+msgid "I see..."
+msgstr ""
+
+msgctxt "320"
+msgid "Sorry about all that running around I made you do..."
+msgstr ""
+
+msgctxt "332"
+msgid "Guess this means I won't be needing your help anymore..."
+msgstr ""
+
+msgctxt "344"
+msgid "All right. Sorry I couldn't help."
+msgstr ""
+
+msgctxt "356"
+msgid ""
+"You helped plenty! You taught me a lot, and I'm really\r\n"
+"grateful for that."
+msgstr ""
+
+msgctxt "368"
+msgid "Well, bye, now. Thanks again."
+msgstr ""
+
+msgctxt "440"
+msgid "You got 3,000 EXP."
+msgstr ""
+
+msgctxt "488"
+msgid ""
+"Kiryu-san? It's me, Shibayama, the guy who asked you to\r\n"
+"help collect that loan."
+msgstr ""
+
+msgctxt "500"
+msgid "Oh, hey. What's going on?"
+msgstr ""
+
+msgctxt "512"
+msgid "It looks like Motoyama isn't at Smile Burger anymore."
+msgstr ""
+
+msgctxt "524"
+msgid ""
+"Sorry for the extra trouble, but do you think you could\r\n"
+"find out where he is now?"
+msgstr ""
+
+msgctxt "536"
+msgid "...All right. Sorry I didn't get to him in time."
+msgstr ""
+
+msgctxt "548"
+msgid ""
+"Nah, I'm the one who should be apologizing for all this\r\n"
+"trouble. Well, good luck!"
+msgstr ""
+
+msgctxt "596"
+msgid "Guess I'll just have to have another look around Kamurocho."
+msgstr ""
+
+msgctxt "608"
+msgid ""
+"Well, I managed to catch Motoyama, but he'd already spent\r\n"
+"the 1,000,000 yen."
+msgstr ""
+
+msgctxt "620"
+msgid ""
+"Looks like we won't be able to collect that loan today\r\n"
+"after all..."
+msgstr ""
+
+msgctxt "632"
+msgid "I see..."
+msgstr ""
+
+msgctxt "644"
+msgid "Sorry about all that running around I made you do..."
+msgstr ""
+
+msgctxt "656"
+msgid "Guess this means I won't be needing your help anymore..."
+msgstr ""
+
+msgctxt "668"
+msgid "All right. Sorry I couldn't help."
+msgstr ""
+
+msgctxt "680"
+msgid ""
+"You helped plenty! You taught me a lot, and I'm really\r\n"
+"grateful for that."
+msgstr ""
+
+msgctxt "692"
+msgid "Well, bye, now. Thanks again."
+msgstr ""
+
+msgctxt "764"
+msgid "You got 3,000 EXP."
+msgstr ""
+
+msgctxt "812"
+msgid ""
+"Kiryu-san? It's me, Shibayama, the guy who asked you to\r\n"
+"help collect that loan."
+msgstr ""
+
+msgctxt "824"
+msgid "Oh, hey. What's going on?"
+msgstr ""
+
+msgctxt "836"
+msgid "It looks like Motoyama isn't at the bowling alley anymore."
+msgstr ""
+
+msgctxt "848"
+msgid ""
+"Sorry for the extra trouble, but do you think you could\r\n"
+"find out where he is now?"
+msgstr ""
+
+msgctxt "860"
+msgid "...All right. Sorry I didn't get to him in time."
+msgstr ""
+
+msgctxt "872"
+msgid ""
+"Nah, I'm the one who should be apologizing for all this\r\n"
+"trouble. Well, good luck!"
+msgstr ""
+
+msgctxt "920"
+msgid "Guess I'll just have to have another look around Kamurocho."
+msgstr ""
+
+msgctxt "932"
+msgid ""
+"Well, I managed to catch Motoyama, but he'd already spent\r\n"
+"the 1,000,000 yen."
+msgstr ""
+
+msgctxt "944"
+msgid ""
+"Looks like we won't be able to collect that loan today\r\n"
+"after all..."
+msgstr ""
+
+msgctxt "956"
+msgid "I see..."
+msgstr ""
+
+msgctxt "968"
+msgid "Sorry about all that running around I made you do..."
+msgstr ""
+
+msgctxt "980"
+msgid "Guess this means I won't be needing your help anymore..."
+msgstr ""
+
+msgctxt "992"
+msgid "All right. Sorry I couldn't help."
+msgstr ""
+
+msgctxt "1004"
+msgid ""
+"You helped plenty! You taught me a lot, and I'm really\r\n"
+"grateful for that."
+msgstr ""
+
+msgctxt "1016"
+msgid "Well, bye, now. Thanks again."
+msgstr ""
+
+msgctxt "1088"
+msgid "You got 3,000 EXP."
+msgstr ""
+
+msgctxt "1136"
+msgid ""
+"Kiryu-san? It's me, Shibayama, the guy who asked you to\r\n"
+"help collect that loan."
+msgstr ""
+
+msgctxt "1148"
+msgid "Oh, hey. What's going on?"
+msgstr ""
+
+msgctxt "1160"
+msgid "It looks like Motoyama isn't on Park Boulevard anymore."
+msgstr ""
+
+msgctxt "1172"
+msgid ""
+"Sorry for the extra trouble, but do you think you could\r\n"
+"find out where he is now?"
+msgstr ""
+
+msgctxt "1184"
+msgid "...All right. Sorry I didn't get to him in time."
+msgstr ""
+
+msgctxt "1196"
+msgid ""
+"Nah, I'm the one who should be apologizing for all this\r\n"
+"trouble. Well, good luck!"
+msgstr ""
+
+msgctxt "1244"
+msgid "Guess I'll just have to have another look around Kamurocho."
+msgstr ""
+
+msgctxt "1256"
+msgid ""
+"Well, I managed to catch Motoyama, but he'd already spent\r\n"
+"the 1,000,000 yen."
+msgstr ""
+
+msgctxt "1268"
+msgid ""
+"Looks like we won't be able to collect that loan today\r\n"
+"after all..."
+msgstr ""
+
+msgctxt "1280"
+msgid "I see..."
+msgstr ""
+
+msgctxt "1292"
+msgid "Sorry about all that running around I made you do..."
+msgstr ""
+
+msgctxt "1304"
+msgid "Guess this means I won't be needing your help anymore..."
+msgstr ""
+
+msgctxt "1316"
+msgid "All right. Sorry I couldn't help."
+msgstr ""
+
+msgctxt "1328"
+msgid ""
+"You helped plenty! You taught me a lot, and I'm really\r\n"
+"grateful for that."
+msgstr ""
+
+msgctxt "1340"
+msgid "Well, bye, now. Thanks again."
+msgstr ""
+
+msgctxt "1412"
+msgid "You got 3,000 EXP."
+msgstr ""
+
+msgctxt "1460"
+msgid ""
+"Kiryu-san? It's me, Shibayama, the guy who asked you to\r\n"
+"help collect that loan."
+msgstr ""
+
+msgctxt "1472"
+msgid "Oh, hey. What's going on?"
+msgstr ""
+
+msgctxt "1484"
+msgid "It looks like Motoyama has left Pink Street."
+msgstr ""
+
+msgctxt "1496"
+msgid ""
+"Sorry for the extra trouble, but do you think you could\r\n"
+"find out where he is now?"
+msgstr ""
+
+msgctxt "1508"
+msgid "...All right. Sorry I didn't get to him in time."
+msgstr ""
+
+msgctxt "1520"
+msgid ""
+"Nah, I'm the one who should be apologizing for all this\r\n"
+"trouble. Well, good luck!"
+msgstr ""
+
+msgctxt "1568"
+msgid "Guess I'll just have to have another look around Kamurocho."
+msgstr ""
+
+msgctxt "1580"
+msgid ""
+"Well, I managed to catch Motoyama, but he'd already spent\r\n"
+"the 1,000,000 yen."
+msgstr ""
+
+msgctxt "1592"
+msgid ""
+"Looks like we won't be able to collect that loan today\r\n"
+"after all..."
+msgstr ""
+
+msgctxt "1604"
+msgid "I see..."
+msgstr ""
+
+msgctxt "1616"
+msgid "Sorry about all that running around I made you do..."
+msgstr ""
+
+msgctxt "1628"
+msgid "Guess this means I won't be needing your help anymore..."
+msgstr ""
+
+msgctxt "1640"
+msgid "All right. Sorry I couldn't help."
+msgstr ""
+
+msgctxt "1652"
+msgid ""
+"You helped plenty! You taught me a lot, and I'm really\r\n"
+"grateful for that."
+msgstr ""
+
+msgctxt "1664"
+msgid "Well, bye, now. Thanks again."
+msgstr ""
+
+msgctxt "1736"
+msgid "You got 3,000 EXP."
+msgstr ""
+
+msgctxt "15132"
+msgid "P_stand_tlk_phone_st"
+msgstr ""
+
+msgctxt "15136"
+msgid "Shibayama the Loan Shark"
+msgstr ""
+
+msgctxt "15140"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "15144"
+msgid "P_stand_tlk_phone_ed"
+msgstr ""
+
+msgctxt "15148"
+msgid "dummy"
+msgstr ""

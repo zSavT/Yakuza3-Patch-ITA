@@ -1,0 +1,44 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "176"
+msgid "Thanks, Uncle Kaz!"
+msgstr ""
+
+msgctxt "188"
+msgid "That really hit the spot!"
+msgstr ""
+
+msgctxt "212"
+msgid "Oh..."
+msgstr ""
+
+msgctxt "236"
+msgid "Uncle Kaz!"
+msgstr ""
+
+msgctxt "248"
+msgid "All this walking around is making me tired..."
+msgstr ""
+
+msgctxt "260"
+msgid "I'm sure drinking a <Color:8>Toughness Z<Color:Default> will help!"
+msgstr ""
+
+msgctxt "284"
+msgid "Uncle Kaz... I can't go another step...!"
+msgstr ""
+
+msgctxt "296"
+msgid "Only a <Color:8>Tauriner<Color:Default> can save me...!"
+msgstr ""

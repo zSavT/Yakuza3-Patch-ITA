@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "126\t172"
+msgid "Fine then."
+msgstr ""
+
+msgctxt "247\t323"
+msgid "I'll go talk to Saki myself."
+msgstr ""
+
+msgctxt "325\t398"
+msgid "Huh? The hell're you doin'!?"
+msgstr ""
+
+msgctxt "400\t472"
+msgid "The same thing you did three years ago."
+msgstr ""
+
+msgctxt "474\t612"
+msgid ""
+"She needs help now more than ever,\\n"
+"and I'm not about to let her down."
+msgstr ""
+
+msgctxt "614\t742"
+msgid ""
+"Hold on there! If you think this'll\\n"
+"change my mind about the land..."
+msgstr ""
+
+msgctxt "744\t759"
+msgid "Don't worry."
+msgstr ""
+
+msgctxt "879\t1062"
+msgid ""
+"I just want to get Saki home safe.\\n"
+"The land has nothing to do with it."
+msgstr ""
+
+msgctxt "1064\t1147"
+msgid "That's a conversation for another time."
+msgstr ""
+
+msgctxt "1158\t1266"
+msgid ""
+"Saki's the only thing\\n"
+"I'm thinking about right now."
+msgstr ""
+
+msgctxt "1287\t1339"
+msgid "You..."
+msgstr ""
+
+msgctxt "1358\t1453"
+msgid "And I'll be borrowing one of your boys."
+msgstr ""
+
+msgctxt "1506\t1555"
+msgid "Let's go, Rikiya."
+msgstr ""
+
+msgctxt "1558\t1620"
+msgid "Coming, Aniki!"
+msgstr ""

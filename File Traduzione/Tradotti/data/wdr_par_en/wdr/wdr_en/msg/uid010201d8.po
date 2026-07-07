@@ -1,0 +1,176 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid "Rikiya! Oh, thank god it's you!"
+msgstr ""
+
+msgctxt "76"
+msgid "Something terrible's happened!"
+msgstr ""
+
+msgctxt "88"
+msgid "All right, all right. Calm down and tell me what's going on."
+msgstr ""
+
+msgctxt "100"
+msgid "It's Saki-chan!"
+msgstr ""
+
+msgctxt "112"
+msgid "Huh? What about her!?"
+msgstr ""
+
+msgctxt "124"
+msgid ""
+"I... I saw her in Hatsumachi with some woman I've never\r\n"
+"seen before! Somethin' felt real off about the whole thing."
+msgstr ""
+
+msgctxt "136"
+msgid "And you're sure it was her?"
+msgstr ""
+
+msgctxt "148"
+msgid ""
+"Oh, well if it isn't the dashing young fella from before.\r\n"
+"This must be fate!"
+msgstr ""
+
+msgctxt "160"
+msgid ""
+"C'mon, we don't got time for your hopeless flirtin'!\r\n"
+"Let's try and focus!"
+msgstr ""
+
+msgctxt "172"
+msgid "Where did you see Saki?"
+msgstr ""
+
+msgctxt "184"
+msgid ""
+"Coming outta the convenience store over at the intersection.\r\n"
+"With some woman who was absolutely dressed to the nines."
+msgstr ""
+
+msgctxt "196"
+msgid "I wonder who she was..."
+msgstr ""
+
+msgctxt "208"
+msgid "Maybe Saki's mother."
+msgstr ""
+
+msgctxt "220"
+msgid "Then... you really think she went back?"
+msgstr ""
+
+msgctxt "232"
+msgid ""
+"Hard to say. The only way to know for sure is to find\r\n"
+"her and ask."
+msgstr ""
+
+msgctxt "244"
+msgid "...I guess."
+msgstr ""
+
+msgctxt "256"
+msgid "By the way, Rikiya. You gonna have a party tonight?"
+msgstr ""
+
+msgctxt "268"
+msgid ""
+"A party? Aw, shit! It's the boss's birthday! I've been so\r\n"
+"distracted, it totally slipped my mind!"
+msgstr ""
+
+msgctxt "280"
+msgid ""
+"He's not gonna be in any mood for celebration if we can't\r\n"
+"find Saki, though..."
+msgstr ""
+
+msgctxt "292"
+msgid ""
+"Then we're not doing ourselves any favors by standing\r\n"
+"around. Come on, let's go."
+msgstr ""
+
+msgctxt "304"
+msgid "Right. We gotta bring her back, even if it's just for today."
+msgstr ""
+
+msgctxt "316"
+msgid "Let's move, Aniki!"
+msgstr ""
+
+msgctxt "4732"
+msgid "Worried Old Woman"
+msgstr ""
+
+msgctxt "4736"
+msgid "0"
+msgstr ""
+
+msgctxt "4740"
+msgid "Rikiya"
+msgstr ""
+
+msgctxt "4744"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "4748"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "4752"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "4756"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "4760"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "4764"
+msgid "Charmed Old Woman"
+msgstr ""
+
+msgctxt "4768"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "4772"
+msgid "Talk_Info_R"
+msgstr ""
+
+msgctxt "4776"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "4780"
+msgid "Chatty Old Woman"
+msgstr ""
+
+msgctxt "4784"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "4788"
+msgid "Talk_OK"
+msgstr ""

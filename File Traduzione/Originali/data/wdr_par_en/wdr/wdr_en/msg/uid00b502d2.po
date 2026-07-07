@@ -1,0 +1,101 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "80"
+msgid "I... I won't let anybody take my mew-mew away! I'll protect you, Snuggles!"
+msgstr ""
+
+msgctxt "92"
+msgid ""
+"I'm not trying to take anyone. Your cat was hanging out near that bar over "
+"there. Maybe it got out on its own."
+msgstr ""
+
+msgctxt "104"
+msgid "Huh...? Is that really what happened?"
+msgstr ""
+
+msgctxt "116"
+msgid "Meow."
+msgstr ""
+
+msgctxt "128"
+msgid ""
+"Sorry for the trouble, buddy. It's just that my cat's such a\r\n"
+"cute widdle cuddlebug, I couldn't rule out a kidnapping,\r\n"
+"ya know?"
+msgstr ""
+
+msgctxt "140"
+msgid ""
+"Take this as an apology. You look like a fellow cat lover,\r\n"
+"so it oughta do ya some good."
+msgstr ""
+
+msgctxt "152"
+msgid "You got a <Color:8>Catnip Stick<Color:Default>."
+msgstr ""
+
+msgctxt "176"
+msgid "Well, have a good one."
+msgstr ""
+
+msgctxt "200"
+msgid ""
+"(So that was the Devil Cat... Looks like it really does\r\n"
+"bring people bad luck.)"
+msgstr ""
+
+msgctxt "2104"
+msgid "Punk"
+msgstr ""
+
+msgctxt "2108"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "2112"
+msgid "Talk_Kosite_st"
+msgstr ""
+
+msgctxt "2116"
+msgid "M_ykz_stand_tlk_kamae"
+msgstr ""
+
+msgctxt "2120"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "2124"
+msgid "Cat"
+msgstr ""
+
+msgctxt "2128"
+msgid "Talk_Kosite_ed"
+msgstr ""
+
+msgctxt "2132"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "2136"
+msgid "Sync_Send"
+msgstr ""
+
+msgctxt "2140"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "2144"
+msgid "Talk_Think"
+msgstr ""

@@ -1,0 +1,260 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "124"
+msgid ""
+"Everyone who's into Okinawan cuisine raves about this place. Hope you're "
+"ready to eat."
+msgstr ""
+
+msgctxt "136"
+msgid "Yeah, I am. Why don't we head inside?"
+msgstr ""
+
+msgctxt "160"
+msgid ""
+"Everyone who's into Okinawan cuisine raves about this place. Hope you're "
+"ready to eat."
+msgstr ""
+
+msgctxt "172"
+msgid "I am, but... I just realized I'm a little short on cash."
+msgstr ""
+
+msgctxt "184"
+msgid "Huh? What are you trying to say here?"
+msgstr ""
+
+msgctxt "196"
+msgid "I'm saying I don't think we can go out today. Sorry."
+msgstr ""
+
+msgctxt "208"
+msgid "*sigh* Then maybe I should just go home. Bye..."
+msgstr ""
+
+msgctxt "220"
+msgid "(...That was no way to treat a lady. Next time, I'll make sure to save up.)"
+msgstr ""
+
+msgctxt "328"
+msgid "Mmm... That was amazing. <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "340"
+msgid "I'm glad you enjoyed it."
+msgstr ""
+
+msgctxt "352"
+msgid "Oh yeah. I love the food here. <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "364"
+msgid "Take me out again sometime, yeah? <Color:7>⑮<Color:Default> Well, see ya."
+msgstr ""
+
+msgctxt "388"
+msgid "Thanks for taking me out."
+msgstr ""
+
+msgctxt "400"
+msgid "Sure thing."
+msgstr ""
+
+msgctxt "412"
+msgid "The food here is always fantastic. You knew just the place to pick."
+msgstr ""
+
+msgctxt "424"
+msgid "Take me out again sometime, okay? Well, see ya."
+msgstr ""
+
+msgctxt "448"
+msgid "......"
+msgstr ""
+
+msgctxt "460"
+msgid "Something wrong?"
+msgstr ""
+
+msgctxt "472"
+msgid "No, not really... I guess I just wasn't feeling the menu today."
+msgstr ""
+
+msgctxt "484"
+msgid "Oh. Sorry about that."
+msgstr ""
+
+msgctxt "496"
+msgid ""
+"It's fine. I'll probably just call it a day. Guess I'll see you at the "
+"club..."
+msgstr ""
+
+msgctxt "508"
+msgid ""
+"(I should probably match her preferences next time... Especially when it "
+"comes to food.)"
+msgstr ""
+
+msgctxt "532"
+msgid ""
+"Major error!\r\n"
+"No flags set for conversation selection!"
+msgstr ""
+
+msgctxt "616"
+msgid ""
+"Everyone who's into Okinawan cuisine raves about this place. Hope you're "
+"ready to eat."
+msgstr ""
+
+msgctxt "628"
+msgid "Yeah, I am. Why don't we head inside?"
+msgstr ""
+
+msgctxt "652"
+msgid ""
+"Everyone who's into Okinawan cuisine raves about this place. Hope you're "
+"ready to eat."
+msgstr ""
+
+msgctxt "664"
+msgid "I am, but... I just realized I'm a little short on cash."
+msgstr ""
+
+msgctxt "676"
+msgid "Huh? What are you trying to say here?"
+msgstr ""
+
+msgctxt "688"
+msgid "I'm saying I don't think we can go out today. Sorry."
+msgstr ""
+
+msgctxt "700"
+msgid "*sigh* Then maybe I should just go home. Bye..."
+msgstr ""
+
+msgctxt "712"
+msgid "(...That was no way to treat a lady. Next time, I'll make sure to save up.)"
+msgstr ""
+
+msgctxt "820"
+msgid "Mmm... That was amazing. <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "832"
+msgid "I'm glad you enjoyed it."
+msgstr ""
+
+msgctxt "844"
+msgid "Oh yeah. I love the food here. <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "856"
+msgid "Shall we head over to the club now?"
+msgstr ""
+
+msgctxt "868"
+msgid "Yeah, let's do that."
+msgstr ""
+
+msgctxt "892"
+msgid "Thanks for taking me out."
+msgstr ""
+
+msgctxt "904"
+msgid "Sure thing."
+msgstr ""
+
+msgctxt "916"
+msgid "The food here is always fantastic. You knew just the place to pick."
+msgstr ""
+
+msgctxt "928"
+msgid "Shall we head over to the club now?"
+msgstr ""
+
+msgctxt "940"
+msgid "Yeah, let's do that."
+msgstr ""
+
+msgctxt "964"
+msgid "......"
+msgstr ""
+
+msgctxt "976"
+msgid "Something wrong?"
+msgstr ""
+
+msgctxt "988"
+msgid "No, not really... I guess I just wasn't feeling the menu today."
+msgstr ""
+
+msgctxt "1000"
+msgid "Oh. Sorry about that."
+msgstr ""
+
+msgctxt "1012"
+msgid ""
+"Well, whatever. Why don't we just head on over to the club and have "
+"ourselves a good time?"
+msgstr ""
+
+msgctxt "1024"
+msgid ""
+"(I should probably match her preferences next time... Especially when it "
+"comes to food.)"
+msgstr ""
+
+msgctxt "1048"
+msgid ""
+"Major error!\r\n"
+"No flags set for conversation selection!"
+msgstr ""
+
+msgctxt "12504"
+msgid "Nao"
+msgstr ""
+
+msgctxt "12508"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "12512"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "12516"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "12520"
+msgid "dummy"
+msgstr ""
+
+msgctxt "12524"
+msgid "0"
+msgstr ""
+
+msgctxt "12528"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "12532"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "12536"
+msgid "Talk_No"
+msgstr ""

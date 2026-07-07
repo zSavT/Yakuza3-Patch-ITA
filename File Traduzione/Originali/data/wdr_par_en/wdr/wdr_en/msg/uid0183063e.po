@@ -1,0 +1,346 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "184"
+msgid "Nnnnngh... Who the hell are you!?"
+msgstr ""
+
+msgctxt "196"
+msgid "I don't tell my name to pieces of dirt like you. Now, get out of here."
+msgstr ""
+
+msgctxt "208"
+msgid "Damn it!"
+msgstr ""
+
+msgctxt "292"
+msgid "I don't know what to say... Thank you very much!"
+msgstr ""
+
+msgctxt "304"
+msgid ""
+"You should pick your clubs more carefully. It might not end so well next "
+"time."
+msgstr ""
+
+msgctxt "316"
+msgid "I've learned my lesson, believe me. I'll go straight home from now on."
+msgstr ""
+
+msgctxt "328"
+msgid "I'm sorry it isn't more, but please take this with my thanks."
+msgstr ""
+
+msgctxt "340"
+msgid "You got <Color:8>20,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "352"
+msgid "Be careful on the way home!"
+msgstr ""
+
+msgctxt "364"
+msgid ""
+"Haha... It's kind of sad to have a little girl giving me advice like that, "
+"but thanks!"
+msgstr ""
+
+msgctxt "376"
+msgid "Thanks, Uncle Kaz!"
+msgstr ""
+
+msgctxt "388"
+msgid "(Haruka seems happy...)"
+msgstr ""
+
+msgctxt "436"
+msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
+msgstr ""
+
+msgctxt "448"
+msgid "You got <Color:8>Haruka's Necklace<Color:Default>."
+msgstr ""
+
+msgctxt "496"
+msgid ""
+"Thanks a ton, Uncle Kaz! I wanna come with you to play\r\n"
+"cho-han with you next time, okay?"
+msgstr ""
+
+msgctxt "508"
+msgid ""
+"Haruka will now occasionally predict the outcome of a round\r\n"
+"when you are playing cho-han."
+msgstr ""
+
+msgctxt "544"
+msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
+msgstr ""
+
+msgctxt "556"
+msgid "You got <Color:8>Haruka's Bento<Color:Default>."
+msgstr ""
+
+msgctxt "604"
+msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
+msgstr ""
+
+msgctxt "616"
+msgid "You got <Color:8>Haruka's First-Aid Kit<Color:Default>."
+msgstr ""
+
+msgctxt "664"
+msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
+msgstr ""
+
+msgctxt "676"
+msgid "You got a <Color:8>Red Jewel<Color:Default>."
+msgstr ""
+
+msgctxt "724"
+msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
+msgstr ""
+
+msgctxt "736"
+msgid "You got <Color:8>Haruka's Amulet<Color:Default>."
+msgstr ""
+
+msgctxt "784"
+msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
+msgstr ""
+
+msgctxt "796"
+msgid "You got <Color:8>Haruka's Chocolate<Color:Default>."
+msgstr ""
+
+msgctxt "844"
+msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
+msgstr ""
+
+msgctxt "856"
+msgid "You got <Color:8>Haruka's Candy<Color:Default>."
+msgstr ""
+
+msgctxt "940"
+msgid "I... I..."
+msgstr ""
+
+msgctxt "952"
+msgid "Uncle Kaz..."
+msgstr ""
+
+msgctxt "964"
+msgid "(Haruka wants me to help...)"
+msgstr ""
+
+msgctxt "976"
+msgid "(This has nothing to do with us.)"
+msgstr ""
+
+msgctxt "988"
+msgid "Let's go, Haruka."
+msgstr ""
+
+msgctxt "1000"
+msgid "Uncle Kaz..."
+msgstr ""
+
+msgctxt "1012"
+msgid "Oh, all right. You stay here, Haruka."
+msgstr ""
+
+msgctxt "1024"
+msgid "Okay..."
+msgstr ""
+
+msgctxt "1036"
+msgid "Hey."
+msgstr ""
+
+msgctxt "1048"
+msgid ""
+"Are you friends with this deadbeat? You can pay instead if you've got "
+"200,000 yen..."
+msgstr ""
+
+msgctxt "1060"
+msgid "Taking advantage of innocent people like this... You're just a little punk."
+msgstr ""
+
+msgctxt "1072"
+msgid "Huh!? You're gonna lecture us on morality!?"
+msgstr ""
+
+msgctxt "1084"
+msgid "Let me thank you by beating the shit out of you!"
+msgstr ""
+
+msgctxt "1108"
+msgid "Uncle Kaz! Look!"
+msgstr ""
+
+msgctxt "1120"
+msgid "Hey, wait a minute! Don't tell me you can't pay!"
+msgstr ""
+
+msgctxt "1132"
+msgid "But you said it was gonna be 10,000 yen..."
+msgstr ""
+
+msgctxt "1144"
+msgid ""
+"I don't recall saying any such thing. Your bill comes to 200,000 yen. Now, "
+"pay up!"
+msgstr ""
+
+msgctxt "1156"
+msgid "But..."
+msgstr ""
+
+msgctxt "1168"
+msgid "Uncle Kaz..."
+msgstr ""
+
+msgctxt "1180"
+msgid "(Haruka wants me to help...)"
+msgstr ""
+
+msgctxt "1192"
+msgid "(This has nothing to do with us.)"
+msgstr ""
+
+msgctxt "1204"
+msgid "Let's go, Haruka."
+msgstr ""
+
+msgctxt "1216"
+msgid "Uncle Kaz..."
+msgstr ""
+
+msgctxt "1228"
+msgid "All right. You stay here, Haruka."
+msgstr ""
+
+msgctxt "1240"
+msgid "Yeah..."
+msgstr ""
+
+msgctxt "1252"
+msgid "Hey."
+msgstr ""
+
+msgctxt "1264"
+msgid ""
+"Are you friends with this deadbeat? You can pay instead if you've got "
+"200,000 yen..."
+msgstr ""
+
+msgctxt "1276"
+msgid "Taking advantage of innocent people like this... You're just a little punk."
+msgstr ""
+
+msgctxt "1288"
+msgid "Huh!? You're gonna lecture us on morality!?"
+msgstr ""
+
+msgctxt "1300"
+msgid "Let me thank you by beating the shit out of you!"
+msgstr ""
+
+msgctxt "1324"
+msgid "Help Him"
+msgstr ""
+
+msgctxt "1336"
+msgid "Stay Out Of It"
+msgstr ""
+
+msgctxt "1348"
+msgid "Help Him"
+msgstr ""
+
+msgctxt "1360"
+msgid "Stay Out Of It"
+msgstr ""
+
+msgctxt "11548"
+msgid "Rip-Off Artist"
+msgstr ""
+
+msgctxt "11552"
+msgid "M_ykz_damage"
+msgstr ""
+
+msgctxt "11556"
+msgid "M_ykzs_damage"
+msgstr ""
+
+msgctxt "11560"
+msgid "M_big_damage"
+msgstr ""
+
+msgctxt "11564"
+msgid "Idle"
+msgstr ""
+
+msgctxt "11568"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "11572"
+msgid "Businessman"
+msgstr ""
+
+msgctxt "11576"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "11580"
+msgid "Talk_Send"
+msgstr ""
+
+msgctxt "11584"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "11588"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "11592"
+msgid "dummy"
+msgstr ""
+
+msgctxt "11596"
+msgid "0"
+msgstr ""
+
+msgctxt "11600"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "11604"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "11608"
+msgid "Talk_Chohatu"
+msgstr ""
+
+msgctxt "11612"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "11616"
+msgid "Talk_Call"
+msgstr ""

@@ -1,0 +1,144 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "92"
+msgid "(A girl in a straw hat...? Is this the lost kid?)"
+msgstr ""
+
+msgctxt "104"
+msgid "Hey. Is your name Sakura, by any chance?"
+msgstr ""
+
+msgctxt "116"
+msgid ""
+"That's right, mister. But why...? Oh, I know! You must have seen me on TV, "
+"right?"
+msgstr ""
+
+msgctxt "128"
+msgid ""
+"(That woman said something about TV, didn't she? I guess this must be "
+"Sakura.)"
+msgstr ""
+
+msgctxt "140"
+msgid "(I'll go get her mother.)"
+msgstr ""
+
+msgctxt "152"
+msgid "Your mother's been looking for you. Wait here⑬I'll go get her."
+msgstr ""
+
+msgctxt "248"
+msgid "Sakura! Where on earth have you been!?"
+msgstr ""
+
+msgctxt "260"
+msgid "Huh!? Who are you?"
+msgstr ""
+
+msgctxt "272"
+msgid "Wait, are you... <Italic>the</Italic> Sakura-chan?"
+msgstr ""
+
+msgctxt "284"
+msgid "Hold on, you said you were looking for your daughter. Is this Sakura or not?"
+msgstr ""
+
+msgctxt "296"
+msgid "Well, ah, that <Italic>is</Italic> my daughter's name, but..."
+msgstr ""
+
+msgctxt "308"
+msgid "I'm Kanako Sakura. What's going on here?"
+msgstr ""
+
+msgctxt "320"
+msgid "...Huh?"
+msgstr ""
+
+msgctxt "332"
+msgid ""
+"Don't tell me you don't recognize her! She's a famous TV celebrity! My "
+"daughter's a big fan."
+msgstr ""
+
+msgctxt "344"
+msgid "This is turning into a bigger headache than I was expecting..."
+msgstr ""
+
+msgctxt "356"
+msgid "But I do think that's the same hat my Sakura was wearing."
+msgstr ""
+
+msgctxt "368"
+msgid ""
+"You mean this? Isn't it adorable? I swapped hats with a girl I met over "
+"there."
+msgstr ""
+
+msgctxt "380"
+msgid "She wanted the baseball cap I was wearing."
+msgstr ""
+
+msgctxt "392"
+msgid "Well, she's your biggest fan! No wonder she wanted to trade."
+msgstr ""
+
+msgctxt "404"
+msgid ""
+"I'm sorry to bother you again, but, ah... would you mind looking for my "
+"daughter again? My Sakura?"
+msgstr ""
+
+msgctxt "416"
+msgid ""
+"I guess not... So now we're looking for a girl in a baseball cap, right? "
+"I'll see if I can find her."
+msgstr ""
+
+msgctxt "4572"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "4576"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "4580"
+msgid "Sakura"
+msgstr ""
+
+msgctxt "4584"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "4588"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "4592"
+msgid "0"
+msgstr ""
+
+msgctxt "4596"
+msgid "Mother"
+msgstr ""
+
+msgctxt "4600"
+msgid "Kanako Sakura"
+msgstr ""
+
+msgctxt "4604"
+msgid "Talk_Smile"
+msgstr ""

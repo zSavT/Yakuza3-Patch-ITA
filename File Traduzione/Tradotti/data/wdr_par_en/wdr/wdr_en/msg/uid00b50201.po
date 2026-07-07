@@ -1,0 +1,74 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "76"
+msgid "This the right hotel?"
+msgstr ""
+
+msgctxt "88"
+msgid "Yes, thank you!"
+msgstr ""
+
+msgctxt "100"
+msgid ""
+"Ooh, I'm going to buy a few drinks at the convenience store!\r\n"
+"Could you go up to my room and wait for me? It's the suite\r\n"
+"on the top floor!"
+msgstr ""
+
+msgctxt "112"
+msgid "Wait, how am I supposed to get in there without a key?"
+msgstr ""
+
+msgctxt "124"
+msgid ""
+"My friend Aoi came out to Kamurocho with me, and she should\r\n"
+"be up in the room already. Just tell her you know me. I'm\r\n"
+"sure it'll be fine!"
+msgstr ""
+
+msgctxt "136"
+msgid "Remember, it's the suite on the top floor!"
+msgstr ""
+
+msgctxt "148"
+msgid "Got it."
+msgstr ""
+
+msgctxt "1428"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1432"
+msgid "Tomoko"
+msgstr ""
+
+msgctxt "1436"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "1440"
+msgid "Talk_Info_L"
+msgstr ""
+
+msgctxt "1444"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "1448"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "1452"
+msgid "Talk_Yes"
+msgstr ""

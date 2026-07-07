@@ -1,0 +1,72 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "756\t816"
+msgid "It's you."
+msgstr ""
+
+msgctxt "1040\t1100"
+msgid "What are you doing here?"
+msgstr ""
+
+msgctxt "1144\t1242"
+msgid "Looks like you're a little late."
+msgstr ""
+
+msgctxt "1243\t1336"
+msgid "You just missed him."
+msgstr ""
+
+msgctxt "1464\t1541"
+msgid "If I'd known it would have come to this..."
+msgstr ""
+
+msgctxt "1542\t1664"
+msgid "I'd have killed you when first we met."
+msgstr ""
+
+msgctxt "1665\t1725"
+msgid "What?"
+msgstr ""
+
+msgctxt "1734\t1827"
+msgid ""
+"Where's Daigo?\\n"
+"What did you do with him!?"
+msgstr ""
+
+msgctxt "1832\t2012"
+msgid ""
+"If you're looking for Daigo, \\n"
+"Mine's taken him up to the roof."
+msgstr ""
+
+msgctxt "2049\t2109"
+msgid "The roof, huh?"
+msgstr ""
+
+msgctxt "2278\t2463"
+msgid ""
+"And let me guess. If I want to get up there,\\n"
+"I'll need to go through you."
+msgstr ""
+
+msgctxt "2483\t2577"
+msgid "You're welcome to try."
+msgstr ""
+
+msgctxt "2578\t2760"
+msgid ""
+"This is the end of the line\\n"
+"for you, Kazuma Kiryu!"
+msgstr ""

@@ -1,0 +1,84 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "108"
+msgid "Hey, over here. I wanted to talk to you."
+msgstr ""
+
+msgctxt "120"
+msgid "......"
+msgstr ""
+
+msgctxt "132"
+msgid "You're upsetting the staff. Can we just talk?"
+msgstr ""
+
+msgctxt "144"
+msgid ""
+"What... Don't tell me you like Rumi-chan, too? I'm telling\r\n"
+"you, she dances for me, and alone!"
+msgstr ""
+
+msgctxt "156"
+msgid "I could care less about the dancers. Just come with me."
+msgstr ""
+
+msgctxt "168"
+msgid ""
+"Punks like you are the reason Rumi-chan's in danger...\r\n"
+"I have to step up and protect her."
+msgstr ""
+
+msgctxt "180"
+msgid ""
+"But Rumi-chan wouldn't like me dirtying up this place with\r\n"
+"your blood, so let's take this outside, punk!"
+msgstr ""
+
+msgctxt "204"
+msgid "...Hey."
+msgstr ""
+
+msgctxt "216"
+msgid "......"
+msgstr ""
+
+msgctxt "228"
+msgid ""
+"(He's not responding. This must be the weapons nut the\r\n"
+"casino manager was talking about.)"
+msgstr ""
+
+msgctxt "1700"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1704"
+msgid "Weapons Nut"
+msgstr ""
+
+msgctxt "1708"
+msgid "Talk_Kamae"
+msgstr ""
+
+msgctxt "1712"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "1716"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "1720"
+msgid "???"
+msgstr ""

@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "259\t321"
+msgid "Quit squirming."
+msgstr ""
+
+msgctxt "322\t463"
+msgid ""
+"I'm breathing life into your viper.\\n"
+"Don't move."
+msgstr ""
+
+msgctxt "620\t708"
+msgid "My ink has the power to alter a man's fate."
+msgstr ""
+
+msgctxt "736\t824"
+msgid "I hope this won't be too heavy a burden."
+msgstr ""
+
+msgctxt "848\t1026"
+msgid ""
+"I've got a viper on my back.\\n"
+"The soul of Okinawa."
+msgstr ""
+
+msgctxt "1031\t1188"
+msgid ""
+"No matter what comes my way,\\n"
+"I'll strike at it, fangs out."
+msgstr ""
+
+msgctxt "1222\t1281"
+msgid "Well spoken."
+msgstr ""
+
+msgctxt "1282\t1414"
+msgid "Perhaps you have what it takes after all."
+msgstr ""
+
+msgctxt "1699\t1799"
+msgid "All right. It's finished."
+msgstr ""
+
+msgctxt "1987\t2070"
+msgid "How's it look, Aniki?"
+msgstr ""
+
+msgctxt "2071\t2211"
+msgid ""
+"Stunning as always, Master.\\n"
+"It's incredible."
+msgstr ""
+
+msgctxt "2240\t2336"
+msgid "You and me, both with Utabori ink."
+msgstr ""
+
+msgctxt "2361\t2494"
+msgid "Makes us practically brothers now, doesn't it?"
+msgstr ""
+
+msgctxt "2530\t2590"
+msgid "I guess so."
+msgstr ""

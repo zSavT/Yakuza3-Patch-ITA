@@ -1,0 +1,122 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid "(There he is. What's he doing over here...?)"
+msgstr ""
+
+msgctxt "76"
+msgid "Hey, Mit⑬"
+msgstr ""
+
+msgctxt "88"
+msgid "Wait."
+msgstr ""
+
+msgctxt "100"
+msgid "(That's... Riona. And those must be her friends from school.)"
+msgstr ""
+
+msgctxt "112"
+msgid ""
+"Where to next, Okada-kun? I'll go anywhere as long as\r\n"
+"you're there with me!"
+msgstr ""
+
+msgctxt "124"
+msgid ""
+"My dad has a hotel pretty close to here with a biiiig pool!\r\n"
+"Maybe we can go for a swim?"
+msgstr ""
+
+msgctxt "136"
+msgid "Wow, that sounds amazing, Okada-kun!"
+msgstr ""
+
+msgctxt "148"
+msgid "Heck yeah! I've never been in a hotel pool before!"
+msgstr ""
+
+msgctxt "160"
+msgid "Um..."
+msgstr ""
+
+msgctxt "172"
+msgid "Something wrong, Riona-chan?"
+msgstr ""
+
+msgctxt "184"
+msgid "No, it's... It's nothing."
+msgstr ""
+
+msgctxt "196"
+msgid "Oh yeah! Riona has that gross burn on her arm!"
+msgstr ""
+
+msgctxt "208"
+msgid "......"
+msgstr ""
+
+msgctxt "220"
+msgid ""
+"She's probably too much of a wimp to go in the pool 'cause\r\n"
+"then everyone'd be able to see it."
+msgstr ""
+
+msgctxt "232"
+msgid "Wait, is it really that gross? I wanna see! C'mon!"
+msgstr ""
+
+msgctxt "244"
+msgid "Stop it! Please!"
+msgstr ""
+
+msgctxt "3532"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "3536"
+msgid "Takako"
+msgstr ""
+
+msgctxt "3540"
+msgid "Okada"
+msgstr ""
+
+msgctxt "3544"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "3548"
+msgid "Mamoru"
+msgstr ""
+
+msgctxt "3552"
+msgid "Riona"
+msgstr ""
+
+msgctxt "3556"
+msgid "Idle"
+msgstr ""
+
+msgctxt "3560"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "3564"
+msgid "C32_SetF_cld_stand_sync_ude"
+msgstr ""
+
+msgctxt "3568"
+msgid "C32_SetM_cld_stand_sync_ude"
+msgstr ""

@@ -1,0 +1,32 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "324"
+msgid "Can we go to the golf course, Uncle Kaz? Can we, can we?"
+msgstr ""
+
+msgctxt "348"
+msgid "Can we go to the golf course, Uncle Kaz? Can we, can we?"
+msgstr ""
+
+msgctxt "372"
+msgid "Can we go to the golf course, Uncle Kaz? Can we, can we?"
+msgstr ""
+
+msgctxt "1136"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "1140"
+msgid "Talk_Request"
+msgstr ""

@@ -1,0 +1,152 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid "Do you need something?"
+msgstr ""
+
+msgctxt "76"
+msgid "Oh, no⑬I was just reading this article..."
+msgstr ""
+
+msgctxt "100"
+msgid ""
+"(The Millennium Tower bombing? That magazine must be three years old. Looks "
+"like I'm in it...)"
+msgstr ""
+
+msgctxt "112"
+msgid "Yeah. That's me, all right. What of it?"
+msgstr ""
+
+msgctxt "124"
+msgid ""
+"No, well, it's not you... I'm looking for this man. The one behind you in "
+"this picture."
+msgstr ""
+
+msgctxt "148"
+msgid "He's my father... and he's been gone for fourteen years!"
+msgstr ""
+
+msgctxt "160"
+msgid ""
+"He used to run a money-lending company in Kamurocho. But fourteen years "
+"ago, he shut it all down and went into hiding..."
+msgstr ""
+
+msgctxt "172"
+msgid "I've been looking for him ever since."
+msgstr ""
+
+msgctxt "184"
+msgid "So that's your dad?"
+msgstr ""
+
+msgctxt "196"
+msgid ""
+"Yeah... I couldn't believe it when I first saw this article, a couple years "
+"back. It's him, all right."
+msgstr ""
+
+msgctxt "208"
+msgid ""
+"I thought he might be somewhere in Kamurocho, so I came here, but... so "
+"far, nobody's recognized him."
+msgstr ""
+
+msgctxt "220"
+msgid ""
+"Then I saw you at this convenience store⑬the man in the picture with my "
+"father..."
+msgstr ""
+
+msgctxt "232"
+msgid "(The guy in this photo does look kind of familiar...)"
+msgstr ""
+
+msgctxt "244"
+msgid "Is something wrong?"
+msgstr ""
+
+msgctxt "256"
+msgid "Just thinking. You could try asking the person who took this photo."
+msgstr ""
+
+msgctxt "268"
+msgid "Oh... You might be right! But how would I reach them?"
+msgstr ""
+
+msgctxt "280"
+msgid "Just call the magazine's editorial desk. They should know."
+msgstr ""
+
+msgctxt "292"
+msgid "Oh, right... Of course."
+msgstr ""
+
+msgctxt "316"
+msgid "Huh? Ah, crap... The battery's dead."
+msgstr ""
+
+msgctxt "328"
+msgid "Fine... I can make the call. Pass that magazine."
+msgstr ""
+
+msgctxt "4060"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "4064"
+msgid "Young Man"
+msgstr ""
+
+msgctxt "4068"
+msgid "2d_mn_mm59_friday01"
+msgstr ""
+
+msgctxt "4072"
+msgid "2d_mn_mm59_friday01_2"
+msgstr ""
+
+msgctxt "4076"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "4080"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "4084"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "4088"
+msgid "Talk_Kosite_st"
+msgstr ""
+
+msgctxt "4092"
+msgid "Talk_Kosite_Yes"
+msgstr ""
+
+msgctxt "4096"
+msgid "Mail_st"
+msgstr ""
+
+msgctxt "4100"
+msgid "Talk_Kosite_ed"
+msgstr ""
+
+msgctxt "4104"
+msgid "dummy"
+msgstr ""

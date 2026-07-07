@@ -1,0 +1,72 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "96"
+msgid ""
+"That was fun! Thanks a ton. I've got to get to my other\r\n"
+"job now."
+msgstr ""
+
+msgctxt "108"
+msgid "See ya."
+msgstr ""
+
+msgctxt "120"
+msgid "Bye, now!"
+msgstr ""
+
+msgctxt "144"
+msgid ""
+"(Chika mentioned Smile Burger. I should stop by and\r\n"
+"check it out.)"
+msgstr ""
+
+msgctxt "168"
+msgid ""
+"Oh! You're the one who called me, right? I knew it as soon\r\n"
+"as I saw your face! You look just like how you sounded."
+msgstr ""
+
+msgctxt "180"
+msgid "I'm Chika. Let's go in already! I'm so hungry..."
+msgstr ""
+
+msgctxt "216"
+msgid "A yakiniku shop... I've got a bad feeling about this."
+msgstr ""
+
+msgctxt "228"
+msgid ""
+"What? You don't have any money? Let's do this another\r\n"
+"time, then."
+msgstr ""
+
+msgctxt "1920"
+msgid "Chika"
+msgstr ""
+
+msgctxt "1924"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "1928"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1932"
+msgid "Telephone Club Girl"
+msgstr ""
+
+msgctxt "1936"
+msgid "Talk_Yes"
+msgstr ""

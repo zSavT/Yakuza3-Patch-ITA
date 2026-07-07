@@ -1,0 +1,56 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "92"
+msgid "They canceled construction of Kamurocho Hills."
+msgstr ""
+
+msgctxt "104"
+msgid "Wha⑬!? How come!?"
+msgstr ""
+
+msgctxt "116"
+msgid ""
+"I heard there was an incident of some sort at the construction site. The "
+"whole construction company just up and left."
+msgstr ""
+
+msgctxt "128"
+msgid "What a waste! They already had so much of it finished!"
+msgstr ""
+
+msgctxt "140"
+msgid ""
+"Canceling a job of that magnitude must've put a lot of people out of "
+"work⑬and we're talking years of work. It's a real shame..."
+msgstr ""
+
+msgctxt "952"
+msgid "Sharp-Eared Man"
+msgstr ""
+
+msgctxt "956"
+msgid "Once Hopeful Woman"
+msgstr ""
+
+msgctxt "960"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "964"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "968"
+msgid "Talk_Think"
+msgstr ""

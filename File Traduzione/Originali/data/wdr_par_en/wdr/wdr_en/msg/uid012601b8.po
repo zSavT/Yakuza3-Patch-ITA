@@ -1,0 +1,53 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid ""
+"What's wrong, grandpa? You lost or somethin'? Maybe we could\r\n"
+"uh, show you the way back to the nursin' home... For a small\r\n"
+"fee, of course."
+msgstr ""
+
+msgctxt "76"
+msgid ""
+"Kamurocho ain't no place for an old guy to be walkin' alone.\r\n"
+"That's why you need guys like us around... for protection!"
+msgstr ""
+
+msgctxt "88"
+msgid "No thanks. I should be just fine on my own, actually..."
+msgstr ""
+
+msgctxt "1148"
+msgid "Local Hoodlum"
+msgstr ""
+
+msgctxt "1152"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "1156"
+msgid "Local Hooligan"
+msgstr ""
+
+msgctxt "1160"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "1164"
+msgid "Older Gentleman"
+msgstr ""
+
+msgctxt "1168"
+msgid "dummy"
+msgstr ""

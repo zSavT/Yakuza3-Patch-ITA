@@ -1,0 +1,52 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "100"
+msgid "Kiryu! Where the heck did you go?"
+msgstr ""
+
+msgctxt "112"
+msgid "My bad, Date-san. I didn't realize we got separated."
+msgstr ""
+
+msgctxt "124"
+msgid "Just get over here, okay?"
+msgstr ""
+
+msgctxt "136"
+msgid "All right, I'll be there soon..."
+msgstr ""
+
+msgctxt "244"
+msgid "C'mon, we need to hurry."
+msgstr ""
+
+msgctxt "1468"
+msgid "P_stand_tlk_phone_st"
+msgstr ""
+
+msgctxt "1472"
+msgid "Date"
+msgstr ""
+
+msgctxt "1476"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1480"
+msgid "P_stand_tlk_phone_ed"
+msgstr ""
+
+msgctxt "1484"
+msgid "dummy"
+msgstr ""

@@ -1,0 +1,222 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "268"
+msgid "Sorry, but I don't think I can help you."
+msgstr ""
+
+msgctxt "280"
+msgid ""
+"It's okay. I should have thought things through before buying all this ice "
+"cream."
+msgstr ""
+
+msgctxt "292"
+msgid ""
+"We can still share these last two cones, at least. I'm sorry to have "
+"troubled you with such an unreasonable request."
+msgstr ""
+
+msgctxt "352"
+msgid "You got 100 EXP."
+msgstr ""
+
+msgctxt "400"
+msgid ""
+"Your family's waiting for you, right? I'll buy some replacement ice cream "
+"and bring it to them."
+msgstr ""
+
+msgctxt "424"
+msgid "You would? Thank you! Good luck!"
+msgstr ""
+
+msgctxt "436"
+msgid "You paid <Color:8>1,200 yen<Color:Default>."
+msgstr ""
+
+msgctxt "460"
+msgid "Damn... Seems I'm a little short."
+msgstr ""
+
+msgctxt "472"
+msgid "Oh..."
+msgstr ""
+
+msgctxt "484"
+msgid "Sorry. Looks like I can't help you after all."
+msgstr ""
+
+msgctxt "496"
+msgid ""
+"It's okay. I should have thought things through before buying all this ice "
+"cream."
+msgstr ""
+
+msgctxt "508"
+msgid ""
+"We can still share these last two cones, at least. I'm sorry to have "
+"troubled you with such an unreasonable request."
+msgstr ""
+
+msgctxt "568"
+msgid "You got 100 EXP."
+msgstr ""
+
+msgctxt "628"
+msgid "Excuse me sir! Please, come over here for a moment!"
+msgstr ""
+
+msgctxt "640"
+msgid "Are you talking to me?"
+msgstr ""
+
+msgctxt "652"
+msgid "Yes, you! Please, I need your help!"
+msgstr ""
+
+msgctxt "664"
+msgid "What's the problem?"
+msgstr ""
+
+msgctxt "676"
+msgid ""
+"I was hoping to treat my family to some ice cream, so I bought some from "
+"that shop over there..."
+msgstr ""
+
+msgctxt "688"
+msgid ""
+"But four six-scoop specials is far more than I can carry by myself, and now "
+"they look like they're starting to melt!"
+msgstr ""
+
+msgctxt "700"
+msgid ""
+"I know I shouldn't be asking a complete stranger, but please, would you "
+"help me carry them? I'm begging you!"
+msgstr ""
+
+msgctxt "712"
+msgid "Sorry, but you'll have to ask someone else."
+msgstr ""
+
+msgctxt "724"
+msgid ""
+"Oh... I understand... I know that was a strange request. Sorry for "
+"bothering you."
+msgstr ""
+
+msgctxt "736"
+msgid "Seems like you could really use some help. Sure, I'll lend a hand."
+msgstr ""
+
+msgctxt "748"
+msgid "Oh, thank you so much! You're much nicer than you look."
+msgstr ""
+
+msgctxt "760"
+msgid "So where do you want me to take these?"
+msgstr ""
+
+msgctxt "772"
+msgid ""
+"Ah, right. Just bring them up the street to the convenience store over "
+"there."
+msgstr ""
+
+msgctxt "784"
+msgid "They were 1,200 yen a pair, so please be careful with them!"
+msgstr ""
+
+msgctxt "796"
+msgid "All right. I'll get them to the convenience store before they melt."
+msgstr ""
+
+msgctxt "844"
+msgid ""
+"Deliver the ice cream to the man's family. Be careful not to run or bump "
+"into passersby, or you'll drop it."
+msgstr ""
+
+msgctxt "856"
+msgid ""
+"Think of how happy the family will be when you deliver their delicious "
+"six-scoop ice cream cones to them outside the convenience store!"
+msgstr ""
+
+msgctxt "916"
+msgid ""
+"Oh, it's you again! Please, can you spare a moment? I still need someone to "
+"help me carry this ice cream!"
+msgstr ""
+
+msgctxt "928"
+msgid ""
+"I've tried asking other people since you left, but everyone else was too "
+"busy. Now it's really started melting, and it's getting everywhere!"
+msgstr ""
+
+msgctxt "940"
+msgid ""
+"I'll pay you for your troubles. All I'm asking is that you carry a couple "
+"of ice cream cones! Please, won't you help me?"
+msgstr ""
+
+msgctxt "952"
+msgid "Sorry, but you'll have to ask someone else."
+msgstr ""
+
+msgctxt "964"
+msgid "Oh man... What am I supposed to dooo?"
+msgstr ""
+
+msgctxt "976"
+msgid "Help Him"
+msgstr ""
+
+msgctxt "988"
+msgid "Refuse"
+msgstr ""
+
+msgctxt "1000"
+msgid "Help Him"
+msgstr ""
+
+msgctxt "1012"
+msgid "Refuse"
+msgstr ""
+
+msgctxt "7808"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "7812"
+msgid "Kind Father"
+msgstr ""
+
+msgctxt "7816"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "7820"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "7824"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "7828"
+msgid "Carry the Ice Cream!"
+msgstr ""

@@ -1,0 +1,256 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "124"
+msgid "Hehehe... Ready to lose, Kiryu-san?"
+msgstr ""
+
+msgctxt "136"
+msgid "I like that confidence. Let's do it."
+msgstr ""
+
+msgctxt "160"
+msgid "Hehehe... Ready to lose, Kiryu-san?"
+msgstr ""
+
+msgctxt "172"
+msgid "'Cause I ain't holdin' back!"
+msgstr ""
+
+msgctxt "184"
+msgid "Hold on... I just realized something. I'm a little short on cash."
+msgstr ""
+
+msgctxt "196"
+msgid "Huh? Whaddya mean? How do you not, like, always have money?"
+msgstr ""
+
+msgctxt "208"
+msgid "Sorry... I honestly don't know that myself."
+msgstr ""
+
+msgctxt "220"
+msgid "Well... Then I guess that's it for today. Later, Kiryu-san."
+msgstr ""
+
+msgctxt "232"
+msgid "(Dating sure isn't cheap... I'd better save up for next time.)"
+msgstr ""
+
+msgctxt "340"
+msgid ""
+"I had no idea you were so good at bowling! Guess I shoulda figured as much. "
+"<Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "352"
+msgid "Thanks."
+msgstr ""
+
+msgctxt "364"
+msgid ""
+"Can't believe I still had fun even though I lost. <Color:7>⑮<Color:Default> "
+"Only you could make me feel that way, Kiryu-san. <Color:7>⑮⑮<Color:Default>"
+msgstr ""
+
+msgctxt "376"
+msgid "So take me out again sometime, okay? Well, see ya. <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "400"
+msgid "Whew... So it ended up bein' a draw..."
+msgstr ""
+
+msgctxt "412"
+msgid "Looks like we're evenly matched."
+msgstr ""
+
+msgctxt "424"
+msgid "Hehe, yeah. Even though I couldn't win, I still had a lot of fun."
+msgstr ""
+
+msgctxt "436"
+msgid "So take me out again sometime, okay? Well, see ya. <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "460"
+msgid "Alright! I gotcha good! Hehe. <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "472"
+msgid "You sure did."
+msgstr ""
+
+msgctxt "484"
+msgid ""
+"I gotta say, ya know how to give a gal a darn good time. I wouldn't mind "
+"goin' all over the place with you."
+msgstr ""
+
+msgctxt "496"
+msgid "So take me out again sometime, okay? Well, see ya. <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "520"
+msgid ""
+"Huge Error!\r\n"
+"No flags set for conversation selection!"
+msgstr ""
+
+msgctxt "604"
+msgid "Hehehe... Ready to lose, Kiryu-san?"
+msgstr ""
+
+msgctxt "616"
+msgid "I like that confidence. Let's do it."
+msgstr ""
+
+msgctxt "640"
+msgid "Hehehe... Ready to lose, Kiryu-san?"
+msgstr ""
+
+msgctxt "652"
+msgid "'Cause I ain't holdin' back!"
+msgstr ""
+
+msgctxt "664"
+msgid "Hold on... I just realized something. I'm a little short on cash."
+msgstr ""
+
+msgctxt "676"
+msgid "Huh? Whaddya mean? How do you not, like, always have money?"
+msgstr ""
+
+msgctxt "688"
+msgid "Sorry... I honestly don't know that myself."
+msgstr ""
+
+msgctxt "700"
+msgid "Well... Then I guess that's it for today. Later, Kiryu-san."
+msgstr ""
+
+msgctxt "712"
+msgid "(Dating sure isn't cheap... I'd better save up for next time.)"
+msgstr ""
+
+msgctxt "820"
+msgid ""
+"I had no idea you were so good at bowling! Guess I shoulda figured as much. "
+"<Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "832"
+msgid "Thanks."
+msgstr ""
+
+msgctxt "844"
+msgid ""
+"Can't believe I still had fun even though I lost. <Color:7>⑮<Color:Default> "
+"Only you could make me feel that way, Kiryu-san. <Color:7>⑮⑮<Color:Default>"
+msgstr ""
+
+msgctxt "856"
+msgid "Heh. I do what I can."
+msgstr ""
+
+msgctxt "868"
+msgid "Well, guess we should head back to the club?"
+msgstr ""
+
+msgctxt "880"
+msgid "Sounds good to me."
+msgstr ""
+
+msgctxt "904"
+msgid "Whew... So it ended up bein' a draw..."
+msgstr ""
+
+msgctxt "916"
+msgid "Looks like we're evenly matched."
+msgstr ""
+
+msgctxt "928"
+msgid "Hehe, yeah. Even though I couldn't win, I still had a lot of fun."
+msgstr ""
+
+msgctxt "940"
+msgid "I'm glad you had a good time."
+msgstr ""
+
+msgctxt "952"
+msgid "Well, guess we should head back to the club?"
+msgstr ""
+
+msgctxt "964"
+msgid "Sounds good to me."
+msgstr ""
+
+msgctxt "988"
+msgid "Alright! I gotcha good! Hehe. <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "1000"
+msgid "You sure did."
+msgstr ""
+
+msgctxt "1012"
+msgid ""
+"I gotta say, ya know how to give a gal a darn good time. I wouldn't mind "
+"goin' all over the place with you."
+msgstr ""
+
+msgctxt "1024"
+msgid "That would be nice."
+msgstr ""
+
+msgctxt "1036"
+msgid "Well, guess we should head back to the club?"
+msgstr ""
+
+msgctxt "1048"
+msgid "Sounds good to me."
+msgstr ""
+
+msgctxt "1072"
+msgid ""
+"Huge Error!\r\n"
+"No flags set for conversation selection!"
+msgstr ""
+
+msgctxt "13368"
+msgid "Rin"
+msgstr ""
+
+msgctxt "13372"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "13376"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "13380"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "13384"
+msgid "dummy"
+msgstr ""
+
+msgctxt "13388"
+msgid "0"
+msgstr ""
+
+msgctxt "13392"
+msgid "Talk_Yes"
+msgstr ""

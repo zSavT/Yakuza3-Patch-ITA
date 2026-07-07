@@ -1,0 +1,106 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "92"
+msgid "Try this, Miki-chan! You'll love it!"
+msgstr ""
+
+msgctxt "104"
+msgid ""
+"And try this Ryukyu pork! Have some snacks while you can⑬if Nakahara-san "
+"were here, you wouldn't get a single bite!"
+msgstr ""
+
+msgctxt "116"
+msgid "Thanks a bunch! Keeping an eye on things here sure is hungry work."
+msgstr ""
+
+msgctxt "128"
+msgid "I don't know, it looks like you've done more eating than patrolling."
+msgstr ""
+
+msgctxt "140"
+msgid ""
+"No, I'm just touching base with everybody. This kind of communication is "
+"real important here in Okinawa!"
+msgstr ""
+
+msgctxt "152"
+msgid "Uh-huh."
+msgstr ""
+
+msgctxt "164"
+msgid "Miki-chan! Got some gorgeous fresh mangoes for you! Come and get 'em!"
+msgstr ""
+
+msgctxt "176"
+msgid "Ooh! Guess I've got a little more patrolling to do then, huh!"
+msgstr ""
+
+msgctxt "188"
+msgid "Seriously?"
+msgstr ""
+
+msgctxt "200"
+msgid "Oh, and sir? If you wouldn't mind keepin' this a secret from the boss..."
+msgstr ""
+
+msgctxt "212"
+msgid "(Mikio's too busy eating everything we pass to actually do work.)"
+msgstr ""
+
+msgctxt "224"
+msgid ""
+"(I guess the yakuza do things differently here. This would never fly in "
+"Kamurocho, that's for sure.)"
+msgstr ""
+
+msgctxt "236"
+msgid "Eeek!"
+msgstr ""
+
+msgctxt "248"
+msgid "What was that?"
+msgstr ""
+
+msgctxt "2532"
+msgid "Market Lady"
+msgstr ""
+
+msgctxt "2536"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "2540"
+msgid "Market Guy"
+msgstr ""
+
+msgctxt "2544"
+msgid "Mikio"
+msgstr ""
+
+msgctxt "2548"
+msgid "Talk_Sorry"
+msgstr ""
+
+msgctxt "2552"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "2556"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "2560"
+msgid "Tourist"
+msgstr ""

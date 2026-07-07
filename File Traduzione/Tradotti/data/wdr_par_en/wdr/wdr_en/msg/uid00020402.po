@@ -1,0 +1,74 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "80"
+msgid ""
+"Where have you been, Uncle Kaz? We're supposed to be getting\r\n"
+"dinner ready!"
+msgstr ""
+
+msgctxt "92"
+msgid "Looks like dinner's gonna have to wait."
+msgstr ""
+
+msgctxt "104"
+msgid "Huh? Why?"
+msgstr ""
+
+msgctxt "116"
+msgid "Ayako's money has gone missing."
+msgstr ""
+
+msgctxt "128"
+msgid "Huh? Do you think someone stole it?"
+msgstr ""
+
+msgctxt "140"
+msgid ""
+"Sounds like it. One day it was in her wallet, the next it\r\n"
+"was gone."
+msgstr ""
+
+msgctxt "152"
+msgid "That's awful..."
+msgstr ""
+
+msgctxt "164"
+msgid ""
+"Anyway, we're gonna meet in the dining room. I want you\r\n"
+"there, too."
+msgstr ""
+
+msgctxt "176"
+msgid "All right."
+msgstr ""
+
+msgctxt "1656"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "1660"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1664"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "1668"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "1672"
+msgid "Talk_Surp"
+msgstr ""

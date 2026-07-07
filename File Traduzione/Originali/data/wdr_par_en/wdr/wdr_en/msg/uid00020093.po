@@ -1,0 +1,114 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "80"
+msgid ""
+"How're you liking Okinawa, friend? Probably never wanna\r\n"
+"step foot on the mainland again, huh? Hahaha!"
+msgstr ""
+
+msgctxt "104"
+msgid ""
+"Oh, Rikiya! Where're you heading? You look like you're\r\n"
+"busting a dang gut over there, heh!"
+msgstr ""
+
+msgctxt "116"
+msgid "Just taking him to see the boss."
+msgstr ""
+
+msgctxt "128"
+msgid ""
+"That guy? Wow, he's built! Makes you look like a little kid\r\n"
+"with those tiny arms of yours, Rikiya! Haha!"
+msgstr ""
+
+msgctxt "140"
+msgid "C'mon, man!"
+msgstr ""
+
+msgctxt "152"
+msgid "Hahaha, don't be like that. It was just a little joke."
+msgstr ""
+
+msgctxt "164"
+msgid "Hey, pal. You're not from around here, huh?"
+msgstr ""
+
+msgctxt "176"
+msgid "Nope, but I've been on the island for almost a year now."
+msgstr ""
+
+msgctxt "188"
+msgid ""
+"Oooh, a convert! How're you liking Okinawa, friend? Probably\r\n"
+"never wanna step foot on the mainland again, huh? Hahaha!"
+msgstr ""
+
+msgctxt "200"
+msgid "Listen man, we're kinda in a hurry here, so..."
+msgstr ""
+
+msgctxt "212"
+msgid ""
+"All right, all right. Run along. Oh, and ask the boss if he\r\n"
+"wants to grab a drink tonight, will ya?"
+msgstr ""
+
+msgctxt "224"
+msgid "Sure. See you later."
+msgstr ""
+
+msgctxt "236"
+msgid "Sorry 'bout that. It's this way."
+msgstr ""
+
+msgctxt "3436"
+msgid "Cheerful Man"
+msgstr ""
+
+msgctxt "3440"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "3444"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "3448"
+msgid "Rikiya"
+msgstr ""
+
+msgctxt "3452"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "3456"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "3460"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "3464"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "3468"
+msgid "Talk_Kansin"
+msgstr ""
+
+msgctxt "3472"
+msgid "Talk_OK"
+msgstr ""

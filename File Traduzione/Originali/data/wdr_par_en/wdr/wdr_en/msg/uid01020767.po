@@ -1,0 +1,204 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "80"
+msgid "Nakahara-san... Take good care of my son."
+msgstr ""
+
+msgctxt "92"
+msgid "It would be my honor. Please leave him to me."
+msgstr ""
+
+msgctxt "104"
+msgid "Mikio..."
+msgstr ""
+
+msgctxt "116"
+msgid "Sir, I..."
+msgstr ""
+
+msgctxt "128"
+msgid "You should be proud of your father."
+msgstr ""
+
+msgctxt "140"
+msgid "I am. And I'm proud of Patriarch Nakahara, too!"
+msgstr ""
+
+msgctxt "164"
+msgid "You got 10,000 EXP."
+msgstr ""
+
+msgctxt "224"
+msgid "Nakahara! Are you okay!?"
+msgstr ""
+
+msgctxt "236"
+msgid ""
+"Kiryu, Mikio, I owe you one. Those thugs would've never\r\n"
+"gotten past me if I hadn't been injured."
+msgstr ""
+
+msgctxt "248"
+msgid "Hey, Pops! We got the ledgers back."
+msgstr ""
+
+msgctxt "260"
+msgid ""
+"Okay, I'll take them. But don't expect me to say thank you\r\n"
+"to a yakuza."
+msgstr ""
+
+msgctxt "272"
+msgid ""
+"Give it a rest, Pops. This has nothing to do with me\r\n"
+"being yakuza."
+msgstr ""
+
+msgctxt "284"
+msgid ""
+"I did this because I'm your son. We're family, right?\r\n"
+"What son wouldn't help his parents?"
+msgstr ""
+
+msgctxt "296"
+msgid "Mikio..."
+msgstr ""
+
+msgctxt "308"
+msgid ""
+"Aragaki-san. Mikio can make his own decisions. You can't\r\n"
+"keep treating him like a child."
+msgstr ""
+
+msgctxt "320"
+msgid "......"
+msgstr ""
+
+msgctxt "332"
+msgid "Anyway, Boss... What were you doin' here?"
+msgstr ""
+
+msgctxt "344"
+msgid "Hrm... I was..."
+msgstr ""
+
+msgctxt "356"
+msgid "Nakahara-san came all the way over here for you."
+msgstr ""
+
+msgctxt "368"
+msgid "Aragaki-san, don't⑬"
+msgstr ""
+
+msgctxt "380"
+msgid ""
+"He won't understand if I don't tell him. Nakahara-san came\r\n"
+"here, bowed his head, and said..."
+msgstr ""
+
+msgctxt "392"
+msgid "\"Whatever happens, please let it be Mikio's decision.\""
+msgstr ""
+
+msgctxt "452"
+msgid ""
+"I know a yakuza like me doesn't have the right\r\n"
+"to say this..."
+msgstr ""
+
+msgctxt "464"
+msgid ""
+"But I want you to let Mikio make his own choices.\r\n"
+"Please allow him this, Aragaki-san."
+msgstr ""
+
+msgctxt "476"
+msgid "Nakahara-san... Why do you care about Mikio so much?"
+msgstr ""
+
+msgctxt "488"
+msgid "Isn't it natural for a father to worry about his children?"
+msgstr ""
+
+msgctxt "500"
+msgid "......"
+msgstr ""
+
+msgctxt "560"
+msgid "Pops..."
+msgstr ""
+
+msgctxt "572"
+msgid "People should choose their own paths."
+msgstr ""
+
+msgctxt "584"
+msgid "Mikio, you've met a fine man."
+msgstr ""
+
+msgctxt "596"
+msgid "I know."
+msgstr ""
+
+msgctxt "6752"
+msgid "Aragaki"
+msgstr ""
+
+msgctxt "6756"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "6760"
+msgid "Nakahara"
+msgstr ""
+
+msgctxt "6764"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "6768"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "6772"
+msgid "Mikio"
+msgstr ""
+
+msgctxt "6776"
+msgid "dummy"
+msgstr ""
+
+msgctxt "6780"
+msgid "0"
+msgstr ""
+
+msgctxt "6784"
+msgid "Talk_Send"
+msgstr ""
+
+msgctxt "6788"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "6792"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "6796"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "6800"
+msgid "kaiwabgm_sadness"
+msgstr ""

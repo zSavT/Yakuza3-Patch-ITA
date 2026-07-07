@@ -1,0 +1,135 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "80"
+msgid ""
+"Hoo my, you're a looker! If only I were twenty years younger\r\n"
+"and a couple inches taller! Mm mm mm!"
+msgstr ""
+
+msgctxt "104"
+msgid "Riki-chan! Come say hello!"
+msgstr ""
+
+msgctxt "116"
+msgid "Sorry, I'm kinda in a hurry here."
+msgstr ""
+
+msgctxt "128"
+msgid ""
+"Says the guy who spends all his time sitting on his toosh!\r\n"
+"Hahaha! Gosh, that's too funny!"
+msgstr ""
+
+msgctxt "140"
+msgid ""
+"You and Miki-chan spend more time lounging around getting fat than doing "
+"actual work, hahaha!"
+msgstr ""
+
+msgctxt "152"
+msgid "C'mon, not in front of the guest..."
+msgstr ""
+
+msgctxt "164"
+msgid ""
+"And what a guest he is! If only I were twenty years younger\r\n"
+"and a couple inches taller! Mm mm mm!"
+msgstr ""
+
+msgctxt "176"
+msgid ""
+"Is that shit all you old ladies think about? Seriously,\r\n"
+"you're embarrassin' me here!"
+msgstr ""
+
+msgctxt "188"
+msgid "Anyway, we really gotta get going."
+msgstr ""
+
+msgctxt "200"
+msgid ""
+"One sec, Riki-chan! I just got some nice bitter melon in,\r\n"
+"so I'll whip up a big ol' batch of goya champloo for you\r\n"
+"boys. Maybe I can bring it 'round the office later?"
+msgstr ""
+
+msgctxt "212"
+msgid ""
+"I can't hang with the bitter shit, you know that. Anyway,\r\n"
+"no time to be standing around! We gotta go!"
+msgstr ""
+
+msgctxt "224"
+msgid ""
+"Try bringin' that can-do attitude to your work, too! You and\r\n"
+"Miki-chan can't keep goofing off all day!"
+msgstr ""
+
+msgctxt "236"
+msgid "...Sorry, she's kinda nosy. This way."
+msgstr ""
+
+msgctxt "248"
+msgid ""
+"(Seems like the locals are on pretty good terms with the\r\n"
+"Ryudo...)"
+msgstr ""
+
+msgctxt "3340"
+msgid "Chatty Old Woman"
+msgstr ""
+
+msgctxt "3344"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "3348"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "3352"
+msgid "Rikiya"
+msgstr ""
+
+msgctxt "3356"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "3360"
+msgid "Talk_Chohatu"
+msgstr ""
+
+msgctxt "3364"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "3368"
+msgid "Talk_Away"
+msgstr ""
+
+msgctxt "3372"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "3376"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "3380"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "3384"
+msgid "Kiryu"
+msgstr ""

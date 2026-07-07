@@ -1,0 +1,205 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "80"
+msgid ""
+"Take care of this place while Kazuki's out of commission,\r\n"
+"Yuya."
+msgstr ""
+
+msgctxt "92"
+msgid ""
+"I'll do what I can. Well, Kiryu-san... I guess this is it.\r\n"
+"Good luck down there. Oh, and you too, Haruka-chan!"
+msgstr ""
+
+msgctxt "104"
+msgid "So? What's with the getup?"
+msgstr ""
+
+msgctxt "116"
+msgid ""
+"Oh, just gettin' my clean on. Those Go-Ryu punks tore the\r\n"
+"place up real bad."
+msgstr ""
+
+msgctxt "128"
+msgid "Everyone's really been pitchin' in, though."
+msgstr ""
+
+msgctxt "140"
+msgid "So they're doing all the work while you smoke?"
+msgstr ""
+
+msgctxt "152"
+msgid ""
+"What!? You got it all wrong, Haruka-chan! I was just takin'\r\n"
+"a little breather!"
+msgstr ""
+
+msgctxt "164"
+msgid "Heh. By the way, how are you feeling?"
+msgstr ""
+
+msgctxt "176"
+msgid ""
+"What, me? Better than ever, man! It'll take more than a few\r\n"
+"punches to put a dent in ol' Yuya."
+msgstr ""
+
+msgctxt "188"
+msgid "Urgh... It hurts to laugh."
+msgstr ""
+
+msgctxt "200"
+msgid ""
+"If that's \"better than ever,\" I don't wanna see what you\r\n"
+"hurt looks like. Oh, and how's Kazuki doing?"
+msgstr ""
+
+msgctxt "212"
+msgid ""
+"Still over with the doc. Sounds like it's still gonna be\r\n"
+"a while 'til he can come home... But he's doin' good!"
+msgstr ""
+
+msgctxt "224"
+msgid ""
+"Glad to hear it. By the way, Yuya... We're actually here to\r\n"
+"say goodbye."
+msgstr ""
+
+msgctxt "236"
+msgid "Huh!? Whaddya mean, \"goodbye\"!?"
+msgstr ""
+
+msgctxt "248"
+msgid ""
+"I'm moving to Okinawa. Gonna be taking over an orphanage\r\n"
+"down there."
+msgstr ""
+
+msgctxt "260"
+msgid "And you're goin' too, Haruka-chan?"
+msgstr ""
+
+msgctxt "272"
+msgid "Mhm!"
+msgstr ""
+
+msgctxt "284"
+msgid ""
+"The place actually has pretty close ties to Sunflower, too.\r\n"
+"After what Haruka and I have been through, I think it'll\r\n"
+"feel good looking after some kids myself."
+msgstr ""
+
+msgctxt "296"
+msgid ""
+"Well, that's outright charitable of ya, man. But I gotta say,\r\n"
+"it's gonna be lonely 'round here without you."
+msgstr ""
+
+msgctxt "308"
+msgid ""
+"It's not like we're gonna be that far. We can still see\r\n"
+"each other, you know."
+msgstr ""
+
+msgctxt "320"
+msgid "You could even come visit us sometime."
+msgstr ""
+
+msgctxt "332"
+msgid ""
+"Y'know, that ain't such a bad idea! I'll ask Kazuki-san\r\n"
+"about takin' the team down there for our next vacation!"
+msgstr ""
+
+msgctxt "344"
+msgid ""
+"Heh, sounds like a plan. Speaking of, I'm actually thinking\r\n"
+"to go see Kazuki now."
+msgstr ""
+
+msgctxt "356"
+msgid "Oh yeah? Sure he'll be happy to see you."
+msgstr ""
+
+msgctxt "368"
+msgid ""
+"Hope so. Anyway, Yuya... Take care of this place while\r\n"
+"Kazuki's out of commission, okay?"
+msgstr ""
+
+msgctxt "380"
+msgid ""
+"I'll do what I can. Well, Kiryu-san... I guess this is it.\r\n"
+"Good luck down there. Oh, and you too, Haruka-chan!"
+msgstr ""
+
+msgctxt "392"
+msgid "Bye, Uncle Yuya! Don't forget to come visit!"
+msgstr ""
+
+msgctxt "5696"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "5700"
+msgid "Yuya"
+msgstr ""
+
+msgctxt "5704"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "5708"
+msgid "Talk_Kosite_st"
+msgstr ""
+
+msgctxt "5712"
+msgid "Talk_Info_L"
+msgstr ""
+
+msgctxt "5716"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "5720"
+msgid "Talk_Request"
+msgstr ""
+
+msgctxt "5724"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "5728"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "5732"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "5736"
+msgid "Talk_Kosite_ed"
+msgstr ""
+
+msgctxt "5740"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "5744"
+msgid "Talk_Call"
+msgstr ""

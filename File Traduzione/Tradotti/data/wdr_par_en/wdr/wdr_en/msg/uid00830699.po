@@ -1,0 +1,282 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "520"
+msgid "One game of pool costs 800 yen."
+msgstr ""
+
+msgctxt "544"
+msgid "Uncle Kaz, try and get a combination shot in nine-ball!"
+msgstr ""
+
+msgctxt "556"
+msgid ""
+"The young lady is quite knowledgeable! Do you know what a combination shot "
+"is, sir?"
+msgstr ""
+
+msgctxt "568"
+msgid ""
+"It's using the cue ball to hit an object ball, which in turn hits another "
+"object ball, causing it to go into a pocket."
+msgstr ""
+
+msgctxt "580"
+msgid "(A combination shot in nine-ball, eh...? Should I try it?)"
+msgstr ""
+
+msgctxt "604"
+msgid ""
+"I'm afraid you don't have enough money. Please feel free to come again "
+"later."
+msgstr ""
+
+msgctxt "616"
+msgid "But I wanted you to play pool..."
+msgstr ""
+
+msgctxt "628"
+msgid "Very good, sir. Enjoy yourself."
+msgstr ""
+
+msgctxt "640"
+msgid "Good luck, Uncle Kaz!"
+msgstr ""
+
+msgctxt "664"
+msgid "I see. Please come again."
+msgstr ""
+
+msgctxt "676"
+msgid "But I wanted you to play pool..."
+msgstr ""
+
+msgctxt "688"
+msgid "Uncle Kaz, clear a nine-ball game without making a foul!"
+msgstr ""
+
+msgctxt "700"
+msgid "(Clear a nine-ball game without fouling, eh...? Should I try it?)"
+msgstr ""
+
+msgctxt "724"
+msgid ""
+"I'm afraid you don't have enough money. Please feel free to come again "
+"later."
+msgstr ""
+
+msgctxt "736"
+msgid "But I wanted you to play pool..."
+msgstr ""
+
+msgctxt "748"
+msgid "Very good, sir. Enjoy yourself."
+msgstr ""
+
+msgctxt "760"
+msgid "Good luck, Uncle Kaz!"
+msgstr ""
+
+msgctxt "784"
+msgid "I see. Please come again."
+msgstr ""
+
+msgctxt "796"
+msgid "But I wanted you to play pool..."
+msgstr ""
+
+msgctxt "820"
+msgid "You can enjoy a game of pool for 800 yen."
+msgstr ""
+
+msgctxt "844"
+msgid "(Can't afford it right now...)"
+msgstr ""
+
+msgctxt "880"
+msgid ""
+"(All this booze is starting to make the room spin. Might be hard to play "
+"pool like this.)"
+msgstr ""
+
+msgctxt "916"
+msgid ""
+"You can play one of our employees if you'd like. Or would you rather play "
+"by yourself?"
+msgstr ""
+
+msgctxt "928"
+msgid "You can play one of our employees if you'd like."
+msgstr ""
+
+msgctxt "940"
+msgid "(I think I'll give Mika a try.)"
+msgstr ""
+
+msgctxt "952"
+msgid "(I think I'll give Saya a try.)"
+msgstr ""
+
+msgctxt "964"
+msgid ""
+"You want to play someone besides one of our employees? In that case, that "
+"will be 1,600 yen for two players. Do you still want to play?"
+msgstr ""
+
+msgctxt "988"
+msgid "Yeah, no problem."
+msgstr ""
+
+msgctxt "1000"
+msgid "Understood."
+msgstr ""
+
+msgctxt "1024"
+msgid "(I don't have enough money...)"
+msgstr ""
+
+msgctxt "1036"
+msgid "All right, then. Please ask the staff about the game rules."
+msgstr ""
+
+msgctxt "1060"
+msgid "All right, then. Please ask the staff about the game rules."
+msgstr ""
+
+msgctxt "1084"
+msgid "All right, then. Please ask the staff about the game rules."
+msgstr ""
+
+msgctxt "1108"
+msgid "All right, then. Please ask the staff about the game rules."
+msgstr ""
+
+msgctxt "1132"
+msgid "All right, then. Try Nine-ball if you're playing alone. Enjoy your game."
+msgstr ""
+
+msgctxt "1156"
+msgid "I see. Please come again."
+msgstr ""
+
+msgctxt "1180"
+msgid "Play"
+msgstr ""
+
+msgctxt "1192"
+msgid "Don't Play"
+msgstr ""
+
+msgctxt "1204"
+msgid "Play"
+msgstr ""
+
+msgctxt "1216"
+msgid "Don't Play"
+msgstr ""
+
+msgctxt "1228"
+msgid "Play"
+msgstr ""
+
+msgctxt "1240"
+msgid "Don't Play"
+msgstr ""
+
+msgctxt "1252"
+msgid "Play Makoto Kano (Beginner)"
+msgstr ""
+
+msgctxt "1264"
+msgid "Play Shunichi Arahama (Intermediate)"
+msgstr ""
+
+msgctxt "1276"
+msgid "Play Kiko Hirakawa (Advanced)"
+msgstr ""
+
+msgctxt "1288"
+msgid "Play Seiji Nakazato (Expert)"
+msgstr ""
+
+msgctxt "1300"
+msgid "Invite Mika Tsuchiya"
+msgstr ""
+
+msgctxt "1312"
+msgid "Invite Saya Unten"
+msgstr ""
+
+msgctxt "1324"
+msgid "Play Alone"
+msgstr ""
+
+msgctxt "1336"
+msgid "Don't Play"
+msgstr ""
+
+msgctxt "1348"
+msgid "Play Makoto Kano (Beginner)"
+msgstr ""
+
+msgctxt "1360"
+msgid "Play Shunichi Arahama (Intermediate)"
+msgstr ""
+
+msgctxt "1372"
+msgid "Play Kiko Hirakawa (Advanced)"
+msgstr ""
+
+msgctxt "1384"
+msgid "Play Seiji Nakazato (Expert)"
+msgstr ""
+
+msgctxt "1396"
+msgid "Play Alone"
+msgstr ""
+
+msgctxt "1408"
+msgid "Don't Play"
+msgstr ""
+
+msgctxt "1420"
+msgid "Play"
+msgstr ""
+
+msgctxt "1432"
+msgid "Don't Play"
+msgstr ""
+
+msgctxt "9036"
+msgid "Bartender"
+msgstr ""
+
+msgctxt "9040"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "9044"
+msgid "Talk_Request"
+msgstr ""
+
+msgctxt "9048"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "9052"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "9056"
+msgid "HAL_stand_tlk_happy_small"
+msgstr ""

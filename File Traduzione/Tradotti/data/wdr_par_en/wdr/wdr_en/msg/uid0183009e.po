@@ -1,0 +1,364 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "108"
+msgid ""
+"I don't see any celebrities. Hell, there aren't even any other people in "
+"here..."
+msgstr ""
+
+msgctxt "120"
+msgid ""
+"Hey, you can't expect it to be packed all the time. Come on,\r\n"
+"let's order."
+msgstr ""
+
+msgctxt "132"
+msgid "It's my treat, so get whatever you want."
+msgstr ""
+
+msgctxt "144"
+msgid "Whoa, really!? Thanks a ton, Aniki!"
+msgstr ""
+
+msgctxt "156"
+msgid ""
+"Alright, let's go with two beers, some kalbi, some sirloin,\r\n"
+"an order of salted tongue, a plate of tripe... and oh, some\r\n"
+"Iberico pork while you're at it!"
+msgstr ""
+
+msgctxt "168"
+msgid "Uh, Rikiya..."
+msgstr ""
+
+msgctxt "180"
+msgid ""
+"Oh yeah, and make all that a double portion for me and my\r\n"
+"aniki here! Then I'll have a kimchi combo and a kalbi soup\r\n"
+"on top of that, and some nice chilled noodles for dessert!"
+msgstr ""
+
+msgctxt "192"
+msgid "You want some soup, too, Aniki?"
+msgstr ""
+
+msgctxt "204"
+msgid "I don't think my stomach can fit all that..."
+msgstr ""
+
+msgctxt "276"
+msgid ""
+"By the way, Aniki. I was strollin' around town for a while\r\n"
+"before we met up. Sure are a lot of interesting folks here in\r\n"
+"Kamurocho, huh? Weirdos, businessmen, schoolgirls..."
+msgstr ""
+
+msgctxt "288"
+msgid ""
+"Yeah. You could just spend an entire year peoplewatching\r\n"
+"and never run out of new subjects. Makes you wonder how\r\n"
+"their lives all led up to this point, converging in this city."
+msgstr ""
+
+msgctxt "300"
+msgid "Totally. Wonder if I can find what I'm after here..."
+msgstr ""
+
+msgctxt "312"
+msgid "What are you talking about?"
+msgstr ""
+
+msgctxt "324"
+msgid ""
+"C'mon, Aniki. We talked about this right after you beat the\r\n"
+"human stuffing outta me. I'm looking for a guy to finish my\r\n"
+"viper tattoo, remember?"
+msgstr ""
+
+msgctxt "336"
+msgid ""
+"Right, sorry. Your other tattoo artist died before he could\r\n"
+"finish it, didn't he?"
+msgstr ""
+
+msgctxt "348"
+msgid ""
+"Mhm. I don't wanna trust my viper to anyone who doesn't get\r\n"
+"what the spirit of Okinawa's all about..."
+msgstr ""
+
+msgctxt "360"
+msgid ""
+"But I'm kinda startin' to think someone here might have what\r\n"
+"it takes."
+msgstr ""
+
+msgctxt "372"
+msgid ""
+"Guy who's lived in Kamurocho, seen all sortsa people come n'\r\n"
+"go, even if they're not from Okinawa... I bet he could get\r\n"
+"what I'm goin' for. Whaddya think, Aniki?"
+msgstr ""
+
+msgctxt "384"
+msgid "Well... I might just know someone who can help."
+msgstr ""
+
+msgctxt "396"
+msgid "For real? Can we go see him!? If we got the time, I mean."
+msgstr ""
+
+msgctxt "408"
+msgid ""
+"Sure, why not? But let's do some sightseeing first. All\r\n"
+"we've done so far is sit in this restaurant..."
+msgstr ""
+
+msgctxt "420"
+msgid "Totally! Let's get a move on!"
+msgstr ""
+
+msgctxt "480"
+msgid "Man, Aniki! That was like a party in my mouth!"
+msgstr ""
+
+msgctxt "492"
+msgid "...I guess you could put it that way."
+msgstr ""
+
+msgctxt "504"
+msgid "Your total comes out to 65,000 yen, sir."
+msgstr ""
+
+msgctxt "528"
+msgid "You, um... have any cash on you, Rikiya?"
+msgstr ""
+
+msgctxt "540"
+msgid "Don't tell me you don't have enough, Aniki."
+msgstr ""
+
+msgctxt "564"
+msgid ""
+"You spent <Color:8>all of your money<Color:Default>\r\n"
+"while Rikiya covered the rest..."
+msgstr ""
+
+msgctxt "576"
+msgid "Oh well, accidents happen."
+msgstr ""
+
+msgctxt "588"
+msgid "You paid <Color:8>65,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "600"
+msgid "Thanks a lot, Aniki!"
+msgstr ""
+
+msgctxt "612"
+msgid "Of course."
+msgstr ""
+
+msgctxt "624"
+msgid "Oh, and we're splitting the bill."
+msgstr ""
+
+msgctxt "636"
+msgid "Huh? Sure... Of course."
+msgstr ""
+
+msgctxt "648"
+msgid "Something wrong with that?"
+msgstr ""
+
+msgctxt "660"
+msgid "Oh, no. Not at all. Nothing. Nope! Ignore me!"
+msgstr ""
+
+msgctxt "672"
+msgid "...Uh-huh. Let's just order."
+msgstr ""
+
+msgctxt "744"
+msgid ""
+"By the way, Aniki. I was strollin' around town for a while\r\n"
+"before we met up. Sure are a lot of interesting folks here in\r\n"
+"Kamurocho, huh? Weirdos, businessmen, schoolgirls..."
+msgstr ""
+
+msgctxt "756"
+msgid ""
+"Yeah. You could just spend an entire year peoplewatching\r\n"
+"and never run out of new subjects. Makes you wonder how\r\n"
+"their lives all led up to this point, converging in this city."
+msgstr ""
+
+msgctxt "768"
+msgid "Totally. Wonder if I can find what I'm after here..."
+msgstr ""
+
+msgctxt "780"
+msgid "What are you talking about?"
+msgstr ""
+
+msgctxt "792"
+msgid ""
+"C'mon, Aniki. We talked about this right after you beat the\r\n"
+"human stuffing outta me. I'm looking for a guy to finish my\r\n"
+"viper tattoo, remember?"
+msgstr ""
+
+msgctxt "804"
+msgid ""
+"Right, sorry. Your other tattoo artist died before he could\r\n"
+"finish it, didn't he?"
+msgstr ""
+
+msgctxt "816"
+msgid ""
+"Mhm. I don't wanna trust my viper to anyone who doesn't get\r\n"
+"what the spirit of Okinawa's all about..."
+msgstr ""
+
+msgctxt "828"
+msgid ""
+"But I'm kinda startin' to think someone here might have what\r\n"
+"it takes."
+msgstr ""
+
+msgctxt "840"
+msgid ""
+"Guy who's lived in Kamurocho, seen all sortsa people come n'\r\n"
+"go, even if they're not from Okinawa... I bet he could get\r\n"
+"what I'm goin' for. Whaddya think, Aniki?"
+msgstr ""
+
+msgctxt "852"
+msgid "Well... I might just know someone who can help."
+msgstr ""
+
+msgctxt "864"
+msgid "For real? Can we go see him!? If we got the time, I mean."
+msgstr ""
+
+msgctxt "876"
+msgid ""
+"Sure, why not? But let's do some sightseeing first. All\r\n"
+"we've done so far is sit in this restaurant..."
+msgstr ""
+
+msgctxt "888"
+msgid "Totally! Let's get a move on!"
+msgstr ""
+
+msgctxt "948"
+msgid "Not bad, huh?"
+msgstr ""
+
+msgctxt "960"
+msgid "Oh, yeah. Mm. So delicious."
+msgstr ""
+
+msgctxt "972"
+msgid ""
+"I didn't realize you liked rice so much, either. I think you\r\n"
+"ended up eating more rice than actual meat."
+msgstr ""
+
+msgctxt "984"
+msgid "Hahaha, guess I just had a cravin'..."
+msgstr ""
+
+msgctxt "996"
+msgid "Your total comes out to 8,000 yen, sir."
+msgstr ""
+
+msgctxt "1008"
+msgid "Not bad. That's just 4,000 each."
+msgstr ""
+
+msgctxt "1032"
+msgid "You each paid <Color:8>4,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "1044"
+msgid "......"
+msgstr ""
+
+msgctxt "1056"
+msgid "You, uh... have any spare cash, Rikiya?"
+msgstr ""
+
+msgctxt "1068"
+msgid "Don't tell me you don't have enough, Aniki."
+msgstr ""
+
+msgctxt "1092"
+msgid ""
+"You spent <Color:8>all of your money<Color:Default>\r\n"
+"while Rikiya covered the rest..."
+msgstr ""
+
+msgctxt "1104"
+msgid "Aniki..."
+msgstr ""
+
+msgctxt "1128"
+msgid "It's my treat, so get whatever you want."
+msgstr ""
+
+msgctxt "1140"
+msgid "Oh, and we're splitting the bill."
+msgstr ""
+
+msgctxt "14372"
+msgid "Rikiya"
+msgstr ""
+
+msgctxt "14376"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "14380"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "14384"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "14388"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "14392"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "14396"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "14400"
+msgid "Employee"
+msgstr ""
+
+msgctxt "14404"
+msgid "Talk_Send"
+msgstr ""
+
+msgctxt "14408"
+msgid "Talk_No"
+msgstr ""

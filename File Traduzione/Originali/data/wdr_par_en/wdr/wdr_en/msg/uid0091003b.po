@@ -1,0 +1,140 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid "There you are..."
+msgstr ""
+
+msgctxt "76"
+msgid "You gonna let me see this boss of yours or what?"
+msgstr ""
+
+msgctxt "88"
+msgid "Patience, my friend, patience."
+msgstr ""
+
+msgctxt "100"
+msgid "You know, as long as I've been a hitman, I've held my place at the top."
+msgstr ""
+
+msgctxt "112"
+msgid "My skills come naturally to me, and killing is effortless."
+msgstr ""
+
+msgctxt "124"
+msgid ""
+"I've killed many people. Getting paid for every kill... Honestly, I "
+"couldn't stop smiling."
+msgstr ""
+
+msgctxt "136"
+msgid "......"
+msgstr ""
+
+msgctxt "148"
+msgid "But then one day, I felt all empty inside."
+msgstr ""
+
+msgctxt "160"
+msgid "I'd always been proud of my strength, but I realized it had just been used."
+msgstr ""
+
+msgctxt "172"
+msgid "I got upset at all the rich people and yakuza who had used me."
+msgstr ""
+
+msgctxt "184"
+msgid ""
+"That's why I joined the Reapers. You might say it's a petty reason, but, "
+"hey..."
+msgstr ""
+
+msgctxt "196"
+msgid "So you weren't one of those yakuza guys who got kicked out of his family."
+msgstr ""
+
+msgctxt "208"
+msgid ""
+"That's right. But I chose to join up with our boss because of something he "
+"said to me."
+msgstr ""
+
+msgctxt "220"
+msgid ""
+"\"You must seek revenge. If you don't reap their souls yourself, you can "
+"never regain what you lost.\""
+msgstr ""
+
+msgctxt "232"
+msgid "That's why you call yourselves the Reapers, then?"
+msgstr ""
+
+msgctxt "244"
+msgid "After all, a hitman can't support himself unless somebody hires him."
+msgstr ""
+
+msgctxt "256"
+msgid ""
+"Once I couldn't bear being used anymore, I lost my only means of making a "
+"living."
+msgstr ""
+
+msgctxt "268"
+msgid ""
+"I had no home, no pride, no friends... It all slipped out of my hands and "
+"disappeared."
+msgstr ""
+
+msgctxt "280"
+msgid "I've been fighting as a Reaper to take it all back again."
+msgstr ""
+
+msgctxt "292"
+msgid "......"
+msgstr ""
+
+msgctxt "304"
+msgid "And when I lost to you, I lost another precious thing:"
+msgstr ""
+
+msgctxt "316"
+msgid "The pride of never losing to anyone."
+msgstr ""
+
+msgctxt "328"
+msgid "Is your pride that important?"
+msgstr ""
+
+msgctxt "340"
+msgid "Yes. I have to get revenge on you to take back that pride."
+msgstr ""
+
+msgctxt "352"
+msgid "That's the real reason you asked me to come here, isn't it?"
+msgstr ""
+
+msgctxt "364"
+msgid "Sorry. I guess you won't be meeting the boss after all..."
+msgstr ""
+
+msgctxt "376"
+msgid "'Cause you're gonna be dead long before you get the chance!"
+msgstr ""
+
+msgctxt "4312"
+msgid "Shinzaki"
+msgstr ""
+
+msgctxt "4316"
+msgid "Kiryu"
+msgstr ""

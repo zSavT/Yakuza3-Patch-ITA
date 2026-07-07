@@ -1,0 +1,195 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "76"
+msgid ""
+"Can't believe my braindead vegetable of an ex was in cahoots with that "
+"conniving Takeshita..."
+msgstr ""
+
+msgctxt "88"
+msgid "It's, like, how pathetic can ya get?"
+msgstr ""
+
+msgctxt "100"
+msgid "Is everything back to normal now?"
+msgstr ""
+
+msgctxt "112"
+msgid "Yup! Thanks to you, I'm totally in the clear!"
+msgstr ""
+
+msgctxt "124"
+msgid ""
+"Nice to know that someone's got my back... and boy am I glad it's you! "
+"<Color:255,200,200,255>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "136"
+msgid "But ya know... This whole wild fandanglement has taught me somethin'."
+msgstr ""
+
+msgctxt "148"
+msgid "Fan...danglement?"
+msgstr ""
+
+msgctxt "160"
+msgid "It's a word I made up. Anyway, remember what I said a while back?"
+msgstr ""
+
+msgctxt "172"
+msgid ""
+"The stuff my mama's been tellin' me... That I'd have to learn how to "
+"struggle... Cope with difficulty and all that."
+msgstr ""
+
+msgctxt "184"
+msgid ""
+"To be honest, I'm not entirely sure this experience lines up with what she "
+"said."
+msgstr ""
+
+msgctxt "196"
+msgid "But I did figure something out! Namely, that weird feeling I've been havin'."
+msgstr ""
+
+msgctxt "208"
+msgid "Oh?"
+msgstr ""
+
+msgctxt "220"
+msgid ""
+"Yeah! You see, I've been feelin' like something big's about to happen... "
+"Like my perspective on life's about to change."
+msgstr ""
+
+msgctxt "232"
+msgid "On one hand, there's so much I don't know about the world..."
+msgstr ""
+
+msgctxt "244"
+msgid ""
+"Yet, on the other hand, I have a lot of great opportunities in front of me. "
+"I've come a long way."
+msgstr ""
+
+msgctxt "256"
+msgid "......"
+msgstr ""
+
+msgctxt "268"
+msgid "So, Kiryu-san."
+msgstr ""
+
+msgctxt "280"
+msgid "I'm sayin' that all the time we spent together has really helped me grow!"
+msgstr ""
+
+msgctxt "292"
+msgid ""
+"You don't have to give me any credit. All I did was talk, and maybe sip a "
+"few drinks."
+msgstr ""
+
+msgctxt "304"
+msgid "Ahah. I figured you'd say something like that."
+msgstr ""
+
+msgctxt "316"
+msgid "You're... such a humble guy. <Color:255,200,200,255>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "328"
+msgid "But! That's exactly why I like ya!"
+msgstr ""
+
+msgctxt "340"
+msgid ""
+"Now, I normally wouldn't do this, but tonight I'll make an exception. Let's "
+"go out drinkin', Kiryu-san... Just the two of us."
+msgstr ""
+
+msgctxt "352"
+msgid "...Will you really be okay drinking alcohol?"
+msgstr ""
+
+msgctxt "364"
+msgid ""
+"Ah, I can handle a <Italic>little</Italic>! And don't worry⑬the place I "
+"have in mind is nice. But not so nice we can't get a little loopy, if we "
+"want to."
+msgstr ""
+
+msgctxt "376"
+msgid "Oh? Where is this place?"
+msgstr ""
+
+msgctxt "388"
+msgid ""
+"You'll just have to come and find out. "
+"<Color:255,200,200,255>⑮<Color:Default> So let me get the check real quick "
+"and we can bust on outta here."
+msgstr ""
+
+msgctxt "448"
+msgid "Kiryu-san. <Color:255,200,200,255>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "460"
+msgid "Yes?"
+msgstr ""
+
+msgctxt "472"
+msgid ""
+"I wanna show ya my appreciation for everything you've done for me... in a "
+"way I think you'll appreciate. <Color:255,200,200,255>⑮<Color:Default> Hope "
+"you're ready for the time of your life. "
+"<Color:255,200,200,255>⑮<Color:Default><Color:255,200,200,255"
+">⑮<Color:Default><Color:255,200,200,255>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "6192"
+msgid "Rin"
+msgstr ""
+
+msgctxt "6196"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "6200"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "6204"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "6208"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "6212"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "6216"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "6220"
+msgid "F_sxy_stand_sync_dakitukiA_st"
+msgstr ""
+
+msgctxt "6224"
+msgid "P_stand_sync_dakitukiA_st"
+msgstr ""

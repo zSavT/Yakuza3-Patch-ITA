@@ -1,0 +1,62 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "92"
+msgid ""
+"I just saw Mine, chairman of the Hakuho Clan. I didn't know he used this "
+"place too."
+msgstr ""
+
+msgctxt "104"
+msgid "You know Mine?"
+msgstr ""
+
+msgctxt "116"
+msgid ""
+"Of course. Mine's famous among the yakuza. He's young, but even at his age, "
+"he was somehow able to become an executive of the Tojo Clan."
+msgstr ""
+
+msgctxt "128"
+msgid ""
+"I haven't seen much of him recently, but I guess he's busy, what with the "
+"sixth chairman getting shot and all."
+msgstr ""
+
+msgctxt "140"
+msgid "Bet there's gonna be trouble soon."
+msgstr ""
+
+msgctxt "152"
+msgid "......"
+msgstr ""
+
+msgctxt "1048"
+msgid "Well-Dressed Man"
+msgstr ""
+
+msgctxt "1052"
+msgid "Talk_Kansin"
+msgstr ""
+
+msgctxt "1056"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1060"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "1064"
+msgid "Talk_Think"
+msgstr ""

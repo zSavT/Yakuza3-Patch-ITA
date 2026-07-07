@@ -1,0 +1,46 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "188"
+msgid "Thanks, Uncle Kaz!"
+msgstr ""
+
+msgctxt "212"
+msgid "But I really wanted that..."
+msgstr ""
+
+msgctxt "236"
+msgid "Uncle Kaz! I want a <Color:8>Sushi Set<Color:Default>!"
+msgstr ""
+
+msgctxt "260"
+msgid ""
+"Uncle Kaz, don't forget, we're out of <Color:8>Cooking Oil<Color:Default>. "
+"Let's pick some up."
+msgstr ""
+
+msgctxt "1064"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "1068"
+msgid "Talk_Request"
+msgstr ""
+
+msgctxt "1072"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "1076"
+msgid "Talk_Quest"
+msgstr ""

@@ -1,0 +1,246 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "92"
+msgid "Ungh! How the hell did that just happen...?"
+msgstr ""
+
+msgctxt "104"
+msgid ""
+"Amazing how you rounded up so many thugs, only to have them scatter like "
+"rats."
+msgstr ""
+
+msgctxt "116"
+msgid ""
+"Ouch, that hurts. I've been abandoned before... The last time, I was one of "
+"the thugs in the crowd, and my family abandoned us all..."
+msgstr ""
+
+msgctxt "128"
+msgid "What do you mean?"
+msgstr ""
+
+msgctxt "140"
+msgid "I relentlessly trained myself until I was sure of my strength."
+msgstr ""
+
+msgctxt "152"
+msgid "I focused solely on honing myself and my skills for the sake of my family."
+msgstr ""
+
+msgctxt "164"
+msgid ""
+"As I became stronger, they started giving me work that was even more "
+"important. It gave me purpose."
+msgstr ""
+
+msgctxt "176"
+msgid "One day, we got into a big showdown with a rival family."
+msgstr ""
+
+msgctxt "188"
+msgid ""
+"I thought my role was gonna be assassinating their key players, since I'd "
+"been given those kinds of important roles before."
+msgstr ""
+
+msgctxt "200"
+msgid "But it turns out I was just another disposable pawn to them..."
+msgstr ""
+
+msgctxt "212"
+msgid "......"
+msgstr ""
+
+msgctxt "224"
+msgid ""
+"I was treated just like all the other guys in the crowd, like the ones who "
+"only caused trouble and partied all the time..."
+msgstr ""
+
+msgctxt "236"
+msgid "I couldn't take it. I gave everything to my family, but I'd lost all hope."
+msgstr ""
+
+msgctxt "248"
+msgid "What was all that effort even for? It really got to me."
+msgstr ""
+
+msgctxt "260"
+msgid "I understand what you're getting at."
+msgstr ""
+
+msgctxt "272"
+msgid "Sadly, that sort of thing happens all the time."
+msgstr ""
+
+msgctxt "284"
+msgid ""
+"When it's an all-out conflict, everybody⑬even the boss⑬has his life on the "
+"line."
+msgstr ""
+
+msgctxt "296"
+msgid "You can't split hairs over those situations."
+msgstr ""
+
+msgctxt "308"
+msgid "Still..."
+msgstr ""
+
+msgctxt "320"
+msgid "You feel like you wasted all that hard work, is that right?"
+msgstr ""
+
+msgctxt "332"
+msgid ""
+"Well, you managed to survive the fight, didn't you? Isn't that what matters "
+"most?"
+msgstr ""
+
+msgctxt "344"
+msgid "......"
+msgstr ""
+
+msgctxt "356"
+msgid ""
+"Even though you're not in the family anymore, you can still rely on that "
+"strength you worked so hard to build up."
+msgstr ""
+
+msgctxt "368"
+msgid "A man who was truly strong wouldn't obsess over some half-baked revenge."
+msgstr ""
+
+msgctxt "380"
+msgid "......"
+msgstr ""
+
+msgctxt "392"
+msgid "What is real strength to you? Think about it."
+msgstr ""
+
+msgctxt "404"
+msgid "......"
+msgstr ""
+
+msgctxt "416"
+msgid "You might have a point..."
+msgstr ""
+
+msgctxt "428"
+msgid "I always trained my body, but I may have neglected my heart and mind."
+msgstr ""
+
+msgctxt "440"
+msgid "Maybe the HLA can help me take a good, hard look at myself again..."
+msgstr ""
+
+msgctxt "452"
+msgid "Sounds good."
+msgstr ""
+
+msgctxt "512"
+msgid "Are you Gohren?"
+msgstr ""
+
+msgctxt "524"
+msgid "Yeah. That's me. Who are you?"
+msgstr ""
+
+msgctxt "536"
+msgid "I'm with the Honest Living Association. I'm here to talk to you."
+msgstr ""
+
+msgctxt "548"
+msgid "So you're the guy who's been rounding up my buddies for the HLA, huh?"
+msgstr ""
+
+msgctxt "560"
+msgid "I'm impressed, I gotta admit. But you've been getting a little carried away."
+msgstr ""
+
+msgctxt "572"
+msgid "What do you mean?"
+msgstr ""
+
+msgctxt "584"
+msgid ""
+"My boss isn't too happy about all this. He ordered me to destroy the HLA by "
+"any means necessary."
+msgstr ""
+
+msgctxt "596"
+msgid ""
+"On top of that, he told me to find the bastard who's been capturing our men "
+"and tear him limb from limb. Looks like that bastard is you."
+msgstr ""
+
+msgctxt "632"
+msgid ""
+"I think I'll just carry out my second set of orders first, get you crossed "
+"off my to-do list..."
+msgstr ""
+
+msgctxt "644"
+msgid "And there are fifty other guys here who all second that motion."
+msgstr ""
+
+msgctxt "656"
+msgid "Think you stand a chance against us?"
+msgstr ""
+
+msgctxt "8056"
+msgid "Gohren"
+msgstr ""
+
+msgctxt "8060"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "8064"
+msgid "Idle"
+msgstr ""
+
+msgctxt "8068"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "8072"
+msgid "Talk_Udekumi_st"
+msgstr ""
+
+msgctxt "8076"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "8080"
+msgid "Talk_Udekumi_ed"
+msgstr ""
+
+msgctxt "8084"
+msgid "Talk_Kosite_st"
+msgstr ""
+
+msgctxt "8088"
+msgid "Talk_Kosite_ed"
+msgstr ""
+
+msgctxt "8092"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "8096"
+msgid "P_stand_tlk_phone_st"
+msgstr ""

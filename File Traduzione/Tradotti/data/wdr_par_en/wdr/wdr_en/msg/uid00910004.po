@@ -1,0 +1,432 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "208"
+msgid "You learned the Essence of Jumping."
+msgstr ""
+
+msgctxt "232"
+msgid ""
+"Great, Kiryu-san! 11/10 on the execution! That turned out\r\n"
+"even better than I had imagined!"
+msgstr ""
+
+msgctxt "244"
+msgid ""
+"Can't say I expected much, but I actually learned something.\r\n"
+"Thanks for the tip, Mack."
+msgstr ""
+
+msgctxt "256"
+msgid ""
+"Of course, Kiryu-san! Seeing you see what you saw, it felt\r\n"
+"like I was learning, too!"
+msgstr ""
+
+msgctxt "268"
+msgid ""
+"You know... I think you might be the guy who finally takes\r\n"
+"the perfect shot I've been after all these years."
+msgstr ""
+
+msgctxt "280"
+msgid "What do you mean, perfect shot?"
+msgstr ""
+
+msgctxt "292"
+msgid "That's the thing... I dunno what it is."
+msgstr ""
+
+msgctxt "304"
+msgid ""
+"I've touched hearts and minds with my photos, but I've\r\n"
+"never been satisfied with my work."
+msgstr ""
+
+msgctxt "316"
+msgid ""
+"So... I guess the perfect shot would be something that\r\n"
+"touches me just like I touched those other people!"
+msgstr ""
+
+msgctxt "328"
+msgid "Huh. Makes sense."
+msgstr ""
+
+msgctxt "340"
+msgid ""
+"Anyways, I'm off to travel the world! The cliffs of Machu\r\n"
+"Picchu! The splendor of Angkor Wat! The natural grandeur of\r\n"
+"the Norwegian fjords! Who knows where inspiration'll strike!"
+msgstr ""
+
+msgctxt "352"
+msgid ""
+"Oh, and I won't be leaving you in the dark, either! I'll\r\n"
+"shoot you an email if I hear of anything that might lead to a revelation!"
+msgstr ""
+
+msgctxt "364"
+msgid "Sounds good. Later, Mack."
+msgstr ""
+
+msgctxt "376"
+msgid "Until we meet again, Kiryu-san!"
+msgstr ""
+
+msgctxt "436"
+msgid "(Well that was... something. Time to go.)"
+msgstr ""
+
+msgctxt "448"
+msgid "You get what you're supposed to do, Kiryu-san?"
+msgstr ""
+
+msgctxt "460"
+msgid ""
+"All righty, then! Get your peepers trained on that old lady\r\n"
+"and get ready to learn!"
+msgstr ""
+
+msgctxt "472"
+msgid "Okay, I'll give you the rundown all over again!"
+msgstr ""
+
+msgctxt "484"
+msgid ""
+"First things first, you're gonna wanna take a peek at that\r\n"
+"sweet old bag of bones on the scooter there!"
+msgstr ""
+
+msgctxt "508"
+msgid ""
+"\r\n"
+"When you see something interesting, get close and\r\n"
+"press <Action:Button_R3@Adventure> to enter first person mode.\r\n"
+"\r\n"
+"If the \"Look\" message appears in the top right,\r\n"
+"inspiration is just a camera flash away!"
+msgstr ""
+
+msgctxt "520"
+msgid ""
+"Then, hit the right buttons at the right time\r\n"
+"to take photos of your inspiration!"
+msgstr ""
+
+msgctxt "532"
+msgid ""
+"If you successfully take all three photos, you will\r\n"
+"have the opportunity to prove what you've learned.\r\n"
+"Choose the right answer to gain the Revelation!"
+msgstr ""
+
+msgctxt "544"
+msgid ""
+"All righty, then! Get your peepers trained on that old lady\r\n"
+"and get ready to learn!"
+msgstr ""
+
+msgctxt "556"
+msgid "Aw, mannn! You were so close!"
+msgstr ""
+
+msgctxt "568"
+msgid "Hold up, she's gonna do it again!"
+msgstr ""
+
+msgctxt "580"
+msgid "Try and get the perfect shot this time, Kiryu-san!"
+msgstr ""
+
+msgctxt "592"
+msgid "Hey, you there!"
+msgstr ""
+
+msgctxt "604"
+msgid "Oh, yeah! You're perfect, man! That physique, that mystique!"
+msgstr ""
+
+msgctxt "616"
+msgid "Just perfect! Mm mmm!"
+msgstr ""
+
+msgctxt "628"
+msgid "...What do you want?"
+msgstr ""
+
+msgctxt "640"
+msgid ""
+"Oh, sorry for creeping you out. The name's Mack. I travel\r\n"
+"the globe, photographing only the absolute coolest shit the\r\n"
+"world has ever seen!"
+msgstr ""
+
+msgctxt "652"
+msgid "...Right. I'm Kiryu."
+msgstr ""
+
+msgctxt "664"
+msgid "Do you need something? I kinda have places to be."
+msgstr ""
+
+msgctxt "676"
+msgid "You know what a Revelation is, Kiryu-san?"
+msgstr ""
+
+msgctxt "688"
+msgid "It's... something like an epiphany, right?"
+msgstr ""
+
+msgctxt "700"
+msgid "Bingo ringo, my man!"
+msgstr ""
+
+msgctxt "712"
+msgid ""
+"Lemme tell you, every single shot I take tries to drag the\r\n"
+"pure beauty out of everything. Nature, people, the works."
+msgstr ""
+
+msgctxt "724"
+msgid ""
+"Now a Revelation? That's basically a moment of mental\r\n"
+"clarity that only comes when you see that pure beauty."
+msgstr ""
+
+msgctxt "736"
+msgid ""
+"Wanna learn how to learn 'em, Kiryu-san? I promise they'll\r\n"
+"come in major handy!"
+msgstr ""
+
+msgctxt "748"
+msgid ""
+"Oh, so you're not a creep. Guess that's what I get for\r\n"
+"assuming."
+msgstr ""
+
+msgctxt "760"
+msgid ""
+"Either way, I'm not much of a photographer. I don't even\r\n"
+"own a camera."
+msgstr ""
+
+msgctxt "772"
+msgid "No problemo, big boy!"
+msgstr ""
+
+msgctxt "784"
+msgid "Anything'll work, even a phone camera!"
+msgstr ""
+
+msgctxt "796"
+msgid "You see, it's all about the method, not the tool."
+msgstr ""
+
+msgctxt "808"
+msgid ""
+"Trust me, Kiryu-san. I got a third eye for talent, and\r\n"
+"you've got it oozing outta your pores!"
+msgstr ""
+
+msgctxt "820"
+msgid ""
+"Uh... Thanks? Anyway, are you sure this'll work with just my\r\n"
+"phone camera?"
+msgstr ""
+
+msgctxt "832"
+msgid "Of course! Just step on over here for a sec."
+msgstr ""
+
+msgctxt "904"
+msgid "Now where's that shot? Hmmm..."
+msgstr ""
+
+msgctxt "916"
+msgid "Ah, Kiryu-san! I can feel it!"
+msgstr ""
+
+msgctxt "988"
+msgid ""
+"There you go. Take a peek at that sweet old bag of bones on\r\n"
+"the scooter."
+msgstr ""
+
+msgctxt "1012"
+msgid "Something's gonna go down here, believe you me!"
+msgstr ""
+
+msgctxt "1024"
+msgid ""
+"And when it does, a flash of inspiration's gonna strike you\r\n"
+"like a friggin' sledgehammer to the temple!"
+msgstr ""
+
+msgctxt "1036"
+msgid ""
+"Oh, and don't forget to blog about it afterward! Gotta\r\n"
+"spread the love, get those sweet, sweet internet points."
+msgstr ""
+
+msgctxt "1048"
+msgid "...I have no idea what you're talking about."
+msgstr ""
+
+msgctxt "1060"
+msgid "Don't worry, I'll show you the ropes!"
+msgstr ""
+
+msgctxt "1132"
+msgid ""
+"See? All you gotta do is spill your heart out, press that\r\n"
+"big red update button... and voilà!"
+msgstr ""
+
+msgctxt "1144"
+msgid "Huh."
+msgstr ""
+
+msgctxt "1156"
+msgid "See? Not so tough!"
+msgstr ""
+
+msgctxt "1168"
+msgid "...Yeah, I guess not."
+msgstr ""
+
+msgctxt "1252"
+msgid ""
+"Now then, Kiryu-san! Keep your eyes tuned on that scooter\r\n"
+"and get ready to be inspired!"
+msgstr ""
+
+msgctxt "1264"
+msgid "(...Is this really gonna work? Guess I'll find out soon enough.)"
+msgstr ""
+
+msgctxt "1276"
+msgid ""
+"\r\n"
+"When you see something interesting, get close and\r\n"
+"press <Action:Button_R3@Adventure> to enter first person mode.\r\n"
+"\r\n"
+"If the \"Look\" message appears in the top right,\r\n"
+"inspiration is just a camera flash away!"
+msgstr ""
+
+msgctxt "1288"
+msgid ""
+"Then, hit the right buttons at the right time\r\n"
+"to take photos of your inspiration!"
+msgstr ""
+
+msgctxt "1300"
+msgid ""
+"If you successfully take all three photos, you will\r\n"
+"have the opportunity to prove what you've learned.\r\n"
+"Choose the right answer to gain the Revelation!"
+msgstr ""
+
+msgctxt "1312"
+msgid "I think so."
+msgstr ""
+
+msgctxt "1324"
+msgid "Actually, I need to hear it again."
+msgstr ""
+
+msgctxt "14020"
+msgid "Mack"
+msgstr ""
+
+msgctxt "14024"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "14028"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "14032"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "14036"
+msgid "Talk_Kamae"
+msgstr ""
+
+msgctxt "14040"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "14044"
+msgid "Talk_Away"
+msgstr ""
+
+msgctxt "14048"
+msgid "Revelations"
+msgstr ""
+
+msgctxt "14052"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "14056"
+msgid "Cheerful Foreigner"
+msgstr ""
+
+msgctxt "14060"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "14064"
+msgid "Talk_Kosite_st"
+msgstr ""
+
+msgctxt "14068"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "14072"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "14076"
+msgid "Talk_Kosite_ed"
+msgstr ""
+
+msgctxt "14080"
+msgid "Talk_NoBig"
+msgstr ""
+
+msgctxt "14084"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "14088"
+msgid "M_nml_stand"
+msgstr ""
+
+msgctxt "14092"
+msgid "Mail_lp"
+msgstr ""
+
+msgctxt "14096"
+msgid "M_gai_stand"
+msgstr ""
+
+msgctxt "14100"
+msgid "Idle"
+msgstr ""

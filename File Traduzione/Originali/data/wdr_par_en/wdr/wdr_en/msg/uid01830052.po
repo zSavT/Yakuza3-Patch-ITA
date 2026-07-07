@@ -1,0 +1,80 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "168"
+msgid "Are you going somewhere, Uncle Kaz?"
+msgstr ""
+
+msgctxt "180"
+msgid "...Yeah. I need to talk to Majima-san before we leave."
+msgstr ""
+
+msgctxt "192"
+msgid "Can I come?"
+msgstr ""
+
+msgctxt "204"
+msgid ""
+"Sorry, but I need you to be a big girl and stay here, okay?\r\n"
+"Majima-san and I have some adult things to discuss."
+msgstr ""
+
+msgctxt "216"
+msgid ""
+"Oh... Well are you going now? I thought we were gonna spend\r\n"
+"some time together..."
+msgstr ""
+
+msgctxt "228"
+msgid "Well, maybe a little more time wouldn't hurt."
+msgstr ""
+
+msgctxt "240"
+msgid "Yay! Where do you wanna go!?"
+msgstr ""
+
+msgctxt "264"
+msgid "Sorry, Haruka. It has to be now."
+msgstr ""
+
+msgctxt "276"
+msgid "...All right. Just don't take too long, okay?"
+msgstr ""
+
+msgctxt "312"
+msgid "(Can't go without saying goodbye to Kazuki and Emoto.)"
+msgstr ""
+
+msgctxt "348"
+msgid "Maybe a little more time wouldn't hurt."
+msgstr ""
+
+msgctxt "360"
+msgid "Sorry, Haruka. It has to be now."
+msgstr ""
+
+msgctxt "2236"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "2240"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "2244"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "2248"
+msgid "Talk_Yes"
+msgstr ""

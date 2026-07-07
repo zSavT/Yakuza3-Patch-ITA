@@ -1,0 +1,62 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid ""
+"We should have a welcoming party for Saki-chan tonight! I'll make us a huge "
+"feast!"
+msgstr ""
+
+msgctxt "76"
+msgid "Okay! I can go out and get supplies! Taichi! Come shopping with me!"
+msgstr ""
+
+msgctxt "88"
+msgid ""
+"No, Taichi's got too much school work left to do. Take Koji if you want to "
+"take somebody."
+msgstr ""
+
+msgctxt "100"
+msgid ""
+"Hmph! Taichi eats twice as much as anybody else, but he only does half the "
+"work!"
+msgstr ""
+
+msgctxt "112"
+msgid "Ahahaha!"
+msgstr ""
+
+msgctxt "124"
+msgid "What do you think of the kids, Saki? Think you'll get along with them?"
+msgstr ""
+
+msgctxt "136"
+msgid "..."
+msgstr ""
+
+msgctxt "1048"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "1052"
+msgid "Ayako"
+msgstr ""
+
+msgctxt "1056"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1060"
+msgid "Saki"
+msgstr ""

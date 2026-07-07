@@ -1,0 +1,234 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "79\t167"
+msgid "Do you know the man who shot Daigo?"
+msgstr ""
+
+msgctxt "178\t258"
+msgid "Unfortunately, I can't say I do."
+msgstr ""
+
+msgctxt "266\t318"
+msgid "I should've known."
+msgstr ""
+
+msgctxt "332\t515"
+msgid ""
+"You mean that Kazama look-alike, right?\\n"
+"Damn. Wish we knew what he wants."
+msgstr ""
+
+msgctxt "550\t697"
+msgid ""
+"Wait, did you say Kazama?\\n"
+"Is he the one who pulled the trigger?"
+msgstr ""
+
+msgctxt "720\t780"
+msgid "Do you know him?"
+msgstr ""
+
+msgctxt "816\t876"
+msgid "Mhm."
+msgstr ""
+
+msgctxt "884\t1096"
+msgid ""
+"If the Kazama I know and the one you're\\n"
+"talking about are the same man, that is."
+msgstr ""
+
+msgctxt "1109\t1313"
+msgid ""
+"Then tell me. This Kazama you know...\\n"
+"Just who is he?"
+msgstr ""
+
+msgctxt "1341\t1401"
+msgid "Joji Kazama."
+msgstr ""
+
+msgctxt "1405\t1623"
+msgid ""
+"Younger brother of Shintaro Kazama, former patriarch\\n"
+"of the Kazama Family you once belonged to."
+msgstr ""
+
+msgctxt "1634\t1740"
+msgid "Kazama-san had... a brother?"
+msgstr ""
+
+msgctxt "1762\t1818"
+msgid "You weren't aware?"
+msgstr ""
+
+msgctxt "1822\t1877"
+msgid "No."
+msgstr ""
+
+msgctxt "1882\t2044"
+msgid ""
+"I see. I suppose it's not a surprise\\n"
+"he never mentioned that fact."
+msgstr ""
+
+msgctxt "2053\t2108"
+msgid "It's not?"
+msgstr ""
+
+msgctxt "2112\t2250"
+msgid "No. You see, after Shintaro lost both his parents at a very young age..."
+msgstr ""
+
+msgctxt "2265\t2392"
+msgid "His brother Joji was his only surviving relative."
+msgstr ""
+
+msgctxt "2395\t2485"
+msgid "Such a bond is nigh unbreakable."
+msgstr ""
+
+msgctxt "2557\t2744"
+msgid ""
+"If he and Joji were really that tight-knit,\\n"
+"you'd think he would've mentioned the guy to Kiryu."
+msgstr ""
+
+msgctxt "2758\t2850"
+msgid "How close they were doesn't matter."
+msgstr ""
+
+msgctxt "2854\t3055"
+msgid ""
+"There's simply no chance they could have\\n"
+"lived as normal brothers. None at all."
+msgstr ""
+
+msgctxt "3061\t3121"
+msgid "And why's that?"
+msgstr ""
+
+msgctxt "3151\t3310"
+msgid "They were walking two conflicting paths in life."
+msgstr ""
+
+msgctxt "3322\t3432"
+msgid "So wait. You're saying Kazama's brother was..."
+msgstr ""
+
+msgctxt "3440\t3487"
+msgid "A cop."
+msgstr ""
+
+msgctxt "3490\t3708"
+msgid ""
+"He used to work in what is now currently\\n"
+"known as the Foreign Affairs Division."
+msgstr ""
+
+msgctxt "3710\t3820"
+msgid "Whoa. Only the most elite officers get in there!"
+msgstr ""
+
+msgctxt "3859\t4044"
+msgid ""
+"Elite, huh? I can see how you'd think so,\\n"
+"given your history on the force."
+msgstr ""
+
+msgctxt "4058\t4107"
+msgid "It's funny, though."
+msgstr ""
+
+msgctxt "4109\t4294"
+msgid ""
+"Two men who wore the same badge to\\n"
+"protect the future of our nation..."
+msgstr ""
+
+msgctxt "4296\t4547"
+msgid ""
+"One sits in this stuffy office sipping whisky all day,\\n"
+"the other plies his trade on American shores."
+msgstr ""
+
+msgctxt "4562\t4655"
+msgid "What? You don't mean..."
+msgstr ""
+
+msgctxt "4670\t4798"
+msgid "Joji and I came up through the ranks together."
+msgstr ""
+
+msgctxt "4848\t4941"
+msgid "He's the only friend I have in this harsh world."
+msgstr ""
+
+msgctxt "4943\t5076"
+msgid "What? You and Kazama's brother!?"
+msgstr ""
+
+msgctxt "5088\t5313"
+msgid ""
+"Everything that's happened in Okinawa to this point...\\n"
+"Joji and I orchestrated the whole thing."
+msgstr ""
+
+msgctxt "5323\t5443"
+msgid "What do you mean, \"orchestrated\"?"
+msgstr ""
+
+msgctxt "5447\t5640"
+msgid ""
+"I formulated the plan, while Joji used\\n"
+"his organization to carry it out."
+msgstr ""
+
+msgctxt "5646\t5875"
+msgid ""
+"Then... Joji shooting Daigo.\\n"
+"Was that part of the plan, too?"
+msgstr ""
+
+msgctxt "5880\t5940"
+msgid "I can't rule out the possibility."
+msgstr ""
+
+msgctxt "5943\t6116"
+msgid ""
+"And what organization are you talking about?\\n"
+"Is Joji still with the force?"
+msgstr ""
+
+msgctxt "6124\t6184"
+msgid "No."
+msgstr ""
+
+msgctxt "6189\t6307"
+msgid "He left the Japanese police years ago."
+msgstr ""
+
+msgctxt "6314\t6398"
+msgid "Then what are you talking about?"
+msgstr ""
+
+msgctxt "6436\t6550"
+msgid "He's working for the American CIA. "
+msgstr ""
+
+msgctxt "6606\t6791"
+msgid ""
+"To be precise, he's with the Central Intelligence\\n"
+"Agency's Far East Intelligence division."
+msgstr ""

@@ -1,0 +1,78 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "96"
+msgid "Holy shit... You're strong..."
+msgstr ""
+
+msgctxt "108"
+msgid "I'm going in."
+msgstr ""
+
+msgctxt "132"
+msgid "Is this Samejima's office?"
+msgstr ""
+
+msgctxt "144"
+msgid "Huh? Who are you?"
+msgstr ""
+
+msgctxt "156"
+msgid ""
+"I'm here to see Samejima. If you don't want to get hurt, you\r\n"
+"better step aside."
+msgstr ""
+
+msgctxt "168"
+msgid ""
+"If you got a message, I can pass it on to him. Otherwise,\r\n"
+"get the hell outta here."
+msgstr ""
+
+msgctxt "180"
+msgid "I need to see him face to face. Get out of my way."
+msgstr ""
+
+msgctxt "192"
+msgid ""
+"Not too bright, are ya, dumbass? Maybe I better knock a\r\n"
+"little sense into you."
+msgstr ""
+
+msgctxt "204"
+msgid "This is no place for the likes of you!"
+msgstr ""
+
+msgctxt "216"
+msgid "Maybe this'll teach ya!"
+msgstr ""
+
+msgctxt "1788"
+msgid "Guard"
+msgstr ""
+
+msgctxt "1792"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1796"
+msgid "Talk_Away"
+msgstr ""
+
+msgctxt "1800"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "1804"
+msgid "Talk_Angry"
+msgstr ""

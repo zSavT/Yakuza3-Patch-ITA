@@ -1,0 +1,80 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "103\t181"
+msgid "These're our stompin' grounds, asshole!"
+msgstr ""
+
+msgctxt "210\t296"
+msgid "Now step aside and hand us the girl!"
+msgstr ""
+
+msgctxt "340\t438"
+msgid "We don't got time for your bullshit heroics."
+msgstr ""
+
+msgctxt "476\t539"
+msgid "The hell are you, huh?"
+msgstr ""
+
+msgctxt "540\t587"
+msgid "Aniki!"
+msgstr ""
+
+msgctxt "588\t721"
+msgid ""
+"Sorry. I heard yelling,\\n"
+"so I had to come check it out."
+msgstr ""
+
+msgctxt "722\t858"
+msgid ""
+"Should've gone the other way, pal.\\n"
+"Now turn around before we make you!"
+msgstr ""
+
+msgctxt "887\t998"
+msgid ""
+"This is the girl?\\n"
+"The one they were trying to take?"
+msgstr ""
+
+msgctxt "999\t1112"
+msgid "Yup. They wouldn't stop, even after she refused."
+msgstr ""
+
+msgctxt "1147\t1214"
+msgid "Is that so?"
+msgstr ""
+
+msgctxt "1225\t1347"
+msgid ""
+"Who. Gives. A shit?\\n"
+"Nothin' you can do about it, anyway."
+msgstr ""
+
+msgctxt "1348\t1426"
+msgid "We're un-freakin'-stoppable!"
+msgstr ""
+
+msgctxt "1482\t1539"
+msgid "What's that supposed to mean?"
+msgstr ""
+
+msgctxt "1558\t1699"
+msgid "It means, fix your eyes on this!"
+msgstr ""
+
+msgctxt "1705\t1760"
+msgid "\"Nishiki\""
+msgstr ""

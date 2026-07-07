@@ -1,0 +1,72 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "100"
+msgid "Hello? Is this Kiryu-san?"
+msgstr ""
+
+msgctxt "112"
+msgid "Yeah, that's me. Who's this?"
+msgstr ""
+
+msgctxt "124"
+msgid ""
+"I'm calling from Adam, a host club in Kamurocho. Do you know a girl named "
+"Yui?"
+msgstr ""
+
+msgctxt "136"
+msgid "Yui? Is her last name Hatano?"
+msgstr ""
+
+msgctxt "148"
+msgid ""
+"Yeah, that's the one. Unfortunately, she's caused a disturbance at our "
+"club, and is refusing to leave..."
+msgstr ""
+
+msgctxt "160"
+msgid "She kept yelling, \"Call Kiryu-san! Call Kiryu-san!\" so..."
+msgstr ""
+
+msgctxt "172"
+msgid "......"
+msgstr ""
+
+msgctxt "184"
+msgid "I'm sorry to bother you, sir, but could you please come pick her up?"
+msgstr ""
+
+msgctxt "196"
+msgid "All right."
+msgstr ""
+
+msgctxt "1668"
+msgid "P_stand_tlk_phone_st"
+msgstr ""
+
+msgctxt "1672"
+msgid "Blocked Number"
+msgstr ""
+
+msgctxt "1676"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1680"
+msgid "P_stand_tlk_phone_ed"
+msgstr ""
+
+msgctxt "1684"
+msgid "dummy"
+msgstr ""

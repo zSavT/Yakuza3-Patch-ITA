@@ -1,0 +1,124 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "112"
+msgid "Kana! I think I found Newton."
+msgstr ""
+
+msgctxt "124"
+msgid "*whimper*"
+msgstr ""
+
+msgctxt "136"
+msgid "Newton!"
+msgstr ""
+
+msgctxt "148"
+msgid "Where have you been? I've been looking all over for you!"
+msgstr ""
+
+msgctxt "160"
+msgid "*sob* I'm so glad you're safe..."
+msgstr ""
+
+msgctxt "184"
+msgid "Kana! Is this Newton?"
+msgstr ""
+
+msgctxt "196"
+msgid "*whimper*"
+msgstr ""
+
+msgctxt "208"
+msgid "Kiryu-san, sorry, but that's not Newton..."
+msgstr ""
+
+msgctxt "220"
+msgid "In fact, I think you stole someone else's pet..."
+msgstr ""
+
+msgctxt "232"
+msgid "Didn't I tell you Newton was a dachshund?"
+msgstr ""
+
+msgctxt "244"
+msgid "Oh, right... I'll be back."
+msgstr ""
+
+msgctxt "292"
+msgid "Kana! Is this Newton?"
+msgstr ""
+
+msgctxt "304"
+msgid "*pant* *pant*"
+msgstr ""
+
+msgctxt "316"
+msgid "Kiryu-san, this isn't Newton... Didn't I tell you Newton was a dachshund?"
+msgstr ""
+
+msgctxt "328"
+msgid "This is not a dachshund..."
+msgstr ""
+
+msgctxt "340"
+msgid "And Newton wouldn't be panting so much..."
+msgstr ""
+
+msgctxt "352"
+msgid "Oh, right... I'll be back."
+msgstr ""
+
+msgctxt "400"
+msgid "Where's Newton? Did you find her?"
+msgstr ""
+
+msgctxt "412"
+msgid "Not yet. Hold on a little longer."
+msgstr ""
+
+msgctxt "424"
+msgid "I'll find her for you, don't worry..."
+msgstr ""
+
+msgctxt "436"
+msgid "Okay... I'm counting on you!"
+msgstr ""
+
+msgctxt "2980"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "2984"
+msgid "Dog"
+msgstr ""
+
+msgctxt "2988"
+msgid "Kana"
+msgstr ""
+
+msgctxt "2992"
+msgid "SetF_nml_stand_sinasadame_02"
+msgstr ""
+
+msgctxt "2996"
+msgid "dummy"
+msgstr ""
+
+msgctxt "3000"
+msgid "0"
+msgstr ""
+
+msgctxt "3004"
+msgid "Talk_Ojigi"
+msgstr ""

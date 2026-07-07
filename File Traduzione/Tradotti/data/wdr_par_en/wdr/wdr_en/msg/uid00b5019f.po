@@ -1,0 +1,237 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "156"
+msgid "Haahh... Haahh... Haahh... You ain't no pitchman, are ya?"
+msgstr ""
+
+msgctxt "168"
+msgid "No, but I would like to pitch an idea. You ready to listen?"
+msgstr ""
+
+msgctxt "180"
+msgid "Fine. What do you want?"
+msgstr ""
+
+msgctxt "192"
+msgid ""
+"I'm working for a casino looking for bouncers. They asked me\r\n"
+"to bring you there."
+msgstr ""
+
+msgctxt "204"
+msgid ""
+"Look, I'm a pro boxer. One of my opponents died in the ring,\r\n"
+"and then some other stuff happened, and... Well, they forced\r\n"
+"me out."
+msgstr ""
+
+msgctxt "216"
+msgid "Why would you want somebody like me as a bouncer?"
+msgstr ""
+
+msgctxt "228"
+msgid ""
+"Wouldn't it be a shame to let those fists of yours go to\r\n"
+"waste?"
+msgstr ""
+
+msgctxt "240"
+msgid "......"
+msgstr ""
+
+msgctxt "252"
+msgid "I wanna go back to boxing, to get back in the ring..."
+msgstr ""
+
+msgctxt "264"
+msgid ""
+"I wouldn't mind doin' some bouncer work, but in return,\r\n"
+"you gotta find some way to get me back in the game."
+msgstr ""
+
+msgctxt "276"
+msgid ""
+"I can't help you with that. That's something you have to do\r\n"
+"on your own."
+msgstr ""
+
+msgctxt "288"
+msgid "So that's how it is..."
+msgstr ""
+
+msgctxt "300"
+msgid ""
+"Look, I understand how you feel. Just keep believing in\r\n"
+"yourself, and sooner or later you'll get your chance."
+msgstr ""
+
+msgctxt "312"
+msgid "The important thing is to stay strong."
+msgstr ""
+
+msgctxt "324"
+msgid ""
+"But if you're out of shape when your chance finally comes,\r\n"
+"you'll never find your way back into the ring."
+msgstr ""
+
+msgctxt "336"
+msgid "......"
+msgstr ""
+
+msgctxt "348"
+msgid ""
+"It might sound like I'm trying to feed you a line, but the\r\n"
+"thing you need to do right now is keep fighting."
+msgstr ""
+
+msgctxt "360"
+msgid ""
+"Wouldn't it be better to do that as a bouncer instead of\r\n"
+"causing trouble around town?"
+msgstr ""
+
+msgctxt "372"
+msgid ""
+"...You know, you're right. Fine. I accept your offer.\r\n"
+"So where is this place?"
+msgstr ""
+
+msgctxt "384"
+msgid ""
+"It's in a building on Park Boulevard. I'll give you the number.\r\n"
+"You can go there whenever you're ready."
+msgstr ""
+
+msgctxt "396"
+msgid ""
+"I'll go there as soon as I sober up a little. And... thanks\r\n"
+"for the talk. Here, you can have this."
+msgstr ""
+
+msgctxt "408"
+msgid "You got a <Color:8>Rage Bracelet<Color:Default>."
+msgstr ""
+
+msgctxt "492"
+msgid "You got 5,000 EXP."
+msgstr ""
+
+msgctxt "540"
+msgid "Hey, are you Sendo?"
+msgstr ""
+
+msgctxt "552"
+msgid ""
+"Yeah? Who are you? Some kind of pitchman, or barker, or...\r\n"
+"Whaddya call those guys who promote for those clubs?"
+msgstr ""
+
+msgctxt "564"
+msgid "I know of a place you might like."
+msgstr ""
+
+msgctxt "576"
+msgid "Oh yeah? Then show me pictures of the girls."
+msgstr ""
+
+msgctxt "588"
+msgid "......"
+msgstr ""
+
+msgctxt "600"
+msgid ""
+"I can't say anything until I see the photos. If you're\r\n"
+"really promoting for a club, you oughta have pictures."
+msgstr ""
+
+msgctxt "612"
+msgid "I wanted to talk to you. Got a minute to spare?"
+msgstr ""
+
+msgctxt "624"
+msgid ""
+"Like hell I do... I'm still tryin' to get over this hideous\r\n"
+"monstrosity they introduced me to. So leave me alone."
+msgstr ""
+
+msgctxt "636"
+msgid "......"
+msgstr ""
+
+msgctxt "648"
+msgid "Hey..."
+msgstr ""
+
+msgctxt "660"
+msgid "I told you I was mad enough already, ya jerkoff!"
+msgstr ""
+
+msgctxt "672"
+msgid ""
+"You know what I do to people who don't learn the first\r\n"
+"time!? I kick their asses!"
+msgstr ""
+
+msgctxt "696"
+msgid "Try to Recruit Him"
+msgstr ""
+
+msgctxt "708"
+msgid "Pretend to Promote"
+msgstr ""
+
+msgctxt "6476"
+msgid "Sendo"
+msgstr ""
+
+msgctxt "6480"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "6484"
+msgid "Talk_Kamae"
+msgstr ""
+
+msgctxt "6488"
+msgid "0"
+msgstr ""
+
+msgctxt "6492"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "6496"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "6500"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "6504"
+msgid "dummy"
+msgstr ""
+
+msgctxt "6508"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "6512"
+msgid "Talk_Send"
+msgstr ""
+
+msgctxt "6516"
+msgid "Talk_Angry"
+msgstr ""

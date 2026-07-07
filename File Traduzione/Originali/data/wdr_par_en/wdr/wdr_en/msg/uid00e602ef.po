@@ -1,0 +1,285 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "152"
+msgid "(It's that woman from before.)"
+msgstr ""
+
+msgctxt "164"
+msgid ""
+"Ｏｈ，　ｗｅ'ｖｅ　ｍｅｔ　ａ　ｆｅｗ　ｔｉｍｅｓ\r\n"
+"ｎｏｗ！　Ｆｕｎｎｙ　ｈｏｗ　ｗｅ　ｋｅｅｐ\r\n"
+"ｒｕｎｎｉｎｇ　ｉｎｔｏ　ｅａｃｈ　ｏｔｈｅｒ．"
+msgstr ""
+
+msgctxt "176"
+msgid "Ｈｏｗ　ａｂｏｕｔ　ｗｅ　ｇｒａｂ　ａ　ｄｒｉｎｋ？"
+msgstr ""
+
+msgctxt "188"
+msgid ""
+"(...Sometimes I think English is completely beyond my\r\n"
+"comprehension.)"
+msgstr ""
+
+msgctxt "200"
+msgid ""
+"(Maybe that English handbook could've given me at least some\r\n"
+"kind of clue...)"
+msgstr ""
+
+msgctxt "212"
+msgid "Ｃａｎ'ｔ　ｙｏｕ　ｕｎｄｅｒｓｔａｎｄ　ｍｅ？"
+msgstr ""
+
+msgctxt "224"
+msgid "(Could she be... inviting me out for a drink?)"
+msgstr ""
+
+msgctxt "296"
+msgid "Ｍｙ　ｎａｍｅ'ｓ　Ｓｔａｃｙ．"
+msgstr ""
+
+msgctxt "308"
+msgid ""
+"Ｈｉ，　Ｓｔａｃｙ．　Ｉ'ｍ　Ｋｉｒｙｕ．．．\r\n"
+"Ｋａｚｕｍａ　Ｋｉｒｙｕ．"
+msgstr ""
+
+msgctxt "320"
+msgid ""
+"Ｗｈａｔ　ａ　ｎａｍｅ！　Ｉ　ｗｏｎｄｅｒ\r\n"
+"ｗｈａｔ　ｉｔ　ｍｅａｎｓ．"
+msgstr ""
+
+msgctxt "332"
+msgid ""
+"Ｉ　ｗｉｓｈ　Ｉ　ｋｎｅｗ　ｍｏｒｅ\r\n"
+"Ｊａｐａｎｅｓｅ．．．　Ｈｅｒｅ　ｇｏｅｓ！\r\n"
+"You are always so kind to me, Kiryu."
+msgstr ""
+
+msgctxt "344"
+msgid "You always help me... when I'm in trouble."
+msgstr ""
+
+msgctxt "356"
+msgid "......"
+msgstr ""
+
+msgctxt "368"
+msgid ""
+"Ｙｏｕ　ｋｎｏｗ，　Ｋｉｒｙｕ．．．　Ｉ\r\n"
+"ｄｏｎ'ｔ　ｗａｎｔ　ｔｏ　ｇｏ　ｈｏｍｅ\r\n"
+"ｔｏｎｉｇｈｔ． *giggle*"
+msgstr ""
+
+msgctxt "380"
+msgid ""
+"(She seems to be inviting me somewhere... Unless I'm totally\r\n"
+"mistaken, there should be some kind of phrase I can say in\r\n"
+"this situation... It was in the handbook.)"
+msgstr ""
+
+msgctxt "392"
+msgid ""
+"(When someone says they don't want to go home tonight...\r\n"
+"And they're out drinking with you... And they happen to be\r\n"
+"a beautiful woman... Then the best thing to say would be...)"
+msgstr ""
+
+msgctxt "404"
+msgid "Ｉ　ｄｏｎ'ｔ　ｄｅｓｅｒｖｅ　ｙｏｕｒ　ｌｏｖｅ．"
+msgstr ""
+
+msgctxt "416"
+msgid ""
+"Ｂｕｔ　ｙｏｕ　ｄｏ，　Ｋｉｒｙｕ．　Ｍｏｒｅ\r\n"
+"ｔｈａｎ　ｙｏｕ　ｋｎｏｗ．"
+msgstr ""
+
+msgctxt "488"
+msgid "I'm impressed. Your English... It's amazing."
+msgstr ""
+
+msgctxt "500"
+msgid ""
+"Ever since you helped me... I can only think about you.\r\n"
+"Nothing but you, Kiryu."
+msgstr ""
+
+msgctxt "512"
+msgid "Here... Please accept this."
+msgstr ""
+
+msgctxt "524"
+msgid "You got an <Color:8>Italian Necklace<Color:Default>."
+msgstr ""
+
+msgctxt "548"
+msgid "Will I... see you again?"
+msgstr ""
+
+msgctxt "632"
+msgid ""
+"(Thanks to that handbook, I managed to speak with her in\r\n"
+"English most of the time... even if I was just winging it.)"
+msgstr ""
+
+msgctxt "656"
+msgid "You got 3,000 EXP."
+msgstr ""
+
+msgctxt "668"
+msgid "Ｉ　ｌｏｖｅ　ｙｏｕ．"
+msgstr ""
+
+msgctxt "680"
+msgid "Ｏｈ，　Ｋｉｒｙｕ．　Ｙｏｕ'ｒｅ　ｓｏ　ｓｗｅｅｔ．"
+msgstr ""
+
+msgctxt "752"
+msgid "I'm impressed. Your English... It's amazing."
+msgstr ""
+
+msgctxt "764"
+msgid "Next time, I want to have a nice, long... chat."
+msgstr ""
+
+msgctxt "848"
+msgid ""
+"(Thanks to that handbook, I managed to speak with her in\r\n"
+"English most of the time... even if I was just winging it.)"
+msgstr ""
+
+msgctxt "872"
+msgid "You got 3,000 EXP."
+msgstr ""
+
+msgctxt "884"
+msgid "Ｉ　ｌｏｖｅ　Ｅｎｇｌｉｓｈ．"
+msgstr ""
+
+msgctxt "908"
+msgid "Ｅｎｇｌｉｓｈ？"
+msgstr ""
+
+msgctxt "920"
+msgid ""
+"Yeah. It's great getting to know all sorts of people I wouldn't normally "
+"interact with."
+msgstr ""
+
+msgctxt "992"
+msgid ""
+"Ｈｕｈ？　Ｈａｖｅ　ｙｏｕ　ｂｅｅｎ\r\n"
+"ｔａｌｋｉｎｇ　ｔｏ　ｏｔｈｅｒ　ｇｉｒｌｓ\r\n"
+"ｂｅｈｉｎｄ　ｍｙ　ｂａｃｋ！？"
+msgstr ""
+
+msgctxt "1004"
+msgid "(Wait, maybe that came out wrong...)"
+msgstr ""
+
+msgctxt "1016"
+msgid ""
+"Ｉｆ　ｙｏｕ　ｌｏｖｅ　ｔａｌｋｉｎｇ　ｔｏ\r\n"
+"ｏｔｈｅｒ　ｇｉｒｌｓ　ｓｏ　ｍｕｃｈ，　ｇｏ\r\n"
+"ｒｉｇｈｔ　ａｈｅａｄ！　Ｗｅ'ｒｅ　ｏｖｅｒ！"
+msgstr ""
+
+msgctxt "1100"
+msgid ""
+"(...Guess I totally blew that one. I'll make sure to read\r\n"
+"that English handbook more carefully next time.)"
+msgstr ""
+
+msgctxt "1124"
+msgid "You got 3,000 EXP."
+msgstr ""
+
+msgctxt "1136"
+msgid "Ｉ　ｄｏｎ'ｔ　ｄｅｓｅｒｖｅ　ｙｏｕｒ　ｌｏｖｅ．"
+msgstr ""
+
+msgctxt "1148"
+msgid "Ｉ　ｌｏｖｅ　ｙｏｕ．"
+msgstr ""
+
+msgctxt "1160"
+msgid "Ｉ　ｌｏｖｅ　Ｅｎｇｌｉｓｈ．"
+msgstr ""
+
+msgctxt "10280"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "10284"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "10288"
+msgid "Brunette Foreigner"
+msgstr ""
+
+msgctxt "10292"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "10296"
+msgid "P_sitcntL"
+msgstr ""
+
+msgctxt "10300"
+msgid "Idle"
+msgstr ""
+
+msgctxt "10304"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "10308"
+msgid "Stacy"
+msgstr ""
+
+msgctxt "10312"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "10316"
+msgid "P_stand"
+msgstr ""
+
+msgctxt "10320"
+msgid "F_sxy_stand"
+msgstr ""
+
+msgctxt "10324"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "10328"
+msgid "Sync_Send"
+msgstr ""
+
+msgctxt "10332"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "10336"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "10340"
+msgid "Talk_Angry"
+msgstr ""

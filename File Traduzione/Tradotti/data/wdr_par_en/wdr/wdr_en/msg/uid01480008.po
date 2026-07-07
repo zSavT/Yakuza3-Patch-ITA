@@ -1,0 +1,151 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "80"
+msgid "(Is that...?)"
+msgstr ""
+
+msgctxt "92"
+msgid "(That looks like Kinoshita's wife, Yuko.)"
+msgstr ""
+
+msgctxt "104"
+msgid "Oh, Kiryu-san. What brings you here?"
+msgstr ""
+
+msgctxt "116"
+msgid "Yuya, what can you tell me about that woman over there?"
+msgstr ""
+
+msgctxt "128"
+msgid "Who? You mean Yuko-san?"
+msgstr ""
+
+msgctxt "140"
+msgid ""
+"She's been a regular customer of ours for years. What do you\r\n"
+"want with her?"
+msgstr ""
+
+msgctxt "152"
+msgid "She looks awfully rich for somebody so young."
+msgstr ""
+
+msgctxt "164"
+msgid "She manages a venture-funded startup."
+msgstr ""
+
+msgctxt "176"
+msgid ""
+"Her company got popular making products targeted at young\r\n"
+"women, and it's been growing pretty fast over the last\r\n"
+"four, five years."
+msgstr ""
+
+msgctxt "188"
+msgid "Is that so?"
+msgstr ""
+
+msgctxt "248"
+msgid ""
+"Ooh, Yuya, who is that? I haven't seen him here before.\r\n"
+"Is he a new host?"
+msgstr ""
+
+msgctxt "260"
+msgid ""
+"Ah, Yuko-san. This is Kiryu-san. We owe a lot to this man\r\n"
+"here. And, no, he's not a host."
+msgstr ""
+
+msgctxt "272"
+msgid "Oh, I see. Well, that's unfortunate."
+msgstr ""
+
+msgctxt "284"
+msgid ""
+"This is my company, by the way. If you ever need anything,\r\n"
+"just give me a call."
+msgstr ""
+
+msgctxt "296"
+msgid "Sure."
+msgstr ""
+
+msgctxt "320"
+msgid "You got <Color:8>Yuko's Business Card<Color:Default>."
+msgstr ""
+
+msgctxt "344"
+msgid "Bye, now. Tonight was fantastic."
+msgstr ""
+
+msgctxt "356"
+msgid "We'll be looking forward to seeing you again!"
+msgstr ""
+
+msgctxt "4492"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "4496"
+msgid "Yuya"
+msgstr ""
+
+msgctxt "4500"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "4504"
+msgid "0"
+msgstr ""
+
+msgctxt "4508"
+msgid "F_sxy_stand"
+msgstr ""
+
+msgctxt "4512"
+msgid "F_yng_stand"
+msgstr ""
+
+msgctxt "4516"
+msgid "F_nml_stand"
+msgstr ""
+
+msgctxt "4520"
+msgid "Talk_Kamae"
+msgstr ""
+
+msgctxt "4524"
+msgid "Yuko"
+msgstr ""
+
+msgctxt "4528"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "4532"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "4536"
+msgid "Talk_Send"
+msgstr ""
+
+msgctxt "4540"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "4544"
+msgid "dummy"
+msgstr ""

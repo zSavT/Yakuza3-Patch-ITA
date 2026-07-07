@@ -1,0 +1,200 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "76"
+msgid "This is West Park? What the hell happened to it?"
+msgstr ""
+
+msgctxt "88"
+msgid "Where's all the homeless and their big old tent community?"
+msgstr ""
+
+msgctxt "100"
+msgid ""
+"A building called Kamurocho Hills should've gone up here by now, but it's "
+"still a vacant lot."
+msgstr ""
+
+msgctxt "112"
+msgid "This is where I met my boss for the first time."
+msgstr ""
+
+msgctxt "124"
+msgid "But the place I used to know is gone now..."
+msgstr ""
+
+msgctxt "148"
+msgid "Boss..."
+msgstr ""
+
+msgctxt "160"
+msgid "It's been a while, Tatsumi."
+msgstr ""
+
+msgctxt "184"
+msgid "What are you doing here, boss?"
+msgstr ""
+
+msgctxt "196"
+msgid ""
+"I heard from the young bucks you were back in town. Had a feeling you'd "
+"stop by West Park sooner or later."
+msgstr ""
+
+msgctxt "208"
+msgid ""
+"You been usin' the family to get revenge on me? Is that what this is all "
+"about?"
+msgstr ""
+
+msgctxt "220"
+msgid "Not even close. You and I live in different worlds now, Tatsumi."
+msgstr ""
+
+msgctxt "232"
+msgid ""
+"After you went to prison, I cut you off from the family. Officially and "
+"personally. You got no place in Kamurocho now."
+msgstr ""
+
+msgctxt "244"
+msgid "......"
+msgstr ""
+
+msgctxt "256"
+msgid ""
+"Even if I forgave you for the past, we still got plenty of boys who want "
+"you dead in the ground, no compromises."
+msgstr ""
+
+msgctxt "268"
+msgid "And I ain't got enough power to calm 'em all down myself."
+msgstr ""
+
+msgctxt "280"
+msgid "So get the hell out. Don't ever show your face in this city again."
+msgstr ""
+
+msgctxt "304"
+msgid "Yeah. Guess that's the only solution."
+msgstr ""
+
+msgctxt "316"
+msgid "......"
+msgstr ""
+
+msgctxt "340"
+msgid "Hey, boss? Can I ask you one more thing?"
+msgstr ""
+
+msgctxt "352"
+msgid "What?"
+msgstr ""
+
+msgctxt "364"
+msgid "My son. What happened with my son?"
+msgstr ""
+
+msgctxt "376"
+msgid ""
+"Don't worry about that. He's livin' safe and sound with his mother, way out "
+"in Tochigi."
+msgstr ""
+
+msgctxt "388"
+msgid "You tell him...?"
+msgstr ""
+
+msgctxt "400"
+msgid "We told him you're dead."
+msgstr ""
+
+msgctxt "412"
+msgid "He thinks I'm dead, huh...? Yeah, that's... I guess that's for the best."
+msgstr ""
+
+msgctxt "424"
+msgid "...I'm outta here, boss. Take care of yourself."
+msgstr ""
+
+msgctxt "436"
+msgid "Tatsumi... Thank you."
+msgstr ""
+
+msgctxt "508"
+msgid "Thanks for lookin' after Tatsumi for me."
+msgstr ""
+
+msgctxt "520"
+msgid ""
+"Here's a little token of my appreciation. Oughta come in handy for a guy "
+"like you."
+msgstr ""
+
+msgctxt "532"
+msgid "You got a <Color:8>Blood Brooch<Color:Default>."
+msgstr ""
+
+msgctxt "556"
+msgid ""
+"He's really a good man. Not cut out for this business. Guy like him belongs "
+"on the straight and narrow."
+msgstr ""
+
+msgctxt "628"
+msgid "(Tatsumi's boss seems to respect what kind of guy he is.)"
+msgstr ""
+
+msgctxt "652"
+msgid "You got 3,000 EXP."
+msgstr ""
+
+msgctxt "6888"
+msgid "Tatsumi"
+msgstr ""
+
+msgctxt "6892"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "6896"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "6900"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "6904"
+msgid "Patriarch"
+msgstr ""
+
+msgctxt "6908"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "6912"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "6916"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "6920"
+msgid "Talk_Send"
+msgstr ""
+
+msgctxt "6924"
+msgid "dummy"
+msgstr ""

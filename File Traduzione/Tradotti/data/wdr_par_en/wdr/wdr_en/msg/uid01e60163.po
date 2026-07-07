@@ -1,0 +1,118 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid "Nooo! We had a deeeaaal..."
+msgstr ""
+
+msgctxt "76"
+msgid "Don't take it too hard. There's always going to be someone better out there."
+msgstr ""
+
+msgctxt "88"
+msgid "But..."
+msgstr ""
+
+msgctxt "100"
+msgid "I know... Why don't you teach me how to play?"
+msgstr ""
+
+msgctxt "112"
+msgid ""
+"You're so good at darts, I never thought I could match up. But with a few "
+"lessons, maybe we could play together?"
+msgstr ""
+
+msgctxt "124"
+msgid "If we're going to date, it'd be more fun to play against each other, right?"
+msgstr ""
+
+msgctxt "136"
+msgid ""
+"Oh, Kanae-chan...! Let me go get the car! I know a great restaurant we can "
+"go to!"
+msgstr ""
+
+msgctxt "172"
+msgid ""
+"Thank you so much. You've given Masaki a good kick in the pants. I hope "
+"he's finally come around."
+msgstr ""
+
+msgctxt "184"
+msgid "It's not much, but please, take this. And thank you again."
+msgstr ""
+
+msgctxt "196"
+msgid "You got <Color:8>50,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "208"
+msgid "I'm not sure I did anything worth this..."
+msgstr ""
+
+msgctxt "220"
+msgid "Please, I have to thank you somehow. Bye! Sorry for all the trouble!"
+msgstr ""
+
+msgctxt "280"
+msgid "You got 3,000 EXP."
+msgstr ""
+
+msgctxt "3008"
+msgid "Masaki"
+msgstr ""
+
+msgctxt "3012"
+msgid "F_nml_stand"
+msgstr ""
+
+msgctxt "3016"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "3020"
+msgid "Kanae"
+msgstr ""
+
+msgctxt "3024"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "3028"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "3032"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "3036"
+msgid "Talk_Send"
+msgstr ""
+
+msgctxt "3040"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "3044"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "3048"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "3052"
+msgid "dummy"
+msgstr ""

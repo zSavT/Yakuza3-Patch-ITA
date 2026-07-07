@@ -1,0 +1,500 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "396"
+msgid "Hey, buddy! You're the one who bought that bag, aren'tcha?"
+msgstr ""
+
+msgctxt "408"
+msgid "Oh, yeah. I remember you."
+msgstr ""
+
+msgctxt "420"
+msgid "So pal, I gotta ask⑬you got that bag with you?"
+msgstr ""
+
+msgctxt "480"
+msgid "I don't have it anymore."
+msgstr ""
+
+msgctxt "492"
+msgid "What? Where is it? No... You gotta be kidding me..."
+msgstr ""
+
+msgctxt "504"
+msgid "What, was there something in it?"
+msgstr ""
+
+msgctxt "516"
+msgid ""
+"Oh, uh, no! Nope, nothing like that!\r\n"
+"Everything's fine!"
+msgstr ""
+
+msgctxt "528"
+msgid ""
+"Look, uh, totally unrelated, but I gotta skip town. I mean, right now. So "
+"catch you later!"
+msgstr ""
+
+msgctxt "552"
+msgid "(What was that all about...?)"
+msgstr ""
+
+msgctxt "600"
+msgid "You got 5,000 EXP."
+msgstr ""
+
+msgctxt "624"
+msgid "Not on me, no."
+msgstr ""
+
+msgctxt "636"
+msgid "What? Where is it? Go on, go get it⑬and hurry!"
+msgstr ""
+
+msgctxt "648"
+msgid "Whoa, relax. Was there something in there?"
+msgstr ""
+
+msgctxt "660"
+msgid "Don't worry about it! Just hurry up and bring me the bag!"
+msgstr ""
+
+msgctxt "684"
+msgid "(What was that all about...?)"
+msgstr ""
+
+msgctxt "732"
+msgid "This bag, right?"
+msgstr ""
+
+msgctxt "744"
+msgid "Yes! Yes, that's the one! Oh, I'm so glad you still have it!"
+msgstr ""
+
+msgctxt "768"
+msgid "As it happens, I had this bag appraised. Turns out it was a fake."
+msgstr ""
+
+msgctxt "780"
+msgid "What!? Uh... I can't believe this! Did I seriously sell you a fake?"
+msgstr ""
+
+msgctxt "792"
+msgid ""
+"I sure am sorry about that. How about I buy it back for... 70,000 yen? "
+"Y'know, by way of apology."
+msgstr ""
+
+msgctxt "804"
+msgid "70,000 yen, eh...?"
+msgstr ""
+
+msgctxt "816"
+msgid "Sounds good to me. It's all yours."
+msgstr ""
+
+msgctxt "828"
+msgid "Thanks much! Here you go⑬70,000 yen!"
+msgstr ""
+
+msgctxt "840"
+msgid ""
+"You handed over the <Color:8>Imitation Bag<Color:Default>.\r\n"
+"You got <Color:8>70,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "864"
+msgid "Well, better be going. Catch you later!"
+msgstr ""
+
+msgctxt "888"
+msgid "(What was that all about...?)"
+msgstr ""
+
+msgctxt "936"
+msgid "You got 5,000 EXP."
+msgstr ""
+
+msgctxt "960"
+msgid "I don't think so."
+msgstr ""
+
+msgctxt "972"
+msgid "Urk...! Okay, how about a little extra for all your trouble? 100,000 yen!"
+msgstr ""
+
+msgctxt "984"
+msgid ""
+"That's right, I'll buy it back for 100,000 yen! Not bad for a counterfeit, "
+"am I right?"
+msgstr ""
+
+msgctxt "996"
+msgid "Hmm..."
+msgstr ""
+
+msgctxt "1008"
+msgid "Sounds good to me."
+msgstr ""
+
+msgctxt "1020"
+msgid ""
+"Oh, thank you! Thank you so much! I owe you for this⑬you have no idea... "
+"Here's your 100,000 yen!"
+msgstr ""
+
+msgctxt "1032"
+msgid ""
+"You handed over the <Color:8>Imitation Bag<Color:Default> and got "
+"<Color:8>100,000<Color:Default>."
+msgstr ""
+
+msgctxt "1056"
+msgid "Well, better be going. Catch you later!"
+msgstr ""
+
+msgctxt "1080"
+msgid "(What was that all about...?)"
+msgstr ""
+
+msgctxt "1128"
+msgid "You got 5,000 EXP."
+msgstr ""
+
+msgctxt "1152"
+msgid "No, thanks."
+msgstr ""
+
+msgctxt "1164"
+msgid ""
+"But why not? C'mon, buddy, cut me some slack! It's 100,000 yen of pure "
+"profit!"
+msgstr ""
+
+msgctxt "1176"
+msgid "Even so."
+msgstr ""
+
+msgctxt "1188"
+msgid ""
+"Then I'll double it! 200,000 yen! C'mon, you can't say no to a deal like "
+"that! I really need that bag back, buddy!"
+msgstr ""
+
+msgctxt "1200"
+msgid "Hmm..."
+msgstr ""
+
+msgctxt "1212"
+msgid "That's more like it."
+msgstr ""
+
+msgctxt "1224"
+msgid ""
+"Oh, thank you! Thank you so much! I owe you for this⑬you have no idea... "
+"Here's your 200,000 yen!"
+msgstr ""
+
+msgctxt "1236"
+msgid ""
+"You handed over the <Color:8>Imitation Bag<Color:Default>.\r\n"
+"You got <Color:8>200,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "1260"
+msgid "Well, better be going. Catch you later!"
+msgstr ""
+
+msgctxt "1284"
+msgid "(What was that all about...?)"
+msgstr ""
+
+msgctxt "1332"
+msgid "You got 5,000 EXP."
+msgstr ""
+
+msgctxt "1356"
+msgid "Not happening."
+msgstr ""
+
+msgctxt "1368"
+msgid "But it's 200,000 yen! How can you do this to me, man!? I need it back!"
+msgstr ""
+
+msgctxt "1380"
+msgid "Even so."
+msgstr ""
+
+msgctxt "1392"
+msgid ""
+"...Look, buddy. This is your last chance. You get 200,000 yen, I get the "
+"bag back. We both walk away happy. Please."
+msgstr ""
+
+msgctxt "1404"
+msgid "Hmm..."
+msgstr ""
+
+msgctxt "1416"
+msgid "Yeah, fair enough."
+msgstr ""
+
+msgctxt "1428"
+msgid ""
+"Oh, thank you! Thank you so much! I owe you for this⑬you have no idea... "
+"Here's your 200,000 yen!"
+msgstr ""
+
+msgctxt "1440"
+msgid ""
+"You handed over the <Color:8>Imitation Bag<Color:Default> and got "
+"<Color:8>200,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "1464"
+msgid "Well, better be going. Catch you later!"
+msgstr ""
+
+msgctxt "1488"
+msgid "(What was that all about...?)"
+msgstr ""
+
+msgctxt "1536"
+msgid "You got 5,000 EXP."
+msgstr ""
+
+msgctxt "1560"
+msgid "Sorry. Not happening."
+msgstr ""
+
+msgctxt "1572"
+msgid ""
+"Well, congratulations, buddy! You got me! I'm screwed! Hope it was fucking "
+"worth it!"
+msgstr ""
+
+msgctxt "1584"
+msgid ""
+"You think this is funny? You should have just let me buy the bag... Now we "
+"gotta do this the hard way!"
+msgstr ""
+
+msgctxt "1608"
+msgid "So, hey... how about you sell me that bag for 70,000 yen?"
+msgstr ""
+
+msgctxt "1620"
+msgid "70,000 yen, huh...?"
+msgstr ""
+
+msgctxt "1632"
+msgid "Sounds good to me. It's all yours."
+msgstr ""
+
+msgctxt "1644"
+msgid "Thanks much! Here you go⑬70,000 yen!"
+msgstr ""
+
+msgctxt "1656"
+msgid ""
+"You handed over the <Color:8>Platinum Bag<Color:Default>.\r\n"
+"You got <Color:8>70,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "1680"
+msgid "Well, I better be going... Catch you later!"
+msgstr ""
+
+msgctxt "1704"
+msgid "(What was that all about...?)"
+msgstr ""
+
+msgctxt "1752"
+msgid "You got 5,000 EXP."
+msgstr ""
+
+msgctxt "1776"
+msgid "No thanks."
+msgstr ""
+
+msgctxt "1788"
+msgid "Urk...! Okay, how about a little extra for all your trouble? 100,000 yen!"
+msgstr ""
+
+msgctxt "1800"
+msgid ""
+"That's right, I'll buy it back for 100,000 yen! Sweet deal, right? You "
+"won't get a better offer anywhere else!"
+msgstr ""
+
+msgctxt "1812"
+msgid "Hmm..."
+msgstr ""
+
+msgctxt "1824"
+msgid "Works for me."
+msgstr ""
+
+msgctxt "1836"
+msgid ""
+"Oh, thank you! Thank you so much! I owe you for this⑬you have no idea... "
+"Here's your 100,000 yen!"
+msgstr ""
+
+msgctxt "1848"
+msgid ""
+"You handed over the <Color:8>Platinum Bag<Color:Default>.\r\n"
+"You got <Color:8>100,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "1872"
+msgid "Well, I better be going... Catch you later!"
+msgstr ""
+
+msgctxt "1896"
+msgid "(What was that all about...?)"
+msgstr ""
+
+msgctxt "1944"
+msgid "You got 5,000 EXP."
+msgstr ""
+
+msgctxt "1968"
+msgid "No thanks."
+msgstr ""
+
+msgctxt "1980"
+msgid ""
+"I'm offering 100,000 yen for it! Are you just doing this to screw me over? "
+"Is that how you get your kicks!?"
+msgstr ""
+
+msgctxt "1992"
+msgid ""
+"Fine, dammit! You want to play it like that? I got other ways to make you "
+"pay!"
+msgstr ""
+
+msgctxt "2016"
+msgid "Sell It"
+msgstr ""
+
+msgctxt "2028"
+msgid "Refuse"
+msgstr ""
+
+msgctxt "2040"
+msgid "Sell It"
+msgstr ""
+
+msgctxt "2052"
+msgid "Refuse"
+msgstr ""
+
+msgctxt "2064"
+msgid "Sell It"
+msgstr ""
+
+msgctxt "2076"
+msgid "Refuse"
+msgstr ""
+
+msgctxt "2088"
+msgid "Sell It"
+msgstr ""
+
+msgctxt "2100"
+msgid "Refuse"
+msgstr ""
+
+msgctxt "2112"
+msgid "Sell It"
+msgstr ""
+
+msgctxt "2124"
+msgid "Refuse"
+msgstr ""
+
+msgctxt "2136"
+msgid "Sell It"
+msgstr ""
+
+msgctxt "2148"
+msgid "Refuse"
+msgstr ""
+
+msgctxt "17260"
+msgid "Shady Salesman"
+msgstr ""
+
+msgctxt "17264"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "17268"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "17272"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "17276"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "17280"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "17284"
+msgid "Talk_NoBig"
+msgstr ""
+
+msgctxt "17288"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "17292"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "17296"
+msgid "Talk_Request"
+msgstr ""
+
+msgctxt "17300"
+msgid "Talk_Send"
+msgstr ""
+
+msgctxt "17304"
+msgid "Talk_Sorry"
+msgstr ""
+
+msgctxt "17308"
+msgid "Sync_Send"
+msgstr ""
+
+msgctxt "17312"
+msgid "Talk_Away"
+msgstr ""
+
+msgctxt "17316"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "17320"
+msgid "Talk_Odosu"
+msgstr ""

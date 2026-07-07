@@ -1,0 +1,62 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "96"
+msgid ""
+"You stepped on my foot back there, you bastard. I'm willin' to look the "
+"other way for a bit of cash, though."
+msgstr ""
+
+msgctxt "108"
+msgid "You think you can ignore me!? This ain't gonna end with you walkin' away!"
+msgstr ""
+
+msgctxt "132"
+msgid "Eek! Sorry for pickin' a fight with you!"
+msgstr ""
+
+msgctxt "144"
+msgid "Really, I didn't mean nothin'! Here, you can have this."
+msgstr ""
+
+msgctxt "156"
+msgid "You got a swanky %s."
+msgstr ""
+
+msgctxt "192"
+msgid "I really didn't mean nothin' by it!"
+msgstr ""
+
+msgctxt "1260"
+msgid "Angry Punk"
+msgstr ""
+
+msgctxt "1264"
+msgid "P_stand_sync_btl_neck_st"
+msgstr ""
+
+msgctxt "1268"
+msgid "M_ykz_stand_sync_btl_neck_st"
+msgstr ""
+
+msgctxt "1272"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "1276"
+msgid "Sync_Send"
+msgstr ""
+
+msgctxt "1280"
+msgid "Talk_Sorry"
+msgstr ""

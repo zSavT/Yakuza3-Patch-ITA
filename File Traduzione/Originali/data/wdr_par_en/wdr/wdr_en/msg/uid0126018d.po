@@ -1,0 +1,62 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid "I'm telling you, this necklace doesn't work at all!"
+msgstr ""
+
+msgctxt "76"
+msgid ""
+"I see... If you haven't noticed any positive effects, then\r\n"
+"it could only mean one thing: you must have been possessed\r\n"
+"by an evil spirit."
+msgstr ""
+
+msgctxt "88"
+msgid "Wait... That can't be right... How is that even possible...?"
+msgstr ""
+
+msgctxt "100"
+msgid ""
+"Since you've already purchased one of our patent-pending\r\n"
+"Coral Love Necklaces, I'd be willing to cleanse that spirit\r\n"
+"for you... at a special discount rate, of course. Well?"
+msgstr ""
+
+msgctxt "112"
+msgid "...Not a chance! I'm never using this stupid necklace again!"
+msgstr ""
+
+msgctxt "1588"
+msgid "Haruko"
+msgstr ""
+
+msgctxt "1592"
+msgid "Talk_Kansin"
+msgstr ""
+
+msgctxt "1596"
+msgid "Coral Co. Exorcist"
+msgstr ""
+
+msgctxt "1600"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "1604"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "1608"
+msgid "Talk_Angry"
+msgstr ""

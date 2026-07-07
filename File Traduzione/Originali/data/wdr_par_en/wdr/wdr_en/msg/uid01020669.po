@@ -1,0 +1,176 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid ""
+"Ayako-chan, Ayako-chan! I saw the cutest little dog toy at\r\n"
+"the pet store today!"
+msgstr ""
+
+msgctxt "76"
+msgid ""
+"My old dog used to have a toy just like it, so I'm sure Mame\r\n"
+"would love it!"
+msgstr ""
+
+msgctxt "88"
+msgid "Can I borrow some money to get it for him? Pleeease?"
+msgstr ""
+
+msgctxt "100"
+msgid ""
+"(I wonder how much it costs. I only have a little more than\r\n"
+"500 yen of my allowance left...)"
+msgstr ""
+
+msgctxt "112"
+msgid "How much do you need, Izumi-chan?"
+msgstr ""
+
+msgctxt "124"
+msgid "Ummm! I think it's 500 yen?"
+msgstr ""
+
+msgctxt "136"
+msgid ""
+"(That's practically all I have left. And there's still a few\r\n"
+"more days until I get more allowance...)"
+msgstr ""
+
+msgctxt "148"
+msgid "Pleeeeeease! Mame's gonna love it!"
+msgstr ""
+
+msgctxt "160"
+msgid "...All right."
+msgstr ""
+
+msgctxt "172"
+msgid "Yay! Thanks, Ayako-chan!"
+msgstr ""
+
+msgctxt "196"
+msgid "Ngh..."
+msgstr ""
+
+msgctxt "220"
+msgid "Ayako-chan..."
+msgstr ""
+
+msgctxt "232"
+msgid "Shiro? What's wrong?"
+msgstr ""
+
+msgctxt "244"
+msgid "My... My... My teacher's so mean!"
+msgstr ""
+
+msgctxt "256"
+msgid "Hey, calm down. What happened?"
+msgstr ""
+
+msgctxt "268"
+msgid ""
+"He thinks I cheated on our math test 'cause I got a perfect score, and "
+"wouldn't believe me when I tried telling him the truth!"
+msgstr ""
+
+msgctxt "280"
+msgid ""
+"He just called me a liar and gave me a bunch of extra homework as "
+"punishment... Grammar homework. I don't get it at all..."
+msgstr ""
+
+msgctxt "292"
+msgid "Don't worry, Shiro. I'll help you out in a bit, okay?"
+msgstr ""
+
+msgctxt "304"
+msgid "Really!? Thanks, Ayako-chan!"
+msgstr ""
+
+msgctxt "340"
+msgid "Ayako."
+msgstr ""
+
+msgctxt "352"
+msgid "...Hi, Uncle Kaz."
+msgstr ""
+
+msgctxt "364"
+msgid "Have you taken your bath yet?"
+msgstr ""
+
+msgctxt "376"
+msgid "I was just about to, yeah. I think Haruka-chan's in there now."
+msgstr ""
+
+msgctxt "388"
+msgid "She'll be out any second, I'm sure. By the way, Ayako..."
+msgstr ""
+
+msgctxt "400"
+msgid "Huh? What is it?"
+msgstr ""
+
+msgctxt "412"
+msgid ""
+"It's just... you spend so much time putting other people's needs before "
+"your own."
+msgstr ""
+
+msgctxt "424"
+msgid "Of course I do. They need me."
+msgstr ""
+
+msgctxt "436"
+msgid ""
+"Oh, I think I hear Haruka-chan getting out of the bath!\r\n"
+"I should go jump in."
+msgstr ""
+
+msgctxt "448"
+msgid "Right..."
+msgstr ""
+
+msgctxt "6248"
+msgid "Izumi"
+msgstr ""
+
+msgctxt "6252"
+msgid "Ayako"
+msgstr ""
+
+msgctxt "6256"
+msgid "Idle"
+msgstr ""
+
+msgctxt "6260"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "6264"
+msgid "C32_SetF_cld_stand_kamae_kune"
+msgstr ""
+
+msgctxt "6268"
+msgid "Talk_Kansin"
+msgstr ""
+
+msgctxt "6272"
+msgid "Shiro"
+msgstr ""
+
+msgctxt "6276"
+msgid "Kiryu"
+msgstr ""

@@ -1,0 +1,42 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid "Hahaha! Mars Fighters are the best!"
+msgstr ""
+
+msgctxt "76"
+msgid "Yeah, they've gotten really popular lately!"
+msgstr ""
+
+msgctxt "88"
+msgid ""
+"C'mon guys, I wanna watch Ninja Rangers! It's the season\r\n"
+"finale!"
+msgstr ""
+
+msgctxt "100"
+msgid "Ugh, you're such a little kid!"
+msgstr ""
+
+msgctxt "624"
+msgid "Koji"
+msgstr ""
+
+msgctxt "628"
+msgid "Riona"
+msgstr ""
+
+msgctxt "632"
+msgid "Mitsuo"
+msgstr ""

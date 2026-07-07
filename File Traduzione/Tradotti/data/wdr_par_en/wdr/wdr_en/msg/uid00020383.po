@@ -1,0 +1,59 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "120"
+msgid "Izumi... You're not hurt, are you?"
+msgstr ""
+
+msgctxt "132"
+msgid "I'm okay... All 'cause of Uncle Mikio."
+msgstr ""
+
+msgctxt "144"
+msgid "Arf..."
+msgstr ""
+
+msgctxt "156"
+msgid ""
+"Good. I'm heading out to help Nakahara. Ayako, if you see\r\n"
+"anyone suspicious while I'm gone, you call the police right\r\n"
+"away. Understand?"
+msgstr ""
+
+msgctxt "168"
+msgid "Mhm."
+msgstr ""
+
+msgctxt "868"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "872"
+msgid "Izumi"
+msgstr ""
+
+msgctxt "876"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "880"
+msgid "Mame"
+msgstr ""
+
+msgctxt "884"
+msgid "Ayako"
+msgstr ""
+
+msgctxt "888"
+msgid "P_stand_tlk_child_ed"
+msgstr ""

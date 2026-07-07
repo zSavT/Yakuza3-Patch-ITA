@@ -1,0 +1,52 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "124"
+msgid "Quit starin' at me like I'm trash."
+msgstr ""
+
+msgctxt "136"
+msgid "You're the trash here! And you know what we do with trash? Take it out!"
+msgstr ""
+
+msgctxt "160"
+msgid "Ugh, sorry. I'm just a little self-conscious."
+msgstr ""
+
+msgctxt "172"
+msgid "Here, let me give you this. Sorry again."
+msgstr ""
+
+msgctxt "184"
+msgid "You got an oily %s."
+msgstr ""
+
+msgctxt "220"
+msgid "Sorry I called you trash..."
+msgstr ""
+
+msgctxt "1164"
+msgid "Angry Punk"
+msgstr ""
+
+msgctxt "1168"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "1172"
+msgid "Sync_Send"
+msgstr ""
+
+msgctxt "1176"
+msgid "Talk_Sorry"
+msgstr ""

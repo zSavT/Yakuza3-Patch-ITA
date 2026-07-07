@@ -1,0 +1,332 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "1040\tNAME"
+msgid "Maximum Grand Prix"
+msgstr ""
+
+msgctxt "1059\tNAME"
+msgid "Magnum Force Grand Prix"
+msgstr ""
+
+msgctxt "1083\tNAME"
+msgid "Hyper Grand Prix"
+msgstr ""
+
+msgctxt "1100\tNAME"
+msgid "Weapon Master Grand Prix"
+msgstr ""
+
+msgctxt "1125\tNAME"
+msgid "Twin Dragon Grand Prix"
+msgstr ""
+
+msgctxt "1148\tNAME"
+msgid "Tag Match Grand Prix"
+msgstr ""
+
+msgctxt "1169\tNAME"
+msgid "Golden Gloves Grand Prix"
+msgstr ""
+
+msgctxt "1194\tNAME"
+msgid "Bomber Grand Prix"
+msgstr ""
+
+msgctxt "1212\tNAME"
+msgid "Pounding Grand Prix"
+msgstr ""
+
+msgctxt "1232\tNAME"
+msgid "Heat Grand Prix"
+msgstr ""
+
+msgctxt "1248\tNAME"
+msgid "Breakout Grand Prix"
+msgstr ""
+
+msgctxt "1268\tNAME"
+msgid "Street Fight Grand Prix"
+msgstr ""
+
+msgctxt "1292\tNAME"
+msgid "Exhibition Tournament"
+msgstr ""
+
+msgctxt "1321\tPARTICIPATION"
+msgid "Entries: %d"
+msgstr ""
+
+msgctxt "1333\tPARTICIPATION"
+msgid "Entries: %d"
+msgstr ""
+
+msgctxt "1345\tPARTICIPATION"
+msgid "Entries: %d"
+msgstr ""
+
+msgctxt "1357\tPARTICIPATION"
+msgid "Entries: %d"
+msgstr ""
+
+msgctxt "1369\tPARTICIPATION"
+msgid "Entries: %d"
+msgstr ""
+
+msgctxt "1381\tPARTICIPATION"
+msgid "Entries: %d"
+msgstr ""
+
+msgctxt "1393\tPARTICIPATION"
+msgid "Entries: %d"
+msgstr ""
+
+msgctxt "1405\tPARTICIPATION"
+msgid "Entries: %d"
+msgstr ""
+
+msgctxt "1417\tPARTICIPATION"
+msgid "Entries: %d"
+msgstr ""
+
+msgctxt "1429\tPARTICIPATION"
+msgid "Entries: %d"
+msgstr ""
+
+msgctxt "1441\tPARTICIPATION"
+msgid "Entries: %d"
+msgstr ""
+
+msgctxt "1453\tPARTICIPATION"
+msgid "Entries: %d"
+msgstr ""
+
+msgctxt "1465\tPARTICIPATION"
+msgid "Entries: %d"
+msgstr ""
+
+msgctxt "1477\tPARTICIPATION"
+msgid "Entries: 0"
+msgstr ""
+
+msgctxt "1488\tWIN_RATIO"
+msgid "Win Rate: %d%"
+msgstr ""
+
+msgctxt "1502\tWIN_RATIO"
+msgid "Win Rate: %d%"
+msgstr ""
+
+msgctxt "1516\tWIN_RATIO"
+msgid "Win Rate: %d%"
+msgstr ""
+
+msgctxt "1530\tWIN_RATIO"
+msgid "Win Rate: %d%"
+msgstr ""
+
+msgctxt "1544\tWIN_RATIO"
+msgid "Win Rate: %d%"
+msgstr ""
+
+msgctxt "1558\tWIN_RATIO"
+msgid "Win Rate: %d%"
+msgstr ""
+
+msgctxt "1572\tWIN_RATIO"
+msgid "Win Rate: %d%"
+msgstr ""
+
+msgctxt "1586\tWIN_RATIO"
+msgid "Win Rate: %d%"
+msgstr ""
+
+msgctxt "1600\tWIN_RATIO"
+msgid "Win Rate: %d%"
+msgstr ""
+
+msgctxt "1614\tWIN_RATIO"
+msgid "Win Rate: %d%"
+msgstr ""
+
+msgctxt "1628\tWIN_RATIO"
+msgid "Win Rate: %d%"
+msgstr ""
+
+msgctxt "1642\tWIN_RATIO"
+msgid "Win Rate: %d%"
+msgstr ""
+
+msgctxt "1656\tWIN_RATIO"
+msgid "Win Rate: %d%"
+msgstr ""
+
+msgctxt "1670\tWIN_RATIO"
+msgid "Win Rate: %d%"
+msgstr ""
+
+msgctxt "1684\tVICTORY"
+msgid "Wins: %d"
+msgstr ""
+
+msgctxt "1693\tVICTORY"
+msgid "Wins: %d"
+msgstr ""
+
+msgctxt "1702\tVICTORY"
+msgid "Wins: %d"
+msgstr ""
+
+msgctxt "1711\tVICTORY"
+msgid "Wins: %d"
+msgstr ""
+
+msgctxt "1720\tVICTORY"
+msgid "Wins: %d"
+msgstr ""
+
+msgctxt "1729\tVICTORY"
+msgid "Wins: %d"
+msgstr ""
+
+msgctxt "1738\tVICTORY"
+msgid "Wins: %d"
+msgstr ""
+
+msgctxt "1747\tVICTORY"
+msgid "Wins: %d"
+msgstr ""
+
+msgctxt "1756\tVICTORY"
+msgid "Wins: %d"
+msgstr ""
+
+msgctxt "1765\tVICTORY"
+msgid "Wins: %d"
+msgstr ""
+
+msgctxt "1774\tVICTORY"
+msgid "Wins: %d"
+msgstr ""
+
+msgctxt "1783\tVICTORY"
+msgid "Wins: %d"
+msgstr ""
+
+msgctxt "1792\tVICTORY"
+msgid "Wins: %d"
+msgstr ""
+
+msgctxt "1801\tVICTORY"
+msgid "Wins: 0"
+msgstr ""
+
+msgctxt "1837\tEXPLANATION"
+msgid ""
+"Men who fight here surpass mere strength, they are the maximum!\n"
+"Get ready for battles of maximum proportions like you've never\n"
+"seen before! Experience the battling spirit of fighters who have\n"
+"undergone countless years of intense training!"
+msgstr ""
+
+msgctxt "2076\tEXPLANATION"
+msgid ""
+"A gathering of the strongest of fighters and the finest of fights!\n"
+"Watch as the curtain rises on the most dynamite grand prix around!\n"
+"Which fighter will muscle their way to the top?"
+msgstr ""
+
+msgctxt "2258\tEXPLANATION"
+msgid ""
+"A new grand stage of fighting has just opened its doors! Finally,\n"
+"the no-holds-barred battle you've been waiting for is here! Which\n"
+"fighter will capture the wealth and fame of the fighting\n"
+"underground?"
+msgstr ""
+
+msgctxt "2460\tEXPLANATION"
+msgid ""
+"A grand prix that allows weapons! Experience the impact of well-\n"
+"honed and eye-catching techniques unseen in bare-handed fighting!\n"
+"The apex of weapon combat has arrived!"
+msgstr ""
+
+msgctxt "2630\tEXPLANATION"
+msgid ""
+"A grand prix only for selected tag fighting teams! The techniques\n"
+"of these ultimate team duos are in their own class of power and\n"
+"destruction! The top tag team of the Underground Coliseum will\n"
+"be decided here!"
+msgstr ""
+
+msgctxt "2840\tEXPLANATION"
+msgid ""
+"A new tag match grand prix! Tough veterans of the underground\n"
+"fighting circuit will unite to battle together! Which team will\n"
+"be able to enjoy the sweet taste of victory?"
+msgstr ""
+
+msgctxt "3011\tEXPLANATION"
+msgid ""
+"Stand up and prove your strength mano a mano with your fists!\n"
+"No cheap tricks allowed in this bare fist against bare fist grand\n"
+"prix! Who will punch it out to become number one?"
+msgstr ""
+
+msgctxt "3189\tEXPLANATION"
+msgid ""
+"Fight for your life in this grand prix of raining bombs! Evade\n"
+"countless bombs and use them against your opponents in your fight\n"
+"for victory! Just who will wade through the blasts to victory!?"
+msgstr ""
+
+msgctxt "3382\tEXPLANATION"
+msgid ""
+"A grand prix in a roped ring! The ring's sturdy ropes will bounce\n"
+"back opponents who fly into them! Special Underground Coliseum\n"
+"gloves also allow fighters to send their opponents flying further\n"
+"than ever!"
+msgstr ""
+
+msgctxt "3588\tEXPLANATION"
+msgid ""
+"A grand prix set upon a heated iron plate! These hot fights will\n"
+"get fighters and fans alike heated up! Don't miss the hottest\n"
+"battles of the Underground Coliseum!"
+msgstr ""
+
+msgctxt "3752\tEXPLANATION"
+msgid ""
+"Falling out of this ring means immediate defeat! Don't drop your\n"
+"guard because of the fence, or you'll get sent flying through it!\n"
+"Which fighter will survive to the end?"
+msgstr ""
+
+msgctxt "3922\tEXPLANATION"
+msgid ""
+"Deadly weapons and foul play welcome! A grand prix for street\n"
+"fighters set in a complete reproduction of a Kamurocho street⑬\n"
+"right here in the ring! Pick up weapons off the ground and attack\n"
+"for the win!"
+msgstr ""
+
+msgctxt "4128\tEXPLANATION"
+msgid ""
+"A gathering of Kamurocho fighters who think they've got what it\n"
+"takes! A chance for rookie fighters to grab their first victory!\n"
+"Don't miss a chance to see the next rising star!"
+msgstr ""
+
+msgctxt "4306\tEXPLANATION"
+msgid "You cannot participate in this grand prix yet."
+msgstr ""

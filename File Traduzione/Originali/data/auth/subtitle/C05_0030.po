@@ -1,0 +1,42 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "451\t511"
+msgid "Who are you guys?"
+msgstr ""
+
+msgctxt "841\t902"
+msgid "What do you want?"
+msgstr ""
+
+msgctxt "1151\t1230"
+msgid "...Guess you don't speak Japanese."
+msgstr ""
+
+msgctxt "1334\t1496"
+msgid ""
+"I get it.\\n"
+"You're not here to chat."
+msgstr ""
+
+msgctxt "1568\t1651"
+msgid "I won't go down easy, though."
+msgstr ""
+
+msgctxt "1659\t1720"
+msgid "Sorry..."
+msgstr ""
+
+msgctxt "1746\t1825"
+msgid "But this might hurt a bit."
+msgstr ""

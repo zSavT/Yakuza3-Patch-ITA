@@ -1,0 +1,52 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "100"
+msgid "Kiryu-san... I got fired from the club..."
+msgstr ""
+
+msgctxt "112"
+msgid "Wait, what?"
+msgstr ""
+
+msgctxt "124"
+msgid "I'm outside Jewel now... Can you come get me, Kiryu-san?"
+msgstr ""
+
+msgctxt "136"
+msgid "Sure."
+msgstr ""
+
+msgctxt "148"
+msgid "See you soon..."
+msgstr ""
+
+msgctxt "956"
+msgid "P_stand_tlk_phone_st"
+msgstr ""
+
+msgctxt "960"
+msgid "Shiori"
+msgstr ""
+
+msgctxt "964"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "968"
+msgid "P_stand_tlk_phone_ed"
+msgstr ""
+
+msgctxt "972"
+msgid "dummy"
+msgstr ""

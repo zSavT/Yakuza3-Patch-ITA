@@ -1,0 +1,123 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "76"
+msgid "...You okay?"
+msgstr ""
+
+msgctxt "88"
+msgid "How can I be... when I'm so utterly pathetic..."
+msgstr ""
+
+msgctxt "100"
+msgid "......"
+msgstr ""
+
+msgctxt "112"
+msgid "I should've seen right through him..."
+msgstr ""
+
+msgctxt "124"
+msgid "None of this was your fault."
+msgstr ""
+
+msgctxt "136"
+msgid "......"
+msgstr ""
+
+msgctxt "148"
+msgid ""
+"You were just trying to trust him, Reimi. That's what you do when you're in "
+"a relationship, right? So don't be too hard on yourself."
+msgstr ""
+
+msgctxt "160"
+msgid "Kiryu-san..."
+msgstr ""
+
+msgctxt "184"
+msgid ""
+"Heh, well... I am starting to feel a little better... "
+"<Color:255,200,200,255>⑮<Color:Default> Especially after seeing you beat "
+"the snot outta him. Yeah, I think that was just what I needed. "
+"<Color:255,200,200,255>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "196"
+msgid "...You know what else I need?"
+msgstr ""
+
+msgctxt "208"
+msgid "What's that?"
+msgstr ""
+
+msgctxt "220"
+msgid ""
+"You. <Color:255,200,200,255>⑮<Color:Default> I've had my heart set on you "
+"for a long time now."
+msgstr ""
+
+msgctxt "232"
+msgid "So... Maybe we could spend a little private time together?"
+msgstr ""
+
+msgctxt "244"
+msgid "Oh, uh... Sure."
+msgstr ""
+
+msgctxt "256"
+msgid ""
+"Ahahaha! <Color:255,200,200,255>⑮<Color:Default> You're so cute when you're "
+"put on the spot! I love it! <Color:255,200,200,255>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "268"
+msgid ""
+"You know, I still am the number one hostess in Kamurocho and Roppongi... So "
+"consider yourself a lucky man."
+msgstr ""
+
+msgctxt "280"
+msgid ""
+"Oh, and by the way... I'm not taking no for an answer. "
+"<Color:255,200,200,255>⑮<Color:Default><Color:255,200,200,255"
+">⑮<Color:Default><Color:255,200,200,255>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "3948"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "3952"
+msgid "Reimi"
+msgstr ""
+
+msgctxt "3956"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "3960"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "3964"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "3968"
+msgid "F_sxy_stand_sync_dakitukiA_st"
+msgstr ""
+
+msgctxt "3972"
+msgid "P_stand_sync_dakitukiA_st"
+msgstr ""

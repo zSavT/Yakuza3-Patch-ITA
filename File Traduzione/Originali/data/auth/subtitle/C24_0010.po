@@ -1,0 +1,36 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "312\t373"
+msgid "Heeey!"
+msgstr ""
+
+msgctxt "411\t496"
+msgid "Akimoto-kun!"
+msgstr ""
+
+msgctxt "497\t562"
+msgid "Mizuki-chan!"
+msgstr ""
+
+msgctxt "593\t640"
+msgid "Oh, yeah?"
+msgstr ""
+
+msgctxt "641\t720"
+msgid "Hey, Akimoto-kun!"
+msgstr ""
+
+msgctxt "740\t835"
+msgid "Take this! And this!"
+msgstr ""

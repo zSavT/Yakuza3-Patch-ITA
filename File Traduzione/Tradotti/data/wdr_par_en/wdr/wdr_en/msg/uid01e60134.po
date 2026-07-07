@@ -1,0 +1,348 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "208"
+msgid ""
+"Now, there is the matter of the 300,000 yen production fee, to be paid in "
+"advance. Are you prepared to provide that at this point, sir?"
+msgstr ""
+
+msgctxt "220"
+msgid ""
+"Welcome! And my most sincere congratulations on being selected as a product "
+"tester! How exciting for you!"
+msgstr ""
+
+msgctxt "232"
+msgid ""
+"Our company's Super IH Water Purifier is state-of-the-art, utilizing the "
+"same electromagnetic coil system as induction heaters."
+msgstr ""
+
+msgctxt "244"
+msgid ""
+"Electromagnetic power not only removes chlorine but also kills bacteria and "
+"adds alkali ions, so your water will actually make you healthy!"
+msgstr ""
+
+msgctxt "256"
+msgid "Oh, pardon me... I haven't asked you your name."
+msgstr ""
+
+msgctxt "268"
+msgid "It's Kiryu."
+msgstr ""
+
+msgctxt "280"
+msgid ""
+"Kiryu-san? All right, then, Kiryu-san... From what you've heard so far, do "
+"you have an idea of how wonderful our Super IH Water Purifier is?"
+msgstr ""
+
+msgctxt "292"
+msgid "More or less..."
+msgstr ""
+
+msgctxt "304"
+msgid "Well, wait till you hear this!"
+msgstr ""
+
+msgctxt "316"
+msgid ""
+"All people selected to test our water purifiers will get to keep the model "
+"they tested after the evaluation period is through!"
+msgstr ""
+
+msgctxt "328"
+msgid ""
+"We're talking about a Super IH Water Purifier that sells for 1,000,000 yen "
+"at retail!"
+msgstr ""
+
+msgctxt "340"
+msgid "Now what do you think? Isn't it the most amazing product you've ever seen?"
+msgstr ""
+
+msgctxt "352"
+msgid "Stop asking me that and get on with your pitch already."
+msgstr ""
+
+msgctxt "364"
+msgid ""
+"The Super IH Water Purifier produces water that makes you healthy just by "
+"drinking it."
+msgstr ""
+
+msgctxt "376"
+msgid ""
+"And right now, you've earned the right to receive one free of charge, "
+"Kiryu-san! There's just one thing I'd like you to know first."
+msgstr ""
+
+msgctxt "388"
+msgid "What?"
+msgstr ""
+
+msgctxt "400"
+msgid ""
+"There happens to be a 300,000 yen fee to have the product professionally "
+"installed in your home."
+msgstr ""
+
+msgctxt "412"
+msgid ""
+"That's actually the price of the necessary parts. You don't have to pay for "
+"labor. Isn't that right?"
+msgstr ""
+
+msgctxt "424"
+msgid ""
+"That's right. The Super IH Water Purifier itself and the plumbing labor "
+"costs are on us. You just pay for parts."
+msgstr ""
+
+msgctxt "436"
+msgid ""
+"So, Kiryu-san, I know 300,000 yen is a fair amount, but what do you say? "
+"It's a small price to pay for such a life-altering device!"
+msgstr ""
+
+msgctxt "448"
+msgid "And could we ask you to pay that installation fee up front?"
+msgstr ""
+
+msgctxt "472"
+msgid "Sorry. I don't have that much on me at the moment."
+msgstr ""
+
+msgctxt "484"
+msgid ""
+"Oh, is that so? Well, we'll wait here, so come right back once you're ready "
+"to pay the fee."
+msgstr ""
+
+msgctxt "496"
+msgid "Yes, we'll be right here! Come back as soon as you can! Thank you again!"
+msgstr ""
+
+msgctxt "532"
+msgid "Yeah. Will this do?"
+msgstr ""
+
+msgctxt "544"
+msgid "You paid <Color:8>300,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "556"
+msgid ""
+"Thank you! Thank you very much! We'll have the Super IH Water Purifier "
+"delivered to your home. We'll be in touch to schedule the installation."
+msgstr ""
+
+msgctxt "568"
+msgid "You got an <Color:8>IH Water Purifier<Color:Default>."
+msgstr ""
+
+msgctxt "592"
+msgid "Let me show you the way out. Have a great day! And thank you again!"
+msgstr ""
+
+msgctxt "628"
+msgid "Quit yanking my chain. Why should I have to give you 300,000 yen?"
+msgstr ""
+
+msgctxt "640"
+msgid "I'm telling you, it's for parts!"
+msgstr ""
+
+msgctxt "652"
+msgid "And I'm telling you I don't want to pay it."
+msgstr ""
+
+msgctxt "664"
+msgid ""
+"Think about this carefully, Kiryu-san. You're getting a 1,000,000 yen "
+"miracle for the low, low price of 300,000 yen!"
+msgstr ""
+
+msgctxt "676"
+msgid "Who cares? I don't need it. This is ridiculous. I'm leaving."
+msgstr ""
+
+msgctxt "688"
+msgid "What's that? You think you can just walk on out of here?"
+msgstr ""
+
+msgctxt "712"
+msgid "Sorry. Even if I wanted to pay, I just don't have that much on me."
+msgstr ""
+
+msgctxt "784"
+msgid ""
+"Listen, buddy! Who do you think you are, taking advantage of our CEO's "
+"kindness like that?"
+msgstr ""
+
+msgctxt "796"
+msgid ""
+"Maybe he'll listen to reason if we knock him around a little bit. But don't "
+"be too rough. We wouldn't want him to croak on us."
+msgstr ""
+
+msgctxt "808"
+msgid "Fine. Is this enough?"
+msgstr ""
+
+msgctxt "820"
+msgid "000 yen <Color:8>300<Color:Default>."
+msgstr ""
+
+msgctxt "832"
+msgid ""
+"Thank you! Thank you very much! We'll have the Super IH Water Purifier "
+"delivered to your home. We'll be in touch to schedule the installation."
+msgstr ""
+
+msgctxt "844"
+msgid "You got a <Color:8>IH Water Purifier<Color:Default>."
+msgstr ""
+
+msgctxt "868"
+msgid "Let me show you the way out. Have a great day! Thank you again!"
+msgstr ""
+
+msgctxt "904"
+msgid "You bet I do. Goodbye."
+msgstr ""
+
+msgctxt "976"
+msgid "Get back here! Hey!"
+msgstr ""
+
+msgctxt "988"
+msgid ""
+"Hehehe... Not so fast, pal. You can't leave our office until you agree to "
+"test our water purifier, see?"
+msgstr ""
+
+msgctxt "1000"
+msgid ""
+"If you don't get how awesome this purifier is, we're just gonna have to "
+"pound it into you."
+msgstr ""
+
+msgctxt "1012"
+msgid "You just don't quit, do you? I told you, I don't want any part of it."
+msgstr ""
+
+msgctxt "1024"
+msgid ""
+"I guess it's come to this, then. Don't be too rough. We wouldn't want him "
+"to croak on us."
+msgstr ""
+
+msgctxt "1048"
+msgid "Refuse"
+msgstr ""
+
+msgctxt "1060"
+msgid "Pay 300,000 Yen"
+msgstr ""
+
+msgctxt "1072"
+msgid "Refuse"
+msgstr ""
+
+msgctxt "1084"
+msgid "Pay 300,000 Yen"
+msgstr ""
+
+msgctxt "1096"
+msgid "You bet I do."
+msgstr ""
+
+msgctxt "1108"
+msgid "Pay 300,000 Yen"
+msgstr ""
+
+msgctxt "12716"
+msgid "P_sitsofa"
+msgstr ""
+
+msgctxt "12720"
+msgid "Water Purifier Company CEO"
+msgstr ""
+
+msgctxt "12724"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "12728"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "12732"
+msgid "Talk_Info_L"
+msgstr ""
+
+msgctxt "12736"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "12740"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "12744"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "12748"
+msgid "Clerk"
+msgstr ""
+
+msgctxt "12752"
+msgid "Talk_Sorry"
+msgstr ""
+
+msgctxt "12756"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "12760"
+msgid "P_stand"
+msgstr ""
+
+msgctxt "12764"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "12768"
+msgid "Talk_Info_R"
+msgstr ""
+
+msgctxt "12772"
+msgid "P_sitsofa_tlk_kamae_ed"
+msgstr ""
+
+msgctxt "12776"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "12780"
+msgid "Talk_Away"
+msgstr ""
+
+msgctxt "12784"
+msgid "Talk_Smile"
+msgstr ""

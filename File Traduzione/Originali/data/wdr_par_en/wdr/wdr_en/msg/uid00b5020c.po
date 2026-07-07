@@ -1,0 +1,1472 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "240"
+msgid ""
+"Several years passed. I ran into Kinoshita-san and we\r\n"
+"eventually got married."
+msgstr ""
+
+msgctxt "252"
+msgid ""
+"I started selling things as a hobby, and it soon turned into\r\n"
+"a business. Before I knew it, it grew into a large company."
+msgstr ""
+
+msgctxt "264"
+msgid "......"
+msgstr ""
+
+msgctxt "276"
+msgid ""
+"It's been six years since that day, and my life's been\r\n"
+"going so well. I can't believe the truth came out now,\r\n"
+"of all times..."
+msgstr ""
+
+msgctxt "288"
+msgid "Yuko-san..."
+msgstr ""
+
+msgctxt "300"
+msgid ""
+"Did you ever think what it felt like for Akechi-san\r\n"
+"to have to bear these false charges?"
+msgstr ""
+
+msgctxt "312"
+msgid ""
+"What it felt like to be knocked down to rock bottom and have\r\n"
+"his freedom stolen from him these past six years?"
+msgstr ""
+
+msgctxt "324"
+msgid ""
+"And think what would've happened if we hadn't revealed the\r\n"
+"truth just now. How many more years would he have suffered?"
+msgstr ""
+
+msgctxt "336"
+msgid "......"
+msgstr ""
+
+msgctxt "348"
+msgid ""
+"Only the person who took Akechi-san's freedom away can\r\n"
+"give it back. You need to turn yourself in."
+msgstr ""
+
+msgctxt "360"
+msgid "Testify in front of a court and pay for your crimes."
+msgstr ""
+
+msgctxt "372"
+msgid "Can I escort you to the station?"
+msgstr ""
+
+msgctxt "384"
+msgid "Yes..."
+msgstr ""
+
+msgctxt "396"
+msgid "Yuko!"
+msgstr ""
+
+msgctxt "408"
+msgid "I'll be right here waiting for you when you get back!"
+msgstr ""
+
+msgctxt "420"
+msgid "Masaru..."
+msgstr ""
+
+msgctxt "432"
+msgid "...Thank you."
+msgstr ""
+
+msgctxt "540"
+msgid "That day was his⑬Oda-san's⑬birthday."
+msgstr ""
+
+msgctxt "552"
+msgid ""
+"I wanted to surprise him, so I grabbed his present\r\n"
+"and went to the café."
+msgstr ""
+
+msgctxt "576"
+msgid ""
+"But it was already closed. So I came in through the back\r\n"
+"door and headed for the locker room."
+msgstr ""
+
+msgctxt "600"
+msgid ""
+"But when I got there, I saw him cheating on me with some\r\n"
+"other woman...!"
+msgstr ""
+
+msgctxt "624"
+msgid ""
+"I hid for a while, trying to calm down. I tried desperately\r\n"
+"to understand what I'd just seen..."
+msgstr ""
+
+msgctxt "648"
+msgid "That's when Akechi-san showed up."
+msgstr ""
+
+msgctxt "672"
+msgid ""
+"When Akechi-san peeked into the locker room and saw\r\n"
+"Usami-san cheating on him with Oda-san, he dropped the\r\n"
+"ashtray and grabbed Oda-san."
+msgstr ""
+
+msgctxt "696"
+msgid ""
+"But as I heard them start yelling, I saw Usami-san rush out\r\n"
+"of the locker room and out the back door of the café."
+msgstr ""
+
+msgctxt "720"
+msgid "Then Akechi-san ran out of the building after her."
+msgstr ""
+
+msgctxt "744"
+msgid ""
+"I went into the locker room once Usami-san and\r\n"
+"Akechi-san had left."
+msgstr ""
+
+msgctxt "756"
+msgid ""
+"Oda-san looked surprised to see me at first, but then he\r\n"
+"realized I knew he'd been cheating, and he started talking\r\n"
+"about breaking up with me."
+msgstr ""
+
+msgctxt "768"
+msgid "He said, \"I want to be with Usami. It's over.\""
+msgstr ""
+
+msgctxt "780"
+msgid "......"
+msgstr ""
+
+msgctxt "804"
+msgid "When I heard those words... I saw red."
+msgstr ""
+
+msgctxt "816"
+msgid ""
+"The next thing I knew, I'd hit Oda-san with the ashtray\r\n"
+"Akechi-san had dropped on the floor."
+msgstr ""
+
+msgctxt "840"
+msgid ""
+"The rest is just as Kiryu-san says. I changed into a uniform\r\n"
+"I found in one of the lockers and waited by the back door\r\n"
+"for somebody to come."
+msgstr ""
+
+msgctxt "852"
+msgid ""
+"Someone came in from the front, so I hid my face and ran\r\n"
+"out the back door."
+msgstr ""
+
+msgctxt "876"
+msgid ""
+"I figured nobody would suspect me since I didn't have\r\n"
+"anything to do with the café anymore."
+msgstr ""
+
+msgctxt "936"
+msgid "Will you give a statement that Yuichi Akechi is innocent?"
+msgstr ""
+
+msgctxt "948"
+msgid "Yes... Akechi-san had nothing to do with the murder."
+msgstr ""
+
+msgctxt "960"
+msgid "Yuko, how could you have done such a thing...?"
+msgstr ""
+
+msgctxt "972"
+msgid "Was it really just because Oda-san was cheating?"
+msgstr ""
+
+msgctxt "984"
+msgid ""
+"Of course that's what it was about! He said he was going to\r\n"
+"marry me...!"
+msgstr ""
+
+msgctxt "996"
+msgid "......"
+msgstr ""
+
+msgctxt "1044"
+msgid "Her?"
+msgstr ""
+
+msgctxt "1056"
+msgid "Are you serious!?"
+msgstr ""
+
+msgctxt "1068"
+msgid "I can't believe it!"
+msgstr ""
+
+msgctxt "1080"
+msgid "What!?"
+msgstr ""
+
+msgctxt "1092"
+msgid "Yuko... killed Oda-san...?"
+msgstr ""
+
+msgctxt "1104"
+msgid "An interesting theory... But why would I kill Oda-san?"
+msgstr ""
+
+msgctxt "1116"
+msgid "I didn't have any reason to do anything like that."
+msgstr ""
+
+msgctxt "1128"
+msgid ""
+"Yeah. Yuichi Akechi's motive was Usami-san's relationship\r\n"
+"with Oda-san."
+msgstr ""
+
+msgctxt "1140"
+msgid "Exactly how are Yuko-san and Oda-san connected?"
+msgstr ""
+
+msgctxt "1152"
+msgid ""
+"(I need something to prove Yuko and Oda knew each other\r\n"
+"somehow...)"
+msgstr ""
+
+msgctxt "1176"
+msgid ""
+"Oda was dating somebody at the time of the murder.\r\n"
+"Somebody who used to work as a waitress at Café Alps."
+msgstr ""
+
+msgctxt "1188"
+msgid "What!? Is that true?"
+msgstr ""
+
+msgctxt "1200"
+msgid "Yeah. And her last name was Saitoh."
+msgstr ""
+
+msgctxt "1212"
+msgid "Saitoh? That's Yuko's maiden name!"
+msgstr ""
+
+msgctxt "1224"
+msgid ""
+"I hear you worked at this café until just before the time\r\n"
+"of the murder."
+msgstr ""
+
+msgctxt "1236"
+msgid "......"
+msgstr ""
+
+msgctxt "1248"
+msgid "Yuko-san and Oda-san were dating?"
+msgstr ""
+
+msgctxt "1260"
+msgid "I didn't know that!"
+msgstr ""
+
+msgctxt "1272"
+msgid "Yuko-san, is that true?"
+msgstr ""
+
+msgctxt "1284"
+msgid "I don't have to answer that."
+msgstr ""
+
+msgctxt "1296"
+msgid "Yuko..."
+msgstr ""
+
+msgctxt "1320"
+msgid "(No, that doesn't prove anything.)"
+msgstr ""
+
+msgctxt "1332"
+msgid ""
+"(I need something to prove Yuko and Oda knew each other\r\n"
+"somehow...)"
+msgstr ""
+
+msgctxt "1356"
+msgid ""
+"If Oda-san was dating Yuko-san, then Usami-san wasn't\r\n"
+"the only one cheating."
+msgstr ""
+
+msgctxt "1368"
+msgid "Oda was cheating, too!"
+msgstr ""
+
+msgctxt "1380"
+msgid "And that means Yuko-san also had motive to kill Oda-san."
+msgstr ""
+
+msgctxt "1392"
+msgid ""
+"So anyone with a motive is a killer? You haven't done anything but "
+"hypothesize."
+msgstr ""
+
+msgctxt "1404"
+msgid ""
+"Exactly. You've only talked about possibilities. Do you\r\n"
+"have any conclusive evidence that she murdered him?"
+msgstr ""
+
+msgctxt "1416"
+msgid ""
+"(Conclusive evidence... like fingerprints...? If I only had\r\n"
+"something with Yuko's fingerprints on it...)"
+msgstr ""
+
+msgctxt "1440"
+msgid "This is the evidence."
+msgstr ""
+
+msgctxt "1452"
+msgid "Is that my business card?"
+msgstr ""
+
+msgctxt "1464"
+msgid ""
+"This business card has your fingerprints on it.\r\n"
+"We should be able to compare the prints on this card to\r\n"
+"the ones on the murder weapon."
+msgstr ""
+
+msgctxt "1476"
+msgid "......!"
+msgstr ""
+
+msgctxt "1488"
+msgid "Give me that business card. Let's check it out right now."
+msgstr ""
+
+msgctxt "1560"
+msgid "(No, that doesn't prove anything.)"
+msgstr ""
+
+msgctxt "1572"
+msgid ""
+"(If I only had something with Yuko's fingerprints\r\n"
+"on it...)"
+msgstr ""
+
+msgctxt "1596"
+msgid ""
+"We've finished analyzing the prints on the card. These are\r\n"
+"Yuko Kinoshita's prints."
+msgstr ""
+
+msgctxt "1620"
+msgid "......"
+msgstr ""
+
+msgctxt "1632"
+msgid "And these are the prints on the ashtray."
+msgstr ""
+
+msgctxt "1656"
+msgid "They're⑬"
+msgstr ""
+
+msgctxt "1692"
+msgid ""
+"The prints on Yuko-san's business card are the same as\r\n"
+"the ones on the murder weapon."
+msgstr ""
+
+msgctxt "1704"
+msgid "I don't believe it..."
+msgstr ""
+
+msgctxt "1728"
+msgid "How do you explain that?"
+msgstr ""
+
+msgctxt "1740"
+msgid ""
+"Even if my prints are on that ashtray, so what? How\r\n"
+"does that change anything?"
+msgstr ""
+
+msgctxt "1752"
+msgid "What do you mean?"
+msgstr ""
+
+msgctxt "1764"
+msgid ""
+"I ate at Alps the day of the murder. I must've just touched\r\n"
+"the ashtray while I was there."
+msgstr ""
+
+msgctxt "1776"
+msgid "......"
+msgstr ""
+
+msgctxt "1788"
+msgid ""
+"She's right. There's no crime in touching an ashtray. She\r\n"
+"was just a customer."
+msgstr ""
+
+msgctxt "1800"
+msgid "(No, Yuko's lying. I should call her out on it.)"
+msgstr ""
+
+msgctxt "1824"
+msgid "No. You're lying."
+msgstr ""
+
+msgctxt "1836"
+msgid "What the hell are you talking about?"
+msgstr ""
+
+msgctxt "1848"
+msgid ""
+"There's no record of you coming to the café the day of the\r\n"
+"murder. Right, Detective Maeda?"
+msgstr ""
+
+msgctxt "1860"
+msgid "He's right."
+msgstr ""
+
+msgctxt "1872"
+msgid ""
+"We had Café Alps employees watch all the security tapes, and\r\n"
+"they gave statements that no other café employees, former\r\n"
+"or otherwise, visited the café that day."
+msgstr ""
+
+msgctxt "1884"
+msgid "Right, Kinoshita-san?"
+msgstr ""
+
+msgctxt "1896"
+msgid "That's right."
+msgstr ""
+
+msgctxt "1920"
+msgid ""
+"I'd seen Yuko-san's face before, so I would've noticed\r\n"
+"if she was on those tapes."
+msgstr ""
+
+msgctxt "1932"
+msgid "She definitely wasn't."
+msgstr ""
+
+msgctxt "1956"
+msgid "(No, that doesn't prove anything.)"
+msgstr ""
+
+msgctxt "1968"
+msgid "(I should have a statement that proves that Yuko is lying.)"
+msgstr ""
+
+msgctxt "1992"
+msgid ""
+"Which means you didn't come to Café Alps on the day\r\n"
+"of the murder as a customer."
+msgstr ""
+
+msgctxt "2004"
+msgid "So why were your fingerprints on the ashtray, then?"
+msgstr ""
+
+msgctxt "2016"
+msgid ""
+"Fine. Maybe it wasn't on the day of the murder. It might've\r\n"
+"been the day before. It's not that big of an issue."
+msgstr ""
+
+msgctxt "2028"
+msgid "Nope, you had to have been here the day of the murder."
+msgstr ""
+
+msgctxt "2040"
+msgid "You weren't a customer... You were the real murderer."
+msgstr ""
+
+msgctxt "2052"
+msgid "Huh...?"
+msgstr ""
+
+msgctxt "2064"
+msgid ""
+"The only people who could have prints on the murder weapon\r\n"
+"were those who visited the day of the murder."
+msgstr ""
+
+msgctxt "2076"
+msgid "How did you come to that conclusion?"
+msgstr ""
+
+msgctxt "2088"
+msgid ""
+"(And now for the coup de grace... I just need something\r\n"
+"to prove when the prints on the murder weapon were made.)"
+msgstr ""
+
+msgctxt "2112"
+msgid ""
+"The ashtrays here are cleaned every day, but your prints\r\n"
+"were still on the murder weapon."
+msgstr ""
+
+msgctxt "2124"
+msgid "That means you had to have been here the day of the murder."
+msgstr ""
+
+msgctxt "2136"
+msgid "But..."
+msgstr ""
+
+msgctxt "2148"
+msgid ""
+"The day of the murder, a customer dropped the ashtray,\r\n"
+"chipping it."
+msgstr ""
+
+msgctxt "2160"
+msgid ""
+"Yuichi Akechi saw the chipped ashtray and, instead of\r\n"
+"washing it, decided to throw it out."
+msgstr ""
+
+msgctxt "2172"
+msgid ""
+"Since you couldn't have come to the café as a customer\r\n"
+"that day, there's only one time you could've left your\r\n"
+"prints on the ashtray."
+msgstr ""
+
+msgctxt "2184"
+msgid ""
+"You did it after Akechi dropped the ashtray in the locker\r\n"
+"room when he witnessed Usami cheating on him with Oda."
+msgstr ""
+
+msgctxt "2196"
+msgid ""
+"Sometime after Akechi left and before Kinoshita came to\r\n"
+"check up on him, you entered the locker room and murdered\r\n"
+"Oda."
+msgstr ""
+
+msgctxt "2208"
+msgid "Then you put on Imagawa's uniform and went out the back."
+msgstr ""
+
+msgctxt "2220"
+msgid "Isn't that right?"
+msgstr ""
+
+msgctxt "2232"
+msgid "......"
+msgstr ""
+
+msgctxt "2244"
+msgid "Yuko-san. Is what Kiryu-san says true?"
+msgstr ""
+
+msgctxt "2256"
+msgid "......"
+msgstr ""
+
+msgctxt "2268"
+msgid "It'll only get worse if you stay quiet."
+msgstr ""
+
+msgctxt "2280"
+msgid "Shut up! I told you I didn't do it!"
+msgstr ""
+
+msgctxt "2292"
+msgid "......"
+msgstr ""
+
+msgctxt "2304"
+msgid "I give up! Yuko, I'm putting an end to this."
+msgstr ""
+
+msgctxt "2316"
+msgid "What!?"
+msgstr ""
+
+msgctxt "2328"
+msgid "Do you know something, Kinoshita-san?"
+msgstr ""
+
+msgctxt "2340"
+msgid "I knew you came to the café that day, Yuko."
+msgstr ""
+
+msgctxt "2352"
+msgid "What...? How...?"
+msgstr ""
+
+msgctxt "2364"
+msgid ""
+"I could smell you. It was very faint, but I could smell your\r\n"
+"perfume all around the crime scene..."
+msgstr ""
+
+msgctxt "2376"
+msgid "No way..."
+msgstr ""
+
+msgctxt "2388"
+msgid "Why didn't you say this earlier?"
+msgstr ""
+
+msgctxt "2400"
+msgid "I'd been in love with Yuko ever since we worked together."
+msgstr ""
+
+msgctxt "2412"
+msgid ""
+"That's why I knew the scent of her perfume the minute\r\n"
+"I smelled it..."
+msgstr ""
+
+msgctxt "2424"
+msgid "......"
+msgstr ""
+
+msgctxt "2436"
+msgid ""
+"Some time after the murder, I happened to run into her\r\n"
+"again. Eventually, we started dating."
+msgstr ""
+
+msgctxt "2448"
+msgid ""
+"One day, I brought up the murder and her face went white.\r\n"
+"She fell quiet, and avoided commenting on anything."
+msgstr ""
+
+msgctxt "2460"
+msgid ""
+"That's when I was sure Yuko had been here the day of\r\n"
+"the crime."
+msgstr ""
+
+msgctxt "2472"
+msgid "Well, I'll be..."
+msgstr ""
+
+msgctxt "2484"
+msgid ""
+"But I still didn't know exactly what that meant. Or, I\r\n"
+"should say, I didn't want to know what that meant..."
+msgstr ""
+
+msgctxt "2496"
+msgid ""
+"When I found out Kiryu-san was looking into that old crime,\r\n"
+"I decided to keep it all a secret."
+msgstr ""
+
+msgctxt "2508"
+msgid "......"
+msgstr ""
+
+msgctxt "2520"
+msgid ""
+"But now Yuichi Akechi has suffered six years for a crime he\r\n"
+"didn't commit, all because I didn't say anything!"
+msgstr ""
+
+msgctxt "2532"
+msgid ""
+"It's all my fault! If I had just spoken up, none of this\r\n"
+"would've happened."
+msgstr ""
+
+msgctxt "2544"
+msgid "Gee, Kinoshita-san..."
+msgstr ""
+
+msgctxt "2568"
+msgid "(No, that doesn't prove anything.)"
+msgstr ""
+
+msgctxt "2580"
+msgid ""
+"(I just need something to prove when the prints on the\r\n"
+"murder weapon were made.)"
+msgstr ""
+
+msgctxt "2616"
+msgid ""
+"Is that all you got? The police wouldn't have arrested\r\n"
+"Akechi on just any ol' vague evidence, ya know."
+msgstr ""
+
+msgctxt "2628"
+msgid ""
+"There was also something that proved the person\r\n"
+"Kinoshita-san saw was, in fact, Akechi."
+msgstr ""
+
+msgctxt "2640"
+msgid "And what was that?"
+msgstr ""
+
+msgctxt "2652"
+msgid ""
+"The man Kinoshita-san saw leaving the scene of the crime was\r\n"
+"wearing a Café Alps waiter's uniform."
+msgstr ""
+
+msgctxt "2664"
+msgid ""
+"The only waiters employed by Café Alps at the time were\r\n"
+"Kinoshita-san, Asai-san, Imagawa-san, and Akechi-san."
+msgstr ""
+
+msgctxt "2676"
+msgid ""
+"The security tapes show Kinoshita-san and Asai-san out front\r\n"
+"at the time of the murder."
+msgstr ""
+
+msgctxt "2688"
+msgid "We've also confirmed that Imagawa-san was at home."
+msgstr ""
+
+msgctxt "2700"
+msgid "......"
+msgstr ""
+
+msgctxt "2712"
+msgid ""
+"Therefore, by process of elimination, the only waiter\r\n"
+"Kinoshita-san could have seen was Akechi."
+msgstr ""
+
+msgctxt "2724"
+msgid "Kiryu-san, is that true?"
+msgstr ""
+
+msgctxt "2736"
+msgid ""
+"No, it's absolutely possible that the person Kinoshita\r\n"
+"saw was not Akechi. I have a statement to prove it."
+msgstr ""
+
+msgctxt "2748"
+msgid "Well, then, why don't you share this statement with us?"
+msgstr ""
+
+msgctxt "2760"
+msgid ""
+"(I have a statement that proves the person seen leaving Café\r\n"
+"Alps might not have been Akechi. I need to present that now.)"
+msgstr ""
+
+msgctxt "2784"
+msgid ""
+"There was actually another crime committed at this café\r\n"
+"the day of the murder six years ago."
+msgstr ""
+
+msgctxt "2796"
+msgid "Another crime? That's the first I've heard of it."
+msgstr ""
+
+msgctxt "2808"
+msgid ""
+"Imagawa's uniform disappeared from his locker in the\r\n"
+"Café Alps locker room on that day."
+msgstr ""
+
+msgctxt "2820"
+msgid "Imagawa-kun's uniform?"
+msgstr ""
+
+msgctxt "2832"
+msgid "Yes! My uniform disappeared from my locker."
+msgstr ""
+
+msgctxt "2856"
+msgid "(No, that doesn't prove anything.)"
+msgstr ""
+
+msgctxt "2868"
+msgid ""
+"(I have a statement that proves the person seen leaving Café Alps\r\n"
+"might not have been Akechi.)"
+msgstr ""
+
+msgctxt "2892"
+msgid ""
+"Since you weren't present the day of the murder, when\r\n"
+"did you notice it was missing?"
+msgstr ""
+
+msgctxt "2904"
+msgid ""
+"The day after Oda-san was murdered, I came to work.\r\n"
+"The police were investigating, so I couldn't go in."
+msgstr ""
+
+msgctxt "2916"
+msgid ""
+"But once the police left, I looked in my locker and\r\n"
+"saw that my uniform was gone."
+msgstr ""
+
+msgctxt "2928"
+msgid ""
+"Come on. The police probably took it as evidence. I'm sure\r\n"
+"there was plenty of stuff missing from the crime scene."
+msgstr ""
+
+msgctxt "2940"
+msgid ""
+"You're wrong! Someone was definitely harassing me.\r\n"
+"Everyone teased me!"
+msgstr ""
+
+msgctxt "2952"
+msgid "Asai-kun, why don't you tell them you took my uniform?"
+msgstr ""
+
+msgctxt "2964"
+msgid "You took everything else. The uniform must've been you, too."
+msgstr ""
+
+msgctxt "2976"
+msgid "You're so whiny..."
+msgstr ""
+
+msgctxt "2988"
+msgid ""
+"Bully, police, whoever took it, it has nothing to do with\r\n"
+"Akechi or this case."
+msgstr ""
+
+msgctxt "3000"
+msgid "No, Imagawa's uniform is the key to this case."
+msgstr ""
+
+msgctxt "3012"
+msgid "Huh? What do you mean?"
+msgstr ""
+
+msgctxt "3024"
+msgid "I'll show you right now."
+msgstr ""
+
+msgctxt "3036"
+msgid ""
+"(I can show them <Color:7>two pieces<Color:Default> of evidence that prove "
+"what\r\n"
+"happened to Imagawa's uniform.)"
+msgstr ""
+
+msgctxt "3060"
+msgid "(And the other piece of evidence is...)"
+msgstr ""
+
+msgctxt "3084"
+msgid "(And the other piece of evidence is...)"
+msgstr ""
+
+msgctxt "3108"
+msgid ""
+"Look at the List of Evidence I borrowed from you.\r\n"
+"There's no waiter's uniform on it."
+msgstr ""
+
+msgctxt "3120"
+msgid "......"
+msgstr ""
+
+msgctxt "3132"
+msgid "Let's see... You're right. I don't see any waiter's uniform listed."
+msgstr ""
+
+msgctxt "3144"
+msgid ""
+"In other words, the uniform disappeared before the police\r\n"
+"showed up."
+msgstr ""
+
+msgctxt "3156"
+msgid "If the police didn't confiscate it, who could've taken it?"
+msgstr ""
+
+msgctxt "3168"
+msgid "It was Asai-kun, right?"
+msgstr ""
+
+msgctxt "3180"
+msgid ""
+"No, not Asai. He did steal things from you, true, but he\r\n"
+"wasn't doing it to harass you. He was just after some cash."
+msgstr ""
+
+msgctxt "3192"
+msgid ""
+"Your wallet and CDs make sense, but your uniform wouldn't\r\n"
+"have been worth anything."
+msgstr ""
+
+msgctxt "3204"
+msgid "Well, then, who did it?"
+msgstr ""
+
+msgctxt "3216"
+msgid "Oh! You mean the murderer took it!?"
+msgstr ""
+
+msgctxt "3228"
+msgid ""
+"Exactly. The criminal wanted to make it look like somebody\r\n"
+"else committed the crime, so they stole the waiter's uniform\r\n"
+"and changed into it."
+msgstr ""
+
+msgctxt "3240"
+msgid ""
+"Then, as soon as somebody came by, they hid their face\r\n"
+"and ran out the back exit."
+msgstr ""
+
+msgctxt "3252"
+msgid "Is that true?"
+msgstr ""
+
+msgctxt "3276"
+msgid "(No, that doesn't prove anything.)"
+msgstr ""
+
+msgctxt "3288"
+msgid ""
+"(I need to show them <Color:7>two pieces<Color:Default> of evidence that "
+"prove what\r\n"
+"happened to Imagawa's uniform.)"
+msgstr ""
+
+msgctxt "3312"
+msgid ""
+"So you're saying the person who stole Imagawa's uniform and\r\n"
+"fled the scene is the real criminal?"
+msgstr ""
+
+msgctxt "3324"
+msgid "Yeah."
+msgstr ""
+
+msgctxt "3336"
+msgid "And who might that be?"
+msgstr ""
+
+msgctxt "3444"
+msgid "(The real criminal is...)"
+msgstr ""
+
+msgctxt "3468"
+msgid "(Yes. This is the only person it could've been.)"
+msgstr ""
+
+msgctxt "3492"
+msgid "(No, that's not right. I should think a little harder.)"
+msgstr ""
+
+msgctxt "3540"
+msgid ""
+"Well, I did as you asked, Detective. I closed the café and\r\n"
+"kicked everyone out. Now, what's this all about?"
+msgstr ""
+
+msgctxt "3552"
+msgid "Kiryu-san and his friend here would like to talk to all of you."
+msgstr ""
+
+msgctxt "3564"
+msgid "I have you here for one reason, and one reason alone."
+msgstr ""
+
+msgctxt "3576"
+msgid ""
+"I'm sure you all remember the murder that took place\r\n"
+"here six years ago."
+msgstr ""
+
+msgctxt "3588"
+msgid ""
+"The victim was Kazuo Oda-san, the manager of this café\r\n"
+"at the time. One of the employees, Yuichi Akechi-san, was\r\n"
+"arrested for his murder."
+msgstr ""
+
+msgctxt "3600"
+msgid "......"
+msgstr ""
+
+msgctxt "3612"
+msgid "But did Akechi-san really kill Oda-san?"
+msgstr ""
+
+msgctxt "3624"
+msgid "I'd like to ask each of you to think back on that day..."
+msgstr ""
+
+msgctxt "3636"
+msgid ""
+"Do any of you have any evidence⑬any truly conclusive\r\n"
+"evidence⑬that Akechi-san was really the one who killed\r\n"
+"Oda-san?"
+msgstr ""
+
+msgctxt "3648"
+msgid "......"
+msgstr ""
+
+msgctxt "3660"
+msgid "......"
+msgstr ""
+
+msgctxt "3672"
+msgid ""
+"I've been struggling with one question since the day of\r\n"
+"that murder."
+msgstr ""
+
+msgctxt "3684"
+msgid "Could Akechi-san actually be innocent?"
+msgstr ""
+
+msgctxt "3696"
+msgid ""
+"But before I could find out for sure, an article I wrote\r\n"
+"implicating Akechi-san as the murderer got published..."
+msgstr ""
+
+msgctxt "3708"
+msgid "......"
+msgstr ""
+
+msgctxt "3720"
+msgid ""
+"But thanks to Kiryu-san here, we finally arrived at the\r\n"
+"truth of what happened six years ago."
+msgstr ""
+
+msgctxt "3732"
+msgid "......"
+msgstr ""
+
+msgctxt "3744"
+msgid ""
+"But if Akechi-kun is innocent, that means someone else is\r\n"
+"guilty..."
+msgstr ""
+
+msgctxt "3756"
+msgid "Exactly."
+msgstr ""
+
+msgctxt "3768"
+msgid "But..."
+msgstr ""
+
+msgctxt "3792"
+msgid "What do you base all of this on, Kiryu-san?"
+msgstr ""
+
+msgctxt "3804"
+msgid "(I need to show them proof of Yuichi Akechi's innocence.)"
+msgstr ""
+
+msgctxt "3828"
+msgid ""
+"Usami was the one who saw Akechi and Oda fight the\r\n"
+"day of the murder. Isn't that right?"
+msgstr ""
+
+msgctxt "3840"
+msgid "Yeah... But I left in the middle of it..."
+msgstr ""
+
+msgctxt "3852"
+msgid ""
+"In other words, she didn't actually see Akechi-san kill\r\n"
+"Oda-san."
+msgstr ""
+
+msgctxt "3864"
+msgid "Exactly. And only Usami saw Oda and Akechi fighting."
+msgstr ""
+
+msgctxt "3876"
+msgid ""
+"So we can't conclude Yuichi Akechi killed Oda, which means\r\n"
+"the charges against him could be false."
+msgstr ""
+
+msgctxt "3900"
+msgid "(No, that doesn't prove anything.)"
+msgstr ""
+
+msgctxt "3912"
+msgid ""
+"(I need to show why I believe Yuichi Akechi is innocent.\r\n"
+"All I have to do is poke a hole in the charges against him.)"
+msgstr ""
+
+msgctxt "3936"
+msgid "Ha! Sorry, but that doesn't hold water."
+msgstr ""
+
+msgctxt "3948"
+msgid "What do you mean?"
+msgstr ""
+
+msgctxt "3960"
+msgid ""
+"Akechi's prints were on the weapon used to kill Oda.\r\n"
+"That's solid evidence to prove Akechi did it."
+msgstr ""
+
+msgctxt "3972"
+msgid "Is that all you have to say?"
+msgstr ""
+
+msgctxt "3984"
+msgid "Huh? What do you mean?"
+msgstr ""
+
+msgctxt "3996"
+msgid ""
+"This was your case. You ought to know Akechi's fingerprints\r\n"
+"on the murder weapon alone weren't enough to convict him."
+msgstr ""
+
+msgctxt "4008"
+msgid "I don't follow you. Spell it out for us, will ya?"
+msgstr ""
+
+msgctxt "4020"
+msgid "(There's evidence I should show them now.)"
+msgstr ""
+
+msgctxt "4044"
+msgid ""
+"The ashtray used as the murder weapon hadn't been washed\r\n"
+"because it was supposed to be thrown out."
+msgstr ""
+
+msgctxt "4056"
+msgid ""
+"Akechi's prints weren't the only ones on it. That means\r\n"
+"you can't prove his guilt from the fingerprints alone."
+msgstr ""
+
+msgctxt "4068"
+msgid "Detective, is that true?"
+msgstr ""
+
+msgctxt "4080"
+msgid "Hmm... Yes, it's just as he says."
+msgstr ""
+
+msgctxt "4092"
+msgid "So you admit it might not have been my brother!?"
+msgstr ""
+
+msgctxt "4104"
+msgid "But that's still not enough to prove somebody else did it."
+msgstr ""
+
+msgctxt "4128"
+msgid "(No, that doesn't prove anything.)"
+msgstr ""
+
+msgctxt "4140"
+msgid "(There's evidence I should show them now.)"
+msgstr ""
+
+msgctxt "4164"
+msgid ""
+"Somebody witnessed Akechi fleeing the scene. That's\r\n"
+"another piece of solid evidence."
+msgstr ""
+
+msgctxt "4176"
+msgid "......"
+msgstr ""
+
+msgctxt "4188"
+msgid ""
+"Think about it. You'd think the person actively fleeing\r\n"
+"the scene of a crime is the culprit, wouldn't you? Why'd\r\n"
+"they run away if they didn't do anything?"
+msgstr ""
+
+msgctxt "4200"
+msgid "What do you have to say about that?"
+msgstr ""
+
+msgctxt "4212"
+msgid ""
+"Kiryu-san, do you have any information to refute the\r\n"
+"witness statements about Akechi-san?"
+msgstr ""
+
+msgctxt "4224"
+msgid "Let's see..."
+msgstr ""
+
+msgctxt "4236"
+msgid ""
+"(There was a hole in one of the witness statements.\r\n"
+"I just need to argue that angle.)"
+msgstr ""
+
+msgctxt "4260"
+msgid "Kinoshita, you saw Akechi fleeing the scene, right?"
+msgstr ""
+
+msgctxt "4272"
+msgid "Yes, I did."
+msgstr ""
+
+msgctxt "4284"
+msgid "Are you sure?"
+msgstr ""
+
+msgctxt "4296"
+msgid "I'm not lying! I'm sure I saw him."
+msgstr ""
+
+msgctxt "4308"
+msgid ""
+"But you didn't see the face of the person fleeing the scene.\r\n"
+"You said that, right?"
+msgstr ""
+
+msgctxt "4320"
+msgid "Yeah... I only saw his back."
+msgstr ""
+
+msgctxt "4332"
+msgid "So then it's possible you saw somebody else."
+msgstr ""
+
+msgctxt "4380"
+msgid "(No, that doesn't prove anything.)"
+msgstr ""
+
+msgctxt "4392"
+msgid ""
+"(There was a hole in one of the witness statements.\r\n"
+"I just need to argue that angle.)"
+msgstr ""
+
+msgctxt "55508"
+msgid "Yuko"
+msgstr ""
+
+msgctxt "55512"
+msgid "Kinoshita"
+msgstr ""
+
+msgctxt "55516"
+msgid "Wakazo"
+msgstr ""
+
+msgctxt "55520"
+msgid "Maeda"
+msgstr ""
+
+msgctxt "55524"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "55528"
+msgid "kaiwabgm_sadness"
+msgstr ""
+
+msgctxt "55532"
+msgid "sub008/sub_yuuko_004"
+msgstr ""
+
+msgctxt "55536"
+msgid "sub008/sub_yuuko_016"
+msgstr ""
+
+msgctxt "55540"
+msgid "sub008/sub_yuuko_005"
+msgstr ""
+
+msgctxt "55544"
+msgid "sub008/sub_yuuko_017"
+msgstr ""
+
+msgctxt "55548"
+msgid "sub008/sub_yuuko_006"
+msgstr ""
+
+msgctxt "55552"
+msgid "sub008/sub_yuuko_007"
+msgstr ""
+
+msgctxt "55556"
+msgid "sub008/sub_yuuko_008"
+msgstr ""
+
+msgctxt "55560"
+msgid "sub008/sub_yuuko_009"
+msgstr ""
+
+msgctxt "55564"
+msgid "sub008/sub_yuuko_010"
+msgstr ""
+
+msgctxt "55568"
+msgid "sub008/sub_yuuko_011"
+msgstr ""
+
+msgctxt "55572"
+msgid "sub008/sub_yuuko_012"
+msgstr ""
+
+msgctxt "55576"
+msgid "sub008/sub_yuuko_019"
+msgstr ""
+
+msgctxt "55580"
+msgid "Usami"
+msgstr ""
+
+msgctxt "55584"
+msgid "sub008/sub_yuuko_013"
+msgstr ""
+
+msgctxt "55588"
+msgid "sub008/sub_yuuko_020"
+msgstr ""
+
+msgctxt "55592"
+msgid "sub008/sub_yuuko_014"
+msgstr ""
+
+msgctxt "55596"
+msgid "sub008/sub_yuuko_015"
+msgstr ""
+
+msgctxt "55600"
+msgid "sub008/sub_yuuko_021"
+msgstr ""
+
+msgctxt "55604"
+msgid "M_nml_stand_tlk_kamae"
+msgstr ""
+
+msgctxt "55608"
+msgid "kaiwabgm_loneliness"
+msgstr ""
+
+msgctxt "55612"
+msgid "Nozomi"
+msgstr ""
+
+msgctxt "55616"
+msgid "Asai"
+msgstr ""
+
+msgctxt "55620"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "55624"
+msgid "Imagawa"
+msgstr ""
+
+msgctxt "55628"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "55632"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "55636"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "55640"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "55644"
+msgid "Talk_Kansin"
+msgstr ""
+
+msgctxt "55648"
+msgid "Talk_Send"
+msgstr ""
+
+msgctxt "55652"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "55656"
+msgid "Talk_Info_R"
+msgstr ""
+
+msgctxt "55660"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "55664"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "55668"
+msgid "Talk_Info_L"
+msgstr ""
+
+msgctxt "55672"
+msgid "Talk_Call"
+msgstr ""

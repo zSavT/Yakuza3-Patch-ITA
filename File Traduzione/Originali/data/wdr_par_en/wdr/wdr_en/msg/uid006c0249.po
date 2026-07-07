@@ -1,0 +1,242 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "124"
+msgid ""
+"Oooh, that smells super good! I'm getting really hungry. C'mon, Kiryu-san, "
+"let's go in already!"
+msgstr ""
+
+msgctxt "136"
+msgid "Sounds good."
+msgstr ""
+
+msgctxt "160"
+msgid ""
+"Oooh, that smells super good! I'm getting really hungry. C'mon, Kiryu-san, "
+"let's go in already!"
+msgstr ""
+
+msgctxt "172"
+msgid "Hold on a second. I just realized I'm a little short on cash."
+msgstr ""
+
+msgctxt "184"
+msgid "Huh? Wait, whaaat?"
+msgstr ""
+
+msgctxt "196"
+msgid "Sorry..."
+msgstr ""
+
+msgctxt "208"
+msgid "I was all excited to go eat with you, too... I guess I'll just go home..."
+msgstr ""
+
+msgctxt "220"
+msgid "(Guess I should bring some cash next time...)"
+msgstr ""
+
+msgctxt "328"
+msgid "Aw man, I'm soooo full!"
+msgstr ""
+
+msgctxt "340"
+msgid "Glad to hear it."
+msgstr ""
+
+msgctxt "352"
+msgid ""
+"Food just tastes so much better when you don't have to cook it, y'know? It "
+"was so delicious, I totally ate more than I should have... "
+"<Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "364"
+msgid "Time for me to go. Take me out again sometime, okay?"
+msgstr ""
+
+msgctxt "388"
+msgid "Aw man, I'm soooo full!"
+msgstr ""
+
+msgctxt "400"
+msgid "Glad to hear it."
+msgstr ""
+
+msgctxt "412"
+msgid "Take me out again sometime, okay? See you later!"
+msgstr ""
+
+msgctxt "436"
+msgid "......"
+msgstr ""
+
+msgctxt "448"
+msgid "Everything all right?"
+msgstr ""
+
+msgctxt "460"
+msgid "I kinda don't like what I got..."
+msgstr ""
+
+msgctxt "472"
+msgid "Oh..."
+msgstr ""
+
+msgctxt "484"
+msgid "I'm gonna go home now... I'll see you at the club, okay?"
+msgstr ""
+
+msgctxt "496"
+msgid "(Damn, I feel bad for making her eat stuff she didn't like.)"
+msgstr ""
+
+msgctxt "520"
+msgid ""
+"Huge error!\r\n"
+"No flags set for conversation selection!"
+msgstr ""
+
+msgctxt "604"
+msgid ""
+"Oooh, that smells super good! I'm getting really hungry. C'mon, Kiryu-san, "
+"let's go in already!"
+msgstr ""
+
+msgctxt "616"
+msgid "Sounds good."
+msgstr ""
+
+msgctxt "640"
+msgid ""
+"Oooh, that smells super good! I'm getting really hungry. C'mon, Kiryu-san, "
+"let's go in already!"
+msgstr ""
+
+msgctxt "652"
+msgid "Hold on a second. I just realized I'm a little short on cash."
+msgstr ""
+
+msgctxt "664"
+msgid "Huh? Wait, whaaat?"
+msgstr ""
+
+msgctxt "676"
+msgid "Sorry..."
+msgstr ""
+
+msgctxt "688"
+msgid "I was all excited to go eat with you, too... I guess I'll just go home..."
+msgstr ""
+
+msgctxt "700"
+msgid "(Guess I should bring some cash next time...)"
+msgstr ""
+
+msgctxt "808"
+msgid "Aw man, I'm soooo full!"
+msgstr ""
+
+msgctxt "820"
+msgid "Glad to hear it."
+msgstr ""
+
+msgctxt "832"
+msgid ""
+"Food just tastes so much better when you don't have to cook it, y'know? It "
+"was so delicious, I totally ate more than I should have... "
+"<Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "844"
+msgid "Should we head over to the club now?"
+msgstr ""
+
+msgctxt "856"
+msgid "Yeah, sounds good."
+msgstr ""
+
+msgctxt "880"
+msgid "Aw man, I'm soooo full!"
+msgstr ""
+
+msgctxt "892"
+msgid "That's good..."
+msgstr ""
+
+msgctxt "904"
+msgid "Should we head over to the club now?"
+msgstr ""
+
+msgctxt "916"
+msgid "Yeah, sounds good."
+msgstr ""
+
+msgctxt "940"
+msgid "......"
+msgstr ""
+
+msgctxt "952"
+msgid "Everything all right?"
+msgstr ""
+
+msgctxt "964"
+msgid "I kinda don't like what I got..."
+msgstr ""
+
+msgctxt "976"
+msgid "Sorry about that..."
+msgstr ""
+
+msgctxt "988"
+msgid "Should we head over to the club now?"
+msgstr ""
+
+msgctxt "1000"
+msgid "(Damn, I feel bad for making her eat stuff she didn't like.)"
+msgstr ""
+
+msgctxt "1024"
+msgid ""
+"Huge error!\r\n"
+"No flags set for conversation selection!"
+msgstr ""
+
+msgctxt "11860"
+msgid "Saya"
+msgstr ""
+
+msgctxt "11864"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "11868"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "11872"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "11876"
+msgid "dummy"
+msgstr ""
+
+msgctxt "11880"
+msgid "0"
+msgstr ""
+
+msgctxt "11884"
+msgid "Talk_No"
+msgstr ""

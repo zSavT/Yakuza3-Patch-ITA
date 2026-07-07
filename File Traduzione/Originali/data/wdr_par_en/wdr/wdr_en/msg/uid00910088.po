@@ -1,0 +1,92 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "76"
+msgid "Great work, Kiryu-san. I'll take it from here."
+msgstr ""
+
+msgctxt "88"
+msgid "Kiryu-san, you did it!"
+msgstr ""
+
+msgctxt "100"
+msgid "You've caught all the Reapers we know about in Downtown Ryukyu!"
+msgstr ""
+
+msgctxt "112"
+msgid "I see. That's a relief then."
+msgstr ""
+
+msgctxt "124"
+msgid "Well, actually, I just got a call from Ibuki..."
+msgstr ""
+
+msgctxt "136"
+msgid "He said they got some information on Shinzaki, the scout for the Reapers."
+msgstr ""
+
+msgctxt "148"
+msgid "What? They did?"
+msgstr ""
+
+msgctxt "160"
+msgid "Yes, sir, and Ibuki-san needs your help."
+msgstr ""
+
+msgctxt "172"
+msgid ""
+"We've finally got a chance to uncover who's behind all this. Would you be "
+"willing to help out on this one?"
+msgstr ""
+
+msgctxt "184"
+msgid "Yeah, let's do it."
+msgstr ""
+
+msgctxt "196"
+msgid ""
+"Please accept this as a token of our deep appreciation for all you've done "
+"for us."
+msgstr ""
+
+msgctxt "208"
+msgid "You got <Color:8>220,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "220"
+msgid "We're counting on you, Kiryu-san. Take care."
+msgstr ""
+
+msgctxt "2224"
+msgid "Okinawa HLA Member"
+msgstr ""
+
+msgctxt "2228"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "2232"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "2236"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "2240"
+msgid "dummy"
+msgstr ""
+
+msgctxt "2244"
+msgid "0"
+msgstr ""

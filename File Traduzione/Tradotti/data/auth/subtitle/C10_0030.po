@@ -1,0 +1,28 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "371\t431"
+msgid "Uncle Kaz!"
+msgstr ""
+
+msgctxt "644\t704"
+msgid "Nakahara!"
+msgstr ""
+
+msgctxt "1007\t1100"
+msgid "Are you sure you should be out of bed?"
+msgstr ""
+
+msgctxt "1115\t1193"
+msgid "I've kept you waitin' long enough, brother."
+msgstr ""

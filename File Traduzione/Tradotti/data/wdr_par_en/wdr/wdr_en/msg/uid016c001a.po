@@ -1,0 +1,523 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "512"
+msgid "Controls"
+msgstr ""
+
+msgctxt "524"
+msgid ""
+"Use the "
+"<Action:Button_LS_Up@Cabaret><Action:Button_LS_Down@Cabaret><Action:Button_"
+"LS_Left@Cabaret><Action:Button_LS_Right@Cabaret> to control where Kiryu "
+"looks.\r\n"
+"This is your big chance to feast your eyes on a perfect incarnation of "
+"beauty."
+msgstr ""
+
+msgctxt "536"
+msgid ""
+"Press <Action:Button_Cross@Cabaret> when you want to focus intently on one "
+"of her features. Holding down <Action:Button_Cross@Cabaret> allows you to "
+"focus your gaze."
+msgstr ""
+
+msgctxt "548"
+msgid "Note that her reaction will change depending on where you look."
+msgstr ""
+
+msgctxt "572"
+msgid "(Her eyes are really cute... And they brim with confidence and energy.)"
+msgstr ""
+
+msgctxt "584"
+msgid "(She has nice lips... at least when complaints aren't flooding out of them.)"
+msgstr ""
+
+msgctxt "596"
+msgid "(Her hands are so soft... but look at those nails.)"
+msgstr ""
+
+msgctxt "608"
+msgid "(I like the shape of those legs...)"
+msgstr ""
+
+msgctxt "620"
+msgid "(What does she have in her hair? Is that a real flower?)"
+msgstr ""
+
+msgctxt "632"
+msgid "(They're covered up just enough to grab my attention...)"
+msgstr ""
+
+msgctxt "644"
+msgid "(Hmm... I kind of like the whole package.)"
+msgstr ""
+
+msgctxt "656"
+msgid "I like your eyes. They give off a powerful impression."
+msgstr ""
+
+msgctxt "668"
+msgid "Oooh, tell me more, Kiryu-san. <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "680"
+msgid "Well... They're just my type, that's all."
+msgstr ""
+
+msgctxt "692"
+msgid "Aww, thanks. I take care of 'em real good, ya know."
+msgstr ""
+
+msgctxt "704"
+msgid ""
+"That's how I get my guys in the first place⑬all it takes is one li'l "
+"glance! They say the eyes speak volumes without words... or somethin' like "
+"that."
+msgstr ""
+
+msgctxt "716"
+msgid "Are your eyes saying anything right now?"
+msgstr ""
+
+msgctxt "728"
+msgid ""
+"What, can't ya tell? They're sayin' they wanna make ya all woozy and weak "
+"in the knees! <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "740"
+msgid "Heh. Already halfway there."
+msgstr ""
+
+msgctxt "752"
+msgid ""
+"You have nice lips. And the way you talk is different than anyone I've ever "
+"met."
+msgstr ""
+
+msgctxt "764"
+msgid "Yeah? Well, what can I say? I'm just bein' me."
+msgstr ""
+
+msgctxt "776"
+msgid "And I respect that about you."
+msgstr ""
+
+msgctxt "788"
+msgid ""
+"Heh... Well... Sometimes I get the feeling that people see me as some sorta "
+"character. \"Oh, that must be a Rin thing,\" or, \"Don't ever change, Rin.\""
+msgstr ""
+
+msgctxt "800"
+msgid ""
+"I am aware of my tendency to blurt out whatever I wanna say, when I wanna "
+"say it... And maybe I am a bit short with people..."
+msgstr ""
+
+msgctxt "812"
+msgid ""
+"But hey, that's just who I am. And if you say you like me, that's good "
+"enough for me. <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "824"
+msgid "Then I'm glad I got to say it."
+msgstr ""
+
+msgctxt "836"
+msgid "It'd have to be your hands. They're so clean and pretty."
+msgstr ""
+
+msgctxt "848"
+msgid "Oh yeah? I think I got pretty nice hands, myself."
+msgstr ""
+
+msgctxt "860"
+msgid ""
+"I put a lot of work into 'em. Particularly the nails. Gotta get those down "
+"just right, y'know?"
+msgstr ""
+
+msgctxt "872"
+msgid "Yeah..."
+msgstr ""
+
+msgctxt "884"
+msgid ""
+"Ain't it nice seein' a lady take good care of herself? It's pretty much "
+"standard procedure for us to spend all day paintin' our face or choosin' "
+"the perfect outfit..."
+msgstr ""
+
+msgctxt "896"
+msgid ""
+"...Not to mention cleanin' down to the fingertips! That's the sign of a "
+"really good woman right there."
+msgstr ""
+
+msgctxt "908"
+msgid "I gotta say. You've got some amazing legs."
+msgstr ""
+
+msgctxt "920"
+msgid "Ooh! So you're goin' down that road, huh?"
+msgstr ""
+
+msgctxt "932"
+msgid "Yeah. My eyes just seem to wander there."
+msgstr ""
+
+msgctxt "944"
+msgid "Heheheh... I'm pretty proud of these legs, y'know."
+msgstr ""
+
+msgctxt "956"
+msgid ""
+"A long time ago, some famous fashion designer once said,\r\n"
+"\"You know what? We should probably start showing off the\r\n"
+"legs of a working lady. That should make us a lot of money.\""
+msgstr ""
+
+msgctxt "968"
+msgid ""
+"And then, <Italic>boom</Italic>! It was miniskirts and high heels all over "
+"the dang place!"
+msgstr ""
+
+msgctxt "980"
+msgid ""
+"Not that I mind. I know I've got some killer legs. Hope ya got a nice, long "
+"look! <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "992"
+msgid "Is that flower in your hair... real?"
+msgstr ""
+
+msgctxt "1004"
+msgid ""
+"Yep, it's the real deal. Got one of my hairdresser friends to do it. Calls "
+"it an \"ikebana updo.\""
+msgstr ""
+
+msgctxt "1016"
+msgid "...She updid what now?"
+msgstr ""
+
+msgctxt "1028"
+msgid ""
+"Kiryu-san! She styled my hair with a flower, that's all! Ain't it gorgeous? "
+"<Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "1040"
+msgid "It sure is."
+msgstr ""
+
+msgctxt "1052"
+msgid ""
+"Good, 'cause I am absolutely <Italic>in love</Italic> with how it turned "
+"out! <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "1064"
+msgid "Me too."
+msgstr ""
+
+msgctxt "1076"
+msgid "I knew you'd say something like that... judging by that lewd expression."
+msgstr ""
+
+msgctxt "1088"
+msgid "That's... not what I was trying to say..."
+msgstr ""
+
+msgctxt "1100"
+msgid ""
+"You don't gotta bend all backwards tryin' to explain. I get it⑬you're a "
+"guy, that's what guys like. I mean, why else would ya be here, right?"
+msgstr ""
+
+msgctxt "1112"
+msgid "Hey, you're not even listening..."
+msgstr ""
+
+msgctxt "1124"
+msgid ""
+"Hahaha... I'm just teasin' ya. I know what assets I got, and I ain't afraid "
+"to use 'em. <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "1136"
+msgid ""
+"Okay. I'm lettin' it slide this time. But this is your only strike, "
+"Kiryu-san! <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "1148"
+msgid "Yo! Who are you even looking at?"
+msgstr ""
+
+msgctxt "1160"
+msgid "Oh... Uh, no one."
+msgstr ""
+
+msgctxt "1172"
+msgid ""
+"Hey, if you wanna go ogle some other girl, I'd be more than happy to go "
+"grab 'em for ya!"
+msgstr ""
+
+msgctxt "1184"
+msgid "It's not that... I guess my eyes just wandered off for a second."
+msgstr ""
+
+msgctxt "1196"
+msgid "...Well, alright. Long as ya understand. But focus on me right now, 'kay?"
+msgstr ""
+
+msgctxt "1208"
+msgid "(She's looking right at me...)"
+msgstr ""
+
+msgctxt "1220"
+msgid "(She has such nice hair... but also soft lips.)"
+msgstr ""
+
+msgctxt "1232"
+msgid "(Now do I like her hair better... Or her hands?)"
+msgstr ""
+
+msgctxt "1244"
+msgid "(I know she's proud of her hair... But I prefer those legs.)"
+msgstr ""
+
+msgctxt "1256"
+msgid "(Her hair really is nice, though.)"
+msgstr ""
+
+msgctxt "1268"
+msgid "(She's got a nice chest. Too bad I can't really see much...)"
+msgstr ""
+
+msgctxt "1280"
+msgid "(I could stare at her all day... But she might not like that.)"
+msgstr ""
+
+msgctxt "1292"
+msgid "You know, it's a little hard to answer when you're staring at me like that."
+msgstr ""
+
+msgctxt "1304"
+msgid ""
+"I don't see the problem with lookin' a guy straight in the eyes. That's "
+"what you're supposed to do."
+msgstr ""
+
+msgctxt "1316"
+msgid "Well, yeah, but..."
+msgstr ""
+
+msgctxt "1328"
+msgid ""
+"Come on, don't be weak. <Color:7>⑮<Color:Default> 'Sides, weren't you "
+"starin' into my eyes, too?"
+msgstr ""
+
+msgctxt "1340"
+msgid ""
+"You're supposed to be admirin' my hair, ya big beef bowl. "
+"<Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "1352"
+msgid "Your hair is nice... But your lips are your best feature."
+msgstr ""
+
+msgctxt "1364"
+msgid "Come on... I wanted ya to look at my hair, though."
+msgstr ""
+
+msgctxt "1376"
+msgid "You really don't listen to people, do ya, Kiryu-san?"
+msgstr ""
+
+msgctxt "1388"
+msgid "I don't?"
+msgstr ""
+
+msgctxt "1400"
+msgid ""
+"Nope, and that's what's great about ya. <Color:7>⑮<Color:Default> When a "
+"man doesn't listen, it's all the more worth it when they fall for ya. "
+"<Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "1412"
+msgid "Your hands are nice, too."
+msgstr ""
+
+msgctxt "1424"
+msgid "Well thanks... but I wanted you to look at my hair."
+msgstr ""
+
+msgctxt "1436"
+msgid "You really don't listen to people, do ya, Kiryu-san?"
+msgstr ""
+
+msgctxt "1448"
+msgid "I try to..."
+msgstr ""
+
+msgctxt "1460"
+msgid ""
+"Well, whatever. I do have my nails done up real nice at the salon. I like "
+"bein' all dolled up."
+msgstr ""
+
+msgctxt "1472"
+msgid "Your hair is nice, but your legs are beautiful beyond compare..."
+msgstr ""
+
+msgctxt "1484"
+msgid "Aww... I wanted ya to look at my hair, though."
+msgstr ""
+
+msgctxt "1496"
+msgid "You really don't listen to people, do ya, Kiryu-san?"
+msgstr ""
+
+msgctxt "1508"
+msgid "I don't...?"
+msgstr ""
+
+msgctxt "1520"
+msgid ""
+"I know you've been lookin' at my legs the whole time too. You're hopeless, "
+"man."
+msgstr ""
+
+msgctxt "1532"
+msgid "I think your hair is perfect."
+msgstr ""
+
+msgctxt "1544"
+msgid ""
+"Right!? <Color:7>⑮<Color:Default> I even got a live flower in there! "
+"<Color:7>⑮<Color:Default> Ahh, I just love the way it turned out!"
+msgstr ""
+
+msgctxt "1556"
+msgid "It definitely suits you."
+msgstr ""
+
+msgctxt "1568"
+msgid ""
+"Thanks! <Color:7>⑮<Color:Default> I love it when I have a good hair day! "
+"Which is, like, pretty much all the time. <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "1580"
+msgid "Kiryu-san! Was I not just talkin' about my hair, like, seconds ago?"
+msgstr ""
+
+msgctxt "1592"
+msgid "Yeah... You were..."
+msgstr ""
+
+msgctxt "1604"
+msgid "Were you even listening to me?"
+msgstr ""
+
+msgctxt "1616"
+msgid "...I thought I was."
+msgstr ""
+
+msgctxt "1628"
+msgid "I give up. From now on, I won't talk about myself anymore. Happy?"
+msgstr ""
+
+msgctxt "1640"
+msgid "You spacin' out on me or something?"
+msgstr ""
+
+msgctxt "1652"
+msgid "Uh..."
+msgstr ""
+
+msgctxt "1664"
+msgid "Come on... I wanted ya to look at my hair."
+msgstr ""
+
+msgctxt "1676"
+msgid "You really don't listen to people, do ya, Kiryu-san?"
+msgstr ""
+
+msgctxt "1688"
+msgid "Sorry..."
+msgstr ""
+
+msgctxt "18092"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "18096"
+msgid "F_cab_sitsofa_hot_muneA"
+msgstr ""
+
+msgctxt "18100"
+msgid "Rin"
+msgstr ""
+
+msgctxt "18104"
+msgid "F_cab_sitsofa_talk_smileA"
+msgstr ""
+
+msgctxt "18108"
+msgid "F_cab_sitsofa_tlk_happy"
+msgstr ""
+
+msgctxt "18112"
+msgid "F_cab_sitsofa_sp5_sync_laugh"
+msgstr ""
+
+msgctxt "18116"
+msgid "P_sitsofa_sp5_sync_laugh"
+msgstr ""
+
+msgctxt "18120"
+msgid "F_cab_sitsofa_tlk_yes"
+msgstr ""
+
+msgctxt "18124"
+msgid "F_cab_sitsofa_tlk_noA"
+msgstr ""
+
+msgctxt "18128"
+msgid "F_cab_sitsofa_tlk_angry"
+msgstr ""
+
+msgctxt "18132"
+msgid "F_cab_sitsofa_hot_tereA"
+msgstr ""
+
+msgctxt "18136"
+msgid "F_cab_sitsofa_tlk_kamaeAtoB"
+msgstr ""
+
+msgctxt "18140"
+msgid "F_cab_sitsofa_tlk_kamaeBtoA"
+msgstr ""

@@ -1,0 +1,355 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "80"
+msgid "Holy shit, you're strong... We're gettin' outta here!"
+msgstr ""
+
+msgctxt "152"
+msgid "Thanks, Kiryu-san..."
+msgstr ""
+
+msgctxt "164"
+msgid ""
+"Akira! What the heck are you doing, huh!? I've been worried sick about you, "
+"you know that!?"
+msgstr ""
+
+msgctxt "176"
+msgid ""
+"...Shut up, okay? I don't need you breathing down my neck all the time! I'm "
+"not a kid anymore, you know!"
+msgstr ""
+
+msgctxt "200"
+msgid "*<Italic>Whack</Italic>!*"
+msgstr ""
+
+msgctxt "224"
+msgid "Owwww! What the hell!?"
+msgstr ""
+
+msgctxt "236"
+msgid "Kiryu-san!?"
+msgstr ""
+
+msgctxt "248"
+msgid "You think that's really the best way to react in this situation?"
+msgstr ""
+
+msgctxt "260"
+msgid "......"
+msgstr ""
+
+msgctxt "272"
+msgid ""
+"I just wanted to make fast money, that's all... Especially since Dad's dead "
+"and all..."
+msgstr ""
+
+msgctxt "284"
+msgid "Akira..."
+msgstr ""
+
+msgctxt "296"
+msgid ""
+"I knew it was dangerous, I just... I never thought something like this "
+"could happen to me."
+msgstr ""
+
+msgctxt "308"
+msgid "Akira... Look how far we've made it, even without our dad around."
+msgstr ""
+
+msgctxt "320"
+msgid ""
+"We'll be fine from here on out, too! We're family, Akira. We stick "
+"together, right?"
+msgstr ""
+
+msgctxt "332"
+msgid "Saya..."
+msgstr ""
+
+msgctxt "416"
+msgid "...Kiryu-san?"
+msgstr ""
+
+msgctxt "428"
+msgid "Hmm?"
+msgstr ""
+
+msgctxt "440"
+msgid "Thanks a bunch. <Color:255,200,200,255>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "452"
+msgid "He was trying to help, just not in the right way..."
+msgstr ""
+
+msgctxt "464"
+msgid "Mm-hmm..."
+msgstr ""
+
+msgctxt "476"
+msgid "Kiryu-san... I've decided something!"
+msgstr ""
+
+msgctxt "488"
+msgid "I'm not gonna go to Tokyo after all!"
+msgstr ""
+
+msgctxt "500"
+msgid "...Really?"
+msgstr ""
+
+msgctxt "512"
+msgid "Yeah! My family cares about me, and I care about them a whole lot, too."
+msgstr ""
+
+msgctxt "524"
+msgid "Despite all that, I can't stop thinking about my dad not being around..."
+msgstr ""
+
+msgctxt "536"
+msgid "......"
+msgstr ""
+
+msgctxt "548"
+msgid "Don't take this to mean I'm giving up on becoming a model, though!"
+msgstr ""
+
+msgctxt "560"
+msgid "Heh, I won't."
+msgstr ""
+
+msgctxt "572"
+msgid "Good! 'Cause I'll make it to Tokyo when the time is right!"
+msgstr ""
+
+msgctxt "584"
+msgid "But for now, I'm gonna live with my family here in Okinawa."
+msgstr ""
+
+msgctxt "596"
+msgid "I think that's great. You should do what you think is right."
+msgstr ""
+
+msgctxt "608"
+msgid "I will. ♪"
+msgstr ""
+
+msgctxt "620"
+msgid ""
+"Y'know, it'll be a while till I get to Tokyo... So don't you dare think "
+"about cheating on me, okay? <Color:255,200,200,255>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "632"
+msgid "Heh... We'll see."
+msgstr ""
+
+msgctxt "644"
+msgid "Hmph!"
+msgstr ""
+
+msgctxt "656"
+msgid ""
+"If you're not gonna promise me that... Could I have you all to myself today "
+"instead?"
+msgstr ""
+
+msgctxt "668"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "680"
+msgid ""
+"C'mon... Pretty please? "
+"<Color:255,200,200,255>⑮<Color:Default><Color:255,200,200,255"
+">⑮<Color:Default><Color:255,200,200,255>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "728"
+msgid "What happened?"
+msgstr ""
+
+msgctxt "740"
+msgid ""
+"I ran into Akira on the street, but before I could talk to him, this car "
+"pulled up next to us..."
+msgstr ""
+
+msgctxt "752"
+msgid "...And they grabbed Akira, then sped off!"
+msgstr ""
+
+msgctxt "764"
+msgid "Where'd they go?"
+msgstr ""
+
+msgctxt "776"
+msgid "They were headed towards Ryukyu Boulevard, I think..."
+msgstr ""
+
+msgctxt "788"
+msgid "Oh, Kiryu-san... We've gotta do something..."
+msgstr ""
+
+msgctxt "800"
+msgid "We sure will. Let's follow them. Think you can keep up?"
+msgstr ""
+
+msgctxt "812"
+msgid "Yeah, I think so!"
+msgstr ""
+
+msgctxt "872"
+msgid "Akira!"
+msgstr ""
+
+msgctxt "884"
+msgid "Saya!?"
+msgstr ""
+
+msgctxt "896"
+msgid "Saya? What, you his big sister or somethin'?"
+msgstr ""
+
+msgctxt "908"
+msgid "What do you think you're doing!? Let him go, right now!"
+msgstr ""
+
+msgctxt "920"
+msgid "Heh... Y'know, your sister's quite the looker, Akira."
+msgstr ""
+
+msgctxt "932"
+msgid ""
+"Hey, sweetheart. I know a club who'd love to have your hot bod rakin' in "
+"the cash for 'em."
+msgstr ""
+
+msgctxt "944"
+msgid "Leave her alone! She's got nothing to do with this, okay!?"
+msgstr ""
+
+msgctxt "956"
+msgid "Shut the hell up!"
+msgstr ""
+
+msgctxt "968"
+msgid "Ugh..."
+msgstr ""
+
+msgctxt "980"
+msgid "Heh... You in the biz too, huh?"
+msgstr ""
+
+msgctxt "992"
+msgid "We were using this kid as a mule... But damn, if he don't keep messin' up."
+msgstr ""
+
+msgctxt "1004"
+msgid "We're here to make him pay for those mistakes."
+msgstr ""
+
+msgctxt "1016"
+msgid "I don't know what your deal is, but you'd better let him go."
+msgstr ""
+
+msgctxt "1028"
+msgid ""
+"Hehehe. Who do you think you are, some kinda superhero? You here to save "
+"the day?"
+msgstr ""
+
+msgctxt "1040"
+msgid "Well, I sure as hell didn't call your sorry ass!"
+msgstr ""
+
+msgctxt "13424"
+msgid "Yakuza"
+msgstr ""
+
+msgctxt "13428"
+msgid "Saya"
+msgstr ""
+
+msgctxt "13432"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "13436"
+msgid "Akira"
+msgstr ""
+
+msgctxt "13440"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "13444"
+msgid "SetM_nml_sitground_obie"
+msgstr ""
+
+msgctxt "13448"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "13452"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "13456"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "13460"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "13464"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "13468"
+msgid "F_sxy_stand_sync_dakitukiA_st"
+msgstr ""
+
+msgctxt "13472"
+msgid "P_stand_sync_dakitukiA_st"
+msgstr ""
+
+msgctxt "13476"
+msgid "Talk_Chohatu"
+msgstr ""
+
+msgctxt "13480"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "13484"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "13488"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "13492"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "13496"
+msgid "Talk_Smile"
+msgstr ""

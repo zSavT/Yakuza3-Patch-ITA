@@ -1,0 +1,56 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "80"
+msgid "So... anywhere you wanna go?"
+msgstr ""
+
+msgctxt "92"
+msgid ""
+"I wanna check out that humongous building. It wasn't even built when I was "
+"here last."
+msgstr ""
+
+msgctxt "104"
+msgid "The Millennium Tower? Sure, let's go take a look."
+msgstr ""
+
+msgctxt "164"
+msgid "Here it is. Emoto Medical Clinic."
+msgstr ""
+
+msgctxt "176"
+msgid ""
+"Really? This place is a whorehouse now? Not that there's anything wrong "
+"with that, but..."
+msgstr ""
+
+msgctxt "188"
+msgid "The clinic's on the third floor. Come with me."
+msgstr ""
+
+msgctxt "1432"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1436"
+msgid "Emotional Man"
+msgstr ""
+
+msgctxt "1440"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "1444"
+msgid "dummy"
+msgstr ""

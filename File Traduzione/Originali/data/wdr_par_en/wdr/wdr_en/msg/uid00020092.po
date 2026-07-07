@@ -1,0 +1,141 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "92"
+msgid "To the Ryudo office we go. C'mon, follow me."
+msgstr ""
+
+msgctxt "104"
+msgid "Sounds good."
+msgstr ""
+
+msgctxt "116"
+msgid "Mikio. Run on ahead and let the boss know we're comin'."
+msgstr ""
+
+msgctxt "128"
+msgid "You got it, Aniki!"
+msgstr ""
+
+msgctxt "152"
+msgid "Hey, I wanted to ask you about that tattoo you have."
+msgstr ""
+
+msgctxt "164"
+msgid "What about it?"
+msgstr ""
+
+msgctxt "176"
+msgid ""
+"You said the viper's the symbol of Okinawa, right? Then\r\n"
+"why'd you leave its eyes blank?"
+msgstr ""
+
+msgctxt "188"
+msgid "Oh, well..."
+msgstr ""
+
+msgctxt "200"
+msgid ""
+"My tattoo guy ended up passing away before he could get all\r\n"
+"the finishing touches in. So I decided to just leave it that\r\n"
+"way."
+msgstr ""
+
+msgctxt "212"
+msgid "Can't you get someone else to finish the job?"
+msgstr ""
+
+msgctxt "224"
+msgid ""
+"I mean, I've thought about it and all... but I dunno if\r\n"
+"some random other artist could do his work justice.\r\n"
+"Wouldn't really feel right, y'know?"
+msgstr ""
+
+msgctxt "236"
+msgid "I guess."
+msgstr ""
+
+msgctxt "248"
+msgid ""
+"And with how important the viper is, I gotta have someone\r\n"
+"who's real in-tune with the soul of Okinawa."
+msgstr ""
+
+msgctxt "260"
+msgid ""
+"Haven't found anyone like that since my old guy died,\r\n"
+"though."
+msgstr ""
+
+msgctxt "272"
+msgid ""
+"Knowing Okinawa has nothing to do with it. The best tattoo\r\n"
+"artists know how to best reflect a man's soul, no matter the\r\n"
+"theme."
+msgstr ""
+
+msgctxt "284"
+msgid "A master artist should be able to do your viper justice."
+msgstr ""
+
+msgctxt "296"
+msgid "Well then I hope I can find one someday."
+msgstr ""
+
+msgctxt "308"
+msgid ""
+"The world's a big place. I'm sure you'll come across someone\r\n"
+"sooner or later."
+msgstr ""
+
+msgctxt "320"
+msgid "Yeah, you might be right."
+msgstr ""
+
+msgctxt "332"
+msgid "Anyway, we should get movin'. The boss'll be waiting for us."
+msgstr ""
+
+msgctxt "4152"
+msgid "Rikiya"
+msgstr ""
+
+msgctxt "4156"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "4160"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "4164"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "4168"
+msgid "Mikio"
+msgstr ""
+
+msgctxt "4172"
+msgid "Talk_Kosite_st"
+msgstr ""
+
+msgctxt "4176"
+msgid "Talk_Kosite_Yes"
+msgstr ""
+
+msgctxt "4180"
+msgid "Talk_Kosite_ed"
+msgstr ""

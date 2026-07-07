@@ -1,0 +1,50 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "124"
+msgid ""
+"Hey buddy, my wallet's been feelin' kinda light lately. You wanna give me a "
+"loan or what?"
+msgstr ""
+
+msgctxt "136"
+msgid "Hey! You deaf? Don't ignore me, asshole!"
+msgstr ""
+
+msgctxt "160"
+msgid "Oh, uh... I thought you were someone else."
+msgstr ""
+
+msgctxt "172"
+msgid "Here, take this and leave me alone."
+msgstr ""
+
+msgctxt "184"
+msgid "You got a gross %s."
+msgstr ""
+
+msgctxt "220"
+msgid "I really could've sworn you were someone else. Weird, haha!"
+msgstr ""
+
+msgctxt "1292"
+msgid "Angry Punk"
+msgstr ""
+
+msgctxt "1296"
+msgid "Sync_Send"
+msgstr ""
+
+msgctxt "1300"
+msgid "Talk_No"
+msgstr ""

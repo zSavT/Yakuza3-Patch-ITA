@@ -1,0 +1,218 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "592"
+msgid "(I should get back to Umachi with Mikio.)"
+msgstr ""
+
+msgctxt "628"
+msgid "Isn't your flight soon, Uncle Kaz?"
+msgstr ""
+
+msgctxt "640"
+msgid ""
+"Those weird people said they were gonna go to our beach,\r\n"
+"though... I'm kinda worried."
+msgstr ""
+
+msgctxt "652"
+msgid "Yeah, we should stop back home first."
+msgstr ""
+
+msgctxt "664"
+msgid "Isn't your flight soon, Uncle Kaz?"
+msgstr ""
+
+msgctxt "676"
+msgid "It is, but I still have a little bit more time."
+msgstr ""
+
+msgctxt "688"
+msgid "Oh, yay! That's more time we can spend together!"
+msgstr ""
+
+msgctxt "700"
+msgid "Where do you want to go?"
+msgstr ""
+
+msgctxt "712"
+msgid "Yeah, I should probably get going."
+msgstr ""
+
+msgctxt "724"
+msgid "Okay. Don't get in too much trouble, Uncle Kaz."
+msgstr ""
+
+msgctxt "736"
+msgid "Same to you. You're sure you can make it home from here, right?"
+msgstr ""
+
+msgctxt "748"
+msgid "Come on, I'm a big girl! I'm going into junior high next month, remember?"
+msgstr ""
+
+msgctxt "760"
+msgid "Heh, sorry. Anyway, I've gotta run."
+msgstr ""
+
+msgctxt "772"
+msgid "Keep an eye on everyone for me while I'm gone, Haruka."
+msgstr ""
+
+msgctxt "784"
+msgid "I'll be the best babysitter ever!"
+msgstr ""
+
+msgctxt "796"
+msgid ""
+"(She's really gotten so mature... Well, better head to the\r\n"
+"airport.)"
+msgstr ""
+
+msgctxt "952"
+msgid "Where are you going, Uncle Kaz? We have shopping to do!"
+msgstr ""
+
+msgctxt "964"
+msgid "Oh, right. My bad, Haruka."
+msgstr ""
+
+msgctxt "988"
+msgid "(Gotta find Saki...)"
+msgstr ""
+
+msgctxt "1012"
+msgid "(I have to get to the Ryudo Office...)"
+msgstr ""
+
+msgctxt "1036"
+msgid ""
+"You can now take a taxi or monorail trip to the <Color:7>golf "
+"course<Color:Default>."
+msgstr ""
+
+msgctxt "1048"
+msgid "(Better go find Akasaka at the golf course...)"
+msgstr ""
+
+msgctxt "1072"
+msgid "(I can't head home now. Have to find that truck.)"
+msgstr ""
+
+msgctxt "1108"
+msgid "Where do you want to go?"
+msgstr ""
+
+msgctxt "1120"
+msgid "Where do you want to go?"
+msgstr ""
+
+msgctxt "1300"
+msgid "(Doubt the golf course is still open at this time of day.)"
+msgstr ""
+
+msgctxt "1360"
+msgid "(Looks like a ticket's gonna cost me 30,000 yen.)"
+msgstr ""
+
+msgctxt "1384"
+msgid "(Damn, don't have the cash.)"
+msgstr ""
+
+msgctxt "1456"
+msgid "Go to Morning Glory"
+msgstr ""
+
+msgctxt "1468"
+msgid "Go to the Airport"
+msgstr ""
+
+msgctxt "1480"
+msgid "I still have some time."
+msgstr ""
+
+msgctxt "1492"
+msgid "Yeah, I should get going."
+msgstr ""
+
+msgctxt "1504"
+msgid "Morning Glory Station"
+msgstr ""
+
+msgctxt "1516"
+msgid "Golf Course Station"
+msgstr ""
+
+msgctxt "1528"
+msgid "Okinawa Airport Station"
+msgstr ""
+
+msgctxt "1540"
+msgid "Nowhere"
+msgstr ""
+
+msgctxt "1552"
+msgid "Morning Glory Station"
+msgstr ""
+
+msgctxt "1564"
+msgid "Golf Course Station"
+msgstr ""
+
+msgctxt "1576"
+msgid "Okinawa Airport Station"
+msgstr ""
+
+msgctxt "1588"
+msgid "Nowhere"
+msgstr ""
+
+msgctxt "1600"
+msgid "Morning Glory Station"
+msgstr ""
+
+msgctxt "1612"
+msgid "Golf Course Station"
+msgstr ""
+
+msgctxt "1624"
+msgid "Futenma Airfield (To Kamurocho)"
+msgstr ""
+
+msgctxt "1636"
+msgid "Nowhere"
+msgstr ""
+
+msgctxt "1648"
+msgid "Buy a Ticket to Kamurocho"
+msgstr ""
+
+msgctxt "1660"
+msgid "Don't Buy a Ticket"
+msgstr ""
+
+msgctxt "9144"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "9148"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "9152"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "9156"
+msgid "Talk_OK"
+msgstr ""

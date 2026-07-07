@@ -1,0 +1,304 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "260"
+msgid ""
+"Eng plz.\r\n"
+"Eng plz.\r\n"
+"Eng plz."
+msgstr ""
+
+msgctxt "272"
+msgid "Eng plz."
+msgstr ""
+
+msgctxt "332"
+msgid ""
+"Eng plz.\r\n"
+"Eng plz."
+msgstr ""
+
+msgctxt "344"
+msgid ""
+"Eng plz.\r\n"
+"Eng plz."
+msgstr ""
+
+msgctxt "404"
+msgid "You got 1,000 EXP."
+msgstr ""
+
+msgctxt "416"
+msgid ""
+"Eng plz.\r\n"
+"Eng plz."
+msgstr ""
+
+msgctxt "428"
+msgid "Eng plz."
+msgstr ""
+
+msgctxt "452"
+msgid "You got 2,000 EXP."
+msgstr ""
+
+msgctxt "464"
+msgid "Eng plz."
+msgstr ""
+
+msgctxt "476"
+msgid ""
+"Eng plz.\r\n"
+"Eng plz."
+msgstr ""
+
+msgctxt "488"
+msgid ""
+"Eng plz.\r\n"
+"Eng plz."
+msgstr ""
+
+msgctxt "500"
+msgid ""
+"Eng plz.\r\n"
+"Eng plz."
+msgstr ""
+
+msgctxt "512"
+msgid ""
+"Eng plz.\r\n"
+"Eng plz."
+msgstr ""
+
+msgctxt "584"
+msgid "Eng plz."
+msgstr ""
+
+msgctxt "596"
+msgid ""
+"Eng plz.\r\n"
+"Eng plz.\r\n"
+"Eng plz."
+msgstr ""
+
+msgctxt "608"
+msgid "Eng plz."
+msgstr ""
+
+msgctxt "620"
+msgid ""
+"Eng plz.\r\n"
+"Eng plz.\r\n"
+"Eng plz."
+msgstr ""
+
+msgctxt "632"
+msgid "Eng plz."
+msgstr ""
+
+msgctxt "644"
+msgid ""
+"Eng plz.\r\n"
+"Eng plz."
+msgstr ""
+
+msgctxt "656"
+msgid "Eng plz."
+msgstr ""
+
+msgctxt "668"
+msgid "Eng plz."
+msgstr ""
+
+msgctxt "680"
+msgid ""
+"Eng plz.\r\n"
+"Eng plz."
+msgstr ""
+
+msgctxt "740"
+msgid ""
+"Eng plz.\r\n"
+"Eng plz."
+msgstr ""
+
+msgctxt "752"
+msgid ""
+"Eng plz.\r\n"
+"Eng plz."
+msgstr ""
+
+msgctxt "764"
+msgid ""
+"Eng plz.\r\n"
+"Eng plz."
+msgstr ""
+
+msgctxt "776"
+msgid "Eng plz."
+msgstr ""
+
+msgctxt "788"
+msgid ""
+"Eng plz.\r\n"
+"Eng plz."
+msgstr ""
+
+msgctxt "800"
+msgid ""
+"Eng plz.\r\n"
+"Eng plz.\r\n"
+"Eng plz."
+msgstr ""
+
+msgctxt "812"
+msgid ""
+"Eng plz.\r\n"
+"Eng plz."
+msgstr ""
+
+msgctxt "824"
+msgid ""
+"Eng plz.\r\n"
+"Eng plz."
+msgstr ""
+
+msgctxt "836"
+msgid "Eng plz."
+msgstr ""
+
+msgctxt "848"
+msgid "Eng plz."
+msgstr ""
+
+msgctxt "860"
+msgid ""
+"Eng plz.\r\n"
+"Eng plz."
+msgstr ""
+
+msgctxt "872"
+msgid "Eng plz."
+msgstr ""
+
+msgctxt "884"
+msgid ""
+"Eng plz.\r\n"
+"Eng plz."
+msgstr ""
+
+msgctxt "896"
+msgid "Eng plz."
+msgstr ""
+
+msgctxt "908"
+msgid ""
+"Eng plz.\r\n"
+"Eng plz."
+msgstr ""
+
+msgctxt "932"
+msgid "Eng plz."
+msgstr ""
+
+msgctxt "944"
+msgid "Eng plz."
+msgstr ""
+
+msgctxt "956"
+msgid "Eng plz."
+msgstr ""
+
+msgctxt "968"
+msgid "Eng plz."
+msgstr ""
+
+msgctxt "7296"
+msgid "ミチル"
+msgstr ""
+
+msgctxt "7300"
+msgid "桐生"
+msgstr ""
+
+msgctxt "7304"
+msgid "SetM_nml_stand_seki"
+msgstr ""
+
+msgctxt "7308"
+msgid "Talk_Kamae"
+msgstr ""
+
+msgctxt "7312"
+msgid "ヒモ男"
+msgstr ""
+
+msgctxt "7316"
+msgid "M_ykz_damage_tlk_no"
+msgstr ""
+
+msgctxt "7320"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "7324"
+msgid "SetF_nml_stand_dance_01"
+msgstr ""
+
+msgctxt "7328"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "7332"
+msgid "Idle"
+msgstr ""
+
+msgctxt "7336"
+msgid "F_oba_stand_tlk_call"
+msgstr ""
+
+msgctxt "7340"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "7344"
+msgid "0"
+msgstr ""
+
+msgctxt "7348"
+msgid "女"
+msgstr ""
+
+msgctxt "7352"
+msgid "M_ykz_stand_tlk_angry"
+msgstr ""
+
+msgctxt "7356"
+msgid "M_nml_stand_tlk_odosu"
+msgstr ""
+
+msgctxt "7360"
+msgid "M_nml_stand_tlk_chohatu"
+msgstr ""
+
+msgctxt "7364"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "7368"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "7372"
+msgid "Talk_Angry"
+msgstr ""

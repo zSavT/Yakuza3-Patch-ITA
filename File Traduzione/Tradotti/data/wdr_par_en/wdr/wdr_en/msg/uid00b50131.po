@@ -1,0 +1,259 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid ""
+"This is so good! It's been so long since I had yakiniku!\r\n"
+"Even though I'm in my twenties, I'm still stuck working\r\n"
+"part-time, so there's no way I could afford it otherwise."
+msgstr ""
+
+msgctxt "76"
+msgid ""
+"(This doesn't seem like the girl Nami's father was\r\n"
+"looking for.)"
+msgstr ""
+
+msgctxt "88"
+msgid "Question for ya. Would you happen to know a girl named Nami?"
+msgstr ""
+
+msgctxt "100"
+msgid ""
+"She ran away from home not long ago and came to Kamurocho.\r\n"
+"I think she might be working at your telephone club."
+msgstr ""
+
+msgctxt "112"
+msgid "Oh, you must not understand how these things work!"
+msgstr ""
+
+msgctxt "124"
+msgid ""
+"The girls working for telephone clubs just take calls from\r\n"
+"the club, so we've never actually met one another!"
+msgstr ""
+
+msgctxt "136"
+msgid "That makes sense."
+msgstr ""
+
+msgctxt "148"
+msgid "Oh, but I might know that girl!"
+msgstr ""
+
+msgctxt "160"
+msgid "Huh? Really?"
+msgstr ""
+
+msgctxt "172"
+msgid ""
+"I ran away from home myself, three years ago. I had nowhere\r\n"
+"to stay here in Kamurocho, so I would sleep at a burger\r\n"
+"joint."
+msgstr ""
+
+msgctxt "184"
+msgid "A burger joint? Sounds uncomfortable."
+msgstr ""
+
+msgctxt "196"
+msgid ""
+"Sure, but it's open 24 hours, and you can get free coffee\r\n"
+"refills. A lot of girls who run away from home hang out there."
+msgstr ""
+
+msgctxt "208"
+msgid ""
+"A few days ago, a girl in her early twenties started coming\r\n"
+" by the burger place that  I go to a lot. I bet she's another runaway."
+msgstr ""
+
+msgctxt "220"
+msgid "You think she could be this Nami girl?"
+msgstr ""
+
+msgctxt "232"
+msgid "I dunno, but from what you've told me, it's pretty likely."
+msgstr ""
+
+msgctxt "244"
+msgid "Where's that burger place?"
+msgstr ""
+
+msgctxt "256"
+msgid ""
+"It's called Smile Burger, on Nakamichi Street. You'll know\r\n"
+"it when you see it."
+msgstr ""
+
+msgctxt "268"
+msgid "Got it. Thanks."
+msgstr ""
+
+msgctxt "280"
+msgid ""
+"Hey, I was a big help, right? You'll let me order more\r\n"
+"food, yeah?"
+msgstr ""
+
+msgctxt "292"
+msgid "Sure. Order whatever you like."
+msgstr ""
+
+msgctxt "304"
+msgid ""
+"Then, I'll take the premium salted beef tongue, the premium\r\n"
+"wagyu sirloin, annnnd... Oh, today's special, the 2009\r\n"
+"Champion Beef Sirloin!"
+msgstr ""
+
+msgctxt "316"
+msgid "(Argh. She's got my wallet in her vice grip...)"
+msgstr ""
+
+msgctxt "376"
+msgid "That'll be 20,000 yen for both of you."
+msgstr ""
+
+msgctxt "388"
+msgid "Alright."
+msgstr ""
+
+msgctxt "412"
+msgid "What's wrong?"
+msgstr ""
+
+msgctxt "424"
+msgid "Well, uh... I'm a bit short on cash at the moment..."
+msgstr ""
+
+msgctxt "436"
+msgid ""
+"What!? Why didn't you say anything!? God, imagine if we'd\r\n"
+"gone to a hotel! You'd never live it down!"
+msgstr ""
+
+msgctxt "448"
+msgid "Sorry..."
+msgstr ""
+
+msgctxt "460"
+msgid "Pay whatever you can, then. I'll cover the rest."
+msgstr ""
+
+msgctxt "472"
+msgid "Sorry about this."
+msgstr ""
+
+msgctxt "484"
+msgid "You handed over <Color:8>everything you could<Color:Default>."
+msgstr ""
+
+msgctxt "508"
+msgid "What's wrong?"
+msgstr ""
+
+msgctxt "520"
+msgid "I didn't expect it to be this expensive."
+msgstr ""
+
+msgctxt "532"
+msgid ""
+"Well, of course it is! Information like that doesn't\r\n"
+"come cheap! Tee-hee!"
+msgstr ""
+
+msgctxt "544"
+msgid "(She's seriously one shrewd woman...)"
+msgstr ""
+
+msgctxt "556"
+msgid "You paid <Color:8>20,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "6904"
+msgid "Chika"
+msgstr ""
+
+msgctxt "6908"
+msgid "P_sitchr"
+msgstr ""
+
+msgctxt "6912"
+msgid "F_nml_sitchr"
+msgstr ""
+
+msgctxt "6916"
+msgid "P_sitchr_tlk_kamae"
+msgstr ""
+
+msgctxt "6920"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "6924"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "6928"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "6932"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "6936"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "6940"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "6944"
+msgid "Talk_Info_R"
+msgstr ""
+
+msgctxt "6948"
+msgid "P_stand"
+msgstr ""
+
+msgctxt "6952"
+msgid "F_nml_stand"
+msgstr ""
+
+msgctxt "6956"
+msgid "Talk_Kamae"
+msgstr ""
+
+msgctxt "6960"
+msgid "Employee"
+msgstr ""
+
+msgctxt "6964"
+msgid "Talk_Sorry"
+msgstr ""
+
+msgctxt "6968"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "6972"
+msgid "Talk_SmileBig_st"
+msgstr ""
+
+msgctxt "6976"
+msgid "Talk_SmileBig_ed"
+msgstr ""

@@ -1,0 +1,82 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "152"
+msgid "Welcome. Would you like to play roulette?"
+msgstr ""
+
+msgctxt "176"
+msgid "Yeah, I have a feeling today's my lucky day."
+msgstr ""
+
+msgctxt "200"
+msgid ""
+"How about playing the house one-on-one, sir? You won't be able to place "
+"outside bets, but you get five spins with double the odds."
+msgstr ""
+
+msgctxt "212"
+msgid "Let's see..."
+msgstr ""
+
+msgctxt "236"
+msgid "An excellent choice."
+msgstr ""
+
+msgctxt "260"
+msgid "It looks like you don't have enough chips to play roulette."
+msgstr ""
+
+msgctxt "272"
+msgid "Not right now."
+msgstr ""
+
+msgctxt "284"
+msgid "I see. We hope you'll play next time."
+msgstr ""
+
+msgctxt "296"
+msgid "Yes"
+msgstr ""
+
+msgctxt "308"
+msgid "No"
+msgstr ""
+
+msgctxt "320"
+msgid "Play Against the House"
+msgstr ""
+
+msgctxt "332"
+msgid "Play a Standard Game"
+msgstr ""
+
+msgctxt "1768"
+msgid "Dealer"
+msgstr ""
+
+msgctxt "1772"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "1776"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1780"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "1784"
+msgid "Talk_No"
+msgstr ""

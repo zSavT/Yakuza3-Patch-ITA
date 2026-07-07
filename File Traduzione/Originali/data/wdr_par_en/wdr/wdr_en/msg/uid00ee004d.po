@@ -1,0 +1,236 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "96"
+msgid "Have you decided on an item, sir?"
+msgstr ""
+
+msgctxt "120"
+msgid "Uncle Kaz, I wanna get a <Color:8>Sweet Potato<Color:Default>! Can I?"
+msgstr ""
+
+msgctxt "132"
+msgid "(Haruka wants me to get her a <Color:8>Sweet Potato<Color:Default>...)"
+msgstr ""
+
+msgctxt "156"
+msgid "Aww... I wanted a <Color:8>Sweet Potato<Color:Default>..."
+msgstr ""
+
+msgctxt "168"
+msgid "Thank you very much."
+msgstr ""
+
+msgctxt "192"
+msgid "Thanks, Uncle Kaz! I was really craving this!"
+msgstr ""
+
+msgctxt "252"
+msgid "It's so cold and yummy! ⑮ Thanks, Uncle Kaz!"
+msgstr ""
+
+msgctxt "264"
+msgid "(Haruka seems happy...)"
+msgstr ""
+
+msgctxt "288"
+msgid "Uncle Kaz, I really wanna get a <Color:8>Goya<Color:Default>!"
+msgstr ""
+
+msgctxt "300"
+msgid "(Haruka wants me to get her a <Color:8>Goya<Color:Default>...)"
+msgstr ""
+
+msgctxt "324"
+msgid "Aww... I wanted a <Color:8>Goya<Color:Default>..."
+msgstr ""
+
+msgctxt "336"
+msgid "Thank you very much."
+msgstr ""
+
+msgctxt "360"
+msgid "Thanks, Uncle Kaz! I was really craving this!"
+msgstr ""
+
+msgctxt "420"
+msgid "It's so cold and yummy! ⑮ Thanks, Uncle Kaz!"
+msgstr ""
+
+msgctxt "432"
+msgid "(Haruka seems happy...)"
+msgstr ""
+
+msgctxt "504"
+msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
+msgstr ""
+
+msgctxt "516"
+msgid "You got <Color:8>Haruka's Necklace<Color:Default>."
+msgstr ""
+
+msgctxt "564"
+msgid ""
+"Thanks a ton, Uncle Kaz! I wanna come with you to play\r\n"
+"cho-han with you next time, okay?"
+msgstr ""
+
+msgctxt "576"
+msgid ""
+"Haruka will now occasionally predict the outcome of a round\r\n"
+"when you are playing cho-han."
+msgstr ""
+
+msgctxt "612"
+msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
+msgstr ""
+
+msgctxt "624"
+msgid "You got <Color:8>Haruka's Bento<Color:Default>."
+msgstr ""
+
+msgctxt "672"
+msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
+msgstr ""
+
+msgctxt "684"
+msgid "You got <Color:8>Haruka's First-Aid Kit<Color:Default>."
+msgstr ""
+
+msgctxt "732"
+msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
+msgstr ""
+
+msgctxt "744"
+msgid "You got a <Color:8>Red Jewel<Color:Default>."
+msgstr ""
+
+msgctxt "792"
+msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
+msgstr ""
+
+msgctxt "804"
+msgid "You got <Color:8>Haruka's Amulet<Color:Default>."
+msgstr ""
+
+msgctxt "852"
+msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
+msgstr ""
+
+msgctxt "864"
+msgid "You got <Color:8>Haruka's Chocolate<Color:Default>."
+msgstr ""
+
+msgctxt "912"
+msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
+msgstr ""
+
+msgctxt "924"
+msgid "You got <Color:8>Haruka's Candy<Color:Default>."
+msgstr ""
+
+msgctxt "972"
+msgid "Have you decided on an item, sir?"
+msgstr ""
+
+msgctxt "984"
+msgid "I'm actually looking for something. A nice, big bone."
+msgstr ""
+
+msgctxt "996"
+msgid "...Sir?"
+msgstr ""
+
+msgctxt "1008"
+msgid "For a dog. Not for me."
+msgstr ""
+
+msgctxt "1020"
+msgid "I, erm..."
+msgstr ""
+
+msgctxt "1032"
+msgid "Well, do you have one or not?"
+msgstr ""
+
+msgctxt "1044"
+msgid "I'm sorry to say, but no. My deepest apologies, sir."
+msgstr ""
+
+msgctxt "1056"
+msgid "Guess I'll have to look somewhere else..."
+msgstr ""
+
+msgctxt "1080"
+msgid "Have you decided on an item, sir?"
+msgstr ""
+
+msgctxt "1116"
+msgid "Thank you very much."
+msgstr ""
+
+msgctxt "1128"
+msgid "(No point eating now. I'm not even hungry.)"
+msgstr ""
+
+msgctxt "1140"
+msgid "Sorry, something came up."
+msgstr ""
+
+msgctxt "1152"
+msgid "All right, then. Please come again."
+msgstr ""
+
+msgctxt "9656"
+msgid "Employee"
+msgstr ""
+
+msgctxt "9660"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "9664"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "9668"
+msgid "Talk_Request"
+msgstr ""
+
+msgctxt "9672"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "9676"
+msgid "HAL_stand_tlk_unhappy_small"
+msgstr ""
+
+msgctxt "9680"
+msgid "HAL_stand_tlk_happy_small"
+msgstr ""
+
+msgctxt "9684"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "9688"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "9692"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "9696"
+msgid "Talk_No"
+msgstr ""

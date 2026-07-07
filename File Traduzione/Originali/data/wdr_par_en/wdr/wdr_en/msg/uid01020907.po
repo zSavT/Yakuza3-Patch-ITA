@@ -1,0 +1,236 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "124"
+msgid "(Looks like something's washed ashore.)"
+msgstr ""
+
+msgctxt "136"
+msgid "A wooden box has washed ashore. Take the wooden box?"
+msgstr ""
+
+msgctxt "148"
+msgid "(I'll just leave it here for now.)"
+msgstr ""
+
+msgctxt "616"
+msgid "There's a <Color:8>Broken Radio<Color:Default> in the box."
+msgstr ""
+
+msgctxt "628"
+msgid "(I guess I'll keep it.)"
+msgstr ""
+
+msgctxt "640"
+msgid "You got a <Color:8>Broken Radio<Color:Default>."
+msgstr ""
+
+msgctxt "676"
+msgid "There's a <Color:8>Squishy Ball<Color:Default> in the box."
+msgstr ""
+
+msgctxt "688"
+msgid "(I guess I'll keep it.)"
+msgstr ""
+
+msgctxt "700"
+msgid "You got a <Color:8>Squishy Ball<Color:Default>."
+msgstr ""
+
+msgctxt "736"
+msgid "There's an <Color:8>Old Magazine<Color:Default> in the box."
+msgstr ""
+
+msgctxt "748"
+msgid "(I guess I'll keep it.)"
+msgstr ""
+
+msgctxt "760"
+msgid "You got an <Color:8>Old Magazine<Color:Default>."
+msgstr ""
+
+msgctxt "796"
+msgid "There's a <Color:8>Shard of Tempered Glass<Color:Default> in the box."
+msgstr ""
+
+msgctxt "808"
+msgid "(I guess I'll keep it.)"
+msgstr ""
+
+msgctxt "820"
+msgid "You got a <Color:8>Shard of Tempered Glass<Color:Default>."
+msgstr ""
+
+msgctxt "856"
+msgid "There's a <Color:8>Rainbow Alloy<Color:Default> in the box."
+msgstr ""
+
+msgctxt "868"
+msgid "(I guess I'll keep it.)"
+msgstr ""
+
+msgctxt "880"
+msgid "You got a <Color:8>Rainbow Alloy<Color:Default>."
+msgstr ""
+
+msgctxt "916"
+msgid "There's a <Color:8>Dropper<Color:Default> in the box."
+msgstr ""
+
+msgctxt "928"
+msgid "(I guess I'll keep it.)"
+msgstr ""
+
+msgctxt "940"
+msgid "You got a <Color:8>Dropper<Color:Default>."
+msgstr ""
+
+msgctxt "976"
+msgid "There's a <Color:8>Worm<Color:Default> in the box."
+msgstr ""
+
+msgctxt "988"
+msgid "(I guess I'll keep it.)"
+msgstr ""
+
+msgctxt "1000"
+msgid "You got a <Color:8>Worm<Color:Default>."
+msgstr ""
+
+msgctxt "1036"
+msgid "There's a <Color:8>Manila Clam<Color:Default> in the box."
+msgstr ""
+
+msgctxt "1048"
+msgid "(I guess I'll keep it.)"
+msgstr ""
+
+msgctxt "1060"
+msgid "You got a <Color:8>Manila Clam<Color:Default>."
+msgstr ""
+
+msgctxt "1096"
+msgid "There's a <Color:8>Corbicula Clam<Color:Default> in the box."
+msgstr ""
+
+msgctxt "1108"
+msgid "(I guess I'll keep it.)"
+msgstr ""
+
+msgctxt "1120"
+msgid "You got a <Color:8>Corbicula Clam<Color:Default>."
+msgstr ""
+
+msgctxt "1156"
+msgid "There's a <Color:8>Demon Stone<Color:Default> in the box."
+msgstr ""
+
+msgctxt "1168"
+msgid "(I guess I'll keep it.)"
+msgstr ""
+
+msgctxt "1180"
+msgid "You got a <Color:8>Demon Stone<Color:Default>."
+msgstr ""
+
+msgctxt "1216"
+msgid "There's a <Color:8>Prawn<Color:Default> in the box."
+msgstr ""
+
+msgctxt "1228"
+msgid "(I guess I'll keep it.)"
+msgstr ""
+
+msgctxt "1240"
+msgid "You got a <Color:8>Prawn<Color:Default>."
+msgstr ""
+
+msgctxt "1276"
+msgid "There's an <Color:8>Old Suspension<Color:Default> in the box."
+msgstr ""
+
+msgctxt "1288"
+msgid "(I guess I'll keep it.)"
+msgstr ""
+
+msgctxt "1300"
+msgid "You got an <Color:8>Old Suspension<Color:Default>."
+msgstr ""
+
+msgctxt "1336"
+msgid "There's a <Color:8>Lobster<Color:Default> in the box."
+msgstr ""
+
+msgctxt "1348"
+msgid "(I guess I'll keep it.)"
+msgstr ""
+
+msgctxt "1360"
+msgid "You got a <Color:8>Lobster<Color:Default>."
+msgstr ""
+
+msgctxt "1396"
+msgid "There's a <Color:8>Gold Plate<Color:Default> in the box."
+msgstr ""
+
+msgctxt "1408"
+msgid "(I guess I'll keep it.)"
+msgstr ""
+
+msgctxt "1420"
+msgid "You got a <Color:8>Gold Plate<Color:Default>."
+msgstr ""
+
+msgctxt "1456"
+msgid "The box is empty."
+msgstr ""
+
+msgctxt "1468"
+msgid "(Just an empty box... I'll go throw it in the garbage.)"
+msgstr ""
+
+msgctxt "1528"
+msgid "(Hm? What's that on the ground?)"
+msgstr ""
+
+msgctxt "1540"
+msgid "(Just some junk... I'll go throw it in the garbage.)"
+msgstr ""
+
+msgctxt "1588"
+msgid "Take It"
+msgstr ""
+
+msgctxt "1600"
+msgid "Don't Take It"
+msgstr ""
+
+msgctxt "10892"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "10896"
+msgid "Talk_Hirou_st"
+msgstr ""
+
+msgctxt "10900"
+msgid "Idle"
+msgstr ""
+
+msgctxt "10904"
+msgid "dummy"
+msgstr ""
+
+msgctxt "10908"
+msgid "0"
+msgstr ""

@@ -1,0 +1,52 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "124"
+msgid "Don't you know that this turf belongs to our aniki?"
+msgstr ""
+
+msgctxt "136"
+msgid "The hell? You think I'm a chump just 'cause I'm new?"
+msgstr ""
+
+msgctxt "160"
+msgid "Ugh... Shit... If only our aniki was here..."
+msgstr ""
+
+msgctxt "172"
+msgid "Here, take this..."
+msgstr ""
+
+msgctxt "184"
+msgid "You got a rough %s."
+msgstr ""
+
+msgctxt "220"
+msgid "You'd be dead if our aniki were here..."
+msgstr ""
+
+msgctxt "1280"
+msgid "Disgruntled Yakuza"
+msgstr ""
+
+msgctxt "1284"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "1288"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "1292"
+msgid "Sync_Send"
+msgstr ""

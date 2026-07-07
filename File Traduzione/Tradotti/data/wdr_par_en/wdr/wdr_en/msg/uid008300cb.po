@@ -1,0 +1,354 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "172"
+msgid "Hoargh... Ghah..."
+msgstr ""
+
+msgctxt "184"
+msgid "Looks like I won."
+msgstr ""
+
+msgctxt "196"
+msgid ""
+"How... in the hell... did you outrun me? You must've done some crazy "
+"intensive training to pull that off..."
+msgstr ""
+
+msgctxt "208"
+msgid ""
+"Well, here's your prize money. 70 big ones... That's 70,000\r\n"
+"yen, by my count. It's all there."
+msgstr ""
+
+msgctxt "220"
+msgid "You got <Color:8>70,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "232"
+msgid "Guess I still got a ways to go... But I'll get you next time."
+msgstr ""
+
+msgctxt "256"
+msgid "You got 3,000 EXP."
+msgstr ""
+
+msgctxt "316"
+msgid "*pant* *pant*"
+msgstr ""
+
+msgctxt "328"
+msgid ""
+"Heh, I practically ran you over, just like the rest of 'em.\r\n"
+"It was like a lion chasing down a gazelle⑬you didn't stand a chance."
+msgstr ""
+
+msgctxt "340"
+msgid "......"
+msgstr ""
+
+msgctxt "352"
+msgid ""
+"Go put some hours on the treadmill or something.\r\n"
+"You know where to find me."
+msgstr ""
+
+msgctxt "364"
+msgid "*pant* *pant*"
+msgstr ""
+
+msgctxt "376"
+msgid ""
+"Hmph. Your legs aren't half-bad for a man your age.\r\n"
+"But a loss is a loss."
+msgstr ""
+
+msgctxt "388"
+msgid ""
+"I was expecting a lot more from the man who beat my brother.\r\n"
+"Guess I got my hopes up for nothing."
+msgstr ""
+
+msgctxt "400"
+msgid "......"
+msgstr ""
+
+msgctxt "412"
+msgid ""
+"I'll still be in town for a while, so brush up on your\r\n"
+"sprinting and come back when you're ready."
+msgstr ""
+
+msgctxt "484"
+msgid "You again, huh? Hope you got more pep in your step than last time."
+msgstr ""
+
+msgctxt "496"
+msgid ""
+"Same deal as always: it's 5,000 yen up front, and if I can't catch you "
+"while the timer's running, I'll pay you 70 grand."
+msgstr ""
+
+msgctxt "508"
+msgid "Well? How 'bout we get right to it?"
+msgstr ""
+
+msgctxt "520"
+msgid "So it's you... Hope you got some pep in your step."
+msgstr ""
+
+msgctxt "532"
+msgid ""
+"Here's the deal: 5,000 yen up front, and if I can't catch you while the "
+"timer's running, I'll pay you 70 grand."
+msgstr ""
+
+msgctxt "544"
+msgid "So who's the wise guy who managed to smack you in the chops?"
+msgstr ""
+
+msgctxt "556"
+msgid "Leave it alone, aniki. He's not such a bad guy."
+msgstr ""
+
+msgctxt "568"
+msgid ""
+"You just don't get it, do you? Get schooled even once in our\r\n"
+"line of work, and it's all over for you."
+msgstr ""
+
+msgctxt "580"
+msgid "I can't just let you soil our profession like that!"
+msgstr ""
+
+msgctxt "592"
+msgid "Aniki... If you could just chill..."
+msgstr ""
+
+msgctxt "604"
+msgid "What's going on here?"
+msgstr ""
+
+msgctxt "616"
+msgid "Oh! It's you..."
+msgstr ""
+
+msgctxt "628"
+msgid "So this is the guy who clocked you, huh? Eh... He don't look like much."
+msgstr ""
+
+msgctxt "640"
+msgid "And you are?"
+msgstr ""
+
+msgctxt "652"
+msgid ""
+"I'm his aniki. Y'know, like an older brother figure.\r\n"
+"We got a real similar bit going on, see."
+msgstr ""
+
+msgctxt "664"
+msgid "So you're another Mr. Try and Hit Me?"
+msgstr ""
+
+msgctxt "676"
+msgid ""
+"Hah... Not quite. I'm in the running business, so they call\r\n"
+"me... <Color:7>Mr. Try and Flee Me<Color:Default>."
+msgstr ""
+
+msgctxt "688"
+msgid "Mr. Try and Flee Me? Now I've heard everything..."
+msgstr ""
+
+msgctxt "700"
+msgid ""
+"Damn straight. You haul ass, and I come chasin' after ya.\r\n"
+"Ditch me successfully and I pay out the prize money."
+msgstr ""
+
+msgctxt "712"
+msgid "That's an... interesting concept."
+msgstr ""
+
+msgctxt "724"
+msgid ""
+"Yeah, well. I'd trample you in a second if we were limited to this here "
+"parking lot, so I expanded the course to the entirety of Kamurocho."
+msgstr ""
+
+msgctxt "736"
+msgid "Sounds simple enough."
+msgstr ""
+
+msgctxt "748"
+msgid ""
+"Don't underestimate me, chump. I won the 800-meter back in\r\n"
+"high school. That means I'm a certifiable racin' man."
+msgstr ""
+
+msgctxt "760"
+msgid ""
+"Oh, and it'll cost you 5,000 yen up front. Outrun me till the timer's up, "
+"and I'll pay you 70,000 yen in prize money."
+msgstr ""
+
+msgctxt "772"
+msgid "So, how about it? Wanna give it a go?"
+msgstr ""
+
+msgctxt "784"
+msgid ""
+"(All I have to do is ditch him to get 70,000 yen?\r\n"
+"Not a bad deal.)"
+msgstr ""
+
+msgctxt "796"
+msgid "All right, I'll take your challenge."
+msgstr ""
+
+msgctxt "808"
+msgid "That's what I like to hear! Now hand over that 5,000 and get ready to run."
+msgstr ""
+
+msgctxt "832"
+msgid "Here you go."
+msgstr ""
+
+msgctxt "844"
+msgid "You paid out <Color:8>5,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "856"
+msgid ""
+"Okay... Looks like it's all here. Again, your job is to run\r\n"
+"around the city while keepin' away from me."
+msgstr ""
+
+msgctxt "868"
+msgid ""
+"Do it long enough and I'll pay you that cool cash money.\r\n"
+"And no slacking off, 'cause I'll catch ya in a heartbeat!"
+msgstr ""
+
+msgctxt "892"
+msgid "...Looks like I'm a little short."
+msgstr ""
+
+msgctxt "904"
+msgid "Hey, this ain't no damn charity! You think I chase after people for free!?"
+msgstr ""
+
+msgctxt "916"
+msgid "Go scrape up 5 grand and come back. I'll be warming up right here."
+msgstr ""
+
+msgctxt "928"
+msgid "All right..."
+msgstr ""
+
+msgctxt "952"
+msgid "Sorry. Maybe some other time."
+msgstr ""
+
+msgctxt "964"
+msgid ""
+"What, you getting cold feet? Feeling nervous about being\r\n"
+"chased around by an unfamiliar man in a brown jacket?"
+msgstr ""
+
+msgctxt "976"
+msgid "......"
+msgstr ""
+
+msgctxt "988"
+msgid ""
+"...Pathetic. Come back when you decide to grow a pair!\r\n"
+"...Of feet, that is. Feet that can outrun me. I'd like that."
+msgstr ""
+
+msgctxt "1012"
+msgid "Take the Challenge"
+msgstr ""
+
+msgctxt "1024"
+msgid "Bow Out for Now"
+msgstr ""
+
+msgctxt "10540"
+msgid "Mr. Try and Flee Me"
+msgstr ""
+
+msgctxt "10544"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "10548"
+msgid "Talk_Send"
+msgstr ""
+
+msgctxt "10552"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "10556"
+msgid "dummy"
+msgstr ""
+
+msgctxt "10560"
+msgid "0"
+msgstr ""
+
+msgctxt "10564"
+msgid "Talk_SmileBig_st"
+msgstr ""
+
+msgctxt "10568"
+msgid "Talk_SmileBig_ed"
+msgstr ""
+
+msgctxt "10572"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "10576"
+msgid "Unfamiliar Man"
+msgstr ""
+
+msgctxt "10580"
+msgid "Mr. Try and Hit Me"
+msgstr ""
+
+msgctxt "10584"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "10588"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "10592"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "10596"
+msgid "Talk_Chohatu"
+msgstr ""
+
+msgctxt "10600"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "10604"
+msgid "Talk_Angry"
+msgstr ""

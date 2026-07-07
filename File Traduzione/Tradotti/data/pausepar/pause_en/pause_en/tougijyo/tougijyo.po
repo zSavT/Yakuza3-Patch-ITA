@@ -1,0 +1,1177 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "1808\tNAME"
+msgid "Valery Garrett"
+msgstr ""
+
+msgctxt "1823\tNAME"
+msgid "Sotaro Komaki"
+msgstr ""
+
+msgctxt "1837\tNAME"
+msgid "Mamoru Taiga"
+msgstr ""
+
+msgctxt "1850\tNAME"
+msgid "Inzen Hozoin"
+msgstr ""
+
+msgctxt "1863\tNAME"
+msgid "Fredrick Blacks"
+msgstr ""
+
+msgctxt "1879\tNAME"
+msgid "Laos Waiwatt"
+msgstr ""
+
+msgctxt "1892\tNAME"
+msgid "Otaki Minotaur"
+msgstr ""
+
+msgctxt "1907\tNAME"
+msgid "Shoji Yonashiro"
+msgstr ""
+
+msgctxt "1923\tNAME"
+msgid "Norman \"Crazy\" Wade"
+msgstr ""
+
+msgctxt "1943\tNAME"
+msgid "Nobuyoshi Yamamoto"
+msgstr ""
+
+msgctxt "1962\tNAME"
+msgid "Strong Yamazaki"
+msgstr ""
+
+msgctxt "1978\tNAME"
+msgid "Mike Berheart"
+msgstr ""
+
+msgctxt "1992\tNAME"
+msgid "Hunter Ozawa"
+msgstr ""
+
+msgctxt "2005\tNAME"
+msgid "Scorpio Kito"
+msgstr ""
+
+msgctxt "2018\tNAME"
+msgid "Keiji Kirishima"
+msgstr ""
+
+msgctxt "2034\tNAME"
+msgid "Lionel Klinsmann"
+msgstr ""
+
+msgctxt "2051\tNAME"
+msgid "Mon Amour Komiyama"
+msgstr ""
+
+msgctxt "2070\tNAME"
+msgid "Jon Carter"
+msgstr ""
+
+msgctxt "2081\tNAME"
+msgid "Torakichi Onigashima"
+msgstr ""
+
+msgctxt "2102\tNAME"
+msgid "The Great Jack"
+msgstr ""
+
+msgctxt "2117\tNAME"
+msgid "Prince Igarashi"
+msgstr ""
+
+msgctxt "2133\tNAME"
+msgid "Dead Boy"
+msgstr ""
+
+msgctxt "2142\tNAME"
+msgid "Ryuichi Taki"
+msgstr ""
+
+msgctxt "2155\tNAME"
+msgid "William Clerc"
+msgstr ""
+
+msgctxt "2169\tNAME"
+msgid "Sosuke Nagai"
+msgstr ""
+
+msgctxt "2182\tNAME"
+msgid "Kenichi Okouchi"
+msgstr ""
+
+msgctxt "2198\tNAME"
+msgid "Renji Kamiyama"
+msgstr ""
+
+msgctxt "2213\tNAME"
+msgid "Tomahawk Mitsui"
+msgstr ""
+
+msgctxt "2229\tNAME"
+msgid "Don Carpaccio"
+msgstr ""
+
+msgctxt "2243\tNAME"
+msgid "Bruce Ebinuma"
+msgstr ""
+
+msgctxt "2257\tNAME"
+msgid "Kyosuke Muguruma"
+msgstr ""
+
+msgctxt "2274\tNAME"
+msgid "Ginjiro Izaka"
+msgstr ""
+
+msgctxt "2288\tNAME"
+msgid "Gunji Tachibana"
+msgstr ""
+
+msgctxt "2304\tNAME"
+msgid "Mike Long"
+msgstr ""
+
+msgctxt "2314\tNAME"
+msgid "Antonio Vaquero"
+msgstr ""
+
+msgctxt "2330\tNAME"
+msgid "Park Dong-ju"
+msgstr ""
+
+msgctxt "2343\tNAME"
+msgid "Mammoth Tatsu"
+msgstr ""
+
+msgctxt "2357\tNAME"
+msgid "The Big Dandy"
+msgstr ""
+
+msgctxt "2371\tNAME"
+msgid "Shingo Miyama"
+msgstr ""
+
+msgctxt "2385\tNAME"
+msgid "Axe Ishiguro"
+msgstr ""
+
+msgctxt "2398\tNAME"
+msgid "Daiji Hiyama"
+msgstr ""
+
+msgctxt "2411\tNAME"
+msgid "Maxim Soldadov"
+msgstr ""
+
+msgctxt "2426\tNAME"
+msgid "Togo Taniguchi"
+msgstr ""
+
+msgctxt "2441\tNAME"
+msgid "Yuki Menderos"
+msgstr ""
+
+msgctxt "2455\tNAME"
+msgid "Keisuke Uematsu"
+msgstr ""
+
+msgctxt "2471\tNAME"
+msgid "Marcus Zefal"
+msgstr ""
+
+msgctxt "2484\tNAME"
+msgid "Grand Chef Chang"
+msgstr ""
+
+msgctxt "2501\tNAME"
+msgid "Home-Run Ken"
+msgstr ""
+
+msgctxt "2514\tNAME"
+msgid "Juzo Sakota"
+msgstr ""
+
+msgctxt "2526\tNAME"
+msgid "Kazuhiro Takeo"
+msgstr ""
+
+msgctxt "2541\tNAME"
+msgid "Thomas Loyd"
+msgstr ""
+
+msgctxt "2553\tNAME"
+msgid "Justin Woods"
+msgstr ""
+
+msgctxt "2566\tNAME"
+msgid "Shogo Usui"
+msgstr ""
+
+msgctxt "2577\tNAME"
+msgid "Seiji Higuchi"
+msgstr ""
+
+msgctxt "2591\tNAME"
+msgid "Rex Yasunishi"
+msgstr ""
+
+msgctxt "2605\tNAME"
+msgid "Cerberus Fujishiro"
+msgstr ""
+
+msgctxt "2624\tNAME"
+msgid "Yi-san"
+msgstr ""
+
+msgctxt "2631\tNAME"
+msgid "Er-san"
+msgstr ""
+
+msgctxt "2638\tNAME"
+msgid "Unknown"
+msgstr ""
+
+msgctxt "2646\tCATCHPHRASE"
+msgid "The Devil's Fist"
+msgstr ""
+
+msgctxt "2663\tCATCHPHRASE"
+msgid "The Living National Treasure"
+msgstr ""
+
+msgctxt "2692\tCATCHPHRASE"
+msgid "The Bloody Prodigy"
+msgstr ""
+
+msgctxt "2711\tCATCHPHRASE"
+msgid "The Flawless Bad Boy"
+msgstr ""
+
+msgctxt "2732\tCATCHPHRASE"
+msgid "The Human Warhead"
+msgstr ""
+
+msgctxt "2750\tCATCHPHRASE"
+msgid "The Kickboxing Sentinel"
+msgstr ""
+
+msgctxt "2774\tCATCHPHRASE"
+msgid "The Bold Wrestler"
+msgstr ""
+
+msgctxt "2792\tCATCHPHRASE"
+msgid "Archaeologist of the Fighting World"
+msgstr ""
+
+msgctxt "2828\tCATCHPHRASE"
+msgid "The Rowdy Giant"
+msgstr ""
+
+msgctxt "2844\tCATCHPHRASE"
+msgid "Tireless Baby Boomer"
+msgstr ""
+
+msgctxt "2865\tCATCHPHRASE"
+msgid "The Masked Striker"
+msgstr ""
+
+msgctxt "2884\tCATCHPHRASE"
+msgid "Summertime Superman"
+msgstr ""
+
+msgctxt "2904\tCATCHPHRASE"
+msgid "The Silent Soldier"
+msgstr ""
+
+msgctxt "2923\tCATCHPHRASE"
+msgid "The Quick Killer"
+msgstr ""
+
+msgctxt "2940\tCATCHPHRASE"
+msgid "The Fistosopher"
+msgstr ""
+
+msgctxt "2956\tCATCHPHRASE"
+msgid "The British Fugitive"
+msgstr ""
+
+msgctxt "2977\tCATCHPHRASE"
+msgid "The Avant-Garde Master"
+msgstr ""
+
+msgctxt "3000\tCATCHPHRASE"
+msgid "The Jet-Black Striker"
+msgstr ""
+
+msgctxt "3022\tCATCHPHRASE"
+msgid "Maverick of the Sumo World"
+msgstr ""
+
+msgctxt "3049\tCATCHPHRASE"
+msgid "Vagabond of the Wrestling World"
+msgstr ""
+
+msgctxt "3081\tCATCHPHRASE"
+msgid "Prince of Pound"
+msgstr ""
+
+msgctxt "3097\tCATCHPHRASE"
+msgid "Gangland Idol"
+msgstr ""
+
+msgctxt "3111\tCATCHPHRASE"
+msgid "The Crafty Crusher"
+msgstr ""
+
+msgctxt "3130\tCATCHPHRASE"
+msgid "The Fighting Celebrity"
+msgstr ""
+
+msgctxt "3153\tCATCHPHRASE"
+msgid "Warrior for a Lifetime"
+msgstr ""
+
+msgctxt "3176\tCATCHPHRASE"
+msgid "Next-Generation Fighting Cyborg"
+msgstr ""
+
+msgctxt "3208\tCATCHPHRASE"
+msgid "The Weapon Master"
+msgstr ""
+
+msgctxt "3226\tCATCHPHRASE"
+msgid "The Unexpected Machine"
+msgstr ""
+
+msgctxt "3249\tCATCHPHRASE"
+msgid "Entertainer from Hell"
+msgstr ""
+
+msgctxt "3271\tCATCHPHRASE"
+msgid "The Resurrected Legend"
+msgstr ""
+
+msgctxt "3294\tCATCHPHRASE"
+msgid "The Black Belt Traitor"
+msgstr ""
+
+msgctxt "3317\tCATCHPHRASE"
+msgid "The Silent Wolf"
+msgstr ""
+
+msgctxt "3333\tCATCHPHRASE"
+msgid "Aristocrat of the Arena"
+msgstr ""
+
+msgctxt "3357\tCATCHPHRASE"
+msgid "The Indigo Goalscorer"
+msgstr ""
+
+msgctxt "3379\tCATCHPHRASE"
+msgid "El Matador"
+msgstr ""
+
+msgctxt "3390\tCATCHPHRASE"
+msgid "The Underground Sweeper"
+msgstr ""
+
+msgctxt "3414\tCATCHPHRASE"
+msgid "The Soul Boxer"
+msgstr ""
+
+msgctxt "3429\tCATCHPHRASE"
+msgid "The Beachside Bodyguard"
+msgstr ""
+
+msgctxt "3453\tCATCHPHRASE"
+msgid "The Ghoulish Attacker"
+msgstr ""
+
+msgctxt "3475\tCATCHPHRASE"
+msgid "The Human Guillotine"
+msgstr ""
+
+msgctxt "3496\tCATCHPHRASE"
+msgid "Cyborg from Naniwa"
+msgstr ""
+
+msgctxt "3516\tCATCHPHRASE"
+msgid "O Collector of Eastern Europe"
+msgstr ""
+
+msgctxt "3546\tCATCHPHRASE"
+msgid "The Lethal Weapon"
+msgstr ""
+
+msgctxt "3564\tCATCHPHRASE"
+msgid "The Bitter Sniper"
+msgstr ""
+
+msgctxt "3582\tCATCHPHRASE"
+msgid "The Undefeated"
+msgstr ""
+
+msgctxt "3597\tCATCHPHRASE"
+msgid "The God of Death"
+msgstr ""
+
+msgctxt "3614\tCATCHPHRASE"
+msgid "Hell's Chef"
+msgstr ""
+
+msgctxt "3626\tCATCHPHRASE"
+msgid "Triple Crown King of Kamurocho"
+msgstr ""
+
+msgctxt "3657\tCATCHPHRASE"
+msgid "The Old Rookie"
+msgstr ""
+
+msgctxt "3672\tCATCHPHRASE"
+msgid "The Delusional Champ"
+msgstr ""
+
+msgctxt "3693\tCATCHPHRASE"
+msgid "East-West Hero Team-Up"
+msgstr ""
+
+msgctxt "3716\tCATCHPHRASE"
+msgid "Torpedo Massacre Brothers"
+msgstr ""
+
+msgctxt "3742\tCATCHPHRASE"
+msgid "Kamurocho Hooligans"
+msgstr ""
+
+msgctxt "3762\tCATCHPHRASE"
+msgid "Kamurocho Hooligans"
+msgstr ""
+
+msgctxt "3782\tCATCHPHRASE"
+msgid "Beast King Brothers"
+msgstr ""
+
+msgctxt "3802\tCATCHPHRASE"
+msgid "Beast King Brothers"
+msgstr ""
+
+msgctxt "3822\tCATCHPHRASE"
+msgid "Yi-san & Er-san"
+msgstr ""
+
+msgctxt "3838\tCATCHPHRASE"
+msgid "Yi-san & Er-san"
+msgstr ""
+
+msgctxt "3854\tCATCHPHRASE"
+msgid "Unknown"
+msgstr ""
+
+msgctxt "5953\tSTYLE"
+msgid "Mixed Martial Arts"
+msgstr ""
+
+msgctxt "5972\tSTYLE"
+msgid "Ancient Wisdom"
+msgstr ""
+
+msgctxt "5987\tSTYLE"
+msgid "Karate"
+msgstr ""
+
+msgctxt "5994\tSTYLE"
+msgid "Spear"
+msgstr ""
+
+msgctxt "6000\tSTYLE"
+msgid "Kickboxing"
+msgstr ""
+
+msgctxt "6011\tSTYLE"
+msgid "Muay Thai"
+msgstr ""
+
+msgctxt "6021\tSTYLE"
+msgid "Wrestling"
+msgstr ""
+
+msgctxt "6031\tSTYLE"
+msgid "Nunchaku"
+msgstr ""
+
+msgctxt "6040\tSTYLE"
+msgid "Kickboxing"
+msgstr ""
+
+msgctxt "6051\tSTYLE"
+msgid "Karate"
+msgstr ""
+
+msgctxt "6058\tSTYLE"
+msgid "Mixed Martial Arts"
+msgstr ""
+
+msgctxt "6077\tSTYLE"
+msgid "Kickboxing"
+msgstr ""
+
+msgctxt "6088\tSTYLE"
+msgid "Guns"
+msgstr ""
+
+msgctxt "6093\tSTYLE"
+msgid "Kickboxing"
+msgstr ""
+
+msgctxt "6104\tSTYLE"
+msgid "Street Fighting"
+msgstr ""
+
+msgctxt "6120\tSTYLE"
+msgid "Boxing"
+msgstr ""
+
+msgctxt "6127\tSTYLE"
+msgid "Mixed Martial Arts"
+msgstr ""
+
+msgctxt "6146\tSTYLE"
+msgid "Kickboxing"
+msgstr ""
+
+msgctxt "6157\tSTYLE"
+msgid "Sumo"
+msgstr ""
+
+msgctxt "6162\tSTYLE"
+msgid "Wrestling"
+msgstr ""
+
+msgctxt "6172\tSTYLE"
+msgid "Wrestling"
+msgstr ""
+
+msgctxt "6182\tSTYLE"
+msgid "Street Fighting"
+msgstr ""
+
+msgctxt "6198\tSTYLE"
+msgid "Brass Knuckles"
+msgstr ""
+
+msgctxt "6213\tSTYLE"
+msgid "Boxing"
+msgstr ""
+
+msgctxt "6220\tSTYLE"
+msgid "Karate"
+msgstr ""
+
+msgctxt "6227\tSTYLE"
+msgid "Boxing"
+msgstr ""
+
+msgctxt "6234\tSTYLE"
+msgid "Kali Sticks"
+msgstr ""
+
+msgctxt "6246\tSTYLE"
+msgid "Wrestling"
+msgstr ""
+
+msgctxt "6256\tSTYLE"
+msgid "Kickboxing"
+msgstr ""
+
+msgctxt "6267\tSTYLE"
+msgid "Kung Fu"
+msgstr ""
+
+msgctxt "6275\tSTYLE"
+msgid "Karate"
+msgstr ""
+
+msgctxt "6282\tSTYLE"
+msgid "Boxing"
+msgstr ""
+
+msgctxt "6289\tSTYLE"
+msgid "Street Fighting"
+msgstr ""
+
+msgctxt "6305\tSTYLE"
+msgid "Soccer"
+msgstr ""
+
+msgctxt "6312\tSTYLE"
+msgid "Boxing"
+msgstr ""
+
+msgctxt "6319\tSTYLE"
+msgid "Boxing"
+msgstr ""
+
+msgctxt "6326\tSTYLE"
+msgid "Street Fighting"
+msgstr ""
+
+msgctxt "6342\tSTYLE"
+msgid "Boxing"
+msgstr ""
+
+msgctxt "6349\tSTYLE"
+msgid "Volleyball"
+msgstr ""
+
+msgctxt "6360\tSTYLE"
+msgid "Axe"
+msgstr ""
+
+msgctxt "6364\tSTYLE"
+msgid "Wrestling"
+msgstr ""
+
+msgctxt "6374\tSTYLE"
+msgid "Boxing"
+msgstr ""
+
+msgctxt "6381\tSTYLE"
+msgid "Knife"
+msgstr ""
+
+msgctxt "6387\tSTYLE"
+msgid "Mixed Martial Arts"
+msgstr ""
+
+msgctxt "6406\tSTYLE"
+msgid "Street Fighting"
+msgstr ""
+
+msgctxt "6422\tSTYLE"
+msgid "Scythe"
+msgstr ""
+
+msgctxt "6429\tSTYLE"
+msgid "Kitchen Knife"
+msgstr ""
+
+msgctxt "6443\tSTYLE"
+msgid "Bat"
+msgstr ""
+
+msgctxt "6447\tSTYLE"
+msgid "Wrestling"
+msgstr ""
+
+msgctxt "6457\tSTYLE"
+msgid "Street Fighting"
+msgstr ""
+
+msgctxt "6473\tSTYLE"
+msgid "Boxing"
+msgstr ""
+
+msgctxt "6480\tSTYLE"
+msgid "Boxing"
+msgstr ""
+
+msgctxt "6487\tSTYLE"
+msgid "Street Fighting"
+msgstr ""
+
+msgctxt "6503\tSTYLE"
+msgid "Street Fighting"
+msgstr ""
+
+msgctxt "6519\tSTYLE"
+msgid "Wrestling"
+msgstr ""
+
+msgctxt "6529\tSTYLE"
+msgid "Wrestling"
+msgstr ""
+
+msgctxt "6539\tSTYLE"
+msgid "Kung Fu"
+msgstr ""
+
+msgctxt "6547\tSTYLE"
+msgid "Kung Fu"
+msgstr ""
+
+msgctxt "10579\tEXPLANATION"
+msgid ""
+"A man shrouded in a veil of secrets. Who is he really, and why is\n"
+"he fighting in the Coliseum? His highly trained fists, said to be\n"
+"possessed by the Devil himself, have knocked out countless tough\n"
+"guys. The strongest man alive."
+msgstr ""
+
+msgctxt "10807\tEXPLANATION"
+msgid ""
+"Master martial artist and founder of Komaki-style martial arts.\n"
+"His unusually strong physique continues to improve and evolve as\n"
+"he ages. He has come to the Coliseum to challenge himself and\n"
+"promote the Komaki style."
+msgstr ""
+
+msgctxt "11024\tEXPLANATION"
+msgid ""
+"A karate master taking the Underground Coliseum by storm with his\n"
+"brilliant strategic mind and his devastating strikes which belie\n"
+"his diminutive size."
+msgstr ""
+
+msgctxt "11176\tEXPLANATION"
+msgid ""
+"Living successor of Hozoin-ryu spearmanship, which has been passed down\n"
+"since the Azuchi-Momoyama period. His spear mastery and his physical\n"
+"prowess surpass even that of the style's founder, In'ei Hozoin. Casting\n"
+"himself into the Coliseum ring to show the world the spirit of Hozoin-ryu."
+msgstr ""
+
+msgctxt "11464\tEXPLANATION"
+msgid ""
+"After having run out of opponents who could fight against him at\n"
+"his full strength in the kickboxing world, he has come to the\n"
+"Underground Coliseum looking for better opponents. "
+msgstr ""
+
+msgctxt "11643\tEXPLANATION"
+msgid ""
+"A skilled fighter and quintessential Thai kickboxer. His uniquely distanced\n"
+"kicks have crushed the bodies and spirits of many a kickboxer. He plans on\n"
+"keeping up that fighting spirit in the Underground Coliseum, kicking his\n"
+"way through all the men lined up to fight."
+msgstr ""
+
+msgctxt "11910\tEXPLANATION"
+msgid ""
+"The man who ruled the wrestling world with his inhuman strength. He now\n"
+"participates in fighting competitions outside of the wrestling scene to\n"
+"prove wrestling is the strongest fighting style. He has come to the\n"
+"Underground Coliseum to fight in his final frontier."
+msgstr ""
+
+msgctxt "12175\tEXPLANATION"
+msgid ""
+"A master of ancient Ryukyu martial arts. Said to be a master not\n"
+"just of the ancient style but also with nunchaku. After hearing\n"
+"about a tournament to determine the strongest fighter, he made\n"
+"his way to the Underground Coliseum all the way from Okinawa."
+msgstr ""
+
+msgctxt "12429\tEXPLANATION"
+msgid ""
+"Once this giant enters the ring, he won't stop his rampage until someone\n"
+"jumps in to stop him. His reign of terror continued even out of the ring,\n"
+"which has caused multiple incidents. Now, he's come to the Underground\n"
+"Coliseum, where his rampage will be put to good use."
+msgstr ""
+
+msgctxt "12700\tEXPLANATION"
+msgid ""
+"A karate master who has turned his body into a deadly weapon. Even well\n"
+"into his sixties, he still fights at full power. Instead of training a new\n"
+"generation of martial artists, he has instead chosen to focus on honing his\n"
+"own strength. That pursuit has taken him to the Underground Coliseum."
+msgstr ""
+
+msgctxt "12993\tEXPLANATION"
+msgid ""
+"A masked fighter with a history of evil acts in the pro wrestling\n"
+"ring. He came to the Underground Coliseum looking for a fight,\n"
+"but he also seeks an opportunity to get revenge on those in the\n"
+"pro wrestling world who he holds a grudge against."
+msgstr ""
+
+msgctxt "13237\tEXPLANATION"
+msgid ""
+"A powerful fighter descended from a long, proud line of combatants.\n"
+"His powerful build, a result of his genes, acts as an impenetrable shield\n"
+"that can block the strongest attacks and deal powerful blows as well.\n"
+"He came to the Underground Coliseum in pursuit of the fight money."
+msgstr ""
+
+msgctxt "13516\tEXPLANATION"
+msgid ""
+"A professional combatant who narrowly escaped death multiple times\n"
+"as a soldier. He'll take on any mission as long as he gets paid.\n"
+"When he doesn't have work, he goes to the Underground Coliseum to\n"
+"train in combat."
+msgstr ""
+
+msgctxt "13731\tEXPLANATION"
+msgid ""
+"A young hopeful who rules the world of Japanese kickboxing with\n"
+"his weaponized knee kicks. He was the youngest person to break\n"
+"numerous kickboxing records. Now, no longer satisfied with\n"
+"aboveboard fights, he's coming down to the Underground Coliseum."
+msgstr ""
+
+msgctxt "13982\tEXPLANATION"
+msgid ""
+"A philosopher who searches for truth in the heat of battle. He believes\n"
+"human nature can only be truly known in a place where life and death\n"
+"happen. In pursuit of this knowledge, he has come to participate in the\n"
+"Underground Coliseum to encounter more life-threatening fights."
+msgstr ""
+
+msgctxt "14259\tEXPLANATION"
+msgid ""
+"This boxer was driven out of the sport in his home country after it was\n"
+"discovered that he was fixing his own fights. Now, he comes to the \n"
+"Coliseum, longing for more time in the ring. His light footwork and\n"
+"strong punches have built before him a mountain of KO'd opponents."
+msgstr ""
+
+msgctxt "14534\tEXPLANATION"
+msgid ""
+"An artist who is always trying new things in the fighting world.\n"
+"He has come to the Underground Coliseum to test new techniques he\n"
+"has invented. Rumors say that behind his beautiful techniques lie\n"
+"the countless corpses of the men he tested them on."
+msgstr ""
+
+msgctxt "14783\tEXPLANATION"
+msgid ""
+"Despite his brilliant mind, when his mafia ties were discovered, his fight\n"
+"license was stripped from him. Afterwards, he tried multiple times to\n"
+"return but was never accepted. Just as he was feeling down about it,\n"
+"someone involved with the Underground Coliseum recruited him."
+msgstr ""
+
+msgctxt "15059\tEXPLANATION"
+msgid ""
+"A sumo wrestler who was driven from the top of the sumo world for\n"
+"his poor behavior and numerous controversial statements. However,\n"
+"he is still passionate about sumo wrestling, and is ready to bring\n"
+"the traditional fighting style to the Underground Coliseum."
+msgstr ""
+
+msgctxt "15318\tEXPLANATION"
+msgid ""
+"A wandering pro wrestler who will go anywhere as long as there's\n"
+"a wrestling ring. He competed in rings around the world, taking\n"
+"on strong fighters left and right. Now, his next target is the\n"
+"fighting ring at the Underground Coliseum."
+msgstr ""
+
+msgctxt "15553\tEXPLANATION"
+msgid ""
+"A confident strongarm fighter with the utmost confidence in his ability to\n"
+"strike true. He proudly declares that his favorite thing to do is punch a\n"
+"man in the face. He earned the nickname of \"Prince\" from the wide grin he\n"
+"wears when punching someone in the face."
+msgstr ""
+
+msgctxt "15817\tEXPLANATION"
+msgid ""
+"A street fighting specialist who is the pride of Japan's top-class gang\n"
+"organization. His fighting prowess was honed through countless battles\n"
+"and scuffles. He came to the Underground Coliseum to make his\n"
+"organization known to the underworld."
+msgstr ""
+
+msgctxt "16060\tEXPLANATION"
+msgid ""
+"Knows every nook and cranny of the human body and where to strike\n"
+"to cause the most damage. His brass knuckles are perfect for\n"
+"breaking and busting."
+msgstr ""
+
+msgctxt "16209\tEXPLANATION"
+msgid ""
+"By day, a famous CEO of an IT company. By night, a fierce man who\n"
+"invests millions of yen into training his body to better fight in\n"
+"the ring."
+msgstr ""
+
+msgctxt "16351\tEXPLANATION"
+msgid ""
+"A Japanese man who has chosen fighting as his path in life. His\n"
+"past is shrouded in mystery, but he says he was born on the\n"
+"battlefield. His stoic nature has earned him the passionate\n"
+"support of the discerning audience of the Underground Coliseum."
+msgstr ""
+
+msgctxt "16599\tEXPLANATION"
+msgid ""
+"Was once expected to become the world champion, but when he found\n"
+"himself unable to tangle with gyms and promoters any longer, he\n"
+"disappeared from the boxing ring. Afterwards, he was recruited by\n"
+"Majima and stepped into the ring once more."
+msgstr ""
+
+msgctxt "16839\tEXPLANATION"
+msgid ""
+"A man who runs a remodeling business in Kamurocho. Despite his bulk, he\n"
+"moves with unexpected grace and precision while wielding his beloved\n"
+"weapon to deadly effect. He has come to the Underground Coliseum upon\n"
+"the orders of his weapon arts master, Shoji Yonashiro."
+msgstr ""
+
+msgctxt "17105\tEXPLANATION"
+msgid ""
+"After defying all expectations and winning many title matches, he earned\n"
+"the nickname \"The Enigma Machine.\" However, because he kept being\n"
+"suspected of match fixing every time he won an unexpected victory, he\n"
+"decided to come to the Coliseum, where match fixing doesn't exist."
+msgstr ""
+
+msgctxt "17381\tEXPLANATION"
+msgid ""
+"A kickboxer who possesses secret tactics one could never expect\n"
+"based on the gaudy way he dresses. Said to send his opponents\n"
+"straight to Hell. He has a long career at the Underground\n"
+"Coliseum and knows all about fighting in the Grand Prix."
+msgstr ""
+
+msgctxt "17622\tEXPLANATION"
+msgid ""
+"Everything about him⑬his past, his age, his motivations⑬are shrouded in\n"
+"a veil of mystery. However, his graceful dance within the ring is\n"
+"reminiscent of the style of a certain man. It would not be an exaggeration\n"
+"to say that this legendary man was resurrected in the Coliseum."
+msgstr ""
+
+msgctxt "17903\tEXPLANATION"
+msgid ""
+"Once upon a time, this man was respected as the strongest teacher of a\n"
+"well-established dojo. However, greedy for strength, he broke the rules of\n"
+"his dojo to travel to the Underground Coliseum and join the fight, throwing\n"
+"away his position, his honor, and black belt in the process."
+msgstr ""
+
+msgctxt "18186\tEXPLANATION"
+msgid ""
+"A silver-haired boxer specializing in flurries of speedy punches.\n"
+"Unsatisfied with the fight money he received in the boxing ring,\n"
+"he came to the Underground Coliseum to go after the big cash\n"
+"prize."
+msgstr ""
+
+msgctxt "18385\tEXPLANATION"
+msgid ""
+"Unable to hold down a job, he spent his time fighting on the streets until\n"
+"he learned of the Coliseum. He has no formal style but his skill, honed in\n"
+"years of street fights, is enough to take out even professional martial\n"
+"artists. Now, he hopes to stand out among the Coliseum crowd."
+msgstr ""
+
+msgctxt "18669\tEXPLANATION"
+msgid ""
+"During his pursuit of the samurai spirit, he learned of the\n"
+"Underground Coliseum and decided to join the fight. He uses a\n"
+"strange fighting style that takes inspiration from his time\n"
+"playing soccer."
+msgstr ""
+
+msgctxt "18867\tEXPLANATION"
+msgid ""
+"An out-boxer who fights like a bullfighter, constantly dodging\n"
+"his opponent's attacks. After hearing about a tournament to\n"
+"determine the strongest man on Earth, he came to the Underground\n"
+"Coliseum all the way from Spain."
+msgstr ""
+
+msgctxt "19088\tEXPLANATION"
+msgid ""
+"A cleaner who is the pride of the Korean mafia. The flawless execution of\n"
+"his contracts is well-known in the scene. It's said that after he finishes\n"
+"a job, not a single speck of dust remains. To reinforce the status of his\n"
+"homeland in the underworld, he came alone to the Underground Coliseum."
+msgstr ""
+
+msgctxt "19382\tEXPLANATION"
+msgid ""
+"A man who spent his entire life fighting and steadily carved out a place\n"
+"for himself in the underworld. No matter what resistance his opponents put\n"
+"up, he always smashes through it with his fervent punches. His passionate\n"
+"fighting style has captured the hearts of many a Coliseum-goer."
+msgstr ""
+
+msgctxt "19668\tEXPLANATION"
+msgid ""
+"A man who fought off scores of gang resistance all by himself.\n"
+"Especially well-known on America's West Coast. It's said there\n"
+"is no fighting ground he cannot conquer.  He was sent to the\n"
+"Underground Coliseum as an assassin from America."
+msgstr ""
+
+msgctxt "19905\tEXPLANATION"
+msgid ""
+"This fighter's tactics, which take hints from volleyball, set him apart\n"
+"from all the others. His finishing attack⑬spiking his foe into the ground\n"
+"like a ball⑬has KO'd countless opponents. He came to the Underground\n"
+"Coliseum seeking to hone his skills against its powerful fighters."
+msgstr ""
+
+msgctxt "20191\tEXPLANATION"
+msgid ""
+"Put an axe in this friendly man's hands, and he goes from gentle giant to\n"
+"bloodthirsty berserker who loves nothing more than splitting his opponents\n"
+"down the middle. He came to the Underground Coliseum after searching for\n"
+"a fighting league that would permit weapons.  "
+msgstr ""
+
+msgctxt "20460\tEXPLANATION"
+msgid ""
+"A wrestler who was once the king of tag matches. When his partner\n"
+"died in an accident, however, he disappeared from the ring. He\n"
+"appeared sometime later at the Underground Coliseum, declaring\n"
+"that he would fight to honor the memory of his partner."
+msgstr ""
+
+msgctxt "20708\tEXPLANATION"
+msgid ""
+"An unrivaled boxer in his homeland of Ukraine. When no man stood\n"
+"to face him, he abandoned his place at the top to seek strong\n"
+"challengers in the Underground Coliseum."
+msgstr ""
+
+msgctxt "20876\tEXPLANATION"
+msgid ""
+"A knife-wielding combatant who calls Kamurocho home. His skills\n"
+"with the knife are unrivaled. He came to the Underground Coliseum\n"
+"to see just how far his skills could take him."
+msgstr ""
+
+msgctxt "21053\tEXPLANATION"
+msgid ""
+"An MMA fighter who always finds his mark. He lost his father at\n"
+"a young age, and now he lives by his father's dying words: \"Get\n"
+"strong.\" He's come to the Underground Coliseum seeking the\n"
+"strongest opponents he can find."
+msgstr ""
+
+msgctxt "21273\tEXPLANATION"
+msgid ""
+"A newbie fighter who's never lost a street fight and fears no opponent.\n"
+"After hearing he could make money by fighting, he headed to the Coliseum.\n"
+"He's a slugger who lacks finesse and could use some training, but his\n"
+"fighting spirit and courage are second to none."
+msgstr ""
+
+msgctxt "21537\tEXPLANATION"
+msgid ""
+"A scythe-wielding combatant whose fighting career in the\n"
+"Underground Coliseum began countless years ago. His scythe is\n"
+"an extension of his body, and he's the only one capable of doing\n"
+"justice to the title \"The God of Death.\""
+msgstr ""
+
+msgctxt "21762\tEXPLANATION"
+msgid ""
+"A cook who prefers cooking people over cooking for people. His skill with\n"
+"his beloved kitchen knife is unrivaled, and he holds the speed record for\n"
+"julienning vegetables. He came to the Coliseum in his search for a place\n"
+"where he could swing his knife around without fear."
+msgstr ""
+
+msgctxt "22035\tEXPLANATION"
+msgid ""
+"A Kamurocho slugger who can clear a battlefield with a single\n"
+"swing of his bat. He claims he was the Number 4 batter in the\n"
+"lineup on a certain professional baseball team when he was\n"
+"younger, but none have ever seen him on a baseball field..."
+msgstr ""
+
+msgctxt "22278\tEXPLANATION"
+msgid ""
+"An ex-wrestler who came back to Kamurocho after more than ten\n"
+"years in prison. Unable to secure a job, he was about to turn to\n"
+"a life of crime before he was approached by a promoter who brought\n"
+"him back into the ring at the Underground Coliseum."
+msgstr ""
+
+msgctxt "22524\tEXPLANATION"
+msgid ""
+"A man whose love of martial arts movies led him to enter the ring himself.\n"
+"No other fighter has done more image training than he has, even going so\n"
+"far as to imagine himself the winner of the Coliseum. It's only a matter\n"
+"of time before that image becomes reality."
+msgstr ""
+
+msgctxt "22788\tEXPLANATION"
+msgid ""
+"A boxer-puncher well-known in the USA. With a chin of diamond, no\n"
+"boxer has ever been able to KO him. His friend, Mamoru Taiga,\n"
+"invited him to participate in Tag Matches with him."
+msgstr ""
+
+msgctxt "22968\tEXPLANATION"
+msgid ""
+"A boxer who blew away the boxing world with his turbulent whirlwind of\n"
+"punches. He won countless title matches, each title belt preceded by a\n"
+"spectacular display of skill. He came to the Underground Coliseum to\n"
+"participate in Tag Matches with Park Dong-ju."
+msgstr ""
+
+msgctxt "23225\tEXPLANATION"
+msgid ""
+"Leader of a gang of punks who call Kamurocho their turf. Many members\n"
+"joined his gang after witnessing his extraordinary fighting skills.\n"
+"Joined up with partner in crime, Seiji Higuchi, to participate in tag\n"
+"battles in the Underground Coliseum as the Kamuro Hooligans."
+msgstr ""
+
+msgctxt "23494\tEXPLANATION"
+msgid ""
+"Head of a biker gang that operates out of Kamurocho. Defeated\n"
+"every leader in the gang until he stood at the top. He's joined\n"
+"up with longtime partner Shogo Usui to participate in tag\n"
+"battles and make his biker gang known to the underworld.  "
+msgstr ""
+
+msgctxt "23737\tEXPLANATION"
+msgid ""
+"One of the Beast King Brothers, a pro wrestling tag team. Some have said\n"
+"that watching the two coordinate with each other in the ring is like\n"
+"watching art in motion. Came to the Underground Coliseum to show the\n"
+"underworld that they are a tag team not to be trifled with."
+msgstr ""
+
+msgctxt "24008\tEXPLANATION"
+msgid ""
+"One of the Beast King Brothers, a pro wrestling tag team. He\n"
+"specializes in heavyweight offensive moves, unlike his partner,\n"
+"Rex. Came to the Underground Coliseum to show the underworld that\n"
+"they are a tag team not to be trifled with."
+msgstr ""
+
+msgctxt "24243\tEXPLANATION"
+msgid ""
+"He and his partner Er-san are said to be the shining gems of the Chinese\n"
+"Kung Fu world. His numerous skills born from the unique stances in Chinese\n"
+"Kung Fu have an elegance not found in other martial arts. He has come to\n"
+"the Underground Coliseum as part of his training."
+msgstr ""
+
+msgctxt "24514\tEXPLANATION"
+msgid ""
+"He and his partner Yi-san are said to be the shining gems of the\n"
+"Chinese Kung Fu world. Er-san is mild-mannered and popular, but\n"
+"once he gets in the ring, he calmly beats his opponents to a pulp.\n"
+"He has come to the Underground Coliseum as part of his training."
+msgstr ""
+
+msgctxt "24775\tEXPLANATION"
+msgid "Defeat this fighter to learn more."
+msgstr ""

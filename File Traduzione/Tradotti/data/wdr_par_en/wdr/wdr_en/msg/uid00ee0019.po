@@ -1,0 +1,48 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid "Welcome. Have you decided what you would like to order?"
+msgstr ""
+
+msgctxt "124"
+msgid "Thank you very much."
+msgstr ""
+
+msgctxt "136"
+msgid "(No point eating now. I'm not even hungry.)"
+msgstr ""
+
+msgctxt "148"
+msgid "Sorry, something came up."
+msgstr ""
+
+msgctxt "160"
+msgid "All right, then. Please come again."
+msgstr ""
+
+msgctxt "948"
+msgid "Employee"
+msgstr ""
+
+msgctxt "952"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "956"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "960"
+msgid "Talk_No"
+msgstr ""

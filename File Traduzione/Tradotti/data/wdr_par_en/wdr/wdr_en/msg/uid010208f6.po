@@ -1,0 +1,82 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid "Uncle Kaz, Uncle Kaz!"
+msgstr ""
+
+msgctxt "100"
+msgid "What's wrong, Taichi?"
+msgstr ""
+
+msgctxt "112"
+msgid "It's that guy with the curly hair! I just saw him again!"
+msgstr ""
+
+msgctxt "124"
+msgid "Are you sure?"
+msgstr ""
+
+msgctxt "136"
+msgid ""
+"Yeah, he's in that blue truck, probably spying on us again!\r\n"
+"It's definitely him!"
+msgstr ""
+
+msgctxt "148"
+msgid "All right, I'll handle it. Make sure everyone gets inside."
+msgstr ""
+
+msgctxt "160"
+msgid "Okay!"
+msgstr ""
+
+msgctxt "196"
+msgid ""
+"I'm gonna go take a look outside. Think you can handle\r\n"
+"dinner while I'm gone, Haruka?"
+msgstr ""
+
+msgctxt "208"
+msgid "Of course. Be careful, Uncle Kaz."
+msgstr ""
+
+msgctxt "220"
+msgid ""
+"I'll be fine, don't worry. But if I'm not back in time for\r\n"
+"dinner, you guys can start without me."
+msgstr ""
+
+msgctxt "232"
+msgid "Okay."
+msgstr ""
+
+msgctxt "2572"
+msgid "Taichi"
+msgstr ""
+
+msgctxt "2576"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "2580"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "2584"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "2588"
+msgid "HAL_stand_tlk_kamae"
+msgstr ""

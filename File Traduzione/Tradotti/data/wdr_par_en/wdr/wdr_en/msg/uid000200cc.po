@@ -1,0 +1,91 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid "Stay safe out there, Uncle Kaz."
+msgstr ""
+
+msgctxt "76"
+msgid "I will."
+msgstr ""
+
+msgctxt "88"
+msgid "Oh, I almost forgot!"
+msgstr ""
+
+msgctxt "100"
+msgid "Here's your ticket."
+msgstr ""
+
+msgctxt "112"
+msgid "You got a <Color:8>Plane Ticket to Tokyo<Color:Default>."
+msgstr ""
+
+msgctxt "136"
+msgid "You... bought me a plane ticket?"
+msgstr ""
+
+msgctxt "148"
+msgid "Mhm! You deserve a present after how much you've been helping everyone."
+msgstr ""
+
+msgctxt "160"
+msgid "Thanks, Haruka. That means a lot."
+msgstr ""
+
+msgctxt "172"
+msgid ""
+"By the way, I'm gonna go into town to get some stuff for\r\n"
+"dinner. Maybe we can go together until you have to leave?"
+msgstr ""
+
+msgctxt "184"
+msgid "I'd like that."
+msgstr ""
+
+msgctxt "196"
+msgid "Yay! And don't worry, I can get home on my own afterward."
+msgstr ""
+
+msgctxt "208"
+msgid ""
+"Heh, you're growing up so fast, Haruka. Anyway, where are\r\n"
+"you headed?"
+msgstr ""
+
+msgctxt "220"
+msgid ""
+"The <Color:7>public market<Color:Default> downtown! They have a lot of "
+"stuff there,\r\n"
+"and it's all super cheap!"
+msgstr ""
+
+msgctxt "2532"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "2536"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "2540"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "2544"
+msgid "Talk_Send"
+msgstr ""
+
+msgctxt "2548"
+msgid "Talk_Kansin"
+msgstr ""

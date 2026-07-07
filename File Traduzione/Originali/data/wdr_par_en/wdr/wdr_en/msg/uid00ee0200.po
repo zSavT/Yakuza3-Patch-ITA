@@ -1,0 +1,160 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "96"
+msgid ""
+"Take's in there. I think they've took him away. Hope we can get 'im out "
+"soon..."
+msgstr ""
+
+msgctxt "108"
+msgid ""
+"And they beat the crap outta Masa, too... Assholes! They think they can get "
+"away with this!?"
+msgstr ""
+
+msgctxt "168"
+msgid "...Wait a minute."
+msgstr ""
+
+msgctxt "192"
+msgid "Who are you?"
+msgstr ""
+
+msgctxt "204"
+msgid "Are you the guys who were chased out of the Dragon Palace?"
+msgstr ""
+
+msgctxt "216"
+msgid "That's us! And we're about to go take it back!"
+msgstr ""
+
+msgctxt "228"
+msgid "We're more than garbage, dammit!"
+msgstr ""
+
+msgctxt "240"
+msgid ""
+"And we're done getting kicked around by these punks! Let them try and kill "
+"us⑬we're taking our home back!"
+msgstr ""
+
+msgctxt "252"
+msgid "Come on, nobody's killing anybody. You know that won't solve anything."
+msgstr ""
+
+msgctxt "264"
+msgid "But someone has to stand up to them!"
+msgstr ""
+
+msgctxt "276"
+msgid ""
+"Your friend told me all about it. I'm here to get the Dragon Palace back "
+"for you."
+msgstr ""
+
+msgctxt "288"
+msgid "Huh? You serious?"
+msgstr ""
+
+msgctxt "300"
+msgid "Yeah. I used to live here myself, way back when."
+msgstr ""
+
+msgctxt "312"
+msgid ""
+"And I know how you feel. They're not the first scumbags to think they own "
+"this city. Just let me handle it."
+msgstr ""
+
+msgctxt "324"
+msgid "Well, if you say so. But you gotta let us come with you! C'mon! Please?"
+msgstr ""
+
+msgctxt "336"
+msgid "It's going to be dangerous..."
+msgstr ""
+
+msgctxt "348"
+msgid ""
+"I know, I know. But we can't rest easy until we see those punks put in "
+"their place!"
+msgstr ""
+
+msgctxt "360"
+msgid "Okay. Let's do it."
+msgstr ""
+
+msgctxt "432"
+msgid ""
+"People need to clean up after themselves. Look at all this trash in the "
+"streets."
+msgstr ""
+
+msgctxt "444"
+msgid "Huh? Who the hell do you think you're talkin' to?"
+msgstr ""
+
+msgctxt "456"
+msgid ""
+"Ugh, I know that smell... You wanna tell me what they're doing here? This "
+"your fan club or something?"
+msgstr ""
+
+msgctxt "468"
+msgid "I'm not here to talk. I'm here to beat the rules of the city into you."
+msgstr ""
+
+msgctxt "480"
+msgid "Shut the hell up! You got a problem with us? Bring it on, old man!"
+msgstr ""
+
+msgctxt "5048"
+msgid "Homeless Man"
+msgstr ""
+
+msgctxt "5052"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "5056"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "5060"
+msgid "kaiwabgm_fuonb"
+msgstr ""
+
+msgctxt "5064"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "5068"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "5072"
+msgid "Talk_Cry"
+msgstr ""
+
+msgctxt "5076"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "5080"
+msgid "dummy"
+msgstr ""
+
+msgctxt "5084"
+msgid "Hobo Hunter"
+msgstr ""

@@ -1,0 +1,156 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid "Argh..."
+msgstr ""
+
+msgctxt "76"
+msgid "Finally coming to your senses?"
+msgstr ""
+
+msgctxt "88"
+msgid ""
+"Never... I'll never forgive them... I'll never forgive\r\n"
+"them for what they did...!"
+msgstr ""
+
+msgctxt "100"
+msgid ""
+"What exactly is your problem? You were one of them\r\n"
+"once, weren't you?"
+msgstr ""
+
+msgctxt "112"
+msgid ""
+"Yeah. That's right. When I was a kid, I joined the\r\n"
+"yakuza."
+msgstr ""
+
+msgctxt "124"
+msgid "So what happened?"
+msgstr ""
+
+msgctxt "136"
+msgid ""
+"I was a hitman for them, and they ordered me to off\r\n"
+"key members of a rival family."
+msgstr ""
+
+msgctxt "148"
+msgid ""
+"They promised me a big reward and a high position in\r\n"
+"the family when my prison time was over."
+msgstr ""
+
+msgctxt "160"
+msgid "I spent fifteen years dreaming of life after the slammer..."
+msgstr ""
+
+msgctxt "172"
+msgid "I know how that feels."
+msgstr ""
+
+msgctxt "184"
+msgid ""
+"But when I finally got back to Kamurocho, the only thing\r\n"
+"waiting for me was an assassin to shut me up for good."
+msgstr ""
+
+msgctxt "196"
+msgid ""
+"During those fifteen years, they called a truce with that\r\n"
+"rival family, and I just reminded them of past mistakes."
+msgstr ""
+
+msgctxt "208"
+msgid "I managed to escape with my life, but I'd lost everything."
+msgstr ""
+
+msgctxt "220"
+msgid ""
+"Ever since then, whenever I see someone in the yakuza,\r\n"
+"I get pissed."
+msgstr ""
+
+msgctxt "232"
+msgid "Makes sense."
+msgstr ""
+
+msgctxt "244"
+msgid "That story of yours isn't exactly uncommon."
+msgstr ""
+
+msgctxt "256"
+msgid "What?"
+msgstr ""
+
+msgctxt "268"
+msgid "Look, I understand where you're coming from."
+msgstr ""
+
+msgctxt "280"
+msgid ""
+"But that's no reason to go around attacking people who\r\n"
+"had nothing to do with what happened to you."
+msgstr ""
+
+msgctxt "292"
+msgid "......"
+msgstr ""
+
+msgctxt "304"
+msgid "The Honest Living Association sent me to come find you."
+msgstr ""
+
+msgctxt "316"
+msgid "The HLA...?"
+msgstr ""
+
+msgctxt "328"
+msgid ""
+"You can talk this whole thing over there with Ibuki and\r\n"
+"figure out what to do next."
+msgstr ""
+
+msgctxt "3840"
+msgid "Batsu"
+msgstr ""
+
+msgctxt "3844"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "3848"
+msgid "Talk_Udekumi_st"
+msgstr ""
+
+msgctxt "3852"
+msgid "Idle"
+msgstr ""
+
+msgctxt "3856"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "3860"
+msgid "Talk_Udekumi_Yes"
+msgstr ""
+
+msgctxt "3864"
+msgid "Talk_Udekumi_ed"
+msgstr ""
+
+msgctxt "3868"
+msgid "P_stand_tlk_phone_st"
+msgstr ""

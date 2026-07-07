@@ -1,0 +1,214 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "80"
+msgid "It's getting kinda chilly. Let's go in, Uncle Kaz."
+msgstr ""
+
+msgctxt "92"
+msgid "I actually think I'm gonna stay out here a little longer."
+msgstr ""
+
+msgctxt "104"
+msgid "Oh, okay. See you inside!"
+msgstr ""
+
+msgctxt "116"
+msgid "Don't forget to wipe your feet off before you go in!"
+msgstr ""
+
+msgctxt "152"
+msgid "Uncle Kaz..."
+msgstr ""
+
+msgctxt "164"
+msgid "What's up, Haruka?"
+msgstr ""
+
+msgctxt "176"
+msgid "Are you... gonna go back to Kamurocho?"
+msgstr ""
+
+msgctxt "200"
+msgid "I don't know if I am."
+msgstr ""
+
+msgctxt "212"
+msgid "Huh? Why not?"
+msgstr ""
+
+msgctxt "224"
+msgid ""
+"I have a life here now. Responsibilities. I don't have time\r\n"
+"to go running off to Tokyo at the drop of a hat."
+msgstr ""
+
+msgctxt "236"
+msgid "But if you don't... we're gonna lose the orphanage, right?"
+msgstr ""
+
+msgctxt "248"
+msgid "It's hard to say."
+msgstr ""
+
+msgctxt "260"
+msgid ""
+"Though one thing's for sure: whoever shot Nakahara was\r\n"
+"after the deed for our land."
+msgstr ""
+
+msgctxt "272"
+msgid "......"
+msgstr ""
+
+msgctxt "296"
+msgid "Aniki!"
+msgstr ""
+
+msgctxt "332"
+msgid "Rikiya? Little late for a house call, don't you think?"
+msgstr ""
+
+msgctxt "344"
+msgid "Sorry, but I've got a favor to ask."
+msgstr ""
+
+msgctxt "356"
+msgid "What is it?"
+msgstr ""
+
+msgctxt "368"
+msgid "Well, uh..."
+msgstr ""
+
+msgctxt "380"
+msgid "I wanna go to Kamurocho with you!"
+msgstr ""
+
+msgctxt "392"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "404"
+msgid ""
+"I know you're gonna try and get the deed back, Aniki! Which\r\n"
+"means findin' the guy who shot the boss!"
+msgstr ""
+
+msgctxt "416"
+msgid "Please, you've gotta take me with you!"
+msgstr ""
+
+msgctxt "428"
+msgid "Rikiya..."
+msgstr ""
+
+msgctxt "440"
+msgid ""
+"Oh, and Mikio can stick around the hospital while we're\r\n"
+"gone. He's on board if it means us gettin' payback for what\r\n"
+"that asshole did to the boss!"
+msgstr ""
+
+msgctxt "452"
+msgid "And Saki? What happens to her?"
+msgstr ""
+
+msgctxt "464"
+msgid "Er..."
+msgstr ""
+
+msgctxt "476"
+msgid ""
+"Look, I'm glad you want revenge for your boss. But who's\r\n"
+"gonna be there to look after Saki if you're not around?"
+msgstr ""
+
+msgctxt "488"
+msgid "Well, uh..."
+msgstr ""
+
+msgctxt "500"
+msgid "I could do it."
+msgstr ""
+
+msgctxt "512"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "524"
+msgid "Saki-chan can stay with us at the orphanage."
+msgstr ""
+
+msgctxt "536"
+msgid "It's not gonna be easy, you know."
+msgstr ""
+
+msgctxt "548"
+msgid ""
+"I know. But she's probably been really lonely with her dad\r\n"
+"in the hospital and everything. Maybe it'll be good for her\r\n"
+"to spend time with other kids for once."
+msgstr ""
+
+msgctxt "560"
+msgid "Haruka-chan..."
+msgstr ""
+
+msgctxt "572"
+msgid ""
+"I'm sure the others would love to have a new friend to play\r\n"
+"with, too."
+msgstr ""
+
+msgctxt "584"
+msgid "But..."
+msgstr ""
+
+msgctxt "608"
+msgid "Please, Uncle Kaz. I've trusted you all these years."
+msgstr ""
+
+msgctxt "620"
+msgid ""
+"This time I need you to trust me. We'll take good care of\r\n"
+"her. Really."
+msgstr ""
+
+msgctxt "632"
+msgid "Haruka..."
+msgstr ""
+
+msgctxt "8156"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "8160"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "8164"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "8168"
+msgid "Rikiya"
+msgstr ""
+
+msgctxt "8172"
+msgid "Idle"
+msgstr ""
+
+msgctxt "8176"
+msgid "Talk_OK"
+msgstr ""

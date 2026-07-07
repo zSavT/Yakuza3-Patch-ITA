@@ -1,0 +1,104 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "132"
+msgid "Gah!"
+msgstr ""
+
+msgctxt "144"
+msgid "Huh? That was my pension check, you thief! Catch him! Catch hiiim!"
+msgstr ""
+
+msgctxt "168"
+msgid "Got it! You wait right there!"
+msgstr ""
+
+msgctxt "180"
+msgid "Stop!"
+msgstr ""
+
+msgctxt "204"
+msgid "You're better off calling the police, ma'am."
+msgstr ""
+
+msgctxt "216"
+msgid ""
+"Oh, well... As it happens, it's possible the purse-snatcher was... my "
+"grandson."
+msgstr ""
+
+msgctxt "228"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "240"
+msgid ""
+"Lately he's taken up with a rough crowd, and he keeps comin' by to squeeze "
+"me for pocket money."
+msgstr ""
+
+msgctxt "252"
+msgid "If I tell the police, they'll throw him in jail... and I can't have that."
+msgstr ""
+
+msgctxt "264"
+msgid "Still, you have to admit this has gotten out of hand."
+msgstr ""
+
+msgctxt "276"
+msgid ""
+"I can't disagree with you there. I'll have a talk with him later, but I'm "
+"not sure I can do much more than that... I hope you understand."
+msgstr ""
+
+msgctxt "288"
+msgid ""
+"Anyway, he's probably hidin' over behind the ice cream shop again. I'll go "
+"give him a piece of my mind."
+msgstr ""
+
+msgctxt "300"
+msgid "......"
+msgstr ""
+
+msgctxt "360"
+msgid "Chase the Crook"
+msgstr ""
+
+msgctxt "372"
+msgid "Call the Cops"
+msgstr ""
+
+msgctxt "3324"
+msgid "Old Woman"
+msgstr ""
+
+msgctxt "3328"
+msgid "Yoroke_BL_small"
+msgstr ""
+
+msgctxt "3332"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "3336"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "3340"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "3344"
+msgid "Talk_Request"
+msgstr ""

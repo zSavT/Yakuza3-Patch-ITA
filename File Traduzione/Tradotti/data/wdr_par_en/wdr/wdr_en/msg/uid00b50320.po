@@ -1,0 +1,182 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "112"
+msgid ""
+"Owwww... Please, sir, if you have any shred of kindness left in you... "
+"Don't go breaking any more of my bones! I'm already broken as a person "
+"enough!"
+msgstr ""
+
+msgctxt "136"
+msgid "......"
+msgstr ""
+
+msgctxt "148"
+msgid "Hey, are you hurt?"
+msgstr ""
+
+msgctxt "160"
+msgid "Wait a minute... That's it!"
+msgstr ""
+
+msgctxt "172"
+msgid "What is?"
+msgstr ""
+
+msgctxt "184"
+msgid "The thing! I'm talkin' about the preparation for the ultimate instant ramen!"
+msgstr ""
+
+msgctxt "196"
+msgid ""
+"If I break up the pork bone into tiny little pieces, the extract from the "
+"marrow should spread throughout the broth! Making it savory and delicious!"
+msgstr ""
+
+msgctxt "208"
+msgid "Huh? What does that have to do with nearly being assaulted?"
+msgstr ""
+
+msgctxt "220"
+msgid ""
+"Well, while you were so adeptly shattering the bones and breaking the "
+"joints of those hooligans, I was taking it all in, and then the answer hit "
+"me like a ton of bricks!"
+msgstr ""
+
+msgctxt "232"
+msgid "The secret to making this ramen... is by breaking up the bones!"
+msgstr ""
+
+msgctxt "244"
+msgid "Ahah! Ahahahah! I can't believe how simple that was!"
+msgstr ""
+
+msgctxt "256"
+msgid "Simple for you, maybe..."
+msgstr ""
+
+msgctxt "268"
+msgid ""
+"Man, this is the epiphany of a lifetime! I'd better get back to the office "
+"and whip up a new sample before the fire gets cold! Creatively speaking."
+msgstr ""
+
+msgctxt "328"
+msgid ""
+"...You think I wanna eat this pathetic excuse for pasta? Shit looks like a "
+"bunch of freeze-dried puke!"
+msgstr ""
+
+msgctxt "340"
+msgid ""
+"No... My precious ramen! And hey, it isn't pasta, and it isn't freeze "
+"dried! It's flash fried..."
+msgstr ""
+
+msgctxt "352"
+msgid ""
+"Yeah, well it makes me wanna blow chunks! Now get lost before I flash fry "
+"your face!"
+msgstr ""
+
+msgctxt "364"
+msgid "(Isn't that the instant ramen guy? Ueda from Acecook, I believe?)"
+msgstr ""
+
+msgctxt "388"
+msgid "Hey, what's going on here?"
+msgstr ""
+
+msgctxt "400"
+msgid "All I wanted was for them to try my ramen as part of my taste test survey..."
+msgstr ""
+
+msgctxt "412"
+msgid "But for whatever reason, they just started going bananas!"
+msgstr ""
+
+msgctxt "424"
+msgid ""
+"This city's too dangerous for that kind of thing. Why not\r\n"
+"try your taste test in a safer area?"
+msgstr ""
+
+msgctxt "436"
+msgid ""
+"No, it has to be here! It's pointless to ask people who've\r\n"
+"never been exposed to the delectable goodness of\r\n"
+"Kyushu No. 1 Star! I need the most accurate opinions!"
+msgstr ""
+
+msgctxt "448"
+msgid "Hmm. I guess you do have a point there."
+msgstr ""
+
+msgctxt "460"
+msgid ""
+"Well, you heard the man. He's just trying to get some\r\n"
+"accurate feedback for his business. Can't you give him a\r\n"
+"pass, just this once?"
+msgstr ""
+
+msgctxt "472"
+msgid "Huh? Who the hell are you supposed to be, his supervisor?"
+msgstr ""
+
+msgctxt "484"
+msgid ""
+"And you want us to give him a pass, huh... Well how 'bout a one-way ticket "
+"on the eat shit express!? Let's get 'em!"
+msgstr ""
+
+msgctxt "5904"
+msgid "Kamurocho Gangster"
+msgstr ""
+
+msgctxt "5908"
+msgid "Ueda"
+msgstr ""
+
+msgctxt "5912"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "5916"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "5920"
+msgid "P_stand_tlk_ok"
+msgstr ""
+
+msgctxt "5924"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "5928"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "5932"
+msgid "M_ykz_stand_tlk_angry"
+msgstr ""
+
+msgctxt "5936"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "5940"
+msgid "Talk_No"
+msgstr ""

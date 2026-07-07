@@ -1,0 +1,135 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "92"
+msgid ""
+"That hostess and Haruka-san are both wonderful girls,\r\n"
+"but in the end, I know she's the one for me..."
+msgstr ""
+
+msgctxt "104"
+msgid "You know you're in the way if you stand there, right?"
+msgstr ""
+
+msgctxt "116"
+msgid "Oh, sensei! You're here again?"
+msgstr ""
+
+msgctxt "176"
+msgid "...You again? Onto yet another girl?"
+msgstr ""
+
+msgctxt "188"
+msgid ""
+"No... I just couldn't get the girl from the burger joint\r\n"
+"out of my mind..."
+msgstr ""
+
+msgctxt "200"
+msgid ""
+"The woman in Hatsumachi was really pretty, but she didn't\r\n"
+"like younger guys..."
+msgstr ""
+
+msgctxt "212"
+msgid "Haruka-san was totally my type, but she's your wife..."
+msgstr ""
+
+msgctxt "224"
+msgid "Uh, no, you've got that completely wrong."
+msgstr ""
+
+msgctxt "236"
+msgid "In the end, the hamburger girl is the only one for me!"
+msgstr ""
+
+msgctxt "248"
+msgid ""
+"Even after all that, when I went to buy a burger, she still\r\n"
+"said hi to me, and gave me this big, beautiful smile!"
+msgstr ""
+
+msgctxt "260"
+msgid ""
+"That smile melted my heart. And when she handed me my\r\n"
+"change, she held the coins almost like she wanted to hold\r\n"
+"my hand instead!"
+msgstr ""
+
+msgctxt "272"
+msgid ""
+"That's when I knew she was the one! Destiny must have drawn\r\n"
+"us together!"
+msgstr ""
+
+msgctxt "284"
+msgid "You're in for some disappointment in life."
+msgstr ""
+
+msgctxt "296"
+msgid ""
+"So I decided to ask her out again. But don't worry, sensei!\r\n"
+"I've learned what to do from you. I'll ask her myself."
+msgstr ""
+
+msgctxt "308"
+msgid "Good luck with that."
+msgstr ""
+
+msgctxt "320"
+msgid "Well, here I go!"
+msgstr ""
+
+msgctxt "332"
+msgid "(I can't help but worry about him...)"
+msgstr ""
+
+msgctxt "3424"
+msgid "Lovelorn Teenager"
+msgstr ""
+
+msgctxt "3428"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "3432"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "3436"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "3440"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "3444"
+msgid "Talk_Udekumi_st"
+msgstr ""
+
+msgctxt "3448"
+msgid "Talk_Udekumi_Yes"
+msgstr ""
+
+msgctxt "3452"
+msgid "Talk_Udekumi_ed"
+msgstr ""
+
+msgctxt "3456"
+msgid "dummy"
+msgstr ""
+
+msgctxt "3460"
+msgid "0"
+msgstr ""

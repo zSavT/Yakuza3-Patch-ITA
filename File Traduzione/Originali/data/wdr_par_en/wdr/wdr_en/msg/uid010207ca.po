@@ -1,0 +1,122 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "92"
+msgid "(Looks like Kazuki isn't here yet. I'll wait.)"
+msgstr ""
+
+msgctxt "152"
+msgid "Sorry to keep you waiting. I had a long talk with everyone at the club."
+msgstr ""
+
+msgctxt "164"
+msgid "So what did you want to tell me?"
+msgstr ""
+
+msgctxt "176"
+msgid ""
+"This whole \"second club\" thing with Yuya is really starting to wear me "
+"down."
+msgstr ""
+
+msgctxt "188"
+msgid "That doesn't sound like you."
+msgstr ""
+
+msgctxt "200"
+msgid "I know. But to be honest, I never thought Yuya would get so caught up in it."
+msgstr ""
+
+msgctxt "212"
+msgid "I've known him for about seven years now."
+msgstr ""
+
+msgctxt "224"
+msgid ""
+"I've tried to teach him everything I could about the business, even before "
+"Stardust was the number one host club in town."
+msgstr ""
+
+msgctxt "236"
+msgid "I guess, deep down, I always thought Yuya would stick by me, no matter what."
+msgstr ""
+
+msgctxt "248"
+msgid ""
+"So... When I saw him all wide-eyed about this second club business, it got "
+"me really upset..."
+msgstr ""
+
+msgctxt "260"
+msgid "I guess that's why I blew up at him."
+msgstr ""
+
+msgctxt "272"
+msgid ""
+"Whether you agree with him or not, I'm sure Yuya's just trying to do what "
+"he thinks is best."
+msgstr ""
+
+msgctxt "284"
+msgid "I hope you're right. But something tells me there's more to it than that..."
+msgstr ""
+
+msgctxt "296"
+msgid "......"
+msgstr ""
+
+msgctxt "308"
+msgid ""
+"Anyway, thanks for listening. I feel a little better after getting that out "
+"there."
+msgstr ""
+
+msgctxt "320"
+msgid "I can't exactly open up to the staff like this, you know."
+msgstr ""
+
+msgctxt "332"
+msgid "No problem. If there's ever anything you need, just say the word."
+msgstr ""
+
+msgctxt "344"
+msgid "...I might just take you up on that."
+msgstr ""
+
+msgctxt "3708"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "3712"
+msgid "P_sitsofa_tlk_kamae"
+msgstr ""
+
+msgctxt "3716"
+msgid "Kazuki"
+msgstr ""
+
+msgctxt "3720"
+msgid "M_nml_sitsofa_tlk_kamae"
+msgstr ""
+
+msgctxt "3724"
+msgid "P_sitsofa_tlk_yes"
+msgstr ""
+
+msgctxt "3728"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "3732"
+msgid "M_nml_sitsofa_tlk_ojigi"
+msgstr ""

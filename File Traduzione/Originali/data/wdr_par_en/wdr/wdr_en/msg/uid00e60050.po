@@ -1,0 +1,223 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "92"
+msgid ""
+"That beautiful woman has to work here, no doubt about it.\r\n"
+"But that means she works at a..."
+msgstr ""
+
+msgctxt "104"
+msgid "Hey, kid, what're you doing?"
+msgstr ""
+
+msgctxt "116"
+msgid "Sorry! I just, um..."
+msgstr ""
+
+msgctxt "128"
+msgid "Something wrong?"
+msgstr ""
+
+msgctxt "140"
+msgid "Hey! You're the guy from the burger joint!"
+msgstr ""
+
+msgctxt "152"
+msgid "What burger joint?"
+msgstr ""
+
+msgctxt "164"
+msgid ""
+"Remember? You said you'd help me get a date with that girl\r\n"
+"who worked at the burger shop, but it was a total bust!"
+msgstr ""
+
+msgctxt "176"
+msgid ""
+"Oh right, I remember you. You're the one who was practically\r\n"
+"orbiting that hamburger place."
+msgstr ""
+
+msgctxt "188"
+msgid ""
+"You sure have changed a lot, though. I never would've figured you were the "
+"same guy."
+msgstr ""
+
+msgctxt "200"
+msgid ""
+"I fell in love with her way before you came along, but\r\n"
+"because I asked for your help, she turned me down! *sniffle*\r\n"
+"I really liked her, too..."
+msgstr ""
+
+msgctxt "212"
+msgid ""
+"What burger joint? Oh, you're that kid from back then...\r\n"
+"Talk about a makeover. You look completely different."
+msgstr ""
+
+msgctxt "224"
+msgid "So, how'd your date go?"
+msgstr ""
+
+msgctxt "236"
+msgid ""
+"We went out once, but she never picked up the phone after\r\n"
+"that... She won't even reply to my texts..."
+msgstr ""
+
+msgctxt "248"
+msgid "Wait, so she dumped you?"
+msgstr ""
+
+msgctxt "260"
+msgid ""
+"No, she couldn't have! There's gotta be a good reason why\r\n"
+"she hasn't responded to me! Maybe her dad got in a car\r\n"
+"accident, or something!"
+msgstr ""
+
+msgctxt "272"
+msgid "Fine, fine."
+msgstr ""
+
+msgctxt "284"
+msgid "This sucks... I really liked her, too."
+msgstr ""
+
+msgctxt "296"
+msgid ""
+"So... What're you doing now? Kids like you shouldn't be\r\n"
+"hanging around places like this."
+msgstr ""
+
+msgctxt "308"
+msgid ""
+"I know, but... I just saw this incredibly beautiful woman\r\n"
+"go into that club. I wanted to see if I could talk to her..."
+msgstr ""
+
+msgctxt "320"
+msgid "Come on, kid... Don't tell me you've fallen for a bonafide hostess now?"
+msgstr ""
+
+msgctxt "332"
+msgid ""
+"She looked so gorgeous, just like a movie star! There's\r\n"
+"something about her that the girls in my class just don't have...\r\n"
+"Mature feminine charm! That's gotta be it!"
+msgstr ""
+
+msgctxt "344"
+msgid ""
+"That's why I changed up my outfit, look a bit more grown up.\r\n"
+"Be a real man worthy of a real woman like her. What do you\r\n"
+"think? I got this getup from that store over there."
+msgstr ""
+
+msgctxt "356"
+msgid "Is that how it is? I mean, you don't look too bad."
+msgstr ""
+
+msgctxt "368"
+msgid ""
+"She's older... so maybe she can teach me all sorts of things\r\n"
+"about romance! Or maybe just even about... adult stuff..."
+msgstr ""
+
+msgctxt "380"
+msgid ""
+"Does it matter? In any case, you shouldn't block the\r\n"
+"entrance of the club. You'll only cause trouble."
+msgstr ""
+
+msgctxt "392"
+msgid ""
+"I guess you've got a point. I wouldn't want to make trouble\r\n"
+"for that beautiful woman, anyway. I'll wait on the other\r\n"
+"side!"
+msgstr ""
+
+msgctxt "416"
+msgid "Good grief."
+msgstr ""
+
+msgctxt "6208"
+msgid "Lovelorn Teenager"
+msgstr ""
+
+msgctxt "6212"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "6216"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "6220"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "6224"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "6228"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "6232"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "6236"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "6240"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "6244"
+msgid "Talk_Udekumi_st"
+msgstr ""
+
+msgctxt "6248"
+msgid "Talk_Info_L"
+msgstr ""
+
+msgctxt "6252"
+msgid "Talk_Udekumi_No"
+msgstr ""
+
+msgctxt "6256"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "6260"
+msgid "SetM_nml_stand_kosite"
+msgstr ""
+
+msgctxt "6264"
+msgid "Idle"
+msgstr ""
+
+msgctxt "6268"
+msgid "Talk_Udekumi_Yes"
+msgstr ""
+
+msgctxt "6272"
+msgid "Talk_Udekumi_ed"
+msgstr ""

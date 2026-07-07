@@ -1,0 +1,550 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "512"
+msgid "Controls"
+msgstr ""
+
+msgctxt "524"
+msgid ""
+"Use the "
+"<Action:Button_LS_Up@Cabaret><Action:Button_LS_Down@Cabaret><Action:Button_"
+"LS_Left@Cabaret><Action:Button_LS_Right@Cabaret> to control your gaze."
+msgstr ""
+
+msgctxt "536"
+msgid ""
+"Press <Action:Button_Cross@Cabaret> to stare at a particular area. Hold "
+"down <Action:Button_Cross@Cabaret> to focus."
+msgstr ""
+
+msgctxt "548"
+msgid "Looking at different areas will provoke different reactions."
+msgstr ""
+
+msgctxt "572"
+msgid "(Her calming eyes...?)"
+msgstr ""
+
+msgctxt "584"
+msgid "(Her sweet lips...?)"
+msgstr ""
+
+msgctxt "596"
+msgid "(Her dainty hands...?)"
+msgstr ""
+
+msgctxt "608"
+msgid "(I can't see them because of her dress, but her legs...?)"
+msgstr ""
+
+msgctxt "620"
+msgid "(Her hair...?)"
+msgstr ""
+
+msgctxt "632"
+msgid "(Her chest...?)"
+msgstr ""
+
+msgctxt "644"
+msgid "(Hmm...)"
+msgstr ""
+
+msgctxt "656"
+msgid "Your eyes."
+msgstr ""
+
+msgctxt "668"
+msgid "My eyes?"
+msgstr ""
+
+msgctxt "680"
+msgid "They're so calm and relaxed."
+msgstr ""
+
+msgctxt "692"
+msgid ""
+"Hey, don't stare right into them... You're going to make me\r\n"
+"blush. <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "704"
+msgid "Your lips. They look so sweet."
+msgstr ""
+
+msgctxt "716"
+msgid ""
+"Hehe... Well, thank you. But there's nothing sweet about these lips! I'm "
+"actually quite the potty mouth!"
+msgstr ""
+
+msgctxt "728"
+msgid "Is that so?"
+msgstr ""
+
+msgctxt "740"
+msgid ""
+"Hehe... Yes, sometimes. I've stopped swearing so much since I moved to "
+"Okinawa, though."
+msgstr ""
+
+msgctxt "752"
+msgid ""
+"The people of the island are so nice, I feel guilty being such a party "
+"pooper."
+msgstr ""
+
+msgctxt "764"
+msgid "Makes sense to me."
+msgstr ""
+
+msgctxt "776"
+msgid ""
+"I'm glad I moved to Okinawa. I feel like I finally got back to being my "
+"regular old self."
+msgstr ""
+
+msgctxt "788"
+msgid "Your hands."
+msgstr ""
+
+msgctxt "800"
+msgid ""
+"I've got sakura on my nails today. I love them because they're just so pink "
+"and cute!"
+msgstr ""
+
+msgctxt "812"
+msgid "I didn't know those were cherry blossoms."
+msgstr ""
+
+msgctxt "824"
+msgid ""
+"Yes! The sakura in Okinawa are different from those you might see on the "
+"mainland. They even bloom at a different time, from January to February. "
+"Did you know that?"
+msgstr ""
+
+msgctxt "836"
+msgid ""
+"The full name for them is <Italic>hikanzakura</Italic>. They're also known "
+"as the bellflower cherry!"
+msgstr ""
+
+msgctxt "848"
+msgid "Really? You learn something new every day."
+msgstr ""
+
+msgctxt "860"
+msgid ""
+"Most people assume that all sakura bloom in March or April, right? Not "
+"here, though, hehe."
+msgstr ""
+
+msgctxt "872"
+msgid "Your legs."
+msgstr ""
+
+msgctxt "884"
+msgid "What!? I don't think you've seen my legs, though, have you?"
+msgstr ""
+
+msgctxt "896"
+msgid "Even tucked under your dress, I can tell they must be pretty."
+msgstr ""
+
+msgctxt "908"
+msgid "Aww... They're pretty beefy, though, thanks to all the bodyboarding I do."
+msgstr ""
+
+msgctxt "920"
+msgid "Is that so?"
+msgstr ""
+
+msgctxt "932"
+msgid "Hehe... I'll leave that up to your imagination. <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "944"
+msgid "I like your hair. It's just the right style."
+msgstr ""
+
+msgctxt "956"
+msgid "Hehe... So you like girls who put their hair up, huh, Kiryu-san?"
+msgstr ""
+
+msgctxt "968"
+msgid "Yeah."
+msgstr ""
+
+msgctxt "980"
+msgid ""
+"But you know, I've got to take it down when I'm out in the ocean, else I'll "
+"never untangle it."
+msgstr ""
+
+msgctxt "992"
+msgid "I wouldn't mind seeing what you look like with your hair down, either."
+msgstr ""
+
+msgctxt "1004"
+msgid ""
+"Well, come out to the beach with me, and maybe you'll get a glimpse of it. "
+"<Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "1016"
+msgid "Your breasts."
+msgstr ""
+
+msgctxt "1028"
+msgid "Oh, please... You're such a pervert, Kiryu-san. <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "1040"
+msgid "Hey, now..."
+msgstr ""
+
+msgctxt "1052"
+msgid ""
+"But you know, with all the bodyboarding I do, my chest has gotten pretty "
+"buff."
+msgstr ""
+
+msgctxt "1064"
+msgid "Oh, yeah?"
+msgstr ""
+
+msgctxt "1076"
+msgid ""
+"Mm-hmm.... But I'm not going to let you feel that for yourself. "
+"<Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "1088"
+msgid "Kiryu-san! Please, could you take this a little more seriously?"
+msgstr ""
+
+msgctxt "1100"
+msgid "Sorry about that."
+msgstr ""
+
+msgctxt "1112"
+msgid "Goodness... And here I thought I was still a looker..."
+msgstr ""
+
+msgctxt "1124"
+msgid "(Her eyes...?)"
+msgstr ""
+
+msgctxt "1136"
+msgid "(Her lips...?)"
+msgstr ""
+
+msgctxt "1148"
+msgid "(Her bracelet...?)"
+msgstr ""
+
+msgctxt "1160"
+msgid "(On her legs, maybe...?)"
+msgstr ""
+
+msgctxt "1172"
+msgid "(Is it the flower...?)"
+msgstr ""
+
+msgctxt "1184"
+msgid "(Is it the necklace...?)"
+msgstr ""
+
+msgctxt "1196"
+msgid "(What's the most Okinawan thing...)"
+msgstr ""
+
+msgctxt "1208"
+msgid "Is it your eyes?"
+msgstr ""
+
+msgctxt "1220"
+msgid "Really? Do you think my eyes have started to look more Okinawan?"
+msgstr ""
+
+msgctxt "1232"
+msgid "Yeah, definitely."
+msgstr ""
+
+msgctxt "1244"
+msgid ""
+"I guess you might be right... I feel like my eyes have taken on a little "
+"bit more kinder look. At least, compared to when I lived in Tokyo."
+msgstr ""
+
+msgctxt "1256"
+msgid ""
+"When I was working as a secretary out there, I had wrinkles on my forehead, "
+"too. Really big ones."
+msgstr ""
+
+msgctxt "1268"
+msgid "Really?"
+msgstr ""
+
+msgctxt "1280"
+msgid ""
+"I'm so glad I moved to Okinawa. It was good for me in so many ways. "
+"<Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "1292"
+msgid "Is it your lips?"
+msgstr ""
+
+msgctxt "1304"
+msgid ""
+"Hehe! That's right! The lipstick I'm wearing today... was made right here "
+"in Okinawa! <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "1316"
+msgid "Oh, huh?"
+msgstr ""
+
+msgctxt "1328"
+msgid ""
+"I only bought it because you never see locally-made beauty products around "
+"here, and it's actually pretty great stuff! <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "1340"
+msgid ""
+"So great, actually, that I bought every single color in their\r\n"
+"lineup! <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "1352"
+msgid "Heh, don't go overboard."
+msgstr ""
+
+msgctxt "1364"
+msgid "Is it that bracelet?"
+msgstr ""
+
+msgctxt "1376"
+msgid "That's not it, no. I bought this in Tokyo."
+msgstr ""
+
+msgctxt "1388"
+msgid ""
+"It was something I got to treat myself after one particularly long day of "
+"work."
+msgstr ""
+
+msgctxt "1400"
+msgid "What was the occasion?"
+msgstr ""
+
+msgctxt "1412"
+msgid ""
+"The first assignment I was ever given! <Color:7>⑮<Color:Default> I did a "
+"really good job, so I decided to reward myself a little."
+msgstr ""
+
+msgctxt "1424"
+msgid "Oh... That sounds a bit sad, huh? A grown woman buying presents for herself?"
+msgstr ""
+
+msgctxt "1436"
+msgid "There's nothing wrong with that."
+msgstr ""
+
+msgctxt "1448"
+msgid ""
+"Hehe... good. It's always easier to give it your all if you know there's a "
+"little reward waiting for you in the end. <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "1460"
+msgid "Is it on your legs?"
+msgstr ""
+
+msgctxt "1472"
+msgid ""
+"That's not it. I'm not wearing anything particularly Okinawan on my legs "
+"today."
+msgstr ""
+
+msgctxt "1484"
+msgid "I see..."
+msgstr ""
+
+msgctxt "1496"
+msgid ""
+"Hehe, too bad. I do wear coral anklets from time to time, though, so good "
+"guess!"
+msgstr ""
+
+msgctxt "1508"
+msgid "Is it that flower?"
+msgstr ""
+
+msgctxt "1520"
+msgid ""
+"Yup, that's right! It's my hibiscus flower. Was that too obvious? "
+"<Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "1532"
+msgid "So... Do you know what the hibiscus flower represents?"
+msgstr ""
+
+msgctxt "1544"
+msgid "No, I don't."
+msgstr ""
+
+msgctxt "1556"
+msgid "It represents a blossoming new romance... <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "1568"
+msgid ""
+"Maybe... it means there's something special blossoming between you and I, "
+"Kiryu-san? <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "1580"
+msgid "I hope so, heh."
+msgstr ""
+
+msgctxt "1592"
+msgid "Is it that necklace?"
+msgstr ""
+
+msgctxt "1604"
+msgid ""
+"Yes, that's right! How did you know? The pearls on this necklace are all "
+"from Okinawa."
+msgstr ""
+
+msgctxt "1616"
+msgid ""
+"Ise-Shima might be the first place you think of when it comes to high-grade "
+"Japanese pearls, but Okinawa is pretty well-known for its pearls, too."
+msgstr ""
+
+msgctxt "1628"
+msgid "Is that so?"
+msgstr ""
+
+msgctxt "1640"
+msgid ""
+"Okinawan pearls are such a beautiful color... See? Isn't this pink just so "
+"pretty?"
+msgstr ""
+
+msgctxt "1652"
+msgid "Definitely, yeah."
+msgstr ""
+
+msgctxt "1664"
+msgid ""
+"I like them so much, I even bought matching earrings! "
+"<Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "1676"
+msgid "......"
+msgstr ""
+
+msgctxt "1688"
+msgid "What's wrong?"
+msgstr ""
+
+msgctxt "1700"
+msgid "Oh, no, just..."
+msgstr ""
+
+msgctxt "1712"
+msgid "Honestly! Were you even listening to me?"
+msgstr ""
+
+msgctxt "1724"
+msgid "Sorry."
+msgstr ""
+
+msgctxt "1736"
+msgid "Kiryu-san, sometimes, you let yourself get a little too distracted..."
+msgstr ""
+
+msgctxt "17136"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "17140"
+msgid "F_cab_sitsofa_tlk_kamaeA"
+msgstr ""
+
+msgctxt "17144"
+msgid "F_cab_sitsofa_hot_muneA"
+msgstr ""
+
+msgctxt "17148"
+msgid "Mika"
+msgstr ""
+
+msgctxt "17152"
+msgid "F_cab_sitsofa_tlk_yes"
+msgstr ""
+
+msgctxt "17156"
+msgid "F_cab_sitsofa_tlk_tereruA"
+msgstr ""
+
+msgctxt "17160"
+msgid "F_cab_sitsofa_talk_smileA"
+msgstr ""
+
+msgctxt "17164"
+msgid "F_cab_sitsofa_sp5_sync_laugh"
+msgstr ""
+
+msgctxt "17168"
+msgid "P_sitsofa_sp5_sync_laugh"
+msgstr ""
+
+msgctxt "17172"
+msgid "F_cab_sitsofa_tlk_kamaeAtoB"
+msgstr ""
+
+msgctxt "17176"
+msgid "F_cab_sitsofa_tlk_angry"
+msgstr ""
+
+msgctxt "17180"
+msgid "F_cab_sitsofa_tlk_cry"
+msgstr ""
+
+msgctxt "17184"
+msgid "F_cab_sitsofa_tlk_happy"
+msgstr ""
+
+msgctxt "17188"
+msgid "F_cab_sitsofa_sp3_sync_uwame"
+msgstr ""
+
+msgctxt "17192"
+msgid "P_sitsofa_sp3_sync_uwame"
+msgstr ""
+
+msgctxt "17196"
+msgid "F_cab_sitsofa_tlk_noA"
+msgstr ""

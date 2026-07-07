@@ -1,0 +1,249 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "224"
+msgid "You're back again? What's going on this time?"
+msgstr ""
+
+msgctxt "248"
+msgid ""
+"I went and talked to a lawyer about filing for bankruptcy, but he said I "
+"can't."
+msgstr ""
+
+msgctxt "260"
+msgid "He told me to work harder instead."
+msgstr ""
+
+msgctxt "272"
+msgid "What do you mean, you can't file for bankruptcy?"
+msgstr ""
+
+msgctxt "284"
+msgid ""
+"He said because I used the loans on gambling and entertainment, I can't "
+"declare bankruptcy."
+msgstr ""
+
+msgctxt "296"
+msgid ""
+"Then he told me to stop messing around and take responsibility... I "
+"deserved that."
+msgstr ""
+
+msgctxt "320"
+msgid ""
+"I went to the loan sharks and told them I'd do all I could to pay off my "
+"loans, but they got mad at me. \"Of course you will, jackass!\" I deserved "
+"that, too..."
+msgstr ""
+
+msgctxt "332"
+msgid ""
+"Then they dragged me into their office and ran down the list of things I "
+"could do to pay them back..."
+msgstr ""
+
+msgctxt "344"
+msgid "Work the rest of my life on some island... Sell some of my organs..."
+msgstr ""
+
+msgctxt "356"
+msgid "I got scared and ran the hell out of there."
+msgstr ""
+
+msgctxt "368"
+msgid ""
+"But I know those guys are gonna be after me, no matter how fast or far I "
+"run..."
+msgstr ""
+
+msgctxt "380"
+msgid "So you came back to the river and decided to kill yourself?"
+msgstr ""
+
+msgctxt "392"
+msgid "Yeah... I don't know what else I can do."
+msgstr ""
+
+msgctxt "404"
+msgid ""
+"I told you before, dying won't help you. You took out those loans. It's up "
+"to you to find a way to pay them back."
+msgstr ""
+
+msgctxt "416"
+msgid "I'm sure you're right, but..."
+msgstr ""
+
+msgctxt "428"
+msgid "Oh! That's it!"
+msgstr ""
+
+msgctxt "440"
+msgid ""
+"I heard something about consolidating a bunch of different loans into one "
+"and how that might help me with my situation..."
+msgstr ""
+
+msgctxt "452"
+msgid "What do you think? Should I try that?"
+msgstr ""
+
+msgctxt "464"
+msgid ""
+"If it sounds too good to be true, it probably is. Guys like you are easy "
+"marks for scam artists."
+msgstr ""
+
+msgctxt "476"
+msgid "So you think those offers are scams?"
+msgstr ""
+
+msgctxt "488"
+msgid "I can't say for sure, but you have to watch out for yourself."
+msgstr ""
+
+msgctxt "500"
+msgid ""
+"If that's what you think, Kiryu-san, then I'll have to think this all over "
+"more carefully."
+msgstr ""
+
+msgctxt "512"
+msgid ""
+"That's a good idea. Remember, they're your loans. You've got to take "
+"responsibility for them."
+msgstr ""
+
+msgctxt "524"
+msgid "Ugh... You sound just like my dad..."
+msgstr ""
+
+msgctxt "548"
+msgid ""
+"At least it's something. Remember, they're your loans. You've got to take "
+"responsibility for them."
+msgstr ""
+
+msgctxt "560"
+msgid "Ugh... You sound just like my dad..."
+msgstr ""
+
+msgctxt "572"
+msgid "Well, thank you for talking to me again. I really appreciate it."
+msgstr ""
+
+msgctxt "584"
+msgid "You make me feel like I can get through this somehow."
+msgstr ""
+
+msgctxt "596"
+msgid "Here, Kiryu-san. I'd like you to have this."
+msgstr ""
+
+msgctxt "608"
+msgid "You got a <Color:8>Staminan Royale<Color:Default>."
+msgstr ""
+
+msgctxt "632"
+msgid "I'm going to try harder from now on. Thanks again."
+msgstr ""
+
+msgctxt "656"
+msgid "You got 2,000 EXP."
+msgstr ""
+
+msgctxt "704"
+msgid "Watch out, could be a scam."
+msgstr ""
+
+msgctxt "716"
+msgid "At least it's something."
+msgstr ""
+
+msgctxt "7564"
+msgid "M_big_stand_tlk_kamae"
+msgstr ""
+
+msgctxt "7568"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "7572"
+msgid "Kishimoto"
+msgstr ""
+
+msgctxt "7576"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "7580"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "7584"
+msgid "Talk_Udekumi_st"
+msgstr ""
+
+msgctxt "7588"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "7592"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "7596"
+msgid "Talk_Cry"
+msgstr ""
+
+msgctxt "7600"
+msgid "Talk_Udekumi_No"
+msgstr ""
+
+msgctxt "7604"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "7608"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "7612"
+msgid "Talk_Udekumi_ed"
+msgstr ""
+
+msgctxt "7616"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "7620"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "7624"
+msgid "Sync_Send"
+msgstr ""
+
+msgctxt "7628"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "7632"
+msgid "dummy"
+msgstr ""
+
+msgctxt "7636"
+msgid "0"
+msgstr ""

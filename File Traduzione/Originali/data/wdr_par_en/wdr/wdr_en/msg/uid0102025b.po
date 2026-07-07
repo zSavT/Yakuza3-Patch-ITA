@@ -1,0 +1,281 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "80"
+msgid ""
+"Dammit all... Shoulda never set foot in Kamurocho to\r\n"
+"begin with... I knew I'd get dragged back in..."
+msgstr ""
+
+msgctxt "92"
+msgid "Relax. I'm not here to drag you into anything."
+msgstr ""
+
+msgctxt "104"
+msgid "Huh? Wait a minute... Don't tell me..."
+msgstr ""
+
+msgctxt "116"
+msgid ""
+"You must be Kiryu-san! Wow! I'm standing face to face with a\r\n"
+"legend!"
+msgstr ""
+
+msgctxt "128"
+msgid ""
+"I used to be in the business, too, you know. And I heard all\r\n"
+"kinds of crazy stories about you, man. You were like a god."
+msgstr ""
+
+msgctxt "140"
+msgid ""
+"But then you retired right after you were made fourth\r\n"
+"chairman of the Tojo Clan. That's actually what inspired me\r\n"
+"to leave the business myself."
+msgstr ""
+
+msgctxt "152"
+msgid ""
+"Well, that's all fine and good... but I need to know what\r\n"
+"you've been up to. Your wife's been worrying about you."
+msgstr ""
+
+msgctxt "164"
+msgid ""
+"She has? Hmm... Well, I guess there is one thing I haven't\r\n"
+"managed to tell her yet... Think you can keep a secret?"
+msgstr ""
+
+msgctxt "176"
+msgid ""
+"You see, I was asked to be a chef at the restaurant I work\r\n"
+"part-time, so I started going to cooking school."
+msgstr ""
+
+msgctxt "188"
+msgid ""
+"The boss says I can get on full-time if I get me a cook's\r\n"
+"license. To me, that's a golden opportunity."
+msgstr ""
+
+msgctxt "200"
+msgid ""
+"We've been wanting to have us some kids soon... so I figured\r\n"
+"having a proper salary was the best way to prepare."
+msgstr ""
+
+msgctxt "212"
+msgid "So you've been sneaking off to cooking school? Is that it?"
+msgstr ""
+
+msgctxt "224"
+msgid ""
+"Well, it ain't my intention to be sneaky. I mean, sure, the\r\n"
+"school my boss recommended is in a run-down building with no\r\n"
+"sign out front, but the teacher there is world-class."
+msgstr ""
+
+msgctxt "236"
+msgid "Then what's with the late night knife sharpening?"
+msgstr ""
+
+msgctxt "248"
+msgid ""
+"Oh, you mean this thing? Hah, I've been using this to gut\r\n"
+"tuna... Guess it does kinda look like something you could\r\n"
+"use to shank another guy... Get the blood flowing, haha."
+msgstr ""
+
+msgctxt "260"
+msgid "Now I see how this is all coming together."
+msgstr ""
+
+msgctxt "272"
+msgid ""
+"Huh? What's coming together? And why's Ryoko all suspicious\r\n"
+"of me all of a sudden? I wonder about that lady sometimes..."
+msgstr ""
+
+msgctxt "284"
+msgid ""
+"Well, she said you've been a lot more well-off in the money\r\n"
+"department than you should be."
+msgstr ""
+
+msgctxt "296"
+msgid ""
+"Oh, that. Well, I just so happened to win a nice wad of cash\r\n"
+"at the mahjong tables, so I stashed some away for special\r\n"
+"occasions. Man, that wife of mine's pretty sharp! Heheh..."
+msgstr ""
+
+msgctxt "308"
+msgid "There you are! What are you doing here!?"
+msgstr ""
+
+msgctxt "320"
+msgid ""
+"I wouldn't worry if I were you. Your husband's given me an\r\n"
+"explanation for everything, and it all checks out."
+msgstr ""
+
+msgctxt "332"
+msgid "Huh...? What do you mean?"
+msgstr ""
+
+msgctxt "344"
+msgid ""
+"You just gotta trust me, babe! I promised you I wasn't gonna\r\n"
+"make you cry! That was... one of my wedding vows..."
+msgstr ""
+
+msgctxt "356"
+msgid "Then you remembered... You remembered your promise."
+msgstr ""
+
+msgctxt "368"
+msgid ""
+"Of course I remembered, babe! You think I'd forget a thing\r\n"
+"like that?"
+msgstr ""
+
+msgctxt "380"
+msgid "Sorry for putting you through all this drama, Kiryu-san."
+msgstr ""
+
+msgctxt "392"
+msgid "I hope you'll take this for your troubles!"
+msgstr ""
+
+msgctxt "404"
+msgid "You got <Color:8>70,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "416"
+msgid ""
+"Thank you for all your help. I feel like I can trust my\r\n"
+"husband so much more now... Well, I'd better get going."
+msgstr ""
+
+msgctxt "440"
+msgid "You got 2,000 EXP."
+msgstr ""
+
+msgctxt "500"
+msgid ""
+"(What could he be up to in there? I'm sure his wife would\r\n"
+"like to know.)"
+msgstr ""
+
+msgctxt "524"
+msgid ""
+"It's Kiryu... Uh-huh... Right near Smile Burger... That's\r\n"
+"right... You'll recognize it when you get here."
+msgstr ""
+
+msgctxt "548"
+msgid "(Well... Now what?)"
+msgstr ""
+
+msgctxt "572"
+msgid ""
+"Hey, asshole! I know you've been following me! So just tell\r\n"
+"me what you want already!"
+msgstr ""
+
+msgctxt "584"
+msgid "Hey, hold on. You've got it all wrong."
+msgstr ""
+
+msgctxt "596"
+msgid ""
+"Yeah, that's what they all say! Well, too bad for you,\r\n"
+"'cause there's no way in hell you're dragging me back to\r\n"
+"that life! I'll fight you tooth and nail if I have to!"
+msgstr ""
+
+msgctxt "10004"
+msgid "Man in Red Sportswear"
+msgstr ""
+
+msgctxt "10008"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "10012"
+msgid "M_ykz_stand"
+msgstr ""
+
+msgctxt "10016"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "10020"
+msgid "Idle"
+msgstr ""
+
+msgctxt "10024"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "10028"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "10032"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "10036"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "10040"
+msgid "Talk_Info_L"
+msgstr ""
+
+msgctxt "10044"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "10048"
+msgid "Ryoko"
+msgstr ""
+
+msgctxt "10052"
+msgid "Sync_Send"
+msgstr ""
+
+msgctxt "10056"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "10060"
+msgid "dummy"
+msgstr ""
+
+msgctxt "10064"
+msgid "0"
+msgstr ""
+
+msgctxt "10068"
+msgid "P_stand_tlk_phone_st"
+msgstr ""
+
+msgctxt "10072"
+msgid "P_stand_tlk_phone_ed"
+msgstr ""
+
+msgctxt "10076"
+msgid "Talk_Chohatu"
+msgstr ""

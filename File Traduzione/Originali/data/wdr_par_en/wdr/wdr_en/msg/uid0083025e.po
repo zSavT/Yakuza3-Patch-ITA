@@ -1,0 +1,155 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "272"
+msgid ""
+"Feelin' lucky? How 'bout a game of cho-han? Wait a sec,\r\n"
+"you ain't got no tags. Go buy some at the front, then\r\n"
+"come see me."
+msgstr ""
+
+msgctxt "284"
+msgid "This here's cho-han! Wanna give it a try?"
+msgstr ""
+
+msgctxt "296"
+msgid "This here's cho-han! Wanna give it a try?"
+msgstr ""
+
+msgctxt "308"
+msgid "Yeah, I'm feeling lucky today."
+msgstr ""
+
+msgctxt "320"
+msgid "All right!"
+msgstr ""
+
+msgctxt "344"
+msgid "Not right now."
+msgstr ""
+
+msgctxt "356"
+msgid "Well, all right. I hope you'll play next time!"
+msgstr ""
+
+msgctxt "368"
+msgid "Whaddaya wanna know?"
+msgstr ""
+
+msgctxt "380"
+msgid ""
+"Cho-han is a gambling game where players predict whether\r\n"
+"the total value of two dice rolls will end up odd or even."
+msgstr ""
+
+msgctxt "392"
+msgid ""
+"The payout is based on how much you and the other players\r\n"
+"wagered."
+msgstr ""
+
+msgctxt "404"
+msgid ""
+"You can bet on what number will show on one of the two dice.\r\n"
+"If you guess right, you can earn even more tags than by simply guessing odd "
+"or even."
+msgstr ""
+
+msgctxt "416"
+msgid ""
+"You can also bet on which numbers will show on both dice.\r\n"
+"If you guess right, you get all of the money\r\n"
+"in the current pot."
+msgstr ""
+
+msgctxt "428"
+msgid ""
+"To play against the house, first place a bet as to whether\r\n"
+"the numbers will be odd or even. Guess right, and the tags\r\n"
+"you win become your bet against the house. When\r\n"
+"playing against the house, you will guess either odd or\r\n"
+"even. Guess right, and you win double the tags you bet.\r\n"
+"Up to five rolls are possible."
+msgstr ""
+
+msgctxt "440"
+msgid "Play"
+msgstr ""
+
+msgctxt "452"
+msgid "Don't Play"
+msgstr ""
+
+msgctxt "464"
+msgid "Play"
+msgstr ""
+
+msgctxt "476"
+msgid "Don't Play"
+msgstr ""
+
+msgctxt "488"
+msgid "Learn the Rules"
+msgstr ""
+
+msgctxt "500"
+msgid "Ask About Cho-han"
+msgstr ""
+
+msgctxt "512"
+msgid "Ask About Guessing One Die"
+msgstr ""
+
+msgctxt "524"
+msgid "Ask About Guessing Both Dice"
+msgstr ""
+
+msgctxt "536"
+msgid "Ask About Playing Against the House"
+msgstr ""
+
+msgctxt "548"
+msgid "Go Back"
+msgstr ""
+
+msgctxt "3704"
+msgid "Guide"
+msgstr ""
+
+msgctxt "3708"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "3712"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "3716"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "3720"
+msgid "How to Play Cho-Han"
+msgstr ""
+
+msgctxt "3724"
+msgid "Guessing the Number on One Die"
+msgstr ""
+
+msgctxt "3728"
+msgid "Guessing the Numbers on Both Dice"
+msgstr ""
+
+msgctxt "3732"
+msgid "Playing Against the House"
+msgstr ""

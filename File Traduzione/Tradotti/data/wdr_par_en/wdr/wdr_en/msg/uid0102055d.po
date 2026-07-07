@@ -1,0 +1,317 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "116"
+msgid "Baseball!? What in the world were you thinking!?"
+msgstr ""
+
+msgctxt "128"
+msgid "Do you hear me, young man!?"
+msgstr ""
+
+msgctxt "140"
+msgid ""
+"My Akira-chan is a fragile boy! He can't be playing sports\r\n"
+"with you ruffians!"
+msgstr ""
+
+msgctxt "152"
+msgid "What happened, Koji?"
+msgstr ""
+
+msgctxt "164"
+msgid ""
+"Well, um... Akira-kun tripped and hit his head when he was\r\n"
+"running after a fly ball."
+msgstr ""
+
+msgctxt "176"
+msgid ""
+"Running!? Does my Akira-chan look like the kind of boy who\r\n"
+"runs!? How dare you!"
+msgstr ""
+
+msgctxt "188"
+msgid ""
+"I don't see why not. Does he have some kind of health condition that keeps "
+"him from exercising?"
+msgstr ""
+
+msgctxt "200"
+msgid ""
+"Well no, but baseball is absurdly dangerous! I can't believe\r\n"
+"you would let your children play it unsupervised!"
+msgstr ""
+
+msgctxt "212"
+msgid ""
+"How dangerous can it be with a rubber ball and a plastic\r\n"
+"bat? Besides, it's totally normal for kids their age to be\r\n"
+"playing sports on their own."
+msgstr ""
+
+msgctxt "224"
+msgid "...It's okay, Uncle Kaz. This was all my fault. I made Akira-kun do it."
+msgstr ""
+
+msgctxt "236"
+msgid "Hello? What's going on in here?"
+msgstr ""
+
+msgctxt "272"
+msgid ""
+"Oh, Miyamura-san! I rushed over as soon as I heard what\r\n"
+"happened to your son. I'm terribly sorry."
+msgstr ""
+
+msgctxt "284"
+msgid ""
+"Sorry isn't good enough, Hashimoto-sensei! Just what are you\r\n"
+"teaching these children, hm!? The school board is going to\r\n"
+"hear about this, I can promise you that!"
+msgstr ""
+
+msgctxt "296"
+msgid "The school has nothing to do with it."
+msgstr ""
+
+msgctxt "308"
+msgid ""
+"*sigh* Why is it that you always seem to be at the center\r\n"
+"of my problems, Kiryu-san?"
+msgstr ""
+
+msgctxt "320"
+msgid "What was that?"
+msgstr ""
+
+msgctxt "332"
+msgid "Wait. You know this brute, Hashimoto-sensei!?"
+msgstr ""
+
+msgctxt "344"
+msgid ""
+"Not exactly. He runs this orphanage, though. These\r\n"
+"foul-tempered orphans of his caused quite the trouble for\r\n"
+"my son recently."
+msgstr ""
+
+msgctxt "356"
+msgid ""
+"What!? Then is it possible they forced my poor, sweet\r\n"
+"Akira-chan to play that horrible game with them!? I simply\r\n"
+"cannot stand for this!"
+msgstr ""
+
+msgctxt "380"
+msgid ""
+"Well? What do you have to say for yourself, young man?\r\n"
+"This silly game was just an excuse to bully my innocent boy,\r\n"
+"wasn't it!? Tell me the truth!"
+msgstr ""
+
+msgctxt "392"
+msgid "Koji's no bully."
+msgstr ""
+
+msgctxt "404"
+msgid "How am I supposed to believe that after what happened to my Akira-chan!?"
+msgstr ""
+
+msgctxt "416"
+msgid "Police! I want the police here!"
+msgstr ""
+
+msgctxt "428"
+msgid "Yes, ma'am! I'll call them right away!"
+msgstr ""
+
+msgctxt "440"
+msgid "Ungh..."
+msgstr ""
+
+msgctxt "452"
+msgid "Don't worry, Akira-chan! The nice cops will be here soon!"
+msgstr ""
+
+msgctxt "464"
+msgid "K-Koji-kun..."
+msgstr ""
+
+msgctxt "476"
+msgid "Akira-kun."
+msgstr ""
+
+msgctxt "488"
+msgid "I'm so sorry."
+msgstr ""
+
+msgctxt "500"
+msgid ""
+"You guys let me play with you, then I had to go and mess it\r\n"
+"all up."
+msgstr ""
+
+msgctxt "512"
+msgid "It was... fun, though. Baseball."
+msgstr ""
+
+msgctxt "524"
+msgid "Maybe we can play again sometime? Once I get better."
+msgstr ""
+
+msgctxt "536"
+msgid "Of course!"
+msgstr ""
+
+msgctxt "560"
+msgid ""
+"Baseball, Akira-chan? What are you saying!? You must have\r\n"
+"hit your head even harder than you realized!"
+msgstr ""
+
+msgctxt "572"
+msgid ""
+"And don't get any ideas about seeing these awful orphans\r\n"
+"again! I'm forbidding you from ever coming back here!"
+msgstr ""
+
+msgctxt "584"
+msgid ""
+"They're not awful, mom. And they didn't pressure me into\r\n"
+"playing with them. I wanted to."
+msgstr ""
+
+msgctxt "596"
+msgid ""
+"Koji-kun and Taichi-kun are really nice. Way nicer than\r\n"
+"the other kids in my class. So don't be mean to them."
+msgstr ""
+
+msgctxt "608"
+msgid "But Akira-chan!"
+msgstr ""
+
+msgctxt "620"
+msgid ""
+"No, mom. Everyone here gets along so well. Nobody'd ever\r\n"
+"bully me... Not like at school."
+msgstr ""
+
+msgctxt "632"
+msgid "What!? You're being bullied at school!?"
+msgstr ""
+
+msgctxt "644"
+msgid "...Sometimes."
+msgstr ""
+
+msgctxt "656"
+msgid "By who!? Tell me his name!"
+msgstr ""
+
+msgctxt "680"
+msgid "Uncle Kaz!"
+msgstr ""
+
+msgctxt "692"
+msgid "Akira-kun, he...!"
+msgstr ""
+
+msgctxt "11256"
+msgid "Akira's Mom"
+msgstr ""
+
+msgctxt "11260"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "11264"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "11268"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "11272"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "11276"
+msgid "Koji"
+msgstr ""
+
+msgctxt "11280"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "11284"
+msgid "Man's Voice"
+msgstr ""
+
+msgctxt "11288"
+msgid "Hashimoto"
+msgstr ""
+
+msgctxt "11292"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "11296"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "11300"
+msgid "Akira"
+msgstr ""
+
+msgctxt "11304"
+msgid "SetF_nml_sitgrd_seiza_f"
+msgstr ""
+
+msgctxt "11308"
+msgid "SetM_nml_sitgrd_agura_02"
+msgstr ""
+
+msgctxt "11312"
+msgid "M_cld_sitgrd_tlk_seiza_kamae"
+msgstr ""
+
+msgctxt "11316"
+msgid "P_sitgrd_tlk_agura_kamae_st"
+msgstr ""
+
+msgctxt "11320"
+msgid "P_sitgrd_tlk_agura_kamae"
+msgstr ""
+
+msgctxt "11324"
+msgid "C30_SetM_cld_sitgrd_talkC_st"
+msgstr ""
+
+msgctxt "11328"
+msgid "C30_SetM_cld_sitgrd_talkA_lp"
+msgstr ""
+
+msgctxt "11332"
+msgid "Akira's Mother"
+msgstr ""
+
+msgctxt "11336"
+msgid "C30_SetM_cld_sitgrd_talkA_yes"
+msgstr ""
+
+msgctxt "11340"
+msgid "Haruka"
+msgstr ""

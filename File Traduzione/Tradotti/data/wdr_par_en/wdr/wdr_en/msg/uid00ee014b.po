@@ -1,0 +1,196 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "268"
+msgid "It looks like you don't have enough chips to play poker, sir."
+msgstr ""
+
+msgctxt "280"
+msgid "If you'd like to purchase chips, you can do so at the front desk."
+msgstr ""
+
+msgctxt "292"
+msgid "Welcome. Here, you can play Texas hold 'em poker. Would you like to play?"
+msgstr ""
+
+msgctxt "316"
+msgid "Uncle Kaz! Get 3,000 points in poker!"
+msgstr ""
+
+msgctxt "328"
+msgid "(3,000 points in poker... Should I give it a try?)"
+msgstr ""
+
+msgctxt "340"
+msgid "All right, I'll play."
+msgstr ""
+
+msgctxt "352"
+msgid "Very good, sir. Please take your seat."
+msgstr ""
+
+msgctxt "364"
+msgid "Good luck, Uncle Kaz!"
+msgstr ""
+
+msgctxt "388"
+msgid "Not right now."
+msgstr ""
+
+msgctxt "400"
+msgid "Very well. We hope you'll play with us next time."
+msgstr ""
+
+msgctxt "412"
+msgid "But I wanted you to play poker..."
+msgstr ""
+
+msgctxt "424"
+msgid "Uncle Kaz! Get 5,000 points in poker!"
+msgstr ""
+
+msgctxt "436"
+msgid "(5,000 points in poker... Should I give it a try?)"
+msgstr ""
+
+msgctxt "448"
+msgid "All right, I'll play."
+msgstr ""
+
+msgctxt "460"
+msgid "Very good, sir. Please take your seat."
+msgstr ""
+
+msgctxt "472"
+msgid "Good luck, Uncle Kaz!"
+msgstr ""
+
+msgctxt "496"
+msgid "Not right now."
+msgstr ""
+
+msgctxt "508"
+msgid "Very well. We hope you'll play with us next time."
+msgstr ""
+
+msgctxt "520"
+msgid "But I wanted you to play poker..."
+msgstr ""
+
+msgctxt "532"
+msgid "Welcome. Here, you can play Texas hold 'em poker. Would you like to play?"
+msgstr ""
+
+msgctxt "544"
+msgid "Sure, I'll play."
+msgstr ""
+
+msgctxt "556"
+msgid "An excellent choice. What stakes would you like to play for?"
+msgstr ""
+
+msgctxt "568"
+msgid "I'll go with the low stakes."
+msgstr ""
+
+msgctxt "592"
+msgid "Very good, sir. Please take your seat."
+msgstr ""
+
+msgctxt "616"
+msgid "You'll need a minimum of 100 chips to play low-stakes poker, sir."
+msgstr ""
+
+msgctxt "628"
+msgid "I'll go with the high stakes."
+msgstr ""
+
+msgctxt "652"
+msgid "Very good, sir. Please take your seat."
+msgstr ""
+
+msgctxt "676"
+msgid "You'll need a minimum of 1,000 chips to play high-stakes poker, sir."
+msgstr ""
+
+msgctxt "688"
+msgid "Not right now."
+msgstr ""
+
+msgctxt "700"
+msgid "Very well. We hope you'll play with us next time."
+msgstr ""
+
+msgctxt "712"
+msgid "Play"
+msgstr ""
+
+msgctxt "724"
+msgid "Not Now"
+msgstr ""
+
+msgctxt "736"
+msgid "Play"
+msgstr ""
+
+msgctxt "748"
+msgid "Not Now"
+msgstr ""
+
+msgctxt "760"
+msgid "Yes"
+msgstr ""
+
+msgctxt "772"
+msgid "No"
+msgstr ""
+
+msgctxt "784"
+msgid "Low Stakes (5 chips/10 chips)"
+msgstr ""
+
+msgctxt "796"
+msgid "High Stakes (50 chips/100 chips)"
+msgstr ""
+
+msgctxt "5696"
+msgid "Dealer"
+msgstr ""
+
+msgctxt "5700"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "5704"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "5708"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "5712"
+msgid "HAL_stand_tlk_happy_small"
+msgstr ""
+
+msgctxt "5716"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "5720"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "5724"
+msgid "Talk_Think"
+msgstr ""

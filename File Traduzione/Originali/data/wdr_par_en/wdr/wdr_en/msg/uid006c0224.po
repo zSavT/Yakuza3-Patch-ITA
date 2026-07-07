@@ -1,0 +1,236 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "124"
+msgid "Don't think I'm gonna go easy on you, Kiryu-san!"
+msgstr ""
+
+msgctxt "136"
+msgid "We'll see about that."
+msgstr ""
+
+msgctxt "160"
+msgid "Don't think I'm gonna go easy on you, Kiryu-san!"
+msgstr ""
+
+msgctxt "172"
+msgid "Well, shall we go in?"
+msgstr ""
+
+msgctxt "184"
+msgid "...Hold on a second. I just realized I'm short on cash."
+msgstr ""
+
+msgctxt "196"
+msgid "What? Kiryu-san, what do you mean?"
+msgstr ""
+
+msgctxt "208"
+msgid "Sorry..."
+msgstr ""
+
+msgctxt "220"
+msgid ""
+"Oh, okay... Guess that's it, huh? I'm going home. Maybe we can try again "
+"another time."
+msgstr ""
+
+msgctxt "232"
+msgid "(I'd better bring enough cash next time...)"
+msgstr ""
+
+msgctxt "340"
+msgid "Guess I lost... You're great at darts, too, huh?"
+msgstr ""
+
+msgctxt "352"
+msgid "I'm not that special."
+msgstr ""
+
+msgctxt "364"
+msgid ""
+"That was super fun. I hope you'll take me out again. "
+"<Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "376"
+msgid "Later, Kiryu-san. Stop by the club soon, 'kay?"
+msgstr ""
+
+msgctxt "400"
+msgid "Heh, guess I really gave you a run for your money, huh?"
+msgstr ""
+
+msgctxt "412"
+msgid "You weren't bad at all."
+msgstr ""
+
+msgctxt "424"
+msgid ""
+"The best matches are always close ones. Let me know if you ever wanna play "
+"darts again. <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "436"
+msgid "Later, Kiryu-san. Stop by the club soon, 'kay?"
+msgstr ""
+
+msgctxt "460"
+msgid ""
+"I did it! I won! Did you see that, Kiryu-san? Hehehe... I totally walloped "
+"you! <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "472"
+msgid "You sure did."
+msgstr ""
+
+msgctxt "484"
+msgid ""
+"I had tons of fun tonight. Invite me out again sometime. "
+"<Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "496"
+msgid "Later, Kiryu-san. Stop by the club soon, 'kay?"
+msgstr ""
+
+msgctxt "520"
+msgid "Major error! No flags set for conversation selection!"
+msgstr ""
+
+msgctxt "604"
+msgid "Don't think I'm gonna go easy on you, Kiryu-san!"
+msgstr ""
+
+msgctxt "616"
+msgid "We'll see about that."
+msgstr ""
+
+msgctxt "640"
+msgid "Don't think I'm gonna go easy on you, Kiryu-san!"
+msgstr ""
+
+msgctxt "652"
+msgid "Now, shall we?"
+msgstr ""
+
+msgctxt "664"
+msgid "...Hold on a second. I just realized I'm short on cash."
+msgstr ""
+
+msgctxt "676"
+msgid "What? Kiryu-san, what do you mean?"
+msgstr ""
+
+msgctxt "688"
+msgid "Sorry..."
+msgstr ""
+
+msgctxt "700"
+msgid ""
+"Oh, okay... Guess that's it, huh? I'm going home. Maybe we can try again "
+"another time."
+msgstr ""
+
+msgctxt "712"
+msgid "(I'd better bring enough cash next time...)"
+msgstr ""
+
+msgctxt "820"
+msgid "Guess I lost... You're great at darts, too, huh?"
+msgstr ""
+
+msgctxt "832"
+msgid "I'm not that special."
+msgstr ""
+
+msgctxt "844"
+msgid ""
+"That was super fun. I hope you'll take me out again. "
+"<Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "856"
+msgid "Later, Kiryu-san. Stop by the club soon, 'kay?"
+msgstr ""
+
+msgctxt "880"
+msgid "Heh, guess I really gave you a run for your money, huh?"
+msgstr ""
+
+msgctxt "892"
+msgid "You weren't bad at all."
+msgstr ""
+
+msgctxt "904"
+msgid ""
+"The best matches are always close ones. Let me know if you ever wanna play "
+"darts again. <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "916"
+msgid "Later, Kiryu-san. Stop by the club soon, 'kay?"
+msgstr ""
+
+msgctxt "940"
+msgid ""
+"I did it! I won! Did you see that, Kiryu-san? Hehehe... I totally walloped "
+"you! <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "952"
+msgid "You sure did."
+msgstr ""
+
+msgctxt "964"
+msgid ""
+"I had tons of fun tonight. Invite me out again sometime, 'kay? "
+"<Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "976"
+msgid "Later, Kiryu-san. Stop by the club soon, 'kay?"
+msgstr ""
+
+msgctxt "1000"
+msgid "Major error! No flags set for conversation selection!"
+msgstr ""
+
+msgctxt "13688"
+msgid "Kana"
+msgstr ""
+
+msgctxt "13692"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "13696"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "13700"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "13704"
+msgid "dummy"
+msgstr ""
+
+msgctxt "13708"
+msgid "0"
+msgstr ""
+
+msgctxt "13712"
+msgid "Talk_Yes"
+msgstr ""

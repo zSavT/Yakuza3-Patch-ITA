@@ -1,0 +1,206 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "156"
+msgid "Son of a bitch... Let's get outta here!"
+msgstr ""
+
+msgctxt "180"
+msgid "Thank you much."
+msgstr ""
+
+msgctxt "192"
+msgid "Don't mention it."
+msgstr ""
+
+msgctxt "204"
+msgid "Oh, I forget to give you autograph. Here, please take."
+msgstr ""
+
+msgctxt "216"
+msgid "You got Il Yu-Jin's <Color:8>autograph<Color:Default>."
+msgstr ""
+
+msgctxt "228"
+msgid "Wow! That fight was amazing!"
+msgstr ""
+
+msgctxt "240"
+msgid "You're the best, Yu-sama! The best!"
+msgstr ""
+
+msgctxt "252"
+msgid "(I'd better hand over this autograph.)"
+msgstr ""
+
+msgctxt "288"
+msgid "(Whew, I made it.)"
+msgstr ""
+
+msgctxt "300"
+msgid "Give me your autograph, please."
+msgstr ""
+
+msgctxt "312"
+msgid "Wait a minute."
+msgstr ""
+
+msgctxt "324"
+msgid "Is that...? You Kiryu-san, no?"
+msgstr ""
+
+msgctxt "336"
+msgid "(Now that I think about it...)"
+msgstr ""
+
+msgctxt "348"
+msgid "Didn't we meet a few years ago?"
+msgstr ""
+
+msgctxt "360"
+msgid ""
+"Yes! We meet before, Kiryu-san! You show me around Kamurocho then. It nice "
+"to see you again!"
+msgstr ""
+
+msgctxt "372"
+msgid "Heh... I could say the same."
+msgstr ""
+
+msgctxt "384"
+msgid "You come to see me today?"
+msgstr ""
+
+msgctxt "396"
+msgid "You could say that. Why don't we talk over a drink later?"
+msgstr ""
+
+msgctxt "408"
+msgid "That sound good. You take good care of me before."
+msgstr ""
+
+msgctxt "420"
+msgid "Oh, right. Someone asked me to have you sign this. Would you mind?"
+msgstr ""
+
+msgctxt "432"
+msgid "Sorry. Can't say I recognize you."
+msgstr ""
+
+msgctxt "444"
+msgid "Oh... Maybe I mistake for other guy."
+msgstr ""
+
+msgctxt "456"
+msgid "Anyway, can you sign this?"
+msgstr ""
+
+msgctxt "468"
+msgid "Hey!"
+msgstr ""
+
+msgctxt "492"
+msgid "Who are you people?"
+msgstr ""
+
+msgctxt "504"
+msgid ""
+"You're Il Yu-Jin, ain't ya? That Korean star who makes shitloads o' money, "
+"right?"
+msgstr ""
+
+msgctxt "516"
+msgid "What you want from me?"
+msgstr ""
+
+msgctxt "528"
+msgid ""
+"Lemme tell ya, my boss's wife is a real big fan. Might even be your "
+"biggest, pretty boy."
+msgstr ""
+
+msgctxt "540"
+msgid "Oh, that nice..."
+msgstr ""
+
+msgctxt "552"
+msgid ""
+"I was thinkin' you could come with us, and we could give her a little "
+"private interview right now."
+msgstr ""
+
+msgctxt "564"
+msgid "Well, I have big performance to do now... Very sorry, but must be going."
+msgstr ""
+
+msgctxt "576"
+msgid ""
+"Maybe you didn't understand. Or are you tryin' to disrespect us? You're "
+"comin' whether you like it or not, hotshot!"
+msgstr ""
+
+msgctxt "588"
+msgid "The man said no."
+msgstr ""
+
+msgctxt "600"
+msgid "Who the hell is this prick!? Yer fuckin' with the wrong crew, pal!"
+msgstr ""
+
+msgctxt "624"
+msgid "I've met this guy before."
+msgstr ""
+
+msgctxt "636"
+msgid "Nope, never met this guy."
+msgstr ""
+
+msgctxt "5684"
+msgid "Yakuza"
+msgstr ""
+
+msgctxt "5688"
+msgid "Il Yu-Jin"
+msgstr ""
+
+msgctxt "5692"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "5696"
+msgid "Talk_Send"
+msgstr ""
+
+msgctxt "5700"
+msgid "Yu-sama Fan"
+msgstr ""
+
+msgctxt "5704"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "5708"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "5712"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "5716"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "5720"
+msgid "Talk_Odosu"
+msgstr ""

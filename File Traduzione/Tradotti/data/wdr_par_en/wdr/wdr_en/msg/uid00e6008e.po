@@ -1,0 +1,62 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "92"
+msgid ""
+"Turns out the commotion a while ago was part of a struggle for control over "
+"a major yakuza clan that started when its leader was assassinated."
+msgstr ""
+
+msgctxt "104"
+msgid ""
+"That ain't what I heard. I thought some yakuza from Osaka were tryin' to "
+"take over Kamurocho, and it turned into a full-scale war."
+msgstr ""
+
+msgctxt "116"
+msgid ""
+"You're both wrong. They're trying to keep it under wraps, but it was "
+"actually a terrorist attack by an organized crime group from overseas."
+msgstr ""
+
+msgctxt "128"
+msgid "You serious!? This is bigger than I thought..."
+msgstr ""
+
+msgctxt "1032"
+msgid "Know-It-All"
+msgstr ""
+
+msgctxt "1036"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "1040"
+msgid "Knowledgeable Man"
+msgstr ""
+
+msgctxt "1044"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "1048"
+msgid "Man Who Knows the Truth"
+msgstr ""
+
+msgctxt "1052"
+msgid "Talk_NoBig"
+msgstr ""
+
+msgctxt "1056"
+msgid "Talk_Surp"
+msgstr ""

@@ -1,0 +1,104 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "168"
+msgid "(Now that I think about it, didn't I end up with that shady guy's keys?)"
+msgstr ""
+
+msgctxt "180"
+msgid "(Looks like they go with this car.)"
+msgstr ""
+
+msgctxt "192"
+msgid "(Might as well take a look in the trunk.)"
+msgstr ""
+
+msgctxt "216"
+msgid "(What are these? Books?)"
+msgstr ""
+
+msgctxt "264"
+msgid "Didn't your mommy ever teach you not to take other people's toys?"
+msgstr ""
+
+msgctxt "276"
+msgid "Who are you supposed to be?"
+msgstr ""
+
+msgctxt "288"
+msgid ""
+"So you're the guy who stole our keys... It's about time you learned what "
+"happens to thieves!"
+msgstr ""
+
+msgctxt "312"
+msgid "Nah. I'd better not."
+msgstr ""
+
+msgctxt "324"
+msgid "(Yeah, I should take a look inside.)"
+msgstr ""
+
+msgctxt "336"
+msgid "(Might as well take a look inside.)"
+msgstr ""
+
+msgctxt "360"
+msgid "(What are these? Books?)"
+msgstr ""
+
+msgctxt "408"
+msgid "Didn't your mommy ever teach you not to take other people's toys?"
+msgstr ""
+
+msgctxt "420"
+msgid "Who are you supposed to be?"
+msgstr ""
+
+msgctxt "432"
+msgid ""
+"So you're the guy who stole our keys... It's about time you learned what "
+"happens to thieves!"
+msgstr ""
+
+msgctxt "456"
+msgid "No... I think you're the ones who are about to learn something."
+msgstr ""
+
+msgctxt "468"
+msgid "Open the Trunk"
+msgstr ""
+
+msgctxt "480"
+msgid "Forget It"
+msgstr ""
+
+msgctxt "492"
+msgid "Open the Trunk"
+msgstr ""
+
+msgctxt "504"
+msgid "Forget It"
+msgstr ""
+
+msgctxt "2924"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "2928"
+msgid "Man in Black Suit"
+msgstr ""
+
+msgctxt "2932"
+msgid "Talk_Angry"
+msgstr ""

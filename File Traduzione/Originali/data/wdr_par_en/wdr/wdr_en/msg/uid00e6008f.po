@@ -1,0 +1,48 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "92"
+msgid ""
+"Business has really picked up since the Omi Alliance pulled out. I should "
+"be able to pay my debts now."
+msgstr ""
+
+msgctxt "104"
+msgid "That's good to hear."
+msgstr ""
+
+msgctxt "116"
+msgid ""
+"That whole mess taught us a lot. We now know that we have to fight to "
+"protect our homes and businesses!"
+msgstr ""
+
+msgctxt "128"
+msgid "We're going to bring Kamurocho back to the way it used to be! Just you wait!"
+msgstr ""
+
+msgctxt "780"
+msgid "Formerly Struggling Owner"
+msgstr ""
+
+msgctxt "784"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "788"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "792"
+msgid "Talk_OK"
+msgstr ""

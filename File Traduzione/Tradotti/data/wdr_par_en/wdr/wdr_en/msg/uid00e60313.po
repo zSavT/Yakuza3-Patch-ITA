@@ -1,0 +1,111 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "92"
+msgid ""
+"*sigh* I've always wanted to try a glass of goya juice from here... Guess "
+"that's not happening."
+msgstr ""
+
+msgctxt "104"
+msgid ""
+"This shop's been closed, like... forever, hasn't it? I wonder why? It's in "
+"the perfect spot."
+msgstr ""
+
+msgctxt "116"
+msgid ""
+"Oh, my grandpa told me about it before. He said their juice\r\n"
+"was so healthy that it could heal any sickness."
+msgstr ""
+
+msgctxt "128"
+msgid "Whoa... How come it closed, then?"
+msgstr ""
+
+msgctxt "140"
+msgid ""
+"Maybe this <Color:7>Mythical Goya Juice<Color:Default> was so incredibly "
+"harsh on the tongue that nobody could drink it. After all, it is goya we're "
+"talking about."
+msgstr ""
+
+msgctxt "152"
+msgid ""
+"Did you know that goya's good stir-fried if you add a little mayonnaise? "
+"That cancels out the bitter taste."
+msgstr ""
+
+msgctxt "164"
+msgid ""
+"Are you nuts? The whole point of eating goya is because it's so bitter! "
+"That's why it's called bitter melon!"
+msgstr ""
+
+msgctxt "176"
+msgid ""
+"Anyway, enough with all this goya gobbledygook. This place is gone for "
+"good, so let's just grab some goya burgers instead!"
+msgstr ""
+
+msgctxt "200"
+msgid "(Mythical Goya Juice, huh... Wonder if it's any good.)"
+msgstr ""
+
+msgctxt "224"
+msgid "Is anybody there!? I wanna get some goya juice!"
+msgstr ""
+
+msgctxt "236"
+msgid "(Looks like that kid wants to try some of that Mythical Goya Juice himself.)"
+msgstr ""
+
+msgctxt "2848"
+msgid "Haruko"
+msgstr ""
+
+msgctxt "2852"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "2856"
+msgid "Hozumi"
+msgstr ""
+
+msgctxt "2860"
+msgid "Chisato"
+msgstr ""
+
+msgctxt "2864"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "2868"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "2872"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "2876"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "2880"
+msgid "Child"
+msgstr ""
+
+msgctxt "2884"
+msgid "Talk_Think"
+msgstr ""

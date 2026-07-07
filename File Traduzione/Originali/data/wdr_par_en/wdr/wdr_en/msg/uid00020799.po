@@ -1,0 +1,150 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "204"
+msgid ""
+"Excuse me! Have either of you seen a tall, skinny man\r\n"
+"with glasses around here!?"
+msgstr ""
+
+msgctxt "216"
+msgid "No, I haven't. What's going on? Why the big fuss?"
+msgstr ""
+
+msgctxt "228"
+msgid ""
+"One of my subordinates left a message on my cell, saying\r\n"
+"he was going to jump off the Millennium Tower and kill\r\n"
+"himself!"
+msgstr ""
+
+msgctxt "240"
+msgid ""
+"But sir, Akimoto just came back from a vacation with his\r\n"
+"fiancée. Shouldn't he be on cloud nine?"
+msgstr ""
+
+msgctxt "252"
+msgid ""
+"This is Akimoto we're talking about. You know how\r\n"
+"unpredictable he can be. I swear, that man's caused me\r\n"
+"more trouble than anyone I know..."
+msgstr ""
+
+msgctxt "264"
+msgid ""
+"Hey, Uncle Kaz. Do you think this Akimoto-san is the same\r\n"
+"one we know...?"
+msgstr ""
+
+msgctxt "276"
+msgid "I really hope it isn't, but you're probably right..."
+msgstr ""
+
+msgctxt "288"
+msgid "Should we go check it out?"
+msgstr ""
+
+msgctxt "300"
+msgid ""
+"I don't think we can. Only authorized personnel can enter\r\n"
+"the Millennium Tower..."
+msgstr ""
+
+msgctxt "312"
+msgid "Uncle Kaz... What should we do?"
+msgstr ""
+
+msgctxt "324"
+msgid "Please help Akimoto! I've got no one else to turn to!"
+msgstr ""
+
+msgctxt "336"
+msgid "Uncle Kaz... What should we do?"
+msgstr ""
+
+msgctxt "348"
+msgid "I'm sure he's fine."
+msgstr ""
+
+msgctxt "360"
+msgid "Mmm, I dunno..."
+msgstr ""
+
+msgctxt "372"
+msgid "Let's go check it out."
+msgstr ""
+
+msgctxt "384"
+msgid "Yeah! Good idea, Uncle Kaz!"
+msgstr ""
+
+msgctxt "408"
+msgid "Let's go check it out."
+msgstr ""
+
+msgctxt "420"
+msgid "I'm sure he's fine."
+msgstr ""
+
+msgctxt "432"
+msgid "Let's go check it out."
+msgstr ""
+
+msgctxt "444"
+msgid "I'm sure he's fine."
+msgstr ""
+
+msgctxt "3916"
+msgid "Idle"
+msgstr ""
+
+msgctxt "3920"
+msgid "Managerial Man"
+msgstr ""
+
+msgctxt "3924"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "3928"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "3932"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "3936"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "3940"
+msgid "Co-worker"
+msgstr ""
+
+msgctxt "3944"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "3948"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "3952"
+msgid "Akimoto's Boss"
+msgstr ""
+
+msgctxt "3956"
+msgid "Talk_Quest"
+msgstr ""

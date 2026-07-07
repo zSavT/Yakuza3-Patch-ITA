@@ -1,0 +1,72 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "124"
+msgid "Hey, maybe I can get an interview here!"
+msgstr ""
+
+msgctxt "136"
+msgid "Whew! Suits sure are expensive."
+msgstr ""
+
+msgctxt "148"
+msgid "Maybe I should make Ibuki some tea."
+msgstr ""
+
+msgctxt "160"
+msgid "\"Baby Seal Rescued.\" Aww..."
+msgstr ""
+
+msgctxt "172"
+msgid "Maybe I oughta order some shoes...?"
+msgstr ""
+
+msgctxt "184"
+msgid "Whoa. Never heard of a job like that!"
+msgstr ""
+
+msgctxt "196"
+msgid "Huh. I didn't know I could vote..."
+msgstr ""
+
+msgctxt "208"
+msgid "Let's see what my horoscope says."
+msgstr ""
+
+msgctxt "220"
+msgid "Huh? A toll number? Hm... No connection."
+msgstr ""
+
+msgctxt "232"
+msgid "My stun gun order's been canceled!?"
+msgstr ""
+
+msgctxt "244"
+msgid "Whoa! This Internet thing is so cool!"
+msgstr ""
+
+msgctxt "256"
+msgid "Think I'll order some manga."
+msgstr ""
+
+msgctxt "268"
+msgid "Ooh, a murder... Freaky, man..."
+msgstr ""
+
+msgctxt "280"
+msgid "Huh? Virus detector?"
+msgstr ""
+
+msgctxt "292"
+msgid "Crap! I spilled my soda..."
+msgstr ""

@@ -1,0 +1,168 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "80"
+msgid "What's crack-a-lacking, Kiryu-san!"
+msgstr ""
+
+msgctxt "92"
+msgid ""
+"I, uh... Not much, Mack. You ever get that perfect shot you\r\n"
+"were looking for?"
+msgstr ""
+
+msgctxt "104"
+msgid ""
+"Can't say I did. I've been scouring every last corner of\r\n"
+"this town, but all I've come up with is big fat fistfuls of nothing."
+msgstr ""
+
+msgctxt "116"
+msgid "Sorry to hear that."
+msgstr ""
+
+msgctxt "128"
+msgid ""
+"I guess you can't expect opportunity to just fall into your\r\n"
+"lap, though. Let me know if I can help."
+msgstr ""
+
+msgctxt "140"
+msgid "Appreciate that to heaven and high above, Kiryu-san."
+msgstr ""
+
+msgctxt "152"
+msgid ""
+"Hey, by the way. You mentioned some place you wanted to\r\n"
+"take me last time?"
+msgstr ""
+
+msgctxt "164"
+msgid "Think you can elaborate?"
+msgstr ""
+
+msgctxt "176"
+msgid ""
+"Oh snap, Kiryu-san! That whole thing just up and slipped my\r\n"
+"mind! You bet I'll elaborate!"
+msgstr ""
+
+msgctxt "188"
+msgid ""
+"It's the hippest, swankiest, rough-and-tumblest joint this\r\n"
+"side of the Sea of Japan! And yours truly just so happens to have a buddy "
+"bringing home the bacon over there!"
+msgstr ""
+
+msgctxt "200"
+msgid "You're... saying he works there, right?"
+msgstr ""
+
+msgctxt "212"
+msgid ""
+"Dang skippy! Oh, I almost forgot to tell you what it's called... Purgatory! "
+"Kinda scary-sounding, huh?"
+msgstr ""
+
+msgctxt "224"
+msgid "...Did you just say Purgatory?"
+msgstr ""
+
+msgctxt "236"
+msgid ""
+"Look, I know the name kinda gives you the heebie-jeebies,\r\n"
+"but don't doubt good old Mack! I haven't breathed a sweeter\r\n"
+"sip of air than when I first stepped foot in that place!"
+msgstr ""
+
+msgctxt "248"
+msgid ""
+"Anyway, I get the feeling my perfect shot's just around the\r\n"
+"corner!"
+msgstr ""
+
+msgctxt "260"
+msgid ""
+"And by around the corner, I of course mean through some weird\r\n"
+"door in a bathroom stall!"
+msgstr ""
+
+msgctxt "272"
+msgid ""
+"Well, Kiryu-san, gotta run! I'll tell my Purgatory pal\r\n"
+"you're coming, so stop by if you can muster up the courage!"
+msgstr ""
+
+msgctxt "308"
+msgid "Wait, Mack!"
+msgstr ""
+
+msgctxt "320"
+msgid "He's... something."
+msgstr ""
+
+msgctxt "332"
+msgid "I guess I could swing by Purgatory when I have the time."
+msgstr ""
+
+msgctxt "5028"
+msgid "Mack"
+msgstr ""
+
+msgctxt "5032"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "5036"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "5040"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "5044"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "5048"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "5052"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "5056"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "5060"
+msgid "Talk_Kansin"
+msgstr ""
+
+msgctxt "5064"
+msgid "P_stand_tlk_kosite_st"
+msgstr ""
+
+msgctxt "5068"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "5072"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "5076"
+msgid "P_stand_tlk_kosite_yes"
+msgstr ""

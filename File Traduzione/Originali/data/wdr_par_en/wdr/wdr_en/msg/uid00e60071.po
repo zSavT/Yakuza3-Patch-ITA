@@ -1,0 +1,260 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "488"
+msgid ""
+"You gotta relax, man! Lucky for you, we got a special today! 5,000 yen for "
+"all you can drink!"
+msgstr ""
+
+msgctxt "500"
+msgid "And on top of that, you can pick any babe you want! How about it?"
+msgstr ""
+
+msgctxt "512"
+msgid "That's too much. Lower the price, and maybe I'll think about it."
+msgstr ""
+
+msgctxt "524"
+msgid "Don't be like that, man..."
+msgstr ""
+
+msgctxt "536"
+msgid "Well, I'm sold. Lead the way."
+msgstr ""
+
+msgctxt "548"
+msgid ""
+"You're gonna love it, my man!\r\n"
+"Right this way!"
+msgstr ""
+
+msgctxt "584"
+msgid "Back again, huh? I can tell you're lookin' for a good time, my man!"
+msgstr ""
+
+msgctxt "596"
+msgid ""
+"Lemme give it to you straight, chief. You look like a guy who knows what "
+"he's about."
+msgstr ""
+
+msgctxt "608"
+msgid ""
+"Tell you what⑬two hot chicks, and all you can drink for 5,000 yen! Sound "
+"good?"
+msgstr ""
+
+msgctxt "620"
+msgid "Still too rich for my blood. You're not gonna add anything else?"
+msgstr ""
+
+msgctxt "632"
+msgid "You're killin' me here..."
+msgstr ""
+
+msgctxt "644"
+msgid "Sounds good. Lead the way."
+msgstr ""
+
+msgctxt "656"
+msgid "You're gonna love it, my man! Right this way!"
+msgstr ""
+
+msgctxt "692"
+msgid ""
+"You've been cruisin' around here a while. What business you in? Not "
+"scouting for hostesses, are ya?"
+msgstr ""
+
+msgctxt "704"
+msgid ""
+"If you're not, then... how about you drop by our club and join the party? "
+"You want a cold drink? Or maybe a hot girl?"
+msgstr ""
+
+msgctxt "716"
+msgid ""
+"All you gotta do is come pick a girl, and I personally guarantee you'll get "
+"a date with her afterwards."
+msgstr ""
+
+msgctxt "728"
+msgid "Not at that price. Unless you throw a couple more bonuses in."
+msgstr ""
+
+msgctxt "740"
+msgid "Man, work with me here..."
+msgstr ""
+
+msgctxt "752"
+msgid "Sounds good. Lead the way."
+msgstr ""
+
+msgctxt "764"
+msgid "You're gonna love it, my man! Right this way!"
+msgstr ""
+
+msgctxt "800"
+msgid ""
+"Good clubs are hard to find, know what I mean? But we've got it all. Check "
+"this out..."
+msgstr ""
+
+msgctxt "812"
+msgid ""
+"You want extended time? I can get you extended time. Two whole hours for "
+"just 1,000 yen. Can't beat that!"
+msgstr ""
+
+msgctxt "824"
+msgid ""
+"You see, buddy? I got you a personal special discount! So come party at our "
+"club, okay?"
+msgstr ""
+
+msgctxt "836"
+msgid "1,000 yen, huh...? Not bad, but I could find cheaper."
+msgstr ""
+
+msgctxt "848"
+msgid "Are you kidding, man...?"
+msgstr ""
+
+msgctxt "860"
+msgid "Well, I'm sold. Lead the way."
+msgstr ""
+
+msgctxt "872"
+msgid "You're gonna love it, my man! Right this way!"
+msgstr ""
+
+msgctxt "908"
+msgid ""
+"Okay, man, bear with me here. Just for you, just cause I like you, I'll "
+"lower the price to... zero!"
+msgstr ""
+
+msgctxt "920"
+msgid ""
+"That's right! All that good shit? 100％ free! 'Cause I know you'll dig the "
+"club so much, you'll end up a regular!"
+msgstr ""
+
+msgctxt "932"
+msgid "First time's free, buddy! So you're gonna come party, right!?"
+msgstr ""
+
+msgctxt "944"
+msgid "Free, huh? Can't be all that good, then. Thanks, but no thanks."
+msgstr ""
+
+msgctxt "956"
+msgid "You serious, man...? But..."
+msgstr ""
+
+msgctxt "968"
+msgid "Sounds good. Lead the way."
+msgstr ""
+
+msgctxt "980"
+msgid "You're gonna love it, my man! Right this way!"
+msgstr ""
+
+msgctxt "1016"
+msgid "Too expensive."
+msgstr ""
+
+msgctxt "1028"
+msgid "Lead the way."
+msgstr ""
+
+msgctxt "1040"
+msgid "Too expensive."
+msgstr ""
+
+msgctxt "1052"
+msgid "Lead the way."
+msgstr ""
+
+msgctxt "1064"
+msgid "Too expensive."
+msgstr ""
+
+msgctxt "1076"
+msgid "Lead the way."
+msgstr ""
+
+msgctxt "1088"
+msgid "Too expensive."
+msgstr ""
+
+msgctxt "1100"
+msgid "Lead the way."
+msgstr ""
+
+msgctxt "1112"
+msgid "Not interested."
+msgstr ""
+
+msgctxt "1124"
+msgid "Lead the way."
+msgstr ""
+
+msgctxt "8536"
+msgid "Barker"
+msgstr ""
+
+msgctxt "8540"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "8544"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "8548"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "8552"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "8556"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "8560"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "8564"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "8568"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "8572"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "8576"
+msgid "Talk_Request"
+msgstr ""
+
+msgctxt "8580"
+msgid "Talk_Think"
+msgstr ""

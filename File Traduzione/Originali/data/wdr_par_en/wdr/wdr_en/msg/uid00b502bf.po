@@ -1,0 +1,101 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "92"
+msgid ""
+"Did you hear why Takahashi-kun hasn't been coming to school\r\n"
+"lately? They say the Devil Cat got him."
+msgstr ""
+
+msgctxt "104"
+msgid "You mean the one that creeps up from behind and haunts you till you're dead?"
+msgstr ""
+
+msgctxt "116"
+msgid ""
+"Uh-huh. They say that if it ends up following you, a horrible tragedy is "
+"bound to happen."
+msgstr ""
+
+msgctxt "128"
+msgid ""
+"Well, Takahashi-kun is in the hospital... Heard he got caught up in a fight "
+"or something. You think it's the Devil Cat's fault?"
+msgstr ""
+
+msgctxt "140"
+msgid "It has to be! I'm telling you, that cat is nothing but bad luck!"
+msgstr ""
+
+msgctxt "152"
+msgid "Stop it, Haruko. If the Devil Cat hears you, it'll come for you next!"
+msgstr ""
+
+msgctxt "164"
+msgid ""
+"That's really too bad, 'cause I love felines. By the way,\r\n"
+"don't a lot of cats gather in front of Aqua Sky behind the\r\n"
+"station?"
+msgstr ""
+
+msgctxt "176"
+msgid "Oh yeah, the owner's always putting catnip out so lots end up over there."
+msgstr ""
+
+msgctxt "188"
+msgid "Maybe the Devil Cat's there, too, rubbing tails with the others. Ahahaha."
+msgstr ""
+
+msgctxt "236"
+msgid "(A Devil Cat that brings bad luck? That's absurd.)"
+msgstr ""
+
+msgctxt "2820"
+msgid "Haruko"
+msgstr ""
+
+msgctxt "2824"
+msgid "Talk_Kansin"
+msgstr ""
+
+msgctxt "2828"
+msgid "Chisato"
+msgstr ""
+
+msgctxt "2832"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "2836"
+msgid "Hozumi"
+msgstr ""
+
+msgctxt "2840"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "2844"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "2848"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "2852"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "2856"
+msgid "Talk_Think"
+msgstr ""

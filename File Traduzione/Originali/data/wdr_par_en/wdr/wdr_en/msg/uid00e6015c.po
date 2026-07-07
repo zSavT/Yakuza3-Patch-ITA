@@ -1,0 +1,174 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "136"
+msgid "(Psst! Hey, you! You here to play darts, man?)"
+msgstr ""
+
+msgctxt "148"
+msgid "Who are you?"
+msgstr ""
+
+msgctxt "160"
+msgid "(The name's Masaki. Listen, you see that girl over there?)"
+msgstr ""
+
+msgctxt "184"
+msgid ""
+"(It took a lot for her to go out with me, so now I gotta make sure I "
+"impress her.)"
+msgstr ""
+
+msgctxt "196"
+msgid ""
+"(Please, if you could just lose a game of darts against me, I'll definitely "
+"make it worth your while! I promise!)"
+msgstr ""
+
+msgctxt "208"
+msgid "Better ask somebody else."
+msgstr ""
+
+msgctxt "220"
+msgid ""
+"(Urk... But you're my only hope! Think it over, okay? And come back if you "
+"change your mind.)"
+msgstr ""
+
+msgctxt "268"
+msgid "Well, all right. I guess I could stand a game."
+msgstr ""
+
+msgctxt "280"
+msgid "(Thank you so much! Could you come over here for a sec?)"
+msgstr ""
+
+msgctxt "352"
+msgid ""
+"Kanae-chan? This guy wants to play darts, so I'm just gonna have a quick "
+"round with him, okay?"
+msgstr ""
+
+msgctxt "364"
+msgid "Oh, okay. I didn't know you could play darts, Masaki-kun."
+msgstr ""
+
+msgctxt "376"
+msgid ""
+"Sure I can! I don't wanna brag, but I'm pretty famous for it around these "
+"parts."
+msgstr ""
+
+msgctxt "388"
+msgid ""
+"Anyhow, I better go get ready! Gotta check the shafts and flights, and "
+"stuff. I'll be right back."
+msgstr ""
+
+msgctxt "412"
+msgid "(Excuse me, but... did he ask you to lose on purpose?)"
+msgstr ""
+
+msgctxt "424"
+msgid "You're pretty sharp."
+msgstr ""
+
+msgctxt "436"
+msgid ""
+"He probably just wants to show off. That's what he always does, and I'm "
+"kind of sick of it."
+msgstr ""
+
+msgctxt "448"
+msgid "Would you beat the pants off him? Maybe that'll teach him a lesson."
+msgstr ""
+
+msgctxt "460"
+msgid "......"
+msgstr ""
+
+msgctxt "472"
+msgid "Oops! He's coming back. Don't forget what I said, okay?"
+msgstr ""
+
+msgctxt "508"
+msgid "My darts are ready for action. How about you? Ready to get started?"
+msgstr ""
+
+msgctxt "520"
+msgid "We'll play a game of '01. Ready? Let's go!"
+msgstr ""
+
+msgctxt "544"
+msgid "Accept."
+msgstr ""
+
+msgctxt "556"
+msgid "Refuse."
+msgstr ""
+
+msgctxt "5412"
+msgid "Cocky Man"
+msgstr ""
+
+msgctxt "5416"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "5420"
+msgid "Masaki"
+msgstr ""
+
+msgctxt "5424"
+msgid "Idle"
+msgstr ""
+
+msgctxt "5428"
+msgid "Talk_Request"
+msgstr ""
+
+msgctxt "5432"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "5436"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "5440"
+msgid "dummy"
+msgstr ""
+
+msgctxt "5444"
+msgid "0"
+msgstr ""
+
+msgctxt "5448"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "5452"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "5456"
+msgid "Kanae"
+msgstr ""
+
+msgctxt "5460"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "5464"
+msgid "Talk_Think"
+msgstr ""

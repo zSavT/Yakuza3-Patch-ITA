@@ -1,0 +1,64 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "244"
+msgid "(Okay, I think I'll give it a try.)"
+msgstr ""
+
+msgctxt "268"
+msgid "(I don't have enough money...)"
+msgstr ""
+
+msgctxt "280"
+msgid "(Maybe later...)"
+msgstr ""
+
+msgctxt "292"
+msgid "Play"
+msgstr ""
+
+msgctxt "304"
+msgid "説明を読む"
+msgstr ""
+
+msgctxt "316"
+msgid "Never Mind"
+msgstr ""
+
+msgctxt "1284"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1288"
+msgid "AnswerxAnswer"
+msgstr ""
+
+msgctxt "1292"
+msgid "Answer×Answer　早押しクイズ"
+msgstr ""
+
+msgctxt "1296"
+msgid "Answer×Answer　早押し連想クイズ"
+msgstr ""
+
+msgctxt "1300"
+msgid "Answer×Answer　チキンレースクイズ"
+msgstr ""
+
+msgctxt "1304"
+msgid "Answer×Answer　多答フィニッシュクイズ"
+msgstr ""
+
+msgctxt "1308"
+msgid "Talk_Yes"
+msgstr ""

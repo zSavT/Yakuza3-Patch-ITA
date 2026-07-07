@@ -1,0 +1,111 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "76"
+msgid ""
+"Mind if I dip out for a bit, Aniki? I wanna make sure Natsumi gets back to "
+"the club safe and sound."
+msgstr ""
+
+msgctxt "88"
+msgid "Sure, go right ahead."
+msgstr ""
+
+msgctxt "148"
+msgid "Thanks for waiting, Aniki."
+msgstr ""
+
+msgctxt "160"
+msgid "Rikiya. When did you figure out that was really Natsumi?"
+msgstr ""
+
+msgctxt "172"
+msgid ""
+"Well, back when I was first handing her the pendant, I noticed a scar on "
+"her right palm."
+msgstr ""
+
+msgctxt "184"
+msgid "And that's how you knew?"
+msgstr ""
+
+msgctxt "208"
+msgid ""
+"Yup. It's from back when we were kids. She cut her hand on a piece of coral "
+"while we were out swimming together. I had to bring her to the hospital and "
+"everythin'."
+msgstr ""
+
+msgctxt "220"
+msgid ""
+"I don't think I gotta tell you that those kinds of scars don't really go "
+"away."
+msgstr ""
+
+msgctxt "232"
+msgid "So when I saw it there on her hand, I instantly knew it was Natsumi."
+msgstr ""
+
+msgctxt "256"
+msgid ""
+"Heh, you're more perceptive than you look, Rikiya. So, how about a drink? I "
+"think we could both unwind a bit after all that."
+msgstr ""
+
+msgctxt "268"
+msgid "I'm down if you're down! Lead the way, Aniki!"
+msgstr ""
+
+msgctxt "304"
+msgid "You got 10,000 EXP."
+msgstr ""
+
+msgctxt "3680"
+msgid "Rikiya"
+msgstr ""
+
+msgctxt "3684"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "3688"
+msgid "Idle"
+msgstr ""
+
+msgctxt "3692"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "3696"
+msgid "Talk_Kosite_st"
+msgstr ""
+
+msgctxt "3700"
+msgid "se_a_at_C22_0010_s221"
+msgstr ""
+
+msgctxt "3704"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "3708"
+msgid "Talk_Kosite_ed"
+msgstr ""
+
+msgctxt "3712"
+msgid "dummy"
+msgstr ""
+
+msgctxt "3716"
+msgid "0"
+msgstr ""

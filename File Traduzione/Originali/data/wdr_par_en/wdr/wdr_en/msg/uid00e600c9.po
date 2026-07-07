@@ -1,0 +1,32 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid "Hey, Uncle Kaz. You have to take me to Tokyo someday, too!"
+msgstr ""
+
+msgctxt "76"
+msgid "Be good and I will. Someday."
+msgstr ""
+
+msgctxt "88"
+msgid "Okay, I'll be good. Remember, you promised!"
+msgstr ""
+
+msgctxt "484"
+msgid "Eri"
+msgstr ""
+
+msgctxt "488"
+msgid "Kiryu"
+msgstr ""

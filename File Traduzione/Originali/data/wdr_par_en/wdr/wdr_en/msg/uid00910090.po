@@ -1,0 +1,214 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "136"
+msgid "......"
+msgstr ""
+
+msgctxt "148"
+msgid "You're coming with me. Deal with it."
+msgstr ""
+
+msgctxt "160"
+msgid "......"
+msgstr ""
+
+msgctxt "172"
+msgid ""
+"I heard you murdered your friends. Why would you do\r\n"
+"something like that?"
+msgstr ""
+
+msgctxt "184"
+msgid "It wasn't me."
+msgstr ""
+
+msgctxt "196"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "208"
+msgid "I didn't kill 'em."
+msgstr ""
+
+msgctxt "220"
+msgid ""
+"This guy I never met attacked us out of nowhere! He\r\n"
+"killed off all my friends, one by one."
+msgstr ""
+
+msgctxt "232"
+msgid "So someone else is the real killer, then?"
+msgstr ""
+
+msgctxt "244"
+msgid ""
+"I barely escaped with my life. That guy laughed the\r\n"
+"whole time he was killing 'em!"
+msgstr ""
+
+msgctxt "256"
+msgid "I haven't been able to stop laughing ever since."
+msgstr ""
+
+msgctxt "268"
+msgid ""
+"On top of it all, my family thought I killed 'em, so they\r\n"
+"kicked me out. I didn't have anywhere to go..."
+msgstr ""
+
+msgctxt "280"
+msgid "Is that so..."
+msgstr ""
+
+msgctxt "292"
+msgid ""
+"You probably don't believe me, but⑬ Hey, wait a minute.\r\n"
+"I stopped laughing!"
+msgstr ""
+
+msgctxt "304"
+msgid "Yeah. I guess you did."
+msgstr ""
+
+msgctxt "316"
+msgid ""
+"That's weird. My head feels clearer now, too. Even after\r\n"
+"that bashing. Crazy, huh?"
+msgstr ""
+
+msgctxt "328"
+msgid "I dunno why, but I feel tired all of a sudden..."
+msgstr ""
+
+msgctxt "340"
+msgid ""
+"Why don't you go visit the Honest Living Association now?\r\n"
+"You can rest there."
+msgstr ""
+
+msgctxt "352"
+msgid "Yeah, okay. I'll do that..."
+msgstr ""
+
+msgctxt "412"
+msgid "Bwehehe..."
+msgstr ""
+
+msgctxt "424"
+msgid "Bwehehe... Hehe..."
+msgstr ""
+
+msgctxt "436"
+msgid "Hey there. Are you Kengo?"
+msgstr ""
+
+msgctxt "448"
+msgid "Bwehehe..."
+msgstr ""
+
+msgctxt "460"
+msgid "I asked you a question. You're the Reaper Kengo, right?"
+msgstr ""
+
+msgctxt "472"
+msgid "That's right... Bwehehe..."
+msgstr ""
+
+msgctxt "484"
+msgid "We've got some questions for you. You're coming with me."
+msgstr ""
+
+msgctxt "496"
+msgid "Questions about the Reapers? I ain't talkin'. Bwehehe!"
+msgstr ""
+
+msgctxt "508"
+msgid "I'll drag you there if I have to."
+msgstr ""
+
+msgctxt "520"
+msgid "Bwehehe... Drag me? You think you can catch me, do ya?"
+msgstr ""
+
+msgctxt "532"
+msgid "Yeah."
+msgstr ""
+
+msgctxt "544"
+msgid "You're gonna catch me... I'm gonna get caught...?"
+msgstr ""
+
+msgctxt "556"
+msgid "......"
+msgstr ""
+
+msgctxt "568"
+msgid "Yaaaaaaaaaaaaah!"
+msgstr ""
+
+msgctxt "580"
+msgid "Bweh heh. Stay back... Stay back, I tell ya!"
+msgstr ""
+
+msgctxt "5512"
+msgid "Kengo the Madman"
+msgstr ""
+
+msgctxt "5516"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "5520"
+msgid "Talk_Udekumi_st"
+msgstr ""
+
+msgctxt "5524"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "5528"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "5532"
+msgid "Talk_Udekumi_ed"
+msgstr ""
+
+msgctxt "5536"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "5540"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "5544"
+msgid "P_stand_tlk_phone_st"
+msgstr ""
+
+msgctxt "5548"
+msgid "Idle"
+msgstr ""
+
+msgctxt "5552"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "5556"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "5560"
+msgid "Talk_Angry"
+msgstr ""

@@ -1,0 +1,142 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid "I don't wanna fuckin' hear it. Get the hell outta here!"
+msgstr ""
+
+msgctxt "76"
+msgid "(What was that? It sounded like it came from the alley.)"
+msgstr ""
+
+msgctxt "100"
+msgid ""
+"Ibuki, you bastard... If you ever poke your nose where it\r\n"
+"doesn't belong again, it'll be the last thing you ever do!"
+msgstr ""
+
+msgctxt "112"
+msgid ""
+"Enough of this! Doing this to me isn't going to change\r\n"
+"anything!"
+msgstr ""
+
+msgctxt "124"
+msgid "Shut yer yap!"
+msgstr ""
+
+msgctxt "184"
+msgid "Ugh..."
+msgstr ""
+
+msgctxt "196"
+msgid ""
+"This is your last warning. Don't ever show your face\r\n"
+"around here again!"
+msgstr ""
+
+msgctxt "220"
+msgid "Hey, you all right?"
+msgstr ""
+
+msgctxt "232"
+msgid "Yeah... Thanks for stopping."
+msgstr ""
+
+msgctxt "244"
+msgid "You're hurt. Do you need help?"
+msgstr ""
+
+msgctxt "256"
+msgid "Don't worry. It's nothing... Wait! Are you... Kiryu-san!?"
+msgstr ""
+
+msgctxt "268"
+msgid "You know me?"
+msgstr ""
+
+msgctxt "280"
+msgid ""
+"I used to be a member of the Dojima Family. My name is\r\n"
+"Ibuki."
+msgstr ""
+
+msgctxt "292"
+msgid "Ibuki...? Sorry, but I don't remember you."
+msgstr ""
+
+msgctxt "304"
+msgid ""
+"Back then, I was just a flunky, so it's not surprising you\r\n"
+"don't remember me."
+msgstr ""
+
+msgctxt "316"
+msgid "Is that right? ...Sorry. I don't remember."
+msgstr ""
+
+msgctxt "328"
+msgid ""
+"No, it's fine. It was over ten years ago...\r\n"
+"Gah!"
+msgstr ""
+
+msgctxt "340"
+msgid ""
+"Hey, you don't look so good. I can't just leave you here. I'll make sure "
+"you get home safe."
+msgstr ""
+
+msgctxt "352"
+msgid "Thank you... Thank you so much."
+msgstr ""
+
+msgctxt "3756"
+msgid "Shouting Man"
+msgstr ""
+
+msgctxt "3760"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "3764"
+msgid "Murderous Man"
+msgstr ""
+
+msgctxt "3768"
+msgid "Supposedly Ibuki"
+msgstr ""
+
+msgctxt "3772"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "3776"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "3780"
+msgid "M_ykzs_damage"
+msgstr ""
+
+msgctxt "3784"
+msgid "Talk_Kamae"
+msgstr ""
+
+msgctxt "3788"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "3792"
+msgid "Ibuki"
+msgstr ""

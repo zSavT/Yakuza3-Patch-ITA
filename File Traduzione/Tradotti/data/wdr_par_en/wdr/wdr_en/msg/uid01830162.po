@@ -1,0 +1,397 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "116"
+msgid "Hello?"
+msgstr ""
+
+msgctxt "128"
+msgid "Hey. It's Kashiwagi."
+msgstr ""
+
+msgctxt "140"
+msgid "Kashiwagi-san!"
+msgstr ""
+
+msgctxt "152"
+msgid ""
+"I have something urgent to discuss with you. How quickly can\r\n"
+"you be in Tokyo?"
+msgstr ""
+
+msgctxt "164"
+msgid "I'm actually already here. In Kamurocho."
+msgstr ""
+
+msgctxt "176"
+msgid "Really?"
+msgstr ""
+
+msgctxt "188"
+msgid "Yeah. And I have something to talk about too, Kashiwagi-san."
+msgstr ""
+
+msgctxt "200"
+msgid "Where are you now?"
+msgstr ""
+
+msgctxt "212"
+msgid "At Stardust."
+msgstr ""
+
+msgctxt "224"
+msgid ""
+"Stardust? But the cops are crawling all over that place.\r\n"
+"Did something happen over there?"
+msgstr ""
+
+msgctxt "236"
+msgid ""
+"Yeah. Just a little run-in with the Nishikiyama Family.\r\n"
+"Don't worry, I handled it. Is everything okay with you,\r\n"
+"Kashiwagi-san?"
+msgstr ""
+
+msgctxt "248"
+msgid "Why do you ask?"
+msgstr ""
+
+msgctxt "260"
+msgid ""
+"Well, this guy Hasebe from the Nishikiyama Family... He said\r\n"
+"you're in danger."
+msgstr ""
+
+msgctxt "272"
+msgid ""
+"I see. Then we should meet sooner rather than later. Can you\r\n"
+"come now, Kiryu?"
+msgstr ""
+
+msgctxt "284"
+msgid "Yeah. The Kazama Office work for you?"
+msgstr ""
+
+msgctxt "296"
+msgid "Of course. See you soon."
+msgstr ""
+
+msgctxt "308"
+msgid "Sounds good."
+msgstr ""
+
+msgctxt "320"
+msgid ""
+"Oh, and as much as it pains me to say, a lot of people out\r\n"
+"there want you dead."
+msgstr ""
+
+msgctxt "332"
+msgid ""
+"Try to keep a low profile on your way to the Millennium\r\n"
+"Tower."
+msgstr ""
+
+msgctxt "344"
+msgid "I will. Later."
+msgstr ""
+
+msgctxt "392"
+msgid "All good?"
+msgstr ""
+
+msgctxt "404"
+msgid "It should be, yes."
+msgstr ""
+
+msgctxt "416"
+msgid ""
+"They seemed to believe me when I told them it was just some of our younger "
+"hosts getting a bit too heated."
+msgstr ""
+
+msgctxt "428"
+msgid "Good."
+msgstr ""
+
+msgctxt "440"
+msgid "Even so, you should stay vigilant."
+msgstr ""
+
+msgctxt "452"
+msgid ""
+"The police are still out front. They'll surely want to\r\n"
+"question you if you walk out now."
+msgstr ""
+
+msgctxt "464"
+msgid "...Guess I'm stuck here for now, then."
+msgstr ""
+
+msgctxt "476"
+msgid "I doubt they'll stick around much longer."
+msgstr ""
+
+msgctxt "488"
+msgid "Actually. Can you go check on them for us, Yuya?"
+msgstr ""
+
+msgctxt "500"
+msgid "You got it!"
+msgstr ""
+
+msgctxt "584"
+msgid "There's something I need to talk to you about, Kiryu-san."
+msgstr ""
+
+msgctxt "596"
+msgid "What's that?"
+msgstr ""
+
+msgctxt "608"
+msgid "It concerns Kamurocho."
+msgstr ""
+
+msgctxt "620"
+msgid "Oh?"
+msgstr ""
+
+msgctxt "632"
+msgid ""
+"This city has changed in the two years since you've left,\r\n"
+"Kiryu-san."
+msgstr ""
+
+msgctxt "644"
+msgid ""
+"Or perhaps it would be better to say the Tojo Clan has\r\n"
+"changed. More specifically their power structure."
+msgstr ""
+
+msgctxt "656"
+msgid "What do you mean?"
+msgstr ""
+
+msgctxt "668"
+msgid ""
+"It has to do with the Nishikiyama Family. They've always\r\n"
+"been... forceful, to say the least. Even with their old bosses\r\n"
+"Nishikiyama-san and Shindo in charge."
+msgstr ""
+
+msgctxt "680"
+msgid ""
+"But ever since this new guy has taken the reins, their\r\n"
+"bloodlust has been uncontrollable. They're trying to seize every last shop "
+"in Kamurocho, even those under Tojo control."
+msgstr ""
+
+msgctxt "692"
+msgid "I can't imagine Kashiwagi-san would take that sitting down."
+msgstr ""
+
+msgctxt "704"
+msgid ""
+"True enough. But as the captain of the Tojo Clan, he makes\r\n"
+"it a point to avoid internal conflict whenever possible."
+msgstr ""
+
+msgctxt "716"
+msgid ""
+"Most shops have been able to resist the Nishikiyama advances\r\n"
+"given their long history with the Kazama Family, but..."
+msgstr ""
+
+msgctxt "728"
+msgid "But something's changed."
+msgstr ""
+
+msgctxt "740"
+msgid ""
+"Yes. At first it was just vague threats and attempts at\r\n"
+"coercion, but it seems recently the Nishikiyama Family's\r\n"
+"come into a massive sum of money."
+msgstr ""
+
+msgctxt "752"
+msgid "So they're bribing all the holdouts."
+msgstr ""
+
+msgctxt "764"
+msgid ""
+"Exactly. Their stake in Kamurocho has expanded nearly\r\n"
+"tenfold over the past year."
+msgstr ""
+
+msgctxt "776"
+msgid ""
+"And they don't care that their newfound territory's coming\r\n"
+"from another Tojo family? So much for honor."
+msgstr ""
+
+msgctxt "788"
+msgid ""
+"Of course, the Kazama Family won't stand by and let their\r\n"
+"stores be snatched away. Tensions have been extremely high."
+msgstr ""
+
+msgctxt "800"
+msgid ""
+"Nobody's sure what may be the spark that sets off a\r\n"
+"full-fledged yakuza war... but most people seem to believe\r\n"
+"it's coming one way or another."
+msgstr ""
+
+msgctxt "812"
+msgid ""
+"More likely than not, that's why the Nishikiyama Family\r\n"
+"wants our club. To use as their base of operations during that war."
+msgstr ""
+
+msgctxt "824"
+msgid ""
+"Makes sense. It's not far from the Kazama office over in the\r\n"
+"Millennium Tower, and it's one of the biggest shops in town."
+msgstr ""
+
+msgctxt "10280"
+msgid "P_sitsofa_tlk_phone_st"
+msgstr ""
+
+msgctxt "10284"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "10288"
+msgid "adv_scene_102/kiryu_240"
+msgstr ""
+
+msgctxt "10292"
+msgid "Kashiwagi"
+msgstr ""
+
+msgctxt "10296"
+msgid "adv_scene_102/kashiwagi_006"
+msgstr ""
+
+msgctxt "10300"
+msgid "adv_scene_102/kiryu_241"
+msgstr ""
+
+msgctxt "10304"
+msgid "adv_scene_102/kashiwagi_007"
+msgstr ""
+
+msgctxt "10308"
+msgid "adv_scene_102/kiryu_242"
+msgstr ""
+
+msgctxt "10312"
+msgid "adv_scene_102/kashiwagi_008"
+msgstr ""
+
+msgctxt "10316"
+msgid "P_sitsofa_tlk_phone_yes"
+msgstr ""
+
+msgctxt "10320"
+msgid "adv_scene_102/kiryu_243"
+msgstr ""
+
+msgctxt "10324"
+msgid "adv_scene_102/kashiwagi_009"
+msgstr ""
+
+msgctxt "10328"
+msgid "adv_scene_102/kiryu_244"
+msgstr ""
+
+msgctxt "10332"
+msgid "adv_scene_102/kashiwagi_010"
+msgstr ""
+
+msgctxt "10336"
+msgid "adv_scene_102/kiryu_245"
+msgstr ""
+
+msgctxt "10340"
+msgid "adv_scene_102/kashiwagi_011"
+msgstr ""
+
+msgctxt "10344"
+msgid "adv_scene_102/kiryu_246"
+msgstr ""
+
+msgctxt "10348"
+msgid "adv_scene_102/kashiwagi_012"
+msgstr ""
+
+msgctxt "10352"
+msgid "adv_scene_102/kiryu_247"
+msgstr ""
+
+msgctxt "10356"
+msgid "adv_scene_102/kashiwagi_013"
+msgstr ""
+
+msgctxt "10360"
+msgid "adv_scene_102/kiryu_248"
+msgstr ""
+
+msgctxt "10364"
+msgid "adv_scene_102/kashiwagi_014"
+msgstr ""
+
+msgctxt "10368"
+msgid "adv_scene_102/kashiwagi_057"
+msgstr ""
+
+msgctxt "10372"
+msgid "adv_scene_102/kiryu_249"
+msgstr ""
+
+msgctxt "10376"
+msgid "P_sitsofa_tlk_phone_ed"
+msgstr ""
+
+msgctxt "10380"
+msgid "Yuya"
+msgstr ""
+
+msgctxt "10384"
+msgid "Kazuki"
+msgstr ""
+
+msgctxt "10388"
+msgid "M_ykzs_stand"
+msgstr ""
+
+msgctxt "10392"
+msgid "Talk_Kamae"
+msgstr ""
+
+msgctxt "10396"
+msgid "M_ykzs_sitsofa"
+msgstr ""
+
+msgctxt "10400"
+msgid "Idle"
+msgstr ""
+
+msgctxt "10404"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "10408"
+msgid "Talk_Yes"
+msgstr ""

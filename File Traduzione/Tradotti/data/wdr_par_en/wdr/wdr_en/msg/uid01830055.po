@@ -1,0 +1,413 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "80"
+msgid "What happened? I thought you were gonna teach me a lesson."
+msgstr ""
+
+msgctxt "92"
+msgid "Shit, he's strong..."
+msgstr ""
+
+msgctxt "104"
+msgid ""
+"What in high hell's goin' on over here? Someone causin'\r\n"
+"trouble on our turf!?"
+msgstr ""
+
+msgctxt "116"
+msgid "Aniki, help! This guy's gonna fucking wreck us!"
+msgstr ""
+
+msgctxt "128"
+msgid "Looks like he already did, Hiroshi. He start shit with you?"
+msgstr ""
+
+msgctxt "140"
+msgid "Yeah! He's got beef with the Kazama Family or somethin'!"
+msgstr ""
+
+msgctxt "152"
+msgid ""
+"Hold your horses there. You're the ones who started this,\r\n"
+"not me."
+msgstr ""
+
+msgctxt "164"
+msgid "Grrr! Shut up, you old bitch!"
+msgstr ""
+
+msgctxt "176"
+msgid "Oh, well if it ain't the Fourth Chairman! How you been?"
+msgstr ""
+
+msgctxt "188"
+msgid "...Huh?"
+msgstr ""
+
+msgctxt "200"
+msgid ""
+"Don't \"huh\" me! Go on and introduce yourself, idiot!\r\n"
+"This man here's Kazuma Kiryu, Tojo Clan fourth chairman!"
+msgstr ""
+
+msgctxt "212"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "224"
+msgid "But..."
+msgstr ""
+
+msgctxt "236"
+msgid "Him?"
+msgstr ""
+
+msgctxt "260"
+msgid "<Italic>What</Italic>!?"
+msgstr ""
+
+msgctxt "284"
+msgid "It's an honor to meet you, sir!"
+msgstr ""
+
+msgctxt "296"
+msgid "You there. You're Kazama Family, too?"
+msgstr ""
+
+msgctxt "308"
+msgid "Yes, sir! The name's Aniki, but you can call me Aniki-aniki!"
+msgstr ""
+
+msgctxt "320"
+msgid ""
+"...I think I'll just stick to Aniki. Anyway, do you know\r\n"
+"where I can find Majima-san?"
+msgstr ""
+
+msgctxt "332"
+msgid "Hm... That's a good question."
+msgstr ""
+
+msgctxt "344"
+msgid ""
+"Since he left the Tojo Clan to start Majima Construction,\r\n"
+"it's been impossible to know where he might pop up."
+msgstr ""
+
+msgctxt "356"
+msgid ""
+"Though now that I think about it, he was actually scheduled\r\n"
+"for a meetin' with the boss today."
+msgstr ""
+
+msgctxt "368"
+msgid ""
+"You might catch him over at the <Color:7>Kazama Family<Color:Default> "
+"office\r\n"
+"if you're lucky."
+msgstr ""
+
+msgctxt "380"
+msgid "Thanks, I'll go take a look."
+msgstr ""
+
+msgctxt "392"
+msgid "Oh, and um, Fourth Chairman..."
+msgstr ""
+
+msgctxt "404"
+msgid "Yeah?"
+msgstr ""
+
+msgctxt "416"
+msgid "My boys didn't offend you, did they?"
+msgstr ""
+
+msgctxt "428"
+msgid "......"
+msgstr ""
+
+msgctxt "440"
+msgid "......"
+msgstr ""
+
+msgctxt "452"
+msgid ""
+"Nah, it was nothing. They could just use a little more\r\n"
+"education, is all."
+msgstr ""
+
+msgctxt "464"
+msgid "That so? Guess I'll have to beat some manners into 'em then."
+msgstr ""
+
+msgctxt "476"
+msgid ""
+"Don't worry, I already did. Just keep an eye on them, make\r\n"
+"sure they take the lesson they learned today to heart."
+msgstr ""
+
+msgctxt "488"
+msgid "I'll do that, sir! Thank you, sir!"
+msgstr ""
+
+msgctxt "500"
+msgid "Well, I should get going."
+msgstr ""
+
+msgctxt "524"
+msgid "Goodbye, Fourth Chairman!"
+msgstr ""
+
+msgctxt "584"
+msgid ""
+"After earning a certain number of <Color:7>experience "
+"points<Color:Default>,\r\n"
+"you will be able to <Color:7>upgrade your abilities<Color:Default> on the "
+"<Color:7>Upgrades screen<Color:Default>.\r\n"
+"\r\n"
+"You will earn <Color:7>experience points<Color:Default> not only from "
+"defeating\r\n"
+"enemies, but also by completing substories."
+msgstr ""
+
+msgctxt "608"
+msgid "Well, well, well! Look who it is!"
+msgstr ""
+
+msgctxt "644"
+msgid "Oh, you're the brats from before. What now?"
+msgstr ""
+
+msgctxt "656"
+msgid "Grrr, you think you're hot shit, huh!?"
+msgstr ""
+
+msgctxt "668"
+msgid "This is the guy, senpai!"
+msgstr ""
+
+msgctxt "680"
+msgid ""
+"Oho? So you're one who beat up my tender little friend here,\r\n"
+"huh?"
+msgstr ""
+
+msgctxt "692"
+msgid ""
+"Hehehe! You're in trouble now, old man! Our senpai here's\r\n"
+"in the Kazama Family! Yeah, that's right! The guys who own\r\n"
+"this damn town! Well? You shittin' yourself yet?"
+msgstr ""
+
+msgctxt "704"
+msgid "Uh..."
+msgstr ""
+
+msgctxt "716"
+msgid "Look at this bitch! He's so scared he can't even talk!"
+msgstr ""
+
+msgctxt "728"
+msgid ""
+"What's wrong, cat got your tongue? Way I hear it, you were\r\n"
+"acting real tough toward my pals here not too long ago."
+msgstr ""
+
+msgctxt "740"
+msgid "Well guess what? I'm here to even the odds! You catch me?"
+msgstr ""
+
+msgctxt "752"
+msgid "Well..."
+msgstr ""
+
+msgctxt "764"
+msgid ""
+"Look man, I got a Kazama Family pin right here! They don't\r\n"
+"go handing these out on the street, y'know! I'm a big man!"
+msgstr ""
+
+msgctxt "776"
+msgid ""
+"Now if you don't wanna meet my big fists, I might be able\r\n"
+"to find it in my heart to forgive you... for a price."
+msgstr ""
+
+msgctxt "788"
+msgid "Heh."
+msgstr ""
+
+msgctxt "800"
+msgid "The shit are you laughin' at!?"
+msgstr ""
+
+msgctxt "812"
+msgid "A Kazama Family pin, huh? Funny."
+msgstr ""
+
+msgctxt "824"
+msgid ""
+"Back in my day, nobody'd dare brag about their loyalty\r\n"
+"without knowing who they were up against. That's how you\r\n"
+"get yourself killed, kid."
+msgstr ""
+
+msgctxt "836"
+msgid "Oh yeah!?"
+msgstr ""
+
+msgctxt "848"
+msgid ""
+"Look, just do yourselves a favor and run along now. I'm not\r\n"
+"interested in wasting my time with scum like you."
+msgstr ""
+
+msgctxt "860"
+msgid ""
+"You think you can boss Kazama Family boys around!?\r\n"
+"We're gonna bash your fuckin' brains in!"
+msgstr ""
+
+msgctxt "13012"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "13016"
+msgid "Talk_Kosite_st"
+msgstr ""
+
+msgctxt "13020"
+msgid "Not-So-Imposing Punk"
+msgstr ""
+
+msgctxt "13024"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "13028"
+msgid "Yakuza"
+msgstr ""
+
+msgctxt "13032"
+msgid "Hiroshi"
+msgstr ""
+
+msgctxt "13036"
+msgid "Talk_Kosite_No"
+msgstr ""
+
+msgctxt "13040"
+msgid "M_nml_stand"
+msgstr ""
+
+msgctxt "13044"
+msgid "Talk_Kamae"
+msgstr ""
+
+msgctxt "13048"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "13052"
+msgid "Cocky Punk"
+msgstr ""
+
+msgctxt "13056"
+msgid "Belligerent Thug"
+msgstr ""
+
+msgctxt "13060"
+msgid "Kazama Family Ruffians"
+msgstr ""
+
+msgctxt "13064"
+msgid "M_ykz_stand"
+msgstr ""
+
+msgctxt "13068"
+msgid "M_yng_stand"
+msgstr ""
+
+msgctxt "13072"
+msgid "M_big_stand"
+msgstr ""
+
+msgctxt "13076"
+msgid "M_ykzs_stand"
+msgstr ""
+
+msgctxt "13080"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "13084"
+msgid "M_shp_stand"
+msgstr ""
+
+msgctxt "13088"
+msgid "Aniki"
+msgstr ""
+
+msgctxt "13092"
+msgid "Talk_Kosite_Yes"
+msgstr ""
+
+msgctxt "13096"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "13100"
+msgid "Talk_Kosite_ed"
+msgstr ""
+
+msgctxt "13104"
+msgid "0"
+msgstr ""
+
+msgctxt "13108"
+msgid "dummy"
+msgstr ""
+
+msgctxt "13112"
+msgid "Final Battle Tutorial: Upgrades"
+msgstr ""
+
+msgctxt "13116"
+msgid "Imposing Punk"
+msgstr ""
+
+msgctxt "13120"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "13124"
+msgid "Talk_Chohatu"
+msgstr ""
+
+msgctxt "13128"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "13132"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "13136"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "13140"
+msgid "Talk_Angry"
+msgstr ""

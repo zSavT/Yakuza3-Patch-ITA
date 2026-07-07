@@ -1,0 +1,68 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid "Ngh... guh... shit... Who the hell are you, anyway?"
+msgstr ""
+
+msgctxt "76"
+msgid "What is all this stuff...?"
+msgstr ""
+
+msgctxt "88"
+msgid "Photobooks of puppies, okay? You got a problem with that? Huh?"
+msgstr ""
+
+msgctxt "100"
+msgid "......"
+msgstr ""
+
+msgctxt "112"
+msgid ""
+"What? So a couple yakuza love lookin' at adorable shit sometimes! Is that a "
+"crime now!?"
+msgstr ""
+
+msgctxt "124"
+msgid ""
+"Here... take this hush money. If ya know what's good for ya, you won't tell "
+"a single soul about our... interests."
+msgstr ""
+
+msgctxt "136"
+msgid "You got <Color:8>300,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "148"
+msgid "We've got places to be, but you watch yourself... or else."
+msgstr ""
+
+msgctxt "196"
+msgid "You got 5,000 EXP."
+msgstr ""
+
+msgctxt "1848"
+msgid "Man in Black Suit"
+msgstr ""
+
+msgctxt "1852"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1856"
+msgid "Sync_Send"
+msgstr ""
+
+msgctxt "1860"
+msgid "dummy"
+msgstr ""

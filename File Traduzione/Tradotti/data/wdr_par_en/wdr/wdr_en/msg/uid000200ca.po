@@ -1,0 +1,114 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "152"
+msgid "What's wrong, Haruka? Can't sleep?"
+msgstr ""
+
+msgctxt "164"
+msgid ""
+"Yeah, I guess there's a lot on my mind. But you don't need\r\n"
+"to wait for me, Uncle Kaz. You have a big trip tomorrow."
+msgstr ""
+
+msgctxt "176"
+msgid "I actually have some things to do before I hit the hay."
+msgstr ""
+
+msgctxt "188"
+msgid "Oh. Well then... can I come with you?"
+msgstr ""
+
+msgctxt "200"
+msgid "It's past your bedtime, young lady."
+msgstr ""
+
+msgctxt "212"
+msgid ""
+"Awww, you're no fun. Just don't stay up too late! You'll get\r\n"
+"all wrinkly and then everyone'll think you're an old man!"
+msgstr ""
+
+msgctxt "224"
+msgid "Funny, people have been calling me that for years..."
+msgstr ""
+
+msgctxt "236"
+msgid ""
+"Fair enough. I should probably hit the hay. Don't stay up\r\n"
+"too late, all right?"
+msgstr ""
+
+msgctxt "248"
+msgid "I won't! Sweet dreams, Uncle Kaz."
+msgstr ""
+
+msgctxt "260"
+msgid "Sweet dreams, Haruka."
+msgstr ""
+
+msgctxt "284"
+msgid "Sure, why not?"
+msgstr ""
+
+msgctxt "296"
+msgid "Yippee! Come on, come on, come on!"
+msgstr ""
+
+msgctxt "356"
+msgid "I have some things to do first."
+msgstr ""
+
+msgctxt "368"
+msgid "True. I should probably hit the hay."
+msgstr ""
+
+msgctxt "380"
+msgid "It's past your bedtime, young lady."
+msgstr ""
+
+msgctxt "392"
+msgid "Sure, why not?"
+msgstr ""
+
+msgctxt "3152"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "3156"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "3160"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "3164"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "3168"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "3172"
+msgid "Talk_Kansin"
+msgstr ""
+
+msgctxt "3176"
+msgid "dummy"
+msgstr ""
+
+msgctxt "3180"
+msgid "0"
+msgstr ""

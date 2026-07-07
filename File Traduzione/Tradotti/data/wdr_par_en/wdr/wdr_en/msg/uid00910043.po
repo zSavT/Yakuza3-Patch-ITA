@@ -1,0 +1,192 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "112"
+msgid "What are ya, invincible or something? Christ..."
+msgstr ""
+
+msgctxt "124"
+msgid ""
+"You depend too much on your guns. Your close-combat skills\r\n"
+"suffer for it."
+msgstr ""
+
+msgctxt "136"
+msgid "Shit..."
+msgstr ""
+
+msgctxt "148"
+msgid "So many guns... You buy weapons for the Reapers?"
+msgstr ""
+
+msgctxt "160"
+msgid ""
+"Heh... That's right. And I'm not a hitman, just so\r\n"
+"you know."
+msgstr ""
+
+msgctxt "172"
+msgid "You're not?"
+msgstr ""
+
+msgctxt "184"
+msgid "Yeah, I am. I met the Reaper boss a while back."
+msgstr ""
+
+msgctxt "196"
+msgid ""
+"Procuring weapons is my specialty. Sounded like a sweet\r\n"
+"deal, so I signed on."
+msgstr ""
+
+msgctxt "208"
+msgid "Who is in charge of the Reapers?"
+msgstr ""
+
+msgctxt "220"
+msgid ""
+"Can't tell you that, now, can I? I'm very careful about\r\n"
+"guarding my clients' privacy."
+msgstr ""
+
+msgctxt "232"
+msgid ""
+"(Looks like that's all I'm gonna get out of him... I'll\r\n"
+"leave the rest to Ibuki.)"
+msgstr ""
+
+msgctxt "292"
+msgid "Hey! You guys are useless!"
+msgstr ""
+
+msgctxt "304"
+msgid "Had enough yet?"
+msgstr ""
+
+msgctxt "316"
+msgid "You're really startin' to piss me off now..."
+msgstr ""
+
+msgctxt "328"
+msgid "I'll kill you myself! Die, you bastard!"
+msgstr ""
+
+msgctxt "352"
+msgid "What are you, some kind of freak...!?"
+msgstr ""
+
+msgctxt "364"
+msgid ""
+"Doesn't matter how many small fry you throw at me. Give up already and come "
+"with me."
+msgstr ""
+
+msgctxt "376"
+msgid "Son of a bitch..."
+msgstr ""
+
+msgctxt "388"
+msgid "Hey, Samejima-san. I'm back⑬"
+msgstr ""
+
+msgctxt "400"
+msgid "What the hell!? What's goin' on here!?"
+msgstr ""
+
+msgctxt "412"
+msgid "You're just in time! Mow this asshole down!"
+msgstr ""
+
+msgctxt "424"
+msgid "Huh? I still don't know what's goin' on, but whatever you say, boss!"
+msgstr ""
+
+msgctxt "436"
+msgid "Nice to meet ya, mister! Lemme introduce you to my gun!"
+msgstr ""
+
+msgctxt "472"
+msgid "Who the hell are you, barging in here like this!?"
+msgstr ""
+
+msgctxt "484"
+msgid "Are you Samejima?"
+msgstr ""
+
+msgctxt "496"
+msgid "What if I am, huh!?"
+msgstr ""
+
+msgctxt "508"
+msgid ""
+"I'm with the Honest Living Association. I need you to come\r\n"
+"with me."
+msgstr ""
+
+msgctxt "520"
+msgid "The HLA...!?"
+msgstr ""
+
+msgctxt "532"
+msgid ""
+"Hey, boys! Looks like we got ourselves an uninvited guest\r\n"
+"here!"
+msgstr ""
+
+msgctxt "5296"
+msgid "Samejima"
+msgstr ""
+
+msgctxt "5300"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "5304"
+msgid "Idle"
+msgstr ""
+
+msgctxt "5308"
+msgid "P_stand_tlk_phone_st"
+msgstr ""
+
+msgctxt "5312"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "5316"
+msgid "Returning Subordinate"
+msgstr ""
+
+msgctxt "5320"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "5324"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "5328"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "5332"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "5336"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "5340"
+msgid "Talk_Away"
+msgstr ""

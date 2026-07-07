@@ -1,0 +1,68 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "464\tNAME"
+msgid "The Villains"
+msgstr ""
+
+msgctxt "477\tNAME"
+msgid "Nishikiyama Family"
+msgstr ""
+
+msgctxt "496\tNAME"
+msgid "Yokohama Warriors"
+msgstr ""
+
+msgctxt "514\tNAME"
+msgid "The Agents"
+msgstr ""
+
+msgctxt "525\tNAME"
+msgid "Nakahara Industries"
+msgstr ""
+
+msgctxt "545\tNAME"
+msgid "The Stardust"
+msgstr ""
+
+msgctxt "558\tNAME"
+msgid "Battle Masters"
+msgstr ""
+
+msgctxt "573\tCATCHPHRASE"
+msgid "The Two Entrepreneurs"
+msgstr ""
+
+msgctxt "595\tCATCHPHRASE"
+msgid "The Burly Master and Pupil"
+msgstr ""
+
+msgctxt "622\tCATCHPHRASE"
+msgid "Bad Brothers of the 'Hama"
+msgstr ""
+
+msgctxt "648\tCATCHPHRASE"
+msgid "The Foreign Menace"
+msgstr ""
+
+msgctxt "667\tCATCHPHRASE"
+msgid "The Ryukyu Assassins"
+msgstr ""
+
+msgctxt "688\tCATCHPHRASE"
+msgid "Two Studs for the Win"
+msgstr ""
+
+msgctxt "710\tCATCHPHRASE"
+msgid "Educational Board of Fighting"
+msgstr ""

@@ -1,0 +1,82 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "116"
+msgid "Pretty impressive stuff in there. You ever play pro?"
+msgstr ""
+
+msgctxt "128"
+msgid "No... Never been in the pros."
+msgstr ""
+
+msgctxt "140"
+msgid "You've got the eyes of a fighter. I like that."
+msgstr ""
+
+msgctxt "152"
+msgid "So... I'm wondering if you'll do me a favor."
+msgstr ""
+
+msgctxt "164"
+msgid "What is it?"
+msgstr ""
+
+msgctxt "176"
+msgid ""
+"A man in a baseball uniform will be stopping by a little\r\n"
+"later. I'd like you to take him on."
+msgstr ""
+
+msgctxt "188"
+msgid "Why me?"
+msgstr ""
+
+msgctxt "200"
+msgid ""
+"I'll pay you for the trouble, of course. Don't feel pressured, but I'd "
+"appreciate the help. Take your time deciding."
+msgstr ""
+
+msgctxt "272"
+msgid ""
+"(That old man wants me to take on some guy in a baseball\r\n"
+"uniform. Can't say it's the strangest request I've ever gotten, though.)"
+msgstr ""
+
+msgctxt "2044"
+msgid "Mysterious Old Man"
+msgstr ""
+
+msgctxt "2048"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "2052"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "2056"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "2060"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "2064"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "2068"
+msgid "dummy"
+msgstr ""

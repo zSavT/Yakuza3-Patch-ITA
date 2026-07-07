@@ -1,0 +1,118 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid "(What's up with this crowd?)"
+msgstr ""
+
+msgctxt "76"
+msgid ""
+"Did you get hoodwinked by Sawada, too? He talked big about\r\n"
+"that tuna farm of his, but it turned out to be one big\r\n"
+"pack of lies!"
+msgstr ""
+
+msgctxt "88"
+msgid ""
+"I bought a thousand shares! What's this photo supposed to\r\n"
+"be, anyway? I hope that swindler gets what's coming to him!"
+msgstr ""
+
+msgctxt "100"
+msgid ""
+"What little pension I had went to his scam... If I don't\r\n"
+"get that money back, I won't be able to afford to live\r\n"
+"in public housing anymore..."
+msgstr ""
+
+msgctxt "112"
+msgid ""
+"Sawada, that bastard... Looks like he already skipped town.\r\n"
+"This office is just an empty shell."
+msgstr ""
+
+msgctxt "124"
+msgid ""
+"We've got to call the police and file a report so they can\r\n"
+"track him down before he gets away!"
+msgstr ""
+
+msgctxt "184"
+msgid ""
+"(Something's fishy. This place is too neat for him to\r\n"
+"have run away in the night.)"
+msgstr ""
+
+msgctxt "208"
+msgid "Eep!"
+msgstr ""
+
+msgctxt "220"
+msgid "Sawada! I figured you'd be hiding here."
+msgstr ""
+
+msgctxt "232"
+msgid "Damn it! I thought everyone was gone!"
+msgstr ""
+
+msgctxt "244"
+msgid ""
+"Hey, guys! Get in here! Give this guy a beatdown so we\r\n"
+"can run off to Hokkaido already!"
+msgstr ""
+
+msgctxt "256"
+msgid ""
+"C'mon, get him! Whoever takes him out gets a nice, fat\r\n"
+"bonus!"
+msgstr ""
+
+msgctxt "2672"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "2676"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "2680"
+msgid "Swindled Manager"
+msgstr ""
+
+msgctxt "2684"
+msgid "Talk_NoBig"
+msgstr ""
+
+msgctxt "2688"
+msgid "Duped Proprietress"
+msgstr ""
+
+msgctxt "2692"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "2696"
+msgid "Scammed Retiree"
+msgstr ""
+
+msgctxt "2700"
+msgid "Talk_Cry"
+msgstr ""
+
+msgctxt "2704"
+msgid "Sawada"
+msgstr ""
+
+msgctxt "2708"
+msgid "Talk_Surp"
+msgstr ""

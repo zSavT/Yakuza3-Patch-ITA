@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "196"
+msgid "(Should I give a gift?)"
+msgstr ""
+
+msgctxt "220"
+msgid "(How about this one?)"
+msgstr ""
+
+msgctxt "232"
+msgid "(...Maybe not.)"
+msgstr ""
+
+msgctxt "244"
+msgid ""
+"(This is a good place to stop, but I still have plenty of money. Should we "
+"keep going?)"
+msgstr ""
+
+msgctxt "256"
+msgid "(I'll stay a little longer, then.)"
+msgstr ""
+
+msgctxt "268"
+msgid "(...Maybe not.)"
+msgstr ""
+
+msgctxt "280"
+msgid "Yes"
+msgstr ""
+
+msgctxt "292"
+msgid "No"
+msgstr ""
+
+msgctxt "304"
+msgid "Extend Session"
+msgstr ""
+
+msgctxt "316"
+msgid "Call It Quits"
+msgstr ""
+
+msgctxt "1140"
+msgid "Kiryu"
+msgstr ""

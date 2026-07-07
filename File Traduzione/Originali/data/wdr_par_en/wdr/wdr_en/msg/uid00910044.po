@@ -1,0 +1,176 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "124"
+msgid "You're not half bad."
+msgstr ""
+
+msgctxt "136"
+msgid "I never would've guessed an old geezer like you could beat me."
+msgstr ""
+
+msgctxt "148"
+msgid "You look pretty young. How'd you get into this business?"
+msgstr ""
+
+msgctxt "160"
+msgid "Age doesn't matter in my line of work."
+msgstr ""
+
+msgctxt "172"
+msgid ""
+"The boss trained me himself. Some kind of special program for the "
+"\"gifted,\" if you will."
+msgstr ""
+
+msgctxt "184"
+msgid "Did he, now? He the head of the Reapers?"
+msgstr ""
+
+msgctxt "196"
+msgid "That's right."
+msgstr ""
+
+msgctxt "208"
+msgid "The gun I'm using was a coming-of-age present from him."
+msgstr ""
+
+msgctxt "220"
+msgid "Who is this guy, exactly?"
+msgstr ""
+
+msgctxt "232"
+msgid "You know I can't tell you that."
+msgstr ""
+
+msgctxt "244"
+msgid "If the boss found out I'd ratted on him, I'd be dead."
+msgstr ""
+
+msgctxt "256"
+msgid "...I just wish I could've lived up to his expectations, that's all."
+msgstr ""
+
+msgctxt "268"
+msgid "......"
+msgstr ""
+
+msgctxt "280"
+msgid ""
+"(Sounds like he knows some important information about the guy who's "
+"running the Reapers...)"
+msgstr ""
+
+msgctxt "292"
+msgid ""
+"(I bet Ibuki could probably get it outta him without resorting to "
+"violence...)"
+msgstr ""
+
+msgctxt "352"
+msgid "Dammit! We'll remember this!"
+msgstr ""
+
+msgctxt "364"
+msgid "......"
+msgstr ""
+
+msgctxt "376"
+msgid "Don't expect me to thank you. I didn't ask for your help."
+msgstr ""
+
+msgctxt "388"
+msgid "I'm out of here."
+msgstr ""
+
+msgctxt "400"
+msgid "Are you the Reaper Yuto?"
+msgstr ""
+
+msgctxt "412"
+msgid "......"
+msgstr ""
+
+msgctxt "424"
+msgid "Now I see how it is."
+msgstr ""
+
+msgctxt "436"
+msgid ""
+"You thought I might kill them 'cause you knew who I was. That's why you "
+"intervened."
+msgstr ""
+
+msgctxt "448"
+msgid "That's right."
+msgstr ""
+
+msgctxt "460"
+msgid "Well, don't worry. I don't kill people unless I'm getting paid for it."
+msgstr ""
+
+msgctxt "472"
+msgid "......"
+msgstr ""
+
+msgctxt "484"
+msgid "Unfortunately for you, though..."
+msgstr ""
+
+msgctxt "496"
+msgid "I can get paid for shutting up people who figure out who I am."
+msgstr ""
+
+msgctxt "508"
+msgid "Nothing personal, but I'm going to have to kill you."
+msgstr ""
+
+msgctxt "4464"
+msgid "Yuto"
+msgstr ""
+
+msgctxt "4468"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "4472"
+msgid "Talk_Kosite_st"
+msgstr ""
+
+msgctxt "4476"
+msgid "Idle"
+msgstr ""
+
+msgctxt "4480"
+msgid "Talk_Kosite_ed"
+msgstr ""
+
+msgctxt "4484"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "4488"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "4492"
+msgid "P_stand_tlk_phone_st"
+msgstr ""
+
+msgctxt "4496"
+msgid "Thug"
+msgstr ""
+
+msgctxt "4500"
+msgid "Talk_Info_F"
+msgstr ""

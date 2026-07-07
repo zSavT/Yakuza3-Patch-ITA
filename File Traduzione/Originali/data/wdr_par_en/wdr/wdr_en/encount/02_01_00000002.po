@@ -1,0 +1,50 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "124"
+msgid "You stepped on my goddamn foot! You can't just walk away from me!"
+msgstr ""
+
+msgctxt "136"
+msgid "You gotta make up for it somehow! Hurry up and gimme your wallet!"
+msgstr ""
+
+msgctxt "160"
+msgid "Wow... You're strong, buddy! Haha... ha..."
+msgstr ""
+
+msgctxt "172"
+msgid ""
+"Oh, lemme give you something. I mean, I'm not askin' you to let me off the "
+"hook, but, well..."
+msgstr ""
+
+msgctxt "184"
+msgid "You got an unsullied %s."
+msgstr ""
+
+msgctxt "220"
+msgid "Ahaha... ha... How you feelin'?"
+msgstr ""
+
+msgctxt "1536"
+msgid "Irate Thug"
+msgstr ""
+
+msgctxt "1540"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "1544"
+msgid "Sync_Send"
+msgstr ""

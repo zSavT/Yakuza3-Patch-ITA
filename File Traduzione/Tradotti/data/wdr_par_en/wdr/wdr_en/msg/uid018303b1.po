@@ -1,0 +1,52 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "100"
+msgid "Kiryu-san... I'm sorry..."
+msgstr ""
+
+msgctxt "112"
+msgid "I just started wandering around, and I ended up in front of the theater."
+msgstr ""
+
+msgctxt "124"
+msgid "I dunno if it's the stress, but I just feel so... dazed..."
+msgstr ""
+
+msgctxt "136"
+msgid "Wait right there, okay?"
+msgstr ""
+
+msgctxt "148"
+msgid "......"
+msgstr ""
+
+msgctxt "916"
+msgid "P_stand_tlk_phone_st"
+msgstr ""
+
+msgctxt "920"
+msgid "Shiori"
+msgstr ""
+
+msgctxt "924"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "928"
+msgid "P_stand_tlk_phone_ed"
+msgstr ""
+
+msgctxt "932"
+msgid "dummy"
+msgstr ""

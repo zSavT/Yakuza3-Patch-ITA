@@ -1,0 +1,162 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "458\t526"
+msgid "Yes, of course."
+msgstr ""
+
+msgctxt "576\t630"
+msgid "Just a moment."
+msgstr ""
+
+msgctxt "660\t723"
+msgid "It's for you, Chairman."
+msgstr ""
+
+msgctxt "725\t760"
+msgid "Who is it?"
+msgstr ""
+
+msgctxt "762\t876"
+msgid ""
+"They said you'd understand\\n"
+"if I mentioned \"the deal.\""
+msgstr ""
+
+msgctxt "1119\t1170"
+msgid "This is Dojima."
+msgstr ""
+
+msgctxt "1228\t1261"
+msgid "Yes."
+msgstr ""
+
+msgctxt "1263\t1380"
+msgid ""
+"I thought I told you\\n"
+"I wasn't interested."
+msgstr ""
+
+msgctxt "1451\t1504"
+msgid "Yes, that's right."
+msgstr ""
+
+msgctxt "1515\t1650"
+msgid "The Tojo Clan wants no part in this."
+msgstr ""
+
+msgctxt "1836\t1906"
+msgid "My answer is final."
+msgstr ""
+
+msgctxt "1938\t2053"
+msgid ""
+"Add as many 0's as you want.\\n"
+"I'm not going to budge."
+msgstr ""
+
+msgctxt "2068\t2110"
+msgid "Goodbye."
+msgstr ""
+
+msgctxt "2368\t2409"
+msgid "Chairman."
+msgstr ""
+
+msgctxt "2441\t2573"
+msgid ""
+"I assume that was about\\n"
+"the Okinawa deal?"
+msgstr ""
+
+msgctxt "2674\t2774"
+msgid "Are you sure we can refuse?"
+msgstr ""
+
+msgctxt "2843\t2892"
+msgid "Meaning?"
+msgstr ""
+
+msgctxt "2921\t3111"
+msgid ""
+"Respectfully, sir. Hakuho payouts\\n"
+"are the only thing keeping us afloat."
+msgstr ""
+
+msgctxt "3113\t3246"
+msgid "If we agree to this Okinawa business..."
+msgstr ""
+
+msgctxt "3235\t3383"
+msgid ""
+"We'd earn enough to last us\\n"
+"for at least a decade."
+msgstr ""
+
+msgctxt "3414\t3593"
+msgid ""
+"Quick estimates show we could turn\\n"
+"100 billion yen, perhaps even more."
+msgstr ""
+
+msgctxt "3603\t3739"
+msgid ""
+"Beyond that, a man like him would make\\n"
+"for a vital government ally who⑬"
+msgstr ""
+
+msgctxt "3741\t3784"
+msgid "Enough!"
+msgstr ""
+
+msgctxt "3858\t3930"
+msgid "I'm well aware of the potential gains."
+msgstr ""
+
+msgctxt "3946\t4058"
+msgid "But I won't let him take that land."
+msgstr ""
+
+msgctxt "4116\t4206"
+msgid "Because of the fourth chairman, sir?"
+msgstr ""
+
+msgctxt "4278\t4374"
+msgid "After all he's done for the Tojo Clan..."
+msgstr ""
+
+msgctxt "4383\t4494"
+msgid "It wouldn't be right stealing the one place he belongs."
+msgstr ""
+
+msgctxt "4682\t4719"
+msgid "Driver."
+msgstr ""
+
+msgctxt "4775\t4843"
+msgid "Take us back to HQ."
+msgstr ""
+
+msgctxt "4852\t4992"
+msgid "Sir? But what about the banquet?"
+msgstr ""
+
+msgctxt "5005\t5050"
+msgid "Cancel it."
+msgstr ""
+
+msgctxt "5074\t5310"
+msgid ""
+"I need to make sure nobody thinks they can\\n"
+"agree to this Okinawa deal behind my back."
+msgstr ""

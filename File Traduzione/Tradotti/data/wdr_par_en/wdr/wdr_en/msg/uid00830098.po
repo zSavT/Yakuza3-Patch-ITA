@@ -1,0 +1,68 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "240"
+msgid "Rikiya."
+msgstr ""
+
+msgctxt "252"
+msgid "'Sup, Aniki?"
+msgstr ""
+
+msgctxt "264"
+msgid "You okay to keep going?"
+msgstr ""
+
+msgctxt "276"
+msgid ""
+"Pfft, of course I am! You're talkin' to the Fighting Viper of\r\n"
+"Okinawa, not some weak little punk! So, where to?"
+msgstr ""
+
+msgctxt "288"
+msgid "I think that's enough sightseeing for one day."
+msgstr ""
+
+msgctxt "300"
+msgid ""
+"Huh? Oh... if you say so. I guess just lemme know when you\r\n"
+"got time to spare."
+msgstr ""
+
+msgctxt "384"
+msgid "I think that's enough sightseeing."
+msgstr ""
+
+msgctxt "396"
+msgid "You okay to keep going?"
+msgstr ""
+
+msgctxt "1620"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1624"
+msgid "Rikiya"
+msgstr ""
+
+msgctxt "1628"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "1632"
+msgid "dummy"
+msgstr ""
+
+msgctxt "1636"
+msgid "0"
+msgstr ""

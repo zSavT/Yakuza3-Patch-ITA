@@ -1,0 +1,218 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "80"
+msgid "Hey, are you..."
+msgstr ""
+
+msgctxt "92"
+msgid "Kiryu-san!? Is that really you!?"
+msgstr ""
+
+msgctxt "104"
+msgid "It's me! You know me! Geez, I haven't seen you in ages!"
+msgstr ""
+
+msgctxt "116"
+msgid ""
+"Remember? I'm Minamizawa, from the Mars Fighters! We got outta that mess "
+"together two years ago, right?"
+msgstr ""
+
+msgctxt "128"
+msgid "It was your mess to begin with."
+msgstr ""
+
+msgctxt "140"
+msgid ""
+"Hey, don't just shut me down! At least do it with a solid comeback, would "
+"ya?"
+msgstr ""
+
+msgctxt "152"
+msgid ""
+"Like, \"You two were the ones who messed with me!\" Get some wordplay in "
+"there!"
+msgstr ""
+
+msgctxt "164"
+msgid "Well, you haven't changed much."
+msgstr ""
+
+msgctxt "176"
+msgid "Anyway, I heard you've been missing for about half a year."
+msgstr ""
+
+msgctxt "188"
+msgid "Where'd ya hear that...?"
+msgstr ""
+
+msgctxt "200"
+msgid ""
+"I ran into Kitagawa earlier. You've got him worried. He's been looking for "
+"you."
+msgstr ""
+
+msgctxt "212"
+msgid "......"
+msgstr ""
+
+msgctxt "224"
+msgid "Hey, hold on a sec. Is that true?"
+msgstr ""
+
+msgctxt "236"
+msgid ""
+"Yeah. Once Kitagawa heard Minamizawa was in Kamurocho, he dropped "
+"everything and came straight here."
+msgstr ""
+
+msgctxt "248"
+msgid ""
+"Hey, Minamizawa, buddy... You probably oughta head back, huh? Sounds like "
+"Kitagawa's worried sick about ya."
+msgstr ""
+
+msgctxt "260"
+msgid ""
+"That's right, man. You don't have to be stubborn. Just go find your friend, "
+"apologize, and get back to being a team."
+msgstr ""
+
+msgctxt "272"
+msgid "Get off my back! I'm... I'm Minamizawa, the Mars Fighter!"
+msgstr ""
+
+msgctxt "284"
+msgid ""
+"Why should I apologize to my equal, my partner, just 'cause we ain't a team "
+"anymore!?"
+msgstr ""
+
+msgctxt "296"
+msgid "Besides... now that I'm gone, Kitagawa's doin' better than ever..."
+msgstr ""
+
+msgctxt "308"
+msgid ""
+"Even if I went back, there's no way our old agency would let us get back "
+"together. I'd just be draggin' him down..."
+msgstr ""
+
+msgctxt "320"
+msgid "Man..."
+msgstr ""
+
+msgctxt "332"
+msgid ""
+"(It's clear Kitagawa wants to do manzai with Minamizawa. Maybe I'll give "
+"him a call...)"
+msgstr ""
+
+msgctxt "356"
+msgid "Hey, hold it! Kiryu-san, you're not gonna call Kitagawa, are ya!?"
+msgstr ""
+
+msgctxt "368"
+msgid "That's what I promised him. Now that I've found you, I have to let him know."
+msgstr ""
+
+msgctxt "380"
+msgid "I can't let you do that! Man, I... I can't face him right now."
+msgstr ""
+
+msgctxt "392"
+msgid "......"
+msgstr ""
+
+msgctxt "404"
+msgid ""
+"Fine... if you're so set on calling him, I guess I got no choice. Sorry, "
+"Kiryu-san, but it's time for a real punchline!"
+msgstr ""
+
+msgctxt "5700"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "5704"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "5708"
+msgid "Sulking Man"
+msgstr ""
+
+msgctxt "5712"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "5716"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "5720"
+msgid "Minamizawa"
+msgstr ""
+
+msgctxt "5724"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "5728"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "5732"
+msgid "Talk_NoBig"
+msgstr ""
+
+msgctxt "5736"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "5740"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "5744"
+msgid "Talk_Udekumi_st"
+msgstr ""
+
+msgctxt "5748"
+msgid "Higashiyama"
+msgstr ""
+
+msgctxt "5752"
+msgid "Talk_Udekumi_Yes"
+msgstr ""
+
+msgctxt "5756"
+msgid "Nishikoji"
+msgstr ""
+
+msgctxt "5760"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "5764"
+msgid "P_stand_tlk_phone_st"
+msgstr ""
+
+msgctxt "5768"
+msgid "P_stand_tlk_phone_yes"
+msgstr ""
+
+msgctxt "5772"
+msgid "P_stand_tlk_phone_ed"
+msgstr ""

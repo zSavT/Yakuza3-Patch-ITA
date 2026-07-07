@@ -1,0 +1,68 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "92"
+msgid ""
+"My friends brought me to a host club called Stardust for the first time the "
+"other day."
+msgstr ""
+
+msgctxt "104"
+msgid "Oh, yeah?"
+msgstr ""
+
+msgctxt "116"
+msgid ""
+"Yeah, but some scary gangster types came barging in and started breaking up "
+"the place."
+msgstr ""
+
+msgctxt "128"
+msgid "I wish we'd never gone there."
+msgstr ""
+
+msgctxt "140"
+msgid "That's... too bad."
+msgstr ""
+
+msgctxt "152"
+msgid ""
+"Yeah... Thankfully, Yuya, the manager, was around to protect me from those "
+"thugs! He was so hot!"
+msgstr ""
+
+msgctxt "164"
+msgid ""
+"Skinny guys are fine and all, but big and strong? That's a real man right "
+"there!"
+msgstr ""
+
+msgctxt "176"
+msgid "......"
+msgstr ""
+
+msgctxt "1228"
+msgid "Sheltered Thrillseeker"
+msgstr ""
+
+msgctxt "1232"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1236"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "1240"
+msgid "Talk_Yes"
+msgstr ""

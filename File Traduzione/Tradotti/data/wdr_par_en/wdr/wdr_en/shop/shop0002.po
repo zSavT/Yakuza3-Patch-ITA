@@ -1,0 +1,66 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "108"
+msgid "Don't Order Anything"
+msgstr ""
+
+msgctxt "129"
+msgid "Check Out"
+msgstr ""
+
+msgctxt "139"
+msgid "Order"
+msgstr ""
+
+msgctxt "145"
+msgid "(I'm short on cash.)"
+msgstr ""
+
+msgctxt "166"
+msgid "(I can't carry any more stuff.)"
+msgstr ""
+
+msgctxt "198"
+msgid "(I can't handle any more turtles.)"
+msgstr ""
+
+msgctxt "233"
+msgid "(I didn't choose anything.)"
+msgstr ""
+
+msgctxt "261"
+msgid "(They're sold out.)"
+msgstr ""
+
+msgctxt "281"
+msgid "That comes to %s."
+msgstr ""
+
+msgctxt "299"
+msgid ""
+"This is Temp 1. Its unique sweet flavor sets it apart\n"
+"from Temp 2."
+msgstr ""
+
+msgctxt "366"
+msgid ""
+"Temp 2 is a popular product of Settsu province, made\n"
+"traditionally with their famous water."
+msgstr ""
+
+msgctxt "458"
+msgid ""
+"This strong Temp 3 was made from Satsuma's famous\n"
+"sweet potatoes."
+msgstr ""

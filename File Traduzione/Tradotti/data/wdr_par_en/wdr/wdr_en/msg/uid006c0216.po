@@ -1,0 +1,244 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "124"
+msgid "Now what should I sing today...? <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "136"
+msgid "Ready to get started?"
+msgstr ""
+
+msgctxt "148"
+msgid "Yeah."
+msgstr ""
+
+msgctxt "172"
+msgid "Now what should I sing today...? <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "184"
+msgid "Ready to get started?"
+msgstr ""
+
+msgctxt "196"
+msgid "...Actually, could we take a rain check? I'm a little strapped for cash."
+msgstr ""
+
+msgctxt "208"
+msgid "What the... Are you serious right now?"
+msgstr ""
+
+msgctxt "220"
+msgid "Yeah. Sorry about that."
+msgstr ""
+
+msgctxt "232"
+msgid ""
+"Fine, then I'm just gonna go home. Have a good night, Kiryu-san... by "
+"yourself."
+msgstr ""
+
+msgctxt "244"
+msgid "(How did I not realize this would happen?)"
+msgstr ""
+
+msgctxt "352"
+msgid ""
+"You know I sang my heart out back there, just for you. "
+"<Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "364"
+msgid "Thanks. You have an amazing voice."
+msgstr ""
+
+msgctxt "376"
+msgid ""
+"I had a great time with you today. Take me out again, okay? "
+"<Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "388"
+msgid "Well, see ya later!"
+msgstr ""
+
+msgctxt "412"
+msgid "Whew... That was so much fun."
+msgstr ""
+
+msgctxt "424"
+msgid "We had a good time, didn't we?"
+msgstr ""
+
+msgctxt "436"
+msgid "Take me out again sometime, yeah? <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "448"
+msgid "Well, see ya later!"
+msgstr ""
+
+msgctxt "472"
+msgid "I dunno, it's like there was something wrong with my voice today..."
+msgstr ""
+
+msgctxt "484"
+msgid "I think you did all right..."
+msgstr ""
+
+msgctxt "496"
+msgid "Well, I should probably head home. It's getting to be that time."
+msgstr ""
+
+msgctxt "508"
+msgid "See you!"
+msgstr ""
+
+msgctxt "532"
+msgid ""
+"Huge error!\r\n"
+"No flags set for conversation selection!"
+msgstr ""
+
+msgctxt "616"
+msgid "Now what should I sing today...? <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "628"
+msgid "Ready to get started?"
+msgstr ""
+
+msgctxt "640"
+msgid "Yeah."
+msgstr ""
+
+msgctxt "664"
+msgid "Now what should I sing today...? <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "676"
+msgid "Ready to get started?"
+msgstr ""
+
+msgctxt "688"
+msgid "Hold on a second. Just realized I'm a little short on cash."
+msgstr ""
+
+msgctxt "700"
+msgid "What the... Are you serious right now?"
+msgstr ""
+
+msgctxt "712"
+msgid "Yeah. Sorry about that."
+msgstr ""
+
+msgctxt "724"
+msgid ""
+"Fine, then I'm just gonna go home. Have a good night, Kiryu-san... by "
+"yourself."
+msgstr ""
+
+msgctxt "736"
+msgid "(How did I not realize this would happen?)"
+msgstr ""
+
+msgctxt "844"
+msgid ""
+"You know I sang my heart out back there, just for you. "
+"<Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "856"
+msgid "Thanks. You have an amazing voice."
+msgstr ""
+
+msgctxt "868"
+msgid ""
+"Now I'm super motivated. <Color:7>⑮<Color:Default> Should we head on over "
+"to the club?"
+msgstr ""
+
+msgctxt "880"
+msgid "Yeah, sounds good."
+msgstr ""
+
+msgctxt "904"
+msgid "Whew... That was so much fun."
+msgstr ""
+
+msgctxt "916"
+msgid "We had a good time, didn't we?"
+msgstr ""
+
+msgctxt "928"
+msgid "Oh yeah. Wanna head on over to the club now? <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "940"
+msgid "Yeah, sounds good."
+msgstr ""
+
+msgctxt "964"
+msgid "I dunno, it's like there was something wrong with my voice today..."
+msgstr ""
+
+msgctxt "976"
+msgid "I think you did all right..."
+msgstr ""
+
+msgctxt "988"
+msgid "Well, what's done is done. Should we just head over to the club?"
+msgstr ""
+
+msgctxt "1000"
+msgid "Yeah, sounds good."
+msgstr ""
+
+msgctxt "1024"
+msgid ""
+"Huge error!\r\n"
+"No flags set for conversation selection!"
+msgstr ""
+
+msgctxt "12024"
+msgid "Reimi"
+msgstr ""
+
+msgctxt "12028"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "12032"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "12036"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "12040"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "12044"
+msgid "dummy"
+msgstr ""
+
+msgctxt "12048"
+msgid "0"
+msgstr ""
+
+msgctxt "12052"
+msgid "Talk_No"
+msgstr ""

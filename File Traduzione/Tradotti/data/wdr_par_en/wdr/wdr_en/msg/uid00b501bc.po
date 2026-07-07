@@ -1,0 +1,427 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "260"
+msgid ""
+"How the fuck did that happen...? I'm a professional\r\n"
+"baseball player, dammit!"
+msgstr ""
+
+msgctxt "272"
+msgid "How... How could I lose to an amateur...?"
+msgstr ""
+
+msgctxt "296"
+msgid "That's because your overconfidence got the best of you."
+msgstr ""
+
+msgctxt "308"
+msgid "Manager!?"
+msgstr ""
+
+msgctxt "320"
+msgid ""
+"(Manager? I thought he was a random old man, but it looks like something "
+"else is going on here.)"
+msgstr ""
+
+msgctxt "332"
+msgid ""
+"This guy's got stronger willpower than you. That's what it\r\n"
+"takes to win."
+msgstr ""
+
+msgctxt "344"
+msgid ""
+"No matter how many times he may lose, the man with the\r\n"
+"strongest willpower always comes out on top."
+msgstr ""
+
+msgctxt "356"
+msgid ""
+"You were the number one draft pick, but your ego was so\r\n"
+"inflated by those credentials of yours that you were bound\r\n"
+"to lose from the start."
+msgstr ""
+
+msgctxt "368"
+msgid ""
+"Makes sense... I got so full of myself that I lost the\r\n"
+"will to play. Would you help me get back into shape, sir?"
+msgstr ""
+
+msgctxt "380"
+msgid "That's my job, kid. Now get back to the stadium."
+msgstr ""
+
+msgctxt "416"
+msgid ""
+"Thanks for taking on such an odd request. He really needed\r\n"
+"that."
+msgstr ""
+
+msgctxt "428"
+msgid ""
+"That kid let the fame get to his head, and his effort\r\n"
+"went right out the window."
+msgstr ""
+
+msgctxt "440"
+msgid ""
+"But he's got what it takes to be an all-star. He just needed\r\n"
+"someone to beat him back into shape."
+msgstr ""
+
+msgctxt "452"
+msgid ""
+"I think that little batting session may have knocked some\r\n"
+"humility into him."
+msgstr ""
+
+msgctxt "464"
+msgid ""
+"We just hit a few balls in the batting cage. Whether it\r\n"
+"sinks in or not is up to him."
+msgstr ""
+
+msgctxt "476"
+msgid ""
+"Hehehe... Ain't that the truth. By the way, would you\r\n"
+"be interested in a career in professional baseball?"
+msgstr ""
+
+msgctxt "488"
+msgid ""
+"With that swing of yours, I could get you a nice deal,\r\n"
+"even at your age."
+msgstr ""
+
+msgctxt "500"
+msgid ""
+"I've got too many things to take care of, but I appreciate\r\n"
+"the offer."
+msgstr ""
+
+msgctxt "512"
+msgid ""
+"I understand. You must be a man of high stature in whatever\r\n"
+"it is you do."
+msgstr ""
+
+msgctxt "524"
+msgid ""
+"Oh, yeah. I promised I'd give you something for your\r\n"
+"trouble. Please take this."
+msgstr ""
+
+msgctxt "536"
+msgid "You got a <Color:8>Spiked Bat<Color:Default>."
+msgstr ""
+
+msgctxt "560"
+msgid "Well, I better be off to training now. So long."
+msgstr ""
+
+msgctxt "644"
+msgid "You got 3,000 EXP."
+msgstr ""
+
+msgctxt "656"
+msgid ""
+"Heh! That was your dose of reality for the day. Don't fuck\r\n"
+"with a pro ball player."
+msgstr ""
+
+msgctxt "668"
+msgid ""
+"But if you want, I'd be willing to play you again. How\r\n"
+"about it? Wanna go?"
+msgstr ""
+
+msgctxt "680"
+msgid "No thanks. Maybe some other time."
+msgstr ""
+
+msgctxt "692"
+msgid ""
+"I'll be waiting. Come challenge me whenever you're feeling up to another "
+"ass-whooping."
+msgstr ""
+
+msgctxt "704"
+msgid "Let's do it again. I'll get the best of you this time."
+msgstr ""
+
+msgctxt "716"
+msgid ""
+"Hah!  I'll go as long as it takes for you to admit I'm\r\n"
+"the better player!"
+msgstr ""
+
+msgctxt "776"
+msgid ""
+"(A guy in a uniform. This must be who the old man was\r\n"
+"talking about.)"
+msgstr ""
+
+msgctxt "788"
+msgid "What's with you? What do you want?"
+msgstr ""
+
+msgctxt "800"
+msgid "Hm...? Oh, it's you."
+msgstr ""
+
+msgctxt "812"
+msgid ""
+"I heard you were hittin' up a storm in here. Even better\r\n"
+"than me, they said... Which I find pretty outrageous."
+msgstr ""
+
+msgctxt "824"
+msgid ""
+"Ten years ago, I won at the high school nationals, was a number one draft "
+"pick and went straight to the pros. You really think you're better than me, "
+"old man!?"
+msgstr ""
+
+msgctxt "836"
+msgid ""
+"What are you so worked up about? I was in prison ten years\r\n"
+"ago, so don't expect me to know who you are."
+msgstr ""
+
+msgctxt "848"
+msgid ""
+"What!? Have you been living under a fucking rock?\r\n"
+"Everybody's heard of me! Don't they have TV in jail?"
+msgstr ""
+
+msgctxt "860"
+msgid ""
+"So you're a big shot pro ball player, are you? Shouldn't\r\n"
+"you be somewhere more important getting toned up\r\n"
+"for the season?"
+msgstr ""
+
+msgctxt "872"
+msgid ""
+"Shut up! I'm playing second string right now, so I don't\r\n"
+"have to worry about shit!"
+msgstr ""
+
+msgctxt "884"
+msgid "Second string, huh...? Okay, then."
+msgstr ""
+
+msgctxt "896"
+msgid "What? The hell is that supposed to mean!?"
+msgstr ""
+
+msgctxt "908"
+msgid ""
+"I'm a professional! Why do I have to waste my time messin'\r\n"
+"around with an amateur like you? You'd never beat me!"
+msgstr ""
+
+msgctxt "920"
+msgid "Hey, I never said I wanted to challenge you."
+msgstr ""
+
+msgctxt "932"
+msgid ""
+"Shut up! This isn't about what you want! This is about <Italic>me</Italic> "
+"and what <Italic>I</Italic> need to do!"
+msgstr ""
+
+msgctxt "944"
+msgid "You've got a big head there, kid."
+msgstr ""
+
+msgctxt "956"
+msgid ""
+"There's no way an old, inexperienced dude like you could\r\n"
+"outhit a professional like me."
+msgstr ""
+
+msgctxt "968"
+msgid "Guess we won't know till we try. I just might surprise you."
+msgstr ""
+
+msgctxt "980"
+msgid "Then let's do this shit!"
+msgstr ""
+
+msgctxt "992"
+msgid ""
+"We each get ten balls and switch off after each one.\r\n"
+"Whoever ends up with the most points is the winner."
+msgstr ""
+
+msgctxt "1004"
+msgid ""
+"Watch closely, old man. I can talk a big game, but I walk\r\n"
+"a bigger one."
+msgstr ""
+
+msgctxt "1016"
+msgid "Sorry, I don't think I can help you. Maybe some other time."
+msgstr ""
+
+msgctxt "1028"
+msgid ""
+"Backing down now, huh? Ha! Don't have the balls for it,\r\n"
+"do you!?"
+msgstr ""
+
+msgctxt "1040"
+msgid ""
+"I'll be waiting right here, got it? Come back when you\r\n"
+"happen to grow a pair. I'll take you on any time, pops!"
+msgstr ""
+
+msgctxt "1052"
+msgid "All right. Let's do this."
+msgstr ""
+
+msgctxt "1064"
+msgid "Heh! I'll show you how it's done in the pros!"
+msgstr ""
+
+msgctxt "1088"
+msgid "You ready to take me on, pops?"
+msgstr ""
+
+msgctxt "1100"
+msgid "Nah, maybe later, though."
+msgstr ""
+
+msgctxt "1112"
+msgid "Any time, tough guy. I'll cut you down to size."
+msgstr ""
+
+msgctxt "1124"
+msgid "You bet. Let's get it started."
+msgstr ""
+
+msgctxt "1136"
+msgid "Heh! I'll show you how it's done in the pros!"
+msgstr ""
+
+msgctxt "1160"
+msgid "Let's go again."
+msgstr ""
+
+msgctxt "1172"
+msgid "Maybe some other time."
+msgstr ""
+
+msgctxt "1184"
+msgid "Let's do this."
+msgstr ""
+
+msgctxt "1196"
+msgid "Maybe some other time."
+msgstr ""
+
+msgctxt "1208"
+msgid "Take Him On"
+msgstr ""
+
+msgctxt "1220"
+msgid "Maybe Later"
+msgstr ""
+
+msgctxt "13180"
+msgid "Mysterious Pro Ball Player"
+msgstr ""
+
+msgctxt "13184"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "13188"
+msgid "Mysterious Manager"
+msgstr ""
+
+msgctxt "13192"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "13196"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "13200"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "13204"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "13208"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "13212"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "13216"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "13220"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "13224"
+msgid "Talk_Send"
+msgstr ""
+
+msgctxt "13228"
+msgid "dummy"
+msgstr ""
+
+msgctxt "13232"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "13236"
+msgid "Mysterious Baseball Player"
+msgstr ""
+
+msgctxt "13240"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "13244"
+msgid "M_ykz_stand_tlk_angry"
+msgstr ""
+
+msgctxt "13248"
+msgid "Talk_Udekumi_st"
+msgstr ""
+
+msgctxt "13252"
+msgid "Talk_Udekumi_Yes"
+msgstr ""
+
+msgctxt "13256"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "13260"
+msgid "Talk_Kamae"
+msgstr ""

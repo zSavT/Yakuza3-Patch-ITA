@@ -1,0 +1,98 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid "Get away from me, you pervert!"
+msgstr ""
+
+msgctxt "76"
+msgid ""
+"You've gotta be kidding me, Natsumi! I gave up everything for you! My "
+"business, my life, everything!"
+msgstr ""
+
+msgctxt "100"
+msgid ""
+"Hey, she told you to leave her alone! You got a problem, you can take it up "
+"with me!"
+msgstr ""
+
+msgctxt "160"
+msgid "I drop 20 mil on your ass and this is what I get...?"
+msgstr ""
+
+msgctxt "172"
+msgid ""
+"You're talkin' about cash you spent at the club, yeah? Then that's between "
+"you and the club. Now get the hell outta her face!"
+msgstr ""
+
+msgctxt "196"
+msgid ""
+"Akiho-san... Sorry 'bout all that. No surprise that you've got creeps "
+"waiting for you down every street, though, especially here. Maybe you're "
+"just not cut out for the big city."
+msgstr ""
+
+msgctxt "208"
+msgid "But..."
+msgstr ""
+
+msgctxt "220"
+msgid ""
+"How about you come back to Okinawa with me? Start fresh. Me and the rest of "
+"the Ryudo Family'll make sure nobody dares to even look at you the wrong "
+"way."
+msgstr ""
+
+msgctxt "232"
+msgid ""
+"Well thank you, but... I'll think about it. Anyway, I should be going. "
+"Hopefully our next meeting isn't under such awful circumstances."
+msgstr ""
+
+msgctxt "3156"
+msgid "Akiho"
+msgstr ""
+
+msgctxt "3160"
+msgid "Stalker"
+msgstr ""
+
+msgctxt "3164"
+msgid "Talk_Request"
+msgstr ""
+
+msgctxt "3168"
+msgid "Rikiya"
+msgstr ""
+
+msgctxt "3172"
+msgid "M_ykzs_damage"
+msgstr ""
+
+msgctxt "3176"
+msgid "Idle"
+msgstr ""
+
+msgctxt "3180"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "3184"
+msgid "dummy"
+msgstr ""
+
+msgctxt "3188"
+msgid "0"
+msgstr ""

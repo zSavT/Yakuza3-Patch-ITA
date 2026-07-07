@@ -1,0 +1,158 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "260"
+msgid "(No time for this right now...)"
+msgstr ""
+
+msgctxt "296"
+msgid "What took you so long, Uncle Kaz? I was getting tired of waiting..."
+msgstr ""
+
+msgctxt "308"
+msgid "The hell took so long, Aniki? Let's get movin'."
+msgstr ""
+
+msgctxt "320"
+msgid ""
+"You got that out of your system? Good. Let's get back on\r\n"
+"the case."
+msgstr ""
+
+msgctxt "356"
+msgid "Are you... going in there, Uncle Kaz?"
+msgstr ""
+
+msgctxt "368"
+msgid "(Shoot, I forgot Haruka was with me! What now!?)"
+msgstr ""
+
+msgctxt "380"
+msgid "Yeah. Sorry, but I need you to wait out here."
+msgstr ""
+
+msgctxt "392"
+msgid "...Okay. Have fun, Uncle Kaz."
+msgstr ""
+
+msgctxt "404"
+msgid "Nah, it can wait."
+msgstr ""
+
+msgctxt "416"
+msgid "Really? I don't mind."
+msgstr ""
+
+msgctxt "428"
+msgid "We, uh... goin' in, Aniki?"
+msgstr ""
+
+msgctxt "440"
+msgid "(Shoot, I forgot Rikiya was with me! What now!?)"
+msgstr ""
+
+msgctxt "452"
+msgid "Yeah. You want to come with?"
+msgstr ""
+
+msgctxt "464"
+msgid ""
+"Nah, I'm not really in the mood. I'll be chillin' out here\r\n"
+"when you're done, though. Later, Aniki."
+msgstr ""
+
+msgctxt "476"
+msgid "No, I'm okay."
+msgstr ""
+
+msgctxt "488"
+msgid "Huh? Changed your mind?"
+msgstr ""
+
+msgctxt "500"
+msgid "Hold on, Kiryu. You're not going in there, are you?"
+msgstr ""
+
+msgctxt "512"
+msgid "(Shoot, I forgot Date-san was with me! What now!?)"
+msgstr ""
+
+msgctxt "524"
+msgid "Of course I am. Want to join me, Date-san?"
+msgstr ""
+
+msgctxt "536"
+msgid ""
+"...Nah, I'm good. But you go ahead. Who am I to get in the\r\n"
+"way of a man and his pleasure?"
+msgstr ""
+
+msgctxt "548"
+msgid "Nah, it can wait."
+msgstr ""
+
+msgctxt "560"
+msgid "You sure? I'm cool with you going in."
+msgstr ""
+
+msgctxt "608"
+msgid "Go In Anyway"
+msgstr ""
+
+msgctxt "620"
+msgid "Forget It"
+msgstr ""
+
+msgctxt "632"
+msgid "Go In Anyway"
+msgstr ""
+
+msgctxt "644"
+msgid "Forget It"
+msgstr ""
+
+msgctxt "656"
+msgid "Go In Anyway"
+msgstr ""
+
+msgctxt "668"
+msgid "Forget It"
+msgstr ""
+
+msgctxt "4556"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "4560"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "4564"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "4568"
+msgid "Rikiya"
+msgstr ""
+
+msgctxt "4572"
+msgid "Date"
+msgstr ""
+
+msgctxt "4576"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "4580"
+msgid "Talk_No"
+msgstr ""

@@ -1,0 +1,70 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "128"
+msgid "Don't Order Anything"
+msgstr ""
+
+msgctxt "149"
+msgid "Check Out"
+msgstr ""
+
+msgctxt "159"
+msgid "Order"
+msgstr ""
+
+msgctxt "165"
+msgid "(I'm short on cash.)"
+msgstr ""
+
+msgctxt "186"
+msgid "(I can't carry any more stuff.)"
+msgstr ""
+
+msgctxt "218"
+msgid "(I can't handle any more turtles.)"
+msgstr ""
+
+msgctxt "253"
+msgid "(I didn't choose anything.)"
+msgstr ""
+
+msgctxt "281"
+msgid "(They're sold out.)"
+msgstr ""
+
+msgctxt "301"
+msgid "Let's see. That comes to %s."
+msgstr ""
+
+msgctxt "330"
+msgid "My famous soba. It doesn't get any better than this."
+msgstr ""
+
+msgctxt "383"
+msgid ""
+"Made with pig's feet simmered for half a day. This \n"
+"goes great with Okinawan soba."
+msgstr ""
+
+msgctxt "466"
+msgid ""
+"Tasty Okinawan noodles and tender pork ribs go great\n"
+"together."
+msgstr ""
+
+msgctxt "529"
+msgid ""
+"Okinawan soba noodles with rafute, cubes of glazed\n"
+"pork belly that melt in your mouth."
+msgstr ""

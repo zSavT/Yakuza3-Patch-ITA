@@ -1,0 +1,86 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "108"
+msgid "I'm back, Uncle Kaz! Hope I didn't keep you waiting!"
+msgstr ""
+
+msgctxt "120"
+msgid "Not at all. You get everything you need?"
+msgstr ""
+
+msgctxt "132"
+msgid "Yup! That should be enough to last us for like, three days!"
+msgstr ""
+
+msgctxt "144"
+msgid "...Where's the food?"
+msgstr ""
+
+msgctxt "156"
+msgid ""
+"Oh, I bought so much they said they'll bring it over for me!\r\n"
+"Perks of being a regular, hehe!"
+msgstr ""
+
+msgctxt "168"
+msgid "Huh. I didn't even know they offered that kind of service."
+msgstr ""
+
+msgctxt "180"
+msgid ""
+"I don't think they do normally! But I get all our food over\r\n"
+"here, and we need so much to feed all the kids, so they make an exception "
+"for me."
+msgstr ""
+
+msgctxt "192"
+msgid ""
+"Anyway, you should probably start heading to the airport,\r\n"
+"Uncle Kaz."
+msgstr ""
+
+msgctxt "204"
+msgid "Right. Want me to walk you back to the monorail before I go?"
+msgstr ""
+
+msgctxt "216"
+msgid "Yes please!"
+msgstr ""
+
+msgctxt "252"
+msgid ""
+"I have a lot of stuff to get so you can wait here, Uncle\r\n"
+"Kaz. Or maybe go upstairs? I think there are supposed to\r\n"
+"be some good restaurants up there!"
+msgstr ""
+
+msgctxt "264"
+msgid "Sure, I'll take a look."
+msgstr ""
+
+msgctxt "2548"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "2552"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "2556"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "2560"
+msgid "Talk_Yes"
+msgstr ""

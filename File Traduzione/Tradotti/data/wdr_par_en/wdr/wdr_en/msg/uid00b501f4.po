@@ -1,0 +1,417 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "332"
+msgid "Are you Asai, former employee of Café Alps?"
+msgstr ""
+
+msgctxt "344"
+msgid "Yeah... Who are you?"
+msgstr ""
+
+msgctxt "356"
+msgid ""
+"Kazuma Kiryu. I wanna ask you about the murder\r\n"
+"that happened at Café Alps six years ago."
+msgstr ""
+
+msgctxt "368"
+msgid "Oh, that. So what do you wanna know?"
+msgstr ""
+
+msgctxt "392"
+msgid "(Let's see. What to ask...?)"
+msgstr ""
+
+msgctxt "404"
+msgid "You were at the café at the time of the murder, weren't you?"
+msgstr ""
+
+msgctxt "416"
+msgid ""
+"Yeah. I think I was closing the register. It was after we'd\r\n"
+"closed for the night."
+msgstr ""
+
+msgctxt "428"
+msgid ""
+"So you didn't go anywhere near the murder scene, the locker\r\n"
+"room?"
+msgstr ""
+
+msgctxt "440"
+msgid ""
+"Of course not. I mean, why would I? I was still working,\r\n"
+"wasn't I?"
+msgstr ""
+
+msgctxt "452"
+msgid "What?"
+msgstr ""
+
+msgctxt "464"
+msgid "(He's acting kind of funny...)"
+msgstr ""
+
+msgctxt "488"
+msgid ""
+"Do you know anything about the person seen running\r\n"
+"from the scene of the crime?"
+msgstr ""
+
+msgctxt "500"
+msgid "No, I don't know anything."
+msgstr ""
+
+msgctxt "512"
+msgid ""
+"I only found out a murder had taken place when Kinoshita-san\r\n"
+"showed up looking as white as a sheet. I didn't see the\r\n"
+"murderer at all."
+msgstr ""
+
+msgctxt "524"
+msgid "I see..."
+msgstr ""
+
+msgctxt "536"
+msgid "Oh, but I did see Oda-san's body."
+msgstr ""
+
+msgctxt "548"
+msgid "Ugh, I can still see it. Blech!"
+msgstr ""
+
+msgctxt "560"
+msgid ""
+"(So Asai went into the locker room after the murderer\r\n"
+"escaped, huh...?)"
+msgstr ""
+
+msgctxt "584"
+msgid "Do you know anybody with a motive to kill Oda?"
+msgstr ""
+
+msgctxt "596"
+msgid "Well, you reap what you sow..."
+msgstr ""
+
+msgctxt "608"
+msgid ""
+"I mean, it was bad enough he was always messing around\r\n"
+"at the workplace, but going after another employee's woman?\r\n"
+"Get a grip!"
+msgstr ""
+
+msgctxt "620"
+msgid ""
+"You make it sound like he'd slept with other women at\r\n"
+"the café before."
+msgstr ""
+
+msgctxt "632"
+msgid "Yeah. I saw him hook up with another woman there once."
+msgstr ""
+
+msgctxt "644"
+msgid "Another woman? Got a name for her?"
+msgstr ""
+
+msgctxt "656"
+msgid ""
+"Yeah, I think her last name was Saitoh. I guess she was\r\n"
+"dating Oda-san at the time of the murder."
+msgstr ""
+
+msgctxt "668"
+msgid ""
+"I don't see anybody named Saitoh listed among the people\r\n"
+"related to the case."
+msgstr ""
+
+msgctxt "680"
+msgid ""
+"She'd already quit the café by that time. I heard she still\r\n"
+"hung around Oda-san, though."
+msgstr ""
+
+msgctxt "692"
+msgid "(So <Color:7>Oda was dating somebody at the time<Color:Default>...)"
+msgstr ""
+
+msgctxt "716"
+msgid "You got <Color:8>Asai's Testimony<Color:Default>."
+msgstr ""
+
+msgctxt "752"
+msgid ""
+"Your fingerprints weren't found on the murder weapon. Isn't\r\n"
+"that strange, seeing as you were one of the waiters?"
+msgstr ""
+
+msgctxt "764"
+msgid ""
+"I just didn't like doing the ashtrays. I always left that to\r\n"
+"other people."
+msgstr ""
+
+msgctxt "776"
+msgid ""
+"So it's pretty natural my fingerprints wouldn't be on it,\r\n"
+"I guess."
+msgstr ""
+
+msgctxt "788"
+msgid "I see."
+msgstr ""
+
+msgctxt "812"
+msgid ""
+"This job is pretty boring, so thanks for helping me kill\r\n"
+"some time. You can ask me more whenever you want."
+msgstr ""
+
+msgctxt "824"
+msgid "I see..."
+msgstr ""
+
+msgctxt "860"
+msgid "Are you sure there isn't anything else you wanna tell me?"
+msgstr ""
+
+msgctxt "872"
+msgid ""
+"What do you mean? It's not like I have anything to hide...\r\n"
+"Hehehe."
+msgstr ""
+
+msgctxt "884"
+msgid "......"
+msgstr ""
+
+msgctxt "896"
+msgid ""
+"(Asai sounds like he knows more. I just don't have enough\r\n"
+"information right now to get it out of him.)"
+msgstr ""
+
+msgctxt "908"
+msgid "(I should talk to him again when I know more.)"
+msgstr ""
+
+msgctxt "932"
+msgid "By the way... Do you remember Imagawa?"
+msgstr ""
+
+msgctxt "944"
+msgid "Imagawa? Sounds familiar..."
+msgstr ""
+
+msgctxt "956"
+msgid "Your coworker from Café Alps."
+msgstr ""
+
+msgctxt "968"
+msgid "Oh, Mr. Gloomy? Yeah, I remember him now."
+msgstr ""
+
+msgctxt "980"
+msgid ""
+"Imagawa says he had things stolen from his locker. You\r\n"
+"know anything about that, Asai?"
+msgstr ""
+
+msgctxt "992"
+msgid "What, you think I had something to do with it?"
+msgstr ""
+
+msgctxt "1004"
+msgid "Yes."
+msgstr ""
+
+msgctxt "1016"
+msgid ""
+"Look, I'm not judging you. I'm just trying to find out\r\n"
+"what you know."
+msgstr ""
+
+msgctxt "1028"
+msgid ""
+"Well, I might've tried to make a quick buck or two off\r\n"
+"him..."
+msgstr ""
+
+msgctxt "1040"
+msgid "All I took was a wallet and some CDs I sold off later."
+msgstr ""
+
+msgctxt "1064"
+msgid "No."
+msgstr ""
+
+msgctxt "1076"
+msgid "I'm just trying to find out what you know."
+msgstr ""
+
+msgctxt "1088"
+msgid ""
+"But you really think I did it, though, don't you...?\r\n"
+"Okay, you got me."
+msgstr ""
+
+msgctxt "1100"
+msgid "I <Italic>did</Italic> do it."
+msgstr ""
+
+msgctxt "1112"
+msgid "What?"
+msgstr ""
+
+msgctxt "1124"
+msgid ""
+"I was just trying to make a quick buck or two... All I took\r\n"
+"was a wallet and some CDs I sold off later."
+msgstr ""
+
+msgctxt "1148"
+msgid "Anything else?"
+msgstr ""
+
+msgctxt "1160"
+msgid "Huh? Like what?"
+msgstr ""
+
+msgctxt "1172"
+msgid "You didn't steal Imagawa's uniform?"
+msgstr ""
+
+msgctxt "1184"
+msgid ""
+"Uniform? How would I make any money off of that? All I stole\r\n"
+"was his wallet and CDs, that's all."
+msgstr ""
+
+msgctxt "1196"
+msgid ""
+"(So <Color:7>that's all Asai took<Color:Default>, huh? Maybe the police "
+"really did\r\n"
+"take the uniform...?)"
+msgstr ""
+
+msgctxt "1220"
+msgid "You got <Color:8>Asai's Testimony 2<Color:Default>."
+msgstr ""
+
+msgctxt "1256"
+msgid "I wanna ask you about the murder at Café Alps six years ago."
+msgstr ""
+
+msgctxt "1268"
+msgid "This job is boring me to tears, so ask away!"
+msgstr ""
+
+msgctxt "1280"
+msgid "(Let's see. What to ask...?)"
+msgstr ""
+
+msgctxt "1292"
+msgid "Ask for Their Alibi"
+msgstr ""
+
+msgctxt "1304"
+msgid "Ask About Witness Statements"
+msgstr ""
+
+msgctxt "1316"
+msgid "Ask About the Motive"
+msgstr ""
+
+msgctxt "1328"
+msgid "Ask About the Fingerprints"
+msgstr ""
+
+msgctxt "1340"
+msgid "Stop Asking Questions"
+msgstr ""
+
+msgctxt "1352"
+msgid "Yes."
+msgstr ""
+
+msgctxt "1364"
+msgid "No."
+msgstr ""
+
+msgctxt "1376"
+msgid "Ask for Their Alibi"
+msgstr ""
+
+msgctxt "1388"
+msgid "Ask About Witness Statements"
+msgstr ""
+
+msgctxt "1400"
+msgid "Ask About the Motive"
+msgstr ""
+
+msgctxt "1412"
+msgid "Ask About the Fingerprints"
+msgstr ""
+
+msgctxt "1424"
+msgid "Stop Asking Questions"
+msgstr ""
+
+msgctxt "12968"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "12972"
+msgid "Asai"
+msgstr ""
+
+msgctxt "12976"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "12980"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "12984"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "12988"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "12992"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "12996"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "13000"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "13004"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "13008"
+msgid "Talk_Angry"
+msgstr ""

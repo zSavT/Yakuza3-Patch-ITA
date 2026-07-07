@@ -1,0 +1,161 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid "......"
+msgstr ""
+
+msgctxt "76"
+msgid ""
+"What's the matter, grandpa? Speak up! It ain't like we're tryin'\r\n"
+"to mug you or nothin'. We're real upstanding youth, see."
+msgstr ""
+
+msgctxt "88"
+msgid "Hey... What do you think you're doing?"
+msgstr ""
+
+msgctxt "100"
+msgid "Dammit... We gotta bounce."
+msgstr ""
+
+msgctxt "124"
+msgid "And I thought for sure we had that old dude in the bag, too."
+msgstr ""
+
+msgctxt "148"
+msgid "......"
+msgstr ""
+
+msgctxt "160"
+msgid "You okay?"
+msgstr ""
+
+msgctxt "172"
+msgid "I am. Thank you for that. They just wouldn't leave me alone."
+msgstr ""
+
+msgctxt "184"
+msgid "You still look worried. Is there something wrong?"
+msgstr ""
+
+msgctxt "196"
+msgid ""
+"No, no... I'm just a little pooped out, that's all.\r\n"
+"It's been quite some time since I was back in this town."
+msgstr ""
+
+msgctxt "208"
+msgid ""
+"In fact, it's been more than sixty years... Back in the\r\n"
+"postwar days, this place was one big black market."
+msgstr ""
+
+msgctxt "220"
+msgid ""
+"Which reminds me... There's something I'd like to ask you. Would you happen "
+"to have heard of a <Color:7>Suppon Street<Color:Default> somewhere around "
+"here?"
+msgstr ""
+
+msgctxt "232"
+msgid "Suppon Street?"
+msgstr ""
+
+msgctxt "244"
+msgid ""
+"Yeah. I've got some business with a bar on Suppon Street,\r\n"
+"goes by the name of Jinsei. I thought I knew where it was..."
+msgstr ""
+
+msgctxt "256"
+msgid ""
+"But damn if this place hasn't changed in sixty years! I feel\r\n"
+"like a complete newcomer. Not to mention I've been walking\r\n"
+"so much, I can barely stand..."
+msgstr ""
+
+msgctxt "268"
+msgid ""
+"I hate to take advantage of your kindness, but do you think\r\n"
+"you could find me that Jinsei place on Suppon Street and let\r\n"
+"me know how to get there?"
+msgstr ""
+
+msgctxt "280"
+msgid "I need to rest here a little longer."
+msgstr ""
+
+msgctxt "292"
+msgid "(So, I'm looking for a Jinsei on Suppon Street...)"
+msgstr ""
+
+msgctxt "4732"
+msgid "Older Gentleman"
+msgstr ""
+
+msgctxt "4736"
+msgid "Local Hoodlum"
+msgstr ""
+
+msgctxt "4740"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "4744"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "4748"
+msgid "Local Hooligan"
+msgstr ""
+
+msgctxt "4752"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "4756"
+msgid "Talk_Udekumi_st"
+msgstr ""
+
+msgctxt "4760"
+msgid "Talk_Udekumi_ed"
+msgstr ""
+
+msgctxt "4764"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "4768"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "4772"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "4776"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "4780"
+msgid "Talk_Request"
+msgstr ""
+
+msgctxt "4784"
+msgid "dummy"
+msgstr ""
+
+msgctxt "4788"
+msgid "0"
+msgstr ""

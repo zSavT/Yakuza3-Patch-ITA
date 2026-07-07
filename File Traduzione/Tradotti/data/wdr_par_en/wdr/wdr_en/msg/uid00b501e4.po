@@ -1,0 +1,63 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "204"
+msgid ""
+"Date-san, do you know anything about the Café Alps\r\n"
+"murder from six years ago?"
+msgstr ""
+
+msgctxt "216"
+msgid ""
+"Six years ago? It sounds kind of familiar... Sorry, though.\r\n"
+"I was already in Division 4 by then, so I don't really\r\n"
+"remember it."
+msgstr ""
+
+msgctxt "228"
+msgid ""
+"I mean, tons of crimes happen in Kamurocho. How am I\r\n"
+"supposed to remember them all?"
+msgstr ""
+
+msgctxt "240"
+msgid "I see..."
+msgstr ""
+
+msgctxt "1268"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1272"
+msgid "Date"
+msgstr ""
+
+msgctxt "1276"
+msgid "P_stand_tlk_kamae"
+msgstr ""
+
+msgctxt "1280"
+msgid "P_stand"
+msgstr ""
+
+msgctxt "1284"
+msgid "Talk_Kamae"
+msgstr ""
+
+msgctxt "1288"
+msgid "0"
+msgstr ""
+
+msgctxt "1292"
+msgid "dummy"
+msgstr ""

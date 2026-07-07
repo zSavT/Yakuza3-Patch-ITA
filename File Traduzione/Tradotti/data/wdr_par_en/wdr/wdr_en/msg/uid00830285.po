@@ -1,0 +1,132 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "76"
+msgid "Master Utabori... Sorry to intrude."
+msgstr ""
+
+msgctxt "88"
+msgid "Kiryu? What brings you here?"
+msgstr ""
+
+msgctxt "100"
+msgid ""
+"I was wondering if you'd work on a tattoo for my friend here. His name's "
+"Rikiya."
+msgstr ""
+
+msgctxt "112"
+msgid "A friend, hm? Interesting."
+msgstr ""
+
+msgctxt "124"
+msgid ""
+"His artist passed away before he could get his tattoo finished... so we "
+"were hoping your needle might be the one for the job."
+msgstr ""
+
+msgctxt "136"
+msgid ""
+"I'm sorry, but you'll need to find someone else if that's what you want. I "
+"can't add to another artist's work."
+msgstr ""
+
+msgctxt "148"
+msgid "But..."
+msgstr ""
+
+msgctxt "160"
+msgid ""
+"Listen well, Kiryu. A tattoo changes a man's life. You know that better "
+"than anyone."
+msgstr ""
+
+msgctxt "172"
+msgid ""
+"The creator and the receiver must both be prepared to bear the lifelong "
+"responsibilities that tattoo brings."
+msgstr ""
+
+msgctxt "184"
+msgid "So I'm sorry, but the answer must be no."
+msgstr ""
+
+msgctxt "196"
+msgid ""
+"Call me a stubborn old man if you wish, but this is something I won't "
+"compromise on."
+msgstr ""
+
+msgctxt "208"
+msgid "Okay. We'll find someone else."
+msgstr ""
+
+msgctxt "220"
+msgid ""
+"Hey, hold on a sec! You're just gonna refuse before you even see the damn "
+"thing?"
+msgstr ""
+
+msgctxt "232"
+msgid "You're not an artist, you're a coward!"
+msgstr ""
+
+msgctxt "244"
+msgid "Rikiya, that's enough!"
+msgstr ""
+
+msgctxt "256"
+msgid ""
+"Sorry, Aniki, but I can't let this go. That viper is the soul of Okinawa! "
+"How can he talk like that if he won't even look at my tattoo?"
+msgstr ""
+
+msgctxt "268"
+msgid "I admire your spirit, boy, but don't presume to lecture me on my own trade."
+msgstr ""
+
+msgctxt "280"
+msgid "Fine then, I'll just show you! Take a look at this!"
+msgstr ""
+
+msgctxt "3844"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "3848"
+msgid "Utabori"
+msgstr ""
+
+msgctxt "3852"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "3856"
+msgid "M_nml_stand"
+msgstr ""
+
+msgctxt "3860"
+msgid "SitChair_ed"
+msgstr ""
+
+msgctxt "3864"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "3868"
+msgid "Rikiya"
+msgstr ""
+
+msgctxt "3872"
+msgid "Nml_TurnL180"
+msgstr ""

@@ -1,0 +1,68 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "240"
+msgid "Let's pick a banker, shall we?"
+msgstr ""
+
+msgctxt "252"
+msgid "I'm the banker, then."
+msgstr ""
+
+msgctxt "264"
+msgid "How much will you bet?"
+msgstr ""
+
+msgctxt "276"
+msgid "Let's start..."
+msgstr ""
+
+msgctxt "288"
+msgid "It's my turn."
+msgstr ""
+
+msgctxt "300"
+msgid "(This line signifies failure.)"
+msgstr ""
+
+msgctxt "312"
+msgid "Let's settle up."
+msgstr ""
+
+msgctxt "324"
+msgid "You're the banker."
+msgstr ""
+
+msgctxt "336"
+msgid "Time to change the banker."
+msgstr ""
+
+msgctxt "348"
+msgid "Play again?"
+msgstr ""
+
+msgctxt "360"
+msgid ""
+"I'm tapped out.\r\n"
+"It's time I went home."
+msgstr ""
+
+msgctxt "372"
+msgid ""
+"That it for you?\r\n"
+"Better luck next time."
+msgstr ""
+
+msgctxt "1296"
+msgid "Broadsword Hide"
+msgstr ""

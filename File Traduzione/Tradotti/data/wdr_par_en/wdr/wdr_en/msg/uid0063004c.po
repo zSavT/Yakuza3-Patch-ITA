@@ -1,0 +1,152 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "308"
+msgid "Hehe... I'm so excited to sing with you."
+msgstr ""
+
+msgctxt "320"
+msgid "I think I'll sing \"Saturday Night☆Lover.\" <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "332"
+msgid "Go for it."
+msgstr ""
+
+msgctxt "344"
+msgid "How'd we do?"
+msgstr ""
+
+msgctxt "368"
+msgid "Do you really want to leave now? We haven't even sung anything yet!"
+msgstr ""
+
+msgctxt "380"
+msgid "Hehe... You certainly know how to heat things up!"
+msgstr ""
+
+msgctxt "392"
+msgid "Why don't you try a song, too?"
+msgstr ""
+
+msgctxt "404"
+msgid "I'll sing \"Kamurocho Lullaby,\" then."
+msgstr ""
+
+msgctxt "416"
+msgid "Hehe... I can't wait to hear you sing, Kiryu-san! <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "428"
+msgid "Nah, not right now."
+msgstr ""
+
+msgctxt "440"
+msgid "Are you sure? I was really looking forward to hearing you sing..."
+msgstr ""
+
+msgctxt "452"
+msgid "Wow, that was rough..."
+msgstr ""
+
+msgctxt "464"
+msgid "Sorry."
+msgstr ""
+
+msgctxt "476"
+msgid "Wow, Kiryu-san! You sounded just like a pro!"
+msgstr ""
+
+msgctxt "488"
+msgid "You think so? Thanks."
+msgstr ""
+
+msgctxt "500"
+msgid "Are you feeling all right? Does your throat hurt, maybe?"
+msgstr ""
+
+msgctxt "512"
+msgid "No..."
+msgstr ""
+
+msgctxt "524"
+msgid ""
+"That was awesome! <Color:7>⑮<Color:Default> You really know how to liven "
+"things up!"
+msgstr ""
+
+msgctxt "536"
+msgid "Why don't you try a song, too?"
+msgstr ""
+
+msgctxt "548"
+msgid "I'll sing \"Kamurocho Lullaby,\" then."
+msgstr ""
+
+msgctxt "560"
+msgid "Hehe... I can't wait to hear you sing, Kiryu-san! <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "572"
+msgid "Nah, not right now."
+msgstr ""
+
+msgctxt "584"
+msgid "Are you sure? I was really looking forward to hearing you sing..."
+msgstr ""
+
+msgctxt "596"
+msgid ""
+"That song... wow. It was incredible. I could listen to you all day. "
+"<Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "608"
+msgid "You think so? Thanks."
+msgstr ""
+
+msgctxt "620"
+msgid "Sing Karaoke"
+msgstr ""
+
+msgctxt "632"
+msgid "View Rankings"
+msgstr ""
+
+msgctxt "644"
+msgid "How to Play"
+msgstr ""
+
+msgctxt "656"
+msgid "Sing"
+msgstr ""
+
+msgctxt "668"
+msgid "Don't Sing"
+msgstr ""
+
+msgctxt "680"
+msgid "Sing"
+msgstr ""
+
+msgctxt "692"
+msgid "Don't Sing"
+msgstr ""
+
+msgctxt "4784"
+msgid "Miyu"
+msgstr ""
+
+msgctxt "4788"
+msgid "Kiryu"
+msgstr ""

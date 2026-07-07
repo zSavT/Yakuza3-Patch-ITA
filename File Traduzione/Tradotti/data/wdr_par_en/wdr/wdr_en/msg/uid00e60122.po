@@ -1,0 +1,109 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "104"
+msgid ""
+"...I thought I told you to target girls. What the hell am I\r\n"
+"supposed to do with this giant oaf?"
+msgstr ""
+
+msgctxt "116"
+msgid ""
+"Sorry, chief. But hey, he's one hefty dude... I'm sure someone would pay "
+"good money for a guy like him."
+msgstr ""
+
+msgctxt "128"
+msgid "Maybe so..."
+msgstr ""
+
+msgctxt "140"
+msgid "...Who's paying good money for me now?"
+msgstr ""
+
+msgctxt "152"
+msgid "Oh, shit!"
+msgstr ""
+
+msgctxt "164"
+msgid ""
+"Dude! You drank enough tranqs to knock out a sumo wrestler... Just what "
+"kinda monster are you!?"
+msgstr ""
+
+msgctxt "176"
+msgid ""
+"So that's your game. You pretend like you're a nice, helpful tour guide, "
+"then kidnap girls for profit? You're the monsters here... and you're gonna "
+"pay!"
+msgstr ""
+
+msgctxt "188"
+msgid "Dammit! He's hip to the game now, boss! How are we getting outta this one?"
+msgstr ""
+
+msgctxt "200"
+msgid "We slit the bastard's throat to keep him quiet, that's how!"
+msgstr ""
+
+msgctxt "2420"
+msgid "2.5_175_SLOWER_VF"
+msgstr ""
+
+msgctxt "2424"
+msgid "Red"
+msgstr ""
+
+msgctxt "2428"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "2432"
+msgid "Tom"
+msgstr ""
+
+msgctxt "2436"
+msgid "Talk_Sorry"
+msgstr ""
+
+msgctxt "2440"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "2444"
+msgid "Idle"
+msgstr ""
+
+msgctxt "2448"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "2452"
+msgid "1_-166_FASTER_VF"
+msgstr ""
+
+msgctxt "2456"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "2460"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "2464"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "2468"
+msgid "Talk_Angry"
+msgstr ""

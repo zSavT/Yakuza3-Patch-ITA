@@ -1,0 +1,56 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "124"
+msgid "Hey there, welcome! You wouldn't mind givin' me all your cash, would you?"
+msgstr ""
+
+msgctxt "136"
+msgid "I'm tellin' you to take out your wallet. Hurry up, chump!"
+msgstr ""
+
+msgctxt "160"
+msgid "Bastard... How did you win against so many of us?"
+msgstr ""
+
+msgctxt "172"
+msgid "Th...This is all we got on us... Please, just let us go..."
+msgstr ""
+
+msgctxt "184"
+msgid "You got a seedy %s."
+msgstr ""
+
+msgctxt "220"
+msgid "Dammit... I don't even have enough for the train now..."
+msgstr ""
+
+msgctxt "1512"
+msgid "Irate Thug"
+msgstr ""
+
+msgctxt "1516"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "1520"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "1524"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "1528"
+msgid "Sync_Send"
+msgstr ""

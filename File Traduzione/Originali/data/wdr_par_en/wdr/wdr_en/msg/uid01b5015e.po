@@ -1,0 +1,263 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "136"
+msgid "Get out of here! We've got no money for you!"
+msgstr ""
+
+msgctxt "148"
+msgid "We'll... We'll remember this!"
+msgstr ""
+
+msgctxt "196"
+msgid "Thank you, Kiryu-san. We're finally rid of the thugs, thanks to you!"
+msgstr ""
+
+msgctxt "208"
+msgid ""
+"And the people we've taken in as bouncers have found new\r\n"
+"lives at this casino."
+msgstr ""
+
+msgctxt "220"
+msgid ""
+"Please accept this as a token of our gratitude. I wish we\r\n"
+"could give you more."
+msgstr ""
+
+msgctxt "232"
+msgid "You got <Color:8>500,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "244"
+msgid "Now please, enjoy the casino."
+msgstr ""
+
+msgctxt "316"
+msgid "You got 5,000 EXP."
+msgstr ""
+
+msgctxt "328"
+msgid ""
+"You either pay up, or we'll be back to rip this place to shreds! Get that "
+"through your skull!"
+msgstr ""
+
+msgctxt "364"
+msgid "...The hell you lookin' at?"
+msgstr ""
+
+msgctxt "400"
+msgid "Oh... Kiryu-san... I'm sorry you had to see that."
+msgstr ""
+
+msgctxt "412"
+msgid "What's going on here?"
+msgstr ""
+
+msgctxt "424"
+msgid ""
+"Those thugs found out about our casino, and now they want us to pay "
+"protection money..."
+msgstr ""
+
+msgctxt "436"
+msgid ""
+"This casino was made so homeless people with nowhere else to\r\n"
+"go can have a good time with what little money they have..."
+msgstr ""
+
+msgctxt "448"
+msgid "We don't have any money to give to the likes of them."
+msgstr ""
+
+msgctxt "460"
+msgid "That is concerning..."
+msgstr ""
+
+msgctxt "472"
+msgid ""
+"I wish we could have a tough guy like you do the bouncing for\r\n"
+"us, but I don't want to impose on you any further."
+msgstr ""
+
+msgctxt "484"
+msgid "We already owe you for taking this place back from those brats..."
+msgstr ""
+
+msgctxt "496"
+msgid "Nah, you don't owe me a thing. We're good."
+msgstr ""
+
+msgctxt "508"
+msgid ""
+"Come to think of it, some of the homeless men who play here\r\n"
+"have been talking about a couple of guys they've seen around\r\n"
+"town... They say they'd make great bouncers."
+msgstr ""
+
+msgctxt "520"
+msgid ""
+"A retired pro wrestler, a disgraced boxer... Men who are\r\n"
+"fiery in spirit, yet their skills lie dormant, waiting for\r\n"
+"just the right spark to reignite their brilliant flame..."
+msgstr ""
+
+msgctxt "532"
+msgid "I hate to ask you this, but would you do me a favor?"
+msgstr ""
+
+msgctxt "544"
+msgid "What's that?"
+msgstr ""
+
+msgctxt "556"
+msgid ""
+"Please, if you could just bring back some of those big boys to work here as "
+"bouncers, we'd be eternally grateful."
+msgstr ""
+
+msgctxt "568"
+msgid ""
+"Sorry... But I'm gonna have to bounce on this one. As in,\r\n"
+"I can't help."
+msgstr ""
+
+msgctxt "580"
+msgid ""
+"I see... I'm already indebted to you as it is. Guess we'll\r\n"
+"figure something out."
+msgstr ""
+
+msgctxt "592"
+msgid ""
+"But if you ever change your mind and want to help, please\r\n"
+"come and see me."
+msgstr ""
+
+msgctxt "604"
+msgid "It's a deal."
+msgstr ""
+
+msgctxt "664"
+msgid "All right. I'll see if I can round up a few bouncers for you."
+msgstr ""
+
+msgctxt "676"
+msgid ""
+"Thank you! I really feel bad asking you to do this, though.\r\n"
+"You've done so much for us already..."
+msgstr ""
+
+msgctxt "688"
+msgid "It's no problem. So who do you want me to start with?"
+msgstr ""
+
+msgctxt "700"
+msgid ""
+"There's a pro wrestler who goes by the name of\r\n"
+"Violence Tobita who might work out. Try him first."
+msgstr ""
+
+msgctxt "712"
+msgid ""
+"I heard he hurt his back and was tossed out of the wrestling\r\n"
+"federation, though he still prowls around on his own,\r\n"
+"claiming he can fight."
+msgstr ""
+
+msgctxt "724"
+msgid "\"Violence\" Tobita, huh? Where can I find him?"
+msgstr ""
+
+msgctxt "736"
+msgid ""
+"I heard someone say they saw him drinking somewhere around\r\n"
+"the Champion District."
+msgstr ""
+
+msgctxt "748"
+msgid "Got it. Wonder if he really lives up to that name..."
+msgstr ""
+
+msgctxt "796"
+msgid "Start Scouting"
+msgstr ""
+
+msgctxt "808"
+msgid "Decline"
+msgstr ""
+
+msgctxt "7940"
+msgid "M_nml_stand"
+msgstr ""
+
+msgctxt "7944"
+msgid "Casino Manager"
+msgstr ""
+
+msgctxt "7948"
+msgid "0"
+msgstr ""
+
+msgctxt "7952"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "7956"
+msgid "Thug"
+msgstr ""
+
+msgctxt "7960"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "7964"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "7968"
+msgid "Talk_Send"
+msgstr ""
+
+msgctxt "7972"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "7976"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "7980"
+msgid "Talk_Udekumi_st"
+msgstr ""
+
+msgctxt "7984"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "7988"
+msgid "Talk_Udekumi_ed"
+msgstr ""
+
+msgctxt "7992"
+msgid "Talk_Kamae"
+msgstr ""
+
+msgctxt "7996"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "8000"
+msgid "dummy"
+msgstr ""

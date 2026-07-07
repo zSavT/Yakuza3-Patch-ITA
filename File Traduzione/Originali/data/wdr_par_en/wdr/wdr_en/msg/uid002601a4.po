@@ -1,0 +1,85 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "92"
+msgid "Ahhhh, this stupid necklace doesn't work at all!"
+msgstr ""
+
+msgctxt "104"
+msgid ""
+"Ever since I put this thing on, my luck's only gotten worse!\r\n"
+"First I lost my wallet, then my tutor flat-out rejects me...\r\n"
+"What else could possibly go wrong?"
+msgstr ""
+
+msgctxt "116"
+msgid "I'm sorry to hear that, but⑬"
+msgstr ""
+
+msgctxt "128"
+msgid ""
+"I don't care about your apologies! All I want is my money\r\n"
+"back! So here, take this worthless piece of junk!"
+msgstr ""
+
+msgctxt "140"
+msgid ""
+"I offer my deepest sympathies, young lady, but unfortunately\r\n"
+"we cannot accept used goods."
+msgstr ""
+
+msgctxt "152"
+msgid ""
+"I can tell you where the company that makes these necklaces\r\n"
+"is located. How about taking your complaint there instead?"
+msgstr ""
+
+msgctxt "164"
+msgid "Geez! I don't know how you people stay in business..."
+msgstr ""
+
+msgctxt "1912"
+msgid "Haruko"
+msgstr ""
+
+msgctxt "1916"
+msgid "Talk_Kansin"
+msgstr ""
+
+msgctxt "1920"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "1924"
+msgid "Employee"
+msgstr ""
+
+msgctxt "1928"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "1932"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "1936"
+msgid "Talk_Sorry"
+msgstr ""
+
+msgctxt "1940"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "1944"
+msgid "Talk_NoBig"
+msgstr ""

@@ -1,0 +1,138 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "152"
+msgid "Listen to the whole thing, dammit!"
+msgstr ""
+
+msgctxt "164"
+msgid "......"
+msgstr ""
+
+msgctxt "176"
+msgid "Just let me finish..."
+msgstr ""
+
+msgctxt "200"
+msgid "Wait till the end..."
+msgstr ""
+
+msgctxt "224"
+msgid "......"
+msgstr ""
+
+msgctxt "236"
+msgid "Oh, for crying out loud..."
+msgstr ""
+
+msgctxt "248"
+msgid "Now that you caused all this havoc, I'm gonna have to do something about it."
+msgstr ""
+
+msgctxt "260"
+msgid "What do you mean?"
+msgstr ""
+
+msgctxt "272"
+msgid "You're looking for the Reapers, right?"
+msgstr ""
+
+msgctxt "284"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "296"
+msgid "I'm in the information business these days. I got bored of fighting."
+msgstr ""
+
+msgctxt "308"
+msgid ""
+"If you sit here long enough, you'll know all the things that are going on "
+"in Kamurocho. It's the perfect observation point."
+msgstr ""
+
+msgctxt "320"
+msgid "But thanks to you, I can't afford to be singing here anymore."
+msgstr ""
+
+msgctxt "332"
+msgid "......"
+msgstr ""
+
+msgctxt "344"
+msgid "That was my last street performance."
+msgstr ""
+
+msgctxt "356"
+msgid "Time to turn back into the hitman Shinzaki."
+msgstr ""
+
+msgctxt "368"
+msgid "So you were Shinzaki all along..."
+msgstr ""
+
+msgctxt "380"
+msgid "I know you're here to catch me, but you don't stand a chance."
+msgstr ""
+
+msgctxt "392"
+msgid ""
+"I'm the boss's trump card. When he sends me out, it means he's royally "
+"pissed off."
+msgstr ""
+
+msgctxt "404"
+msgid "We'll kill you soon enough. Until then, enjoy your life while you can."
+msgstr ""
+
+msgctxt "416"
+msgid "You're running away?"
+msgstr ""
+
+msgctxt "428"
+msgid ""
+"Naturally. Now that we're seriously short on men, thanks to you, I've got a "
+"ton of work to do."
+msgstr ""
+
+msgctxt "440"
+msgid "I'm not letting you get away."
+msgstr ""
+
+msgctxt "452"
+msgid "Then try and catch me. If you think you can keep up, that is."
+msgstr ""
+
+msgctxt "4172"
+msgid "Hideki"
+msgstr ""
+
+msgctxt "4176"
+msgid "M_nml_sitgrd_tlk_no_guitar"
+msgstr ""
+
+msgctxt "4180"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "4184"
+msgid "SitChair_ed"
+msgstr ""
+
+msgctxt "4188"
+msgid "Shinzaki"
+msgstr ""
+
+msgctxt "4192"
+msgid "Talk_Away"
+msgstr ""

@@ -1,0 +1,347 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "184"
+msgid ""
+"Ah, so we meet again... It would seem we're bound by destiny\r\n"
+"after all."
+msgstr ""
+
+msgctxt "196"
+msgid "Who are you again?"
+msgstr ""
+
+msgctxt "208"
+msgid "Name's Shiraishi. I'm in the \"bet collection\" business."
+msgstr ""
+
+msgctxt "220"
+msgid "Bet collection?"
+msgstr ""
+
+msgctxt "232"
+msgid ""
+"I make sure folks pay up on the bets they lose at casinos.\r\n"
+"That guy over there, an owner of a bar, lost his fortune at\r\n"
+"the poker table the other day."
+msgstr ""
+
+msgctxt "244"
+msgid ""
+"In his final hand, he bet the deed to his bar, and...\r\n"
+"Well, he ended up losing it."
+msgstr ""
+
+msgctxt "256"
+msgid "So... I'm here to collect."
+msgstr ""
+
+msgctxt "268"
+msgid ""
+"But you know, it's no fun grabbin' stuff away from a bawlin'\r\n"
+"crybaby."
+msgstr ""
+
+msgctxt "280"
+msgid ""
+"That's why I figured I'd go my usual route and let him try\r\n"
+"to win back the deed."
+msgstr ""
+
+msgctxt "292"
+msgid "And what's your usual route?"
+msgstr ""
+
+msgctxt "304"
+msgid ""
+"When there's a lot of cash on the line, I challenge the poor\r\n"
+"sap to a game of pool to decide whether I should actually\r\n"
+"collect or not."
+msgstr ""
+
+msgctxt "316"
+msgid ""
+"They're hangin' on by a thread, see, and I give 'em one last\r\n"
+"chance, to see if they got what it takes."
+msgstr ""
+
+msgctxt "328"
+msgid "That's a pretty crooked hobby, messing with people like that."
+msgstr ""
+
+msgctxt "340"
+msgid ""
+"Maybe so... But that crooked hobby has also saved its share\r\n"
+"of people, too. I've seen it happen from time to time."
+msgstr ""
+
+msgctxt "352"
+msgid ""
+"Okay, but what does any of this have to do with me? You\r\n"
+"just wanted to share some random stories with me, or what?"
+msgstr ""
+
+msgctxt "364"
+msgid ""
+"No, that's not it. I was actually hopin' you could be a\r\n"
+"stand-in... for the bar owner, that is."
+msgstr ""
+
+msgctxt "376"
+msgid "Are you kidding me?"
+msgstr ""
+
+msgctxt "388"
+msgid ""
+"Please! I'm begging you! I'm the owner of the bar you were\r\n"
+"talking to Shiraishi-san about."
+msgstr ""
+
+msgctxt "400"
+msgid ""
+"Please, won't you help me? For the love of all that is good\r\n"
+"and noble, I need your assistance! You've got to take my\r\n"
+"place at the pool table!"
+msgstr ""
+
+msgctxt "412"
+msgid "And why should I do that?"
+msgstr ""
+
+msgctxt "424"
+msgid ""
+"Because I've never played pool in my life⑬not even once!\r\n"
+"Can't you see I'm doomed from the very start? He wants a\r\n"
+"worthy opponent, and I'm the total opposite!"
+msgstr ""
+
+msgctxt "436"
+msgid ""
+"So there you have it. Where's the fun in playin' a game\r\n"
+"I know I'm gonna win? That's where you come in."
+msgstr ""
+
+msgctxt "448"
+msgid "You really are a manipulative old codger, you know that?"
+msgstr ""
+
+msgctxt "460"
+msgid ""
+"That may be... But if you do manage to win, you'll be saving\r\n"
+"this poor fellow along with his forfeit bar. So whaddya say?\r\n"
+"Think of it as a charity match."
+msgstr ""
+
+msgctxt "472"
+msgid "Please! I'm begging you!"
+msgstr ""
+
+msgctxt "484"
+msgid "Sorry, but I don't think I can help you."
+msgstr ""
+
+msgctxt "496"
+msgid "I see... Well that's too bad."
+msgstr ""
+
+msgctxt "508"
+msgid ""
+"But I gotta tell ya, I'm just about the most persistent\r\n"
+"old bastard you've ever met at the gamblin' table. So I'll\r\n"
+"be waitin' right here until you change your mind."
+msgstr ""
+
+msgctxt "520"
+msgid "Hey, it's your time to waste."
+msgstr ""
+
+msgctxt "532"
+msgid "Well... Don't make me wait too long, now..."
+msgstr ""
+
+msgctxt "556"
+msgid "Fine then. You're on."
+msgstr ""
+
+msgctxt "568"
+msgid ""
+"Excellent. I could tell just by the look of you that you\r\n"
+"were a true warrior."
+msgstr ""
+
+msgctxt "580"
+msgid ""
+"The game is nine-ball pool. Whoever sinks the nine ball\r\n"
+"first wins."
+msgstr ""
+
+msgctxt "592"
+msgid "All right."
+msgstr ""
+
+msgctxt "604"
+msgid ""
+"You've got to win this one! I swear there's a reward in it\r\n"
+"for you if you do!"
+msgstr ""
+
+msgctxt "616"
+msgid "Now... let's begin. Don't let me down."
+msgstr ""
+
+msgctxt "640"
+msgid ""
+"Young man... Have you decided to try and win back the deed\r\n"
+"to that bar?"
+msgstr ""
+
+msgctxt "652"
+msgid "Sorry, but... This has nothing to do with me."
+msgstr ""
+
+msgctxt "664"
+msgid "I see... Well that's too bad."
+msgstr ""
+
+msgctxt "676"
+msgid ""
+"But I gotta tell ya, I'm just about the most persistent\r\n"
+"old bastard you've ever met at the gamblin' table. So I'll\r\n"
+"be waitin' right here until you change your mind."
+msgstr ""
+
+msgctxt "688"
+msgid "Hey, it's your time to waste."
+msgstr ""
+
+msgctxt "700"
+msgid "Well... Don't make me wait too long, now..."
+msgstr ""
+
+msgctxt "724"
+msgid "Okay. You're on."
+msgstr ""
+
+msgctxt "736"
+msgid ""
+"Excellent. I could tell just by the look of you\r\n"
+"that you were a true warrior."
+msgstr ""
+
+msgctxt "748"
+msgid ""
+"The game is nine-ball pool. Whoever sinks the nine ball\r\n"
+"first wins."
+msgstr ""
+
+msgctxt "760"
+msgid "All right."
+msgstr ""
+
+msgctxt "772"
+msgid ""
+"You've got to win this one! I swear there's a reward in it\r\n"
+"for you if you do!"
+msgstr ""
+
+msgctxt "784"
+msgid "Now... let's begin. Don't let me down."
+msgstr ""
+
+msgctxt "820"
+msgid "Accept"
+msgstr ""
+
+msgctxt "832"
+msgid "Refuse"
+msgstr ""
+
+msgctxt "844"
+msgid "You're on."
+msgstr ""
+
+msgctxt "856"
+msgid "It's none of my business."
+msgstr ""
+
+msgctxt "10084"
+msgid "Sharp-eyed Old Man"
+msgstr ""
+
+msgctxt "10088"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "10092"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "10096"
+msgid "Shiraishi"
+msgstr ""
+
+msgctxt "10100"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "10104"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "10108"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "10112"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "10116"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "10120"
+msgid "Talk_Away"
+msgstr ""
+
+msgctxt "10124"
+msgid "Bar Owner"
+msgstr ""
+
+msgctxt "10128"
+msgid "Talk_Request"
+msgstr ""
+
+msgctxt "10132"
+msgid "Talk_CryBig_st"
+msgstr ""
+
+msgctxt "10136"
+msgid "Talk_CryBig_ed"
+msgstr ""
+
+msgctxt "10140"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "10144"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "10148"
+msgid "dummy"
+msgstr ""
+
+msgctxt "10152"
+msgid "Talk_Info_F"
+msgstr ""

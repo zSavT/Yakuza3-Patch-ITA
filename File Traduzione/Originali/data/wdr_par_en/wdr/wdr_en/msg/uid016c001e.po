@@ -1,0 +1,566 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "512"
+msgid "Controls"
+msgstr ""
+
+msgctxt "524"
+msgid ""
+"Use the "
+"<Action:Button_LS_Up@Cabaret><Action:Button_LS_Down@Cabaret><Action:Button_"
+"LS_Left@Cabaret><Action:Button_LS_Right@Cabaret> to control where Kiryu "
+"looks.\r\n"
+"This is your big chance to feast your eyes on a perfect incarnation of "
+"beauty."
+msgstr ""
+
+msgctxt "536"
+msgid ""
+"Press <Action:Button_Cross@Cabaret> when you want to focus intently on one "
+"of her features. Holding down <Action:Button_Cross@Cabaret> allows you to "
+"focus your gaze."
+msgstr ""
+
+msgctxt "548"
+msgid "Note that her reaction will change depending on where you look."
+msgstr ""
+
+msgctxt "572"
+msgid "(Those large, sparkling eyes...)"
+msgstr ""
+
+msgctxt "584"
+msgid "(Her sexy lips...)"
+msgstr ""
+
+msgctxt "596"
+msgid "(Her light, delicate hands...)"
+msgstr ""
+
+msgctxt "608"
+msgid "(Those full, beautiful legs...)"
+msgstr ""
+
+msgctxt "620"
+msgid "(Maybe her extravagant, yet beautiful hair...)"
+msgstr ""
+
+msgctxt "632"
+msgid "(Now those are pretty nice...)"
+msgstr ""
+
+msgctxt "644"
+msgid "(Well then...)"
+msgstr ""
+
+msgctxt "656"
+msgid ""
+"I think it'd have to be your eyes. They're wide and brimming with positive "
+"energy."
+msgstr ""
+
+msgctxt "668"
+msgid "Heheh. <Color:7>⑮<Color:Default> Thanks! <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "680"
+msgid ""
+"But I'm getting all shy, now that you're staring at me like that... "
+"<Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "692"
+msgid "Those lips are great."
+msgstr ""
+
+msgctxt "704"
+msgid "Oh wow... You're so dirty, Kiryu-san. <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "716"
+msgid "I am?"
+msgstr ""
+
+msgctxt "728"
+msgid ""
+"Heheh. <Color:7>⑮<Color:Default> Did you know that people who are into lips "
+"tend to be more perverted?"
+msgstr ""
+
+msgctxt "740"
+msgid "Really... I had no idea."
+msgstr ""
+
+msgctxt "752"
+msgid ""
+"Your hands... They're light and delicate, and I bet they'd give a great "
+"massage."
+msgstr ""
+
+msgctxt "764"
+msgid ""
+"Haha, well, I really like guys' hands. You know how they get all rough from "
+"a lifetime of hard work? Yours look strong enough to hold me real tight."
+msgstr ""
+
+msgctxt "776"
+msgid "...You think so?"
+msgstr ""
+
+msgctxt "788"
+msgid "Mhm. And by the way, I love holding hands. And getting petted."
+msgstr ""
+
+msgctxt "800"
+msgid ""
+"I think I might really be in love with your hands, Kiryu-san. "
+"<Color:7>⑮⑮⑮<Color:Default>"
+msgstr ""
+
+msgctxt "812"
+msgid "Mm. Those legs..."
+msgstr ""
+
+msgctxt "824"
+msgid ""
+"You have a leg fetish, Kiryu-san? Too bad I've got such a long dress on. "
+"<Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "836"
+msgid "Even so, my eyes would go there anyway."
+msgstr ""
+
+msgctxt "848"
+msgid "Heheh. They are nice, aren't they? <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "860"
+msgid ""
+"I end up walking a lot whenever I take my dogs out, so I guess that's why "
+"they're so fit."
+msgstr ""
+
+msgctxt "872"
+msgid ""
+"If it's for you, Kiryu-san... I might end up showing you a little more leg "
+"than you bargained for. <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "884"
+msgid "I like that beautiful hair of yours..."
+msgstr ""
+
+msgctxt "896"
+msgid "Isn't it so pretty? <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "908"
+msgid "Heheh. <Color:7>⑮<Color:Default> I have to use a lot of extensions, though."
+msgstr ""
+
+msgctxt "920"
+msgid "I see."
+msgstr ""
+
+msgctxt "932"
+msgid "I hope my bangs grow out soon..."
+msgstr ""
+
+msgctxt "944"
+msgid "Hey. I see where those eyes are going."
+msgstr ""
+
+msgctxt "956"
+msgid "Oh, no, I..."
+msgstr ""
+
+msgctxt "968"
+msgid "I had a feeling you'd go for my boobs."
+msgstr ""
+
+msgctxt "980"
+msgid "Ah... Yeah..."
+msgstr ""
+
+msgctxt "992"
+msgid ""
+"But it's better to straight-up look instead of sneaking glances like a "
+"total nerd."
+msgstr ""
+
+msgctxt "1004"
+msgid "So that's how it works, huh..."
+msgstr ""
+
+msgctxt "1016"
+msgid ""
+"Even so, I'll knock you out if you keep staring at my knockers.\r\n"
+"'Kay? <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "1028"
+msgid "Hey, where are you even looking?"
+msgstr ""
+
+msgctxt "1040"
+msgid "Uh..."
+msgstr ""
+
+msgctxt "1052"
+msgid "That's so rude. Am I not attractive enough for you or something?"
+msgstr ""
+
+msgctxt "1064"
+msgid "No, that's not what I, uh..."
+msgstr ""
+
+msgctxt "1076"
+msgid "Fine! Guess I'm just another hostess to you."
+msgstr ""
+
+msgctxt "1088"
+msgid "......"
+msgstr ""
+
+msgctxt "1100"
+msgid "(Her powerful eyes...)"
+msgstr ""
+
+msgctxt "1112"
+msgid "(Holding a conversation is definitely one of her strong points...)"
+msgstr ""
+
+msgctxt "1124"
+msgid "(If we're talking weapons... then it's gotta be her fists.)"
+msgstr ""
+
+msgctxt "1136"
+msgid "(If we're talking weapons... kicking's the way to go.)"
+msgstr ""
+
+msgctxt "1148"
+msgid ""
+"(Her overall presentation is what's powerful. Particularly the hair and "
+"makeup.)"
+msgstr ""
+
+msgctxt "1160"
+msgid ""
+"(...Definitely her chest. Now the question is, does she want to hear "
+"that...)"
+msgstr ""
+
+msgctxt "1172"
+msgid "(Hmm...)"
+msgstr ""
+
+msgctxt "1184"
+msgid "I think it's your eyes."
+msgstr ""
+
+msgctxt "1196"
+msgid "My eyes? What do you mean?"
+msgstr ""
+
+msgctxt "1208"
+msgid ""
+"If you stared at me with those sweet, yet powerful eyes, I don't think I "
+"could ever tell you a lie."
+msgstr ""
+
+msgctxt "1220"
+msgid "What, so it's like a snake staring down a frog? Heheh."
+msgstr ""
+
+msgctxt "1232"
+msgid ""
+"But I think I get it. When you look at someone's eyes, you can find out if "
+"they're being sincere."
+msgstr ""
+
+msgctxt "1244"
+msgid ""
+"I like people with strong eyes, too. Like yours, Kiryu-san. "
+"<Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "1256"
+msgid "You do, huh..."
+msgstr ""
+
+msgctxt "1268"
+msgid "How good are your conversation skills?"
+msgstr ""
+
+msgctxt "1280"
+msgid ""
+"You mean, like, can I talk to people? Well, I have worked here quite a "
+"while, so yeah, I'd say I'm pretty good."
+msgstr ""
+
+msgctxt "1292"
+msgid ""
+"If you can enjoy talking with someone, wouldn't that make it easy to work "
+"with them?"
+msgstr ""
+
+msgctxt "1304"
+msgid ""
+"But there are also people out there who are nothing but words. They say "
+"nice things to your face, but then go right behind your back and talk crap."
+msgstr ""
+
+msgctxt "1316"
+msgid "Then don't end up that way."
+msgstr ""
+
+msgctxt "1328"
+msgid ""
+"Well, I'm certainly not a backstabber, but I do say whatever's on my "
+"mind... which often leads to arguments or some sorta trouble."
+msgstr ""
+
+msgctxt "1340"
+msgid ""
+"Everyone at my company worries about that. They'll say, \"Look out, Reimi's "
+"about to go off again!\" Heheh..."
+msgstr ""
+
+msgctxt "1352"
+msgid "Aren't your fists your weapon?"
+msgstr ""
+
+msgctxt "1364"
+msgid "Ahahaha! I mean, I did beat down that mugger pretty good."
+msgstr ""
+
+msgctxt "1376"
+msgid "Right?"
+msgstr ""
+
+msgctxt "1388"
+msgid ""
+"But that's not it! What I'm talking about is a weapon for the workplace! "
+"Something mental, not physical."
+msgstr ""
+
+msgctxt "1400"
+msgid ""
+"You're totally misunderstanding me. Besides, I'm not that violent... I "
+"don't think."
+msgstr ""
+
+msgctxt "1412"
+msgid "Sorry..."
+msgstr ""
+
+msgctxt "1424"
+msgid ""
+"Your weapon should be... a powerful kick to the face. Or whatever body part "
+"is in range."
+msgstr ""
+
+msgctxt "1436"
+msgid "Ahahaha! I mean, I did kick the crap out of that mugger who took my purse."
+msgstr ""
+
+msgctxt "1448"
+msgid "Yeah."
+msgstr ""
+
+msgctxt "1460"
+msgid ""
+"But that's not it! What I'm talking about is a weapon for the workplace! "
+"Something mental, not physical."
+msgstr ""
+
+msgctxt "1472"
+msgid ""
+"You're totally misunderstanding me. Besides, I'm not that violent... I "
+"don't think."
+msgstr ""
+
+msgctxt "1484"
+msgid "Sorry..."
+msgstr ""
+
+msgctxt "1496"
+msgid "You seem pretty knowledgable about hair."
+msgstr ""
+
+msgctxt "1508"
+msgid ""
+"Well, there are definitely girls out there who'd love a lifted style like "
+"mine..."
+msgstr ""
+
+msgctxt "1520"
+msgid ""
+"But it's pretty tough doing it up all the time, what with all the "
+"extensions and color that I put in... Sometimes I just wanna take it easy."
+msgstr ""
+
+msgctxt "1532"
+msgid "Your face really fits the image of a corporate president."
+msgstr ""
+
+msgctxt "1544"
+msgid "Huh!? Really? That's... gosh, I dunno how to feel about that."
+msgstr ""
+
+msgctxt "1556"
+msgid ""
+"I'll go email one of the girls at the office about it later. "
+"<Color:7>⑮<Color:Default> Heh."
+msgstr ""
+
+msgctxt "1568"
+msgid "Hey, you look good."
+msgstr ""
+
+msgctxt "1580"
+msgid "Can't your chest be considered a powerful weapon?"
+msgstr ""
+
+msgctxt "1592"
+msgid "Hey! I'm trying to be serious here!"
+msgstr ""
+
+msgctxt "1604"
+msgid "Heh. Sorry."
+msgstr ""
+
+msgctxt "1616"
+msgid ""
+"A woman's body is the last thing that should be used as a weapon. So yeah. "
+"All that femme fatale stuff you see in the movies? Super disrespectful, not "
+"to mention cliché."
+msgstr ""
+
+msgctxt "1628"
+msgid ""
+"Besides, I work with a bunch of girls, both here and at the company, so it "
+"really wouldn't mean much anyway."
+msgstr ""
+
+msgctxt "1640"
+msgid "Ah. I wasn't aware of that."
+msgstr ""
+
+msgctxt "1652"
+msgid ""
+"Though I think my secret weapon might just work on you, Kiryu-san. "
+"<Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "1664"
+msgid "Wouldn't be surprised."
+msgstr ""
+
+msgctxt "1676"
+msgid "Where are you looking, Kiryu-san?"
+msgstr ""
+
+msgctxt "1688"
+msgid "Um..."
+msgstr ""
+
+msgctxt "1700"
+msgid "Are you trying to say... this club is my weapon?"
+msgstr ""
+
+msgctxt "1712"
+msgid "Yeah... That's exactly what I'm saying."
+msgstr ""
+
+msgctxt "1724"
+msgid ""
+"...You know, you might just be right. It's because of this club that I was "
+"able to learn more about myself."
+msgstr ""
+
+msgctxt "1736"
+msgid "And everybody here has helped me out so much..."
+msgstr ""
+
+msgctxt "1748"
+msgid ""
+"You're amazing, Kiryu-san. I was about to miss something totally important. "
+"<Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "1760"
+msgid "Heh... Just trying to think outside the box..."
+msgstr ""
+
+msgctxt "18052"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "18056"
+msgid "F_cab_sitsofa_hot_muneA"
+msgstr ""
+
+msgctxt "18060"
+msgid "Reimi"
+msgstr ""
+
+msgctxt "18064"
+msgid "F_cab_sitsofa_tlk_tereruA"
+msgstr ""
+
+msgctxt "18068"
+msgid "F_cab_sitsofa_talk_smileA"
+msgstr ""
+
+msgctxt "18072"
+msgid "F_cab_sitsofa_tlk_happy"
+msgstr ""
+
+msgctxt "18076"
+msgid "F_cab_sitsofa_tlk_kamaeA"
+msgstr ""
+
+msgctxt "18080"
+msgid "F_cab_sitsofa_tlk_angry"
+msgstr ""
+
+msgctxt "18084"
+msgid "F_cab_sitsofa_tlk_kamaeAtoB"
+msgstr ""
+
+msgctxt "18088"
+msgid "F_cab_sitsofa_sp8_sync_crap"
+msgstr ""
+
+msgctxt "18092"
+msgid "P_sitsofa_sp8_sync_crap"
+msgstr ""
+
+msgctxt "18096"
+msgid "F_cab_sitsofa_tlk_yes"
+msgstr ""
+
+msgctxt "18100"
+msgid "F_cab_sitsofa_sp5_sync_laugh"
+msgstr ""
+
+msgctxt "18104"
+msgid "P_sitsofa_sp5_sync_laugh"
+msgstr ""
+
+msgctxt "18108"
+msgid "F_cab_sitsofa_tlk_yesB"
+msgstr ""

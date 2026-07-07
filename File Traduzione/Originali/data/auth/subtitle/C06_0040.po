@@ -1,0 +1,108 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "80\t183"
+msgid "Kashiwagi-san told me something before he died."
+msgstr ""
+
+msgctxt "193\t394"
+msgid ""
+"He said someone's trying to push\\n"
+"the resort deal through. Someone in the Tojo Clan."
+msgstr ""
+
+msgctxt "399\t459"
+msgid "Then he was right."
+msgstr ""
+
+msgctxt "472\t592"
+msgid ""
+"And the only four Tojo boys who could\\n"
+"pull it off... are right in front of you."
+msgstr ""
+
+msgctxt "798\t874"
+msgid "That wasn't the only thing Kashiwagi-san said."
+msgstr ""
+
+msgctxt "875\t1066"
+msgid ""
+"He told me the traitor is\\n"
+"working with the man who shot Daigo."
+msgstr ""
+
+msgctxt "1079\t1169"
+msgid "You know who pulled the trigger!?"
+msgstr ""
+
+msgctxt "1405\t1701"
+msgid ""
+"And it wasn't just Daigo. The man who owns the land\\n"
+"they want to build the resort on, Nakahara. They shot him, too."
+msgstr ""
+
+msgctxt "1743\t1815"
+msgid "Is this some kinda sick joke?"
+msgstr ""
+
+msgctxt "1816\t1952"
+msgid "Kazama-san's gone! How is this possible!?"
+msgstr ""
+
+msgctxt "1953\t2027"
+msgid "I'm not sure it's really him."
+msgstr ""
+
+msgctxt "2037\t2200"
+msgid ""
+"But we have this man, who put bullets\\n"
+"in both Daigo and Nakahara."
+msgstr ""
+
+msgctxt "2202\t2312"
+msgid "The foreigners in black suits."
+msgstr ""
+
+msgctxt "2313\t2406"
+msgid "And that helicopter attack."
+msgstr ""
+
+msgctxt "2453\t2537"
+msgid "Who are we up against here...?"
+msgstr ""
+
+msgctxt "2538\t2741"
+msgid ""
+"Doesn't matter. All we can do now is\\n"
+"weed out the traitor in the Tojo Clan."
+msgstr ""
+
+msgctxt "2742\t2784"
+msgid "Agreed."
+msgstr ""
+
+msgctxt "2813\t2925"
+msgid ""
+"I'll try digging up some dirt\\n"
+"on this guy in the sketch."
+msgstr ""
+
+msgctxt "2947\t3107"
+msgid ""
+"You track down the one who probably\\n"
+"offed Kashiwagi... Kanda."
+msgstr ""
+
+msgctxt "3161\t3208"
+msgid "Okay."
+msgstr ""

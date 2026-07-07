@@ -1,0 +1,84 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "92"
+msgid "Taichi!"
+msgstr ""
+
+msgctxt "104"
+msgid "Whaddya want, Uncle Kaz? Can't you see we're busy?"
+msgstr ""
+
+msgctxt "116"
+msgid ""
+"It's your turn to go shopping today! You can't just keep horsing around all "
+"the time while everyone else takes care of you!"
+msgstr ""
+
+msgctxt "128"
+msgid "I know, just give me five more minutes!"
+msgstr ""
+
+msgctxt "140"
+msgid "Now!"
+msgstr ""
+
+msgctxt "152"
+msgid "But this is a big match, Uncle Kaz! I'll go in five minutes, swear!"
+msgstr ""
+
+msgctxt "164"
+msgid "...Fine. But you're going the second you're done!"
+msgstr ""
+
+msgctxt "176"
+msgid ""
+"You'll be in big trouble if I hear you didn't go, do you understand? Same "
+"for you, Mitsuo!"
+msgstr ""
+
+msgctxt "188"
+msgid ""
+"Hey, why am I getting dragged into this!? Taichi, let's just go! We can "
+"wrestle some more after we go shopping."
+msgstr ""
+
+msgctxt "200"
+msgid "You're not gonna get away that easy! Take this!"
+msgstr ""
+
+msgctxt "212"
+msgid "Seriously?"
+msgstr ""
+
+msgctxt "224"
+msgid ""
+"(I know Taichi loves wrestling, but he really needs to start being more "
+"responsible...)"
+msgstr ""
+
+msgctxt "2048"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "2052"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "2056"
+msgid "Taichi"
+msgstr ""
+
+msgctxt "2060"
+msgid "Mitsuo"
+msgstr ""

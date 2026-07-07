@@ -1,0 +1,199 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid "(There she is. What is she up to...?)"
+msgstr ""
+
+msgctxt "100"
+msgid ""
+"Nice seein' ya, little lady. Forgot to mention a teensy tiny\r\n"
+"something earlier: If you spot a cop strolling over towards\r\n"
+"you, turn heel and casually go the other way."
+msgstr ""
+
+msgctxt "112"
+msgid "Huh? Why? I'm not doing anything illegal, am I?"
+msgstr ""
+
+msgctxt "124"
+msgid ""
+"Oh, no no no! Not at all! There are just, uh... laws about\r\n"
+"how much a kid your age is allowed to make. Truth is,\r\n"
+"we're payin' you even more than we're supposed to."
+msgstr ""
+
+msgctxt "136"
+msgid ""
+"But hey, you need the dough, we need the help. Win-win, you\r\n"
+"know what I mean?"
+msgstr ""
+
+msgctxt "148"
+msgid "I guess..."
+msgstr ""
+
+msgctxt "160"
+msgid ""
+"Anyways, just do what ya did this afternoon and it'll be blue skies and "
+"green pastures from now on. Green, like the cash you're gonna rake in!"
+msgstr ""
+
+msgctxt "244"
+msgid "Hey, yeah. We got the stuff."
+msgstr ""
+
+msgctxt "256"
+msgid ""
+"Girl's chillin' by a vending machine in the parking lot.\r\n"
+"Hand her the stacks and she'll give you what you want."
+msgstr ""
+
+msgctxt "340"
+msgid "Here, gimme one."
+msgstr ""
+
+msgctxt "388"
+msgid "Shit, a copper!"
+msgstr ""
+
+msgctxt "424"
+msgid "Let's just see what happens, yeah?"
+msgstr ""
+
+msgctxt "472"
+msgid "Heh, kid's got a good head on her shoulders."
+msgstr ""
+
+msgctxt "484"
+msgid ""
+"Donut-eatin' bastard didn't suspect a damn thing. Plus even\r\n"
+"if they did catch the girl, we'd still be flyin' sky-high.\r\n"
+"Phone's registered to a fake name, after all."
+msgstr ""
+
+msgctxt "496"
+msgid "I'd take this over some creepy-ass dark web shit any day."
+msgstr ""
+
+msgctxt "508"
+msgid "You're a friggin' genius, Aniki!"
+msgstr ""
+
+msgctxt "532"
+msgid ""
+"That was just what we're lookin' for, kid. Ya might even earn yourself a "
+"nice little bonus if ya keep puttin' the coppers off your tail like that."
+msgstr ""
+
+msgctxt "544"
+msgid "Oh... Really?"
+msgstr ""
+
+msgctxt "556"
+msgid ""
+"You betcha. Anyways, when a customer comes, ya give 'em the\r\n"
+"envelope and take the two grand. If a cop comes, ya give 'em the slip. "
+"Pretty simple, yeah?"
+msgstr ""
+
+msgctxt "568"
+msgid "We'll check back in later. Good luck!"
+msgstr ""
+
+msgctxt "580"
+msgid "Thanks..."
+msgstr ""
+
+msgctxt "604"
+msgid ""
+"(These are the same guys I saw Haruka with earlier. Mikio\r\n"
+"must have been talking about them, too. Guess I'm gonna have\r\n"
+"to ask Haruka about this directly...)"
+msgstr ""
+
+msgctxt "8084"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "8088"
+msgid "0"
+msgstr ""
+
+msgctxt "8092"
+msgid "Suspicious Man"
+msgstr ""
+
+msgctxt "8096"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "8100"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "8104"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "8108"
+msgid "Talk_NoBig"
+msgstr ""
+
+msgctxt "8112"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "8116"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "8120"
+msgid "Phone_st"
+msgstr ""
+
+msgctxt "8124"
+msgid "Idle"
+msgstr ""
+
+msgctxt "8128"
+msgid "Laidback Man"
+msgstr ""
+
+msgctxt "8132"
+msgid "Talk_Send"
+msgstr ""
+
+msgctxt "8136"
+msgid "Shady Man"
+msgstr ""
+
+msgctxt "8140"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "8144"
+msgid "C37_SetHAL_stand_talk_futo_st"
+msgstr ""
+
+msgctxt "8148"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "8152"
+msgid "C37_SetHAL_stand_talk_futo_ed"
+msgstr ""
+
+msgctxt "8156"
+msgid "Talk_Smile"
+msgstr ""

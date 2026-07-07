@@ -1,0 +1,416 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "400"
+msgid ""
+"Check it out! A brand-name bag! All the hostesses love these babies. 70,000 "
+"yen at retail, but I can cut you a deal..."
+msgstr ""
+
+msgctxt "412"
+msgid "Well? How does 50,000 sound?"
+msgstr ""
+
+msgctxt "424"
+msgid "I'll consider it. Why are you selling this here, anyway?"
+msgstr ""
+
+msgctxt "436"
+msgid ""
+"Oh, y'know, I used to have my own store, but... went out of business. You "
+"know how it is. This economy, am I right?"
+msgstr ""
+
+msgctxt "448"
+msgid "Still got a lot of debt to work through, so I gotta make money somehow."
+msgstr ""
+
+msgctxt "460"
+msgid ""
+"But if I try to sell my goods to a wholesaler, they beat the price way "
+"down. And every little bit helps."
+msgstr ""
+
+msgctxt "472"
+msgid "I see what you mean..."
+msgstr ""
+
+msgctxt "484"
+msgid ""
+"So listen, all I'd need is 50,000 yen, and... No, 40,000 yen, and the bag's "
+"yours! You'd really be helping me out!"
+msgstr ""
+
+msgctxt "496"
+msgid "Hmm..."
+msgstr ""
+
+msgctxt "520"
+msgid "Okay, sure. 40,000 yen's a good deal."
+msgstr ""
+
+msgctxt "532"
+msgid "You handed over the money and got the bag."
+msgstr ""
+
+msgctxt "556"
+msgid ""
+"Thank you! Trust me, no woman alive can resist a gift like this. Yessir, "
+"you got yourself a winner!"
+msgstr ""
+
+msgctxt "568"
+msgid "Okay, buddy, see you 'round! Heheheh..."
+msgstr ""
+
+msgctxt "640"
+msgid "Sorry. You'll have to ask someone else."
+msgstr ""
+
+msgctxt "652"
+msgid ""
+"Oh, that's a shame... See, this is quality merchandise here. Real top-notch "
+"stuff⑬and I'd know."
+msgstr ""
+
+msgctxt "664"
+msgid "Well, if you change your mind, come on back! I'll still be here!"
+msgstr ""
+
+msgctxt "676"
+msgid "I might be interested if you can bring the price down."
+msgstr ""
+
+msgctxt "688"
+msgid ""
+"Are you serious? This bag is worth 70,000 yen! If I drop it below 40,000, "
+"there's no profit left!"
+msgstr ""
+
+msgctxt "700"
+msgid "Then I guess you'll have to ask somebody else."
+msgstr ""
+
+msgctxt "712"
+msgid "Look, 38,000 yen! That's my final offer!"
+msgstr ""
+
+msgctxt "724"
+msgid "Hmm..."
+msgstr ""
+
+msgctxt "748"
+msgid "Okay, sure. 38,000's fine by me."
+msgstr ""
+
+msgctxt "760"
+msgid "You handed over the money and got the bag."
+msgstr ""
+
+msgctxt "784"
+msgid ""
+"Thank you! Trust me, no woman alive can resist a gift like this. Yessir, "
+"you got yourself a winner!"
+msgstr ""
+
+msgctxt "796"
+msgid "Okay, buddy, see you 'round! Heheheh..."
+msgstr ""
+
+msgctxt "868"
+msgid "Sorry. You'll have to ask someone else."
+msgstr ""
+
+msgctxt "880"
+msgid ""
+"Oh, that's a shame... See, this is quality merchandise here. Real top-notch "
+"stuff⑬and I'd know."
+msgstr ""
+
+msgctxt "892"
+msgid "Well, if you change your mind, come on back! I'll still be here!"
+msgstr ""
+
+msgctxt "904"
+msgid "You'd have to lower the price a little more first."
+msgstr ""
+
+msgctxt "916"
+msgid "Man, you're killin' me here! I told you that was my final offer!"
+msgstr ""
+
+msgctxt "928"
+msgid "Well, good luck getting someone else to buy it."
+msgstr ""
+
+msgctxt "940"
+msgid "Urgh... 37,000 yen. That's as low as I can go."
+msgstr ""
+
+msgctxt "952"
+msgid "Hmm..."
+msgstr ""
+
+msgctxt "976"
+msgid "That'll do it. 37,000's more reasonable."
+msgstr ""
+
+msgctxt "988"
+msgid "You handed over the money and got the bag."
+msgstr ""
+
+msgctxt "1012"
+msgid ""
+"Thank you! Trust me, no woman alive can resist a gift like this. Yessir, "
+"you got yourself a winner!"
+msgstr ""
+
+msgctxt "1024"
+msgid "Okay, buddy, see you 'round! Heheheh..."
+msgstr ""
+
+msgctxt "1096"
+msgid "Sorry. You'll have to ask someone else."
+msgstr ""
+
+msgctxt "1108"
+msgid ""
+"Oh, that's a shame... See, this is quality merchandise here. Real top-notch "
+"stuff⑬and I'd know."
+msgstr ""
+
+msgctxt "1120"
+msgid "Well, if you change your mind, come on back! I'll still be here!"
+msgstr ""
+
+msgctxt "1132"
+msgid "I could buy it... if you can lower the price just a little more."
+msgstr ""
+
+msgctxt "1144"
+msgid ""
+"Hey! I said not a yen less, and I mean it! I gotta make a living, too, you "
+"know!"
+msgstr ""
+
+msgctxt "1156"
+msgid "Suit yourself."
+msgstr ""
+
+msgctxt "1168"
+msgid "Ughhh, fine! 36 grand. Take it or leave it."
+msgstr ""
+
+msgctxt "1180"
+msgid "Hmm..."
+msgstr ""
+
+msgctxt "1204"
+msgid "Okay, sure. I could do 36,000 yen."
+msgstr ""
+
+msgctxt "1216"
+msgid "You handed over the money and got the bag."
+msgstr ""
+
+msgctxt "1240"
+msgid ""
+"Thank you! Trust me, no woman alive can resist a gift like this. Yessir, "
+"you got yourself a winner!"
+msgstr ""
+
+msgctxt "1252"
+msgid "Okay, buddy, see you 'round! Heheheh..."
+msgstr ""
+
+msgctxt "1324"
+msgid "Sorry. You'll have to ask someone else."
+msgstr ""
+
+msgctxt "1336"
+msgid ""
+"Oh, that's a shame... See, this is quality merchandise here. Real top-notch "
+"stuff⑬and I'd know."
+msgstr ""
+
+msgctxt "1348"
+msgid "Well, if you change your mind, come on back! I'll still be here!"
+msgstr ""
+
+msgctxt "1360"
+msgid "Wait a sec... You don't have enough money. So much for that..."
+msgstr ""
+
+msgctxt "1372"
+msgid "Well, if you get the cash, come on back! I'll still be here!"
+msgstr ""
+
+msgctxt "1384"
+msgid ""
+"Hey, buddy. Got somethin' you might be⑬ Oh, it's you again! Couldn't resist "
+"a good deal on this brand bag, huh?"
+msgstr ""
+
+msgctxt "1396"
+msgid "Hmm..."
+msgstr ""
+
+msgctxt "1408"
+msgid ""
+"Buddy, I gotta tell you, you got me misting up. So glad to see you! The guy "
+"in the shop over there keeps glaring..."
+msgstr ""
+
+msgctxt "1420"
+msgid ""
+"Tell you what. You made my day, so I'll make yours. 35,000 yen, that's all! "
+"What do you say? Help a guy out?"
+msgstr ""
+
+msgctxt "1432"
+msgid "Hmm..."
+msgstr ""
+
+msgctxt "1456"
+msgid "Okay, sure. Can't beat 35,000 yen."
+msgstr ""
+
+msgctxt "1468"
+msgid "You handed over the money and got the bag."
+msgstr ""
+
+msgctxt "1492"
+msgid ""
+"Thank you! Trust me, no woman alive can resist a gift like this. Yessir, "
+"you got yourself a winner!"
+msgstr ""
+
+msgctxt "1504"
+msgid "Okay, buddy, see you 'round! Heheheh..."
+msgstr ""
+
+msgctxt "1576"
+msgid "Sorry. You'll have to ask someone else."
+msgstr ""
+
+msgctxt "1588"
+msgid "Aw, man! Then why'd you come back, huh? Just to torture me? Sheesh!"
+msgstr ""
+
+msgctxt "1600"
+msgid "Well, if you change your mind, come on back! I'll still be here!"
+msgstr ""
+
+msgctxt "1612"
+msgid "Wait a sec... You don't have enough money. So much for that..."
+msgstr ""
+
+msgctxt "1624"
+msgid "Well, if you get the cash, come on back! I'll still be here!"
+msgstr ""
+
+msgctxt "1636"
+msgid "Buy the Bag"
+msgstr ""
+
+msgctxt "1648"
+msgid "Don't Buy the Bag"
+msgstr ""
+
+msgctxt "1660"
+msgid "Haggle"
+msgstr ""
+
+msgctxt "1672"
+msgid "Buy the Bag"
+msgstr ""
+
+msgctxt "1684"
+msgid "Don't Buy the Bag"
+msgstr ""
+
+msgctxt "1696"
+msgid "Haggle Further"
+msgstr ""
+
+msgctxt "1708"
+msgid "Buy the Bag"
+msgstr ""
+
+msgctxt "1720"
+msgid "Don't Buy the Bag"
+msgstr ""
+
+msgctxt "1732"
+msgid "Haggle Even Further"
+msgstr ""
+
+msgctxt "1744"
+msgid "Buy the Bag"
+msgstr ""
+
+msgctxt "1756"
+msgid "Don't Buy the Bag"
+msgstr ""
+
+msgctxt "1768"
+msgid "Buy the Bag"
+msgstr ""
+
+msgctxt "1780"
+msgid "Don't Buy the Bag"
+msgstr ""
+
+msgctxt "15432"
+msgid "Shady Salesman"
+msgstr ""
+
+msgctxt "15436"
+msgid "Talk_Send"
+msgstr ""
+
+msgctxt "15440"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "15444"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "15448"
+msgid "Talk_NoBig"
+msgstr ""
+
+msgctxt "15452"
+msgid "Talk_Sorry"
+msgstr ""
+
+msgctxt "15456"
+msgid "Sync_Send"
+msgstr ""
+
+msgctxt "15460"
+msgid "dummy"
+msgstr ""
+
+msgctxt "15464"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "15468"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "15472"
+msgid "Talk_Cry"
+msgstr ""

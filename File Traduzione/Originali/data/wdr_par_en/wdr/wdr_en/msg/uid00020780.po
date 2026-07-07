@@ -1,0 +1,169 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "80"
+msgid "I can't believe this all actually happened..."
+msgstr ""
+
+msgctxt "92"
+msgid "......"
+msgstr ""
+
+msgctxt "104"
+msgid "I'm sorry, Kiryu-san, I didn't mean to take up so much of your time..."
+msgstr ""
+
+msgctxt "116"
+msgid "Don't worry about it."
+msgstr ""
+
+msgctxt "128"
+msgid "I... I gotta go apologize to Mina."
+msgstr ""
+
+msgctxt "140"
+msgid "It's my fault that Mina did what she did..."
+msgstr ""
+
+msgctxt "152"
+msgid ""
+"I never thought about how she might feel. I just like, plowed ahead with "
+"things, just to get everything all decided."
+msgstr ""
+
+msgctxt "164"
+msgid "......"
+msgstr ""
+
+msgctxt "176"
+msgid "We used to be like, such good friends..."
+msgstr ""
+
+msgctxt "188"
+msgid ""
+"I can understand why you might not get along so well right now, but why "
+"don't you try to forgive one another?"
+msgstr ""
+
+msgctxt "200"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "212"
+msgid "Friendship is fragile. It doesn't take much to smash it to pieces."
+msgstr ""
+
+msgctxt "224"
+msgid ""
+"But friendships can come out of those painful experiences, forged together "
+"to become stronger than it ever was before."
+msgstr ""
+
+msgctxt "236"
+msgid "Kiryu-san..."
+msgstr ""
+
+msgctxt "248"
+msgid "I'm sure your hearts are still connected."
+msgstr ""
+
+msgctxt "260"
+msgid "You have a really big heart, Kiryu-san.."
+msgstr ""
+
+msgctxt "272"
+msgid "Mine's like, still really small..."
+msgstr ""
+
+msgctxt "284"
+msgid "I wouldn't say that."
+msgstr ""
+
+msgctxt "296"
+msgid ""
+"I'm still gonna go to Istanbul. There's like, so many things I've gotta see "
+"and experience there."
+msgstr ""
+
+msgctxt "308"
+msgid "Right."
+msgstr ""
+
+msgctxt "320"
+msgid ""
+"Today's gonna be my last day with you! I can't have you bailing me outta "
+"stuff like, forever."
+msgstr ""
+
+msgctxt "332"
+msgid "Heh... All right."
+msgstr ""
+
+msgctxt "344"
+msgid ""
+"I really like you, Kiryu-san. <Color:255,200,200,255>⑮<Color:Default> So, "
+"like, why don't we make our last day one to really remember?"
+msgstr ""
+
+msgctxt "356"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "368"
+msgid ""
+"Hehehe! <Color:255,200,200,255>⑮<Color:Default> C'mon, you know what I "
+"mean. <Color:255,200,200,255>⑮<Color:Default> You're so cute, I might have "
+"to like, take you with me. "
+"<Color:255,200,200,255>⑮<Color:Default><Color:255,200,200,255"
+">⑮<Color:Default><Color:255,200,200,255>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "416"
+msgid "...This is the place, Kiryu-san."
+msgstr ""
+
+msgctxt "428"
+msgid "All right... You're sure about this?"
+msgstr ""
+
+msgctxt "440"
+msgid "Yeah, super sure."
+msgstr ""
+
+msgctxt "5768"
+msgid "Ranko"
+msgstr ""
+
+msgctxt "5772"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "5776"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "5780"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "5784"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "5788"
+msgid "F_sxy_stand_sync_dakitukiA_st"
+msgstr ""
+
+msgctxt "5792"
+msgid "P_stand_sync_dakitukiA_st"
+msgstr ""

@@ -1,0 +1,80 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid "Yeek... I'm⑬I'm sorry!"
+msgstr ""
+
+msgctxt "76"
+msgid "Good for you. Are you going to give me back whatever you took?"
+msgstr ""
+
+msgctxt "88"
+msgid "Um... uh... I don't actually have anything."
+msgstr ""
+
+msgctxt "100"
+msgid ""
+"Usually, when I tell them I've got something of theirs, people just bring "
+"me stuff, no questions asked..."
+msgstr ""
+
+msgctxt "112"
+msgid ""
+"...or they try to find me to chew me out. That's when I lead them to my "
+"friends, and we take whatever they've got..."
+msgstr ""
+
+msgctxt "124"
+msgid "I'm really sorry. Here, would this be enough to make up for everything?"
+msgstr ""
+
+msgctxt "136"
+msgid "You got <Color:8>50,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "160"
+msgid "You got 8,000 EXP."
+msgstr ""
+
+msgctxt "1692"
+msgid "Man on Phone"
+msgstr ""
+
+msgctxt "1696"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1700"
+msgid "Talk_Udekumi_st"
+msgstr ""
+
+msgctxt "1704"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "1708"
+msgid "Talk_Sorry"
+msgstr ""
+
+msgctxt "1712"
+msgid "Talk_Udekumi_ed"
+msgstr ""
+
+msgctxt "1716"
+msgid "dummy"
+msgstr ""
+
+msgctxt "1720"
+msgid "0"
+msgstr ""

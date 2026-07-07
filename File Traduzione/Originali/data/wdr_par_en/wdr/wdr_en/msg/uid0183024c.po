@@ -1,0 +1,478 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "132"
+msgid "Is this Kazuma Kiryu?"
+msgstr ""
+
+msgctxt "144"
+msgid "It is. Who's asking?"
+msgstr ""
+
+msgctxt "156"
+msgid "This is the Minister of Defense. Tamiya."
+msgstr ""
+
+msgctxt "168"
+msgid "Tamiya!?"
+msgstr ""
+
+msgctxt "192"
+msgid ""
+"As you're aware, I had been in contact with Daigo Dojima\r\n"
+"regarding the proposed Okinawa deal."
+msgstr ""
+
+msgctxt "204"
+msgid "Yeah. Your secretary Toma told me all about it a year or so ago."
+msgstr ""
+
+msgctxt "228"
+msgid "Right. Unfortunately, after Daigo Dojima was shot..."
+msgstr ""
+
+msgctxt "240"
+msgid ""
+"The Suzuki-supporting members of the Tojo Clan flung into\r\n"
+"overdrive attempting to push the resort."
+msgstr ""
+
+msgctxt "252"
+msgid ""
+"In turn, I had no choice but to ensure my military expansion\r\n"
+"bill passed as well."
+msgstr ""
+
+msgctxt "276"
+msgid "What do you mean?"
+msgstr ""
+
+msgctxt "288"
+msgid ""
+"I thought the resort started back up because you tried to\r\n"
+"pass your bill, not the other way around."
+msgstr ""
+
+msgctxt "300"
+msgid ""
+"Not exactly. My attempts to see the military expansion bill\r\n"
+"passed were the result of a third party. My hand was forced."
+msgstr ""
+
+msgctxt "312"
+msgid "And what does any of this have to do with me?"
+msgstr ""
+
+msgctxt "324"
+msgid "I need you to do me a favor."
+msgstr ""
+
+msgctxt "336"
+msgid "Keep the resort from starting up again?"
+msgstr ""
+
+msgctxt "348"
+msgid ""
+"Not quite. Though the end result will ultimately lead to\r\n"
+"that."
+msgstr ""
+
+msgctxt "360"
+msgid ""
+"I'm not sure I follow. Aren't your base and that resort some\r\n"
+"kind of linked pair?"
+msgstr ""
+
+msgctxt "372"
+msgid "If the resort doesn't happen, neither will your base."
+msgstr ""
+
+msgctxt "384"
+msgid "This matter is regrettably not as simple as that."
+msgstr ""
+
+msgctxt "396"
+msgid ""
+"Regardless, if you still want to put a stop to this resort\r\n"
+"deal, come to my office in the Diet Building."
+msgstr ""
+
+msgctxt "408"
+msgid "The Diet Building, huh?"
+msgstr ""
+
+msgctxt "420"
+msgid ""
+"You heard me. I'll have my driver wait for you in front of\r\n"
+"the Millennium Tower. He'll bring you to me."
+msgstr ""
+
+msgctxt "432"
+msgid "Fine. I have a few questions of my own that could use answering."
+msgstr ""
+
+msgctxt "528"
+msgid "Is this Kazuma Kiryu?"
+msgstr ""
+
+msgctxt "540"
+msgid "It is. Who's asking?"
+msgstr ""
+
+msgctxt "552"
+msgid "This is the Minister of Defense. Tamiya."
+msgstr ""
+
+msgctxt "564"
+msgid "Tamiya!?"
+msgstr ""
+
+msgctxt "588"
+msgid ""
+"As you're aware, I had been in contact with Daigo Dojima\r\n"
+"regarding the proposed Okinawa deal."
+msgstr ""
+
+msgctxt "600"
+msgid "Yeah. Your secretary Toma told me all about it a year or so ago."
+msgstr ""
+
+msgctxt "624"
+msgid "Right. Unfortunately, after Daigo Dojima was shot..."
+msgstr ""
+
+msgctxt "636"
+msgid ""
+"The Suzuki-supporting members of the Tojo Clan flung into\r\n"
+"overdrive attempting to push the resort."
+msgstr ""
+
+msgctxt "648"
+msgid ""
+"In turn, I had no choice but to ensure my military expansion\r\n"
+"bill passed as well."
+msgstr ""
+
+msgctxt "672"
+msgid "What do you mean?"
+msgstr ""
+
+msgctxt "684"
+msgid ""
+"I thought the resort started back up because you tried to\r\n"
+"pass your bill, not the other way around."
+msgstr ""
+
+msgctxt "696"
+msgid ""
+"Not exactly. My attempts to see the military expansion bill\r\n"
+"passed were the result of a third party. My hand was forced."
+msgstr ""
+
+msgctxt "708"
+msgid "And what does any of this have to do with me?"
+msgstr ""
+
+msgctxt "720"
+msgid "I need you to do me a favor."
+msgstr ""
+
+msgctxt "732"
+msgid "Keep the resort from starting up again?"
+msgstr ""
+
+msgctxt "744"
+msgid ""
+"Not quite. Though the end result will ultimately lead to\r\n"
+"that."
+msgstr ""
+
+msgctxt "756"
+msgid ""
+"I'm not sure I follow. Aren't your base and that resort some\r\n"
+"kind of linked pair?"
+msgstr ""
+
+msgctxt "768"
+msgid "If the resort doesn't happen, neither will your base."
+msgstr ""
+
+msgctxt "780"
+msgid "This matter is regrettably not as simple as that."
+msgstr ""
+
+msgctxt "792"
+msgid ""
+"Regardless, if you still want to put a stop to this resort\r\n"
+"deal, come to my office in the Diet Building."
+msgstr ""
+
+msgctxt "804"
+msgid "The Diet Building, huh?"
+msgstr ""
+
+msgctxt "816"
+msgid ""
+"You heard me. I'll have my driver wait for you in front of\r\n"
+"the Millennium Tower. He'll bring you to me."
+msgstr ""
+
+msgctxt "828"
+msgid "Fine. I have a few questions of my own that could use answering."
+msgstr ""
+
+msgctxt "924"
+msgid "Is this Kazuma Kiryu?"
+msgstr ""
+
+msgctxt "936"
+msgid "It is. Who's asking?"
+msgstr ""
+
+msgctxt "948"
+msgid "This is the Minister of Defense. Tamiya."
+msgstr ""
+
+msgctxt "960"
+msgid "Tamiya!?"
+msgstr ""
+
+msgctxt "984"
+msgid ""
+"As you're aware, I had been in contact with Daigo Dojima\r\n"
+"regarding the proposed Okinawa deal."
+msgstr ""
+
+msgctxt "996"
+msgid "Yeah. Your secretary Toma told me all about it a year or so ago."
+msgstr ""
+
+msgctxt "1020"
+msgid "Right. Unfortunately, after Daigo Dojima was shot..."
+msgstr ""
+
+msgctxt "1032"
+msgid ""
+"The Suzuki-supporting members of the Tojo Clan flung into\r\n"
+"overdrive attempting to push the resort."
+msgstr ""
+
+msgctxt "1044"
+msgid ""
+"In turn, I had no choice but to ensure my military expansion\r\n"
+"bill passed as well."
+msgstr ""
+
+msgctxt "1068"
+msgid "What do you mean?"
+msgstr ""
+
+msgctxt "1080"
+msgid ""
+"I thought the resort started back up because you tried to\r\n"
+"pass your bill, not the other way around."
+msgstr ""
+
+msgctxt "1092"
+msgid ""
+"Not exactly. My attempts to see the military expansion bill\r\n"
+"passed were the result of a third party. My hand was forced."
+msgstr ""
+
+msgctxt "1104"
+msgid "And what does any of this have to do with me?"
+msgstr ""
+
+msgctxt "1116"
+msgid "I need you to do me a favor."
+msgstr ""
+
+msgctxt "1128"
+msgid "Keep the resort from starting up again?"
+msgstr ""
+
+msgctxt "1140"
+msgid ""
+"Not quite. Though the end result will ultimately lead to\r\n"
+"that."
+msgstr ""
+
+msgctxt "1152"
+msgid ""
+"I'm not sure I follow. Aren't your base and that resort some\r\n"
+"kind of linked pair?"
+msgstr ""
+
+msgctxt "1164"
+msgid "If the resort doesn't happen, neither will your base."
+msgstr ""
+
+msgctxt "1176"
+msgid "This matter is regrettably not as simple as that."
+msgstr ""
+
+msgctxt "1188"
+msgid ""
+"Regardless, if you still want to put a stop to this resort\r\n"
+"deal, come to my office in the Diet Building."
+msgstr ""
+
+msgctxt "1200"
+msgid "The Diet Building, huh?"
+msgstr ""
+
+msgctxt "1212"
+msgid ""
+"You heard me. I'll have my driver wait for you in front of\r\n"
+"the Millennium Tower. He'll bring you to me."
+msgstr ""
+
+msgctxt "1224"
+msgid "Fine. I have a few questions of my own that could use answering."
+msgstr ""
+
+msgctxt "13404"
+msgid "P_stand_tlk_phone_st"
+msgstr ""
+
+msgctxt "13408"
+msgid "Man's Voice"
+msgstr ""
+
+msgctxt "13412"
+msgid "adv_scene_108/tamiya_002"
+msgstr ""
+
+msgctxt "13416"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "13420"
+msgid "P_stand_tlk_phone_yes"
+msgstr ""
+
+msgctxt "13424"
+msgid "adv_scene_108/kiryu_499"
+msgstr ""
+
+msgctxt "13428"
+msgid "Tamiya"
+msgstr ""
+
+msgctxt "13432"
+msgid "adv_scene_108/tamiya_003"
+msgstr ""
+
+msgctxt "13436"
+msgid "P_stand_tlk_phone_surp"
+msgstr ""
+
+msgctxt "13440"
+msgid "adv_scene_108/kiryu_500"
+msgstr ""
+
+msgctxt "13444"
+msgid "se_h_tamiya_kaiso01"
+msgstr ""
+
+msgctxt "13448"
+msgid "adv_scene_108/tamiya_004"
+msgstr ""
+
+msgctxt "13452"
+msgid "adv_scene_108/kiryu_501"
+msgstr ""
+
+msgctxt "13456"
+msgid "se_h_toma_kaiso01"
+msgstr ""
+
+msgctxt "13460"
+msgid "adv_scene_108/tamiya_005"
+msgstr ""
+
+msgctxt "13464"
+msgid "adv_scene_108/tamiya_006"
+msgstr ""
+
+msgctxt "13468"
+msgid "adv_scene_108/tamiya_007"
+msgstr ""
+
+msgctxt "13472"
+msgid "dummy"
+msgstr ""
+
+msgctxt "13476"
+msgid "adv_scene_108/kiryu_502"
+msgstr ""
+
+msgctxt "13480"
+msgid "adv_scene_108/kiryu_503"
+msgstr ""
+
+msgctxt "13484"
+msgid "adv_scene_108/tamiya_008"
+msgstr ""
+
+msgctxt "13488"
+msgid "adv_scene_108/kiryu_504"
+msgstr ""
+
+msgctxt "13492"
+msgid "adv_scene_108/tamiya_009"
+msgstr ""
+
+msgctxt "13496"
+msgid "adv_scene_108/kiryu_505"
+msgstr ""
+
+msgctxt "13500"
+msgid "adv_scene_108/tamiya_010"
+msgstr ""
+
+msgctxt "13504"
+msgid "P_stand_tlk_phone_no"
+msgstr ""
+
+msgctxt "13508"
+msgid "adv_scene_108/kiryu_506"
+msgstr ""
+
+msgctxt "13512"
+msgid "adv_scene_108/kiryu_507"
+msgstr ""
+
+msgctxt "13516"
+msgid "adv_scene_108/tamiya_011"
+msgstr ""
+
+msgctxt "13520"
+msgid "adv_scene_108/tamiya_142"
+msgstr ""
+
+msgctxt "13524"
+msgid "adv_scene_108/kiryu_508"
+msgstr ""
+
+msgctxt "13528"
+msgid "adv_scene_108/tamiya_012"
+msgstr ""
+
+msgctxt "13532"
+msgid "adv_scene_108/kiryu_509"
+msgstr ""
+
+msgctxt "13536"
+msgid "P_stand_tlk_phone_ed"
+msgstr ""

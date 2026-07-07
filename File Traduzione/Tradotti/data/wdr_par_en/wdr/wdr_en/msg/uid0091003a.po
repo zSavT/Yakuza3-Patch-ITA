@@ -1,0 +1,228 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "80"
+msgid "No way..."
+msgstr ""
+
+msgctxt "92"
+msgid "You ready to come along now?"
+msgstr ""
+
+msgctxt "104"
+msgid "Argh..."
+msgstr ""
+
+msgctxt "116"
+msgid "So what were you doing here, anyway? Who were you after?"
+msgstr ""
+
+msgctxt "128"
+msgid "Nobody. I'm just here to relax."
+msgstr ""
+
+msgctxt "140"
+msgid ""
+"Don't lie to me. Why would you come here if you weren't\r\n"
+"planning a hit?"
+msgstr ""
+
+msgctxt "152"
+msgid "I'm not lying. I come here whenever I get the chance."
+msgstr ""
+
+msgctxt "164"
+msgid ""
+"Why on Earth would you come to a place like this unless you\r\n"
+"had good reason to?"
+msgstr ""
+
+msgctxt "176"
+msgid ""
+"I get scared... I don't like being cooped up in places\r\n"
+"that don't have a view of my surroundings."
+msgstr ""
+
+msgctxt "188"
+msgid "Scared? Did something happen?"
+msgstr ""
+
+msgctxt "200"
+msgid ""
+"I blew an important mission. Completely destroyed my hitman\r\n"
+"rep."
+msgstr ""
+
+msgctxt "212"
+msgid ""
+"I was trying to shoot between buildings. I was sure I\r\n"
+"could do it..."
+msgstr ""
+
+msgctxt "224"
+msgid ""
+"But I botched it. And it was a shot I couldn't afford to\r\n"
+"miss..."
+msgstr ""
+
+msgctxt "236"
+msgid ""
+"Ever since, I've had this strange, uneasy feeling whenever\r\n"
+"I'm in a place that doesn't have a wide-open view."
+msgstr ""
+
+msgctxt "248"
+msgid "Sniper post-traumatic stress, then?"
+msgstr ""
+
+msgctxt "260"
+msgid "Yeah, something like that. Anyway, just think about it."
+msgstr ""
+
+msgctxt "272"
+msgid ""
+"This place has a clear view, sure. But do you really think I\r\n"
+"could hit a target from here?"
+msgstr ""
+
+msgctxt "284"
+msgid "Probably not."
+msgstr ""
+
+msgctxt "296"
+msgid "Exactly. So there's no way I could be after anyone."
+msgstr ""
+
+msgctxt "308"
+msgid ""
+"I've been coming here a lot lately. Guess I'm not acting\r\n"
+"much like a hitman these days..."
+msgstr ""
+
+msgctxt "320"
+msgid "I see. Guess you're not really a bad guy."
+msgstr ""
+
+msgctxt "332"
+msgid ""
+"But you still have information we need, so you're going\r\n"
+"with me to the HLA."
+msgstr ""
+
+msgctxt "392"
+msgid "What are you doing here?"
+msgstr ""
+
+msgctxt "404"
+msgid ""
+"What do you want? Go away. I don't feel like talking to\r\n"
+"people right now."
+msgstr ""
+
+msgctxt "416"
+msgid "You must be Shu."
+msgstr ""
+
+msgctxt "428"
+msgid "How do you know my name? Who are you?"
+msgstr ""
+
+msgctxt "440"
+msgid "I'm with the Honest Living Association."
+msgstr ""
+
+msgctxt "452"
+msgid "The HLA, huh... I went to them for help once."
+msgstr ""
+
+msgctxt "464"
+msgid ""
+"I'm not looking for work right now, though. Could you leave\r\n"
+"me alone?"
+msgstr ""
+
+msgctxt "476"
+msgid ""
+"I'm not here to offer you work. I'm here to find a hitman\r\n"
+"who works for the Reapers."
+msgstr ""
+
+msgctxt "488"
+msgid "What?"
+msgstr ""
+
+msgctxt "500"
+msgid ""
+"I don't have time to play games with you. Will you come with\r\n"
+"me to the HLA's headquarters?"
+msgstr ""
+
+msgctxt "512"
+msgid "......"
+msgstr ""
+
+msgctxt "524"
+msgid "Did you really think it would be that easy?"
+msgstr ""
+
+msgctxt "536"
+msgid "I'm prepared to use force if I have to."
+msgstr ""
+
+msgctxt "548"
+msgid "You'll regret it if you try."
+msgstr ""
+
+msgctxt "6068"
+msgid "Shu"
+msgstr ""
+
+msgctxt "6072"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "6076"
+msgid "Idle"
+msgstr ""
+
+msgctxt "6080"
+msgid "Talk_Kosite_st"
+msgstr ""
+
+msgctxt "6084"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "6088"
+msgid "Talk_Kosite_ed"
+msgstr ""
+
+msgctxt "6092"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "6096"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "6100"
+msgid "P_stand_tlk_phone_st"
+msgstr ""
+
+msgctxt "6104"
+msgid "Talk_Away"
+msgstr ""
+
+msgctxt "6108"
+msgid "0"
+msgstr ""

@@ -1,0 +1,772 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid "Well, Aniki? Ready to get the fashion beatdown?"
+msgstr ""
+
+msgctxt "76"
+msgid "Actually, I'm pretty confident. How are you feeling, Rikiya?"
+msgstr ""
+
+msgctxt "88"
+msgid ""
+"Oh, you don't gotta worry about me. I'll be just fine.\r\n"
+"Anyway, lemme go grab Mitsuo!"
+msgstr ""
+
+msgctxt "172"
+msgid "We're back, Aniki!"
+msgstr ""
+
+msgctxt "184"
+msgid "What is it, Uncle Kaz? I'm not really feeling so good..."
+msgstr ""
+
+msgctxt "196"
+msgid ""
+"You'll feel better soon, Mitsuo. We're gonna give you a\r\n"
+"fashion makeover."
+msgstr ""
+
+msgctxt "208"
+msgid "Whoa, really!?"
+msgstr ""
+
+msgctxt "220"
+msgid ""
+"Heck yeah! You're gonna have to claw the ladies off ya,\r\n"
+"and it'll all be thanks to me and my amazing taste!"
+msgstr ""
+
+msgctxt "232"
+msgid "I dunno about this..."
+msgstr ""
+
+msgctxt "244"
+msgid ""
+"C'mon, it'll be fine! All you gotta do is put the clothes\r\n"
+"on and tell us what you like better."
+msgstr ""
+
+msgctxt "256"
+msgid "You can start with mine."
+msgstr ""
+
+msgctxt "280"
+msgid "I got you sunglasses and an American flag polo."
+msgstr ""
+
+msgctxt "292"
+msgid "Uh..."
+msgstr ""
+
+msgctxt "304"
+msgid ""
+"You gotta be kidding me, Aniki. The kid's gonna be too shy\r\n"
+"to look in a damn mirror if you dress him up like that!"
+msgstr ""
+
+msgctxt "316"
+msgid "I got you an American flag polo and a ten gallon hat."
+msgstr ""
+
+msgctxt "328"
+msgid "Uh..."
+msgstr ""
+
+msgctxt "340"
+msgid ""
+"You gotta be kidding me, Aniki. The kid's gonna be too shy\r\n"
+"to look in a damn mirror if you dress him up like that!"
+msgstr ""
+
+msgctxt "352"
+msgid "I got you sunglasses and a dragon print polo."
+msgstr ""
+
+msgctxt "364"
+msgid "Uh..."
+msgstr ""
+
+msgctxt "376"
+msgid ""
+"You gotta be kidding me, Aniki. The kid's gonna be too shy\r\n"
+"to look in a damn mirror if you dress him up like that!"
+msgstr ""
+
+msgctxt "388"
+msgid "I got you a dragon print polo and a ten gallon hat."
+msgstr ""
+
+msgctxt "400"
+msgid "Uh..."
+msgstr ""
+
+msgctxt "412"
+msgid ""
+"You gotta be kidding me, Aniki. The kid's gonna be too shy\r\n"
+"to look in a damn mirror if you dress him up like that!"
+msgstr ""
+
+msgctxt "424"
+msgid "Really? But I thought fashion was all about standing out..."
+msgstr ""
+
+msgctxt "436"
+msgid ""
+"Oh he's gonna stand out, all right! Like a sore freaking\r\n"
+"thumb!"
+msgstr ""
+
+msgctxt "448"
+msgid "Hm..."
+msgstr ""
+
+msgctxt "460"
+msgid ""
+"Not to worry, Mitsuo! I've got the solution to all your girl\r\n"
+"troubles right here!"
+msgstr ""
+
+msgctxt "472"
+msgid "Okay! What is it, Uncle Rikiya?"
+msgstr ""
+
+msgctxt "484"
+msgid ""
+"Man, you're gonna love this... Tada! A short jacket, baggy\r\n"
+"pants, and of course you can't go anywhere without a nice\r\n"
+"old school bag! It's kinda squished, but who cares?"
+msgstr ""
+
+msgctxt "496"
+msgid "Um..."
+msgstr ""
+
+msgctxt "508"
+msgid "......"
+msgstr ""
+
+msgctxt "520"
+msgid ""
+"C'mon, it's my old gear from when I was in junior high!\r\n"
+"Took a while to round it all up, mind you."
+msgstr ""
+
+msgctxt "532"
+msgid ""
+"Girls go gaga for this bad boy stuff, trust me. You'll have\r\n"
+"to beat 'em off with a stick! Well? You want it, right?"
+msgstr ""
+
+msgctxt "544"
+msgid "No way."
+msgstr ""
+
+msgctxt "556"
+msgid "Huh!? But, but, but... don't you wanna look cool!?"
+msgstr ""
+
+msgctxt "568"
+msgid ""
+"Yeah, that's why I'm not taking your clothes! Nobody wears\r\n"
+"stuff like that anymore. And besides, why would I wear your\r\n"
+"junior high clothes? I'm still in elementary school!"
+msgstr ""
+
+msgctxt "580"
+msgid "I'd rather take the things Uncle Kaz picked out!"
+msgstr ""
+
+msgctxt "592"
+msgid ""
+"Heh. Who's behind the times now, Rikiya? I haven't seen\r\n"
+"clothes like that in years."
+msgstr ""
+
+msgctxt "604"
+msgid "Not like you did any better!"
+msgstr ""
+
+msgctxt "616"
+msgid ""
+"Don't be like that. You lost fair and square. To me.\r\n"
+"An \"old-timer.\""
+msgstr ""
+
+msgctxt "628"
+msgid "Why don't you go get changed, Mitsuo?"
+msgstr ""
+
+msgctxt "640"
+msgid "All right, but I'm not really feeling this either..."
+msgstr ""
+
+msgctxt "652"
+msgid "Just try it on. It's good to change up your vibe sometimes."
+msgstr ""
+
+msgctxt "664"
+msgid "If you say so..."
+msgstr ""
+
+msgctxt "736"
+msgid "Are you sure this is cool? It feels kinda... not."
+msgstr ""
+
+msgctxt "748"
+msgid ""
+"Yeah, I dunno about that. It looks like you just got back\r\n"
+"from a vacation in Hawaii! Or maybe Guam?"
+msgstr ""
+
+msgctxt "760"
+msgid ""
+"I don't think it's that bad. This kinda thing is all the\r\n"
+"rage in the U.S., you know."
+msgstr ""
+
+msgctxt "772"
+msgid "Really? I didn't know you were into foreign fashion, Aniki."
+msgstr ""
+
+msgctxt "820"
+msgid "Are you sure this is cool? It feels kinda... not."
+msgstr ""
+
+msgctxt "832"
+msgid "Nothing cooler than a good old-fashioned rodeo, haha!"
+msgstr ""
+
+msgctxt "844"
+msgid ""
+"I don't think it's that bad. You know cowboy is actually\r\n"
+"the most popular job in the U.S.?"
+msgstr ""
+
+msgctxt "856"
+msgid "Really? I had no idea..."
+msgstr ""
+
+msgctxt "904"
+msgid "Are you sure this is cool? It feels kinda... not."
+msgstr ""
+
+msgctxt "916"
+msgid "Heh, you look like a yakuza in trainin'."
+msgstr ""
+
+msgctxt "928"
+msgid ""
+"I don't think it's that bad. And hey, doesn't the dragon\r\n"
+"print make you feel closer to your Uncle Kaz?"
+msgstr ""
+
+msgctxt "940"
+msgid "It's always dragons with you, Aniki..."
+msgstr ""
+
+msgctxt "988"
+msgid "Are you sure this is cool? It feels kinda... not."
+msgstr ""
+
+msgctxt "1000"
+msgid "You look like you're having an identity crisis."
+msgstr ""
+
+msgctxt "1012"
+msgid ""
+"I don't think it's that bad. And hey, doesn't the dragon\r\n"
+"print make you feel closer to your Uncle Kaz?"
+msgstr ""
+
+msgctxt "1024"
+msgid "It's always dragons with you, Aniki..."
+msgstr ""
+
+msgctxt "1036"
+msgid ""
+"All right, Mitsuo. Get over there and show Riona what\r\n"
+"you've got!"
+msgstr ""
+
+msgctxt "1048"
+msgid "Okay..."
+msgstr ""
+
+msgctxt "1108"
+msgid ""
+"Hey, Riona. I couldn't find anyone else who wanted to go\r\n"
+"to the movie with me, so..."
+msgstr ""
+
+msgctxt "1120"
+msgid "Are you sure you don't wanna come?"
+msgstr ""
+
+msgctxt "1132"
+msgid "Uh, what are you wearing?"
+msgstr ""
+
+msgctxt "1144"
+msgid ""
+"I wouldn't be caught dead in a movie theater with a guy\r\n"
+"dressed like... that. Anyway, I already said I have plans."
+msgstr ""
+
+msgctxt "1156"
+msgid "Right..."
+msgstr ""
+
+msgctxt "1180"
+msgid "Shit, he got flat-out rejected and insulted to boot..."
+msgstr ""
+
+msgctxt "1192"
+msgid "......"
+msgstr ""
+
+msgctxt "1252"
+msgid "Maybe she's just not into me, Uncle Kaz..."
+msgstr ""
+
+msgctxt "1288"
+msgid ""
+"Hey, you can't give up after one small failure. You have to\r\n"
+"keep trying, Mitsuo."
+msgstr ""
+
+msgctxt "1300"
+msgid "Maybe... but I think she likes this guy Okada from my class."
+msgstr ""
+
+msgctxt "1312"
+msgid "Then you'll just have to prove you're better than him."
+msgstr ""
+
+msgctxt "1324"
+msgid "What!? But he's really cool! And his dad's super rich!"
+msgstr ""
+
+msgctxt "1336"
+msgid ""
+"But you don't even know if he likes her. You can't ignore\r\n"
+"how you feel, Mitsuo."
+msgstr ""
+
+msgctxt "1348"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "1360"
+msgid "Well? You like her, right?"
+msgstr ""
+
+msgctxt "1372"
+msgid "...Yeah. I really like her."
+msgstr ""
+
+msgctxt "1384"
+msgid "Then you know what you need to do."
+msgstr ""
+
+msgctxt "1396"
+msgid ""
+"You're right. I'm not gonna give up! Anyway, I should go\r\n"
+"grab Taichi. He said he'd see the movie with me if Riona\r\n"
+"didn't wanna go."
+msgstr ""
+
+msgctxt "1408"
+msgid "Heh, glad you have someone to go with."
+msgstr ""
+
+msgctxt "1420"
+msgid ""
+"All right, Mitsuo. Get over there and show Riona what\r\n"
+"you've got!"
+msgstr ""
+
+msgctxt "1432"
+msgid "Okay..."
+msgstr ""
+
+msgctxt "1492"
+msgid ""
+"Hey, Riona. I couldn't find anyone else who wanted to go\r\n"
+"to the movie with me, so..."
+msgstr ""
+
+msgctxt "1504"
+msgid "Are you sure you don't wanna come?"
+msgstr ""
+
+msgctxt "1516"
+msgid "Uh, what are you wearing?"
+msgstr ""
+
+msgctxt "1528"
+msgid ""
+"I wouldn't be caught dead in a movie theater with a guy\r\n"
+"dressed like... that. Anyway, I already said I have plans."
+msgstr ""
+
+msgctxt "1540"
+msgid "Right..."
+msgstr ""
+
+msgctxt "1564"
+msgid "Shit, he got flat-out rejected and insulted to boot..."
+msgstr ""
+
+msgctxt "1576"
+msgid "......"
+msgstr ""
+
+msgctxt "1636"
+msgid "Maybe she's just not into me, Uncle Kaz..."
+msgstr ""
+
+msgctxt "1672"
+msgid ""
+"Hey, you can't give up after one small failure. You have to\r\n"
+"keep trying, Mitsuo."
+msgstr ""
+
+msgctxt "1684"
+msgid "Maybe... but I think she likes this guy Okada from my class."
+msgstr ""
+
+msgctxt "1696"
+msgid "Then you'll just have to prove you're better than him."
+msgstr ""
+
+msgctxt "1708"
+msgid "What!? But he's really cool! And his dad's super rich!"
+msgstr ""
+
+msgctxt "1720"
+msgid ""
+"But you don't even know if he likes her. You can't ignore\r\n"
+"how you feel, Mitsuo."
+msgstr ""
+
+msgctxt "1732"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "1744"
+msgid "Well? You like her, right?"
+msgstr ""
+
+msgctxt "1756"
+msgid "...Yeah. I really like her."
+msgstr ""
+
+msgctxt "1768"
+msgid "Then you know what you need to do."
+msgstr ""
+
+msgctxt "1780"
+msgid ""
+"You're right. I'm not gonna give up! Anyway, I should go\r\n"
+"grab Taichi. He said he'd see the movie with me if Riona\r\n"
+"didn't wanna go."
+msgstr ""
+
+msgctxt "1792"
+msgid "Heh, glad you have someone to go with."
+msgstr ""
+
+msgctxt "1804"
+msgid ""
+"All right, Mitsuo. Get over there and show Riona what\r\n"
+"you've got!"
+msgstr ""
+
+msgctxt "1816"
+msgid "Okay..."
+msgstr ""
+
+msgctxt "1876"
+msgid ""
+"Hey, Riona. I couldn't find anyone else who wanted to go\r\n"
+"to the movie with me, so..."
+msgstr ""
+
+msgctxt "1888"
+msgid "Are you sure you don't wanna come?"
+msgstr ""
+
+msgctxt "1900"
+msgid "Uh, what are you wearing?"
+msgstr ""
+
+msgctxt "1912"
+msgid ""
+"I wouldn't be caught dead in a movie theater with a guy\r\n"
+"dressed like... that. Anyway, I already said I have plans."
+msgstr ""
+
+msgctxt "1924"
+msgid "Right..."
+msgstr ""
+
+msgctxt "1948"
+msgid "Shit, he got flat-out rejected and insulted to boot..."
+msgstr ""
+
+msgctxt "1960"
+msgid "......"
+msgstr ""
+
+msgctxt "2020"
+msgid "Maybe she's just not into me, Uncle Kaz..."
+msgstr ""
+
+msgctxt "2056"
+msgid ""
+"Hey, you can't give up after one small failure. You have to\r\n"
+"keep trying, Mitsuo."
+msgstr ""
+
+msgctxt "2068"
+msgid "Maybe... but I think she likes this guy Okada from my class."
+msgstr ""
+
+msgctxt "2080"
+msgid "Then you'll just have to prove you're better than him."
+msgstr ""
+
+msgctxt "2092"
+msgid "What!? But he's really cool! And his dad's super rich!"
+msgstr ""
+
+msgctxt "2104"
+msgid ""
+"But you don't even know if he likes her. You can't ignore\r\n"
+"how you feel, Mitsuo."
+msgstr ""
+
+msgctxt "2116"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "2128"
+msgid "Well? You like her, right?"
+msgstr ""
+
+msgctxt "2140"
+msgid "...Yeah. I really like her."
+msgstr ""
+
+msgctxt "2152"
+msgid "Then you know what you need to do."
+msgstr ""
+
+msgctxt "2164"
+msgid ""
+"You're right. I'm not gonna give up! Anyway, I should go\r\n"
+"grab Taichi. He said he'd see the movie with me if Riona\r\n"
+"didn't wanna go."
+msgstr ""
+
+msgctxt "2176"
+msgid "Heh, glad you have someone to go with."
+msgstr ""
+
+msgctxt "2188"
+msgid ""
+"All right, Mitsuo. Get over there and show Riona what\r\n"
+"you've got!"
+msgstr ""
+
+msgctxt "2200"
+msgid "Okay..."
+msgstr ""
+
+msgctxt "2260"
+msgid ""
+"Hey, Riona. I couldn't find anyone else who wanted to go\r\n"
+"to the movie with me, so..."
+msgstr ""
+
+msgctxt "2272"
+msgid "Are you sure you don't wanna come?"
+msgstr ""
+
+msgctxt "2284"
+msgid "Uh, what are you wearing?"
+msgstr ""
+
+msgctxt "2296"
+msgid ""
+"I wouldn't be caught dead in a movie theater with a guy\r\n"
+"dressed like... that. Anyway, I already said I have plans."
+msgstr ""
+
+msgctxt "2308"
+msgid "Right..."
+msgstr ""
+
+msgctxt "2332"
+msgid "Shit, he got flat-out rejected and insulted to boot..."
+msgstr ""
+
+msgctxt "2344"
+msgid "......"
+msgstr ""
+
+msgctxt "2404"
+msgid "Maybe she's just not into me, Uncle Kaz..."
+msgstr ""
+
+msgctxt "2440"
+msgid ""
+"Hey, you can't give up after one small failure. You have to\r\n"
+"keep trying, Mitsuo."
+msgstr ""
+
+msgctxt "2452"
+msgid "Maybe... but I think she likes this guy Okada from my class."
+msgstr ""
+
+msgctxt "2464"
+msgid "Then you'll just have to prove you're better than him."
+msgstr ""
+
+msgctxt "2476"
+msgid "What!? But he's really cool! And his dad's super rich!"
+msgstr ""
+
+msgctxt "2488"
+msgid ""
+"But you don't even know if he likes her. You can't ignore\r\n"
+"how you feel, Mitsuo."
+msgstr ""
+
+msgctxt "2500"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "2512"
+msgid "Well? You like her, right?"
+msgstr ""
+
+msgctxt "2524"
+msgid "...Yeah. I really like her."
+msgstr ""
+
+msgctxt "2536"
+msgid "Then you know what you need to do."
+msgstr ""
+
+msgctxt "2548"
+msgid ""
+"You're right. I'm not gonna give up! Anyway, I should go\r\n"
+"grab Taichi. He said he'd see the movie with me if Riona\r\n"
+"didn't wanna go."
+msgstr ""
+
+msgctxt "2560"
+msgid "Heh, glad you have someone to go with."
+msgstr ""
+
+msgctxt "33436"
+msgid "Rikiya"
+msgstr ""
+
+msgctxt "33440"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "33444"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "33448"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "33452"
+msgid "0"
+msgstr ""
+
+msgctxt "33456"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "33460"
+msgid "Mitsuo"
+msgstr ""
+
+msgctxt "33464"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "33468"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "33472"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "33476"
+msgid "Talk_NoBig"
+msgstr ""
+
+msgctxt "33480"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "33484"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "33488"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "33492"
+msgid "SetM_cld_stand_kamae_namaiki"
+msgstr ""
+
+msgctxt "33496"
+msgid "Idle"
+msgstr ""
+
+msgctxt "33500"
+msgid "SetM_yng_sitgrd_nml_01"
+msgstr ""
+
+msgctxt "33504"
+msgid "P_stand_tlk_hirou_st"
+msgstr ""
+
+msgctxt "33508"
+msgid "Riona"
+msgstr ""
+
+msgctxt "33512"
+msgid "P_stand_tlk_child_st"
+msgstr ""
+
+msgctxt "33516"
+msgid "P_stand_tlk_child_yes"
+msgstr ""
+
+msgctxt "33520"
+msgid "P_stand_tlk_child_ed"
+msgstr ""

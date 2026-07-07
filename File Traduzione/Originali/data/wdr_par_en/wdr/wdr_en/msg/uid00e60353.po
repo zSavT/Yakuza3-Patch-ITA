@@ -1,0 +1,66 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "92"
+msgid "Did you hear? There was a shooting at one of the hostess clubs!"
+msgstr ""
+
+msgctxt "104"
+msgid "What!? No way! What happened?"
+msgstr ""
+
+msgctxt "116"
+msgid ""
+"Apparently, somebody tried to kill some politician's secretary⑬like an "
+"assassination attempt or something."
+msgstr ""
+
+msgctxt "128"
+msgid ""
+"I had no idea the clubs here could be so dangerous. Maybe I should give up "
+"trying to work at one..."
+msgstr ""
+
+msgctxt "140"
+msgid ""
+"Sounds like a good idea. Besides, I think you'd have a much better chance "
+"at becoming a celebrity if you worked as a dancer in Tokyo!"
+msgstr ""
+
+msgctxt "1132"
+msgid "Encouraging Friend"
+msgstr ""
+
+msgctxt "1136"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "1140"
+msgid "Dance Student"
+msgstr ""
+
+msgctxt "1144"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "1148"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "1152"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "1156"
+msgid "Talk_OK"
+msgstr ""

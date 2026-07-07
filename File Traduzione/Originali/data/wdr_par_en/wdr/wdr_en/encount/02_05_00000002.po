@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "124"
+msgid ""
+"Hey, someone's in a good mood! Where you comin' back from? A hostess club? "
+"A bar?"
+msgstr ""
+
+msgctxt "136"
+msgid "You must be loaded, huh? How about givin' us some cash?"
+msgstr ""
+
+msgctxt "160"
+msgid "Whoa... This guy's fierce..."
+msgstr ""
+
+msgctxt "172"
+msgid "Hey, you'll let us go, right?"
+msgstr ""
+
+msgctxt "184"
+msgid "You got an appealing %s."
+msgstr ""
+
+msgctxt "220"
+msgid "Sorry for bothering you..."
+msgstr ""
+
+msgctxt "1316"
+msgid "Irate Thug"
+msgstr ""
+
+msgctxt "1320"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "1324"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "1328"
+msgid "Sync_Send"
+msgstr ""
+
+msgctxt "1332"
+msgid "Talk_No"
+msgstr ""

@@ -1,0 +1,66 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid ""
+"I don't get all of this talk of building a resort. What's so great about "
+"Okinawa?"
+msgstr ""
+
+msgctxt "76"
+msgid ""
+"A friend of mine once went over to the mainland, and he says that the ocean "
+"there is really dirty. Nothing like the sparkling blue of our beaches."
+msgstr ""
+
+msgctxt "88"
+msgid "Really? But don't people go swimming during the summer?"
+msgstr ""
+
+msgctxt "100"
+msgid ""
+"That's because they don't know any better. Nobody who's ever been to "
+"Okinawa could stand to swim in that sludge."
+msgstr ""
+
+msgctxt "112"
+msgid "Hmm. I guess that's why everyone comes to vacation here..."
+msgstr ""
+
+msgctxt "1028"
+msgid "Local Woman"
+msgstr ""
+
+msgctxt "1032"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "1036"
+msgid "Mainland Expert"
+msgstr ""
+
+msgctxt "1040"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "1044"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "1048"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "1052"
+msgid "Talk_Yes"
+msgstr ""

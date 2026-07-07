@@ -1,0 +1,260 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "108"
+msgid ""
+"C'mon Taichi, it's beautiful out. How 'bout you and me head out for a nice "
+"relaxin' fish?"
+msgstr ""
+
+msgctxt "120"
+msgid "Nah."
+msgstr ""
+
+msgctxt "132"
+msgid ""
+"Oh... Well it's no fun sittin' in here, right? Let's get you\r\n"
+"out in the sun!"
+msgstr ""
+
+msgctxt "144"
+msgid "Just leave me alone!"
+msgstr ""
+
+msgctxt "156"
+msgid "But..."
+msgstr ""
+
+msgctxt "168"
+msgid "You want me to go outside? Fine, then let's wrestle!"
+msgstr ""
+
+msgctxt "180"
+msgid "Oh. Well, uh... Maybe later, okay?"
+msgstr ""
+
+msgctxt "192"
+msgid "Later? More like never!"
+msgstr ""
+
+msgctxt "204"
+msgid ""
+"I heard what the doctor was saying! I've got asthma!\r\n"
+"I'm gonna die if I keep wrestling!"
+msgstr ""
+
+msgctxt "216"
+msgid ""
+"But wrestling's the only thing I wanna do. I wanna go pro\r\n"
+"and make tons of money so I can help Morning Glory..."
+msgstr ""
+
+msgctxt "228"
+msgid "It's... It's the only thing I'm good at..."
+msgstr ""
+
+msgctxt "240"
+msgid "Taichi. You just need to find another way."
+msgstr ""
+
+msgctxt "252"
+msgid "Something other than wrestling, huh..."
+msgstr ""
+
+msgctxt "264"
+msgid "That's not what I mean. Wrestling is your dream, right?"
+msgstr ""
+
+msgctxt "276"
+msgid "...Yeah."
+msgstr ""
+
+msgctxt "288"
+msgid "Then you can't give it up."
+msgstr ""
+
+msgctxt "300"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "312"
+msgid "Don't lose sight of your dream, no matter what."
+msgstr ""
+
+msgctxt "324"
+msgid "I... don't get it, Uncle Kaz."
+msgstr ""
+
+msgctxt "336"
+msgid ""
+"Look, everyone faces obstacles on their path through life.\r\n"
+"It just so happens that the first obstacle you have to face\r\n"
+"is this asthma thing."
+msgstr ""
+
+msgctxt "348"
+msgid ""
+"So for now, just be patient. Pushing yourself could make it\r\n"
+"far worse, and running yourself into the ground is no better\r\n"
+"than abandoning your dream altogether."
+msgstr ""
+
+msgctxt "360"
+msgid "I..."
+msgstr ""
+
+msgctxt "372"
+msgid ""
+"All you can do now is wait. Stay calm. Start making plans\r\n"
+"for when you get better. Understand?"
+msgstr ""
+
+msgctxt "384"
+msgid "...Yeah."
+msgstr ""
+
+msgctxt "396"
+msgid ""
+"And you will get better, I'm sure of it. Then once you do,\r\n"
+"it'll be all systems go on the path to your dream."
+msgstr ""
+
+msgctxt "408"
+msgid ""
+"He's right, Taichi! Even if you can't do stuff now, you'll\r\n"
+"be back in butt-kickin' action in no time flat!"
+msgstr ""
+
+msgctxt "420"
+msgid ""
+"And hey, watchin' other people wrestle's still pretty fun,\r\n"
+"right? No better way to study moves, if ya ask me!"
+msgstr ""
+
+msgctxt "432"
+msgid ""
+"Wait, that's it! We'll put on a special match for you since\r\n"
+"you're sidelined n' all!"
+msgstr ""
+
+msgctxt "444"
+msgid "Ain't that right, Aniki!?"
+msgstr ""
+
+msgctxt "456"
+msgid "Uh..."
+msgstr ""
+
+msgctxt "516"
+msgid "So, what's this about a special match?"
+msgstr ""
+
+msgctxt "528"
+msgid ""
+"Just think about it, Aniki! You and me puttin' on a masked\r\n"
+"wrestling show, just like they do on TV!"
+msgstr ""
+
+msgctxt "540"
+msgid "You... want to wrestle me?"
+msgstr ""
+
+msgctxt "552"
+msgid "For Taichi! I think it'll really lift his spirits."
+msgstr ""
+
+msgctxt "564"
+msgid "True. Guess it's worth a try."
+msgstr ""
+
+msgctxt "576"
+msgid ""
+"Aw man, he's gonna love it! Me and Mikio'll get started\r\n"
+"buildin' the ring right away!"
+msgstr ""
+
+msgctxt "588"
+msgid "A ring? You're really serious about this, huh?"
+msgstr ""
+
+msgctxt "600"
+msgid ""
+"'Course I am! No point doin' something if you're gonna do it\r\n"
+"half-assed, y'know? Don't worry, we'll handle everything."
+msgstr ""
+
+msgctxt "612"
+msgid ""
+"Oh, and I'll let you know when we're ready. You might wanna\r\n"
+"warm up first⑬I got some pretty mean moves!"
+msgstr ""
+
+msgctxt "624"
+msgid "Heh, we'll see about that."
+msgstr ""
+
+msgctxt "8464"
+msgid "Rikiya"
+msgstr ""
+
+msgctxt "8468"
+msgid "P_sitgrd_tlk_agura_kamae"
+msgstr ""
+
+msgctxt "8472"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "8476"
+msgid "Taichi"
+msgstr ""
+
+msgctxt "8480"
+msgid "C30_SetM_cld_sitgrd_talkB_yes"
+msgstr ""
+
+msgctxt "8484"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "8488"
+msgid "P_sitgrd_tlk_agura_no"
+msgstr ""
+
+msgctxt "8492"
+msgid "P_sitgrd_tlk_agura_yes"
+msgstr ""
+
+msgctxt "8496"
+msgid "M_ykzs_stand_tlk_kamae"
+msgstr ""
+
+msgctxt "8500"
+msgid "P_stand"
+msgstr ""
+
+msgctxt "8504"
+msgid "Idle"
+msgstr ""
+
+msgctxt "8508"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "8512"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "8516"
+msgid "Talk_Call"
+msgstr ""

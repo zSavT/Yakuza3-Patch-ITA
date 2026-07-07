@@ -1,0 +1,326 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "808"
+msgid "Thanks for trying. Please come again."
+msgstr ""
+
+msgctxt "832"
+msgid "Congratulations! Here is your reward."
+msgstr ""
+
+msgctxt "868"
+msgid "Congratulations!"
+msgstr ""
+
+msgctxt "880"
+msgid "Your nickname has been upgraded! You can check it out from the menu."
+msgstr ""
+
+msgctxt "892"
+msgid "Welcome to the Underground Coliseum."
+msgstr ""
+
+msgctxt "904"
+msgid ""
+"Is this your first time here? You'll have to register before you can fight. "
+"Take a look at the rules while you wait."
+msgstr ""
+
+msgctxt "928"
+msgid "Your registration is complete."
+msgstr ""
+
+msgctxt "940"
+msgid "What would you like to do?"
+msgstr ""
+
+msgctxt "952"
+msgid "What else can we do for you?"
+msgstr ""
+
+msgctxt "964"
+msgid ""
+"Please be forewarned that you will not be able to use any weapons or "
+"defensive gear."
+msgstr ""
+
+msgctxt "976"
+msgid "Please select a tournament."
+msgstr ""
+
+msgctxt "1012"
+msgid "Thank you, and good luck."
+msgstr ""
+
+msgctxt "1036"
+msgid "Here are the Underground Coliseum rules."
+msgstr ""
+
+msgctxt "1060"
+msgid "What information would you like to view?"
+msgstr ""
+
+msgctxt "1072"
+msgid "Here is information on individual match opponents."
+msgstr ""
+
+msgctxt "1096"
+msgid "Here is information on tag match opponents."
+msgstr ""
+
+msgctxt "1120"
+msgid "You can trade points here for items."
+msgstr ""
+
+msgctxt "1132"
+msgid "What would you like to trade points for?"
+msgstr ""
+
+msgctxt "1156"
+msgid "These are your fight stats."
+msgstr ""
+
+msgctxt "1180"
+msgid ""
+"This is a compendium of information about popularity in the Underground "
+"Coliseum."
+msgstr ""
+
+msgctxt "1204"
+msgid "This is a compendium of information about tag matches."
+msgstr ""
+
+msgctxt "1228"
+msgid "Thank you very much. We hope to see you again soon."
+msgstr ""
+
+msgctxt "1240"
+msgid "Welcome to the Underground Coliseum. What would you like to do today?"
+msgstr ""
+
+msgctxt "1252"
+msgid "What else can we do for you?"
+msgstr ""
+
+msgctxt "1264"
+msgid ""
+"Please be forewarned that you will not be able to use any weapons or "
+"defensive gear."
+msgstr ""
+
+msgctxt "1276"
+msgid "Please select a tournament."
+msgstr ""
+
+msgctxt "1312"
+msgid "Thank you, and good luck."
+msgstr ""
+
+msgctxt "1336"
+msgid "Here are the Underground Coliseum rules."
+msgstr ""
+
+msgctxt "1360"
+msgid "What information would you like to view?"
+msgstr ""
+
+msgctxt "1372"
+msgid "Here is information on individual match opponents."
+msgstr ""
+
+msgctxt "1396"
+msgid "Here is information on tag match opponents."
+msgstr ""
+
+msgctxt "1420"
+msgid "You can trade points here for items."
+msgstr ""
+
+msgctxt "1432"
+msgid "What would you like to trade points for?"
+msgstr ""
+
+msgctxt "1456"
+msgid "These are your fight stats."
+msgstr ""
+
+msgctxt "1480"
+msgid ""
+"This is a compendium of information about popularity in the Underground "
+"Coliseum."
+msgstr ""
+
+msgctxt "1504"
+msgid "This is a compendium of information about tag matches."
+msgstr ""
+
+msgctxt "1528"
+msgid "We hope to see you again soon."
+msgstr ""
+
+msgctxt "1540"
+msgid "Compete in a Tournament"
+msgstr ""
+
+msgctxt "1552"
+msgid "Read the Rules"
+msgstr ""
+
+msgctxt "1564"
+msgid "See Info on Opponents"
+msgstr ""
+
+msgctxt "1576"
+msgid "Exchange Points"
+msgstr ""
+
+msgctxt "1588"
+msgid "View Fight Statistics"
+msgstr ""
+
+msgctxt "1600"
+msgid "Ask About Underground Coliseum Popularity"
+msgstr ""
+
+msgctxt "1612"
+msgid "Ask About Tag Matches"
+msgstr ""
+
+msgctxt "1624"
+msgid "Never Mind"
+msgstr ""
+
+msgctxt "1636"
+msgid "Compete in a Tournament"
+msgstr ""
+
+msgctxt "1648"
+msgid "Read the Rules"
+msgstr ""
+
+msgctxt "1660"
+msgid "See Info on Opponents"
+msgstr ""
+
+msgctxt "1672"
+msgid "Exchange Points"
+msgstr ""
+
+msgctxt "1684"
+msgid "View Fight Statistics"
+msgstr ""
+
+msgctxt "1696"
+msgid "Ask About Underground Coliseum Popularity"
+msgstr ""
+
+msgctxt "1708"
+msgid "Ask About Tag Matches"
+msgstr ""
+
+msgctxt "1720"
+msgid "Never Mind"
+msgstr ""
+
+msgctxt "1732"
+msgid "Individual Match Opponent Info"
+msgstr ""
+
+msgctxt "1744"
+msgid "Tag Match Opponent Info"
+msgstr ""
+
+msgctxt "1756"
+msgid "Never Mind"
+msgstr ""
+
+msgctxt "1768"
+msgid "Compete in a Tournament"
+msgstr ""
+
+msgctxt "1780"
+msgid "Read the Rules"
+msgstr ""
+
+msgctxt "1792"
+msgid "See Info on Opponents"
+msgstr ""
+
+msgctxt "1804"
+msgid "Exchange Points"
+msgstr ""
+
+msgctxt "1816"
+msgid "View Fight Statistics"
+msgstr ""
+
+msgctxt "1828"
+msgid "Ask About Underground Coliseum Popularity"
+msgstr ""
+
+msgctxt "1840"
+msgid "Ask About Tag Matches"
+msgstr ""
+
+msgctxt "1852"
+msgid "Never Mind"
+msgstr ""
+
+msgctxt "1864"
+msgid "Compete in a Tournament"
+msgstr ""
+
+msgctxt "1876"
+msgid "Read the Rules"
+msgstr ""
+
+msgctxt "1888"
+msgid "See Info on Opponents"
+msgstr ""
+
+msgctxt "1900"
+msgid "Exchange Points"
+msgstr ""
+
+msgctxt "1912"
+msgid "View Fight Statistics"
+msgstr ""
+
+msgctxt "1924"
+msgid "Ask About Underground Coliseum Popularity"
+msgstr ""
+
+msgctxt "1936"
+msgid "Ask About Tag Matches"
+msgstr ""
+
+msgctxt "1948"
+msgid "Never Mind"
+msgstr ""
+
+msgctxt "1960"
+msgid "Individual Match Opponent Info"
+msgstr ""
+
+msgctxt "1972"
+msgid "Tag Match Opponent Info"
+msgstr ""
+
+msgctxt "1984"
+msgid "Never Mind"
+msgstr ""
+
+msgctxt "9652"
+msgid "Receptionist"
+msgstr ""

@@ -1,0 +1,470 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "236"
+msgid "(Time to bring Ayako home. She must have gone downtown...)"
+msgstr ""
+
+msgctxt "284"
+msgid "Huh? Where's Ayako?"
+msgstr ""
+
+msgctxt "296"
+msgid "Listen up everyone."
+msgstr ""
+
+msgctxt "308"
+msgid "What's going on, Uncle Kaz?"
+msgstr ""
+
+msgctxt "320"
+msgid "It's Ayako."
+msgstr ""
+
+msgctxt "332"
+msgid "Huh? What about her?"
+msgstr ""
+
+msgctxt "344"
+msgid ""
+"(These kids need to realize how much Ayako does for them.\r\n"
+"I better talk to each of them one by one.)"
+msgstr ""
+
+msgctxt "356"
+msgid "(Now, who's up?)"
+msgstr ""
+
+msgctxt "368"
+msgid ""
+"Shiro. When you needed help with your homework last night,\r\n"
+"who did you go to?"
+msgstr ""
+
+msgctxt "380"
+msgid "Huh? Ayako-chan, but..."
+msgstr ""
+
+msgctxt "392"
+msgid ""
+"No buts. She had her own work to worry about, but she still\r\n"
+"took the time to make sure you got the help you needed."
+msgstr ""
+
+msgctxt "404"
+msgid "And what did you say to her today, Shiro?"
+msgstr ""
+
+msgctxt "416"
+msgid "Um..."
+msgstr ""
+
+msgctxt "440"
+msgid "Mitsuo."
+msgstr ""
+
+msgctxt "452"
+msgid "Uh... yeah?"
+msgstr ""
+
+msgctxt "464"
+msgid ""
+"Remember that fight you got in the other day? Do you know\r\n"
+"who went to apologize to the boy's parents?"
+msgstr ""
+
+msgctxt "476"
+msgid "Wait, that was Ayako-chan?"
+msgstr ""
+
+msgctxt "488"
+msgid "That's right."
+msgstr ""
+
+msgctxt "500"
+msgid "She didn't have to do that. It was just a little scuffle."
+msgstr ""
+
+msgctxt "512"
+msgid ""
+"A little scuffle that left the other boy with a broken bone.\r\n"
+"He fractured one in his hand when he fell."
+msgstr ""
+
+msgctxt "524"
+msgid ""
+"Ayako's apology is the only thing that kept it from boiling\r\n"
+"over into a much bigger issue."
+msgstr ""
+
+msgctxt "536"
+msgid ""
+"Oh... I guess that's why she kept telling me to go say I was\r\n"
+"sorry..."
+msgstr ""
+
+msgctxt "560"
+msgid "Koji."
+msgstr ""
+
+msgctxt "572"
+msgid "What, me?"
+msgstr ""
+
+msgctxt "584"
+msgid ""
+"You. Ayako always patches you up when you get hurt playing\r\n"
+"baseball, right? How often do you thank her for that?"
+msgstr ""
+
+msgctxt "596"
+msgid "Well, um..."
+msgstr ""
+
+msgctxt "620"
+msgid "Taichi."
+msgstr ""
+
+msgctxt "632"
+msgid "What?"
+msgstr ""
+
+msgctxt "644"
+msgid "Remember when you collapsed from your buckwheat allergy?"
+msgstr ""
+
+msgctxt "656"
+msgid "Yeah..."
+msgstr ""
+
+msgctxt "668"
+msgid ""
+"Did you ever think about who rushed to call the doctor for you? It was "
+"Ayako."
+msgstr ""
+
+msgctxt "680"
+msgid "I..."
+msgstr ""
+
+msgctxt "704"
+msgid "Izumi."
+msgstr ""
+
+msgctxt "716"
+msgid "Uh-huh?"
+msgstr ""
+
+msgctxt "728"
+msgid ""
+"Ayako gave you that 500 yen to buy a nice new toy for Mame.\r\n"
+"How do you think she felt when you told her you just bought\r\n"
+"candy for you and your friend instead?"
+msgstr ""
+
+msgctxt "740"
+msgid "Um..."
+msgstr ""
+
+msgctxt "764"
+msgid "Eri."
+msgstr ""
+
+msgctxt "776"
+msgid "Yeah...?"
+msgstr ""
+
+msgctxt "788"
+msgid ""
+"You and Ayako had a fight the other day. But she didn't hold a grudge. She "
+"forgave you right away and still treated you just the same as she always "
+"does, didn't she?"
+msgstr ""
+
+msgctxt "800"
+msgid "Yeah..."
+msgstr ""
+
+msgctxt "824"
+msgid "Riona."
+msgstr ""
+
+msgctxt "836"
+msgid "Me? I didn't do anything."
+msgstr ""
+
+msgctxt "848"
+msgid "Who gave you those clothes?"
+msgstr ""
+
+msgctxt "860"
+msgid "Well, uh... It was Ayako-chan. So what?"
+msgstr ""
+
+msgctxt "872"
+msgid ""
+"She got those for you because she knew how embarrassed you\r\n"
+"were about the burn scar on your arm."
+msgstr ""
+
+msgctxt "884"
+msgid ""
+"Have you ever been that considerate toward any of the other\r\n"
+"kids sitting at this table?"
+msgstr ""
+
+msgctxt "896"
+msgid "Well..."
+msgstr ""
+
+msgctxt "932"
+msgid ""
+"I don't think you guys realize how much Ayako-chan does for\r\n"
+"all of us. And you definitely aren't grateful for it."
+msgstr ""
+
+msgctxt "944"
+msgid "But we're a family, right? We should be there for each other."
+msgstr ""
+
+msgctxt "956"
+msgid "Agreed. Now... I'm going to find Ayako."
+msgstr ""
+
+msgctxt "980"
+msgid ""
+"It's okay. Uncle Kaz will bring her back and we can all show\r\n"
+"just how much we appreciate her!"
+msgstr ""
+
+msgctxt "1028"
+msgid "Hmm. What should we make for dinner tonight, Haruka-chan?"
+msgstr ""
+
+msgctxt "1040"
+msgid "Good question... I wonder what the others feel like having."
+msgstr ""
+
+msgctxt "1064"
+msgid "Oh, Izumi-chan!"
+msgstr ""
+
+msgctxt "1076"
+msgid ""
+"Did you end up getting that new toy for Mame? He must have\r\n"
+"been so happy when you brought it home for him!"
+msgstr ""
+
+msgctxt "1088"
+msgid "Oh, that? They were all sold out."
+msgstr ""
+
+msgctxt "1100"
+msgid "And what about the 500 yen I lent you?"
+msgstr ""
+
+msgctxt "1112"
+msgid "Me and my friend used it to buy some candy! It was soooooo good!"
+msgstr ""
+
+msgctxt "1148"
+msgid "What's wrong, Shiro? More homework?"
+msgstr ""
+
+msgctxt "1160"
+msgid "Nuh-uh..."
+msgstr ""
+
+msgctxt "1172"
+msgid ""
+"I handed in the homework you helped me with yesterday, but\r\n"
+"my teacher got real mad because it wasn't 400 words like he\r\n"
+"said it should be. He gave me detention and everything!"
+msgstr ""
+
+msgctxt "1184"
+msgid "Huh? I didn't realize it had to be a certain length..."
+msgstr ""
+
+msgctxt "1196"
+msgid ""
+"But it said it right in the top corner of the page!\r\n"
+"Ugh, if you're gonna help, at least try to do it right!\r\n"
+"I'm just gonna get even more grammar homework now..."
+msgstr ""
+
+msgctxt "1208"
+msgid ""
+"That's not very nice, Shiro! Ayako-chan took time out of her\r\n"
+"night to help you! You should be grateful!"
+msgstr ""
+
+msgctxt "1232"
+msgid "Ayako-chan..."
+msgstr ""
+
+msgctxt "1268"
+msgid "Hm? Ayako?"
+msgstr ""
+
+msgctxt "1280"
+msgid "Ayako-chan, wait!"
+msgstr ""
+
+msgctxt "1292"
+msgid "Haruka? What happened?"
+msgstr ""
+
+msgctxt "1304"
+msgid "Well, um..."
+msgstr ""
+
+msgctxt "1352"
+msgid "Wow, it got so late!"
+msgstr ""
+
+msgctxt "1364"
+msgid "Heh, yeah. It's almost time for you kids to get to bed."
+msgstr ""
+
+msgctxt "1376"
+msgid ""
+"I think I'm gonna take a bath first! Can you check on the\r\n"
+"others for me while I'm in there, Uncle Kaz?"
+msgstr ""
+
+msgctxt "1388"
+msgid ""
+"Make sure they've all taken baths, and ask how their\r\n"
+"homework's coming along while you're at it!"
+msgstr ""
+
+msgctxt "1400"
+msgid "Heh, I think I can do that."
+msgstr ""
+
+msgctxt "1436"
+msgid "Shiro"
+msgstr ""
+
+msgctxt "1448"
+msgid "Mitsuo"
+msgstr ""
+
+msgctxt "1460"
+msgid "Koji"
+msgstr ""
+
+msgctxt "1472"
+msgid "Taichi"
+msgstr ""
+
+msgctxt "1484"
+msgid "Izumi"
+msgstr ""
+
+msgctxt "1496"
+msgid "Eri"
+msgstr ""
+
+msgctxt "1508"
+msgid "Riona"
+msgstr ""
+
+msgctxt "18880"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "18884"
+msgid "Taichi"
+msgstr ""
+
+msgctxt "18888"
+msgid "P_sitgrd_tlk_agura_kamae"
+msgstr ""
+
+msgctxt "18892"
+msgid "M_cld_sitgrd_tlk_seiza_surp_st"
+msgstr ""
+
+msgctxt "18896"
+msgid "M_cld_sitgrd_tlk_seiza_kamae"
+msgstr ""
+
+msgctxt "18900"
+msgid "P_sitgrd_tlk_agura_yes"
+msgstr ""
+
+msgctxt "18904"
+msgid "Shiro"
+msgstr ""
+
+msgctxt "18908"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "18912"
+msgid "Mitsuo"
+msgstr ""
+
+msgctxt "18916"
+msgid "Koji"
+msgstr ""
+
+msgctxt "18920"
+msgid "Izumi"
+msgstr ""
+
+msgctxt "18924"
+msgid "Eri"
+msgstr ""
+
+msgctxt "18928"
+msgid "Riona"
+msgstr ""
+
+msgctxt "18932"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "18936"
+msgid "P_sitgrd_tlk_agura_kamae_ed"
+msgstr ""
+
+msgctxt "18940"
+msgid "P_stand_tlk_kamae"
+msgstr ""
+
+msgctxt "18944"
+msgid "0"
+msgstr ""
+
+msgctxt "18948"
+msgid "ifc_jimaku_date_adv_yokujitu"
+msgstr ""
+
+msgctxt "18952"
+msgid "Ayako"
+msgstr ""
+
+msgctxt "18956"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "18960"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "18964"
+msgid "Talk_Angry"
+msgstr ""

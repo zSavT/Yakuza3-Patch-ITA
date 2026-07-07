@@ -1,0 +1,98 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "80"
+msgid ""
+"(The mahjong parlor on East Hatsumachi... I'm sure they've\r\n"
+"been waiting for their soba.)"
+msgstr ""
+
+msgctxt "92"
+msgid "Hello? Your Okinawan soba delivery has arrived!"
+msgstr ""
+
+msgctxt "164"
+msgid ""
+"Finally! Geez, could you be any later? I got so hungry\r\n"
+"waiting that I had to stuff, like, ten onigiri in my mouth!"
+msgstr ""
+
+msgctxt "176"
+msgid "Here's your money. Just make it snappy next time."
+msgstr ""
+
+msgctxt "236"
+msgid ""
+"(That's all my deliveries. Now to get back to that Okinawa\r\n"
+"soba joint.)"
+msgstr ""
+
+msgctxt "272"
+msgid "(Okay, time to find my next customer.)"
+msgstr ""
+
+msgctxt "284"
+msgid ""
+"(The mahjong parlor along the Kubochi River... I'm sure\r\n"
+"they've been waiting for their soba.)"
+msgstr ""
+
+msgctxt "296"
+msgid "Hello? Your Okinawan soba delivery has arrived!"
+msgstr ""
+
+msgctxt "356"
+msgid ""
+"My beloved pork rib noodles have arrived at last! Mmm, and\r\n"
+"it smells divine!"
+msgstr ""
+
+msgctxt "368"
+msgid ""
+"I've got to eat them at least once a week, you know. Well,\r\n"
+"here's what I owe you. Thanks for coming out this way!"
+msgstr ""
+
+msgctxt "428"
+msgid ""
+"(That's all my deliveries. Now to get back to that Okinawa\r\n"
+"soba joint.)"
+msgstr ""
+
+msgctxt "464"
+msgid "(Okay, time to find my next customer.)"
+msgstr ""
+
+msgctxt "3792"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "3796"
+msgid "Owner"
+msgstr ""
+
+msgctxt "3800"
+msgid "Talk_Send"
+msgstr ""
+
+msgctxt "3804"
+msgid "dummy"
+msgstr ""
+
+msgctxt "3808"
+msgid "MvRIK_stand_nml"
+msgstr ""
+
+msgctxt "3812"
+msgid "0"
+msgstr ""

@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "124"
+msgid ""
+"Hey, you know whose turf this is? Must not, 'cause otherwise you'd be "
+"payin' your respects to us yakuza."
+msgstr ""
+
+msgctxt "136"
+msgid "Guess we got no choice. We'll beat some manners into you!"
+msgstr ""
+
+msgctxt "160"
+msgid "Damn, you're too strong..."
+msgstr ""
+
+msgctxt "172"
+msgid "I'll let you off the hook this time. Count yourself lucky."
+msgstr ""
+
+msgctxt "184"
+msgid "You got an intact %s."
+msgstr ""
+
+msgctxt "220"
+msgid "Don't think I'm gonna forget this."
+msgstr ""
+
+msgctxt "1260"
+msgid "Disgruntled Yakuza"
+msgstr ""
+
+msgctxt "1264"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "1268"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "1272"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "1276"
+msgid "Sync_Send"
+msgstr ""

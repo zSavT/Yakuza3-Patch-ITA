@@ -1,0 +1,130 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "112"
+msgid "I wonder if Shiro's all right..."
+msgstr ""
+
+msgctxt "124"
+msgid "I hope I'm just imagining it."
+msgstr ""
+
+msgctxt "136"
+msgid "Oh, I almost forgot!"
+msgstr ""
+
+msgctxt "148"
+msgid "What's up?"
+msgstr ""
+
+msgctxt "160"
+msgid ""
+"Well, it's probably nothing... but Shiro's been kinda down\r\n"
+"since he got home from school."
+msgstr ""
+
+msgctxt "172"
+msgid "I wonder why. Did you ask him what was wrong?"
+msgstr ""
+
+msgctxt "184"
+msgid "Yeah, but it didn't seem like he wanted to talk to me..."
+msgstr ""
+
+msgctxt "196"
+msgid "Hm, okay. I'll give it a shot. Thanks for letting me know."
+msgstr ""
+
+msgctxt "256"
+msgid "(Time to find Shiro.)"
+msgstr ""
+
+msgctxt "280"
+msgid "You talked to those guys in the truck, right? How'd it go?"
+msgstr ""
+
+msgctxt "292"
+msgid ""
+"They wanted to buy us out, but I turned them down. Somehow\r\n"
+"I doubt that's the end of it, though."
+msgstr ""
+
+msgctxt "304"
+msgid "...Uncle Kaz? Are we gonna have to leave Okinawa?"
+msgstr ""
+
+msgctxt "316"
+msgid "Don't worry, Haruka. I'm not gonna let that happen."
+msgstr ""
+
+msgctxt "328"
+msgid "You talked to those guys in the truck, right? How'd it go?"
+msgstr ""
+
+msgctxt "340"
+msgid ""
+"They wanted to buy us out, but I turned them down. Somehow\r\n"
+"I doubt that's the end of it, though."
+msgstr ""
+
+msgctxt "352"
+msgid "Oh..."
+msgstr ""
+
+msgctxt "364"
+msgid "...Uncle Kaz? Are we gonna have to leave Okinawa?"
+msgstr ""
+
+msgctxt "376"
+msgid "Don't worry, Haruka. I'm not gonna let that happen."
+msgstr ""
+
+msgctxt "388"
+msgid "......"
+msgstr ""
+
+msgctxt "400"
+msgid "Trust me. Everything's gonna be fine."
+msgstr ""
+
+msgctxt "412"
+msgid "Okay, I believe you."
+msgstr ""
+
+msgctxt "4008"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "4012"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "4016"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "4020"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "4024"
+msgid "P_stand_nml"
+msgstr ""
+
+msgctxt "4028"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "4032"
+msgid "Talk_OK"
+msgstr ""

@@ -1,0 +1,42 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "102\t162"
+msgid "Back again?"
+msgstr ""
+
+msgctxt "191\t259"
+msgid "My answer is final."
+msgstr ""
+
+msgctxt "263\t308"
+msgid "Nah..."
+msgstr ""
+
+msgctxt "310\t380"
+msgid "That's not why I'm here."
+msgstr ""
+
+msgctxt "384\t422"
+msgid "Hm?"
+msgstr ""
+
+msgctxt "425\t478"
+msgid "Then what is it?"
+msgstr ""
+
+msgctxt "481\t622"
+msgid ""
+"Well, Aniki... I kinda need\\n"
+"to ask you a favor."
+msgstr ""

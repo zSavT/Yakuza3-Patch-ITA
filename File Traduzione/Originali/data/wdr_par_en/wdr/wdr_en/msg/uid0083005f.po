@@ -1,0 +1,170 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "80"
+msgid "What're ya gettin' at, Kiryu-chan?"
+msgstr ""
+
+msgctxt "92"
+msgid "I think I was pretty clear."
+msgstr ""
+
+msgctxt "104"
+msgid "Ya can't seriously want me goin' back to the Tojo."
+msgstr ""
+
+msgctxt "116"
+msgid "...I do."
+msgstr ""
+
+msgctxt "128"
+msgid ""
+"Well too bad. Ain't much point in it now. Clan's just not the barrel o' "
+"monkeys it used to be."
+msgstr ""
+
+msgctxt "140"
+msgid ""
+"Listen, Majima-san. Daigo's taking over as sixth chairman,\r\n"
+"but he could end up in some trouble without a family of\r\n"
+"his own."
+msgstr ""
+
+msgctxt "152"
+msgid "Meanin' you want my muscle backing him up?"
+msgstr ""
+
+msgctxt "164"
+msgid ""
+"Please. Your family's the only thing that can save\r\n"
+"the Tojo Clan now."
+msgstr ""
+
+msgctxt "176"
+msgid "...Gonna have to pass."
+msgstr ""
+
+msgctxt "188"
+msgid "Majima-san..."
+msgstr ""
+
+msgctxt "200"
+msgid ""
+"C'mon, Kiryu-chan. You know what I'm like. Livin' life caged\r\n"
+"up like a damn shelter dog ain't my scene and you know it."
+msgstr ""
+
+msgctxt "212"
+msgid ""
+"But that's exactly what I'm doing. Givin' up my freedom to\r\n"
+"keep my family afloat."
+msgstr ""
+
+msgctxt "224"
+msgid ""
+"But now you come marchin' up here asking me to babysit your\r\n"
+"little protégé on top of that? Sorry, ain't gonna happen."
+msgstr ""
+
+msgctxt "236"
+msgid "Somehow I knew that's what you'd say."
+msgstr ""
+
+msgctxt "248"
+msgid "What?"
+msgstr ""
+
+msgctxt "260"
+msgid "Majima-san. You wanna be free, right?"
+msgstr ""
+
+msgctxt "272"
+msgid "Yup."
+msgstr ""
+
+msgctxt "284"
+msgid "But instead you're feeling trapped. Cooped up."
+msgstr ""
+
+msgctxt "296"
+msgid "Yup."
+msgstr ""
+
+msgctxt "308"
+msgid "Well then this is the perfect chance for you to break out."
+msgstr ""
+
+msgctxt "320"
+msgid "Huh? The flyin' shit are you talkin' about?"
+msgstr ""
+
+msgctxt "332"
+msgid ""
+"Once Daigo takes over, there'll be no shortage of people for\r\n"
+"you to fight. You can go wild like you've never gone before."
+msgstr ""
+
+msgctxt "344"
+msgid "How's that!?"
+msgstr ""
+
+msgctxt "356"
+msgid ""
+"You can be his enforcer. Anyone even thinks about betraying\r\n"
+"Daigo, you get full license to put them back in line."
+msgstr ""
+
+msgctxt "368"
+msgid "You... sayin' what I think you're sayin', Kiryu-chan?"
+msgstr ""
+
+msgctxt "380"
+msgid ""
+"You bet. It's time Kamurocho sees what the Majima Family\r\n"
+"can really do."
+msgstr ""
+
+msgctxt "392"
+msgid "......"
+msgstr ""
+
+msgctxt "404"
+msgid ""
+"So I'm not asking you to babysit, Majima-san. I'm asking\r\n"
+"you to let loose. Because the more ass you kick, the better\r\n"
+"off the Tojo Clan, and Daigo, will be."
+msgstr ""
+
+msgctxt "5772"
+msgid "Majima"
+msgstr ""
+
+msgctxt "5776"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "5780"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "5784"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "5788"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "5792"
+msgid "Talk_Odosu"
+msgstr ""

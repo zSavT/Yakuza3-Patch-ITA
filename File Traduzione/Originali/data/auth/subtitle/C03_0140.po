@@ -1,0 +1,100 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "58\t212"
+msgid ""
+"I mean it! I can't thank you enough\\n"
+"for what you did for me!"
+msgstr ""
+
+msgctxt "233\t459"
+msgid ""
+"I've been on this yakuza scene near 40 years now...\\n"
+"and never once have I met a man like you!"
+msgstr ""
+
+msgctxt "469\t511"
+msgid "That's enough."
+msgstr ""
+
+msgctxt "513\t579"
+msgid "Oh, no! I'm not done yet!"
+msgstr ""
+
+msgctxt "581\t710"
+msgid ""
+"After what happened tonight,\\n"
+"I want you to be my sworn brother."
+msgstr ""
+
+msgctxt "713\t756"
+msgid "What?"
+msgstr ""
+
+msgctxt "837\t901"
+msgid "Coming through."
+msgstr ""
+
+msgctxt "937\t1024"
+msgid "What are you guys up to?"
+msgstr ""
+
+msgctxt "1029\t1094"
+msgid "Be my brother, Kiryu."
+msgstr ""
+
+msgctxt "1112\t1217"
+msgid "Please! I won't take no for an answer!"
+msgstr ""
+
+msgctxt "1219\t1277"
+msgid "Now let's swear this oath."
+msgstr ""
+
+msgctxt "1287\t1341"
+msgid "Hold on a second."
+msgstr ""
+
+msgctxt "1343\t1411"
+msgid "I left the yakuza life behind."
+msgstr ""
+
+msgctxt "1413\t1484"
+msgid "Who gives a damn!"
+msgstr ""
+
+msgctxt "1486\t1623"
+msgid ""
+"I wanna do this as a show of respect.\\n"
+"That's all I need."
+msgstr ""
+
+msgctxt "1625\t1703"
+msgid "Kinda selfish, don't you think?"
+msgstr ""
+
+msgctxt "1705\t1816"
+msgid ""
+"We don't have a witness or anything,\\n"
+"but this'll do. Now please!"
+msgstr ""
+
+msgctxt "1886\t1984"
+msgid ""
+"If it's a witness you need,\\n"
+"I'd be glad to oblige."
+msgstr ""
+
+msgctxt "2283\t2330"
+msgid "Daigo."
+msgstr ""

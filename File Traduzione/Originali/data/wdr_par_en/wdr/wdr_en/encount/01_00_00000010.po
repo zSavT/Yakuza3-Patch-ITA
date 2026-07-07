@@ -1,0 +1,48 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "124"
+msgid "You bastard. I saw you glarin' at me."
+msgstr ""
+
+msgctxt "136"
+msgid "You lookin' for a fight? Huh!?"
+msgstr ""
+
+msgctxt "160"
+msgid "Gah..."
+msgstr ""
+
+msgctxt "172"
+msgid "Guess you were lookin' for a fight... Here, this is all I got."
+msgstr ""
+
+msgctxt "184"
+msgid "You got a top-notch %s."
+msgstr ""
+
+msgctxt "220"
+msgid "Yakuza never forget anyone who picks a fight with 'em..."
+msgstr ""
+
+msgctxt "1172"
+msgid "Disgruntled Yakuza"
+msgstr ""
+
+msgctxt "1176"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "1180"
+msgid "Sync_Send"
+msgstr ""

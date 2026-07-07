@@ -1,0 +1,164 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "196"
+msgid "(What's this? A different cat?)"
+msgstr ""
+
+msgctxt "208"
+msgid "Meooow."
+msgstr ""
+
+msgctxt "220"
+msgid "(Does it want some catnip?)"
+msgstr ""
+
+msgctxt "232"
+msgid "Reeow!"
+msgstr ""
+
+msgctxt "244"
+msgid "Ouch!"
+msgstr ""
+
+msgctxt "256"
+msgid "(I guess it doesn't like to be petted.)"
+msgstr ""
+
+msgctxt "292"
+msgid ""
+"(I don't have any catnip on me... But I could always\r\n"
+"buy some at a convenience store.)"
+msgstr ""
+
+msgctxt "316"
+msgid "Here you go..."
+msgstr ""
+
+msgctxt "328"
+msgid "You gave the cat a <Color:8>Catnip Stick<Color:Default>."
+msgstr ""
+
+msgctxt "352"
+msgid "Meooow!"
+msgstr ""
+
+msgctxt "364"
+msgid "......"
+msgstr ""
+
+msgctxt "376"
+msgid "Meow!"
+msgstr ""
+
+msgctxt "448"
+msgid "(I think this cat wants me to follow it, too.)"
+msgstr ""
+
+msgctxt "472"
+msgid "Meooow."
+msgstr ""
+
+msgctxt "484"
+msgid "(Does it want some catnip?)"
+msgstr ""
+
+msgctxt "496"
+msgid "Meow!"
+msgstr ""
+
+msgctxt "508"
+msgid "Ouch!"
+msgstr ""
+
+msgctxt "520"
+msgid "(I guess it doesn't like to be petted.)"
+msgstr ""
+
+msgctxt "556"
+msgid ""
+"(I don't have any catnip on me... But I could always\r\n"
+"buy some at a convenience store.)"
+msgstr ""
+
+msgctxt "580"
+msgid "Here you go..."
+msgstr ""
+
+msgctxt "592"
+msgid "You gave the cat a <Color:8>Catnip Stick<Color:Default>."
+msgstr ""
+
+msgctxt "616"
+msgid "Meooow!"
+msgstr ""
+
+msgctxt "628"
+msgid "......"
+msgstr ""
+
+msgctxt "640"
+msgid "Meow!"
+msgstr ""
+
+msgctxt "712"
+msgid "(I think this cat wants me to follow it, too.)"
+msgstr ""
+
+msgctxt "736"
+msgid "Give It Catnip"
+msgstr ""
+
+msgctxt "748"
+msgid "Pet the Cat"
+msgstr ""
+
+msgctxt "760"
+msgid "Give It Catnip"
+msgstr ""
+
+msgctxt "772"
+msgid "Pet the Cat"
+msgstr ""
+
+msgctxt "5168"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "5172"
+msgid "Talk_Hirou_st"
+msgstr ""
+
+msgctxt "5176"
+msgid "Talk_Hirou_lp"
+msgstr ""
+
+msgctxt "5180"
+msgid "Cat"
+msgstr ""
+
+msgctxt "5184"
+msgid "A_cat_stand_tlk_sleep_ed"
+msgstr ""
+
+msgctxt "5188"
+msgid "Talk_Hirou_ed"
+msgstr ""
+
+msgctxt "5192"
+msgid "A_cat_sitgrd_tlk_kedukuroi_lp"
+msgstr ""
+
+msgctxt "5196"
+msgid "A_cat_stand_tlk_nobi"
+msgstr ""

@@ -1,0 +1,60 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "96"
+msgid "Aww, man, you got mud all over my pants. You gonna pay for me to clean 'em?"
+msgstr ""
+
+msgctxt "108"
+msgid "Hey, where you think you're goin'? You ain't gettin' away with this!"
+msgstr ""
+
+msgctxt "132"
+msgid "Sorry, I made up that shit about the mud."
+msgstr ""
+
+msgctxt "144"
+msgid "Take this."
+msgstr ""
+
+msgctxt "156"
+msgid "You got a tasty %s."
+msgstr ""
+
+msgctxt "192"
+msgid "My pants are pristine..."
+msgstr ""
+
+msgctxt "1168"
+msgid "Angry Punk"
+msgstr ""
+
+msgctxt "1172"
+msgid "P_stand_sync_btl_neck_st"
+msgstr ""
+
+msgctxt "1176"
+msgid "M_ykz_stand_sync_btl_neck_st"
+msgstr ""
+
+msgctxt "1180"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "1184"
+msgid "Sync_Send"
+msgstr ""
+
+msgctxt "1188"
+msgid "Talk_Sorry"
+msgstr ""

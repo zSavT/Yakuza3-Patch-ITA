@@ -1,0 +1,570 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "780\t840"
+msgid "Mine!"
+msgstr ""
+
+msgctxt "943\t1078"
+msgid ""
+"So you've come.\\n"
+"I knew you would."
+msgstr ""
+
+msgctxt "1089\t1174"
+msgid "I'm glad to see you, Kiryu-san."
+msgstr ""
+
+msgctxt "1175\t1346"
+msgid ""
+"Spare me the small talk!\\n"
+"Mine. What are you going to do with Daigo!?"
+msgstr ""
+
+msgctxt "1380\t1547"
+msgid ""
+"You want to kill him, don't you?\\n"
+"So you can take control of the Tojo Clan."
+msgstr ""
+
+msgctxt "1585\t1665"
+msgid "An interesting theory."
+msgstr ""
+
+msgctxt "1705\t1884"
+msgid ""
+"But I couldn't care less about that.\\n"
+"This isn't how it was meant to be."
+msgstr ""
+
+msgctxt "1885\t2008"
+msgid ""
+"What do you mean?\\n"
+"Explain yourself!"
+msgstr ""
+
+msgctxt "2030\t2085"
+msgid "Kiryu-san."
+msgstr ""
+
+msgctxt "2086\t2258"
+msgid ""
+"The truth is, Daigo-san⑬\\n"
+"The sixth chairman, I mean."
+msgstr ""
+
+msgctxt "2259\t2342"
+msgid "I've been very worried about him."
+msgstr ""
+
+msgctxt "2357\t2408"
+msgid "What!?"
+msgstr ""
+
+msgctxt "2409\t2497"
+msgid "My entire life, nobody believed in me."
+msgstr ""
+
+msgctxt "2506\t2648"
+msgid "Not until the sixth chairman came along, that is."
+msgstr ""
+
+msgctxt "2736\t2796"
+msgid "Kiryu-san."
+msgstr ""
+
+msgctxt "2800\t2974"
+msgid ""
+"You're aware that Kanda is the one who\\n"
+"brought me into the yakuza world, yes?"
+msgstr ""
+
+msgctxt "2979\t3033"
+msgid "Yeah."
+msgstr ""
+
+msgctxt "3034\t3191"
+msgid ""
+"Well, what if I told you\\n"
+"I bribed him to let me in?"
+msgstr ""
+
+msgctxt "3201\t3464"
+msgid ""
+"I needed a fool recently out of prison,\\n"
+"and Kanda fit the bill. Almost to a T."
+msgstr ""
+
+msgctxt "3470\t3610"
+msgid "Why stoop that low just to join the yakuza?"
+msgstr ""
+
+msgctxt "3637\t3773"
+msgid "You see, just like you..."
+msgstr ""
+
+msgctxt "3774\t3835"
+msgid "I, too, was an orphan."
+msgstr ""
+
+msgctxt "3843\t3903"
+msgid "What!?"
+msgstr ""
+
+msgctxt "3904\t4014"
+msgid ""
+"Alone in this world\\n"
+"from the moment I was born."
+msgstr ""
+
+msgctxt "4015\t4160"
+msgid ""
+"The only childhood memories I have...\\n"
+"are ones of struggle for survival."
+msgstr ""
+
+msgctxt "4161\t4291"
+msgid ""
+"I was like one of those children\\n"
+"scavenging the ruins of post-war Tokyo."
+msgstr ""
+
+msgctxt "4302\t4422"
+msgid ""
+"It's hard to believe such poverty\\n"
+"still exists nowadays."
+msgstr ""
+
+msgctxt "4453\t4520"
+msgid "You know what I went through."
+msgstr ""
+
+msgctxt "4555\t4803"
+msgid ""
+"Loved by no one. Needed by no one.\\n"
+"No companion but your own loneliness."
+msgstr ""
+
+msgctxt "4843\t4999"
+msgid "I needed to make something of myself."
+msgstr ""
+
+msgctxt "4970\t5132"
+msgid ""
+"Becoming successful. Making money.\\n"
+"That was all I cared about."
+msgstr ""
+
+msgctxt "5232\t5316"
+msgid "I worked myself to the bone."
+msgstr ""
+
+msgctxt "5327\t5407"
+msgid "I made countless sacrifices."
+msgstr ""
+
+msgctxt "5434\t5500"
+msgid "And do you know why?"
+msgstr ""
+
+msgctxt "5549\t5615"
+msgid "It was all about money."
+msgstr ""
+
+msgctxt "5640\t5916"
+msgid ""
+"From the minute I made wealth my goal, every moment...\\n"
+"every breath I took was taken toward achieving that goal."
+msgstr ""
+
+msgctxt "5917\t6031"
+msgid "Until at last, I could buy anything I wanted."
+msgstr ""
+
+msgctxt "6032\t6110"
+msgid "Have any woman I wanted."
+msgstr ""
+
+msgctxt "6129\t6291"
+msgid ""
+"My employees would gladly\\n"
+"follow any order I gave them."
+msgstr ""
+
+msgctxt "6345\t6411"
+msgid "But I came to a realization."
+msgstr ""
+
+msgctxt "6427\t6522"
+msgid "All of that... was a lie."
+msgstr ""
+
+msgctxt "6544\t6604"
+msgid "What do you mean?"
+msgstr ""
+
+msgctxt "6617\t6801"
+msgid ""
+"Don't you see?\\n"
+"Humans by nature are selfish liars."
+msgstr ""
+
+msgctxt "6802\t7008"
+msgid ""
+"No matter how many claim loyalty to the cause,\\n"
+"they'll all abandon ship sooner or later."
+msgstr ""
+
+msgctxt "7034\t7143"
+msgid "Living through that reality made me wonder."
+msgstr ""
+
+msgctxt "7160\t7338"
+msgid ""
+"Does friendship truly exist?\\n"
+"Is loyalty just an unreachable ideal?"
+msgstr ""
+
+msgctxt "7416\t7611"
+msgid ""
+"It was then that I learned of a system in which\\n"
+"the bonds between men ruled supreme."
+msgstr ""
+
+msgctxt "7645\t7775"
+msgid "In other words... the yakuza."
+msgstr ""
+
+msgctxt "7794\t8028"
+msgid ""
+"Correct. So I decided, I needed to see\\n"
+"for myself if these bonds really existed."
+msgstr ""
+
+msgctxt "8037\t8214"
+msgid ""
+"Bribing Kanda was simple.\\n"
+"Just like that, I was in the Tojo Clan."
+msgstr ""
+
+msgctxt "8234\t8301"
+msgid "That's where I met..."
+msgstr ""
+
+msgctxt "8318\t8385"
+msgid "Daigo-san here."
+msgstr ""
+
+msgctxt "8460\t8689"
+msgid ""
+"Daigo-san, despite my lack of yakuza experience...\\n"
+"despite my lack of human experience..."
+msgstr ""
+
+msgctxt "8693\t8783"
+msgid "He welcomed me with open arms."
+msgstr ""
+
+msgctxt "8805\t8874"
+msgid "He wasn't much older than me."
+msgstr ""
+
+msgctxt "8875\t9037"
+msgid ""
+"But he had the charisma of a true leader.\\n"
+"It was incredible to see."
+msgstr ""
+
+msgctxt "9064\t9196"
+msgid ""
+"He was the first person I had ever\\n"
+"admired with every fiber of my being."
+msgstr ""
+
+msgctxt "9212\t9328"
+msgid "Then why? Why are you doing this?"
+msgstr ""
+
+msgctxt "9357\t9421"
+msgid "The truth is, Kiryu-san."
+msgstr ""
+
+msgctxt "9422\t9614"
+msgid ""
+"If Daigo-san were still alive right now,\\n"
+"I never would have gotten involved."
+msgstr ""
+
+msgctxt "9615\t9722"
+msgid "What? Explain."
+msgstr ""
+
+msgctxt "9723\t9794"
+msgid "Daigo-san is as good as dead."
+msgstr ""
+
+msgctxt "9821\t10058"
+msgid ""
+"I was devastated. Robbed of the one man I ever loved,\\n"
+"I needed to find a new reason to live."
+msgstr ""
+
+msgctxt "10080\t10154"
+msgid "And this is what I settled on."
+msgstr ""
+
+msgctxt "10171\t10362"
+msgid ""
+"Meaningless as it may be,\\n"
+"I craved the power to do what I wanted."
+msgstr ""
+
+msgctxt "10401\t10505"
+msgid "So you started working with Black Monday."
+msgstr ""
+
+msgctxt "10514\t10567"
+msgid "Correct."
+msgstr ""
+
+msgctxt "10568\t10758"
+msgid ""
+"I don't understand.\\n"
+"Daigo's right there, still breathing!"
+msgstr ""
+
+msgctxt "10843\t10942"
+msgid "He's nothing more than a tangle of tubes now."
+msgstr ""
+
+msgctxt "11007\t11064"
+msgid "That's not a life worth living."
+msgstr ""
+
+msgctxt "11065\t11130"
+msgid "Don't do it, Mine!"
+msgstr ""
+
+msgctxt "11157\t11312"
+msgid ""
+"This isn't Daigo-san I once knew.\\n"
+"That man has been long dead."
+msgstr ""
+
+msgctxt "11331\t11467"
+msgid "I can't bear to see him like this anymore."
+msgstr ""
+
+msgctxt "11519\t11579"
+msgid "Mine."
+msgstr ""
+
+msgctxt "11580\t11740"
+msgid ""
+"Listen.\\n"
+"You have it all wrong."
+msgstr ""
+
+msgctxt "11761\t11980"
+msgid ""
+"As long as a person is clinging to life,\\n"
+"there's value in their existence."
+msgstr ""
+
+msgctxt "12004\t12064"
+msgid "Don't you get it?"
+msgstr ""
+
+msgctxt "12151\t12412"
+msgid ""
+"Daigo is fighting tooth and nail just to hold on...\\n"
+"And you're just going to senselessly kill him anyway?"
+msgstr ""
+
+msgctxt "12518\t12609"
+msgid "I knew you'd say something like that."
+msgstr ""
+
+msgctxt "12622\t12682"
+msgid "What?"
+msgstr ""
+
+msgctxt "12683\t12803"
+msgid ""
+"I suppose that's one of the reasons\\n"
+"Daigo-san liked you."
+msgstr ""
+
+msgctxt "12846\t13058"
+msgid ""
+"But me? People like you who stop at nothing\\n"
+"to help others make my fucking blood boil!"
+msgstr ""
+
+msgctxt "13102\t13174"
+msgid "Why do you do it!?"
+msgstr ""
+
+msgctxt "13175\t13264"
+msgid "You were an orphan, just like I was!"
+msgstr ""
+
+msgctxt "13265\t13375"
+msgid "How can you keep playing these games!?"
+msgstr ""
+
+msgctxt "13490\t13580"
+msgid "There are two things left for me to do."
+msgstr ""
+
+msgctxt "13591\t13751"
+msgid ""
+"The first is finally ending Daigo-san's\\n"
+"pathetic wreck of an existence."
+msgstr ""
+
+msgctxt "13752\t13857"
+msgid ""
+"The second is murdering you.\\n"
+"The man he respected so much."
+msgstr ""
+
+msgctxt "13858\t13983"
+msgid ""
+"Then, once the Tojo is finally mine...\\n"
+"my life will have meaning⑬"
+msgstr ""
+
+msgctxt "13984\t14083"
+msgid ""
+"You're wrong.\\n"
+"That won't give you meaning."
+msgstr ""
+
+msgctxt "14071\t14151"
+msgid "What!?"
+msgstr ""
+
+msgctxt "14152\t14230"
+msgid "You don't understand a damn thing."
+msgstr ""
+
+msgctxt "14248\t14424"
+msgid ""
+"I think I see why everyone deserted you.\\n"
+"It's plain as day."
+msgstr ""
+
+msgctxt "14448\t14525"
+msgid "Don't act like you know me!"
+msgstr ""
+
+msgctxt "14526\t14668"
+msgid ""
+"What about the people who left?\\n"
+"Do you still resent them?"
+msgstr ""
+
+msgctxt "14669\t14849"
+msgid ""
+"Of course I do! Money's all\\n"
+"those heartless bastards live for! All they crave!"
+msgstr ""
+
+msgctxt "14850\t14941"
+msgid "I'd slit their throats if they were here now!"
+msgstr ""
+
+msgctxt "14942\t15009"
+msgid "Have a problem with that!?"
+msgstr ""
+
+msgctxt "15057\t15126"
+msgid "You're just like them."
+msgstr ""
+
+msgctxt "15202\t15456"
+msgid ""
+"You and them... You both let money control your lives.\\n"
+"Never stopped to face those around you."
+msgstr ""
+
+msgctxt "15489\t15692"
+msgid ""
+"All you've ever cared about is you.\\n"
+"You refused to trust a single soul but yourself."
+msgstr ""
+
+msgctxt "15711\t15797"
+msgid "That's why you've always been alone."
+msgstr ""
+
+msgctxt "15801\t15845"
+msgid "Shut your mouth!"
+msgstr ""
+
+msgctxt "15846\t16021"
+msgid "Even so, Daigo always viewed you as his equal."
+msgstr ""
+
+msgctxt "16031\t16074"
+msgid "But when you finally started trusting him⑬"
+msgstr ""
+
+msgctxt "16075\t16135"
+msgid "Not another word!"
+msgstr ""
+
+msgctxt "16395\t16457"
+msgid "What do you think you're doing!?"
+msgstr ""
+
+msgctxt "16469\t16642"
+msgid ""
+"I can stand here talking all night.\\n"
+"But nothing I say will ever get through."
+msgstr ""
+
+msgctxt "16671\t16811"
+msgid "So I'll just have to teach you what I mean..."
+msgstr ""
+
+msgctxt "16827\t16905"
+msgid "The only way I know how."
+msgstr ""
+
+msgctxt "17202\t17372"
+msgid ""
+"Even when your whole world's at stake,\\n"
+"you still refuse to change your ways."
+msgstr ""
+
+msgctxt "17445\t17500"
+msgid "Fine then."
+msgstr ""
+
+msgctxt "17501\t17727"
+msgid ""
+"If you really think you can change my mind,\\n"
+"after all I've said... you're welcome to try."
+msgstr ""
+
+msgctxt "17880\t17945"
+msgid "But fair warning."
+msgstr ""
+
+msgctxt "17962\t18119"
+msgid ""
+"I won't go down easy.\\n"
+"Not even to a legend like you."
+msgstr ""

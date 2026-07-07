@@ -1,0 +1,38 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "88"
+msgid "(The Ryudo Family has gotta be somewhere around here.)"
+msgstr ""
+
+msgctxt "100"
+msgid ""
+"(Guess I should start by looking for those guys from\r\n"
+"before.)"
+msgstr ""
+
+msgctxt "112"
+msgid "(Pretty sure they were driving a little blue truck...)"
+msgstr ""
+
+msgctxt "916"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "920"
+msgid "Talk_Kosite_st"
+msgstr ""
+
+msgctxt "924"
+msgid "Talk_Kosite_ed"
+msgstr ""

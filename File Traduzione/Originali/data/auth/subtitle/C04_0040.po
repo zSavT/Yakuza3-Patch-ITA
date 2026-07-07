@@ -1,0 +1,80 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "46\t136"
+msgid "Aniki. I..."
+msgstr ""
+
+msgctxt "138\t241"
+msgid "I promise I won't get in your way or anythin'."
+msgstr ""
+
+msgctxt "262\t304"
+msgid "Just please..."
+msgstr ""
+
+msgctxt "320\t367"
+msgid "I'm beggin' you."
+msgstr ""
+
+msgctxt "368\t428"
+msgid "Lemme tag along!"
+msgstr ""
+
+msgctxt "494\t542"
+msgid "...All right."
+msgstr ""
+
+msgctxt "599\t644"
+msgid "Aniki!"
+msgstr ""
+
+msgctxt "669\t728"
+msgid "You won't regret it, I promise!"
+msgstr ""
+
+msgctxt "869\t965"
+msgid "We leave Okinawa tomorrow night."
+msgstr ""
+
+msgctxt "1023\t1128"
+msgid "Head back to the office and pack your things."
+msgstr ""
+
+msgctxt "1129\t1189"
+msgid "Okay!"
+msgstr ""
+
+msgctxt "1387\t1447"
+msgid "Haruka."
+msgstr ""
+
+msgctxt "1460\t1529"
+msgid "Take care of Rikiya for me."
+msgstr ""
+
+msgctxt "1576\t1647"
+msgid "I can't take him, not now."
+msgstr ""
+
+msgctxt "1657\t1735"
+msgid "Kamurocho's too dangerous."
+msgstr ""
+
+msgctxt "1760\t1843"
+msgid "This burden is mine alone to bear."
+msgstr ""
+
+msgctxt "1860\t1920"
+msgid "Uncle Kaz..."
+msgstr ""

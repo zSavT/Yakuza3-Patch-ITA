@@ -1,0 +1,248 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "152"
+msgid "(A foreigner... Did she sprain her ankle or something?)"
+msgstr ""
+
+msgctxt "164"
+msgid "Ｏｗｗｗ．．．"
+msgstr ""
+
+msgctxt "176"
+msgid ""
+"(She looks like she's in trouble. I think I learned some\r\n"
+"useful English expressions that might come in handy...)"
+msgstr ""
+
+msgctxt "188"
+msgid "Ｓｏｒｒｙ，　ｍａ'ａｍ．"
+msgstr ""
+
+msgctxt "200"
+msgid "Ｓｏｒｒｙ？　Ｗｈａｔ　ｆｏｒ？"
+msgstr ""
+
+msgctxt "212"
+msgid "(Wait, was that not right?)"
+msgstr ""
+
+msgctxt "224"
+msgid "My Japanese is not very good. Excuse me."
+msgstr ""
+
+msgctxt "236"
+msgid ""
+"Thank you, though. Nobody else stopped to help me. You are a\r\n"
+"very kind and handsome man."
+msgstr ""
+
+msgctxt "248"
+msgid "......"
+msgstr ""
+
+msgctxt "260"
+msgid ""
+"If you study more English, I can give you a <Italic>big</Italic> reward.\r\n"
+"Please consider it!"
+msgstr ""
+
+msgctxt "272"
+msgid "Ｓｅｅ　ｙｏｕ　ｌａｔｅｒ！"
+msgstr ""
+
+msgctxt "284"
+msgid ""
+"(Hm, I don't think I got through to her. Maybe I should've\r\n"
+"taken a closer look at that English book...)"
+msgstr ""
+
+msgctxt "356"
+msgid "You got 2,000 EXP."
+msgstr ""
+
+msgctxt "368"
+msgid "Ｄｏ　ｙｏｕ　ｎｅｅｄ　ｓｏｍｅ　ｈｅｌｐ？"
+msgstr ""
+
+msgctxt "380"
+msgid ""
+"Ｗａｉｔ，　ｙｏｕ　ｓｐｅａｋ　Ｅｎｇｌｉｓｈ？\r\n"
+" Ｙｅｓ，　ｔｈａｎｋ　ｙｏｕ！"
+msgstr ""
+
+msgctxt "392"
+msgid ""
+"Ｈｅｒｅ，　ｌｅｔ　ｍｅ　ｔｒｙ　ｉｎ\r\n"
+" Ｊａｐａｎｅｓｅ． I hurt my foot getting out of a car... I'm still in a lot of "
+"pain."
+msgstr ""
+
+msgctxt "404"
+msgid ""
+"You are a kind and handsome man, though! And your English\r\n"
+"is very good!"
+msgstr ""
+
+msgctxt "416"
+msgid "......"
+msgstr ""
+
+msgctxt "428"
+msgid "I would like to know you better."
+msgstr ""
+
+msgctxt "440"
+msgid ""
+"If you study more English, I can give you a <Italic>big</Italic> reward.\r\n"
+"Please consider it!"
+msgstr ""
+
+msgctxt "452"
+msgid "Ｓｅｅ　ｙｏｕ　ｌａｔｅｒ！"
+msgstr ""
+
+msgctxt "464"
+msgid "(So that's an English conversation, huh? Wild.)"
+msgstr ""
+
+msgctxt "536"
+msgid "You got 2,000 EXP."
+msgstr ""
+
+msgctxt "548"
+msgid "Ｈｅｙ，　ｓｗｅｅｔ　ｃｈｅｅｋｓ．"
+msgstr ""
+
+msgctxt "560"
+msgid "Ｅｘｃｕｓｅ　ｍｅ？"
+msgstr ""
+
+msgctxt "572"
+msgid ""
+"(Was that not right? Maybe I just need to say it again.)\r\n"
+"Ｈｅｙ，　ｓｗｅｅｔ　ｃｈｅｅｋｓ．\r\n"
+"Ｈｏｗ'ｓ　ｉｔ　ｈａｎｇｉｎｇ？"
+msgstr ""
+
+msgctxt "584"
+msgid ""
+"Ｈｕｈ！？   Ａｒｅ　ｙｏｕ 　ｈｉｔｔｉｎｇ　ｏｎ\r\n"
+"ｍｅ！？"
+msgstr ""
+
+msgctxt "596"
+msgid ""
+"(Shoot, I don't know what that means. Better just say yes.)\r\n"
+"Ｔｈａｔ'ｓ　ｒｉｇｈｔ．"
+msgstr ""
+
+msgctxt "608"
+msgid ""
+"Ｓｏｍｅｏｎｅ　ｈｅｌｐ！　Ｔｈｉｓ　ｓｃａｒｙ\r\n"
+"ｍａｎ　ｗａｎｔｓ　ｔｏ　ｋｉｄｎａｐ　ｍｅ！"
+msgstr ""
+
+msgctxt "620"
+msgid "Hey, don't freak out. I'm just trying to lend you a hand."
+msgstr ""
+
+msgctxt "632"
+msgid ""
+"Ｎｏｗ　ｈｅ'ｓ　ｔａｌｋｉｎｇ　ａｂｏｕｔ　ｍｙ\r\n"
+"ｈａｎｄｓ！ Ｉ　ｆｅｅｌ　ｖｉｏｌａｔｅｄ！"
+msgstr ""
+
+msgctxt "644"
+msgid "...Did I say something wrong?"
+msgstr ""
+
+msgctxt "656"
+msgid ""
+"Ｓｔａｙ　ａｗａｙ　ｆｒｏｍ　ｍｅ，\r\n"
+"ｐｅｒｖｅｒｔ！"
+msgstr ""
+
+msgctxt "668"
+msgid ""
+"(I have no idea what just happened... but I don't think it went well. If "
+"only I had taken a closer look at that English book...)"
+msgstr ""
+
+msgctxt "740"
+msgid "You got 2,000 EXP."
+msgstr ""
+
+msgctxt "752"
+msgid "Ｓｏｒｒｙ，　ｍａ'ａｍ．"
+msgstr ""
+
+msgctxt "764"
+msgid "Ｄｏ　ｙｏｕ　ｎｅｅｄ　ｓｏｍｅ　ｈｅｌｐ？"
+msgstr ""
+
+msgctxt "776"
+msgid "Ｈｅｙ，　ｓｗｅｅｔ　ｃｈｅｅｋｓ．"
+msgstr ""
+
+msgctxt "7800"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "7804"
+msgid "Brunette Foreigner"
+msgstr ""
+
+msgctxt "7808"
+msgid "Talk_Kosite_st"
+msgstr ""
+
+msgctxt "7812"
+msgid "Talk_Kosite_ed"
+msgstr ""
+
+msgctxt "7816"
+msgid "Idle"
+msgstr ""
+
+msgctxt "7820"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "7824"
+msgid "F_sxy_stand_sync_dakitukiA_st"
+msgstr ""
+
+msgctxt "7828"
+msgid "P_stand_sync_dakitukiA_st"
+msgstr ""
+
+msgctxt "7832"
+msgid "P_stand_sync_dakitukiA_ed"
+msgstr ""
+
+msgctxt "7836"
+msgid "F_sxy_stand_sync_dakitukiA_ed"
+msgstr ""
+
+msgctxt "7840"
+msgid "Talk_Request"
+msgstr ""
+
+msgctxt "7844"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "7848"
+msgid "Talk_Surp"
+msgstr ""

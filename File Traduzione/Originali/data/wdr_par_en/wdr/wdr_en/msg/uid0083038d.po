@@ -1,0 +1,64 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "76"
+msgid "So? How'd it go?"
+msgstr ""
+
+msgctxt "88"
+msgid ""
+"Yeah... The transaction went through. Hehe... Let's see Rin try to "
+"sweet-talk her way outta this one!"
+msgstr ""
+
+msgctxt "100"
+msgid ""
+"If only I could see the look on her face! She'll probably have a brain "
+"aneurysm at this rate... Serves the bitch right."
+msgstr ""
+
+msgctxt "112"
+msgid "Okay. See you at the usual spot. Yep. The Champion District one."
+msgstr ""
+
+msgctxt "124"
+msgid "Drinks are on you, huh? Well damn, I'm sold! I'll be there."
+msgstr ""
+
+msgctxt "160"
+msgid "(...Wasn't that Rin's ex-boyfriend just now?)"
+msgstr ""
+
+msgctxt "1756"
+msgid "Phone_st"
+msgstr ""
+
+msgctxt "1760"
+msgid "Masaya"
+msgstr ""
+
+msgctxt "1764"
+msgid "Phone_ed"
+msgstr ""
+
+msgctxt "1768"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1772"
+msgid "dummy"
+msgstr ""
+
+msgctxt "1776"
+msgid "0"
+msgstr ""

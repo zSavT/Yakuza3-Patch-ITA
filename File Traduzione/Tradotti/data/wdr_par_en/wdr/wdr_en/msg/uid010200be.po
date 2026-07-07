@@ -1,0 +1,291 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "96"
+msgid "Well, time to head in."
+msgstr ""
+
+msgctxt "120"
+msgid "Oof!"
+msgstr ""
+
+msgctxt "144"
+msgid "Oh, I'm sorry!"
+msgstr ""
+
+msgctxt "156"
+msgid ""
+"Another one of Tamashiro's grunts, huh? Do I need to teach\r\n"
+"you a lesson, too?"
+msgstr ""
+
+msgctxt "168"
+msgid "Wait, please."
+msgstr ""
+
+msgctxt "180"
+msgid "Just look at me! Do I seem like a yakuza to you?"
+msgstr ""
+
+msgctxt "204"
+msgid "You have a point. But you do look familiar..."
+msgstr ""
+
+msgctxt "216"
+msgid ""
+"Anyway, if you're not with the Tamashiro, what are you doing\r\n"
+"walking into their office?"
+msgstr ""
+
+msgctxt "228"
+msgid ""
+"Well I have a, uh... deal to make with them. You know how it\r\n"
+"is. I mean, you're obviously yakuza."
+msgstr ""
+
+msgctxt "240"
+msgid ""
+"Not anymore, I'm not. I'm just here to take care of some\r\n"
+"business."
+msgstr ""
+
+msgctxt "252"
+msgid "Oh..."
+msgstr ""
+
+msgctxt "264"
+msgid "Well, I'm Kamiyama. What's your name?"
+msgstr ""
+
+msgctxt "276"
+msgid "It's Kiryu."
+msgstr ""
+
+msgctxt "288"
+msgid "Kiryu-san... Why does it feel like I know that name?"
+msgstr ""
+
+msgctxt "300"
+msgid ""
+"Anyway, I deal in certain... choice items. They've been in\r\n"
+"high demand lately, if I do say so myself."
+msgstr ""
+
+msgctxt "312"
+msgid ""
+"It sounds like the Tamashiro are going to war soon, so they\r\n"
+"asked me to bring some of my stuff over."
+msgstr ""
+
+msgctxt "324"
+msgid "And let me guess, by \"stuff\" you mean weapons?"
+msgstr ""
+
+msgctxt "336"
+msgid ""
+"You don't have to scream! The whole town's gonna hear!\r\n"
+"But... if you're gonna go toe-to-toe with the Tamashiro,\r\n"
+"I might be able to lend a hand, if you catch my drift."
+msgstr ""
+
+msgctxt "348"
+msgid "I thought they were one of your customers."
+msgstr ""
+
+msgctxt "360"
+msgid ""
+"Well yeah, but they're one of those customers you wish you\r\n"
+"could get rid of, but can't because they pay your rent."
+msgstr ""
+
+msgctxt "372"
+msgid ""
+"Though if you started buying from me and wiped them out,\r\n"
+"I could finally be free from their clutches!"
+msgstr ""
+
+msgctxt "384"
+msgid ""
+"Hold on a second. I never said a word about wiping anyone\r\n"
+"out."
+msgstr ""
+
+msgctxt "396"
+msgid ""
+"No need to be coy about it. I've been in this business for\r\n"
+"a looong time."
+msgstr ""
+
+msgctxt "408"
+msgid ""
+"Ripped guys like you are the brawling type. It's obvious.\r\n"
+"You've probably been in more fights than I can count."
+msgstr ""
+
+msgctxt "420"
+msgid "......"
+msgstr ""
+
+msgctxt "432"
+msgid ""
+"Either way, wouldn't you rather have a weapon on you when\r\n"
+"you bust in there? Better that than going in empty-handed!"
+msgstr ""
+
+msgctxt "444"
+msgid "I guess."
+msgstr ""
+
+msgctxt "456"
+msgid ""
+"Then it's settled. I know the perfect store that can get\r\n"
+"you just the fix you need."
+msgstr ""
+
+msgctxt "480"
+msgid "That's it there."
+msgstr ""
+
+msgctxt "492"
+msgid "...Not much for appearances."
+msgstr ""
+
+msgctxt "504"
+msgid "Don't worry about that. Just come with me."
+msgstr ""
+
+msgctxt "540"
+msgid "Looks like this is the place."
+msgstr ""
+
+msgctxt "552"
+msgid ""
+"I mean, yeah... but we're not really gonna walk in there by\r\n"
+"ourselves, are we? They'll pulverize us!"
+msgstr ""
+
+msgctxt "564"
+msgid "What, you scared?"
+msgstr ""
+
+msgctxt "576"
+msgid "Me? I'm not scared of a damn thing!"
+msgstr ""
+
+msgctxt "588"
+msgid "I'd put my life on the line if you asked me to, Aniki!"
+msgstr ""
+
+msgctxt "600"
+msgid "Wait, that's..."
+msgstr ""
+
+msgctxt "624"
+msgid "Saki's sketchbook."
+msgstr ""
+
+msgctxt "636"
+msgid "This drawing is...!"
+msgstr ""
+
+msgctxt "648"
+msgid "Somethin' wrong, Aniki?"
+msgstr ""
+
+msgctxt "660"
+msgid ""
+"We're definitely on the right track, Rikiya. Saki has to\r\n"
+"be here."
+msgstr ""
+
+msgctxt "672"
+msgid "I knew it!"
+msgstr ""
+
+msgctxt "684"
+msgid ""
+"I want you to go get Nakahara and tell him we found her.\r\n"
+"And bring him back with you!"
+msgstr ""
+
+msgctxt "696"
+msgid "Um... okay! What about you, Aniki?"
+msgstr ""
+
+msgctxt "708"
+msgid "Just go! I'll keep an eye on things here."
+msgstr ""
+
+msgctxt "720"
+msgid "Okay! Be back in a jiff!"
+msgstr ""
+
+msgctxt "9700"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "9704"
+msgid "Yoroke_BL_mini"
+msgstr ""
+
+msgctxt "9708"
+msgid "Yoroke_BR_small"
+msgstr ""
+
+msgctxt "9712"
+msgid "Fidgety Man"
+msgstr ""
+
+msgctxt "9716"
+msgid "Talk_Sorry"
+msgstr ""
+
+msgctxt "9720"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "9724"
+msgid "M_big_stand"
+msgstr ""
+
+msgctxt "9728"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "9732"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "9736"
+msgid "Kamiyama"
+msgstr ""
+
+msgctxt "9740"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "9744"
+msgid "Rikiya"
+msgstr ""
+
+msgctxt "9748"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "9752"
+msgid "Talk_Hirou_st"
+msgstr ""
+
+msgctxt "9756"
+msgid "Talk_Hirou_ed"
+msgstr ""

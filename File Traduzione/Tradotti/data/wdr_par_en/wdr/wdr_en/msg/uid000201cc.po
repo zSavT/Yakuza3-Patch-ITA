@@ -1,0 +1,190 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "124"
+msgid ""
+"Taxi's probably the quickest way to the airport. The roads\r\n"
+"should be clear."
+msgstr ""
+
+msgctxt "136"
+msgid "Right. Thanks, Date-san."
+msgstr ""
+
+msgctxt "148"
+msgid ""
+"Be careful down there, Kiryu. For a small island, there are sure gonna be a "
+"lot of people there who wanna mess you up. The Hakuho, the CIA... Just stay "
+"safe, will you?"
+msgstr ""
+
+msgctxt "160"
+msgid "I'll do my best."
+msgstr ""
+
+msgctxt "184"
+msgid ""
+"Dammit. Looks like getting down to Okinawa's not gonna be as\r\n"
+"easy as we thought, huh?"
+msgstr ""
+
+msgctxt "196"
+msgid "We? Sorry, Date-san... but I need to do this alone."
+msgstr ""
+
+msgctxt "208"
+msgid "What!?"
+msgstr ""
+
+msgctxt "220"
+msgid ""
+"But Mine's gonna have an army of guys down there. Going\r\n"
+"without any backup is like signing your own damn death wish."
+msgstr ""
+
+msgctxt "232"
+msgid "Man's got a point, Kiryu-chan."
+msgstr ""
+
+msgctxt "244"
+msgid ""
+"Ya ask me, we send in some of my boys, rough some people up,\r\n"
+"make sure nobody even thinks of layin' a hand on ya."
+msgstr ""
+
+msgctxt "256"
+msgid "Look, I'll be fine on my own."
+msgstr ""
+
+msgctxt "268"
+msgid "Why are you being so stubborn about this?"
+msgstr ""
+
+msgctxt "280"
+msgid ""
+"The only reason I've gotten this far involved is so I can\r\n"
+"make sure Morning Glory is safe. I care about Daigo and the\r\n"
+"Tojo Clan, yeah..."
+msgstr ""
+
+msgctxt "292"
+msgid "But when push comes to shove, this Okinawa fight is mine and mine alone."
+msgstr ""
+
+msgctxt "304"
+msgid ""
+"Not anymore it ain't. Not with the CIA and those Hakuho\r\n"
+"thugs turnin' the place all topsy-turvy."
+msgstr ""
+
+msgctxt "316"
+msgid "It'll be okay. I have friends down there."
+msgstr ""
+
+msgctxt "328"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "340"
+msgid "The Ryudo Family."
+msgstr ""
+
+msgctxt "352"
+msgid ""
+"If I'm gonna be settling a fight in Okinawa, I want to do it\r\n"
+"with Okinawa natives by my side."
+msgstr ""
+
+msgctxt "364"
+msgid "...Oh. And you're sure about that, Kiryu-chan?"
+msgstr ""
+
+msgctxt "376"
+msgid "One hundred percent."
+msgstr ""
+
+msgctxt "388"
+msgid "S'pose that's that, then."
+msgstr ""
+
+msgctxt "400"
+msgid "So, what? You're just giving up, Majima?"
+msgstr ""
+
+msgctxt "412"
+msgid ""
+"Kiryu-chan's a big, stubborn ox. No changin' his mind when\r\n"
+"he's like this, Date-san. Ya should know that better than anyone."
+msgstr ""
+
+msgctxt "424"
+msgid "Even so, I..."
+msgstr ""
+
+msgctxt "436"
+msgid ""
+"Kiryu-chan. The Majima Family'll keep the lights on over at\r\n"
+"Tojo HQ while you're gone."
+msgstr ""
+
+msgctxt "448"
+msgid "Go do what you gotta do, yeah?"
+msgstr ""
+
+msgctxt "460"
+msgid "...Thank you, Majima-san."
+msgstr ""
+
+msgctxt "5896"
+msgid "Date"
+msgstr ""
+
+msgctxt "5900"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "5904"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "5908"
+msgid "M_nml_sitcntR"
+msgstr ""
+
+msgctxt "5912"
+msgid "P_sitchr"
+msgstr ""
+
+msgctxt "5916"
+msgid "Majima"
+msgstr ""
+
+msgctxt "5920"
+msgid "P_stand"
+msgstr ""
+
+msgctxt "5924"
+msgid "SetM_nml_stand_kosite"
+msgstr ""
+
+msgctxt "5928"
+msgid "Idle"
+msgstr ""
+
+msgctxt "5932"
+msgid "dummy"
+msgstr ""
+
+msgctxt "5936"
+msgid "0"
+msgstr ""

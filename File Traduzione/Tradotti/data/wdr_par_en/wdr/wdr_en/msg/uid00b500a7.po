@@ -1,0 +1,118 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "140"
+msgid ""
+"Did you see a guy come flying out of the convenience store just a minute "
+"ago?"
+msgstr ""
+
+msgctxt "152"
+msgid "People are going in and out of there all the time. What was he wearing?"
+msgstr ""
+
+msgctxt "164"
+msgid "(I'm pretty sure he was dressed in...)"
+msgstr ""
+
+msgctxt "176"
+msgid "He had a black jacket on."
+msgstr ""
+
+msgctxt "188"
+msgid "Okay, I saw a guy in a black jacket running out towards Children's Park."
+msgstr ""
+
+msgctxt "200"
+msgid "Children's Park. Got it."
+msgstr ""
+
+msgctxt "212"
+msgid "He had a colorful V-neck on."
+msgstr ""
+
+msgctxt "224"
+msgid "Oh, I saw a guy in a colorful V-neck running out towards Theater Avenue."
+msgstr ""
+
+msgctxt "236"
+msgid "Theater Avenue. Got it."
+msgstr ""
+
+msgctxt "248"
+msgid "He was wearing a gray suit."
+msgstr ""
+
+msgctxt "260"
+msgid "Huh? What are you talking about!?"
+msgstr ""
+
+msgctxt "272"
+msgid "So which way did he go?"
+msgstr ""
+
+msgctxt "284"
+msgid "I really didn't see anyone dressed like that."
+msgstr ""
+
+msgctxt "296"
+msgid "(I guess that guy wasn't wearing a suit...)"
+msgstr ""
+
+msgctxt "344"
+msgid "A black jacket."
+msgstr ""
+
+msgctxt "356"
+msgid "A colorful V-neck."
+msgstr ""
+
+msgctxt "368"
+msgid "A gray suit."
+msgstr ""
+
+msgctxt "2468"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "2472"
+msgid "Passerby"
+msgstr ""
+
+msgctxt "2476"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "2480"
+msgid "Talk_Info_L"
+msgstr ""
+
+msgctxt "2484"
+msgid "Talk_Info_R"
+msgstr ""
+
+msgctxt "2488"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "2492"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "2496"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "2500"
+msgid "dummy"
+msgstr ""

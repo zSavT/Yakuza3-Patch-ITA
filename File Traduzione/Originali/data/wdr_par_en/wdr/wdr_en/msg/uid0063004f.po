@@ -1,0 +1,154 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "308"
+msgid "Hehe... I love to sing. Did you know that?"
+msgstr ""
+
+msgctxt "320"
+msgid "All right! I'm going to sing \"Saturday Night☆Lover.\" Here goes!"
+msgstr ""
+
+msgctxt "332"
+msgid "Let's hear it."
+msgstr ""
+
+msgctxt "344"
+msgid "How are the rankings today?"
+msgstr ""
+
+msgctxt "368"
+msgid "Huh? You're leaving already? Didn't you want to sing?"
+msgstr ""
+
+msgctxt "380"
+msgid "Thank you, Kiryu-san! That was so much fun! <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "392"
+msgid "Why don't you sing a tune or two?"
+msgstr ""
+
+msgctxt "404"
+msgid "I'll sing \"Kamurocho Lullaby,\" then."
+msgstr ""
+
+msgctxt "416"
+msgid "Is that enka? Wow. I bet you're a really good singer, Kiryu-san."
+msgstr ""
+
+msgctxt "428"
+msgid "Nah, not right now."
+msgstr ""
+
+msgctxt "440"
+msgid "Oh... I was really looking forward to hearing you sing, though..."
+msgstr ""
+
+msgctxt "452"
+msgid "That was pretty tough..."
+msgstr ""
+
+msgctxt "464"
+msgid "Sorry about that."
+msgstr ""
+
+msgctxt "476"
+msgid ""
+"You sing so well, Kiryu-san. I was totally captivated by your performance. "
+"<Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "488"
+msgid "Really? Thanks."
+msgstr ""
+
+msgctxt "500"
+msgid "Um... Are you feeling all right?"
+msgstr ""
+
+msgctxt "512"
+msgid "No, I just..."
+msgstr ""
+
+msgctxt "524"
+msgid ""
+"Whew! That was out of this world! ♪ I felt like I was a real pop star! "
+"<Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "536"
+msgid "Why don't you sing a tune or two?"
+msgstr ""
+
+msgctxt "548"
+msgid "I'll sing \"Kamurocho Lullaby,\" then."
+msgstr ""
+
+msgctxt "560"
+msgid "Is that enka? Wow. I bet you're a really good singer, Kiryu-san."
+msgstr ""
+
+msgctxt "572"
+msgid "Nah, not right now."
+msgstr ""
+
+msgctxt "584"
+msgid "Oh... I was really looking forward to hearing you sing, though..."
+msgstr ""
+
+msgctxt "596"
+msgid ""
+"You've got talent, Kiryu-san! ♪ I could listen to to you sing for hours. "
+"<Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "608"
+msgid "Heh... You think so?"
+msgstr ""
+
+msgctxt "620"
+msgid "Sing Karaoke"
+msgstr ""
+
+msgctxt "632"
+msgid "View Rankings"
+msgstr ""
+
+msgctxt "644"
+msgid "How to Play"
+msgstr ""
+
+msgctxt "656"
+msgid "Sing"
+msgstr ""
+
+msgctxt "668"
+msgid "Don't Sing"
+msgstr ""
+
+msgctxt "680"
+msgid "Sing"
+msgstr ""
+
+msgctxt "692"
+msgid "Don't Sing"
+msgstr ""
+
+msgctxt "4904"
+msgid "Mika"
+msgstr ""
+
+msgctxt "4908"
+msgid "Kiryu"
+msgstr ""

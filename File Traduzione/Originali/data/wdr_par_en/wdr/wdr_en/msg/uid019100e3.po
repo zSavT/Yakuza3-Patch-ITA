@@ -1,0 +1,104 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "196"
+msgid "(An old-fashioned sofa...)"
+msgstr ""
+
+msgctxt "220"
+msgid "(I guess I'll try this thing out...)"
+msgstr ""
+
+msgctxt "280"
+msgid "(Should I rest a little longer?)"
+msgstr ""
+
+msgctxt "292"
+msgid "(I guess it's time to go.)"
+msgstr ""
+
+msgctxt "364"
+msgid "(I just got here. I'll rest a couple more minutes...)"
+msgstr ""
+
+msgctxt "412"
+msgid "(I guess it's time to go.)"
+msgstr ""
+
+msgctxt "508"
+msgid "Uh, Kiryu-san?"
+msgstr ""
+
+msgctxt "520"
+msgid "What's that?"
+msgstr ""
+
+msgctxt "532"
+msgid "Would you like some tea?"
+msgstr ""
+
+msgctxt "592"
+msgid "I'll try it out."
+msgstr ""
+
+msgctxt "604"
+msgid "Not right now."
+msgstr ""
+
+msgctxt "616"
+msgid "Yeah, I'll keep resting."
+msgstr ""
+
+msgctxt "628"
+msgid "Nah, it's time to go."
+msgstr ""
+
+msgctxt "640"
+msgid "It's time to go."
+msgstr ""
+
+msgctxt "652"
+msgid "I'll wait a bit longer."
+msgstr ""
+
+msgctxt "2968"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "2972"
+msgid "P_sitsofa"
+msgstr ""
+
+msgctxt "2976"
+msgid "P_sitsofa_tlk_kamae"
+msgstr ""
+
+msgctxt "2980"
+msgid "P_stand"
+msgstr ""
+
+msgctxt "2984"
+msgid "Idle"
+msgstr ""
+
+msgctxt "2988"
+msgid "dummy"
+msgstr ""
+
+msgctxt "2992"
+msgid "0"
+msgstr ""
+
+msgctxt "2996"
+msgid "Ibuki"
+msgstr ""

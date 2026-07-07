@@ -1,0 +1,82 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid ""
+"Welcome. Have you decided what you would like to order? What would you like "
+"to drink?"
+msgstr ""
+
+msgctxt "100"
+msgid "Here's the food menu."
+msgstr ""
+
+msgctxt "124"
+msgid "Thank you very much. Your total comes to %s."
+msgstr ""
+
+msgctxt "136"
+msgid "Thank you very much."
+msgstr ""
+
+msgctxt "160"
+msgid "Thank you very much. Your total comes to %s."
+msgstr ""
+
+msgctxt "172"
+msgid "Thank you very much."
+msgstr ""
+
+msgctxt "184"
+msgid "(No point eating now. I'm not even hungry.)"
+msgstr ""
+
+msgctxt "196"
+msgid "Sorry, something came up."
+msgstr ""
+
+msgctxt "208"
+msgid "All right, then. Please come again."
+msgstr ""
+
+msgctxt "220"
+msgid "Here's the food menu."
+msgstr ""
+
+msgctxt "244"
+msgid "Thank you very much. Your total comes to %s."
+msgstr ""
+
+msgctxt "256"
+msgid "Thank you very much."
+msgstr ""
+
+msgctxt "2000"
+msgid "Employee"
+msgstr ""
+
+msgctxt "2004"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "2008"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "2012"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "2016"
+msgid "Talk_No"
+msgstr ""

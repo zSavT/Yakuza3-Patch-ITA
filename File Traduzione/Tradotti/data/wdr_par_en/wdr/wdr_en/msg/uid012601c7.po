@@ -1,0 +1,50 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "100"
+msgid ""
+"Kiryu-san! You've gotta help me! Akira just got kidnapped by some "
+"scary-looking guys!"
+msgstr ""
+
+msgctxt "112"
+msgid "What!?"
+msgstr ""
+
+msgctxt "124"
+msgid "Come meet me at Karaokekan! Hurry!"
+msgstr ""
+
+msgctxt "136"
+msgid "All right..."
+msgstr ""
+
+msgctxt "888"
+msgid "P_stand_tlk_phone_st"
+msgstr ""
+
+msgctxt "892"
+msgid "Saya"
+msgstr ""
+
+msgctxt "896"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "900"
+msgid "P_stand_tlk_phone_ed"
+msgstr ""
+
+msgctxt "904"
+msgid "dummy"
+msgstr ""

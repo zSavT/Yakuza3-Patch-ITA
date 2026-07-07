@@ -1,0 +1,178 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "328"
+msgid "Hello there, sir. What can I help you with?"
+msgstr ""
+
+msgctxt "340"
+msgid ""
+"Hopefully a lot. I'm looking for some children's clothes,\r\n"
+"and maybe an accessory to go with them."
+msgstr ""
+
+msgctxt "352"
+msgid ""
+"Just a moment, sir. Allow me to show you what we have in\r\n"
+"stock."
+msgstr ""
+
+msgctxt "364"
+msgid "(...Pretty limited selection. What should I pick?)"
+msgstr ""
+
+msgctxt "376"
+msgid "I'll take the American flag polo. Gotta love the U.S. of A."
+msgstr ""
+
+msgctxt "400"
+msgid "I'll take that dragon print polo. Nothing quite like a dragon."
+msgstr ""
+
+msgctxt "424"
+msgid "Excellent choice, sir. And for the accessory?"
+msgstr ""
+
+msgctxt "436"
+msgid "(Only two options again? Guess I'll go with...)"
+msgstr ""
+
+msgctxt "448"
+msgid "I'll go with the ten gallon hat. The bigger the better."
+msgstr ""
+
+msgctxt "472"
+msgid "I'll go with the sunglasses. Not much cooler than that."
+msgstr ""
+
+msgctxt "496"
+msgid "Very good, sir."
+msgstr ""
+
+msgctxt "520"
+msgid ""
+"The American flag polo and the sunglasses comes out to\r\n"
+"2,000 yen, sir."
+msgstr ""
+
+msgctxt "532"
+msgid ""
+"The American flag polo and the ten gallon hat comes out to\r\n"
+"2,000 yen, sir."
+msgstr ""
+
+msgctxt "544"
+msgid ""
+"The dragon print polo and the sunglasses comes out to\r\n"
+"2,000 yen, sir."
+msgstr ""
+
+msgctxt "556"
+msgid ""
+"The dragon print polo and the ten gallon hat comes out to\r\n"
+"2,000 yen, sir."
+msgstr ""
+
+msgctxt "580"
+msgid ""
+"I don't mean to be rude, sir... but it appears you don't have\r\n"
+"enough money for these. Please come back when you do."
+msgstr ""
+
+msgctxt "592"
+msgid "Actually, I changed my mind. Sorry."
+msgstr ""
+
+msgctxt "604"
+msgid "Not a problem at all, sir. Please come again."
+msgstr ""
+
+msgctxt "628"
+msgid "Here are your items, sir."
+msgstr ""
+
+msgctxt "640"
+msgid "You got <Color:8>Mitsuo's Stylish Clothes<Color:Default>."
+msgstr ""
+
+msgctxt "664"
+msgid "Thank you for stopping by!"
+msgstr ""
+
+msgctxt "676"
+msgid "An American Flag Polo"
+msgstr ""
+
+msgctxt "688"
+msgid "A Dragon Print Polo"
+msgstr ""
+
+msgctxt "700"
+msgid "A Ten Gallon Hat"
+msgstr ""
+
+msgctxt "712"
+msgid "Sunglasses"
+msgstr ""
+
+msgctxt "724"
+msgid "Perfect, here you go."
+msgstr ""
+
+msgctxt "736"
+msgid "Actually, I changed my mind."
+msgstr ""
+
+msgctxt "748"
+msgid "Perfect, here you go."
+msgstr ""
+
+msgctxt "760"
+msgid "Actually, I changed my mind."
+msgstr ""
+
+msgctxt "772"
+msgid "Perfect, here you go."
+msgstr ""
+
+msgctxt "784"
+msgid "Actually, I changed my mind."
+msgstr ""
+
+msgctxt "796"
+msgid "Perfect, here you go."
+msgstr ""
+
+msgctxt "808"
+msgid "Actually, I changed my mind."
+msgstr ""
+
+msgctxt "5652"
+msgid "Employee"
+msgstr ""
+
+msgctxt "5656"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "5660"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "5664"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "5668"
+msgid "Talk_No"
+msgstr ""

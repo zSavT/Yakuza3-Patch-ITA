@@ -1,0 +1,72 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid "Aaagh! I'm really, really sorry!"
+msgstr ""
+
+msgctxt "76"
+msgid ""
+"Here's some free advice. Before you go picking fights, make sure you know "
+"what you're up against."
+msgstr ""
+
+msgctxt "88"
+msgid ""
+"Yes, sir! I'll remember that, I promise! Please take this! It's all I "
+"got⑬really!"
+msgstr ""
+
+msgctxt "100"
+msgid "You got <Color:8>50,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "124"
+msgid ""
+"Yes, sir! I'll remember that, I promise! Please take this! It's all I "
+"got⑬really!"
+msgstr ""
+
+msgctxt "136"
+msgid "You got <Color:8>80,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "160"
+msgid ""
+"Yes, sir! I'll remember that, I promise! Please take this! It's all I "
+"got⑬really!"
+msgstr ""
+
+msgctxt "172"
+msgid "You got <Color:8>100,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "220"
+msgid "You got 3,000 EXP."
+msgstr ""
+
+msgctxt "2640"
+msgid "Barker"
+msgstr ""
+
+msgctxt "2644"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "2648"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "2652"
+msgid "Talk_Sorry"
+msgstr ""

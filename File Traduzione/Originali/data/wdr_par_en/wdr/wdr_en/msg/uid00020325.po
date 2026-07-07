@@ -1,0 +1,92 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "80"
+msgid "Yeah, a boy named Akihiko bought a bottle from us."
+msgstr ""
+
+msgctxt "92"
+msgid "He spends a lot of time at Ryukyu Shogi, the shogi hall on Kubochi Road."
+msgstr ""
+
+msgctxt "104"
+msgid "Excuse me, I've got a question for you."
+msgstr ""
+
+msgctxt "116"
+msgid "Yes, how can I help you?"
+msgstr ""
+
+msgctxt "128"
+msgid "I found this bottle. Is this something you sell here?"
+msgstr ""
+
+msgctxt "140"
+msgid "Oh, yes! We do have that one in stock here."
+msgstr ""
+
+msgctxt "152"
+msgid "Know anyone who might've bought one recently?"
+msgstr ""
+
+msgctxt "164"
+msgid ""
+"Hmm, let's see... You know, there's a boy who comes here every year around "
+"this time to buy just one bottle. Wonder what it's for."
+msgstr ""
+
+msgctxt "176"
+msgid "A boy? Are you sure?"
+msgstr ""
+
+msgctxt "188"
+msgid "Yes, I'm sure. Even know his name: Akihiko. He lives pretty close to here."
+msgstr ""
+
+msgctxt "200"
+msgid "He spends a lot of time at Ryukyu Shogi, the shogi hall on Kubochi Road."
+msgstr ""
+
+msgctxt "212"
+msgid ""
+"He's probably the only kid there. Those shogi halls are filled with old "
+"retirees. He should stick out like a sore thumb."
+msgstr ""
+
+msgctxt "224"
+msgid "A boy named Akihiko, at the Ryukyu Shogi hall. Thanks for the tip."
+msgstr ""
+
+msgctxt "2188"
+msgid "Employee"
+msgstr ""
+
+msgctxt "2192"
+msgid "Talk_Info_L"
+msgstr ""
+
+msgctxt "2196"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "2200"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "2204"
+msgid "Talk_Send"
+msgstr ""
+
+msgctxt "2208"
+msgid "Talk_Quest"
+msgstr ""

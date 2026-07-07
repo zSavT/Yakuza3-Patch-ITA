@@ -1,0 +1,50 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "124"
+msgid "What the fuck you starin' at?"
+msgstr ""
+
+msgctxt "136"
+msgid ""
+"The only idiots who stare at me are the ones who wanna get their faces "
+"caved in!"
+msgstr ""
+
+msgctxt "160"
+msgid "You're too strong. Forgive me! You'll overlook this just this once, right?"
+msgstr ""
+
+msgctxt "172"
+msgid "Here, I'll even give you this!"
+msgstr ""
+
+msgctxt "184"
+msgid "You got a simple %s."
+msgstr ""
+
+msgctxt "220"
+msgid "I won't mess with you ever again, promise!"
+msgstr ""
+
+msgctxt "1172"
+msgid "Disgruntled Yakuza"
+msgstr ""
+
+msgctxt "1176"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "1180"
+msgid "Sync_Send"
+msgstr ""

@@ -1,0 +1,80 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "120"
+msgid ""
+"(They said the Reaper Tokoyami would be lurking in a place\r\n"
+"where there weren't any people around...)"
+msgstr ""
+
+msgctxt "132"
+msgid ""
+"(This is the most deserted area in Kamurocho, but I don't\r\n"
+"see anybody wearing a mask.)"
+msgstr ""
+
+msgctxt "144"
+msgid "Don't move."
+msgstr ""
+
+msgctxt "156"
+msgid "If you ever come looking for me again, I'll kill you."
+msgstr ""
+
+msgctxt "168"
+msgid ""
+"If you know what's good for you, you'll stop poking around\r\n"
+"in other people's business."
+msgstr ""
+
+msgctxt "228"
+msgid "(Was that the Reaper Tokoyami?)"
+msgstr ""
+
+msgctxt "252"
+msgid "Hey, did you see a suspicious-looking man in a mask?"
+msgstr ""
+
+msgctxt "264"
+msgid "......"
+msgstr ""
+
+msgctxt "276"
+msgid "I told you to mind your own business."
+msgstr ""
+
+msgctxt "288"
+msgid "Wait⑬ You were the one who threatened me just now?"
+msgstr ""
+
+msgctxt "300"
+msgid ""
+"Ignore my warning, will you? Then it's time for you to pay\r\n"
+"the price."
+msgstr ""
+
+msgctxt "2224"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "2228"
+msgid "Threatening Man"
+msgstr ""
+
+msgctxt "2232"
+msgid "Businessman"
+msgstr ""
+
+msgctxt "2236"
+msgid "Tokoyami"
+msgstr ""

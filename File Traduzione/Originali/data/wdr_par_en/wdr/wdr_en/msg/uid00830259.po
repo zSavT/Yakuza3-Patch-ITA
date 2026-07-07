@@ -1,0 +1,105 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "112"
+msgid "Kiryu... You're back."
+msgstr ""
+
+msgctxt "124"
+msgid "For now, yeah."
+msgstr ""
+
+msgctxt "136"
+msgid ""
+"And I see you brought a little someone with you. Guess that means "
+"everything's settled, huh?"
+msgstr ""
+
+msgctxt "148"
+msgid ""
+"We won't have to worry about Joji Kazama or having our land\r\n"
+"taken away from us anymore."
+msgstr ""
+
+msgctxt "160"
+msgid "And the Hakuho Clan?"
+msgstr ""
+
+msgctxt "172"
+msgid ""
+"That's actually why I'm here. I have reason to believe Mine\r\n"
+"is on his way to the hospital where Daigo's staying, and I\r\n"
+"need to stop him before it's too late."
+msgstr ""
+
+msgctxt "184"
+msgid "Any way I can help?"
+msgstr ""
+
+msgctxt "196"
+msgid "...Yeah. Look after Haruka while I'm gone."
+msgstr ""
+
+msgctxt "208"
+msgid ""
+"What, that's it? You're... not thinking of heading in there\r\n"
+"all on your own, are you?"
+msgstr ""
+
+msgctxt "220"
+msgid "I am."
+msgstr ""
+
+msgctxt "232"
+msgid ""
+"Now hold on a second! You can't just... Ah, what am I thinking? No matter "
+"how hard I fight, you're still gonna do it."
+msgstr ""
+
+msgctxt "244"
+msgid ""
+"All right. I'll keep Haruka safe and sound while you're\r\n"
+"gone."
+msgstr ""
+
+msgctxt "256"
+msgid "I appreciate it, Date-san."
+msgstr ""
+
+msgctxt "268"
+msgid "But do me something before you go. Say goodbye to her, yeah?"
+msgstr ""
+
+msgctxt "280"
+msgid "Heh, I can do that."
+msgstr ""
+
+msgctxt "3304"
+msgid "Date"
+msgstr ""
+
+msgctxt "3308"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "3312"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "3316"
+msgid "dummy"
+msgstr ""
+
+msgctxt "3320"
+msgid "0"
+msgstr ""

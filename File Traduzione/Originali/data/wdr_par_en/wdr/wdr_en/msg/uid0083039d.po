@@ -1,0 +1,44 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "92"
+msgid "(Could this be Newton?)"
+msgstr ""
+
+msgctxt "104"
+msgid "*whimper*"
+msgstr ""
+
+msgctxt "116"
+msgid "*whine*"
+msgstr ""
+
+msgctxt "128"
+msgid "(I'll take this one back to Kana...)"
+msgstr ""
+
+msgctxt "472"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "476"
+msgid "Talk_Hirou_st"
+msgstr ""
+
+msgctxt "480"
+msgid "Dog"
+msgstr ""
+
+msgctxt "484"
+msgid "Talk_Hirou_ed"
+msgstr ""

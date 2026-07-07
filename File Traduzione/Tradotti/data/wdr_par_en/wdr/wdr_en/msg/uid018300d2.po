@@ -1,0 +1,146 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "100"
+msgid "Hello?"
+msgstr ""
+
+msgctxt "112"
+msgid "Rikiya! It's Kiryu!"
+msgstr ""
+
+msgctxt "124"
+msgid "Oh, Aniki. What's hanging?"
+msgstr ""
+
+msgctxt "136"
+msgid "Where are you right now?"
+msgstr ""
+
+msgctxt "148"
+msgid ""
+"Huh? Well uh, you were gone when I woke up, so I'm out\r\n"
+"takin' in the sights on my own."
+msgstr ""
+
+msgctxt "172"
+msgid "...Hm? The hell was that?"
+msgstr ""
+
+msgctxt "184"
+msgid "What?"
+msgstr ""
+
+msgctxt "196"
+msgid "Rikiya! What's going on over there?"
+msgstr ""
+
+msgctxt "208"
+msgid "Think you're tough, huh?"
+msgstr ""
+
+msgctxt "220"
+msgid "Hm?"
+msgstr ""
+
+msgctxt "244"
+msgid "Argh!"
+msgstr ""
+
+msgctxt "256"
+msgid "Rikiya? Hey, Rikiya!"
+msgstr ""
+
+msgctxt "316"
+msgid "(I've gotta help him!)"
+msgstr ""
+
+msgctxt "2504"
+msgid "P_stand_tlk_phone_st"
+msgstr ""
+
+msgctxt "2508"
+msgid "Rikiya"
+msgstr ""
+
+msgctxt "2512"
+msgid "adv_scene_107/rikiya_134"
+msgstr ""
+
+msgctxt "2516"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "2520"
+msgid "P_stand_tlk_phone_yes"
+msgstr ""
+
+msgctxt "2524"
+msgid "adv_scene_107/kiryu_443"
+msgstr ""
+
+msgctxt "2528"
+msgid "adv_scene_107/rikiya_135"
+msgstr ""
+
+msgctxt "2532"
+msgid "adv_scene_107/kiryu_444"
+msgstr ""
+
+msgctxt "2536"
+msgid "adv_scene_107/rikiya_136"
+msgstr ""
+
+msgctxt "2540"
+msgid "adv_scene_107/rikiya_137"
+msgstr ""
+
+msgctxt "2544"
+msgid "adv_scene_107/kiryu_445"
+msgstr ""
+
+msgctxt "2548"
+msgid "P_stand_tlk_phone_surp"
+msgstr ""
+
+msgctxt "2552"
+msgid "adv_scene_107/kiryu_446"
+msgstr ""
+
+msgctxt "2556"
+msgid "adv_scene_107/rikiya_138"
+msgstr ""
+
+msgctxt "2560"
+msgid "adv_scene_107/rikiya_139"
+msgstr ""
+
+msgctxt "2564"
+msgid "adv_scene_107/rikiya_140"
+msgstr ""
+
+msgctxt "2568"
+msgid "adv_scene_107/kiryu_447"
+msgstr ""
+
+msgctxt "2572"
+msgid "adv_scene_107/rikiya_226"
+msgstr ""
+
+msgctxt "2576"
+msgid "P_stand_tlk_phone_ed"
+msgstr ""
+
+msgctxt "2580"
+msgid "dummy"
+msgstr ""

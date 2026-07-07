@@ -1,0 +1,52 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid "\"I never want to see you here again\"? What did I do to deserve that..."
+msgstr ""
+
+msgctxt "76"
+msgid "Don't worry, Date-san. It's probably nothing you did."
+msgstr ""
+
+msgctxt "88"
+msgid "......"
+msgstr ""
+
+msgctxt "100"
+msgid "You should probably call it a night. I'll see if I can talk to her for you."
+msgstr ""
+
+msgctxt "112"
+msgid "Thanks, Kiryu. I owe you one."
+msgstr ""
+
+msgctxt "1184"
+msgid "Date"
+msgstr ""
+
+msgctxt "1188"
+msgid "C20_DAT_stand_talk_no_ocikomi"
+msgstr ""
+
+msgctxt "1192"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1196"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "1200"
+msgid "C20_DAT_stand_talk_yes_ocikomi"
+msgstr ""

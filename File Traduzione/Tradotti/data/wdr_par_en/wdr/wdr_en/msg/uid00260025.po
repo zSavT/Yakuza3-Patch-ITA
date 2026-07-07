@@ -1,0 +1,146 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "188"
+msgid "Hmm?"
+msgstr ""
+
+msgctxt "200"
+msgid "You're stalking some girl, aren't you?"
+msgstr ""
+
+msgctxt "212"
+msgid "Excuse me!? Don't be ridiculous!"
+msgstr ""
+
+msgctxt "224"
+msgid "Right, right. Deny it all you want, pops."
+msgstr ""
+
+msgctxt "236"
+msgid ""
+"Just leave this town nice and quiet-like, and everybody\r\n"
+"will be happy."
+msgstr ""
+
+msgctxt "248"
+msgid "What!?"
+msgstr ""
+
+msgctxt "260"
+msgid ""
+"So what'll it be, pervert? You gonna leave peacefully,\r\n"
+"or do I gotta rough ya up a bit?"
+msgstr ""
+
+msgctxt "272"
+msgid ""
+"This is outrageous! I've had enough of this city! Living here alone was a "
+"big, big mistake!"
+msgstr ""
+
+msgctxt "296"
+msgid "(What the heck is going on? Is that guy really a stalker?"
+msgstr ""
+
+msgctxt "308"
+msgid "Well, that's that. Better go get my payment now."
+msgstr ""
+
+msgctxt "380"
+msgid "(Looks like he's after a stalker, too.)"
+msgstr ""
+
+msgctxt "392"
+msgid "(Maybe I oughta follow him for a while.)"
+msgstr ""
+
+msgctxt "416"
+msgid ""
+"(So he was a stalker, then...? Guess I should get back to\r\n"
+"Emi.)"
+msgstr ""
+
+msgctxt "440"
+msgid ""
+"Aha! You scoundrel! You've been following me,\r\n"
+"haven't you!"
+msgstr ""
+
+msgctxt "452"
+msgid "(Dammit. He spotted me.)"
+msgstr ""
+
+msgctxt "524"
+msgid "I've got some questions for you."
+msgstr ""
+
+msgctxt "536"
+msgid "Don't change the subject! You're not getting away this time!"
+msgstr ""
+
+msgctxt "560"
+msgid "(Dammit. I lost him.)"
+msgstr ""
+
+msgctxt "572"
+msgid "(I better check in with Emi.)"
+msgstr ""
+
+msgctxt "4820"
+msgid "dummy"
+msgstr ""
+
+msgctxt "4824"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "4828"
+msgid "Bald Man"
+msgstr ""
+
+msgctxt "4832"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "4836"
+msgid "Bespectacled Man"
+msgstr ""
+
+msgctxt "4840"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "4844"
+msgid "Talk_NoBig"
+msgstr ""
+
+msgctxt "4848"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "4852"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "4856"
+msgid "Nml_TurnR180"
+msgstr ""
+
+msgctxt "4860"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "4864"
+msgid "Talk_Kosite_st"
+msgstr ""

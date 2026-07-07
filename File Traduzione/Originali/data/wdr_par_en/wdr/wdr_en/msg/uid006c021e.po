@@ -1,0 +1,64 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "76"
+msgid ""
+"Thanks for takin' me out today. Ya really know how to keep things "
+"entertaining!"
+msgstr ""
+
+msgctxt "88"
+msgid "Now it's my turn to entertain you. <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "112"
+msgid ""
+"Thanks for takin' me out today. Ya really know how to keep things "
+"entertaining!"
+msgstr ""
+
+msgctxt "124"
+msgid "Now it's my turn to entertain you. <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "136"
+msgid "Hold on... I just realized something. I'm a little short on cash."
+msgstr ""
+
+msgctxt "148"
+msgid "Huh? Whaddya mean? How do you not, like, always have money?"
+msgstr ""
+
+msgctxt "160"
+msgid "Sorry... I honestly don't know that myself."
+msgstr ""
+
+msgctxt "172"
+msgid "Fine... Just come see me again next time."
+msgstr ""
+
+msgctxt "3676"
+msgid "Rin"
+msgstr ""
+
+msgctxt "3680"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "3684"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "3688"
+msgid "Talk_Gakkari"
+msgstr ""

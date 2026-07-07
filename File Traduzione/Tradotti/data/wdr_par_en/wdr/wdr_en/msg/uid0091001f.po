@@ -1,0 +1,256 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "136"
+msgid ""
+"I've liked you ever since the moment I met you. I'd be\r\n"
+"honored if you'd go on a date with me."
+msgstr ""
+
+msgctxt "148"
+msgid "Um... I'm at work. Could you not talk to me right now?"
+msgstr ""
+
+msgctxt "160"
+msgid ""
+"That's fine. Could you give me an answer when you get off\r\n"
+"work?"
+msgstr ""
+
+msgctxt "172"
+msgid "......"
+msgstr ""
+
+msgctxt "184"
+msgid ""
+"Aww, look, are they in love? You're gonna make me puke,\r\n"
+"ya stupid brat."
+msgstr ""
+
+msgctxt "196"
+msgid ""
+"Stop makin' customers wait around for your stupid shit.\r\n"
+"Come on, get the fuck outta the way!"
+msgstr ""
+
+msgctxt "208"
+msgid ""
+"What are you doing? I'm in the middle of a very\r\n"
+"important conversation here!"
+msgstr ""
+
+msgctxt "220"
+msgid ""
+"The fuck did you just say to me? What, you think you're\r\n"
+"tough!?"
+msgstr ""
+
+msgctxt "232"
+msgid "C'mon, Aniki, let's fuck him up!"
+msgstr ""
+
+msgctxt "244"
+msgid "......"
+msgstr ""
+
+msgctxt "256"
+msgid "(Damn. Guess I should lend him a hand, or fist.)"
+msgstr ""
+
+msgctxt "268"
+msgid ""
+"Hey, now. This is a big moment for these kids. Grown-ups\r\n"
+"like us should let them have it."
+msgstr ""
+
+msgctxt "280"
+msgid "Oh... You're the gentleman from before..."
+msgstr ""
+
+msgctxt "292"
+msgid ""
+"This kid's an acquaintance of mine. He'll be done soon,\r\n"
+"just be a little patient with him."
+msgstr ""
+
+msgctxt "304"
+msgid ""
+"Who the hell are you!? This ain't none of your business, pal!\r\n"
+"We don't give a shit about this kid!"
+msgstr ""
+
+msgctxt "316"
+msgid ""
+"Don't cause trouble for the staff and customers. You\r\n"
+"wanna argue, let's take it outside."
+msgstr ""
+
+msgctxt "328"
+msgid ""
+"You got some balls, fuckhead! Stop pretending to be cool,\r\n"
+"you old fart!"
+msgstr ""
+
+msgctxt "352"
+msgid ""
+"(I should see what happens. This moment here could make it\r\n"
+"or break it for him.)"
+msgstr ""
+
+msgctxt "364"
+msgid ""
+"Just hold on a sec! This is the first time I've ever asked\r\n"
+"a girl out!"
+msgstr ""
+
+msgctxt "376"
+msgid "Huh...?"
+msgstr ""
+
+msgctxt "388"
+msgid ""
+"True, she is pretty damn cute. How about it, sweetheart?\r\n"
+"Forget this loser and come hang with us. Sounds good, right?"
+msgstr ""
+
+msgctxt "400"
+msgid ""
+"Yeah. In fact, I think that's gonna be my order: one cute,\r\n"
+"part-time burger girl combo to go!"
+msgstr ""
+
+msgctxt "412"
+msgid "Please, stop this! Someone, I need a manager over here!"
+msgstr ""
+
+msgctxt "424"
+msgid "Stop it! Don't you dare lay a hand on her!"
+msgstr ""
+
+msgctxt "436"
+msgid "Shut your trap! Make like a tree and leave, you short fuck!"
+msgstr ""
+
+msgctxt "508"
+msgid "Shit..."
+msgstr ""
+
+msgctxt "520"
+msgid "Sensei..."
+msgstr ""
+
+msgctxt "532"
+msgid "You were pretty manly out there. Let me take over for now."
+msgstr ""
+
+msgctxt "544"
+msgid ""
+"Hey, this kid's a friend of mine. You got something to say,\r\n"
+"then say it to me."
+msgstr ""
+
+msgctxt "556"
+msgid "Oh... You're the gentleman from before..."
+msgstr ""
+
+msgctxt "568"
+msgid "...The hell? You ain't got nothin' to do with this, old man!"
+msgstr ""
+
+msgctxt "580"
+msgid ""
+"Don't cause trouble for the staff and customers. You\r\n"
+"wanna argue, let's take it outside."
+msgstr ""
+
+msgctxt "592"
+msgid ""
+"You got some balls, asshole! Stop pretending to be cool,\r\n"
+"you old fart!"
+msgstr ""
+
+msgctxt "616"
+msgid "Help the Kid"
+msgstr ""
+
+msgctxt "628"
+msgid "Wait It Out"
+msgstr ""
+
+msgctxt "7136"
+msgid "Lovelorn Teenager"
+msgstr ""
+
+msgctxt "7140"
+msgid "Talk_Kosite_st"
+msgstr ""
+
+msgctxt "7144"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "7148"
+msgid "Burger Girl"
+msgstr ""
+
+msgctxt "7152"
+msgid "Loveless Punk"
+msgstr ""
+
+msgctxt "7156"
+msgid "Desperate Punk"
+msgstr ""
+
+msgctxt "7160"
+msgid "Talk_Away"
+msgstr ""
+
+msgctxt "7164"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "7168"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "7172"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "7176"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "7180"
+msgid "Talk_Udekumi_st"
+msgstr ""
+
+msgctxt "7184"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "7188"
+msgid "Talk_NoBig"
+msgstr ""
+
+msgctxt "7192"
+msgid "Talk_Kamae"
+msgstr ""
+
+msgctxt "7196"
+msgid "M_yng_damage"
+msgstr ""
+
+msgctxt "7200"
+msgid "Idle"
+msgstr ""

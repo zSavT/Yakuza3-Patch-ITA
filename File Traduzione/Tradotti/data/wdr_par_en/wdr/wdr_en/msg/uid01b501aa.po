@@ -1,0 +1,98 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "80"
+msgid ""
+"(The drugstore in Kariyushi Arcade... I'm sure they've been\r\n"
+"waiting for their soba.)"
+msgstr ""
+
+msgctxt "92"
+msgid "Hello? Your Okinawan soba delivery has arrived!"
+msgstr ""
+
+msgctxt "164"
+msgid ""
+"You're late! Where have you been? The noodles've probably\r\n"
+"gone stale by now..."
+msgstr ""
+
+msgctxt "176"
+msgid ""
+"Here you go. This should cover it. Try to get here faster\r\n"
+"from now on, eh?"
+msgstr ""
+
+msgctxt "236"
+msgid ""
+"(That's all my deliveries. Now to get back to that Okinawa\r\n"
+"soba joint.)"
+msgstr ""
+
+msgctxt "272"
+msgid "(Okay, time to find my next customer.)"
+msgstr ""
+
+msgctxt "284"
+msgid ""
+"(The drugstore in Kariyushi Arcade... I'm sure they've been\r\n"
+"waiting for their soba.)"
+msgstr ""
+
+msgctxt "296"
+msgid "Hello? Your Okinawan soba delivery has arrived!"
+msgstr ""
+
+msgctxt "356"
+msgid "Yesss! You got here pretty quickly, too. Thanks."
+msgstr ""
+
+msgctxt "368"
+msgid ""
+"Mmm, smell those pork ribs! You just can't beat 'em!\r\n"
+"Well, here's what I owe you. See you next time!"
+msgstr ""
+
+msgctxt "428"
+msgid ""
+"(That's all my deliveries. Now to get back to that Okinawa\r\n"
+"soba joint.)"
+msgstr ""
+
+msgctxt "464"
+msgid "(Okay, time to find my next customer.)"
+msgstr ""
+
+msgctxt "3788"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "3792"
+msgid "Owner"
+msgstr ""
+
+msgctxt "3796"
+msgid "Talk_Send"
+msgstr ""
+
+msgctxt "3800"
+msgid "dummy"
+msgstr ""
+
+msgctxt "3804"
+msgid "MvRIK_stand_nml"
+msgstr ""
+
+msgctxt "3808"
+msgid "0"
+msgstr ""

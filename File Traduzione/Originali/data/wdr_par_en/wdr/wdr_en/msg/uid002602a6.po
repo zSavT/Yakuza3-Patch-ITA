@@ -1,0 +1,68 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid "...Kiryu-san?"
+msgstr ""
+
+msgctxt "76"
+msgid "Yeah, that's me."
+msgstr ""
+
+msgctxt "88"
+msgid "Someone named Yanai wanted me to give you this."
+msgstr ""
+
+msgctxt "112"
+msgid "It's next week's issue... the one Yanai mentioned."
+msgstr ""
+
+msgctxt "124"
+msgid "(He said the article would be about how I tore their family apart...)"
+msgstr ""
+
+msgctxt "148"
+msgid "(\"The Photo That Reunited a Family\"...? Heh. You got me, Yanai.)"
+msgstr ""
+
+msgctxt "172"
+msgid "So? Anything good in there?"
+msgstr ""
+
+msgctxt "184"
+msgid "Yeah. Worth reading, all right."
+msgstr ""
+
+msgctxt "1712"
+msgid "Bartender"
+msgstr ""
+
+msgctxt "1716"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1720"
+msgid "2d_mn_mm59_friday02"
+msgstr ""
+
+msgctxt "1724"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "1728"
+msgid "dummy"
+msgstr ""
+
+msgctxt "1732"
+msgid "0"
+msgstr ""

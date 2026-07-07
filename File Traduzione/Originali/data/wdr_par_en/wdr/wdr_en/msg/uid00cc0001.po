@@ -1,0 +1,90 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid "This's a test. BGM:NONE"
+msgstr ""
+
+msgctxt "76"
+msgid ""
+"This's a test. BGM:kaiwabgm_loneliness\r\n"
+"Volume: BGM,0.65,1"
+msgstr ""
+
+msgctxt "88"
+msgid "This's a test. Not doing anything."
+msgstr ""
+
+msgctxt "100"
+msgid "This's a test. Volume:BGM,0.3,1"
+msgstr ""
+
+msgctxt "112"
+msgid "This's a test. BGM:kaiwabgm_love"
+msgstr ""
+
+msgctxt "124"
+msgid "This's a test. BGM:kaiwabgm_funny,10"
+msgstr ""
+
+msgctxt "136"
+msgid "This's a test. Volume:environmental sounds,0.6,1.5"
+msgstr ""
+
+msgctxt "148"
+msgid "This's a test. BGM:NONE"
+msgstr ""
+
+msgctxt "160"
+msgid "This's a test. kaiwabgm_fuonB"
+msgstr ""
+
+msgctxt "172"
+msgid "This's a test. Volume:environmental sounds,0.7,1.3"
+msgstr ""
+
+msgctxt "184"
+msgid "This's a test. BGM:kaiwabgm_happy"
+msgstr ""
+
+msgctxt "196"
+msgid "This's a test. BGM:kaiwabgm_sadness"
+msgstr ""
+
+msgctxt "208"
+msgid "Test continuation"
+msgstr ""
+
+msgctxt "1316"
+msgid "kaiwabgm_loneliness"
+msgstr ""
+
+msgctxt "1320"
+msgid "kaiwabgm_love"
+msgstr ""
+
+msgctxt "1324"
+msgid "kaiwabgm_funny"
+msgstr ""
+
+msgctxt "1328"
+msgid "kaiwabgm_fuonb"
+msgstr ""
+
+msgctxt "1332"
+msgid "kaiwabgm_happy"
+msgstr ""
+
+msgctxt "1336"
+msgid "kaiwabgm_sadness"
+msgstr ""

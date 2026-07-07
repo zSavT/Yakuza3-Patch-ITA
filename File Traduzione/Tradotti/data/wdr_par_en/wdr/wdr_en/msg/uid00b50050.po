@@ -1,0 +1,88 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "92"
+msgid ""
+"What's up with that fortune? There's no way it's right! My friend said she "
+"was good, too."
+msgstr ""
+
+msgctxt "104"
+msgid "What's this about a fortune teller?"
+msgstr ""
+
+msgctxt "116"
+msgid ""
+"It's outrageous! I should go give her a piece of my mind! She said she'd "
+"give me a special reading, then tricked me out of 150,000 yen!"
+msgstr ""
+
+msgctxt "128"
+msgid ""
+"I can't believe I paid 30,000 yen for that! Do you know what I could buy "
+"with 30,000 yen? I'm going to get my money back!"
+msgstr ""
+
+msgctxt "140"
+msgid "We must've gone to the same fortune teller."
+msgstr ""
+
+msgctxt "152"
+msgid ""
+"What? Did she get you, too? We really ought to all go complain to her "
+"together. I won't rest until I tell her what I think of her!"
+msgstr ""
+
+msgctxt "164"
+msgid "Sounds good."
+msgstr ""
+
+msgctxt "176"
+msgid "Let us know if you see her again. I am going to slap her silly!"
+msgstr ""
+
+msgctxt "1828"
+msgid "Gullible Businesswoman"
+msgstr ""
+
+msgctxt "1832"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "1836"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1840"
+msgid "Glum Businesswoman"
+msgstr ""
+
+msgctxt "1844"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "1848"
+msgid "Glamorous Businesswoman"
+msgstr ""
+
+msgctxt "1852"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "1856"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "1860"
+msgid "Talk_Odosu"
+msgstr ""

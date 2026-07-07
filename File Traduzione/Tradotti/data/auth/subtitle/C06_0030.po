@@ -1,0 +1,212 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "94\t133"
+msgid "Welcome!"
+msgstr ""
+
+msgctxt "134\t244"
+msgid ""
+"Oh, Date-san.\\n"
+"Not drinking alone tonight?"
+msgstr ""
+
+msgctxt "245\t305"
+msgid "Not tonight, Mama."
+msgstr ""
+
+msgctxt "556\t642"
+msgid "Date-san, this is..."
+msgstr ""
+
+msgctxt "643\t752"
+msgid "Yup, Serena's finally back in business."
+msgstr ""
+
+msgctxt "753\t859"
+msgid "New mama's really spruced the place up, though."
+msgstr ""
+
+msgctxt "860\t932"
+msgid "Date-san. Will you be having the usual?"
+msgstr ""
+
+msgctxt "933\t1058"
+msgid ""
+"Sure. And the kid'll be in soon,\\n"
+"so fix one up for him, too."
+msgstr ""
+
+msgctxt "1156\t1229"
+msgid "She's pretty young to be owning a bar."
+msgstr ""
+
+msgctxt "1230\t1290"
+msgid "You're telling me."
+msgstr ""
+
+msgctxt "1304\t1403"
+msgid ""
+"But she's got the guts\\n"
+"of a much older woman."
+msgstr ""
+
+msgctxt "1404\t1487"
+msgid "Who are you calling old?"
+msgstr ""
+
+msgctxt "1488\t1548"
+msgid "Your drink."
+msgstr ""
+
+msgctxt "1558\t1630"
+msgid "Didn't mean for you to hear that."
+msgstr ""
+
+msgctxt "1631\t1740"
+msgid ""
+"Mama, you mind stepping out for a bit?\\n"
+"My friend and I have some catching up to do."
+msgstr ""
+
+msgctxt "1741\t1824"
+msgid "Of course, take all the time you need."
+msgstr ""
+
+msgctxt "2111\t2291"
+msgid ""
+"This place is practically a second home by now.\\n"
+"No chance we'll get found here, don't worry."
+msgstr ""
+
+msgctxt "2292\t2341"
+msgid "Good."
+msgstr ""
+
+msgctxt "2342\t2480"
+msgid ""
+"But Date-san...\\n"
+"How'd you know where I'd be?"
+msgstr ""
+
+msgctxt "2481\t2533"
+msgid "Kazuki filled me in."
+msgstr ""
+
+msgctxt "2534\t2679"
+msgid ""
+"With your track record, I knew it wouldn't be long\\n"
+"'til you were the center of another mess."
+msgstr ""
+
+msgctxt "2754\t2803"
+msgid "About time."
+msgstr ""
+
+msgctxt "2804\t2845"
+msgid "You got the stuff?"
+msgstr ""
+
+msgctxt "2846\t2995"
+msgid ""
+"Don't say it like that.\\n"
+"You make this sound like some kinda drug deal."
+msgstr ""
+
+msgctxt "2996\t3050"
+msgid "Here, your drink."
+msgstr ""
+
+msgctxt "3099\t3204"
+msgid ""
+"This stuff's pure alcohol!\\n"
+"You trying to poison me, Mama?"
+msgstr ""
+
+msgctxt "3205\t3247"
+msgid "Splash some water in there!"
+msgstr ""
+
+msgctxt "3248\t3308"
+msgid "Coming right up."
+msgstr ""
+
+msgctxt "3432\t3519"
+msgid "There it is. Nice work."
+msgstr ""
+
+msgctxt "3618\t3678"
+msgid "Don't pretend you're my boss."
+msgstr ""
+
+msgctxt "3679\t3873"
+msgid ""
+"Look at me, taking orders from the new guy.\\n"
+"I'm a freaking senior editor!"
+msgstr ""
+
+msgctxt "3910\t3967"
+msgid "And those are?"
+msgstr ""
+
+msgctxt "3968\t4117"
+msgid "Oh. Just a few things for you to look at."
+msgstr ""
+
+msgctxt "4132\t4231"
+msgid "These are the five current Tojo Clan officers."
+msgstr ""
+
+msgctxt "4343\t4403"
+msgid "What are you getting at?"
+msgstr ""
+
+msgctxt "4489\t4600"
+msgid "Truth of it is, my title's changed a little."
+msgstr ""
+
+msgctxt "4679\t4802"
+msgid "Date-san... You're working for a paper?"
+msgstr ""
+
+msgctxt "4811\t4869"
+msgid "Yup."
+msgstr ""
+
+msgctxt "4870\t4978"
+msgid "Kiryu. This garbage you're dealing with?"
+msgstr ""
+
+msgctxt "4979\t5075"
+msgid "It all ties back to a story I'm chasing."
+msgstr ""
+
+msgctxt "5080\t5133"
+msgid "What story?"
+msgstr ""
+
+msgctxt "5134\t5334"
+msgid ""
+"The link between the Tojo Clan and\\n"
+"the Okinawa resort Minister Suzuki's so keen on."
+msgstr ""
+
+msgctxt "5375\t5461"
+msgid "This fire's getting hot."
+msgstr ""
+
+msgctxt "5462\t5616"
+msgid ""
+"Let's take some time and go over the key players.\\n"
+"Don't want you getting burned."
+msgstr ""

@@ -1,0 +1,60 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "92"
+msgid "Oh..."
+msgstr ""
+
+msgctxt "104"
+msgid "Uh, hello."
+msgstr ""
+
+msgctxt "116"
+msgid "You're Saya's little brother, right?"
+msgstr ""
+
+msgctxt "128"
+msgid "What are you doing over here?"
+msgstr ""
+
+msgctxt "140"
+msgid "Uhh, nothing really. Just a little work is all."
+msgstr ""
+
+msgctxt "152"
+msgid "Anyway, I better get going. Bye."
+msgstr ""
+
+msgctxt "1304"
+msgid "Akira"
+msgstr ""
+
+msgctxt "1308"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "1312"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "1316"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1320"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "1324"
+msgid "Talk_Sorry"
+msgstr ""

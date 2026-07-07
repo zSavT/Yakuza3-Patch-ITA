@@ -1,0 +1,110 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid "130, 140, 150... There. 150,000 yen. Here you go."
+msgstr ""
+
+msgctxt "76"
+msgid "Thank you for doing this. That's all of it."
+msgstr ""
+
+msgctxt "88"
+msgid ""
+"You think you can fool us? Just be glad I didn't ask for more to cover the "
+"trouble you caused!"
+msgstr ""
+
+msgctxt "100"
+msgid "She got you, too, huh? 120,000 yen, right? ...Yep."
+msgstr ""
+
+msgctxt "124"
+msgid "You got <Color:8>120,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "172"
+msgid "Hey, are you all right?"
+msgstr ""
+
+msgctxt "184"
+msgid "I thought you said you wouldn't tell anyone..."
+msgstr ""
+
+msgctxt "196"
+msgid "......"
+msgstr ""
+
+msgctxt "208"
+msgid "Mom, I think this might be karma."
+msgstr ""
+
+msgctxt "220"
+msgid "Argh... Let's go, boys..."
+msgstr ""
+
+msgctxt "244"
+msgid "You got 3,000 EXP."
+msgstr ""
+
+msgctxt "2500"
+msgid "Glamorous Businesswoman"
+msgstr ""
+
+msgctxt "2504"
+msgid "Glum Businesswoman"
+msgstr ""
+
+msgctxt "2508"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "2512"
+msgid "Gullible Businesswoman"
+msgstr ""
+
+msgctxt "2516"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "2520"
+msgid "Talk_Send"
+msgstr ""
+
+msgctxt "2524"
+msgid "Sync_Send"
+msgstr ""
+
+msgctxt "2528"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "2532"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "2536"
+msgid "Fortune Teller"
+msgstr ""
+
+msgctxt "2540"
+msgid "Fortune Teller's Oldest Son"
+msgstr ""
+
+msgctxt "2544"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "2548"
+msgid "dummy"
+msgstr ""

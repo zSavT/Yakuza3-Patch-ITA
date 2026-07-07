@@ -1,0 +1,72 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "92"
+msgid "Finally got a tattoo, huh? Now you're one of the boys!"
+msgstr ""
+
+msgctxt "104"
+msgid ""
+"Uh, well... Not quite. See, it was so damn painful, I could only stand to "
+"get the outline done."
+msgstr ""
+
+msgctxt "116"
+msgid ""
+"You're jokin' right, kid? You think anyone's gonna take you seriously with "
+"a half-assed tattoo like that? Get back over there and do it right!"
+msgstr ""
+
+msgctxt "128"
+msgid "Man, but...!"
+msgstr ""
+
+msgctxt "140"
+msgid ""
+"(That reminds me. Rikiya was saying his viper tattoo wasn't complete yet. "
+"Master Utabori might be able to finish it up for him.)"
+msgstr ""
+
+msgctxt "152"
+msgid ""
+"(Maybe I should take Rikiya over to the Divine Dragon later. It's "
+"<Color:7>just off Pink Street<Color:Default>.)"
+msgstr ""
+
+msgctxt "1384"
+msgid "Tattoo-Obsessed Yakuza"
+msgstr ""
+
+msgctxt "1388"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "1392"
+msgid "Yakuza with First Tattoo"
+msgstr ""
+
+msgctxt "1396"
+msgid "Talk_Away"
+msgstr ""
+
+msgctxt "1400"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "1404"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "1408"
+msgid "Kiryu"
+msgstr ""

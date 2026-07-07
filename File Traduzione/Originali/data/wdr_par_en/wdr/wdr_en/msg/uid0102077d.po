@@ -1,0 +1,46 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "128"
+msgid "Ohmigosh, Kiryu-san? I'm in some serious trouble! Can you come help me?"
+msgstr ""
+
+msgctxt "140"
+msgid "Is everything okay?"
+msgstr ""
+
+msgctxt "152"
+msgid ""
+"No, it's⑬ Look, I'll explain when you get here! I'm in front of the theater "
+"right now!"
+msgstr ""
+
+msgctxt "960"
+msgid "P_stand_tlk_phone_st"
+msgstr ""
+
+msgctxt "964"
+msgid "Ranko"
+msgstr ""
+
+msgctxt "968"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "972"
+msgid "P_stand_tlk_phone_ed"
+msgstr ""
+
+msgctxt "976"
+msgid "dummy"
+msgstr ""

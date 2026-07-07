@@ -1,0 +1,106 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "220"
+msgid "That's too bad. Please try again some time."
+msgstr ""
+
+msgctxt "244"
+msgid "Congratulations. Here's your prize."
+msgstr ""
+
+msgctxt "280"
+msgid "Welcome."
+msgstr ""
+
+msgctxt "292"
+msgid "What would you like to do?"
+msgstr ""
+
+msgctxt "304"
+msgid "Please be forwarned that equipped gear will not apply its effects."
+msgstr ""
+
+msgctxt "316"
+msgid "Please select a tournament."
+msgstr ""
+
+msgctxt "352"
+msgid "Welcome."
+msgstr ""
+
+msgctxt "376"
+msgid "We hope to see you again."
+msgstr ""
+
+msgctxt "400"
+msgid "These are the Coliseum rules."
+msgstr ""
+
+msgctxt "412"
+msgid ""
+"These are the battle rules. Each tournament will have a different set of "
+"rules."
+msgstr ""
+
+msgctxt "424"
+msgid "This is is the individual introduction."
+msgstr ""
+
+msgctxt "448"
+msgid "Point."
+msgstr ""
+
+msgctxt "472"
+msgid "Ask About Tag Matches"
+msgstr ""
+
+msgctxt "496"
+msgid "Ask About Tag Matches"
+msgstr ""
+
+msgctxt "520"
+msgid "The Tag Team introduction has been canceled."
+msgstr ""
+
+msgctxt "544"
+msgid "Tournament Selection"
+msgstr ""
+
+msgctxt "556"
+msgid "Coliseum Rules"
+msgstr ""
+
+msgctxt "568"
+msgid "Individual Introduction"
+msgstr ""
+
+msgctxt "580"
+msgid "Check Super Star Points"
+msgstr ""
+
+msgctxt "592"
+msgid "Ask About Tag Matches"
+msgstr ""
+
+msgctxt "604"
+msgid "Ask About Popularity"
+msgstr ""
+
+msgctxt "616"
+msgid "Tag Match Introduction"
+msgstr ""
+
+msgctxt "3184"
+msgid "Receptionist"
+msgstr ""

@@ -1,0 +1,136 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "252"
+msgid "That was amazing, Uncle Kaz!"
+msgstr ""
+
+msgctxt "264"
+msgid "You're amazing, Uncle Kaz! You really raked it in!"
+msgstr ""
+
+msgctxt "300"
+msgid "(Haruka seems happy...)"
+msgstr ""
+
+msgctxt "336"
+msgid "(Haruka seems happy...)"
+msgstr ""
+
+msgctxt "408"
+msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
+msgstr ""
+
+msgctxt "420"
+msgid "You got <Color:8>Haruka's Necklace<Color:Default>."
+msgstr ""
+
+msgctxt "468"
+msgid ""
+"Thanks a ton, Uncle Kaz! I wanna come with you to play\r\n"
+"cho-han with you next time, okay?"
+msgstr ""
+
+msgctxt "480"
+msgid ""
+"Haruka will now occasionally predict the outcome of a round\r\n"
+"when you are playing cho-han."
+msgstr ""
+
+msgctxt "516"
+msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
+msgstr ""
+
+msgctxt "528"
+msgid "You got <Color:8>Haruka's Bento<Color:Default>."
+msgstr ""
+
+msgctxt "576"
+msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
+msgstr ""
+
+msgctxt "588"
+msgid "You got <Color:8>Haruka's First-Aid Kit<Color:Default>."
+msgstr ""
+
+msgctxt "636"
+msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
+msgstr ""
+
+msgctxt "648"
+msgid "You got a <Color:8>Red Jewel<Color:Default>."
+msgstr ""
+
+msgctxt "696"
+msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
+msgstr ""
+
+msgctxt "708"
+msgid "You got <Color:8>Haruka's Amulet<Color:Default>."
+msgstr ""
+
+msgctxt "756"
+msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
+msgstr ""
+
+msgctxt "768"
+msgid "You got <Color:8>Haruka's Chocolate<Color:Default>."
+msgstr ""
+
+msgctxt "816"
+msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
+msgstr ""
+
+msgctxt "828"
+msgid "You got <Color:8>Haruka's Candy<Color:Default>."
+msgstr ""
+
+msgctxt "900"
+msgid "That was close! We should try again sometime!"
+msgstr ""
+
+msgctxt "912"
+msgid "But I wanted you to play roulette..."
+msgstr ""
+
+msgctxt "924"
+msgid "Aw, you came pretty close!"
+msgstr ""
+
+msgctxt "984"
+msgid "Uncle Kaz! Get 2,000 points in roulette!"
+msgstr ""
+
+msgctxt "1008"
+msgid "Uncle Kaz! Get 1,000 points in roulette!"
+msgstr ""
+
+msgctxt "6504"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "6508"
+msgid "HAL_stand_tlk_happy_big"
+msgstr ""
+
+msgctxt "6512"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "6516"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "6520"
+msgid "HAL_stand_tlk_happy_small"
+msgstr ""

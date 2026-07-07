@@ -1,0 +1,991 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "444"
+msgid ""
+"Hey, Mack.\r\n"
+"I'm here to run again."
+msgstr ""
+
+msgctxt "456"
+msgid ""
+"Kiryu-san!\r\n"
+"You're getting very close to perfect!"
+msgstr ""
+
+msgctxt "468"
+msgid ""
+"Well, I've done quite a bit of running, after\r\n"
+"all. I don't think anyone can beat me."
+msgstr ""
+
+msgctxt "480"
+msgid "Great!"
+msgstr ""
+
+msgctxt "492"
+msgid "In fact, I may never have to run all-out again."
+msgstr ""
+
+msgctxt "504"
+msgid "There you are! I finally found you, Sugar Buns!"
+msgstr ""
+
+msgctxt "516"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "528"
+msgid ""
+"M-Michiru! What're you doing here!?\r\n"
+"I thought you and Akira got back together...!"
+msgstr ""
+
+msgctxt "540"
+msgid ""
+"I just couldn't get you out of my mind, darling.\r\n"
+"And I guess my women's intuition led me here."
+msgstr ""
+
+msgctxt "552"
+msgid "Please give me one more memory of the two of us!"
+msgstr ""
+
+msgctxt "564"
+msgid "Hey! Stay back!"
+msgstr ""
+
+msgctxt "576"
+msgid "Damn! I gotta get the hell outta here!"
+msgstr ""
+
+msgctxt "588"
+msgid ""
+"Mack!\r\n"
+"I'll have to take a rain check!"
+msgstr ""
+
+msgctxt "612"
+msgid "Wait!"
+msgstr ""
+
+msgctxt "636"
+msgid ""
+"This is it!\r\n"
+"You're finally pushing yourself to your limit!"
+msgstr ""
+
+msgctxt "648"
+msgid "This is the perfect shot I've been waiting for!"
+msgstr ""
+
+msgctxt "660"
+msgid ""
+"Are you trying to lead me to a deserted spot\r\n"
+"where we can be alone? Oh, Sugar Buns...!"
+msgstr ""
+
+msgctxt "672"
+msgid "Get away from me!"
+msgstr ""
+
+msgctxt "696"
+msgid "Aaaaagh!"
+msgstr ""
+
+msgctxt "756"
+msgid "Ugh... That was terrible..."
+msgstr ""
+
+msgctxt "768"
+msgid ""
+"Arigato, Kiryu-san!\r\n"
+"Thanks to you, I was finally able to get it!"
+msgstr ""
+
+msgctxt "780"
+msgid "What...? You mean⑬!?"
+msgstr ""
+
+msgctxt "792"
+msgid ""
+"A predator and her prey, both running with all\r\n"
+"their might. It's just like I saw on the plains\r\n"
+"of Africa, but right here in Kamurocho!"
+msgstr ""
+
+msgctxt "804"
+msgid "That was the perfect shot I've always wanted!"
+msgstr ""
+
+msgctxt "816"
+msgid "......"
+msgstr ""
+
+msgctxt "828"
+msgid "But now I realize I was wrong about one thing."
+msgstr ""
+
+msgctxt "840"
+msgid ""
+"This kind of struggle must be going on in cities\r\n"
+"all across the world. There's more than just one\r\n"
+"perfect shot out there waiting for me!"
+msgstr ""
+
+msgctxt "852"
+msgid ""
+"I'm going to keep traveling around the world in\r\n"
+"search of more shots like this!"
+msgstr ""
+
+msgctxt "864"
+msgid "Yeah, you do that..."
+msgstr ""
+
+msgctxt "888"
+msgid ""
+"You really burned my rubber out there, Kiryu-san. I knew if\r\n"
+"anyone was gonna run me down, it was you!"
+msgstr ""
+
+msgctxt "924"
+msgid ""
+"I always knew you were the top dog, Kiryu-san! Here, lemme\r\n"
+"slip you a little something as a reward."
+msgstr ""
+
+msgctxt "960"
+msgid "You got <Color:8>Mack's Talisman<Color:Default>!"
+msgstr ""
+
+msgctxt "984"
+msgid ""
+"Whoa, topping your own score? That's some serious dedication\r\n"
+"if I've ever seen it, Kiryu-san! Here, take one of these babies. It'll perk "
+"you right back up in no time!"
+msgstr ""
+
+msgctxt "1032"
+msgid "You got a <Color:8>Staminan XX<Color:Default>!"
+msgstr ""
+
+msgctxt "1044"
+msgid "Pop on by when you wanna run again!"
+msgstr ""
+
+msgctxt "1068"
+msgid ""
+"You really burned my rubber out there, Kiryu-san. I knew if\r\n"
+"anyone was gonna run me down, it was you!"
+msgstr ""
+
+msgctxt "1080"
+msgid ""
+"You know, I got this fancy breathing technique I could teach you. Think I "
+"learned it from the monks in Tibet... or maybe it was the shamans in the "
+"Amazon? Eh, whatever."
+msgstr ""
+
+msgctxt "1092"
+msgid ""
+"Anyway, all you gotta do is breathe in reeeeeal deep. Imagine you're a "
+"fleshy balloon, full of nothing but clean mountain air. And then you're "
+"done!"
+msgstr ""
+
+msgctxt "1104"
+msgid ""
+"Your <Color:9>chase gauge<Color:Default> has increased! This will let you "
+"continue\r\n"
+"chase sequences for longer than before."
+msgstr ""
+
+msgctxt "1128"
+msgid ""
+"But wait, there's more! You smashed the record to tiny bits,\r\n"
+"too!"
+msgstr ""
+
+msgctxt "1140"
+msgid ""
+"I always knew you were the top dog, Kiryu-san! Here, lemme\r\n"
+"slip you a little something as a reward."
+msgstr ""
+
+msgctxt "1176"
+msgid "You got <Color:8>Mack's Talisman<Color:Default>!"
+msgstr ""
+
+msgctxt "1188"
+msgid "Pop on by when you wanna run again!"
+msgstr ""
+
+msgctxt "1212"
+msgid ""
+"You really burned my rubber out there, Kiryu-san. I knew if\r\n"
+"anyone was gonna run me down, it was you!"
+msgstr ""
+
+msgctxt "1248"
+msgid ""
+"I always knew you were the top dog, Kiryu-san! Here, lemme\r\n"
+"slip you a little something as a reward."
+msgstr ""
+
+msgctxt "1284"
+msgid "You got <Color:8>Majima's Order Form<Color:Default>!"
+msgstr ""
+
+msgctxt "1308"
+msgid ""
+"Whoa, topping your own score? That's some serious dedication\r\n"
+"if I've ever seen it, Kiryu-san! Here, take one of these babies. It'll perk "
+"you right back up in no time!"
+msgstr ""
+
+msgctxt "1344"
+msgid "You got a <Color:8>Staminan XX<Color:Default>!"
+msgstr ""
+
+msgctxt "1356"
+msgid "Pop on by when you wanna run again!"
+msgstr ""
+
+msgctxt "1380"
+msgid ""
+"You really burned my rubber out there, Kiryu-san. I knew if\r\n"
+"anyone was gonna run me down, it was you!"
+msgstr ""
+
+msgctxt "1392"
+msgid ""
+"Lemme hit you with another breathing technique. Think I learned this one "
+"from a guru out in the forests of India... or was it that witch doctor in "
+"Tanzania? Meh, doesn't matter."
+msgstr ""
+
+msgctxt "1404"
+msgid ""
+"Anyway, all you gotta do is breathe even deeeeeper than last time. Fill "
+"those lungs 'til it feels like they're gonna pop, then you're golden!"
+msgstr ""
+
+msgctxt "1416"
+msgid ""
+"Your <Color:9>chase gauge<Color:Default> has increased! This will let you "
+"continue\r\n"
+"chase sequences for longer than before."
+msgstr ""
+
+msgctxt "1440"
+msgid ""
+"But wait, there's more! You smashed the record to tiny bits,\r\n"
+"too!"
+msgstr ""
+
+msgctxt "1452"
+msgid ""
+"I always knew you were the top dog, Kiryu-san! Here, lemme\r\n"
+"slip you a little something as a reward."
+msgstr ""
+
+msgctxt "1488"
+msgid "You got <Color:8>Majima's Order Form<Color:Default>!"
+msgstr ""
+
+msgctxt "1500"
+msgid "Pop on by when you wanna run again!"
+msgstr ""
+
+msgctxt "1524"
+msgid ""
+"Chase 5 (Temporary text)\r\n"
+"You really burned my rubber out there, Kiryu-san. I knew if\r\n"
+"anyone was gonna run me down, it was you!"
+msgstr ""
+
+msgctxt "1536"
+msgid "Lemme slap you with a reward!"
+msgstr ""
+
+msgctxt "1572"
+msgid ""
+"Chase 5 (Temporary text)\r\n"
+"Never lost to anyone out there... but I'm glad you were my\r\n"
+"first, Kiryu-san!"
+msgstr ""
+
+msgctxt "1584"
+msgid "Got a shiny new move for you as a reward!"
+msgstr ""
+
+msgctxt "1608"
+msgid ""
+"You really burned my rubber out there, Kiryu-san. I knew if\r\n"
+"anyone was gonna run me down, it was you!"
+msgstr ""
+
+msgctxt "1620"
+msgid "Lemme slap you with a reward!"
+msgstr ""
+
+msgctxt "1656"
+msgid "You got a <Color:8>Staminan X<Color:Default>!"
+msgstr ""
+
+msgctxt "1668"
+msgid "Pop on by when you wanna run again!"
+msgstr ""
+
+msgctxt "1692"
+msgid ""
+"You really burned my rubber out there, Kiryu-san. I knew if\r\n"
+"anyone was gonna run me down, it was you!"
+msgstr ""
+
+msgctxt "1704"
+msgid ""
+"Guess it's time I teach you my signature Mack Tackle! Some\r\n"
+"people try to combine the two, call it the Mackle... but I don't talk to "
+"those people anymore."
+msgstr ""
+
+msgctxt "1716"
+msgid ""
+"Anyways, this'll boost the oomph you can put in your tackle! You'll be "
+"dragging guys down like you were born to do it!"
+msgstr ""
+
+msgctxt "1728"
+msgid ""
+"Your <Color:9>tackle power<Color:Default> has increased! This will make "
+"your tackles\r\n"
+"hit harder when you strike an opponent."
+msgstr ""
+
+msgctxt "1740"
+msgid ""
+"Oh, and I got a nice little present for you, too! Bow and\r\n"
+"everything!"
+msgstr ""
+
+msgctxt "1776"
+msgid "You got a <Color:8>Collapsible Hammer<Color:Default>!"
+msgstr ""
+
+msgctxt "1788"
+msgid "Pop on by when you wanna run again!"
+msgstr ""
+
+msgctxt "1812"
+msgid ""
+"Chase 3 (Temporary text)\r\n"
+"You really burned my rubber out there, Kiryu-san. I knew if\r\n"
+"anyone was gonna run me down, it was you!"
+msgstr ""
+
+msgctxt "1824"
+msgid "Lemme slap you with a reward!"
+msgstr ""
+
+msgctxt "1860"
+msgid ""
+"Chase 3 (Temporary text)\r\n"
+"Never lost to anyone out there... but I'm glad you were my\r\n"
+"first, Kiryu-san!"
+msgstr ""
+
+msgctxt "1872"
+msgid "Got a shiny secret for you as a reward!"
+msgstr ""
+
+msgctxt "1896"
+msgid ""
+"Chase 2 (Temporary text)\r\n"
+"You really burned my rubber out there, Kiryu-san. I knew if\r\n"
+"anyone was gonna run me down, it was you!"
+msgstr ""
+
+msgctxt "1908"
+msgid "Lemme slap you with a reward!"
+msgstr ""
+
+msgctxt "1944"
+msgid ""
+"You really burned my rubber out there, Kiryu-san. I knew if\r\n"
+"anyone was gonna run me down, it was you!"
+msgstr ""
+
+msgctxt "1956"
+msgid "Pop on by when you wanna run again!"
+msgstr ""
+
+msgctxt "1980"
+msgid ""
+"You really burned my rubber out there, Kiryu-san. I knew if\r\n"
+"anyone was gonna run me down, it was you!"
+msgstr ""
+
+msgctxt "2016"
+msgid ""
+"I always knew you were the top dog, Kiryu-san! Here, lemme\r\n"
+"slip you a little something as a reward."
+msgstr ""
+
+msgctxt "2052"
+msgid "You got a <Color:8>Radiant Sword<Color:Default>!"
+msgstr ""
+
+msgctxt "2076"
+msgid ""
+"Whoa, topping your own score? That's some serious dedication\r\n"
+"if I've ever seen it, Kiryu-san! Here, take one of these babies. It'll perk "
+"you right back up in no time!"
+msgstr ""
+
+msgctxt "2112"
+msgid "You got a <Color:8>Staminan XX<Color:Default>!"
+msgstr ""
+
+msgctxt "2124"
+msgid "Pop on by when you wanna run again!"
+msgstr ""
+
+msgctxt "2148"
+msgid ""
+"You really burned my rubber out there, Kiryu-san. I knew if\r\n"
+"anyone was gonna run me down, it was you!"
+msgstr ""
+
+msgctxt "2160"
+msgid ""
+"One last technique for you. Got this special from an Irish Wiccan in the "
+"emerald fields... or was it that hippie in California? You could smell that "
+"peace mobile coming a mile away, lemme tell you."
+msgstr ""
+
+msgctxt "2172"
+msgid ""
+"Anyway, breathe in extra deep, and keep that air on lockdown up in your "
+"lungs. Channel your inner hippie, y'know? And that's all you gotta do!"
+msgstr ""
+
+msgctxt "2184"
+msgid ""
+"Your <Color:9>chase gauge<Color:Default> has increased! This will let you "
+"continue\r\n"
+"chase sequences for longer than before."
+msgstr ""
+
+msgctxt "2208"
+msgid ""
+"But wait, there's more! You smashed the record to tiny bits,\r\n"
+"too!"
+msgstr ""
+
+msgctxt "2220"
+msgid ""
+"I always knew you were the top dog, Kiryu-san! Here, lemme\r\n"
+"slip you a little something as a reward."
+msgstr ""
+
+msgctxt "2256"
+msgid "You got a <Color:8>Radiant Sword<Color:Default>!"
+msgstr ""
+
+msgctxt "2268"
+msgid "Pop on by when you wanna run again!"
+msgstr ""
+
+msgctxt "2292"
+msgid "Too bad, so sad! Looks like Mack came out on top!"
+msgstr ""
+
+msgctxt "2304"
+msgid "Dammit. I'll get you next time, Mack."
+msgstr ""
+
+msgctxt "2328"
+msgid ""
+"Howdy there, Kiryu-san. What flavor of Mack you looking for\r\n"
+"today?"
+msgstr ""
+
+msgctxt "2352"
+msgid "Okey-dokey!"
+msgstr ""
+
+msgctxt "2364"
+msgid "We're ready to groove, Okuda-san!"
+msgstr ""
+
+msgctxt "2376"
+msgid "Just a second!"
+msgstr ""
+
+msgctxt "2436"
+msgid "You pumped for this, Kiryu-san?"
+msgstr ""
+
+msgctxt "2448"
+msgid ""
+"Well you better be! I got a big honking present for you if\r\n"
+"you can smash the record! Good luck!"
+msgstr ""
+
+msgctxt "2472"
+msgid "Okey-dokey!"
+msgstr ""
+
+msgctxt "2484"
+msgid "We're ready to groove, Okuda-san!"
+msgstr ""
+
+msgctxt "2496"
+msgid "Just a second!"
+msgstr ""
+
+msgctxt "2556"
+msgid "You pumped for this, Kiryu-san?"
+msgstr ""
+
+msgctxt "2568"
+msgid ""
+"Well you better be! I got a big honking present for you if\r\n"
+"you can smash the record! Good luck!"
+msgstr ""
+
+msgctxt "2592"
+msgid "Training 3 selected. Go to chase."
+msgstr ""
+
+msgctxt "2616"
+msgid "Okey-dokey!"
+msgstr ""
+
+msgctxt "2628"
+msgid "We're ready to groove, Okuda-san!"
+msgstr ""
+
+msgctxt "2640"
+msgid "Just a second!"
+msgstr ""
+
+msgctxt "2700"
+msgid "You pumped for this, Kiryu-san?"
+msgstr ""
+
+msgctxt "2712"
+msgid ""
+"Well you better be! I'll give you a be-a-utiful little\r\n"
+"present if you can beat me out there. Good luck!"
+msgstr ""
+
+msgctxt "2736"
+msgid "Training 5 selected. Go to chase."
+msgstr ""
+
+msgctxt "2760"
+msgid "Okey-dokey!"
+msgstr ""
+
+msgctxt "2772"
+msgid "We're ready to groove, Okuda-san!"
+msgstr ""
+
+msgctxt "2784"
+msgid "Just a second!"
+msgstr ""
+
+msgctxt "2844"
+msgid "You pumped for this, Kiryu-san?"
+msgstr ""
+
+msgctxt "2856"
+msgid ""
+"Well you better be! I got a big honking present for you if\r\n"
+"you can smash the record! Good luck!"
+msgstr ""
+
+msgctxt "2880"
+msgid "Okey-dokey!"
+msgstr ""
+
+msgctxt "2892"
+msgid "We're ready to groove, Okuda-san!"
+msgstr ""
+
+msgctxt "2904"
+msgid "Just a second!"
+msgstr ""
+
+msgctxt "2964"
+msgid "You pumped for this, Kiryu-san?"
+msgstr ""
+
+msgctxt "2976"
+msgid ""
+"Well you better be! I got a big honking present for you if\r\n"
+"you can smash the record! Good luck!"
+msgstr ""
+
+msgctxt "3000"
+msgid ""
+"Clear Mack's trainings to earn skills that will help you\r\n"
+"in future chases. This will also unlock the next training.\r\n"
+"\r\n"
+"Beat the records to get special items!\r\n"
+"(Training B has no records, so you will\r\n"
+"get an item just for clearing the course.)"
+msgstr ""
+
+msgctxt "3012"
+msgid "This one's easy-peasy!"
+msgstr ""
+
+msgctxt "3024"
+msgid ""
+"We're flipping the script in this one: instead of you coming\r\n"
+"for me, it'll be me biting at your ankles! Escape to win!"
+msgstr ""
+
+msgctxt "3036"
+msgid ""
+"This one's got curves for days, man! I'll warn you, catching\r\n"
+"me's gonna take every last drop you got in the tank!"
+msgstr ""
+
+msgctxt "3048"
+msgid "You ready to see my final form, Kiryu-san?"
+msgstr ""
+
+msgctxt "3060"
+msgid "Hit me up here if you want the deets on how this all works."
+msgstr ""
+
+msgctxt "3072"
+msgid "What, you tired of talking to little old me?"
+msgstr ""
+
+msgctxt "3084"
+msgid "Smell ya later, Kiryu-san! I'll be here when you come back!"
+msgstr ""
+
+msgctxt "3096"
+msgid ""
+"Kiryu-san! Just the guy I wanted to see! And, conveniently\r\n"
+"one of the only dudes who even knows about this place!"
+msgstr ""
+
+msgctxt "3108"
+msgid "...Yeah. Here I am."
+msgstr ""
+
+msgctxt "3120"
+msgid ""
+"Well without further ado, it's time you get acquainted with\r\n"
+"that friend I was telling you about!"
+msgstr ""
+
+msgctxt "3132"
+msgid "Come on out here, Okuda-san!"
+msgstr ""
+
+msgctxt "3156"
+msgid "Hey, Mack. This the guy?"
+msgstr ""
+
+msgctxt "3168"
+msgid "Hold on a second. You're one of Majima's men, aren't you?"
+msgstr ""
+
+msgctxt "3180"
+msgid "I, er... Oh, Kiryu-san!"
+msgstr ""
+
+msgctxt "3192"
+msgid ""
+"Mack said his new pal was a tough cookie, but I would never\r\n"
+"have guessed it'd be you."
+msgstr ""
+
+msgctxt "3204"
+msgid ""
+"Anyway, the name's Okuda. I supervise the construction\r\n"
+"around here... though as you can see there hasn't been much of that going "
+"on of late."
+msgstr ""
+
+msgctxt "3216"
+msgid "Hold up, you two know each other!?"
+msgstr ""
+
+msgctxt "3228"
+msgid "Oh, er, Mack... This guy, he's the Dr⑬"
+msgstr ""
+
+msgctxt "3240"
+msgid "You can stop right there."
+msgstr ""
+
+msgctxt "3252"
+msgid "Of course, sir!"
+msgstr ""
+
+msgctxt "3264"
+msgid ""
+"Man, I just knew you two'd get along like peas in a pod!\r\n"
+"Heck, you're practically wearing the same threads, too!"
+msgstr ""
+
+msgctxt "3276"
+msgid "Heh, always the optimist. So, what are we doing here?"
+msgstr ""
+
+msgctxt "3288"
+msgid "The whole place looks kinda..."
+msgstr ""
+
+msgctxt "3312"
+msgid "Empty."
+msgstr ""
+
+msgctxt "3324"
+msgid "Maybe for now! Bring it out, Okuda-san!"
+msgstr ""
+
+msgctxt "3336"
+msgid "Aye aye, Mack!"
+msgstr ""
+
+msgctxt "3348"
+msgid "Training Formation A, move out!"
+msgstr ""
+
+msgctxt "3372"
+msgid "Yes, sir!"
+msgstr ""
+
+msgctxt "3408"
+msgid "So, Kiryu-san? Is it everything you ever hoped and dreamed?"
+msgstr ""
+
+msgctxt "3420"
+msgid "I... don't know what to say. It's incredible."
+msgstr ""
+
+msgctxt "3432"
+msgid ""
+"All for Mack and his perfect shot. My boys have been working\r\n"
+"their routines, trying to get the set-up juuust right."
+msgstr ""
+
+msgctxt "3444"
+msgid "I had no idea you'd be lending a hand with this, too, Kiryu-san."
+msgstr ""
+
+msgctxt "3456"
+msgid ""
+"It hit me like a flash of lightning to the skull when I saw the way you "
+"run, Kiryu-san."
+msgstr ""
+
+msgctxt "3468"
+msgid ""
+"It was like... I dunno why, but it felt like you were gonna\r\n"
+"be my one-way ticket to that perfect shot I've been after."
+msgstr ""
+
+msgctxt "3480"
+msgid ""
+"Sooo you mind running some more? Y'know, get the camera\r\n"
+"juices flowing."
+msgstr ""
+
+msgctxt "3492"
+msgid ""
+"I guess it couldn't hurt. In this town you never know when\r\n"
+"you might need to chase someone down."
+msgstr ""
+
+msgctxt "3504"
+msgid "Am I just gonna be running by myself, though?"
+msgstr ""
+
+msgctxt "3516"
+msgid "There's the ten billion yen question!"
+msgstr ""
+
+msgctxt "3552"
+msgid ""
+"The thick and thin of it is, Kiryu-san, I'm gonna be run run running away, "
+"and I want you to catch catch catch me!"
+msgstr ""
+
+msgctxt "3564"
+msgid "You sure? I'm pretty fast, you know."
+msgstr ""
+
+msgctxt "3576"
+msgid ""
+"Pfft, no problem at all! I used to live out among a herd of\r\n"
+"gazelle on the African plains... and my being here is proof\r\n"
+"enough that I outran every lion I ever came across!"
+msgstr ""
+
+msgctxt "3588"
+msgid "That's... an interesting way to train."
+msgstr ""
+
+msgctxt "3600"
+msgid "Anyway, sure. I'll help you get this perfect shot."
+msgstr ""
+
+msgctxt "3612"
+msgid ""
+"You will!? Thank you! Oh, thank you, Kiryu-san! Just gimme\r\n"
+"a holler when you wanna run!"
+msgstr ""
+
+msgctxt "3624"
+msgid ""
+"If you beat me, I'll teach you some of the most esoteric\r\n"
+"secrets I learned in my world travels!"
+msgstr ""
+
+msgctxt "3636"
+msgid ""
+"Heh, I can't think of a better reward. Looking forward to\r\n"
+"it, Mack."
+msgstr ""
+
+msgctxt "3672"
+msgid "Training A"
+msgstr ""
+
+msgctxt "3684"
+msgid "Training B"
+msgstr ""
+
+msgctxt "3696"
+msgid "Training C"
+msgstr ""
+
+msgctxt "3708"
+msgid "Ultimate Training"
+msgstr ""
+
+msgctxt "3720"
+msgid "View the Rules"
+msgstr ""
+
+msgctxt "3732"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "44208"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "44212"
+msgid "Mack"
+msgstr ""
+
+msgctxt "44216"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "44220"
+msgid "kaiwabgm_happy"
+msgstr ""
+
+msgctxt "44224"
+msgid "P_stand_tlk_udekumi_st"
+msgstr ""
+
+msgctxt "44228"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "44232"
+msgid "???"
+msgstr ""
+
+msgctxt "44236"
+msgid "kaiwabgm_fuonb"
+msgstr ""
+
+msgctxt "44240"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "44244"
+msgid "Michiru"
+msgstr ""
+
+msgctxt "44248"
+msgid "0"
+msgstr ""
+
+msgctxt "44252"
+msgid "00201180_BACK_1.5"
+msgstr ""
+
+msgctxt "44256"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "44260"
+msgid "Talk_Kansin"
+msgstr ""
+
+msgctxt "44264"
+msgid "Talk_Send"
+msgstr ""
+
+msgctxt "44268"
+msgid "ダミー"
+msgstr ""
+
+msgctxt "44272"
+msgid "Okuda"
+msgstr ""
+
+msgctxt "44276"
+msgid "Mack's Training"
+msgstr ""
+
+msgctxt "44280"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "44284"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "44288"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "44292"
+msgid "Majima Construction Employees"
+msgstr ""
+
+msgctxt "44296"
+msgid "Talk_Sorry"
+msgstr ""
+
+msgctxt "44300"
+msgid "Talk_Think"
+msgstr ""

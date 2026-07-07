@@ -1,0 +1,54 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "234\t296"
+msgid "Dinner is served."
+msgstr ""
+
+msgctxt "298\t383"
+msgid "Come sit down, everyone!"
+msgstr ""
+
+msgctxt "653\t744"
+msgid "It's Uncle Rikiya!"
+msgstr ""
+
+msgctxt "836\t898"
+msgid "What happened to eating?"
+msgstr ""
+
+msgctxt "909\t1007"
+msgid "Let's play catch, Uncle Rikiya!"
+msgstr ""
+
+msgctxt "1168\t1206"
+msgid "Aniki."
+msgstr ""
+
+msgctxt "1210\t1309"
+msgid ""
+"What's up?\\n"
+"Did something happen?"
+msgstr ""
+
+msgctxt "1403\t1448"
+msgid "It's the boss."
+msgstr ""
+
+msgctxt "1486\t1529"
+msgid "He..."
+msgstr ""
+
+msgctxt "1577\t1620"
+msgid "He's been shot."
+msgstr ""

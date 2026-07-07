@@ -1,0 +1,246 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid "I'll say this once: stay away from Miyu Shiraboshi."
+msgstr ""
+
+msgctxt "76"
+msgid "Shit... What the hell is this guy...?"
+msgstr ""
+
+msgctxt "172"
+msgid "Mommy... I'm sorry..."
+msgstr ""
+
+msgctxt "184"
+msgid "Thank goodness... Oh, I'm so happy..."
+msgstr ""
+
+msgctxt "196"
+msgid "Did you miss Mommy?"
+msgstr ""
+
+msgctxt "208"
+msgid "Yeah..."
+msgstr ""
+
+msgctxt "220"
+msgid ""
+"Everything's going to be okay now. Mommy will always be\r\n"
+"there for you..."
+msgstr ""
+
+msgctxt "232"
+msgid "...You promise?"
+msgstr ""
+
+msgctxt "244"
+msgid ""
+"I promise! Mommy's not going to work here anymore!\r\n"
+"We're all going back to Shizuoka!"
+msgstr ""
+
+msgctxt "256"
+msgid "Ahhahaha. Yay!"
+msgstr ""
+
+msgctxt "340"
+msgid "Looks like everything's all right now."
+msgstr ""
+
+msgctxt "352"
+msgid ""
+"Yeah... Grandpa and the others will be relieved to know\r\n"
+"he's safe..."
+msgstr ""
+
+msgctxt "364"
+msgid "I'm sure..."
+msgstr ""
+
+msgctxt "376"
+msgid ""
+"I really am sorry about what happened today. We wouldn't\r\n"
+"be here right now if it wasn't for you, Kiryu-san..."
+msgstr ""
+
+msgctxt "388"
+msgid "Don't mention it."
+msgstr ""
+
+msgctxt "400"
+msgid "......"
+msgstr ""
+
+msgctxt "412"
+msgid ""
+"That man in the suit... He was one of my regulars back\r\n"
+"in Shizuoka."
+msgstr ""
+
+msgctxt "424"
+msgid "What?"
+msgstr ""
+
+msgctxt "436"
+msgid "He proposed to me after I got divorced..."
+msgstr ""
+
+msgctxt "448"
+msgid ""
+"But I kept turning him down, telling him I had no intention\r\n"
+"to remarry."
+msgstr ""
+
+msgctxt "460"
+msgid ""
+"It was then he got the idea to get close to Subaru\r\n"
+"so I wouldn't be able to reject him..."
+msgstr ""
+
+msgctxt "472"
+msgid ""
+"He would always hang around near my family's house\r\n"
+"and try to talk to him."
+msgstr ""
+
+msgctxt "484"
+msgid "So that's who that was..."
+msgstr ""
+
+msgctxt "496"
+msgid "Yeah..."
+msgstr ""
+
+msgctxt "508"
+msgid "You don't have to worry anymore."
+msgstr ""
+
+msgctxt "520"
+msgid "Yeah, you're right. Thank you so much."
+msgstr ""
+
+msgctxt "532"
+msgid "...So, are you going back to Shizuoka?"
+msgstr ""
+
+msgctxt "544"
+msgid "Yeah..."
+msgstr ""
+
+msgctxt "556"
+msgid ""
+"All I ever did was think about the future... And it made\r\n"
+"me lose sight of what's right here in front of me."
+msgstr ""
+
+msgctxt "568"
+msgid "......"
+msgstr ""
+
+msgctxt "580"
+msgid "I'm truly glad to have met you, Kiryu-san."
+msgstr ""
+
+msgctxt "592"
+msgid "...Hang in there, Miyu."
+msgstr ""
+
+msgctxt "604"
+msgid ""
+"Hehe. <Color:255,200,200,255>⑮<Color:Default> I'm always so happy when I'm "
+"with you, Kiryu-san. <Color:255,200,200,255>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "616"
+msgid "Heh... I'm glad."
+msgstr ""
+
+msgctxt "628"
+msgid "Before we say goodbye... I'd like to make one last memory..."
+msgstr ""
+
+msgctxt "640"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "652"
+msgid ""
+"I want you to do whatever I tell you... Just for today, okay? "
+"<Color:255,200,200,255>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "6600"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "6604"
+msgid "M_ykzs_damage"
+msgstr ""
+
+msgctxt "6608"
+msgid "Talk_Kamae"
+msgstr ""
+
+msgctxt "6612"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "6616"
+msgid "Suspicious Man"
+msgstr ""
+
+msgctxt "6620"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "6624"
+msgid "Subaru"
+msgstr ""
+
+msgctxt "6628"
+msgid "Talk_Sorry"
+msgstr ""
+
+msgctxt "6632"
+msgid "Miyu"
+msgstr ""
+
+msgctxt "6636"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "6640"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "6644"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "6648"
+msgid "F_sxy_stand"
+msgstr ""
+
+msgctxt "6652"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "6656"
+msgid "F_sxy_stand_sync_dakitukiA_st"
+msgstr ""
+
+msgctxt "6660"
+msgid "P_stand_sync_dakitukiA_st"
+msgstr ""

@@ -1,0 +1,279 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "96"
+msgid ""
+"Sorry I'm not actually wearin' the thing. Pendants aren't really my style, "
+"but I always have it with me in my wallet! Never go anywhere without it."
+msgstr ""
+
+msgctxt "108"
+msgid "I..."
+msgstr ""
+
+msgctxt "120"
+msgid ""
+"C'mon, quit playin' dumb. Tokyo didn't change you that much, did it? Deep "
+"down, we're still just two stupid kids from Okinawa... right?"
+msgstr ""
+
+msgctxt "132"
+msgid "Well, actually... The truth is, I'm Natsumi's sister. My real name is Akiho."
+msgstr ""
+
+msgctxt "144"
+msgid "But I don't remember Natsumi having a sister."
+msgstr ""
+
+msgctxt "156"
+msgid "Shouldn't I have at least heard of you?"
+msgstr ""
+
+msgctxt "168"
+msgid ""
+"Not necessarily. Natsumi and I are a few years apart... and I went to "
+"school on the mainland, so we were kind of distant at the time."
+msgstr ""
+
+msgctxt "180"
+msgid "Well, sure... But she never even mentioned you."
+msgstr ""
+
+msgctxt "192"
+msgid "Really? Natsumi told me all about you, Shimabukuro-san."
+msgstr ""
+
+msgctxt "204"
+msgid "What about that pendant? Why do you have it?"
+msgstr ""
+
+msgctxt "216"
+msgid "Oh, Natsumi gave it to me."
+msgstr ""
+
+msgctxt "228"
+msgid "Huh? She just... gave it away?"
+msgstr ""
+
+msgctxt "240"
+msgid ""
+"People change, Rikiya. You said it's been years since you've seen her, "
+"right?"
+msgstr ""
+
+msgctxt "252"
+msgid ""
+"Maybe... but I hung onto mine all this time, so I always assumed Natsumi "
+"would do the same. Guess I was wrong."
+msgstr ""
+
+msgctxt "264"
+msgid "...Here, I'll walk you two out. Let me get my stuff."
+msgstr ""
+
+msgctxt "288"
+msgid "That was great, Aniki!"
+msgstr ""
+
+msgctxt "300"
+msgid ""
+"But I gotta say, I kinda dig the girls down in Okinawa more. They're "
+"aggressive. Domineering. That's the shit that really gets my gears turnin'."
+msgstr ""
+
+msgctxt "312"
+msgid "What are you talking about? You were practically drooling in there."
+msgstr ""
+
+msgctxt "324"
+msgid ""
+"Hehe, what can I say? I might have my preferences, but I still lose my mind "
+"when there's a hot girl in front of me."
+msgstr ""
+
+msgctxt "336"
+msgid "Good night! See you next week!"
+msgstr ""
+
+msgctxt "348"
+msgid ""
+"Psst, Aniki, that's the dancer! I can smell her perfume from here... God, I "
+"love Tokyo."
+msgstr ""
+
+msgctxt "372"
+msgid ""
+"Hey, sorry if this is kinda weird or whatever, but I loved the show! You "
+"were great out there!"
+msgstr ""
+
+msgctxt "384"
+msgid ""
+"Not surprising, knowin' the town we're in. I bet you could even be on TV if "
+"you wanted!"
+msgstr ""
+
+msgctxt "396"
+msgid ""
+"I really appreciate that.  Maybe you could come see me again if you liked "
+"it that much."
+msgstr ""
+
+msgctxt "408"
+msgid "Oh, where are my manners? My name is Natsumi."
+msgstr ""
+
+msgctxt "420"
+msgid "Natsumi, huh? Pretty name... Wait, don't I know you from somewhere?"
+msgstr ""
+
+msgctxt "432"
+msgid "Natsumi, Natsumi, Natsumi... Oh yeah! Natsumi Uesato! I remember you now!"
+msgstr ""
+
+msgctxt "444"
+msgid ""
+"I'm Rikiya, Rikiya Shimabukuro. That ring a bell? We sat next to each other "
+"in middle school, remember?"
+msgstr ""
+
+msgctxt "456"
+msgid "Wait, you know her?"
+msgstr ""
+
+msgctxt "468"
+msgid ""
+"She's an old friend, yeah! She disappeared after we graduated middle "
+"school, though. It's been, what, nine years now? Man, time flies!"
+msgstr ""
+
+msgctxt "480"
+msgid ""
+"And hey, I know girls're supposed to change as they grow up, but holy shit. "
+"You're freakin' gorgeous now! Who would've thought we'd end up bumpin' into "
+"each other like this all the way up here?"
+msgstr ""
+
+msgctxt "492"
+msgid ""
+"...I'm sorry, but I think you have the wrong person. Natsumi is just my "
+"stage name."
+msgstr ""
+
+msgctxt "504"
+msgid ""
+"Oh... Ouch. Sorry, guess I was getting a tiny bit carried away there. But I "
+"could've sworn I was right..."
+msgstr ""
+
+msgctxt "516"
+msgid ""
+"It's totally fine. Anyway, um... I should be getting ready for my next "
+"dance. Thanks again for stopping by my show."
+msgstr ""
+
+msgctxt "540"
+msgid "So this is how they do it up here... Wild."
+msgstr ""
+
+msgctxt "552"
+msgid "Here, this one's on me. Something to remember Tokyo by."
+msgstr ""
+
+msgctxt "564"
+msgid "Thanks, Aniki."
+msgstr ""
+
+msgctxt "660"
+msgid "Whoa!"
+msgstr ""
+
+msgctxt "684"
+msgid "Ooh, baby!"
+msgstr ""
+
+msgctxt "708"
+msgid "Oh, yeah!"
+msgstr ""
+
+msgctxt "732"
+msgid "Phew, she's smokin'!"
+msgstr ""
+
+msgctxt "9188"
+msgid "Rikiya"
+msgstr ""
+
+msgctxt "9192"
+msgid "Natsumi"
+msgstr ""
+
+msgctxt "9196"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "9200"
+msgid "Akiho"
+msgstr ""
+
+msgctxt "9204"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "9208"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "9212"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "9216"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "9220"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "9224"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "9228"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "9232"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "9236"
+msgid "P_sitchr"
+msgstr ""
+
+msgctxt "9240"
+msgid "Idle"
+msgstr ""
+
+msgctxt "9244"
+msgid "M_ykz_sitchr"
+msgstr ""
+
+msgctxt "9248"
+msgid "Talk_Kansin"
+msgstr ""
+
+msgctxt "9252"
+msgid "Talk_Smile"
+msgstr ""

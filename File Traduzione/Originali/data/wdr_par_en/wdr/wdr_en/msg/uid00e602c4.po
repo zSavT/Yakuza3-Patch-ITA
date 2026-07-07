@@ -1,0 +1,156 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "124"
+msgid "Phew... hah... I must've ditched him by now..."
+msgstr ""
+
+msgctxt "136"
+msgid "(That's the guy who stole my bag.)"
+msgstr ""
+
+msgctxt "148"
+msgid "I gotta get back to the hideout... That guy's probably still out there..."
+msgstr ""
+
+msgctxt "160"
+msgid ""
+"(So he's going back to the hive, is he? Should I catch him now and just get "
+"back what's mine...?)"
+msgstr ""
+
+msgctxt "172"
+msgid "(Or should I let him lead me to the hideout?)"
+msgstr ""
+
+msgctxt "184"
+msgid "It's all over, punk. Give it back."
+msgstr ""
+
+msgctxt "196"
+msgid "How the hell? You tracked me down!?"
+msgstr ""
+
+msgctxt "208"
+msgid "It's payback time."
+msgstr ""
+
+msgctxt "220"
+msgid "Urgh..."
+msgstr ""
+
+msgctxt "232"
+msgid "Now give me back what's mine."
+msgstr ""
+
+msgctxt "244"
+msgid "Okay, okay... Here it is..."
+msgstr ""
+
+msgctxt "268"
+msgid "You reclaimed your <Color:8>Italian Shoulder Bag<Color:Default>."
+msgstr ""
+
+msgctxt "316"
+msgid "You reclaimed your <Color:8>French Handbag<Color:Default>."
+msgstr ""
+
+msgctxt "364"
+msgid "You reclaimed your <Color:8>Monogrammed Bag<Color:Default>."
+msgstr ""
+
+msgctxt "412"
+msgid "You reclaimed your <Color:8>Caviar Skin Bag<Color:Default>."
+msgstr ""
+
+msgctxt "448"
+msgid "(This is it, all right.)"
+msgstr ""
+
+msgctxt "460"
+msgid "And please...! Take this, too! Just don't hurt me!"
+msgstr ""
+
+msgctxt "472"
+msgid "You got <Color:8>10,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "496"
+msgid ""
+"(Apparently they've got a syndicate going, but I got what's mine. Guess "
+"I'll let it slide.)"
+msgstr ""
+
+msgctxt "520"
+msgid "You got 3,000 EXP."
+msgstr ""
+
+msgctxt "532"
+msgid "(I'll let this worker bee show me to the hive.)"
+msgstr ""
+
+msgctxt "580"
+msgid "(There he goes.)"
+msgstr ""
+
+msgctxt "676"
+msgid "(Bingo.)"
+msgstr ""
+
+msgctxt "724"
+msgid "Catch Him"
+msgstr ""
+
+msgctxt "736"
+msgid "Follow Him"
+msgstr ""
+
+msgctxt "5704"
+msgid "Bag Snatcher"
+msgstr ""
+
+msgctxt "5708"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "5712"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "5716"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "5720"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "5724"
+msgid "Talk_Away"
+msgstr ""
+
+msgctxt "5728"
+msgid "Sync_Send"
+msgstr ""
+
+msgctxt "5732"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "5736"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "5740"
+msgid "Idle"
+msgstr ""

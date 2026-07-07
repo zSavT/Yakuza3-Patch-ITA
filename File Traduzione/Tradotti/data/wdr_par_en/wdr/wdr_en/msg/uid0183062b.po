@@ -1,0 +1,322 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "184"
+msgid "Aaagh! Why'd this have to happen to me!?"
+msgstr ""
+
+msgctxt "196"
+msgid "You got yourself into this. Now, get out of here."
+msgstr ""
+
+msgctxt "208"
+msgid "Waaaagh!"
+msgstr ""
+
+msgctxt "328"
+msgid "You really saved my behind. Thank you very much!"
+msgstr ""
+
+msgctxt "340"
+msgid "Yeah."
+msgstr ""
+
+msgctxt "352"
+msgid "Well, if you'll excuse me, I'd better be going."
+msgstr ""
+
+msgctxt "364"
+msgid "Bye!"
+msgstr ""
+
+msgctxt "376"
+msgid "Thanks, Uncle Kaz!"
+msgstr ""
+
+msgctxt "388"
+msgid "(Haruka seems happy...)"
+msgstr ""
+
+msgctxt "436"
+msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
+msgstr ""
+
+msgctxt "448"
+msgid "You got <Color:8>Haruka's Necklace<Color:Default>."
+msgstr ""
+
+msgctxt "496"
+msgid ""
+"Thanks a ton, Uncle Kaz! I wanna come with you to play\r\n"
+"cho-han with you next time, okay?"
+msgstr ""
+
+msgctxt "508"
+msgid ""
+"Haruka will now occasionally predict the outcome of a round\r\n"
+"when you are playing cho-han."
+msgstr ""
+
+msgctxt "544"
+msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
+msgstr ""
+
+msgctxt "556"
+msgid "You got <Color:8>Haruka's Bento<Color:Default>."
+msgstr ""
+
+msgctxt "604"
+msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
+msgstr ""
+
+msgctxt "616"
+msgid "You got <Color:8>Haruka's First-Aid Kit<Color:Default>."
+msgstr ""
+
+msgctxt "664"
+msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
+msgstr ""
+
+msgctxt "676"
+msgid "You got a <Color:8>Red Jewel<Color:Default>."
+msgstr ""
+
+msgctxt "724"
+msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
+msgstr ""
+
+msgctxt "736"
+msgid "You got <Color:8>Haruka's Amulet<Color:Default>."
+msgstr ""
+
+msgctxt "784"
+msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
+msgstr ""
+
+msgctxt "796"
+msgid "You got <Color:8>Haruka's Chocolate<Color:Default>."
+msgstr ""
+
+msgctxt "844"
+msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
+msgstr ""
+
+msgctxt "856"
+msgid "You got <Color:8>Haruka's Candy<Color:Default>."
+msgstr ""
+
+msgctxt "940"
+msgid "Help...!"
+msgstr ""
+
+msgctxt "952"
+msgid "Uncle Kaz...!"
+msgstr ""
+
+msgctxt "964"
+msgid "(Haruka wants me to help...)"
+msgstr ""
+
+msgctxt "976"
+msgid "(This has nothing to do with us.)"
+msgstr ""
+
+msgctxt "988"
+msgid "Let's go, Haruka."
+msgstr ""
+
+msgctxt "1000"
+msgid "Uncle Kaz..."
+msgstr ""
+
+msgctxt "1060"
+msgid "Leave this to me."
+msgstr ""
+
+msgctxt "1072"
+msgid "Yeah..."
+msgstr ""
+
+msgctxt "1084"
+msgid "Hey."
+msgstr ""
+
+msgctxt "1096"
+msgid "Huh? Who are you? My mother told me not to talk to strange men. Get lost!"
+msgstr ""
+
+msgctxt "1108"
+msgid "I guess she didn't teach you to respect women... You're pathetic."
+msgstr ""
+
+msgctxt "1120"
+msgid "What!?"
+msgstr ""
+
+msgctxt "1132"
+msgid "You're just showing off in front of the girl... I'll make you cry!"
+msgstr ""
+
+msgctxt "1156"
+msgid "Uncle Kaz! Look!"
+msgstr ""
+
+msgctxt "1168"
+msgid "Hey, baby. Let's go out. You don't have anything better to do, right?"
+msgstr ""
+
+msgctxt "1180"
+msgid "No, thank you."
+msgstr ""
+
+msgctxt "1192"
+msgid "What!? You stuck-up bitch!"
+msgstr ""
+
+msgctxt "1204"
+msgid "Help...!"
+msgstr ""
+
+msgctxt "1216"
+msgid "Uncle Kaz...!"
+msgstr ""
+
+msgctxt "1228"
+msgid "(Haruka wants me to help...)"
+msgstr ""
+
+msgctxt "1240"
+msgid "(This has nothing to do with us.)"
+msgstr ""
+
+msgctxt "1252"
+msgid "Let's go, Haruka."
+msgstr ""
+
+msgctxt "1264"
+msgid "Uncle Kaz..."
+msgstr ""
+
+msgctxt "1324"
+msgid "Leave this to me."
+msgstr ""
+
+msgctxt "1336"
+msgid "Yeah..."
+msgstr ""
+
+msgctxt "1348"
+msgid "Hey."
+msgstr ""
+
+msgctxt "1360"
+msgid "Huh? Who are you? My mother told me not to talk to strange men. Get lost!"
+msgstr ""
+
+msgctxt "1372"
+msgid "I guess she didn't teach you to respect women... You're pathetic."
+msgstr ""
+
+msgctxt "1384"
+msgid "What!?"
+msgstr ""
+
+msgctxt "1396"
+msgid ""
+"You're just showing off in front of the girl! Well, I'll show her what "
+"you're really made of!"
+msgstr ""
+
+msgctxt "1420"
+msgid "Help Them"
+msgstr ""
+
+msgctxt "1432"
+msgid "Stay Out Of It"
+msgstr ""
+
+msgctxt "1444"
+msgid "Help Them"
+msgstr ""
+
+msgctxt "1456"
+msgid "Stay Out Of It"
+msgstr ""
+
+msgctxt "12156"
+msgid "Spoiled Youth"
+msgstr ""
+
+msgctxt "12160"
+msgid "M_ykz_damage"
+msgstr ""
+
+msgctxt "12164"
+msgid "M_ykzs_damage"
+msgstr ""
+
+msgctxt "12168"
+msgid "M_big_damage"
+msgstr ""
+
+msgctxt "12172"
+msgid "Idle"
+msgstr ""
+
+msgctxt "12176"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "12180"
+msgid "Student"
+msgstr ""
+
+msgctxt "12184"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "12188"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "12192"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "12196"
+msgid "dummy"
+msgstr ""
+
+msgctxt "12200"
+msgid "0"
+msgstr ""
+
+msgctxt "12204"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "12208"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "12212"
+msgid "Talk_Chohatu"
+msgstr ""
+
+msgctxt "12216"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "12220"
+msgid "Talk_Call"
+msgstr ""

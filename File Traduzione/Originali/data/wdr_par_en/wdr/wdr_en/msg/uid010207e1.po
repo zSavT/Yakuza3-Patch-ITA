@@ -1,0 +1,175 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "80"
+msgid "Guh... How the hell did you...?"
+msgstr ""
+
+msgctxt "92"
+msgid "Keep your filthy hands off Stardust from now on. Permanently."
+msgstr ""
+
+msgctxt "104"
+msgid "Yes... Understood..."
+msgstr ""
+
+msgctxt "116"
+msgid "You all right, Kazuki-san?"
+msgstr ""
+
+msgctxt "128"
+msgid "Why'd you run off by yourself like that?"
+msgstr ""
+
+msgctxt "140"
+msgid ""
+"I couldn't forgive myself for doubting you, so I just snapped and... Well, "
+"there you have it."
+msgstr ""
+
+msgctxt "152"
+msgid "Kazuki-san..."
+msgstr ""
+
+msgctxt "164"
+msgid "I don't know what's wrong with me..."
+msgstr ""
+
+msgctxt "176"
+msgid ""
+"I always lecture the staff like I have all the answers, but where would I "
+"be without you guys?"
+msgstr ""
+
+msgctxt "188"
+msgid "I know we gotta stick together. And that's why I'm still here."
+msgstr ""
+
+msgctxt "200"
+msgid ""
+"Looks like you were both trying to do what's best for Stardust, each in "
+"your own way."
+msgstr ""
+
+msgctxt "212"
+msgid "I'm sorry we got you sucked into this thing, Kiryu-san."
+msgstr ""
+
+msgctxt "224"
+msgid "Well, where's a guy supposed to relax in this town if Stardust is gone?"
+msgstr ""
+
+msgctxt "236"
+msgid "Haha, well you'll always be welcome."
+msgstr ""
+
+msgctxt "248"
+msgid ""
+"Oh, and I want you to have this. It's not much, but I hope you'll accept it "
+"for all you've done for us."
+msgstr ""
+
+msgctxt "260"
+msgid "You got <Color:8>100,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "284"
+msgid ""
+"Well, now that that's taken care of, what do you say we head back to the "
+"club!"
+msgstr ""
+
+msgctxt "308"
+msgid "You got 8,000 EXP."
+msgstr ""
+
+msgctxt "332"
+msgid "Kazuki-san!"
+msgstr ""
+
+msgctxt "344"
+msgid "Yuya... I'm... sorry I ever doubted you..."
+msgstr ""
+
+msgctxt "356"
+msgid ""
+"Don't worry about that, Kazuki-san. I mean, I'm the one who should've had "
+"more faith..."
+msgstr ""
+
+msgctxt "368"
+msgid ""
+"It's a shame Eiji couldn't do his job... But since you were all nice enough "
+"to come here to get knocked off, the takeover should still proceed as "
+"scheduled."
+msgstr ""
+
+msgctxt "380"
+msgid "So tell me. Would you like your corpses dumped in the sea..."
+msgstr ""
+
+msgctxt "392"
+msgid "...Or up in the fuckin' mountains!?"
+msgstr ""
+
+msgctxt "5156"
+msgid "Kyogoku"
+msgstr ""
+
+msgctxt "5160"
+msgid "Yuya"
+msgstr ""
+
+msgctxt "5164"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "5168"
+msgid "kaiwabgm_loneliness"
+msgstr ""
+
+msgctxt "5172"
+msgid "M_nml_stand_tlk_kamae"
+msgstr ""
+
+msgctxt "5176"
+msgid "M_nml_stand"
+msgstr ""
+
+msgctxt "5180"
+msgid "Kazuki"
+msgstr ""
+
+msgctxt "5184"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "5188"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "5192"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "5196"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "5200"
+msgid "Sync_Send"
+msgstr ""
+
+msgctxt "5204"
+msgid "SetM_nml_cheer_stand_jump"
+msgstr ""

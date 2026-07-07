@@ -1,0 +1,128 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "308"
+msgid "I'm so excited to be doing karaoke with you! Now, what song should we sing?"
+msgstr ""
+
+msgctxt "320"
+msgid "Ooh, I like this song here. The lyrics are really great!"
+msgstr ""
+
+msgctxt "332"
+msgid "\"I Wanna Change Myself,\" huh?"
+msgstr ""
+
+msgctxt "344"
+msgid "Ooh, let's look at the rankings!"
+msgstr ""
+
+msgctxt "368"
+msgid "We're leaving already? Okay..."
+msgstr ""
+
+msgctxt "380"
+msgid "I hope I did okay."
+msgstr ""
+
+msgctxt "392"
+msgid "C'mon, you sing, too!"
+msgstr ""
+
+msgctxt "404"
+msgid "Hooray!"
+msgstr ""
+
+msgctxt "416"
+msgid "Oh..."
+msgstr ""
+
+msgctxt "428"
+msgid "Hmph! You made it sooo hard to sing!"
+msgstr ""
+
+msgctxt "440"
+msgid "You did a good job, Uncle Kaz!"
+msgstr ""
+
+msgctxt "452"
+msgid "Heh. Thanks."
+msgstr ""
+
+msgctxt "464"
+msgid "Uncle Kaz... That was, um..."
+msgstr ""
+
+msgctxt "476"
+msgid "Hey, I'm not usually this bad..."
+msgstr ""
+
+msgctxt "488"
+msgid "That was amazing!"
+msgstr ""
+
+msgctxt "500"
+msgid "C'mon, you sing, too!"
+msgstr ""
+
+msgctxt "512"
+msgid "Hooray!"
+msgstr ""
+
+msgctxt "524"
+msgid "Oh..."
+msgstr ""
+
+msgctxt "536"
+msgid "Wow! You're really cool, Uncle Kaz!"
+msgstr ""
+
+msgctxt "548"
+msgid "Heh. Not bad, huh?"
+msgstr ""
+
+msgctxt "560"
+msgid "Sing Karaoke"
+msgstr ""
+
+msgctxt "572"
+msgid "View Rankings"
+msgstr ""
+
+msgctxt "584"
+msgid "How to Play"
+msgstr ""
+
+msgctxt "596"
+msgid "Sing"
+msgstr ""
+
+msgctxt "608"
+msgid "Don't Sing"
+msgstr ""
+
+msgctxt "620"
+msgid "Sing"
+msgstr ""
+
+msgctxt "632"
+msgid "Don't Sing"
+msgstr ""
+
+msgctxt "3648"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "3652"
+msgid "Kiryu"
+msgstr ""

@@ -1,0 +1,213 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "192"
+msgid ""
+"Oh, you're the man from before. It looks like you're getting\r\n"
+"pretty friendly with that beautiful brunette, wink wink!"
+msgstr ""
+
+msgctxt "204"
+msgid "You've been watching us?"
+msgstr ""
+
+msgctxt "216"
+msgid ""
+"That's not what's important. What really matters is your\r\n"
+"heart... Listen, you'd like to be more intimate with a female\r\n"
+"companion in more ways than one, right?"
+msgstr ""
+
+msgctxt "228"
+msgid ""
+"So... Why don't you buy our Love Handbook right now for\r\n"
+"55,000 yen?"
+msgstr ""
+
+msgctxt "240"
+msgid ""
+"I'm pretty sure the title says it all, if you know what I mean! So? Will "
+"you take the plunge and witness your love life changed forever? Or are you "
+"fine being bone dry?"
+msgstr ""
+
+msgctxt "252"
+msgid ""
+"No thanks. I'm not really interested in learning any more\r\n"
+"English."
+msgstr ""
+
+msgctxt "264"
+msgid ""
+"Are you sure? After all the trouble you went through to get to know her... "
+"Wouldn't that be a waste?"
+msgstr ""
+
+msgctxt "276"
+msgid "Well, come back anytime if you decide to change your mind!"
+msgstr ""
+
+msgctxt "300"
+msgid "55,000 yen... It should be all there."
+msgstr ""
+
+msgctxt "312"
+msgid ""
+"Mm, nice and crisp. Well, here's your Love Handbook. It's\r\n"
+"practically a conversational Kama Sutra!"
+msgstr ""
+
+msgctxt "324"
+msgid "You paid <Color:8>55,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "336"
+msgid "You got an <Color:8>English Textbook on Dating<Color:Default>."
+msgstr ""
+
+msgctxt "360"
+msgid "(Whew, okay. Here it is... \"Conversing in the Bedroom.\")"
+msgstr ""
+
+msgctxt "372"
+msgid ""
+"Ｗｈｙ　ｄｏｎ'ｔ　ｙｏｕ　ｃｏｍｅ　ｔｏ\r\n"
+" ｍｙ　ｒｏｏｍ？"
+msgstr ""
+
+msgctxt "384"
+msgid ""
+"Ｌｅｔ'ｓ　ｍａｋｅ　ｓｗｅｅｔ，\r\n"
+" ｐａｓｓｉｏｎａｔｅ　ｌｏｖｅ．"
+msgstr ""
+
+msgctxt "396"
+msgid ""
+"Now before you get too excited, remember... Whether she gives\r\n"
+"you a ｙｅｓ or a ｎｏ depends on how smooth you are. Hehe!"
+msgstr ""
+
+msgctxt "408"
+msgid ""
+"Our English handbooks give you exactly what you need to know\r\n"
+"so you can be the lover you're truly meant to be!"
+msgstr ""
+
+msgctxt "420"
+msgid ""
+"Now I hope you enjoy the course, and, as we say in English...\r\n"
+"Ｈａｖｅ　ａ　ｎｉｃｅ　ｄａｙ！"
+msgstr ""
+
+msgctxt "468"
+msgid "Uh-oh. Looks like I don't have enough."
+msgstr ""
+
+msgctxt "480"
+msgid ""
+"Oh, that's okay. I'll save a copy for you, so please come\r\n"
+"and find me when you have a little more to spend."
+msgstr ""
+
+msgctxt "492"
+msgid ""
+"Oh, you're the man from before. Have you changed your mind?\r\n"
+"Do you feel like learning English now?"
+msgstr ""
+
+msgctxt "504"
+msgid ""
+"You can buy the steamiest, the sultriest, the hottest edition\r\n"
+"of romantic English grammar for the generous price of only\r\n"
+"55,000 yen! Hurry, these Love Handbooks are selling out fast!"
+msgstr ""
+
+msgctxt "516"
+msgid "Buy the Love Handbook"
+msgstr ""
+
+msgctxt "528"
+msgid "Don't Buy the Handbook"
+msgstr ""
+
+msgctxt "540"
+msgid "Buy the Love Handbook"
+msgstr ""
+
+msgctxt "552"
+msgid "Don't Buy the Handbook"
+msgstr ""
+
+msgctxt "5620"
+msgid "English School Promoter"
+msgstr ""
+
+msgctxt "5624"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "5628"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "5632"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "5636"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "5640"
+msgid "Talk_Chohatu"
+msgstr ""
+
+msgctxt "5644"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "5648"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "5652"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "5656"
+msgid "Sync_Send"
+msgstr ""
+
+msgctxt "5660"
+msgid "P_stand_tlk_kamae_paper02"
+msgstr ""
+
+msgctxt "5664"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "5668"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "5672"
+msgid "dummy"
+msgstr ""
+
+msgctxt "5676"
+msgid "0"
+msgstr ""
+
+msgctxt "5680"
+msgid "Talk_Call"
+msgstr ""

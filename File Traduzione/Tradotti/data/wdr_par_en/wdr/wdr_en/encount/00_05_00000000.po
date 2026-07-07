@@ -1,0 +1,60 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "124"
+msgid ""
+"You look like you're havin' fun, old man. Feelin' a little drunk, huh? I "
+"could use a good drink myself."
+msgstr ""
+
+msgctxt "136"
+msgid "You wanna cover my tab? I won't take no for an answer!"
+msgstr ""
+
+msgctxt "160"
+msgid ""
+"Are you even drunk, man? Oh, our tab? No, don't worry about that! Really, "
+"it's fine! Just leave us alone!"
+msgstr ""
+
+msgctxt "172"
+msgid "If I give you this, will you go away?"
+msgstr ""
+
+msgctxt "184"
+msgid "You got a clean %s."
+msgstr ""
+
+msgctxt "220"
+msgid "You sure hold your booze well..."
+msgstr ""
+
+msgctxt "1452"
+msgid "Angry Punk"
+msgstr ""
+
+msgctxt "1456"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "1460"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "1464"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "1468"
+msgid "Sync_Send"
+msgstr ""

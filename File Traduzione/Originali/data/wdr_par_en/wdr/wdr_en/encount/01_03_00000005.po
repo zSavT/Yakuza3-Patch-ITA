@@ -1,0 +1,56 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "96"
+msgid "Hey, buddy. You forget something?"
+msgstr ""
+
+msgctxt "108"
+msgid "You remember yet? Yeah, that's right. You forgot to show me some respect!"
+msgstr ""
+
+msgctxt "132"
+msgid "I'm sorry! I was the one who forgot to show respect!"
+msgstr ""
+
+msgctxt "144"
+msgid "I don't know if this'll make up for it, but here, this is the best I can do."
+msgstr ""
+
+msgctxt "156"
+msgid "You got a good %s."
+msgstr ""
+
+msgctxt "192"
+msgid "Sorry to bother you!"
+msgstr ""
+
+msgctxt "1204"
+msgid "Disgruntled Yakuza"
+msgstr ""
+
+msgctxt "1208"
+msgid "P_stand_sync_btl_neck_st"
+msgstr ""
+
+msgctxt "1212"
+msgid "M_ykz_stand_sync_btl_neck_st"
+msgstr ""
+
+msgctxt "1216"
+msgid "Talk_Sorry"
+msgstr ""
+
+msgctxt "1220"
+msgid "Sync_Send"
+msgstr ""

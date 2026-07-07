@@ -1,0 +1,399 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "96"
+msgid "Urgh... No more..."
+msgstr ""
+
+msgctxt "108"
+msgid ""
+"What, already? Guess the Nishikiyama Family crest is too\r\n"
+"heavy for you after all."
+msgstr ""
+
+msgctxt "120"
+msgid "Hrgh..."
+msgstr ""
+
+msgctxt "132"
+msgid ""
+"The hell were you thinkin' trying to kidnap this girl!? What\r\n"
+"happened to yakuza having pride, huh!?"
+msgstr ""
+
+msgctxt "144"
+msgid ""
+"Look, it's not what you're thinking! Our boss just sent us\r\n"
+"out on the prowl for the biggest girl we could find, and⑬"
+msgstr ""
+
+msgctxt "156"
+msgid "Whaddya mean \"big\"? This girl's tiny..."
+msgstr ""
+
+msgctxt "168"
+msgid "That aside, what was Kanda planning to do to her?"
+msgstr ""
+
+msgctxt "180"
+msgid "Well, uh... He needed the girl for his hobby."
+msgstr ""
+
+msgctxt "192"
+msgid ""
+"You callin' sexual assault a hobby!? The fuck is wrong with\r\n"
+"you!?"
+msgstr ""
+
+msgctxt "204"
+msgid "Please, just hear me out!"
+msgstr ""
+
+msgctxt "216"
+msgid ""
+"The boss's got this weird fetish, see... He has us drag\r\n"
+"girls back to the office so he can massage them! It's\r\n"
+"nothing more than that, I promise!"
+msgstr ""
+
+msgctxt "228"
+msgid "Is this some kinda joke?"
+msgstr ""
+
+msgctxt "240"
+msgid ""
+"No, I'm totally for real! The boss loves nothing more than\r\n"
+"massaging a nice, big woman! The thicker, the better!"
+msgstr ""
+
+msgctxt "252"
+msgid "You believin' this garbage, Aniki?"
+msgstr ""
+
+msgctxt "264"
+msgid "What does Kanda get out of all that?"
+msgstr ""
+
+msgctxt "276"
+msgid ""
+"I dunno, aroused? I get kinda sick if I dwell on it too much,\r\n"
+"but I bet he loves hearing 'em moan while he does it."
+msgstr ""
+
+msgctxt "288"
+msgid ""
+"Our only job is finding girls big enough to handle his\r\n"
+"massive, meaty hands."
+msgstr ""
+
+msgctxt "300"
+msgid "And that's why you were trying to kidnap her?"
+msgstr ""
+
+msgctxt "312"
+msgid ""
+"Yeah, that's it! I swear! Nothing assault-y about it,\r\n"
+"promise!"
+msgstr ""
+
+msgctxt "324"
+msgid ""
+"You realize that's still assault, right? Anyway, whaddya\r\n"
+"think, Aniki? Should we believe him?"
+msgstr ""
+
+msgctxt "336"
+msgid ""
+"Hard to say... but I doubt anyone would make up such an\r\n"
+"embarrassing story. Especially about their own boss."
+msgstr ""
+
+msgctxt "348"
+msgid ""
+"We're just following orders, honest. Truth is, just thinking\r\n"
+"of the boss and his hobby makes me wanna hurl to high\r\n"
+"heavens, but if he says we get a girl, we get a girl."
+msgstr ""
+
+msgctxt "360"
+msgid "...All right. We'll let you go this time."
+msgstr ""
+
+msgctxt "372"
+msgid "Whoa, you mean it!?"
+msgstr ""
+
+msgctxt "384"
+msgid "Under one condition. Tell us where Kanda is."
+msgstr ""
+
+msgctxt "396"
+msgid "What're you gonna do to him?"
+msgstr ""
+
+msgctxt "408"
+msgid "That's none of your business."
+msgstr ""
+
+msgctxt "420"
+msgid "Urgh..."
+msgstr ""
+
+msgctxt "432"
+msgid "Now come on. We're in a hurry here."
+msgstr ""
+
+msgctxt "444"
+msgid ""
+"All right, all right. He's in the Hotel District, little\r\n"
+"place called the Red Brick."
+msgstr ""
+
+msgctxt "456"
+msgid "...Right."
+msgstr ""
+
+msgctxt "468"
+msgid ""
+"So if I'm gettin' this right, he asked you to haul a girl\r\n"
+"over to this love hotel so he could... massage her?"
+msgstr ""
+
+msgctxt "480"
+msgid ""
+"That's about the thick of it. Sounded like the boss was real\r\n"
+"happy 'bout something, too. Guess things're going good."
+msgstr ""
+
+msgctxt "492"
+msgid ""
+"That's why he's going all out today for a hotel room\r\n"
+"instead of just bringing 'em to the office like normal."
+msgstr ""
+
+msgctxt "504"
+msgid "...What room is he in?"
+msgstr ""
+
+msgctxt "516"
+msgid "It's, uh... 403."
+msgstr ""
+
+msgctxt "528"
+msgid ""
+"Got it, room 403 at the Red Brick Hotel. And you're sure\r\n"
+"that's right?"
+msgstr ""
+
+msgctxt "540"
+msgid "Yup."
+msgstr ""
+
+msgctxt "552"
+msgid "Then go. We're done with you."
+msgstr ""
+
+msgctxt "612"
+msgid "Hey, you okay?"
+msgstr ""
+
+msgctxt "624"
+msgid "I think so, thanks."
+msgstr ""
+
+msgctxt "636"
+msgid ""
+"If you hadn't come when you did, I would have been in for\r\n"
+"a pretty rough massage..."
+msgstr ""
+
+msgctxt "648"
+msgid ""
+"Though you know, my shoulders have actually been kinda sore\r\n"
+"lately. Maybe I should've gone with them, hehe!"
+msgstr ""
+
+msgctxt "660"
+msgid "Uh..."
+msgstr ""
+
+msgctxt "672"
+msgid ""
+"Anyway, thanks. I really appreciate you stepping in when\r\n"
+"you did."
+msgstr ""
+
+msgctxt "684"
+msgid "Nah, it was nothin'. Any guy would've done the same."
+msgstr ""
+
+msgctxt "696"
+msgid ""
+"I'm not so sure about that. By the way, um... could I have\r\n"
+"your contact info? I was thinking maybe I could pay you back later, if "
+"that's all right."
+msgstr ""
+
+msgctxt "708"
+msgid ""
+"Oh, uh! You don't gotta do that, ma'am! Be glad to give you\r\n"
+"my name, though⑬it's Rikiya."
+msgstr ""
+
+msgctxt "720"
+msgid "We need to get moving here."
+msgstr ""
+
+msgctxt "732"
+msgid "Hey, wait a sec, Aniki!"
+msgstr ""
+
+msgctxt "744"
+msgid "Sorry, guess I gotta run. Keep yourself safe, ya hear?"
+msgstr ""
+
+msgctxt "756"
+msgid "Anikiii! Wait up!"
+msgstr ""
+
+msgctxt "792"
+msgid "...So you're Nishikiyama Family, huh?"
+msgstr ""
+
+msgctxt "804"
+msgid ""
+"Heh, damn right we are! Well? Those big britches of yours feelin' a little "
+"tighter now?"
+msgstr ""
+
+msgctxt "816"
+msgid "...Not exactly. You guys are just small-time street thugs."
+msgstr ""
+
+msgctxt "828"
+msgid "We're what!?"
+msgstr ""
+
+msgctxt "840"
+msgid "Nice work, Rikiya."
+msgstr ""
+
+msgctxt "852"
+msgid "Uh... Whaddya mean, Aniki?"
+msgstr ""
+
+msgctxt "864"
+msgid "These are just the guys I was looking for."
+msgstr ""
+
+msgctxt "876"
+msgid "What're you two babblin' about over there, huh!?"
+msgstr ""
+
+msgctxt "888"
+msgid ""
+"I'll explain later, Rikiya. There's a fly buzzing in my ear\r\n"
+"that I'd really like to swat."
+msgstr ""
+
+msgctxt "900"
+msgid ""
+"Lemme help, at least! I'm the one they were messin' with in\r\n"
+"the first place, y'know."
+msgstr ""
+
+msgctxt "912"
+msgid "Fine by me. The more the merrier."
+msgstr ""
+
+msgctxt "924"
+msgid "You think you're hot shit, scumball!?"
+msgstr ""
+
+msgctxt "936"
+msgid "Hmph. You bottom-rungers never change, do you?"
+msgstr ""
+
+msgctxt "948"
+msgid "What was that!?"
+msgstr ""
+
+msgctxt "960"
+msgid ""
+"All you do is hide behind your family crest like it's some\r\n"
+"kind of shield. But it's not. You're not tough. You're small."
+msgstr ""
+
+msgctxt "972"
+msgid "Oh yeah!? I'm bigger than you, fuckface!"
+msgstr ""
+
+msgctxt "984"
+msgid "Then prove it."
+msgstr ""
+
+msgctxt "12932"
+msgid "Nishino"
+msgstr ""
+
+msgctxt "12936"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "12940"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "12944"
+msgid "Rikiya"
+msgstr ""
+
+msgctxt "12948"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "12952"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "12956"
+msgid "Woman"
+msgstr ""
+
+msgctxt "12960"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "12964"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "12968"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "12972"
+msgid "0"
+msgstr ""
+
+msgctxt "12976"
+msgid "Talk_SmileBig_st"
+msgstr ""
+
+msgctxt "12980"
+msgid "Talk_SmileBig_ed"
+msgstr ""
+
+msgctxt "12984"
+msgid "Talk_Odosu"
+msgstr ""

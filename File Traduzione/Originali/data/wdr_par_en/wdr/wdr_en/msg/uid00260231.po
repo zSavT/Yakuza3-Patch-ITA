@@ -1,0 +1,222 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "80"
+msgid "I never thought I'd live to see the day my Masahiko treated me to a meal!"
+msgstr ""
+
+msgctxt "92"
+msgid ""
+"What are you talking about, Granny? This won't be the last time the grub'll "
+"be on me!"
+msgstr ""
+
+msgctxt "104"
+msgid "I'll go pay. You two wait here."
+msgstr ""
+
+msgctxt "164"
+msgid ""
+"Thanks so much for today. It was so nice of you to play along with "
+"Masahiko's little white lie."
+msgstr ""
+
+msgctxt "176"
+msgid "Huh...?"
+msgstr ""
+
+msgctxt "188"
+msgid "Oh, I know, all right. I know he was lying to me."
+msgstr ""
+
+msgctxt "200"
+msgid ""
+"But he's trying so darn hard to please me, it's hard for me to be mad at "
+"him."
+msgstr ""
+
+msgctxt "212"
+msgid "Sorry. Guess I blew it."
+msgstr ""
+
+msgctxt "224"
+msgid ""
+"Here, take this souvenir from my hometown. It's a small gesture of thanks "
+"from an old woman."
+msgstr ""
+
+msgctxt "236"
+msgid "You got a <Color:8>Sushi Set<Color:Default>."
+msgstr ""
+
+msgctxt "272"
+msgid ""
+"This is yours, too. You covered Masahiko's debt, didn't you? Thank you for "
+"that. I've added a little⑬for your trouble."
+msgstr ""
+
+msgctxt "284"
+msgid "You got <Color:8>110,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "308"
+msgid "Well, the bill's all paid. Shall we move on to our next destination?"
+msgstr ""
+
+msgctxt "320"
+msgid ""
+"Sir, I have some work to attend to. You and your grandmother will have to "
+"go on without me."
+msgstr ""
+
+msgctxt "332"
+msgid "Huh...? But..."
+msgstr ""
+
+msgctxt "440"
+msgid "(You be the best grandson you can be. Got it?)"
+msgstr ""
+
+msgctxt "452"
+msgid "(Yes, sir...)"
+msgstr ""
+
+msgctxt "476"
+msgid "I never thought I'd live to see the day my Masahiko treated me to a meal!"
+msgstr ""
+
+msgctxt "488"
+msgid ""
+"What are you talking about, Granny? This won't be the last time the grub'll "
+"be on me!"
+msgstr ""
+
+msgctxt "500"
+msgid "But, you know... it's not nice to lie."
+msgstr ""
+
+msgctxt "512"
+msgid "Huh!?"
+msgstr ""
+
+msgctxt "524"
+msgid "I've known all along you were no company president."
+msgstr ""
+
+msgctxt "536"
+msgid ""
+"And you had to go and bring this nice Kiryu-san into it, too. He probably "
+"cried until you gave in, right? He's always done that."
+msgstr ""
+
+msgctxt "548"
+msgid "No..."
+msgstr ""
+
+msgctxt "560"
+msgid ""
+"You don't have to be a big shot CEO for me, Masahiko. Just live an honest "
+"life, and a happy one. That's good enough for your old granny."
+msgstr ""
+
+msgctxt "572"
+msgid "Granny... I..."
+msgstr ""
+
+msgctxt "584"
+msgid "I think my job is done here."
+msgstr ""
+
+msgctxt "596"
+msgid "Kiryu-san... Thank you for helping me today."
+msgstr ""
+
+msgctxt "608"
+msgid ""
+"I really did enjoy myself. Here. Won't you take this? It's a souvenir from "
+"my hometown."
+msgstr ""
+
+msgctxt "620"
+msgid "You got a <Color:8>Sushi Set<Color:Default>."
+msgstr ""
+
+msgctxt "656"
+msgid ""
+"This is yours, too. You covered Masahiko's debt, didn't you? Thank you for "
+"that. I've added a little⑬for your trouble."
+msgstr ""
+
+msgctxt "668"
+msgid "You got <Color:8>110,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "680"
+msgid "You be the best grandson you can be. Got it?"
+msgstr ""
+
+msgctxt "7664"
+msgid "Shizu"
+msgstr ""
+
+msgctxt "7668"
+msgid "P_sitchr"
+msgstr ""
+
+msgctxt "7672"
+msgid "Talk_Cry"
+msgstr ""
+
+msgctxt "7676"
+msgid "Masahiko"
+msgstr ""
+
+msgctxt "7680"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "7684"
+msgid "Talk_Info_R"
+msgstr ""
+
+msgctxt "7688"
+msgid "M_ykz_stand_tlk_kamae"
+msgstr ""
+
+msgctxt "7692"
+msgid "M_ykz_stand"
+msgstr ""
+
+msgctxt "7696"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "7700"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "7704"
+msgid "P_stand_tlk_kamae"
+msgstr ""
+
+msgctxt "7708"
+msgid "P_stand"
+msgstr ""
+
+msgctxt "7712"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "7716"
+msgid "Talk_Ase"
+msgstr ""

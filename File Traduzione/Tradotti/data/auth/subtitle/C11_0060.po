@@ -1,0 +1,168 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "118\t178"
+msgid "Hello?"
+msgstr ""
+
+msgctxt "218\t288"
+msgid "You mean it!?"
+msgstr ""
+
+msgctxt "289\t349"
+msgid "Yeah, uh-huh."
+msgstr ""
+
+msgctxt "404\t470"
+msgid "Right. I see!"
+msgstr ""
+
+msgctxt "496\t559"
+msgid "Thanks a bunch!"
+msgstr ""
+
+msgctxt "583\t643"
+msgid "Later."
+msgstr ""
+
+msgctxt "772\t824"
+msgid "It's Mikio."
+msgstr ""
+
+msgctxt "825\t898"
+msgid "He's gonna pull through."
+msgstr ""
+
+msgctxt "913\t973"
+msgid "That's incredible."
+msgstr ""
+
+msgctxt "1059\t1138"
+msgid "What a relief!"
+msgstr ""
+
+msgctxt "1419\t1533"
+msgid "Well. It's about time I get going."
+msgstr ""
+
+msgctxt "1534\t1578"
+msgid "To bring the boss home?"
+msgstr ""
+
+msgctxt "1579\t1623"
+msgid "Yeah."
+msgstr ""
+
+msgctxt "1624\t1794"
+msgid ""
+"They'll be at the bullring\\n"
+"right outside downtown Ryukyu, right?"
+msgstr ""
+
+msgctxt "1795\t1972"
+msgid ""
+"Yup. Tamashiro's been usin' it\\n"
+"as a hideout for a year or so now."
+msgstr ""
+
+msgctxt "1991\t2051"
+msgid "Got it."
+msgstr ""
+
+msgctxt "2082\t2210"
+msgid "Aniki. I'm coming with. Please."
+msgstr ""
+
+msgctxt "2211\t2271"
+msgid "No."
+msgstr ""
+
+msgctxt "2293\t2413"
+msgid ""
+"You've been shot.\\n"
+"You need to see a doctor."
+msgstr ""
+
+msgctxt "2414\t2452"
+msgid "But Aniki!"
+msgstr ""
+
+msgctxt "2453\t2522"
+msgid "I said no!"
+msgstr ""
+
+msgctxt "2538\t2675"
+msgid ""
+"If you come with me now,\\n"
+"you'll die a pointless death."
+msgstr ""
+
+msgctxt "2700\t2733"
+msgid "Aniki..."
+msgstr ""
+
+msgctxt "2734\t2822"
+msgid "This isn't like when you followed me to Kamurocho."
+msgstr ""
+
+msgctxt "2824\t2913"
+msgid "This time, I have to go alone."
+msgstr ""
+
+msgctxt "2914\t3025"
+msgid "But I'm the captain of the Ryudo Family!"
+msgstr ""
+
+msgctxt "3026\t3186"
+msgid ""
+"My patriarch's been taken, my pride broken...\\n"
+"And you want me to just do nothing!?"
+msgstr ""
+
+msgctxt "3190\t3312"
+msgid "Please. I need this."
+msgstr ""
+
+msgctxt "3313\t3397"
+msgid "I need to prove to myself I'm a real man!"
+msgstr ""
+
+msgctxt "3434\t3540"
+msgid "I get what you're going through, but..."
+msgstr ""
+
+msgctxt "3550\t3610"
+msgid "Now's not the time for that."
+msgstr ""
+
+msgctxt "3670\t3863"
+msgid ""
+"Throwing your life away for no reason\\n"
+"won't make you a man."
+msgstr ""
+
+msgctxt "3864\t4006"
+msgid ""
+"Just wait, Rikiya.\\n"
+"Your time will come, I promise."
+msgstr ""
+
+msgctxt "4013\t4172"
+msgid ""
+"And when it does,\\n"
+"you can go out guns blazing."
+msgstr ""
+
+msgctxt "4268\t4376"
+msgid "For now... just trust me."
+msgstr ""

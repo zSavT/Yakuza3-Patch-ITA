@@ -1,0 +1,68 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "64"
+msgid ""
+"(Come to think of it, I remember hearing about somebody\r\n"
+"forced into paying for car damages in Hatsumachi...)"
+msgstr ""
+
+msgctxt "100"
+msgid "Hold it right there, dude!"
+msgstr ""
+
+msgctxt "112"
+msgid ""
+"I saw you damage my car! And don't give me that \"who me?\"\r\n"
+"bullshit!"
+msgstr ""
+
+msgctxt "124"
+msgid "If I damaged your car, then where's the damage?"
+msgstr ""
+
+msgctxt "136"
+msgid ""
+"Take a good look! It's all dented up right here! Geez...\r\n"
+"Look how bad that is... That's gonna cost a fortune."
+msgstr ""
+
+msgctxt "148"
+msgid ""
+"Now get your ass over to the office so we can talk this over. Here, I'll "
+"even walk you! Ain't I a stand-up guy?"
+msgstr ""
+
+msgctxt "1816"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1820"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "1824"
+msgid "Punk"
+msgstr ""
+
+msgctxt "1828"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "1832"
+msgid "Talk_Info_L"
+msgstr ""
+
+msgctxt "1836"
+msgid "Talk_Chohatu"
+msgstr ""

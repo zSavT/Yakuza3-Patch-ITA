@@ -1,0 +1,158 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "308"
+msgid "Alright! I'm gonna kill it on the mic!"
+msgstr ""
+
+msgctxt "320"
+msgid ""
+"I'll go with \"Summer Memories\"! This song is so me! "
+"<Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "332"
+msgid "Have at it."
+msgstr ""
+
+msgctxt "344"
+msgid "How's the ranking lookin'?"
+msgstr ""
+
+msgctxt "368"
+msgid "What, done already? You could've at least sang somethin'..."
+msgstr ""
+
+msgctxt "380"
+msgid ""
+"Hehehe! <Color:7>⑮<Color:Default> I frickin' love this song! "
+"<Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "392"
+msgid "Hey, Kiryu-san, why don't you hop on the mic?"
+msgstr ""
+
+msgctxt "404"
+msgid "I'll sing \"Kamurocho Lullaby,\" then."
+msgstr ""
+
+msgctxt "416"
+msgid "Wait, you're into enka? Oh man, this is gonna be awesome!"
+msgstr ""
+
+msgctxt "428"
+msgid "Nah, not right now."
+msgstr ""
+
+msgctxt "440"
+msgid "Seriously? Is karaoke not your scene or somethin'?"
+msgstr ""
+
+msgctxt "452"
+msgid "I dunno, I wasn't feelin' it..."
+msgstr ""
+
+msgctxt "464"
+msgid "Sorry..."
+msgstr ""
+
+msgctxt "476"
+msgid ""
+"Wow, Kiryu-san, that was incredible! I feel like I got to see some of the "
+"real you in that performance."
+msgstr ""
+
+msgctxt "488"
+msgid "You think so? Thanks."
+msgstr ""
+
+msgctxt "500"
+msgid "What's wrong? Not real big on singin'?"
+msgstr ""
+
+msgctxt "512"
+msgid "No, that's not it..."
+msgstr ""
+
+msgctxt "524"
+msgid ""
+"Oh yeah, I was in the zone! <Color:7>⑮<Color:Default> You really know how "
+"to get me pumped up! <Color:7>⑮<Color:Default>"
+msgstr ""
+
+msgctxt "536"
+msgid "Hey, Kiryu-san, why don't you hop on the mic?"
+msgstr ""
+
+msgctxt "548"
+msgid "I'll sing \"Kamurocho Lullaby,\" then."
+msgstr ""
+
+msgctxt "560"
+msgid "Wait, you're into enka? Oh man, this is gonna be awesome!"
+msgstr ""
+
+msgctxt "572"
+msgid "Nah, not right now."
+msgstr ""
+
+msgctxt "584"
+msgid "Seriously? Is karaoke not your scene or somethin'?"
+msgstr ""
+
+msgctxt "596"
+msgid ""
+"Kiryu-san, you owned that song! <Color:7>⑮<Color:Default> Your voice just "
+"blew me away!"
+msgstr ""
+
+msgctxt "608"
+msgid "Heh... You think so?"
+msgstr ""
+
+msgctxt "620"
+msgid "Sing Karaoke"
+msgstr ""
+
+msgctxt "632"
+msgid "View Rankings"
+msgstr ""
+
+msgctxt "644"
+msgid "How to Play"
+msgstr ""
+
+msgctxt "656"
+msgid "Sing"
+msgstr ""
+
+msgctxt "668"
+msgid "Don't Sing"
+msgstr ""
+
+msgctxt "680"
+msgid "Sing"
+msgstr ""
+
+msgctxt "692"
+msgid "Don't Sing"
+msgstr ""
+
+msgctxt "5024"
+msgid "Rin"
+msgstr ""
+
+msgctxt "5028"
+msgid "Kiryu"
+msgstr ""

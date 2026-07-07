@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "108"
+msgid "Welcome, sir. Can I help you find something today?"
+msgstr ""
+
+msgctxt "120"
+msgid "Actually, yeah. I need a bone."
+msgstr ""
+
+msgctxt "132"
+msgid "A... what?"
+msgstr ""
+
+msgctxt "144"
+msgid "Something a dog can chew on, you know."
+msgstr ""
+
+msgctxt "156"
+msgid "Oh, right. And just to confirm... it's a bone you want?"
+msgstr ""
+
+msgctxt "168"
+msgid "Yup. Do you have any?"
+msgstr ""
+
+msgctxt "180"
+msgid "I'm sorry, sir, but no."
+msgstr ""
+
+msgctxt "192"
+msgid "...Not sure why I thought you would. Sorry to bother you."
+msgstr ""
+
+msgctxt "216"
+msgid "Welcome, sir. Can I help you find something today?"
+msgstr ""
+
+msgctxt "240"
+msgid "Thank you very much."
+msgstr ""
+
+msgctxt "1704"
+msgid "Employee"
+msgstr ""
+
+msgctxt "1708"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "1712"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1716"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "1720"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "1724"
+msgid "Talk_Gakkari"
+msgstr ""

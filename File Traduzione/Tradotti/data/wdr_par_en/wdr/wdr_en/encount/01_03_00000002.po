@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "96"
+msgid "Whoa, hold up. You ain't exactly the most honest guy, are you?"
+msgstr ""
+
+msgctxt "108"
+msgid ""
+"Don't you realize you're steppin' all over our turf? Sorry, but I'm gonna "
+"have to show you your place."
+msgstr ""
+
+msgctxt "132"
+msgid "You're not a normal guy, are you..."
+msgstr ""
+
+msgctxt "144"
+msgid "I need to do some thinking. Hope this makes up for the trouble..."
+msgstr ""
+
+msgctxt "156"
+msgid "You got a tender %s."
+msgstr ""
+
+msgctxt "192"
+msgid "Thank you for your kindness, sir!"
+msgstr ""
+
+msgctxt "1296"
+msgid "Disgruntled Yakuza"
+msgstr ""
+
+msgctxt "1300"
+msgid "P_stand_sync_btl_neck_st"
+msgstr ""
+
+msgctxt "1304"
+msgid "M_ykz_stand_sync_btl_neck_st"
+msgstr ""
+
+msgctxt "1308"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "1312"
+msgid "Sync_Send"
+msgstr ""

@@ -1,0 +1,52 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "140"
+msgid "(Hm, where to?)"
+msgstr ""
+
+msgctxt "152"
+msgid "(Actually, maybe I'll stick around here for now.)"
+msgstr ""
+
+msgctxt "164"
+msgid "(Guess it's time to leave.)"
+msgstr ""
+
+msgctxt "188"
+msgid "(The casino it is.)"
+msgstr ""
+
+msgctxt "212"
+msgid "(The gambling hall it is.)"
+msgstr ""
+
+msgctxt "236"
+msgid "Street Level"
+msgstr ""
+
+msgctxt "248"
+msgid "Casino"
+msgstr ""
+
+msgctxt "260"
+msgid "Gambling Hall"
+msgstr ""
+
+msgctxt "272"
+msgid "Stay Here"
+msgstr ""
+
+msgctxt "1012"
+msgid "Kiryu"
+msgstr ""

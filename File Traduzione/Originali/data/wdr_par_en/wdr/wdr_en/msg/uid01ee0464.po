@@ -1,0 +1,128 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "548"
+msgid "Select the number of input devices to use."
+msgstr ""
+
+msgctxt "584"
+msgid "Select the game you want to play."
+msgstr ""
+
+msgctxt "632"
+msgid "Would you like to play again?"
+msgstr ""
+
+msgctxt "680"
+msgid "It costs 800 yen to play another game."
+msgstr ""
+
+msgctxt "716"
+msgid "Please come again."
+msgstr ""
+
+msgctxt "728"
+msgid "Two input devices are required to play in this mode."
+msgstr ""
+
+msgctxt "740"
+msgid "Would you like to view the tutorial?"
+msgstr ""
+
+msgctxt "788"
+msgid "It costs 1,600 yen to play another game."
+msgstr ""
+
+msgctxt "824"
+msgid "Please come again."
+msgstr ""
+
+msgctxt "836"
+msgid "Select an opponent."
+msgstr ""
+
+msgctxt "908"
+msgid "One"
+msgstr ""
+
+msgctxt "920"
+msgid "Two"
+msgstr ""
+
+msgctxt "932"
+msgid "Nine-ball"
+msgstr ""
+
+msgctxt "944"
+msgid "Rotation"
+msgstr ""
+
+msgctxt "956"
+msgid "Eight-ball"
+msgstr ""
+
+msgctxt "968"
+msgid "Play Again"
+msgstr ""
+
+msgctxt "980"
+msgid "Quit"
+msgstr ""
+
+msgctxt "992"
+msgid "Play"
+msgstr ""
+
+msgctxt "1004"
+msgid "Quit"
+msgstr ""
+
+msgctxt "1016"
+msgid "Yes"
+msgstr ""
+
+msgctxt "1028"
+msgid "No"
+msgstr ""
+
+msgctxt "1040"
+msgid "Play"
+msgstr ""
+
+msgctxt "1052"
+msgid "Quit"
+msgstr ""
+
+msgctxt "1064"
+msgid "Makoto Kano (Beginner)"
+msgstr ""
+
+msgctxt "1076"
+msgid "Shunichi Arahama (Intermediate)"
+msgstr ""
+
+msgctxt "1088"
+msgid "Kiko Hirakawa (Advanced)"
+msgstr ""
+
+msgctxt "1100"
+msgid "Seiji Nakazato (Expert)"
+msgstr ""
+
+msgctxt "1112"
+msgid "Play Alone"
+msgstr ""
+
+msgctxt "3976"
+msgid "Employee"
+msgstr ""

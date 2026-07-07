@@ -1,0 +1,90 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "76"
+msgid "Maybe there was a reason I dreamed about Newton after all..."
+msgstr ""
+
+msgctxt "88"
+msgid "Maybe she wanted to tell you something."
+msgstr ""
+
+msgctxt "100"
+msgid "Yeah..."
+msgstr ""
+
+msgctxt "112"
+msgid "I'm such garbage. I can't even find my way home..."
+msgstr ""
+
+msgctxt "124"
+msgid "But I think I know what Newton was trying to tell me..."
+msgstr ""
+
+msgctxt "136"
+msgid ""
+"\"You're thinking way too much! If you just have faith and wait, someone "
+"will come and rescue you!\""
+msgstr ""
+
+msgctxt "148"
+msgid "......"
+msgstr ""
+
+msgctxt "160"
+msgid "Kiryu-san... Thank you so much."
+msgstr ""
+
+msgctxt "172"
+msgid "You've done so much for someone as worthless as me..."
+msgstr ""
+
+msgctxt "184"
+msgid "Don't mention it."
+msgstr ""
+
+msgctxt "196"
+msgid "I know I'm a little awkward, but... I have to let you know how I feel..."
+msgstr ""
+
+msgctxt "208"
+msgid "I really like you, Kiryu-san."
+msgstr ""
+
+msgctxt "220"
+msgid "So... would you...?"
+msgstr ""
+
+msgctxt "2640"
+msgid "Kana"
+msgstr ""
+
+msgctxt "2644"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "2648"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "2652"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "2656"
+msgid "F_sxy_stand_sync_dakitukiA_st"
+msgstr ""
+
+msgctxt "2660"
+msgid "P_stand_sync_dakitukiA_st"
+msgstr ""

@@ -1,0 +1,92 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "132"
+msgid "Hey. This doesn't look like much of a club."
+msgstr ""
+
+msgctxt "144"
+msgid ""
+"Ha! That's 'cause it isn't, Sherlock! You looked like you had cash, so I "
+"brought you here for a dance."
+msgstr ""
+
+msgctxt "156"
+msgid "Just couldn't resist my sales pitch, huh? Well, now you gotta pay up!"
+msgstr ""
+
+msgctxt "216"
+msgid "Hey. This doesn't look like much of a club."
+msgstr ""
+
+msgctxt "228"
+msgid ""
+"Ha! That's 'cause it isn't, Sherlock! You looked like you had cash, so I "
+"brought you here for a dance."
+msgstr ""
+
+msgctxt "252"
+msgid "So this guy's our sucker of the day?"
+msgstr ""
+
+msgctxt "264"
+msgid "You got it. Looks like he's loaded, so how 'bout we get this started?"
+msgstr ""
+
+msgctxt "324"
+msgid "Hey. This doesn't look like much of a club."
+msgstr ""
+
+msgctxt "336"
+msgid ""
+"Ha! That's 'cause it isn't, Sherlock! You looked like you had cash, so I "
+"brought you here for a dance."
+msgstr ""
+
+msgctxt "360"
+msgid "So this guy's our sucker of the day?"
+msgstr ""
+
+msgctxt "372"
+msgid ""
+"Yup. He looks loaded, but this cheapskate kept tryin' to haggle with me. "
+"Let's throw in a complimentary ass-kicking!"
+msgstr ""
+
+msgctxt "3980"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "3984"
+msgid "Barker"
+msgstr ""
+
+msgctxt "3988"
+msgid "Talk_Chohatu"
+msgstr ""
+
+msgctxt "3992"
+msgid "Barker's Partner"
+msgstr ""
+
+msgctxt "3996"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "4000"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "4004"
+msgid "Talk_SmileBig_st"
+msgstr ""

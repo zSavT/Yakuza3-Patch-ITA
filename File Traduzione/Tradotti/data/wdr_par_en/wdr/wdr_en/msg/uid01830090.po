@@ -1,0 +1,290 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "140"
+msgid ""
+"(The building he's talking about is probably the Millennium\r\n"
+"Tower. He also mentioned a street with a lot of stores...)"
+msgstr ""
+
+msgctxt "152"
+msgid "(Guess I'll give Nakamichi Street a try.)"
+msgstr ""
+
+msgctxt "164"
+msgid "(Guess I'll try the west end of Taihei Boulevard.)"
+msgstr ""
+
+msgctxt "224"
+msgid "Hello?"
+msgstr ""
+
+msgctxt "236"
+msgid "It's Rikiya. I'm real pissed at you, Aniki!"
+msgstr ""
+
+msgctxt "248"
+msgid ""
+"Sorry, Rikiya. I never should have said you could come.\r\n"
+"So, what's up? Did something happen down there?"
+msgstr ""
+
+msgctxt "260"
+msgid "No, that's not why I'm calling."
+msgstr ""
+
+msgctxt "272"
+msgid "Hm? Then what is it?"
+msgstr ""
+
+msgctxt "284"
+msgid "Well... I'm in Kamurocho."
+msgstr ""
+
+msgctxt "296"
+msgid "What? Why!?"
+msgstr ""
+
+msgctxt "308"
+msgid "I know you wanted me to stay in Okinawa, Aniki..."
+msgstr ""
+
+msgctxt "320"
+msgid ""
+"But I wasn't gonna just sit by while you went n' found the\r\n"
+"bastard who shot the boss!"
+msgstr ""
+
+msgctxt "332"
+msgid "Rikiya..."
+msgstr ""
+
+msgctxt "344"
+msgid ""
+"Oh, and I left Mikio in charge of the orphanage. The kids'll\r\n"
+"be fine with him, don't worry."
+msgstr ""
+
+msgctxt "356"
+msgid "(I guess as long as someone's looking after them...)"
+msgstr ""
+
+msgctxt "368"
+msgid "Sorry, Aniki. I know you were just tryin' to protect me."
+msgstr ""
+
+msgctxt "380"
+msgid ""
+"It's okay, Rikiya. I'm sorry for just leaving you there in\r\n"
+"the dark."
+msgstr ""
+
+msgctxt "392"
+msgid "Aniki..."
+msgstr ""
+
+msgctxt "404"
+msgid "More importantly. Where are you?"
+msgstr ""
+
+msgctxt "416"
+msgid "Huh? I, uh... Well. I don't got the slightest idea."
+msgstr ""
+
+msgctxt "428"
+msgid "What? Surely you can figure out what street you're on."
+msgstr ""
+
+msgctxt "440"
+msgid ""
+"Not really. I can't tell up from down in this friggin'\r\n"
+"place. It's like a maze."
+msgstr ""
+
+msgctxt "452"
+msgid "And... you didn't think to get a map before you showed up here?"
+msgstr ""
+
+msgctxt "464"
+msgid "Sorry."
+msgstr ""
+
+msgctxt "476"
+msgid ""
+"It's all right, I'll be there as soon as I can. In the\r\n"
+"meantime, try and find a landmark to wait at."
+msgstr ""
+
+msgctxt "488"
+msgid "What, ya mean like a tall buildin' or something?"
+msgstr ""
+
+msgctxt "500"
+msgid "Anything that stands out. Let me know once you have a place."
+msgstr ""
+
+msgctxt "512"
+msgid "Gotcha!"
+msgstr ""
+
+msgctxt "524"
+msgid "Talk to you later, Rikiya."
+msgstr ""
+
+msgctxt "536"
+msgid "Yup!"
+msgstr ""
+
+msgctxt "596"
+msgid "Must be Nakamichi Street."
+msgstr ""
+
+msgctxt "608"
+msgid "Totally Taihei Boulevard."
+msgstr ""
+
+msgctxt "5344"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "5348"
+msgid "P_stand_tlk_phone_st"
+msgstr ""
+
+msgctxt "5352"
+msgid "adv_scene_106/kiryu_323"
+msgstr ""
+
+msgctxt "5356"
+msgid "Rikiya"
+msgstr ""
+
+msgctxt "5360"
+msgid "adv_scene_106/rikiya_082"
+msgstr ""
+
+msgctxt "5364"
+msgid "P_stand_tlk_phone_yes"
+msgstr ""
+
+msgctxt "5368"
+msgid "adv_scene_106/kiryu_324"
+msgstr ""
+
+msgctxt "5372"
+msgid "adv_scene_106/rikiya_083"
+msgstr ""
+
+msgctxt "5376"
+msgid "adv_scene_106/kiryu_325"
+msgstr ""
+
+msgctxt "5380"
+msgid "adv_scene_106/rikiya_084"
+msgstr ""
+
+msgctxt "5384"
+msgid "P_stand_tlk_phone_surp"
+msgstr ""
+
+msgctxt "5388"
+msgid "adv_scene_106/kiryu_326"
+msgstr ""
+
+msgctxt "5392"
+msgid "adv_scene_106/rikiya_085"
+msgstr ""
+
+msgctxt "5396"
+msgid "adv_scene_106/rikiya_225"
+msgstr ""
+
+msgctxt "5400"
+msgid "adv_scene_106/kiryu_327"
+msgstr ""
+
+msgctxt "5404"
+msgid "adv_scene_106/rikiya_086"
+msgstr ""
+
+msgctxt "5408"
+msgid "adv_scene_106/rikiya_087"
+msgstr ""
+
+msgctxt "5412"
+msgid "P_stand_tlk_phone_no"
+msgstr ""
+
+msgctxt "5416"
+msgid "adv_scene_106/kiryu_329"
+msgstr ""
+
+msgctxt "5420"
+msgid "adv_scene_106/rikiya_088"
+msgstr ""
+
+msgctxt "5424"
+msgid "adv_scene_106/kiryu_330"
+msgstr ""
+
+msgctxt "5428"
+msgid "adv_scene_106/rikiya_089"
+msgstr ""
+
+msgctxt "5432"
+msgid "adv_scene_106/kiryu_331"
+msgstr ""
+
+msgctxt "5436"
+msgid "adv_scene_106/rikiya_090"
+msgstr ""
+
+msgctxt "5440"
+msgid "adv_scene_106/kiryu_332"
+msgstr ""
+
+msgctxt "5444"
+msgid "adv_scene_106/rikiya_091"
+msgstr ""
+
+msgctxt "5448"
+msgid "adv_scene_106/kiryu_333"
+msgstr ""
+
+msgctxt "5452"
+msgid "adv_scene_106/rikiya_092"
+msgstr ""
+
+msgctxt "5456"
+msgid "adv_scene_106/kiryu_334"
+msgstr ""
+
+msgctxt "5460"
+msgid "adv_scene_106/rikiya_093"
+msgstr ""
+
+msgctxt "5464"
+msgid "adv_scene_106/kiryu_335"
+msgstr ""
+
+msgctxt "5468"
+msgid "adv_scene_106/rikiya_094"
+msgstr ""
+
+msgctxt "5472"
+msgid "P_stand_tlk_phone_ed"
+msgstr ""
+
+msgctxt "5476"
+msgid "dummy"
+msgstr ""

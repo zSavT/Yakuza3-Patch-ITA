@@ -1,0 +1,318 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "108"
+msgid "I can't give you what I don't got!"
+msgstr ""
+
+msgctxt "120"
+msgid "Quit lying and pay back that money, jackass!"
+msgstr ""
+
+msgctxt "132"
+msgid "What the...?"
+msgstr ""
+
+msgctxt "144"
+msgid "Wahaha! You'll never catch me like that!"
+msgstr ""
+
+msgctxt "156"
+msgid "Dammit! That asshole is quick..."
+msgstr ""
+
+msgctxt "168"
+msgid "What's going on here?"
+msgstr ""
+
+msgctxt "180"
+msgid "What the hell? Outta the way! I'm in a hurry, here!"
+msgstr ""
+
+msgctxt "192"
+msgid ""
+"Shit, he got away! Dammit, look what you⑬ Wait...\r\n"
+"Are you... you wouldn't happen to be..."
+msgstr ""
+
+msgctxt "204"
+msgid ""
+"You aren't Kiryu-san, fourth chairman of the Tojo Clan,\r\n"
+"are you?"
+msgstr ""
+
+msgctxt "216"
+msgid "That's right. Do we know each other?"
+msgstr ""
+
+msgctxt "228"
+msgid ""
+"You don't know me, but I sure as hell know you! I can't\r\n"
+"believe I ran into you here!"
+msgstr ""
+
+msgctxt "240"
+msgid ""
+"I didn't think I'd ever get to meet you. I heard this\r\n"
+"rumor you'd left the city. Really, it's an honor, sir!"
+msgstr ""
+
+msgctxt "252"
+msgid "Right. Who are you?"
+msgstr ""
+
+msgctxt "264"
+msgid ""
+"Oh, sorry about that! Call me Shibayama. I'm a debt\r\n"
+"collector."
+msgstr ""
+
+msgctxt "276"
+msgid "So a loan shark, then."
+msgstr ""
+
+msgctxt "288"
+msgid ""
+"Yeah. I never made it into the yakuza like you, but I always\r\n"
+"looked up to you during your old loan collectin' days."
+msgstr ""
+
+msgctxt "300"
+msgid ""
+"Hell, we've got legends of the stuff you did collecting for\r\n"
+"the Dojima Family!"
+msgstr ""
+
+msgctxt "312"
+msgid ""
+"Is that so? Not much of a happy ending to those legends,\r\n"
+"though."
+msgstr ""
+
+msgctxt "324"
+msgid ""
+"I got into loan collecting because I wanted to climb the\r\n"
+"yakuza ladder just like you."
+msgstr ""
+
+msgctxt "336"
+msgid "Oh, yeah? Well, good luck with that."
+msgstr ""
+
+msgctxt "348"
+msgid ""
+"But there's this guy Motoyama who's really pissing me off.\r\n"
+"He's got the cash to pay, but he just keeps running off."
+msgstr ""
+
+msgctxt "360"
+msgid "And that's not all! This creep's a real piece of work."
+msgstr ""
+
+msgctxt "372"
+msgid ""
+"He tries to trick women and even his own friends into paying\r\n"
+"off his loans for him."
+msgstr ""
+
+msgctxt "384"
+msgid ""
+"Hey, I know! Do you think you could help me catch him?\r\n"
+"I'd really like to see your work!"
+msgstr ""
+
+msgctxt "396"
+msgid "You really ought to be able to do this yourself."
+msgstr ""
+
+msgctxt "408"
+msgid "Okay. I'm sure I'll figure something out on my own."
+msgstr ""
+
+msgctxt "420"
+msgid ""
+"But if you ever change your mind, I'll probably be\r\n"
+"somewhere around here, trying to chase down Motoyama."
+msgstr ""
+
+msgctxt "468"
+msgid ""
+"This guy Motoyama sounds like a real scumbag. I guess\r\n"
+"I could help you out."
+msgstr ""
+
+msgctxt "480"
+msgid ""
+"I really appreciate it! And hey, maybe I can learn a thing\r\n"
+"or two by watching you work!"
+msgstr ""
+
+msgctxt "492"
+msgid "So, what do you want me to do?"
+msgstr ""
+
+msgctxt "504"
+msgid ""
+"Well, I just got a tip the bastard just made 1,000,000\r\n"
+"yen off the horse races. I want him to pay off our loan\r\n"
+"before he uses it all up."
+msgstr ""
+
+msgctxt "516"
+msgid "This is a photo of Motoyama."
+msgstr ""
+
+msgctxt "528"
+msgid ""
+"The jerk owes us 1,000,000 yen, but he's an idiot when\r\n"
+"it comes to money. He just spends whatever he's got in his\r\n"
+"pocket."
+msgstr ""
+
+msgctxt "540"
+msgid ""
+"We gotta find him and get him to pay back that loan before\r\n"
+"he spends it all."
+msgstr ""
+
+msgctxt "552"
+msgid "This guy really does sound like a pain in the ass."
+msgstr ""
+
+msgctxt "564"
+msgid ""
+"I'll call you whenever I get a tip about his whereabouts.\r\n"
+"Beat him up or whatever you have to do, just get that\r\n"
+"money back!"
+msgstr ""
+
+msgctxt "576"
+msgid ""
+"And whatever you can get back for me, I'll give you ten\r\n"
+"percent. Just remember that the faster you catch him, the\r\n"
+"bigger reward you'll get."
+msgstr ""
+
+msgctxt "588"
+msgid ""
+"Got it. I'll give you my phone number. Call me when you\r\n"
+"know where he's at."
+msgstr ""
+
+msgctxt "600"
+msgid "Okay, will do! And thanks again!"
+msgstr ""
+
+msgctxt "648"
+msgid "Help Him"
+msgstr ""
+
+msgctxt "660"
+msgid "Maybe Later"
+msgstr ""
+
+msgctxt "7740"
+msgid "????"
+msgstr ""
+
+msgctxt "7744"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "7748"
+msgid "Running Man"
+msgstr ""
+
+msgctxt "7752"
+msgid "Chasing Man"
+msgstr ""
+
+msgctxt "7756"
+msgid "M_ykz_stand"
+msgstr ""
+
+msgctxt "7760"
+msgid "Idle"
+msgstr ""
+
+msgctxt "7764"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "7768"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "7772"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "7776"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "7780"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "7784"
+msgid "Shibayama the Loan Shark"
+msgstr ""
+
+msgctxt "7788"
+msgid "Talk_Sorry"
+msgstr ""
+
+msgctxt "7792"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "7796"
+msgid "Talk_Request"
+msgstr ""
+
+msgctxt "7800"
+msgid "Talk_Kosite_st"
+msgstr ""
+
+msgctxt "7804"
+msgid "Talk_Kosite_No"
+msgstr ""
+
+msgctxt "7808"
+msgid "dummy"
+msgstr ""
+
+msgctxt "7812"
+msgid "0"
+msgstr ""
+
+msgctxt "7816"
+msgid "Talk_Kosite_Yes"
+msgstr ""
+
+msgctxt "7820"
+msgid "Talk_Kosite_ed"
+msgstr ""
+
+msgctxt "7824"
+msgid "Talk_Send"
+msgstr ""
+
+msgctxt "7828"
+msgid "2d_mn_mm26_photo"
+msgstr ""
+
+msgctxt "7832"
+msgid "Talk_No"
+msgstr ""

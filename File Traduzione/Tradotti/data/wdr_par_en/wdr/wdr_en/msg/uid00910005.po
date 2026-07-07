@@ -1,0 +1,892 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "600"
+msgid ""
+"Do you know of a man named Minamida? He's actually calling himself \"Doctor "
+"Minamida.\""
+msgstr ""
+
+msgctxt "612"
+msgid "I see. Well, don't worry about it, then."
+msgstr ""
+
+msgctxt "624"
+msgid ""
+"But if you ever do come across a man named Minamida, please be extra "
+"careful. That's all I can say."
+msgstr ""
+
+msgctxt "636"
+msgid "Got it."
+msgstr ""
+
+msgctxt "648"
+msgid "I thought you might have."
+msgstr ""
+
+msgctxt "660"
+msgid "What about him? He's... an acquaintance of mine."
+msgstr ""
+
+msgctxt "672"
+msgid "What? Hmm, maybe that's a different Minamida, then. Don't worry about it."
+msgstr ""
+
+msgctxt "684"
+msgid "Just in case he is the same person, though, be extra careful around him."
+msgstr ""
+
+msgctxt "696"
+msgid "Got it."
+msgstr ""
+
+msgctxt "708"
+msgid ""
+"Do you know of a man named Minamida? He's actually calling himself \"Doctor "
+"Minamida.\""
+msgstr ""
+
+msgctxt "720"
+msgid "Oh, you do?"
+msgstr ""
+
+msgctxt "732"
+msgid "What about him?"
+msgstr ""
+
+msgctxt "804"
+msgid ""
+"While we were collecting information on the hitmen, the name \"Minamida\" "
+"came up."
+msgstr ""
+
+msgctxt "816"
+msgid "You mean Minamida is one of the hitmen?"
+msgstr ""
+
+msgctxt "828"
+msgid "Well, no, but..."
+msgstr ""
+
+msgctxt "840"
+msgid "Come on. What's wrong?"
+msgstr ""
+
+msgctxt "852"
+msgid ""
+"We came across his name while we were hunting for information on a "
+"mysterious man named Amon."
+msgstr ""
+
+msgctxt "864"
+msgid ""
+"This \"Amon\" seems to be a hitman himself. He apparently works for some "
+"mysterious organization, and people say that if he targets you, you're as "
+"good as dead."
+msgstr ""
+
+msgctxt "876"
+msgid "......"
+msgstr ""
+
+msgctxt "888"
+msgid ""
+"Actually, before we found out Arase-san was the man behind the Reapers, we "
+"thought Amon was their ringleader."
+msgstr ""
+
+msgctxt "900"
+msgid ""
+"We keep running into walls. Minamida is the only solid lead we could get. "
+"He was the president of a video game company that went bankrupt."
+msgstr ""
+
+msgctxt "912"
+msgid "So how is Minamida connected to Amon?"
+msgstr ""
+
+msgctxt "924"
+msgid ""
+"We're not sure, but based on the information we've gathered, it seems "
+"you've become one of Amon's targets."
+msgstr ""
+
+msgctxt "936"
+msgid ""
+"We're certain Minamida is linked to Amon, so if he's a friend of yours, "
+"please be very careful."
+msgstr ""
+
+msgctxt "948"
+msgid "Got it."
+msgstr ""
+
+msgctxt "960"
+msgid ""
+"(Could the Minamida I know be linked to Amon? It sounds crazy, but Ibuki's "
+"info seems solid.)"
+msgstr ""
+
+msgctxt "972"
+msgid ""
+"(Still, Minamida hasn't been acting strangely. I'll just have to see how "
+"things turn out...)"
+msgstr ""
+
+msgctxt "1032"
+msgid "We appreciate everything you've done. Thanks to you, the HLA is safe."
+msgstr ""
+
+msgctxt "1044"
+msgid "I'll do my best to carry on Kashiwagi-san's legacy."
+msgstr ""
+
+msgctxt "1056"
+msgid "I know you have an awful lot on your plate, so take care of yourself, okay?"
+msgstr ""
+
+msgctxt "1068"
+msgid "Kiryu-san, well done."
+msgstr ""
+
+msgctxt "1080"
+msgid "We just got in some new info on a hitman."
+msgstr ""
+
+msgctxt "1092"
+msgid "Ibuki-san! We got trouble!"
+msgstr ""
+
+msgctxt "1104"
+msgid "What's going on?"
+msgstr ""
+
+msgctxt "1116"
+msgid "There's a man making a big scene in front of the restaurant!"
+msgstr ""
+
+msgctxt "1128"
+msgid "He keeps yelling for the HLA to come out. The guy's really on edge."
+msgstr ""
+
+msgctxt "1140"
+msgid ""
+"Somebody who knows where HLA Headquarters is and who's making a big racket, "
+"eh...?"
+msgstr ""
+
+msgctxt "1152"
+msgid "Sounds like one of the Reaper hitmen. Let's go check it out."
+msgstr ""
+
+msgctxt "1176"
+msgid "Great work. I'm glad you're okay."
+msgstr ""
+
+msgctxt "1188"
+msgid ""
+"It looks like Batsu is calming down. Right now, he's talking to some HLA "
+"members in the back room."
+msgstr ""
+
+msgctxt "1200"
+msgid "Just leave him to us."
+msgstr ""
+
+msgctxt "1212"
+msgid "Kiryu-san, well done."
+msgstr ""
+
+msgctxt "1224"
+msgid "Here is your reward. We appreciate your hard work."
+msgstr ""
+
+msgctxt "1236"
+msgid "You got <Color:8>50,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "1248"
+msgid "Please come back again. We're really counting on you."
+msgstr ""
+
+msgctxt "1260"
+msgid "Great work. I'm glad you're okay."
+msgstr ""
+
+msgctxt "1272"
+msgid ""
+"Kotaro wants to rehabilitate back into society. For the time being, we can "
+"put him to work here as an assistant."
+msgstr ""
+
+msgctxt "1284"
+msgid "But, first, he's got a lot to learn about manners..."
+msgstr ""
+
+msgctxt "1296"
+msgid "Kiryu-san, well done."
+msgstr ""
+
+msgctxt "1308"
+msgid "Here is your reward. We appreciate your hard work."
+msgstr ""
+
+msgctxt "1320"
+msgid "You got <Color:8>70,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "1332"
+msgid "Please come back again. We're really counting on you."
+msgstr ""
+
+msgctxt "1344"
+msgid "Great work. I'm glad you're okay."
+msgstr ""
+
+msgctxt "1356"
+msgid "So it was just a disguise, huh...? I had no idea."
+msgstr ""
+
+msgctxt "1368"
+msgid "I hope we can help them figure out what they'd like to do from now on."
+msgstr ""
+
+msgctxt "1380"
+msgid "Kiryu-san, well done."
+msgstr ""
+
+msgctxt "1392"
+msgid "Here is your reward. We appreciate your hard work."
+msgstr ""
+
+msgctxt "1404"
+msgid "You got <Color:8>90,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "1416"
+msgid "Please come back again. We're really counting on you."
+msgstr ""
+
+msgctxt "1428"
+msgid "Great work. I'm glad you're okay."
+msgstr ""
+
+msgctxt "1440"
+msgid ""
+"So Shu was at the Millennium Tower, huh? He couldn't possibly have hit "
+"anybody from way up there."
+msgstr ""
+
+msgctxt "1452"
+msgid ""
+"He's an earnest fellow. I think he'll come to understand us once he's heard "
+"us out."
+msgstr ""
+
+msgctxt "1464"
+msgid "Kiryu-san, well done."
+msgstr ""
+
+msgctxt "1476"
+msgid "Here is your reward. We appreciate your hard work."
+msgstr ""
+
+msgctxt "1488"
+msgid "You got <Color:8>90,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "1500"
+msgid "Please come back again. We're really counting on you."
+msgstr ""
+
+msgctxt "1512"
+msgid "Great work. I'm glad you're okay."
+msgstr ""
+
+msgctxt "1524"
+msgid "The HLA will provide Hasutani's children with financial assistance."
+msgstr ""
+
+msgctxt "1536"
+msgid ""
+"We'd like to help him find some decent work and get him back to living with "
+"his children as soon as possible."
+msgstr ""
+
+msgctxt "1548"
+msgid "Kiryu-san, well done."
+msgstr ""
+
+msgctxt "1560"
+msgid "Here is your reward. We appreciate your hard work."
+msgstr ""
+
+msgctxt "1572"
+msgid "You got <Color:8>80,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "1584"
+msgid "Please come back again. We're really counting on you."
+msgstr ""
+
+msgctxt "1596"
+msgid "Great work. I'm glad you're okay."
+msgstr ""
+
+msgctxt "1608"
+msgid ""
+"We asked Kurenai all kinds of questions, but it seems he really doesn't "
+"know that much about the Reapers."
+msgstr ""
+
+msgctxt "1620"
+msgid ""
+"The Reapers are an organization that probably has a lot of rank-and-file "
+"members like him."
+msgstr ""
+
+msgctxt "1632"
+msgid ""
+"To get to the guys at the very top, we're going to have to catch people in "
+"leadership positions..."
+msgstr ""
+
+msgctxt "1644"
+msgid "Kiryu-san, well done."
+msgstr ""
+
+msgctxt "1656"
+msgid "Here is your reward. We appreciate your hard work."
+msgstr ""
+
+msgctxt "1668"
+msgid "You got <Color:8>100,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "1680"
+msgid "Please come back again. We're really counting on you."
+msgstr ""
+
+msgctxt "1692"
+msgid "Great work. I'm glad you're okay."
+msgstr ""
+
+msgctxt "1704"
+msgid "I'm sorry for all the trouble my men put you through today."
+msgstr ""
+
+msgctxt "1716"
+msgid ""
+"I'll make sure our members understand we're being targeted by the Reapers "
+"and have them take it to heart."
+msgstr ""
+
+msgctxt "1728"
+msgid "Kiryu-san, well done."
+msgstr ""
+
+msgctxt "1740"
+msgid "Here is your reward. We appreciate your hard work."
+msgstr ""
+
+msgctxt "1752"
+msgid "You got <Color:8>120,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "1764"
+msgid "Please come back again. We're really counting on you."
+msgstr ""
+
+msgctxt "1776"
+msgid "Great work. I'm glad you're okay."
+msgstr ""
+
+msgctxt "1788"
+msgid ""
+"We thought we were looking for a masked man, but I guess we were completely "
+"wrong."
+msgstr ""
+
+msgctxt "1800"
+msgid "Kiryu-san, well done."
+msgstr ""
+
+msgctxt "1812"
+msgid "Here is your reward. We appreciate your hard work."
+msgstr ""
+
+msgctxt "1824"
+msgid "You got <Color:8>120,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "1836"
+msgid "Please come back again. We're really counting on you."
+msgstr ""
+
+msgctxt "1848"
+msgid "Thank you for helping us with our sudden \"visitor.\""
+msgstr ""
+
+msgctxt "1860"
+msgid ""
+"I guess it turned out for the best that he came to find us, seeing as we "
+"didn't have any info on his whereabouts yet."
+msgstr ""
+
+msgctxt "1872"
+msgid "Here is your reward. We appreciate your hard work."
+msgstr ""
+
+msgctxt "1884"
+msgid "You got <Color:8>150,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "1896"
+msgid "Please come back again. We're really counting on you."
+msgstr ""
+
+msgctxt "1920"
+msgid "Great work. I'm glad you're okay."
+msgstr ""
+
+msgctxt "1932"
+msgid "It seems Lorentz really was just curious about the Tojo Clan."
+msgstr ""
+
+msgctxt "1944"
+msgid ""
+"Even general information about the clan, like the number of members and the "
+"names of the leaders, seemed to really make him happy."
+msgstr ""
+
+msgctxt "1956"
+msgid ""
+"On the other hand, when I asked him about the Reapers, he didn't know "
+"anything about the top leaders. Same as the other hitmen."
+msgstr ""
+
+msgctxt "1968"
+msgid "Kiryu-san, well done."
+msgstr ""
+
+msgctxt "1980"
+msgid "Here is your reward. We appreciate your hard work."
+msgstr ""
+
+msgctxt "1992"
+msgid "You got <Color:8>130,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "2004"
+msgid "Please come back again. We're really counting on you."
+msgstr ""
+
+msgctxt "2016"
+msgid "Great work. I'm glad you're okay."
+msgstr ""
+
+msgctxt "2028"
+msgid ""
+"Samejima isn't a hitman, but his weapons supply network seems to be quite "
+"extensive."
+msgstr ""
+
+msgctxt "2040"
+msgid ""
+"I think stopping his supply of weapons to the Reapers will have a big "
+"impact."
+msgstr ""
+
+msgctxt "2052"
+msgid "Kiryu-san, well done."
+msgstr ""
+
+msgctxt "2064"
+msgid "Here is your reward. We appreciate your hard work."
+msgstr ""
+
+msgctxt "2076"
+msgid "You got <Color:8>140,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "2088"
+msgid "Please come back again. We're really counting on you."
+msgstr ""
+
+msgctxt "2100"
+msgid "Great work. I'm glad you're okay."
+msgstr ""
+
+msgctxt "2112"
+msgid "It seems Yuto already knew Kotaro, who we've got working here now."
+msgstr ""
+
+msgctxt "2124"
+msgid ""
+"Since they're both still young, I hope they'll apply themselves as friendly "
+"rivals and steer each other in the right direction."
+msgstr ""
+
+msgctxt "2136"
+msgid "Kiryu-san, well done."
+msgstr ""
+
+msgctxt "2148"
+msgid "Here is your reward. We appreciate your hard work."
+msgstr ""
+
+msgctxt "2160"
+msgid "You got <Color:8>180,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "2172"
+msgid "Please come back again. We're really counting on you."
+msgstr ""
+
+msgctxt "2196"
+msgid "Great work. I'm glad you're okay."
+msgstr ""
+
+msgctxt "2208"
+msgid ""
+"We believe Gohren knows a great deal about the Reapers, but he's refusing "
+"to tell us anything at the moment."
+msgstr ""
+
+msgctxt "2220"
+msgid ""
+"We won't use force to get him to talk, though. That's not the way we do "
+"things around here."
+msgstr ""
+
+msgctxt "2232"
+msgid ""
+"We like to take the time to talk matters over. I'm sure we can arrive at a "
+"mutual understanding."
+msgstr ""
+
+msgctxt "2244"
+msgid "Kiryu-san, well done."
+msgstr ""
+
+msgctxt "2256"
+msgid "Here is your reward. We appreciate your hard work."
+msgstr ""
+
+msgctxt "2268"
+msgid "You got <Color:8>200,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "2280"
+msgid "Please come back again. We're really counting on you."
+msgstr ""
+
+msgctxt "2292"
+msgid "Thank you for your hard work, Kiryu-san."
+msgstr ""
+
+msgctxt "2304"
+msgid "Sorry I let him get away."
+msgstr ""
+
+msgctxt "2316"
+msgid ""
+"Don't worry about it. Just getting a lead to his boss is a big step forward "
+"for us."
+msgstr ""
+
+msgctxt "2328"
+msgid "He said he'd contact us, but do you really think he'll go through with it?"
+msgstr ""
+
+msgctxt "2340"
+msgid ""
+"You're an obstacle in the Reapers' path. I'm sure they'll be getting in "
+"touch one way or another."
+msgstr ""
+
+msgctxt "2352"
+msgid "I guess so."
+msgstr ""
+
+msgctxt "2364"
+msgid "Here is your reward."
+msgstr ""
+
+msgctxt "2376"
+msgid "No, I can't accept this. Not when I couldn't catch him."
+msgstr ""
+
+msgctxt "2388"
+msgid ""
+"Take it, Kiryu-san. It wouldn't be right if we didn't at least cover "
+"expenses."
+msgstr ""
+
+msgctxt "2400"
+msgid ""
+"We want to make sure you're prepared for the next battle anyway. Their "
+"ringleader is not to be underestimated."
+msgstr ""
+
+msgctxt "2412"
+msgid "Please make sure you're fully prepared."
+msgstr ""
+
+msgctxt "2424"
+msgid "...Yeah, all right."
+msgstr ""
+
+msgctxt "2436"
+msgid "You got <Color:8>250,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "2448"
+msgid "Anyway, sit tight for now. We need to be prepared on our end, too."
+msgstr ""
+
+msgctxt "2460"
+msgid "And, Kiryu-san... You be extra careful."
+msgstr ""
+
+msgctxt "2472"
+msgid "That's it."
+msgstr ""
+
+msgctxt "2484"
+msgid ""
+"Our battle with the Reapers is finally over. I really want to thank you, "
+"Kiryu-san."
+msgstr ""
+
+msgctxt "2496"
+msgid ""
+"You don't need to thank me. It was the least I could do to honor "
+"Kashiwagi-san's memory."
+msgstr ""
+
+msgctxt "2508"
+msgid "I'll continue the work of the HLA to honor Kashiwagi-san's dying wish."
+msgstr ""
+
+msgctxt "2520"
+msgid "I see."
+msgstr ""
+
+msgctxt "2532"
+msgid ""
+"If you ever need anything⑬anything at all, from money to relationship "
+"advice⑬please come see us."
+msgstr ""
+
+msgctxt "2544"
+msgid "Let's see... I'm good for right now, I think."
+msgstr ""
+
+msgctxt "2556"
+msgid "In any case, take this as a token of our sincere gratitude."
+msgstr ""
+
+msgctxt "2568"
+msgid "You got <Color:8>300,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "2580"
+msgid "You got a <Color:8>Muramasa Blade<Color:Default>."
+msgstr ""
+
+msgctxt "2604"
+msgid "Good luck with everything."
+msgstr ""
+
+msgctxt "2616"
+msgid "You, too, Kiryu-san."
+msgstr ""
+
+msgctxt "2628"
+msgid "Until next time, right?"
+msgstr ""
+
+msgctxt "2640"
+msgid "Yeah."
+msgstr ""
+
+msgctxt "2712"
+msgid ""
+"Take it, Kiryu-san. It wouldn't be right if we didn't at least cover "
+"expenses."
+msgstr ""
+
+msgctxt "2724"
+msgid ""
+"We're tracking down another hitman right now. Would you like to see the "
+"information we have?"
+msgstr ""
+
+msgctxt "2736"
+msgid "All right then. Feel free to call on me anytime."
+msgstr ""
+
+msgctxt "2748"
+msgid "This is the information we have on the hitman we're tracking down right now."
+msgstr ""
+
+msgctxt "2772"
+msgid "Good luck."
+msgstr ""
+
+msgctxt "2784"
+msgid "Good work, Kiryu-san."
+msgstr ""
+
+msgctxt "2796"
+msgid "What would you like to do now?"
+msgstr ""
+
+msgctxt "2808"
+msgid "All right then. Feel free to call on me anytime."
+msgstr ""
+
+msgctxt "2820"
+msgid ""
+"You can accept a request for a hitman mission you would like to do from the "
+"HLA in Kamurocho."
+msgstr ""
+
+msgctxt "2832"
+msgid ""
+"If you select \"View Requests\" when talking to Ibuki, a list of the "
+"requests you can accept at that time will be displayed. Press "
+"<Action:Button_Cross@UI> at the View Requests screen to see an "
+"investigative report on a particular hitman. To accept a request, select "
+"the \"Accept this Request\" command."
+msgstr ""
+
+msgctxt "2844"
+msgid ""
+"You can only accept one request for a hitman mission at a time. Once you "
+"have accepted a request, you cannot cancel it."
+msgstr ""
+
+msgctxt "2856"
+msgid ""
+"Items on the list marked \"Done\" indicate missions that have already been "
+"completed. You can view the mission currently underway as well as "
+"previously completed missions by selecting \"Substories\" from the Pause "
+"Menu."
+msgstr ""
+
+msgctxt "2868"
+msgid "This is all the hitman information we've managed to gather."
+msgstr ""
+
+msgctxt "2904"
+msgid "Thank you, Kiryu-san. We'll do everything in our power to assist you."
+msgstr ""
+
+msgctxt "2916"
+msgid "Good luck."
+msgstr ""
+
+msgctxt "2940"
+msgid "Yeah, I know him."
+msgstr ""
+
+msgctxt "2952"
+msgid "No, never heard of him."
+msgstr ""
+
+msgctxt "2964"
+msgid "Yeah, I know him."
+msgstr ""
+
+msgctxt "2976"
+msgid "No, never heard of him."
+msgstr ""
+
+msgctxt "2988"
+msgid "Yeah, I'll take a look."
+msgstr ""
+
+msgctxt "3000"
+msgid "No, not right now."
+msgstr ""
+
+msgctxt "3012"
+msgid "View Requests"
+msgstr ""
+
+msgctxt "3024"
+msgid "Learn how to Accept a Request"
+msgstr ""
+
+msgctxt "3036"
+msgid "Nothing"
+msgstr ""
+
+msgctxt "29056"
+msgid "Ibuki"
+msgstr ""
+
+msgctxt "29060"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "29064"
+msgid "P_sitsofa"
+msgstr ""
+
+msgctxt "29068"
+msgid "P_sitsofa_tlk_kamae"
+msgstr ""
+
+msgctxt "29072"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "29076"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "29080"
+msgid "P_stand"
+msgstr ""
+
+msgctxt "29084"
+msgid "Idle"
+msgstr ""
+
+msgctxt "29088"
+msgid "dummy"
+msgstr ""
+
+msgctxt "29092"
+msgid "0"
+msgstr ""
+
+msgctxt "29096"
+msgid "HLA Member"
+msgstr ""
+
+msgctxt "29100"
+msgid "M_nml_stand"
+msgstr ""
+
+msgctxt "29104"
+msgid "SitChair_ed"
+msgstr ""
+
+msgctxt "29108"
+msgid "Learn how to Accept a Request"
+msgstr ""

@@ -1,0 +1,301 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2026-07-07\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "76"
+msgid "What kind of favor are we talking?"
+msgstr ""
+
+msgctxt "88"
+msgid "It's gotta do with the little lady."
+msgstr ""
+
+msgctxt "100"
+msgid "You mean the girl with the sketchbook?"
+msgstr ""
+
+msgctxt "112"
+msgid "That's right."
+msgstr ""
+
+msgctxt "124"
+msgid ""
+"Two nights ago, she just... disappeared. Nobody knows where\r\n"
+"she could've gone."
+msgstr ""
+
+msgctxt "136"
+msgid "You think she ran away?"
+msgstr ""
+
+msgctxt "148"
+msgid ""
+"Dunno. We got men searchin' the streets and all, but they\r\n"
+"haven't found so much as a trace of her yet."
+msgstr ""
+
+msgctxt "160"
+msgid "And have you gone to the police?"
+msgstr ""
+
+msgctxt "172"
+msgid "Well, not exactly..."
+msgstr ""
+
+msgctxt "184"
+msgid "Why not? You should file a missing persons report."
+msgstr ""
+
+msgctxt "196"
+msgid "I dunno that we really can."
+msgstr ""
+
+msgctxt "208"
+msgid "What do you mean?"
+msgstr ""
+
+msgctxt "220"
+msgid ""
+"Well the truth of it is... she's the daughter of a guy the\r\n"
+"boss used to do business with."
+msgstr ""
+
+msgctxt "232"
+msgid ""
+"Now the boss is taking care of the girl, yeah. But he never\r\n"
+"officially adopted her. If the cops found out about that,\r\n"
+"they'd ship her back to her parents no questions asked."
+msgstr ""
+
+msgctxt "244"
+msgid "And we don't want that?"
+msgstr ""
+
+msgctxt "256"
+msgid ""
+"Right. Saki-san's parents are real scum o' the earth,\r\n"
+"lemme tell you."
+msgstr ""
+
+msgctxt "268"
+msgid ""
+"Her dad gambled all their money away and then some, then\r\n"
+"would come home stinkin' of booze and beat the daylights\r\n"
+"outta the girl and her mom."
+msgstr ""
+
+msgctxt "280"
+msgid ""
+"Her mom, on the other hand, was always sleeping around.\r\n"
+"Acted like she didn't want a damn thing to do with her."
+msgstr ""
+
+msgctxt "292"
+msgid "So then Nakahara took Saki in to protect her."
+msgstr ""
+
+msgctxt "304"
+msgid "Yup."
+msgstr ""
+
+msgctxt "316"
+msgid ""
+"Three years back, we got asked to collect on her dad's\r\n"
+"gamblin' debt."
+msgstr ""
+
+msgctxt "328"
+msgid ""
+"So the boss went over to their house. But when he walked\r\n"
+"inside..."
+msgstr ""
+
+msgctxt "340"
+msgid "What happened?"
+msgstr ""
+
+msgctxt "352"
+msgid ""
+"He found the guy dead, hangin' blue-faced from a rope in\r\n"
+"their living room. Saki-san still clutching his lifeless leg."
+msgstr ""
+
+msgctxt "364"
+msgid "...And her mom?"
+msgstr ""
+
+msgctxt "376"
+msgid "Probably off with one of her fuck boys."
+msgstr ""
+
+msgctxt "388"
+msgid "Lady never gave a single shit about Saki-san."
+msgstr ""
+
+msgctxt "400"
+msgid "Which is why Nakahara took her in."
+msgstr ""
+
+msgctxt "412"
+msgid "Yup."
+msgstr ""
+
+msgctxt "424"
+msgid "The boss looks scary, sure... but he's got a good heart."
+msgstr ""
+
+msgctxt "436"
+msgid "It just wasn't in him to leave Saki-san like that."
+msgstr ""
+
+msgctxt "448"
+msgid ""
+"And yeah he complained at first about how much trouble\r\n"
+"it was raising a kid, but it wasn't long 'til he ended up\r\n"
+"a proud father."
+msgstr ""
+
+msgctxt "460"
+msgid "Now he treats Saki-chan like she's his own flesh n' blood."
+msgstr ""
+
+msgctxt "472"
+msgid "That's amazing."
+msgstr ""
+
+msgctxt "484"
+msgid ""
+"Yup, but word has it her mom's back in town. That she wants\r\n"
+"to take Saki-san back."
+msgstr ""
+
+msgctxt "496"
+msgid "Why now, after all this time?"
+msgstr ""
+
+msgctxt "508"
+msgid "Beats me."
+msgstr ""
+
+msgctxt "520"
+msgid ""
+"Probably so she can have a maid to do all the housework\r\n"
+"while she goes out and parties."
+msgstr ""
+
+msgctxt "532"
+msgid ""
+"Anyway, the boss has been tryin' to keep the little lady in\r\n"
+"the office so her mom wouldn't be able to find her."
+msgstr ""
+
+msgctxt "544"
+msgid "Which is why she was there when I stopped by."
+msgstr ""
+
+msgctxt "556"
+msgid "Yup. And now that she's missin', the boss is real worried."
+msgstr ""
+
+msgctxt "568"
+msgid "Saki's not a child anymore, though."
+msgstr ""
+
+msgctxt "580"
+msgid "Couldn't she just call him if she needed to?"
+msgstr ""
+
+msgctxt "592"
+msgid "Call him? Not a chance in hell!"
+msgstr ""
+
+msgctxt "604"
+msgid "...Why not?"
+msgstr ""
+
+msgctxt "616"
+msgid "The girl's mute!"
+msgstr ""
+
+msgctxt "628"
+msgid "What!?"
+msgstr ""
+
+msgctxt "640"
+msgid ""
+"The doctor said it's some kinda mental block, probably\r\n"
+"from watching her dad hang himself right in front of her."
+msgstr ""
+
+msgctxt "652"
+msgid "So you see, she can't call us!"
+msgstr ""
+
+msgctxt "664"
+msgid "And that's why she has the sketchbook..."
+msgstr ""
+
+msgctxt "676"
+msgid "C'mon, Aniki! We gotta find her as soon as possible! Please!"
+msgstr ""
+
+msgctxt "9264"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "9268"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "9272"
+msgid "Rikiya"
+msgstr ""
+
+msgctxt "9276"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "9280"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "9284"
+msgid "Talk_Kosite_st"
+msgstr ""
+
+msgctxt "9288"
+msgid "Talk_Kosite_Yes"
+msgstr ""
+
+msgctxt "9292"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "9296"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "9300"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "9304"
+msgid "Talk_Kosite_ed"
+msgstr ""
+
+msgctxt "9308"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "9312"
+msgid "Talk_NoBig"
+msgstr ""
