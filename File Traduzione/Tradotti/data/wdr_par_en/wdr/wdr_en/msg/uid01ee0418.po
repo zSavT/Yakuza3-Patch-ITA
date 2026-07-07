@@ -1,23 +1,24 @@
+#
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=utf-8\n"
-"Language: pt\n"
-"Language-Team: Portuguese, Brazilian\n"
-"Last-Translator: \n"
-"MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: 2026-07-07\n"
 "Project-Id-Version: yakuza-3-remastered\n"
 "Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-07-07\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgctxt "236"
 msgid "No way..."
-msgstr ""
+msgstr "Non è possibile..."
 
 msgctxt "248"
 msgid "That means..."
-msgstr ""
+msgstr "Quell'uomo..."
 
 msgctxt "284"
 msgid "Yes... You people are..."
@@ -93,7 +94,7 @@ msgstr ""
 
 msgctxt "548"
 msgid "Thank you very much."
-msgstr ""
+msgstr "Grazie mille."
 
 msgctxt "560"
 msgid ""
@@ -107,7 +108,7 @@ msgstr ""
 
 msgctxt "656"
 msgid "And you are...?"
-msgstr ""
+msgstr "E tu saresti...?"
 
 msgctxt "668"
 msgid "I'm Aiko."
@@ -115,7 +116,7 @@ msgstr ""
 
 msgctxt "680"
 msgid "Nice to meet you."
-msgstr ""
+msgstr "Piacere di conoscerti."
 
 msgctxt "692"
 msgid "Uh-huh. You know what our goal is, don't you?"
@@ -219,7 +220,7 @@ msgstr ""
 
 msgctxt "1088"
 msgid "Super Service? No, I don't believe I have."
-msgstr ""
+msgstr "Super Servizio? No, non credo."
 
 msgctxt "1100"
 msgid ""
@@ -237,7 +238,7 @@ msgstr ""
 
 msgctxt "1124"
 msgid "I think I get the picture..."
-msgstr ""
+msgstr "Penso di aver capito il quadro..."
 
 msgctxt "1136"
 msgid ""
@@ -253,7 +254,7 @@ msgstr ""
 
 msgctxt "1160"
 msgid "Exactly."
-msgstr ""
+msgstr "Esatto."
 
 msgctxt "1172"
 msgid ""
@@ -282,7 +283,7 @@ msgstr ""
 
 msgctxt "1292"
 msgid "Thank you."
-msgstr ""
+msgstr "Grazie."
 
 msgctxt "1304"
 msgid ""
@@ -307,7 +308,7 @@ msgstr ""
 
 msgctxt "1424"
 msgid "More or less."
-msgstr ""
+msgstr "Più o meno."
 
 msgctxt "1436"
 msgid ""
@@ -317,7 +318,7 @@ msgstr ""
 
 msgctxt "1448"
 msgid "Really...?"
-msgstr ""
+msgstr "Davvero...?"
 
 msgctxt "1460"
 msgid ""
@@ -402,7 +403,7 @@ msgstr ""
 
 msgctxt "1784"
 msgid "Right."
-msgstr ""
+msgstr "Giusto."
 
 msgctxt "1796"
 msgid ""
@@ -440,6 +441,9 @@ msgid ""
 "the club, then return to the break room and coordinate your\r\n"
 "hostess to fit their ideal image."
 msgstr ""
+"Fatti un'idea delle preferenze dei clienti girando per il locale, poi torna "
+"nel camerino e coordina l'aspetto della tua hostess per adattarlo alla loro "
+"immagine ideale."
 
 msgctxt "1916"
 msgid "All right, time to hit the floor."
@@ -523,7 +527,7 @@ msgstr ""
 
 msgctxt "21112"
 msgid "Woman"
-msgstr ""
+msgstr "Donna"
 
 msgctxt "21116"
 msgid "Kiryu"

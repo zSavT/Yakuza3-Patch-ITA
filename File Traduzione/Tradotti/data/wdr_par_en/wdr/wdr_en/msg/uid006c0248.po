@@ -1,15 +1,16 @@
+#
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=utf-8\n"
-"Language: pt\n"
-"Language-Team: Portuguese, Brazilian\n"
-"Last-Translator: \n"
-"MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: 2026-07-07\n"
 "Project-Id-Version: yakuza-3-remastered\n"
 "Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-07-07\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgctxt "124"
 msgid ""
@@ -19,7 +20,7 @@ msgstr ""
 
 msgctxt "136"
 msgid "Good to hear."
-msgstr ""
+msgstr "Felice di sentirlo!"
 
 msgctxt "148"
 msgid "I'm gonna eat till I can't move!"
@@ -27,7 +28,7 @@ msgstr ""
 
 msgctxt "160"
 msgid "Let's head in."
-msgstr ""
+msgstr "Dai, entriamo."
 
 msgctxt "184"
 msgid ""
@@ -37,7 +38,7 @@ msgstr ""
 
 msgctxt "196"
 msgid "Good to hear."
-msgstr ""
+msgstr "Felice di sentirlo!"
 
 msgctxt "208"
 msgid "I'm gonna eat till I can't move!"
@@ -49,14 +50,15 @@ msgstr ""
 
 msgctxt "232"
 msgid "Huh? Wait, whaaat?"
-msgstr ""
+msgstr "Eh? Aspetta, cooosa?"
 
 msgctxt "244"
 msgid "Sorry..."
-msgstr ""
+msgstr "Scusa..."
 
 msgctxt "256"
-msgid "I was all excited to go eat with you, too... I guess I'll just go home..."
+msgid ""
+"I was all excited to go eat with you, too... I guess I'll just go home..."
 msgstr ""
 
 msgctxt "268"
@@ -69,7 +71,7 @@ msgstr ""
 
 msgctxt "388"
 msgid "Glad to hear it."
-msgstr ""
+msgstr "Mi fa piacere."
 
 msgctxt "400"
 msgid ""
@@ -95,7 +97,7 @@ msgstr ""
 
 msgctxt "472"
 msgid "Heh, is that so?"
-msgstr ""
+msgstr "Heh, davvero?"
 
 msgctxt "484"
 msgid "Time for me to go. Take me out again sometime, okay?"
@@ -107,7 +109,7 @@ msgstr ""
 
 msgctxt "520"
 msgid "Everything all right?"
-msgstr ""
+msgstr "Tutto bene?"
 
 msgctxt "532"
 msgid "No... I kinda don't like this..."
@@ -115,7 +117,7 @@ msgstr ""
 
 msgctxt "544"
 msgid "Sorry about that..."
-msgstr ""
+msgstr "Scusa per quello..."
 
 msgctxt "556"
 msgid "I'm gonna go home now... I'll see you at the club, okay?"
@@ -147,7 +149,7 @@ msgstr ""
 
 msgctxt "712"
 msgid "Let's head in."
-msgstr ""
+msgstr "Dai, entriamo."
 
 msgctxt "736"
 msgid ""
@@ -157,7 +159,7 @@ msgstr ""
 
 msgctxt "748"
 msgid "Good to hear."
-msgstr ""
+msgstr "Felice di sentirlo!"
 
 msgctxt "760"
 msgid "I'm gonna eat till I can't move!"
@@ -169,14 +171,15 @@ msgstr ""
 
 msgctxt "784"
 msgid "Huh? Wait, whaaat?"
-msgstr ""
+msgstr "Eh? Aspetta, cooosa?"
 
 msgctxt "796"
 msgid "Sorry..."
-msgstr ""
+msgstr "Scusa..."
 
 msgctxt "808"
-msgid "I was all excited to go eat with you, too... I guess I'll just go home..."
+msgid ""
+"I was all excited to go eat with you, too... I guess I'll just go home..."
 msgstr ""
 
 msgctxt "820"
@@ -189,7 +192,7 @@ msgstr ""
 
 msgctxt "940"
 msgid "Glad to hear it."
-msgstr ""
+msgstr "Mi fa piacere."
 
 msgctxt "952"
 msgid ""
@@ -199,11 +202,11 @@ msgstr ""
 
 msgctxt "964"
 msgid "Should we head over to the club now?"
-msgstr ""
+msgstr "Andiamo al club adesso?"
 
 msgctxt "976"
 msgid "Yeah, sounds good."
-msgstr ""
+msgstr "Sì, bella idea."
 
 msgctxt "1000"
 msgid "Aw man, I'm soooo full!"
@@ -211,7 +214,7 @@ msgstr ""
 
 msgctxt "1012"
 msgid "Good to hear."
-msgstr ""
+msgstr "Felice di sentirlo!"
 
 msgctxt "1024"
 msgid "Man, I was so into eating, I totally lost track of time!"
@@ -219,15 +222,15 @@ msgstr ""
 
 msgctxt "1036"
 msgid "Heh, is that so?"
-msgstr ""
+msgstr "Heh, davvero?"
 
 msgctxt "1048"
 msgid "Should we head over to the club now?"
-msgstr ""
+msgstr "Andiamo al club adesso?"
 
 msgctxt "1060"
 msgid "Yeah, sounds good."
-msgstr ""
+msgstr "Sì, bella idea."
 
 msgctxt "1084"
 msgid "......"
@@ -235,7 +238,7 @@ msgstr ""
 
 msgctxt "1096"
 msgid "Everything all right?"
-msgstr ""
+msgstr "Tutto bene?"
 
 msgctxt "1108"
 msgid "No... I kinda don't like this..."
@@ -243,15 +246,15 @@ msgstr ""
 
 msgctxt "1120"
 msgid "Sorry about that..."
-msgstr ""
+msgstr "Scusa per quello..."
 
 msgctxt "1132"
 msgid "Should we head over to the club now?"
-msgstr ""
+msgstr "Andiamo al club adesso?"
 
 msgctxt "1144"
 msgid "Yeah, sounds good."
-msgstr ""
+msgstr "Sì, bella idea."
 
 msgctxt "1168"
 msgid ""
@@ -281,7 +284,7 @@ msgstr ""
 
 msgctxt "13316"
 msgid "dummy"
-msgstr ""
+msgstr "dummy"
 
 msgctxt "13320"
 msgid "0"

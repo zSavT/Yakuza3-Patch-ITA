@@ -1,15 +1,16 @@
+#
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=utf-8\n"
-"Language: pt\n"
-"Language-Team: Portuguese, Brazilian\n"
-"Last-Translator: \n"
-"MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: 2026-07-07\n"
 "Project-Id-Version: yakuza-3-remastered\n"
 "Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-07-07\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgctxt "268"
 msgid "Welcome, sir. How are you feeling today? I'll show you to your seats."
@@ -17,37 +18,37 @@ msgstr ""
 
 msgctxt "280"
 msgid "Sure."
-msgstr ""
+msgstr "Certo."
 
 msgctxt "292"
 msgid "Right this way."
-msgstr ""
+msgstr "Da questa parte."
 
 msgctxt "352"
 msgid "Welcome. Have you decided what you would like?"
-msgstr ""
+msgstr "Benvenuto. Ha deciso cosa desidera?"
 
 msgctxt "364"
 msgid "(Maybe I should order for the both of us.)"
-msgstr ""
+msgstr "(Forse dovrei ordinare per entrambi.)"
 
 msgctxt "424"
 msgid ""
-"Wait, wait, you're not gonna make me decide, are you? Aww, come on, "
-"Kiryu-san!"
+"Wait, wait, you're not gonna make me decide, are you? Aww, come on, Kiryu-"
+"san!"
 msgstr ""
 
 msgctxt "436"
 msgid "All right..."
-msgstr ""
+msgstr "Va bene..."
 
 msgctxt "460"
 msgid "(Oof. I'm full.)"
-msgstr ""
+msgstr "(Uff. Sono pieno.)"
 
 msgctxt "472"
 msgid "I'd like the check, please."
-msgstr ""
+msgstr "Vorrei il conto, per favore."
 
 msgctxt "484"
 msgid "Okay, one moment please."
@@ -63,35 +64,36 @@ msgstr ""
 
 msgctxt "544"
 msgid "Sure."
-msgstr ""
+msgstr "Certo."
 
 msgctxt "556"
 msgid "Right this way."
-msgstr ""
+msgstr "Da questa parte."
 
 msgctxt "616"
 msgid "Welcome. Have you decided what you would like?"
-msgstr ""
+msgstr "Benvenuto. Ha deciso cosa desidera?"
 
 msgctxt "628"
 msgid "(Maybe I should order for the both of us.)"
-msgstr ""
+msgstr "(Forse dovrei ordinare per entrambi.)"
 
 msgctxt "688"
-msgid "Huh? You want me to decide? I think you should do the honors, Kiryu-san."
+msgid ""
+"Huh? You want me to decide? I think you should do the honors, Kiryu-san."
 msgstr ""
 
 msgctxt "700"
 msgid "All right..."
-msgstr ""
+msgstr "Va bene..."
 
 msgctxt "724"
 msgid "(Oof. I'm full.)"
-msgstr ""
+msgstr "(Uff. Sono pieno.)"
 
 msgctxt "736"
 msgid "I'd like the check, please."
-msgstr ""
+msgstr "Vorrei il conto, per favore."
 
 msgctxt "748"
 msgid "Okay, one moment please."
@@ -107,19 +109,19 @@ msgstr ""
 
 msgctxt "808"
 msgid "Sure."
-msgstr ""
+msgstr "Certo."
 
 msgctxt "820"
 msgid "Right this way."
-msgstr ""
+msgstr "Da questa parte."
 
 msgctxt "880"
 msgid "Welcome. Have you decided what you would like?"
-msgstr ""
+msgstr "Benvenuto. Ha deciso cosa desidera?"
 
 msgctxt "892"
 msgid "(Maybe I should order for the both of us.)"
-msgstr ""
+msgstr "(Forse dovrei ordinare per entrambi.)"
 
 msgctxt "952"
 msgid "Oh, you want me to decide? Come on, Kiryu-san! You should pick!"
@@ -127,15 +129,15 @@ msgstr ""
 
 msgctxt "964"
 msgid "All right..."
-msgstr ""
+msgstr "Va bene..."
 
 msgctxt "988"
 msgid "(Oof. I'm full.)"
-msgstr ""
+msgstr "(Uff. Sono pieno.)"
 
 msgctxt "1000"
 msgid "I'd like the check, please."
-msgstr ""
+msgstr "Vorrei il conto, per favore."
 
 msgctxt "1012"
 msgid "Okay, one moment please."
@@ -151,11 +153,11 @@ msgstr ""
 
 msgctxt "1072"
 msgid "Right this way."
-msgstr ""
+msgstr "Da questa parte."
 
 msgctxt "1132"
 msgid "Welcome. Have you decided what you would like?"
-msgstr ""
+msgstr "Benvenuto. Ha deciso cosa desidera?"
 
 msgctxt "1156"
 msgid "Uncle Kaz, I want some <Color:8>Goya Champloo<Color:Default>!"
@@ -167,7 +169,7 @@ msgstr ""
 
 msgctxt "1192"
 msgid "Yay! Let's eat!"
-msgstr ""
+msgstr "Evviva! Mangiamo!"
 
 msgctxt "1252"
 msgid "Mmm. ⑮ I'm so full! Thanks for the meal!"
@@ -179,11 +181,11 @@ msgstr ""
 
 msgctxt "1276"
 msgid "I'd like the check, please."
-msgstr ""
+msgstr "Vorrei il conto, per favore."
 
 msgctxt "1288"
 msgid "Of course. Please pay at the register."
-msgstr ""
+msgstr "Certo. Prego, paghi alla cassa."
 
 msgctxt "1336"
 msgid ""
@@ -201,7 +203,7 @@ msgstr ""
 
 msgctxt "1408"
 msgid "Uncle Kaz, I want some <Color:8>Jimami Tofu<Color:Default>!"
-msgstr ""
+msgstr "Zio Kaz, voglio dei <Color:8>gamberi dolci<Color:Default>!"
 
 msgctxt "1420"
 msgid "(Haruka wants to eat <Color:8>Jimami Tofu<Color:Default>...)"
@@ -209,7 +211,7 @@ msgstr ""
 
 msgctxt "1444"
 msgid "Yay! Let's eat!"
-msgstr ""
+msgstr "Evviva! Mangiamo!"
 
 msgctxt "1504"
 msgid "Mmm. ⑮ I'm so full! Thanks for the meal!"
@@ -221,11 +223,11 @@ msgstr ""
 
 msgctxt "1528"
 msgid "I'd like the check, please."
-msgstr ""
+msgstr "Vorrei il conto, per favore."
 
 msgctxt "1540"
 msgid "Of course. Please pay at the register."
-msgstr ""
+msgstr "Certo. Prego, paghi alla cassa."
 
 msgctxt "1588"
 msgid ""
@@ -243,7 +245,7 @@ msgstr ""
 
 msgctxt "1696"
 msgid "Your bill comes to %s."
-msgstr ""
+msgstr "Il totale è di %s!"
 
 msgctxt "1708"
 msgid "Thank you. Come again!"
@@ -251,71 +253,76 @@ msgstr ""
 
 msgctxt "1756"
 msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
-msgstr ""
+msgstr "Grazie mille, zio Kaz! Ho un regalo per te!"
 
 msgctxt "1768"
 msgid "You got <Color:8>Haruka's Necklace<Color:Default>."
-msgstr ""
+msgstr "Hai ottenuto <Color:8>Collana di Haruka<Color:Default>."
 
 msgctxt "1816"
 msgid ""
 "Thanks a ton, Uncle Kaz! I wanna come with you to play\r\n"
 "cho-han with you next time, okay?"
 msgstr ""
+"Grazie un sacco, zio Kaz! La prossima volta voglio venire a fare una partita"
+" a cho-han con te, ok?"
 
 msgctxt "1828"
 msgid ""
 "Haruka will now occasionally predict the outcome of a round\r\n"
 "when you are playing cho-han."
 msgstr ""
+"D'ora in poi, Haruka a volte prevederà l'esito di una mano quando giochi a "
+"cho-han."
 
 msgctxt "1864"
 msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
-msgstr ""
+msgstr "Grazie mille, zio Kaz! Ho un regalo per te!"
 
 msgctxt "1876"
 msgid "You got <Color:8>Haruka's Bento<Color:Default>."
-msgstr ""
+msgstr "Hai ottenuto <Color:8>L'Amuleto di Haruka<Color:Default>."
 
 msgctxt "1924"
 msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
-msgstr ""
+msgstr "Grazie mille, zio Kaz! Ho un regalo per te!"
 
 msgctxt "1936"
 msgid "You got <Color:8>Haruka's First-Aid Kit<Color:Default>."
 msgstr ""
+"Hai ottenuto <Color:8>Kit di pronto soccorso di Haruka<Color:Default>."
 
 msgctxt "1984"
 msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
-msgstr ""
+msgstr "Grazie mille, zio Kaz! Ho un regalo per te!"
 
 msgctxt "1996"
 msgid "You got a <Color:8>Red Jewel<Color:Default>."
-msgstr ""
+msgstr "Hai ottenuto un <Color:8>Gioiello rosso<Color:Default>."
 
 msgctxt "2044"
 msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
-msgstr ""
+msgstr "Grazie mille, zio Kaz! Ho un regalo per te!"
 
 msgctxt "2056"
 msgid "You got <Color:8>Haruka's Amulet<Color:Default>."
-msgstr ""
+msgstr "Hai ottenuto <Color:8>L'Amuleto di Haruka<Color:Default>."
 
 msgctxt "2104"
 msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
-msgstr ""
+msgstr "Grazie mille, zio Kaz! Ho un regalo per te!"
 
 msgctxt "2116"
 msgid "You got <Color:8>Haruka's Chocolate<Color:Default>."
-msgstr ""
+msgstr "Hai ottenuto <Color:8>Il cioccolato di Haruka<Color:Default>."
 
 msgctxt "2164"
 msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
-msgstr ""
+msgstr "Grazie mille, zio Kaz! Ho un regalo per te!"
 
 msgctxt "2176"
 msgid "You got <Color:8>Haruka's Candy<Color:Default>."
-msgstr ""
+msgstr "Hai ottenuto <Color:8>Dolcetto di Haruka<Color:Default>."
 
 msgctxt "2272"
 msgid "Come back again."
@@ -327,11 +334,11 @@ msgstr ""
 
 msgctxt "2356"
 msgid "(I don't have the cash...)"
-msgstr ""
+msgstr "(Non ho i soldi...)"
 
 msgctxt "2380"
 msgid "(I don't need to eat right now.)"
-msgstr ""
+msgstr "(Non ho bisogno di mangiare adesso.)"
 
 msgctxt "2392"
 msgid "Sorry. There's somewhere else I've got to be."
@@ -343,7 +350,7 @@ msgstr ""
 
 msgctxt "2428"
 msgid "Right this way."
-msgstr ""
+msgstr "Da questa parte."
 
 msgctxt "2488"
 msgid "Welcome. First, what would you like to drink?"
@@ -351,7 +358,7 @@ msgstr ""
 
 msgctxt "2512"
 msgid "(I've already had too much to drink, so...)"
-msgstr ""
+msgstr "(Ho già bevuto troppo, quindi...)"
 
 msgctxt "2524"
 msgid "No, nothing to drink right now."
@@ -371,7 +378,7 @@ msgstr ""
 
 msgctxt "2656"
 msgid "I'd like the check, please."
-msgstr ""
+msgstr "Vorrei il conto, per favore."
 
 msgctxt "2668"
 msgid "Of course, sir!"
@@ -379,7 +386,7 @@ msgstr ""
 
 msgctxt "2692"
 msgid "Thank you. Please come again!"
-msgstr ""
+msgstr "Grazie. Torna a trovarci."
 
 msgctxt "2716"
 msgid ""
@@ -393,7 +400,7 @@ msgstr ""
 
 msgctxt "2764"
 msgid "What would you like to do?"
-msgstr ""
+msgstr "Cosa vuoi fare?"
 
 msgctxt "2872"
 msgid "Just Eat"
@@ -421,7 +428,7 @@ msgstr ""
 
 msgctxt "21200"
 msgid "Employee"
-msgstr ""
+msgstr "Staff"
 
 msgctxt "21204"
 msgid "Talk_Ojigi"

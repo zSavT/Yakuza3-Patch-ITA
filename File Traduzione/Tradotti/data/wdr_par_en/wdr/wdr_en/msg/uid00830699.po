@@ -1,19 +1,20 @@
+#
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=utf-8\n"
-"Language: pt\n"
-"Language-Team: Portuguese, Brazilian\n"
-"Last-Translator: \n"
-"MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: 2026-07-07\n"
 "Project-Id-Version: yakuza-3-remastered\n"
 "Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-07-07\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgctxt "520"
 msgid "One game of pool costs 800 yen."
-msgstr ""
+msgstr "Una partita a biliardo costa 800 yen."
 
 msgctxt "544"
 msgid "Uncle Kaz, try and get a combination shot in nine-ball!"
@@ -43,7 +44,7 @@ msgstr ""
 
 msgctxt "616"
 msgid "But I wanted you to play pool..."
-msgstr ""
+msgstr "Ma volevo che giocassi a poker..."
 
 msgctxt "628"
 msgid "Very good, sir. Enjoy yourself."
@@ -51,19 +52,19 @@ msgstr ""
 
 msgctxt "640"
 msgid "Good luck, Uncle Kaz!"
-msgstr ""
+msgstr "Buona fortuna, zio Kaz!"
 
 msgctxt "664"
 msgid "I see. Please come again."
-msgstr ""
+msgstr "Capisco. Torni a trovarci."
 
 msgctxt "676"
 msgid "But I wanted you to play pool..."
-msgstr ""
+msgstr "Ma volevo che giocassi a poker..."
 
 msgctxt "688"
 msgid "Uncle Kaz, clear a nine-ball game without making a foul!"
-msgstr ""
+msgstr "Zio Kaz! Supera una partita a nove palle senza fare un fallo!"
 
 msgctxt "700"
 msgid "(Clear a nine-ball game without fouling, eh...? Should I try it?)"
@@ -77,7 +78,7 @@ msgstr ""
 
 msgctxt "736"
 msgid "But I wanted you to play pool..."
-msgstr ""
+msgstr "Ma volevo che giocassi a poker..."
 
 msgctxt "748"
 msgid "Very good, sir. Enjoy yourself."
@@ -85,23 +86,23 @@ msgstr ""
 
 msgctxt "760"
 msgid "Good luck, Uncle Kaz!"
-msgstr ""
+msgstr "Buona fortuna, zio Kaz!"
 
 msgctxt "784"
 msgid "I see. Please come again."
-msgstr ""
+msgstr "Capisco. Torni a trovarci."
 
 msgctxt "796"
 msgid "But I wanted you to play pool..."
-msgstr ""
+msgstr "Ma volevo che giocassi a poker..."
 
 msgctxt "820"
 msgid "You can enjoy a game of pool for 800 yen."
-msgstr ""
+msgstr "Puoi farti una partita a biliardo per 800 yen."
 
 msgctxt "844"
 msgid "(Can't afford it right now...)"
-msgstr ""
+msgstr "(Non me lo posso permettere adesso...)"
 
 msgctxt "880"
 msgid ""
@@ -111,8 +112,8 @@ msgstr ""
 
 msgctxt "916"
 msgid ""
-"You can play one of our employees if you'd like. Or would you rather play "
-"by yourself?"
+"You can play one of our employees if you'd like. Or would you rather play by"
+" yourself?"
 msgstr ""
 
 msgctxt "928"
@@ -135,15 +136,15 @@ msgstr ""
 
 msgctxt "988"
 msgid "Yeah, no problem."
-msgstr ""
+msgstr "Eh, nessun problema."
 
 msgctxt "1000"
 msgid "Understood."
-msgstr ""
+msgstr "Ricevuto."
 
 msgctxt "1024"
 msgid "(I don't have enough money...)"
-msgstr ""
+msgstr "(Non ho abbastanza soldi...)"
 
 msgctxt "1036"
 msgid "All right, then. Please ask the staff about the game rules."
@@ -162,36 +163,37 @@ msgid "All right, then. Please ask the staff about the game rules."
 msgstr ""
 
 msgctxt "1132"
-msgid "All right, then. Try Nine-ball if you're playing alone. Enjoy your game."
+msgid ""
+"All right, then. Try Nine-ball if you're playing alone. Enjoy your game."
 msgstr ""
 
 msgctxt "1156"
 msgid "I see. Please come again."
-msgstr ""
+msgstr "Capisco. Torni a trovarci."
 
 msgctxt "1180"
 msgid "Play"
-msgstr ""
+msgstr "Gioca"
 
 msgctxt "1192"
 msgid "Don't Play"
-msgstr ""
+msgstr "Non giocare"
 
 msgctxt "1204"
 msgid "Play"
-msgstr ""
+msgstr "Gioca"
 
 msgctxt "1216"
 msgid "Don't Play"
-msgstr ""
+msgstr "Non giocare"
 
 msgctxt "1228"
 msgid "Play"
-msgstr ""
+msgstr "Gioca"
 
 msgctxt "1240"
 msgid "Don't Play"
-msgstr ""
+msgstr "Non giocare"
 
 msgctxt "1252"
 msgid "Play Makoto Kano (Beginner)"
@@ -199,15 +201,15 @@ msgstr ""
 
 msgctxt "1264"
 msgid "Play Shunichi Arahama (Intermediate)"
-msgstr ""
+msgstr "Shunichi Arahama (Intermedio)"
 
 msgctxt "1276"
 msgid "Play Kiko Hirakawa (Advanced)"
-msgstr ""
+msgstr "Kiko Hirakawa (Avanzato)"
 
 msgctxt "1288"
 msgid "Play Seiji Nakazato (Expert)"
-msgstr ""
+msgstr "Seiji Nakazato (Esperto)"
 
 msgctxt "1300"
 msgid "Invite Mika Tsuchiya"
@@ -219,11 +221,11 @@ msgstr ""
 
 msgctxt "1324"
 msgid "Play Alone"
-msgstr ""
+msgstr "Gioca da solo"
 
 msgctxt "1336"
 msgid "Don't Play"
-msgstr ""
+msgstr "Non giocare"
 
 msgctxt "1348"
 msgid "Play Makoto Kano (Beginner)"
@@ -231,35 +233,35 @@ msgstr ""
 
 msgctxt "1360"
 msgid "Play Shunichi Arahama (Intermediate)"
-msgstr ""
+msgstr "Shunichi Arahama (Intermedio)"
 
 msgctxt "1372"
 msgid "Play Kiko Hirakawa (Advanced)"
-msgstr ""
+msgstr "Kiko Hirakawa (Avanzato)"
 
 msgctxt "1384"
 msgid "Play Seiji Nakazato (Expert)"
-msgstr ""
+msgstr "Seiji Nakazato (Esperto)"
 
 msgctxt "1396"
 msgid "Play Alone"
-msgstr ""
+msgstr "Gioca da solo"
 
 msgctxt "1408"
 msgid "Don't Play"
-msgstr ""
+msgstr "Non giocare"
 
 msgctxt "1420"
 msgid "Play"
-msgstr ""
+msgstr "Gioca"
 
 msgctxt "1432"
 msgid "Don't Play"
-msgstr ""
+msgstr "Non giocare"
 
 msgctxt "9036"
 msgid "Bartender"
-msgstr ""
+msgstr "Barista"
 
 msgctxt "9040"
 msgid "Haruka"

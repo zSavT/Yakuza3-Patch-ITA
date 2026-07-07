@@ -1,15 +1,16 @@
+#
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=utf-8\n"
-"Language: pt\n"
-"Language-Team: Portuguese, Brazilian\n"
-"Last-Translator: \n"
-"MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: 2026-07-07\n"
 "Project-Id-Version: yakuza-3-remastered\n"
 "Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-07-07\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgctxt "108"
 msgid ""
@@ -77,7 +78,7 @@ msgstr ""
 
 msgctxt "312"
 msgid "What are you talking about?"
-msgstr ""
+msgstr "Di cosa stai parlando?"
 
 msgctxt "324"
 msgid ""
@@ -161,7 +162,7 @@ msgstr ""
 
 msgctxt "588"
 msgid "You paid <Color:8>65,000 yen<Color:Default>."
-msgstr ""
+msgstr "Hai pagato <Color:8>50.000 yen<Color:Default>."
 
 msgctxt "600"
 msgid "Thanks a lot, Aniki!"
@@ -169,7 +170,7 @@ msgstr ""
 
 msgctxt "612"
 msgid "Of course."
-msgstr ""
+msgstr "E di che."
 
 msgctxt "624"
 msgid "Oh, and we're splitting the bill."
@@ -181,7 +182,7 @@ msgstr ""
 
 msgctxt "648"
 msgid "Something wrong with that?"
-msgstr ""
+msgstr "Che c'è di male?"
 
 msgctxt "660"
 msgid "Oh, no. Not at all. Nothing. Nope! Ignore me!"
@@ -211,7 +212,7 @@ msgstr ""
 
 msgctxt "780"
 msgid "What are you talking about?"
-msgstr ""
+msgstr "Di cosa stai parlando?"
 
 msgctxt "792"
 msgid ""
@@ -291,7 +292,7 @@ msgstr ""
 
 msgctxt "1032"
 msgid "You each paid <Color:8>4,000 yen<Color:Default>."
-msgstr ""
+msgstr "Hai pagato <Color:8>50.000 yen<Color:Default>."
 
 msgctxt "1044"
 msgid "......"
@@ -353,7 +354,7 @@ msgstr ""
 
 msgctxt "14400"
 msgid "Employee"
-msgstr ""
+msgstr "Staff"
 
 msgctxt "14404"
 msgid "Talk_Send"

@@ -1,15 +1,16 @@
+#
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=utf-8\n"
-"Language: pt\n"
-"Language-Team: Portuguese, Brazilian\n"
-"Last-Translator: \n"
-"MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: 2026-07-07\n"
 "Project-Id-Version: yakuza-3-remastered\n"
 "Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-07-07\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgctxt "264"
 msgid "Whuh... Hooomph!"
@@ -17,7 +18,7 @@ msgstr ""
 
 msgctxt "276"
 msgid "Looks like I won."
-msgstr ""
+msgstr "Direi che ho vinto!"
 
 msgctxt "288"
 msgid ""
@@ -33,7 +34,7 @@ msgstr ""
 
 msgctxt "312"
 msgid "Thanks."
-msgstr ""
+msgstr "Grazie."
 
 msgctxt "324"
 msgid ""
@@ -43,7 +44,7 @@ msgstr ""
 
 msgctxt "384"
 msgid "*pant* *pant*"
-msgstr ""
+msgstr "*anf* *anf*"
 
 msgctxt "396"
 msgid "My win this time."
@@ -61,7 +62,7 @@ msgstr ""
 
 msgctxt "480"
 msgid "Looks like I won."
-msgstr ""
+msgstr "Direi che ho vinto!"
 
 msgctxt "492"
 msgid ""
@@ -77,7 +78,7 @@ msgstr ""
 
 msgctxt "516"
 msgid "Thanks."
-msgstr ""
+msgstr "Grazie."
 
 msgctxt "528"
 msgid "Guess I still got a ways to go... But I'll get you next time."
@@ -85,7 +86,7 @@ msgstr ""
 
 msgctxt "588"
 msgid "*pant* *pant*"
-msgstr ""
+msgstr "*anf* *anf*"
 
 msgctxt "600"
 msgid ""
@@ -115,7 +116,7 @@ msgstr ""
 
 msgctxt "708"
 msgid "Looks like I win."
-msgstr ""
+msgstr "Sembra che abbia vinto io."
 
 msgctxt "720"
 msgid "Now I see... how ya were able beat my brothers..."
@@ -130,7 +131,7 @@ msgstr ""
 
 msgctxt "744"
 msgid "Thanks."
-msgstr ""
+msgstr "Grazie."
 
 msgctxt "756"
 msgid ""
@@ -140,7 +141,7 @@ msgstr ""
 
 msgctxt "816"
 msgid "*pant* *pant*"
-msgstr ""
+msgstr "*anf* *anf*"
 
 msgctxt "828"
 msgid ""
@@ -170,12 +171,13 @@ msgid "Ooh, lookie here. The big man wants himself another challenge."
 msgstr ""
 
 msgctxt "936"
-msgid "That's mighty fine, 'cause we're all rarin' to go. So what's it gonna be?"
+msgid ""
+"That's mighty fine, 'cause we're all rarin' to go. So what's it gonna be?"
 msgstr ""
 
 msgctxt "948"
 msgid "Let's see here..."
-msgstr ""
+msgstr "(Vediamo un po'...)"
 
 msgctxt "960"
 msgid ""
@@ -314,17 +316,18 @@ msgstr ""
 
 msgctxt "1452"
 msgid ""
-"What're you, a fuckin' bum? You tell me this now, after building up all "
-"that hype?"
+"What're you, a fuckin' bum? You tell me this now, after building up all that"
+" hype?"
 msgstr ""
 
 msgctxt "1464"
-msgid "Fine.. Go scrape up 10,000 yen and come back. I'll be waitin' right here."
+msgid ""
+"Fine.. Go scrape up 10,000 yen and come back. I'll be waitin' right here."
 msgstr ""
 
 msgctxt "1476"
 msgid "All right..."
-msgstr ""
+msgstr "Va bene..."
 
 msgctxt "1536"
 msgid "Sorry... Maybe some other time."
@@ -338,7 +341,7 @@ msgstr ""
 
 msgctxt "1560"
 msgid "Okay."
-msgstr ""
+msgstr "Ok."
 
 msgctxt "1572"
 msgid "See ya 'round, then."
@@ -366,7 +369,7 @@ msgstr ""
 
 msgctxt "13804"
 msgid "Mr. Try and Hit Me"
-msgstr ""
+msgstr "Mister Prova a Colpirmi"
 
 msgctxt "13808"
 msgid "Kiryu"

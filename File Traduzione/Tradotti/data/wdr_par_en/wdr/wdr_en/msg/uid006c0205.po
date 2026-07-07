@@ -1,15 +1,16 @@
+#
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=utf-8\n"
-"Language: pt\n"
-"Language-Team: Portuguese, Brazilian\n"
-"Last-Translator: \n"
-"MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: 2026-07-07\n"
 "Project-Id-Version: yakuza-3-remastered\n"
 "Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-07-07\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgctxt "436"
 msgid "Kiryu-san!? What's going on here?"
@@ -43,7 +44,7 @@ msgstr ""
 
 msgctxt "520"
 msgid "Sorry..."
-msgstr ""
+msgstr "Scusa..."
 
 msgctxt "532"
 msgid ""
@@ -57,7 +58,7 @@ msgstr ""
 
 msgctxt "568"
 msgid "Oh, right."
-msgstr ""
+msgstr "Ah, giusto..."
 
 msgctxt "580"
 msgid ""
@@ -80,7 +81,8 @@ msgid "......"
 msgstr ""
 
 msgctxt "628"
-msgid "In other news, a bunch of customers just canceled on me. One after another."
+msgid ""
+"In other news, a bunch of customers just canceled on me. One after another."
 msgstr ""
 
 msgctxt "640"
@@ -92,7 +94,8 @@ msgid "Oh, what am I doing... Complaining's not gonna help."
 msgstr ""
 
 msgctxt "664"
-msgid "Sorry for bringing up something so depressing. Let's go do something fun!"
+msgid ""
+"Sorry for bringing up something so depressing. Let's go do something fun!"
 msgstr ""
 
 msgctxt "688"
@@ -109,7 +112,7 @@ msgstr ""
 
 msgctxt "736"
 msgid "Come on, let's go."
-msgstr ""
+msgstr "Dai, andiamo."
 
 msgctxt "760"
 msgid "How about Kanrai? They've got some pretty good yakiniku there."
@@ -123,7 +126,7 @@ msgstr ""
 
 msgctxt "784"
 msgid "Come on, let's go."
-msgstr ""
+msgstr "Dai, andiamo."
 
 msgctxt "820"
 msgid "How about Sushi Gin?"
@@ -139,7 +142,7 @@ msgstr ""
 
 msgctxt "856"
 msgid "Oh..."
-msgstr ""
+msgstr "Oh..."
 
 msgctxt "868"
 msgid "But hey, if that's where you wanna go, then let's go have some sushi."
@@ -147,7 +150,7 @@ msgstr ""
 
 msgctxt "880"
 msgid "Come on, let's go."
-msgstr ""
+msgstr "Dai, andiamo."
 
 msgctxt "904"
 msgid "How about Sushi Gin?"
@@ -167,7 +170,7 @@ msgstr ""
 
 msgctxt "952"
 msgid "Come on, let's go."
-msgstr ""
+msgstr "Dai, andiamo."
 
 msgctxt "988"
 msgid "How about Le Marche for a little shopping?"
@@ -175,7 +178,7 @@ msgstr ""
 
 msgctxt "1000"
 msgid "Oh, you're gonna buy me something?"
-msgstr ""
+msgstr "Eh!? Oh, mi compri qualcosa?"
 
 msgctxt "1012"
 msgid "Heheh. Now what I should have you get? <Color:7>⑮<Color:Default>"
@@ -183,7 +186,7 @@ msgstr ""
 
 msgctxt "1024"
 msgid "Come on, let's go."
-msgstr ""
+msgstr "Dai, andiamo."
 
 msgctxt "1048"
 msgid "How about Le Marche for a little shopping?"
@@ -195,7 +198,7 @@ msgstr ""
 
 msgctxt "1072"
 msgid "Come on, let's go."
-msgstr ""
+msgstr "Dai, andiamo."
 
 msgctxt "1108"
 msgid "How about a little bowling?"
@@ -207,11 +210,11 @@ msgstr ""
 
 msgctxt "1132"
 msgid "Heheh. Let's see what you got."
-msgstr ""
+msgstr "Hehe. Vediamo un po' cosa sai fare."
 
 msgctxt "1144"
 msgid "Come on, let's go."
-msgstr ""
+msgstr "Dai, andiamo."
 
 msgctxt "1168"
 msgid "How about a little bowling?"
@@ -223,7 +226,7 @@ msgstr ""
 
 msgctxt "1192"
 msgid "Come on, let's go."
-msgstr ""
+msgstr "Dai, andiamo."
 
 msgctxt "1228"
 msgid "How about some darts over at Bantam?"
@@ -241,7 +244,7 @@ msgstr ""
 
 msgctxt "1264"
 msgid "All right, let's do this."
-msgstr ""
+msgstr "Ok, facciamolo."
 
 msgctxt "1288"
 msgid "How about some darts over at Bantam?"
@@ -253,11 +256,11 @@ msgstr ""
 
 msgctxt "1312"
 msgid "All right, let's do this."
-msgstr ""
+msgstr "Ok, facciamolo."
 
 msgctxt "1348"
 msgid "Want to go sing some karaoke?"
-msgstr ""
+msgstr "Ti va di andare a cantare al karaoke?"
 
 msgctxt "1360"
 msgid "Ooh, totally! I love karaoke. <Color:7>⑮<Color:Default>"
@@ -269,14 +272,15 @@ msgstr ""
 
 msgctxt "1384"
 msgid "Come on, let's go."
-msgstr ""
+msgstr "Dai, andiamo."
 
 msgctxt "1408"
 msgid "Want to go sing some karaoke?"
-msgstr ""
+msgstr "Ti va di andare a cantare al karaoke?"
 
 msgctxt "1420"
-msgid "Again? You really wanna hear me sing that badly? <Color:7>⑮<Color:Default>"
+msgid ""
+"Again? You really wanna hear me sing that badly? <Color:7>⑮<Color:Default>"
 msgstr ""
 
 msgctxt "1432"
@@ -289,11 +293,11 @@ msgstr ""
 
 msgctxt "1468"
 msgid "Heheh... And right on time, too. That's so like you."
-msgstr ""
+msgstr "E puntuale, anche. È proprio da te."
 
 msgctxt "1492"
 msgid "Oh, right."
-msgstr ""
+msgstr "Ah, giusto..."
 
 msgctxt "1504"
 msgid ""
@@ -316,7 +320,8 @@ msgid "......"
 msgstr ""
 
 msgctxt "1552"
-msgid "In other news, a bunch of customers just canceled on me. One after another."
+msgid ""
+"In other news, a bunch of customers just canceled on me. One after another."
 msgstr ""
 
 msgctxt "1564"
@@ -328,7 +333,8 @@ msgid "Oh, what am I doing... Complaining's not gonna help."
 msgstr ""
 
 msgctxt "1588"
-msgid "Sorry for bringing up something so depressing. Let's go do something fun!"
+msgid ""
+"Sorry for bringing up something so depressing. Let's go do something fun!"
 msgstr ""
 
 msgctxt "1612"
@@ -347,7 +353,7 @@ msgstr ""
 
 msgctxt "1660"
 msgid "Come on, let's go."
-msgstr ""
+msgstr "Dai, andiamo."
 
 msgctxt "1684"
 msgid "How about Kanrai? They've got some pretty good yakiniku there."
@@ -361,7 +367,7 @@ msgstr ""
 
 msgctxt "1708"
 msgid "Come on, let's go."
-msgstr ""
+msgstr "Dai, andiamo."
 
 msgctxt "1744"
 msgid "How about Sushi Gin?"
@@ -377,7 +383,7 @@ msgstr ""
 
 msgctxt "1780"
 msgid "Oh..."
-msgstr ""
+msgstr "Oh..."
 
 msgctxt "1792"
 msgid "But hey, if that's where you wanna go, then let's go have some sushi."
@@ -385,7 +391,7 @@ msgstr ""
 
 msgctxt "1804"
 msgid "Come on, let's go."
-msgstr ""
+msgstr "Dai, andiamo."
 
 msgctxt "1828"
 msgid "How about Sushi Gin?"
@@ -405,7 +411,7 @@ msgstr ""
 
 msgctxt "1876"
 msgid "Come on, let's go."
-msgstr ""
+msgstr "Dai, andiamo."
 
 msgctxt "1912"
 msgid "How about Le Marche for a little shopping?"
@@ -413,7 +419,7 @@ msgstr ""
 
 msgctxt "1924"
 msgid "Oh, you're gonna buy me something?"
-msgstr ""
+msgstr "Eh!? Oh, mi compri qualcosa?"
 
 msgctxt "1936"
 msgid "Heheh. Now what I should have you get? <Color:7>⑮<Color:Default>"
@@ -421,7 +427,7 @@ msgstr ""
 
 msgctxt "1948"
 msgid "Come on, let's go."
-msgstr ""
+msgstr "Dai, andiamo."
 
 msgctxt "1972"
 msgid "How about Le Marche for a little shopping?"
@@ -433,7 +439,7 @@ msgstr ""
 
 msgctxt "1996"
 msgid "Come on, let's go."
-msgstr ""
+msgstr "Dai, andiamo."
 
 msgctxt "2032"
 msgid "How about a little bowling?"
@@ -445,11 +451,11 @@ msgstr ""
 
 msgctxt "2056"
 msgid "Heheh. Let's see what you got."
-msgstr ""
+msgstr "Hehe. Vediamo un po' cosa sai fare."
 
 msgctxt "2068"
 msgid "Come on, let's go."
-msgstr ""
+msgstr "Dai, andiamo."
 
 msgctxt "2092"
 msgid "How about a little bowling?"
@@ -461,7 +467,7 @@ msgstr ""
 
 msgctxt "2116"
 msgid "Come on, let's go."
-msgstr ""
+msgstr "Dai, andiamo."
 
 msgctxt "2152"
 msgid "How about some darts over at Bantam?"
@@ -479,7 +485,7 @@ msgstr ""
 
 msgctxt "2188"
 msgid "All right, let's do this."
-msgstr ""
+msgstr "Ok, facciamolo."
 
 msgctxt "2212"
 msgid "How about some darts over at Bantam?"
@@ -491,11 +497,11 @@ msgstr ""
 
 msgctxt "2236"
 msgid "All right, let's do this."
-msgstr ""
+msgstr "Ok, facciamolo."
 
 msgctxt "2272"
 msgid "Want to go sing karaoke?"
-msgstr ""
+msgstr "Ti va di andare a cantare al karaoke?"
 
 msgctxt "2284"
 msgid "Ooh, totally! I love karaoke. <Color:7>⑮<Color:Default>"
@@ -507,14 +513,15 @@ msgstr ""
 
 msgctxt "2308"
 msgid "Come on, let's go."
-msgstr ""
+msgstr "Dai, andiamo."
 
 msgctxt "2332"
 msgid "Want to go sing some karaoke?"
-msgstr ""
+msgstr "Ti va di andare a cantare al karaoke?"
 
 msgctxt "2344"
-msgid "Again? You really wanna hear me sing that badly? <Color:7>⑮<Color:Default>"
+msgid ""
+"Again? You really wanna hear me sing that badly? <Color:7>⑮<Color:Default>"
 msgstr ""
 
 msgctxt "2356"
@@ -523,7 +530,7 @@ msgstr ""
 
 msgctxt "2380"
 msgid "Oh, Kiryu-san, you're here already?"
-msgstr ""
+msgstr "Oh, Kiryu-san. Sei già qui?"
 
 msgctxt "2392"
 msgid "Heheh. I came a little early myself. <Color:7>⑮<Color:Default>"
@@ -531,7 +538,7 @@ msgstr ""
 
 msgctxt "2416"
 msgid "Oh, right."
-msgstr ""
+msgstr "Ah, giusto..."
 
 msgctxt "2428"
 msgid ""
@@ -554,7 +561,8 @@ msgid "......"
 msgstr ""
 
 msgctxt "2476"
-msgid "In other news, a bunch of customers just canceled on me. One after another."
+msgid ""
+"In other news, a bunch of customers just canceled on me. One after another."
 msgstr ""
 
 msgctxt "2488"
@@ -566,7 +574,8 @@ msgid "Oh, what am I doing... Complaining's not gonna help."
 msgstr ""
 
 msgctxt "2512"
-msgid "Sorry for bringing up something so depressing. Let's go do something fun!"
+msgid ""
+"Sorry for bringing up something so depressing. Let's go do something fun!"
 msgstr ""
 
 msgctxt "2536"
@@ -585,7 +594,7 @@ msgstr ""
 
 msgctxt "2584"
 msgid "Come on, let's go."
-msgstr ""
+msgstr "Dai, andiamo."
 
 msgctxt "2608"
 msgid "How about Kanrai? They've got some pretty good yakiniku there."
@@ -599,7 +608,7 @@ msgstr ""
 
 msgctxt "2632"
 msgid "Come on, let's go."
-msgstr ""
+msgstr "Dai, andiamo."
 
 msgctxt "2668"
 msgid "How about Sushi Gin?"
@@ -615,7 +624,7 @@ msgstr ""
 
 msgctxt "2704"
 msgid "Oh..."
-msgstr ""
+msgstr "Oh..."
 
 msgctxt "2716"
 msgid "But hey, if that's where you wanna go, then let's go have some sushi."
@@ -623,7 +632,7 @@ msgstr ""
 
 msgctxt "2728"
 msgid "Come on, let's go."
-msgstr ""
+msgstr "Dai, andiamo."
 
 msgctxt "2752"
 msgid "How about Sushi Gin?"
@@ -643,7 +652,7 @@ msgstr ""
 
 msgctxt "2800"
 msgid "Come on, let's go."
-msgstr ""
+msgstr "Dai, andiamo."
 
 msgctxt "2836"
 msgid "How about Le Marche for a little shopping?"
@@ -651,7 +660,7 @@ msgstr ""
 
 msgctxt "2848"
 msgid "Oh, you're gonna buy me something?"
-msgstr ""
+msgstr "Eh!? Oh, mi compri qualcosa?"
 
 msgctxt "2860"
 msgid "Heheh. Now what I should have you get? <Color:7>⑮<Color:Default>"
@@ -659,7 +668,7 @@ msgstr ""
 
 msgctxt "2872"
 msgid "Come on, let's go."
-msgstr ""
+msgstr "Dai, andiamo."
 
 msgctxt "2896"
 msgid "How about Le Marche for a little shopping?"
@@ -671,7 +680,7 @@ msgstr ""
 
 msgctxt "2920"
 msgid "Come on, let's go."
-msgstr ""
+msgstr "Dai, andiamo."
 
 msgctxt "2956"
 msgid "How about a little bowling?"
@@ -683,11 +692,11 @@ msgstr ""
 
 msgctxt "2980"
 msgid "Heheh. Let's see what you got."
-msgstr ""
+msgstr "Hehe. Vediamo un po' cosa sai fare."
 
 msgctxt "2992"
 msgid "Come on, let's go."
-msgstr ""
+msgstr "Dai, andiamo."
 
 msgctxt "3016"
 msgid "How about a little bowling?"
@@ -699,7 +708,7 @@ msgstr ""
 
 msgctxt "3040"
 msgid "Come on, let's go."
-msgstr ""
+msgstr "Dai, andiamo."
 
 msgctxt "3076"
 msgid "How about some darts over at Bantam?"
@@ -717,7 +726,7 @@ msgstr ""
 
 msgctxt "3112"
 msgid "All right, let's do this."
-msgstr ""
+msgstr "Ok, facciamolo."
 
 msgctxt "3136"
 msgid "How about some darts over at Bantam?"
@@ -729,11 +738,11 @@ msgstr ""
 
 msgctxt "3160"
 msgid "All right, let's do this."
-msgstr ""
+msgstr "Ok, facciamolo."
 
 msgctxt "3196"
 msgid "Want to go sing some karaoke?"
-msgstr ""
+msgstr "Ti va di andare a cantare al karaoke?"
 
 msgctxt "3208"
 msgid "Ooh, totally! I love karaoke. <Color:7>⑮<Color:Default>"
@@ -745,14 +754,15 @@ msgstr ""
 
 msgctxt "3232"
 msgid "Come on, let's go."
-msgstr ""
+msgstr "Dai, andiamo."
 
 msgctxt "3256"
 msgid "Want to go sing some karaoke?"
-msgstr ""
+msgstr "Ti va di andare a cantare al karaoke?"
 
 msgctxt "3268"
-msgid "Again? You really wanna hear me sing that badly? <Color:7>⑮<Color:Default>"
+msgid ""
+"Again? You really wanna hear me sing that badly? <Color:7>⑮<Color:Default>"
 msgstr ""
 
 msgctxt "3280"
@@ -761,7 +771,7 @@ msgstr ""
 
 msgctxt "3304"
 msgid "How about some yakiniku?"
-msgstr ""
+msgstr "Ti va un po' di yakiniku?"
 
 msgctxt "3316"
 msgid "How about sushi?"
@@ -777,7 +787,7 @@ msgstr ""
 
 msgctxt "3352"
 msgid "How about some darts?"
-msgstr ""
+msgstr "Che ne dici di fare due freccette?"
 
 msgctxt "3364"
 msgid "Want to sing some karaoke?"
@@ -785,7 +795,7 @@ msgstr ""
 
 msgctxt "3376"
 msgid "How about some yakiniku?"
-msgstr ""
+msgstr "Ti va un po' di yakiniku?"
 
 msgctxt "3388"
 msgid "How about sushi?"
@@ -801,7 +811,7 @@ msgstr ""
 
 msgctxt "3424"
 msgid "How about some darts?"
-msgstr ""
+msgstr "Che ne dici di fare due freccette?"
 
 msgctxt "3436"
 msgid "Want to sing some karaoke?"
@@ -809,7 +819,7 @@ msgstr ""
 
 msgctxt "3448"
 msgid "How about some yakiniku?"
-msgstr ""
+msgstr "Ti va un po' di yakiniku?"
 
 msgctxt "3460"
 msgid "How about sushi?"
@@ -825,7 +835,7 @@ msgstr ""
 
 msgctxt "3496"
 msgid "How about some darts?"
-msgstr ""
+msgstr "Che ne dici di fare due freccette?"
 
 msgctxt "3508"
 msgid "Want to sing some karaoke?"

@@ -1,15 +1,16 @@
+#
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=utf-8\n"
-"Language: pt\n"
-"Language-Team: Portuguese, Brazilian\n"
-"Last-Translator: \n"
-"MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: 2026-07-07\n"
 "Project-Id-Version: yakuza-3-remastered\n"
 "Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-07-07\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgctxt "196"
 msgid ""
@@ -60,7 +61,7 @@ msgstr ""
 
 msgctxt "292"
 msgid "All right. I'll see what I can do."
-msgstr ""
+msgstr "Va bene. Vedrò cosa posso fare."
 
 msgctxt "304"
 msgid "I'll let you know when the time's up. Good luck."
@@ -154,7 +155,7 @@ msgstr ""
 
 msgctxt "748"
 msgid "What!?"
-msgstr ""
+msgstr "Cosa!?"
 
 msgctxt "760"
 msgid "Empty out your pockets. Let's see what you got."
@@ -162,7 +163,7 @@ msgstr ""
 
 msgctxt "820"
 msgid "...Oh shit."
-msgstr ""
+msgstr "...Oh merda!"
 
 msgctxt "832"
 msgid "Aha, what's this? I haven't seen you pay for that yet."
@@ -283,7 +284,7 @@ msgstr ""
 
 msgctxt "1480"
 msgid "You got <Color:8>3,000 yen<Color:Default>."
-msgstr ""
+msgstr "Hai ottenuto <Color:8>30.000 yen<Color:Default>."
 
 msgctxt "1492"
 msgid ""
@@ -319,7 +320,7 @@ msgstr ""
 
 msgctxt "1576"
 msgid "Sorry about that."
-msgstr ""
+msgstr "Scusami tanto."
 
 msgctxt "1588"
 msgid "In any case... Here's your day's pay."
@@ -327,7 +328,7 @@ msgstr ""
 
 msgctxt "1600"
 msgid "You got <Color:8>1,000 yen<Color:Default>."
-msgstr ""
+msgstr "Hai intascato <Color:8>18,000 yen<Color:Default>."
 
 msgctxt "1612"
 msgid "Thanks again for your help. Hope to see you around soon."
@@ -415,7 +416,7 @@ msgstr ""
 
 msgctxt "15960"
 msgid "Woman"
-msgstr ""
+msgstr "Donna"
 
 msgctxt "15964"
 msgid "F_nml_stand_tlk_manbiki"
@@ -439,7 +440,7 @@ msgstr ""
 
 msgctxt "15984"
 msgid "Man"
-msgstr ""
+msgstr "Uomo"
 
 msgctxt "15988"
 msgid "M_nml_stand_tlk_manbiki"

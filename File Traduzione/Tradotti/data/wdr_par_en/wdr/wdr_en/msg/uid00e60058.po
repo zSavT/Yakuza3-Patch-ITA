@@ -1,15 +1,16 @@
+#
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=utf-8\n"
-"Language: pt\n"
-"Language-Team: Portuguese, Brazilian\n"
-"Last-Translator: \n"
-"MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: 2026-07-07\n"
 "Project-Id-Version: yakuza-3-remastered\n"
 "Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-07-07\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgctxt "212"
 msgid "Okay, what's going on?"
@@ -46,7 +47,7 @@ msgstr ""
 
 msgctxt "284"
 msgid "Let's see..."
-msgstr ""
+msgstr "Vediamo..."
 
 msgctxt "296"
 msgid ""
@@ -197,7 +198,7 @@ msgstr ""
 
 msgctxt "872"
 msgid "How'd it go?"
-msgstr ""
+msgstr "Com'è andata?"
 
 msgctxt "884"
 msgid ""
@@ -239,7 +240,7 @@ msgstr ""
 
 msgctxt "980"
 msgid "What's wrong?"
-msgstr ""
+msgstr "Che succede?"
 
 msgctxt "992"
 msgid "I don't have her number..."
@@ -277,7 +278,7 @@ msgstr ""
 
 msgctxt "1148"
 msgid "How'd it go?"
-msgstr ""
+msgstr "Com'è andata?"
 
 msgctxt "1172"
 msgid "The best I can manage right now is ordering burgers..."
@@ -285,8 +286,8 @@ msgstr ""
 
 msgctxt "1184"
 msgid ""
-"I don't understand how you can even eat that much. Guess it's up to me to "
-"do something."
+"I don't understand how you can even eat that much. Guess it's up to me to do"
+" something."
 msgstr ""
 
 msgctxt "1196"
@@ -297,7 +298,7 @@ msgstr ""
 
 msgctxt "1208"
 msgid "Wait, what's that supposed to mean?"
-msgstr ""
+msgstr "Che cosa vorresti dire?"
 
 msgctxt "1220"
 msgid "It means she talked to me! She recognized me!"
@@ -319,7 +320,7 @@ msgstr ""
 
 msgctxt "1268"
 msgid "What the hell are you doing?"
-msgstr ""
+msgstr "Ma che stai combinando!?"
 
 msgctxt "1280"
 msgid "You can have it if you want. I'm too full..."
@@ -347,7 +348,7 @@ msgstr ""
 
 msgctxt "1352"
 msgid "Wait, what!?"
-msgstr ""
+msgstr "Aspetta, cosa!?"
 
 msgctxt "1364"
 msgid ""
@@ -357,7 +358,7 @@ msgstr ""
 
 msgctxt "1376"
 msgid "Wait, but...!"
-msgstr ""
+msgstr "Aspetta, ma..."
 
 msgctxt "1388"
 msgid "Just pipe down and follow me."
@@ -417,7 +418,7 @@ msgstr ""
 
 msgctxt "17852"
 msgid "Idle"
-msgstr ""
+msgstr "Inattivo"
 
 msgctxt "17856"
 msgid "Talk_Think"

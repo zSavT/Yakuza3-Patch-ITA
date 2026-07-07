@@ -1,15 +1,16 @@
+#
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=utf-8\n"
-"Language: pt\n"
-"Language-Team: Portuguese, Brazilian\n"
-"Last-Translator: \n"
-"MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: 2026-07-07\n"
 "Project-Id-Version: yakuza-3-remastered\n"
 "Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-07-07\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgctxt "236"
 msgid "(Time to bring Ayako home. She must have gone downtown...)"
@@ -67,7 +68,7 @@ msgstr ""
 
 msgctxt "416"
 msgid "Um..."
-msgstr ""
+msgstr "Ehm..."
 
 msgctxt "440"
 msgid "Mitsuo."
@@ -75,7 +76,7 @@ msgstr ""
 
 msgctxt "452"
 msgid "Uh... yeah?"
-msgstr ""
+msgstr "Uh... Sì."
 
 msgctxt "464"
 msgid ""
@@ -89,7 +90,7 @@ msgstr ""
 
 msgctxt "488"
 msgid "That's right."
-msgstr ""
+msgstr "Esatto."
 
 msgctxt "500"
 msgid "She didn't have to do that. It was just a little scuffle."
@@ -129,7 +130,7 @@ msgstr ""
 
 msgctxt "596"
 msgid "Well, um..."
-msgstr ""
+msgstr "Beh, ehm..."
 
 msgctxt "620"
 msgid "Taichi."
@@ -137,7 +138,7 @@ msgstr ""
 
 msgctxt "632"
 msgid "What?"
-msgstr ""
+msgstr "Cosa?"
 
 msgctxt "644"
 msgid "Remember when you collapsed from your buckwheat allergy?"
@@ -145,7 +146,7 @@ msgstr ""
 
 msgctxt "656"
 msgid "Yeah..."
-msgstr ""
+msgstr "Già..."
 
 msgctxt "668"
 msgid ""
@@ -155,7 +156,7 @@ msgstr ""
 
 msgctxt "680"
 msgid "I..."
-msgstr ""
+msgstr "Io..."
 
 msgctxt "704"
 msgid "Izumi."
@@ -174,7 +175,7 @@ msgstr ""
 
 msgctxt "740"
 msgid "Um..."
-msgstr ""
+msgstr "Ehm..."
 
 msgctxt "764"
 msgid "Eri."
@@ -182,7 +183,7 @@ msgstr ""
 
 msgctxt "776"
 msgid "Yeah...?"
-msgstr ""
+msgstr "Già..."
 
 msgctxt "788"
 msgid ""
@@ -193,7 +194,7 @@ msgstr ""
 
 msgctxt "800"
 msgid "Yeah..."
-msgstr ""
+msgstr "Già..."
 
 msgctxt "824"
 msgid "Riona."
@@ -201,7 +202,7 @@ msgstr ""
 
 msgctxt "836"
 msgid "Me? I didn't do anything."
-msgstr ""
+msgstr "Non ho fatto niente."
 
 msgctxt "848"
 msgid "Who gave you those clothes?"
@@ -225,7 +226,7 @@ msgstr ""
 
 msgctxt "896"
 msgid "Well..."
-msgstr ""
+msgstr "Beh..."
 
 msgctxt "932"
 msgid ""
@@ -327,7 +328,7 @@ msgstr ""
 
 msgctxt "1304"
 msgid "Well, um..."
-msgstr ""
+msgstr "Beh, ehm..."
 
 msgctxt "1352"
 msgid "Wow, it got so late!"

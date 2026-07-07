@@ -1,15 +1,16 @@
+#
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=utf-8\n"
-"Language: pt\n"
-"Language-Team: Portuguese, Brazilian\n"
-"Last-Translator: \n"
-"MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: 2026-07-07\n"
 "Project-Id-Version: yakuza-3-remastered\n"
 "Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-07-07\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgctxt "612"
 msgid "Oh! Did you finally remember who I am?"
@@ -33,7 +34,7 @@ msgstr ""
 
 msgctxt "672"
 msgid "Hmm?"
-msgstr ""
+msgstr "Mmh?"
 
 msgctxt "684"
 msgid "Wow, what a coincidence seeing you here!"
@@ -113,7 +114,7 @@ msgstr ""
 
 msgctxt "1044"
 msgid "Yeah."
-msgstr ""
+msgstr "Sì."
 
 msgctxt "1056"
 msgid "Would you mind if I sat with you for a bit?"
@@ -121,7 +122,7 @@ msgstr ""
 
 msgctxt "1068"
 msgid "Go right ahead."
-msgstr ""
+msgstr "Prego, faccia pure."
 
 msgctxt "1092"
 msgid "Okay! Cheers!"
@@ -129,7 +130,7 @@ msgstr ""
 
 msgctxt "1104"
 msgid "Cheers."
-msgstr ""
+msgstr "Salute."
 
 msgctxt "1128"
 msgid "Say, this is the first time we get to properly chat! ⑮"
@@ -166,7 +167,7 @@ msgstr ""
 
 msgctxt "1212"
 msgid "Huh? How'd you know?"
-msgstr ""
+msgstr "Eh? Come facevi a saperlo?"
 
 msgctxt "1224"
 msgid ""
@@ -176,7 +177,7 @@ msgstr ""
 
 msgctxt "1236"
 msgid "Yeah."
-msgstr ""
+msgstr "Sì."
 
 msgctxt "1248"
 msgid "God, I'm so embarrassed!"
@@ -190,7 +191,7 @@ msgstr ""
 
 msgctxt "1272"
 msgid "Heh."
-msgstr ""
+msgstr "Eh."
 
 msgctxt "1284"
 msgid ""
@@ -200,7 +201,7 @@ msgstr ""
 
 msgctxt "1296"
 msgid "Sorry."
-msgstr ""
+msgstr "Scusa."
 
 msgctxt "1308"
 msgid ""
@@ -210,7 +211,7 @@ msgstr ""
 
 msgctxt "1320"
 msgid "You think so?"
-msgstr ""
+msgstr "La pensi così?"
 
 msgctxt "1332"
 msgid ""
@@ -261,7 +262,7 @@ msgstr ""
 
 msgctxt "1524"
 msgid "Huh? Are you sure?"
-msgstr ""
+msgstr "Eh? Sei sicuro?"
 
 msgctxt "1536"
 msgid "Yeah. I might not be able to help, but I'll try."
@@ -283,7 +284,7 @@ msgstr ""
 
 msgctxt "1584"
 msgid "Go on."
-msgstr ""
+msgstr "Vada avanti."
 
 msgctxt "1596"
 msgid ""
@@ -293,11 +294,11 @@ msgstr ""
 
 msgctxt "1608"
 msgid "Really?"
-msgstr ""
+msgstr "Davvero?"
 
 msgctxt "1632"
 msgid "Well..."
-msgstr ""
+msgstr "Beh..."
 
 msgctxt "1644"
 msgid ""
@@ -341,7 +342,7 @@ msgstr ""
 
 msgctxt "1740"
 msgid "Why's that?"
-msgstr ""
+msgstr "Perché?"
 
 msgctxt "1752"
 msgid ""
@@ -392,7 +393,7 @@ msgstr ""
 
 msgctxt "1872"
 msgid "I see..."
-msgstr ""
+msgstr "Capisco..."
 
 msgctxt "1884"
 msgid "Everything! ⑮"
@@ -442,7 +443,7 @@ msgstr ""
 
 msgctxt "2064"
 msgid "Don't worry about it."
-msgstr ""
+msgstr "Non preoccuparti."
 
 msgctxt "2076"
 msgid ""
@@ -452,7 +453,7 @@ msgstr ""
 
 msgctxt "2088"
 msgid "Hmm..."
-msgstr ""
+msgstr "Uhm..."
 
 msgctxt "2100"
 msgid "Sorry, but I've gotta head out."
@@ -476,7 +477,7 @@ msgstr ""
 
 msgctxt "2160"
 msgid "Thank you. ⑮"
-msgstr ""
+msgstr "Grazie."
 
 msgctxt "2172"
 msgid "Right now I'm not sure if I should tell him how I feel..."
@@ -484,7 +485,7 @@ msgstr ""
 
 msgctxt "2184"
 msgid "Why's that?"
-msgstr ""
+msgstr "Perché?"
 
 msgctxt "2196"
 msgid "I'm afraid of what he might say..."
@@ -506,7 +507,7 @@ msgstr ""
 
 msgctxt "2244"
 msgid "What's that?"
-msgstr ""
+msgstr "Cos'è?"
 
 msgctxt "2256"
 msgid "Umm, I..."
@@ -526,7 +527,7 @@ msgstr ""
 
 msgctxt "2304"
 msgid "Yeah."
-msgstr ""
+msgstr "Sì."
 
 msgctxt "2328"
 msgid "!!"
@@ -603,11 +604,11 @@ msgstr ""
 
 msgctxt "2508"
 msgid "No, not at all."
-msgstr ""
+msgstr "No, per niente."
 
 msgctxt "2520"
 msgid "Huh?"
-msgstr ""
+msgstr "Eh?"
 
 msgctxt "2532"
 msgid ""
@@ -653,7 +654,7 @@ msgstr ""
 
 msgctxt "2628"
 msgid "No problem."
-msgstr ""
+msgstr "Figurati."
 
 msgctxt "2640"
 msgid "...Kiryu-san."
@@ -689,7 +690,7 @@ msgstr ""
 
 msgctxt "2736"
 msgid "Sure."
-msgstr ""
+msgstr "Certo."
 
 msgctxt "2796"
 msgid "Aaand saved! ⑮ I'll text you what happens with Kentaro-san!"
@@ -713,7 +714,7 @@ msgstr ""
 
 msgctxt "2904"
 msgid "What?"
-msgstr ""
+msgstr "Cosa?"
 
 msgctxt "2916"
 msgid ""
@@ -788,7 +789,7 @@ msgstr ""
 
 msgctxt "3108"
 msgid "Hey! Hold up!"
-msgstr ""
+msgstr "Ehi, aspetta!"
 
 msgctxt "3192"
 msgid "Shine"
@@ -828,7 +829,7 @@ msgstr ""
 
 msgctxt "3300"
 msgid "Not now."
-msgstr ""
+msgstr "Non ora"
 
 msgctxt "3312"
 msgid "You know what, I'll stay."
@@ -868,7 +869,7 @@ msgstr ""
 
 msgctxt "3420"
 msgid "No, not at all."
-msgstr ""
+msgstr "No, per niente."
 
 msgctxt "3432"
 msgid "It is a bit difficult."
@@ -880,7 +881,7 @@ msgstr ""
 
 msgctxt "33500"
 msgid "Idle"
-msgstr ""
+msgstr "Inattivo"
 
 msgctxt "33504"
 msgid "Ayaka"
@@ -900,7 +901,7 @@ msgstr ""
 
 msgctxt "33520"
 msgid "dummy"
-msgstr ""
+msgstr "dummy"
 
 msgctxt "33524"
 msgid "0"

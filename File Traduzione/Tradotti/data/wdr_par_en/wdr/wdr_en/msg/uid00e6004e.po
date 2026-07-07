@@ -1,15 +1,16 @@
+#
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=utf-8\n"
-"Language: pt\n"
-"Language-Team: Portuguese, Brazilian\n"
-"Last-Translator: \n"
-"MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: 2026-07-07\n"
 "Project-Id-Version: yakuza-3-remastered\n"
 "Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-07-07\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgctxt "136"
 msgid "...And that's how it is."
@@ -70,7 +71,7 @@ msgstr ""
 
 msgctxt "292"
 msgid "Ugh..."
-msgstr ""
+msgstr "Uff..."
 
 msgctxt "316"
 msgid ""
@@ -80,7 +81,7 @@ msgstr ""
 
 msgctxt "328"
 msgid "Oh... All right."
-msgstr ""
+msgstr "Uff... Va bene."
 
 msgctxt "340"
 msgid "Um, please read it!"
@@ -96,7 +97,7 @@ msgstr ""
 
 msgctxt "376"
 msgid "...Well?"
-msgstr ""
+msgstr "...Allora?"
 
 msgctxt "388"
 msgid ""
@@ -114,7 +115,7 @@ msgstr ""
 
 msgctxt "412"
 msgid "Really!?"
-msgstr ""
+msgstr "Davvero!?"
 
 msgctxt "424"
 msgid "Good for you. I'm glad it worked out."
@@ -128,7 +129,7 @@ msgstr ""
 
 msgctxt "448"
 msgid "Okay! Thank you so much!"
-msgstr ""
+msgstr "Okay. Grazie mille!"
 
 msgctxt "472"
 msgid "Can I get a hamburger?"
@@ -166,7 +167,7 @@ msgstr ""
 
 msgctxt "568"
 msgid "Huh!?"
-msgstr ""
+msgstr "Eh!?"
 
 msgctxt "580"
 msgid "...With this older gentleman here."
@@ -174,11 +175,11 @@ msgstr ""
 
 msgctxt "592"
 msgid "What?"
-msgstr ""
+msgstr "Cosa?"
 
 msgctxt "604"
 msgid "Whaaaaaaaaaaaaa!?"
-msgstr ""
+msgstr "Cooooosa!?"
 
 msgctxt "616"
 msgid ""
@@ -215,7 +216,7 @@ msgstr ""
 
 msgctxt "688"
 msgid "Ugh..."
-msgstr ""
+msgstr "Uff..."
 
 msgctxt "712"
 msgid "Will you go on a date with him?"
@@ -259,7 +260,7 @@ msgstr ""
 
 msgctxt "7752"
 msgid "Idle"
-msgstr ""
+msgstr "Inattivo"
 
 msgctxt "7756"
 msgid "Talk_Surp"

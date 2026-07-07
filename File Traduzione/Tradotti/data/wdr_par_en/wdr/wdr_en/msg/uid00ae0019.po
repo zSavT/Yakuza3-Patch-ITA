@@ -1,15 +1,16 @@
+#
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=utf-8\n"
-"Language: pt\n"
-"Language-Team: Portuguese, Brazilian\n"
-"Last-Translator: \n"
-"MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: 2026-07-07\n"
 "Project-Id-Version: yakuza-3-remastered\n"
 "Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-07-07\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgctxt "728"
 msgid "Hold on... Don't I know you from somewhere?"
@@ -23,7 +24,7 @@ msgstr ""
 
 msgctxt "764"
 msgid "You got a <Color:8>Golden Pistol<Color:Default>."
-msgstr ""
+msgstr "Hai ottenuto una <Color:8>Pistola dorata<Color:Default>."
 
 msgctxt "788"
 msgid ""
@@ -39,7 +40,7 @@ msgstr ""
 
 msgctxt "812"
 msgid "Nope. Don't know what you're talkin' about."
-msgstr ""
+msgstr "...Non so di che diavolo parli."
 
 msgctxt "824"
 msgid "......"
@@ -53,7 +54,7 @@ msgstr ""
 
 msgctxt "860"
 msgid "You got a <Color:8>Golden Pistol<Color:Default>."
-msgstr ""
+msgstr "Hai ottenuto una <Color:8>Pistola dorata<Color:Default>."
 
 msgctxt "884"
 msgid ""
@@ -95,7 +96,7 @@ msgstr ""
 
 msgctxt "992"
 msgid "You got a <Color:8>Lucky Binding<Color:Default>."
-msgstr ""
+msgstr "Hai ottenuto una <Color:8>Fasciatura fortunata<Color:Default>."
 
 msgctxt "1016"
 msgid ""
@@ -111,7 +112,7 @@ msgstr ""
 
 msgctxt "1040"
 msgid "Nope. Don't know what you're talkin' about."
-msgstr ""
+msgstr "...Non so di che diavolo parli."
 
 msgctxt "1052"
 msgid "......"
@@ -125,7 +126,7 @@ msgstr ""
 
 msgctxt "1088"
 msgid "You got a <Color:8>Lucky Binding<Color:Default>."
-msgstr ""
+msgstr "Hai ottenuto una <Color:8>Fasciatura fortunata<Color:Default>."
 
 msgctxt "1112"
 msgid ""
@@ -167,7 +168,7 @@ msgstr ""
 
 msgctxt "1220"
 msgid "You got a <Color:8>Beads of Good Fortune<Color:Default>."
-msgstr ""
+msgstr "Hai ottenuto dei <Color:8>Grani della buona sorte<Color:Default>."
 
 msgctxt "1244"
 msgid ""
@@ -183,7 +184,7 @@ msgstr ""
 
 msgctxt "1268"
 msgid "Nope. Don't know what you're talkin' about."
-msgstr ""
+msgstr "...Non so di che diavolo parli."
 
 msgctxt "1280"
 msgid "......"
@@ -197,7 +198,7 @@ msgstr ""
 
 msgctxt "1316"
 msgid "You got a <Color:8>Beads of Good Fortune<Color:Default>."
-msgstr ""
+msgstr "Hai ottenuto dei <Color:8>Grani della buona sorte<Color:Default>."
 
 msgctxt "1340"
 msgid ""
@@ -239,7 +240,7 @@ msgstr ""
 
 msgctxt "1448"
 msgid "You got a <Color:8>Dragon Shirt<Color:Default>."
-msgstr ""
+msgstr "Hai ottenuto una <Color:8>Maglia del drago<Color:Default>."
 
 msgctxt "1472"
 msgid ""
@@ -255,7 +256,7 @@ msgstr ""
 
 msgctxt "1496"
 msgid "Nope. Don't know what you're talkin' about."
-msgstr ""
+msgstr "...Non so di che diavolo parli."
 
 msgctxt "1508"
 msgid "......"
@@ -269,7 +270,7 @@ msgstr ""
 
 msgctxt "1544"
 msgid "You got a <Color:8>Dragon Shirt<Color:Default>."
-msgstr ""
+msgstr "Hai ottenuto una <Color:8>Maglia del drago<Color:Default>."
 
 msgctxt "1568"
 msgid ""
@@ -311,7 +312,7 @@ msgstr ""
 
 msgctxt "1676"
 msgid "You got a <Color:8>War God Amulet<Color:Default>."
-msgstr ""
+msgstr "Hai ottenuto un <Color:8>Amuleto del dio della guerra<Color:Default>."
 
 msgctxt "1700"
 msgid ""
@@ -327,7 +328,7 @@ msgstr ""
 
 msgctxt "1724"
 msgid "Nope. Don't know what you're talkin' about."
-msgstr ""
+msgstr "...Non so di che diavolo parli."
 
 msgctxt "1736"
 msgid "......"
@@ -341,7 +342,7 @@ msgstr ""
 
 msgctxt "1772"
 msgid "You got a <Color:8>War God Amulet<Color:Default>."
-msgstr ""
+msgstr "Hai ottenuto un <Color:8>Amuleto del dio della guerra<Color:Default>."
 
 msgctxt "1796"
 msgid ""
@@ -383,7 +384,7 @@ msgstr ""
 
 msgctxt "1904"
 msgid "You got a <Color:8>Dragon's Binding<Color:Default>."
-msgstr ""
+msgstr "Hai ottenuto una <Color:8>Fasciatura del drago<Color:Default>."
 
 msgctxt "1928"
 msgid ""
@@ -399,7 +400,7 @@ msgstr ""
 
 msgctxt "1952"
 msgid "Nope. Don't know what you're talkin' about."
-msgstr ""
+msgstr "...Non so di che diavolo parli."
 
 msgctxt "1964"
 msgid "......"
@@ -413,7 +414,7 @@ msgstr ""
 
 msgctxt "2000"
 msgid "You got a <Color:8>Dragon's Binding<Color:Default>."
-msgstr ""
+msgstr "Hai ottenuto una <Color:8>Fasciatura del drago<Color:Default>."
 
 msgctxt "2024"
 msgid ""
@@ -471,7 +472,7 @@ msgstr ""
 
 msgctxt "2180"
 msgid "Nope. Don't know what you're talkin' about."
-msgstr ""
+msgstr "...Non so di che diavolo parli."
 
 msgctxt "2192"
 msgid "......"
@@ -543,7 +544,7 @@ msgstr ""
 
 msgctxt "2408"
 msgid "Nope. Don't know what you're talkin' about."
-msgstr ""
+msgstr "...Non so di che diavolo parli."
 
 msgctxt "2420"
 msgid "......"
@@ -599,7 +600,7 @@ msgstr ""
 
 msgctxt "2588"
 msgid "You got a <Color:8>Sacred Tree Armor<Color:Default>."
-msgstr ""
+msgstr "Hai ottenuto un'<Color:8>Armatura dell'albero sacro<Color:Default>."
 
 msgctxt "2612"
 msgid ""
@@ -615,7 +616,7 @@ msgstr ""
 
 msgctxt "2636"
 msgid "Nope. Don't know what you're talkin' about."
-msgstr ""
+msgstr "...Non so di che diavolo parli."
 
 msgctxt "2648"
 msgid "......"
@@ -629,7 +630,7 @@ msgstr ""
 
 msgctxt "2684"
 msgid "You got a <Color:8>Sacred Tree Armor<Color:Default>."
-msgstr ""
+msgstr "Hai ottenuto un'<Color:8>Armatura dell'albero sacro<Color:Default>."
 
 msgctxt "2708"
 msgid ""
@@ -672,7 +673,7 @@ msgstr ""
 
 msgctxt "2804"
 msgid "You got a <Color:8>Dragon Nunchaku<Color:Default>."
-msgstr ""
+msgstr "Hai ottenuto un paio di <Color:8>Nunchaku del drago<Color:Default>."
 
 msgctxt "2828"
 msgid ""
@@ -687,9 +688,9 @@ msgstr ""
 
 msgctxt "2852"
 msgid ""
-"You really have a knack for tickin' me off, don't ya? How about you stick "
-"to your business, I'll stick to mine, and no one'll walk away lookin' like "
-"a moron? Can you handle that?"
+"You really have a knack for tickin' me off, don't ya? How about you stick to"
+" your business, I'll stick to mine, and no one'll walk away lookin' like a "
+"moron? Can you handle that?"
 msgstr ""
 
 msgctxt "2864"
@@ -716,9 +717,11 @@ msgstr ""
 msgctxt "2924"
 msgid "You got a <Color:8>War God Talisman<Color:Default>."
 msgstr ""
+"Hai ottenuto un <Color:8>Talismano del dio della guerra<Color:Default>."
 
 msgctxt "2948"
-msgid "If you lose it, I can get you another one. That's just the kinda guy I am."
+msgid ""
+"If you lose it, I can get you another one. That's just the kinda guy I am."
 msgstr ""
 
 msgctxt "2960"
@@ -751,7 +754,7 @@ msgstr ""
 
 msgctxt "3056"
 msgid "You got a <Color:8>Morning Glory Scarf<Color:Default>."
-msgstr ""
+msgstr "Hai ottenuto la <Color:8>Sciarpa Morning Glory<Color:Default>."
 
 msgctxt "3080"
 msgid ""
@@ -767,7 +770,7 @@ msgstr ""
 
 msgctxt "3104"
 msgid "Nope. Don't know what you're talkin' about."
-msgstr ""
+msgstr "...Non so di che diavolo parli."
 
 msgctxt "3116"
 msgid "......"
@@ -781,7 +784,7 @@ msgstr ""
 
 msgctxt "3152"
 msgid "You got a <Color:8>Morning Glory Scarf<Color:Default>."
-msgstr ""
+msgstr "Hai ottenuto la <Color:8>Sciarpa Morning Glory<Color:Default>."
 
 msgctxt "3176"
 msgid ""
@@ -819,15 +822,15 @@ msgstr ""
 
 msgctxt "3260"
 msgid "You got a <Color:8>Staminan Royale<Color:Default>."
-msgstr ""
+msgstr "Hai ottenuto una <Color:8>Staminan Royale<Color:Default>."
 
 msgctxt "3284"
 msgid "You got a <Color:8>Tauriner ++<Color:Default>."
-msgstr ""
+msgstr "Hai ottenuto un <Color:8>Tauriner ++<Color:Default>."
 
 msgctxt "3308"
 msgid "You got a <Color:8>Toughness Emperor<Color:Default>."
-msgstr ""
+msgstr "Hai ottenuto un <Color:8>Toughness Emperor<Color:Default>."
 
 msgctxt "3332"
 msgid "You got a <Color:8>Collapsible Hammer<Color:Default>."
@@ -835,7 +838,7 @@ msgstr ""
 
 msgctxt "3356"
 msgid "You got a <Color:8>Fearless Binding<Color:Default>."
-msgstr ""
+msgstr "Hai ottenuto una <Color:8>Fasciatura del giocatore<Color:Default>."
 
 msgctxt "3380"
 msgid ""
@@ -871,15 +874,15 @@ msgstr ""
 
 msgctxt "3464"
 msgid "You got a <Color:8>Staminan Royale<Color:Default>."
-msgstr ""
+msgstr "Hai ottenuto una <Color:8>Staminan Royale<Color:Default>."
 
 msgctxt "3488"
 msgid "You got a <Color:8>Tauriner ++<Color:Default>."
-msgstr ""
+msgstr "Hai ottenuto un <Color:8>Tauriner ++<Color:Default>."
 
 msgctxt "3512"
 msgid "You got a <Color:8>Toughness Emperor<Color:Default>."
-msgstr ""
+msgstr "Hai ottenuto un <Color:8>Toughness Emperor<Color:Default>."
 
 msgctxt "3536"
 msgid "You got an <Color:8>Extendable Staff<Color:Default>."
@@ -887,7 +890,7 @@ msgstr ""
 
 msgctxt "3560"
 msgid "You got <Color:8>Antique Chain Mail<Color:Default>."
-msgstr ""
+msgstr "Hai ottenuto una <Color:8>Cotta di maglia antica<Color:Default>."
 
 msgctxt "3584"
 msgid ""
@@ -923,15 +926,15 @@ msgstr ""
 
 msgctxt "3668"
 msgid "You got a <Color:8>Staminan Royale<Color:Default>."
-msgstr ""
+msgstr "Hai ottenuto una <Color:8>Staminan Royale<Color:Default>."
 
 msgctxt "3692"
 msgid "You got a <Color:8>Tauriner ++<Color:Default>."
-msgstr ""
+msgstr "Hai ottenuto un <Color:8>Tauriner ++<Color:Default>."
 
 msgctxt "3716"
 msgid "You got a <Color:8>Toughness Emperor<Color:Default>."
-msgstr ""
+msgstr "Hai ottenuto un <Color:8>Toughness Emperor<Color:Default>."
 
 msgctxt "3740"
 msgid "You got a <Color:8>Red Lion Dagger<Color:Default>."
@@ -940,6 +943,7 @@ msgstr ""
 msgctxt "3764"
 msgid "You got <Color:8>SWAT Body Armor<Color:Default>."
 msgstr ""
+"Hai ottenuto un <Color:8>Giubbotto antiproiettile SWAT<Color:Default>."
 
 msgctxt "3788"
 msgid ""
@@ -975,15 +979,15 @@ msgstr ""
 
 msgctxt "3872"
 msgid "You got a <Color:8>Staminan Royale<Color:Default>."
-msgstr ""
+msgstr "Hai ottenuto una <Color:8>Staminan Royale<Color:Default>."
 
 msgctxt "3896"
 msgid "You got a <Color:8>Tauriner ++<Color:Default>."
-msgstr ""
+msgstr "Hai ottenuto un <Color:8>Tauriner ++<Color:Default>."
 
 msgctxt "3920"
 msgid "You got a <Color:8>Toughness Emperor<Color:Default>."
-msgstr ""
+msgstr "Hai ottenuto un <Color:8>Toughness Emperor<Color:Default>."
 
 msgctxt "3944"
 msgid "You got a <Color:8>Black Shaft<Color:Default>."
@@ -1027,15 +1031,15 @@ msgstr ""
 
 msgctxt "4076"
 msgid "You got a <Color:8>Staminan Royale<Color:Default>."
-msgstr ""
+msgstr "Hai ottenuto una <Color:8>Staminan Royale<Color:Default>."
 
 msgctxt "4100"
 msgid "You got a <Color:8>Tauriner ++<Color:Default>."
-msgstr ""
+msgstr "Hai ottenuto un <Color:8>Tauriner ++<Color:Default>."
 
 msgctxt "4124"
 msgid "You got a <Color:8>Toughness Emperor<Color:Default>."
-msgstr ""
+msgstr "Hai ottenuto un <Color:8>Toughness Emperor<Color:Default>."
 
 msgctxt "4148"
 msgid "You got a <Color:8>Modified Lighter<Color:Default>."
@@ -1079,23 +1083,23 @@ msgstr ""
 
 msgctxt "4280"
 msgid "You got a <Color:8>Staminan Royale<Color:Default>."
-msgstr ""
+msgstr "Hai ottenuto una <Color:8>Staminan Royale<Color:Default>."
 
 msgctxt "4304"
 msgid "You got a <Color:8>Tauriner ++<Color:Default>."
-msgstr ""
+msgstr "Hai ottenuto un <Color:8>Tauriner ++<Color:Default>."
 
 msgctxt "4328"
 msgid "You got a <Color:8>Toughness Emperor<Color:Default>."
-msgstr ""
+msgstr "Hai ottenuto un <Color:8>Toughness Emperor<Color:Default>."
 
 msgctxt "4352"
 msgid "You got a <Color:8>Stun Gun<Color:Default>."
-msgstr ""
+msgstr "Hai ottenuto una <Color:8>pistola stordente<Color:Default>."
 
 msgctxt "4376"
 msgid "You got a <Color:8>Shisa Pendant<Color:Default>."
-msgstr ""
+msgstr "Hai ottenuto un <Color:8>Ciondolo Gatto Bianco<Color:Default>."
 
 msgctxt "4400"
 msgid ""
@@ -1131,23 +1135,23 @@ msgstr ""
 
 msgctxt "4484"
 msgid "You got a <Color:8>Staminan Spark<Color:Default>."
-msgstr ""
+msgstr "Hai ottenuto <Color:8>uno Staminan Spark<Color:Default>."
 
 msgctxt "4508"
 msgid "You got a <Color:8>Tauriner Maximum<Color:Default>."
-msgstr ""
+msgstr "Hai ottenuto un <Color:8>Tauriner Maximum<Color:Default>."
 
 msgctxt "4532"
 msgid "You got a <Color:8>Toughness Infinity<Color:Default>."
-msgstr ""
+msgstr "Hai ottenuto un <Color:8>Toughness Infinity<Color:Default>."
 
 msgctxt "4556"
 msgid "You got a <Color:8>Sakura Storm<Color:Default>."
-msgstr ""
+msgstr "Hai ottenuto una <Color:8>Tempesta di sakura<Color:Default>."
 
 msgctxt "4580"
 msgid "You got a <Color:8>Payback Ring<Color:Default>."
-msgstr ""
+msgstr "Hai ottenuto un <Color:8>Anello della rivalsa<Color:Default>."
 
 msgctxt "4604"
 msgid ""
@@ -1183,23 +1187,23 @@ msgstr ""
 
 msgctxt "4688"
 msgid "You got a <Color:8>Staminan Spark<Color:Default>."
-msgstr ""
+msgstr "Hai ottenuto <Color:8>uno Staminan Spark<Color:Default>."
 
 msgctxt "4712"
 msgid "You got a <Color:8>Tauriner Maximum<Color:Default>."
-msgstr ""
+msgstr "Hai ottenuto un <Color:8>Tauriner Maximum<Color:Default>."
 
 msgctxt "4736"
 msgid "You got a <Color:8>Toughness Infinity<Color:Default>."
-msgstr ""
+msgstr "Hai ottenuto un <Color:8>Toughness Infinity<Color:Default>."
 
 msgctxt "4760"
 msgid "You got a <Color:8>9mm Automatic Pistol<Color:Default>."
-msgstr ""
+msgstr "Hai ottenuto una <Color:8>Pistola automatica 9 mm<Color:Default>."
 
 msgctxt "4784"
 msgid "You got <Color:8>Rage Armor<Color:Default>."
-msgstr ""
+msgstr "Hai ottenuto un'<Color:8>Armatura dell'ira<Color:Default>."
 
 msgctxt "4808"
 msgid ""
@@ -1235,7 +1239,7 @@ msgstr ""
 
 msgctxt "4892"
 msgid "You got a <Color:8>Blackjack Amulet<Color:Default>."
-msgstr ""
+msgstr "Hai ottenuto un <Color:8>Amuleto del blackjack<Color:Default>."
 
 msgctxt "4916"
 msgid "You got a <Color:8>Bust Amulet<Color:Default>."
@@ -1411,15 +1415,15 @@ msgstr ""
 
 msgctxt "5516"
 msgid "You got a <Color:8>1-1-1 Card<Color:Default>."
-msgstr ""
+msgstr "Hai ottenuto una <Color:8>Carta 1-1-1<Color:Default>."
 
 msgctxt "5540"
 msgid "You got <Color:8>Even Goro's Beads<Color:Default>."
-msgstr ""
+msgstr "Hai ottenuto i <Color:8>Grani di Even Goro<Color:Default>."
 
 msgctxt "5564"
 msgid "You got a <Color:8>Lopsided Cigarette<Color:Default>."
-msgstr ""
+msgstr "Hai ottenuto una <Color:8>Sigaretta storta<Color:Default>."
 
 msgctxt "5588"
 msgid ""
@@ -1499,15 +1503,15 @@ msgstr ""
 
 msgctxt "5828"
 msgid "You got a <Color:8>Black Jewel<Color:Default>."
-msgstr ""
+msgstr "Hai ottenuto un <Color:8>Gioiello nero<Color:Default>."
 
 msgctxt "5852"
 msgid "You got a <Color:8>Red Jewel<Color:Default>."
-msgstr ""
+msgstr "Hai ottenuto un <Color:8>Gioiello rosso<Color:Default>."
 
 msgctxt "5876"
 msgid "You got a <Color:8>Zero Jewel<Color:Default>."
-msgstr ""
+msgstr "Hai ottenuto un <Color:8>Gioiello zero<Color:Default>."
 
 msgctxt "5900"
 msgid ""
@@ -1551,7 +1555,7 @@ msgstr ""
 
 msgctxt "6032"
 msgid "You got a <Color:8>Balloon<Color:Default>."
-msgstr ""
+msgstr "Hai ottenuto un <Color:8>Piccolo motore<Color:Default>."
 
 msgctxt "6056"
 msgid ""
@@ -1587,7 +1591,7 @@ msgstr ""
 
 msgctxt "6128"
 msgid "Yeah..."
-msgstr ""
+msgstr "Già..."
 
 msgctxt "6140"
 msgid ""
@@ -1597,7 +1601,7 @@ msgstr ""
 
 msgctxt "6164"
 msgid "You got a <Color:8>Golden Pistol<Color:Default>."
-msgstr ""
+msgstr "Hai ottenuto una <Color:8>Pistola dorata<Color:Default>."
 
 msgctxt "6200"
 msgid ""
@@ -1613,7 +1617,7 @@ msgstr ""
 
 msgctxt "6224"
 msgid "Yeah..."
-msgstr ""
+msgstr "Già..."
 
 msgctxt "6236"
 msgid ""
@@ -1623,7 +1627,7 @@ msgstr ""
 
 msgctxt "6260"
 msgid "You got a <Color:8>Lucky Binding<Color:Default>."
-msgstr ""
+msgstr "Hai ottenuto una <Color:8>Fasciatura fortunata<Color:Default>."
 
 msgctxt "6296"
 msgid ""
@@ -1639,7 +1643,7 @@ msgstr ""
 
 msgctxt "6320"
 msgid "Yeah..."
-msgstr ""
+msgstr "Già..."
 
 msgctxt "6332"
 msgid ""
@@ -1649,7 +1653,7 @@ msgstr ""
 
 msgctxt "6356"
 msgid "You got a <Color:8>Beads of Good Fortune<Color:Default>."
-msgstr ""
+msgstr "Hai ottenuto dei <Color:8>Grani della buona sorte<Color:Default>."
 
 msgctxt "6392"
 msgid ""
@@ -1665,7 +1669,7 @@ msgstr ""
 
 msgctxt "6416"
 msgid "Yeah..."
-msgstr ""
+msgstr "Già..."
 
 msgctxt "6428"
 msgid ""
@@ -1675,7 +1679,7 @@ msgstr ""
 
 msgctxt "6452"
 msgid "You got a <Color:8>Dragon Shirt<Color:Default>."
-msgstr ""
+msgstr "Hai ottenuto una <Color:8>Maglia del drago<Color:Default>."
 
 msgctxt "6488"
 msgid ""
@@ -1691,7 +1695,7 @@ msgstr ""
 
 msgctxt "6512"
 msgid "Yeah..."
-msgstr ""
+msgstr "Già..."
 
 msgctxt "6524"
 msgid ""
@@ -1701,7 +1705,7 @@ msgstr ""
 
 msgctxt "6548"
 msgid "You got a <Color:8>War God Amulet<Color:Default>."
-msgstr ""
+msgstr "Hai ottenuto un <Color:8>Amuleto del dio della guerra<Color:Default>."
 
 msgctxt "6584"
 msgid ""
@@ -1717,7 +1721,7 @@ msgstr ""
 
 msgctxt "6608"
 msgid "Yeah..."
-msgstr ""
+msgstr "Già..."
 
 msgctxt "6620"
 msgid ""
@@ -1727,7 +1731,7 @@ msgstr ""
 
 msgctxt "6644"
 msgid "You got a <Color:8>Dragon's Binding<Color:Default>."
-msgstr ""
+msgstr "Hai ottenuto una <Color:8>Fasciatura del drago<Color:Default>."
 
 msgctxt "6680"
 msgid ""
@@ -1743,7 +1747,7 @@ msgstr ""
 
 msgctxt "6704"
 msgid "Yeah..."
-msgstr ""
+msgstr "Già..."
 
 msgctxt "6716"
 msgid ""
@@ -1769,7 +1773,7 @@ msgstr ""
 
 msgctxt "6800"
 msgid "Yeah..."
-msgstr ""
+msgstr "Già..."
 
 msgctxt "6812"
 msgid ""
@@ -1795,7 +1799,7 @@ msgstr ""
 
 msgctxt "6896"
 msgid "Yeah..."
-msgstr ""
+msgstr "Già..."
 
 msgctxt "6908"
 msgid ""
@@ -1805,7 +1809,7 @@ msgstr ""
 
 msgctxt "6932"
 msgid "You got a <Color:8>Sacred Tree Armor<Color:Default>."
-msgstr ""
+msgstr "Hai ottenuto un'<Color:8>Armatura dell'albero sacro<Color:Default>."
 
 msgctxt "6968"
 msgid ""
@@ -1821,7 +1825,7 @@ msgstr ""
 
 msgctxt "6992"
 msgid "Yeah..."
-msgstr ""
+msgstr "Già..."
 
 msgctxt "7004"
 msgid ""
@@ -1831,7 +1835,7 @@ msgstr ""
 
 msgctxt "7028"
 msgid "You got a <Color:8>Dragon Nunchaku<Color:Default>."
-msgstr ""
+msgstr "Hai ottenuto un paio di <Color:8>Nunchaku del drago<Color:Default>."
 
 msgctxt "7064"
 msgid ""
@@ -1847,7 +1851,7 @@ msgstr ""
 
 msgctxt "7088"
 msgid "Yeah..."
-msgstr ""
+msgstr "Già..."
 
 msgctxt "7100"
 msgid ""
@@ -1858,6 +1862,7 @@ msgstr ""
 msgctxt "7124"
 msgid "You got a <Color:8>War God Talisman<Color:Default>."
 msgstr ""
+"Hai ottenuto un <Color:8>Talismano del dio della guerra<Color:Default>."
 
 msgctxt "7160"
 msgid ""
@@ -1873,7 +1878,7 @@ msgstr ""
 
 msgctxt "7184"
 msgid "Yeah..."
-msgstr ""
+msgstr "Già..."
 
 msgctxt "7196"
 msgid ""
@@ -1883,7 +1888,7 @@ msgstr ""
 
 msgctxt "7220"
 msgid "You got a <Color:8>Morning Glory Scarf<Color:Default>."
-msgstr ""
+msgstr "Hai ottenuto la <Color:8>Sciarpa Morning Glory<Color:Default>."
 
 msgctxt "7256"
 msgid ""

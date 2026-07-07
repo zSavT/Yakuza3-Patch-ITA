@@ -1,25 +1,24 @@
+#
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=utf-8\n"
-"Language: pt\n"
-"Language-Team: Portuguese, Brazilian\n"
-"Last-Translator: \n"
-"MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: 2026-07-07\n"
 "Project-Id-Version: yakuza-3-remastered\n"
 "Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-07-07\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgctxt "512"
 msgid "Controls"
-msgstr ""
+msgstr "Comandi"
 
 msgctxt "524"
 msgid ""
-"Use the "
-"<Action:Button_LS_Up@Cabaret><Action:Button_LS_Down@Cabaret><Action:Button_"
-"LS_Left@Cabaret><Action:Button_LS_Right@Cabaret> to aim Kiryu's gaze.\r\n"
+"Use the <Action:Button_LS_Up@Cabaret><Action:Button_LS_Down@Cabaret><Action:Button_LS_Left@Cabaret><Action:Button_LS_Right@Cabaret> to aim Kiryu's gaze.\r\n"
 "Feast your eyes on a gorgeous vision of beauty!"
 msgstr ""
 
@@ -32,7 +31,7 @@ msgstr ""
 
 msgctxt "548"
 msgid "Note that her reaction will change depending on where you look."
-msgstr ""
+msgstr "Nota che la sua reazione cambierà a seconda di dove guardi."
 
 msgctxt "572"
 msgid "(It's gotta be her eyes...)"
@@ -44,7 +43,7 @@ msgstr ""
 
 msgctxt "596"
 msgid "(Her beautiful hands...)"
-msgstr ""
+msgstr "(Le sue mani stupende...)"
 
 msgctxt "608"
 msgid "(I like the shape of those legs...)"
@@ -60,7 +59,7 @@ msgstr ""
 
 msgctxt "644"
 msgid "(Hmm...)"
-msgstr ""
+msgstr "(Mmm...)"
 
 msgctxt "656"
 msgid "Your eyes. They always draw me in."
@@ -86,7 +85,7 @@ msgstr ""
 
 msgctxt "716"
 msgid "You might be right."
-msgstr ""
+msgstr "Potresti avere ragione."
 
 msgctxt "728"
 msgid "Heheheh... That's cute, Kiryu-san. <Color:7>⑮⑮<Color:Default>"
@@ -170,10 +169,11 @@ msgstr ""
 
 msgctxt "944"
 msgid "Oh, uh..."
-msgstr ""
+msgstr "Oh, uh..."
 
 msgctxt "956"
-msgid "So, what's the verdict? Do my legs meet your high standards, Kiryu-san?"
+msgid ""
+"So, what's the verdict? Do my legs meet your high standards, Kiryu-san?"
 msgstr ""
 
 msgctxt "968"
@@ -181,12 +181,13 @@ msgid "Let's see... That's a definite yes."
 msgstr ""
 
 msgctxt "980"
-msgid "Hehehe... Maybe I'll wear a miniskirt next time. <Color:7>⑮⑮<Color:Default>"
+msgid ""
+"Hehehe... Maybe I'll wear a miniskirt next time. <Color:7>⑮⑮<Color:Default>"
 msgstr ""
 
 msgctxt "992"
 msgid "I'm looking forward to it."
-msgstr ""
+msgstr "Non vedo l'ora."
 
 msgctxt "1004"
 msgid "Your... hair. I like women with beautiful hair."
@@ -214,7 +215,7 @@ msgstr ""
 
 msgctxt "1076"
 msgid "Yeah, that's right."
-msgstr ""
+msgstr "Sì, esatto."
 
 msgctxt "1088"
 msgid "Hey! You're staring too much!"
@@ -222,10 +223,11 @@ msgstr ""
 
 msgctxt "1100"
 msgid "Oh, sorry."
-msgstr ""
+msgstr "Oh, scusa."
 
 msgctxt "1112"
-msgid "Man, I guess I understand a little, but... why are boobs such a big deal?"
+msgid ""
+"Man, I guess I understand a little, but... why are boobs such a big deal?"
 msgstr ""
 
 msgctxt "1124"
@@ -234,7 +236,7 @@ msgstr ""
 
 msgctxt "1136"
 msgid "That's not it."
-msgstr ""
+msgstr "Non è quello."
 
 msgctxt "1148"
 msgid "You know, if I'm boring you here, you can always leave."
@@ -242,7 +244,7 @@ msgstr ""
 
 msgctxt "1160"
 msgid "Sorry."
-msgstr ""
+msgstr "Scusa."
 
 msgctxt "1172"
 msgid "You're really bringing me down, man."
@@ -274,11 +276,11 @@ msgstr ""
 
 msgctxt "1256"
 msgid "(Her chest...?)"
-msgstr ""
+msgstr "(Il suo petto...?)"
 
 msgctxt "1268"
 msgid "(Let me think...)"
-msgstr ""
+msgstr "(Fammi pensare...)"
 
 msgctxt "1280"
 msgid "If it's pretty... then... your eyes?"
@@ -299,7 +301,8 @@ msgid "Your nails? That's your work?"
 msgstr ""
 
 msgctxt "1328"
-msgid "Yeah. I get them done at salons too, but today I did them all by myself."
+msgid ""
+"Yeah. I get them done at salons too, but today I did them all by myself."
 msgstr ""
 
 msgctxt "1340"
@@ -339,7 +342,8 @@ msgid "Your nails? That's your work?"
 msgstr ""
 
 msgctxt "1436"
-msgid "Yeah. I get them done at salons too, but today I did them all by myself."
+msgid ""
+"Yeah. I get them done at salons too, but today I did them all by myself."
 msgstr ""
 
 msgctxt "1448"
@@ -368,14 +372,15 @@ msgstr ""
 
 msgctxt "1508"
 msgid "You think?"
-msgstr ""
+msgstr "Dici?"
 
 msgctxt "1520"
 msgid "Yeah. For real, I'm really happy you noticed."
 msgstr ""
 
 msgctxt "1532"
-msgid "Sometimes I get them done at salons too, but today I did them all by myself."
+msgid ""
+"Sometimes I get them done at salons too, but today I did them all by myself."
 msgstr ""
 
 msgctxt "1544"
@@ -415,7 +420,8 @@ msgid "Your nails? That's your work?"
 msgstr ""
 
 msgctxt "1640"
-msgid "Yeah. I get them done at salons too, but today I did them all by myself."
+msgid ""
+"Yeah. I get them done at salons too, but today I did them all by myself."
 msgstr ""
 
 msgctxt "1652"
@@ -455,7 +461,8 @@ msgid "Your nails? That's your work?"
 msgstr ""
 
 msgctxt "1748"
-msgid "Yeah. I get them done at salons too, but today I did them all by myself."
+msgid ""
+"Yeah. I get them done at salons too, but today I did them all by myself."
 msgstr ""
 
 msgctxt "1760"
@@ -479,12 +486,13 @@ msgid "Your... chest? It's definitely pretty."
 msgstr ""
 
 msgctxt "1808"
-msgid "I said I did it myself, didn't I? What would that even mean for my boobs?"
+msgid ""
+"I said I did it myself, didn't I? What would that even mean for my boobs?"
 msgstr ""
 
 msgctxt "1820"
 msgid "Sorry..."
-msgstr ""
+msgstr "Scusa..."
 
 msgctxt "1832"
 msgid "The answer is... my nails."
@@ -495,7 +503,8 @@ msgid "Your nails? That's your work?"
 msgstr ""
 
 msgctxt "1856"
-msgid "Yeah. I get them done at salons too, but today I did them all by myself."
+msgid ""
+"Yeah. I get them done at salons too, but today I did them all by myself."
 msgstr ""
 
 msgctxt "1868"
@@ -527,7 +536,8 @@ msgid "Your nails? That's your work?"
 msgstr ""
 
 msgctxt "1940"
-msgid "Yeah. I get them done at salons too, but today I did them all by myself."
+msgid ""
+"Yeah. I get them done at salons too, but today I did them all by myself."
 msgstr ""
 
 msgctxt "1952"

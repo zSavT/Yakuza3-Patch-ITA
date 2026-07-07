@@ -1,15 +1,16 @@
+#
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=utf-8\n"
-"Language: pt\n"
-"Language-Team: Portuguese, Brazilian\n"
-"Last-Translator: \n"
-"MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: 2026-07-07\n"
 "Project-Id-Version: yakuza-3-remastered\n"
 "Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-07-07\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgctxt "216"
 msgid ""
@@ -19,7 +20,7 @@ msgstr ""
 
 msgctxt "228"
 msgid "All right, I will."
-msgstr ""
+msgstr "Va bene, lo faccio."
 
 msgctxt "240"
 msgid "You ready to talk, Kiryu?"
@@ -35,7 +36,7 @@ msgstr ""
 
 msgctxt "276"
 msgid "Will do."
-msgstr ""
+msgstr "Ci penso io."
 
 msgctxt "288"
 msgid "Let's talk."
@@ -47,7 +48,7 @@ msgstr ""
 
 msgctxt "312"
 msgid "Well..."
-msgstr ""
+msgstr "Beh..."
 
 msgctxt "348"
 msgid ""
@@ -85,8 +86,8 @@ msgstr ""
 
 msgctxt "432"
 msgid ""
-"And we're definitely talking about a guy here, right? Or did you go and "
-"hook yourself some bigshot female yakuza?"
+"And we're definitely talking about a guy here, right? Or did you go and hook"
+" yourself some bigshot female yakuza?"
 msgstr ""
 
 msgctxt "444"
@@ -102,7 +103,7 @@ msgstr ""
 
 msgctxt "468"
 msgid "What's that supposed to mean!?"
-msgstr ""
+msgstr "Che vorrebbe dire!?"
 
 msgctxt "480"
 msgid ""
@@ -147,7 +148,7 @@ msgstr ""
 
 msgctxt "576"
 msgid "Nah, it's nothing."
-msgstr ""
+msgstr "Na, non è niente."
 
 msgctxt "612"
 msgid ""
@@ -162,7 +163,7 @@ msgstr ""
 
 msgctxt "636"
 msgid "Yup."
-msgstr ""
+msgstr "Già."
 
 msgctxt "648"
 msgid ""
@@ -202,7 +203,7 @@ msgstr ""
 
 msgctxt "744"
 msgid "What's wrong?"
-msgstr ""
+msgstr "Che succede?"
 
 msgctxt "756"
 msgid ""
@@ -244,7 +245,7 @@ msgstr ""
 
 msgctxt "876"
 msgid "Right."
-msgstr ""
+msgstr "Giusto."
 
 msgctxt "888"
 msgid ""
@@ -261,7 +262,7 @@ msgstr ""
 
 msgctxt "912"
 msgid "Hm?"
-msgstr ""
+msgstr "Mh?"
 
 msgctxt "924"
 msgid ""
@@ -303,7 +304,7 @@ msgstr ""
 
 msgctxt "1020"
 msgid "Hmph."
-msgstr ""
+msgstr "Mpf."
 
 msgctxt "1032"
 msgid "Besides, Kiryu-san. You're kinda my type."
@@ -311,7 +312,7 @@ msgstr ""
 
 msgctxt "1044"
 msgid "Your what!?"
-msgstr ""
+msgstr "[Il tuo... che cosa!?]"
 
 msgctxt "1056"
 msgid "Do I hear a tinge of jealousy in your voice, Date-san?"
@@ -319,7 +320,7 @@ msgstr ""
 
 msgctxt "1068"
 msgid "Don't be ridiculous!"
-msgstr ""
+msgstr "Non essere ridicolo."
 
 msgctxt "1080"
 msgid "Aww, you're blushing!"
@@ -335,17 +336,20 @@ msgstr ""
 
 msgctxt "1116"
 msgid "You now have access to a hideout."
-msgstr ""
+msgstr "Ora hai accesso a un covo."
 
 msgctxt "1128"
 msgid ""
 "Here you can save your game, move items to the item box,\r\n"
 "reminisce on past events, and view your play stats."
 msgstr ""
+"Qui puoi salvare la tua partita, spostare gli oggetti nella cassetta degli "
+"oggetti, ripensare agli eventi passati e visualizzare le tue statistiche di "
+"gioco."
 
 msgctxt "1140"
 msgid "Furthermore, your health will recover while at a hideout."
-msgstr ""
+msgstr "Inoltre, la tua salute si riprenderà al covo."
 
 msgctxt "1176"
 msgid "Not just yet, sorry."
@@ -397,7 +401,7 @@ msgstr ""
 
 msgctxt "13576"
 msgid "dummy"
-msgstr ""
+msgstr "dummy"
 
 msgctxt "13580"
 msgid "0"

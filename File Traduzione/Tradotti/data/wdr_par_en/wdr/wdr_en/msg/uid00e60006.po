@@ -1,15 +1,16 @@
+#
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=utf-8\n"
-"Language: pt\n"
-"Language-Team: Portuguese, Brazilian\n"
-"Last-Translator: \n"
-"MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: 2026-07-07\n"
 "Project-Id-Version: yakuza-3-remastered\n"
 "Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-07-07\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgctxt "452"
 msgid "Pardon me, sir... Could I ask for a bit of your time?"
@@ -17,7 +18,7 @@ msgstr ""
 
 msgctxt "464"
 msgid "What's that?"
-msgstr ""
+msgstr "Cos'è?"
 
 msgctxt "476"
 msgid "This may sound strange, but are you the type to keep a secret?"
@@ -41,7 +42,7 @@ msgstr ""
 
 msgctxt "536"
 msgid "Is this some kind of con?"
-msgstr ""
+msgstr "È una specie di scherzo?"
 
 msgctxt "548"
 msgid "No, no. I really mean it."
@@ -53,8 +54,8 @@ msgstr ""
 
 msgctxt "572"
 msgid ""
-"I've been looking for a man like you who can keep things discreet to do me "
-"a favor."
+"I've been looking for a man like you who can keep things discreet to do me a"
+" favor."
 msgstr ""
 
 msgctxt "584"
@@ -177,7 +178,8 @@ msgid "(I'll go out first and make taxi preparations.)"
 msgstr ""
 
 msgctxt "920"
-msgid "Do whatever you can to keep those animals from snapping a picture of me."
+msgid ""
+"Do whatever you can to keep those animals from snapping a picture of me."
 msgstr ""
 
 msgctxt "932"
@@ -190,7 +192,7 @@ msgstr ""
 
 msgctxt "968"
 msgid "What's that?"
-msgstr ""
+msgstr "Cos'è?"
 
 msgctxt "980"
 msgid "This may sound strange, but are you the type to keep a secret?"
@@ -214,7 +216,7 @@ msgstr ""
 
 msgctxt "1040"
 msgid "Is this some kind of con?"
-msgstr ""
+msgstr "È una specie di scherzo?"
 
 msgctxt "1052"
 msgid "No, no. I really mean it."
@@ -226,8 +228,8 @@ msgstr ""
 
 msgctxt "1076"
 msgid ""
-"I've been looking for a man like you who can keep things discreet to do me "
-"a favor."
+"I've been looking for a man like you who can keep things discreet to do me a"
+" favor."
 msgstr ""
 
 msgctxt "1088"
@@ -350,7 +352,8 @@ msgid "(I'll go out first and make taxi preparations.)"
 msgstr ""
 
 msgctxt "1412"
-msgid "Do whatever you can to keep those animals from snapping a picture of me."
+msgid ""
+"Do whatever you can to keep those animals from snapping a picture of me."
 msgstr ""
 
 msgctxt "1424"
@@ -359,8 +362,8 @@ msgstr ""
 
 msgctxt "1460"
 msgid ""
-"You again? I really wish you'd do me this favor. I'm willing to pay you "
-"well for it."
+"You again? I really wish you'd do me this favor. I'm willing to pay you well"
+" for it."
 msgstr ""
 
 msgctxt "1472"
@@ -378,7 +381,7 @@ msgstr ""
 
 msgctxt "1496"
 msgid "I promise."
-msgstr ""
+msgstr "Lo prometto."
 
 msgctxt "1508"
 msgid "I can't guarantee that. Why do you ask?"
@@ -510,7 +513,8 @@ msgid "(I'll go out first and make taxi preparations.)"
 msgstr ""
 
 msgctxt "1880"
-msgid "Do whatever you can to keep those animals from snapping a picture of me."
+msgid ""
+"Do whatever you can to keep those animals from snapping a picture of me."
 msgstr ""
 
 msgctxt "1892"
@@ -527,7 +531,7 @@ msgstr ""
 
 msgctxt "1964"
 msgid "Absolutely."
-msgstr ""
+msgstr "Assolutamente."
 
 msgctxt "1976"
 msgid "Not all the time."
@@ -539,11 +543,11 @@ msgstr ""
 
 msgctxt "2000"
 msgid "I don't think so."
-msgstr ""
+msgstr "Non credo proprio."
 
 msgctxt "2012"
 msgid "Absolutely."
-msgstr ""
+msgstr "Assolutamente."
 
 msgctxt "2024"
 msgid "Not all the time."
@@ -555,7 +559,7 @@ msgstr ""
 
 msgctxt "2048"
 msgid "I don't think so."
-msgstr ""
+msgstr "Non credo proprio."
 
 msgctxt "2060"
 msgid "Sure, I'll do it."
@@ -563,11 +567,11 @@ msgstr ""
 
 msgctxt "2072"
 msgid "I don't think so."
-msgstr ""
+msgstr "Non credo proprio."
 
 msgctxt "2084"
 msgid "I promise."
-msgstr ""
+msgstr "Lo prometto."
 
 msgctxt "2096"
 msgid "I can't guarantee that."
@@ -579,7 +583,7 @@ msgstr ""
 
 msgctxt "2120"
 msgid "I don't think so."
-msgstr ""
+msgstr "Non credo proprio."
 
 msgctxt "21060"
 msgid "Manager"
@@ -643,4 +647,4 @@ msgstr ""
 
 msgctxt "21120"
 msgid "Idle"
-msgstr ""
+msgstr "Inattivo"

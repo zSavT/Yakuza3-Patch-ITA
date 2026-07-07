@@ -1,19 +1,20 @@
+#
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=utf-8\n"
-"Language: pt\n"
-"Language-Team: Portuguese, Brazilian\n"
-"Last-Translator: \n"
-"MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: 2026-07-07\n"
 "Project-Id-Version: yakuza-3-remastered\n"
 "Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-07-07\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgctxt "396"
 msgid "Arf, arf!"
-msgstr ""
+msgstr "Bau bau!"
 
 msgctxt "408"
 msgid "Isn't it wonderful, Mame?"
@@ -33,7 +34,7 @@ msgstr ""
 
 msgctxt "456"
 msgid "Of course!"
-msgstr ""
+msgstr "Ma certo!"
 
 msgctxt "468"
 msgid "Hehe! Mame, you're one lucky pup!"
@@ -41,7 +42,7 @@ msgstr ""
 
 msgctxt "480"
 msgid "Arf, arf!"
-msgstr ""
+msgstr "Bau bau!"
 
 msgctxt "492"
 msgid "Ahahaha! Mame's saying he thinks so, too!"
@@ -57,11 +58,11 @@ msgstr ""
 
 msgctxt "576"
 msgid "Bark, bark!"
-msgstr ""
+msgstr "Bau bau!"
 
 msgctxt "588"
 msgid "Sit!"
-msgstr ""
+msgstr "Seduto!"
 
 msgctxt "600"
 msgid "Woof!"
@@ -69,7 +70,7 @@ msgstr ""
 
 msgctxt "624"
 msgid "Turn around!"
-msgstr ""
+msgstr "Girati!"
 
 msgctxt "636"
 msgid "Arf!"
@@ -81,7 +82,7 @@ msgstr ""
 
 msgctxt "672"
 msgid "Ruff!"
-msgstr ""
+msgstr "Bau!"
 
 msgctxt "708"
 msgid "Great job, Mame! You're amazing!"
@@ -99,7 +100,7 @@ msgstr ""
 
 msgctxt "744"
 msgid "Ruff!"
-msgstr ""
+msgstr "Bau!"
 
 msgctxt "756"
 msgid "What's that? You want to give it to Uncle Kaz?"
@@ -115,7 +116,7 @@ msgstr ""
 
 msgctxt "792"
 msgid "You got a <Color:8>Staminan Spark<Color:Default>."
-msgstr ""
+msgstr "Hai ottenuto <Color:8>uno Staminan Spark<Color:Default>."
 
 msgctxt "816"
 msgid "Now what do we have here..."
@@ -188,7 +189,8 @@ msgid "Hooray! Okay, let's go!"
 msgstr ""
 
 msgctxt "1152"
-msgid "Hey, Uncle Kaz! I'm trying to get Mame to sit, but he just won't do it..."
+msgid ""
+"Hey, Uncle Kaz! I'm trying to get Mame to sit, but he just won't do it..."
 msgstr ""
 
 msgctxt "1164"
@@ -206,7 +208,8 @@ msgid "Please, can't we try together? I really want him to learn this."
 msgstr ""
 
 msgctxt "1260"
-msgid "Hey, Uncle Kaz! I'm trying to get Mame to fetch, but he just won't do it..."
+msgid ""
+"Hey, Uncle Kaz! I'm trying to get Mame to fetch, but he just won't do it..."
 msgstr ""
 
 msgctxt "1272"
@@ -243,7 +246,7 @@ msgstr ""
 
 msgctxt "1524"
 msgid "Ruff!"
-msgstr ""
+msgstr "Bau!"
 
 msgctxt "1548"
 msgid "Now... fetch!"
@@ -259,7 +262,7 @@ msgstr ""
 
 msgctxt "1620"
 msgid "Ruff!"
-msgstr ""
+msgstr "Bau!"
 
 msgctxt "1644"
 msgid "Now, let's see..."
@@ -279,7 +282,7 @@ msgstr ""
 
 msgctxt "1704"
 msgid "Turn around."
-msgstr ""
+msgstr "Girati!"
 
 msgctxt "1728"
 msgid "Fetch."
@@ -299,7 +302,7 @@ msgstr ""
 
 msgctxt "2076"
 msgid "Ruff!"
-msgstr ""
+msgstr "Bau!"
 
 msgctxt "2124"
 msgid "Arf!"
@@ -338,7 +341,8 @@ msgid "Argh! Why won't you do what I tell you?"
 msgstr ""
 
 msgctxt "2328"
-msgid "Haha, why don't you give it a rest for now? Mame looks pretty worn out."
+msgid ""
+"Haha, why don't you give it a rest for now? Mame looks pretty worn out."
 msgstr ""
 
 msgctxt "2340"
@@ -347,7 +351,7 @@ msgstr ""
 
 msgctxt "2364"
 msgid "*whimper*"
-msgstr ""
+msgstr "*uuuh*"
 
 msgctxt "2376"
 msgid "Now, let's see..."
@@ -369,7 +373,7 @@ msgstr ""
 
 msgctxt "2496"
 msgid "Ruff!"
-msgstr ""
+msgstr "Bau!"
 
 msgctxt "2520"
 msgid ""
@@ -421,7 +425,7 @@ msgstr ""
 
 msgctxt "2964"
 msgid "Bark bark!"
-msgstr ""
+msgstr "Bau bau!"
 
 msgctxt "2976"
 msgid "Isn't Mame the best? He can sit perfectly now!"
@@ -429,8 +433,8 @@ msgstr ""
 
 msgctxt "2988"
 msgid ""
-"Thanks a lot, Uncle Kaz! I wanna teach him lots more tricks. You'll help "
-"me, right?"
+"Thanks a lot, Uncle Kaz! I wanna teach him lots more tricks. You'll help me,"
+" right?"
 msgstr ""
 
 msgctxt "3012"
@@ -447,7 +451,7 @@ msgstr ""
 
 msgctxt "3060"
 msgid "Oh, uh..."
-msgstr ""
+msgstr "Oh, uh..."
 
 msgctxt "3072"
 msgid ""
@@ -483,7 +487,7 @@ msgstr ""
 
 msgctxt "3240"
 msgid "Uh-oh..."
-msgstr ""
+msgstr "Oh-oh..."
 
 msgctxt "3252"
 msgid ""
@@ -505,7 +509,7 @@ msgstr ""
 
 msgctxt "3324"
 msgid "Ruff, ruff!"
-msgstr ""
+msgstr "Bau, bau!"
 
 msgctxt "3336"
 msgid "Isn't Mame the best? He can turn around perfectly now!"
@@ -513,8 +517,8 @@ msgstr ""
 
 msgctxt "3348"
 msgid ""
-"Thanks a lot, Uncle Kaz! I wanna teach him lots more tricks. You'll help "
-"me, right?"
+"Thanks a lot, Uncle Kaz! I wanna teach him lots more tricks. You'll help me,"
+" right?"
 msgstr ""
 
 msgctxt "3372"
@@ -531,7 +535,7 @@ msgstr ""
 
 msgctxt "3456"
 msgid "You don't say..."
-msgstr ""
+msgstr "Ma dai..."
 
 msgctxt "3468"
 msgid ""
@@ -549,7 +553,7 @@ msgstr ""
 
 msgctxt "3528"
 msgid "Hm..."
-msgstr ""
+msgstr "Mmm..."
 
 msgctxt "3540"
 msgid ""
@@ -567,7 +571,7 @@ msgstr ""
 
 msgctxt "3600"
 msgid "Oh, uh..."
-msgstr ""
+msgstr "Oh, uh..."
 
 msgctxt "3612"
 msgid ""
@@ -589,7 +593,7 @@ msgstr ""
 
 msgctxt "3696"
 msgid "Ruff, ruff!"
-msgstr ""
+msgstr "Bau, bau!"
 
 msgctxt "3708"
 msgid "Isn't Mame the best? He can fetch perfectly now!"
@@ -609,7 +613,7 @@ msgstr ""
 
 msgctxt "3792"
 msgid "Wait, really?"
-msgstr ""
+msgstr "Aspetta, sul serio?"
 
 msgctxt "3804"
 msgid ""
@@ -623,11 +627,11 @@ msgstr ""
 
 msgctxt "3972"
 msgid "Sure, why not?"
-msgstr ""
+msgstr "Certo, perché no?"
 
 msgctxt "3984"
 msgid "Maybe next time."
-msgstr ""
+msgstr "Magari la prossima volta."
 
 msgctxt "3996"
 msgid "Sit."
@@ -635,7 +639,7 @@ msgstr ""
 
 msgctxt "4008"
 msgid "Turn around."
-msgstr ""
+msgstr "Girati!"
 
 msgctxt "4020"
 msgid "Sit."
@@ -647,7 +651,7 @@ msgstr ""
 
 msgctxt "4044"
 msgid "Turn around."
-msgstr ""
+msgstr "Girati!"
 
 msgctxt "4056"
 msgid "Sit."
@@ -655,7 +659,7 @@ msgstr ""
 
 msgctxt "4068"
 msgid "Give Him a Treat"
-msgstr ""
+msgstr "Mettilo alla prova"
 
 msgctxt "4080"
 msgid "Make Him Try Again"
@@ -711,7 +715,7 @@ msgstr ""
 
 msgctxt "33176"
 msgid "dummy"
-msgstr ""
+msgstr "dummy"
 
 msgctxt "33180"
 msgid "Talk_Kamae"
