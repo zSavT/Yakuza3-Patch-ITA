@@ -29,7 +29,7 @@ Per contribuire, segui questi semplici passaggi:
 
 1. **Fai un fork** di questo repository sul tuo account GitHub.
 2. Crea un **nuovo branch** per le tue modifiche (es. `git checkout -b fix-traduzione-menu`).
-3. Applica le tue correzioni o traduzioni lavorando direttamente sui file `.po`. Ricorda di rispettare il tono di gioco e di non alterare le variabili di sistema (`%s`, `%d`, ecc.).
+3. Applica le tue correzioni o traduzioni lavorando direttamente sui file `.po`. **È obbligatorio consultare e seguire il file [glossario.md](glossario.md)** per garantire coerenza nei toponimi, nei nomi dei personaggi e nello stile generale. Ricorda di non alterare le variabili di sistema (`%s`, `%d`, ecc.).
 4. Esegui il commit e il push delle tue modifiche sul tuo fork.
 5. Apri una **Pull Request (PR)** verso il repository principale per integrare il tuo lavoro.
 
