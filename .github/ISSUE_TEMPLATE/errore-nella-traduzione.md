@@ -10,8 +10,8 @@ assignees: zSavT
 ## Posizione dell'errore
 *Informazioni necessarie per rintracciare la stringa nei file di gioco.*
 
-- **Capitolo:** (es. Capitolo 1: Sky Finance)
-- **Personaggio:** (es. Akiyama)
+- **Capitolo:** (es. Capitolo 1:)
+- **Personaggio:** (es. Haruka)
 - **Luogo/Contesto:** (es. Dialogo nel Serena / Testo di un minigioco)
 
 ---
