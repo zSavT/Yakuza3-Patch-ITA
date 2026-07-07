@@ -14,31 +14,31 @@ msgstr ""
 
 msgctxt "464\tCONTENTS"
 msgid "About Extra Modes"
-msgstr ""
+msgstr "Informazioni sulle modalità extra"
 
 msgctxt "483\tCONTENTS"
 msgid "P Versus Pool"
-msgstr ""
+msgstr "Versus Biliardo (2G)"
 
 msgctxt "498\tCONTENTS"
 msgid "P Versus Darts "
-msgstr ""
+msgstr "Versus Freccette (2G)"
 
 msgctxt "514\tCONTENTS"
 msgid "Answer x Answer 2P Versus"
-msgstr ""
+msgstr "Answer x Answer Versus 2G"
 
 msgctxt "540\tCONTENTS"
 msgid "Additional Answer x Answer Yakuza Quiz Questions"
-msgstr ""
+msgstr "Domande quiz Yakuza aggiuntive per Answer x Answer"
 
 msgctxt "590\tCONTENTS"
 msgid "P Versus Bowling"
-msgstr ""
+msgstr "Versus Bowling (2G)"
 
 msgctxt "608\tCONTENTS"
 msgid "P Versus Golf"
-msgstr ""
+msgstr "Versus Golf (2G)"
 
 msgctxt "622\tCONTENTS"
 msgid "Battle for Survival"
@@ -46,7 +46,7 @@ msgstr "Battaglia per la sopravvivenza"
 
 msgctxt "642\tCONTENTS"
 msgid "Survival Tag"
-msgstr ""
+msgstr "Torneo Survival Tag"
 
 msgctxt "655\tCONTENTS"
 msgid "All-Star Tournament"
@@ -122,7 +122,7 @@ msgstr "Pacco oggetti S 8"
 
 msgctxt "923\tCONTENTS"
 msgid "Costume Change for Kiryu and Rikiya"
-msgstr ""
+msgstr "Cambio d'abito per Kiryu e Rikiya"
 
 msgctxt "959\tCONTENTS"
 msgid "Costume Change for Haruka"
@@ -130,11 +130,11 @@ msgstr "Cambio di costume per Haruka"
 
 msgctxt "985\tCONTENTS"
 msgid "Haruka's Requests"
-msgstr ""
+msgstr "Le richieste di Haruka"
 
 msgctxt "1004\tCONTENTS_EXP"
 msgid "Read explanations of the extra modes available to you."
-msgstr ""
+msgstr "Leggi le spiegazioni delle modalità extra disponibili."
 
 msgctxt "1059\tCONTENTS_EXP"
 msgid ""
@@ -688,23 +688,23 @@ msgstr ""
 
 msgctxt "11841\tMSG_WINDOW"
 msgid "Press <Action:Button_Cross@UI> to start the game."
-msgstr ""
+msgstr "Premi <Action:Button_Cross@UI> per iniziare la partita."
 
 msgctxt "11891\tMSG_WINDOW"
 msgid "Press <Action:Button_Cross@UI> to start the game."
-msgstr ""
+msgstr "Premi <Action:Button_Cross@UI> per iniziare la partita."
 
 msgctxt "11941\tMSG_WINDOW"
 msgid "Press <Action:Button_Cross@UI> to start the game."
-msgstr ""
+msgstr "Premi <Action:Button_Cross@UI> per iniziare la partita."
 
 msgctxt "11992\tMSG_WINDOW"
 msgid "Press <Action:Button_Cross@UI> to start the game."
-msgstr ""
+msgstr "Premi <Action:Button_Cross@UI> per iniziare la partita."
 
 msgctxt "12042\tMSG_WINDOW"
 msgid "Press <Action:Button_Cross@UI> to start the game."
-msgstr ""
+msgstr "Premi <Action:Button_Cross@UI> per iniziare la partita."
 
 msgctxt "12092\tMSG_WINDOW"
 msgid ""

@@ -74,11 +74,11 @@ msgstr "Sentetsu, lo stallone selvaggio di Kamurocho"
 
 msgctxt "1240\tNAME"
 msgid "Yuto, the Reapers' Rising Star"
-msgstr ""
+msgstr "Yuto, la stella nascente dei Mietitori"
 
 msgctxt "1271\tNAME"
 msgid "Gohren, Elite Reaper Officer"
-msgstr ""
+msgstr "Gohren, ufficiale d'élite dei Mietitori"
 
 msgctxt "1300\tNAME"
 msgid "Egami, the Blind Hitman"
@@ -90,7 +90,7 @@ msgstr "Shinzaki, la lama del mietitore"
 
 msgctxt "1358\tNAME"
 msgid "Arase, the Reaper Boss"
-msgstr ""
+msgstr "Arase, il capo dei Mietitori"
 
 msgctxt "1381\tREWARD"
 msgid "50,000 yen"
@@ -98,95 +98,95 @@ msgstr "500.000 yen."
 
 msgctxt "1392\tREWARD"
 msgid "70,000 yen"
-msgstr ""
+msgstr "70.000 yen"
 
 msgctxt "1403\tREWARD"
 msgid "80,000 yen"
-msgstr ""
+msgstr "80.000 yen"
 
 msgctxt "1414\tREWARD"
 msgid "90,000 yen"
-msgstr ""
+msgstr "90.000 yen"
 
 msgctxt "1425\tREWARD"
 msgid "110,000 yen"
-msgstr ""
+msgstr "110.000 yen"
 
 msgctxt "1437\tREWARD"
 msgid "90,000 yen"
-msgstr ""
+msgstr "90.000 yen"
 
 msgctxt "1448\tREWARD"
 msgid "100,000 yen"
-msgstr ""
+msgstr "100.000 yen"
 
 msgctxt "1460\tREWARD"
 msgid "120,000 yen"
-msgstr ""
+msgstr "120.000 yen"
 
 msgctxt "1472\tREWARD"
 msgid "120,000 yen"
-msgstr ""
+msgstr "120.000 yen"
 
 msgctxt "1484\tREWARD"
 msgid "140,000 yen"
-msgstr ""
+msgstr "140.000 yen"
 
 msgctxt "1496\tREWARD"
 msgid "130,000 yen"
-msgstr ""
+msgstr "130.000 yen"
 
 msgctxt "1508\tREWARD"
 msgid "150,000 yen"
-msgstr ""
+msgstr "150.000 yen"
 
 msgctxt "1520\tREWARD"
 msgid "200,000 yen"
-msgstr ""
+msgstr "200.000 yen"
 
 msgctxt "1532\tREWARD"
 msgid "130,000 yen"
-msgstr ""
+msgstr "130.000 yen"
 
 msgctxt "1544\tREWARD"
 msgid "150,000 yen"
-msgstr ""
+msgstr "150.000 yen"
 
 msgctxt "1556\tREWARD"
 msgid "180,000 yen"
-msgstr ""
+msgstr "180.000 yen"
 
 msgctxt "1568\tREWARD"
 msgid "200,000 yen"
-msgstr ""
+msgstr "200.000 yen"
 
 msgctxt "1580\tREWARD"
 msgid "220,000 yen"
-msgstr ""
+msgstr "220.000 yen"
 
 msgctxt "1592\tREWARD"
 msgid "250,000 yen"
-msgstr ""
+msgstr "250.000 yen"
 
 msgctxt "1604\tREWARD"
 msgid "300,000 yen"
-msgstr ""
+msgstr "300.000 yen"
 
 msgctxt "1616\tPLACE_LIST"
 msgid "Kamurocho"
-msgstr ""
+msgstr "Kamurocho"
 
 msgctxt "1626\tPLACE_LIST"
 msgid "Kamurocho"
-msgstr ""
+msgstr "Kamurocho"
 
 msgctxt "1636\tPLACE_LIST"
 msgid "Kamurocho"
-msgstr ""
+msgstr "Kamurocho"
 
 msgctxt "1646\tPLACE_LIST"
 msgid "Kamurocho"
-msgstr ""
+msgstr "Kamurocho"
 
 msgctxt "1656\tPLACE_LIST"
 msgid "Downtown Ryukyu"
@@ -194,23 +194,23 @@ msgstr "Centro di Ryukyu"
 
 msgctxt "1672\tPLACE_LIST"
 msgid "Kamurocho"
-msgstr ""
+msgstr "Kamurocho"
 
 msgctxt "1682\tPLACE_LIST"
 msgid "Kamurocho"
-msgstr ""
+msgstr "Kamurocho"
 
 msgctxt "1692\tPLACE_LIST"
 msgid "Kamurocho"
-msgstr ""
+msgstr "Kamurocho"
 
 msgctxt "1702\tPLACE_LIST"
 msgid "Kamurocho"
-msgstr ""
+msgstr "Kamurocho"
 
 msgctxt "1712\tPLACE_LIST"
 msgid "Kamurocho"
-msgstr ""
+msgstr "Kamurocho"
 
 msgctxt "1722\tPLACE_LIST"
 msgid "Downtown Ryukyu"
@@ -226,19 +226,19 @@ msgstr "Centro di Ryukyu"
 
 msgctxt "1770\tPLACE_LIST"
 msgid "Kamurocho"
-msgstr ""
+msgstr "Kamurocho"
 
 msgctxt "1780\tPLACE_LIST"
 msgid "Kamurocho"
-msgstr ""
+msgstr "Kamurocho"
 
 msgctxt "1790\tPLACE_LIST"
 msgid "Kamurocho"
-msgstr ""
+msgstr "Kamurocho"
 
 msgctxt "1800\tPLACE_LIST"
 msgid "Kamurocho"
-msgstr ""
+msgstr "Kamurocho"
 
 msgctxt "1810\tPLACE_LIST"
 msgid "Downtown Ryukyu"
@@ -246,15 +246,15 @@ msgstr "Centro di Ryukyu"
 
 msgctxt "1826\tPLACE_LIST"
 msgid "Kamurocho"
-msgstr ""
+msgstr "Kamurocho"
 
 msgctxt "1836\tPLACE_LIST"
 msgid "Kamurocho"
-msgstr ""
+msgstr "Kamurocho"
 
 msgctxt "1846\tPLACE_INFO"
 msgid "Sighted at east end of Taihei Blvd. in Kamurocho"
-msgstr ""
+msgstr "Avvistato all'estremità est di Taihei Blvd. a Kamurocho"
 
 msgctxt "1895\tPLACE_INFO"
 msgid "Sighted at West Park in Kamurocho"
@@ -274,7 +274,7 @@ msgstr "Avvistato vicino alla Ryukyu Monorail Station"
 
 msgctxt "2047\tPLACE_INFO"
 msgid "Hiding where all of Kamurocho is in his sights"
-msgstr ""
+msgstr "Si nasconde dove ha tutta Kamurocho nel mirino"
 
 msgctxt "2094\tPLACE_INFO"
 msgid "Sighted at Theater Square in Kamurocho"
@@ -282,7 +282,7 @@ msgstr "Avvistato in Theatre Square, Kamurocho"
 
 msgctxt "2133\tPLACE_INFO"
 msgid "Hiding in a building on Park Boulevard in Kamurocho"
-msgstr ""
+msgstr "Nascosto in un edificio su Park Boulevard a Kamurocho"
 
 msgctxt "2185\tPLACE_INFO"
 msgid "Hiding in deserted places around Kamurocho"
@@ -290,7 +290,7 @@ msgstr "Nascosto nei luoghi isolati di Kamurocho."
 
 msgctxt "2228\tPLACE_INFO"
 msgid "Has office at north end of Senryo Avenue in Kamurocho"
-msgstr ""
+msgstr "Ha un ufficio all'estremità nord di Senryo Avenue a Kamurocho"
 
 msgctxt "2282\tPLACE_INFO"
 msgid "Sighted on Kubochi Road in Downtown Ryukyu"
@@ -298,7 +298,7 @@ msgstr "Avvistato sulla Kubochi Road, nel centro di Ryukyu"
 
 msgctxt "2325\tPLACE_INFO"
 msgid "Sightings on Ryukyu Blvd. in Downtown Ryukyu"
-msgstr ""
+msgstr "Avvistamenti su Ryukyu Blvd. nel Centro di Ryukyu"
 
 msgctxt "2370\tPLACE_INFO"
 msgid "Sighted at Public Market in Downtown Ryukyu"
@@ -310,7 +310,7 @@ msgstr "Avvistato vicino alla Millennium Tower, Kamurocho"
 
 msgctxt "2457\tPLACE_INFO"
 msgid "Attacked HLA Headquarters"
-msgstr ""
+msgstr "Ha attaccato il quartier generale della HLA"
 
 msgctxt "2483\tPLACE_INFO"
 msgid "Sighted at Children's Park in Kamurocho"
@@ -318,7 +318,7 @@ msgstr "Avvistato al Children's Park, Kamurocho"
 
 msgctxt "2523\tPLACE_INFO"
 msgid "Set up base on Senryo Avenue in Kamurocho"
-msgstr ""
+msgstr "Ha stabilito una base su Senryo Avenue a Kamurocho"
 
 msgctxt "2565\tPLACE_INFO"
 msgid "Sighted at east Ryukyu Boulevard in Downtown Ryukyu"
@@ -360,7 +360,7 @@ msgstr ""
 
 msgctxt "2811\tPOWER"
 msgid "Wields knives."
-msgstr ""
+msgstr "Brandisce coltelli."
 
 msgctxt "2826\tPOWER"
 msgid "Armed with guns."

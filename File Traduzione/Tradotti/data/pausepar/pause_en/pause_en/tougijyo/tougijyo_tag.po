@@ -18,43 +18,43 @@ msgstr "Impulso dell'Inferno"
 
 msgctxt "669\tNAME"
 msgid "American Powers"
-msgstr ""
+msgstr "Potenze Americane"
 
 msgctxt "685\tNAME"
 msgid "Octopus Shooters"
-msgstr ""
+msgstr "Tiratori polpo"
 
 msgctxt "702\tNAME"
 msgid "East-West Hero Team-Up"
-msgstr ""
+msgstr "Squadra di eroi Est-Ovest"
 
 msgctxt "725\tNAME"
 msgid "The Mad Dogs"
-msgstr ""
+msgstr "I cani pazzi"
 
 msgctxt "738\tNAME"
 msgid "The Double Volcano"
-msgstr ""
+msgstr "Il doppio vulcano"
 
 msgctxt "757\tNAME"
 msgid "The Super Overdrives"
-msgstr ""
+msgstr "I Super Overdrive"
 
 msgctxt "778\tNAME"
 msgid "Masked Bourgeoisie I and II"
-msgstr ""
+msgstr "Borghesia mascherata I e II"
 
 msgctxt "806\tNAME"
 msgid "Dual Fist Fighters"
-msgstr ""
+msgstr "Combattenti a due pugni"
 
 msgctxt "825\tNAME"
 msgid "Beast King Brothers"
-msgstr ""
+msgstr "Fratelli Re delle Bestie"
 
 msgctxt "845\tNAME"
 msgid "The Studly Boys"
-msgstr ""
+msgstr "I ragazzi attraenti"
 
 msgctxt "861\tNAME"
 msgid "Yi-san and Er-san"
@@ -62,11 +62,11 @@ msgstr "Yi-san e Er-san"
 
 msgctxt "879\tNAME"
 msgid "Bad Twins"
-msgstr ""
+msgstr "I gemelli cattivi"
 
 msgctxt "889\tNAME"
 msgid "Boxing Alliance"
-msgstr ""
+msgstr "Alleanza della boxe"
 
 msgctxt "905\tNAME"
 msgid "Kamurocho Hooligans"
@@ -78,11 +78,11 @@ msgstr "Fratelli del Massacro Siluro"
 
 msgctxt "951\tNAME"
 msgid "The Revolutions"
-msgstr ""
+msgstr "Le Rivoluzioni"
 
 msgctxt "967\tNAME"
 msgid "Metabolic Muscles"
-msgstr ""
+msgstr "Muscoli metabolici"
 
 msgctxt "985\tNAME"
 msgid "Divine Wrath Alliance"
@@ -90,7 +90,7 @@ msgstr "Alleanza dell'Ira Divina"
 
 msgctxt "1007\tNAME"
 msgid "High and Low Brothers"
-msgstr ""
+msgstr "Fratelli Alti e Bassi"
 
 msgctxt "1029\tNAME"
 msgid "Unknown"
@@ -98,27 +98,27 @@ msgstr "Sconosciuto"
 
 msgctxt "1037\tCATCHPHRASE"
 msgid "The Devils that Shake the Heavens"
-msgstr ""
+msgstr "I diavoli che scuotono i cieli"
 
 msgctxt "1071\tCATCHPHRASE"
 msgid "The Black Ship of the Underground"
-msgstr ""
+msgstr "La nave nera dei bassifondi"
 
 msgctxt "1105\tCATCHPHRASE"
 msgid "The Eight Limbs of Fury"
-msgstr ""
+msgstr "Gli otto arti della furia"
 
 msgctxt "1129\tCATCHPHRASE"
 msgid "Hunters of the Sun and Stars"
-msgstr ""
+msgstr "Cacciatori del sole e delle stelle"
 
 msgctxt "1158\tCATCHPHRASE"
 msgid "The Devil's Right-Hand Canines"
-msgstr ""
+msgstr "I canini destri del diavolo"
 
 msgctxt "1189\tCATCHPHRASE"
 msgid "The Subterranean Heat-Bringers"
-msgstr ""
+msgstr "I portatori di calore sotterranei"
 
 msgctxt "1220\tCATCHPHRASE"
 msgid "One-Way Ticket to Death"
@@ -126,19 +126,19 @@ msgstr "Biglietto di sola andata per la morte"
 
 msgctxt "1244\tCATCHPHRASE"
 msgid "The Faces of Budo"
-msgstr ""
+msgstr "I volti del Budo"
 
 msgctxt "1262\tCATCHPHRASE"
 msgid "Punches from Heaven and Kicks from Hell"
-msgstr ""
+msgstr "Pugni dal cielo e calci dall'inferno"
 
 msgctxt "1302\tCATCHPHRASE"
 msgid "The Untamed Siblings of the Wild"
-msgstr ""
+msgstr "I fratelli indomiti della natura"
 
 msgctxt "1335\tCATCHPHRASE"
 msgid "The Faces Too Pretty to Touch"
-msgstr ""
+msgstr "I volti troppo belli da toccare"
 
 msgctxt "1365\tCATCHPHRASE"
 msgid "The Chinese Octomillennium"
@@ -146,11 +146,11 @@ msgstr "L'ottomillennio cinese"
 
 msgctxt "1392\tCATCHPHRASE"
 msgid "The Troublemakers of Kamurocho"
-msgstr ""
+msgstr "I piantagrane di Kamurocho"
 
 msgctxt "1423\tCATCHPHRASE"
 msgid "The Savage Heavy Handers"
-msgstr ""
+msgstr "I selvaggi dalle mani pesanti"
 
 msgctxt "1448\tCATCHPHRASE"
 msgid "The Fists of Fire and Ice"
@@ -162,11 +162,11 @@ msgstr "Gli uomini che non mancano mai un colpo"
 
 msgctxt "1505\tCATCHPHRASE"
 msgid "Innovators of Muscle and Technique"
-msgstr ""
+msgstr "Innovatori di muscoli e tecnica"
 
 msgctxt "1540\tCATCHPHRASE"
 msgid "The Chemical Reaction of the Ring"
-msgstr ""
+msgstr "La reazione chimica del ring"
 
 msgctxt "1574\tCATCHPHRASE"
 msgid "The Deliverymen of Divine Punishment"
@@ -174,7 +174,7 @@ msgstr "I portatori della punizione divina"
 
 msgctxt "1611\tCATCHPHRASE"
 msgid "The Ferocious Pair"
-msgstr ""
+msgstr "La coppia feroce"
 
 msgctxt "1630\tCATCHPHRASE"
 msgid "Unknown"

@@ -14,11 +14,11 @@ msgstr ""
 
 msgctxt "7532"
 msgid "Yamashiro Express"
-msgstr ""
+msgstr "Corriere Yamashiro"
 
 msgctxt "7550"
 msgid "Mail Box"
-msgstr ""
+msgstr "Casella di posta"
 
 msgctxt "7559"
 msgid ""
@@ -31,23 +31,23 @@ msgstr ""
 
 msgctxt "7901"
 msgid "Rikiya"
-msgstr ""
+msgstr "Rikiya"
 
 msgctxt "7908"
 msgid "It's ready!"
-msgstr ""
+msgstr "È pronto!"
 
 msgctxt "7920"
 msgid "The ring's ready, Aniki! <Color:1><Sign:13><Color:Default>"
-msgstr ""
+msgstr "L'anello è pronto, Aniki! <Color:1><Sign:13><Color:Default>"
 
 msgctxt "7979"
 msgid "The kids are all waiting, so head down to the beach ASAP!"
-msgstr ""
+msgstr "I bambini stanno tutti aspettando, quindi scendi in spiaggia al più presto!"
 
 msgctxt "8037"
 msgid "Rikiya here!"
-msgstr ""
+msgstr "Qui Rikiya!"
 
 msgctxt "8050"
 msgid ""
@@ -57,43 +57,43 @@ msgstr ""
 
 msgctxt "8190"
 msgid "The street I'm on has lots of stores."
-msgstr ""
+msgstr "La strada in cui mi trovo ha un sacco di negozi."
 
 msgctxt "8228"
 msgid "Rikiya here!<Color:1><Sign:13><Color:Default>"
-msgstr ""
+msgstr "Qui Rikiya!<Color:1><Sign:13><Color:Default>"
 
 msgctxt "8274"
 msgid "Finally found a good landmark! A convenience store!"
-msgstr ""
+msgstr "Finalmente ho trovato un buon punto di riferimento! Un minimarket!"
 
 msgctxt "8326"
 msgid "I'm out in front of it now!"
-msgstr ""
+msgstr "Sono proprio qua fuori!"
 
 msgctxt "8354"
 msgid "Where are you, Aniki?"
-msgstr ""
+msgstr "Dove sei, Aniki?"
 
 msgctxt "8376"
 msgid "Rikiya here!<Color:1><Sign:7><Color:Default>"
-msgstr ""
+msgstr "Qui Rikiya!<Color:1><Sign:7><Color:Default>"
 
 msgctxt "8421"
 msgid "Where are you, Aniki? I'm getting tired of waiting..."
-msgstr ""
+msgstr "Dove sei, Aniki? Mi sto stancando di aspettare..."
 
 msgctxt "8475"
 msgid "Rikiya here!<Color:1><Sign:6><Color:Default>"
-msgstr ""
+msgstr "Qui Rikiya!<Color:1><Sign:6><Color:Default>"
 
 msgctxt "8520"
 msgid "Where are you, Aniki!? You're not blowing me off, are you!?"
-msgstr ""
+msgstr "Dove sei, Aniki!? Non mi starai dando buca, vero!?"
 
 msgctxt "8580"
 msgid "Great news, Aniki!"
-msgstr ""
+msgstr "Grandi notizie, Aniki!"
 
 msgctxt "8599"
 msgid ""
@@ -104,11 +104,11 @@ msgstr ""
 
 msgctxt "8782"
 msgid "Mack"
-msgstr ""
+msgstr "Mack"
 
 msgctxt "8787"
 msgid "A Smack of Mack! <Color:1><Sign:48><Color:Default>"
-msgstr ""
+msgstr "Un assaggio di Mack! <Color:1><Sign:48><Color:Default>"
 
 msgctxt "8838"
 msgid ""
@@ -132,7 +132,7 @@ msgstr ""
 
 msgctxt "9317"
 msgid "Mack's Back!"
-msgstr ""
+msgstr "Mack è tornato!"
 
 msgctxt "9330"
 msgid ""
@@ -150,11 +150,11 @@ msgstr ""
 
 msgctxt "9673"
 msgid "Oh, and don't forget to upload your shots to a blog!"
-msgstr ""
+msgstr "Oh, e non dimenticare di caricare i tuoi scatti su un blog!"
 
 msgctxt "9726"
 msgid "The Scent of Mack<Color:1><Sign:49><Color:Default>"
-msgstr ""
+msgstr "Il profumo di Mack<Color:1><Sign:49><Color:Default>"
 
 msgctxt "9777"
 msgid ""
@@ -185,11 +185,11 @@ msgstr ""
 
 msgctxt "10444"
 msgid "Mack in Action"
-msgstr ""
+msgstr "Mack in azione"
 
 msgctxt "10459"
 msgid "Here I am for all your photo needs, Kiryu-san!"
-msgstr ""
+msgstr "Sono a disposizione per ogni tua esigenza fotografica, Kiryu-san!"
 
 msgctxt "10506"
 msgid ""
@@ -213,15 +213,15 @@ msgstr ""
 
 msgctxt "10999"
 msgid "Bet she'd make a dang good shot if you ever find yourself up there!"
-msgstr ""
+msgstr "Scommetto che verrebbe un bello scatto se ti trovassi lassù!"
 
 msgctxt "11067"
 msgid "Peace!"
-msgstr ""
+msgstr "Pace!"
 
 msgctxt "11074"
 msgid "Mack in the House!<Color:1><Sign:16><Color:Default>"
-msgstr ""
+msgstr "Mack in the House!<Color:1><Sign:16><Color:Default>"
 
 msgctxt "11126"
 msgid ""
@@ -248,7 +248,7 @@ msgstr ""
 
 msgctxt "11844"
 msgid "Nothing But Mack! <Color:1><Sign:3><Color:Default>"
-msgstr ""
+msgstr "Nient'altro che Mack! <Color:1><Sign:3><Color:Default>"
 
 msgctxt "11895"
 msgid ""
@@ -267,7 +267,7 @@ msgstr ""
 
 msgctxt "12350"
 msgid "All Mack, All the Time!"
-msgstr ""
+msgstr "Tutto Mack, tutto il tempo!"
 
 msgctxt "12374"
 msgid ""
@@ -290,11 +290,11 @@ msgstr ""
 
 msgctxt "12807"
 msgid "Mack in Motion! <Color:1><Sign:43><Color:Default>"
-msgstr ""
+msgstr "Mack in movimento! <Color:1><Sign:43><Color:Default>"
 
 msgctxt "12857"
 msgid "Kiryu-san! <Color:1><Sign:4><Color:Default>"
-msgstr ""
+msgstr "Kiryu-san! <Color:1><Sign:4><Color:Default>"
 
 msgctxt "12901"
 msgid ""
@@ -322,11 +322,11 @@ msgstr ""
 
 msgctxt "13400"
 msgid "Crouching Tiger, Hidden Mack"
-msgstr ""
+msgstr "La tigre e il Mack nascosto"
 
 msgctxt "13429"
 msgid "Kiryu-san! <Color:1><Sign:3><Color:Default>"
-msgstr ""
+msgstr "Kiryu-san! <Color:1><Sign:3><Color:Default>"
 
 msgctxt "13473"
 msgid ""
@@ -352,7 +352,7 @@ msgstr ""
 
 msgctxt "14070"
 msgid "A Finely-Aged Mack <Color:1><Sign:43><Color:Default>"
-msgstr ""
+msgstr "Un Mack ben invecchiato <Color:1><Sign:43><Color:Default>"
 
 msgctxt "14123"
 msgid ""
@@ -390,7 +390,7 @@ msgstr ""
 
 msgctxt "14955"
 msgid "IH Water Purifier"
-msgstr ""
+msgstr "Depuratore d'acqua IH"
 
 msgctxt "14973"
 msgid "Congratulations!"
@@ -408,15 +408,15 @@ msgstr ""
 
 msgctxt "15373"
 msgid "IH Water Purifier, Inc."
-msgstr ""
+msgstr "IH Water Purifier, Inc."
 
 msgctxt "15397"
 msgid "Park Blvd. Office, Kamurocho"
-msgstr ""
+msgstr "Ufficio di Park Blvd., Kamurocho"
 
 msgctxt "15426"
 msgid "Casino boss"
-msgstr ""
+msgstr "Boss del casinò"
 
 msgctxt "15438"
 msgid "Thank you."
@@ -424,11 +424,11 @@ msgstr "Grazie."
 
 msgctxt "15449"
 msgid "Temp"
-msgstr ""
+msgstr "Temp"
 
 msgctxt "15454"
 msgid "Violence Tobita stopped by."
-msgstr ""
+msgstr "Violence Tobita è passato a trovarci."
 
 msgctxt "15482"
 msgid ""
@@ -548,7 +548,7 @@ msgstr ""
 
 msgctxt "19051"
 msgid "Miyu Shiraboshi"
-msgstr ""
+msgstr "Miyu Shiraboshi"
 
 msgctxt "19067"
 msgid "I'm back!"
@@ -566,19 +566,19 @@ msgstr ""
 
 msgctxt "19213"
 msgid "('-^*)/"
-msgstr ""
+msgstr "('-^*)/"
 
 msgctxt "19221"
 msgid "Shiori Nagamori"
-msgstr ""
+msgstr "Shiori Nagamori"
 
 msgctxt "19237"
 msgid "At work now<Color:1><Sign:0><Color:Default>"
-msgstr ""
+msgstr "Ora a lavoro<Color:1><Sign:0><Color:Default>"
 
 msgctxt "19281"
 msgid "Hey Kiryu-san, Shiori here. <Color:1><Sign:0><Color:Default>"
-msgstr ""
+msgstr "Ehi Kiryu-san, sono Shiori. <Color:1><Sign:0><Color:Default>"
 
 msgctxt "19342"
 msgid ""
@@ -588,23 +588,23 @@ msgstr ""
 
 msgctxt "19436"
 msgid "I'll be waiting. <Color:1><Sign:16><Color:Default>"
-msgstr ""
+msgstr "Ti aspetterò. <Color:1><Sign:16><Color:Default>"
 
 msgctxt "19487"
 msgid "Kana Momonogi"
-msgstr ""
+msgstr "Kana Momonogi"
 
 msgctxt "19501"
 msgid "Going to work!"
-msgstr ""
+msgstr "Vado a lavoro!"
 
 msgctxt "19516"
 msgid "Kana here! o(^-^)o"
-msgstr ""
+msgstr "Sono Kana! o(^-^)o"
 
 msgctxt "19535"
 msgid "I'm gonna head to the club. Stop by if you've got time! See you later!"
-msgstr ""
+msgstr "Sto andando al club. Passa a trovarmi se hai tempo! A dopo!"
 
 msgctxt "19606"
 msgid "Sorry!"
@@ -612,11 +612,11 @@ msgstr "Scusa!"
 
 msgctxt "19613"
 msgid "I'm really sorry... (；ω；)"
-msgstr ""
+msgstr "Mi dispiace davvero... (；ω；)"
 
 msgctxt "19644"
 msgid "I didn't think you'd really come to see me... Sorry I wasn't there..."
-msgstr ""
+msgstr "Non pensavo saresti venuto per davvero... Scusa se non c'ero..."
 
 msgctxt "19714"
 msgid "Hi!"
@@ -630,11 +630,11 @@ msgstr ""
 
 msgctxt "19824"
 msgid "If you want to, I mean. (>∀<)"
-msgstr ""
+msgstr "Se vuoi, intendo. (>∀<)"
 
 msgctxt "19856"
 msgid "Sorry again!"
-msgstr ""
+msgstr "Scusa di nuovo!"
 
 msgctxt "19869"
 msgid ""
@@ -643,11 +643,11 @@ msgstr ""
 
 msgctxt "19955"
 msgid "I didn't mean to disappoint you, Kiryu-san... I'm the worst. (T_T)"
-msgstr ""
+msgstr "Non volevo deluderti, Kiryu-san... Sono la peggiore. (T_T)"
 
 msgctxt "20022"
 msgid "Today's the day!"
-msgstr ""
+msgstr "Oggi è il gran giorno!"
 
 msgctxt "20039"
 msgid ""
@@ -661,7 +661,7 @@ msgstr "Grazie!"
 
 msgctxt "20164"
 msgid "Thanks for coming today! <Color:1><Sign:0><Color:Default>"
-msgstr ""
+msgstr "Grazie per essere venuto oggi! <Color:1><Sign:0><Color:Default>"
 
 msgctxt "20222"
 msgid ""
@@ -671,27 +671,27 @@ msgstr ""
 
 msgctxt "20322"
 msgid "Please come again soon! ('-^*)/"
-msgstr ""
+msgstr "Torna presto a trovarmi! ('-^*)/"
 
 msgctxt "20354"
 msgid "I owe ya! (/ω＼)"
-msgstr ""
+msgstr "Ti devo un favore! (/ω＼)"
 
 msgctxt "20373"
 msgid "Thanks for asking for me tonight!<Color:1><Sign:0><Color:Default>"
-msgstr ""
+msgstr "Grazie per aver chiesto di me stasera!<Color:1><Sign:0><Color:Default>"
 
 msgctxt "20439"
 msgid "You're such a great guy, Kiryu-san. <Color:1><Sign:0><Color:Default>"
-msgstr ""
+msgstr "Sei proprio un bravo ragazzo, Kiryu-san. <Color:1><Sign:0><Color:Default>"
 
 msgctxt "20508"
 msgid "I hope we get to spend more time together soon."
-msgstr ""
+msgstr "Spero passeremo più tempo insieme presto."
 
 msgctxt "20556"
 msgid "OMG! ∑ヾ(￣0￣; /"
-msgstr ""
+msgstr "OMG! ∑ヾ(￣0￣; /"
 
 msgctxt "20579"
 msgid ""
@@ -700,7 +700,7 @@ msgstr ""
 
 msgctxt "20653"
 msgid "It was absolutely gorgeous!<Color:1><Sign:26><Color:Default>"
-msgstr ""
+msgstr "Era assolutamente stupendo!<Color:1><Sign:26><Color:Default>"
 
 msgctxt "20714"
 msgid ""
@@ -711,7 +711,7 @@ msgstr ""
 
 msgctxt "20884"
 msgid "BTW... (･ω･)b"
-msgstr ""
+msgstr "Comunque... (･ω･)b"
 
 msgctxt "20903"
 msgid ""
@@ -728,7 +728,7 @@ msgstr ""
 
 msgctxt "21165"
 msgid "Shoulda seen it! Σ(･ω･/ ) /"
-msgstr ""
+msgstr "Avresti dovuto vederlo! Σ(･ω･/ ) /"
 
 msgctxt "21199"
 msgid ""
@@ -744,19 +744,19 @@ msgstr ""
 
 msgctxt "21443"
 msgid "Love you! ヽ(*・ω・)人(・ω・*)ノ"
-msgstr ""
+msgstr "Ti amo! ヽ(*・ω・)人(・ω・*)ノ"
 
 msgctxt "21485"
 msgid "2d_cf_mail_momoka"
-msgstr ""
+msgstr "2d_cf_mail_momoka"
 
 msgctxt "21503"
 msgid "I'm so glad I met you, Kiryu-san.<Color:1><Sign:0><Color:Default>"
-msgstr ""
+msgstr "Sono così felice di averti incontrato, Kiryu-san.<Color:1><Sign:0><Color:Default>"
 
 msgctxt "21569"
 msgid "I'll always treasure the memories we made today. ♪"
-msgstr ""
+msgstr "Conserverò per sempre i ricordi di oggi. ♪"
 
 msgctxt "21622"
 msgid ""
@@ -766,19 +766,19 @@ msgstr ""
 
 msgctxt "21710"
 msgid "I love you, Kiryu-san.<Color:1><Sign:0><Color:Default>"
-msgstr ""
+msgstr "Ti amo, Kiryu-san.<Color:1><Sign:0><Color:Default>"
 
 msgctxt "21765"
 msgid "Reimi Hanayama"
-msgstr ""
+msgstr "Reimi Hanayama"
 
 msgctxt "21780"
 msgid "Thanks! (^ε^) ♪"
-msgstr ""
+msgstr "Grazie! (^ε^) ♪"
 
 msgctxt "21799"
 msgid "Thanks for choosing me today.<Color:1><Sign:1><Color:Default>"
-msgstr ""
+msgstr "Grazie per aver scelto me oggi.<Color:1><Sign:1><Color:Default>"
 
 msgctxt "21861"
 msgid ""
@@ -788,11 +788,11 @@ msgstr ""
 
 msgctxt "21944"
 msgid "I hope you'll request me again soon. <Color:1><Sign:0><Color:Default>"
-msgstr ""
+msgstr "Spero mi richiederai di nuovo presto. <Color:1><Sign:0><Color:Default>"
 
 msgctxt "22014"
 msgid "Thanks again! (*^ー^)ノ"
-msgstr ""
+msgstr "Grazie ancora! (*^ー^)ノ"
 
 msgctxt "22040"
 msgid ""
@@ -803,11 +803,11 @@ msgstr ""
 
 msgctxt "22207"
 msgid "This is bad! ・°・(ノ⑪｀)・°・"
-msgstr ""
+msgstr "Questa è brutta! ・°・(ノ⑪｀)・°・"
 
 msgctxt "22248"
 msgid "My skin's been awful lately ( ' ⑪｀lll)"
-msgstr ""
+msgstr "La mia pelle è stata un disastro ultimamente ( ' ⑪｀lll)"
 
 msgctxt "22291"
 msgid ""
@@ -822,11 +822,11 @@ msgstr ""
 
 msgctxt "22484"
 msgid "So embarrassing! (/ω＼)"
-msgstr ""
+msgstr "Che imbarazzo! (/ω＼)"
 
 msgctxt "22510"
 msgid "Just noticed my zipper was totally undone a moment ago. (゜⑪゜；)"
-msgstr ""
+msgstr "Ho appena notato che la cerniera era abbassata. (゜⑪゜；)"
 
 msgctxt "22581"
 msgid ""
@@ -842,11 +842,11 @@ msgstr ""
 
 msgctxt "22793"
 msgid "Hehe!<Color:1><Sign:4><Color:Default>"
-msgstr ""
+msgstr "Hehe!<Color:1><Sign:4><Color:Default>"
 
 msgctxt "22831"
 msgid "Shopping (*゜▽゜ノノ゛☆"
-msgstr ""
+msgstr "Shopping (*゜▽゜ノノ゛☆"
 
 msgctxt "22864"
 msgid ""
@@ -856,19 +856,19 @@ msgstr ""
 
 msgctxt "23009"
 msgid "It's all soft and furry! <Color:1><Sign:18><Color:Default>"
-msgstr ""
+msgstr "È tutto morbido e peloso! <Color:1><Sign:18><Color:Default>"
 
 msgctxt "23068"
 msgid "One day, I want to go shopping with you, Kiryu-san!"
-msgstr ""
+msgstr "Un giorno voglio andare a fare shopping con te, Kiryu-san!"
 
 msgctxt "23120"
 msgid "Sweet memories"
-msgstr ""
+msgstr "Dolci ricordi"
 
 msgctxt "23135"
 msgid "2d_cf_mail_araki"
-msgstr ""
+msgstr "2d_cf_mail_araki"
 
 msgctxt "23152"
 msgid ""
@@ -879,15 +879,15 @@ msgstr ""
 
 msgctxt "23309"
 msgid "I'm so glad I met you.<Color:1><Sign:0><Color:Default>"
-msgstr ""
+msgstr "Sono così felice di averti incontrato.<Color:1><Sign:0><Color:Default>"
 
 msgctxt "23364"
 msgid "I love you, Kiryu-san. <Color:1><Sign:26><Color:Default>"
-msgstr ""
+msgstr "Ti amo, Kiryu-san. <Color:1><Sign:26><Color:Default>"
 
 msgctxt "23421"
 msgid "Rin Sasaba"
-msgstr ""
+msgstr "Rin Sasaba"
 
 msgctxt "23432"
 msgid "Come again!"
@@ -899,7 +899,7 @@ msgstr "Grazie per avermi richiesta! <Color:1><Sign:0><Color:Default>"
 
 msgctxt "23510"
 msgid "I hope you'll keep it up! lol"
-msgstr ""
+msgstr "Spero continuerai così! lol"
 
 msgctxt "23540"
 msgid ""
@@ -908,7 +908,7 @@ msgstr ""
 
 msgctxt "23612"
 msgid "What a deal!"
-msgstr ""
+msgstr "Che affare!"
 
 msgctxt "23625"
 msgid ""
@@ -918,7 +918,7 @@ msgstr ""
 
 msgctxt "23710"
 msgid "It was only 1000 yen! <Color:1><Sign:44><Color:Default>"
-msgstr ""
+msgstr "Costava solo 1000 yen! <Color:1><Sign:44><Color:Default>"
 
 msgctxt "23766"
 msgid ""
@@ -928,7 +928,7 @@ msgstr ""
 
 msgctxt "23896"
 msgid "I'm beat..."
-msgstr ""
+msgstr "Sono a pezzi..."
 
 msgctxt "23908"
 msgid ""
@@ -944,7 +944,7 @@ msgstr ""
 
 msgctxt "24150"
 msgid "Karaoke"
-msgstr ""
+msgstr "Karaoke"
 
 msgctxt "24158"
 msgid ""
@@ -961,7 +961,7 @@ msgstr ""
 
 msgctxt "24473"
 msgid "Beat again..."
-msgstr ""
+msgstr "Ancora a pezzi..."
 
 msgctxt "24487"
 msgid ""
@@ -977,11 +977,11 @@ msgstr ""
 
 msgctxt "24728"
 msgid "Sick as a dog"
-msgstr ""
+msgstr "Sto malissimo"
 
 msgctxt "24742"
 msgid "2d_cf_mail_sakurai"
-msgstr ""
+msgstr "2d_cf_mail_sakurai"
 
 msgctxt "24761"
 msgid ""
@@ -996,15 +996,15 @@ msgstr ""
 
 msgctxt "24942"
 msgid "Thanks a lot for today. <Color:1><Sign:0><Color:Default>"
-msgstr ""
+msgstr "Grazie mille per oggi. <Color:1><Sign:0><Color:Default>"
 
 msgctxt "24999"
 msgid "You powered me up, Kiryu-san. <Color:1><Sign:18><Color:Default>"
-msgstr ""
+msgstr "Mi hai ricaricata, Kiryu-san. <Color:1><Sign:18><Color:Default>"
 
 msgctxt "25063"
 msgid "Thanks. <Color:1><Sign:3><Color:Default>"
-msgstr ""
+msgstr "Grazie. <Color:1><Sign:3><Color:Default>"
 
 msgctxt "25104"
 msgid "I love you. <Color:1><Sign:1><Color:Default>"
@@ -1022,7 +1022,7 @@ msgstr ""
 
 msgctxt "25270"
 msgid "I gained weight..."
-msgstr ""
+msgstr "Sono ingrassata..."
 
 msgctxt "25289"
 msgid ""
@@ -1031,7 +1031,7 @@ msgstr ""
 
 msgctxt "25362"
 msgid "(；ω；) Noooooo!"
-msgstr ""
+msgstr "(；ω；) Noooooo!"
 
 msgctxt "25382"
 msgid ""
@@ -1041,11 +1041,11 @@ msgstr ""
 
 msgctxt "25477"
 msgid "Newton!"
-msgstr ""
+msgstr "Newton!"
 
 msgctxt "25485"
 msgid "Today, I gave Newton a bath. ♪"
-msgstr ""
+msgstr "Oggi ho fatto il bagno a Newton. ♪"
 
 msgctxt "25518"
 msgid ""
@@ -1055,7 +1055,7 @@ msgstr ""
 
 msgctxt "25631"
 msgid "Instant noodles"
-msgstr ""
+msgstr "Noodles istantanei"
 
 msgctxt "25647"
 msgid ""
@@ -1067,7 +1067,7 @@ msgstr ""
 
 msgctxt "25934"
 msgid "Feeling bad lately"
-msgstr ""
+msgstr "Non mi sento bene ultimamente"
 
 msgctxt "25953"
 msgid ""
@@ -1082,7 +1082,7 @@ msgstr "Grazie mille"
 
 msgctxt "26169"
 msgid "2d_cf_mail_nishiyama"
-msgstr ""
+msgstr "2d_cf_mail_nishiyama"
 
 msgctxt "26190"
 msgid ""
@@ -1093,11 +1093,11 @@ msgstr ""
 
 msgctxt "26383"
 msgid "Ranko Yazuki"
-msgstr ""
+msgstr "Ranko Yazuki"
 
 msgctxt "26396"
 msgid "Thank you (^_-)"
-msgstr ""
+msgstr "Grazie (^_^)"
 
 msgctxt "26412"
 msgid ""
@@ -1112,7 +1112,7 @@ msgstr ""
 
 msgctxt "26610"
 msgid "Feelin' great!"
-msgstr ""
+msgstr "Mi sento alla grande!"
 
 msgctxt "26625"
 msgid ""
@@ -1122,27 +1122,27 @@ msgstr ""
 
 msgctxt "26703"
 msgid "It feels good though.<Color:1><Sign:18><Color:Default>"
-msgstr ""
+msgstr "È una bella sensazione però.<Color:1><Sign:18><Color:Default>"
 
 msgctxt "26758"
 msgid "I probably won't tomorrow though <Color:1><Sign:19><Color:Default>"
-msgstr ""
+msgstr "Anche se domani non sarà così <Color:1><Sign:19><Color:Default>"
 
 msgctxt "26825"
 msgid "I'm dizzy even just texting you now. <Color:1><Sign:11><Color:Default>"
-msgstr ""
+msgstr "Mi gira la testa anche solo a scriverti. <Color:1><Sign:11><Color:Default>"
 
 msgctxt "26896"
 msgid "Come visit me again soon! <Color:1><Sign:0><Color:Default>"
-msgstr ""
+msgstr "Torna presto a trovarmi! <Color:1><Sign:0><Color:Default>"
 
 msgctxt "26955"
 msgid "Dance lessons"
-msgstr ""
+msgstr "Lezioni di ballo"
 
 msgctxt "26969"
 msgid "Had a belly dancing lesson today <Color:1><Sign:21><Color:Default>"
-msgstr ""
+msgstr "Ho fatto lezione di danza del ventre oggi <Color:1><Sign:21><Color:Default>"
 
 msgctxt "27036"
 msgid ""
@@ -1158,19 +1158,19 @@ msgstr ""
 
 msgctxt "27210"
 msgid "Gonna be a rough road to being a pro <Color:1><Sign:49><Color:Default>"
-msgstr ""
+msgstr "Sarà dura diventare una professionista <Color:1><Sign:49><Color:Default>"
 
 msgctxt "27281"
 msgid "Thanks for always asking for me <Color:1><Sign:0><Color:Default>"
-msgstr ""
+msgstr "Grazie per chiedere sempre di me <Color:1><Sign:0><Color:Default>"
 
 msgctxt "27346"
 msgid "When will you come again?"
-msgstr ""
+msgstr "Quando tornerai?"
 
 msgctxt "27372"
 msgid "Body cream"
-msgstr ""
+msgstr "Crema per il corpo"
 
 msgctxt "27383"
 msgid ""
@@ -1188,7 +1188,7 @@ msgstr ""
 
 msgctxt "27726"
 msgid "Au naturel!"
-msgstr ""
+msgstr "Al naturale!"
 
 msgctxt "27738"
 msgid ""
@@ -1209,15 +1209,15 @@ msgstr ""
 
 msgctxt "28021"
 msgid "Come by the club again soon! <Color:1><Sign:0><Color:Default>"
-msgstr ""
+msgstr "Passa di nuovo dal club presto! <Color:1><Sign:0><Color:Default>"
 
 msgctxt "28083"
 msgid "Last goodbye"
-msgstr ""
+msgstr "Ultimo addio"
 
 msgctxt "28096"
 msgid "2d_cf_mail_nemu"
-msgstr ""
+msgstr "2d_cf_mail_nemu"
 
 msgctxt "28112"
 msgid ""
@@ -1240,7 +1240,7 @@ msgstr ""
 
 msgctxt "28460"
 msgid "So sleepy (>_<)"
-msgstr ""
+msgstr "Che sonno (>_<)"
 
 msgctxt "28476"
 msgid ""
@@ -1250,15 +1250,15 @@ msgstr ""
 
 msgctxt "28605"
 msgid "Don't tell anyone!"
-msgstr ""
+msgstr "Non dirlo a nessuno!"
 
 msgctxt "28624"
 msgid "Went to an arcade"
-msgstr ""
+msgstr "Sono andata in sala giochi"
 
 msgctxt "28642"
 msgid "I went to an arcade the other day! o(^o^)o"
-msgstr ""
+msgstr "L'altro giorno sono andata in sala giochi! o(^o^)o"
 
 msgctxt "28685"
 msgid ""
@@ -1268,7 +1268,7 @@ msgstr ""
 
 msgctxt "28801"
 msgid "Nail salon"
-msgstr ""
+msgstr "Salone di bellezza per unghie"
 
 msgctxt "28812"
 msgid ""
@@ -1279,7 +1279,7 @@ msgstr ""
 
 msgctxt "29036"
 msgid "Pain in the butt"
-msgstr ""
+msgstr "Che rottura"
 
 msgctxt "29053"
 msgid ""
@@ -1294,11 +1294,11 @@ msgstr "Grazie!"
 
 msgctxt "29231"
 msgid "2d_cf_mail_muto"
-msgstr ""
+msgstr "2d_cf_mail_muto"
 
 msgctxt "29247"
 msgid "I just apologized at the club and they forgave me. (^-^)"
-msgstr ""
+msgstr "Ho appena chiesto scusa al club e mi hanno perdonata. (^-^)"
 
 msgctxt "29304"
 msgid ""
@@ -1315,15 +1315,15 @@ msgstr ""
 
 msgctxt "29627"
 msgid "Yui Hatano"
-msgstr ""
+msgstr "Yui Hatano"
 
 msgctxt "29638"
 msgid "Thank you o(^-^)o"
-msgstr ""
+msgstr "Grazie o(^-^)o"
 
 msgctxt "29656"
 msgid "Thanks for requesting me today! ♪"
-msgstr ""
+msgstr "Grazie per avermi richiesto oggi! ♪"
 
 msgctxt "29692"
 msgid ""
@@ -1337,7 +1337,7 @@ msgstr "Ciao ciao!"
 
 msgctxt "29823"
 msgid "Dry skin"
-msgstr ""
+msgstr "Pelle secca"
 
 msgctxt "29832"
 msgid ""
@@ -1354,7 +1354,7 @@ msgstr ""
 
 msgctxt "30109"
 msgid "Fell asleep (-⑪-；) "
-msgstr ""
+msgstr "Mi sono addormentata (-⑪-；) "
 
 msgctxt "30133"
 msgid ""
@@ -1364,7 +1364,7 @@ msgstr ""
 
 msgctxt "30230"
 msgid "But they let me off the hook <Color:1><Sign:0><Color:Default>"
-msgstr ""
+msgstr "Ma me l'hanno fatta passare liscia <Color:1><Sign:0><Color:Default>"
 
 msgctxt "30292"
 msgid ""
@@ -1373,7 +1373,7 @@ msgstr ""
 
 msgctxt "30364"
 msgid "Caught a cold (>_<)"
-msgstr ""
+msgstr "Ho preso un raffreddore (>_<)"
 
 msgctxt "30384"
 msgid ""
@@ -1389,15 +1389,15 @@ msgstr ""
 
 msgctxt "30575"
 msgid "Yay! <Color:1><Sign:14><Color:Default>"
-msgstr ""
+msgstr "Evviva! <Color:1><Sign:14><Color:Default>"
 
 msgctxt "30614"
 msgid "I'm stuffed!"
-msgstr ""
+msgstr "Sono pienissima!"
 
 msgctxt "30627"
 msgid "I ate way too much for breakfast!<Color:1><Sign:49><Color:Default>"
-msgstr ""
+msgstr "Ho mangiato decisamente troppo a colazione!<Color:1><Sign:49><Color:Default>"
 
 msgctxt "30694"
 msgid ""
@@ -1419,11 +1419,11 @@ msgstr ""
 
 msgctxt "31013"
 msgid "(*^_^*)"
-msgstr ""
+msgstr "(*^_^*)"
 
 msgctxt "31021"
 msgid "2d_cf_mail_ayukawa"
-msgstr ""
+msgstr "2d_cf_mail_ayukawa"
 
 msgctxt "31040"
 msgid ""
@@ -1438,11 +1438,11 @@ msgstr ""
 
 msgctxt "31196"
 msgid "I love you, Kiryu-san! <Color:1><Sign:26><Color:Default>"
-msgstr ""
+msgstr "Ti amo, Kiryu-san! <Color:1><Sign:26><Color:Default>"
 
 msgctxt "31253"
 msgid "Mika Tsuchiya"
-msgstr ""
+msgstr "Mika Tsuchiya"
 
 msgctxt "31267"
 msgid ""
@@ -1462,11 +1462,11 @@ msgstr "Ci si vede!"
 
 msgctxt "31461"
 msgid "Wanna see you again"
-msgstr ""
+msgstr "Voglio vederti di nuovo"
 
 msgctxt "31481"
 msgid "Thanks a ton for today! ♪"
-msgstr ""
+msgstr "Grazie mille per oggi! ♪"
 
 msgctxt "31509"
 msgid ""
@@ -1476,11 +1476,11 @@ msgstr ""
 
 msgctxt "31598"
 msgid "I'm glad we got to talk so much! <Color:1><Sign:3><Color:Default>"
-msgstr ""
+msgstr "Sono felice che abbiamo chiacchierato così tanto! <Color:1><Sign:3><Color:Default>"
 
 msgctxt "31664"
 msgid "Can't wait to see you again <Color:1><Sign:1><Color:Default>"
-msgstr ""
+msgstr "Non vedo l'ora di rivederti <Color:1><Sign:1><Color:Default>"
 
 msgctxt "31725"
 msgid "Later!"
@@ -1488,7 +1488,7 @@ msgstr "Alla prossima!"
 
 msgctxt "31732"
 msgid "Question!"
-msgstr ""
+msgstr "Domanda!"
 
 msgctxt "31742"
 msgid ""
@@ -1499,15 +1499,15 @@ msgstr ""
 
 msgctxt "31952"
 msgid "Bodyboarding"
-msgstr ""
+msgstr "Bodyboard"
 
 msgctxt "31965"
 msgid "I went bodyboarding! ♪"
-msgstr ""
+msgstr "Ho fatto bodyboard! ♪"
 
 msgctxt "31990"
 msgid "The waves were great today <Color:1><Sign:1><Color:Default>"
-msgstr ""
+msgstr "Le onde erano fantastiche oggi <Color:1><Sign:1><Color:Default>"
 
 msgctxt "32050"
 msgid ""
@@ -1522,7 +1522,7 @@ msgstr ""
 
 msgctxt "32241"
 msgid "So lonely..."
-msgstr ""
+msgstr "Così sola..."
 
 msgctxt "32254"
 msgid ""
@@ -1532,11 +1532,11 @@ msgstr ""
 
 msgctxt "32345"
 msgid "My only company here is my cat! <Color:1><Sign:28><Color:Default>"
-msgstr ""
+msgstr "L'unica compagnia che ho qui è il mio gatto! <Color:1><Sign:28><Color:Default>"
 
 msgctxt "32411"
 msgid "I really wish I had a boyfriend... <Color:1><Sign:5><Color:Default>"
-msgstr ""
+msgstr "Vorrei davvero avere un ragazzo... <Color:1><Sign:5><Color:Default>"
 
 msgctxt "32479"
 msgid ""
@@ -1546,11 +1546,11 @@ msgstr ""
 
 msgctxt "32570"
 msgid "I'm waiting for you at the club!<Color:1><Sign:1><Color:Default>"
-msgstr ""
+msgstr "Ti aspetto al club!<Color:1><Sign:1><Color:Default>"
 
 msgctxt "32635"
 msgid "2d_cf_mail_tsuchiya"
-msgstr ""
+msgstr "2d_cf_mail_tsuchiya"
 
 msgctxt "32655"
 msgid ""
@@ -1563,7 +1563,7 @@ msgstr ""
 
 msgctxt "32979"
 msgid "Nao Kaneshiro"
-msgstr ""
+msgstr "Nao Kaneshiro"
 
 msgctxt "32993"
 msgid ""
@@ -1573,11 +1573,11 @@ msgstr ""
 
 msgctxt "33075"
 msgid "You're so cool, Kiryu-san. <Color:1><Sign:18><Color:Default>"
-msgstr ""
+msgstr "Sei così figo, Kiryu-san. <Color:1><Sign:18><Color:Default>"
 
 msgctxt "33136"
 msgid "I love how mature you are. <Color:1><Sign:1><Color:Default>"
-msgstr ""
+msgstr "Amo quanto tu sia maturo. <Color:1><Sign:1><Color:Default>"
 
 msgctxt "33196"
 msgid ""
@@ -1587,7 +1587,7 @@ msgstr ""
 
 msgctxt "33292"
 msgid "Bye-bye! ♪"
-msgstr ""
+msgstr "Ciao ciao! ♪"
 
 msgctxt "33305"
 msgid "Thanks"
@@ -1613,7 +1613,7 @@ msgstr ""
 
 msgctxt "33582"
 msgid "Kinda jealous"
-msgstr ""
+msgstr "Un po' gelosa"
 
 msgctxt "33596"
 msgid ""
@@ -1623,15 +1623,15 @@ msgstr ""
 
 msgctxt "33702"
 msgid "I got a little jealous.<Color:1><Sign:1><Color:Default>"
-msgstr ""
+msgstr "Ero un po' gelosa.<Color:1><Sign:1><Color:Default>"
 
 msgctxt "33758"
 msgid "I'm going to a beauty spa now! <Color:1><Sign:40><Color:Default>"
-msgstr ""
+msgstr "Ora vado in una spa di bellezza! <Color:1><Sign:40><Color:Default>"
 
 msgctxt "33823"
 msgid "Dark skin?"
-msgstr ""
+msgstr "Pelle scura?"
 
 msgctxt "33834"
 msgid ""
@@ -1641,15 +1641,15 @@ msgstr ""
 
 msgctxt "33977"
 msgid "I want to get paler...<Color:1><Sign:11><Color:Default>"
-msgstr ""
+msgstr "Voglio diventare più pallida...<Color:1><Sign:11><Color:Default>"
 
 msgctxt "34033"
 msgid "I'm gonna take a bath now. <Color:1><Sign:0><Color:Default>"
-msgstr ""
+msgstr "Ora mi faccio un bagno. <Color:1><Sign:0><Color:Default>"
 
 msgctxt "34093"
 msgid "Famous Okinawans"
-msgstr ""
+msgstr "Okinawensi famosi"
 
 msgctxt "34110"
 msgid ""
@@ -1671,7 +1671,7 @@ msgstr ""
 
 msgctxt "34364"
 msgid "I'm gonna go get dinner.<Color:1><Sign:40><Color:Default>"
-msgstr ""
+msgstr "Vado a cena.<Color:1><Sign:40><Color:Default>"
 
 msgctxt "34422"
 msgid "I Love You"
@@ -1679,19 +1679,19 @@ msgstr "Ti amo?"
 
 msgctxt "34433"
 msgid "2d_cf_mail_kaneshiro"
-msgstr ""
+msgstr "2d_cf_mail_kaneshiro"
 
 msgctxt "34454"
 msgid "My dream came true! <Color:1><Sign:43><Color:Default>"
-msgstr ""
+msgstr "Il mio sogno è diventato realtà! <Color:1><Sign:43><Color:Default>"
 
 msgctxt "34508"
 msgid "There really is a god up there <Color:1><Sign:1><Color:Default>"
-msgstr ""
+msgstr "C'è davvero un dio lassù <Color:1><Sign:1><Color:Default>"
 
 msgctxt "34572"
 msgid "You're always saving me, Kiryu-san.<Color:1><Sign:8><Color:Default>"
-msgstr ""
+msgstr "Mi salvi sempre, Kiryu-san.<Color:1><Sign:8><Color:Default>"
 
 msgctxt "34640"
 msgid ""
@@ -1701,35 +1701,35 @@ msgstr ""
 
 msgctxt "34731"
 msgid "I want to be with you forever. <Color:1><Sign:0><Color:Default>"
-msgstr ""
+msgstr "Voglio stare con te per sempre. <Color:1><Sign:0><Color:Default>"
 
 msgctxt "34795"
 msgid "I'll always love you, Kiryu-san. <Color:1><Sign:0><Color:Default>"
-msgstr ""
+msgstr "Ti amerò per sempre, Kiryu-san. <Color:1><Sign:0><Color:Default>"
 
 msgctxt "34861"
 msgid "I love you so much! <Color:1><Sign:26><Color:Default>"
-msgstr ""
+msgstr "Ti amo così tanto! <Color:1><Sign:26><Color:Default>"
 
 msgctxt "34915"
 msgid "Saya Unten"
-msgstr ""
+msgstr "Saya Unten"
 
 msgctxt "34926"
 msgid "It's Saya<Color:1><Sign:0><Color:Default>"
-msgstr ""
+msgstr "Sono Saya<Color:1><Sign:0><Color:Default>"
 
 msgctxt "34968"
 msgid "Thank you so much for today. <Color:1><Sign:1><Color:Default>"
-msgstr ""
+msgstr "Grazie mille per oggi. <Color:1><Sign:1><Color:Default>"
 
 msgctxt "35030"
 msgid "It was super fun! <Color:1><Sign:43><Color:Default>"
-msgstr ""
+msgstr "È stato divertentissimo! <Color:1><Sign:43><Color:Default>"
 
 msgctxt "35082"
 msgid "When will you come here again, Kiryu-san?"
-msgstr ""
+msgstr "Quando tornerai qui, Kiryu-san?"
 
 msgctxt "35124"
 msgid ""
@@ -1738,7 +1738,7 @@ msgstr ""
 
 msgctxt "35197"
 msgid "Okay, byeeee! <Color:1><Sign:0><Color:Default>"
-msgstr ""
+msgstr "Ok, ciaooo! <Color:1><Sign:0><Color:Default>"
 
 msgctxt "35244"
 msgid ""
@@ -1747,7 +1747,7 @@ msgstr ""
 
 msgctxt "35318"
 msgid "I had sooo much fun, though. <Color:1><Sign:1><Color:Default>"
-msgstr ""
+msgstr "Mi sono divertita un casinò, però. <Color:1><Sign:1><Color:Default>"
 
 msgctxt "35380"
 msgid ""
@@ -1756,15 +1756,15 @@ msgstr ""
 
 msgctxt "35452"
 msgid "I drank sooo much today! <Color:1><Sign:9><Color:Default>"
-msgstr ""
+msgstr "Ho bevuto così tanto oggi! <Color:1><Sign:9><Color:Default>"
 
 msgctxt "35510"
 msgid "Ugh, my head is spinning."
-msgstr ""
+msgstr "Ugh, mi gira la testa."
 
 msgctxt "35536"
 msgid "I've been super duper tired lately. <Color:1><Sign:19><Color:Default>"
-msgstr ""
+msgstr "Sono super mega stanca ultimamente. <Color:1><Sign:19><Color:Default>"
 
 msgctxt "35606"
 msgid ""
@@ -1774,23 +1774,23 @@ msgstr ""
 
 msgctxt "35693"
 msgid "I just can't sleep at all tonight. Kiryu-san"
-msgstr ""
+msgstr "Stanotte proprio non riesco a dormire. Kiryu-san"
 
 msgctxt "35738"
 msgid "Maybe I'm getting sick. <Color:1><Sign:19><Color:Default>"
-msgstr ""
+msgstr "Forse mi sto ammalando. <Color:1><Sign:19><Color:Default>"
 
 msgctxt "35796"
 msgid "What're you doing right now, Kiryu-san?"
-msgstr ""
+msgstr "Che stai facendo adesso, Kiryu-san?"
 
 msgctxt "35836"
 msgid "I kinda wanna see you..."
-msgstr ""
+msgstr "Vorrei un po' vederti..."
 
 msgctxt "35861"
 msgid "I'll be waiting for you at the club! <Color:1><Sign:3><Color:Default>"
-msgstr ""
+msgstr "Ti aspetterò al club! <Color:1><Sign:3><Color:Default>"
 
 msgctxt "35931"
 msgid ""
@@ -1805,23 +1805,23 @@ msgstr ""
 
 msgctxt "36086"
 msgid "I'm totally obsessed with you. Kiryu-san."
-msgstr ""
+msgstr "Sono totalmente ossessionata da te. Kiryu-san."
 
 msgctxt "36128"
 msgid "I wanna get to know you better.<Color:1><Sign:21><Color:Default>"
-msgstr ""
+msgstr "Voglio conoscerti meglio.<Color:1><Sign:21><Color:Default>"
 
 msgctxt "36193"
 msgid "Thank you<Color:1><Sign:0><Color:Default>"
-msgstr ""
+msgstr "Grazie<Color:1><Sign:0><Color:Default>"
 
 msgctxt "36235"
 msgid "2d_cf_mail_unten"
-msgstr ""
+msgstr "2d_cf_mail_unten"
 
 msgctxt "36252"
 msgid "Thank you so much for today.<Color:1><Sign:1><Color:Default>"
-msgstr ""
+msgstr "Grazie mille per oggi.<Color:1><Sign:1><Color:Default>"
 
 msgctxt "36313"
 msgid ""
@@ -1836,7 +1836,7 @@ msgstr ""
 
 msgctxt "36475"
 msgid "No cheating on me, okay? <Color:1><Sign:6><Color:Default>"
-msgstr ""
+msgstr "Non tradirmi, ok? <Color:1><Sign:6><Color:Default>"
 
 msgctxt "36533"
 msgid "I love you! <Color:1><Sign:0><Color:Default>"
@@ -1844,15 +1844,15 @@ msgstr "Ti amo! <Color:1><Sign:0><Color:Default>"
 
 msgctxt "36578"
 msgid "Sawada"
-msgstr ""
+msgstr "Sawada"
 
 msgctxt "36585"
 msgid "Tuna Fund News"
-msgstr ""
+msgstr "Notizie Fondo Tonno"
 
 msgctxt "36600"
 msgid "2d_cf_mail_tuna00"
-msgstr ""
+msgstr "2d_cf_mail_tuna00"
 
 msgctxt "36618"
 msgid ""
@@ -1863,31 +1863,31 @@ msgstr ""
 
 msgctxt "36814"
 msgid "Okinawa Tuna Farms"
-msgstr ""
+msgstr "Allevamenti di Tonno Okinawa"
 
 msgctxt "36833"
 msgid "Tuna Fund"
-msgstr ""
+msgstr "Fondo per il Tonno"
 
 msgctxt "36843"
 msgid "Address: XX-YY Hatsumachi North"
-msgstr ""
+msgstr "Indirizzo: XX-YY Hatsumachi Nord"
 
 msgctxt "36875"
 msgid "Downtown Ryukyu, Okinawa"
-msgstr ""
+msgstr "Centro di Ryukyu, Okinawa"
 
 msgctxt "36900"
 msgid "Phone: XY-YYZ"
-msgstr ""
+msgstr "Telefono: XY-YYZ"
 
 msgctxt "36914"
 msgid "Tuna Fund Update"
-msgstr ""
+msgstr "Aggiornamento Fondo Tonno"
 
 msgctxt "36931"
 msgid "2d_cf_mail_tuna01"
-msgstr ""
+msgstr "2d_cf_mail_tuna01"
 
 msgctxt "36949"
 msgid ""
@@ -1900,15 +1900,15 @@ msgstr ""
 
 msgctxt "37258"
 msgid "Ibuki"
-msgstr ""
+msgstr "Ibuki"
 
 msgctxt "37264"
 msgid "Okinawa HLA"
-msgstr ""
+msgstr "HLA di Okinawa"
 
 msgctxt "37276"
 msgid "Nice work, Kiryu-san."
-msgstr ""
+msgstr "Ottimo lavoro, Kiryu-san."
 
 msgctxt "37298"
 msgid ""
@@ -1929,11 +1929,11 @@ msgstr ""
 
 msgctxt "37599"
 msgid "Sorry for all the trouble. TY!"
-msgstr ""
+msgstr "Scusa per il disturbo. GRAZIE!"
 
 msgctxt "37630"
 msgid "Kaede"
-msgstr ""
+msgstr "Kaede"
 
 msgctxt "37636"
 msgid "Found a job!"
@@ -1948,11 +1948,11 @@ msgstr ""
 
 msgctxt "37822"
 msgid "Come see me sometime!"
-msgstr ""
+msgstr "Vieni a trovarmi qualche volta!"
 
 msgctxt "37844"
 msgid "Found a new job!"
-msgstr ""
+msgstr "Ho trovato un nuovo lavoro!"
 
 msgctxt "37861"
 msgid ""
@@ -1964,7 +1964,7 @@ msgstr ""
 
 msgctxt "38088"
 msgid "Crash and burn!"
-msgstr ""
+msgstr "Un disastro totale!"
 
 msgctxt "38104"
 msgid ""
@@ -1976,7 +1976,7 @@ msgstr ""
 
 msgctxt "38334"
 msgid "Stop by!"
-msgstr ""
+msgstr "Passa a trovarmi!"
 
 msgctxt "38343"
 msgid ""
@@ -1987,7 +1987,7 @@ msgstr ""
 
 msgctxt "38498"
 msgid "Figured it out!"
-msgstr ""
+msgstr "Ho capito!"
 
 msgctxt "38514"
 msgid ""
@@ -2000,11 +2000,11 @@ msgstr ""
 
 msgctxt "38867"
 msgid "Ayaka Tsubaki"
-msgstr ""
+msgstr "Ayaka Tsubaki"
 
 msgctxt "38881"
 msgid "Thank you<Color:1><Sign:3><Color:Default>"
-msgstr ""
+msgstr "Grazie<Color:1><Sign:3><Color:Default>"
 
 msgctxt "38923"
 msgid ""
@@ -2035,35 +2035,35 @@ msgstr "Missione"
 
 msgctxt "39430"
 msgid "Check a bonfire."
-msgstr ""
+msgstr "Controlla un falò."
 
 msgctxt "39447"
 msgid "You have three minutes. Run out of time, game over."
-msgstr ""
+msgstr "Hai tre minuti. Se scade il tempo, game over."
 
 msgctxt "39499"
 msgid "Check a PC at a nightlife entrance."
-msgstr ""
+msgstr "Controlla un PC all'ingresso di un locale notturno."
 
 msgctxt "39535"
 msgid "Check the vending machine next to the entrance to the batting center."
-msgstr ""
+msgstr "Controlla il distributore automatico accanto all'ingresso del batting center."
 
 msgctxt "39605"
 msgid "Check the Suntory Boss vending machine next to the M Store."
-msgstr ""
+msgstr "Controlla il distributore Suntory Boss accanto al negozio M Store."
 
 msgctxt "39665"
 msgid "Check a parking lot payment station."
-msgstr ""
+msgstr "Controlla un parcometro in un parcheggio."
 
 msgctxt "39702"
 msgid "Check the IF7 machine."
-msgstr ""
+msgstr "Controlla la macchina IF7."
 
 msgctxt "39725"
 msgid "Check the Millenium Tower directory outside the tower."
-msgstr ""
+msgstr "Controlla la bacheca della Millennium Tower fuori dalla torre."
 
 msgctxt "39780"
 msgid "Check the coin lockers."
@@ -2071,11 +2071,11 @@ msgstr "Controlla gli armadietti a moneta"
 
 msgctxt "39804"
 msgid "Check the sign for the host club ADAM in the Hotel District."
-msgstr ""
+msgstr "Controlla l'insegna dell'host club ADAM nel Quartiere degli Hotel."
 
 msgctxt "39865"
 msgid "View the sign for the hotel White in first-person mode."
-msgstr ""
+msgstr "Guarda l'insegna dell'hotel White in modalità prima persona."
 
 msgctxt "39921"
 msgid ""
@@ -2085,31 +2085,31 @@ msgstr ""
 
 msgctxt "40022"
 msgid "View the sumo wrestler on East Shichifuku Street in first-person mode."
-msgstr ""
+msgstr "Guarda il lottatore di sumo su Shichifuku Street Est in modalità prima persona."
 
 msgctxt "40093"
 msgid "View the blue school uniform on Park Boulevard in first-person mode."
-msgstr ""
+msgstr "Guarda l'uniforme scolastica blu su Park Boulevard in modalità prima persona."
 
 msgctxt "40162"
 msgid "View the gate in the Champion District in first-person mode."
-msgstr ""
+msgstr "Guarda il cancello nel Quartiere Champion in modalità prima persona."
 
 msgctxt "40223"
 msgid "View the shrimp on East Taihei Boulevard in first-person mode."
-msgstr ""
+msgstr "Guarda il gambero su Taihei Boulevard Est in modalità prima persona."
 
 msgctxt "40286"
 msgid "Check the tengu lantern on Pink Street. "
-msgstr ""
+msgstr "Controlla la lanterna del tengu su Pink Street. "
 
 msgctxt "40327"
 msgid "View the gate on Tenkaichi Street in first-person mode."
-msgstr ""
+msgstr "Guarda il cancello su Tenkaichi Street in modalità prima persona."
 
 msgctxt "40383"
 msgid "View the gate on Pink Street in first-person mode."
-msgstr ""
+msgstr "Guarda il cancello su Pink Street in modalità prima persona."
 
 msgctxt "40434"
 msgid ""
@@ -2119,31 +2119,31 @@ msgstr ""
 
 msgctxt "40514"
 msgid "Setting restricted area"
-msgstr ""
+msgstr "Impostazione area limitata"
 
 msgctxt "40538"
 msgid "Leave the indicated area within 30 seconds! "
-msgstr ""
+msgstr "Lascia l'area indicata entro 30 secondi! "
 
 msgctxt "40583"
 msgid "Adding restricted area"
-msgstr ""
+msgstr "Aggiunta area limitata"
 
 msgctxt "40606"
 msgid "Still doing great"
-msgstr ""
+msgstr "Stai ancora andando alla grande"
 
 msgctxt "40624"
 msgid "Good news"
-msgstr ""
+msgstr "Buone notizie"
 
 msgctxt "40634"
 msgid "Prize money x2! Go for it!"
-msgstr ""
+msgstr "Premio in denaro x2! Dacci dentro!"
 
 msgctxt "40661"
 msgid "Game Master"
-msgstr ""
+msgstr "Game Master"
 
 msgctxt "40673"
 msgid "Additional pursuer"
@@ -2151,7 +2151,7 @@ msgstr "Inseguitore aggiuntivo"
 
 msgctxt "40692"
 msgid "You're doing great! A pursuer has been added. Good luck!"
-msgstr ""
+msgstr "Stai andando alla grande! È stato aggiunto un inseguitore. Buona fortuna!"
 "Stai andando alla grande! È stato aggiunto un inseguitore. Buona fortuna!"
 
 msgctxt "40749"
@@ -2172,35 +2172,35 @@ msgstr ""
 
 msgctxt "40931"
 msgid "View the volcano on Nakamichi Street in first-person mode."
-msgstr ""
+msgstr "Guarda il vulcano su Nakamichi Street in modalità prima persona."
 
 msgctxt "40990"
 msgid "View Don Quijote's mascot at his highest point in first-person mode."
-msgstr ""
+msgstr "Guarda la mascotte di Don Chisciotte nel suo punto più alto in modalità prima persona."
 
 msgctxt "41059"
 msgid "View the movie poster for Kabuki-tare in first-person mode."
-msgstr ""
+msgstr "Guarda la locandina del film Kabuki-tare in modalità prima persona."
 
 msgctxt "41119"
 msgid "Check the entrance to the bar across from Emoto Medical Clinic."
-msgstr ""
+msgstr "Controlla l'ingresso del bar di fronte alla Clinica Medica Emoto."
 
 msgctxt "41183"
 msgid "View the electric Tokyo Popuri sign in first-person mode."
-msgstr ""
+msgstr "Guarda l'insegna luminosa Tokyo Popuri in modalità prima persona."
 
 msgctxt "41241"
 msgid "Check the broom propped up at the public restrooms."
-msgstr ""
+msgstr "Controlla la scopa appoggiata ai bagni pubblici."
 
 msgctxt "41293"
 msgid "Check the entrance to Witch Girl Club on North Pink Street."
-msgstr ""
+msgstr "Controlla l'ingresso del Witch Girl Club su Pink Street Nord."
 
 msgctxt "41353"
 msgid "Check the entrance to Mach Bowl."
-msgstr ""
+msgstr "Controlla l'ingresso del Mach Bowl."
 
 msgctxt "41386"
 msgid "Check the entrance to Pronto."
@@ -2208,11 +2208,11 @@ msgstr "Controlla l'ingresso di Pronto."
 
 msgctxt "41416"
 msgid "Check the phone booth in Theater Square."
-msgstr ""
+msgstr "Controlla la cabina telefonica in Piazza del Teatro."
 
 msgctxt "41457"
 msgid "Check the middle Christmas tree in the row of five."
-msgstr ""
+msgstr "Controlla l'albero di Natale centrale nella fila di cinque."
 
 msgctxt "41509"
 msgid "Check the entrance to Shangri-La."
@@ -2220,39 +2220,39 @@ msgstr "Controlla l'ingresso dello"
 
 msgctxt "41543"
 msgid "Check the phone booth on Showa Street."
-msgstr ""
+msgstr "Controlla la cabina telefonica su Showa Street."
 
 msgctxt "41582"
 msgid "Check the entrance to Kamuro Castle."
-msgstr ""
+msgstr "Controlla l'ingresso del Castello di Kamuro."
 
 msgctxt "41619"
 msgid "View the flying fish on Tenkaichi Street in first-person mode."
-msgstr ""
+msgstr "Guarda il pesce volante su Tenkaichi Street in modalità prima persona."
 
 msgctxt "41682"
 msgid "Check the entrance to the public baths."
-msgstr ""
+msgstr "Controlla l'ingresso dei bagni pubblici."
 
 msgctxt "41722"
 msgid "Check the entrance to Kyushu No. 1 Star."
-msgstr ""
+msgstr "Controlla l'ingresso di Kyushu No. 1 Star."
 
 msgctxt "41763"
 msgid "Check the entrance to Divine Dragon."
-msgstr ""
+msgstr "Controlla l'ingresso del Divine Dragon."
 
 msgctxt "41800"
 msgid "Check the entrance to Love in Heart."
-msgstr ""
+msgstr "Controlla l'ingresso di Love in Heart."
 
 msgctxt "41837"
 msgid "Check the entrance to Kamuro Ramen."
-msgstr ""
+msgstr "Controlla l'ingresso del Kamuro Ramen."
 
 msgctxt "41873"
 msgid "Check the black car parked behind the batting center."
-msgstr ""
+msgstr "Controlla l'auto nera parcheggiata dietro il batting center."
 
 msgctxt "41927"
 msgid "A message to players"
@@ -2325,15 +2325,15 @@ msgstr "Il gioco è finito. Puoi giocarci di nuovo in qualsiasi momento."
 
 msgctxt "42837"
 msgid "Kaoru Sayama"
-msgstr ""
+msgstr "Kaoru Sayama"
 
 msgctxt "42850"
 msgid "Substories complete!"
-msgstr ""
+msgstr "Storie secondarie completate!"
 
 msgctxt "42871"
 msgid "Congratulations, Kazuma, you've completed all the Substories."
-msgstr ""
+msgstr "Congratulazioni, Kazuma, hai completato tutte le storie secondarie."
 
 msgctxt "42933"
 msgid ""
@@ -2349,15 +2349,15 @@ msgstr ""
 
 msgctxt "43160"
 msgid "Don't worry if you lose it. You can get it from him again."
-msgstr ""
+msgstr "Non preoccuparti se lo perdi. Puoi riottenerlo da lui."
 
 msgctxt "43219"
 msgid "Hostess list complete"
-msgstr ""
+msgstr "Lista hostess completata"
 
 msgctxt "43241"
 msgid "Congratulations! Looks like you've romanced all the hostesses."
-msgstr ""
+msgstr "Congratulazioni! Sembra che tu abbia fatto breccia nel cuore di tutte le hostess."
 
 msgctxt "43304"
 msgid ""
@@ -2369,11 +2369,11 @@ msgstr ""
 
 msgctxt "43561"
 msgid "Locker list complete"
-msgstr ""
+msgstr "Lista armadietti completata"
 
 msgctxt "43582"
 msgid "Congratulations, Kazuma, you've opened all the coin lockers."
-msgstr ""
+msgstr "Congratulazioni, Kazuma, hai aperto tutti gli armadietti a gettoni."
 
 msgctxt "43643"
 msgid ""
@@ -2384,11 +2384,11 @@ msgstr ""
 
 msgctxt "43822"
 msgid "Food list complete"
-msgstr ""
+msgstr "Lista cibo completata"
 
 msgctxt "43841"
 msgid "Congratulations, Kazuma, you've completed the food list."
-msgstr ""
+msgstr "Congratulazioni, Kazuma, hai completato la lista del cibo."
 
 msgctxt "43898"
 msgid ""
@@ -2400,7 +2400,7 @@ msgstr ""
 
 msgctxt "44124"
 msgid "Heat Action list complete"
-msgstr ""
+msgstr "Lista azioni Heat completata"
 
 msgctxt "44150"
 msgid ""
@@ -2412,7 +2412,7 @@ msgstr ""
 
 msgctxt "44385"
 msgid "Coliseum list complete"
-msgstr ""
+msgstr "Lista Colosseo completata"
 
 msgctxt "44408"
 msgid ""
@@ -2424,7 +2424,7 @@ msgstr ""
 
 msgctxt "44679"
 msgid "Modded weapons list complete"
-msgstr ""
+msgstr "Lista armi modificate completata"
 
 msgctxt "44708"
 msgid ""
@@ -2436,11 +2436,11 @@ msgstr ""
 
 msgctxt "44957"
 msgid "Revelations list complete"
-msgstr ""
+msgstr "Lista rivelazioni completata"
 
 msgctxt "44983"
 msgid "I just heard the good news from my friend Bob Utsunomiya."
-msgstr ""
+msgstr "Ho appena saputo la bella notizia dal mio amico Bob Utsunomiya."
 
 msgctxt "45041"
 msgid ""
@@ -2450,7 +2450,7 @@ msgstr ""
 
 msgctxt "45163"
 msgid "Minigame list complete"
-msgstr ""
+msgstr "Lista minigiochi completata"
 
 msgctxt "45186"
 msgid ""
@@ -2462,19 +2462,19 @@ msgstr ""
 
 msgctxt "45425"
 msgid "You gave Haruka everything she wants!"
-msgstr ""
+msgstr "Hai dato ad Haruka tutto ciò che desidera!"
 
 msgctxt "45463"
 msgid "Renta Kamiyama"
-msgstr ""
+msgstr "Renta Kamiyama"
 
 msgctxt "45478"
 msgid "Kamiyama Works Kamurocho"
-msgstr ""
+msgstr "Kamiyama Works Kamurocho"
 
 msgctxt "45503"
 msgid "What's up, Kiryu-san? It's Kamiyama. We met in Okinawa."
-msgstr ""
+msgstr "Come va, Kiryu-san? Sono Kamiyama. Ci siamo conosciuti a Okinawa."
 
 msgctxt "45559"
 msgid ""
@@ -2484,7 +2484,7 @@ msgstr ""
 
 msgctxt "45661"
 msgid "Tell him I said hi if you ever stop by his shop."
-msgstr ""
+msgstr "Salutamelo se mai passi dal suo negozio."
 
 msgctxt "45710"
 msgid "Later."

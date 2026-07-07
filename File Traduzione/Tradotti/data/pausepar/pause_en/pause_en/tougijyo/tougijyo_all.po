@@ -14,63 +14,63 @@ msgstr ""
 
 msgctxt "1552\tNAME"
 msgid "Yoshitaka Mine"
-msgstr ""
+msgstr "Yoshitaka Mine"
 
 msgctxt "1567\tNAME"
 msgid "Tsuyoshi Kanda"
-msgstr ""
+msgstr "Tsuyoshi Kanda"
 
 msgctxt "1582\tNAME"
 msgid "Joji Kazama"
-msgstr ""
+msgstr "Joji Kazama"
 
 msgctxt "1594\tNAME"
 msgid "Lau Ka Long"
-msgstr ""
+msgstr "Lau Ka Long"
 
 msgctxt "1606\tNAME"
 msgid "Tetsuo Tamashiro"
-msgstr ""
+msgstr "Tetsuo Tamashiro"
 
 msgctxt "1623\tNAME"
 msgid "Richardson"
-msgstr ""
+msgstr "Richardson"
 
 msgctxt "1634\tNAME"
 msgid "Goro Majima"
-msgstr ""
+msgstr "Goro Majima"
 
 msgctxt "1646\tNAME"
 msgid "Rikiya Shimabukuro"
-msgstr ""
+msgstr "Rikiya Shimabukuro"
 
 msgctxt "1665\tNAME"
 msgid "Goh Hamazaki"
-msgstr ""
+msgstr "Goh Hamazaki"
 
 msgctxt "1678\tNAME"
 msgid "Hasebe"
-msgstr ""
+msgstr "Hasebe"
 
 msgctxt "1685\tNAME"
 msgid "Mikio"
-msgstr ""
+msgstr "Mikio"
 
 msgctxt "1691\tNAME"
 msgid "Kazuki"
-msgstr ""
+msgstr "Kazuki"
 
 msgctxt "1698\tNAME"
 msgid "Yuya"
-msgstr ""
+msgstr "Yuya"
 
 msgctxt "1703\tNAME"
 msgid "Sotaro Komaki"
-msgstr ""
+msgstr "Sotaro Komaki"
 
 msgctxt "1717\tNAME"
 msgid "Shoji Yonashiro"
-msgstr ""
+msgstr "Shoji Yonashiro"
 
 msgctxt "1733\tCATCHPHRASE"
 msgid "The Lone Entrepreneur"
@@ -134,7 +134,7 @@ msgstr "Nessuno"
 
 msgctxt "2354\tSTYLE"
 msgid "Mixed Martial Arts"
-msgstr ""
+msgstr "Arti Marziali Miste"
 
 msgctxt "2373\tSTYLE"
 msgid "Street Fighting"
@@ -142,7 +142,7 @@ msgstr "Lotta da strada"
 
 msgctxt "2389\tSTYLE"
 msgid "Karate"
-msgstr ""
+msgstr "Karate"
 
 msgctxt "2396\tSTYLE"
 msgid "Kung Fu"

@@ -18,51 +18,51 @@ msgstr "Denaro (1.000 yen)"
 
 msgctxt "18745\tNAME"
 msgid "Staminan X"
-msgstr ""
+msgstr "Staminan X"
 
 msgctxt "18756\tNAME"
 msgid "Staminan XX"
-msgstr ""
+msgstr "Staminan XX"
 
 msgctxt "18768\tNAME"
 msgid "Staminan Royale"
-msgstr ""
+msgstr "Staminan Royale"
 
 msgctxt "18784\tNAME"
 msgid "Staminan Spark"
-msgstr ""
+msgstr "Staminan Spark"
 
 msgctxt "18799\tNAME"
 msgid "Tauriner"
-msgstr ""
+msgstr "Tauriner"
 
 msgctxt "18808\tNAME"
 msgid "Tauriner +"
-msgstr ""
+msgstr "Tauriner +"
 
 msgctxt "18819\tNAME"
 msgid "Tauriner ++"
-msgstr ""
+msgstr "Tauriner ++"
 
 msgctxt "18831\tNAME"
 msgid "Tauriner Maximum"
-msgstr ""
+msgstr "Tauriner Maximum"
 
 msgctxt "18848\tNAME"
 msgid "Toughness Z"
-msgstr ""
+msgstr "Toughness Z"
 
 msgctxt "18860\tNAME"
 msgid "Toughness ZZ"
-msgstr ""
+msgstr "Toughness ZZ"
 
 msgctxt "18873\tNAME"
 msgid "Toughness Emperor"
-msgstr ""
+msgstr "Toughness Emperor"
 
 msgctxt "18891\tNAME"
 msgid "Toughness Infinity"
-msgstr ""
+msgstr "Toughness Infinity"
 
 msgctxt "18910\tNAME"
 msgid "Platinum Plate"
@@ -90,15 +90,15 @@ msgstr "Zuppa oden"
 
 msgctxt "18983\tNAME"
 msgid "Seaweed Rice Ball"
-msgstr ""
+msgstr "Polpetta di riso con alghe"
 
 msgctxt "19001\tNAME"
 msgid "Tuna Rice Ball"
-msgstr ""
+msgstr "Polpetta di riso al tonno"
 
 msgctxt "19016\tNAME"
 msgid "Salmon Rice Ball"
-msgstr ""
+msgstr "Polpetta di riso al salmone"
 
 msgctxt "19033\tNAME"
 msgid "Bento Lunch Set"
@@ -106,7 +106,7 @@ msgstr "Cestino bento"
 
 msgctxt "19049\tNAME"
 msgid "Bento Lunch Set (Pork)"
-msgstr ""
+msgstr "Set pranzo Bento (Maiale)"
 
 msgctxt "19072\tNAME"
 msgid "Club Sandwich"
@@ -134,7 +134,7 @@ msgstr "Panino con yakisoba"
 
 msgctxt "19163\tNAME"
 msgid "Sake"
-msgstr ""
+msgstr "Sake"
 
 msgctxt "19168\tNAME"
 msgid "Dog Food"
@@ -150,11 +150,11 @@ msgstr "Caffè miscela"
 
 msgctxt "19202\tNAME"
 msgid "Blue Mountain"
-msgstr ""
+msgstr "Blue Mountain"
 
 msgctxt "19216\tNAME"
 msgid "Mocha"
-msgstr ""
+msgstr "Mocha"
 
 msgctxt "19222\tNAME"
 msgid "Earl Grey Tea"
@@ -222,11 +222,11 @@ msgstr "Riso con maiale (L)"
 
 msgctxt "19435\tNAME"
 msgid "Bibimbap"
-msgstr ""
+msgstr "Bibimbap"
 
 msgctxt "19444\tNAME"
 msgid "Bibimbap (L)"
-msgstr ""
+msgstr "Bibimbap (L)"
 
 msgctxt "19457\tNAME"
 msgid "Original Curry & Rice"
@@ -250,11 +250,11 @@ msgstr "Kimchi e kalbi (L)"
 
 msgctxt "19550\tNAME"
 msgid "Tuna Yamakake (M)"
-msgstr ""
+msgstr "Yamakake al tonno (M)"
 
 msgctxt "19568\tNAME"
 msgid "Tuna Yamakake (L)"
-msgstr ""
+msgstr "Yamakake al tonno (L)"
 
 msgctxt "19586\tNAME"
 msgid "Beef Yakiniku Meal"
@@ -278,75 +278,75 @@ msgstr "Pasto di maiale allo zenzero"
 
 msgctxt "19683\tNAME"
 msgid "Rose Quartz Silver Ring"
-msgstr ""
+msgstr "Anello d'argento con quarzo rosa"
 
 msgctxt "19707\tNAME"
 msgid "Silver Heart Ring"
-msgstr ""
+msgstr "Anello d'argento a cuore"
 
 msgctxt "19725\tNAME"
 msgid "Silver Cross Ring"
-msgstr ""
+msgstr "Anello d'argento con croce"
 
 msgctxt "19743\tNAME"
 msgid "WCZ Heart Ring"
-msgstr ""
+msgstr "Anello a cuore WCZ"
 
 msgctxt "19758\tNAME"
 msgid "Ruby Silver Ring"
-msgstr ""
+msgstr "Anello d'argento con rubino"
 
 msgctxt "19775\tNAME"
 msgid "Diamond Bracelet"
-msgstr ""
+msgstr "Bracciale di diamanti"
 
 msgctxt "19792\tNAME"
 msgid "Power Stone Bracelet"
-msgstr ""
+msgstr "Bracciale della pietra del potere"
 
 msgctxt "19813\tNAME"
 msgid "Pink Opal Bracelet"
-msgstr ""
+msgstr "Bracciale con opale rosa"
 
 msgctxt "19832\tNAME"
 msgid "Inca Rose Bracelet"
-msgstr ""
+msgstr "Bracciale con rosa inca"
 
 msgctxt "19851\tNAME"
 msgid "Heart Bracelet"
-msgstr ""
+msgstr "Bracciale a cuore"
 
 msgctxt "19866\tNAME"
 msgid "Ruby Earrings"
-msgstr ""
+msgstr "Orecchini con rubino"
 
 msgctxt "19880\tNAME"
 msgid "Double Heart Earrings"
-msgstr ""
+msgstr "Orecchini a doppio cuore"
 
 msgctxt "19902\tNAME"
 msgid "Garnet Necklace"
-msgstr ""
+msgstr "Collana con granato"
 
 msgctxt "19918\tNAME"
 msgid "Birdcage Strap"
-msgstr ""
+msgstr "Cinturino a gabbietta"
 
 msgctxt "19933\tNAME"
 msgid "Crown Pin"
-msgstr ""
+msgstr "Spilla a corona"
 
 msgctxt "19943\tNAME"
 msgid "Emblem Pendant"
-msgstr ""
+msgstr "Ciondolo emblema"
 
 msgctxt "19958\tNAME"
 msgid "Diamond Dragon Necklace"
-msgstr ""
+msgstr "Collana del drago di diamanti"
 
 msgctxt "19982\tNAME"
 msgid "Heart Drop Necklace"
-msgstr ""
+msgstr "Collana a cuore cadente"
 
 msgctxt "20002\tNAME"
 msgid "Monogrammed Bag"
@@ -442,7 +442,7 @@ msgstr "Cappotto da donna britannico"
 
 msgctxt "20416\tNAME"
 msgid "Boiled Hokkaido Soybeans "
-msgstr ""
+msgstr "Soia di Hokkaido bollita "
 
 msgctxt "20442\tNAME"
 msgid "Octopus Carpaccio"
@@ -450,7 +450,7 @@ msgstr "Carpaccio di polpo"
 
 msgctxt "20460\tNAME"
 msgid "3-Sausage Teppan Yaki"
-msgstr ""
+msgstr "Teppanyaki di 3 salsicce"
 
 msgctxt "20482\tNAME"
 msgid "Hawaiian Pork Sausage"
@@ -458,19 +458,19 @@ msgstr "Salsiccia di maiale hawaiana"
 
 msgctxt "20504\tNAME"
 msgid "Milano Salami"
-msgstr ""
+msgstr "Salame Milano"
 
 msgctxt "20518\tNAME"
 msgid "Jamon Iberico (Ham)"
-msgstr ""
+msgstr "Jamon Iberico (Prosciutto)"
 
 msgctxt "20538\tNAME"
 msgid "Cajun Chicken Salad"
-msgstr ""
+msgstr "Insalata di pollo alla cajun"
 
 msgctxt "20558\tNAME"
 msgid "Tomato Mozzarella Salad"
-msgstr ""
+msgstr "Insalata caprese"
 
 msgctxt "20582\tNAME"
 msgid "Margherita Roman Pizza"
@@ -478,11 +478,11 @@ msgstr "Pizza Margherita romana"
 
 msgctxt "20605\tNAME"
 msgid "Roman Pizza With Miso"
-msgstr ""
+msgstr "Pizza romana con miso"
 
 msgctxt "20627\tNAME"
 msgid "Gin Buck"
-msgstr ""
+msgstr "Gin Buck"
 
 msgctxt "20636\tNAME"
 msgid "Tequila Rickey With Lime"
@@ -502,15 +502,15 @@ msgstr "Kahlúa e latte"
 
 msgctxt "20713\tNAME"
 msgid "Bacon Peperoncino Spaghetti"
-msgstr ""
+msgstr "Spaghetti aglio, olio, peperoncino e pancetta"
 
 msgctxt "20741\tNAME"
 msgid "Miso Spaghetti"
-msgstr ""
+msgstr "Spaghetti al miso"
 
 msgctxt "20756\tNAME"
 msgid "Spaghetti Pescatore"
-msgstr ""
+msgstr "Spaghetti alla pescatora"
 
 msgctxt "20776\tNAME"
 msgid "Eggplant Bacon Spaghetti"
@@ -522,7 +522,7 @@ msgstr "Spaghetti gamberi e pomodoro"
 
 msgctxt "20827\tNAME"
 msgid "Octopus Spaghetti"
-msgstr ""
+msgstr "Spaghetti al polpo"
 
 msgctxt "20845\tNAME"
 msgid "Spaghetti With Meat Sauce"
@@ -530,7 +530,7 @@ msgstr "Spaghetti al ragù"
 
 msgctxt "20871\tNAME"
 msgid "Hakata Mentaiko Spaghetti"
-msgstr ""
+msgstr "Spaghetti al mentaiko di Hakata"
 
 msgctxt "20897\tNAME"
 msgid "Rich Egg Carbonara"
@@ -542,7 +542,7 @@ msgstr "Succo di pompelmo"
 
 msgctxt "20933\tNAME"
 msgid "Mango Juice"
-msgstr ""
+msgstr "Succo di mango"
 
 msgctxt "20945\tNAME"
 msgid "Hot Coffee"
@@ -550,7 +550,7 @@ msgstr "Caffè caldo"
 
 msgctxt "20956\tNAME"
 msgid "Americano"
-msgstr ""
+msgstr "Americano"
 
 msgctxt "20966\tNAME"
 msgid "Café Latte"
@@ -558,7 +558,7 @@ msgstr "Caffè latte"
 
 msgctxt "20978\tNAME"
 msgid "Cappuccino"
-msgstr ""
+msgstr "Cappuccino"
 
 msgctxt "20989\tNAME"
 msgid "Café Mocha"
@@ -598,7 +598,7 @@ msgstr "Gelato al caramello"
 
 msgctxt "21105\tNAME"
 msgid "Caffè Mocha Gelato"
-msgstr ""
+msgstr "Gelato al Caffè Mocha"
 
 msgctxt "21125\tNAME"
 msgid "Double Scoop"
@@ -610,7 +610,7 @@ msgstr "Tripla pallina"
 
 msgctxt "21151\tNAME"
 msgid "Vanilla"
-msgstr ""
+msgstr "Vaniglia"
 
 msgctxt "21159\tNAME"
 msgid "Chocolate"
@@ -618,115 +618,115 @@ msgstr "Cioccolato"
 
 msgctxt "21169\tNAME"
 msgid "Mango Tango"
-msgstr ""
+msgstr "Mango Tango"
 
 msgctxt "21181\tNAME"
 msgid "Goya"
-msgstr ""
+msgstr "Goya"
 
 msgctxt "21186\tNAME"
 msgid "Green Tea"
-msgstr ""
+msgstr "Tè verde"
 
 msgctxt "21196\tNAME"
 msgid "Sugar Cane"
-msgstr ""
+msgstr "Canna da zucchero"
 
 msgctxt "21207\tNAME"
 msgid "Sweet Potato"
-msgstr ""
+msgstr "Patata dolce"
 
 msgctxt "21220\tNAME"
 msgid "Roasted Yam"
-msgstr ""
+msgstr "Igname arrosto"
 
 msgctxt "21232\tNAME"
 msgid "Banapaco"
-msgstr ""
+msgstr "Banapaco"
 
 msgctxt "21241\tNAME"
 msgid "Pineapple"
-msgstr ""
+msgstr "Ananas"
 
 msgctxt "21251\tNAME"
 msgid "Ube"
-msgstr ""
+msgstr "Ube"
 
 msgctxt "21255\tNAME"
 msgid "Blue Wave"
-msgstr ""
+msgstr "Onda blu"
 
 msgctxt "21265\tNAME"
 msgid "Boba Milk Tea"
-msgstr ""
+msgstr "Tè al latte con boba"
 
 msgctxt "21279\tNAME"
 msgid "Jasmine Milk Tea"
-msgstr ""
+msgstr "Tè al latte al gelsomino"
 
 msgctxt "21296\tNAME"
 msgid "Matcha Milk Tea"
-msgstr ""
+msgstr "Tè al latte matcha"
 
 msgctxt "21312\tNAME"
 msgid "Chocolate Delight"
-msgstr ""
+msgstr "Delizia al cioccolato"
 
 msgctxt "21330\tNAME"
 msgid "Boba Black Tea"
-msgstr ""
+msgstr "Tè nero con boba"
 
 msgctxt "21345\tNAME"
 msgid "Peach Juice"
-msgstr ""
+msgstr "Succo di pesca"
 
 msgctxt "21357\tNAME"
 msgid "Passion Fruit Juice"
-msgstr ""
+msgstr "Succo al frutto della passione"
 
 msgctxt "21377\tNAME"
 msgid "Sweet Potato Smoothie"
-msgstr ""
+msgstr "Frullato di patata dolce"
 
 msgctxt "21399\tNAME"
 msgid "Two-tone Peach Smoothie"
-msgstr ""
+msgstr "Frullato di pesca bicolore"
 
 msgctxt "21423\tNAME"
 msgid "Two-tone Mango Smoothie"
-msgstr ""
+msgstr "Frullato di mango bicolore"
 
 msgctxt "21447\tNAME"
 msgid "Peanut Soymilk"
-msgstr ""
+msgstr "Latte di soia alle arachidi"
 
 msgctxt "21462\tNAME"
 msgid "Lychee Pudding"
-msgstr ""
+msgstr "Budino al litchi"
 
 msgctxt "21477\tNAME"
 msgid "BOSS Rainbow Mountain"
-msgstr ""
+msgstr "BOSS Rainbow Mountain"
 
 msgctxt "21499\tNAME"
 msgid "BOSS Light Sugar"
-msgstr ""
+msgstr "BOSS Light Sugar"
 
 msgctxt "21516\tNAME"
 msgid "BOSS Black"
-msgstr ""
+msgstr "BOSS Black"
 
 msgctxt "21527\tNAME"
 msgid "Suntory Oolong Tea"
-msgstr ""
+msgstr "Tè Oolong Suntory"
 
 msgctxt "21546\tNAME"
 msgid "Suntory Black Oolong Tea"
-msgstr ""
+msgstr "Tè Oolong Nero Suntory"
 
 msgctxt "21571\tNAME"
 msgid "Suntory Mineral Water"
-msgstr ""
+msgstr "Acqua Minerale Suntory"
 
 msgctxt "21593\tNAME"
 msgid "Iyemon (Green Tea)"
@@ -738,7 +738,7 @@ msgstr "Iyemon Rich (tè verde)"
 
 msgctxt "21636\tNAME"
 msgid "C.C. Lemon"
-msgstr ""
+msgstr "C.C. Lemon"
 
 msgctxt "21647\tNAME"
 msgid "Goma-Mugi Tea"
@@ -746,11 +746,11 @@ msgstr "Tè goma-Mugi"
 
 msgctxt "21661\tNAME"
 msgid "Pepsi NEX"
-msgstr ""
+msgstr "Pepsi NEX"
 
 msgctxt "21671\tNAME"
 msgid "The Premium Malt's"
-msgstr ""
+msgstr "The Premium Malt's"
 
 msgctxt "21690\tNAME"
 msgid "Kin-Mugi Beer"
@@ -774,7 +774,7 @@ msgstr "Hakushu 12 anni"
 
 msgctxt "21776\tNAME"
 msgid "The Macallan 1946"
-msgstr ""
+msgstr "The Macallan 1946"
 
 msgctxt "21794\tNAME"
 msgid "The Macallan 30 Years"
@@ -818,11 +818,11 @@ msgstr "Hokuto 12 anni"
 
 msgctxt "21983\tNAME"
 msgid "Kakubin"
-msgstr ""
+msgstr "Kakubin"
 
 msgctxt "21991\tNAME"
 msgid "Suntory Old Whisky"
-msgstr ""
+msgstr "Suntory Old Whisky"
 
 msgctxt "22010\tNAME"
 msgid "Ballantine's 30 Years"
@@ -838,71 +838,71 @@ msgstr "Ballantine's finest"
 
 msgctxt "22074\tNAME"
 msgid "Jack Daniel's"
-msgstr ""
+msgstr "Jack Daniel's"
 
 msgctxt "22088\tNAME"
 msgid "Early Times"
-msgstr ""
+msgstr "Early Times"
 
 msgctxt "22100\tNAME"
 msgid "Suntory Brandy XO Deluxe"
-msgstr ""
+msgstr "Suntory Brandy XO Deluxe"
 
 msgctxt "22125\tNAME"
 msgid "Suntory Brandy V.S.O.P"
-msgstr ""
+msgstr "Suntory Brandy V.S.O.P"
 
 msgctxt "22148\tNAME"
 msgid "Suntory Brandy V.O"
-msgstr ""
+msgstr "Suntory Brandy V.O"
 
 msgctxt "22167\tNAME"
 msgid "Courvoisier XO"
-msgstr ""
+msgstr "Courvoisier XO"
 
 msgctxt "22182\tNAME"
 msgid "The Premium Malt's"
-msgstr ""
+msgstr "The Premium Malt's"
 
 msgctxt "22201\tNAME"
 msgid "Carlsberg"
-msgstr ""
+msgstr "Carlsberg"
 
 msgctxt "22211\tNAME"
 msgid "Kyogetsu Green"
-msgstr ""
+msgstr "Kyogetsu Green"
 
 msgctxt "22226\tNAME"
 msgid "Churajima Awamori "
-msgstr ""
+msgstr "Churajima Awamori "
 
 msgctxt "22245\tNAME"
 msgid "Tenryugura Awamori"
-msgstr ""
+msgstr "Tenryugura Awamori"
 
 msgctxt "22264\tNAME"
 msgid "Beefeater"
-msgstr ""
+msgstr "Beefeater"
 
 msgctxt "22274\tNAME"
 msgid "Lemon Hart Demerara"
-msgstr ""
+msgstr "Lemon Hart Demerara"
 
 msgctxt "22294\tNAME"
 msgid "Herradura Silver Tequila"
-msgstr ""
+msgstr "Tequila Herradura Silver"
 
 msgctxt "22319\tNAME"
 msgid "Skyy Vodka"
-msgstr ""
+msgstr "Skyy Vodka"
 
 msgctxt "22330\tNAME"
 msgid "Tantakatan"
-msgstr ""
+msgstr "Tantakatan"
 
 msgctxt "22341\tNAME"
 msgid "30 Proof Zampa"
-msgstr ""
+msgstr "Zampa 30 gradi"
 
 msgctxt "22356\tNAME"
 msgid "Recovery Medicine 1"
@@ -918,19 +918,19 @@ msgstr "Medicina curativa 3"
 
 msgctxt "22416\tNAME"
 msgid "For Deletion"
-msgstr ""
+msgstr "Da eliminare"
 
 msgctxt "22429\tNAME"
 msgid "For Deletion"
-msgstr ""
+msgstr "Da eliminare"
 
 msgctxt "22442\tNAME"
 msgid "For Deletion"
-msgstr ""
+msgstr "Da eliminare"
 
 msgctxt "22455\tNAME"
 msgid "For Deletion"
-msgstr ""
+msgstr "Da eliminare"
 
 msgctxt "22468\tNAME"
 msgid "Smile Burger Set"
@@ -958,35 +958,35 @@ msgstr "Set Burger di maiale brasato"
 
 msgctxt "22596\tNAME"
 msgid "Smile Shake"
-msgstr ""
+msgstr "Frullato Smile"
 
 msgctxt "22608\tNAME"
 msgid "Smile Fries"
-msgstr ""
+msgstr "Patatine Smile"
 
 msgctxt "22620\tNAME"
 msgid "Goya Burger Set"
-msgstr ""
+msgstr "Set Goya Burger"
 
 msgctxt "22636\tNAME"
 msgid "Soki Burger Set"
-msgstr ""
+msgstr "Set Soki Burger"
 
 msgctxt "22652\tNAME"
 msgid "Debichi Burger Set"
-msgstr ""
+msgstr "Set Debichi Burger"
 
 msgctxt "22671\tNAME"
 msgid "Sea Grape Shake"
-msgstr ""
+msgstr "Frullato di uva di mare"
 
 msgctxt "22687\tNAME"
 msgid "Sweet Potato Smoothie"
-msgstr ""
+msgstr "Frullato di patata dolce"
 
 msgctxt "22709\tNAME"
 msgid "Fried Mimiga"
-msgstr ""
+msgstr "Mimiga fritto"
 
 msgctxt "22722\tNAME"
 msgid "Smile Burger Set"
@@ -1014,47 +1014,47 @@ msgstr "Set Burger di maiale brasato"
 
 msgctxt "22850\tNAME"
 msgid "Smile Shake"
-msgstr ""
+msgstr "Frullato Smile"
 
 msgctxt "22862\tNAME"
 msgid "Smile Fries"
-msgstr ""
+msgstr "Patatine Smile"
 
 msgctxt "22874\tNAME"
 msgid "Goya Burger Set"
-msgstr ""
+msgstr "Set Goya Burger"
 
 msgctxt "22890\tNAME"
 msgid "Soki Burger Set"
-msgstr ""
+msgstr "Set Soki Burger"
 
 msgctxt "22906\tNAME"
 msgid "Debichi Burger Set"
-msgstr ""
+msgstr "Set Debichi Burger"
 
 msgctxt "22925\tNAME"
 msgid "Sea Grape Shake"
-msgstr ""
+msgstr "Frullato di uva di mare"
 
 msgctxt "22941\tNAME"
 msgid "Sweet Potato Smoothie"
-msgstr ""
+msgstr "Frullato di patata dolce"
 
 msgctxt "22963\tNAME"
 msgid "Fried Mimiga"
-msgstr ""
+msgstr "Mimiga fritto"
 
 msgctxt "22976\tNAME"
 msgid "Platinum Bag"
-msgstr ""
+msgstr "Borsa di platino"
 
 msgctxt "22989\tNAME"
 msgid "Imitation Bag"
-msgstr ""
+msgstr "Borsa finta"
 
 msgctxt "23003\tNAME"
 msgid "Hirono's Autograph"
-msgstr ""
+msgstr "Autografo di Hirono"
 
 msgctxt "23022\tNAME"
 msgid "Dummy"
@@ -1062,47 +1062,47 @@ msgstr "Dummy"
 
 msgctxt "23028\tNAME"
 msgid "Crystal Ball"
-msgstr ""
+msgstr "Sfera di cristallo"
 
 msgctxt "23041\tNAME"
 msgid "Giant Blue Parrotfish"
-msgstr ""
+msgstr "Pesce pappagallo blu gigante"
 
 msgctxt "23063\tNAME"
 msgid "Fancy Paper"
-msgstr ""
+msgstr "Carta elegante"
 
 msgctxt "23075\tNAME"
 msgid "Il Yu-Jin's Autograph"
-msgstr ""
+msgstr "Autografo di Il Yu-Jin"
 
 msgctxt "23097\tNAME"
 msgid "Somebody's Wallet"
-msgstr ""
+msgstr "Portafoglio di qualcuno"
 
 msgctxt "23115\tNAME"
 msgid "Maguro"
-msgstr ""
+msgstr "Maguro"
 
 msgctxt "23122\tNAME"
 msgid "Gurukun"
-msgstr ""
+msgstr "Gurukun"
 
 msgctxt "23130\tNAME"
 msgid "Abasa"
-msgstr ""
+msgstr "Abasa"
 
 msgctxt "23136\tNAME"
 msgid "Mibai"
-msgstr ""
+msgstr "Mibai"
 
 msgctxt "23142\tNAME"
 msgid "Irabucha"
-msgstr ""
+msgstr "Irabucha"
 
 msgctxt "23151\tNAME"
 msgid "Green Turban"
-msgstr ""
+msgstr "Green Turban"
 
 msgctxt "23164\tNAME"
 msgid "Coral Branch"
@@ -1114,75 +1114,75 @@ msgstr "Ombrello"
 
 msgctxt "23186\tNAME"
 msgid "Assorted Chinsuko Cookies"
-msgstr ""
+msgstr "Biscotti Chinsuko assortiti"
 
 msgctxt "23212\tNAME"
 msgid "Plain Chinsuko Cookies"
-msgstr ""
+msgstr "Biscotti Chinsuko semplici"
 
 msgctxt "23235\tNAME"
 msgid "Shikwasa 100"
-msgstr ""
+msgstr "Shikwasa 100"
 
 msgctxt "23248\tNAME"
 msgid "Shikwasa Candy"
-msgstr ""
+msgstr "Caramelle Shikwasa"
 
 msgctxt "23263\tNAME"
 msgid "Turmeric Candy"
-msgstr ""
+msgstr "Caramelle alla curcuma"
 
 msgctxt "23278\tNAME"
 msgid "Goya Candy"
-msgstr ""
+msgstr "Caramelle Goya"
 
 msgctxt "23289\tNAME"
 msgid "Authentic Okinawan Soba"
-msgstr ""
+msgstr "Autentica Soba di Okinawa"
 
 msgctxt "23313\tNAME"
 msgid "Original Soki Soba"
-msgstr ""
+msgstr "Originale Soki Soba"
 
 msgctxt "23332\tNAME"
 msgid "Original Okinawan Soba"
-msgstr ""
+msgstr "Originale Soba di Okinawa"
 
 msgctxt "23355\tNAME"
 msgid "Original Ryukyu Ramen"
-msgstr ""
+msgstr "Originale Ryukyu Ramen"
 
 msgctxt "23377\tNAME"
 msgid "Original Moromi Vinegar"
-msgstr ""
+msgstr "Originale aceto Moromi"
 
 msgctxt "23401\tNAME"
 msgid "Okinawaya Mineral Water"
-msgstr ""
+msgstr "Acqua Minerale Okinawaya"
 
 msgctxt "23425\tNAME"
 msgid "Okinawaya Sanpin Tea"
-msgstr ""
+msgstr "Tè Sanpin Okinawaya"
 
 msgctxt "23446\tNAME"
 msgid "Shikwasa Cookies"
-msgstr ""
+msgstr "Biscotti Shikwasa"
 
 msgctxt "23463\tNAME"
 msgid "Shikwasa Cheesecakes"
-msgstr ""
+msgstr "Cheesecake Shikwasa"
 
 msgctxt "23484\tNAME"
 msgid "30 Proof Roko Awamori Sakiyama"
-msgstr ""
+msgstr "Roko Awamori Sakiyama 30 gradi"
 
 msgctxt "23515\tNAME"
 msgid "22 Proof Awamorigura Nakijin"
-msgstr ""
+msgstr "Awamorigura Nakijin 22 gradi"
 
 msgctxt "23544\tNAME"
 msgid "38 Proof Awamori 10 Years"
-msgstr ""
+msgstr "Awamori invecchiato 10 anni 38 gradi"
 
 msgctxt "23570\tNAME"
 msgid "Dummy"
@@ -1190,15 +1190,15 @@ msgstr "Dummy"
 
 msgctxt "23576\tNAME"
 msgid "25 Proof Okinawa no Umi"
-msgstr ""
+msgstr "Okinawa no Umi 25 gradi"
 
 msgctxt "23600\tNAME"
 msgid "22 Proof Awamorigura Sakiyama"
-msgstr ""
+msgstr "Awamorigura Sakiyama 22 gradi"
 
 msgctxt "23630\tNAME"
 msgid "22 Proof Vintage Awamori"
-msgstr ""
+msgstr "Awamori Vintage 22 gradi"
 
 msgctxt "23655\tNAME"
 msgid "Legendary Drinker of Ryukyu"
@@ -1206,15 +1206,15 @@ msgstr "Bevitore leggendario di Ryukyu"
 
 msgctxt "23683\tNAME"
 msgid "25 Proof Zampa"
-msgstr ""
+msgstr "Zampa 25 gradi"
 
 msgctxt "23698\tNAME"
 msgid "30 Proof Zampa"
-msgstr ""
+msgstr "Zampa 30 gradi"
 
 msgctxt "23713\tNAME"
 msgid "Vintage Zampa"
-msgstr ""
+msgstr "Zampa Vintage"
 
 msgctxt "23727\tNAME"
 msgid "Shoyu Ramen"
@@ -1234,7 +1234,7 @@ msgstr "Ramen shio"
 
 msgctxt "23776\tNAME"
 msgid "Large Squid Yakisoba"
-msgstr ""
+msgstr "Yakisoba con calamaro grande"
 
 msgctxt "23797\tNAME"
 msgid "Soup Harusame: Wonton"
@@ -1250,7 +1250,7 @@ msgstr "Zuppa di harusame: Tan tan noodles"
 
 msgctxt "23869\tNAME"
 msgid "Soup Harusame: Chige"
-msgstr ""
+msgstr "Zuppa Harusame: Chige"
 
 msgctxt "23890\tNAME"
 msgid "Soup Harusame: Seaweed Veggie"
@@ -1266,11 +1266,11 @@ msgstr "Zuppa di harusame: Agropiccante"
 
 msgctxt "23977\tNAME"
 msgid "Soup Harusame: Miso Chicken"
-msgstr ""
+msgstr "Zuppa Harusame: Pollo al Miso"
 
 msgctxt "24005\tNAME"
 msgid "Soup Harusame: Roe"
-msgstr ""
+msgstr "Zuppa Harusame: Uova di pesce"
 
 msgctxt "24024\tNAME"
 msgid "Tan Tan Noodles"
@@ -1290,11 +1290,11 @@ msgstr "Ramen al wakame"
 
 msgctxt "24092\tNAME"
 msgid "Body Spray for Men"
-msgstr ""
+msgstr "Deodorante spray per uomo"
 
 msgctxt "24111\tNAME"
 msgid "Debug Food"
-msgstr ""
+msgstr "Cibo di debug"
 
 msgctxt "24122\tNAME"
 msgid "Milk"
@@ -1302,47 +1302,47 @@ msgstr "Latte"
 
 msgctxt "24127\tNAME"
 msgid "Goya"
-msgstr ""
+msgstr "Goya"
 
 msgctxt "24132\tNAME"
 msgid "Pork Belly"
-msgstr ""
+msgstr "Pancetta di maiale"
 
 msgctxt "24143\tNAME"
 msgid "Tofu"
-msgstr ""
+msgstr "Tofu"
 
 msgctxt "24148\tNAME"
 msgid "Garlic"
-msgstr ""
+msgstr "Aglio"
 
 msgctxt "24155\tNAME"
 msgid "Ginger"
-msgstr ""
+msgstr "Zenzero"
 
 msgctxt "24162\tNAME"
 msgid "Green Onion"
-msgstr ""
+msgstr "Cipollotto"
 
 msgctxt "24174\tNAME"
 msgid "Taro"
-msgstr ""
+msgstr "Taro"
 
 msgctxt "24179\tNAME"
 msgid "Taro Stem"
-msgstr ""
+msgstr "Gambo di taro"
 
 msgctxt "24189\tNAME"
 msgid "Shiitake Mushroom"
-msgstr ""
+msgstr "Fungo Shiitake"
 
 msgctxt "24207\tNAME"
 msgid "Fish Cake"
-msgstr ""
+msgstr "Tortino di pesce"
 
 msgctxt "24217\tNAME"
 msgid "Piyo-chan"
-msgstr ""
+msgstr "Piyo-chan"
 
 msgctxt "24227\tNAME"
 msgid "Silkie Piyo-chan"
@@ -1362,51 +1362,51 @@ msgstr "Grande piyo-chan"
 
 msgctxt "24288\tNAME"
 msgid "Kitty Kat (Tiger)"
-msgstr ""
+msgstr "Kitty Kat (Tigre)"
 
 msgctxt "24306\tNAME"
 msgid "Kitty Kat (Shorthair)"
-msgstr ""
+msgstr "Kitty Kat (Pelo corto)"
 
 msgctxt "24328\tNAME"
 msgid "Kitty Kat (Blue)"
-msgstr ""
+msgstr "Kitty Kat (Blu)"
 
 msgctxt "24345\tNAME"
 msgid "Kitty Kat (Calico)"
-msgstr ""
+msgstr "Kitty Kat (Calico)"
 
 msgctxt "24364\tNAME"
 msgid "Beary Bear (Brown)"
-msgstr ""
+msgstr "Beary Bear (Marrone)"
 
 msgctxt "24383\tNAME"
 msgid "Beary Bear (Gray)"
-msgstr ""
+msgstr "Beary Bear (Grigio)"
 
 msgctxt "24401\tNAME"
 msgid "Beary Bear (Blue)"
-msgstr ""
+msgstr "Beary Bear (Blu)"
 
 msgctxt "24419\tNAME"
 msgid "Beary Bear (Pink)"
-msgstr ""
+msgstr "Beary Bear (Rosa)"
 
 msgctxt "24437\tNAME"
 msgid "Yummy Bar (Corn)"
-msgstr ""
+msgstr "Barretta Yummy (Mais)"
 
 msgctxt "24454\tNAME"
 msgid "Yummy Bar (Cheese)"
-msgstr ""
+msgstr "Barretta Yummy (Formaggio)"
 
 msgctxt "24473\tNAME"
 msgid "Yummy Bar (Natto)"
-msgstr ""
+msgstr "Barretta Yummy (Natto)"
 
 msgctxt "24491\tNAME"
 msgid "Chura-chan"
-msgstr ""
+msgstr "Chura-chan"
 
 msgctxt "24502\tNAME"
 msgid "Catnip Stick"
@@ -1434,7 +1434,7 @@ msgstr "Ramen tonkotsu con uovo"
 
 msgctxt "24629\tNAME"
 msgid "Kyushu No. 1 Star Ramen Sample"
-msgstr ""
+msgstr "Campione di Ramen Kyushu No. 1 Star"
 
 msgctxt "24660\tNAME"
 msgid "Salted Tongue"
@@ -1446,11 +1446,11 @@ msgstr "Lingua salata di qualità A"
 
 msgctxt "24696\tNAME"
 msgid "Kalbi"
-msgstr ""
+msgstr "Kalbi"
 
 msgctxt "24702\tNAME"
 msgid "Grade A Kalbi"
-msgstr ""
+msgstr "Kalbi grado A"
 
 msgctxt "24716\tNAME"
 msgid "Sirloin"
@@ -1462,7 +1462,7 @@ msgstr "Controfiletto di qualità A"
 
 msgctxt "24740\tNAME"
 msgid "Harami"
-msgstr ""
+msgstr "Harami"
 
 msgctxt "24747\tNAME"
 msgid "Grade A Harami"
@@ -1474,7 +1474,7 @@ msgstr "Sashimi di fegato"
 
 msgctxt "24776\tNAME"
 msgid "Horumon-Yaki"
-msgstr ""
+msgstr "Horumon-Yaki"
 
 msgctxt "24789\tNAME"
 msgid "Seafood Platter"
@@ -1494,151 +1494,151 @@ msgstr "Zuppa di manzo piccante"
 
 msgctxt "24857\tNAME"
 msgid "Tamago"
-msgstr ""
+msgstr "Tamago"
 
 msgctxt "24864\tNAME"
 msgid "Kappamaki"
-msgstr ""
+msgstr "Kappamaki"
 
 msgctxt "24874\tNAME"
 msgid "Maguro"
-msgstr ""
+msgstr "Maguro"
 
 msgctxt "24881\tNAME"
 msgid "Ama-Ebi"
-msgstr ""
+msgstr "Ama-Ebi"
 
 msgctxt "24889\tNAME"
 msgid "Engawa"
-msgstr ""
+msgstr "Engawa"
 
 msgctxt "24896\tNAME"
 msgid "Tsubugai"
-msgstr ""
+msgstr "Tsubugai"
 
 msgctxt "24905\tNAME"
 msgid "Namatako"
-msgstr ""
+msgstr "Namatako"
 
 msgctxt "24914\tNAME"
 msgid "Kampachi"
-msgstr ""
+msgstr "Kampachi"
 
 msgctxt "24923\tNAME"
 msgid "Kanburi"
-msgstr ""
+msgstr "Kanburi"
 
 msgctxt "24931\tNAME"
 msgid "Hirame"
-msgstr ""
+msgstr "Hirame"
 
 msgctxt "24938\tNAME"
 msgid "Shima-Aji"
-msgstr ""
+msgstr "Shima-Aji"
 
 msgctxt "24948\tNAME"
 msgid "Kinmedai"
-msgstr ""
+msgstr "Kinmedai"
 
 msgctxt "24957\tNAME"
 msgid "Ikura"
-msgstr ""
+msgstr "Ikura"
 
 msgctxt "24963\tNAME"
 msgid "Akagai"
-msgstr ""
+msgstr "Akagai"
 
 msgctxt "24970\tNAME"
 msgid "Otoro"
-msgstr ""
+msgstr "Otoro"
 
 msgctxt "24976\tNAME"
 msgid "Awabi"
-msgstr ""
+msgstr "Awabi"
 
 msgctxt "24982\tNAME"
 msgid "Uni"
-msgstr ""
+msgstr "Uni"
 
 msgctxt "24986\tNAME"
 msgid "Okinawan Soba"
-msgstr ""
+msgstr "Soba di Okinawa"
 
 msgctxt "25000\tNAME"
 msgid "Tebichi Soba"
-msgstr ""
+msgstr "Tebichi Soba"
 
 msgctxt "25013\tNAME"
 msgid "Soki Soba"
-msgstr ""
+msgstr "Soki Soba"
 
 msgctxt "25023\tNAME"
 msgid "Rafute Soba"
-msgstr ""
+msgstr "Rafute Soba"
 
 msgctxt "25035\tNAME"
 msgid "Shrimp Cocktail　　　　　"
-msgstr ""
+msgstr "Cocktail di gamberetti　　　　　"
 
 msgctxt "25066\tNAME"
 msgid "Escargots à la Sam's　 "
-msgstr ""
+msgstr "Escargots à la Sam's　 "
 
 msgctxt "25092\tNAME"
 msgid "Sam's Cut Tenderloin Steak"
-msgstr ""
+msgstr "Bistecca di filetto Sam's Cut"
 
 msgctxt "25119\tNAME"
 msgid "Maui Cut Tenderloin Steak"
-msgstr ""
+msgstr "Bistecca di filetto Maui Cut"
 
 msgctxt "25145\tNAME"
 msgid "Lobster & Tenderloin"
-msgstr ""
+msgstr "Aragosta e filetto"
 
 msgctxt "25166\tNAME"
 msgid "Fresh Scallops & Prawns"
-msgstr ""
+msgstr "Capesante fresche e scampi"
 
 msgctxt "25190\tNAME"
 msgid "Deluxe Course Dinner 1"
-msgstr ""
+msgstr "Cena di lusso 1"
 
 msgctxt "25213\tNAME"
 msgid "Deluxe Course Dinner 2"
-msgstr ""
+msgstr "Cena di lusso 2"
 
 msgctxt "25236\tNAME"
 msgid "Goya Champloo"
-msgstr ""
+msgstr "Goya Champloo"
 
 msgctxt "25250\tNAME"
 msgid "Mimiga"
-msgstr ""
+msgstr "Mimiga"
 
 msgctxt "25257\tNAME"
 msgid "Sea Grapes"
-msgstr ""
+msgstr "Uva di mare"
 
 msgctxt "25268\tNAME"
 msgid "Tebichi"
-msgstr ""
+msgstr "Tebichi"
 
 msgctxt "25276\tNAME"
 msgid "Jimami Tofu"
-msgstr ""
+msgstr "Jimami Tofu"
 
 msgctxt "25288\tNAME"
 msgid "Island Scallions"
-msgstr ""
+msgstr "Scalogno dell'isola"
 
 msgctxt "25305\tNAME"
 msgid "Rafute"
-msgstr ""
+msgstr "Rafute"
 
 msgctxt "25312\tNAME"
 msgid "Fried Gurukun"
-msgstr ""
+msgstr "Gurukun fritto"
 
 msgctxt "25326\tNAME"
 msgid "Sashimi Platter"
@@ -1646,11 +1646,11 @@ msgstr "Piatto di sashimi"
 
 msgctxt "25342\tNAME"
 msgid "Temp"
-msgstr ""
+msgstr "Temp"
 
 msgctxt "25347\tNAME"
 msgid "Temp"
-msgstr ""
+msgstr "Temp"
 
 msgctxt "25352\tNAME"
 msgid "Gold Champagne　"
@@ -1674,7 +1674,7 @@ msgstr "Yamazaki 12 anni"
 
 msgctxt "25448\tNAME"
 msgid "Tantakatan　"
-msgstr ""
+msgstr "Tantakatan　"
 
 msgctxt "25462\tNAME"
 msgid "Beer　"
@@ -1690,11 +1690,11 @@ msgstr "Succo d'arancia"
 
 msgctxt "25505\tNAME"
 msgid "Kyogetsu Green　"
-msgstr ""
+msgstr "Kyogetsu Green　"
 
 msgctxt "25523\tNAME"
 msgid "Zampa White　"
-msgstr ""
+msgstr "Zampa White　"
 
 msgctxt "25538\tNAME"
 msgid "Drink 11"
@@ -1782,23 +1782,23 @@ msgstr "Cibo 15"
 
 msgctxt "25770\tNAME"
 msgid "Minamizawa's Autograph"
-msgstr ""
+msgstr "Autografo di Minamizawa"
 
 msgctxt "25793\tNAME"
 msgid "Lucky Coin"
-msgstr ""
+msgstr "Moneta fortunata"
 
 msgctxt "25804\tNAME"
 msgid "Blue Dragon Brooch"
-msgstr ""
+msgstr "Spilla del Drago Blu"
 
 msgctxt "25823\tNAME"
 msgid "Red Dragon Brooch"
-msgstr ""
+msgstr "Spilla del Drago Rosso"
 
 msgctxt "25841\tNAME"
 msgid "Chinese Dragon Brooch"
-msgstr ""
+msgstr "Spilla del Drago Cinese"
 
 msgctxt "25863\tNAME"
 msgid "Gravity Converter?"
@@ -1806,15 +1806,15 @@ msgstr "Convertitore di gravità"
 
 msgctxt "25882\tNAME"
 msgid "White Lotus Comb"
-msgstr ""
+msgstr "Pettine del Loto Bianco"
 
 msgctxt "25899\tNAME"
 msgid "Little Dragon Brooch"
-msgstr ""
+msgstr "Spilla del Piccolo Drago"
 
 msgctxt "25920\tNAME"
 msgid "Rising Dragon Brooch"
-msgstr ""
+msgstr "Spilla del Drago Nascente"
 
 msgctxt "25941\tNAME"
 msgid "Chunk of Wood (Sacred)"
@@ -1822,19 +1822,19 @@ msgstr "Ceppo di legno (sacro)"
 
 msgctxt "25964\tNAME"
 msgid "Blood Brooch"
-msgstr ""
+msgstr "Spilla di sangue"
 
 msgctxt "25977\tNAME"
 msgid "Ancient Inkstone"
-msgstr ""
+msgstr "Antica pietra da inchiostro"
 
 msgctxt "25994\tNAME"
 msgid "Azure Gem"
-msgstr ""
+msgstr "Gemma azzurra"
 
 msgctxt "26004\tNAME"
 msgid "Baroque Pearl"
-msgstr ""
+msgstr "Perla barocca"
 
 msgctxt "26018\tNAME"
 msgid "Chunk of Wood (Maple)"
@@ -1850,7 +1850,7 @@ msgstr "Straccio insanguinato"
 
 msgctxt "26067\tNAME"
 msgid "Small Hydraulic Suspension"
-msgstr ""
+msgstr "Piccola sospensione idraulica"
 
 msgctxt "26094\tNAME"
 msgid "Mystery Liquid"
@@ -1858,19 +1858,19 @@ msgstr "Liquido misterioso"
 
 msgctxt "26109\tNAME"
 msgid "Yin Dragon Brooch"
-msgstr ""
+msgstr "Spilla del Drago Yin"
 
 msgctxt "26127\tNAME"
 msgid "Yang Dragon Brooch"
-msgstr ""
+msgstr "Spilla del Drago Yang"
 
 msgctxt "26146\tNAME"
 msgid "Old Bell"
-msgstr ""
+msgstr "Vecchia campana"
 
 msgctxt "26155\tNAME"
 msgid "Worn-Out Pillow"
-msgstr ""
+msgstr "Cuscino logoro"
 
 msgctxt "26171\tNAME"
 msgid "Stuffed Cat Toy"
@@ -1878,7 +1878,7 @@ msgstr "Gatto di peluche"
 
 msgctxt "26187\tNAME"
 msgid "Flexible Hose"
-msgstr ""
+msgstr "Tubo flessibile"
 
 msgctxt "26201\tNAME"
 msgid "Demon Stone"
@@ -1886,19 +1886,19 @@ msgstr "Pietra demoniaca"
 
 msgctxt "26213\tNAME"
 msgid "Golden Gem"
-msgstr ""
+msgstr "Gemma d'oro"
 
 msgctxt "26224\tNAME"
 msgid "Rage Sack"
-msgstr ""
+msgstr "Sacco della rabbia"
 
 msgctxt "26234\tNAME"
 msgid "Gold-Plated Capacitor"
-msgstr ""
+msgstr "Condensatore placcato in oro"
 
 msgctxt "26256\tNAME"
 msgid "Vegetable Grater"
-msgstr ""
+msgstr "Grattugia per verdure"
 
 msgctxt "26273\tNAME"
 msgid "Super Glue"
@@ -1914,7 +1914,7 @@ msgstr "Impacco freddo"
 
 msgctxt "26313\tNAME"
 msgid "Fireproof Bag"
-msgstr ""
+msgstr "Borsa ignifuga"
 
 msgctxt "26327\tNAME"
 msgid "Multipurpose Thumbtack"
@@ -1922,19 +1922,19 @@ msgstr "Puntina multiuso"
 
 msgctxt "26350\tNAME"
 msgid "Wristband"
-msgstr ""
+msgstr "Polsino"
 
 msgctxt "26360\tNAME"
 msgid "Kamaitachi Brand Cutter"
-msgstr ""
+msgstr "Taglierino Kamaitachi"
 
 msgctxt "26384\tNAME"
 msgid "Flint"
-msgstr ""
+msgstr "Pietra focaia"
 
 msgctxt "26390\tNAME"
 msgid "Broken Clock"
-msgstr ""
+msgstr "Orologio rotto"
 
 msgctxt "26403\tNAME"
 msgid "Broken Radio"
@@ -1942,7 +1942,7 @@ msgstr "Radio rotta"
 
 msgctxt "26416\tNAME"
 msgid "Squishy Ball"
-msgstr ""
+msgstr "Palla morbida"
 
 msgctxt "26429\tNAME"
 msgid "Flour"
@@ -1950,11 +1950,11 @@ msgstr "Farina"
 
 msgctxt "26435\tNAME"
 msgid "Small Kettle"
-msgstr ""
+msgstr "Piccolo bollitore"
 
 msgctxt "26448\tNAME"
 msgid "Eerie Stuffed Toy"
-msgstr ""
+msgstr "Inquietante peluche"
 
 msgctxt "26466\tNAME"
 msgid "Pepper"
@@ -1970,15 +1970,15 @@ msgstr "Lampadina fluorescente blu"
 
 msgctxt "26513\tNAME"
 msgid "Old Magazine"
-msgstr ""
+msgstr "Vecchia rivista"
 
 msgctxt "26526\tNAME"
 msgid "Mystery Resin"
-msgstr ""
+msgstr "Resina misteriosa"
 
 msgctxt "26540\tNAME"
 msgid "Special Alloy Wire"
-msgstr ""
+msgstr "Filo in lega speciale"
 
 msgctxt "26559\tNAME"
 msgid "Magnetized Metal"
@@ -1986,11 +1986,11 @@ msgstr "Metallo magnetizzato"
 
 msgctxt "26576\tNAME"
 msgid "Prototype Battery"
-msgstr ""
+msgstr "Batteria prototipo"
 
 msgctxt "26594\tNAME"
 msgid "Balloon"
-msgstr ""
+msgstr "Palloncino"
 
 msgctxt "26602\tNAME"
 msgid "Dropper"
@@ -2014,7 +2014,7 @@ msgstr "Shampoo tonico"
 
 msgctxt "26661\tNAME"
 msgid "Artificial Bouquet"
-msgstr ""
+msgstr "Bouquet artificiale"
 
 msgctxt "26680\tNAME"
 msgid "Patented Hanger"
@@ -2026,23 +2026,23 @@ msgstr "Sacchetto di plastica"
 
 msgctxt "26708\tNAME"
 msgid "Weapon Master's Gem"
-msgstr ""
+msgstr "Gemma del maestro d'armi"
 
 msgctxt "26728\tNAME"
 msgid "Super Alloy Spring"
-msgstr ""
+msgstr "Molla in super lega"
 
 msgctxt "26747\tNAME"
 msgid "Old Suspension"
-msgstr ""
+msgstr "Vecchia sospensione"
 
 msgctxt "26762\tNAME"
 msgid "Shard of Tempered Glass"
-msgstr ""
+msgstr "Frammento di vetro temperato"
 
 msgctxt "26786\tNAME"
 msgid "Alloy Spring"
-msgstr ""
+msgstr "Molla in lega"
 
 msgctxt "26799\tNAME"
 msgid "Rubber Hose"
@@ -2062,7 +2062,7 @@ msgstr "Benzina per accendini"
 
 msgctxt "26860\tNAME"
 msgid "Top-Quality Charcoal"
-msgstr ""
+msgstr "Carbone di prima qualità"
 
 msgctxt "26881\tNAME"
 msgid "Super Resilient Resin"
@@ -2070,7 +2070,7 @@ msgstr "Resina super resistente"
 
 msgctxt "26903\tNAME"
 msgid "Rainbow Alloy"
-msgstr ""
+msgstr "Lega arcobaleno"
 
 msgctxt "26917\tNAME"
 msgid "Battery"
@@ -2078,15 +2078,15 @@ msgstr "Batteria"
 
 msgctxt "26925\tNAME"
 msgid "Ground Hot Pepper"
-msgstr ""
+msgstr "Peperoncino macinato"
 
 msgctxt "26943\tNAME"
 msgid "New Material XX"
-msgstr ""
+msgstr "Nuovo Materiale XX"
 
 msgctxt "26959\tNAME"
 msgid "Platinum Nail"
-msgstr ""
+msgstr "Chiodo di platino"
 
 msgctxt "26973\tNAME"
 msgid "Ancient Steel"
@@ -2110,75 +2110,75 @@ msgstr "Sigaretta storta"
 
 msgctxt "27047\tNAME"
 msgid "Famous Local Water"
-msgstr ""
+msgstr "Acqua locale famosa"
 
 msgctxt "27066\tNAME"
 msgid "Salt"
-msgstr ""
+msgstr "Sale"
 
 msgctxt "27071\tNAME"
 msgid "Sugar"
-msgstr ""
+msgstr "Zucchero"
 
 msgctxt "27077\tNAME"
 msgid "Brown Sugar"
-msgstr ""
+msgstr "Zucchero di canna"
 
 msgctxt "27089\tNAME"
 msgid "Sugar Cane"
-msgstr ""
+msgstr "Canna da zucchero"
 
 msgctxt "27100\tNAME"
 msgid "Bitter Melon"
-msgstr ""
+msgstr "Melone amaro"
 
 msgctxt "27113\tNAME"
 msgid "Bananas"
-msgstr ""
+msgstr "Banane"
 
 msgctxt "27121\tNAME"
 msgid "Aloe"
-msgstr ""
+msgstr "Aloe"
 
 msgctxt "27126\tNAME"
 msgid "Island Carrots"
-msgstr ""
+msgstr "Carote dell'isola"
 
 msgctxt "27141\tNAME"
 msgid "Egg"
-msgstr ""
+msgstr "Uovo"
 
 msgctxt "27145\tNAME"
 msgid "Peanuts"
-msgstr ""
+msgstr "Arachidi"
 
 msgctxt "27153\tNAME"
 msgid "Hot Peppers"
-msgstr ""
+msgstr "Peperoncini"
 
 msgctxt "27165\tNAME"
 msgid "Shikwasa"
-msgstr ""
+msgstr "Shikwasa"
 
 msgctxt "27174\tNAME"
 msgid "Island Bananas"
-msgstr ""
+msgstr "Banane dell'isola"
 
 msgctxt "27189\tNAME"
 msgid "Lemon"
-msgstr ""
+msgstr "Limone"
 
 msgctxt "27195\tNAME"
 msgid "Workers' Chirashizushi"
-msgstr ""
+msgstr "Chirashizushi dei lavoratori"
 
 msgctxt "27218\tNAME"
 msgid "Quadruple Scoop"
-msgstr ""
+msgstr "Coppa a 4 gusti"
 
 msgctxt "27234\tNAME"
 msgid "Special Limited Sirloin"
-msgstr ""
+msgstr "Lombata speciale limitata"
 
 msgctxt "27258\tNAME"
 msgid "Giga Smile Burger Set"
@@ -2186,11 +2186,11 @@ msgstr "Set King Smile Burger"
 
 msgctxt "27280\tNAME"
 msgid "Limited Ramen with the Works"
-msgstr ""
+msgstr "Ramen limitato completo"
 
 msgctxt "27309\tNAME"
 msgid "Shonen Five"
-msgstr ""
+msgstr "Shonen Five"
 
 msgctxt "27321\tNAME"
 msgid "Giga Smile Burger Set"
@@ -2258,35 +2258,35 @@ msgstr "Calamaro all'aceto (esca)"
 
 msgctxt "27577\tNAME"
 msgid "Fat Cat (Tiger)"
-msgstr ""
+msgstr "Gatto Grasso (Tigre)"
 
 msgctxt "27593\tNAME"
 msgid "Fat Cat (Shorthair)"
-msgstr ""
+msgstr "Gatto Grasso (Pelo corto)"
 
 msgctxt "27613\tNAME"
 msgid "Fat Cat (Blue)"
-msgstr ""
+msgstr "Gatto Grasso (Blu)"
 
 msgctxt "27628\tNAME"
 msgid "Fat Cat (Calico)"
-msgstr ""
+msgstr "Gatto Grasso (Calico)"
 
 msgctxt "27645\tNAME"
 msgid "Biggy Bear (Brown)"
-msgstr ""
+msgstr "Biggy Bear (Marrone)"
 
 msgctxt "27664\tNAME"
 msgid "Biggy Bear (Gray)"
-msgstr ""
+msgstr "Biggy Bear (Grigio)"
 
 msgctxt "27682\tNAME"
 msgid "Biggy Bear (Blue)"
-msgstr ""
+msgstr "Biggy Bear (Blu)"
 
 msgctxt "27700\tNAME"
 msgid "Biggy Bear (Pink)"
-msgstr ""
+msgstr "Biggy Bear (Rosa)"
 
 msgctxt "27718\tNAME"
 msgid "Haruka's Candy"
@@ -2294,7 +2294,7 @@ msgstr "Dolcetto di Haruka"
 
 msgctxt "27733\tNAME"
 msgid "Haruka's Bento"
-msgstr ""
+msgstr "Bento di Haruka"
 
 msgctxt "27748\tNAME"
 msgid "Haruka's First-Aid Kit"
@@ -2302,11 +2302,11 @@ msgstr "Kit di Pronto soccorso di Haruka"
 
 msgctxt "27771\tNAME"
 msgid "Temp Item 001"
-msgstr ""
+msgstr "Oggetto Temp 001"
 
 msgctxt "27785\tNAME"
 msgid "Temp Item 002"
-msgstr ""
+msgstr "Oggetto Temp 002"
 
 msgctxt "27799\tNAME"
 msgid "Haruka's Chocolate"
@@ -2318,23 +2318,23 @@ msgstr "Fazzoletti tascabili"
 
 msgctxt "27833\tNAME"
 msgid "King Unchiku Token"
-msgstr ""
+msgstr "Gettone di King Unchiku"
 
 msgctxt "27852\tNAME"
 msgid "King Unchiku Strap"
-msgstr ""
+msgstr "Cinturino di King Unchiku"
 
 msgctxt "27871\tNAME"
 msgid "Sata Andagi"
-msgstr ""
+msgstr "Sata Andagi"
 
 msgctxt "27883\tNAME"
 msgid "Honey's Tissues"
-msgstr ""
+msgstr "Fazzoletti di Honey"
 
 msgctxt "27899\tNAME"
 msgid "Rising Dragon Trophy"
-msgstr ""
+msgstr "Trofeo del Drago Nascente"
 
 msgctxt "27920\tNAME"
 msgid "1000G Coin"
@@ -2350,15 +2350,15 @@ msgstr "Moneta 10G"
 
 msgctxt "27950\tNAME"
 msgid "14 Proof Zampa"
-msgstr ""
+msgstr "Zampa 14 gradi"
 
 msgctxt "27965\tNAME"
 msgid "30 Proof Zampa"
-msgstr ""
+msgstr "Zampa 30 gradi"
 
 msgctxt "27980\tNAME"
 msgid "25 Proof Zampa"
-msgstr ""
+msgstr "Zampa 25 gradi"
 
 msgctxt "27995\tNAME"
 msgid "Royal Joker Card"
@@ -2366,7 +2366,7 @@ msgstr "Carta joker reale"
 
 msgctxt "28012\tNAME"
 msgid "Six-Scoop Ice Cream"
-msgstr ""
+msgstr "Coppa a sei gusti"
 
 msgctxt "28032\tNAME"
 msgid "Worm"
@@ -2390,503 +2390,503 @@ msgstr "Aragosta"
 
 msgctxt "28078\tNAME"
 msgid "Temp Item 576"
-msgstr ""
+msgstr "Oggetto Temp 576"
 
 msgctxt "28092\tNAME"
 msgid "Temp Item 577"
-msgstr ""
+msgstr "Oggetto Temp 577"
 
 msgctxt "28106\tNAME"
 msgid "Temp Item 578"
-msgstr ""
+msgstr "Oggetto Temp 578"
 
 msgctxt "28120\tNAME"
 msgid "Temp Item 579"
-msgstr ""
+msgstr "Oggetto Temp 579"
 
 msgctxt "28134\tNAME"
 msgid "Temp Item 580"
-msgstr ""
+msgstr "Oggetto Temp 580"
 
 msgctxt "28148\tNAME"
 msgid "Temp Item 581"
-msgstr ""
+msgstr "Oggetto Temp 581"
 
 msgctxt "28162\tNAME"
 msgid "Temp Item 582"
-msgstr ""
+msgstr "Oggetto Temp 582"
 
 msgctxt "28176\tNAME"
 msgid "Temp Item 583"
-msgstr ""
+msgstr "Oggetto Temp 583"
 
 msgctxt "28190\tNAME"
 msgid "Temp Item 584"
-msgstr ""
+msgstr "Oggetto Temp 584"
 
 msgctxt "28204\tNAME"
 msgid "Temp Item 585"
-msgstr ""
+msgstr "Oggetto Temp 585"
 
 msgctxt "28218\tNAME"
 msgid "Temp Item 586"
-msgstr ""
+msgstr "Oggetto Temp 586"
 
 msgctxt "28232\tNAME"
 msgid "Temp Item 587"
-msgstr ""
+msgstr "Oggetto Temp 587"
 
 msgctxt "28246\tNAME"
 msgid "Temp Item 588"
-msgstr ""
+msgstr "Oggetto Temp 588"
 
 msgctxt "28260\tNAME"
 msgid "Temp Item 589"
-msgstr ""
+msgstr "Oggetto Temp 589"
 
 msgctxt "28274\tNAME"
 msgid "Temp Item 590"
-msgstr ""
+msgstr "Oggetto Temp 590"
 
 msgctxt "28288\tNAME"
 msgid "Temp Item 591"
-msgstr ""
+msgstr "Oggetto Temp 591"
 
 msgctxt "28302\tNAME"
 msgid "Temp Item 592"
-msgstr ""
+msgstr "Oggetto Temp 592"
 
 msgctxt "28316\tNAME"
 msgid "Temp Item 593"
-msgstr ""
+msgstr "Oggetto Temp 593"
 
 msgctxt "28330\tNAME"
 msgid "Temp Item 594"
-msgstr ""
+msgstr "Oggetto Temp 594"
 
 msgctxt "28344\tNAME"
 msgid "Temp Item 595"
-msgstr ""
+msgstr "Oggetto Temp 595"
 
 msgctxt "28358\tNAME"
 msgid "Temp Item 596"
-msgstr ""
+msgstr "Oggetto Temp 596"
 
 msgctxt "28372\tNAME"
 msgid "Temp Item 597"
-msgstr ""
+msgstr "Oggetto Temp 597"
 
 msgctxt "28386\tNAME"
 msgid "Temp Item 598"
-msgstr ""
+msgstr "Oggetto Temp 598"
 
 msgctxt "28400\tNAME"
 msgid "Temp Item 599"
-msgstr ""
+msgstr "Oggetto Temp 599"
 
 msgctxt "28414\tNAME"
 msgid "Temp Item 600"
-msgstr ""
+msgstr "Oggetto Temp 600"
 
 msgctxt "28428\tNAME"
 msgid "Temp Item 601"
-msgstr ""
+msgstr "Oggetto Temp 601"
 
 msgctxt "28442\tNAME"
 msgid "Temp Item 602"
-msgstr ""
+msgstr "Oggetto Temp 602"
 
 msgctxt "28456\tNAME"
 msgid "Temp Item 603"
-msgstr ""
+msgstr "Oggetto Temp 603"
 
 msgctxt "28470\tNAME"
 msgid "Temp Item 604"
-msgstr ""
+msgstr "Oggetto Temp 604"
 
 msgctxt "28484\tNAME"
 msgid "Temp Item 605"
-msgstr ""
+msgstr "Oggetto Temp 605"
 
 msgctxt "28498\tNAME"
 msgid "Temp Item 606"
-msgstr ""
+msgstr "Oggetto Temp 606"
 
 msgctxt "28512\tNAME"
 msgid "Temp Item 607"
-msgstr ""
+msgstr "Oggetto Temp 607"
 
 msgctxt "28526\tNAME"
 msgid "Temp Item 608"
-msgstr ""
+msgstr "Oggetto Temp 608"
 
 msgctxt "28540\tNAME"
 msgid "Temp Item 609"
-msgstr ""
+msgstr "Oggetto Temp 609"
 
 msgctxt "28554\tNAME"
 msgid "Temp Item 610"
-msgstr ""
+msgstr "Oggetto Temp 610"
 
 msgctxt "28568\tNAME"
 msgid "Temp Item 611"
-msgstr ""
+msgstr "Oggetto Temp 611"
 
 msgctxt "28582\tNAME"
 msgid "Temp Item 612"
-msgstr ""
+msgstr "Oggetto Temp 612"
 
 msgctxt "28596\tNAME"
 msgid "Temp Item 613"
-msgstr ""
+msgstr "Oggetto Temp 613"
 
 msgctxt "28610\tNAME"
 msgid "Temp Item 614"
-msgstr ""
+msgstr "Oggetto Temp 614"
 
 msgctxt "28624\tNAME"
 msgid "Temp Item 615"
-msgstr ""
+msgstr "Oggetto Temp 615"
 
 msgctxt "28638\tNAME"
 msgid "Temp Item 616"
-msgstr ""
+msgstr "Oggetto Temp 616"
 
 msgctxt "28652\tNAME"
 msgid "Temp Item 617"
-msgstr ""
+msgstr "Oggetto Temp 617"
 
 msgctxt "28666\tNAME"
 msgid "Temp Item 618"
-msgstr ""
+msgstr "Oggetto Temp 618"
 
 msgctxt "28680\tNAME"
 msgid "Temp Item 619"
-msgstr ""
+msgstr "Oggetto Temp 619"
 
 msgctxt "28694\tNAME"
 msgid "Temp Item 620"
-msgstr ""
+msgstr "Oggetto Temp 620"
 
 msgctxt "28708\tNAME"
 msgid "Temp Item 621"
-msgstr ""
+msgstr "Oggetto Temp 621"
 
 msgctxt "28722\tNAME"
 msgid "Temp Item 622"
-msgstr ""
+msgstr "Oggetto Temp 622"
 
 msgctxt "28736\tNAME"
 msgid "Temp Item 623"
-msgstr ""
+msgstr "Oggetto Temp 623"
 
 msgctxt "28750\tNAME"
 msgid "Temp Item 624"
-msgstr ""
+msgstr "Oggetto Temp 624"
 
 msgctxt "28764\tNAME"
 msgid "Temp Item 625"
-msgstr ""
+msgstr "Oggetto Temp 625"
 
 msgctxt "28778\tNAME"
 msgid "Temp Item 626"
-msgstr ""
+msgstr "Oggetto Temp 626"
 
 msgctxt "28792\tNAME"
 msgid "Temp Item 627"
-msgstr ""
+msgstr "Oggetto Temp 627"
 
 msgctxt "28806\tNAME"
 msgid "Temp Item 628"
-msgstr ""
+msgstr "Oggetto Temp 628"
 
 msgctxt "28820\tNAME"
 msgid "Temp Item 629"
-msgstr ""
+msgstr "Oggetto Temp 629"
 
 msgctxt "28834\tNAME"
 msgid "Temp Item 630"
-msgstr ""
+msgstr "Oggetto Temp 630"
 
 msgctxt "28848\tNAME"
 msgid "Temp Item 631"
-msgstr ""
+msgstr "Oggetto Temp 631"
 
 msgctxt "28862\tNAME"
 msgid "Temp Item 632"
-msgstr ""
+msgstr "Oggetto Temp 632"
 
 msgctxt "28876\tNAME"
 msgid "Temp Item 633"
-msgstr ""
+msgstr "Oggetto Temp 633"
 
 msgctxt "28890\tNAME"
 msgid "Temp Item 634"
-msgstr ""
+msgstr "Oggetto Temp 634"
 
 msgctxt "28904\tNAME"
 msgid "Temp Item 635"
-msgstr ""
+msgstr "Oggetto Temp 635"
 
 msgctxt "28918\tNAME"
 msgid "Temp Item 636"
-msgstr ""
+msgstr "Oggetto Temp 636"
 
 msgctxt "28932\tNAME"
 msgid "Temp Item 637"
-msgstr ""
+msgstr "Oggetto Temp 637"
 
 msgctxt "28946\tNAME"
 msgid "Temp Item 638"
-msgstr ""
+msgstr "Oggetto Temp 638"
 
 msgctxt "28960\tNAME"
 msgid "Temp Item 639"
-msgstr ""
+msgstr "Oggetto Temp 639"
 
 msgctxt "28974\tNAME"
 msgid "Temp Item 640"
-msgstr ""
+msgstr "Oggetto Temp 640"
 
 msgctxt "28988\tNAME"
 msgid "Temp Item 641"
-msgstr ""
+msgstr "Oggetto Temp 641"
 
 msgctxt "29002\tNAME"
 msgid "Temp Item 642"
-msgstr ""
+msgstr "Oggetto Temp 642"
 
 msgctxt "29016\tNAME"
 msgid "Temp Item 643"
-msgstr ""
+msgstr "Oggetto Temp 643"
 
 msgctxt "29030\tNAME"
 msgid "Temp Item 644"
-msgstr ""
+msgstr "Oggetto Temp 644"
 
 msgctxt "29044\tNAME"
 msgid "Temp Item 645"
-msgstr ""
+msgstr "Oggetto Temp 645"
 
 msgctxt "29058\tNAME"
 msgid "Temp Item 646"
-msgstr ""
+msgstr "Oggetto Temp 646"
 
 msgctxt "29072\tNAME"
 msgid "Temp Item 647"
-msgstr ""
+msgstr "Oggetto Temp 647"
 
 msgctxt "29086\tNAME"
 msgid "Temp Item 648"
-msgstr ""
+msgstr "Oggetto Temp 648"
 
 msgctxt "29100\tNAME"
 msgid "Temp Item 649"
-msgstr ""
+msgstr "Oggetto Temp 649"
 
 msgctxt "29114\tNAME"
 msgid "Temp Item 650"
-msgstr ""
+msgstr "Oggetto Temp 650"
 
 msgctxt "29128\tNAME"
 msgid "Temp Item 651"
-msgstr ""
+msgstr "Oggetto Temp 651"
 
 msgctxt "29142\tNAME"
 msgid "Temp Item 652"
-msgstr ""
+msgstr "Oggetto Temp 652"
 
 msgctxt "29156\tNAME"
 msgid "Temp Item 653"
-msgstr ""
+msgstr "Oggetto Temp 653"
 
 msgctxt "29170\tNAME"
 msgid "Temp Item 654"
-msgstr ""
+msgstr "Oggetto Temp 654"
 
 msgctxt "29184\tNAME"
 msgid "Temp Item 655"
-msgstr ""
+msgstr "Oggetto Temp 655"
 
 msgctxt "29198\tNAME"
 msgid "Temp Item 656"
-msgstr ""
+msgstr "Oggetto Temp 656"
 
 msgctxt "29212\tNAME"
 msgid "Temp Item 657"
-msgstr ""
+msgstr "Oggetto Temp 657"
 
 msgctxt "29226\tNAME"
 msgid "Temp Item 658"
-msgstr ""
+msgstr "Oggetto Temp 658"
 
 msgctxt "29240\tNAME"
 msgid "Temp Item 659"
-msgstr ""
+msgstr "Oggetto Temp 659"
 
 msgctxt "29254\tNAME"
 msgid "Temp Item 660"
-msgstr ""
+msgstr "Oggetto Temp 660"
 
 msgctxt "29268\tNAME"
 msgid "Temp Item 661"
-msgstr ""
+msgstr "Oggetto Temp 661"
 
 msgctxt "29282\tNAME"
 msgid "Temp Item 662"
-msgstr ""
+msgstr "Oggetto Temp 662"
 
 msgctxt "29296\tNAME"
 msgid "Temp Item 663"
-msgstr ""
+msgstr "Oggetto Temp 663"
 
 msgctxt "29310\tNAME"
 msgid "Temp Item 664"
-msgstr ""
+msgstr "Oggetto Temp 664"
 
 msgctxt "29324\tNAME"
 msgid "Temp Item 665"
-msgstr ""
+msgstr "Oggetto Temp 665"
 
 msgctxt "29338\tNAME"
 msgid "Temp Item 666"
-msgstr ""
+msgstr "Oggetto Temp 666"
 
 msgctxt "29352\tNAME"
 msgid "Temp Item 667"
-msgstr ""
+msgstr "Oggetto Temp 667"
 
 msgctxt "29366\tNAME"
 msgid "Temp Item 668"
-msgstr ""
+msgstr "Oggetto Temp 668"
 
 msgctxt "29380\tNAME"
 msgid "Temp Item 669"
-msgstr ""
+msgstr "Oggetto Temp 669"
 
 msgctxt "29394\tNAME"
 msgid "Temp Item 670"
-msgstr ""
+msgstr "Oggetto Temp 670"
 
 msgctxt "29408\tNAME"
 msgid "Temp Item 671"
-msgstr ""
+msgstr "Oggetto Temp 671"
 
 msgctxt "29422\tNAME"
 msgid "Temp Item 672"
-msgstr ""
+msgstr "Oggetto Temp 672"
 
 msgctxt "29436\tNAME"
 msgid "Temp Item 673"
-msgstr ""
+msgstr "Oggetto Temp 673"
 
 msgctxt "29450\tNAME"
 msgid "Temp Item 674"
-msgstr ""
+msgstr "Oggetto Temp 674"
 
 msgctxt "29464\tNAME"
 msgid "Temp Item 675"
-msgstr ""
+msgstr "Oggetto Temp 675"
 
 msgctxt "29478\tNAME"
 msgid "Temp Item 676"
-msgstr ""
+msgstr "Oggetto Temp 676"
 
 msgctxt "29492\tNAME"
 msgid "Temp Item 677"
-msgstr ""
+msgstr "Oggetto Temp 677"
 
 msgctxt "29506\tNAME"
 msgid "Temp Item 678"
-msgstr ""
+msgstr "Oggetto Temp 678"
 
 msgctxt "29520\tNAME"
 msgid "Temp Item 679"
-msgstr ""
+msgstr "Oggetto Temp 679"
 
 msgctxt "29534\tNAME"
 msgid "Temp Item 680"
-msgstr ""
+msgstr "Oggetto Temp 680"
 
 msgctxt "29548\tNAME"
 msgid "Temp Item 681"
-msgstr ""
+msgstr "Oggetto Temp 681"
 
 msgctxt "29562\tNAME"
 msgid "Temp Item 682"
-msgstr ""
+msgstr "Oggetto Temp 682"
 
 msgctxt "29576\tNAME"
 msgid "Temp Item 683"
-msgstr ""
+msgstr "Oggetto Temp 683"
 
 msgctxt "29590\tNAME"
 msgid "Temp Item 684"
-msgstr ""
+msgstr "Oggetto Temp 684"
 
 msgctxt "29604\tNAME"
 msgid "Temp Item 685"
-msgstr ""
+msgstr "Oggetto Temp 685"
 
 msgctxt "29618\tNAME"
 msgid "Temp Item 686"
-msgstr ""
+msgstr "Oggetto Temp 686"
 
 msgctxt "29632\tNAME"
 msgid "Temp Item 687"
-msgstr ""
+msgstr "Oggetto Temp 687"
 
 msgctxt "29646\tNAME"
 msgid "Temp Item 688"
-msgstr ""
+msgstr "Oggetto Temp 688"
 
 msgctxt "29660\tNAME"
 msgid "Temp Item 689"
-msgstr ""
+msgstr "Oggetto Temp 689"
 
 msgctxt "29674\tNAME"
 msgid "Temp Item 690"
-msgstr ""
+msgstr "Oggetto Temp 690"
 
 msgctxt "29688\tNAME"
 msgid "Temp Item 691"
-msgstr ""
+msgstr "Oggetto Temp 691"
 
 msgctxt "29702\tNAME"
 msgid "Temp Item 692"
-msgstr ""
+msgstr "Oggetto Temp 692"
 
 msgctxt "29716\tNAME"
 msgid "Temp Item 693"
-msgstr ""
+msgstr "Oggetto Temp 693"
 
 msgctxt "29730\tNAME"
 msgid "Temp Item 694"
-msgstr ""
+msgstr "Oggetto Temp 694"
 
 msgctxt "29744\tNAME"
 msgid "Temp Item 695"
-msgstr ""
+msgstr "Oggetto Temp 695"
 
 msgctxt "29758\tNAME"
 msgid "Temp Item 696"
-msgstr ""
+msgstr "Oggetto Temp 696"
 
 msgctxt "29772\tNAME"
 msgid "Temp Item 697"
-msgstr ""
+msgstr "Oggetto Temp 697"
 
 msgctxt "29786\tNAME"
 msgid "Temp Item 698"
-msgstr ""
+msgstr "Oggetto Temp 698"
 
 msgctxt "29800\tNAME"
 msgid "Temp Item 699"
-msgstr ""
+msgstr "Oggetto Temp 699"
 
 msgctxt "29814\tNAME"
 msgid "Temp Item 700"
-msgstr ""
+msgstr "Oggetto Temp 700"
 
 msgctxt "29828\tNAME"
 msgid "Temp Weapon"
@@ -2898,7 +2898,7 @@ msgstr "Katana di debug"
 
 msgctxt "29853\tNAME"
 msgid "Debug Blade"
-msgstr ""
+msgstr "Lama di debug"
 
 msgctxt "29865\tNAME"
 msgid "Debug Tonfa"
@@ -2906,7 +2906,7 @@ msgstr "Tonfa di debug"
 
 msgctxt "29877\tNAME"
 msgid "Debug Double Sticks"
-msgstr ""
+msgstr "Doppi bastoni di debug"
 
 msgctxt "29897\tNAME"
 msgid "Henchman's Spear"
@@ -2914,11 +2914,11 @@ msgstr "Lancia del tirapiedi"
 
 msgctxt "29914\tNAME"
 msgid "Debug Bo"
-msgstr ""
+msgstr "Bo di debug"
 
 msgctxt "29923\tNAME"
 msgid "Debug Tokarev"
-msgstr ""
+msgstr "Tokarev di debug"
 
 msgctxt "29937\tNAME"
 msgid "Debug Shotgun"
@@ -2934,11 +2934,11 @@ msgstr "Nunchaku di debug"
 
 msgctxt "29979\tNAME"
 msgid "Debug Bat"
-msgstr ""
+msgstr "Mazza di debug"
 
 msgctxt "29989\tNAME"
 msgid "Debug Spear"
-msgstr ""
+msgstr "Lancia di debug"
 
 msgctxt "30001\tNAME"
 msgid "Temp Weapon 14"
@@ -3342,19 +3342,19 @@ msgstr ""
 
 msgctxt "31567\tNAME"
 msgid "Premium Double Shafts"
-msgstr ""
+msgstr "Doppie aste premium"
 
 msgctxt "31589\tNAME"
 msgid "Double Katana"
-msgstr ""
+msgstr "Doppia katana"
 
 msgctxt "31603\tNAME"
 msgid "Double Broadswords"
-msgstr ""
+msgstr "Doppi spadoni"
 
 msgctxt "31622\tNAME"
 msgid "Dragon Taiko Sticks"
-msgstr ""
+msgstr "Bacchette Taiko del Drago"
 
 msgctxt "31642\tNAME"
 msgid "9mm Automatic Pistol"
@@ -3366,11 +3366,11 @@ msgstr "Rivoltella a doppia azione"
 
 msgctxt "31686\tNAME"
 msgid "Fake Pistol"
-msgstr ""
+msgstr "Pistola finta"
 
 msgctxt "31698\tNAME"
 msgid "Drow-Z 55"
-msgstr ""
+msgstr "Drow-Z 55"
 
 msgctxt "31708\tNAME"
 msgid "Golden Pistol"
@@ -3778,7 +3778,7 @@ msgstr "Maglia del drago"
 
 msgctxt "33307\tNAME"
 msgid "Steel Shoulder Guards"
-msgstr ""
+msgstr "Spallacci d'acciaio"
 
 msgctxt "33329\tNAME"
 msgid "Strong Training Gear"
@@ -3802,7 +3802,7 @@ msgstr "Armatura dell'ira"
 
 msgctxt "33420\tNAME"
 msgid "Shisa Belly Warmer"
-msgstr ""
+msgstr "Fascia addominale Shisa"
 
 msgctxt "33439\tNAME"
 msgid "Sacred Tree Armor"
@@ -3926,11 +3926,11 @@ msgstr "Amuleto di Haruka"
 
 msgctxt "33923\tNAME"
 msgid "Mack's Talisman"
-msgstr ""
+msgstr "Talismano di Mack"
 
 msgctxt "33939\tNAME"
 msgid "Megaphone Neckband"
-msgstr ""
+msgstr "Collare megafono"
 
 msgctxt "33958\tNAME"
 msgid "Calming Towel"
@@ -3942,7 +3942,7 @@ msgstr "Sciarpa logora"
 
 msgctxt "33987\tNAME"
 msgid "Shisa Pendant"
-msgstr ""
+msgstr "Ciondolo Shisa"
 
 msgctxt "34001\tNAME"
 msgid "Haruka's Necklace"
@@ -3970,7 +3970,7 @@ msgstr "Anello del campione"
 
 msgctxt "34115\tNAME"
 msgid "Thief's Gloves"
-msgstr ""
+msgstr "Guanti del ladro"
 
 msgctxt "34130\tNAME"
 msgid "Payback Ring"
@@ -4038,7 +4038,7 @@ msgstr "Parastinchi dell'albero sacro"
 
 msgctxt "34383\tNAME"
 msgid "Special Phonebook"
-msgstr ""
+msgstr "Rubrica speciale"
 
 msgctxt "34401\tNAME"
 msgid "Ass Quills"
@@ -4058,11 +4058,11 @@ msgstr "Ultra lenti"
 
 msgctxt "34456\tNAME"
 msgid "Sacrifice Stone"
-msgstr ""
+msgstr "Pietra del sacrificio"
 
 msgctxt "34472\tNAME"
 msgid "Ukiyo Bell"
-msgstr ""
+msgstr "Campanella Ukiyo"
 
 msgctxt "34483\tNAME"
 msgid "Popularity Bracelet"
@@ -4098,15 +4098,15 @@ msgstr "Accessorio temporaneo 59"
 
 msgctxt "34626\tNAME"
 msgid "SITEM"
-msgstr ""
+msgstr "SITEM"
 
 msgctxt "34632\tNAME"
 msgid "Locker Key: Kamurocho"
-msgstr ""
+msgstr "Chiave dell'armadietto: Kamurocho"
 
 msgctxt "34654\tNAME"
 msgid "Locker Key: Downtown Ryukyu"
-msgstr ""
+msgstr "Chiave dell'armadietto: Centro di Ryukyu"
 
 msgctxt "34682\tNAME"
 msgid "Wooden Tags"
@@ -4118,39 +4118,39 @@ msgstr "Bastoncini da mahjong"
 
 msgctxt "34709\tNAME"
 msgid "Golden Salmon Rice Ball (delete)"
-msgstr ""
+msgstr "Polpetta di riso al salmone dorata (elimina)"
 
 msgctxt "34742\tNAME"
 msgid "Golden Oden Soup (delete)"
-msgstr ""
+msgstr "Zuppa di oden dorata (elimina)"
 
 msgctxt "34768\tNAME"
 msgid "Golden Dog Food (delete)"
-msgstr ""
+msgstr "Cibo per cani dorato (elimina)"
 
 msgctxt "34793\tNAME"
 msgid "Golden Tauriner X (delete)"
-msgstr ""
+msgstr "Tauriner X dorato (elimina)"
 
 msgctxt "34820\tNAME"
 msgid "Golden Bento Lunch Set (delete)"
-msgstr ""
+msgstr "Bento dorato (elimina)"
 
 msgctxt "34852\tNAME"
 msgid "Lottery Ticket"
-msgstr ""
+msgstr "Biglietto della lotteria"
 
 msgctxt "34867\tNAME"
 msgid "Father's Letter"
-msgstr ""
+msgstr "Lettera del padre"
 
 msgctxt "34883\tNAME"
 msgid "Plane Ticket to Tokyo"
-msgstr ""
+msgstr "Biglietto aereo per Tokyo"
 
 msgctxt "34905\tNAME"
 msgid "Ryukyu Sea Bream"
-msgstr ""
+msgstr "Orata di Ryukyu"
 
 msgctxt "34922\tNAME"
 msgid "Rubber Ball"
@@ -4158,15 +4158,15 @@ msgstr "Palla di gomma"
 
 msgctxt "34934\tNAME"
 msgid "Green Cat Toy"
-msgstr ""
+msgstr "Giocattolo per gatti verde"
 
 msgctxt "34948\tNAME"
 msgid "Stuffed Animal"
-msgstr ""
+msgstr "Peluche"
 
 msgctxt "34964\tNAME"
 msgid "H Water Purifier"
-msgstr ""
+msgstr "Depuratore d'acqua H"
 
 msgctxt "34981\tNAME"
 msgid "Dummy"
@@ -4174,71 +4174,71 @@ msgstr "Dummy"
 
 msgctxt "34987\tNAME"
 msgid "Mystery Cell Phone"
-msgstr ""
+msgstr "Cellulare misterioso"
 
 msgctxt "35006\tNAME"
 msgid "Space Ninja V: Meteor Hell"
-msgstr ""
+msgstr "Space Ninja V: Meteor Hell"
 
 msgctxt "35033\tNAME"
 msgid "Iron Fist of Legend"
-msgstr ""
+msgstr "Iron Fist of Legend"
 
 msgctxt "35053\tNAME"
 msgid "Wong Fei Sung Story"
-msgstr ""
+msgstr "Wong Fei Sung Story"
 
 msgctxt "35073\tNAME"
 msgid "Clothes Hanger Fun"
-msgstr ""
+msgstr "Clothes Hanger Fun"
 
 msgctxt "35092\tNAME"
 msgid "The Musashi Motomiya Story"
-msgstr ""
+msgstr "The Musashi Motomiya Story"
 
 msgctxt "35119\tNAME"
 msgid "Yakuza Ambush"
-msgstr ""
+msgstr "Yakuza Ambush"
 
 msgctxt "35133\tNAME"
 msgid "Volatile Dragon"
-msgstr ""
+msgstr "Volatile Dragon"
 
 msgctxt "35149\tNAME"
 msgid "Muscle Hustle II"
-msgstr ""
+msgstr "Muscle Hustle II"
 
 msgctxt "35166\tNAME"
 msgid "High-Noon Limbo"
-msgstr ""
+msgstr "High-Noon Limbo"
 
 msgctxt "35182\tNAME"
 msgid "Hammer Place"
-msgstr ""
+msgstr "Hammer Place"
 
 msgctxt "35195\tNAME"
 msgid "Prof. Savage II"
-msgstr ""
+msgstr "Prof. Savage II"
 
 msgctxt "35211\tNAME"
 msgid "The Kancho Master II"
-msgstr ""
+msgstr "The Kancho Master II"
 
 msgctxt "35232\tNAME"
 msgid "Quiz Freaks"
-msgstr ""
+msgstr "Quiz Freaks"
 
 msgctxt "35244\tNAME"
 msgid "Taiko Tales"
-msgstr ""
+msgstr "Taiko Tales"
 
 msgctxt "35256\tNAME"
 msgid "Chicken Champs Collection"
-msgstr ""
+msgstr "Chicken Champs Collection"
 
 msgctxt "35282\tNAME"
 msgid "Free English Textbook"
-msgstr ""
+msgstr "Libro di inglese gratuito"
 
 msgctxt "35304\tNAME"
 msgid "Coral Love Necklace"
@@ -4246,139 +4246,139 @@ msgstr "Collana d'amore in corallo"
 
 msgctxt "35324\tNAME"
 msgid "Wakazo's Notebook"
-msgstr ""
+msgstr "Quaderno di Wakazo"
 
 msgctxt "35342\tNAME"
 msgid "Murder Weapon"
-msgstr ""
+msgstr "Arma del delitto"
 
 msgctxt "35356\tNAME"
 msgid "Ashtray Fingerprints"
-msgstr ""
+msgstr "Impronte sul posacenere"
 
 msgctxt "35377\tNAME"
 msgid "List of Evidence"
-msgstr ""
+msgstr "Elenco delle prove"
 
 msgctxt "35394\tNAME"
 msgid "Usami's Testimony"
-msgstr ""
+msgstr "Testimonianza di Usami"
 
 msgctxt "35412\tNAME"
 msgid "Kinoshita's Testimony"
-msgstr ""
+msgstr "Testimonianza di Kinoshita"
 
 msgctxt "35434\tNAME"
 msgid "Asai's Testimony"
-msgstr ""
+msgstr "Testimonianza di Asai"
 
 msgctxt "35451\tNAME"
 msgid "Asai's Testimony 2"
-msgstr ""
+msgstr "Testimonianza di Asai 2"
 
 msgctxt "35470\tNAME"
 msgid "Imagawa's Testimony"
-msgstr ""
+msgstr "Testimonianza di Imagawa"
 
 msgctxt "35490\tNAME"
 msgid "Florist's Testimony"
-msgstr ""
+msgstr "Testimonianza del Fioraio"
 
 msgctxt "35510\tNAME"
 msgid "Wakazo's Testimony"
-msgstr ""
+msgstr "Testimonianza di Wakazo"
 
 msgctxt "35529\tNAME"
 msgid "Yuko's Business Card"
-msgstr ""
+msgstr "Biglietto da visita di Yuko"
 
 msgctxt "35550\tNAME"
 msgid "Beginner's English Textbook"
-msgstr ""
+msgstr "Libro di inglese per principianti"
 
 msgctxt "35578\tNAME"
 msgid "Intermediate English Textbook"
-msgstr ""
+msgstr "Libro di inglese intermedio"
 
 msgctxt "35608\tNAME"
 msgid "English Textbook on Dating"
-msgstr ""
+msgstr "Libro di inglese sugli appuntamenti"
 
 msgctxt "35635\tNAME"
 msgid "English Teacher's Textbook"
-msgstr ""
+msgstr "Libro dell'insegnante di inglese"
 
 msgctxt "35662\tNAME"
 msgid "Majima's Order Form"
-msgstr ""
+msgstr "Modulo d'ordine di Majima"
 
 msgctxt "35682\tNAME"
 msgid "Blue Bat's Glory"
-msgstr ""
+msgstr "Gloria della Mazza Blu"
 
 msgctxt "35699\tNAME"
 msgid "Nature Blade Chronicles"
-msgstr ""
+msgstr "Cronache della Lama della Natura"
 
 msgctxt "35723\tNAME"
 msgid "Glory of the Lotus Clan"
-msgstr ""
+msgstr "Gloria del Clan del Loto"
 
 msgctxt "35747\tNAME"
 msgid "Unorthodox Weapons Guide"
-msgstr ""
+msgstr "Guida alle armi non ortodosse"
 
 msgctxt "35772\tNAME"
 msgid "Nirai Kanai Reaper"
-msgstr ""
+msgstr "Mietitore Nirai Kanai"
 
 msgctxt "35791\tNAME"
 msgid "Works K Catalog 1"
-msgstr ""
+msgstr "Catalogo Works K 1"
 
 msgctxt "35809\tNAME"
 msgid "Works K Catalog 2"
-msgstr ""
+msgstr "Catalogo Works K 2"
 
 msgctxt "35827\tNAME"
 msgid "Works K Catalog 3"
-msgstr ""
+msgstr "Catalogo Works K 3"
 
 msgctxt "35845\tNAME"
 msgid "Works K Catalog 4"
-msgstr ""
+msgstr "Catalogo Works K 4"
 
 msgctxt "35863\tNAME"
 msgid "Nunchaku Master Certificate"
-msgstr ""
+msgstr "Certificato di maestro di nunchaku"
 
 msgctxt "35891\tNAME"
 msgid "Tonfa Master Certificate"
-msgstr ""
+msgstr "Certificato di maestro di tonfa"
 
 msgctxt "35916\tNAME"
 msgid "Kali Stick Master Certificate"
-msgstr ""
+msgstr "Certificato di maestro di bastoni Kali"
 
 msgctxt "35946\tNAME"
 msgid "Monorail Pass"
-msgstr ""
+msgstr "Abbonamento per la monorotaia"
 
 msgctxt "35960\tNAME"
 msgid "50 Issues of Shonen Five"
-msgstr ""
+msgstr "50 numeri di Shonen Five"
 
 msgctxt "35985\tNAME"
 msgid "Old Map Copy"
-msgstr ""
+msgstr "Copia di una vecchia mappa"
 
 msgctxt "35998\tNAME"
 msgid "Minamizawa's Photo"
-msgstr ""
+msgstr "Foto di Minamizawa"
 
 msgctxt "36017\tNAME"
 msgid "Shisa Photo"
-msgstr ""
+msgstr "Foto di uno Shisa"
 
 msgctxt "36029\tNAME"
 msgid "Black Journal"
@@ -4430,15 +4430,15 @@ msgstr "Elemento importante fittizio 249"
 
 msgctxt "36234\tNAME"
 msgid "Unarmed Gion Style Tome"
-msgstr ""
+msgstr "Tomo dello stile Gion a mani nude"
 
 msgctxt "36258\tNAME"
 msgid "Unarmed Gion Style Tome 2"
-msgstr ""
+msgstr "Tomo dello stile Gion a mani nude 2"
 
 msgctxt "36284\tNAME"
 msgid "Unarmed Gion Style Tome 3"
-msgstr ""
+msgstr "Tomo dello stile Gion a mani nude 3"
 
 msgctxt "36310\tNAME"
 msgid "Darts Live Membership Card"
@@ -4502,11 +4502,11 @@ msgstr "Biglietto da visita di Rio (elegante)"
 
 msgctxt "36703\tNAME"
 msgid "Kana's Business Card"
-msgstr ""
+msgstr "Biglietto da visita di Kana"
 
 msgctxt "36724\tNAME"
 msgid "Kana's Fancy Business Card"
-msgstr ""
+msgstr "Biglietto da visita elegante di Kana"
 
 msgctxt "36751\tNAME"
 msgid "Ranko's Business Card"
@@ -4518,7 +4518,7 @@ msgstr "Biglietto da visita di Rio (elegante)"
 
 msgctxt "36801\tNAME"
 msgid "Miyu's Business Card"
-msgstr ""
+msgstr "Biglietto da visita di Miyu"
 
 msgctxt "36822\tNAME"
 msgid "Miyu's Fancy Business Card"
@@ -4526,7 +4526,7 @@ msgstr "Biglietto da visita di Rio (elegante)"
 
 msgctxt "36849\tNAME"
 msgid "Shiori's Business Card"
-msgstr ""
+msgstr "Biglietto da visita di Shiori"
 
 msgctxt "36872\tNAME"
 msgid "Shiori's Fancy Business Card"
@@ -4534,7 +4534,7 @@ msgstr "Biglietto da visita di Rio (elegante)"
 
 msgctxt "36901\tNAME"
 msgid "Yui's Business Card"
-msgstr ""
+msgstr "Biglietto da visita di Yui"
 
 msgctxt "36921\tNAME"
 msgid "Yui's Fancy Business Card"
@@ -4550,7 +4550,7 @@ msgstr "Biglietto da visita di s (elegante)"
 
 msgctxt "36995\tNAME"
 msgid "Mika's Business Card"
-msgstr ""
+msgstr "Biglietto da visita di Mika"
 
 msgctxt "37016\tNAME"
 msgid "Mika's Fancy Business Card"
@@ -4558,7 +4558,7 @@ msgstr "Biglietto da visita di Rio (elegante)"
 
 msgctxt "37043\tNAME"
 msgid "Nao's Business Card"
-msgstr ""
+msgstr "Biglietto da visita di Nao"
 
 msgctxt "37063\tNAME"
 msgid "Nao's Fancy Business Card"
@@ -4570,7 +4570,7 @@ msgstr "Cellulare di Kiryu"
 
 msgctxt "37108\tNAME"
 msgid "Mitsuo's Stylish Clothes"
-msgstr ""
+msgstr "Vestiti alla moda di Mitsuo"
 
 msgctxt "37133\tNAME"
 msgid "Fishing Champ Magazine"
@@ -4918,15 +4918,15 @@ msgstr "Denaro (1.000 yen)"
 
 msgctxt "78566\tEXPLANATION"
 msgid "Staminan X charges up your health and Heat a little."
-msgstr ""
+msgstr "Lo Staminan X ripristina un po' di salute e di Furore."
 
 msgctxt "78619\tEXPLANATION"
 msgid "Staminan XX charges up your health and Heat significantly."
-msgstr ""
+msgstr "Lo Staminan XX ripristina notevolmente salute e Furore."
 
 msgctxt "78678\tEXPLANATION"
 msgid "Staminan Royale charges up your health and Heat dramatically."
-msgstr ""
+msgstr "Lo Staminan Royale ripristina drasticamente salute e Furore."
 
 msgctxt "78740\tEXPLANATION"
 msgid ""
@@ -4935,35 +4935,35 @@ msgstr ""
 
 msgctxt "78812\tEXPLANATION"
 msgid "Tauriner charges up your Heat a little."
-msgstr ""
+msgstr "Il Tauriner ripristina un po' di Furore."
 
 msgctxt "78852\tEXPLANATION"
 msgid "Tauriner + charges up your Heat significantly."
-msgstr ""
+msgstr "Il Tauriner + ripristina notevolmente il Furore."
 
 msgctxt "78899\tEXPLANATION"
 msgid "Tauriner ++ charges up your Heat dramatically."
-msgstr ""
+msgstr "Il Tauriner ++ ripristina drasticamente il Furore."
 
 msgctxt "78946\tEXPLANATION"
 msgid "Tauriner Maximum charges up your Heat to its maximum level."
-msgstr ""
+msgstr "Il Tauriner Maximum riempie al massimo la barra del Furore."
 
 msgctxt "79006\tEXPLANATION"
 msgid "Toughness Z charges up your health a little."
-msgstr ""
+msgstr "Il Toughness Z ripristina un po' di salute."
 
 msgctxt "79051\tEXPLANATION"
 msgid "Toughness ZZ charges up your health significantly."
-msgstr ""
+msgstr "Il Toughness ZZ ripristina notevolmente la salute."
 
 msgctxt "79102\tEXPLANATION"
 msgid "Toughness Emperor charges up your health dramatically."
-msgstr ""
+msgstr "Il Toughness Emperor ripristina drasticamente la salute."
 
 msgctxt "79157\tEXPLANATION"
 msgid "Toughness Infinity charges up your health to its maximum level."
-msgstr ""
+msgstr "Il Toughness Infinity ripristina completamente la salute."
 
 msgctxt "79221\tEXPLANATION"
 msgid ""
@@ -4973,11 +4973,11 @@ msgstr ""
 
 msgctxt "79300\tEXPLANATION"
 msgid "This plate is made of gold, and it's certainly worth a lot."
-msgstr ""
+msgstr "Questo piatto è d'oro e sicuramente vale molto."
 
 msgctxt "79360\tEXPLANATION"
 msgid "This plate's made of silver, and I'm sure it's fairly valuable."
-msgstr ""
+msgstr "Questo piatto è d'argento, credo abbia un buon valore."
 
 msgctxt "79424\tEXPLANATION"
 msgid ""
@@ -5000,7 +5000,7 @@ msgstr ""
 
 msgctxt "79713\tEXPLANATION"
 msgid "Seaweed boiled in soy sauce is in the center of this rice ball."
-msgstr ""
+msgstr "Polpetta di riso ripiena di alghe bollite nella salsa di soia."
 
 msgctxt "79777\tEXPLANATION"
 msgid "This rice ball has tuna dressed with mayonnaise in the middle."
@@ -5008,21 +5008,21 @@ msgstr "Onigiri con un ripieno di tonno e maionese."
 
 msgctxt "79840\tEXPLANATION"
 msgid "This salmon rice ball is an old standard."
-msgstr ""
+msgstr "Questa polpetta di riso al salmone è un grande classico."
 
 msgctxt "79882\tEXPLANATION"
 msgid "This bento lunch will satisfy almost any appetite."
-msgstr ""
+msgstr "Questo pranzo bento placherà qualsiasi appetito."
 
 msgctxt "79933\tEXPLANATION"
 msgid "This tonkatsu lunch set is made with rich Satsuma pork."
-msgstr ""
+msgstr "Questo set da pranzo tonkatsu è preparato con saporito maiale Satsuma."
 "Set pranzo a base di tonkatsu, preparato con pregiata carne di maiale "
 "Satsuma."
 
 msgctxt "79989\tEXPLANATION"
 msgid "This sandwich isn't much of a meal, but at least it can be eaten cold."
-msgstr ""
+msgstr "Non è granché come pasto, ma almeno può essere mangiato freddo."
 
 msgctxt "80060\tEXPLANATION"
 msgid "Tuna, egg, and mayo on white bread."
@@ -5030,15 +5030,15 @@ msgstr "Tonno, uovo e maionese su pane bianco."
 
 msgctxt "80096\tEXPLANATION"
 msgid "This was heated up, but it's still delicious cold."
-msgstr ""
+msgstr "È stato riscaldato, ma è delizioso anche freddo."
 
 msgctxt "80147\tEXPLANATION"
 msgid "This freshly steamed bun is piping hot and delicious."
-msgstr ""
+msgstr "Questo panino cotto al vapore è ancora caldo e delizioso."
 
 msgctxt "80201\tEXPLANATION"
 msgid "This piping hot bean paste bun will warm you up."
-msgstr ""
+msgstr "Questo panino caldo con pasta di fagioli ti riscalderà."
 
 msgctxt "80250\tEXPLANATION"
 msgid ""
@@ -5049,7 +5049,7 @@ msgstr ""
 
 msgctxt "80325\tEXPLANATION"
 msgid "A 1.8 liter bottle of cheap sake."
-msgstr ""
+msgstr "Una bottiglia da 1,8 litri di sake economico."
 
 msgctxt "80359\tEXPLANATION"
 msgid ""
@@ -5075,7 +5075,7 @@ msgstr ""
 
 msgctxt "80674\tEXPLANATION"
 msgid "A lot of coffee drinkers love mocha for its bitter, rich flavor."
-msgstr ""
+msgstr "Gli amanti del caffè adorano il mocha per il suo sapore amaro e ricco."
 
 msgctxt "80739\tEXPLANATION"
 msgid ""
@@ -5095,7 +5095,7 @@ msgstr ""
 
 msgctxt "80966\tEXPLANATION"
 msgid "Made with organic, healthy tomatoes."
-msgstr ""
+msgstr "Preparata con pomodori biologici sani."
 
 msgctxt "81003\tEXPLANATION"
 msgid ""
@@ -5115,7 +5115,7 @@ msgstr "Un abbondante parfait con cioccolato ricco e delizioso."
 
 msgctxt "81201\tEXPLANATION"
 msgid "A popular float made with Uji green tea and creamy vanilla ice cream."
-msgstr ""
+msgstr "Una famosa bevanda a base di tè verde Uji e cremoso gelato alla vaniglia."
 "Un celebre float preparato con tè verde di Uji e cremoso gelato alla "
 "vaniglia."
 
@@ -5125,7 +5125,7 @@ msgstr "Uovo fritto, pancetta, toast e caffè o tè a scelta."
 
 msgctxt "81332\tEXPLANATION"
 msgid "This set offers a bacon, egg, and lettuce sandwich on white bread."
-msgstr ""
+msgstr "Questo set include un panino con pancetta, uovo e lattuga su pane bianco."
 "Questo set include un sandwich con pancetta, uovo e lattuga su pane bianco."
 
 msgctxt "81399\tEXPLANATION"
@@ -5231,11 +5231,11 @@ msgstr ""
 
 msgctxt "82757\tEXPLANATION"
 msgid "A refreshing bowl of yam paste over tuna. Comes with miso soup."
-msgstr ""
+msgstr "Yamakake rinfrescante servito con tonno. Include zuppa di miso."
 
 msgctxt "82821\tEXPLANATION"
 msgid "A large, refreshing bowl of yam paste over tuna. Comes with miso soup."
-msgstr ""
+msgstr "Una grande e rinfrescante porzione di yamakake con tonno. Include zuppa di miso."
 
 msgctxt "82892\tEXPLANATION"
 msgid ""
@@ -5280,7 +5280,7 @@ msgstr ""
 
 msgctxt "83486\tEXPLANATION"
 msgid "A rose-colored crystal ring. This should make a girl happy."
-msgstr ""
+msgstr "Un anello di cristallo color rosa. Qualsiasi ragazza ne sarebbe felice."
 
 msgctxt "83546\tEXPLANATION"
 msgid ""
@@ -5314,7 +5314,7 @@ msgstr ""
 
 msgctxt "84028\tEXPLANATION"
 msgid "This bracelet of onyx, quartz, and agate would make a fine gift."
-msgstr ""
+msgstr "Questo bracciale di onice, quarzo e agata è un ottimo regalo."
 
 msgctxt "84093\tEXPLANATION"
 msgid ""
@@ -5336,7 +5336,7 @@ msgstr ""
 
 msgctxt "84367\tEXPLANATION"
 msgid "These elegant ruby earrings should make a nice gift for a woman. "
-msgstr ""
+msgstr "Questi eleganti orecchini di rubino sono un bel regalo per una donna. "
 
 msgctxt "84433\tEXPLANATION"
 msgid ""
@@ -5396,23 +5396,23 @@ msgstr ""
 
 msgctxt "85210\tEXPLANATION"
 msgid "This Italian cologne gives off a sensual aroma."
-msgstr ""
+msgstr "Questa colonia italiana emana un profumo sensuale."
 
 msgctxt "85258\tEXPLANATION"
 msgid "This sensual Italian perfume would make a good gift for a woman."
-msgstr ""
+msgstr "Questo sensuale profumo italiano è un ottimo regalo per una donna."
 
 msgctxt "85323\tEXPLANATION"
 msgid "This French scarf should make a nice gift."
-msgstr ""
+msgstr "Questa sciarpa francese è un bel regalo."
 
 msgctxt "85366\tEXPLANATION"
 msgid "This French wallet should make a nice gift."
-msgstr ""
+msgstr "Questo portafoglio francese è un bel regalo."
 
 msgctxt "85410\tEXPLANATION"
 msgid "This Italian scarf should make a good gift."
-msgstr ""
+msgstr "Questa sciarpa italiana è un bel regalo."
 
 msgctxt "85454\tEXPLANATION"
 msgid "This Italian wallet should make a good gift."
@@ -5424,21 +5424,21 @@ msgstr "Questa borsa francese sarebbe un ottimo regalo."
 
 msgctxt "85544\tEXPLANATION"
 msgid "This Italian shoulder bag should make any woman happy."
-msgstr ""
+msgstr "Questa borsa a tracolla italiana renderà felice qualsiasi donna."
 "Questa borsa a tracolla italiana farà sicuramente la felicità di qualsiasi "
 "donna."
 
 msgctxt "85599\tEXPLANATION"
 msgid "Hand-crafted by a skilled watchmaker in Switzerland."
-msgstr ""
+msgstr "Realizzato a mano da un abile orologiaio in Svizzera."
 
 msgctxt "85652\tEXPLANATION"
 msgid "A digital watch made in Asia. Built for functionality over style."
-msgstr ""
+msgstr "Un orologio digitale asiatico. Progettato più per l'utilità che per lo stile."
 
 msgctxt "85718\tEXPLANATION"
 msgid "This high-quality diver's watch is waterproof up to 200-meter depths."
-msgstr ""
+msgstr "Questo orologio subacqueo di alta qualità è impermeabile fino a 200 metri."
 "Questo orologio subacqueo di alta qualità è impermeabile fino a 200 metri di"
 " profondità."
 
@@ -5460,20 +5460,20 @@ msgstr ""
 
 msgctxt "85965\tEXPLANATION"
 msgid "This high-end Italian women's watch should make a nice gift."
-msgstr ""
+msgstr "Questo lussuoso orologio da donna italiano è un bellissimo regalo."
 "Questo orologio da donna italiano d'alta moda sarebbe uno splendido regalo."
 
 msgctxt "86026\tEXPLANATION"
 msgid "This high-end Italian necklace should make a woman happy."
-msgstr ""
+msgstr "Questa lussuosa collana italiana farà la felicità di una donna."
 
 msgctxt "86084\tEXPLANATION"
 msgid "This caviar skin bag should make a fine gift for a woman."
-msgstr ""
+msgstr "Questa borsa in pelle di caviale è un ottimo regalo per una donna."
 
 msgctxt "86142\tEXPLANATION"
 msgid "A high-end Italian ring. This should make a nice gift for a woman."
-msgstr ""
+msgstr "Un anello italiano di alta moda. Sarebbe un bel regalo per una donna."
 
 msgctxt "86209\tEXPLANATION"
 msgid ""
@@ -5514,7 +5514,7 @@ msgstr ""
 
 msgctxt "86730\tEXPLANATION"
 msgid "This juicy Milano Salami was imported from Lombardia, Italy."
-msgstr ""
+msgstr "Questo succoso Salame Milano è stato importato dalla Lombardia, Italia."
 
 msgctxt "86791\tEXPLANATION"
 msgid ""
@@ -5524,7 +5524,7 @@ msgstr ""
 
 msgctxt "86885\tEXPLANATION"
 msgid "A salad topped with juicy, fried Cajun chicken and shredded tortilla."
-msgstr ""
+msgstr "Insalata con pollo fritto alla cajun e tortilla a listarelle."
 
 msgctxt "86955\tEXPLANATION"
 msgid ""
@@ -5568,12 +5568,12 @@ msgstr ""
 
 msgctxt "87419\tEXPLANATION"
 msgid "Campari & soda is loved the world over for its bittersweet magic."
-msgstr ""
+msgstr "Il Campari col seltz è amato in tutto il mondo per la sua magia agrodolce."
 "Il Campari & soda è amato in tutto il mondo per la sua  magia agrodolce."
 
 msgctxt "87485\tEXPLANATION"
 msgid "A mixture of Kahlua liqueur and milk for everyone's favorite cocktail."
-msgstr ""
+msgstr "Un mix di liquore Kahlua e latte nel cocktail preferito da tutti."
 "Una miscela di liquore Kahlua e latte per il cocktail preferito da tutti."
 
 msgctxt "87556\tEXPLANATION"
@@ -5590,7 +5590,7 @@ msgstr ""
 
 msgctxt "87734\tEXPLANATION"
 msgid "This Spaghetti Pescatore includes fresh seafood and tomato sauce."
-msgstr ""
+msgstr "Questi spaghetti alla pescatora contengono frutti di mare freschi e salsa di pomodoro."
 
 msgctxt "87800\tEXPLANATION"
 msgid ""
@@ -5695,7 +5695,7 @@ msgstr "Niente come un bicchiere di latte rinfrescante e nutriente."
 
 msgctxt "89105\tEXPLANATION"
 msgid "Rich, tasty cocoa brewed with specially-selected cacao beans."
-msgstr ""
+msgstr "Cacao ricco e gustoso, preparato con fave di cacao selezionate con cura."
 "Questo cacao ricco e gustoso è stato preparato con fave di cacao "
 "appositamente selezionate."
 
@@ -5724,7 +5724,7 @@ msgstr ""
 
 msgctxt "89420\tEXPLANATION"
 msgid "Popular gelato made with sweet azuki beans. Popular with all ages."
-msgstr ""
+msgstr "Gelato molto apprezzato fatto con fagioli azuki dolci. Amato a tutte le età."
 
 msgctxt "89487\tEXPLANATION"
 msgid "Who doesn't enjoy the sweet, sugary taste of caramel gelato?"
@@ -5739,7 +5739,7 @@ msgstr ""
 
 msgctxt "89623\tEXPLANATION"
 msgid "Can't decide on one flavor? Get two with a double scoop!"
-msgstr ""
+msgstr "Non sai che gusto scegliere? Prendine due con una doppia coppa!"
 "Non riesci a decidere un solo gusto? Prendine due con una doppia pallina!"
 
 msgctxt "89680\tEXPLANATION"
@@ -5811,7 +5811,7 @@ msgstr ""
 
 msgctxt "90658\tEXPLANATION"
 msgid "A delicious tropical potato known for its shiny, purple color."
-msgstr ""
+msgstr "Una deliziosa patata tropicale nota per il suo colore viola acceso."
 
 msgctxt "90721\tEXPLANATION"
 msgid ""
@@ -5821,7 +5821,7 @@ msgstr ""
 
 msgctxt "90819\tEXPLANATION"
 msgid "A best seller. People can't get enough of our boba!"
-msgstr ""
+msgstr "Un best seller. La gente va matta per la nostra boba!"
 
 msgctxt "90871\tEXPLANATION"
 msgid ""
@@ -5837,7 +5837,7 @@ msgstr ""
 
 msgctxt "91053\tEXPLANATION"
 msgid "Chocolate and boba: two great tastes that go even better together."
-msgstr ""
+msgstr "Cioccolato e boba: due gusti fantastici che si sposano a meraviglia."
 
 msgctxt "91120\tEXPLANATION"
 msgid ""
@@ -5847,7 +5847,7 @@ msgstr ""
 
 msgctxt "91207\tEXPLANATION"
 msgid "Freshly squeezed peach juice goes great with boba. Pile on the pearls!"
-msgstr ""
+msgstr "La spremuta di pesca fresca si sposa bene con la boba. Riempi di perle!"
 
 msgctxt "91278\tEXPLANATION"
 msgid ""
@@ -5875,7 +5875,7 @@ msgstr ""
 
 msgctxt "91653\tEXPLANATION"
 msgid "A healthy, nutty drink that goes great with boba."
-msgstr ""
+msgstr "Una bevanda sana al sapore di noci che sta benissimo con la boba."
 
 msgctxt "91703\tEXPLANATION"
 msgid ""
@@ -5980,7 +5980,7 @@ msgstr ""
 
 msgctxt "93006\tEXPLANATION"
 msgid "A single malt whisky aged in sherry barrels for a balanced flavor."
-msgstr ""
+msgstr "Un whisky single malt invecchiato in botti di sherry dal sapore equilibrato."
 "Un whisky single malt invecchiato in botti di sherry per un sapore "
 "equilibrato."
 
@@ -6006,7 +6006,7 @@ msgstr "Il campione dei whisky single malt."
 
 msgctxt "93289\tEXPLANATION"
 msgid "A 30-year-old whisky with rich sherry notes and profound sweetness."
-msgstr ""
+msgstr "Un whisky di 30 anni con ricche note di sherry e una profonda dolcezza."
 "Un whisky di 30 anni con ricche note di sherry e una profonda dolcezza."
 
 msgctxt "93357\tEXPLANATION"
@@ -6019,12 +6019,12 @@ msgstr ""
 
 msgctxt "93439\tEXPLANATION"
 msgid "Laphroaig's finest whisky, with a rich, full-bodied flavor profile."
-msgstr ""
+msgstr "Il miglior whisky di Laphroaig, dal sapore ricco e corposo."
 "Il miglior whisky di Laphroaig, con un profilo aromatico ricco e corposo."
 
 msgctxt "93507\tEXPLANATION"
 msgid "Characterized by an intensely smoky flavor and a smooth, dry body."
-msgstr ""
+msgstr "Si distingue per il sapore intensamente affumicato e il corpo liscio e secco."
 "Caratterizzato da un sapore intensamente affumicato e un corpo morbido e "
 "secco."
 
@@ -6034,7 +6034,7 @@ msgstr "Un whisky scozzese di 12 anni con sfumature mature e floreali."
 
 msgctxt "93631\tEXPLANATION"
 msgid "A unique bottle of whisky. Truly the peak of the Glenfiddich line."
-msgstr ""
+msgstr "Una bottiglia di whisky unica nel suo genere. L'apice della linea Glenfiddich."
 "Una bottiglia di whisky unica. Veramente l'apice della linea Glenfiddich."
 
 msgctxt "93698\tEXPLANATION"
@@ -6070,7 +6070,7 @@ msgstr ""
 
 msgctxt "94045\tEXPLANATION"
 msgid "A carefully-distilled spirit with a bright aroma and sweet fullness."
-msgstr ""
+msgstr "Un distillato dal profumo intenso e dalla corposità dolce e morbida."
 "Uno spirito accuratamente distillato con un aroma brillante e una dolce "
 "pienezza."
 
@@ -6095,12 +6095,12 @@ msgstr ""
 
 msgctxt "94327\tEXPLANATION"
 msgid "The biggest brand in American whiskey with a simple, clear flavor."
-msgstr ""
+msgstr "Il whisky americano per eccellenza, dal gusto semplice e pulito."
 "Il più grande marchio di whisky americano con un sapore semplice e chiaro."
 
 msgctxt "94394\tEXPLANATION"
 msgid "A silky whisky with a sharp, clean finish."
-msgstr ""
+msgstr "Un whisky setoso con un finale pulito e pungente."
 
 msgctxt "94437\tEXPLANATION"
 msgid "A mature grape brandy with a rich, dense flavor."
@@ -6139,7 +6139,7 @@ msgstr ""
 
 msgctxt "94836\tEXPLANATION"
 msgid "A clean spring-water soju made with premier Korean barley."
-msgstr ""
+msgstr "Un soju cristallino, prodotto con il miglior orzo coreano."
 "Un soju di acqua di sorgente pulita fatto con orzo coreano di prima qualità."
 
 msgctxt "94895\tEXPLANATION"
@@ -6150,7 +6150,7 @@ msgstr ""
 
 msgctxt "94973\tEXPLANATION"
 msgid "An Okinawan spirit with a vanilla-like aroma and a full-bodied flavor."
-msgstr ""
+msgstr "Un liquore di Okinawa con aroma alla vaniglia e un sapore intenso."
 "Uno spirito di Okinawa con un aroma simile alla vaniglia e un sapore "
 "corposo."
 
@@ -6180,11 +6180,11 @@ msgstr ""
 
 msgctxt "95329\tEXPLANATION"
 msgid "Perilla leaf shochu made in Asahikawa, Hokkaido."
-msgstr ""
+msgstr "Uno shochu alle foglie di perilla prodotto ad Asahikawa, Hokkaido."
 
 msgctxt "95378\tEXPLANATION"
 msgid "A strong awamori reminiscent of ocean waves."
-msgstr ""
+msgstr "Un awamori forte che ricorda le onde dell'oceano."
 
 msgctxt "95423\tEXPLANATION"
 msgid "Recovery Medicine 1."
@@ -6200,19 +6200,19 @@ msgstr "Medicina curativa 3."
 
 msgctxt "95486\tEXPLANATION"
 msgid "For Deletion"
-msgstr ""
+msgstr "Da eliminare"
 
 msgctxt "95499\tEXPLANATION"
 msgid "For Deletion"
-msgstr ""
+msgstr "Da eliminare"
 
 msgctxt "95512\tEXPLANATION"
 msgid "For Deletion"
-msgstr ""
+msgstr "Da eliminare"
 
 msgctxt "95525\tEXPLANATION"
 msgid "For Deletion"
-msgstr ""
+msgstr "Da eliminare"
 
 msgctxt "95538\tEXPLANATION"
 msgid "Our classic burger set with a Smile Burger, fries, and a drink."
@@ -6273,7 +6273,7 @@ msgstr ""
 
 msgctxt "96273\tEXPLANATION"
 msgid "A Pig's Feet Burger set containing top-quality gelatin."
-msgstr ""
+msgstr "Un set con un Pig's Feet Burger ricco di gelatina di prima qualità."
 
 msgctxt "96329\tEXPLANATION"
 msgid ""
@@ -6283,11 +6283,11 @@ msgstr ""
 
 msgctxt "96405\tEXPLANATION"
 msgid "A sweet potato shake made with real Okinawan sweet potatoes."
-msgstr ""
+msgstr "Un frullato fatto con autentiche patate dolci di Okinawa."
 
 msgctxt "96466\tEXPLANATION"
 msgid "Thinly sliced, crispy-fried pig's ears."
-msgstr ""
+msgstr "Orecchie di maiale tagliate fini e fritte."
 
 msgctxt "96506\tEXPLANATION"
 msgid ""
@@ -6326,7 +6326,7 @@ msgstr ""
 
 msgctxt "96910\tEXPLANATION"
 msgid "A tender, stewed pork burger with fries and a drink. Made to go."
-msgstr ""
+msgstr "Panino con maiale stufato e tenero, patatine e bevanda. Da asporto."
 "Un tenero burger di maiale stufato con patatine e una bevanda. Da asporto."
 
 msgctxt "96975\tEXPLANATION"
@@ -6355,7 +6355,7 @@ msgstr ""
 
 msgctxt "97372\tEXPLANATION"
 msgid "A Pig's Feet Burger set containing top-quality gelatin. Made to go."
-msgstr ""
+msgstr "Set Pig's Feet Burger con gelatina di prima qualità. Da asporto."
 
 msgctxt "97440\tEXPLANATION"
 msgid ""
@@ -6371,47 +6371,47 @@ msgstr ""
 
 msgctxt "97601\tEXPLANATION"
 msgid "Thinly sliced, crispy-fried pig's ears. Made to go."
-msgstr ""
+msgstr "Orecchie di maiale fritte. Da asporto."
 
 msgctxt "97653\tEXPLANATION"
 msgid "A clearance item obtained from some guy on the streets of Kamurocho."
-msgstr ""
+msgstr "Un oggetto di scarto comprato da un tizio a Kamurocho."
 
 msgctxt "97722\tEXPLANATION"
 msgid "This bag has been appraised, and it's not a genuine top-class brand."
-msgstr ""
+msgstr "Questa borsa è stata valutata, non è di marca."
 
 msgctxt "97791\tEXPLANATION"
 msgid "The autograph of a manga artist. His pen name is Seigi Hirono."
-msgstr ""
+msgstr "Autografo di un mangaka. Il suo nome d'arte è Seigi Hirono."
 
 msgctxt "97854\tEXPLANATION"
 msgid "It's gone."
-msgstr ""
+msgstr "È sparito."
 
 msgctxt "97865\tEXPLANATION"
 msgid "Could be used to tell fortunes... But it's probably better to sell it."
-msgstr ""
+msgstr "Si potrebbe usare per predire il futuro... Ma è meglio venderla."
 
 msgctxt "97936\tEXPLANATION"
 msgid "Bet I could sell this for a nice profit."
-msgstr ""
+msgstr "Scommetto che la posso vendere e guadagnarci su."
 
 msgctxt "97977\tEXPLANATION"
 msgid "A sheet of fancy paper."
-msgstr ""
+msgstr "Un elegante foglio di carta."
 
 msgctxt "98001\tEXPLANATION"
 msgid "Hand-signed by a star."
-msgstr ""
+msgstr "Firmato a mano da una star."
 
 msgctxt "98024\tEXPLANATION"
 msgid "Never seen this wallet before."
-msgstr ""
+msgstr "Mai visto questo portafoglio prima d'ora."
 
 msgctxt "98055\tEXPLANATION"
 msgid "You won't find a top-grade bluefin tuna like this too often."
-msgstr ""
+msgstr "Non capita spesso di trovare un tonno rosso di prima qualità come questo."
 "Non troverai un tonno rosso di prima qualità come questo molto spesso."
 
 msgctxt "98116\tEXPLANATION"
@@ -6435,7 +6435,7 @@ msgstr ""
 
 msgctxt "98393\tEXPLANATION"
 msgid "Turbos taste great when steamed with a pressure cooker."
-msgstr ""
+msgstr "Questi molluschi hanno un sapore delizioso, cotti con la pentola a pressione."
 
 msgctxt "98449\tEXPLANATION"
 msgid "It's a branch of coral."
@@ -6477,7 +6477,7 @@ msgstr ""
 
 msgctxt "98955\tEXPLANATION"
 msgid "Popular candy made with Okinawa-grown goya."
-msgstr ""
+msgstr "Famosa caramella fatta con goya coltivata a Okinawa."
 
 msgctxt "98999\tEXPLANATION"
 msgid ""
@@ -6493,11 +6493,11 @@ msgstr ""
 
 msgctxt "99172\tEXPLANATION"
 msgid "These noodles are a local favorite. Packed for convenience."
-msgstr ""
+msgstr "I noodles preferiti dalla gente del posto. Confezionati in modo pratico."
 
 msgctxt "99232\tEXPLANATION"
 msgid "This highly sought-after Ryukyu Ramen is an Okinawaya original."
-msgstr ""
+msgstr "Questo popolarissimo Ryukyu Ramen è un'esclusiva di Okinawaya."
 
 msgctxt "99296\tEXPLANATION"
 msgid ""
@@ -6513,7 +6513,7 @@ msgstr ""
 
 msgctxt "99464\tEXPLANATION"
 msgid "Sanpin tea is a tasty, thirst-quenching beverage."
-msgstr ""
+msgstr "Il tè Sanpin è una bevanda gustosa e dissetante."
 
 msgctxt "99514\tEXPLANATION"
 msgid ""
@@ -6625,7 +6625,7 @@ msgstr ""
 
 msgctxt "101032\tEXPLANATION"
 msgid "Crisp yakisoba made fresh with tasty squid."
-msgstr ""
+msgstr "Deliziosa yakisoba croccante con calamari."
 
 msgctxt "101076\tEXPLANATION"
 msgid ""
@@ -6657,7 +6657,7 @@ msgstr ""
 
 msgctxt "101418\tEXPLANATION"
 msgid "Hot, savory soup with cabbage, seaweed, corn, and low calorie noodles."
-msgstr ""
+msgstr "Zuppa calda e saporita con cavolo, alghe, mais e noodles ipocalorici."
 "Zuppa calda e saporita con cavolo, alga, mais e noodles a basso contenuto "
 "calorico."
 
@@ -6723,7 +6723,7 @@ msgstr ""
 
 msgctxt "102284\tEXPLANATION"
 msgid "Debug food. This won't show up in-game."
-msgstr ""
+msgstr "Cibo di debug. Non apparirà nel gioco."
 
 msgctxt "102324\tEXPLANATION"
 msgid "A carton of plain milk, pasteurized for extra flavor."
@@ -6731,15 +6731,15 @@ msgstr "Un cartone di latte intero, pastorizzato per un sapore extra."
 
 msgctxt "102378\tEXPLANATION"
 msgid "Fresh goya which came from the Public Market."
-msgstr ""
+msgstr "Goya fresca dal Mercato Pubblico."
 
 msgctxt "102424\tEXPLANATION"
 msgid "Oily pork which came from the Public Market."
-msgstr ""
+msgstr "Carne di maiale grassa dal Mercato Pubblico."
 
 msgctxt "102469\tEXPLANATION"
 msgid "Fresh tofu which came from the Public Market."
-msgstr ""
+msgstr "Tofu fresco dal Mercato Pubblico."
 
 msgctxt "102515\tEXPLANATION"
 msgid ""
@@ -6749,15 +6749,15 @@ msgstr ""
 
 msgctxt "102606\tEXPLANATION"
 msgid "Ginger which came from the Public Market. Smells delicious."
-msgstr ""
+msgstr "Zenzero del Mercato Pubblico. Un profumo delizioso."
 
 msgctxt "102666\tEXPLANATION"
 msgid "A nice green onion which came from the Public Market."
-msgstr ""
+msgstr "Un bel cipollotto del Mercato Pubblico."
 
 msgctxt "102720\tEXPLANATION"
 msgid "A big taro which came from the Public Market."
-msgstr ""
+msgstr "Un grosso taro dal Mercato Pubblico."
 
 msgctxt "102766\tEXPLANATION"
 msgid ""
@@ -6766,11 +6766,11 @@ msgstr ""
 
 msgctxt "102838\tEXPLANATION"
 msgid "A meaty shiitake mushroom which came from the Public Market."
-msgstr ""
+msgstr "Un grosso fungo shiitake del Mercato Pubblico."
 
 msgctxt "102899\tEXPLANATION"
 msgid "A fresh fish cake which came from the Public Market."
-msgstr ""
+msgstr "Un tortino di pesce fresco del Mercato Pubblico."
 
 msgctxt "102952\tEXPLANATION"
 msgid "A small, yellow stuffed animal modeled after a chick named Piyo-chan."
@@ -6778,7 +6778,7 @@ msgstr "Un piccolo peluche giallo ispirato al pulcino Piyo-chan."
 
 msgctxt "103022\tEXPLANATION"
 msgid "A rare, black stuffed animal modeled after a young silkie fowl."
-msgstr ""
+msgstr "Un raro peluche nero a forma di piccola gallina moroseta."
 
 msgctxt "103086\tEXPLANATION"
 msgid "A light blue stuffed toy in the shape of a small chick."
@@ -6786,55 +6786,55 @@ msgstr "Peluche azzurro a forma di piccolo pulcino."
 
 msgctxt "103142\tEXPLANATION"
 msgid "A pink stuffed toy in the shape of a small chick."
-msgstr ""
+msgstr "Un peluche rosa a forma di pulcino."
 
 msgctxt "103192\tEXPLANATION"
 msgid "A huge Piyo-chan stuffed toy. Someone's been pigging out on seed."
-msgstr ""
+msgstr "Un enorme peluche di Piyo-chan. Qualcuno ha fatto un'abbuffata di semi."
 
 msgctxt "103258\tEXPLANATION"
 msgid "A Kitty Kat stuffed animal with tiger stripes."
-msgstr ""
+msgstr "Un peluche di Kitty Kat tigrato."
 
 msgctxt "103305\tEXPLANATION"
 msgid "A Kitty Kat stuffed animal with an American Shorthair pattern."
-msgstr ""
+msgstr "Un peluche di Kitty Kat modello American Shorthair."
 
 msgctxt "103368\tEXPLANATION"
 msgid "A blue Kitty Kat stuffed animal."
-msgstr ""
+msgstr "Un peluche Kitty Kat blu."
 
 msgctxt "103401\tEXPLANATION"
 msgid "A Kitty Kat stuffed animal with a Calico pattern."
-msgstr ""
+msgstr "Un peluche Kitty Kat modello Calico."
 
 msgctxt "103451\tEXPLANATION"
 msgid "A brown Beary Bear stuffed animal."
-msgstr ""
+msgstr "Un peluche di Beary Bear marrone."
 
 msgctxt "103486\tEXPLANATION"
 msgid "A gray Beary Bear stuffed animal."
-msgstr ""
+msgstr "Un peluche di Beary Bear grigio."
 
 msgctxt "103520\tEXPLANATION"
 msgid "A blue Beary Bear stuffed animal."
-msgstr ""
+msgstr "Un peluche di Beary Bear blu."
 
 msgctxt "103554\tEXPLANATION"
 msgid "A pink Beary Bear stuffed animal."
-msgstr ""
+msgstr "Un peluche di Beary Bear rosa."
 
 msgctxt "103588\tEXPLANATION"
 msgid "A roasted corn-flavored snack in a pretty big package."
-msgstr ""
+msgstr "Uno snack al sapore di mais tostato in una confezione piuttosto grande."
 
 msgctxt "103643\tEXPLANATION"
 msgid "A cheese-flavored corn snack in a pretty big package."
-msgstr ""
+msgstr "Uno snack al formaggio e mais in una confezione grande."
 
 msgctxt "103697\tEXPLANATION"
 msgid "A natto-flavored corn snack in a pretty big package."
-msgstr ""
+msgstr "Uno snack al natto e mais in una confezione grande."
 
 msgctxt "103750\tEXPLANATION"
 msgid ""
@@ -6863,7 +6863,7 @@ msgstr ""
 
 msgctxt "104069\tEXPLANATION"
 msgid "Tasty tonkotsu ramen topped with succulent, thin slices of roast pork."
-msgstr ""
+msgstr "Ramen tonkotsu gustoso condito con succulente fette di maiale arrosto."
 "Gustoso ramen tonkotsu guarnito con succulente e sottili  fette di maiale "
 "arrosto."
 
@@ -6902,7 +6902,7 @@ msgstr ""
 
 msgctxt "104562\tEXPLANATION"
 msgid "Top-grade kalbi beef taken from the choicest parts of a single cow."
-msgstr ""
+msgstr "Manzo kalbi di prima scelta proveniente dalle parti migliori della mucca."
 "Manzo kalbi di prima scelta prelevato dalle parti più pregiate di un singolo"
 " bovino."
 
@@ -6941,11 +6941,11 @@ msgstr ""
 
 msgctxt "105020\tEXPLANATION"
 msgid "Chopped up, juicy large intestine that's to die for."
-msgstr ""
+msgstr "Intestino succoso e tagliato a pezzi, da leccarsi i baffi."
 
 msgctxt "105073\tEXPLANATION"
 msgid "A serving of succulent seafood such as shrimp, scallops, and squid."
-msgstr ""
+msgstr "Una porzione di succulenti frutti di mare: gamberi, capesante e calamari."
 "Una porzione di succulenti frutti di mare, come gamberi,  capesante e "
 "calamari."
 
@@ -6967,7 +6967,7 @@ msgstr ""
 
 msgctxt "105325\tEXPLANATION"
 msgid "Spicy beef soup and rice is one of our house specialties."
-msgstr ""
+msgstr "Questa zuppa di manzo piccante e riso è una nostra specialità."
 "Zuppa di manzo piccante e riso è una delle nostre  specialità della casa."
 
 msgctxt "105383\tEXPLANATION"
@@ -6994,7 +6994,7 @@ msgstr ""
 
 msgctxt "105647\tEXPLANATION"
 msgid "Unbelievably fresh! This tender, sweet shrimp will melt in your mouth."
-msgstr ""
+msgstr "Incredibilmente fresco! Questo gambero tenero e dolce si scioglie in bocca."
 "Incredibilmente fresco! Questo gambero tenero e dolce si  scioglierà in "
 "bocca."
 
@@ -7096,7 +7096,7 @@ msgstr ""
 
 msgctxt "106940\tEXPLANATION"
 msgid "Tasty Okinawan noodles and tender pork ribs go great together."
-msgstr ""
+msgstr "Deliziosi noodles di Okinawa e tenere costolette di maiale: accoppiata perfetta."
 "I gustosi noodles di Okinawa e le tenere costine di maiale si sposano alla "
 "perfezione."
 
@@ -7108,19 +7108,19 @@ msgstr ""
 
 msgctxt "107090\tEXPLANATION"
 msgid "Fresh shrimp glazed in spicy cocktail sauce and served over lettuce."
-msgstr ""
+msgstr "Gamberi freschi glassati in salsa cocktail piccante, serviti su lattuga."
 
 msgctxt "107159\tEXPLANATION"
 msgid "A connoisseur's delight, with herb butter and fine white wine."
-msgstr ""
+msgstr "Una delizia per intenditori, con burro alle erbe e vino bianco pregiato."
 
 msgctxt "107222\tEXPLANATION"
 msgid "Our Sam's Cut Steak is a medium, juicy tenderloin."
-msgstr ""
+msgstr "La Bistecca Sam's Cut è un tenero e succoso controfiletto."
 
 msgctxt "107273\tEXPLANATION"
 msgid "Our Maui Cut Steak is a large, juicy tenderloin."
-msgstr ""
+msgstr "La Bistecca Maui Cut è un tenero e succoso controfiletto extra-large."
 
 msgctxt "107322\tEXPLANATION"
 msgid ""
@@ -7159,7 +7159,7 @@ msgstr ""
 
 msgctxt "107909\tEXPLANATION"
 msgid "Pig's ears with a crunchy texture. These go great with Awamori sake."
-msgstr ""
+msgstr "Orecchie di maiale dalla consistenza croccante. Ottime con il sake Awamori."
 
 msgctxt "107978\tEXPLANATION"
 msgid ""
@@ -7175,7 +7175,7 @@ msgstr ""
 
 msgctxt "108206\tEXPLANATION"
 msgid "This delicious peanut tofu is sure to stimulate your appetite."
-msgstr ""
+msgstr "Questo delizioso tofu di arachidi stuzzicherà di certo l'appetito."
 "Questo delizioso tofu alle arachidi stimolerà sicuramente il tuo appetito."
 
 msgctxt "108269\tEXPLANATION"
@@ -7204,11 +7204,11 @@ msgstr ""
 
 msgctxt "108696\tEXPLANATION"
 msgid "Temp Item 200"
-msgstr ""
+msgstr "Oggetto Temp 200"
 
 msgctxt "108710\tEXPLANATION"
 msgid "Temp Item 200"
-msgstr ""
+msgstr "Oggetto Temp 200"
 
 msgctxt "108724\tEXPLANATION"
 msgid "Drink 00"
@@ -7413,7 +7413,7 @@ msgstr ""
 
 msgctxt "110112\tEXPLANATION"
 msgid "Looks like an average blue marble to me."
-msgstr ""
+msgstr "A me sembra una normalissima biglia blu."
 
 msgctxt "110153\tEXPLANATION"
 msgid ""
@@ -7432,11 +7432,11 @@ msgstr ""
 
 msgctxt "110390\tEXPLANATION"
 msgid "A cloth drenched in blood. What could have led to this?"
-msgstr ""
+msgstr "Un panno intriso di sangue. Che cosa è successo?"
 
 msgctxt "110446\tEXPLANATION"
 msgid "This hydraulic suspension is way too small for a car or motorbike."
-msgstr ""
+msgstr "Questa sospensione idraulica è decisamente troppo piccola per un'auto o una moto."
 
 msgctxt "110513\tEXPLANATION"
 msgid ""
@@ -7456,7 +7456,7 @@ msgstr ""
 
 msgctxt "110744\tEXPLANATION"
 msgid "Somehow, the sound of this old, rusty bell saddens me..."
-msgstr ""
+msgstr "Chissà perché, il suono di questa vecchia campana arrugginita mi rattrista..."
 
 msgctxt "110801\tEXPLANATION"
 msgid ""
@@ -7487,7 +7487,7 @@ msgstr ""
 
 msgctxt "111141\tEXPLANATION"
 msgid "Just looks like a gold ball to me..."
-msgstr ""
+msgstr "Mi sembra solo una pallina d'oro..."
 
 msgctxt "111178\tEXPLANATION"
 msgid ""
@@ -7508,7 +7508,7 @@ msgstr ""
 
 msgctxt "111452\tEXPLANATION"
 msgid "This stuff is strong enough to hold a rocket together."
-msgstr ""
+msgstr "Questa roba è così resistente che potrebbe tenere insieme un razzo."
 
 msgctxt "111507\tEXPLANATION"
 msgid ""
@@ -7528,29 +7528,29 @@ msgstr ""
 
 msgctxt "111687\tEXPLANATION"
 msgid "This fireproof bag can withstand flames of extremely high temperature."
-msgstr ""
+msgstr "Questa borsa ignifuga è in grado di resistere a fiamme ad altissima temperatura."
 
 msgctxt "111758\tEXPLANATION"
 msgid "This is a tough-looking tack. I bet it could penetrate concrete."
-msgstr ""
+msgstr "Sembra molto resistente. Scommetto che buca persino il cemento."
 "Una puntina dall'aspetto molto robusto. Scommetto che buca persino il "
 "calcestruzzo."
 
 msgctxt "111823\tEXPLANATION"
 msgid "This is made of terry cloth, so it won't work for defense."
-msgstr ""
+msgstr "È di spugna, quindi non servirà a difendersi."
 
 msgctxt "111882\tEXPLANATION"
 msgid "Multipurpose cutter known for its versatility."
-msgstr ""
+msgstr "Taglierino multiuso rinomato per la sua versatilità."
 
 msgctxt "111929\tEXPLANATION"
 msgid "Used to make a spark in oil lighters."
-msgstr ""
+msgstr "Usata per fare scintille negli accendini a benzina."
 
 msgctxt "111967\tEXPLANATION"
 msgid "This clock moves fine, but it runs backwards..."
-msgstr ""
+msgstr "L'orologio funziona bene, ma gira al contrario..."
 
 msgctxt "112015\tEXPLANATION"
 msgid ""
@@ -7574,7 +7574,7 @@ msgstr ""
 
 msgctxt "112244\tEXPLANATION"
 msgid "This thing's eyes are glowing as if it's cursed."
-msgstr ""
+msgstr "Gli occhi di questo oggetto brillano come se fosse maledetto."
 
 msgctxt "112293\tEXPLANATION"
 msgid "A special blend of black and white pepper."
@@ -7590,7 +7590,7 @@ msgstr "Non è qualcosa che si trovi in una casa qualunque."
 
 msgctxt "112410\tEXPLANATION"
 msgid "This old magazine's been weathered and warped."
-msgstr ""
+msgstr "Questa vecchia rivista è sbiadita e rovinata."
 
 msgctxt "112457\tEXPLANATION"
 msgid ""
@@ -7599,11 +7599,11 @@ msgstr ""
 
 msgctxt "112530\tEXPLANATION"
 msgid "This wire will soften easily with a little heat."
-msgstr ""
+msgstr "Questo filo si ammorbidisce con un po' di calore."
 
 msgctxt "112579\tEXPLANATION"
 msgid "This metal has a strong magnetic pull."
-msgstr ""
+msgstr "Questo metallo ha un forte potere magnetico."
 
 msgctxt "112618\tEXPLANATION"
 msgid ""
@@ -7613,7 +7613,7 @@ msgstr ""
 
 msgctxt "112713\tEXPLANATION"
 msgid "Your average rubber balloon."
-msgstr ""
+msgstr "Un normalissimo palloncino di gomma."
 
 msgctxt "112742\tEXPLANATION"
 msgid "Your average dropper."
@@ -7621,7 +7621,7 @@ msgstr "Un normale contagocce."
 
 msgctxt "112764\tEXPLANATION"
 msgid "Regular cooking oil."
-msgstr ""
+msgstr "Olio da cucina normale."
 
 msgctxt "112785\tEXPLANATION"
 msgid ""
@@ -7650,7 +7650,7 @@ msgstr ""
 
 msgctxt "113101\tEXPLANATION"
 msgid "A standard hanger."
-msgstr ""
+msgstr "Una normale gruccia."
 
 msgctxt "113120\tEXPLANATION"
 msgid "A multipurpose plastic bag. Apparently it's a patented design."
@@ -7658,15 +7658,15 @@ msgstr "Una busta di plastica multiuso. A quanto pare è un design brevettato."
 
 msgctxt "113183\tEXPLANATION"
 msgid "Only one highly proficient in weapons can own this."
-msgstr ""
+msgstr "Solo un esperto d'armi può possederla."
 
 msgctxt "113235\tEXPLANATION"
 msgid "Designed for maximum durability and resilience."
-msgstr ""
+msgstr "Progettato per ottenere la massima durata e resistenza."
 
 msgctxt "113283\tEXPLANATION"
 msgid "This old suspension's pretty rusty, but it still works."
-msgstr ""
+msgstr "Questa vecchia sospensione è arrugginita, ma funziona ancora."
 
 msgctxt "113339\tEXPLANATION"
 msgid ""
@@ -7686,7 +7686,7 @@ msgstr "Un normale tubo di gomma."
 
 msgctxt "113562\tEXPLANATION"
 msgid "Just a block of brass."
-msgstr ""
+msgstr "Solo un blocco di ottone."
 
 msgctxt "113585\tEXPLANATION"
 msgid "Wood from a Japanese ash tree. People use this to make baseball bats."
@@ -7694,11 +7694,11 @@ msgstr "Legno di frassino giapponese. Usato per mazze da baseball."
 
 msgctxt "113655\tEXPLANATION"
 msgid "A necessity for all lighters."
-msgstr ""
+msgstr "Fondamentale per qualsiasi accendino."
 
 msgctxt "113685\tEXPLANATION"
 msgid "You could hammer a nail with this dense piece of charcoal."
-msgstr ""
+msgstr "Ci potresti martellare un chiodo con questo blocco di carbone."
 
 msgctxt "113744\tEXPLANATION"
 msgid "This stuff has a lot of bounce to it."
@@ -7711,7 +7711,7 @@ msgstr ""
 
 msgctxt "113859\tEXPLANATION"
 msgid "A regular battery."
-msgstr ""
+msgstr "Una normale batteria."
 
 msgctxt "113878\tEXPLANATION"
 msgid ""
@@ -7721,11 +7721,11 @@ msgstr ""
 
 msgctxt "113971\tEXPLANATION"
 msgid "Not even a bullet can penetrate this durable, nonwoven fabric."
-msgstr ""
+msgstr "Nemmeno un proiettile può penetrare in questo tessuto."
 
 msgctxt "114034\tEXPLANATION"
 msgid "This nail is made of precious platinum, but it's not very practical."
-msgstr ""
+msgstr "Questo chiodo è fatto in prezioso platino, ma non è molto pratico."
 
 msgctxt "114103\tEXPLANATION"
 msgid "This ancient steel was used to forge swords long ago."
@@ -7755,19 +7755,19 @@ msgstr ""
 
 msgctxt "114483\tEXPLANATION"
 msgid "Mineral water from Okinawa."
-msgstr ""
+msgstr "Acqua minerale di Okinawa."
 
 msgctxt "114511\tEXPLANATION"
 msgid "Salt made from the Okinawan seas."
-msgstr ""
+msgstr "Sale estratto dai mari di Okinawa."
 
 msgctxt "114545\tEXPLANATION"
 msgid "Sugar made from Okinawan sugar cane."
-msgstr ""
+msgstr "Zucchero di canna di Okinawa."
 
 msgctxt "114582\tEXPLANATION"
 msgid "Made from organically-grown sugar cane."
-msgstr ""
+msgstr "Fatto con canna da zucchero biologica."
 
 msgctxt "114622\tEXPLANATION"
 msgid ""
@@ -7776,43 +7776,43 @@ msgstr ""
 
 msgctxt "114699\tEXPLANATION"
 msgid "Fresh bitter melon from Okinawa."
-msgstr ""
+msgstr "Melone amaro fresco di Okinawa."
 
 msgctxt "114732\tEXPLANATION"
 msgid "Ordinary bananas imported from the Philippines."
-msgstr ""
+msgstr "Normali banane importate dalle Filippine."
 
 msgctxt "114780\tEXPLANATION"
 msgid "Fresh aloe from Okinawa."
-msgstr ""
+msgstr "Aloe fresca di Okinawa."
 
 msgctxt "114805\tEXPLANATION"
 msgid "Farm-fresh island carrots."
-msgstr ""
+msgstr "Carote fresche coltivate sull'isola."
 
 msgctxt "114832\tEXPLANATION"
 msgid "A farm-fresh egg."
-msgstr ""
+msgstr "Un uovo fresco di fattoria."
 
 msgctxt "114850\tEXPLANATION"
 msgid "Peanuts from Chiba."
-msgstr ""
+msgstr "Arachidi provenienti da Chiba."
 
 msgctxt "114870\tEXPLANATION"
 msgid "Nice hot peppers imported from China."
-msgstr ""
+msgstr "Ottimi peperoncini importati dalla Cina."
 
 msgctxt "114908\tEXPLANATION"
 msgid "Freshly-picked shikwasa fruit."
-msgstr ""
+msgstr "Frutto di shikwasa appena raccolto."
 
 msgctxt "114939\tEXPLANATION"
 msgid "Specially-grown island bananas with an unforgettably sweet flavor."
-msgstr ""
+msgstr "Banane isolane dal sapore dolcissimo e indimenticabile."
 
 msgctxt "115006\tEXPLANATION"
 msgid "This lemon's got a fresh, sour scent."
-msgstr ""
+msgstr "Questo limone ha un fresco profumo acidulo."
 
 msgctxt "115044\tEXPLANATION"
 msgid ""
@@ -7821,7 +7821,7 @@ msgstr ""
 
 msgctxt "115121\tEXPLANATION"
 msgid "Four types of gelato piled high for a limited edition treat."
-msgstr ""
+msgstr "Quattro tipi di gelato sovrapposti, un'edizione limitata."
 
 msgctxt "115182\tEXPLANATION"
 msgid ""
@@ -7831,15 +7831,15 @@ msgstr ""
 
 msgctxt "115238\tEXPLANATION"
 msgid "Eight beef patties on a single burger. This is our finest item."
-msgstr ""
+msgstr "Otto fette di manzo in un unico hamburger. Il nostro prodotto migliore."
 
 msgctxt "115302\tEXPLANATION"
 msgid "This limited shio ramen is packed with all our toppings!"
-msgstr ""
+msgstr "Questo speciale ramen al sale include tutti i nostri condimenti!"
 
 msgctxt "115359\tEXPLANATION"
 msgid "This is Shonen Five, the comic magazine."
-msgstr ""
+msgstr "Questo è Shonen Five, la rivista a fumetti."
 
 msgctxt "115400\tEXPLANATION"
 msgid ""
@@ -7918,55 +7918,55 @@ msgstr "Il preferito di Arasawa: non eliminare. Serve per il Colosseo."
 
 msgctxt "116337\tEXPLANATION"
 msgid "This horse mackerel is good for bait."
-msgstr ""
+msgstr "Questo sgombro è ottimo come esca."
 
 msgctxt "116375\tEXPLANATION"
 msgid "This squid is good for bait."
-msgstr ""
+msgstr "Questo calamaro è ottimo come esca."
 
 msgctxt "116404\tEXPLANATION"
 msgid "This shrimp is good for bait."
-msgstr ""
+msgstr "Questo gamberetto è ottimo come esca."
 
 msgctxt "116434\tEXPLANATION"
 msgid "This pickled squid is good for bait."
-msgstr ""
+msgstr "Questo calamaro in salamoia è ottimo come esca."
 
 msgctxt "116471\tEXPLANATION"
 msgid "A stuffed animal with tiger stripes. Pretty big."
-msgstr ""
+msgstr "Un peluche tigrato. Abbastanza grande."
 
 msgctxt "116520\tEXPLANATION"
 msgid "A stuffed animal with American shorthair patterns. Pretty big."
-msgstr ""
+msgstr "Un peluche modello American Shorthair. Abbastanza grande."
 
 msgctxt "116583\tEXPLANATION"
 msgid "A blue stuffed animal. Pretty big."
-msgstr ""
+msgstr "Un peluche blu. Abbastanza grande."
 
 msgctxt "116618\tEXPLANATION"
 msgid "A stuffed animal with calico patterns. Pretty big."
-msgstr ""
+msgstr "Un peluche modello Calico. Abbastanza grande."
 
 msgctxt "116669\tEXPLANATION"
 msgid "This brown stuffed animal is bigger than average."
-msgstr ""
+msgstr "Questo peluche marrone è più grande della media."
 
 msgctxt "116719\tEXPLANATION"
 msgid "This gray stuffed animal is bigger than average."
-msgstr ""
+msgstr "Questo peluche grigio è più grande della media."
 
 msgctxt "116768\tEXPLANATION"
 msgid "This blue stuffed animal is bigger than average."
-msgstr ""
+msgstr "Questo peluche blu è più grande della media."
 
 msgctxt "116817\tEXPLANATION"
 msgid "This pink stuffed animal is bigger than average."
-msgstr ""
+msgstr "Questo peluche rosa è più grande della media."
 
 msgctxt "116866\tEXPLANATION"
 msgid "Candy I got from Haruka."
-msgstr ""
+msgstr "Una caramella che ho ricevuto da Haruka."
 
 msgctxt "116891\tEXPLANATION"
 msgid "Haruka made this lunch for me. Even tastes great cold."
@@ -7986,7 +7986,7 @@ msgstr "Non utilizzato."
 
 msgctxt "117001\tEXPLANATION"
 msgid "Chocolate I got from Haruka."
-msgstr ""
+msgstr "Il cioccolato che ho ricevuto da Haruka."
 
 msgctxt "117030\tEXPLANATION"
 msgid "Convenient pocket tissues."
@@ -7994,23 +7994,23 @@ msgstr "Comodi fazzoletti tascabili."
 
 msgctxt "117057\tEXPLANATION"
 msgid "A King Unchiku Token."
-msgstr ""
+msgstr "Un Gettone di King Unchiku."
 
 msgctxt "117079\tEXPLANATION"
 msgid "A King Unchiku Strap."
-msgstr ""
+msgstr "Un cinturino di King Unchiku."
 
 msgctxt "117101\tEXPLANATION"
 msgid "This donut-like snack is famous in Okinawa."
-msgstr ""
+msgstr "Questo spuntino simile a una ciambella è famoso a Okinawa."
 
 msgctxt "117145\tEXPLANATION"
 msgid "Tissue from Honey's."
-msgstr ""
+msgstr "Fazzoletti di Honey's."
 
 msgctxt "117166\tEXPLANATION"
 msgid "A 1st place trophy won at Orchid Palace Mahjong."
-msgstr ""
+msgstr "Un trofeo per il primo posto all'Orchid Palace Mahjong."
 
 msgctxt "117215\tEXPLANATION"
 msgid ""
@@ -8047,7 +8047,7 @@ msgstr ""
 
 msgctxt "117662\tEXPLANATION"
 msgid "25 proof Zampa."
-msgstr ""
+msgstr "Zampa 25 gradi."
 
 msgctxt "117678\tEXPLANATION"
 msgid ""
@@ -8072,7 +8072,7 @@ msgstr "Una vongola qualunque. Ottima esca."
 
 msgctxt "117933\tEXPLANATION"
 msgid "This clam is pretty small, but it'll make good fishing bait."
-msgstr ""
+msgstr "Questa vongola è piccola, ma sarà un'ottima esca per pescare."
 
 msgctxt "117994\tEXPLANATION"
 msgid ""
@@ -8210,11 +8210,11 @@ msgstr ""
 
 msgctxt "119537\tEXPLANATION"
 msgid "Cuts pretty well for a replica."
-msgstr ""
+msgstr "Taglia piuttosto bene per essere una replica."
 
 msgctxt "119569\tEXPLANATION"
 msgid "Surprisingly sharp for a replica."
-msgstr ""
+msgstr "Incredibilmente affilata per essere una replica."
 
 msgctxt "119603\tEXPLANATION"
 msgid ""
@@ -8244,7 +8244,7 @@ msgstr ""
 
 msgctxt "119942\tEXPLANATION"
 msgid "A water spirit is rumored to reside within this venerable sword."
-msgstr ""
+msgstr "Si dice che lo spirito dell'acqua risieda in questa venerabile spada."
 
 msgctxt "120007\tEXPLANATION"
 msgid ""
@@ -8266,7 +8266,7 @@ msgstr ""
 
 msgctxt "120256\tEXPLANATION"
 msgid "This is a legendary weapon of China. It's light and easy to wield."
-msgstr ""
+msgstr "Si tratta di una leggendaria arma cinese. È leggera e facile da impugnare."
 
 msgctxt "120323\tEXPLANATION"
 msgid ""
@@ -8300,11 +8300,11 @@ msgstr "Questo driver è stato realizzato da un mastro falegname."
 
 msgctxt "120714\tEXPLANATION"
 msgid "This is a popular brand. Nothing like it for getting thugs airborne."
-msgstr ""
+msgstr "È una marca famosa. Niente è meglio per far saltare in aria i teppisti."
 
 msgctxt "120783\tEXPLANATION"
 msgid "This was made by Majima's orders for reasons unknown."
-msgstr ""
+msgstr "Questa è stata ordinata da Majima per ragioni ignote."
 
 msgctxt "120837\tEXPLANATION"
 msgid ""
@@ -8324,7 +8324,7 @@ msgstr ""
 
 msgctxt "121078\tEXPLANATION"
 msgid "This was made by Majima's orders for reasons unknown."
-msgstr ""
+msgstr "Questa è stata ordinata da Majima per ragioni ignote."
 
 msgctxt "121132\tEXPLANATION"
 msgid ""
@@ -8354,11 +8354,11 @@ msgstr "Trovata nella sezione acquisti per corrispondenza di una rivista."
 
 msgctxt "121465\tEXPLANATION"
 msgid "This is what sparked Kamiyama's interest in weapons."
-msgstr ""
+msgstr "È quello che ha scatenato l'interesse di Kamiyama per le armi."
 
 msgctxt "121518\tEXPLANATION"
 msgid "This sword is made of super high-quality steel."
-msgstr ""
+msgstr "Questa spada è realizzata con acciaio di altissima qualità."
 
 msgctxt "121566\tEXPLANATION"
 msgid ""
@@ -8400,11 +8400,11 @@ msgstr ""
 
 msgctxt "122114\tEXPLANATION"
 msgid "This sword is shrouded in mystery. It must be rare and historic."
-msgstr ""
+msgstr "Questa spada è avvolta nel mistero. Dev'essere rara e di importanza storica."
 
 msgctxt "122179\tEXPLANATION"
 msgid "Compact and easy to carry."
-msgstr ""
+msgstr "Compatta e facile da trasportare."
 
 msgctxt "122206\tEXPLANATION"
 msgid ""
@@ -8430,7 +8430,7 @@ msgstr "Facile da nascondere nella tasca interna."
 
 msgctxt "122547\tEXPLANATION"
 msgid "An eight-sided staff used by kung fu fighters."
-msgstr ""
+msgstr "Un bastone ottagonale usato dai lottatori di kung fu."
 
 msgctxt "122594\tEXPLANATION"
 msgid ""
@@ -8440,12 +8440,12 @@ msgstr ""
 
 msgctxt "122669\tEXPLANATION"
 msgid "An assassin's spear, just as the name implies. Very sharp."
-msgstr ""
+msgstr "La lancia di un assassino, come suggerisce il nome. Molto affilata."
 "Una lancia da assassino, proprio come suggerisce il nome. Molto affilata."
 
 msgctxt "122728\tEXPLANATION"
 msgid "This handy staff is strong and lightweight."
-msgstr ""
+msgstr "Questo bastone molto pratico è resistente e leggero."
 
 msgctxt "122772\tEXPLANATION"
 msgid ""
@@ -8455,7 +8455,7 @@ msgstr ""
 
 msgctxt "122866\tEXPLANATION"
 msgid "A modified extendable staff that can set your foes ablaze."
-msgstr ""
+msgstr "Un bastone estensibile in grado di incendiare i nemici."
 
 msgctxt "122925\tEXPLANATION"
 msgid ""
@@ -8465,11 +8465,11 @@ msgstr ""
 
 msgctxt "123014\tEXPLANATION"
 msgid "A standard shotgun."
-msgstr ""
+msgstr "Un normale fucile a pompa."
 
 msgctxt "123035\tEXPLANATION"
 msgid "A high-power shotgun known for its appearance in action movies."
-msgstr ""
+msgstr "Fucile a pompa potente e famoso per essere apparso nei film d'azione."
 
 msgctxt "123099\tEXPLANATION"
 msgid "Fires bullets packed with a slimy liquid."
@@ -8477,7 +8477,7 @@ msgstr "Spara proiettili carichi di un liquido viscido."
 
 msgctxt "123141\tEXPLANATION"
 msgid "A gun used to create smokescreens. Can be used to slow people down."
-msgstr ""
+msgstr "Fucile per creare cortine fumogene. Può servire a rallentare i nemici."
 
 msgctxt "123209\tEXPLANATION"
 msgid ""
@@ -8501,15 +8501,15 @@ msgstr ""
 
 msgctxt "123473\tEXPLANATION"
 msgid "Brass knuckles with spiked tips."
-msgstr ""
+msgstr "Tirapugni con punte chiodate."
 
 msgctxt "123506\tEXPLANATION"
 msgid "Heavy brass knuckles that will give you the strength of an ogre."
-msgstr ""
+msgstr "Tirapugni pesante che ti darà la forza di un orco."
 
 msgctxt "123571\tEXPLANATION"
 msgid "You gotta have strong arms to wear these."
-msgstr ""
+msgstr "Devi avere delle braccia forti per indossarli."
 
 msgctxt "123613\tEXPLANATION"
 msgid ""
@@ -8540,7 +8540,7 @@ msgstr "Funziona come un pratico piccolo lanciafiamme."
 
 msgctxt "123959\tEXPLANATION"
 msgid "A stun gun and modified lighter fused into one deadly weapon."
-msgstr ""
+msgstr "Uno storditore e un accendino modificato in un'unica letale arma."
 
 msgctxt "124021\tEXPLANATION"
 msgid ""
@@ -8550,7 +8550,7 @@ msgstr ""
 
 msgctxt "124104\tEXPLANATION"
 msgid "This is made of pipe iron, and it's fairly lightweight."
-msgstr ""
+msgstr "Realizzati in tubo di ferro e piuttosto leggeri."
 
 msgctxt "124160\tEXPLANATION"
 msgid "This steel tonfa is really tough."
@@ -8590,7 +8590,7 @@ msgstr ""
 
 msgctxt "124600\tEXPLANATION"
 msgid "These are heavy nunchaku. Weight was added for extra strength."
-msgstr ""
+msgstr "Nunchaku pesanti. È stato aggiunto peso per aumentarne la forza."
 
 msgctxt "124663\tEXPLANATION"
 msgid "Two sturdy hangers make nice nunchaku."
@@ -8604,7 +8604,7 @@ msgstr ""
 
 msgctxt "124786\tEXPLANATION"
 msgid "Strong as the steel they're made of but a little heavy."
-msgstr ""
+msgstr "Forti come l'acciaio di cui sono fatte, ma un po' pesanti."
 
 msgctxt "124842\tEXPLANATION"
 msgid ""
@@ -8630,7 +8630,7 @@ msgstr ""
 
 msgctxt "125108\tEXPLANATION"
 msgid "These taiko sticks are spiked with nails for more power."
-msgstr ""
+msgstr "Queste bacchette taiko sono chiodate per aumentare i danni."
 "Queste bacchette da taiko sono state chiodate per infliggere più danni."
 
 msgctxt "125165\tEXPLANATION"
@@ -8642,7 +8642,7 @@ msgstr ""
 
 msgctxt "125237\tEXPLANATION"
 msgid "A standard model for expert Kali stick fighters."
-msgstr ""
+msgstr "Il modello standard per gli esperti dei bastoni Kali."
 
 msgctxt "125286\tEXPLANATION"
 msgid ""
@@ -8658,7 +8658,7 @@ msgstr ""
 
 msgctxt "125448\tEXPLANATION"
 msgid "The holder of these shafts is said to be a Kali stick master."
-msgstr ""
+msgstr "Si dice che il proprietario di queste aste sia un maestro dei bastoni Kali."
 
 msgctxt "125510\tEXPLANATION"
 msgid ""
@@ -9027,7 +9027,7 @@ msgstr ""
 
 msgctxt "127473\tEXPLANATION"
 msgid "This binding brings out the fiery spirit of competition in its user."
-msgstr ""
+msgstr "Questa fasciatura infiamma lo spirito di competizione."
 "Questa fasciatura tira fuori lo spirito competitivo di chi la indossa."
 
 msgctxt "127542\tEXPLANATION"
@@ -9043,7 +9043,7 @@ msgstr ""
 
 msgctxt "127715\tEXPLANATION"
 msgid "This binding bears the Dragon brand due to its impressive durability."
-msgstr ""
+msgstr "Fasciatura marchiata con il segno del Drago, per la sua notevole durata."
 
 msgctxt "127785\tEXPLANATION"
 msgid ""
@@ -9059,7 +9059,7 @@ msgstr ""
 
 msgctxt "127948\tEXPLANATION"
 msgid "This steel mail is a type of chain mail stronger than its iron cousin."
-msgstr ""
+msgstr "Questa è un tipo di cotta di maglia più resistente della controparte in ferro."
 
 msgctxt "128019\tEXPLANATION"
 msgid ""
@@ -9111,11 +9111,11 @@ msgstr ""
 
 msgctxt "128638\tEXPLANATION"
 msgid "Protects against fire damage."
-msgstr ""
+msgstr "Protegge dai danni da fuoco."
 
 msgctxt "128668\tEXPLANATION"
 msgid "Protects against electric damage."
-msgstr ""
+msgstr "Protegge dai danni elettrici."
 
 msgctxt "128702\tEXPLANATION"
 msgid ""
@@ -9125,7 +9125,7 @@ msgstr ""
 
 msgctxt "128799\tEXPLANATION"
 msgid "A flow of air from the motor blows away blinding powder."
-msgstr ""
+msgstr "Il flusso d'aria dal motore fa volare via la polvere accecante."
 
 msgctxt "128856\tEXPLANATION"
 msgid ""
@@ -9145,7 +9145,7 @@ msgstr "Rende più facile liberarsi dalla presa di un nemico."
 
 msgctxt "129094\tEXPLANATION"
 msgid "Softens collisions into walls or the ground."
-msgstr ""
+msgstr "Attutisce gli impatti contro pareti o pavimenti."
 
 msgctxt "129139\tEXPLANATION"
 msgid ""
@@ -9232,7 +9232,7 @@ msgstr "Armatura temporanea 43"
 
 msgctxt "129773\tEXPLANATION"
 msgid "These gauntlets offer you some protection against bladed weapons."
-msgstr ""
+msgstr "Questi guanti offrono una protezione limitata contro le armi da taglio."
 
 msgctxt "129839\tEXPLANATION"
 msgid ""
@@ -9271,7 +9271,7 @@ msgstr ""
 
 msgctxt "130391\tEXPLANATION"
 msgid "This amulet has minor protective qualities."
-msgstr ""
+msgstr "Questo amuleto ha una limitata qualità protettiva."
 
 msgctxt "130435\tEXPLANATION"
 msgid "Protects against minor injury."
@@ -9285,7 +9285,7 @@ msgstr ""
 
 msgctxt "130558\tEXPLANATION"
 msgid "The divine blessing upon this amulet is said to stop enemies' attacks."
-msgstr ""
+msgstr "Si dice che la benedizione dell'amuleto protegga dagli attacchi dei nemici."
 
 msgctxt "130629\tEXPLANATION"
 msgid ""
@@ -9301,11 +9301,11 @@ msgstr ""
 
 msgctxt "130790\tEXPLANATION"
 msgid "This talisman imbues its wearer with the power of the War God."
-msgstr ""
+msgstr "Questo talismano infonde il potere del Dio della Guerra a chi lo indossa."
 
 msgctxt "130853\tEXPLANATION"
 msgid "Lets you use Heat Actions regardless of the status of your Heat Gauge."
-msgstr ""
+msgstr "Permette l'uso delle Azioni Furore a prescindere dallo stato della barra."
 
 msgctxt "130924\tEXPLANATION"
 msgid ""
@@ -9321,7 +9321,7 @@ msgstr ""
 
 msgctxt "131099\tEXPLANATION"
 msgid "Basically a mini megaphone. Probably not good for much."
-msgstr ""
+msgstr "Un mini megafono. Probabilmente non serve a un granché."
 
 msgctxt "131155\tEXPLANATION"
 msgid "This towel brings down Heat and calms the soul."
@@ -9396,7 +9396,7 @@ msgstr ""
 
 msgctxt "132105\tEXPLANATION"
 msgid "This belt is rumored to have protective qualities."
-msgstr ""
+msgstr "Si dice che questa cintura abbia una qualche qualità protettiva."
 
 msgctxt "132156\tEXPLANATION"
 msgid ""
@@ -9430,11 +9430,11 @@ msgstr ""
 
 msgctxt "132648\tEXPLANATION"
 msgid "These shin guards prevent low attacks from knocking me down."
-msgstr ""
+msgstr "Questi parastinchi impediscono agli attacchi bassi di farmi cadere."
 
 msgctxt "132709\tEXPLANATION"
 msgid "These will increase the impact of your kicks."
-msgstr ""
+msgstr "Questi aumenteranno l'impatto dei tuoi calci."
 
 msgctxt "132755\tEXPLANATION"
 msgid ""
@@ -9486,11 +9486,11 @@ msgstr ""
 
 msgctxt "133499\tEXPLANATION"
 msgid "Should help someone with eye problems see normally."
-msgstr ""
+msgstr "Aiuta le persone con problemi di vista."
 
 msgctxt "133551\tEXPLANATION"
 msgid "These completely seal out dust and grime."
-msgstr ""
+msgstr "Questi occhiali proteggono da polvere e sporco."
 "Queste lenti proteggono completamente gli occhi da polvere e sporcizia."
 
 msgctxt "133593\tEXPLANATION"
@@ -9512,15 +9512,15 @@ msgstr ""
 
 msgctxt "133843\tEXPLANATION"
 msgid "This bracelet is supposed to make you popular with the ladies."
-msgstr ""
+msgstr "Pare che questo bracciale aiuti a spopolare tra le ragazze."
 
 msgctxt "133906\tEXPLANATION"
 msgid "This bracelet is rumored to bring good luck."
-msgstr ""
+msgstr "Si dice che questo bracciale porti fortuna."
 
 msgctxt "133951\tEXPLANATION"
 msgid "This ring gives the wearer some extra charm."
-msgstr ""
+msgstr "Questo anello conferisce a chi lo indossa un fascino extra."
 
 msgctxt "133996\tEXPLANATION"
 msgid ""
@@ -9549,19 +9549,19 @@ msgstr "Accessorio temporaneo 59"
 
 msgctxt "134267\tEXPLANATION"
 msgid "SITEM"
-msgstr ""
+msgstr "SITEM"
 
 msgctxt "134273\tEXPLANATION"
 msgid "Key to a coin-operated locker in Kamurocho."
-msgstr ""
+msgstr "La chiave di un armadietto a moneta a Kamurocho."
 
 msgctxt "134317\tEXPLANATION"
 msgid "Key to a coin-operated locker in Downtown Ryukyu."
-msgstr ""
+msgstr "La chiave di un armadietto a moneta del Centro di Ryukyu."
 
 msgctxt "134367\tEXPLANATION"
 msgid "Wooden tags for gambling. I've got %s at the moment."
-msgstr ""
+msgstr "Gettone di legno per il gioco d'azzardo. Per ora ne ho %s."
 
 msgctxt "134420\tEXPLANATION"
 msgid "Sticks used for mahjong points. Right now, I have %s."
@@ -9569,23 +9569,23 @@ msgstr "Bastoncini usati per i punti del mahjong. Al momento ne hai %s."
 
 msgctxt "134474\tEXPLANATION"
 msgid "Each grain of rice is shimmering."
-msgstr ""
+msgstr "Ogni chicco di riso è lucente."
 
 msgctxt "134508\tEXPLANATION"
 msgid "Flakes of gold are floating in the broth."
-msgstr ""
+msgstr "Nel brodo ci sono piccole scaglie d'oro."
 
 msgctxt "134550\tEXPLANATION"
 msgid "How could anyone waste this on a dog?"
-msgstr ""
+msgstr "Chi potrebbe mai sprecarlo per darlo al cane?"
 
 msgctxt "134588\tEXPLANATION"
 msgid "Doesn't look like something I wanna try."
-msgstr ""
+msgstr "Non sembra una cosa che vorrei assaggiare."
 
 msgctxt "134629\tEXPLANATION"
 msgid "Can't figure out if this is simple or fancy..."
-msgstr ""
+msgstr "Non capisco se sia roba per tutti i giorni, oppure pregiata..."
 
 msgctxt "134676\tEXPLANATION"
 msgid ""
@@ -9595,11 +9595,11 @@ msgstr ""
 
 msgctxt "134770\tEXPLANATION"
 msgid "A letter from Seigi Hirono's father. Seigi Hirono is a manga artist."
-msgstr ""
+msgstr "Una lettera del padre di Seigi Hirono, noto mangaka."
 
 msgctxt "134839\tEXPLANATION"
 msgid "A plane ticket for a flight to Tokyo that Haruka set up for me."
-msgstr ""
+msgstr "Il biglietto dell'aereo per Tokyo che Haruka ha preso per me."
 
 msgctxt "134903\tEXPLANATION"
 msgid ""
@@ -9609,15 +9609,15 @@ msgstr ""
 
 msgctxt "134991\tEXPLANATION"
 msgid "I borrowed this from Koji. Better give it to Izumi."
-msgstr ""
+msgstr "L'ho presa in prestito da Koji. Meglio che la dia a Izumi."
 
 msgctxt "135043\tEXPLANATION"
 msgid "A green cat toy from Miyara next door. Better give this to Izumi."
-msgstr ""
+msgstr "Un gioco per gatti verde di Miyara. Meglio darlo a Izumi."
 
 msgctxt "135109\tEXPLANATION"
 msgid "A stuffed toy found at Morning Glory. Better give it to Izumi."
-msgstr ""
+msgstr "Un peluche trovato all'Orfanotrofio. Meglio che lo dia a Izumi."
 
 msgctxt "135172\tEXPLANATION"
 msgid ""
@@ -9627,11 +9627,11 @@ msgstr ""
 
 msgctxt "135270\tEXPLANATION"
 msgid "It's gone."
-msgstr ""
+msgstr "È sparito."
 
 msgctxt "135281\tEXPLANATION"
 msgid "This cell phone was in a coin locker."
-msgstr ""
+msgstr "Questo cellulare si trovava in un armadietto."
 
 msgctxt "135319\tEXPLANATION"
 msgid ""
@@ -9640,11 +9640,11 @@ msgstr ""
 
 msgctxt "135391\tEXPLANATION"
 msgid "The biography of a great fighter. Should be good for weapon mods."
-msgstr ""
+msgstr "La biografia di un guerriero formidabile. Utile per le mod delle armi."
 
 msgctxt "135457\tEXPLANATION"
 msgid "Movie starring a kung fu legend. Should be good for weapon mods."
-msgstr ""
+msgstr "Film con una leggenda del kung fu. Utile per le mod delle armi."
 
 msgctxt "135522\tEXPLANATION"
 msgid ""
@@ -9742,39 +9742,39 @@ msgstr ""
 
 msgctxt "136896\tEXPLANATION"
 msgid "Fingerprints found on the ashtray used for the murder."
-msgstr ""
+msgstr "Le impronte sul posacenere usato per l'omicidio."
 
 msgctxt "136951\tEXPLANATION"
 msgid "A list of evidence the cops seized from the crime scene."
-msgstr ""
+msgstr "Una lista delle prove sulla scena del crimine, sequestrate dalla polizia."
 
 msgctxt "137008\tEXPLANATION"
 msgid "Usami was at the scene but failed to witness Akechi murder Oda."
-msgstr ""
+msgstr "Usami era presente ma non ha visto Akechi uccidere Oda."
 
 msgctxt "137072\tEXPLANATION"
 msgid "Kinoshita saw the criminal flee but didn't get a look at his face."
-msgstr ""
+msgstr "Kinoshita ha visto l'assassino fuggire ma non in volto."
 
 msgctxt "137139\tEXPLANATION"
 msgid "Oda was dating someone at that time."
-msgstr ""
+msgstr "A quel tempo Oda si frequentava con qualcuno."
 
 msgctxt "137176\tEXPLANATION"
 msgid "Asai stole Imagawa's wallet and CD but never took his uniform."
-msgstr ""
+msgstr "Asai rubò il portafoglio e il CD di Imagawa, ma non la sua divisa."
 
 msgctxt "137239\tEXPLANATION"
 msgid "Something was stolen from Imagawa's locker."
-msgstr ""
+msgstr "È stato rubato qualcosa dall'armadietto di Imagawa."
 
 msgctxt "137283\tEXPLANATION"
 msgid "All fingerprints on the ashtray were made on the day of the incident."
-msgstr ""
+msgstr "Tutte le impronte sul posacenere risalgono al giorno del delitto."
 
 msgctxt "137353\tEXPLANATION"
 msgid "There's no record of Yuko coming to Café Alps on the day of the crime."
-msgstr ""
+msgstr "Non risulta che Yuko sia andata al Café Alps il giorno dell'omicidio."
 
 msgctxt "137425\tEXPLANATION"
 msgid ""
@@ -9808,7 +9808,7 @@ msgstr ""
 
 msgctxt "137845\tEXPLANATION"
 msgid "This is an order form from Majima requesting weapons."
-msgstr ""
+msgstr "Un modulo da parte di Majima in cui ordina delle armi."
 
 msgctxt "137899\tEXPLANATION"
 msgid ""
@@ -9886,7 +9886,7 @@ msgstr ""
 
 msgctxt "139010\tEXPLANATION"
 msgid "This should make Taichi happy."
-msgstr ""
+msgstr "Dovrebbe rendere felice Taichi."
 
 msgctxt "139041\tEXPLANATION"
 msgid ""
@@ -9907,19 +9907,19 @@ msgstr ""
 
 msgctxt "139291\tEXPLANATION"
 msgid "Miyamoto Musashi's techniques are said to be recorded in this journal."
-msgstr ""
+msgstr "Si dice che le tecniche di Miyamoto Musashi si trovino in questo diario."
 
 msgctxt "139362\tEXPLANATION"
 msgid "Miyamoto Musashi's techniques are said to be recorded in this journal."
-msgstr ""
+msgstr "Si dice che le tecniche di Miyamoto Musashi si trovino in questo diario."
 
 msgctxt "139433\tEXPLANATION"
 msgid "Miyamoto Musashi's techniques are said to be recorded in this journal."
-msgstr ""
+msgstr "Si dice che le tecniche di Miyamoto Musashi si trovino in questo diario."
 
 msgctxt "139504\tEXPLANATION"
 msgid "Miyamoto Musashi's techniques are said to be recorded in this journal."
-msgstr ""
+msgstr "Si dice che le tecniche di Miyamoto Musashi si trovino in questo diario."
 
 msgctxt "139575\tEXPLANATION"
 msgid "This letter came from Komaki."
@@ -9968,51 +9968,51 @@ msgstr ""
 
 msgctxt "139899\tEXPLANATION"
 msgid "A membership card for Darts Live. I can save my play history on this."
-msgstr ""
+msgstr "Abbonamento al Darts Live, per il salvataggio dei progressi."
 
 msgctxt "139969\tEXPLANATION"
 msgid "A membership card for Darts Live. I can save my play history on this."
-msgstr ""
+msgstr "Abbonamento al Darts Live, per il salvataggio dei progressi."
 
 msgctxt "140039\tEXPLANATION"
 msgid "A membership card for Darts Live. I can save my play history on this."
-msgstr ""
+msgstr "Abbonamento al Darts Live, per il salvataggio dei progressi."
 
 msgctxt "140109\tEXPLANATION"
 msgid "A membership card for Darts Live. I can save my play history on this."
-msgstr ""
+msgstr "Abbonamento al Darts Live, per il salvataggio dei progressi."
 
 msgctxt "140179\tEXPLANATION"
 msgid "A membership card for Darts Live. I can save my play history on this."
-msgstr ""
+msgstr "Abbonamento al Darts Live, per il salvataggio dei progressi."
 
 msgctxt "140249\tEXPLANATION"
 msgid "A membership card for Darts Live. I can save my play history on this."
-msgstr ""
+msgstr "Abbonamento al Darts Live, per il salvataggio dei progressi."
 
 msgctxt "140319\tEXPLANATION"
 msgid "A membership card for Darts Live. I can save my play history on this."
-msgstr ""
+msgstr "Abbonamento al Darts Live, per il salvataggio dei progressi."
 
 msgctxt "140389\tEXPLANATION"
 msgid "A membership card for Darts Live. I can save my play history on this."
-msgstr ""
+msgstr "Abbonamento al Darts Live, per il salvataggio dei progressi."
 
 msgctxt "140459\tEXPLANATION"
 msgid "A membership card for Darts Live. I can save my play history on this."
-msgstr ""
+msgstr "Abbonamento al Darts Live, per il salvataggio dei progressi."
 
 msgctxt "140529\tEXPLANATION"
 msgid "A membership card for Darts Live. I can save my play history on this."
-msgstr ""
+msgstr "Abbonamento al Darts Live, per il salvataggio dei progressi."
 
 msgctxt "140599\tEXPLANATION"
 msgid "A membership card for Darts Live. I can save my play history on this."
-msgstr ""
+msgstr "Abbonamento al Darts Live, per il salvataggio dei progressi."
 
 msgctxt "140669\tEXPLANATION"
 msgid "Reimi Hanayama's Shine business card."
-msgstr ""
+msgstr "Il biglietto da visita dello Shine di Reimi Hanayama."
 
 msgctxt "140707\tEXPLANATION"
 msgid ""
@@ -10022,7 +10022,7 @@ msgstr ""
 
 msgctxt "140795\tEXPLANATION"
 msgid "Rin Sasaba's Shine business card."
-msgstr ""
+msgstr "Il biglietto da visita dello Shine di Rin Sasaba."
 
 msgctxt "140829\tEXPLANATION"
 msgid ""
@@ -10032,7 +10032,7 @@ msgstr ""
 
 msgctxt "140913\tEXPLANATION"
 msgid "Kana Momonogi's Shine business card."
-msgstr ""
+msgstr "Il biglietto da visita dello Shine di Kana Momonogi."
 
 msgctxt "140950\tEXPLANATION"
 msgid ""
@@ -10042,7 +10042,7 @@ msgstr ""
 
 msgctxt "141037\tEXPLANATION"
 msgid "Ranko Yazuki's Shine business card."
-msgstr ""
+msgstr "Il biglietto da visita dello Shine di Ranko Yazuki."
 
 msgctxt "141073\tEXPLANATION"
 msgid ""
@@ -10052,7 +10052,7 @@ msgstr ""
 
 msgctxt "141159\tEXPLANATION"
 msgid "Miyu Shiraboshi's Jewel business card."
-msgstr ""
+msgstr "Il biglietto da visita del Jewel di Miyu Shiraboshi."
 
 msgctxt "141198\tEXPLANATION"
 msgid ""
@@ -10062,7 +10062,7 @@ msgstr ""
 
 msgctxt "141287\tEXPLANATION"
 msgid "Shiori Nagamori's Jewel business card."
-msgstr ""
+msgstr "Il biglietto da visita del Jewel di Shiori Nagamori."
 
 msgctxt "141326\tEXPLANATION"
 msgid ""
@@ -10072,7 +10072,7 @@ msgstr ""
 
 msgctxt "141415\tEXPLANATION"
 msgid "Yui Hatano's Jewel business card."
-msgstr ""
+msgstr "Il biglietto da visita del Jewel di Yui Hatano."
 
 msgctxt "141449\tEXPLANATION"
 msgid ""
@@ -10082,7 +10082,7 @@ msgstr ""
 
 msgctxt "141533\tEXPLANATION"
 msgid "Saya Unten's Flawless business card."
-msgstr ""
+msgstr "Il biglietto da visita del Flawless di Saya Unten."
 
 msgctxt "141570\tEXPLANATION"
 msgid ""
@@ -10092,7 +10092,7 @@ msgstr ""
 
 msgctxt "141657\tEXPLANATION"
 msgid "Mika Tsuchiya's Flawless business card."
-msgstr ""
+msgstr "Il biglietto da visita del Flawless di Mika Tsuchiya."
 
 msgctxt "141697\tEXPLANATION"
 msgid ""
@@ -10102,7 +10102,7 @@ msgstr ""
 
 msgctxt "141787\tEXPLANATION"
 msgid "Nao Kaneshiro's Flawless business card."
-msgstr ""
+msgstr "Il biglietto da visita del Flawless di Nao Kaneshiro."
 
 msgctxt "141827\tEXPLANATION"
 msgid ""
@@ -10112,11 +10112,11 @@ msgstr ""
 
 msgctxt "141917\tEXPLANATION"
 msgid "My cell phone. I finally figured out how to send emails."
-msgstr ""
+msgstr "Il mio cellulare. Ho finalmente capito come mandare le e-mail."
 
 msgctxt "141974\tEXPLANATION"
 msgid "Clothes and accessories to make Mitsuo more hip."
-msgstr ""
+msgstr "Vestiti e accessori per far sembrare Mitsuo più alla moda."
 
 msgctxt "142023\tEXPLANATION"
 msgid "This magazine offers some great fishing tips."
@@ -10124,7 +10124,7 @@ msgstr "Questa rivista offre ottimi consigli di pesca."
 
 msgctxt "142069\tEXPLANATION"
 msgid "Chips for the casino. Right now, I've got %s."
-msgstr ""
+msgstr "Fiche per il casinò. Al momento ne ho %s."
 
 msgctxt "142115\tEXPLANATION"
 msgid "Important Dummy 118"

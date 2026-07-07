@@ -18,11 +18,11 @@ msgstr "Massimo gran premio"
 
 msgctxt "1059\tNAME"
 msgid "Magnum Force Grand Prix"
-msgstr ""
+msgstr "Magnum Force Grand Prix"
 
 msgctxt "1083\tNAME"
 msgid "Hyper Grand Prix"
-msgstr ""
+msgstr "Hyper Grand Prix"
 
 msgctxt "1100\tNAME"
 msgid "Weapon Master Grand Prix"
@@ -38,11 +38,11 @@ msgstr "Grand Prix Tag Match"
 
 msgctxt "1169\tNAME"
 msgid "Golden Gloves Grand Prix"
-msgstr ""
+msgstr "Golden Gloves Grand Prix"
 
 msgctxt "1194\tNAME"
 msgid "Bomber Grand Prix"
-msgstr ""
+msgstr "Bomber Grand Prix"
 
 msgctxt "1212\tNAME"
 msgid "Pounding Grand Prix"
@@ -54,7 +54,7 @@ msgstr "Furore Grand Prix"
 
 msgctxt "1248\tNAME"
 msgid "Breakout Grand Prix"
-msgstr ""
+msgstr "Breakout Grand Prix"
 
 msgctxt "1268\tNAME"
 msgid "Street Fight Grand Prix"

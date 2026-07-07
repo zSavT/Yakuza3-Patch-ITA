@@ -176,7 +176,7 @@ msgstr "Essenza della pole dance"
 
 msgctxt "2830\tNAME"
 msgid "Super Finish: Knock Down"
-msgstr ""
+msgstr "Super mossa finale: Abbattimento"
 
 msgctxt "2855\tNAME"
 msgid "Essence of Rolling"
@@ -200,47 +200,47 @@ msgstr "Essenza dell'affondo dell'ubriaco"
 
 msgctxt "2970\tNAME"
 msgid "Super Finish: Hell's Gauntlet"
-msgstr ""
+msgstr "Super mossa finale: Guanto infernale"
 
 msgctxt "3000\tEXP"
 msgid "Press <Action:Button_Cross@UI> to view the associated blog entry."
-msgstr ""
+msgstr "Premi <Action:Button_Cross@UI> per visualizzare il post del blog associato."
 
 msgctxt "3066\tEXP"
 msgid "Press <Action:Button_Cross@UI> to view the associated blog entry."
-msgstr ""
+msgstr "Premi <Action:Button_Cross@UI> per visualizzare il post del blog associato."
 
 msgctxt "3132\tEXP"
 msgid "Press <Action:Button_Cross@UI> to view the associated blog entry."
-msgstr ""
+msgstr "Premi <Action:Button_Cross@UI> per visualizzare il post del blog associato."
 
 msgctxt "3198\tEXP"
 msgid "Press <Action:Button_Cross@UI> to view the associated blog entry."
-msgstr ""
+msgstr "Premi <Action:Button_Cross@UI> per visualizzare il post del blog associato."
 
 msgctxt "3264\tEXP"
 msgid "Press <Action:Button_Cross@UI> to view the associated blog entry."
-msgstr ""
+msgstr "Premi <Action:Button_Cross@UI> per visualizzare il post del blog associato."
 
 msgctxt "3330\tEXP"
 msgid "Press <Action:Button_Cross@UI> to view the associated blog entry."
-msgstr ""
+msgstr "Premi <Action:Button_Cross@UI> per visualizzare il post del blog associato."
 
 msgctxt "3396\tEXP"
 msgid "Press <Action:Button_Cross@UI> to view the associated blog entry."
-msgstr ""
+msgstr "Premi <Action:Button_Cross@UI> per visualizzare il post del blog associato."
 
 msgctxt "3462\tEXP"
 msgid "Press <Action:Button_Cross@UI> to view the associated blog entry."
-msgstr ""
+msgstr "Premi <Action:Button_Cross@UI> per visualizzare il post del blog associato."
 
 msgctxt "3528\tEXP"
 msgid "Press <Action:Button_Cross@UI> to view the associated blog entry."
-msgstr ""
+msgstr "Premi <Action:Button_Cross@UI> per visualizzare il post del blog associato."
 
 msgctxt "3594\tEXP"
 msgid "Press <Action:Button_Cross@UI> to view the associated blog entry."
-msgstr ""
+msgstr "Premi <Action:Button_Cross@UI> per visualizzare il post del blog associato."
 
 msgctxt "3740\tTITLE"
 msgid "Here We Go!"
@@ -248,39 +248,39 @@ msgstr "Ci siamo!"
 
 msgctxt "3752\tTITLE"
 msgid "Painful Mistake"
-msgstr ""
+msgstr "Errore doloroso"
 
 msgctxt "3768\tTITLE"
 msgid "A Real Showstopper"
-msgstr ""
+msgstr "Un vero spettacolo"
 
 msgctxt "3787\tTITLE"
 msgid "Bowling Etiquette"
-msgstr ""
+msgstr "Etichetta del bowling"
 
 msgctxt "3805\tTITLE"
 msgid "Swing and a Miss"
-msgstr ""
+msgstr "Tiro a vuoto"
 
 msgctxt "3822\tTITLE"
 msgid "Almost Stuck the Landing"
-msgstr ""
+msgstr "Quasi atterrato in piedi"
 
 msgctxt "3847\tTITLE"
 msgid "Toy Troubles"
-msgstr ""
+msgstr "Problemi con i giocattoli"
 
 msgctxt "3860\tTITLE"
 msgid "Miss Tissues"
-msgstr ""
+msgstr "Miss Fazzoletti"
 
 msgctxt "3873\tTITLE"
 msgid "The Drunken Master?"
-msgstr ""
+msgstr "Maestro ubriaco?"
 
 msgctxt "3893\tTITLE"
 msgid "Down on His Luck"
-msgstr ""
+msgstr "Sfortunato"
 
 msgctxt "3910\tTEXT"
 msgid ""

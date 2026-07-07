@@ -22,7 +22,7 @@ msgstr "Attacchi base"
 
 msgctxt "627\tCATEGORY"
 msgid "Basic Weapons"
-msgstr ""
+msgstr "Armi base"
 
 msgctxt "643\tCATEGORY"
 msgid "Soul Abilities"
@@ -30,7 +30,7 @@ msgstr "Abilità anima"
 
 msgctxt "660\tCATEGORY"
 msgid "Tech Abilities"
-msgstr ""
+msgstr "Abilità tecnica"
 
 msgctxt "677\tCATEGORY"
 msgid "Body Abilities"
@@ -38,19 +38,19 @@ msgstr "Abilità corpo"
 
 msgctxt "694\tCATEGORY"
 msgid "Essence Abilities"
-msgstr ""
+msgstr "Abilità essenza"
 
 msgctxt "714\tCATEGORY"
 msgid "Komaki Techniques"
-msgstr ""
+msgstr "Tecniche Komaki"
 
 msgctxt "733\tCATEGORY"
 msgid "]IF7 Abilities"
-msgstr ""
+msgstr "]Abilità IF7"
 
 msgctxt "750\tCATEGORY"
 msgid "Yonashiro Weapons"
-msgstr ""
+msgstr "Armi Yonashiro"
 
 msgctxt "770\tCATEGORY"
 msgid "Revelations"
@@ -62,7 +62,7 @@ msgstr "Tecniche antiche"
 
 msgctxt "805\tCATEGORY"
 msgid "All Heat Actions"
-msgstr ""
+msgstr "Tutte le Azioni Heat"
 
 msgctxt "822\tSKILL"
 msgid "Walk/Run"
@@ -142,7 +142,7 @@ msgstr "Calcio all'indietro"
 
 msgctxt "1079\tSKILL"
 msgid "Dropkick"
-msgstr ""
+msgstr "Dropkick"
 
 msgctxt "1088\tSKILL"
 msgid "Grab Attack"
@@ -218,7 +218,7 @@ msgstr "Pistole"
 
 msgctxt "1357\tSKILL"
 msgid "Increase Max Heat Gauge"
-msgstr ""
+msgstr "Aumenta indicatore Heat max"
 
 msgctxt "1381\tSKILL"
 msgid "Phoenix Spirit"
@@ -258,7 +258,7 @@ msgstr "Spirito del drago dorato"
 
 msgctxt "1518\tSKILL"
 msgid "Komaki Cat-Like Reflexes"
-msgstr ""
+msgstr "Riflessi felini Komaki"
 
 msgctxt "1543\tSKILL"
 msgid "Rising Kick"
@@ -266,7 +266,7 @@ msgstr "Calcio in salita"
 
 msgctxt "1555\tSKILL"
 msgid "Speed Boost 1"
-msgstr ""
+msgstr "Aumento velocità 1"
 
 msgctxt "1569\tSKILL"
 msgid "Lotus Flare Fist"
@@ -278,11 +278,11 @@ msgstr "Doppio colpo finale"
 
 msgctxt "1608\tSKILL"
 msgid "Komaki Dodge Shot"
-msgstr ""
+msgstr "Colpo in schivata Komaki"
 
 msgctxt "1626\tSKILL"
 msgid "Speed Boost 2"
-msgstr ""
+msgstr "Aumento velocità 2"
 
 msgctxt "1640\tSKILL"
 msgid "Knockdown Reversal"
@@ -294,11 +294,11 @@ msgstr "Lancio saltato"
 
 msgctxt "1674\tSKILL"
 msgid "Kawauchi Release Throw"
-msgstr ""
+msgstr "Lancio di sgancio Kawauchi"
 
 msgctxt "1697\tSKILL"
 msgid "Speed Boost 3"
-msgstr ""
+msgstr "Aumento velocità 3"
 
 msgctxt "1711\tSKILL"
 msgid "Quickstep Cancel"
@@ -306,11 +306,11 @@ msgstr "Annulla passo rapido"
 
 msgctxt "1728\tSKILL"
 msgid "Increase Health Gauge Max"
-msgstr ""
+msgstr "Aumenta indicatore salute max"
 
 msgctxt "1754\tSKILL"
 msgid "Grab Escape 1"
-msgstr ""
+msgstr "Fuga dalla presa 1"
 
 msgctxt "1768\tSKILL"
 msgid "Quick Stand 1"
@@ -322,7 +322,7 @@ msgstr "Rimettersi in guardia"
 
 msgctxt "1791\tSKILL"
 msgid "Increase Throw Power"
-msgstr ""
+msgstr "Aumenta potenza lancio"
 
 msgctxt "1812\tSKILL"
 msgid "Quick Stand 2"
@@ -330,23 +330,23 @@ msgstr "Alzarsi rapidamente"
 
 msgctxt "1826\tSKILL"
 msgid "Grab Escape 2"
-msgstr ""
+msgstr "Fuga dalla presa 2"
 
 msgctxt "1840\tSKILL"
 msgid "Collateral Damage"
-msgstr ""
+msgstr "Danno collaterale"
 
 msgctxt "1858\tSKILL"
 msgid "Red Heat Gauge 1"
-msgstr ""
+msgstr "Indicatore Heat rosso 1"
 
 msgctxt "1875\tSKILL"
 msgid "Red Heat Gauge 2"
-msgstr ""
+msgstr "Indicatore Heat rosso 2"
 
 msgctxt "1892\tSKILL"
 msgid "Red Heat Gauge 3"
-msgstr ""
+msgstr "Indicatore Heat rosso 3"
 
 msgctxt "1909\tSKILL"
 msgid "Essence of Finishing"
@@ -362,7 +362,7 @@ msgstr "Essenza dell'oscillazione"
 
 msgctxt "1970\tSKILL"
 msgid "Essence of Fear"
-msgstr ""
+msgstr "Essenza della paura"
 
 msgctxt "1986\tSKILL"
 msgid "Essence of Head Bashing"
@@ -370,23 +370,23 @@ msgstr "Essenza della testata"
 
 msgctxt "2010\tSKILL"
 msgid "Extra Heat Attack 1"
-msgstr ""
+msgstr "Attacco Heat extra 1"
 
 msgctxt "2030\tSKILL"
 msgid "Komaki Fist Reversal"
-msgstr ""
+msgstr "Inversione pugno Komaki"
 
 msgctxt "2051\tSKILL"
 msgid "Komaki Firearm Flip"
-msgstr ""
+msgstr "Ribaltamento arma da fuoco Komaki"
 
 msgctxt "2071\tSKILL"
 msgid "Essence of Wreckage"
-msgstr ""
+msgstr "Essenza della distruzione"
 
 msgctxt "2091\tSKILL"
 msgid "Extra Heat Attack 2"
-msgstr ""
+msgstr "Attacco Heat extra 2"
 
 msgctxt "2111\tSKILL"
 msgid "Ultimate Essence"
@@ -394,15 +394,15 @@ msgstr "Essenza finale"
 
 msgctxt "2128\tSKILL"
 msgid "Komaki Cat-Like Reflexes"
-msgstr ""
+msgstr "Riflessi felini Komaki"
 
 msgctxt "2153\tSKILL"
 msgid "Komaki Dodge Shot"
-msgstr ""
+msgstr "Colpo in schivata Komaki"
 
 msgctxt "2171\tSKILL"
 msgid "Komaki Knock Back"
-msgstr ""
+msgstr "Respinta Komaki"
 
 msgctxt "2189\tSKILL"
 msgid "Komaki Tiger Drop"
@@ -410,31 +410,31 @@ msgstr "Tiger Drop Komaki"
 
 msgctxt "2207\tSKILL"
 msgid "Komaki Parry"
-msgstr ""
+msgstr "Parata Komaki"
 
 msgctxt "2220\tSKILL"
 msgid "Komaki Daruma Tumbler"
-msgstr ""
+msgstr "Capriola Daruma Komaki"
 
 msgctxt "2242\tSKILL"
 msgid "Komaki Fist Reversal"
-msgstr ""
+msgstr "Inversione pugno Komaki"
 
 msgctxt "2263\tSKILL"
 msgid "Komaki Firearm Flip"
-msgstr ""
+msgstr "Ribaltamento arma da fuoco Komaki"
 
 msgctxt "2283\tSKILL"
 msgid "Komaki Bowl Crusher"
-msgstr ""
+msgstr "Spaccacranio Komaki"
 
 msgctxt "2303\tSKILL"
 msgid "Komaki Swordless Rebirth"
-msgstr ""
+msgstr "Rinascita senz'arma Komaki"
 
 msgctxt "2328\tSKILL"
 msgid "Komaki Dragon King Essence"
-msgstr ""
+msgstr "Essenza del Re Drago Komaki"
 
 msgctxt "2355\tSKILL"
 msgid "Fist Weapons"
@@ -450,7 +450,7 @@ msgstr "Pausa fumo"
 
 msgctxt "2397\tSKILL"
 msgid "True Lotus Flare Fist"
-msgstr ""
+msgstr "Vero pugno del loto fiammeggiante"
 
 msgctxt "2419\tSKILL"
 msgid "Dragon God Defense"
@@ -462,11 +462,11 @@ msgstr "Spirito Asura"
 
 msgctxt "2451\tSKILL"
 msgid "Nunchaku"
-msgstr ""
+msgstr "Nunchaku"
 
 msgctxt "2460\tSKILL"
 msgid "Tonfa"
-msgstr ""
+msgstr "Tonfa"
 
 msgctxt "2466\tSKILL"
 msgid "Kali Sticks"
@@ -486,7 +486,7 @@ msgstr "Essenza della pole dance"
 
 msgctxt "2540\tSKILL"
 msgid "Super Finish: Knock Down"
-msgstr ""
+msgstr "Super mossa finale: Abbattimento"
 
 msgctxt "2565\tSKILL"
 msgid "Essence of Rolling"
@@ -510,7 +510,7 @@ msgstr "Essenza dell'affondo dell'ubriaco"
 
 msgctxt "2676\tSKILL"
 msgid "Super Finish: Hell's Gauntlet"
-msgstr ""
+msgstr "Super mossa finale: Guanto infernale"
 
 msgctxt "2706\tSKILL"
 msgid "Hidden Blade: Hook"
@@ -538,11 +538,11 @@ msgstr "Doppia spada corta: Lupo furbastro"
 
 msgctxt "2850\tSKILL"
 msgid "Terrain Essence"
-msgstr ""
+msgstr "Essenza del terreno"
 
 msgctxt "2866\tSKILL"
 msgid "Weapon Essence"
-msgstr ""
+msgstr "Essenza dell'arma"
 
 msgctxt "2881\tSKILL"
 msgid "Essence of Finishing"
@@ -558,7 +558,7 @@ msgstr "Essenza dell'oscillazione"
 
 msgctxt "2942\tSKILL"
 msgid "Essence of Fear"
-msgstr ""
+msgstr "Essenza della paura"
 
 msgctxt "2958\tSKILL"
 msgid "Essence of Head Bashing"
@@ -566,15 +566,15 @@ msgstr "Essenza della testata"
 
 msgctxt "2982\tSKILL"
 msgid "Komaki Fist Reversal"
-msgstr ""
+msgstr "Inversione pugno Komaki"
 
 msgctxt "3003\tSKILL"
 msgid "Komaki Firearm Flip"
-msgstr ""
+msgstr "Ribaltamento arma da fuoco Komaki"
 
 msgctxt "3023\tSKILL"
 msgid "Essence of Cornering"
-msgstr ""
+msgstr "Essenza dell'accerchiamento"
 
 msgctxt "3044\tSKILL"
 msgid "Ultimate Essence"
@@ -590,15 +590,15 @@ msgstr "Essenza del fumo"
 
 msgctxt "3097\tSKILL"
 msgid "Komaki Bowl Crusher"
-msgstr ""
+msgstr "Spaccacranio Komaki"
 
 msgctxt "3117\tSKILL"
 msgid "Komaki Swordless Rebirth"
-msgstr ""
+msgstr "Rinascita senz'arma Komaki"
 
 msgctxt "3142\tSKILL"
 msgid "Komaki Dragon King Essence"
-msgstr ""
+msgstr "Essenza del Re Drago Komaki"
 
 msgctxt "3169\tSKILL"
 msgid "Essence of Jumping"
@@ -634,15 +634,15 @@ msgstr "Essenza dell'affondo dell'ubriaco"
 
 msgctxt "3343\tSKILL"
 msgid "Super Finish: Head Press"
-msgstr ""
+msgstr "Super mossa finale: Schiacciata"
 
 msgctxt "3368\tSKILL"
 msgid "Super Finish: Knock Down"
-msgstr ""
+msgstr "Super mossa finale: Abbattimento"
 
 msgctxt "3393\tSKILL"
 msgid "Super Finish: Hell's Abyss"
-msgstr ""
+msgstr "Super mossa finale: Abisso infernale"
 
 msgctxt "3420\tSKILL"
 msgid "Hidden Blade: Hook"
@@ -666,7 +666,7 @@ msgstr "Mazza pesante: Scacciamosche"
 
 msgctxt "3537\tSKILL"
 msgid "Kodachi: Sly Wolf"
-msgstr ""
+msgstr "Kodachi: Lupo scaltro"
 
 msgctxt "3788\tTIMING"
 msgid "Soul"
@@ -846,83 +846,83 @@ msgstr "Furore"
 
 msgctxt "4008\tTIMING"
 msgid "Tech Lv. 2"
-msgstr ""
+msgstr "Livello Tecnica 2"
 
 msgctxt "4019\tTIMING"
 msgid "Tech Lv. 6"
-msgstr ""
+msgstr "Livello Tecnica 6"
 
 msgctxt "4030\tTIMING"
 msgid "From Komaki"
-msgstr ""
+msgstr "Da Komaki"
 
 msgctxt "4042\tTIMING"
 msgid "From Komaki"
-msgstr ""
+msgstr "Da Komaki"
 
 msgctxt "4054\tTIMING"
 msgid "From Komaki"
-msgstr ""
+msgstr "Da Komaki"
 
 msgctxt "4066\tTIMING"
 msgid "From Komaki"
-msgstr ""
+msgstr "Da Komaki"
 
 msgctxt "4078\tTIMING"
 msgid "Heat Lv. 7"
-msgstr ""
+msgstr "Livello Heat 7"
 
 msgctxt "4089\tTIMING"
 msgid "Heat Lv. 8"
-msgstr ""
+msgstr "Livello Heat 8"
 
 msgctxt "4100\tTIMING"
 msgid "From Komaki"
-msgstr ""
+msgstr "Da Komaki"
 
 msgctxt "4112\tTIMING"
 msgid "From Komaki"
-msgstr ""
+msgstr "Da Komaki"
 
 msgctxt "4124\tTIMING"
 msgid "From Komaki"
-msgstr ""
+msgstr "Da Komaki"
 
 msgctxt "4136\tTIMING"
 msgid "From IF7"
-msgstr ""
+msgstr "Da IF7"
 
 msgctxt "4145\tTIMING"
 msgid "From IF7"
-msgstr ""
+msgstr "Da IF7"
 
 msgctxt "4154\tTIMING"
 msgid "From IF7"
-msgstr ""
+msgstr "Da IF7"
 
 msgctxt "4163\tTIMING"
 msgid "From IF7"
-msgstr ""
+msgstr "Da IF7"
 
 msgctxt "4172\tTIMING"
 msgid "From IF7"
-msgstr ""
+msgstr "Da IF7"
 
 msgctxt "4181\tTIMING"
 msgid "From IF7"
-msgstr ""
+msgstr "Da IF7"
 
 msgctxt "4190\tTIMING"
 msgid "From Yonashiro"
-msgstr ""
+msgstr "Da Yonashiro"
 
 msgctxt "4205\tTIMING"
 msgid "From Yonashiro"
-msgstr ""
+msgstr "Da Yonashiro"
 
 msgctxt "4220\tTIMING"
 msgid "From Yonashiro"
-msgstr ""
+msgstr "Da Yonashiro"
 
 msgctxt "4235\tTIMING"
 msgid "Revelation"
@@ -990,59 +990,59 @@ msgstr "Dai Testi"
 
 msgctxt "4413\tTIMING"
 msgid "Heat Lv. 2"
-msgstr ""
+msgstr "Livello Heat 2"
 
 msgctxt "4424\tTIMING"
 msgid "Heat Lv. 3"
-msgstr ""
+msgstr "Livello Heat 3"
 
 msgctxt "4435\tTIMING"
 msgid "Heat Lv. 4"
-msgstr ""
+msgstr "Livello Heat 4"
 
 msgctxt "4446\tTIMING"
 msgid "Heat Lv. 5"
-msgstr ""
+msgstr "Livello Heat 5"
 
 msgctxt "4457\tTIMING"
 msgid "Heat Lv. 6"
-msgstr ""
+msgstr "Livello Heat 6"
 
 msgctxt "4468\tTIMING"
 msgid "Heat Lv. 7"
-msgstr ""
+msgstr "Livello Heat 7"
 
 msgctxt "4479\tTIMING"
 msgid "Heat Lv. 8"
-msgstr ""
+msgstr "Livello Heat 8"
 
 msgctxt "4490\tTIMING"
 msgid "Heat Lv. 9"
-msgstr ""
+msgstr "Livello Heat 9"
 
 msgctxt "4501\tTIMING"
 msgid "Heat Lv. 10"
-msgstr ""
+msgstr "Livello Heat 10"
 
 msgctxt "4513\tTIMING"
 msgid "From IF7"
-msgstr ""
+msgstr "Da IF7"
 
 msgctxt "4522\tTIMING"
 msgid "From IF7"
-msgstr ""
+msgstr "Da IF7"
 
 msgctxt "4531\tTIMING"
 msgid "From Komaki"
-msgstr ""
+msgstr "Da Komaki"
 
 msgctxt "4543\tTIMING"
 msgid "From Komaki"
-msgstr ""
+msgstr "Da Komaki"
 
 msgctxt "4555\tTIMING"
 msgid "From Komaki"
-msgstr ""
+msgstr "Da Komaki"
 
 msgctxt "4567\tTIMING"
 msgid "Revelation"
@@ -1404,7 +1404,7 @@ msgstr ""
 
 msgctxt "9447\tEXPLANATION"
 msgid "Increases the maximum limit of your Heat Gauge."
-msgstr ""
+msgstr "Aumenta il limite massimo del tuo indicatore Heat."
 
 msgctxt "9495\tEXPLANATION"
 msgid ""
@@ -1556,7 +1556,7 @@ msgstr ""
 
 msgctxt "11136\tEXPLANATION"
 msgid "Increases the maximum limit of your health gauge."
-msgstr ""
+msgstr "Aumenta il limite massimo del tuo indicatore di salute."
 
 msgctxt "11186\tEXPLANATION"
 msgid ""
@@ -1580,7 +1580,7 @@ msgstr ""
 
 msgctxt "11378\tEXPLANATION"
 msgid "Increases the power of throws."
-msgstr ""
+msgstr "Aumenta la potenza dei lanci."
 
 msgctxt "11409\tEXPLANATION"
 msgid "Stand up faster after being knocked down."
@@ -1688,7 +1688,7 @@ msgstr ""
 
 msgctxt "12729\tEXPLANATION"
 msgid "An attack with immense power that belies its simplicity."
-msgstr ""
+msgstr "Un attacco dall'immensa potenza che smentisce la sua semplicità."
 "Un attacco con una potenza immensa che smentisce\n"
 "la sua apparente semplicità."
 
@@ -2012,7 +2012,7 @@ msgstr ""
 
 msgctxt "16939\tEXPLANATION"
 msgid "An attack with immense power that belies its simplicity."
-msgstr ""
+msgstr "Un attacco dall'immensa potenza che smentisce la sua semplicità."
 "Un attacco con una potenza immensa che smentisce\n"
 "la sua apparente semplicità."
 
@@ -2102,7 +2102,7 @@ msgstr ""
 
 msgctxt "18224\tEXPLANATION"
 msgid "A basic combo for cornering strong enemies."
-msgstr ""
+msgstr "Una combo base per mettere all'angolo i nemici forti."
 
 msgctxt "18268\tEXPLANATION"
 msgid ""
@@ -2171,7 +2171,7 @@ msgstr ""
 
 msgctxt "19264\tCONTROL_EXPLANATION"
 msgid "<Action:Battle_Fight_Stance@Combat>"
-msgstr ""
+msgstr "<Action:Battle_Fight_Stance@Combat>"
 
 msgctxt "19300\tCONTROL_EXPLANATION"
 msgid "<Action:Battle_Drop_Weapon@Combat> near an enemy"
@@ -2179,12 +2179,12 @@ msgstr "<Action:Battle_Drop_Weapon@Combat> vicino a un nemico"
 
 msgctxt "19349\tCONTROL_EXPLANATION"
 msgid "<Action:Battle_Drop_Weapon@Combat> towards a downed enemy's legs"
-msgstr ""
+msgstr "<Action:Battle_Drop_Weapon@Combat> verso le gambe di un nemico a terra"
 "<Action:Battle_Drop_Weapon@Combat> verso le gambe di un nemico a terra"
 
 msgctxt "19414\tCONTROL_EXPLANATION"
 msgid "<Action:Battle_Drop_Weapon@Combat> towards a downed enemy's head"
-msgstr ""
+msgstr "<Action:Battle_Drop_Weapon@Combat> verso la testa di un nemico a terra"
 "<Action:Battle_Drop_Weapon@Combat> verso la testa di un nemico a terra"
 
 msgctxt "19479\tCONTROL_EXPLANATION"
@@ -2197,15 +2197,15 @@ msgstr ""
 
 msgctxt "19573\tCONTROL_EXPLANATION"
 msgid "<Action:Battle_Guard@Combat>"
-msgstr ""
+msgstr "<Action:Battle_Guard@Combat>"
 
 msgctxt "19602\tCONTROL_EXPLANATION"
 msgid "<Action:Battle_Guard@Combat>"
-msgstr ""
+msgstr "<Action:Battle_Guard@Combat>"
 
 msgctxt "19631\tCONTROL_EXPLANATION"
 msgid "<Action:Battle_Dodge@Combat>"
-msgstr ""
+msgstr "<Action:Battle_Dodge@Combat>"
 
 msgctxt "19660\tCONTROL_EXPLANATION"
 msgid "Repeat last button in certain attacks"
@@ -2222,7 +2222,7 @@ msgstr ""
 
 msgctxt "19902\tCONTROL_EXPLANATION"
 msgid "<Action:Battle_Center_Camera@Combat>"
-msgstr ""
+msgstr "<Action:Battle_Center_Camera@Combat>"
 
 msgctxt "19939\tCONTROL_EXPLANATION"
 msgid "Repeatedly press <Action:Battle_Normal_Attack@Combat>"
@@ -2242,7 +2242,7 @@ msgstr ""
 
 msgctxt "20186\tCONTROL_EXPLANATION"
 msgid "<Action:Battle_Heavy_Attack@Combat>"
-msgstr ""
+msgstr "<Action:Battle_Heavy_Attack@Combat>"
 
 msgctxt "20222\tCONTROL_EXPLANATION"
 msgid "Hold <Action:Battle_Heavy_Attack@Combat>"
@@ -2270,7 +2270,7 @@ msgstr ""
 
 msgctxt "20493\tCONTROL_EXPLANATION"
 msgid "<Action:Battle_Normal_Attack@Combat> when grabbed/grabbing"
-msgstr ""
+msgstr "<Action:Battle_Normal_Attack@Combat> quando si afferra o si è afferrati"
 "<Action:Battle_Normal_Attack@Combat> quando sei afferrato/stai afferrando"
 
 msgctxt "20552\tCONTROL_EXPLANATION"
@@ -2387,7 +2387,7 @@ msgstr "Spara usando <Action:Battle_Heavy_Attack@Combat>"
 
 msgctxt "22462\tCONTROL_EXPLANATION"
 msgid "Enhances Heat Gauge"
-msgstr ""
+msgstr "Migliora l'indicatore Heat"
 
 msgctxt "22482\tCONTROL_EXPLANATION"
 msgid ""
@@ -2427,13 +2427,13 @@ msgstr ""
 
 msgctxt "22862\tCONTROL_EXPLANATION"
 msgid "<Action:Battle_Dodge@Combat> to Quickstep when not in Heat mode"
-msgstr ""
+msgstr "<Action:Battle_Dodge@Combat> per il Passo rapido non in modalità Heat"
 "<Action:Battle_Dodge@Combat> per fare il Passo Rapido quando non sei in "
 "Modalità Furore"
 
 msgctxt "22926\tCONTROL_EXPLANATION"
 msgid "Hold <Action:Battle_Extreme_Heat@Combat> when close to an enemy"
-msgstr ""
+msgstr "Tieni premuto <Action:Battle_Extreme_Heat@Combat> vicino a un nemico"
 "Tieni premuto <Action:Battle_Extreme_Heat@Combat> quando sei vicino a un "
 "nemico"
 
@@ -2451,7 +2451,7 @@ msgstr "Migliora tutte le azioni"
 
 msgctxt "23125\tCONTROL_EXPLANATION"
 msgid "Hold <Action:Battle_Heavy_Attack@Combat> longer than a Charge Kick"
-msgstr ""
+msgstr "Tieni premuto <Action:Battle_Heavy_Attack@Combat> più di un Calcio caricato"
 "Tieni premuto <Action:Battle_Heavy_Attack@Combat> più a lungo che per un "
 "Calcio Caricato"
 
@@ -2465,7 +2465,7 @@ msgstr "<Action:Battle_Heavy_Attack@Combat> durante il Passo Rapido"
 
 msgctxt "23307\tCONTROL_EXPLANATION"
 msgid "Mainly accelerates unarmed attacks"
-msgstr ""
+msgstr "Accelera principalmente gli attacchi a mani nude"
 
 msgctxt "23342\tCONTROL_EXPLANATION"
 msgid ""
@@ -2475,24 +2475,24 @@ msgstr ""
 
 msgctxt "23416\tCONTROL_EXPLANATION"
 msgid "<Action:Battle_Drop_Weapon@Combat> after a Finishing Blow in Heat mode"
-msgstr ""
+msgstr "<Action:Battle_Drop_Weapon@Combat> dopo un Colpo finale in mod. Heat"
 
 msgctxt "23487\tCONTROL_EXPLANATION"
 msgid "Repeatedly tap <Action:Battle_Drop_Weapon@Combat> when surrounded"
-msgstr ""
+msgstr "Premi ripetutamente <Action:Battle_Drop_Weapon@Combat> se circondato"
 "Premi ripetutamente <Action:Battle_Drop_Weapon@Combat> quando sei afferrato"
 
 msgctxt "23553\tCONTROL_EXPLANATION"
 msgid "Mainly accelerates unarmed attacks"
-msgstr ""
+msgstr "Accelera principalmente gli attacchi a mani nude"
 
 msgctxt "23588\tCONTROL_EXPLANATION"
 msgid "<Action:Battle_Dodge@Combat> during Rush Combo when not in Heat mode"
-msgstr ""
+msgstr "<Action:Battle_Dodge@Combat> durante Combo rapida non in mod. Heat"
 
 msgctxt "23657\tCONTROL_EXPLANATION"
 msgid "Enhances health gauge"
-msgstr ""
+msgstr "Migliora l'indicatore della salute"
 
 msgctxt "23679\tCONTROL_EXPLANATION"
 msgid "Repeatedly tap <Action:Battle_Dodge@Combat> when grabbed"
@@ -2500,7 +2500,7 @@ msgstr "Premi ripetutamente <Action:Battle_Dodge@Combat> quando sei afferrato"
 
 msgctxt "23736\tCONTROL_EXPLANATION"
 msgid "Tap <Action:Battle_Dodge@Combat> as fast as possible"
-msgstr ""
+msgstr "Premi <Action:Battle_Dodge@Combat> il più velocemente possibile"
 
 msgctxt "23789\tCONTROL_EXPLANATION"
 msgid "<Action:Battle_Guard@Combat> when your guard is broken"
@@ -2512,7 +2512,7 @@ msgstr "Afferra il nemico e premi <Action:Battle_Drop_Weapon@Combat>"
 
 msgctxt "23900\tCONTROL_EXPLANATION"
 msgid "Tap <Action:Battle_Dodge@Combat> as fast as possible"
-msgstr ""
+msgstr "Premi <Action:Battle_Dodge@Combat> il più velocemente possibile"
 
 msgctxt "23953\tCONTROL_EXPLANATION"
 msgid "Repeatedly tap <Action:Battle_Dodge@Combat> when grabbed"
@@ -2524,15 +2524,15 @@ msgstr "Afferra il nemico e premi <Action:Battle_Drop_Weapon@Combat>"
 
 msgctxt "24066\tCONTROL_EXPLANATION"
 msgid "Adds red section to Heat Gauge"
-msgstr ""
+msgstr "Aggiunge la sezione rossa all'indicatore Heat"
 
 msgctxt "24097\tCONTROL_EXPLANATION"
 msgid "Adds second red section to Heat Gauge"
-msgstr ""
+msgstr "Aggiunge una seconda sezione rossa all'indicatore Heat"
 
 msgctxt "24135\tCONTROL_EXPLANATION"
 msgid "Adds a third red section to Heat Gauge"
-msgstr ""
+msgstr "Aggiunge una terza sezione rossa all'indicatore Heat"
 
 msgctxt "24174\tCONTROL_EXPLANATION"
 msgid ""
@@ -2580,7 +2580,7 @@ msgstr ""
 
 msgctxt "24799\tCONTROL_EXPLANATION"
 msgid "<Color:109,193,240,255>Press the button displayed<Color:Default>"
-msgstr ""
+msgstr "<Color:109,193,240,255>Premi il pulsante visualizzato<Color:Default>"
 
 msgctxt "24864\tCONTROL_EXPLANATION"
 msgid ""
@@ -2610,7 +2610,7 @@ msgstr ""
 
 msgctxt "25234\tCONTROL_EXPLANATION"
 msgid "<Color:109,193,240,255>Press the button displayed<Color:Default>"
-msgstr ""
+msgstr "<Color:109,193,240,255>Premi il pulsante visualizzato<Color:Default>"
 
 msgctxt "25299\tCONTROL_EXPLANATION"
 msgid ""
@@ -2720,7 +2720,7 @@ msgstr "Premi <Action:Battle_Hide_Weapon@Combat> mentre sei disarmato."
 
 msgctxt "26735\tCONTROL_EXPLANATION"
 msgid "Hold <Action:Battle_Heavy_Attack@Combat> when using Lotus Flare Fist"
-msgstr ""
+msgstr "Tieni premuto <Action:Battle_Heavy_Attack@Combat> usando il Pugno del loto fiammeggiante"
 
 msgctxt "26804\tCONTROL_EXPLANATION"
 msgid "<Action:Battle_Guard@Combat> when in Heat mode"

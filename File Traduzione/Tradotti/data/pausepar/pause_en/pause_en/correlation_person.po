@@ -14,11 +14,11 @@ msgstr ""
 
 msgctxt "530\tGROUP"
 msgid "Kiryu's Ally"
-msgstr ""
+msgstr "Alleato di Kiryu"
 
 msgctxt "545\tGROUP"
 msgid "People of Okinawa"
-msgstr ""
+msgstr "Abitanti di Okinawa"
 
 msgctxt "565\tGROUP"
 msgid "Tojo Clan"
@@ -34,15 +34,15 @@ msgstr "Clan Tojo"
 
 msgctxt "605\tGROUP"
 msgid "Politicians"
-msgstr ""
+msgstr "Politici"
 
 msgctxt "619\tGROUP"
 msgid "Unknown Individual"
-msgstr ""
+msgstr "Individuo sconosciuto"
 
 msgctxt "639\tGROUP"
 msgid "]CIA"
-msgstr ""
+msgstr "]CIA"
 
 msgctxt "646\tGROUP"
 msgid "Snake Flower Triad"
@@ -50,19 +50,19 @@ msgstr "Triade del Fiore di Serpente"
 
 msgctxt "667\tDIAGRAM_GROUP"
 msgid "Kiryu"
-msgstr ""
+msgstr "Kiryu"
 
 msgctxt "675\tDIAGRAM_GROUP"
 msgid "Haruka"
-msgstr ""
+msgstr "Haruka"
 
 msgctxt "684\tDIAGRAM_GROUP"
 msgid "Sayama"
-msgstr ""
+msgstr "Sayama"
 
 msgctxt "693\tDIAGRAM_GROUP"
 msgid "Tokyo PD"
-msgstr ""
+msgstr "Polizia di Tokyo"
 
 msgctxt "704\tDIAGRAM_GROUP"
 msgid "People of Kamurocho"
@@ -70,15 +70,15 @@ msgstr "Abitanti di Kamurocho"
 
 msgctxt "726\tDIAGRAM_GROUP"
 msgid "Morning Glory"
-msgstr ""
+msgstr "Orfanotrofio Morning Glory"
 
 msgctxt "742\tDIAGRAM_GROUP"
 msgid "Ryudo Family"
-msgstr ""
+msgstr "Famiglia Ryudo"
 
 msgctxt "757\tDIAGRAM_GROUP"
 msgid "Tamashiro Family"
-msgstr ""
+msgstr "Famiglia Tamashiro"
 
 msgctxt "776\tDIAGRAM_GROUP"
 msgid "Tojo Clan"
@@ -90,31 +90,31 @@ msgstr "Famiglia Majima"
 
 msgctxt "804\tDIAGRAM_GROUP"
 msgid "Kazama Family"
-msgstr ""
+msgstr "Famiglia Kazama"
 
 msgctxt "820\tDIAGRAM_GROUP"
 msgid "Nishikiyama Family"
-msgstr ""
+msgstr "Famiglia Nishikiyama"
 
 msgctxt "841\tDIAGRAM_GROUP"
 msgid "Hakuho Clan"
-msgstr ""
+msgstr "Clan Hakuho"
 
 msgctxt "855\tDIAGRAM_GROUP"
 msgid "Hamazaki Family"
-msgstr ""
+msgstr "Famiglia Hamazaki"
 
 msgctxt "873\tDIAGRAM_GROUP"
 msgid "Citizens' Liberal Party"
-msgstr ""
+msgstr "Partito Liberale dei Cittadini"
 
 msgctxt "899\tDIAGRAM_GROUP"
 msgid "Unknown Individual"
-msgstr ""
+msgstr "Individuo sconosciuto"
 
 msgctxt "919\tDIAGRAM_GROUP"
 msgid "]CIA"
-msgstr ""
+msgstr "]CIA"
 
 msgctxt "926\tDIAGRAM_GROUP"
 msgid "Snake Flower Triad"
@@ -122,43 +122,43 @@ msgstr "Triade del Fiore di Serpente"
 
 msgctxt "947\tNAME"
 msgid "Kazuma Kiryu"
-msgstr ""
+msgstr "Kazuma Kiryu"
 
 msgctxt "962\tNAME"
 msgid "Haruka Sawamura"
-msgstr ""
+msgstr "Haruka Sawamura"
 
 msgctxt "980\tNAME"
 msgid "Kaoru Sayama"
-msgstr ""
+msgstr "Kaoru Sayama"
 
 msgctxt "995\tNAME"
 msgid "Junichi Sudo"
-msgstr ""
+msgstr "Junichi Sudo"
 
 msgctxt "1010\tNAME"
 msgid "Makoto Date"
-msgstr ""
+msgstr "Makoto Date"
 
 msgctxt "1024\tNAME"
 msgid "Wakazo"
-msgstr ""
+msgstr "Wakazo"
 
 msgctxt "1033\tNAME"
 msgid "Emoto"
-msgstr ""
+msgstr "Emoto"
 
 msgctxt "1041\tNAME"
 msgid "Mama"
-msgstr ""
+msgstr "Mama"
 
 msgctxt "1048\tNAME"
 msgid "Yuya"
-msgstr ""
+msgstr "Yuya"
 
 msgctxt "1055\tNAME"
 msgid "Kazuki"
-msgstr ""
+msgstr "Kazuki"
 
 msgctxt "1064\tNAME"
 msgid "The Florist of Sai"
@@ -166,95 +166,95 @@ msgstr "Il fioraio di Sai"
 
 msgctxt "1085\tNAME"
 msgid "Taichi"
-msgstr ""
+msgstr "Taichi"
 
 msgctxt "1094\tNAME"
 msgid "Koji"
-msgstr ""
+msgstr "Koji"
 
 msgctxt "1101\tNAME"
 msgid "Mitsuo"
-msgstr ""
+msgstr "Mitsuo"
 
 msgctxt "1110\tNAME"
 msgid "Shiro"
-msgstr ""
+msgstr "Shiro"
 
 msgctxt "1118\tNAME"
 msgid "Ayako"
-msgstr ""
+msgstr "Ayako"
 
 msgctxt "1126\tNAME"
 msgid "Izumi"
-msgstr ""
+msgstr "Izumi"
 
 msgctxt "1134\tNAME"
 msgid "Riona"
-msgstr ""
+msgstr "Riona"
 
 msgctxt "1142\tNAME"
 msgid "Eri"
-msgstr ""
+msgstr "Eri"
 
 msgctxt "1148\tNAME"
 msgid "Shigeru Nakahara"
-msgstr ""
+msgstr "Shigeru Nakahara"
 
 msgctxt "1167\tNAME"
 msgid "Rikiya Shimabukuro"
-msgstr ""
+msgstr "Rikiya Shimabukuro"
 
 msgctxt "1188\tNAME"
 msgid "Mikio"
-msgstr ""
+msgstr "Mikio"
 
 msgctxt "1196\tNAME"
 msgid "Saki"
-msgstr ""
+msgstr "Saki"
 
 msgctxt "1203\tNAME"
 msgid "Tetsuo Tamashiro"
-msgstr ""
+msgstr "Tetsuo Tamashiro"
 
 msgctxt "1222\tNAME"
 msgid "Daigo Dojima"
-msgstr ""
+msgstr "Daigo Dojima"
 
 msgctxt "1237\tNAME"
 msgid "Goro Majima"
-msgstr ""
+msgstr "Goro Majima"
 
 msgctxt "1251\tNAME"
 msgid "Osamu Kashiwagi"
-msgstr ""
+msgstr "Osamu Kashiwagi"
 
 msgctxt "1269\tNAME"
 msgid "Tsuyoshi Kanda"
-msgstr ""
+msgstr "Tsuyoshi Kanda"
 
 msgctxt "1286\tNAME"
 msgid "Hasebe"
-msgstr ""
+msgstr "Hasebe"
 
 msgctxt "1295\tNAME"
 msgid "Yoshitaka Mine"
-msgstr ""
+msgstr "Yoshitaka Mine"
 
 msgctxt "1312\tNAME"
 msgid "Goh Hamazaki"
-msgstr ""
+msgstr "Goh Hamazaki"
 
 msgctxt "1327\tNAME"
 msgid "Ryuzo Tamiya"
-msgstr ""
+msgstr "Ryuzo Tamiya"
 
 msgctxt "1342\tNAME"
 msgid "Yoshinobu Suzuki"
-msgstr ""
+msgstr "Yoshinobu Suzuki"
 
 msgctxt "1361\tNAME"
 msgid "Shoyo Toma"
-msgstr ""
+msgstr "Shoyo Toma"
 
 msgctxt "1374\tNAME"
 msgid "Dummy"
@@ -266,11 +266,11 @@ msgstr "Sconosciuto"
 
 msgctxt "1393\tNAME"
 msgid "Foreigner"
-msgstr ""
+msgstr "Straniero"
 
 msgctxt "1405\tNAME"
 msgid "Joji Kazama"
-msgstr ""
+msgstr "Joji Kazama"
 
 msgctxt "1418\tNAME"
 msgid "cCIA Agent"
@@ -278,47 +278,47 @@ msgstr "Agente della CIA"
 
 msgctxt "1431\tNAME"
 msgid "Lau Ka Long"
-msgstr ""
+msgstr "Lau Ka Long"
 
 msgctxt "1445\tNAME_SHORT"
 msgid "Kiryu"
-msgstr ""
+msgstr "Kiryu"
 
 msgctxt "1453\tNAME_SHORT"
 msgid "Haruka"
-msgstr ""
+msgstr "Haruka"
 
 msgctxt "1462\tNAME_SHORT"
 msgid "Sayama"
-msgstr ""
+msgstr "Sayama"
 
 msgctxt "1471\tNAME_SHORT"
 msgid "Sudo"
-msgstr ""
+msgstr "Sudo"
 
 msgctxt "1478\tNAME_SHORT"
 msgid "Date"
-msgstr ""
+msgstr "Date"
 
 msgctxt "1485\tNAME_SHORT"
 msgid "Wakazo"
-msgstr ""
+msgstr "Wakazo"
 
 msgctxt "1494\tNAME_SHORT"
 msgid "Emoto"
-msgstr ""
+msgstr "Emoto"
 
 msgctxt "1502\tNAME_SHORT"
 msgid "Mama"
-msgstr ""
+msgstr "Mama"
 
 msgctxt "1509\tNAME_SHORT"
 msgid "Yuya"
-msgstr ""
+msgstr "Yuya"
 
 msgctxt "1516\tNAME_SHORT"
 msgid "Kazuki"
-msgstr ""
+msgstr "Kazuki"
 
 msgctxt "1525\tNAME_SHORT"
 msgid "The Florist"
@@ -326,99 +326,99 @@ msgstr "Il fioraio"
 
 msgctxt "1539\tNAME_SHORT"
 msgid "Taichi"
-msgstr ""
+msgstr "Taichi"
 
 msgctxt "1548\tNAME_SHORT"
 msgid "Koji"
-msgstr ""
+msgstr "Koji"
 
 msgctxt "1555\tNAME_SHORT"
 msgid "Mitsuo"
-msgstr ""
+msgstr "Mitsuo"
 
 msgctxt "1564\tNAME_SHORT"
 msgid "Shiro"
-msgstr ""
+msgstr "Shiro"
 
 msgctxt "1572\tNAME_SHORT"
 msgid "Ayako"
-msgstr ""
+msgstr "Ayako"
 
 msgctxt "1580\tNAME_SHORT"
 msgid "Izumi"
-msgstr ""
+msgstr "Izumi"
 
 msgctxt "1588\tNAME_SHORT"
 msgid "Riona"
-msgstr ""
+msgstr "Riona"
 
 msgctxt "1596\tNAME_SHORT"
 msgid "Eri"
-msgstr ""
+msgstr "Eri"
 
 msgctxt "1602\tNAME_SHORT"
 msgid "Nakahara"
-msgstr ""
+msgstr "Nakahara"
 
 msgctxt "1613\tNAME_SHORT"
 msgid "Rikiya"
-msgstr ""
+msgstr "Rikiya"
 
 msgctxt "1622\tNAME_SHORT"
 msgid "Mikio"
-msgstr ""
+msgstr "Mikio"
 
 msgctxt "1630\tNAME_SHORT"
 msgid "Saki"
-msgstr ""
+msgstr "Saki"
 
 msgctxt "1637\tNAME_SHORT"
 msgid "Tamashiro"
-msgstr ""
+msgstr "Tamashiro"
 
 msgctxt "1649\tNAME_SHORT"
 msgid "Daigo"
-msgstr ""
+msgstr "Daigo"
 
 msgctxt "1657\tNAME_SHORT"
 msgid "Majima"
-msgstr ""
+msgstr "Majima"
 
 msgctxt "1666\tNAME_SHORT"
 msgid "Kashiwagi"
-msgstr ""
+msgstr "Kashiwagi"
 
 msgctxt "1678\tNAME_SHORT"
 msgid "Kanda"
-msgstr ""
+msgstr "Kanda"
 
 msgctxt "1686\tNAME_SHORT"
 msgid "Hasebe"
-msgstr ""
+msgstr "Hasebe"
 
 msgctxt "1695\tNAME_SHORT"
 msgid "Mine"
-msgstr ""
+msgstr "Mine"
 
 msgctxt "1702\tNAME_SHORT"
 msgid "Hamazaki"
-msgstr ""
+msgstr "Hamazaki"
 
 msgctxt "1713\tNAME_SHORT"
 msgid "Tamiya"
-msgstr ""
+msgstr "Tamiya"
 
 msgctxt "1722\tNAME_SHORT"
 msgid "Suzuki"
-msgstr ""
+msgstr "Suzuki"
 
 msgctxt "1731\tNAME_SHORT"
 msgid "Toma"
-msgstr ""
+msgstr "Toma"
 
 msgctxt "1737\tNAME_SHORT"
 msgid "Wdummy_DLP"
-msgstr ""
+msgstr "Wdummy_DLP"
 
 msgctxt "1750\tNAME_SHORT"
 msgid "Stranger"
@@ -426,11 +426,11 @@ msgstr "Sconosciuto"
 
 msgctxt "1761\tNAME_SHORT"
 msgid "Foreigner"
-msgstr ""
+msgstr "Straniero"
 
 msgctxt "1773\tNAME_SHORT"
 msgid "Kazama"
-msgstr ""
+msgstr "Kazama"
 
 msgctxt "1781\tNAME_SHORT"
 msgid "cCIA Agent"
@@ -438,7 +438,7 @@ msgstr "Agente della CIA"
 
 msgctxt "1794\tNAME_SHORT"
 msgid "Lau"
-msgstr ""
+msgstr "Lau"
 
 msgctxt "11975\tEXPLANATION"
 msgid ""
@@ -2506,7 +2506,7 @@ msgstr ""
 
 msgctxt "95042\tEXPLANATION"
 msgid "Lead Detective, Osaka Prefectural Police"
-msgstr ""
+msgstr "Ispettore Capo della Polizia della Prefettura di Osaka"
 
 msgctxt "95085\tEXPLANATION"
 msgid ""
@@ -2581,7 +2581,7 @@ msgstr ""
 
 msgctxt "97744\tEXPLANATION"
 msgid "Division Chief, Kamurocho Police"
-msgstr ""
+msgstr "Capo Divisione della Polizia di Kamurocho"
 
 msgctxt "97779\tEXPLANATION"
 msgid ""
@@ -2604,7 +2604,7 @@ msgstr ""
 
 msgctxt "98454\tEXPLANATION"
 msgid "Former Detective, Kamurocho Police"
-msgstr ""
+msgstr "Ex Detective della Polizia di Kamurocho"
 
 msgctxt "98491\tEXPLANATION"
 msgid ""
@@ -2962,7 +2962,7 @@ msgstr ""
 
 msgctxt "112020\tEXPLANATION"
 msgid "Keihin News Desk Worker"
-msgstr ""
+msgstr "Giornalista del Keihin News"
 
 msgctxt "112046\tEXPLANATION"
 msgid ""
@@ -3029,7 +3029,7 @@ msgstr ""
 
 msgctxt "113972\tEXPLANATION"
 msgid "Emoto Medical Clinic Owner"
-msgstr ""
+msgstr "Proprietario della Clinica Medica Emoto"
 
 msgctxt "114001\tEXPLANATION"
 msgid ""
@@ -3041,7 +3041,7 @@ msgstr ""
 
 msgctxt "114292\tEXPLANATION"
 msgid "Serena Owner"
-msgstr ""
+msgstr "Proprietario del Serena"
 
 msgctxt "114307\tEXPLANATION"
 msgid ""
@@ -3136,7 +3136,7 @@ msgstr ""
 
 msgctxt "117801\tEXPLANATION"
 msgid "Stardust Manager"
-msgstr ""
+msgstr "Manager dello Stardust"
 
 msgctxt "117820\tEXPLANATION"
 msgid ""
@@ -3185,7 +3185,7 @@ msgstr ""
 
 msgctxt "119306\tEXPLANATION"
 msgid "Stardust Owner"
-msgstr ""
+msgstr "Proprietario dello Stardust"
 
 msgctxt "119323\tEXPLANATION"
 msgid ""
@@ -3244,7 +3244,7 @@ msgstr ""
 
 msgctxt "121195\tEXPLANATION"
 msgid "Purgatory Tipster"
-msgstr ""
+msgstr "Informatore del Purgatorio"
 
 msgctxt "121215\tEXPLANATION"
 msgid ""
@@ -3285,7 +3285,7 @@ msgstr ""
 
 msgctxt "122523\tEXPLANATION"
 msgid "Morning Glory Orphan Boy"
-msgstr ""
+msgstr "Bambino dell'orfanotrofio Morning Glory"
 
 msgctxt "122550\tEXPLANATION"
 msgid ""
@@ -3609,7 +3609,7 @@ msgstr ""
 
 msgctxt "133583\tEXPLANATION"
 msgid "Morning Glory Orphan Boy"
-msgstr ""
+msgstr "Bambino dell'orfanotrofio Morning Glory"
 
 msgctxt "133610\tEXPLANATION"
 msgid ""
@@ -3825,7 +3825,7 @@ msgstr ""
 
 msgctxt "139753\tEXPLANATION"
 msgid "Morning Glory Orphan Boy"
-msgstr ""
+msgstr "Bambino dell'orfanotrofio Morning Glory"
 
 msgctxt "139780\tEXPLANATION"
 msgid ""
@@ -4147,7 +4147,7 @@ msgstr ""
 
 msgctxt "151853\tEXPLANATION"
 msgid "Morning Glory Orphan Boy"
-msgstr ""
+msgstr "Bambino dell'orfanotrofio Morning Glory"
 
 msgctxt "151880\tEXPLANATION"
 msgid ""
@@ -4449,7 +4449,7 @@ msgstr ""
 
 msgctxt "163652\tEXPLANATION"
 msgid "Morning Glory Orphan Girl"
-msgstr ""
+msgstr "Bambina dell'orfanotrofio Morning Glory"
 
 msgctxt "163680\tEXPLANATION"
 msgid ""
@@ -4681,7 +4681,7 @@ msgstr ""
 
 msgctxt "170946\tEXPLANATION"
 msgid "Morning Glory Orphan Girl"
-msgstr ""
+msgstr "Bambina dell'orfanotrofio Morning Glory"
 
 msgctxt "170974\tEXPLANATION"
 msgid ""
@@ -5010,7 +5010,7 @@ msgstr ""
 
 msgctxt "181667\tEXPLANATION"
 msgid "Morning Glory Orphan Girl"
-msgstr ""
+msgstr "Bambina dell'orfanotrofio Morning Glory"
 
 msgctxt "181695\tEXPLANATION"
 msgid ""
@@ -5241,7 +5241,7 @@ msgstr ""
 
 msgctxt "190285\tEXPLANATION"
 msgid "Morning Glory Orphan Girl"
-msgstr ""
+msgstr "Bambina dell'orfanotrofio Morning Glory"
 
 msgctxt "190313\tEXPLANATION"
 msgid ""
@@ -5396,7 +5396,7 @@ msgstr ""
 
 msgctxt "194262\tEXPLANATION"
 msgid "Ryudo Family Patriarch"
-msgstr ""
+msgstr "Patriarca della Famiglia Ryudo"
 
 msgctxt "194287\tEXPLANATION"
 msgid ""
@@ -5511,7 +5511,7 @@ msgstr ""
 
 msgctxt "198880\tEXPLANATION"
 msgid "Ryudo Family Captain"
-msgstr ""
+msgstr "Capitano della Famiglia Ryudo"
 
 msgctxt "198903\tEXPLANATION"
 msgid ""
@@ -6469,7 +6469,7 @@ msgstr ""
 
 msgctxt "235342\tEXPLANATION"
 msgid "Ryudo Family Member"
-msgstr ""
+msgstr "Membro della Famiglia Ryudo"
 
 msgctxt "235364\tEXPLANATION"
 msgid ""
@@ -6967,11 +6967,11 @@ msgstr ""
 
 msgctxt "255033\tEXPLANATION"
 msgid "Nakahara's Adopted Daughter"
-msgstr ""
+msgstr "Figlia adottiva di Nakahara"
 
 msgctxt "255063\tEXPLANATION"
 msgid "Nakahara's Adopted Daughter, Loves Drawing"
-msgstr ""
+msgstr "Figlia adottiva di Nakahara, ama disegnare"
 
 msgctxt "255108\tEXPLANATION"
 msgid ""
@@ -7174,7 +7174,7 @@ msgstr ""
 
 msgctxt "262863\tEXPLANATION"
 msgid "Tamashiro Family Patriarch"
-msgstr ""
+msgstr "Patriarca della Famiglia Tamashiro"
 
 msgctxt "262892\tEXPLANATION"
 msgid ""
@@ -7243,7 +7243,7 @@ msgstr ""
 
 msgctxt "265555\tEXPLANATION"
 msgid "Tojo Clan Sixth Chairman."
-msgstr ""
+msgstr "Sesto Presidente del Clan Tojo."
 
 msgctxt "265583\tEXPLANATION"
 msgid ""
@@ -7450,7 +7450,7 @@ msgstr ""
 
 msgctxt "273808\tEXPLANATION"
 msgid "Kazama Family Patriarch"
-msgstr ""
+msgstr "Patriarca della Famiglia Kazama"
 
 msgctxt "273834\tEXPLANATION"
 msgid ""
@@ -7490,7 +7490,7 @@ msgstr ""
 
 msgctxt "275210\tEXPLANATION"
 msgid "Nishikiyama Family Patriarch, Tojo Clan Lieutenant"
-msgstr ""
+msgstr "Patriarca della Famiglia Nishikiyama, Tenente del Clan Tojo"
 
 msgctxt "275263\tEXPLANATION"
 msgid ""
@@ -7567,7 +7567,7 @@ msgstr ""
 
 msgctxt "277939\tEXPLANATION"
 msgid "Nishikiyama Family Captain"
-msgstr ""
+msgstr "Capitano della Famiglia Nishikiyama"
 
 msgctxt "277968\tEXPLANATION"
 msgid ""
@@ -7598,7 +7598,7 @@ msgstr ""
 
 msgctxt "278982\tEXPLANATION"
 msgid "Hakuho Clan Chairman"
-msgstr ""
+msgstr "Presidente del Clan Hakuho"
 
 msgctxt "279005\tEXPLANATION"
 msgid ""
@@ -7698,7 +7698,7 @@ msgstr ""
 
 msgctxt "282547\tEXPLANATION"
 msgid "Hamazaki Family Patriarch, Tojo Clan Lieutenant"
-msgstr ""
+msgstr "Patriarca della Famiglia Hamazaki, Tenente del Clan Tojo"
 
 msgctxt "282597\tEXPLANATION"
 msgid ""
@@ -7745,7 +7745,7 @@ msgstr ""
 
 msgctxt "284145\tEXPLANATION"
 msgid "Minister of Defense"
-msgstr ""
+msgstr "Ministro della Difesa"
 
 msgctxt "284167\tEXPLANATION"
 msgid ""
@@ -7849,7 +7849,7 @@ msgstr ""
 
 msgctxt "288004\tEXPLANATION"
 msgid "Minister of Land, Infrastructure, and Transport"
-msgstr ""
+msgstr "Ministro del Territorio, delle Infrastrutture e dei Trasporti"
 
 msgctxt "288054\tEXPLANATION"
 msgid ""
@@ -7908,7 +7908,7 @@ msgstr ""
 
 msgctxt "290196\tEXPLANATION"
 msgid "Minister of Defense Tamiya's Secretary"
-msgstr ""
+msgstr "Segretario del Ministro della Difesa Tamiya"
 
 msgctxt "290237\tEXPLANATION"
 msgid ""
@@ -8020,7 +8020,7 @@ msgstr ""
 
 msgctxt "293618\tEXPLANATION"
 msgid "Younger Brother of Shintaro Kazama"
-msgstr ""
+msgstr "Fratello minore di Shintaro Kazama"
 
 msgctxt "293655\tEXPLANATION"
 msgid ""
@@ -8068,7 +8068,7 @@ msgstr ""
 
 msgctxt "295326\tEXPLANATION"
 msgid "cCIA Agent Under Kazama"
-msgstr ""
+msgstr "cAgente della CIA sotto Kazama"
 
 msgctxt "295352\tEXPLANATION"
 msgid ""
@@ -8120,7 +8120,7 @@ msgstr ""
 
 msgctxt "297176\tEXPLANATION"
 msgid "Japanese Branch Head, Snake Flower Triad"
-msgstr ""
+msgstr "Capo del Ramo Giapponese, Triade del Serpente Floreale"
 
 msgctxt "297219\tEXPLANATION"
 msgid ""

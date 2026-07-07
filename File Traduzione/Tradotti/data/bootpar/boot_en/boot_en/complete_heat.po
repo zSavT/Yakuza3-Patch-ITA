@@ -34,7 +34,7 @@ msgstr "Arti marziali antiche"
 
 msgctxt "360\tCATEGORY"
 msgid "Blade Finishers"
-msgstr ""
+msgstr "Mosse finali lama"
 
 msgctxt "378\tCATEGORY"
 msgid "Others"
@@ -74,11 +74,11 @@ msgstr "Essenza della rottura di schiena"
 
 msgctxt "534\tNAME"
 msgid "Dance of Kubochi"
-msgstr ""
+msgstr "Danza di Kubochi"
 
 msgctxt "551\tNAME"
 msgid "Essence of Tragic Downfall"
-msgstr ""
+msgstr "Essenza della tragica caduta"
 
 msgctxt "578\tNAME"
 msgid "Essence of Fence Smashing"
@@ -134,11 +134,11 @@ msgstr "Essenza dei pugnali"
 
 msgctxt "852\tNAME"
 msgid "Essence of Dagger (Wall)"
-msgstr ""
+msgstr "Essenza del pugnale (Muro)"
 
 msgctxt "877\tNAME"
 msgid "Essence of Dagger (Platform)"
-msgstr ""
+msgstr "Essenza del pugnale (Piattaforma)"
 
 msgctxt "906\tNAME"
 msgid "Essence of Stun Gun"
@@ -174,7 +174,7 @@ msgstr "Essenza della cartellonistica"
 
 msgctxt "1070\tNAME"
 msgid "Essence of Momentum"
-msgstr ""
+msgstr "Essenza dello slancio"
 
 msgctxt "1090\tNAME"
 msgid "Essence of Crushing"
@@ -222,19 +222,19 @@ msgstr "Essenza del martello finale"
 
 msgctxt "1360\tNAME"
 msgid "Essence of Cornering"
-msgstr ""
+msgstr "Essenza dell'accerchiamento"
 
 msgctxt "1381\tNAME"
 msgid "Super Finish: Head Press"
-msgstr ""
+msgstr "Super mossa finale: Schiacciata"
 
 msgctxt "1406\tNAME"
 msgid "Super Finish: Knock Down"
-msgstr ""
+msgstr "Super mossa finale: Abbattimento"
 
 msgctxt "1431\tNAME"
 msgid "Super Finish: Hell's Abyss"
-msgstr ""
+msgstr "Super mossa finale: Abisso infernale"
 
 msgctxt "1458\tNAME"
 msgid "Essence of Slamming (Front)"
@@ -306,15 +306,15 @@ msgstr "Komaki Firearm Flip (fucile)"
 
 msgctxt "1872\tNAME"
 msgid "Komaki Swordless Rebirth"
-msgstr ""
+msgstr "Rinascita senz'arma Komaki"
 
 msgctxt "1897\tNAME"
 msgid "Komaki Bowl Crusher"
-msgstr ""
+msgstr "Spaccacranio Komaki"
 
 msgctxt "1917\tNAME"
 msgid "Komaki Dragon King Essence"
-msgstr ""
+msgstr "Essenza del Re Drago Komaki"
 
 msgctxt "1944\tNAME"
 msgid "Hidden Blade: Hook"
@@ -326,11 +326,11 @@ msgstr "Lama nascosta: Toro infuriato"
 
 msgctxt "1989\tNAME"
 msgid "Blade Finisher: Dancing Cat"
-msgstr ""
+msgstr "Mossa finale lama: Gatto danzante"
 
 msgctxt "2017\tNAME"
 msgid "Blade Finisher: Heavens Converge"
-msgstr ""
+msgstr "Mossa finale lama: Convergenza celeste"
 
 msgctxt "2050\tNAME"
 msgid "Heavy Maul: Fly Swatter"
@@ -342,7 +342,7 @@ msgstr "Doppia spada corta: Lupo furbastro"
 
 msgctxt "2101\tNAME"
 msgid "Essence of Fear"
-msgstr ""
+msgstr "Essenza della paura"
 
 msgctxt "2117\tNAME"
 msgid "Essence of Smoking"
@@ -446,7 +446,7 @@ msgstr ""
 
 msgctxt "3693\tEXPLANATION"
 msgid "Send an opponent tumbling down a flight of stairs."
-msgstr ""
+msgstr "Fai ruzzolare giù per le scale un avversario."
 
 msgctxt "3744\tEXPLANATION"
 msgid ""
@@ -541,11 +541,11 @@ msgstr "Accoltella il tuo avversario allo stomaco."
 
 msgctxt "4762\tEXPLANATION"
 msgid "Pin your opponent's hand to the wall with a dagger."
-msgstr ""
+msgstr "Inchioda al muro la mano dell'avversario con un pugnale."
 
 msgctxt "4814\tEXPLANATION"
 msgid "Pin your opponent's hand to a platform with a dagger."
-msgstr ""
+msgstr "Inchioda la mano dell'avversario a una superficie con un pugnale."
 
 msgctxt "4868\tEXPLANATION"
 msgid ""
@@ -820,7 +820,7 @@ msgstr "Un magnifico attacco abbastanza potente da abbattere un drago divino."
 
 msgctxt "8313\tEXPLANATION"
 msgid "A brutal attack fierce enough to vanquish a divine tiger."
-msgstr ""
+msgstr "Un attacco brutale abbastanza feroce da sconfiggere una tigre divina."
 "Un attacco brutale e abbastanza feroce da sconfiggere una tigre divina."
 
 msgctxt "8371\tEXPLANATION"

@@ -82,7 +82,7 @@ msgstr "Sgabello stravagante"
 
 msgctxt "0\t22152\t17\tCHK"
 msgid "Sweet Chair (Broken)"
-msgstr ""
+msgstr "Sedia Sweet (Rotta)"
 
 msgctxt "0\t22173\t18\tCHK"
 msgid "Big Purple Sofa"
@@ -142,7 +142,7 @@ msgstr "Divano enorme"
 
 msgctxt "0\t22359\t32\tCHK"
 msgid "Mini Sofa"
-msgstr ""
+msgstr "Mini Divano"
 
 msgctxt "0\t22369\t33\tCHK"
 msgid "Table (Broken)"
@@ -150,299 +150,299 @@ msgstr "Tavolo (rotto)"
 
 msgctxt "0\t22384\t34\tCHK"
 msgid "Meat A"
-msgstr ""
+msgstr "Carne A"
 
 msgctxt "0\t22391\t35\tCHK"
 msgid "Meat B"
-msgstr ""
+msgstr "Carne B"
 
 msgctxt "0\t22398\t36\tCHK"
 msgid "Fish A"
-msgstr ""
+msgstr "Pesce A"
 
 msgctxt "0\t22405\t37\tCHK"
 msgid "Fish B"
-msgstr ""
+msgstr "Pesce B"
 
 msgctxt "0\t22412\t38\tCHK"
 msgid "Fish C"
-msgstr ""
+msgstr "Pesce C"
 
 msgctxt "0\t22419\t39\tCHK"
 msgid "Meat C"
-msgstr ""
+msgstr "Carne C"
 
 msgctxt "0\t22426\t40\tCHK"
 msgid "Meat C Broken 1"
-msgstr ""
+msgstr "Carne C rotta 1"
 
 msgctxt "0\t22442\t41\tCHK"
 msgid "Meat C Chunk 1"
-msgstr ""
+msgstr "Pezzo di carne C 1"
 
 msgctxt "0\t22457\t42\tCHK"
 msgid "Meat C Broken 2"
-msgstr ""
+msgstr "Carne C rotta 2"
 
 msgctxt "0\t22473\t43\tCHK"
 msgid "Meat C Chunk 3"
-msgstr ""
+msgstr "Pezzo di carne C 3"
 
 msgctxt "0\t22488\t44\tCHK"
 msgid "Fish D"
-msgstr ""
+msgstr "Pesce D"
 
 msgctxt "0\t22495\t45\tCHK"
 msgid "Fish D Broken 1"
-msgstr ""
+msgstr "Pesce D rotto 1"
 
 msgctxt "0\t22511\t46\tCHK"
 msgid "Fish D Chunk 1"
-msgstr ""
+msgstr "Pezzo di pesce D 1"
 
 msgctxt "0\t22526\t47\tCHK"
 msgid "Fish D Chunk 2"
-msgstr ""
+msgstr "Pezzo di pesce D 2"
 
 msgctxt "0\t22541\t48\tCHK"
 msgid "Fish E"
-msgstr ""
+msgstr "Pesce E"
 
 msgctxt "0\t22548\t49\tCHK"
 msgid "Fish E Chunk"
-msgstr ""
+msgstr "Pezzo di pesce E"
 
 msgctxt "0\t22561\t50\tCHK"
 msgid "Fish F"
-msgstr ""
+msgstr "Pesce F"
 
 msgctxt "0\t22568\t51\tCHK"
 msgid "Fish F Chunk"
-msgstr ""
+msgstr "Pezzo di pesce F"
 
 msgctxt "0\t22581\t52\tCHK"
 msgid "Fish G"
-msgstr ""
+msgstr "Pesce G"
 
 msgctxt "0\t22588\t53\tCHK"
 msgid "Fish G Broken"
-msgstr ""
+msgstr "Pesce G rotto"
 
 msgctxt "0\t22602\t54\tCHK"
 msgid "Fish G Chunk 1"
-msgstr ""
+msgstr "Pezzo di pesce G 1"
 
 msgctxt "0\t22617\t55\tCHK"
 msgid "Fish G Chunk 2"
-msgstr ""
+msgstr "Pezzo di pesce G 2"
 
 msgctxt "0\t22632\t56\tCHK"
 msgid "Fish H"
-msgstr ""
+msgstr "Pesce H"
 
 msgctxt "0\t22639\t57\tCHK"
 msgid "Fish H Chunk"
-msgstr ""
+msgstr "Pezzo di pesce H"
 
 msgctxt "0\t22652\t58\tCHK"
 msgid "Fish I"
-msgstr ""
+msgstr "Pesce I"
 
 msgctxt "0\t22659\t59\tCHK"
 msgid "Fish I Broken"
-msgstr ""
+msgstr "Pesce I rotto"
 
 msgctxt "0\t22673\t60\tCHK"
 msgid "Fish I Chunk 1"
-msgstr ""
+msgstr "Pezzo di pesce I 1"
 
 msgctxt "0\t22688\t61\tCHK"
 msgid "Fish I Chunk 2"
-msgstr ""
+msgstr "Pezzo di pesce I 2"
 
 msgctxt "0\t22703\t62\tCHK"
 msgid "Fish J"
-msgstr ""
+msgstr "Pesce J"
 
 msgctxt "0\t22710\t63\tCHK"
 msgid "Fish J Broken"
-msgstr ""
+msgstr "Pesce J rotto"
 
 msgctxt "0\t22724\t64\tCHK"
 msgid "Fish Chunk 1"
-msgstr ""
+msgstr "Pezzo di pesce 1"
 
 msgctxt "0\t22737\t65\tCHK"
 msgid "Fish Chunk 2"
-msgstr ""
+msgstr "Pezzo di pesce 2"
 
 msgctxt "0\t22750\t66\tCHK"
 msgid "Fish K"
-msgstr ""
+msgstr "Pesce K"
 
 msgctxt "0\t22757\t67\tCHK"
 msgid "Fish K Chunk"
-msgstr ""
+msgstr "Pezzo di pesce K"
 
 msgctxt "0\t22770\t68\tCHK"
 msgid "Fish L"
-msgstr ""
+msgstr "Pesce L"
 
 msgctxt "0\t22777\t69\tCHK"
 msgid "Fish L Chunk"
-msgstr ""
+msgstr "Pezzo di pesce L"
 
 msgctxt "0\t22790\t70\tCHK"
 msgid "Fish M"
-msgstr ""
+msgstr "Pesce M"
 
 msgctxt "0\t22797\t71\tCHK"
 msgid "Fish M Broken"
-msgstr ""
+msgstr "Pesce M rotto"
 
 msgctxt "0\t22811\t72\tCHK"
 msgid "Fish M Chunk 1"
-msgstr ""
+msgstr "Pezzo di pesce M 1"
 
 msgctxt "0\t22826\t73\tCHK"
 msgid "Fish M Chunk 2"
-msgstr ""
+msgstr "Pezzo di pesce M 2"
 
 msgctxt "0\t22841\t74\tCHK"
 msgid "Fish N"
-msgstr ""
+msgstr "Pesce N"
 
 msgctxt "0\t22848\t75\tCHK"
 msgid "Fish N Chunk"
-msgstr ""
+msgstr "Pezzo di pesce N"
 
 msgctxt "0\t22861\t76\tCHK"
 msgid "Meat D"
-msgstr ""
+msgstr "Carne D"
 
 msgctxt "0\t22868\t77\tCHK"
 msgid "Meat D Chunk"
-msgstr ""
+msgstr "Pezzo di carne D"
 
 msgctxt "0\t22881\t78\tCHK"
 msgid "Meat E"
-msgstr ""
+msgstr "Carne E"
 
 msgctxt "0\t22888\t79\tCHK"
 msgid "Meat E Broken"
-msgstr ""
+msgstr "Carne E rotta"
 
 msgctxt "0\t22902\t80\tCHK"
 msgid "Meat E Chunk 1"
-msgstr ""
+msgstr "Pezzo di carne E 1"
 
 msgctxt "0\t22917\t81\tCHK"
 msgid "Meat E Chunk 2"
-msgstr ""
+msgstr "Pezzo di carne E 2"
 
 msgctxt "0\t22932\t82\tCHK"
 msgid "Meat F"
-msgstr ""
+msgstr "Carne F"
 
 msgctxt "0\t22939\t83\tCHK"
 msgid "Meat F Chunk"
-msgstr ""
+msgstr "Pezzo di carne F"
 
 msgctxt "0\t22952\t84\tCHK"
 msgid "Meat G"
-msgstr ""
+msgstr "Carne G"
 
 msgctxt "0\t22959\t85\tCHK"
 msgid "Meat G Broken"
-msgstr ""
+msgstr "Carne G rotta"
 
 msgctxt "0\t22973\t86\tCHK"
 msgid "Meat G Chunk 1"
-msgstr ""
+msgstr "Pezzo di carne G 1"
 
 msgctxt "0\t22988\t87\tCHK"
 msgid "Meat G Chunk 2"
-msgstr ""
+msgstr "Pezzo di carne G 2"
 
 msgctxt "0\t23003\t88\tCHK"
 msgid "Meat H"
-msgstr ""
+msgstr "Carne H"
 
 msgctxt "0\t23010\t89\tCHK"
 msgid "Meat H Broken"
-msgstr ""
+msgstr "Carne H rotta"
 
 msgctxt "0\t23024\t90\tCHK"
 msgid "Meat H Chunk 1"
-msgstr ""
+msgstr "Pezzo di carne H 1"
 
 msgctxt "0\t23039\t91\tCHK"
 msgid "Meat H Chunk 2"
-msgstr ""
+msgstr "Pezzo di carne H 2"
 
 msgctxt "0\t23054\t92\tCHK"
 msgid "Meat I"
-msgstr ""
+msgstr "Carne I"
 
 msgctxt "0\t23061\t93\tCHK"
 msgid "Meat I Broken"
-msgstr ""
+msgstr "Carne I rotta"
 
 msgctxt "0\t23075\t94\tCHK"
 msgid "Meat I Chunk 1"
-msgstr ""
+msgstr "Pezzo di carne I 1"
 
 msgctxt "0\t23090\t95\tCHK"
 msgid "Meat I Chunk 2"
-msgstr ""
+msgstr "Pezzo di carne I 2"
 
 msgctxt "0\t23105\t96\tCHK"
 msgid "Meat J"
-msgstr ""
+msgstr "Carne J"
 
 msgctxt "0\t23112\t97\tCHK"
 msgid "Meat J Broken"
-msgstr ""
+msgstr "Carne J rotta"
 
 msgctxt "0\t23126\t98\tCHK"
 msgid "Meat J Chunk 1"
-msgstr ""
+msgstr "Pezzo di carne J 1"
 
 msgctxt "0\t23141\t99\tCHK"
 msgid "Meat J Chunk 2"
-msgstr ""
+msgstr "Pezzo di carne J 2"
 
 msgctxt "0\t23156\t100\tCHK"
 msgid "Meat K"
-msgstr ""
+msgstr "Carne K"
 
 msgctxt "0\t23163\t101\tCHK"
 msgid "Meat K Broken"
-msgstr ""
+msgstr "Carne K rotta"
 
 msgctxt "0\t23177\t102\tCHK"
 msgid "Meat K Chunk 1"
-msgstr ""
+msgstr "Pezzo di carne K 1"
 
 msgctxt "0\t23192\t103\tCHK"
 msgid "Meat K Chunk 2"
-msgstr ""
+msgstr "Pezzo di carne K 2"
 
 msgctxt "0\t23207\t104\tCHK"
 msgid "Meat L"
-msgstr ""
+msgstr "Carne L"
 
 msgctxt "0\t23214\t105\tCHK"
 msgid "Meat L Broken"
-msgstr ""
+msgstr "Carne L rotta"
 
 msgctxt "0\t23228\t106\tCHK"
 msgid "Meat L Chunk 1"
-msgstr ""
+msgstr "Pezzo di carne L 1"
 
 msgctxt "0\t23243\t107\tCHK"
 msgid "Meat L Chunk 2"
-msgstr ""
+msgstr "Pezzo di carne L 2"
 
 msgctxt "0\t23258\t108\tCHK"
 msgid "Dining Room Table"
@@ -454,103 +454,103 @@ msgstr "Sedia da pranzo"
 
 msgctxt "0\t23294\t110\tCHK"
 msgid "Dining Room Table A Base"
-msgstr ""
+msgstr "Base tavolo da pranzo A"
 
 msgctxt "0\t23319\t111\tCHK"
 msgid "Dining Room Table A Piece 1"
-msgstr ""
+msgstr "Pezzo tavolo da pranzo A 1"
 
 msgctxt "0\t23347\t112\tCHK"
 msgid "Dining Room Table A Piece 2"
-msgstr ""
+msgstr "Pezzo tavolo da pranzo A 2"
 
 msgctxt "0\t23375\t113\tCHK"
 msgid "Dining Room Table B Base"
-msgstr ""
+msgstr "Base tavolo da pranzo B"
 
 msgctxt "0\t23400\t114\tCHK"
 msgid "Dining Room Table B Piece 1"
-msgstr ""
+msgstr "Pezzo tavolo da pranzo B 1"
 
 msgctxt "0\t23428\t115\tCHK"
 msgid "Dining Room Table B Piece 2"
-msgstr ""
+msgstr "Pezzo tavolo da pranzo B 2"
 
 msgctxt "0\t23456\t116\tCHK"
 msgid "Dining Room Table C Base"
-msgstr ""
+msgstr "Base tavolo da pranzo C"
 
 msgctxt "0\t23481\t117\tCHK"
 msgid "Dining Room Table C Piece 1"
-msgstr ""
+msgstr "Pezzo tavolo da pranzo C 1"
 
 msgctxt "0\t23509\t118\tCHK"
 msgid "Dining Room Table C Piece 2"
-msgstr ""
+msgstr "Pezzo tavolo da pranzo C 2"
 
 msgctxt "0\t23537\t119\tCHK"
 msgid "Dining Room Chair A Piece"
-msgstr ""
+msgstr "Pezzo sedia da pranzo A"
 
 msgctxt "0\t23563\t120\tCHK"
 msgid "Dining Room Chair B Piece"
-msgstr ""
+msgstr "Pezzo sedia da pranzo B"
 
 msgctxt "0\t23589\t121\tCHK"
 msgid "Dining Room Chair C Piece"
-msgstr ""
+msgstr "Pezzo sedia da pranzo C"
 
 msgctxt "0\t23615\t122\tCHK"
 msgid "Yellow Bench"
-msgstr ""
+msgstr "Panchina gialla"
 
 msgctxt "0\t23628\t123\tCHK"
 msgid "Yellow Bench Piece"
-msgstr ""
+msgstr "Pezzo di panchina gialla"
 
 msgctxt "0\t23647\t124\tCHK"
 msgid "Kiddy Chair"
-msgstr ""
+msgstr "Sedia per bambini"
 
 msgctxt "0\t23659\t125\tCHK"
 msgid "Dining Room Chair D Piece"
-msgstr ""
+msgstr "Pezzo sedia da pranzo D"
 
 msgctxt "0\t23685\t126\tCHK"
 msgid "Pig Head Base"
-msgstr ""
+msgstr "Base testa di maiale"
 
 msgctxt "0\t23699\t127\tCHK"
 msgid "Pig Head"
-msgstr ""
+msgstr "Testa di maiale"
 
 msgctxt "0\t23708\t128\tCHK"
 msgid "Pig Head Chunk 1"
-msgstr ""
+msgstr "Pezzo testa di maiale 1"
 
 msgctxt "0\t23725\t129\tCHK"
 msgid "Pig Head Chunk 2"
-msgstr ""
+msgstr "Pezzo testa di maiale 2"
 
 msgctxt "0\t23742\t130\tCHK"
 msgid "Tuna Head Base"
-msgstr ""
+msgstr "Base testa di tonno"
 
 msgctxt "0\t23757\t131\tCHK"
 msgid "Tuna Head"
-msgstr ""
+msgstr "Testa di tonno"
 
 msgctxt "0\t23767\t132\tCHK"
 msgid "Tuna Head Chunk 1"
-msgstr ""
+msgstr "Pezzo testa di tonno 1"
 
 msgctxt "0\t23785\t133\tCHK"
 msgid "Tuna Head Chunk 2"
-msgstr ""
+msgstr "Pezzo testa di tonno 2"
 
 msgctxt "0\t23803\t134\tCHK"
 msgid "Tuna Base"
-msgstr ""
+msgstr "Base tonno"
 
 msgctxt "0\t23813\t135\tCHK"
 msgid "Tuna"
@@ -558,11 +558,11 @@ msgstr "Tonno"
 
 msgctxt "0\t23818\t136\tCHK"
 msgid "Tuna Chunk 1"
-msgstr ""
+msgstr "Pezzo di tonno 1"
 
 msgctxt "0\t23831\t137\tCHK"
 msgid "Tuna Chunk 2"
-msgstr ""
+msgstr "Pezzo di tonno 2"
 
 msgctxt "0\t23844\t138\tCHK"
 msgid "HACT Window"
@@ -810,11 +810,11 @@ msgstr "Bottiglia"
 
 msgctxt "0\t24829\t199\tCHK"
 msgid "Bottle (Broken Fragment)"
-msgstr ""
+msgstr "Bottiglia (Frammento rotto)"
 
 msgctxt "0\t24854\t200\tCHK"
 msgid "Cracked Bottle"
-msgstr ""
+msgstr "Bottiglia crepata"
 
 msgctxt "0\t24869\t201\tCHK"
 msgid "Pot"
@@ -826,7 +826,7 @@ msgstr "Vaso (rotto)"
 
 msgctxt "0\t24886\t203\tCHK"
 msgid "TV"
-msgstr ""
+msgstr "TV"
 
 msgctxt "0\t24889\t204\tCHK"
 msgid "TV (Broken)"
@@ -1222,7 +1222,7 @@ msgstr "Insegna SEXYTOYS99"
 
 msgctxt "0\t26792\t302\tCHK"
 msgid "Sexy Shop Sign"
-msgstr ""
+msgstr "Insegna Sexy Shop"
 
 msgctxt "0\t26807\t303\tCHK"
 msgid "Fusion Sign"
@@ -1290,7 +1290,7 @@ msgstr "Insegna Tengyokaku"
 
 msgctxt "0\t27071\t319\tCHK"
 msgid "Kumanekoro Sign"
-msgstr ""
+msgstr "Insegna Kumanekoro"
 
 msgctxt "0\t27087\t320\tCHK"
 msgid "Yakiniku Hachisuke Sign"
@@ -1330,7 +1330,7 @@ msgstr "Cartello del menu principale"
 
 msgctxt "0\t27230\t329\tCHK"
 msgid "Written in Dreams Sign"
-msgstr ""
+msgstr "Insegna Scritto nei Sogni"
 
 msgctxt "0\t27253\t330\tCHK"
 msgid "Time Service Sign"
@@ -1350,7 +1350,7 @@ msgstr "Insegna nuovo di zecca"
 
 msgctxt "0\t27308\t334\tCHK"
 msgid "CR Master Sign"
-msgstr ""
+msgstr "Insegna CR Master"
 
 msgctxt "0\t27323\t335\tCHK"
 msgid "Fanciful Sign"
@@ -1390,7 +1390,7 @@ msgstr "Insegna del karaoke bar"
 
 msgctxt "0\t27486\t344\tCHK"
 msgid "I Love Chinese Snacks Sign"
-msgstr ""
+msgstr "Insegna Amo gli Snack Cinesi"
 
 msgctxt "0\t27513\t345\tCHK"
 msgid "Koenro Sign"
@@ -1450,7 +1450,7 @@ msgstr "Insegna del club di Go"
 
 msgctxt "0\t27767\t359\tCHK"
 msgid "ABC Bar Sign"
-msgstr ""
+msgstr "Insegna ABC Bar"
 
 msgctxt "0\t27780\t360\tCHK"
 msgid "Important Announcement Sign"
@@ -1646,11 +1646,11 @@ msgstr "Insegna Spezia Estrema"
 
 msgctxt "0\t28638\t408\tCHK"
 msgid "Swapmeet Announcement Sign"
-msgstr ""
+msgstr "Insegna Annuncio Mercatino"
 
 msgctxt "0\t28665\t409\tCHK"
 msgid "Catering Plan Sign"
-msgstr ""
+msgstr "Insegna Servizio Catering"
 
 msgctxt "0\t28684\t410\tCHK"
 msgid "Big Family Bar Sign"
@@ -1674,11 +1674,11 @@ msgstr "Insegna del re del combattimento"
 
 msgctxt "0\t28773\t415\tCHK"
 msgid "Special Today!!!! Sign"
-msgstr ""
+msgstr "Insegna Speciale Oggi!!!!"
 
 msgctxt "0\t28796\t416\tCHK"
 msgid "Shindai Receiving Sign"
-msgstr ""
+msgstr "Insegna Ricezione Shindai"
 
 msgctxt "0\t28819\t417\tCHK"
 msgid "Ramen Locksmiths Sign"
@@ -1686,7 +1686,7 @@ msgstr "Insegna Fabbri del Ramen"
 
 msgctxt "0\t28841\t418\tCHK"
 msgid "Spa Aquanon Sign"
-msgstr ""
+msgstr "Insegna Spa Aquanon"
 
 msgctxt "0\t28858\t419\tCHK"
 msgid "Nishikaze Tower Sign"
@@ -1726,7 +1726,7 @@ msgstr "Insegna \"Sosta del piacere\""
 
 msgctxt "0\t29015\t428\tCHK"
 msgid "100 Degrees Sign"
-msgstr ""
+msgstr "Insegna 100 Gradi"
 
 msgctxt "0\t29032\t429\tCHK"
 msgid "New Menu Sign"
@@ -1758,7 +1758,7 @@ msgstr "Insegna Taketori"
 
 msgctxt "0\t29156\t436\tCHK"
 msgid "White Turtle Sign"
-msgstr ""
+msgstr "Insegna Tartaruga Bianca"
 
 msgctxt "0\t29174\t437\tCHK"
 msgid "Mahjong Riichi Sign"
@@ -1858,7 +1858,7 @@ msgstr "(ADV) Negozio di armi (camion)"
 
 msgctxt "0\t29661\t461\tCHK"
 msgid "(ADV) Velotaxi"
-msgstr ""
+msgstr "(ADV) Velotaxi"
 
 msgctxt "0\t29676\t462\tCHK"
 msgid "(Minigame)<Hostess Club> Fruit Platter Combination (Large)"
@@ -1902,39 +1902,39 @@ msgstr "(Mini missione) Bottiglia di Awamori"
 
 msgctxt "0\t30064\t472\tCHK"
 msgid "(Mini Mission) Trout (Full)"
-msgstr ""
+msgstr "(Minigioco) Trota (Intera)"
 
 msgctxt "0\t30092\t473\tCHK"
 msgid "(Mini Mission) Trout (Empty)"
-msgstr ""
+msgstr "(Minigioco) Trota (Lisca)"
 
 msgctxt "0\t30121\t474\tCHK"
 msgid "(Mini Mission) Beer (Full)"
-msgstr ""
+msgstr "(Minigioco) Birra (Piena)"
 
 msgctxt "0\t30148\t475\tCHK"
 msgid "(Mini Mission) Beer (Empty)"
-msgstr ""
+msgstr "(Minigioco) Birra (Vuota)"
 
 msgctxt "0\t30176\t476\tCHK"
 msgid "(Mini Mission) Whisky (Full)"
-msgstr ""
+msgstr "(Minigioco) Whisky (Pieno)"
 
 msgctxt "0\t30205\t477\tCHK"
 msgid "(Mini Mission) Whisky (Empty)"
-msgstr ""
+msgstr "(Minigioco) Whisky (Vuoto)"
 
 msgctxt "0\t30235\t478\tCHK"
 msgid "(Mini Mission) Wine (Full)"
-msgstr ""
+msgstr "(Minigioco) Vino (Pieno)"
 
 msgctxt "0\t30262\t479\tCHK"
 msgid "(Mini Mission) Wine (Empty)"
-msgstr ""
+msgstr "(Minigioco) Vino (Vuoto)"
 
 msgctxt "0\t30290\t480\tCHK"
 msgid "(Mini Mission) Sign (Mr. Try and Hit Me)"
-msgstr ""
+msgstr "(Minigioco) Insegna (Mr. Prova a Colpirmi)"
 
 msgctxt "0\t30331\t481\tCHK"
 msgid "(Mini Mission) Water Purifier"
@@ -1942,7 +1942,7 @@ msgstr "(Mini missione) Depuratore d'acqua"
 
 msgctxt "0\t30361\t482\tCHK"
 msgid "(Mini Mission) Trunk"
-msgstr ""
+msgstr "(Minigioco) Tronco"
 
 msgctxt "0\t30382\t483\tCHK"
 msgid "(Minigame) <Hostess Club> Watered Down Whisky"
@@ -1998,11 +1998,11 @@ msgstr "(Azione di inseguimento) Confine del cantiere"
 
 msgctxt "0\t30915\t496\tCHK"
 msgid "(Mini Mission) Photo Magazine from Three Years Ago"
-msgstr ""
+msgstr "(Minigioco) Rivista fotografica di 3 anni fa"
 
 msgctxt "0\t30966\t497\tCHK"
 msgid "(Mini Mission) Photo Magazine (Next Week)"
-msgstr ""
+msgstr "(Minigioco) Rivista fotografica (Prossima settimana)"
 
 msgctxt "0\t31008\t498\tCHK"
 msgid "(Mini Mission) Shonen Five"
@@ -2058,7 +2058,7 @@ msgstr "Asse"
 
 msgctxt "0\t31302\t511\tCHK"
 msgid "Metal Frame"
-msgstr ""
+msgstr "Telaio di metallo"
 
 msgctxt "0\t31314\t512\tCHK"
 msgid "Cart"
@@ -2066,7 +2066,7 @@ msgstr "Carrello"
 
 msgctxt "0\t31319\t513\tCHK"
 msgid "Bundle of Cardboard"
-msgstr ""
+msgstr "Pacco di cartone"
 
 msgctxt "0\t31339\t514\tCHK"
 msgid "Steel Mesh Trash Can"
@@ -2074,7 +2074,7 @@ msgstr "Cestino in rete d'acciaio"
 
 msgctxt "0\t31360\t515\tCHK"
 msgid "Small Flower Pot"
-msgstr ""
+msgstr "Piccolo vaso da fiori"
 
 msgctxt "0\t31377\t516\tCHK"
 msgid "Standing Sign"
@@ -2082,11 +2082,11 @@ msgstr "Insegna verticale"
 
 msgctxt "0\t31391\t517\tCHK"
 msgid "Aluminum Chair"
-msgstr ""
+msgstr "Sedia di alluminio"
 
 msgctxt "0\t31406\t518\tCHK"
 msgid "Cloth-covered Chair"
-msgstr ""
+msgstr "Sedia rivestita in stoffa"
 
 msgctxt "0\t31426\t519\tCHK"
 msgid "Can Recycling"
@@ -2094,11 +2094,11 @@ msgstr "Riciclo lattine"
 
 msgctxt "0\t31440\t520\tCHK"
 msgid "Chura-chan"
-msgstr ""
+msgstr "Chura-chan"
 
 msgctxt "0\t31451\t521\tCHK"
 msgid "Shisa-kun"
-msgstr ""
+msgstr "Shisa-kun"
 
 msgctxt "0\t31461\t522\tCHK"
 msgid "Magazine"
@@ -2142,7 +2142,7 @@ msgstr "Ruota di mountain bike"
 
 msgctxt "0\t31642\t532\tCHK"
 msgid "Broken Shisa-kun"
-msgstr ""
+msgstr "Shisa-kun rotto"
 
 msgctxt "0\t31659\t533\tCHK"
 msgid "Big Traffic Cone (Broken)"
@@ -2150,7 +2150,7 @@ msgstr "Grande cono stradale (rotto)"
 
 msgctxt "0\t31685\t534\tCHK"
 msgid "Beer Case (Broken)"
-msgstr ""
+msgstr "Cassa di birra (Rotta)"
 
 msgctxt "0\t31704\t535\tCHK"
 msgid "Plastic Tray (Broken)"
@@ -2174,7 +2174,7 @@ msgstr "Cestino (rotto)"
 
 msgctxt "0\t31794\t540\tCHK"
 msgid "Cardboard Bunde (Broken)"
-msgstr ""
+msgstr "Pacco di cartone (Rotto)"
 
 msgctxt "0\t31819\t541\tCHK"
 msgid "Blue Bicycle Piece 1"
@@ -2226,31 +2226,31 @@ msgstr "Pezzo di mountain bike 2"
 
 msgctxt "0\t32087\t553\tCHK"
 msgid "Flower Pot 1 (Fragment)"
-msgstr ""
+msgstr "Vaso da fiori 1 (Frammento)"
 
 msgctxt "0\t32111\t554\tCHK"
 msgid "Flower Pot 2 (Fragment)"
-msgstr ""
+msgstr "Vaso da fiori 2 (Frammento)"
 
 msgctxt "0\t32135\t555\tCHK"
 msgid "Flower Pot 3 (Fragment)"
-msgstr ""
+msgstr "Vaso da fiori 3 (Frammento)"
 
 msgctxt "0\t32159\t556\tCHK"
 msgid "Flower Pot 4 (Fragment)"
-msgstr ""
+msgstr "Vaso da fiori 4 (Frammento)"
 
 msgctxt "0\t32183\t557\tCHK"
 msgid "Flower Pot 5 (Fragment)"
-msgstr ""
+msgstr "Vaso da fiori 5 (Frammento)"
 
 msgctxt "0\t32207\t558\tCHK"
 msgid "Flower Pot 6 (Fragment)"
-msgstr ""
+msgstr "Vaso da fiori 6 (Frammento)"
 
 msgctxt "0\t32231\t559\tCHK"
 msgid "Flower Pot 7 (Fragment)"
-msgstr ""
+msgstr "Vaso da fiori 7 (Frammento)"
 
 msgctxt "0\t32255\t560\tCHK"
 msgid "Standing Sign (Broken)"
@@ -2258,15 +2258,15 @@ msgstr "Insegna verticale (rotta)"
 
 msgctxt "0\t32278\t561\tCHK"
 msgid "Aluminum Chair (Broken)"
-msgstr ""
+msgstr "Sedia di alluminio (Rotta)"
 
 msgctxt "0\t32302\t562\tCHK"
 msgid "Cloth-covered Chair (Broken)"
-msgstr ""
+msgstr "Sedia rivestita in stoffa (Rotta)"
 
 msgctxt "0\t32331\t563\tCHK"
 msgid "Can Recycling (Black, Broken)"
-msgstr ""
+msgstr "Riciclo lattine (Nero, rotto)"
 
 msgctxt "0\t32361\t564\tCHK"
 msgid "Can Recycling (Gray, Broken)"
@@ -2274,15 +2274,15 @@ msgstr "Riciclo lattine (grigio, rotto)"
 
 msgctxt "0\t32390\t565\tCHK"
 msgid "Chura-chan (Fragment)"
-msgstr ""
+msgstr "Chura-chan (Frammento)"
 
 msgctxt "0\t32412\t566\tCHK"
 msgid "Shisa-kun (Fragment 1)"
-msgstr ""
+msgstr "Shisa-kun (Frammento 1)"
 
 msgctxt "0\t32435\t567\tCHK"
 msgid "Shisa-kun (Fragment 2)"
-msgstr ""
+msgstr "Shisa-kun (Frammento 2)"
 
 msgctxt "0\t32458\t568\tCHK"
 msgid "Magazine (Destroyed)"
@@ -2314,19 +2314,19 @@ msgstr "Mais (grande, rotto)"
 
 msgctxt "0\t32615\t575\tCHK"
 msgid "Broken Ashtray Stand (Dirty)"
-msgstr ""
+msgstr "Posacenere rotto (Sporco)"
 
 msgctxt "0\t32644\t576\tCHK"
 msgid "Broken Cardboard Box (Closed)"
-msgstr ""
+msgstr "Scatola di cartone rotta (Chiusa)"
 
 msgctxt "0\t32674\t577\tCHK"
 msgid "Broken Cardboard Box (Open)"
-msgstr ""
+msgstr "Scatola di cartone rotta (Aperta)"
 
 msgctxt "0\t32702\t578\tCHK"
 msgid "No Parking Sign (Broken)"
-msgstr ""
+msgstr "Cartello divieto di sosta (Rotto)"
 
 msgctxt "0\t32727\t579\tCHK"
 msgid "Blue Bicycle (Broken)"
@@ -2398,7 +2398,7 @@ msgstr "Sciabola cinese"
 
 msgctxt "0\t33058\t596\tCHK"
 msgid "Machine Gun"
-msgstr ""
+msgstr "Mitragliatrice"
 
 msgctxt "0\t33070\t597\tCHK"
 msgid "Bicycle"
@@ -2410,7 +2410,7 @@ msgstr "Accendino modificato da sicario"
 
 msgctxt "0\t33104\t599\tCHK"
 msgid "Tonfa"
-msgstr ""
+msgstr "Tonfa"
 
 msgctxt "0\t33110\t600\tCHK"
 msgid "Prop Daruma"
@@ -2538,7 +2538,7 @@ msgstr "M1985 ROTTO"
 
 msgctxt "0\t33703\t631\tCHK"
 msgid "Broken Tear Gas Spray"
-msgstr ""
+msgstr "Spray lacrimogeno rotto"
 
 msgctxt "0\t33725\t632\tCHK"
 msgid "Broken Fake Dynamite"
@@ -2558,7 +2558,7 @@ msgstr "Goya in frantumi"
 
 msgctxt "0\t33797\t636\tCHK"
 msgid "Broken Brickshitter Bottle"
-msgstr ""
+msgstr "Bottiglia di Brickshitter rotta"
 
 msgctxt "0\t33824\t637\tCHK"
 msgid "Broken Cedar Lumber Fragment"
@@ -2666,11 +2666,11 @@ msgstr "Coltello sonico"
 
 msgctxt "0\t34339\t663\tCHK"
 msgid "Red Lion Dagger"
-msgstr ""
+msgstr "Pugnale del Leone Rosso"
 
 msgctxt "0\t34355\t664\tCHK"
 msgid "Wooden Short Sword"
-msgstr ""
+msgstr "Spada corta di legno"
 
 msgctxt "0\t34374\t665\tCHK"
 msgid "Nameless Short Sword"
@@ -2678,19 +2678,19 @@ msgstr "Spada corta senza nome"
 
 msgctxt "0\t34395\t666\tCHK"
 msgid "Spirit Spring Short Sword"
-msgstr ""
+msgstr "Spada corta della Sorgente degli Spiriti"
 
 msgctxt "0\t34421\t667\tCHK"
 msgid "Shintogo Dagger"
-msgstr ""
+msgstr "Pugnale Shintogo"
 
 msgctxt "0\t34437\t668\tCHK"
 msgid "Kogarasu Maru"
-msgstr ""
+msgstr "Kogarasu Maru"
 
 msgctxt "0\t34451\t669\tCHK"
 msgid "Radiant Sword"
-msgstr ""
+msgstr "Spada radiosa"
 
 msgctxt "0\t34465\t670\tCHK"
 msgid "Lotus Clan Broadsword"
@@ -2718,7 +2718,7 @@ msgstr "Driver in legno"
 
 msgctxt "0\t34558\t676\tCHK"
 msgid "Black Shaft"
-msgstr ""
+msgstr "Asta nera"
 
 msgctxt "0\t34570\t677\tCHK"
 msgid "Patriarch's Driver"
@@ -2738,11 +2738,11 @@ msgstr "Mazza del patriarca"
 
 msgctxt "0\t34626\t681\tCHK"
 msgid "Dragon Flash Driver"
-msgstr ""
+msgstr "Dragon Flash Driver"
 
 msgctxt "0\t34646\t682\tCHK"
 msgid "Blue Dragon Bat"
-msgstr ""
+msgstr "Mazza del Drago Blu"
 
 msgctxt "0\t34662\t683\tCHK"
 msgid "Wooden Katana"
@@ -2766,11 +2766,11 @@ msgstr "Lama fotonica PG"
 
 msgctxt "0\t34744\t688\tCHK"
 msgid "Quality Steel Blade"
-msgstr ""
+msgstr "Lama in acciaio di qualità"
 
 msgctxt "0\t34764\t689\tCHK"
 msgid "Nature Blade"
-msgstr ""
+msgstr "Lama della natura"
 
 msgctxt "0\t34777\t690\tCHK"
 msgid "Ornate Blade"
@@ -2778,7 +2778,7 @@ msgstr "Lama ornata"
 
 msgctxt "0\t34790\t691\tCHK"
 msgid "Shadow Blade"
-msgstr ""
+msgstr "Lama dell'ombra"
 
 msgctxt "0\t34803\t692\tCHK"
 msgid "Sakura Storm"
@@ -2790,19 +2790,19 @@ msgstr "Lama Muramasa"
 
 msgctxt "0\t34831\t694\tCHK"
 msgid "Kanemitsu Bullet-Cutter"
-msgstr ""
+msgstr "Taglia-proiettili Kanemitsu"
 
 msgctxt "0\t34855\t695\tCHK"
 msgid "Dragon Emblem Sword"
-msgstr ""
+msgstr "Spada dell'emblema del drago"
 
 msgctxt "0\t34875\t696\tCHK"
 msgid "Collapsible Hammer"
-msgstr ""
+msgstr "Martello pieghevole"
 
 msgctxt "0\t34894\t697\tCHK"
 msgid "Pepper Spray Hammer"
-msgstr ""
+msgstr "Martello al peperoncino"
 
 msgctxt "0\t34914\t698\tCHK"
 msgid "Toy Hammer"
@@ -2810,7 +2810,7 @@ msgstr "Martello giocattolo"
 
 msgctxt "0\t34925\t699\tCHK"
 msgid "Dragon Hammer"
-msgstr ""
+msgstr "Martello del drago"
 
 msgctxt "0\t34939\t700\tCHK"
 msgid "Extendable Staff"
@@ -2818,11 +2818,11 @@ msgstr "Bastone estensibile"
 
 msgctxt "0\t34956\t701\tCHK"
 msgid "Compact Octagon Staff"
-msgstr ""
+msgstr "Bastone ottagonale compatto"
 
 msgctxt "0\t34978\t702\tCHK"
 msgid "Blade Staff"
-msgstr ""
+msgstr "Bastone con lama"
 
 msgctxt "0\t34990\t703\tCHK"
 msgid "Assassin's Spear"
@@ -2830,11 +2830,11 @@ msgstr "Lancia dell'assassino"
 
 msgctxt "0\t35007\t704\tCHK"
 msgid "Steel Extendable Staff"
-msgstr ""
+msgstr "Bastone estensibile in acciaio"
 
 msgctxt "0\t35030\t705\tCHK"
 msgid "Spiked Staff"
-msgstr ""
+msgstr "Bastone chiodato"
 
 msgctxt "0\t35043\t706\tCHK"
 msgid "Purgatory Rod"
@@ -2842,7 +2842,7 @@ msgstr "Verga del Purgatory"
 
 msgctxt "0\t35057\t707\tCHK"
 msgid "White Dragon Spear"
-msgstr ""
+msgstr "Lancia del Drago Bianco"
 
 msgctxt "0\t35076\t708\tCHK"
 msgid "Expulsion S-12"
@@ -2862,7 +2862,7 @@ msgstr "Tirapugni"
 
 msgctxt "0\t35126\t712\tCHK"
 msgid "Paper Tiger Knuckles"
-msgstr ""
+msgstr "Tirapugni Tigre di carta"
 
 msgctxt "0\t35147\t713\tCHK"
 msgid "Pepper Knuckles"
@@ -2874,15 +2874,15 @@ msgstr "Tirapugni chiodati"
 
 msgctxt "0\t35179\t715\tCHK"
 msgid "Ogre Knuckles"
-msgstr ""
+msgstr "Tirapugni dell'orco"
 
 msgctxt "0\t35193\t716\tCHK"
 msgid "Iron Gloves"
-msgstr ""
+msgstr "Guanti di ferro"
 
 msgctxt "0\t35205\t717\tCHK"
 msgid "Dragon Knuckles"
-msgstr ""
+msgstr "Tirapugni del drago"
 
 msgctxt "0\t35221\t718\tCHK"
 msgid "Pepper Spray"
@@ -2890,7 +2890,7 @@ msgstr "Spray al peperoncino"
 
 msgctxt "0\t35234\t719\tCHK"
 msgid "Fake Dynamite"
-msgstr ""
+msgstr "Finta dinamite"
 
 msgctxt "0\t35248\t720\tCHK"
 msgid "Slime Spray"
@@ -2906,7 +2906,7 @@ msgstr "Accendino stordente modificato"
 
 msgctxt "0\t35299\t723\tCHK"
 msgid "Mail Order Tonfa"
-msgstr ""
+msgstr "Tonfa per corrispondenza"
 
 msgctxt "0\t35316\t724\tCHK"
 msgid "Iron Tonfa"
@@ -2918,19 +2918,19 @@ msgstr "Tonfa d'acciaio"
 
 msgctxt "0\t35339\t726\tCHK"
 msgid "Carbon Tonfa"
-msgstr ""
+msgstr "Tonfa in carbonio"
 
 msgctxt "0\t35352\t727\tCHK"
 msgid "Bladed Tonfa"
-msgstr ""
+msgstr "Tonfa con lama"
 
 msgctxt "0\t35365\t728\tCHK"
 msgid "Retrofire Tonfa"
-msgstr ""
+msgstr "Tonfa a retrocarica"
 
 msgctxt "0\t35381\t729\tCHK"
 msgid "Chinese Dragon Tonfa"
-msgstr ""
+msgstr "Tonfa del drago cinese"
 
 msgctxt "0\t35402\t730\tCHK"
 msgid "Wooden Nunchaku"
@@ -2942,7 +2942,7 @@ msgstr "Nunchaku lunghi"
 
 msgctxt "0\t35432\t732\tCHK"
 msgid "Heavy Nunchaku"
-msgstr ""
+msgstr "Nunchaku pesanti"
 
 msgctxt "0\t35447\t733\tCHK"
 msgid "Twin Hangers"
@@ -2950,7 +2950,7 @@ msgstr "Doppie grucce"
 
 msgctxt "0\t35460\t734\tCHK"
 msgid "Carbon Nunchaku"
-msgstr ""
+msgstr "Nunchaku in carbonio"
 
 msgctxt "0\t35476\t735\tCHK"
 msgid "Steel Nunchaku"
@@ -2974,35 +2974,35 @@ msgstr "Bacchette taiko chiodate"
 
 msgctxt "0\t35559\t740\tCHK"
 msgid "Double Sticks"
-msgstr ""
+msgstr "Doppi bastoni"
 
 msgctxt "0\t35573\t741\tCHK"
 msgid "Double Shafts"
-msgstr ""
+msgstr "Doppie aste"
 
 msgctxt "0\t35587\t742\tCHK"
 msgid "Double Stun Sticks"
-msgstr ""
+msgstr "Doppi bastoni stordenti"
 
 msgctxt "0\t35606\t743\tCHK"
 msgid "Double Coils"
-msgstr ""
+msgstr "Doppie bobine"
 
 msgctxt "0\t35619\t744\tCHK"
 msgid "Premium Double Shafts"
-msgstr ""
+msgstr "Doppie aste premium"
 
 msgctxt "0\t35641\t745\tCHK"
 msgid "Double Swords"
-msgstr ""
+msgstr "Doppie spade"
 
 msgctxt "0\t35655\t746\tCHK"
 msgid "Double Broadswords"
-msgstr ""
+msgstr "Doppi spadoni"
 
 msgctxt "0\t35674\t747\tCHK"
 msgid "Dragon Taiko Sticks"
-msgstr ""
+msgstr "Bacchette Taiko del Drago"
 
 msgctxt "0\t35694\t748\tCHK"
 msgid "9mm Automatic Pistol"
@@ -3014,11 +3014,11 @@ msgstr "Rivoltella a doppia azione"
 
 msgctxt "0\t35738\t750\tCHK"
 msgid "Fake Pistol"
-msgstr ""
+msgstr "Pistola finta"
 
 msgctxt "0\t35750\t751\tCHK"
 msgid "Drow-Z 55"
-msgstr ""
+msgstr "Drow-Z 55"
 
 msgctxt "0\t35760\t752\tCHK"
 msgid "Golden Pistol"
@@ -3026,7 +3026,7 @@ msgstr "Pistola dorata"
 
 msgctxt "0\t35774\t753\tCHK"
 msgid "Gurukun"
-msgstr ""
+msgstr "Gurukun"
 
 msgctxt "0\t35782\t754\tCHK"
 msgid "Cedar Lumber"
@@ -3042,7 +3042,7 @@ msgstr "Pinze"
 
 msgctxt "0\t35810\t757\tCHK"
 msgid "Flower Pot (Big)"
-msgstr ""
+msgstr "Vaso da fiori (Grande)"
 
 msgctxt "0\t35827\t758\tCHK"
 msgid "Iron Plate"
@@ -3066,11 +3066,11 @@ msgstr "DTTV incompatibile"
 
 msgctxt "0\t35894\t763\tCHK"
 msgid "Full Face Helmet"
-msgstr ""
+msgstr "Casco integrale"
 
 msgctxt "0\t35911\t764\tCHK"
 msgid "Maneki-neko"
-msgstr ""
+msgstr "Maneki-neko"
 
 msgctxt "0\t35923\t765\tCHK"
 msgid "Long Iron Pipe"
@@ -3078,11 +3078,11 @@ msgstr "Tubo di ferro lungo"
 
 msgctxt "0\t35938\t766\tCHK"
 msgid "Worn Leather Belt"
-msgstr ""
+msgstr "Cintura di pelle usurata"
 
 msgctxt "0\t35956\t767\tCHK"
 msgid "Old Chain"
-msgstr ""
+msgstr "Vecchia catena"
 
 msgctxt "0\t35966\t768\tCHK"
 msgid "Rope"
@@ -3098,7 +3098,7 @@ msgstr "Roccia"
 
 msgctxt "0\t35986\t771\tCHK"
 msgid "Broken Plate"
-msgstr ""
+msgstr "Piatto rotto"
 
 msgctxt "0\t35999\t772\tCHK"
 msgid "Gas Stove"
@@ -3106,11 +3106,11 @@ msgstr "Fornello a gas"
 
 msgctxt "0\t36009\t773\tCHK"
 msgid "Hard Hat"
-msgstr ""
+msgstr "Elmetto"
 
 msgctxt "0\t36018\t774\tCHK"
 msgid "Goya"
-msgstr ""
+msgstr "Goya"
 
 msgctxt "0\t36023\t775\tCHK"
 msgid "Fire Extinguisher"
@@ -3122,7 +3122,7 @@ msgstr "Spezie estreme formato convenienza"
 
 msgctxt "0\t36068\t777\tCHK"
 msgid "Huge Pot Cleaner"
-msgstr ""
+msgstr "Grosso pulisci-pentole"
 
 msgctxt "0\t36085\t778\tCHK"
 msgid "Weathered Telephone Directory"
@@ -3138,7 +3138,7 @@ msgstr "Bottiglia di liquido misterioso"
 
 msgctxt "0\t36155\t781\tCHK"
 msgid "Mysterious Powder Bag"
-msgstr ""
+msgstr "Borsa di polvere misteriosa"
 
 msgctxt "0\t36177\t782\tCHK"
 msgid "Mysterious Syringe"
@@ -3150,7 +3150,7 @@ msgstr "Saliera"
 
 msgctxt "0\t36208\t784\tCHK"
 msgid "House Ball"
-msgstr ""
+msgstr "Palla da bowling"
 
 msgctxt "0\t36219\t785\tCHK"
 msgid "Thick Sandal"
@@ -3162,7 +3162,7 @@ msgstr "Palla da bowling"
 
 msgctxt "0\t36245\t787\tCHK"
 msgid "Flimsy Safety Shoes"
-msgstr ""
+msgstr "Scarpe antinfortunistiche fragili"
 
 msgctxt "0\t36265\t788\tCHK"
 msgid "Kettle"
@@ -3194,51 +3194,51 @@ msgstr "Borsello"
 
 msgctxt "0\t36347\t795\tCHK"
 msgid "Staminan X"
-msgstr ""
+msgstr "Staminan X"
 
 msgctxt "0\t36358\t796\tCHK"
 msgid "Staminan XX"
-msgstr ""
+msgstr "Staminan XX"
 
 msgctxt "0\t36370\t797\tCHK"
 msgid "Staminan Royale"
-msgstr ""
+msgstr "Staminan Royale"
 
 msgctxt "0\t36386\t798\tCHK"
 msgid "Staminan Spark"
-msgstr ""
+msgstr "Staminan Spark"
 
 msgctxt "0\t36401\t799\tCHK"
 msgid "Tauriner"
-msgstr ""
+msgstr "Tauriner"
 
 msgctxt "0\t36410\t800\tCHK"
 msgid "Tauriner +"
-msgstr ""
+msgstr "Tauriner +"
 
 msgctxt "0\t36421\t801\tCHK"
 msgid "Tauriner ++"
-msgstr ""
+msgstr "Tauriner ++"
 
 msgctxt "0\t36433\t802\tCHK"
 msgid "Tauriner Maximum"
-msgstr ""
+msgstr "Tauriner Maximum"
 
 msgctxt "0\t36450\t803\tCHK"
 msgid "Toughness Z"
-msgstr ""
+msgstr "Toughness Z"
 
 msgctxt "0\t36462\t804\tCHK"
 msgid "Toughness ZZ"
-msgstr ""
+msgstr "Toughness ZZ"
 
 msgctxt "0\t36475\t805\tCHK"
 msgid "Toughness Emperor"
-msgstr ""
+msgstr "Toughness Emperor"
 
 msgctxt "0\t36493\t806\tCHK"
 msgid "Toughness Infinity"
-msgstr ""
+msgstr "Toughness Infinity"
 
 msgctxt "0\t36512\t807\tCHK"
 msgid "Sighboard (Type A) Izakaya 01"
@@ -3306,151 +3306,151 @@ msgstr "Proiettile bomba elettrica"
 
 msgctxt "0\t36883\t823\tCHK"
 msgid "Blue House Ball"
-msgstr ""
+msgstr "Palla da bowling blu"
 
 msgctxt "0\t36899\t824\tCHK"
 msgid "Broken Blue House Ball"
-msgstr ""
+msgstr "Palla da bowling blu (Rotta)"
 
 msgctxt "0\t36922\t825\tCHK"
 msgid "Red House Ball"
-msgstr ""
+msgstr "Palla da bowling rossa"
 
 msgctxt "0\t36937\t826\tCHK"
 msgid "Broken Red House Ball"
-msgstr ""
+msgstr "Palla da bowling rossa (Rotta)"
 
 msgctxt "0\t36959\t827\tCHK"
 msgid "Yellow House Ball"
-msgstr ""
+msgstr "Palla da bowling gialla"
 
 msgctxt "0\t36977\t828\tCHK"
 msgid "Broken Yellow House Ball"
-msgstr ""
+msgstr "Palla da bowling gialla (Rotta)"
 
 msgctxt "0\t37002\t829\tCHK"
 msgid "Green House Ball"
-msgstr ""
+msgstr "Palla da bowling verde"
 
 msgctxt "0\t37019\t830\tCHK"
 msgid "Broken Green House Ball"
-msgstr ""
+msgstr "Palla da bowling verde (Rotta)"
 
 msgctxt "0\t37043\t831\tCHK"
 msgid "Propane Gas Canister"
-msgstr ""
+msgstr "Bombola di gas propano"
 
 msgctxt "0\t37064\t832\tCHK"
 msgid "Broken Propane Gas Canister"
-msgstr ""
+msgstr "Bombola di gas propano rotta"
 
 msgctxt "0\t37092\t833\tCHK"
 msgid "Mahjong Parlor Sign"
-msgstr ""
+msgstr "Insegna sala Mahjong"
 
 msgctxt "0\t37112\t834\tCHK"
 msgid "Broken Mahjong Sign"
-msgstr ""
+msgstr "Insegna Mahjong rotta"
 
 msgctxt "0\t37132\t835\tCHK"
 msgid "Mahjong Parlor Nighttime Sign"
-msgstr ""
+msgstr "Insegna notturna sala Mahjong"
 
 msgctxt "0\t37162\t836\tCHK"
 msgid "Broken Mahjong Nighttime Sign"
-msgstr ""
+msgstr "Insegna notturna Mahjong rotta"
 
 msgctxt "0\t37192\t837\tCHK"
 msgid "Soba Shop Chair"
-msgstr ""
+msgstr "Sedia del negozio di Soba"
 
 msgctxt "0\t37208\t838\tCHK"
 msgid "Broken Soba Shop Chair"
-msgstr ""
+msgstr "Sedia del negozio di Soba rotta"
 
 msgctxt "0\t37231\t839\tCHK"
 msgid "Soba Shop Sign with Pig"
-msgstr ""
+msgstr "Insegna del negozio di Soba con maiale"
 
 msgctxt "0\t37255\t840\tCHK"
 msgid "Broken Soba Shop Pig"
-msgstr ""
+msgstr "Maiale del negozio di Soba rotto"
 
 msgctxt "0\t37276\t841\tCHK"
 msgid "Soba Shop Sign"
-msgstr ""
+msgstr "Insegna del negozio di Soba"
 
 msgctxt "0\t37291\t842\tCHK"
 msgid "Broken Soba Shop Sign"
-msgstr ""
+msgstr "Insegna del negozio di Soba rotta"
 
 msgctxt "0\t37313\t843\tCHK"
 msgid "Wooden Signboard"
-msgstr ""
+msgstr "Insegna di legno"
 
 msgctxt "0\t37330\t844\tCHK"
 msgid "Broken Wooden Signboard"
-msgstr ""
+msgstr "Insegna di legno rotta"
 
 msgctxt "0\t37354\t845\tCHK"
 msgid "Canal Grande Sign"
-msgstr ""
+msgstr "Insegna Canal Grande"
 
 msgctxt "0\t37372\t846\tCHK"
 msgid "Broken Signboard"
-msgstr ""
+msgstr "Insegna rotta"
 
 msgctxt "0\t37389\t847\tCHK"
 msgid "South Island Sign"
-msgstr ""
+msgstr "Insegna South Island"
 
 msgctxt "0\t37407\t848\tCHK"
 msgid "Broken Island Sign"
-msgstr ""
+msgstr "Insegna Island rotta"
 
 msgctxt "0\t37426\t849\tCHK"
 msgid "Broken Dealer Sign"
-msgstr ""
+msgstr "Insegna del Dealer rotta"
 
 msgctxt "0\t37445\t850\tCHK"
 msgid "M Store Sign"
-msgstr ""
+msgstr "Insegna M Store"
 
 msgctxt "0\t37458\t851\tCHK"
 msgid "Soki Soba Sign"
-msgstr ""
+msgstr "Insegna Soki Soba"
 
 msgctxt "0\t37473\t852\tCHK"
 msgid "Broken Soba Sign"
-msgstr ""
+msgstr "Insegna Soba rotta"
 
 msgctxt "0\t37490\t853\tCHK"
 msgid "Downtown Ryukyu Soba Flag"
-msgstr ""
+msgstr "Bandiera Soba del centro di Ryukyu"
 
 msgctxt "0\t37516\t854\tCHK"
 msgid "Diving Flag"
-msgstr ""
+msgstr "Bandiera Diving"
 
 msgctxt "0\t37528\t855\tCHK"
 msgid "Stone Wall"
-msgstr ""
+msgstr "Muro di pietra"
 
 msgctxt "0\t37539\t856\tCHK"
 msgid "Stone Wall Piece"
-msgstr ""
+msgstr "Pezzo di muro di pietra"
 
 msgctxt "0\t37556\t857\tCHK"
 msgid "Stone Wall (Box)"
-msgstr ""
+msgstr "Muro di pietra (Scatola)"
 
 msgctxt "0\t37573\t858\tCHK"
 msgid "Stone Wall (Plane)"
-msgstr ""
+msgstr "Muro di pietra (Piano)"
 
 msgctxt "0\t37592\t859\tCHK"
 msgid "Mini-Truck"
-msgstr ""
+msgstr "Mini-Camion"
 
 msgctxt "0\t37603\t860\tCHK"
 msgid "Broken Trash Can"
@@ -3462,7 +3462,7 @@ msgstr "Lampada"
 
 msgctxt "0\t37625\t862\tCHK"
 msgid "Broken Lamp"
-msgstr ""
+msgstr "Lampada rotta"
 
 msgctxt "0\t37637\t863\tCHK"
 msgid "Vibrant Plant Pot Fragment"
@@ -3486,39 +3486,39 @@ msgstr "TV rotta"
 
 msgctxt "0\t37729\t868\tCHK"
 msgid "Coliseum_Abyss_Pre-Destruction_Transparent"
-msgstr ""
+msgstr "Coliseum_Abyss_Pre-Destruction_Transparent"
 
 msgctxt "0\t37772\t869\tCHK"
 msgid "Coliseum_Abyss_First_Destruction_Transparent"
-msgstr ""
+msgstr "Coliseum_Abyss_First_Destruction_Transparent"
 
 msgctxt "0\t37817\t870\tCHK"
 msgid "Coliseum_Abyss_First_Destruction_Fragment"
-msgstr ""
+msgstr "Coliseum_Abyss_First_Destruction_Fragment"
 
 msgctxt "0\t37859\t871\tCHK"
 msgid "Coliseum_Abyss_Second_Destruction_Fragment"
-msgstr ""
+msgstr "Coliseum_Abyss_Second_Destruction_Fragment"
 
 msgctxt "0\t37902\t872\tCHK"
 msgid "Coliseum_Normal_Column"
-msgstr ""
+msgstr "Coliseum_Normal_Column"
 
 msgctxt "0\t37925\t873\tCHK"
 msgid "Coliseum_Normal_Fence_Transparent"
-msgstr ""
+msgstr "Coliseum_Normal_Fence_Transparent"
 
 msgctxt "0\t37959\t874\tCHK"
 msgid "Coliseum_Normal_Column_Transparent"
-msgstr ""
+msgstr "Coliseum_Normal_Column_Transparent"
 
 msgctxt "0\t37994\t875\tCHK"
 msgid "Coliseum_Abyss_Column"
-msgstr ""
+msgstr "Coliseum_Abyss_Column"
 
 msgctxt "0\t38016\t876\tCHK"
 msgid "Coliseum_Abyss_Column_Transparent"
-msgstr ""
+msgstr "Coliseum_Abyss_Column_Transparent"
 
 msgctxt "0\t38050\t877\tCHK"
 msgid "Broken Photon Blade"
@@ -3614,19 +3614,19 @@ msgstr "Doppie aste premium rotte"
 
 msgctxt "0\t38571\t900\tCHK"
 msgid "Broken Tabasco Bottle"
-msgstr ""
+msgstr "Bottiglia di Tabasco rotta"
 
 msgctxt "0\t38593\t901\tCHK"
 msgid "Broken Telephone Directory"
-msgstr ""
+msgstr "Elenco telefonico rotto"
 
 msgctxt "0\t38620\t902\tCHK"
 msgid "Broken Hot Peppers"
-msgstr ""
+msgstr "Peperoncini rotti"
 
 msgctxt "0\t38639\t903\tCHK"
 msgid "Broken Mystery Liquid Bottle"
-msgstr ""
+msgstr "Bottiglia di liquido misterioso rotta"
 
 msgctxt "0\t38668\t904\tCHK"
 msgid "Broken Mail Order Tonfa Fragment"
@@ -3678,7 +3678,7 @@ msgstr "Frammento di doppie bobine rotte"
 
 msgctxt "0\t39041\t916\tCHK"
 msgid "Broken Dragon Tonfa"
-msgstr ""
+msgstr "Tonfa del drago rotti"
 
 msgctxt "0\t39061\t917\tCHK"
 msgid "Broken Bottle"
@@ -3690,7 +3690,7 @@ msgstr "Frammento di lama fotonica rotta"
 
 msgctxt "0\t39104\t919\tCHK"
 msgid "Broken Hammer"
-msgstr ""
+msgstr "Martello rotto"
 
 msgctxt "0\t39118\t920\tCHK"
 msgid "Broken Blade Staff Fragment"
@@ -3706,15 +3706,15 @@ msgstr "Frammento di bastone chiodato rotto"
 
 msgctxt "0\t39208\t923\tCHK"
 msgid "Broken Dragon Staff"
-msgstr ""
+msgstr "Bastone del drago rotto"
 
 msgctxt "0\t39228\t924\tCHK"
 msgid "Wooden Bench"
-msgstr ""
+msgstr "Panchina di legno"
 
 msgctxt "0\t39241\t925\tCHK"
 msgid "Wooden Bench Fragment"
-msgstr ""
+msgstr "Frammento di panchina di legno"
 
 msgctxt "0\t39263\t926\tCHK"
 msgid "Small Wooden Sign"
@@ -3742,159 +3742,159 @@ msgstr "Tavolo di legno rotto"
 
 msgctxt "0\t39359\t932\tCHK"
 msgid "Tasteful Urn"
-msgstr ""
+msgstr "Urna di buon gusto"
 
 msgctxt "0\t39372\t933\tCHK"
 msgid "Broken Urn"
-msgstr ""
+msgstr "Urna rotta"
 
 msgctxt "0\t39383\t934\tCHK"
 msgid "No Hawking Sign"
-msgstr ""
+msgstr "Cartello divieto di vendita ambulante"
 
 msgctxt "0\t39399\t935\tCHK"
 msgid "Broken Arcade Sign"
-msgstr ""
+msgstr "Insegna sala giochi rotta"
 
 msgctxt "0\t39418\t936\tCHK"
 msgid "Gambling Sign"
-msgstr ""
+msgstr "Insegna gioco d'azzardo"
 
 msgctxt "0\t39432\t937\tCHK"
 msgid "Broken Gambling Sign"
-msgstr ""
+msgstr "Insegna gioco d'azzardo rotta"
 
 msgctxt "0\t39453\t938\tCHK"
 msgid "Sushi Sign"
-msgstr ""
+msgstr "Insegna Sushi"
 
 msgctxt "0\t39464\t939\tCHK"
 msgid "Broken Sushi Sign"
-msgstr ""
+msgstr "Insegna Sushi rotta"
 
 msgctxt "0\t39482\t940\tCHK"
 msgid "Broken Convenience Store Sign"
-msgstr ""
+msgstr "Insegna minimarket rotta"
 
 msgctxt "0\t39512\t941\tCHK"
 msgid "Accessory Sign"
-msgstr ""
+msgstr "Insegna accessori"
 
 msgctxt "0\t39527\t942\tCHK"
 msgid "Broken Accessory Sign"
-msgstr ""
+msgstr "Insegna accessori rotta"
 
 msgctxt "0\t39549\t943\tCHK"
 msgid "Shisa Sign"
-msgstr ""
+msgstr "Insegna Shisa"
 
 msgctxt "0\t39560\t944\tCHK"
 msgid "Broken Shisa Sign"
-msgstr ""
+msgstr "Insegna Shisa rotta"
 
 msgctxt "0\t39578\t945\tCHK"
 msgid "Dancing Sign"
-msgstr ""
+msgstr "Insegna ballo"
 
 msgctxt "0\t39591\t946\tCHK"
 msgid "Broken Dancing Sign"
-msgstr ""
+msgstr "Insegna ballo rotta"
 
 msgctxt "0\t39611\t947\tCHK"
 msgid "Chinsuko Cookies Sign"
-msgstr ""
+msgstr "Insegna biscotti Chinsuko"
 
 msgctxt "0\t39633\t948\tCHK"
 msgid "Broken Chinsuko Cookies Sign"
-msgstr ""
+msgstr "Insegna biscotti Chinsuko rotta"
 
 msgctxt "0\t39662\t949\tCHK"
 msgid "Sign's Contents"
-msgstr ""
+msgstr "Contenuto dell'insegna"
 
 msgctxt "0\t39678\t950\tCHK"
 msgid "Broken Sign's Contents"
-msgstr ""
+msgstr "Contenuto dell'insegna rotto"
 
 msgctxt "0\t39701\t951\tCHK"
 msgid "Broken Sign's Contents Small"
-msgstr ""
+msgstr "Contenuto dell'insegna rotto piccolo"
 
 msgctxt "0\t39730\t952\tCHK"
 msgid "Cooking Shop Sign"
-msgstr ""
+msgstr "Insegna negozio di cucina"
 
 msgctxt "0\t39748\t953\tCHK"
 msgid "Broken Cooking Shop Sign"
-msgstr ""
+msgstr "Insegna negozio di cucina rotta"
 
 msgctxt "0\t39773\t954\tCHK"
 msgid "Open Sign Stepladder"
-msgstr ""
+msgstr "Scala con cartello Aperto"
 
 msgctxt "0\t39794\t955\tCHK"
 msgid "Broken Open Sign"
-msgstr ""
+msgstr "Cartello Aperto rotto"
 
 msgctxt "0\t39811\t956\tCHK"
 msgid "Broken Open Sign Stepladder"
-msgstr ""
+msgstr "Scala con cartello Aperto rotta"
 
 msgctxt "0\t39839\t957\tCHK"
 msgid "AQUA Sign"
-msgstr ""
+msgstr "Insegna AQUA"
 
 msgctxt "0\t39849\t958\tCHK"
 msgid "Broken AQUA Sign"
-msgstr ""
+msgstr "Insegna AQUA rotta"
 
 msgctxt "0\t39866\t959\tCHK"
 msgid "Red Bench"
-msgstr ""
+msgstr "Panchina rossa"
 
 msgctxt "0\t39876\t960\tCHK"
 msgid "Broken Red Bench"
-msgstr ""
+msgstr "Panchina rossa rotta"
 
 msgctxt "0\t39893\t961\tCHK"
 msgid "Chest"
-msgstr ""
+msgstr "Cassapanca"
 
 msgctxt "0\t39899\t962\tCHK"
 msgid "Broken Hospital Chest Model 01"
-msgstr ""
+msgstr "Cassapanca d'ospedale rotta Modello 01"
 
 msgctxt "0\t39930\t963\tCHK"
 msgid "Broken Hospital Chest Model 02"
-msgstr ""
+msgstr "Cassapanca d'ospedale rotta Modello 02"
 
 msgctxt "0\t39961\t964\tCHK"
 msgid "Bed"
-msgstr ""
+msgstr "Letto"
 
 msgctxt "0\t39965\t965\tCHK"
 msgid "Broken Hospital Bed"
-msgstr ""
+msgstr "Letto d'ospedale rotto"
 
 msgctxt "0\t39985\t966\tCHK"
 msgid "Broken Hospital Locker Model 01"
-msgstr ""
+msgstr "Armadietto d'ospedale rotto Modello 01"
 
 msgctxt "0\t40017\t967\tCHK"
 msgid "Broken Locker Fragment Model 01"
-msgstr ""
+msgstr "Frammento armadietto rotto Modello 01"
 
 msgctxt "0\t40049\t968\tCHK"
 msgid "Partitioning Screen"
-msgstr ""
+msgstr "Paravento divisorio"
 
 msgctxt "0\t40069\t969\tCHK"
 msgid "Broken Partitioning Screen Model"
-msgstr ""
+msgstr "Paravento divisorio rotto Modello"
 
 msgctxt "0\t40102\t970\tCHK"
 msgid "Broken Cardboard Box"
-msgstr ""
+msgstr "Scatola di cartone rotta"
 
 msgctxt "0\t40123\t971\tCHK"
 msgid "Bench"
@@ -3902,11 +3902,11 @@ msgstr "Panchina"
 
 msgctxt "0\t40129\t972\tCHK"
 msgid "Bench Fragment"
-msgstr ""
+msgstr "Frammento di panchina"
 
 msgctxt "0\t40144\t973\tCHK"
 msgid "Broken Bench"
-msgstr ""
+msgstr "Panchina rotta"
 
 msgctxt "0\t40157\t974\tCHK"
 msgid "Broken Bench Model"
@@ -3914,15 +3914,15 @@ msgstr "Modello chiave inglese rotta"
 
 msgctxt "0\t40176\t975\tCHK"
 msgid "Broken Vibrant Plant Model"
-msgstr ""
+msgstr "Pianta vibrante rotta Modello"
 
 msgctxt "0\t40203\t976\tCHK"
 msgid "Broken Sofa Table"
-msgstr ""
+msgstr "Tavolino da divano rotto"
 
 msgctxt "0\t40221\t977\tCHK"
 msgid "Broken Round Table"
-msgstr ""
+msgstr "Tavolo rotondo rotto"
 
 msgctxt "0\t40240\t978\tCHK"
 msgid "Broken Hospital Sofa Model 01"
@@ -3934,47 +3934,47 @@ msgstr "Modello divano rotto ospedale 01"
 
 msgctxt "0\t40300\t980\tCHK"
 msgid "Extremely Robust Vase"
-msgstr ""
+msgstr "Vaso estremamente robusto"
 
 msgctxt "0\t40322\t981\tCHK"
 msgid "Broken Hospital Vase Model 01"
-msgstr ""
+msgstr "Vaso d'ospedale rotto Modello 01"
 
 msgctxt "0\t40352\t982\tCHK"
 msgid "Broken Plant"
-msgstr ""
+msgstr "Pianta rotta"
 
 msgctxt "0\t40365\t983\tCHK"
 msgid "Broken Garbage Can (Burnables)"
-msgstr ""
+msgstr "Bidone spazzatura rotto (Combustibili)"
 
 msgctxt "0\t40396\t984\tCHK"
 msgid "Broken Garbage Can (Unburnables)"
-msgstr ""
+msgstr "Bidone spazzatura rotto (Non combustibili)"
 
 msgctxt "0\t40429\t985\tCHK"
 msgid "Receptionist Machine"
-msgstr ""
+msgstr "Macchina della reception"
 
 msgctxt "0\t40450\t986\tCHK"
 msgid "Broken Receptionist Machine"
-msgstr ""
+msgstr "Macchina della reception rotta"
 
 msgctxt "0\t40478\t987\tCHK"
 msgid "Hospital Sign 01 Broken Model"
-msgstr ""
+msgstr "Insegna ospedale 01 rotta Modello"
 
 msgctxt "0\t40508\t988\tCHK"
 msgid "Broken Table"
-msgstr ""
+msgstr "Tavolo rotto"
 
 msgctxt "0\t40521\t989\tCHK"
 msgid "Stretcher"
-msgstr ""
+msgstr "Barella"
 
 msgctxt "0\t40531\t990\tCHK"
 msgid "Broken Stretcher Model"
-msgstr ""
+msgstr "Barella rotta Modello"
 
 msgctxt "0\t40554\t991\tCHK"
 msgid "Broken Office Sofa 03 Model"
@@ -3982,19 +3982,19 @@ msgstr "Modello divano da ufficio rotto 03"
 
 msgctxt "0\t40582\t992\tCHK"
 msgid "Catering Trolley"
-msgstr ""
+msgstr "Carrello catering"
 
 msgctxt "0\t40599\t993\tCHK"
 msgid "Broken Catering Trolley Model"
-msgstr ""
+msgstr "Carrello catering rotto Modello"
 
 msgctxt "0\t40629\t994\tCHK"
 msgid "Coat Rack"
-msgstr ""
+msgstr "Appendiabiti"
 
 msgctxt "0\t40639\t995\tCHK"
 msgid "Broken Coat Rack Model"
-msgstr ""
+msgstr "Appendiabiti rotto Modello"
 
 msgctxt "0\t40662\t996\tCHK"
 msgid "Lantern"
@@ -4030,23 +4030,23 @@ msgstr "(Rivelazione hact) (AVV) Scatola di fazzoletti"
 
 msgctxt "0\t40848\t1004\tCHK"
 msgid "(Revelation hact) (ADV) Bowling Ball (3 Ball Set)"
-msgstr ""
+msgstr "(Rivelazione) (Minigioco) Palle da bowling (Set da 3)"
 
 msgctxt "0\t40898\t1005\tCHK"
 msgid "(Revelation hact) (ADV) Old Woman's Scooter"
-msgstr ""
+msgstr "(Rivelazione) (Minigioco) Scooter dell'anziana"
 
 msgctxt "0\t40942\t1006\tCHK"
 msgid "(Revelation hact) Old Woman's Scooter"
-msgstr ""
+msgstr "(Rivelazione) Scooter dell'anziana"
 
 msgctxt "0\t40980\t1007\tCHK"
 msgid "(Revelation hact) Kabu"
-msgstr ""
+msgstr "(Rivelazione) Kabu"
 
 msgctxt "0\t41003\t1008\tCHK"
 msgid "(Revelation hact) Soba Steamer"
-msgstr ""
+msgstr "(Rivelazione) Vaporiera Soba"
 
 msgctxt "0\t41034\t1009\tCHK"
 msgid "(HACT) Broken Crown (Sedan) Windshield Glass"
@@ -4054,7 +4054,7 @@ msgstr "(HACT) Vetro del parabrezza rotto Crown (berlina)"
 
 msgctxt "0\t41079\t1010\tCHK"
 msgid "(HACT) Broken Crown (Light Van) Windshield Glass"
-msgstr ""
+msgstr "(HACT) Vetro parabrezza Crown (Furgone leggero) rotto"
 
 msgctxt "0\t41128\t1011\tCHK"
 msgid "(HACT) Nunchaku Chain"
@@ -4066,39 +4066,39 @@ msgstr "(Oggetto di recupero) Borsellino (temp.)"
 
 msgctxt "0\t41179\t1013\tCHK"
 msgid "(Scenario) (ADV) (Ch 1) Bouquet"
-msgstr ""
+msgstr "(Scenario) (ADV) (Cap 1) Bouquet"
 
 msgctxt "0\t41211\t1014\tCHK"
 msgid "(Scenario) (ADV) (Ch 1) Beer Case"
-msgstr ""
+msgstr "(Scenario) (ADV) (Cap 1) Cassa di birra"
 
 msgctxt "0\t41245\t1015\tCHK"
 msgid "(Scenario) (ADV) (Ch 2) Kiryu's Curry & Rice"
-msgstr ""
+msgstr "(Scenario) (ADV) (Cap 2) Riso al curry di Kiryu"
 
 msgctxt "0\t41290\t1016\tCHK"
 msgid "(Scenario) (ADV) (Ch 2) The Kids' Curry & Rice"
-msgstr ""
+msgstr "(Scenario) (ADV) (Cap 2) Riso al curry dei bambini"
 
 msgctxt "0\t41337\t1017\tCHK"
 msgid "(Scenario) (ADV) (Ch 2) Rikiya's Light Truck"
-msgstr ""
+msgstr "(Scenario) (ADV) (Cap 2) Furgone leggero di Rikiya"
 
 msgctxt "0\t41382\t1018\tCHK"
 msgid "(Scenario) (ADV) (Ch 3) Lost Sketchbook"
-msgstr ""
+msgstr "(Scenario) (ADV) (Cap 3) Album da disegno perso"
 
 msgctxt "0\t41422\t1019\tCHK"
 msgid "(Scenario) (ADV) (Ch 3) Stardust Stack of Bills"
-msgstr ""
+msgstr "(Scenario) (ADV) (Cap 3) Mazzetta di banconote dello Stardust"
 
 msgctxt "0\t41470\t1020\tCHK"
 msgid "(Scenario) (ADV) (Ch 6) Youngster's Glass"
-msgstr ""
+msgstr "(Scenario) (ADV) (Cap 6) Bicchiere del giovane"
 
 msgctxt "0\t41512\t1021\tCHK"
 msgid "(Scenario) (ADV) (Ch 6) Tojo Clan Exec's Picture"
-msgstr ""
+msgstr "(Scenario) (ADV) (Cap 6) Foto del dirigente del Clan Tojo"
 
 msgctxt "0\t41561\t1022\tCHK"
 msgid "(Scenario) (ADV) (Ch 6) \"Base Defense Order\" Newspaper"
@@ -4106,83 +4106,83 @@ msgstr ""
 
 msgctxt "0\t41616\t1023\tCHK"
 msgid "(Scenario) (ADV) (Ch 6) Picture of Susuzki and Majima"
-msgstr ""
+msgstr "(Scenario) (ADV) (Cap 6) Foto di Suzuki e Majima"
 
 msgctxt "0\t41670\t1024\tCHK"
 msgid "(Scenario) (ADV) (Ch 5) Glass of Whisky and Water"
-msgstr ""
+msgstr "(Scenario) (ADV) (Cap 5) Bicchiere di whisky e acqua"
 
 msgctxt "0\t41720\t1025\tCHK"
 msgid "(Scenario) (ADV) (Ch 6) Kiryu's Glass"
-msgstr ""
+msgstr "(Scenario) (ADV) (Cap 6) Bicchiere di Kiryu"
 
 msgctxt "0\t41758\t1026\tCHK"
 msgid "(Scenario) (ADV) (Ch 6) Date's Glass"
-msgstr ""
+msgstr "(Scenario) (ADV) (Cap 6) Bicchiere di Date"
 
 msgctxt "0\t41795\t1027\tCHK"
 msgid "(Scenario) (ADV) (Ch 9) Expensive Car"
-msgstr ""
+msgstr "(Scenario) (ADV) (Cap 9) Macchina costosa"
 
 msgctxt "0\t41833\t1028\tCHK"
 msgid "(Scenario) (ADV) (Ch 10) Glass of Whisky and Water"
-msgstr ""
+msgstr "(Scenario) (ADV) (Cap 10) Bicchiere di whisky e acqua"
 
 msgctxt "0\t41884\t1029\tCHK"
 msgid "(Scenario) (ADV) (Ch 10) Date-san's Cigarettes"
-msgstr ""
+msgstr "(Scenario) (ADV) (Cap 10) Sigarette di Date-san"
 
 msgctxt "0\t41931\t1030\tCHK"
 msgid "(Scenario) (ADV) (Ch 11) Strip Club Glass"
-msgstr ""
+msgstr "(Scenario) (ADV) (Cap 11) Bicchiere dello strip club"
 
 msgctxt "0\t41973\t1031\tCHK"
 msgid "(Scenario) (ADV) (Ch 11) Kiryu's Jacket"
-msgstr ""
+msgstr "(Scenario) (ADV) (Cap 11) Giacca di Kiryu"
 
 msgctxt "0\t42013\t1032\tCHK"
 msgid "(Scenario) (ADV) (Ch 2) Cushion"
-msgstr ""
+msgstr "(Scenario) (ADV) (Cap 2) Cuscino"
 
 msgctxt "0\t42045\t1033\tCHK"
 msgid "(Scenario) (ADV) (Ch 5) Stardust: Table Set A"
-msgstr ""
+msgstr "(Scenario) (ADV) (Cap 5) Stardust: Set da tavolo A"
 
 msgctxt "0\t42091\t1034\tCHK"
 msgid "(Scenario) (ADV) (Ch 5) Stardust: Table Set B"
-msgstr ""
+msgstr "(Scenario) (ADV) (Cap 5) Stardust: Set da tavolo B"
 
 msgctxt "0\t42137\t1035\tCHK"
 msgid "(Scenario) (ADV) (Ch 5) Stardust: Table Set C"
-msgstr ""
+msgstr "(Scenario) (ADV) (Cap 5) Stardust: Set da tavolo C"
 
 msgctxt "0\t42183\t1036\tCHK"
 msgid "(Scenario) (ADV) [Doghouse] Mame's House"
-msgstr ""
+msgstr "(Scenario) (ADV) [Cuccia] Casa di Mame"
 
 msgctxt "0\t42224\t1037\tCHK"
 msgid "(Scenario) (ADV) [Doghouse] Mame's Destroyed House"
-msgstr ""
+msgstr "(Scenario) (ADV) [Cuccia] Casa distrutta di Mame"
 
 msgctxt "0\t42275\t1038\tCHK"
 msgid "(Scenario) (BTL) (Ch 12) Daigo's Stretcher"
-msgstr ""
+msgstr "(Scenario) (BTL) (Cap 12) Barella di Daigo"
 
 msgctxt "0\t42318\t1039\tCHK"
 msgid "(Scenario) (Sub) Will"
-msgstr ""
+msgstr "(Scenario) (Sub) Testamento"
 
 msgctxt "0\t42340\t1040\tCHK"
 msgid "(Scenario) (Sub) Shoes"
-msgstr ""
+msgstr "(Scenario) (Sub) Scarpe"
 
 msgctxt "0\t42363\t1041\tCHK"
 msgid "(Scenario) (Sub) Ayako's Bag"
-msgstr ""
+msgstr "(Scenario) (Sub) Borsa di Ayako"
 
 msgctxt "0\t42392\t1042\tCHK"
 msgid "(Scenario) (Sub) Forged Card"
-msgstr ""
+msgstr "(Scenario) (Sub) Carta falsificata"
 
 msgctxt "0\t42421\t1043\tCHK"
 msgid "(Bar) (Suntory) Yamazaki 25 Years"
@@ -4198,7 +4198,7 @@ msgstr "(Bar) (Suntory) Hakushu 12 anni"
 
 msgctxt "0\t42522\t1046\tCHK"
 msgid "(Bar) (Suntory) The Macallan 1946"
-msgstr ""
+msgstr "(Bar) (Suntory) The Macallan 1946"
 
 msgctxt "0\t42556\t1047\tCHK"
 msgid "(Bar) (Suntory) The Macallan 30 Years"
@@ -4234,7 +4234,7 @@ msgstr "(Bar) (Suntory) Hibiki 30 anni"
 
 msgctxt "0\t42845\t1055\tCHK"
 msgid "(Bar) (Suntory) Hibiki"
-msgstr ""
+msgstr "(Bar) (Suntory) Hibiki"
 
 msgctxt "0\t42868\t1056\tCHK"
 msgid "(Bar) (Suntory) Hokuto 12 Years"
@@ -4242,11 +4242,11 @@ msgstr "(Bar) (Suntory) Hokuto 12 anni"
 
 msgctxt "0\t42900\t1057\tCHK"
 msgid "(Bar) (Suntory) Kakubin"
-msgstr ""
+msgstr "(Bar) (Suntory) Kakubin"
 
 msgctxt "0\t42924\t1058\tCHK"
 msgid "(Bar) (Suntory) The Suntory Old"
-msgstr ""
+msgstr "(Bar) (Suntory) The Suntory Old"
 
 msgctxt "0\t42956\t1059\tCHK"
 msgid "(Bar) (Suntory) Ballantine's 30 Years Old"
@@ -4258,19 +4258,19 @@ msgstr "(Bar) (Suntory) Ballantine's 17 anni"
 
 msgctxt "0\t43040\t1061\tCHK"
 msgid "(Bar) (Suntory) Ballantine's Finest Scotch"
-msgstr ""
+msgstr "(Bar) (Suntory) Ballantine's Finest Scotch"
 
 msgctxt "0\t43083\t1062\tCHK"
 msgid "(Bar) (Suntory) Jack Daniel's"
-msgstr ""
+msgstr "(Bar) (Suntory) Jack Daniel's"
 
 msgctxt "0\t43113\t1063\tCHK"
 msgid "(Bar) (Suntory) Early Times"
-msgstr ""
+msgstr "(Bar) (Suntory) Early Times"
 
 msgctxt "0\t43141\t1064\tCHK"
 msgid "(Bar) (Suntory) XO Deluxe"
-msgstr ""
+msgstr "(Bar) (Suntory) XO Deluxe"
 
 msgctxt "0\t43167\t1065\tCHK"
 msgid "(Bar) (Suntory) Suntory Brandy V.S.O.P"
@@ -4278,39 +4278,39 @@ msgstr "(Bar) (Suntory) Brandy Suntory V.S.O.P"
 
 msgctxt "0\t43206\t1066\tCHK"
 msgid "(Bar) (Suntory) V.O"
-msgstr ""
+msgstr "(Bar) (Suntory) V.O"
 
 msgctxt "0\t43226\t1067\tCHK"
 msgid "(Bar) (Suntory) Courvoisier XO"
-msgstr ""
+msgstr "(Bar) (Suntory) Courvoisier XO"
 
 msgctxt "0\t43257\t1068\tCHK"
 msgid "(Bar) (Suntory) The Premium Malt's"
-msgstr ""
+msgstr "(Bar) (Suntory) The Premium Malt's"
 
 msgctxt "0\t43292\t1069\tCHK"
 msgid "(Bar) (Suntory) Carlsberg"
-msgstr ""
+msgstr "(Bar) (Suntory) Carlsberg"
 
 msgctxt "0\t43318\t1070\tCHK"
 msgid "(Bar) (Suntory) Kyogetsu Green"
-msgstr ""
+msgstr "(Bar) (Suntory) Kyogetsu Green"
 
 msgctxt "0\t43349\t1071\tCHK"
 msgid "(Bar) (Suntory) Ryukyu Awamori Churajima"
-msgstr ""
+msgstr "(Bar) (Suntory) Ryukyu Awamori Churajima"
 
 msgctxt "0\t43390\t1072\tCHK"
 msgid "(Bar) (Suntory) Ryukyu Awamori Tenryugura"
-msgstr ""
+msgstr "(Bar) (Suntory) Ryukyu Awamori Tenryugura"
 
 msgctxt "0\t43432\t1073\tCHK"
 msgid "(Bar) (Suntory) Beefeater"
-msgstr ""
+msgstr "(Bar) (Suntory) Beefeater"
 
 msgctxt "0\t43458\t1074\tCHK"
 msgid "(Bar) (Suntory) Lemon Hart Demerara"
-msgstr ""
+msgstr "(Bar) (Suntory) Lemon Hart Demerara"
 
 msgctxt "0\t43494\t1075\tCHK"
 msgid "(Bar) (Suntory) Herradura Silver Tequila"
@@ -4330,7 +4330,7 @@ msgstr "(Minigioco) (Distilleria Higa) Zampa White"
 
 msgctxt "0\t43638\t1079\tCHK"
 msgid "(Bar) (Tantakatan) Tantakatan"
-msgstr ""
+msgstr "(Bar) (Tantakatan) Tantakatan"
 
 msgctxt "0\t43668\t1080\tCHK"
 msgid "(Bar) Shot Glass"
@@ -4338,7 +4338,7 @@ msgstr "(Bar) Bicchierino"
 
 msgctxt "0\t43685\t1081\tCHK"
 msgid "(Bar) Tumbler"
-msgstr ""
+msgstr "(Bar) Bicchiere"
 
 msgctxt "0\t43699\t1082\tCHK"
 msgid "(Bar) Whisky Glass"
@@ -4386,7 +4386,7 @@ msgstr "(Minigioco) <Hostess Club> Secchiello del ghiaccio e pinze"
 
 msgctxt "0\t43984\t1093\tCHK"
 msgid "Broken Police Baton"
-msgstr ""
+msgstr "Manganello della polizia rotto"
 
 msgctxt "0\t44004\t1094\tCHK"
 msgid "Broken Kamiyama Police Baton"
@@ -4394,11 +4394,11 @@ msgstr "Manganello della polizia di Kamiyama rotto"
 
 msgctxt "0\t44033\t1095\tCHK"
 msgid "Broken Chinese Broadsword"
-msgstr ""
+msgstr "Spadone cinese rotto"
 
 msgctxt "0\t44059\t1096\tCHK"
 msgid "Broken Lotus Clan Broadsword"
-msgstr ""
+msgstr "Spadone del Clan del Loto rotto"
 
 msgctxt "0\t44088\t1097\tCHK"
 msgid "Broken Stun Gun"
@@ -4594,7 +4594,7 @@ msgstr "Lancia cinese di Liu"
 
 msgctxt "0\t45134\t1145\tCHK"
 msgid "PS-1992"
-msgstr ""
+msgstr "PS-1992"
 
 msgctxt "0\t45142\t1146\tCHK"
 msgid "Red Lion Dagger Fragment"
@@ -4610,7 +4610,7 @@ msgstr "Frammento di spada corta senza nome"
 
 msgctxt "0\t45225\t1149\tCHK"
 msgid "Short Sword Fragment"
-msgstr ""
+msgstr "Frammento di spada corta"
 
 msgctxt "0\t45246\t1150\tCHK"
 msgid "Shintogo Dagger Fragment"
@@ -4626,15 +4626,15 @@ msgstr "Frammento di spada radiosa"
 
 msgctxt "0\t45317\t1153\tCHK"
 msgid "Chinese Broadsword Fragment"
-msgstr ""
+msgstr "Frammento di spadone cinese"
 
 msgctxt "0\t45345\t1154\tCHK"
 msgid "Lotus Clan Broadsword Fragment"
-msgstr ""
+msgstr "Frammento di spadone del Clan del Loto"
 
 msgctxt "0\t45376\t1155\tCHK"
 msgid "Dragon Short Sword Fragment"
-msgstr ""
+msgstr "Frammento di spada corta del drago"
 
 msgctxt "0\t45404\t1156\tCHK"
 msgid "Hyper Stun Gun Piece"
@@ -4686,7 +4686,7 @@ msgstr "Lancia fragile"
 
 msgctxt "0\t45661\t1168\tCHK"
 msgid "Nunchaku"
-msgstr ""
+msgstr "Nunchaku"
 
 msgctxt "0\t45670\t1169\tCHK"
 msgid "Gun"
@@ -4730,11 +4730,11 @@ msgstr "Mazza di metallo del Colosseo"
 
 msgctxt "0\t45782\t1179\tCHK"
 msgid "Colored Ball"
-msgstr ""
+msgstr "Palla colorata"
 
 msgctxt "0\t45795\t1180\tCHK"
 msgid "Gurukun Chunk"
-msgstr ""
+msgstr "Pezzo di Gurukun"
 
 msgctxt "0\t45809\t1181\tCHK"
 msgid "Crowbar Fragment"
@@ -4746,7 +4746,7 @@ msgstr "Pezzo di panchina"
 
 msgctxt "0\t45838\t1183\tCHK"
 msgid "Flower Pot Fragment"
-msgstr ""
+msgstr "Frammento di vaso da fiori"
 
 msgctxt "0\t45858\t1184\tCHK"
 msgid "Victory Daruma Piece"
@@ -4782,7 +4782,7 @@ msgstr "Frammento di lancia grezza"
 
 msgctxt "0\t46024\t1192\tCHK"
 msgid "Bowl"
-msgstr ""
+msgstr "Ciotola"
 
 msgctxt "0\t46029\t1193\tCHK"
 msgid "Bat"
@@ -4882,7 +4882,7 @@ msgstr "Spada radiosa rotta"
 
 msgctxt "0\t46424\t1217\tCHK"
 msgid "Broken Dragon Short Sword"
-msgstr ""
+msgstr "Spada corta del drago rotta"
 
 msgctxt "0\t46450\t1218\tCHK"
 msgid "Wooden Katana Fragment"
@@ -4926,7 +4926,7 @@ msgstr "Frammento di lama Muramasa"
 
 msgctxt "0\t46691\t1228\tCHK"
 msgid "Bullet-Cutter Fragment"
-msgstr ""
+msgstr "Frammento taglia-proiettili"
 
 msgctxt "0\t46714\t1229\tCHK"
 msgid "Dragon Emblem Sword Fragment"
@@ -4954,7 +4954,7 @@ msgstr "Posacenere portatile"
 
 msgctxt "0\t46829\t1235\tCHK"
 msgid "Square Ashtray (Broken)"
-msgstr ""
+msgstr "Posacenere quadrato (Rotto)"
 
 msgctxt "0\t46853\t1236\tCHK"
 msgid "Counter Stool"
@@ -4982,11 +4982,11 @@ msgstr "Armadietto Stardust"
 
 msgctxt "0\t46991\t1242\tCHK"
 msgid "Batting Center Plastic Bucket"
-msgstr ""
+msgstr "Secchio di plastica del Batting Center"
 
 msgctxt "0\t47021\t1243\tCHK"
 msgid "Plastic Bucket (Broken)"
-msgstr ""
+msgstr "Secchio di plastica (Rotto)"
 
 msgctxt "0\t47045\t1244\tCHK"
 msgid "Batting Center Sofa (Broken)"
@@ -5018,7 +5018,7 @@ msgstr "Cassetto della scrivania"
 
 msgctxt "0\t47246\t1251\tCHK"
 msgid "Desk Drawer (Broken)"
-msgstr ""
+msgstr "Cassetto della scrivania (Rotto)"
 
 msgctxt "0\t47267\t1252\tCHK"
 msgid "Generic Office 04 Partition"
@@ -5026,4 +5026,4 @@ msgstr "Divisorio ufficio generico 04"
 
 msgctxt "0\t47295\t1253\tCHK"
 msgid "Partition (Broken)"
-msgstr ""
+msgstr "Paravento (Rotto)"

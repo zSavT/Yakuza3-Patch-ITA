@@ -14,19 +14,19 @@ msgstr ""
 
 msgctxt "530\tGROUP"
 msgid "Related to Case"
-msgstr ""
+msgstr "Coinvolti nel caso"
 
 msgctxt "548\tGROUP"
 msgid "Akechi's Sister"
-msgstr ""
+msgstr "Sorella di Akechi"
 
 msgctxt "566\tGROUP"
 msgid "Kinoshita's Wife"
-msgstr ""
+msgstr "Moglie di Kinoshita"
 
 msgctxt "585\tGROUP"
 msgid "Police Dept."
-msgstr ""
+msgstr "Dipartimento di Polizia"
 
 msgctxt "600\tDIAGRAM_GROUP"
 msgid "Suspect"
@@ -34,99 +34,99 @@ msgstr "Sospettato"
 
 msgctxt "610\tDIAGRAM_GROUP"
 msgid "Victim"
-msgstr ""
+msgstr "Vittima"
 
 msgctxt "619\tDIAGRAM_GROUP"
 msgid "Alps Employees"
-msgstr ""
+msgstr "Dipendenti Alps"
 
 msgctxt "636\tDIAGRAM_GROUP"
 msgid "Akechi's Sister"
-msgstr ""
+msgstr "Sorella di Akechi"
 
 msgctxt "654\tDIAGRAM_GROUP"
 msgid "Kinoshita's Wife"
-msgstr ""
+msgstr "Moglie di Kinoshita"
 
 msgctxt "673\tDIAGRAM_GROUP"
 msgid "Lead Detective"
-msgstr ""
+msgstr "Ispettore Capo"
 
 msgctxt "690\tNAME"
 msgid "Yuichi Akechi"
-msgstr ""
+msgstr "Yuichi Akechi"
 
 msgctxt "706\tNAME"
 msgid "Kazuo Oda"
-msgstr ""
+msgstr "Kazuo Oda"
 
 msgctxt "718\tNAME"
 msgid "Sawako Usami"
-msgstr ""
+msgstr "Sawako Usami"
 
 msgctxt "733\tNAME"
 msgid "Masaru Kinoshita"
-msgstr ""
+msgstr "Masaru Kinoshita"
 
 msgctxt "752\tNAME"
 msgid "Soichiro Asai"
-msgstr ""
+msgstr "Soichiro Asai"
 
 msgctxt "768\tNAME"
 msgid "Tadashi Imagawa"
-msgstr ""
+msgstr "Tadashi Imagawa"
 
 msgctxt "786\tNAME"
 msgid "Nozomi Akechi"
-msgstr ""
+msgstr "Nozomi Akechi"
 
 msgctxt "802\tNAME"
 msgid "Yuko Kinoshita"
-msgstr ""
+msgstr "Yuko Kinoshita"
 
 msgctxt "819\tNAME"
 msgid "Junji Maeda"
-msgstr ""
+msgstr "Junji Maeda"
 
 msgctxt "833\tNAME_SHORT"
 msgid "Akechi"
-msgstr ""
+msgstr "Akechi"
 
 msgctxt "842\tNAME_SHORT"
 msgid "Oda"
-msgstr ""
+msgstr "Oda"
 
 msgctxt "848\tNAME_SHORT"
 msgid "Usami"
-msgstr ""
+msgstr "Usami"
 
 msgctxt "856\tNAME_SHORT"
 msgid "Kinoshita"
-msgstr ""
+msgstr "Kinoshita"
 
 msgctxt "868\tNAME_SHORT"
 msgid "Asai"
-msgstr ""
+msgstr "Asai"
 
 msgctxt "875\tNAME_SHORT"
 msgid "Imagawa"
-msgstr ""
+msgstr "Imagawa"
 
 msgctxt "885\tNAME_SHORT"
 msgid "Nozomi"
-msgstr ""
+msgstr "Nozomi"
 
 msgctxt "894\tNAME_SHORT"
 msgid "Yuko"
-msgstr ""
+msgstr "Yuko"
 
 msgctxt "901\tNAME_SHORT"
 msgid "Maeda"
-msgstr ""
+msgstr "Maeda"
 
 msgctxt "1615\tEXPLANATION"
 msgid "Waiter at Café Alps."
-msgstr ""
+msgstr "Cameriere al Café Alps."
 
 msgctxt "1640\tEXPLANATION"
 msgid ""
@@ -156,7 +156,7 @@ msgstr ""
 
 msgctxt "2319\tEXPLANATION"
 msgid "Manager of Café Alps."
-msgstr ""
+msgstr "Direttore del Café Alps."
 
 msgctxt "2345\tEXPLANATION"
 msgid ""
@@ -180,7 +180,7 @@ msgstr ""
 
 msgctxt "2746\tEXPLANATION"
 msgid "Waitress at Café Alps."
-msgstr ""
+msgstr "Cameriera al Café Alps."
 
 msgctxt "2773\tEXPLANATION"
 msgid ""
@@ -215,7 +215,7 @@ msgstr ""
 
 msgctxt "3396\tEXPLANATION"
 msgid "Waiter at Café Alps."
-msgstr ""
+msgstr "Cameriere al Café Alps."
 
 msgctxt "3421\tEXPLANATION"
 msgid ""
@@ -258,7 +258,7 @@ msgstr ""
 
 msgctxt "4224\tEXPLANATION"
 msgid "Waiter at Café Alps."
-msgstr ""
+msgstr "Cameriere al Café Alps."
 
 msgctxt "4249\tEXPLANATION"
 msgid ""
@@ -298,7 +298,7 @@ msgstr ""
 
 msgctxt "4907\tEXPLANATION"
 msgid "Waiter at Café Alps."
-msgstr ""
+msgstr "Cameriere al Café Alps."
 
 msgctxt "4932\tEXPLANATION"
 msgid ""
@@ -326,7 +326,7 @@ msgstr ""
 
 msgctxt "5260\tEXPLANATION"
 msgid "Akechi's sister."
-msgstr ""
+msgstr "Sorella di Akechi."
 
 msgctxt "5280\tEXPLANATION"
 msgid ""
@@ -340,7 +340,7 @@ msgstr ""
 
 msgctxt "5482\tEXPLANATION"
 msgid "Wife of Masaru Kinoshita."
-msgstr ""
+msgstr "Moglie di Masaru Kinoshita."
 
 msgctxt "5511\tEXPLANATION"
 msgid ""
@@ -364,7 +364,7 @@ msgstr ""
 
 msgctxt "5934\tEXPLANATION"
 msgid "Detective for Police Investigations Division 1."
-msgstr ""
+msgstr "Detective della 1a Divisione Investigativa della Polizia."
 
 msgctxt "5985\tEXPLANATION"
 msgid ""

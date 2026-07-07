@@ -14,59 +14,59 @@ msgstr ""
 
 msgctxt "400\tTITLE"
 msgid "FIRST-ROM ver."
-msgstr ""
+msgstr "Versione FIRST-ROM"
 
 msgctxt "416\tTITLE"
 msgid "Prologue"
-msgstr ""
+msgstr "Prologo"
 
 msgctxt "425\tTITLE"
 msgid "Chapter 1: New Beginnings"
-msgstr ""
+msgstr "Capitolo 1: Nuovi inizi"
 
 msgctxt "451\tTITLE"
 msgid "Chapter 2: The Ryudo Encounter"
-msgstr ""
+msgstr "Capitolo 2: L'incontro con la famiglia Ryudo"
 
 msgctxt "482\tTITLE"
 msgid "Chapter 3: Power Struggle"
-msgstr ""
+msgstr "Capitolo 3: Lotta di potere"
 
 msgctxt "508\tTITLE"
 msgid "Chapter 4: The Man in the Sketch"
-msgstr ""
+msgstr "Capitolo 4: L'uomo nel ritratto"
 
 msgctxt "541\tTITLE"
 msgid "Chapter 5: The Curtain Rises"
-msgstr ""
+msgstr "Capitolo 5: Si alza il sipario"
 
 msgctxt "570\tTITLE"
 msgid "Chapter 6: Gameplan"
-msgstr ""
+msgstr "Capitolo 6: Piano di gioco"
 
 msgctxt "590\tTITLE"
 msgid "Chapter 7: The Mad Dog"
-msgstr ""
+msgstr "Capitolo 7: Il cane pazzo"
 
 msgctxt "613\tTITLE"
 msgid "Chapter 8: Conspirators"
-msgstr ""
+msgstr "Capitolo 8: Cospiratori"
 
 msgctxt "637\tTITLE"
 msgid "Chapter 9: The Plot"
-msgstr ""
+msgstr "Capitolo 9: Il complotto"
 
 msgctxt "657\tTITLE"
 msgid "Chapter 10: Unfinished Business"
-msgstr ""
+msgstr "Capitolo 10: Conti in sospeso"
 
 msgctxt "689\tTITLE"
 msgid "Chapter 11: Crisis"
-msgstr ""
+msgstr "Capitolo 11: Crisi"
 
 msgctxt "708\tTITLE"
 msgid "Chapter 12: The End of Ambition"
-msgstr ""
+msgstr "Capitolo 12: La fine dell'ambizione"
 
 msgctxt "744\tTITLE"
 msgid "The End-"
@@ -140,15 +140,15 @@ msgstr ""
 
 msgctxt "2638\tEXPLANATION"
 msgid "Prologue"
-msgstr ""
+msgstr "Prologo"
 
 msgctxt "2647\tEXPLANATION"
 msgid "Prologue Complete! Chapter 1: New Beginnings"
-msgstr ""
+msgstr "Prologo Completato! Capitolo 1: Nuovi inizi"
 
 msgctxt "2693\tEXPLANATION"
 msgid "I should pay my respects at everyone's graves."
-msgstr ""
+msgstr "Dovrei porgere i miei omaggi alle tombe di tutti."
 
 msgctxt "2740\tEXPLANATION"
 msgid ""
@@ -170,7 +170,7 @@ msgstr ""
 
 msgctxt "3005\tEXPLANATION"
 msgid "Time to teach these thugs to respect their elders."
-msgstr ""
+msgstr "È ora di insegnare a questi teppisti a rispettare i più anziani."
 
 msgctxt "3056\tEXPLANATION"
 msgid ""
@@ -180,11 +180,11 @@ msgstr ""
 
 msgctxt "3114\tEXPLANATION"
 msgid "Time to say goodbye to Kazuki and Emoto."
-msgstr ""
+msgstr "È ora di dire addio a Kazuki ed Emoto."
 
 msgctxt "3155\tEXPLANATION"
 msgid "Time to say goodbye to Kazuki and Emoto."
-msgstr ""
+msgstr "È ora di dire addio a Kazuki ed Emoto."
 
 msgctxt "3196\tEXPLANATION"
 msgid ""
@@ -218,7 +218,7 @@ msgstr ""
 
 msgctxt "3650\tEXPLANATION"
 msgid "There he is. Let's hope this goes well..."
-msgstr ""
+msgstr "Eccolo lì. Speriamo vada bene..."
 
 msgctxt "3692\tEXPLANATION"
 msgid ""
@@ -228,7 +228,7 @@ msgstr ""
 
 msgctxt "3792\tEXPLANATION"
 msgid "Chapter 1 Complete! Chapter 2: The Ryudo Encounter"
-msgstr ""
+msgstr "Capitolo 1 Completato! Capitolo 2: L'incontro con la famiglia Ryudo"
 
 msgctxt "3844\tEXPLANATION"
 msgid ""
@@ -268,7 +268,7 @@ msgstr ""
 
 msgctxt "4362\tEXPLANATION"
 msgid "Chapter 2 Complete! Chapter 3: Power Struggle"
-msgstr ""
+msgstr "Capitolo 2 Completato! Capitolo 3: Lotta di potere"
 
 msgctxt "4409\tEXPLANATION"
 msgid ""
@@ -344,7 +344,7 @@ msgstr ""
 
 msgctxt "5461\tEXPLANATION"
 msgid "Everyone's back from school. Time to get dinner ready."
-msgstr ""
+msgstr "Sono tutti tornati da scuola. È ora di preparare la cena."
 
 msgctxt "5516\tEXPLANATION"
 msgid ""
@@ -444,7 +444,7 @@ msgstr ""
 
 msgctxt "6941\tEXPLANATION"
 msgid "Chapter 3, Complete! Chapter 4: The Man in the Sketch"
-msgstr ""
+msgstr "Capitolo 3 Completato! Capitolo 4: L'uomo nel ritratto"
 
 msgctxt "6996\tEXPLANATION"
 msgid ""
@@ -460,19 +460,19 @@ msgstr ""
 
 msgctxt "7184\tEXPLANATION"
 msgid "I'd better chase this dog down before I lose him."
-msgstr ""
+msgstr "Farei meglio a inseguire questo cane prima di perderlo."
 
 msgctxt "7234\tEXPLANATION"
 msgid "Great... I have to bring Izumi some dog food."
-msgstr ""
+msgstr "Ottimo... Devo portare del cibo per cani a Izumi."
 
 msgctxt "7280\tEXPLANATION"
 msgid "Great... I have to bring Izumi a hamburger."
-msgstr ""
+msgstr "Ottimo... Devo portare un hamburger a Izumi."
 
 msgctxt "7324\tEXPLANATION"
 msgid "Great... I have to bring Izumi some milk."
-msgstr ""
+msgstr "Ottimo... Devo portare del latte a Izumi."
 
 msgctxt "7366\tEXPLANATION"
 msgid ""
@@ -518,11 +518,11 @@ msgstr ""
 
 msgctxt "7985\tEXPLANATION"
 msgid "Got the rubber ball. Now back to Izumi."
-msgstr ""
+msgstr "Presa la pallina di gomma. Ora torniamo da Izumi."
 
 msgctxt "8025\tEXPLANATION"
 msgid "I guess this toy is close enough. Now back to Izumi."
-msgstr ""
+msgstr "Immagino che questo giocattolo andrà bene lo stesso. Ora torniamo da Izumi."
 
 msgctxt "8078\tEXPLANATION"
 msgid ""
@@ -562,7 +562,7 @@ msgstr ""
 
 msgctxt "8568\tEXPLANATION"
 msgid "Riona turned Mitsuo down? I wonder why..."
-msgstr ""
+msgstr "Riona ha respinto Mitsuo? Mi chiedo perché..."
 
 msgctxt "8610\tEXPLANATION"
 msgid ""
@@ -650,7 +650,7 @@ msgstr ""
 
 msgctxt "9808\tEXPLANATION"
 msgid "Chapter 4 Complete! Chapter 5: The Curtain Rises"
-msgstr ""
+msgstr "Capitolo 4 Completato! Capitolo 5: Si alza il sipario"
 
 msgctxt "9858\tEXPLANATION"
 msgid ""
@@ -684,7 +684,7 @@ msgstr ""
 
 msgctxt "10311\tEXPLANATION"
 msgid "Chapter 5 Complete! Chapter 6: Gameplan"
-msgstr ""
+msgstr "Capitolo 5 Completato! Capitolo 6: Piano di gioco"
 
 msgctxt "10352\tEXPLANATION"
 msgid ""
@@ -748,7 +748,7 @@ msgstr ""
 
 msgctxt "11119\tEXPLANATION"
 msgid "Kanda ran off, but I won't let him get away."
-msgstr ""
+msgstr "Kanda è scappato, ma non gli permetterò di farla franca."
 
 msgctxt "11164\tEXPLANATION"
 msgid ""
@@ -776,11 +776,11 @@ msgstr ""
 
 msgctxt "11466\tEXPLANATION"
 msgid "Let's take a breather in Public Park 3."
-msgstr ""
+msgstr "Prendiamoci una pausa al Parco Pubblico 3."
 
 msgctxt "11506\tEXPLANATION"
 msgid "Let's head to Asia, the bikini bar."
-msgstr ""
+msgstr "Andiamo all'Asia, il bikini bar."
 
 msgctxt "11542\tEXPLANATION"
 msgid ""
@@ -796,7 +796,7 @@ msgstr ""
 
 msgctxt "11704\tEXPLANATION"
 msgid "Chapter 6 Complete! Chapter 7: The Mad Dog"
-msgstr ""
+msgstr "Capitolo 6 Completato! Capitolo 7: Il cane pazzo"
 
 msgctxt "11748\tEXPLANATION"
 msgid ""
@@ -806,7 +806,7 @@ msgstr ""
 
 msgctxt "11845\tEXPLANATION"
 msgid "I should follow Majima-san."
-msgstr ""
+msgstr "Dovrei seguire Majima-san."
 
 msgctxt "11873\tEXPLANATION"
 msgid ""
@@ -816,7 +816,7 @@ msgstr ""
 
 msgctxt "11965\tEXPLANATION"
 msgid "Chapter 7 Complete! Chapter 8: Conspirators"
-msgstr ""
+msgstr "Capitolo 7 Completato! Capitolo 8: Cospiratori"
 
 msgctxt "12010\tEXPLANATION"
 msgid ""
@@ -832,7 +832,7 @@ msgstr ""
 
 msgctxt "12169\tEXPLANATION"
 msgid "Chapter 8 Complete! Chapter 9: The Plot"
-msgstr ""
+msgstr "Capitolo 8 Completato! Capitolo 9: Il complotto"
 
 msgctxt "12210\tEXPLANATION"
 msgid ""
@@ -866,7 +866,7 @@ msgstr ""
 
 msgctxt "12612\tEXPLANATION"
 msgid "Chapter 9 Complete! Chapter 10: Unfinished Business"
-msgstr ""
+msgstr "Capitolo 9 Completato! Capitolo 10: Conti in sospeso"
 
 msgctxt "12665\tEXPLANATION"
 msgid ""
@@ -1062,7 +1062,7 @@ msgstr ""
 
 msgctxt "15353\tEXPLANATION"
 msgid "Chapter 10 Complete! Chapter 11: Crisis"
-msgstr ""
+msgstr "Capitolo 10 Completato! Capitolo 11: Crisi"
 
 msgctxt "15394\tEXPLANATION"
 msgid ""
