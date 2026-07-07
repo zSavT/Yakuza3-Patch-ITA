@@ -1,19 +1,20 @@
+#
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=utf-8\n"
-"Language: pt\n"
-"Language-Team: Portuguese, Brazilian\n"
-"Last-Translator: \n"
-"MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: 2026-07-07\n"
 "Project-Id-Version: yakuza-3-remastered\n"
 "Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-07-07\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgctxt "408"
 msgid "Uncle Kaz!?"
-msgstr ""
+msgstr "Zio Kaz?"
 
 msgctxt "432"
 msgid ""
@@ -42,7 +43,7 @@ msgstr ""
 
 msgctxt "504"
 msgid "I, um..."
-msgstr ""
+msgstr "Io, ehm..."
 
 msgctxt "516"
 msgid "Haruka? What's going on here?"
@@ -60,8 +61,8 @@ msgstr ""
 
 msgctxt "552"
 msgid ""
-"No. But if you want to start trouble with that girl, you're gonna have to "
-"go through me first."
+"No. But if you want to start trouble with that girl, you're gonna have to go"
+" through me first."
 msgstr ""
 
 msgctxt "564"
@@ -70,7 +71,7 @@ msgstr ""
 
 msgctxt "600"
 msgid "Uncle Kaz!?"
-msgstr ""
+msgstr "Zio Kaz?"
 
 msgctxt "624"
 msgid ""
@@ -132,7 +133,7 @@ msgstr ""
 
 msgctxt "840"
 msgid "Thank you very much."
-msgstr ""
+msgstr "Grazie mille."
 
 msgctxt "876"
 msgid "That's a lot of money. What's it for?"
@@ -140,7 +141,7 @@ msgstr ""
 
 msgctxt "888"
 msgid "Huh? Who the hell're you, man!?"
-msgstr ""
+msgstr "Eh? Chi cazzo sei!?"
 
 msgctxt "900"
 msgid "Uhhh..."
@@ -148,7 +149,7 @@ msgstr ""
 
 msgctxt "912"
 msgid "Uncle Kaz..."
-msgstr ""
+msgstr "Zio Kaz..."
 
 msgctxt "924"
 msgid ""
@@ -174,7 +175,7 @@ msgstr ""
 
 msgctxt "996"
 msgid "Hm?"
-msgstr ""
+msgstr "Mh?"
 
 msgctxt "1068"
 msgid "(Another sleazeball talking to Haruka... What should I do?)"
@@ -318,11 +319,11 @@ msgstr ""
 
 msgctxt "15344"
 msgid "Officer"
-msgstr ""
+msgstr "Ufficiale"
 
 msgctxt "15348"
 msgid "Shady Man"
-msgstr ""
+msgstr "Tipo Losco"
 
 msgctxt "15352"
 msgid "Talk_Call"
@@ -330,7 +331,7 @@ msgstr ""
 
 msgctxt "15356"
 msgid "Suspicious Man"
-msgstr ""
+msgstr "Uomo sospetto"
 
 msgctxt "15360"
 msgid "Talk_Send"

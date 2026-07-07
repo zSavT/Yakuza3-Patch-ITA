@@ -1,15 +1,16 @@
+#
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=utf-8\n"
-"Language: pt\n"
-"Language-Team: Portuguese, Brazilian\n"
-"Last-Translator: \n"
-"MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: 2026-07-07\n"
 "Project-Id-Version: yakuza-3-remastered\n"
 "Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-07-07\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgctxt "388"
 msgid "Kiryu-san!?"
@@ -17,7 +18,7 @@ msgstr ""
 
 msgctxt "400"
 msgid "Sorry to keep you waiting."
-msgstr ""
+msgstr "Scusa se ti ho fatto aspettare."
 
 msgctxt "412"
 msgid "Oh... I wanted you to come here by yourself..."
@@ -43,7 +44,7 @@ msgstr ""
 
 msgctxt "472"
 msgid "My bad..."
-msgstr ""
+msgstr "Colpa mia..."
 
 msgctxt "484"
 msgid "Well, you can make it up to me... by having a good time with me today."
@@ -63,7 +64,7 @@ msgstr ""
 
 msgctxt "556"
 msgid "What's up?"
-msgstr ""
+msgstr "Che c'è?"
 
 msgctxt "568"
 msgid "You see that guy at that table over there?"
@@ -75,7 +76,7 @@ msgstr ""
 
 msgctxt "592"
 msgid "Really?"
-msgstr ""
+msgstr "Davvero?"
 
 msgctxt "604"
 msgid "Maybe I'm just imagining things, but I think I've seen him before..."
@@ -91,7 +92,7 @@ msgstr ""
 
 msgctxt "640"
 msgid "...Okay."
-msgstr ""
+msgstr "...Ok."
 
 msgctxt "688"
 msgid "By the way, Kiryu-san..."
@@ -103,7 +104,7 @@ msgstr ""
 
 msgctxt "712"
 msgid "What is it?"
-msgstr ""
+msgstr "E cioè?"
 
 msgctxt "724"
 msgid ""
@@ -149,7 +150,7 @@ msgstr ""
 
 msgctxt "832"
 msgid "What?"
-msgstr ""
+msgstr "Cosa?"
 
 msgctxt "844"
 msgid ""
@@ -159,19 +160,20 @@ msgstr ""
 
 msgctxt "856"
 msgid "...All right."
-msgstr ""
+msgstr "...Va bene."
 
 msgctxt "868"
 msgid "Thank you so much, Kiryu-san! I didn't know who else to ask..."
 msgstr ""
 
 msgctxt "880"
-msgid "I'll get in touch with you when we figure out what day we're meeting up."
+msgid ""
+"I'll get in touch with you when we figure out what day we're meeting up."
 msgstr ""
 
 msgctxt "892"
 msgid "All right."
-msgstr ""
+msgstr "Va bene."
 
 msgctxt "916"
 msgid "So... Where are we going?"
@@ -207,7 +209,7 @@ msgstr ""
 
 msgctxt "1036"
 msgid "I guess you could say that."
-msgstr ""
+msgstr "Immagino si possa dire così."
 
 msgctxt "1048"
 msgid "Hehehe... I love Sam's Maui, too! <Color:7>⑮<Color:Default>"
@@ -227,7 +229,7 @@ msgstr ""
 
 msgctxt "1120"
 msgid "Let's get going."
-msgstr ""
+msgstr "Dai, andiamo."
 
 msgctxt "1144"
 msgid "How about we go out for some Okinawan food?"
@@ -239,7 +241,7 @@ msgstr ""
 
 msgctxt "1168"
 msgid "Let's get going."
-msgstr ""
+msgstr "Dai, andiamo."
 
 msgctxt "1204"
 msgid "You up for some pool?"
@@ -267,7 +269,7 @@ msgstr ""
 
 msgctxt "1288"
 msgid "Let's get going."
-msgstr ""
+msgstr "Dai, andiamo."
 
 msgctxt "1324"
 msgid "Let's go to Aqua Sky and play some darts."
@@ -297,14 +299,15 @@ msgstr ""
 
 msgctxt "1408"
 msgid "Let's get going."
-msgstr ""
+msgstr "Dai, andiamo."
 
 msgctxt "1444"
 msgid "Wanna go sing some karaoke?"
 msgstr ""
 
 msgctxt "1456"
-msgid "Karaoke? You know, I'm a pretty decent singer! <Color:7>⑮<Color:Default>"
+msgid ""
+"Karaoke? You know, I'm a pretty decent singer! <Color:7>⑮<Color:Default>"
 msgstr ""
 
 msgctxt "1468"
@@ -313,7 +316,7 @@ msgstr ""
 
 msgctxt "1480"
 msgid "Let's get going."
-msgstr ""
+msgstr "Dai, andiamo."
 
 msgctxt "1504"
 msgid "Wanna go sing some karaoke?"
@@ -327,11 +330,11 @@ msgstr ""
 
 msgctxt "1528"
 msgid "Let's get going."
-msgstr ""
+msgstr "Dai, andiamo."
 
 msgctxt "1552"
 msgid "Oh, Kiryu-san, you're here!"
-msgstr ""
+msgstr "Oh, Kiryu-san. Sei qui!"
 
 msgctxt "1564"
 msgid "Right on time, hehe. That's so like you, Kiryu-san!"
@@ -347,7 +350,7 @@ msgstr ""
 
 msgctxt "1624"
 msgid "What's up?"
-msgstr ""
+msgstr "Che c'è?"
 
 msgctxt "1636"
 msgid "You see that guy at that table over there?"
@@ -359,7 +362,7 @@ msgstr ""
 
 msgctxt "1660"
 msgid "Really?"
-msgstr ""
+msgstr "Davvero?"
 
 msgctxt "1672"
 msgid "Maybe I'm just imagining things, but I think I've seen him before..."
@@ -375,7 +378,7 @@ msgstr ""
 
 msgctxt "1708"
 msgid "...Okay."
-msgstr ""
+msgstr "...Ok."
 
 msgctxt "1756"
 msgid "By the way, Kiryu-san..."
@@ -387,7 +390,7 @@ msgstr ""
 
 msgctxt "1780"
 msgid "What is it?"
-msgstr ""
+msgstr "E cioè?"
 
 msgctxt "1792"
 msgid ""
@@ -433,7 +436,7 @@ msgstr ""
 
 msgctxt "1900"
 msgid "What?"
-msgstr ""
+msgstr "Cosa?"
 
 msgctxt "1912"
 msgid ""
@@ -443,19 +446,20 @@ msgstr ""
 
 msgctxt "1924"
 msgid "...All right."
-msgstr ""
+msgstr "...Va bene."
 
 msgctxt "1936"
 msgid "Thank you so much, Kiryu-san! I didn't know who else to ask..."
 msgstr ""
 
 msgctxt "1948"
-msgid "I'll get in touch with you when we figure out what day we're meeting up."
+msgid ""
+"I'll get in touch with you when we figure out what day we're meeting up."
 msgstr ""
 
 msgctxt "1960"
 msgid "All right."
-msgstr ""
+msgstr "Va bene."
 
 msgctxt "1984"
 msgid "So... Where are we going?"
@@ -511,7 +515,7 @@ msgstr ""
 
 msgctxt "2188"
 msgid "Let's get going."
-msgstr ""
+msgstr "Dai, andiamo."
 
 msgctxt "2212"
 msgid "How about we go out for some Okinawan food?"
@@ -523,7 +527,7 @@ msgstr ""
 
 msgctxt "2236"
 msgid "Let's get going."
-msgstr ""
+msgstr "Dai, andiamo."
 
 msgctxt "2272"
 msgid "You up for some pool?"
@@ -551,7 +555,7 @@ msgstr ""
 
 msgctxt "2356"
 msgid "Let's get going."
-msgstr ""
+msgstr "Dai, andiamo."
 
 msgctxt "2392"
 msgid "Let's go to Aqua Sky and play some darts."
@@ -581,14 +585,15 @@ msgstr ""
 
 msgctxt "2476"
 msgid "Let's get going."
-msgstr ""
+msgstr "Dai, andiamo."
 
 msgctxt "2512"
 msgid "Wanna go sing some karaoke?"
 msgstr ""
 
 msgctxt "2524"
-msgid "Karaoke? You know, I'm a pretty decent singer! <Color:7>⑮<Color:Default>"
+msgid ""
+"Karaoke? You know, I'm a pretty decent singer! <Color:7>⑮<Color:Default>"
 msgstr ""
 
 msgctxt "2536"
@@ -597,7 +602,7 @@ msgstr ""
 
 msgctxt "2548"
 msgid "Let's get going."
-msgstr ""
+msgstr "Dai, andiamo."
 
 msgctxt "2572"
 msgid "Wanna go sing some karaoke?"
@@ -611,7 +616,7 @@ msgstr ""
 
 msgctxt "2596"
 msgid "Let's get going."
-msgstr ""
+msgstr "Dai, andiamo."
 
 msgctxt "2620"
 msgid "Oh, Kiryu-san!"
@@ -633,7 +638,7 @@ msgstr ""
 
 msgctxt "2692"
 msgid "What's up?"
-msgstr ""
+msgstr "Che c'è?"
 
 msgctxt "2704"
 msgid "You see that guy at that table over there?"
@@ -645,7 +650,7 @@ msgstr ""
 
 msgctxt "2728"
 msgid "Really?"
-msgstr ""
+msgstr "Davvero?"
 
 msgctxt "2740"
 msgid "Maybe I'm just imagining things, but I think I've seen him before..."
@@ -661,7 +666,7 @@ msgstr ""
 
 msgctxt "2776"
 msgid "...Okay."
-msgstr ""
+msgstr "...Ok."
 
 msgctxt "2824"
 msgid "By the way, Kiryu-san..."
@@ -673,7 +678,7 @@ msgstr ""
 
 msgctxt "2848"
 msgid "What is it?"
-msgstr ""
+msgstr "E cioè?"
 
 msgctxt "2860"
 msgid ""
@@ -719,7 +724,7 @@ msgstr ""
 
 msgctxt "2968"
 msgid "What?"
-msgstr ""
+msgstr "Cosa?"
 
 msgctxt "2980"
 msgid ""
@@ -729,19 +734,20 @@ msgstr ""
 
 msgctxt "2992"
 msgid "...All right."
-msgstr ""
+msgstr "...Va bene."
 
 msgctxt "3004"
 msgid "Thank you so much, Kiryu-san! I didn't know who else to ask..."
 msgstr ""
 
 msgctxt "3016"
-msgid "I'll get in touch with you when we figure out what day we're meeting up."
+msgid ""
+"I'll get in touch with you when we figure out what day we're meeting up."
 msgstr ""
 
 msgctxt "3028"
 msgid "All right."
-msgstr ""
+msgstr "Va bene."
 
 msgctxt "3052"
 msgid "So... Where are we going?"
@@ -797,7 +803,7 @@ msgstr ""
 
 msgctxt "3256"
 msgid "Let's get going."
-msgstr ""
+msgstr "Dai, andiamo."
 
 msgctxt "3280"
 msgid "How about we go out for some Okinawan food?"
@@ -809,7 +815,7 @@ msgstr ""
 
 msgctxt "3304"
 msgid "Let's get going."
-msgstr ""
+msgstr "Dai, andiamo."
 
 msgctxt "3340"
 msgid "You up for some pool?"
@@ -837,7 +843,7 @@ msgstr ""
 
 msgctxt "3424"
 msgid "Let's get going."
-msgstr ""
+msgstr "Dai, andiamo."
 
 msgctxt "3460"
 msgid "Let's go to Aqua Sky and play some darts."
@@ -867,14 +873,15 @@ msgstr ""
 
 msgctxt "3544"
 msgid "Let's get going."
-msgstr ""
+msgstr "Dai, andiamo."
 
 msgctxt "3580"
 msgid "Wanna go sing some karaoke?"
 msgstr ""
 
 msgctxt "3592"
-msgid "Karaoke? You know, I'm a pretty decent singer! <Color:7>⑮<Color:Default>"
+msgid ""
+"Karaoke? You know, I'm a pretty decent singer! <Color:7>⑮<Color:Default>"
 msgstr ""
 
 msgctxt "3604"
@@ -883,7 +890,7 @@ msgstr ""
 
 msgctxt "3616"
 msgid "Let's get going."
-msgstr ""
+msgstr "Dai, andiamo."
 
 msgctxt "3640"
 msgid "Wanna go sing some karaoke?"
@@ -897,7 +904,7 @@ msgstr ""
 
 msgctxt "3664"
 msgid "Let's get going."
-msgstr ""
+msgstr "Dai, andiamo."
 
 msgctxt "3688"
 msgid "How about Sam's Maui?"
@@ -909,7 +916,7 @@ msgstr ""
 
 msgctxt "3712"
 msgid "How about we play some pool?"
-msgstr ""
+msgstr "Ti va di fare una partita a biliardo?"
 
 msgctxt "3724"
 msgid "How about we play some darts?"
@@ -929,7 +936,7 @@ msgstr ""
 
 msgctxt "3772"
 msgid "How about we play some pool?"
-msgstr ""
+msgstr "Ti va di fare una partita a biliardo?"
 
 msgctxt "3784"
 msgid "How about we play some darts?"
@@ -949,7 +956,7 @@ msgstr ""
 
 msgctxt "3832"
 msgid "How about we play some pool?"
-msgstr ""
+msgstr "Ti va di fare una partita a biliardo?"
 
 msgctxt "3844"
 msgid "How about we play some darts?"
@@ -977,7 +984,7 @@ msgstr ""
 
 msgctxt "36320"
 msgid "Shady Man"
-msgstr ""
+msgstr "Tipo Losco"
 
 msgctxt "36324"
 msgid "Talk_Ase"

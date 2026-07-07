@@ -1,15 +1,16 @@
+#
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=utf-8\n"
-"Language: pt\n"
-"Language-Team: Portuguese, Brazilian\n"
-"Last-Translator: \n"
-"MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: 2026-07-07\n"
 "Project-Id-Version: yakuza-3-remastered\n"
 "Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-07-07\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgctxt "64"
 msgid "You're gonna get it this time, you stupid mutt!"
@@ -17,7 +18,7 @@ msgstr ""
 
 msgctxt "76"
 msgid "Stop!"
-msgstr ""
+msgstr "Fermo!"
 
 msgctxt "112"
 msgid "Izumi. This dog a friend of yours?"
@@ -29,11 +30,11 @@ msgstr ""
 
 msgctxt "172"
 msgid "Get back!"
-msgstr ""
+msgstr "Stai indietro!"
 
 msgctxt "196"
 msgid "Wait!"
-msgstr ""
+msgstr "Aspetta!"
 
 msgctxt "208"
 msgid "Come back!"
@@ -74,7 +75,7 @@ msgstr ""
 
 msgctxt "304"
 msgid "Yeah..."
-msgstr ""
+msgstr "Già..."
 
 msgctxt "316"
 msgid "Can I go look for the dog, Uncle Kaz? Please!"
@@ -94,7 +95,7 @@ msgstr ""
 
 msgctxt "376"
 msgid "Yes please!"
-msgstr ""
+msgstr "Sì. Ti prego!"
 
 msgctxt "400"
 msgid "No luck, boys?"
@@ -126,7 +127,7 @@ msgstr ""
 
 msgctxt "484"
 msgid "Okay!"
-msgstr ""
+msgstr "Va bene!"
 
 msgctxt "496"
 msgid "You're really gonna go after it?"
@@ -156,7 +157,7 @@ msgstr ""
 
 msgctxt "568"
 msgid "Sounds good."
-msgstr ""
+msgstr "Mi sembra una buona idea."
 
 msgctxt "580"
 msgid "C'mon, Izumi!"
@@ -164,7 +165,7 @@ msgstr ""
 
 msgctxt "592"
 msgid "Coming!"
-msgstr ""
+msgstr "Arrivo!"
 
 msgctxt "8852"
 msgid "Mikio"
@@ -176,7 +177,7 @@ msgstr ""
 
 msgctxt "8860"
 msgid "Idle"
-msgstr ""
+msgstr "Inattivo"
 
 msgctxt "8864"
 msgid "Kiryu"

@@ -1,15 +1,16 @@
+#
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=utf-8\n"
-"Language: pt\n"
-"Language-Team: Portuguese, Brazilian\n"
-"Last-Translator: \n"
-"MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: 2026-07-07\n"
 "Project-Id-Version: yakuza-3-remastered\n"
 "Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-07-07\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgctxt "128"
 msgid ""
@@ -67,7 +68,7 @@ msgstr ""
 
 msgctxt "308"
 msgid "Ugh..."
-msgstr ""
+msgstr "Uff..."
 
 msgctxt "320"
 msgid "Who asked you, anyway? Creep!"
@@ -85,7 +86,7 @@ msgstr ""
 
 msgctxt "356"
 msgid "You got <Color:8>50,000 yen<Color:Default>."
-msgstr ""
+msgstr "Hai ottenuto <Color:8>50.000 yen<Color:Default>."
 
 msgctxt "368"
 msgid "Man... What a night."
@@ -115,7 +116,7 @@ msgstr ""
 
 msgctxt "476"
 msgid "Oof!"
-msgstr ""
+msgstr "Uff!"
 
 msgctxt "524"
 msgid ""
@@ -145,7 +146,7 @@ msgstr ""
 
 msgctxt "632"
 msgid "What happened?"
-msgstr ""
+msgstr "Che è successo?"
 
 msgctxt "644"
 msgid ""
@@ -155,11 +156,11 @@ msgstr ""
 
 msgctxt "656"
 msgid "All right."
-msgstr ""
+msgstr "Va bene."
 
 msgctxt "740"
 msgid "What is this place?"
-msgstr ""
+msgstr "Cos'è questo posto?"
 
 msgctxt "752"
 msgid ""
@@ -175,7 +176,7 @@ msgstr ""
 
 msgctxt "776"
 msgid "So that's what this is about..."
-msgstr ""
+msgstr "Oh, ecco di cosa si tratta..."
 
 msgctxt "788"
 msgid ""
@@ -209,12 +210,11 @@ msgstr ""
 
 msgctxt "860"
 msgid "Thanks a lot!"
-msgstr ""
+msgstr "Grazie mille!"
 
 msgctxt "872"
 msgid ""
-"Press <Action:Button_R3@Adventure> to switch to a first-person perspective "
-"and\r\n"
+"Press <Action:Button_R3@Adventure> to switch to a first-person perspective and\r\n"
 "make sure there are no shady characters lurking nearby."
 msgstr ""
 
@@ -242,7 +242,7 @@ msgstr ""
 
 msgctxt "10188"
 msgid "Idle"
-msgstr ""
+msgstr "Inattivo"
 
 msgctxt "10192"
 msgid "Talk_OK"
@@ -298,7 +298,7 @@ msgstr ""
 
 msgctxt "10244"
 msgid "dummy"
-msgstr ""
+msgstr "dummy"
 
 msgctxt "10248"
 msgid "Talk_Quest"

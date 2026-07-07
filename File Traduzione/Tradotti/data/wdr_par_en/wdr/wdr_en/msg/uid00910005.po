@@ -1,15 +1,16 @@
+#
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=utf-8\n"
-"Language: pt\n"
-"Language-Team: Portuguese, Brazilian\n"
-"Last-Translator: \n"
-"MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: 2026-07-07\n"
 "Project-Id-Version: yakuza-3-remastered\n"
 "Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-07-07\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgctxt "600"
 msgid ""
@@ -29,7 +30,7 @@ msgstr ""
 
 msgctxt "636"
 msgid "Got it."
-msgstr ""
+msgstr "Capito."
 
 msgctxt "648"
 msgid "I thought you might have."
@@ -40,16 +41,18 @@ msgid "What about him? He's... an acquaintance of mine."
 msgstr ""
 
 msgctxt "672"
-msgid "What? Hmm, maybe that's a different Minamida, then. Don't worry about it."
+msgid ""
+"What? Hmm, maybe that's a different Minamida, then. Don't worry about it."
 msgstr ""
 
 msgctxt "684"
-msgid "Just in case he is the same person, though, be extra careful around him."
+msgid ""
+"Just in case he is the same person, though, be extra careful around him."
 msgstr ""
 
 msgctxt "696"
 msgid "Got it."
-msgstr ""
+msgstr "Capito."
 
 msgctxt "708"
 msgid ""
@@ -63,7 +66,7 @@ msgstr ""
 
 msgctxt "732"
 msgid "What about him?"
-msgstr ""
+msgstr "E lui?"
 
 msgctxt "804"
 msgid ""
@@ -77,7 +80,7 @@ msgstr ""
 
 msgctxt "828"
 msgid "Well, no, but..."
-msgstr ""
+msgstr "Beh no, ma..."
 
 msgctxt "840"
 msgid "Come on. What's wrong?"
@@ -108,8 +111,8 @@ msgstr ""
 
 msgctxt "900"
 msgid ""
-"We keep running into walls. Minamida is the only solid lead we could get. "
-"He was the president of a video game company that went bankrupt."
+"We keep running into walls. Minamida is the only solid lead we could get. He"
+" was the president of a video game company that went bankrupt."
 msgstr ""
 
 msgctxt "912"
@@ -118,8 +121,8 @@ msgstr ""
 
 msgctxt "924"
 msgid ""
-"We're not sure, but based on the information we've gathered, it seems "
-"you've become one of Amon's targets."
+"We're not sure, but based on the information we've gathered, it seems you've"
+" become one of Amon's targets."
 msgstr ""
 
 msgctxt "936"
@@ -130,7 +133,7 @@ msgstr ""
 
 msgctxt "948"
 msgid "Got it."
-msgstr ""
+msgstr "Capito."
 
 msgctxt "960"
 msgid ""
@@ -153,7 +156,8 @@ msgid "I'll do my best to carry on Kashiwagi-san's legacy."
 msgstr ""
 
 msgctxt "1056"
-msgid "I know you have an awful lot on your plate, so take care of yourself, okay?"
+msgid ""
+"I know you have an awful lot on your plate, so take care of yourself, okay?"
 msgstr ""
 
 msgctxt "1068"
@@ -170,7 +174,7 @@ msgstr ""
 
 msgctxt "1104"
 msgid "What's going on?"
-msgstr ""
+msgstr "Cosa succede?"
 
 msgctxt "1116"
 msgid "There's a man making a big scene in front of the restaurant!"
@@ -202,7 +206,7 @@ msgstr ""
 
 msgctxt "1200"
 msgid "Just leave him to us."
-msgstr ""
+msgstr "Lascia che me ne occupi io."
 
 msgctxt "1212"
 msgid "Kiryu-san, well done."
@@ -214,7 +218,7 @@ msgstr ""
 
 msgctxt "1236"
 msgid "You got <Color:8>50,000 yen<Color:Default>."
-msgstr ""
+msgstr "Hai ottenuto <Color:8>50.000 yen<Color:Default>."
 
 msgctxt "1248"
 msgid "Please come back again. We're really counting on you."
@@ -244,7 +248,7 @@ msgstr ""
 
 msgctxt "1320"
 msgid "You got <Color:8>70,000 yen<Color:Default>."
-msgstr ""
+msgstr "Hai intascato <Color:8>80.000 yen<Color:Default>."
 
 msgctxt "1332"
 msgid "Please come back again. We're really counting on you."
@@ -272,7 +276,7 @@ msgstr ""
 
 msgctxt "1404"
 msgid "You got <Color:8>90,000 yen<Color:Default>."
-msgstr ""
+msgstr "Hai intascato <Color:8>80.000 yen<Color:Default>."
 
 msgctxt "1416"
 msgid "Please come back again. We're really counting on you."
@@ -304,7 +308,7 @@ msgstr ""
 
 msgctxt "1488"
 msgid "You got <Color:8>90,000 yen<Color:Default>."
-msgstr ""
+msgstr "Hai intascato <Color:8>80.000 yen<Color:Default>."
 
 msgctxt "1500"
 msgid "Please come back again. We're really counting on you."
@@ -334,7 +338,7 @@ msgstr ""
 
 msgctxt "1572"
 msgid "You got <Color:8>80,000 yen<Color:Default>."
-msgstr ""
+msgstr "Hai intascato <Color:8>80.000 yen<Color:Default>."
 
 msgctxt "1584"
 msgid "Please come back again. We're really counting on you."
@@ -346,8 +350,8 @@ msgstr ""
 
 msgctxt "1608"
 msgid ""
-"We asked Kurenai all kinds of questions, but it seems he really doesn't "
-"know that much about the Reapers."
+"We asked Kurenai all kinds of questions, but it seems he really doesn't know"
+" that much about the Reapers."
 msgstr ""
 
 msgctxt "1620"
@@ -372,7 +376,7 @@ msgstr ""
 
 msgctxt "1668"
 msgid "You got <Color:8>100,000 yen<Color:Default>."
-msgstr ""
+msgstr "Hai ottenuto <Color:8>100.000 yen<Color:Default>."
 
 msgctxt "1680"
 msgid "Please come back again. We're really counting on you."
@@ -402,7 +406,7 @@ msgstr ""
 
 msgctxt "1752"
 msgid "You got <Color:8>120,000 yen<Color:Default>."
-msgstr ""
+msgstr "Hai ottenuto <Color:8>20.000 yen<Color:Default>."
 
 msgctxt "1764"
 msgid "Please come back again. We're really counting on you."
@@ -428,7 +432,7 @@ msgstr ""
 
 msgctxt "1824"
 msgid "You got <Color:8>120,000 yen<Color:Default>."
-msgstr ""
+msgstr "Hai ottenuto <Color:8>20.000 yen<Color:Default>."
 
 msgctxt "1836"
 msgid "Please come back again. We're really counting on you."
@@ -450,7 +454,7 @@ msgstr ""
 
 msgctxt "1884"
 msgid "You got <Color:8>150,000 yen<Color:Default>."
-msgstr ""
+msgstr "Hai ottenuto <Color:8>150.000 yen<Color:Default>."
 
 msgctxt "1896"
 msgid "Please come back again. We're really counting on you."
@@ -486,7 +490,7 @@ msgstr ""
 
 msgctxt "1992"
 msgid "You got <Color:8>130,000 yen<Color:Default>."
-msgstr ""
+msgstr "Hai ottenuto <Color:8>30.000 yen<Color:Default>."
 
 msgctxt "2004"
 msgid "Please come back again. We're really counting on you."
@@ -518,7 +522,7 @@ msgstr ""
 
 msgctxt "2076"
 msgid "You got <Color:8>140,000 yen<Color:Default>."
-msgstr ""
+msgstr "Hai ottenuto <Color:8>40.000 yen<Color:Default>."
 
 msgctxt "2088"
 msgid "Please come back again. We're really counting on you."
@@ -548,7 +552,7 @@ msgstr ""
 
 msgctxt "2160"
 msgid "You got <Color:8>180,000 yen<Color:Default>."
-msgstr ""
+msgstr "Hai intascato <Color:8>80.000 yen<Color:Default>."
 
 msgctxt "2172"
 msgid "Please come back again. We're really counting on you."
@@ -560,8 +564,8 @@ msgstr ""
 
 msgctxt "2208"
 msgid ""
-"We believe Gohren knows a great deal about the Reapers, but he's refusing "
-"to tell us anything at the moment."
+"We believe Gohren knows a great deal about the Reapers, but he's refusing to"
+" tell us anything at the moment."
 msgstr ""
 
 msgctxt "2220"
@@ -586,7 +590,7 @@ msgstr ""
 
 msgctxt "2268"
 msgid "You got <Color:8>200,000 yen<Color:Default>."
-msgstr ""
+msgstr "Hai ottenuto <Color:8>200.000 yen<Color:Default>."
 
 msgctxt "2280"
 msgid "Please come back again. We're really counting on you."
@@ -607,7 +611,8 @@ msgid ""
 msgstr ""
 
 msgctxt "2328"
-msgid "He said he'd contact us, but do you really think he'll go through with it?"
+msgid ""
+"He said he'd contact us, but do you really think he'll go through with it?"
 msgstr ""
 
 msgctxt "2340"
@@ -618,7 +623,7 @@ msgstr ""
 
 msgctxt "2352"
 msgid "I guess so."
-msgstr ""
+msgstr "Immagino di sì."
 
 msgctxt "2364"
 msgid "Here is your reward."
@@ -650,7 +655,7 @@ msgstr ""
 
 msgctxt "2436"
 msgid "You got <Color:8>250,000 yen<Color:Default>."
-msgstr ""
+msgstr "Hai ottenuto <Color:8>50.000 yen<Color:Default>."
 
 msgctxt "2448"
 msgid "Anyway, sit tight for now. We need to be prepared on our end, too."
@@ -662,7 +667,7 @@ msgstr ""
 
 msgctxt "2472"
 msgid "That's it."
-msgstr ""
+msgstr "Tutto qui."
 
 msgctxt "2484"
 msgid ""
@@ -672,8 +677,8 @@ msgstr ""
 
 msgctxt "2496"
 msgid ""
-"You don't need to thank me. It was the least I could do to honor "
-"Kashiwagi-san's memory."
+"You don't need to thank me. It was the least I could do to honor Kashiwagi-"
+"san's memory."
 msgstr ""
 
 msgctxt "2508"
@@ -682,7 +687,7 @@ msgstr ""
 
 msgctxt "2520"
 msgid "I see."
-msgstr ""
+msgstr "Capisco."
 
 msgctxt "2532"
 msgid ""
@@ -700,11 +705,11 @@ msgstr ""
 
 msgctxt "2568"
 msgid "You got <Color:8>300,000 yen<Color:Default>."
-msgstr ""
+msgstr "Hai ottenuto <Color:8>30.000 yen<Color:Default>."
 
 msgctxt "2580"
 msgid "You got a <Color:8>Muramasa Blade<Color:Default>."
-msgstr ""
+msgstr "Hai ottenuto una <Color:8>Lama Muramasa<Color:Default>."
 
 msgctxt "2604"
 msgid "Good luck with everything."
@@ -712,7 +717,7 @@ msgstr ""
 
 msgctxt "2616"
 msgid "You, too, Kiryu-san."
-msgstr ""
+msgstr "Pure tu, Kiryu-san!"
 
 msgctxt "2628"
 msgid "Until next time, right?"
@@ -720,7 +725,7 @@ msgstr ""
 
 msgctxt "2640"
 msgid "Yeah."
-msgstr ""
+msgstr "Sì."
 
 msgctxt "2712"
 msgid ""
@@ -739,12 +744,13 @@ msgid "All right then. Feel free to call on me anytime."
 msgstr ""
 
 msgctxt "2748"
-msgid "This is the information we have on the hitman we're tracking down right now."
+msgid ""
+"This is the information we have on the hitman we're tracking down right now."
 msgstr ""
 
 msgctxt "2772"
 msgid "Good luck."
-msgstr ""
+msgstr "Buona fortuna."
 
 msgctxt "2784"
 msgid "Good work, Kiryu-san."
@@ -752,7 +758,7 @@ msgstr ""
 
 msgctxt "2796"
 msgid "What would you like to do now?"
-msgstr ""
+msgstr "Cosa vuoi fare adesso?"
 
 msgctxt "2808"
 msgid "All right then. Feel free to call on me anytime."
@@ -768,9 +774,9 @@ msgctxt "2832"
 msgid ""
 "If you select \"View Requests\" when talking to Ibuki, a list of the "
 "requests you can accept at that time will be displayed. Press "
-"<Action:Button_Cross@UI> at the View Requests screen to see an "
-"investigative report on a particular hitman. To accept a request, select "
-"the \"Accept this Request\" command."
+"<Action:Button_Cross@UI> at the View Requests screen to see an investigative"
+" report on a particular hitman. To accept a request, select the \"Accept "
+"this Request\" command."
 msgstr ""
 
 msgctxt "2844"
@@ -782,9 +788,8 @@ msgstr ""
 msgctxt "2856"
 msgid ""
 "Items on the list marked \"Done\" indicate missions that have already been "
-"completed. You can view the mission currently underway as well as "
-"previously completed missions by selecting \"Substories\" from the Pause "
-"Menu."
+"completed. You can view the mission currently underway as well as previously"
+" completed missions by selecting \"Substories\" from the Pause Menu."
 msgstr ""
 
 msgctxt "2868"
@@ -797,11 +802,11 @@ msgstr ""
 
 msgctxt "2916"
 msgid "Good luck."
-msgstr ""
+msgstr "Buona fortuna."
 
 msgctxt "2940"
 msgid "Yeah, I know him."
-msgstr ""
+msgstr "Sì, lo so."
 
 msgctxt "2952"
 msgid "No, never heard of him."
@@ -809,7 +814,7 @@ msgstr ""
 
 msgctxt "2964"
 msgid "Yeah, I know him."
-msgstr ""
+msgstr "Sì, lo so."
 
 msgctxt "2976"
 msgid "No, never heard of him."
@@ -821,11 +826,11 @@ msgstr ""
 
 msgctxt "3000"
 msgid "No, not right now."
-msgstr ""
+msgstr "Nah, non adesso."
 
 msgctxt "3012"
 msgid "View Requests"
-msgstr ""
+msgstr "Visualizza richieste"
 
 msgctxt "3024"
 msgid "Learn how to Accept a Request"
@@ -833,7 +838,7 @@ msgstr ""
 
 msgctxt "3036"
 msgid "Nothing"
-msgstr ""
+msgstr "Niente"
 
 msgctxt "29056"
 msgid "Ibuki"
@@ -865,11 +870,11 @@ msgstr ""
 
 msgctxt "29084"
 msgid "Idle"
-msgstr ""
+msgstr "Inattivo"
 
 msgctxt "29088"
 msgid "dummy"
-msgstr ""
+msgstr "dummy"
 
 msgctxt "29092"
 msgid "0"

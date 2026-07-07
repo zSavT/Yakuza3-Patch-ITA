@@ -1,27 +1,28 @@
+#
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=utf-8\n"
-"Language: pt\n"
-"Language-Team: Portuguese, Brazilian\n"
-"Last-Translator: \n"
-"MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: 2026-07-07\n"
 "Project-Id-Version: yakuza-3-remastered\n"
 "Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-07-07\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgctxt "1672"
 msgid "Hello, sir. Party of two?"
-msgstr ""
+msgstr "Buongiorno, signore. Siete in due?"
 
 msgctxt "1684"
 msgid "Yeah."
-msgstr ""
+msgstr "Sì."
 
 msgctxt "1696"
 msgid "Very well."
-msgstr ""
+msgstr "Molto bene."
 
 msgctxt "1708"
 msgid "Take your time and enjoy."
@@ -29,23 +30,23 @@ msgstr ""
 
 msgctxt "1816"
 msgid "Here is your bill, sir."
-msgstr ""
+msgstr "Ecco il conto, signore."
 
 msgctxt "1828"
 msgid "Thanks."
-msgstr ""
+msgstr "Grazie."
 
 msgctxt "1840"
 msgid "Thank you, sir. Please come again soon."
-msgstr ""
+msgstr "Grazie, signore. Torni a trovarci presto."
 
 msgctxt "1852"
 msgid "Let's get going."
-msgstr ""
+msgstr "Dai, andiamo."
 
 msgctxt "1876"
 msgid "Hello, sir. Party of two?"
-msgstr ""
+msgstr "Buongiorno, signore. Siete in due?"
 
 msgctxt "1900"
 msgid "Uncle Kaz, I wanna bowl with you!"
@@ -53,23 +54,23 @@ msgstr ""
 
 msgctxt "1912"
 msgid "Two players? That'll be 900 yen."
-msgstr ""
+msgstr "Siete in due? Sono 900 yen."
 
 msgctxt "1924"
 msgid "(Should I bowl with Haruka?)"
-msgstr ""
+msgstr "(Faccio una partita a bowling con Haruka?)"
 
 msgctxt "1948"
 msgid "(I don't have enough money...)"
-msgstr ""
+msgstr "(Non ho abbastanza soldi...)"
 
 msgctxt "1960"
 msgid "But I wanted to bowl..."
-msgstr ""
+msgstr "Ma io volevo fare bowling..."
 
 msgctxt "1972"
 msgid "All right."
-msgstr ""
+msgstr "Va bene."
 
 msgctxt "1984"
 msgid "Take your time and enjoy."
@@ -83,15 +84,15 @@ msgstr ""
 
 msgctxt "2020"
 msgid "Not right now."
-msgstr ""
+msgstr "Non adesso."
 
 msgctxt "2032"
 msgid "All right. Please come again."
-msgstr ""
+msgstr "Va bene. Torni a trovarci."
 
 msgctxt "2044"
 msgid "But I wanted to bowl..."
-msgstr ""
+msgstr "Ma io volevo fare bowling..."
 
 msgctxt "2056"
 msgid "Let's bowl again, Uncle Kaz! I'm gonna win for sure this time!"
@@ -99,23 +100,23 @@ msgstr ""
 
 msgctxt "2068"
 msgid "Two players? That'll be 900 yen."
-msgstr ""
+msgstr "Siete in due? Sono 900 yen."
 
 msgctxt "2080"
 msgid "(Should I bowl with Haruka?)"
-msgstr ""
+msgstr "(Faccio una partita a bowling con Haruka?)"
 
 msgctxt "2104"
 msgid "(I don't have enough money...)"
-msgstr ""
+msgstr "(Non ho abbastanza soldi...)"
 
 msgctxt "2116"
 msgid "But I wanted to bowl..."
-msgstr ""
+msgstr "Ma io volevo fare bowling..."
 
 msgctxt "2128"
 msgid "All right."
-msgstr ""
+msgstr "Va bene."
 
 msgctxt "2140"
 msgid "Take your time and enjoy."
@@ -129,15 +130,15 @@ msgstr ""
 
 msgctxt "2176"
 msgid "Not right now."
-msgstr ""
+msgstr "Non adesso."
 
 msgctxt "2188"
 msgid "All right. Please come again."
-msgstr ""
+msgstr "Va bene. Torni a trovarci."
 
 msgctxt "2200"
 msgid "But I wanted to bowl..."
-msgstr ""
+msgstr "Ma io volevo fare bowling..."
 
 msgctxt "2212"
 msgid "Uncle Kaz! Think you can get at least 270 points in bowling?"
@@ -155,15 +156,15 @@ msgstr ""
 
 msgctxt "2260"
 msgid "(I don't have enough money...)"
-msgstr ""
+msgstr "(Non ho abbastanza soldi...)"
 
 msgctxt "2272"
 msgid "But I wanted you to bowl..."
-msgstr ""
+msgstr "Ma io volevo fare bowling..."
 
 msgctxt "2284"
 msgid "Okay, I'll give it a try."
-msgstr ""
+msgstr "Va bene, ci provo."
 
 msgctxt "2296"
 msgid "Take your time and enjoy."
@@ -172,14 +173,16 @@ msgstr ""
 msgctxt "2308"
 msgid "You can do it, Uncle Kaz!"
 msgstr ""
+"Puoi farcela,\r\n"
+"zio Kaz!"
 
 msgctxt "2332"
 msgid "Not right now."
-msgstr ""
+msgstr "Non adesso."
 
 msgctxt "2344"
 msgid "All right. Please come again."
-msgstr ""
+msgstr "Va bene. Torni a trovarci."
 
 msgctxt "2356"
 msgid "But I wanted to see you bowl..."
@@ -187,75 +190,75 @@ msgstr ""
 
 msgctxt "2380"
 msgid "Please come again."
-msgstr ""
+msgstr "Torni pure a trovarci."
 
 msgctxt "2392"
 msgid "Please come again."
-msgstr ""
+msgstr "Torni pure a trovarci."
 
 msgctxt "2404"
 msgid "Well done. Here's your prize."
-msgstr ""
+msgstr "Ben fatto. Ecco il tuo premio."
 
 msgctxt "2416"
 msgid "You got a <Color:8>Toughness ZZ<Color:Default>."
-msgstr ""
+msgstr "Hai ottenuto un <Color:8>Toughness ZZ<Color:Default>."
 
 msgctxt "2440"
 msgid "Please come again."
-msgstr ""
+msgstr "Torni pure a trovarci."
 
 msgctxt "2452"
 msgid "Well done. Here's your prize."
-msgstr ""
+msgstr "Ben fatto. Ecco il tuo premio."
 
 msgctxt "2464"
 msgid "You got a <Color:8>Tauriner +<Color:Default>."
-msgstr ""
+msgstr "Hai ottenuto un <Color:8>Tauriner +<Color:Default>."
 
 msgctxt "2488"
 msgid "Please come again."
-msgstr ""
+msgstr "Torni pure a trovarci."
 
 msgctxt "2500"
 msgid "Well done. Here's your prize."
-msgstr ""
+msgstr "Ben fatto. Ecco il tuo premio."
 
 msgctxt "2512"
 msgid "You got a <Color:8>Staminan XX<Color:Default>."
-msgstr ""
+msgstr "Hai ottenuto una <Color:8>Staminan XX<Color:Default>."
 
 msgctxt "2536"
 msgid "Please come again."
-msgstr ""
+msgstr "Torni pure a trovarci."
 
 msgctxt "2548"
 msgid "Well done. Here's your prize."
-msgstr ""
+msgstr "Ben fatto. Ecco il tuo premio."
 
 msgctxt "2560"
 msgid "You got a <Color:8>Elegant Umbrella<Color:Default>."
-msgstr ""
+msgstr "Hai ottenuto un <Color:8>Ombrello Elegante<Color:Default>."
 
 msgctxt "2584"
 msgid "Please come again."
-msgstr ""
+msgstr "Torni pure a trovarci."
 
 msgctxt "2596"
 msgid "Well done. Here's your prize."
-msgstr ""
+msgstr "Ben fatto. Ecco il tuo premio."
 
 msgctxt "2608"
 msgid "You got a <Color:8>Wristband<Color:Default>."
-msgstr ""
+msgstr "Hai ottenuto un <Color:8>Diamante<Color:Default>."
 
 msgctxt "2632"
 msgid "Please come again."
-msgstr ""
+msgstr "Torni pure a trovarci."
 
 msgctxt "2644"
 msgid "Well done. Here's your prize."
-msgstr ""
+msgstr "Ben fatto. Ecco il tuo premio."
 
 msgctxt "2656"
 msgid "You got an <Color:8>Eerie Stuffed Toy<Color:Default>."
@@ -263,11 +266,11 @@ msgstr ""
 
 msgctxt "2680"
 msgid "Please come again."
-msgstr ""
+msgstr "Torni pure a trovarci."
 
 msgctxt "2692"
 msgid "Congratulations."
-msgstr ""
+msgstr "Congratulazioni."
 
 msgctxt "2704"
 msgid "You got a <Color:8>Vegetable Grater<Color:Default>."
@@ -275,11 +278,11 @@ msgstr ""
 
 msgctxt "2728"
 msgid "Please come again."
-msgstr ""
+msgstr "Torni pure a trovarci."
 
 msgctxt "2740"
 msgid "Congratulations."
-msgstr ""
+msgstr "Congratulazioni."
 
 msgctxt "2752"
 msgid "You got a <Color:8>Top-Quality Charcoal<Color:Default>."
@@ -287,7 +290,7 @@ msgstr ""
 
 msgctxt "2776"
 msgid "Please come again."
-msgstr ""
+msgstr "Torni pure a trovarci."
 
 msgctxt "2788"
 msgid "You were quite close, sir."
@@ -295,11 +298,11 @@ msgstr ""
 
 msgctxt "2800"
 msgid "You got a <Color:8>Tauriner Maximum<Color:Default>."
-msgstr ""
+msgstr "Hai ottenuto un <Color:8>Tauriner Maximum<Color:Default>."
 
 msgctxt "2824"
 msgid "Please come again."
-msgstr ""
+msgstr "Torni pure a trovarci."
 
 msgctxt "2836"
 msgid "Congratulations! You completed everything!"
@@ -307,11 +310,11 @@ msgstr ""
 
 msgctxt "2848"
 msgid "You got a <Color:8>Tourmaline Bracelet<Color:Default>."
-msgstr ""
+msgstr "Hai ottenuto un <Color:8>Bracciale di tormalina<Color:Default>."
 
 msgctxt "2872"
 msgid "Please come again."
-msgstr ""
+msgstr "Torni pure a trovarci."
 
 msgctxt "2884"
 msgid "Welcome, sir. How would you like to play today?"
@@ -319,35 +322,35 @@ msgstr ""
 
 msgctxt "2896"
 msgid "Never mind."
-msgstr ""
+msgstr "Lascia stare."
 
 msgctxt "2908"
 msgid "All right. Please come again."
-msgstr ""
+msgstr "Va bene. Torni a trovarci."
 
 msgctxt "2920"
 msgid "I'll play by myself."
-msgstr ""
+msgstr "Gioco da solo."
 
 msgctxt "2932"
 msgid "Very good, sir. That will be 500 yen."
-msgstr ""
+msgstr "Molto bene, signore. Saranno 500 yen."
 
 msgctxt "2956"
 msgid "All right."
-msgstr ""
+msgstr "Va bene."
 
 msgctxt "2968"
 msgid "How many frames would you like to play?"
-msgstr ""
+msgstr "Quanti frame vorresti giocare?"
 
 msgctxt "2980"
 msgid "I'll play three frames."
-msgstr ""
+msgstr "Faccio tre frame."
 
 msgctxt "2992"
 msgid "I'll play ten frames."
-msgstr ""
+msgstr "Giocherò dieci frame."
 
 msgctxt "3004"
 msgid "Take your time and enjoy."
@@ -355,11 +358,11 @@ msgstr ""
 
 msgctxt "3028"
 msgid "(I don't have enough money...)"
-msgstr ""
+msgstr "(Non ho abbastanza soldi...)"
 
 msgctxt "3040"
 msgid "I'll play one of your employees."
-msgstr ""
+msgstr "Gioco contro un membro dello staff."
 
 msgctxt "3052"
 msgid "All right, I'll be playing you then."
@@ -367,27 +370,27 @@ msgstr ""
 
 msgctxt "3076"
 msgid "All right."
-msgstr ""
+msgstr "Va bene."
 
 msgctxt "3088"
 msgid "Now then, let's get started."
-msgstr ""
+msgstr "E allora, diamoci dentro."
 
 msgctxt "3112"
 msgid "(I don't have enough money...)"
-msgstr ""
+msgstr "(Non ho abbastanza soldi...)"
 
 msgctxt "3124"
 msgid "I'll play against my friend here."
-msgstr ""
+msgstr "Giocherò contro il mio amico qui."
 
 msgctxt "3136"
 msgid "Very good, sir. That will be 1,000 yen for two people."
-msgstr ""
+msgstr "Benissimo, signore. Sono 1.000 yen per due persone."
 
 msgctxt "3160"
 msgid "All right."
-msgstr ""
+msgstr "Va bene."
 
 msgctxt "3172"
 msgid "Take your time and enjoy."
@@ -395,7 +398,7 @@ msgstr ""
 
 msgctxt "3196"
 msgid "(I don't have enough money...)"
-msgstr ""
+msgstr "(Non ho abbastanza soldi...)"
 
 msgctxt "3208"
 msgid "I'll try my hand at knocking down splits."
@@ -403,11 +406,11 @@ msgstr ""
 
 msgctxt "3220"
 msgid "Very good, sir. That will be 500 yen."
-msgstr ""
+msgstr "Molto bene, signore. Saranno 500 yen."
 
 msgctxt "3244"
 msgid "All right."
-msgstr ""
+msgstr "Va bene."
 
 msgctxt "3256"
 msgid "Take your time and enjoy."
@@ -415,7 +418,7 @@ msgstr ""
 
 msgctxt "3280"
 msgid "(I don't have enough money...)"
-msgstr ""
+msgstr "(Non ho abbastanza soldi...)"
 
 msgctxt "3304"
 msgid "Welcome, sir. How would you like to play today?"
@@ -423,35 +426,35 @@ msgstr ""
 
 msgctxt "3316"
 msgid "Never mind."
-msgstr ""
+msgstr "Lascia stare."
 
 msgctxt "3328"
 msgid "All right. Please come again."
-msgstr ""
+msgstr "Va bene. Torni a trovarci."
 
 msgctxt "3340"
 msgid "I'll play by myself."
-msgstr ""
+msgstr "Gioco da solo."
 
 msgctxt "3352"
 msgid "Very good, sir. That will be 500 yen."
-msgstr ""
+msgstr "Molto bene, signore. Saranno 500 yen."
 
 msgctxt "3376"
 msgid "All right."
-msgstr ""
+msgstr "Va bene."
 
 msgctxt "3388"
 msgid "How many frames would you like to play?"
-msgstr ""
+msgstr "Quanti frame vorresti giocare?"
 
 msgctxt "3400"
 msgid "I'll play three frames."
-msgstr ""
+msgstr "Faccio tre frame."
 
 msgctxt "3412"
 msgid "I'll play ten frames."
-msgstr ""
+msgstr "Giocherò dieci frame."
 
 msgctxt "3424"
 msgid "Take your time and enjoy."
@@ -459,19 +462,19 @@ msgstr ""
 
 msgctxt "3448"
 msgid "(I don't have enough money...)"
-msgstr ""
+msgstr "(Non ho abbastanza soldi...)"
 
 msgctxt "3460"
 msgid "I'll play against my friend here."
-msgstr ""
+msgstr "Giocherò contro il mio amico qui."
 
 msgctxt "3472"
 msgid "Very good, sir. That will be 1,000 yen for two people."
-msgstr ""
+msgstr "Benissimo, signore. Sono 1.000 yen per due persone."
 
 msgctxt "3496"
 msgid "All right."
-msgstr ""
+msgstr "Va bene."
 
 msgctxt "3508"
 msgid "Take your time and enjoy."
@@ -479,11 +482,11 @@ msgstr ""
 
 msgctxt "3532"
 msgid "(I don't have enough money...)"
-msgstr ""
+msgstr "(Non ho abbastanza soldi...)"
 
 msgctxt "3544"
 msgid "I'll play one of your employees."
-msgstr ""
+msgstr "Gioco contro un membro dello staff."
 
 msgctxt "3556"
 msgid "All right, I'll be playing you then."
@@ -491,15 +494,15 @@ msgstr ""
 
 msgctxt "3580"
 msgid "All right."
-msgstr ""
+msgstr "Va bene."
 
 msgctxt "3592"
 msgid "Now then, let's get started."
-msgstr ""
+msgstr "E allora, diamoci dentro."
 
 msgctxt "3616"
 msgid "(I don't have enough money...)"
-msgstr ""
+msgstr "(Non ho abbastanza soldi...)"
 
 msgctxt "3628"
 msgid "I'll try my hand at knocking down splits."
@@ -507,11 +510,11 @@ msgstr ""
 
 msgctxt "3640"
 msgid "Very good, sir. That will be 500 yen."
-msgstr ""
+msgstr "Molto bene, signore. Saranno 500 yen."
 
 msgctxt "3664"
 msgid "All right."
-msgstr ""
+msgstr "Va bene."
 
 msgctxt "3676"
 msgid "Take your time and enjoy."
@@ -519,7 +522,7 @@ msgstr ""
 
 msgctxt "3700"
 msgid "(I don't have enough money...)"
-msgstr ""
+msgstr "(Non ho abbastanza soldi...)"
 
 msgctxt "3724"
 msgid "Welcome, sir. How would you like to play today?"
@@ -527,35 +530,35 @@ msgstr ""
 
 msgctxt "3736"
 msgid "Never mind."
-msgstr ""
+msgstr "Lascia stare."
 
 msgctxt "3748"
 msgid "All right. Please come again."
-msgstr ""
+msgstr "Va bene. Torni a trovarci."
 
 msgctxt "3760"
 msgid "I'll play by myself."
-msgstr ""
+msgstr "Gioco da solo."
 
 msgctxt "3772"
 msgid "Very good, sir. That will be 500 yen."
-msgstr ""
+msgstr "Molto bene, signore. Saranno 500 yen."
 
 msgctxt "3796"
 msgid "All right."
-msgstr ""
+msgstr "Va bene."
 
 msgctxt "3808"
 msgid "How many frames would you like to play?"
-msgstr ""
+msgstr "Quanti frame vorresti giocare?"
 
 msgctxt "3820"
 msgid "I'll play three frames."
-msgstr ""
+msgstr "Faccio tre frame."
 
 msgctxt "3832"
 msgid "I'll play ten frames."
-msgstr ""
+msgstr "Giocherò dieci frame."
 
 msgctxt "3844"
 msgid "Take your time and enjoy."
@@ -563,19 +566,19 @@ msgstr ""
 
 msgctxt "3868"
 msgid "(I don't have enough money...)"
-msgstr ""
+msgstr "(Non ho abbastanza soldi...)"
 
 msgctxt "3880"
 msgid "I'll play against my friend here."
-msgstr ""
+msgstr "Giocherò contro il mio amico qui."
 
 msgctxt "3892"
 msgid "Very good, sir. That will be 900 yen for two people."
-msgstr ""
+msgstr "Perfetto, signore. Sono 900 yen per due persone."
 
 msgctxt "3916"
 msgid "All right."
-msgstr ""
+msgstr "Va bene."
 
 msgctxt "3928"
 msgid "Take your time and enjoy."
@@ -583,27 +586,27 @@ msgstr ""
 
 msgctxt "3952"
 msgid "(I don't have enough money...)"
-msgstr ""
+msgstr "(Non ho abbastanza soldi...)"
 
 msgctxt "3964"
 msgid "I'll play one of your employees."
-msgstr ""
+msgstr "Gioco contro un membro dello staff."
 
 msgctxt "3976"
 msgid "All right, I'll be playing you then. That will be 500 yen."
-msgstr ""
+msgstr "Va bene, allora ti gioco contro io. Saranno 500 yen."
 
 msgctxt "4000"
 msgid "All right."
-msgstr ""
+msgstr "Va bene."
 
 msgctxt "4012"
 msgid "Now then, let's get started."
-msgstr ""
+msgstr "E allora, diamoci dentro."
 
 msgctxt "4036"
 msgid "(I don't have enough money...)"
-msgstr ""
+msgstr "(Non ho abbastanza soldi...)"
 
 msgctxt "4048"
 msgid "I'll try my hand at knocking down splits."
@@ -611,11 +614,11 @@ msgstr ""
 
 msgctxt "4060"
 msgid "Very good, sir. That will be 500 yen."
-msgstr ""
+msgstr "Molto bene, signore. Saranno 500 yen."
 
 msgctxt "4084"
 msgid "All right."
-msgstr ""
+msgstr "Va bene."
 
 msgctxt "4096"
 msgid "Take your time and enjoy."
@@ -623,7 +626,7 @@ msgstr ""
 
 msgctxt "4120"
 msgid "(I don't have enough money...)"
-msgstr ""
+msgstr "(Non ho abbastanza soldi...)"
 
 msgctxt "4144"
 msgid "Welcome, sir. How would you like to play today?"
@@ -631,35 +634,35 @@ msgstr ""
 
 msgctxt "4156"
 msgid "Never mind."
-msgstr ""
+msgstr "Lascia stare."
 
 msgctxt "4168"
 msgid "All right. Please come again."
-msgstr ""
+msgstr "Va bene. Torni a trovarci."
 
 msgctxt "4180"
 msgid "I'll play by myself."
-msgstr ""
+msgstr "Gioco da solo."
 
 msgctxt "4192"
 msgid "Very good, sir. That will be 500 yen."
-msgstr ""
+msgstr "Molto bene, signore. Saranno 500 yen."
 
 msgctxt "4216"
 msgid "All right."
-msgstr ""
+msgstr "Va bene."
 
 msgctxt "4228"
 msgid "How many frames would you like to play?"
-msgstr ""
+msgstr "Quanti frame vorresti giocare?"
 
 msgctxt "4240"
 msgid "I'll play three frames."
-msgstr ""
+msgstr "Faccio tre frame."
 
 msgctxt "4252"
 msgid "I'll play ten frames."
-msgstr ""
+msgstr "Giocherò dieci frame."
 
 msgctxt "4264"
 msgid "Take your time and enjoy."
@@ -667,11 +670,11 @@ msgstr ""
 
 msgctxt "4288"
 msgid "(I don't have enough money...)"
-msgstr ""
+msgstr "(Non ho abbastanza soldi...)"
 
 msgctxt "4300"
 msgid "I'll play one of your employees."
-msgstr ""
+msgstr "Gioco contro un membro dello staff."
 
 msgctxt "4312"
 msgid "All right, I'll be playing you then."
@@ -679,15 +682,15 @@ msgstr ""
 
 msgctxt "4336"
 msgid "All right."
-msgstr ""
+msgstr "Va bene."
 
 msgctxt "4348"
 msgid "Now then, let's get started."
-msgstr ""
+msgstr "E allora, diamoci dentro."
 
 msgctxt "4372"
 msgid "(I don't have enough money...)"
-msgstr ""
+msgstr "(Non ho abbastanza soldi...)"
 
 msgctxt "4384"
 msgid "I'll try my hand at knocking down splits."
@@ -695,11 +698,11 @@ msgstr ""
 
 msgctxt "4396"
 msgid "Very good, sir. That will be 500 yen."
-msgstr ""
+msgstr "Molto bene, signore. Saranno 500 yen."
 
 msgctxt "4420"
 msgid "All right."
-msgstr ""
+msgstr "Va bene."
 
 msgctxt "4432"
 msgid "Take your time and enjoy."
@@ -707,11 +710,11 @@ msgstr ""
 
 msgctxt "4456"
 msgid "(I don't have enough money...)"
-msgstr ""
+msgstr "(Non ho abbastanza soldi...)"
 
 msgctxt "4480"
 msgid "Bowl with Haruka"
-msgstr ""
+msgstr "Gioca a bowling con Haruka"
 
 msgctxt "4492"
 msgid "Don't Bowl"
@@ -719,7 +722,7 @@ msgstr ""
 
 msgctxt "4504"
 msgid "Bowl with Haruka"
-msgstr ""
+msgstr "Gioca a bowling con Haruka"
 
 msgctxt "4516"
 msgid "Don't Bowl"
@@ -727,23 +730,23 @@ msgstr ""
 
 msgctxt "4528"
 msgid "Play"
-msgstr ""
+msgstr "Gioca"
 
 msgctxt "4540"
 msgid "Don't Play"
-msgstr ""
+msgstr "Non giocare"
 
 msgctxt "4552"
 msgid "Don't Play"
-msgstr ""
+msgstr "Non giocare"
 
 msgctxt "4564"
 msgid "Play Alone"
-msgstr ""
+msgstr "Gioca da solo"
 
 msgctxt "4576"
 msgid "Play Against an Employee"
-msgstr ""
+msgstr "Gioca contro un impiegato"
 
 msgctxt "4588"
 msgid "Play with your Date"
@@ -755,51 +758,51 @@ msgstr ""
 
 msgctxt "4612"
 msgid "Play"
-msgstr ""
+msgstr "Gioca"
 
 msgctxt "4624"
 msgid "Don't Play"
-msgstr ""
+msgstr "Non giocare"
 
 msgctxt "4636"
 msgid "Three Frames"
-msgstr ""
+msgstr "Tre Frame"
 
 msgctxt "4648"
 msgid "Ten Frames"
-msgstr ""
+msgstr "Dieci Frame"
 
 msgctxt "4660"
 msgid "Play"
-msgstr ""
+msgstr "Gioca"
 
 msgctxt "4672"
 msgid "Don't Play"
-msgstr ""
+msgstr "Non giocare"
 
 msgctxt "4684"
 msgid "Play"
-msgstr ""
+msgstr "Gioca"
 
 msgctxt "4696"
 msgid "Don't Play"
-msgstr ""
+msgstr "Non giocare"
 
 msgctxt "4708"
 msgid "Play"
-msgstr ""
+msgstr "Gioca"
 
 msgctxt "4720"
 msgid "Don't Play"
-msgstr ""
+msgstr "Non giocare"
 
 msgctxt "4732"
 msgid "Don't Play"
-msgstr ""
+msgstr "Non giocare"
 
 msgctxt "4744"
 msgid "Play Alone"
-msgstr ""
+msgstr "Gioca da solo"
 
 msgctxt "4756"
 msgid "Play against Rikiya"
@@ -807,7 +810,7 @@ msgstr ""
 
 msgctxt "4768"
 msgid "Play against an Employee"
-msgstr ""
+msgstr "Gioca contro un impiegato"
 
 msgctxt "4780"
 msgid "Try to Knock Down Splits"
@@ -815,59 +818,59 @@ msgstr ""
 
 msgctxt "4792"
 msgid "Play"
-msgstr ""
+msgstr "Gioca"
 
 msgctxt "4804"
 msgid "Don't Play"
-msgstr ""
+msgstr "Non giocare"
 
 msgctxt "4816"
 msgid "Three Frames"
-msgstr ""
+msgstr "Tre Frame"
 
 msgctxt "4828"
 msgid "Ten Frames"
-msgstr ""
+msgstr "Dieci Frame"
 
 msgctxt "4840"
 msgid "Play"
-msgstr ""
+msgstr "Gioca"
 
 msgctxt "4852"
 msgid "Don't Play"
-msgstr ""
+msgstr "Non giocare"
 
 msgctxt "4864"
 msgid "Play"
-msgstr ""
+msgstr "Gioca"
 
 msgctxt "4876"
 msgid "Don't Play"
-msgstr ""
+msgstr "Non giocare"
 
 msgctxt "4888"
 msgid "Play"
-msgstr ""
+msgstr "Gioca"
 
 msgctxt "4900"
 msgid "Don't Play"
-msgstr ""
+msgstr "Non giocare"
 
 msgctxt "4912"
 msgid "Don't Play"
-msgstr ""
+msgstr "Non giocare"
 
 msgctxt "4924"
 msgid "Play Alone"
-msgstr ""
+msgstr "Gioca da solo"
 
 msgctxt "4936"
 msgid "Bowl with Haruka"
-msgstr ""
+msgstr "Gioca a bowling con Haruka"
 
 msgctxt "4948"
 msgid "Play against an Employee"
-msgstr ""
+msgstr "Gioca contro un impiegato"
 
 msgctxt "4960"
 msgid "Try to Knock Down Splits"
@@ -875,55 +878,55 @@ msgstr ""
 
 msgctxt "4972"
 msgid "Play"
-msgstr ""
+msgstr "Gioca"
 
 msgctxt "4984"
 msgid "Don't Play"
-msgstr ""
+msgstr "Non giocare"
 
 msgctxt "4996"
 msgid "Three Frames"
-msgstr ""
+msgstr "Tre Frame"
 
 msgctxt "5008"
 msgid "Ten Frames"
-msgstr ""
+msgstr "Dieci Frame"
 
 msgctxt "5020"
 msgid "Play"
-msgstr ""
+msgstr "Gioca"
 
 msgctxt "5032"
 msgid "Don't Play"
-msgstr ""
+msgstr "Non giocare"
 
 msgctxt "5044"
 msgid "Play"
-msgstr ""
+msgstr "Gioca"
 
 msgctxt "5056"
 msgid "Don't Play"
-msgstr ""
+msgstr "Non giocare"
 
 msgctxt "5068"
 msgid "Play"
-msgstr ""
+msgstr "Gioca"
 
 msgctxt "5080"
 msgid "Don't Play"
-msgstr ""
+msgstr "Non giocare"
 
 msgctxt "5092"
 msgid "Don't Play"
-msgstr ""
+msgstr "Non giocare"
 
 msgctxt "5104"
 msgid "Play Alone"
-msgstr ""
+msgstr "Gioca da solo"
 
 msgctxt "5116"
 msgid "Play against an Employee"
-msgstr ""
+msgstr "Gioca contro un impiegato"
 
 msgctxt "5128"
 msgid "Try to Knock Down Splits"
@@ -931,35 +934,35 @@ msgstr ""
 
 msgctxt "5140"
 msgid "Play"
-msgstr ""
+msgstr "Gioca"
 
 msgctxt "5152"
 msgid "Don't Play"
-msgstr ""
+msgstr "Non giocare"
 
 msgctxt "5164"
 msgid "Three Frames"
-msgstr ""
+msgstr "Tre Frame"
 
 msgctxt "5176"
 msgid "Ten Frames"
-msgstr ""
+msgstr "Dieci Frame"
 
 msgctxt "5188"
 msgid "Play"
-msgstr ""
+msgstr "Gioca"
 
 msgctxt "5200"
 msgid "Don't Play"
-msgstr ""
+msgstr "Non giocare"
 
 msgctxt "5212"
 msgid "Play"
-msgstr ""
+msgstr "Gioca"
 
 msgctxt "5224"
 msgid "Don't Play"
-msgstr ""
+msgstr "Non giocare"
 
 msgctxt "36560"
 msgid "Manager"

@@ -1,506 +1,501 @@
+#
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=utf-8\n"
-"Language: pt\n"
-"Language-Team: Portuguese, Brazilian\n"
-"Last-Translator: \n"
-"MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: 2026-07-07\n"
 "Project-Id-Version: yakuza-3-remastered\n"
 "Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-07-07\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgctxt "464\tTITLE"
 msgid "Date's Pride"
-msgstr ""
+msgstr "L'orgoglio di Date"
 
 msgctxt "478\tTITLE"
 msgid "Two Fathers"
-msgstr ""
+msgstr "Due padri"
 
 msgctxt "490\tTITLE"
 msgid "Hometown Girl"
-msgstr ""
+msgstr "La ragazza di casa"
 
 msgctxt "504\tTITLE"
 msgid "Dotting the Eye"
-msgstr ""
+msgstr "L'occhio del drago"
 
 msgctxt "520\tTITLE"
 msgid "Early Honeymoon"
-msgstr ""
+msgstr "Luna di miele anticipata"
 
 msgctxt "536\tTITLE"
 msgid "They Never Learn"
-msgstr ""
+msgstr "Non imparano mai"
 
 msgctxt "553\tTITLE"
 msgid "Silver Screen Dragon"
-msgstr ""
+msgstr "Il drago del grande schermo"
 
 msgctxt "574\tTITLE"
 msgid "The Comforting Yakuza"
-msgstr ""
+msgstr "Lo yakuza consolatore"
 
 msgctxt "596\tTITLE"
 msgid "Murder at Café Alps"
-msgstr ""
+msgstr "Omicidio al Café Alps"
 
 msgctxt "617\tTITLE"
 msgid "Another Stardust"
-msgstr ""
+msgstr "Un altro Stardust"
 
 msgctxt "634\tTITLE"
 msgid "The Seven Mysteries of Ryukyu 1"
-msgstr ""
+msgstr "I sette misteri di Ryukyu 1"
 
 msgctxt "666\tTITLE"
 msgid "The Seven Mysteries of Ryukyu 2"
-msgstr ""
+msgstr "I sette misteri di Ryukyu 2"
 
 msgctxt "698\tTITLE"
 msgid "The Seven Mysteries of Ryukyu 3"
-msgstr ""
+msgstr "I sette misteri di Ryukyu 3"
 
 msgctxt "730\tTITLE"
 msgid "The Seven Mysteries of Ryukyu 4"
-msgstr ""
+msgstr "I sette misteri di Ryukyu 4"
 
 msgctxt "762\tTITLE"
 msgid "The Seven Mysteries of Ryukyu 5"
-msgstr ""
+msgstr "I sette misteri di Ryukyu 5"
 
 msgctxt "794\tTITLE"
 msgid "The Seven Mysteries of Ryukyu 6"
-msgstr ""
+msgstr "I sette misteri di Ryukyu 6"
 
 msgctxt "826\tTITLE"
 msgid "The Seven Mysteries of Ryukyu 7"
-msgstr ""
+msgstr "I sette misteri di Ryukyu 7"
 
 msgctxt "858\tTITLE"
 msgid "Instant Ramen Takes Time"
-msgstr ""
+msgstr "Il ramen istantaneo richiede tempo"
 
 msgctxt "883\tTITLE"
 msgid "Yamashita Treasure Hunt"
-msgstr ""
+msgstr "Caccia al tesoro di Yamashita"
 
 msgctxt "907\tTITLE"
 msgid "Bottled Love"
-msgstr ""
+msgstr "Amore in bottiglia"
 
 msgctxt "920\tTITLE"
 msgid "A Boy and his Balloon"
-msgstr ""
+msgstr "Un bambino e il suo palloncino"
 
 msgctxt "942\tTITLE"
 msgid "Rough Draft"
-msgstr ""
+msgstr "Bozza"
 
 msgctxt "954\tTITLE"
 msgid "Il in Theater Square"
-msgstr ""
+msgstr "Malato nella Piazza del Teatro"
 
 msgctxt "975\tTITLE"
 msgid "Shisa Shakedown"
-msgstr ""
+msgstr "L'estorsione del Shisa"
 
 msgctxt "991\tTITLE"
 msgid "Nonstop Stalkers"
-msgstr ""
+msgstr "Stalker senza sosta"
 
 msgctxt "1008\tTITLE"
 msgid "Kiryu the Collector"
-msgstr ""
+msgstr "Kiryu il collezionista"
 
 msgctxt "1028\tTITLE"
 msgid "The Hustler's Challenge"
-msgstr ""
+msgstr "La sfida del baro"
 
 msgctxt "1052\tTITLE"
 msgid "Talking about Me?"
-msgstr ""
+msgstr "Stai parlando di me?"
 
 msgctxt "1070\tTITLE"
 msgid "Manga Mania"
-msgstr ""
+msgstr "Manga Mania"
 
 msgctxt "1082\tTITLE"
 msgid "Rookie's Dilemma"
-msgstr ""
+msgstr "Il dilemma del novellino"
 
 msgctxt "1099\tTITLE"
 msgid "Fast Food for the Heart"
-msgstr ""
+msgstr "Fast food per il cuore"
 
 msgctxt "1123\tTITLE"
 msgid "Out of His League"
-msgstr ""
+msgstr "Fuori dalla sua portata"
 
 msgctxt "1141\tTITLE"
 msgid "Robbing the Orphanage"
-msgstr ""
+msgstr "Derubare l'orfanotrofio"
 
 msgctxt "1163\tTITLE"
 msgid "Reckoning"
-msgstr ""
+msgstr "Resa dei conti"
 
 msgctxt "1173\tTITLE"
 msgid "Mr. Try and Hit Me Again"
-msgstr ""
+msgstr "Mr. Prova a Colpirmi Di Nuovo"
 
 msgctxt "1198\tTITLE"
 msgid "Mr. Try and Flee Me"
-msgstr ""
+msgstr "Mr. Prova a Scappare"
 
 msgctxt "1218\tTITLE"
 msgid "Mr. Try and Catch Me"
-msgstr ""
+msgstr "Mr. Prova a Prendermi"
 
 msgctxt "1239\tTITLE"
 msgid "Morning Glory Hide-and-Seek"
-msgstr ""
+msgstr "Nascondino all'orfanotrofio"
 
 msgctxt "1267\tTITLE"
 msgid "The Old Man's Memories"
-msgstr ""
+msgstr "I ricordi del vecchio"
 
 msgctxt "1290\tTITLE"
 msgid "Suspicious Spouses"
-msgstr ""
+msgstr "Coniugi sospetti"
 
 msgctxt "1309\tTITLE"
 msgid "Catch Those Shoplifters!"
-msgstr ""
+msgstr "Prendi quei taccheggiatori!"
 
 msgctxt "1334\tTITLE"
 msgid "Temptation"
-msgstr ""
+msgstr "Tentazione"
 
 msgctxt "1345\tTITLE"
 msgid "Sea Bream Strongarm"
-msgstr ""
+msgstr "L'intimidazione dell'orata"
 
 msgctxt "1365\tTITLE"
 msgid "Bag That Snatcher"
-msgstr ""
+msgstr "Cattura quel ladro"
 
 msgctxt "1383\tTITLE"
 msgid "The Iriomote Incident"
-msgstr ""
+msgstr "L'incidente di Iriomote"
 
 msgctxt "1405\tTITLE"
 msgid "Mikio's Munchathon"
-msgstr ""
+msgstr "La mangiata di Mikio"
 
 msgctxt "1424\tTITLE"
 msgid "Hit-and-Stop"
-msgstr ""
+msgstr "Colpisci e fermati"
 
 msgctxt "1437\tTITLE"
 msgid "Hor D'oeuvres"
-msgstr ""
+msgstr "Antipasti"
 
 msgctxt "1451\tTITLE"
 msgid "Appetizer"
-msgstr ""
+msgstr "Aperitivo"
 
 msgctxt "1461\tTITLE"
 msgid "Main Course"
-msgstr ""
+msgstr "Piatto principale"
 
 msgctxt "1473\tTITLE"
 msgid "Dessert"
-msgstr ""
+msgstr "Dessert"
 
 msgctxt "1481\tTITLE"
 msgid "Under the Table"
-msgstr ""
+msgstr "Sottobanco"
 
 msgctxt "1497\tTITLE"
 msgid "Bullseye of Love"
-msgstr ""
+msgstr "Centro dell'amore"
 
 msgctxt "1514\tTITLE"
 msgid "Riled Riders"
-msgstr ""
+msgstr "Motociclisti furiosi"
 
 msgctxt "1527\tTITLE"
 msgid "I Want to Go to Tokyo 1"
-msgstr ""
+msgstr "Voglio andare a Tokyo 1"
 
 msgctxt "1551\tTITLE"
 msgid "I Want to Go to Tokyo 2"
-msgstr ""
+msgstr "Voglio andare a Tokyo 2"
 
 msgctxt "1575\tTITLE"
 msgid "I Want to Go to Tokyo 3"
-msgstr ""
+msgstr "Voglio andare a Tokyo 3"
 
 msgctxt "1599\tTITLE"
 msgid "Barking up the Wrong Tree"
-msgstr ""
+msgstr "Abbaiare all'albero sbagliato"
 
 msgctxt "1625\tTITLE"
 msgid "Ghosts from the Past"
-msgstr ""
+msgstr "Fantasmi dal passato"
 
 msgctxt "1646\tTITLE"
 msgid "Lost and Found"
-msgstr ""
+msgstr "Oggetti smarriti"
 
 msgctxt "1661\tTITLE"
 msgid "The Distiller's Treasure"
-msgstr ""
+msgstr "Il tesoro del distillatore"
 
 msgctxt "1686\tTITLE"
 msgid "Return to the Dragon Palace"
-msgstr ""
+msgstr "Ritorno al Palazzo del Drago"
 
 msgctxt "1714\tTITLE"
 msgid "Missed Caller"
-msgstr ""
+msgstr "Chiamata persa"
 
 msgctxt "1728\tTITLE"
 msgid "The Tuna Fund"
-msgstr ""
+msgstr "Il fondo per il tonno"
 
 msgctxt "1742\tTITLE"
 msgid "Chic Snatcher"
-msgstr ""
+msgstr "Il ladro chic"
 
 msgctxt "1756\tTITLE"
 msgid "Walking the Plank"
-msgstr ""
+msgstr "Camminando sull'asse"
 
 msgctxt "1774\tTITLE"
 msgid "Chumming the Waters"
-msgstr ""
+msgstr "Pasturando le acque"
 
 msgctxt "1794\tTITLE"
 msgid "Thrown to the Loan Sharks"
-msgstr ""
+msgstr "Dato in pasto agli strozzini"
 
 msgctxt "1820\tTITLE"
 msgid "The Con Menace"
-msgstr ""
+msgstr "La minaccia della truffa"
 
 msgctxt "1835\tTITLE"
 msgid "The Con Wars"
-msgstr ""
+msgstr "Le guerre delle truffe"
 
 msgctxt "1848\tTITLE"
 msgid "Revenge of the Con Men"
-msgstr ""
+msgstr "La vendetta dei truffatori"
 
 msgctxt "1871\tTITLE"
 msgid "A New Con"
-msgstr ""
+msgstr "Una nuova truffa"
 
 msgctxt "1881\tTITLE"
 msgid "Mars Fighters in Tokyo"
-msgstr ""
+msgstr "Mars Fighters a Tokyo"
 
 msgctxt "1904\tTITLE"
 msgid "Bargain Sale"
-msgstr ""
+msgstr "Saldi"
 
 msgctxt "1917\tTITLE"
 msgid "The Returnee"
-msgstr ""
+msgstr "Il rimpatriato"
 
 msgctxt "1930\tTITLE"
 msgid "Disconnected"
-msgstr ""
+msgstr "Disconnesso"
 
 msgctxt "1943\tTITLE"
 msgid "Stealing from the Dragon's Hoard"
-msgstr ""
+msgstr "Rubare dal tesoro del drago"
 
 msgctxt "1976\tTITLE"
 msgid "Anything for Grandma's Love"
-msgstr ""
+msgstr "Qualsiasi cosa per l'amore della nonna"
 
 msgctxt "2004\tTITLE"
 msgid "[Removed]"
-msgstr ""
+msgstr "[Rimosso]"
 
 msgctxt "2014\tTITLE"
 msgid "Lasagna at Large"
-msgstr ""
+msgstr "Lasagne in fuga"
 
 msgctxt "2031\tTITLE"
 msgid "Your Fortunes Told Here"
-msgstr ""
+msgstr "Qui ti leggiamo il futuro"
 
 msgctxt "2055\tTITLE"
 msgid "Watch Out for Renovations"
-msgstr ""
+msgstr "Attento ai lavori di ristrutturazione"
 
 msgctxt "2081\tTITLE"
 msgid "A Lost Key"
-msgstr ""
+msgstr "Una chiave persa"
 
 msgctxt "2092\tTITLE"
 msgid "Death Bowler"
-msgstr ""
+msgstr "Bowler della morte"
 
 msgctxt "2105\tTITLE"
 msgid "Last Month's Winner"
-msgstr ""
+msgstr "Il vincitore del mese scorso"
 
 msgctxt "2125\tTITLE"
 msgid "Kiryu the Pickpocket!?"
-msgstr ""
+msgstr "Kiryu il borseggiatore!?"
 
 msgctxt "2148\tTITLE"
 msgid "A Melting Heart"
-msgstr ""
+msgstr "Un cuore che si scioglie"
 
 msgctxt "2164\tTITLE"
 msgid "As the Rose Balsam Blooms"
-msgstr ""
+msgstr "Mentre fiorisce il balsamo di rosa"
 
 msgctxt "2190\tTITLE"
 msgid "Presidential Golfer"
-msgstr ""
+msgstr "Golfista presidenziale"
 
 msgctxt "2210\tTITLE"
 msgid "Water Purifiers"
-msgstr ""
+msgstr "Depuratori d'acqua"
 
 msgctxt "2226\tTITLE"
 msgid "Ramen's No. 1 Star"
-msgstr ""
+msgstr "La stella numero 1 del ramen"
 
 msgctxt "2245\tTITLE"
 msgid "Queen of Kamurocho"
-msgstr ""
+msgstr "Regina di Kamurocho"
 
 msgctxt "2264\tTITLE"
 msgid "Convenient Robbery"
-msgstr ""
+msgstr "Rapina conveniente"
 
 msgctxt "2283\tTITLE"
 msgid "Delivery Race"
-msgstr ""
+msgstr "Gara di consegne"
 
 msgctxt "2297\tTITLE"
 msgid "High-Tech Peeping Tom"
-msgstr ""
+msgstr "Il guardone hi-tech"
 
 msgctxt "2319\tTITLE"
 msgid "Bouncers Needed"
-msgstr ""
+msgstr "Cercasi buttafuori"
 
 msgctxt "2335\tTITLE"
 msgid "The First Bouncer"
-msgstr ""
+msgstr "Il primo buttafuori"
 
 msgctxt "2353\tTITLE"
 msgid "The Second Bouncer"
-msgstr ""
+msgstr "Il secondo buttafuori"
 
 msgctxt "2372\tTITLE"
 msgid "The Third Bouncer"
-msgstr ""
+msgstr "Il terzo buttafuori"
 
 msgctxt "2390\tTITLE"
 msgid "The Fourth Bouncer"
-msgstr ""
+msgstr "Il quarto buttafuori"
 
 msgctxt "2409\tTITLE"
 msgid "The Fifth Bouncer"
-msgstr ""
+msgstr "Il quinto buttafuori"
 
 msgctxt "2427\tTITLE"
 msgid "New Dog, New Tricks: Sit"
-msgstr ""
+msgstr "Nuovo cane, nuovi trucchi: Seduto"
 
 msgctxt "2452\tTITLE"
 msgid "New Dog, New Tricks: Turn Around"
-msgstr ""
+msgstr "Nuovo cane, nuovi trucchi: Girati"
 
 msgctxt "2485\tTITLE"
 msgid "New Dog, New Tricks: Fetch"
-msgstr ""
+msgstr "Nuovo cane, nuovi trucchi: Riporta"
 
 msgctxt "2512\tTITLE"
 msgid "Let's Learn English 1"
-msgstr ""
+msgstr "Impariamo l'inglese 1"
 
 msgctxt "2534\tTITLE"
 msgid "Let's Learn English 2"
-msgstr ""
+msgstr "Impariamo l'inglese 2"
 
 msgctxt "2556\tTITLE"
 msgid "Let's Learn English 3"
-msgstr ""
+msgstr "Impariamo l'inglese 3"
 
 msgctxt "2578\tTITLE"
 msgid "Let's Learn English 4"
-msgstr ""
+msgstr "Impariamo l'inglese 4"
 
 msgctxt "2600\tTITLE"
 msgid "Straight to the Top!"
-msgstr ""
+msgstr "Dritto in cima!"
 
 msgctxt "2621\tTITLE"
 msgid "Reimi Betrayed"
-msgstr ""
+msgstr "Reimi tradita"
 
 msgctxt "2636\tTITLE"
 msgid "Rin in Trouble"
-msgstr ""
+msgstr "Rin nei guai"
 
 msgctxt "2651\tTITLE"
 msgid "Kana and her Dog"
-msgstr ""
+msgstr "Kana e il suo cane"
 
 msgctxt "2668\tTITLE"
 msgid "Ranko's Worry"
-msgstr ""
+msgstr "La preoccupazione di Ranko"
 
 msgctxt "2682\tTITLE"
 msgid "Miyu and her Son"
-msgstr ""
+msgstr "Miyu e suo figlio"
 
 msgctxt "2699\tTITLE"
 msgid "Shiori's Stalker"
-msgstr ""
+msgstr "Lo stalker di Shiori"
 
 msgctxt "2716\tTITLE"
 msgid "Yui and Adam"
-msgstr ""
+msgstr "Yui e Adam"
 
 msgctxt "2729\tTITLE"
 msgid "Mika's Family"
-msgstr ""
+msgstr "La famiglia di Mika"
 
 msgctxt "2743\tTITLE"
 msgid "Nao and the Crooks"
-msgstr ""
+msgstr "Nao e i truffatori"
 
 msgctxt "2762\tTITLE"
 msgid "Saya in Peril"
-msgstr ""
+msgstr "Saya in pericolo"
 
 msgctxt "2776\tTITLE"
 msgid "Amon"
-msgstr ""
+msgstr "Amon"
 
 msgctxt "3015\tTITLE"
 msgid ""
-" !\"#$%&'()*+,-"
-"./0123456789"
-":;<=>?@ABCDEF"
-"GHIJKLMNOPQR"
-"SOOOTUVWXYZ[\\]"
-"^_`"
-"abcdefghijklmno"
-"pqrstuvwxKamurocho"
+" "
+"!\"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSOOOTUVWXYZ[\\]^_`abcdefghijklmnopqrstuvwxKamurocho"
 msgstr ""
 
 msgctxt "7232\tEXPLANATION"
@@ -541,7 +536,7 @@ msgstr ""
 
 msgctxt "7724\tEXPLANATION"
 msgid "Those punks were a handful. Now to go find Date-san!"
-msgstr ""
+msgstr "Quei teppisti erano un bel problema. Ora andiamo a cercare Date-san!"
 
 msgctxt "7777\tEXPLANATION"
 msgid ""
@@ -557,19 +552,19 @@ msgstr ""
 
 msgctxt "7919\tEXPLANATION"
 msgid "I better drop these thugs and go save Mama from Tsukishima!"
-msgstr ""
+msgstr "Meglio stendere questi teppisti e andare a salvare la Mama da Tsukishima!"
 
 msgctxt "7979\tEXPLANATION"
 msgid "I hope Date-san and Mama are okay..."
-msgstr ""
+msgstr "Spero che Date-san e la Mama stiano bene..."
 
 msgctxt "8016\tEXPLANATION"
 msgid "Looks like Date-san got his feelings across to Mama."
-msgstr ""
+msgstr "Sembra che Date-san sia riuscito a dichiarare i suoi sentimenti alla Mama."
 
 msgctxt "8070\tEXPLANATION"
 msgid "So that was Mikio's father? Let's see what Mikio has to say."
-msgstr ""
+msgstr "Quindi quello era il padre di Mikio? Vediamo cosa ha da dire Mikio."
 
 msgctxt "8131\tEXPLANATION"
 msgid ""
@@ -603,7 +598,7 @@ msgstr ""
 
 msgctxt "8567\tEXPLANATION"
 msgid "Mikio seems ready to take them on. I better help him out."
-msgstr ""
+msgstr "Mikio sembra pronto ad affrontarli. Farei meglio ad aiutarlo."
 
 msgctxt "8625\tEXPLANATION"
 msgid ""
@@ -619,7 +614,7 @@ msgstr ""
 
 msgctxt "8784\tEXPLANATION"
 msgid "Two fathers, huh? Mikio's got some good people behind him."
-msgstr ""
+msgstr "Due padri, eh? Mikio ha delle brave persone dalla sua parte."
 
 msgctxt "8844\tEXPLANATION"
 msgid ""
@@ -635,7 +630,7 @@ msgstr ""
 
 msgctxt "9011\tEXPLANATION"
 msgid "I guess that girl Akiho has got some customer troubles..."
-msgstr ""
+msgstr "Immagino che quella ragazza, Akiho, abbia dei problemi con i clienti..."
 
 msgctxt "9069\tEXPLANATION"
 msgid ""
@@ -645,7 +640,7 @@ msgstr ""
 
 msgctxt "9164\tEXPLANATION"
 msgid "I guess that girl Akiho has got some customer troubles..."
-msgstr ""
+msgstr "Immagino che quella ragazza, Akiho, abbia dei problemi con i clienti..."
 
 msgctxt "9222\tEXPLANATION"
 msgid ""
@@ -673,7 +668,7 @@ msgstr ""
 
 msgctxt "9584\tEXPLANATION"
 msgid "So it's true. Akiho was lying to Rikiya the whole time."
-msgstr ""
+msgstr "Quindi è vero. Akiho ha mentito a Rikiya per tutto il tempo."
 
 msgctxt "9640\tEXPLANATION"
 msgid ""
@@ -689,7 +684,7 @@ msgstr ""
 
 msgctxt "9782\tEXPLANATION"
 msgid "I hope things go well between Rikiya and Natsumi."
-msgstr ""
+msgstr "Spero che le cose vadano bene tra Rikiya e Natsumi."
 
 msgctxt "9833\tEXPLANATION"
 msgid ""
@@ -699,7 +694,7 @@ msgstr ""
 
 msgctxt "9909\tEXPLANATION"
 msgid "Well, I guess we'll have to teach these punks a lesson."
-msgstr ""
+msgstr "Beh, immagino dovremo dare una lezione a questi teppisti."
 
 msgctxt "9965\tEXPLANATION"
 msgid ""
@@ -782,7 +777,7 @@ msgstr ""
 
 msgctxt "11218\tEXPLANATION"
 msgid "I'm supposed to beat them in the order written in the script."
-msgstr ""
+msgstr "Dovrei sconfiggerli nell'ordine scritto nel copione."
 
 msgctxt "11280\tEXPLANATION"
 msgid ""
@@ -799,7 +794,7 @@ msgstr ""
 
 msgctxt "11497\tEXPLANATION"
 msgid "Following the script wasn't easy."
-msgstr ""
+msgstr "Seguire il copione non è stato facile."
 
 msgctxt "11531\tEXPLANATION"
 msgid ""
@@ -821,7 +816,7 @@ msgstr ""
 
 msgctxt "11844\tEXPLANATION"
 msgid "What's with this guy? He just barged into the room..."
-msgstr ""
+msgstr "Che problema ha questo tizio? È appena piombato nella stanza..."
 
 msgctxt "11898\tEXPLANATION"
 msgid ""
@@ -831,15 +826,15 @@ msgstr ""
 
 msgctxt "11969\tEXPLANATION"
 msgid "What was that about? Was she duped or something?"
-msgstr ""
+msgstr "Di che si trattava? È stata ingannata o cosa?"
 
 msgctxt "12018\tEXPLANATION"
 msgid "Case closed."
-msgstr ""
+msgstr "Caso chiuso."
 
 msgctxt "12031\tEXPLANATION"
 msgid "Case closed."
-msgstr ""
+msgstr "Caso chiuso."
 
 msgctxt "12045\tEXPLANATION"
 msgid ""
@@ -861,7 +856,7 @@ msgstr ""
 
 msgctxt "12318\tEXPLANATION"
 msgid "I should talk to everybody related to the case."
-msgstr ""
+msgstr "Dovrei parlare con tutti i coinvolti nel caso."
 
 msgctxt "12366\tEXPLANATION"
 msgid ""
@@ -896,7 +891,7 @@ msgstr ""
 
 msgctxt "12904\tEXPLANATION"
 msgid "I never thought they'd consider opening up a second Stardust."
-msgstr ""
+msgstr "Non avrei mai pensato che considerassero di aprire un secondo Stardust."
 
 msgctxt "12966\tEXPLANATION"
 msgid ""
@@ -918,7 +913,7 @@ msgstr ""
 
 msgctxt "13219\tEXPLANATION"
 msgid "Seems like Kazuki and Yuya just couldn't agree."
-msgstr ""
+msgstr "Sembra che Kazuki e Yuya proprio non riuscissero ad andare d'accordo."
 
 msgctxt "13267\tEXPLANATION"
 msgid ""
@@ -934,7 +929,7 @@ msgstr ""
 
 msgctxt "13435\tEXPLANATION"
 msgid "Time to shut this guy down."
-msgstr ""
+msgstr "È ora di mettere a tacere questo tizio."
 
 msgctxt "13463\tEXPLANATION"
 msgid ""
@@ -992,7 +987,7 @@ msgstr ""
 
 msgctxt "14306\tEXPLANATION"
 msgid "Selling modified cell phones, huh? What'll they think up next?"
-msgstr ""
+msgstr "Vendono cellulari modificati, eh? Cosa si inventeranno dopo?"
 
 msgctxt "14370\tEXPLANATION"
 msgid ""
@@ -1002,7 +997,7 @@ msgstr ""
 
 msgctxt "14459\tEXPLANATION"
 msgid "Seems like this cat wants me to follow it..."
-msgstr ""
+msgstr "Sembra che questo gatto voglia che lo segua..."
 
 msgctxt "14504\tEXPLANATION"
 msgid ""
@@ -1012,7 +1007,7 @@ msgstr ""
 
 msgctxt "14574\tEXPLANATION"
 msgid "So that black cat was the Devil Cat?"
-msgstr ""
+msgstr "Quindi quel gatto nero era il Gatto Diavolo?"
 
 msgctxt "14611\tEXPLANATION"
 msgid ""
@@ -1083,7 +1078,7 @@ msgstr ""
 
 msgctxt "15604\tEXPLANATION"
 msgid "These Coral Love Necklaces seem pretty popular these days..."
-msgstr ""
+msgstr "Queste Collane dell'Amore di Corallo sembrano molto popolari ultimamente..."
 
 msgctxt "15665\tEXPLANATION"
 msgid ""
@@ -1106,7 +1101,7 @@ msgstr ""
 
 msgctxt "15948\tEXPLANATION"
 msgid "I wonder if my luck will improve now I've been exorcised..."
-msgstr ""
+msgstr "Mi chiedo se la mia fortuna migliorerà ora che sono stato esorcizzato..."
 
 msgctxt "16008\tEXPLANATION"
 msgid ""
@@ -1403,7 +1398,7 @@ msgstr ""
 
 msgctxt "20739\tEXPLANATION"
 msgid "A woman over by Jewel said she's being stalked."
-msgstr ""
+msgstr "Una donna vicino al Jewel ha detto di essere perseguitata da uno stalker."
 
 msgctxt "20787\tEXPLANATION"
 msgid ""
@@ -1569,11 +1564,11 @@ msgstr ""
 
 msgctxt "23242\tEXPLANATION"
 msgid "I got a copy of Shonen Five. Just gotta get it to Taichi now."
-msgstr ""
+msgstr "Ho preso una copia di Shonen Five. Devo solo portarla a Taichi ora."
 
 msgctxt "23304\tEXPLANATION"
 msgid "I gave the Shonen Five magazine to Taichi. He sure was happy."
-msgstr ""
+msgstr "Ho dato la rivista Shonen Five a Taichi. Era davvero felice."
 
 msgctxt "23366\tEXPLANATION"
 msgid ""
@@ -1668,7 +1663,7 @@ msgstr ""
 
 msgctxt "24746\tEXPLANATION"
 msgid "Now that kid's in love with a hostess? He sure moves on fast."
-msgstr ""
+msgstr "Ora quel ragazzino è innamorato di una hostess? Si riprende in fretta."
 
 msgctxt "24808\tEXPLANATION"
 msgid ""
@@ -1708,7 +1703,7 @@ msgstr ""
 
 msgctxt "25289\tEXPLANATION"
 msgid "For a kid, he did pretty well. I'll take care of the rest."
-msgstr ""
+msgstr "Per essere un bambino, se l'è cavata bene. Penserò io al resto."
 
 msgctxt "25348\tEXPLANATION"
 msgid ""
@@ -1785,7 +1780,7 @@ msgstr ""
 
 msgctxt "26467\tEXPLANATION"
 msgid "I gave up. I wonder where in the world they were hiding...?"
-msgstr ""
+msgstr "Mi sono arreso. Mi chiedo dove diavolo si fossero nascosti...?"
 
 msgctxt "26528\tEXPLANATION"
 msgid ""
@@ -1813,7 +1808,7 @@ msgstr ""
 
 msgctxt "26899\tEXPLANATION"
 msgid "Another loan shark... Guess I'll have to shut him up."
-msgstr ""
+msgstr "Un altro strozzino... Immagino di doverlo far stare zitto."
 
 msgctxt "26953\tEXPLANATION"
 msgid ""
@@ -1865,7 +1860,7 @@ msgstr ""
 
 msgctxt "27706\tEXPLANATION"
 msgid "I dropped by Poppo on Showa Street."
-msgstr ""
+msgstr "Sono passato dal Poppo in Showa Street."
 
 msgctxt "27742\tEXPLANATION"
 msgid ""
@@ -1887,7 +1882,7 @@ msgstr ""
 
 msgctxt "27983\tEXPLANATION"
 msgid "A kidnapping in Okinawa? I better ask them about this."
-msgstr ""
+msgstr "Un rapimento a Okinawa? Meglio chiedere in giro al riguardo."
 
 msgctxt "28038\tEXPLANATION"
 msgid ""
@@ -1897,7 +1892,7 @@ msgstr ""
 
 msgctxt "28114\tEXPLANATION"
 msgid "This guy's the criminal? I better grab him fast."
-msgstr ""
+msgstr "Questo tizio è il criminale? Meglio prenderlo in fretta."
 
 msgctxt "28163\tEXPLANATION"
 msgid ""
@@ -1989,7 +1984,7 @@ msgstr ""
 
 msgctxt "29664\tEXPLANATION"
 msgid "I found the bag snatcher. Maybe I oughta teach him a lesson."
-msgstr ""
+msgstr "Ho trovato lo scippatore. Forse dovrei dargli una lezione."
 
 msgctxt "29725\tEXPLANATION"
 msgid ""
@@ -2054,7 +2049,7 @@ msgstr ""
 
 msgctxt "30667\tEXPLANATION"
 msgid "What's with all the ruckus? I need to follow Mikio now."
-msgstr ""
+msgstr "Perché tutto questo baccano? Devo seguire Mikio ora."
 
 msgctxt "30723\tEXPLANATION"
 msgid ""
@@ -2106,7 +2101,7 @@ msgstr ""
 
 msgctxt "31508\tEXPLANATION"
 msgid "What is wrong with that idiot? He never learns his lesson."
-msgstr ""
+msgstr "Che problema ha quell'idiota? Non impara mai la lezione."
 
 msgctxt "31568\tEXPLANATION"
 msgid ""
@@ -2128,7 +2123,7 @@ msgstr ""
 
 msgctxt "31835\tEXPLANATION"
 msgid "He's back again!? Guess I'll have to chase him down..."
-msgstr ""
+msgstr "Di nuovo lui!? Immagino dovrò inseguirlo..."
 
 msgctxt "31890\tEXPLANATION"
 msgid ""
@@ -2144,7 +2139,7 @@ msgstr ""
 
 msgctxt "32068\tEXPLANATION"
 msgid "A dine and dash? Here? This happened in Kamurocho, too..."
-msgstr ""
+msgstr "Mangiare a scrocco? Qui? È successo anche a Kamurocho..."
 
 msgctxt "32126\tEXPLANATION"
 msgid ""
@@ -2199,7 +2194,7 @@ msgstr ""
 
 msgctxt "32938\tEXPLANATION"
 msgid "Some drunks are giving the taxi driver a hard time."
-msgstr ""
+msgstr "Degli ubriachi stanno dando il tormento a un tassista."
 
 msgctxt "32990\tEXPLANATION"
 msgid ""
@@ -2233,7 +2228,7 @@ msgstr ""
 
 msgctxt "33376\tEXPLANATION"
 msgid "Never thought I'd really find Kaede in Kamurocho..."
-msgstr ""
+msgstr "Non avrei mai pensato di trovare davvero Kaede a Kamurocho..."
 
 msgctxt "33428\tEXPLANATION"
 msgid ""
@@ -2243,7 +2238,7 @@ msgstr ""
 
 msgctxt "33539\tEXPLANATION"
 msgid "I got an email from Kaede... I should read it."
-msgstr ""
+msgstr "Ho ricevuto un'email da Kaede... Dovrei leggerla."
 
 msgctxt "33586\tEXPLANATION"
 msgid ""
@@ -2259,11 +2254,11 @@ msgstr ""
 
 msgctxt "33726\tEXPLANATION"
 msgid "Got another email from Kaede... Has she gotten another job?"
-msgstr ""
+msgstr "Un'altra email da Kaede... Ha trovato un altro lavoro?"
 
 msgctxt "33786\tEXPLANATION"
 msgid "According to Kaede's email, she's working at Mach Bowl."
-msgstr ""
+msgstr "Stando all'email di Kaede, sta lavorando al Mach Bowl."
 
 msgctxt "33842\tEXPLANATION"
 msgid ""
@@ -2273,15 +2268,15 @@ msgstr ""
 
 msgctxt "33949\tEXPLANATION"
 msgid "Yet another email from Kaede. Let's give it a read."
-msgstr ""
+msgstr "Un'ennesima email da Kaede. Diamo un'occhiata."
 
 msgctxt "34001\tEXPLANATION"
 msgid "Looks like Kaede landed an interview at a hostess club."
-msgstr ""
+msgstr "Sembra che Kaede abbia ottenuto un colloquio in un club per hostess."
 
 msgctxt "34057\tEXPLANATION"
 msgid "One more email from Kaede. Time to read it."
-msgstr ""
+msgstr "Un'ultima email da Kaede. È ora di leggerla."
 
 msgctxt "34101\tEXPLANATION"
 msgid ""
@@ -2291,19 +2286,19 @@ msgstr ""
 
 msgctxt "34204\tEXPLANATION"
 msgid "All these people at Earth Angel... What's going on?"
-msgstr ""
+msgstr "Tutte queste persone all'Earth Angel... Cosa sta succedendo?"
 
 msgctxt "34256\tEXPLANATION"
 msgid "Looks like Earth Angel was the perfect fit for Kaede."
-msgstr ""
+msgstr "Sembra che l'Earth Angel fosse perfetto per Kaede."
 
 msgctxt "34310\tEXPLANATION"
 msgid "Seems like Kaede's found her calling here in Tokyo."
-msgstr ""
+msgstr "Sembra che Kaede abbia trovato la sua vocazione qui a Tokyo."
 
 msgctxt "34363\tEXPLANATION"
 msgid "Kaede found a new calling in life... Good for her."
-msgstr ""
+msgstr "Kaede ha trovato una nuova vocazione nella vita... Buon per lei."
 
 msgctxt "34415\tEXPLANATION"
 msgid ""
@@ -2361,7 +2356,7 @@ msgstr ""
 
 msgctxt "35179\tEXPLANATION"
 msgid "He's in no state to listen right now. I better calm him down."
-msgstr ""
+msgstr "Non è in condizioni di ascoltare in questo momento. Meglio calmarlo."
 
 msgctxt "35241\tEXPLANATION"
 msgid ""
@@ -2389,11 +2384,11 @@ msgstr ""
 
 msgctxt "35589\tEXPLANATION"
 msgid "Wrong kid. Sakura is wearing a baseball cap now."
-msgstr ""
+msgstr "Bambino sbagliato. Ora Sakura indossa un cappellino da baseball."
 
 msgctxt "35638\tEXPLANATION"
 msgid "Wrong kid again. Sakura is wearing a ribbon now."
-msgstr ""
+msgstr "Bambino sbagliato di nuovo. Ora Sakura indossa un fiocco."
 
 msgctxt "35687\tEXPLANATION"
 msgid ""
@@ -2409,7 +2404,7 @@ msgstr ""
 
 msgctxt "35849\tEXPLANATION"
 msgid "Two guys were arguing in the alley of the Kariyushi Arcade..."
-msgstr ""
+msgstr "Due tizi stavano litigando nel vicolo della Kariyushi Arcade..."
 
 msgctxt "35911\tEXPLANATION"
 msgid ""
@@ -2437,11 +2432,11 @@ msgstr ""
 
 msgctxt "36311\tEXPLANATION"
 msgid "A homeless man was being harassed by punks."
-msgstr ""
+msgstr "Un senzatetto veniva molestato da dei teppisti."
 
 msgctxt "36355\tEXPLANATION"
 msgid "I better help the homeless man fend off these punk kids."
-msgstr ""
+msgstr "Farei meglio ad aiutare il senzatetto a respingere questi teppistelli."
 
 msgctxt "36412\tEXPLANATION"
 msgid ""
@@ -2457,7 +2452,7 @@ msgstr ""
 
 msgctxt "36557\tEXPLANATION"
 msgid "This guy's their leader. I can't pull any punches with him."
-msgstr ""
+msgstr "Questo tizio è il loro capo. Non posso andarci leggero con lui."
 
 msgctxt "36617\tEXPLANATION"
 msgid ""
@@ -2479,7 +2474,7 @@ msgstr ""
 
 msgctxt "36855\tEXPLANATION"
 msgid "A girl's waiting for me at Kanrai. I should check it out."
-msgstr ""
+msgstr "Una ragazza mi aspetta al Kanrai. Dovrei andare a vedere."
 
 msgctxt "36913\tEXPLANATION"
 msgid ""
@@ -2539,7 +2534,7 @@ msgstr ""
 
 msgctxt "37839\tEXPLANATION"
 msgid "I found Sawada's office. Maybe I should go in."
-msgstr ""
+msgstr "Ho trovato l'ufficio di Sawada. Forse dovrei entrare."
 
 msgctxt "37886\tEXPLANATION"
 msgid ""
@@ -2549,7 +2544,7 @@ msgstr ""
 
 msgctxt "37966\tEXPLANATION"
 msgid "Sawada gave me back my money, and everything's settled."
-msgstr ""
+msgstr "Sawada mi ha restituito i soldi e tutto è stato sistemato."
 
 msgctxt "38022\tEXPLANATION"
 msgid ""
@@ -2577,7 +2572,7 @@ msgstr ""
 
 msgctxt "38374\tEXPLANATION"
 msgid "The bag snatcher took a left at Noodle Heaven on Pink Street."
-msgstr ""
+msgstr "Lo scippatore ha svoltato a sinistra al Noodle Heaven su Pink Street."
 
 msgctxt "38436\tEXPLANATION"
 msgid ""
@@ -2593,7 +2588,7 @@ msgstr ""
 
 msgctxt "38620\tEXPLANATION"
 msgid "I got back what's mine, and I'll leave it at that."
-msgstr ""
+msgstr "Ho riavuto ciò che era mio, e la chiudiamo qui."
 
 msgctxt "38671\tEXPLANATION"
 msgid ""
@@ -2658,7 +2653,7 @@ msgstr ""
 
 msgctxt "39473\tEXPLANATION"
 msgid "There are even more of them now. What is with these guys?"
-msgstr ""
+msgstr "Sono ancora di più adesso. Che problema hanno questi tizi?"
 
 msgctxt "39531\tEXPLANATION"
 msgid ""
@@ -2716,7 +2711,7 @@ msgstr ""
 
 msgctxt "40260\tEXPLANATION"
 msgid "A shady guy on the street was trying to sell me something."
-msgstr ""
+msgstr "Un tizio losco per strada stava cercando di vendermi qualcosa."
 
 msgctxt "40319\tEXPLANATION"
 msgid ""
@@ -2768,7 +2763,7 @@ msgstr ""
 
 msgctxt "41060\tEXPLANATION"
 msgid "Guess I'll take this guy to Emoto Medical Clinic."
-msgstr ""
+msgstr "Immagino che porterò questo tizio alla Clinica Medica Emoto."
 
 msgctxt "41110\tEXPLANATION"
 msgid ""
@@ -2790,7 +2785,7 @@ msgstr ""
 
 msgctxt "41363\tEXPLANATION"
 msgid "What's up with these punks? Are they after me?"
-msgstr ""
+msgstr "Che succede con questi teppisti? Ce l'hanno con me?"
 
 msgctxt "41410\tEXPLANATION"
 msgid ""
@@ -2800,7 +2795,7 @@ msgstr ""
 
 msgctxt "41518\tEXPLANATION"
 msgid "Those punks again? They just don't give up, do they?"
-msgstr ""
+msgstr "Ancora quei teppisti? Non si arrendono mai, eh?"
 
 msgctxt "41571\tEXPLANATION"
 msgid ""
@@ -2810,7 +2805,7 @@ msgstr ""
 
 msgctxt "41659\tEXPLANATION"
 msgid "I guess this city is pretty rough on returnees like him..."
-msgstr ""
+msgstr "Immagino che questa città sia piuttosto dura per i rimpatriati come lui..."
 
 msgctxt "41719\tEXPLANATION"
 msgid ""
@@ -2906,7 +2901,7 @@ msgstr ""
 
 msgctxt "43183\tEXPLANATION"
 msgid "Answer×Answerで対戦したいようだな。"
-msgstr ""
+msgstr "Vuoi sfidarmi in Answer×Answer."
 
 msgctxt "43287\tEXPLANATION"
 msgid ""
@@ -2916,7 +2911,7 @@ msgstr ""
 
 msgctxt "43393\tEXPLANATION"
 msgid "Where would a cat run off to? Maybe around a sushi bar...?"
-msgstr ""
+msgstr "Dove potrebbe scappare un gatto? Forse nei dintorni di un sushi bar...?"
 
 msgctxt "43452\tEXPLANATION"
 msgid ""
@@ -2932,7 +2927,7 @@ msgstr ""
 
 msgctxt "43650\tEXPLANATION"
 msgid "I wasn't much help on this..."
-msgstr ""
+msgstr "Non sono stato di grande aiuto in questo..."
 
 msgctxt "43680\tEXPLANATION"
 msgid ""
@@ -2942,7 +2937,7 @@ msgstr ""
 
 msgctxt "43776\tEXPLANATION"
 msgid "A Kamurocho fortune teller, huh? I wonder if she's accurate."
-msgstr ""
+msgstr "Una cartomante a Kamurocho, eh? Mi chiedo se ci azzecchi."
 
 msgctxt "43837\tEXPLANATION"
 msgid ""
@@ -2964,7 +2959,7 @@ msgstr ""
 
 msgctxt "44158\tEXPLANATION"
 msgid "I hope the other victims catch that fraud of a fortune teller."
-msgstr ""
+msgstr "Spero che le altre vittime catturino quella truffatrice di una cartomante."
 
 msgctxt "44221\tEXPLANATION"
 msgid ""
@@ -3058,7 +3053,7 @@ msgstr ""
 
 msgctxt "46354\tEXPLANATION"
 msgid "Some guy is acting weird by the Poppo in Nakamichi Alley."
-msgstr ""
+msgstr "Un tizio si sta comportando in modo strano vicino al Poppo in Nakamichi Alley."
 
 msgctxt "46412\tEXPLANATION"
 msgid ""
@@ -3098,7 +3093,7 @@ msgstr ""
 
 msgctxt "46931\tEXPLANATION"
 msgid "These guys have balls to threaten somebody like me."
-msgstr ""
+msgstr "Questi tizi hanno fegato a minacciare uno come me."
 
 msgctxt "46983\tEXPLANATION"
 msgid ""
@@ -3169,7 +3164,7 @@ msgstr ""
 
 msgctxt "47990\tEXPLANATION"
 msgid "That was pretty fun. Nothing like a good game of golf."
-msgstr ""
+msgstr "È stato piuttosto divertente. Non c'è niente come una bella partita a golf."
 
 msgctxt "48046\tEXPLANATION"
 msgid ""
@@ -3191,7 +3186,7 @@ msgstr ""
 
 msgctxt "48352\tEXPLANATION"
 msgid "It was nothing but a yakuza scam. Time for me to leave."
-msgstr ""
+msgstr "Non era altro che una truffa della yakuza. È ora che me ne vada."
 
 msgctxt "48408\tEXPLANATION"
 msgid ""
@@ -3407,7 +3402,7 @@ msgstr ""
 
 msgctxt "51760\tEXPLANATION"
 msgid "I convinced Violence Tobita to be a bouncer."
-msgstr ""
+msgstr "Ho convinto Violence Tobita a fare il buttafuori."
 
 msgctxt "51806\tEXPLANATION"
 msgid ""
@@ -3417,7 +3412,7 @@ msgstr ""
 
 msgctxt "51917\tEXPLANATION"
 msgid "I convinced Iwakuma to be a bouncer."
-msgstr ""
+msgstr "Ho convinto Iwakuma a fare il buttafuori."
 
 msgctxt "51955\tEXPLANATION"
 msgid ""
@@ -3427,7 +3422,7 @@ msgstr ""
 
 msgctxt "52066\tEXPLANATION"
 msgid "I convinced Nanba to be a bouncer."
-msgstr ""
+msgstr "Ho convinto Nanba a fare il buttafuori."
 
 msgctxt "52102\tEXPLANATION"
 msgid ""
@@ -3437,7 +3432,7 @@ msgstr ""
 
 msgctxt "52175\tEXPLANATION"
 msgid "I convinced Hirano to be a bouncer."
-msgstr ""
+msgstr "Ho convinto Hirano a fare il buttafuori."
 
 msgctxt "52212\tEXPLANATION"
 msgid ""
@@ -3447,7 +3442,7 @@ msgstr ""
 
 msgctxt "52313\tEXPLANATION"
 msgid "I convinced Gatling Sendo to be a bouncer."
-msgstr ""
+msgstr "Ho convinto Gatling Sendo a fare il buttafuori."
 
 msgctxt "52357\tEXPLANATION"
 msgid ""
@@ -3585,11 +3580,11 @@ msgstr ""
 
 msgctxt "54495\tEXPLANATION"
 msgid "Stacy's definitely somewhere in Okinawa... I know it."
-msgstr ""
+msgstr "Stacy è sicuramente da qualche parte a Okinawa... Lo so."
 
 msgctxt "54549\tEXPLANATION"
 msgid "Bring 250,000 yen to the station? Smells like a scam, but..."
-msgstr ""
+msgstr "Portare 250.000 yen alla stazione? Puzza di truffa, ma..."
 
 msgctxt "54610\tEXPLANATION"
 msgid ""
@@ -3617,11 +3612,11 @@ msgstr ""
 
 msgctxt "54978\tEXPLANATION"
 msgid "He wants to help me train a hostess. I've gotta go scouting."
-msgstr ""
+msgstr "Vuole che lo aiuti ad addestrare una hostess. Devo andare in perlustrazione."
 
 msgctxt "55039\tEXPLANATION"
 msgid "I've gotta coordinate that hostess's outfit."
-msgstr ""
+msgstr "Devo coordinare il guardaroba di quella hostess."
 
 msgctxt "55084\tEXPLANATION"
 msgid ""
@@ -3631,7 +3626,7 @@ msgstr ""
 
 msgctxt "55182\tEXPLANATION"
 msgid "I should train that hostess's service stats."
-msgstr ""
+msgstr "Dovrei addestrare le statistiche di servizio di quella hostess."
 
 msgctxt "55227\tEXPLANATION"
 msgid ""
@@ -3641,7 +3636,7 @@ msgstr ""
 
 msgctxt "55306\tEXPLANATION"
 msgid "I've got to help that hostess reach her sales goal."
-msgstr ""
+msgstr "Devo aiutare quella hostess a raggiungere il suo obiettivo di vendite."
 
 msgctxt "55358\tEXPLANATION"
 msgid ""
@@ -3651,7 +3646,7 @@ msgstr ""
 
 msgctxt "55422\tEXPLANATION"
 msgid "I've got to make her the number one hostess."
-msgstr ""
+msgstr "Devo farla diventare la hostess numero uno."
 
 msgctxt "55467\tEXPLANATION"
 msgid ""
@@ -3715,11 +3710,11 @@ msgstr ""
 
 msgctxt "56307\tEXPLANATION"
 msgid "I'll get even with the bastard who betrayed Reimi."
-msgstr ""
+msgstr "La farò pagare al bastardo che ha tradito Reimi."
 
 msgctxt "56358\tEXPLANATION"
 msgid "I had an amazing time with Reimi."
-msgstr ""
+msgstr "Mi sono divertito moltissimo con Rio."
 
 msgctxt "56393\tEXPLANATION"
 msgid ""
@@ -3741,7 +3736,7 @@ msgstr ""
 
 msgctxt "56654\tEXPLANATION"
 msgid "I had an amazing time with Rin."
-msgstr ""
+msgstr "Mi sono divertito moltissimo con Rio."
 
 msgctxt "56687\tEXPLANATION"
 msgid ""
@@ -3751,7 +3746,7 @@ msgstr ""
 
 msgctxt "56760\tEXPLANATION"
 msgid "I've got to find Kana's dog Newton."
-msgstr ""
+msgstr "Devo trovare il cane di Kana, Newton."
 
 msgctxt "56796\tEXPLANATION"
 msgid ""
@@ -3774,7 +3769,7 @@ msgstr ""
 
 msgctxt "57092\tEXPLANATION"
 msgid "I had an amazing time with Kana."
-msgstr ""
+msgstr "Mi sono divertito un mondo con Noa."
 
 msgctxt "57126\tEXPLANATION"
 msgid ""
@@ -3784,7 +3779,7 @@ msgstr ""
 
 msgctxt "57191\tEXPLANATION"
 msgid "I had an amazing time with Ranko."
-msgstr ""
+msgstr "Mi sono divertito moltissimo con Rio."
 
 msgctxt "57226\tEXPLANATION"
 msgid ""
@@ -3800,11 +3795,11 @@ msgstr ""
 
 msgctxt "57399\tEXPLANATION"
 msgid "I'm taking Subaru back from this idiot."
-msgstr ""
+msgstr "Riporterò indietro Subaru da questo idiota."
 
 msgctxt "57439\tEXPLANATION"
 msgid "I had an amazing time with Miyu."
-msgstr ""
+msgstr "Mi sono divertito un mondo con Maya."
 
 msgctxt "57473\tEXPLANATION"
 msgid ""
@@ -3838,7 +3833,7 @@ msgstr ""
 
 msgctxt "57871\tEXPLANATION"
 msgid "I had an amazing time with Shiori."
-msgstr ""
+msgstr "Mi sono divertito un mondo con Shiori."
 
 msgctxt "57907\tEXPLANATION"
 msgid ""
@@ -3854,7 +3849,7 @@ msgstr ""
 
 msgctxt "58115\tEXPLANATION"
 msgid "I had an amazing time with Yui."
-msgstr ""
+msgstr "Mi sono divertito moltissimo con Rio."
 
 msgctxt "58148\tEXPLANATION"
 msgid ""
@@ -3870,7 +3865,7 @@ msgstr ""
 
 msgctxt "58304\tEXPLANATION"
 msgid "I had an amazing time with Mika."
-msgstr ""
+msgstr "Mi sono divertito tantissimo con Himeka."
 
 msgctxt "58338\tEXPLANATION"
 msgid ""
@@ -3886,7 +3881,7 @@ msgstr ""
 
 msgctxt "58557\tEXPLANATION"
 msgid "I had an amazing time with Nao."
-msgstr ""
+msgstr "Mi sono divertito un mondo con Noa."
 
 msgctxt "58590\tEXPLANATION"
 msgid ""
@@ -3896,11 +3891,11 @@ msgstr ""
 
 msgctxt "58659\tEXPLANATION"
 msgid "I'll make quick work of these idiots."
-msgstr ""
+msgstr "Mi sbarazzerò in fretta di questi idioti."
 
 msgctxt "58697\tEXPLANATION"
 msgid "I had an amazing time with Saya."
-msgstr ""
+msgstr "Mi sono divertito un mondo con Maya."
 
 msgctxt "58731\tEXPLANATION"
 msgid ""
@@ -3922,4 +3917,4 @@ msgstr ""
 
 msgctxt "58995\tEXPLANATION"
 msgid "I managed to beat Amon, so Minamida should be safe now."
-msgstr ""
+msgstr "Sono riuscito a sconfiggere Amon, quindi Minamida dovrebbe essere al sicuro ora."

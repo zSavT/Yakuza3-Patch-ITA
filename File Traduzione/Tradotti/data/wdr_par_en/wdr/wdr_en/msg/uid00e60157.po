@@ -1,15 +1,16 @@
+#
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=utf-8\n"
-"Language: pt\n"
-"Language-Team: Portuguese, Brazilian\n"
-"Last-Translator: \n"
-"MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: 2026-07-07\n"
 "Project-Id-Version: yakuza-3-remastered\n"
 "Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-07-07\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgctxt "184"
 msgid ""
@@ -99,7 +100,7 @@ msgstr ""
 
 msgctxt "376"
 msgid "Are you kidding me?"
-msgstr ""
+msgstr "Mi stai prendendo per il culo?"
 
 msgctxt "388"
 msgid ""
@@ -116,7 +117,7 @@ msgstr ""
 
 msgctxt "412"
 msgid "And why should I do that?"
-msgstr ""
+msgstr "E perché dovrei?"
 
 msgctxt "424"
 msgid ""
@@ -152,7 +153,7 @@ msgstr ""
 
 msgctxt "496"
 msgid "I see... Well that's too bad."
-msgstr ""
+msgstr "Capisco... Che peccato."
 
 msgctxt "508"
 msgid ""
@@ -187,7 +188,7 @@ msgstr ""
 
 msgctxt "592"
 msgid "All right."
-msgstr ""
+msgstr "Va bene."
 
 msgctxt "604"
 msgid ""
@@ -211,7 +212,7 @@ msgstr ""
 
 msgctxt "664"
 msgid "I see... Well that's too bad."
-msgstr ""
+msgstr "Capisco... Che peccato."
 
 msgctxt "676"
 msgid ""
@@ -230,7 +231,7 @@ msgstr ""
 
 msgctxt "724"
 msgid "Okay. You're on."
-msgstr ""
+msgstr "Ok. Ci sto."
 
 msgctxt "736"
 msgid ""
@@ -246,7 +247,7 @@ msgstr ""
 
 msgctxt "760"
 msgid "All right."
-msgstr ""
+msgstr "Va bene."
 
 msgctxt "772"
 msgid ""
@@ -260,11 +261,11 @@ msgstr ""
 
 msgctxt "820"
 msgid "Accept"
-msgstr ""
+msgstr "Accetta"
 
 msgctxt "832"
 msgid "Refuse"
-msgstr ""
+msgstr "Rifiuta"
 
 msgctxt "844"
 msgid "You're on."
@@ -316,7 +317,7 @@ msgstr ""
 
 msgctxt "10124"
 msgid "Bar Owner"
-msgstr ""
+msgstr "Proprietario del bar"
 
 msgctxt "10128"
 msgid "Talk_Request"
@@ -340,7 +341,7 @@ msgstr ""
 
 msgctxt "10148"
 msgid "dummy"
-msgstr ""
+msgstr "dummy"
 
 msgctxt "10152"
 msgid "Talk_Info_F"

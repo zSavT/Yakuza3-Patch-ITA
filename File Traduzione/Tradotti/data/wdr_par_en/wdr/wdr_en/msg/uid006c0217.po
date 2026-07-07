@@ -1,15 +1,16 @@
+#
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=utf-8\n"
-"Language: pt\n"
-"Language-Team: Portuguese, Brazilian\n"
-"Last-Translator: \n"
-"MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: 2026-07-07\n"
 "Project-Id-Version: yakuza-3-remastered\n"
 "Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-07-07\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgctxt "388"
 msgid "What the heck... Kiryu-san!?"
@@ -17,7 +18,7 @@ msgstr ""
 
 msgctxt "400"
 msgid "Sorry to keep you waiting."
-msgstr ""
+msgstr "Scusa se ti ho fatto aspettare."
 
 msgctxt "412"
 msgid "Just what're you trying to pull here?"
@@ -85,7 +86,7 @@ msgstr ""
 
 msgctxt "724"
 msgid "C'mon, let's go."
-msgstr ""
+msgstr "Dai, andiamo."
 
 msgctxt "808"
 msgid "Huh? You again?"
@@ -113,7 +114,7 @@ msgstr ""
 
 msgctxt "868"
 msgid "I could say the same to you."
-msgstr ""
+msgstr "Potrei dire lo stesso di te."
 
 msgctxt "880"
 msgid ""
@@ -122,7 +123,8 @@ msgid ""
 msgstr ""
 
 msgctxt "940"
-msgid "Yeah, well, screw you too, ya big jackass... Go play in a wood chipper!"
+msgid ""
+"Yeah, well, screw you too, ya big jackass... Go play in a wood chipper!"
 msgstr ""
 
 msgctxt "952"
@@ -139,11 +141,11 @@ msgstr ""
 
 msgctxt "988"
 msgid "Shall we? ♪"
-msgstr ""
+msgstr "Andiamo?"
 
 msgctxt "1000"
 msgid "Yeah."
-msgstr ""
+msgstr "Sì."
 
 msgctxt "1024"
 msgid "So! What's on our agenda?"
@@ -159,7 +161,7 @@ msgstr ""
 
 msgctxt "1072"
 msgid "Alright, then let's get on over there!"
-msgstr ""
+msgstr "Va bene, allora andiamoci subito! ♪"
 
 msgctxt "1096"
 msgid "How about we get some yakiniku at Kanrai?"
@@ -261,7 +263,7 @@ msgstr ""
 
 msgctxt "1468"
 msgid "Shall we?"
-msgstr ""
+msgstr "Andiamo?"
 
 msgctxt "1492"
 msgid "Maybe we could go bowling."
@@ -311,7 +313,7 @@ msgstr ""
 
 msgctxt "1660"
 msgid "Then let's go!"
-msgstr ""
+msgstr "E allora andiamo!"
 
 msgctxt "1684"
 msgid "Well, hey there, Kiryu-san."
@@ -319,7 +321,7 @@ msgstr ""
 
 msgctxt "1696"
 msgid "I kinda knew you'd be right on time. That's so like you."
-msgstr ""
+msgstr "Sapevo che saresti stato puntuale. È proprio da te, signore."
 
 msgctxt "1768"
 msgid "Huh? Rin, is that you? How are ya, babe?"
@@ -355,7 +357,7 @@ msgstr ""
 
 msgctxt "1924"
 msgid "C'mon, let's go."
-msgstr ""
+msgstr "Dai, andiamo."
 
 msgctxt "2008"
 msgid "Huh? You again?"
@@ -383,7 +385,7 @@ msgstr ""
 
 msgctxt "2068"
 msgid "I could say the same to you."
-msgstr ""
+msgstr "Potrei dire lo stesso di te."
 
 msgctxt "2080"
 msgid ""
@@ -392,7 +394,8 @@ msgid ""
 msgstr ""
 
 msgctxt "2140"
-msgid "Yeah, well, screw you too, ya big jackass... Go play in a wood chipper!"
+msgid ""
+"Yeah, well, screw you too, ya big jackass... Go play in a wood chipper!"
 msgstr ""
 
 msgctxt "2152"
@@ -409,11 +412,11 @@ msgstr ""
 
 msgctxt "2188"
 msgid "Shall we? ♪"
-msgstr ""
+msgstr "Andiamo?"
 
 msgctxt "2200"
 msgid "Yeah."
-msgstr ""
+msgstr "Sì."
 
 msgctxt "2224"
 msgid "So! What's on our agenda?"
@@ -429,7 +432,7 @@ msgstr ""
 
 msgctxt "2272"
 msgid "Alright, then let's get on over there!"
-msgstr ""
+msgstr "Va bene, allora andiamoci subito! ♪"
 
 msgctxt "2296"
 msgid "How about we get some yakiniku at Kanrai?"
@@ -581,11 +584,11 @@ msgstr ""
 
 msgctxt "2860"
 msgid "Then let's go!"
-msgstr ""
+msgstr "E allora andiamo!"
 
 msgctxt "2884"
 msgid "Oh, Kiryu-san, you're here already?"
-msgstr ""
+msgstr "Oh, Kiryu-san. Sei già qui?"
 
 msgctxt "2896"
 msgid ""
@@ -627,7 +630,7 @@ msgstr ""
 
 msgctxt "3124"
 msgid "C'mon, let's go."
-msgstr ""
+msgstr "Dai, andiamo."
 
 msgctxt "3208"
 msgid "Huh? You again?"
@@ -655,7 +658,7 @@ msgstr ""
 
 msgctxt "3268"
 msgid "I could say the same to you."
-msgstr ""
+msgstr "Potrei dire lo stesso di te."
 
 msgctxt "3280"
 msgid ""
@@ -664,7 +667,8 @@ msgid ""
 msgstr ""
 
 msgctxt "3340"
-msgid "Yeah, well, screw you too, ya big jackass... Go play in a wood chipper!"
+msgid ""
+"Yeah, well, screw you too, ya big jackass... Go play in a wood chipper!"
 msgstr ""
 
 msgctxt "3352"
@@ -681,11 +685,11 @@ msgstr ""
 
 msgctxt "3388"
 msgid "Shall we? ♪"
-msgstr ""
+msgstr "Andiamo?"
 
 msgctxt "3400"
 msgid "Yeah."
-msgstr ""
+msgstr "Sì."
 
 msgctxt "3424"
 msgid "So! What's on our agenda?"
@@ -701,7 +705,7 @@ msgstr ""
 
 msgctxt "3472"
 msgid "Alright, then let's get over there!"
-msgstr ""
+msgstr "Va bene, allora andiamoci subito! ♪"
 
 msgctxt "3496"
 msgid "How about we get some yakiniku at Kanrai?"

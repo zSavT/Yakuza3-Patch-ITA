@@ -1,19 +1,20 @@
+#
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=utf-8\n"
-"Language: pt\n"
-"Language-Team: Portuguese, Brazilian\n"
-"Last-Translator: \n"
-"MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: 2026-07-07\n"
 "Project-Id-Version: yakuza-3-remastered\n"
 "Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-07-07\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgctxt "608"
 msgid "Welcome."
-msgstr ""
+msgstr "Benvenuto."
 
 msgctxt "620"
 msgid "Will you be visiting our club today?"
@@ -21,7 +22,7 @@ msgstr ""
 
 msgctxt "632"
 msgid "Welcome."
-msgstr ""
+msgstr "Benvenuto."
 
 msgctxt "644"
 msgid "(Damn, I don't have enough cash on me...)"
@@ -29,19 +30,19 @@ msgstr ""
 
 msgctxt "656"
 msgid "Wait a second."
-msgstr ""
+msgstr "Aspetta un attimo..."
 
 msgctxt "668"
 msgid "What is it, sir?"
-msgstr ""
+msgstr "Cosa desidera, signore?"
 
 msgctxt "680"
 msgid "Sorry, I'll come back later..."
-msgstr ""
+msgstr "Scusa, tornerò più tardi..."
 
 msgctxt "692"
 msgid "(I should bring at least 20,000 yen...)"
-msgstr ""
+msgstr "(Dovrei portare almeno 20.000 yen...)"
 
 msgctxt "716"
 msgid "Thank you, sir."
@@ -53,7 +54,7 @@ msgstr ""
 
 msgctxt "740"
 msgid "Very well. Please come again."
-msgstr ""
+msgstr "Benissimo. Torni a trovarci."
 
 msgctxt "788"
 msgid "Reimi-san, then? Right this way, sir."
@@ -117,35 +118,35 @@ msgstr ""
 
 msgctxt "1208"
 msgid "Hm..."
-msgstr ""
+msgstr "Mmm..."
 
 msgctxt "1220"
 msgid "We look forward to serving you again."
-msgstr ""
+msgstr "Non vediamo l'ora di servirla di nuovo."
 
 msgctxt "1244"
 msgid "Here is your bill, sir."
-msgstr ""
+msgstr "Ecco il conto, signore."
 
 msgctxt "1256"
 msgid "All right..."
-msgstr ""
+msgstr "Va bene..."
 
 msgctxt "1268"
 msgid "Thank you."
-msgstr ""
+msgstr "Grazie."
 
 msgctxt "1280"
 msgid "We hope to see you again."
-msgstr ""
+msgstr "Speriamo di rivederti."
 
 msgctxt "1292"
 msgid "Now then..."
-msgstr ""
+msgstr "Bene allora..."
 
 msgctxt "1352"
 msgid "Welcome."
-msgstr ""
+msgstr "Benvenuto."
 
 msgctxt "1364"
 msgid "Will you be visiting our club today?"
@@ -153,23 +154,23 @@ msgstr ""
 
 msgctxt "1376"
 msgid "Welcome."
-msgstr ""
+msgstr "Benvenuto."
 
 msgctxt "1388"
 msgid "(I don't have enough money...)"
-msgstr ""
+msgstr "(Non ho abbastanza soldi...)"
 
 msgctxt "1400"
 msgid "Wait a second!"
-msgstr ""
+msgstr "Aspetta un secondo!"
 
 msgctxt "1412"
 msgid "What is it, sir?"
-msgstr ""
+msgstr "Cosa desidera, signore?"
 
 msgctxt "1424"
 msgid "Sorry, I'll come back later..."
-msgstr ""
+msgstr "Scusa, tornerò più tardi..."
 
 msgctxt "1448"
 msgid "Thank you, sir."
@@ -177,11 +178,11 @@ msgstr ""
 
 msgctxt "1460"
 msgid "Do you wish to request someone?"
-msgstr ""
+msgstr "Vuole richiedere qualcuna in particolare?"
 
 msgctxt "1472"
 msgid "Very well. Please come again."
-msgstr ""
+msgstr "Benissimo. Torni a trovarci."
 
 msgctxt "1508"
 msgid "Reimi-san, then? Right this way, sir."
@@ -213,15 +214,15 @@ msgstr ""
 
 msgctxt "1688"
 msgid "Hmm..."
-msgstr ""
+msgstr "Uhm..."
 
 msgctxt "1700"
 msgid "(I don't have enough money...)"
-msgstr ""
+msgstr "(Non ho abbastanza soldi...)"
 
 msgctxt "1712"
 msgid "Wait a second!"
-msgstr ""
+msgstr "Aspetta un secondo!"
 
 msgctxt "1724"
 msgid "What is it, sir? Would you like to request someone else?"
@@ -229,19 +230,19 @@ msgstr ""
 
 msgctxt "1736"
 msgid "Hmm..."
-msgstr ""
+msgstr "Uhm..."
 
 msgctxt "1748"
 msgid "We look forward to serving you again."
-msgstr ""
+msgstr "Non vediamo l'ora di servirla di nuovo."
 
 msgctxt "1772"
 msgid "Enter"
-msgstr ""
+msgstr "Partecipa"
 
 msgctxt "1784"
 msgid "Don't Enter"
-msgstr ""
+msgstr "Non partecipare"
 
 msgctxt "1796"
 msgid "Reimi Hanayama"
@@ -261,7 +262,7 @@ msgstr ""
 
 msgctxt "1844"
 msgid "On second thought, no thanks."
-msgstr ""
+msgstr "Ripensandoci, no grazie."
 
 msgctxt "1856"
 msgid "Reimi Hanayama"
@@ -281,15 +282,15 @@ msgstr ""
 
 msgctxt "1904"
 msgid "On second thought, no thanks."
-msgstr ""
+msgstr "Ripensandoci, no grazie."
 
 msgctxt "1916"
 msgid "Enter"
-msgstr ""
+msgstr "Partecipa"
 
 msgctxt "1928"
 msgid "Don't Enter"
-msgstr ""
+msgstr "Non partecipare"
 
 msgctxt "1940"
 msgid "Reimi Hanayama"
@@ -305,7 +306,7 @@ msgstr ""
 
 msgctxt "1976"
 msgid "On second thought, no thanks."
-msgstr ""
+msgstr "Ripensandoci, no grazie."
 
 msgctxt "1988"
 msgid "Reimi Hanayama"
@@ -321,7 +322,7 @@ msgstr ""
 
 msgctxt "2024"
 msgid "On second thought, no thanks."
-msgstr ""
+msgstr "Ripensandoci, no grazie."
 
 msgctxt "2036"
 msgid "Reimi Hanayama"
@@ -337,11 +338,11 @@ msgstr ""
 
 msgctxt "2072"
 msgid "On second thought, no thanks."
-msgstr ""
+msgstr "Ripensandoci, no grazie."
 
 msgctxt "11332"
 msgid "Attendant"
-msgstr ""
+msgstr "Addetto"
 
 msgctxt "11336"
 msgid "M_shp_stand_tlk_ojigi"

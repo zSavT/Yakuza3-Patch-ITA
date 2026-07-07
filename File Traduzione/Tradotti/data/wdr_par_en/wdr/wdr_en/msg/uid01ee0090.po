@@ -1,15 +1,16 @@
+#
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=utf-8\n"
-"Language: pt\n"
-"Language-Team: Portuguese, Brazilian\n"
-"Last-Translator: \n"
-"MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: 2026-07-07\n"
 "Project-Id-Version: yakuza-3-remastered\n"
 "Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-07-07\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgctxt "340"
 msgid "The heck took you so long, Aniki? Let's move."
@@ -33,7 +34,7 @@ msgstr ""
 
 msgctxt "424"
 msgid "(Shoot, I forgot Rikiya was with me! What now!?)"
-msgstr ""
+msgstr "(Cacchio, mi ero dimenticato che Haruka era con me! E adesso!?)"
 
 msgctxt "436"
 msgid "Yeah, you wanna come?"
@@ -47,7 +48,7 @@ msgstr ""
 
 msgctxt "460"
 msgid "No, I'm okay."
-msgstr ""
+msgstr "No, sono a posto."
 
 msgctxt "472"
 msgid "Huh? Changed your mind?"
@@ -59,7 +60,7 @@ msgstr ""
 
 msgctxt "496"
 msgid "(Shoot, I forgot Mikio was with me! What now!?)"
-msgstr ""
+msgstr "(Cacchio, mi ero dimenticato che Haruka era con me! E adesso!?)"
 
 msgctxt "508"
 msgid "Yeah, you wanna tag along?"
@@ -71,7 +72,7 @@ msgstr ""
 
 msgctxt "532"
 msgid "No, I'm okay."
-msgstr ""
+msgstr "No, sono a posto."
 
 msgctxt "544"
 msgid "Huh? Don't go changin' your plans on account of me, sir."
@@ -79,11 +80,11 @@ msgstr ""
 
 msgctxt "556"
 msgid "Are you going in there, Uncle Kaz?"
-msgstr ""
+msgstr "Stai... andando lì dentro, zio Kaz?"
 
 msgctxt "568"
 msgid "(Shoot, I forgot Ayako was with me! What now!?)"
-msgstr ""
+msgstr "(Cacchio, mi ero dimenticato che Haruka era con me! E adesso!?)"
 
 msgctxt "580"
 msgid "Yeah, sorry. Mind waiting outside for a bit?"
@@ -95,7 +96,7 @@ msgstr ""
 
 msgctxt "604"
 msgid "No, I'm okay."
-msgstr ""
+msgstr "No, sono a posto."
 
 msgctxt "616"
 msgid ""
@@ -127,35 +128,35 @@ msgstr ""
 
 msgctxt "724"
 msgid "Go In Anyway"
-msgstr ""
+msgstr "Entra comunque"
 
 msgctxt "736"
 msgid "Forget It"
-msgstr ""
+msgstr "Lascia perdere"
 
 msgctxt "748"
 msgid "Go In Anyway"
-msgstr ""
+msgstr "Entra comunque"
 
 msgctxt "760"
 msgid "Forget It"
-msgstr ""
+msgstr "Lascia perdere"
 
 msgctxt "772"
 msgid "Go In Anyway"
-msgstr ""
+msgstr "Entra comunque"
 
 msgctxt "784"
 msgid "Forget It"
-msgstr ""
+msgstr "Lascia perdere"
 
 msgctxt "796"
 msgid "Go In Anyway"
-msgstr ""
+msgstr "Entra comunque"
 
 msgctxt "808"
 msgid "Forget It"
-msgstr ""
+msgstr "Lascia perdere"
 
 msgctxt "5520"
 msgid "Rikiya"

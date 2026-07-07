@@ -1,30 +1,32 @@
+#
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=utf-8\n"
-"Language: pt\n"
-"Language-Team: Portuguese, Brazilian\n"
-"Last-Translator: \n"
-"MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: 2026-07-07\n"
 "Project-Id-Version: yakuza-3-remastered\n"
 "Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-07-07\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgctxt "244"
 msgid "It's you..."
-msgstr ""
+msgstr "Sei tu..."
 
 msgctxt "256"
 msgid "(Here we go...)"
-msgstr ""
+msgstr "Ci siamo..."
 
 msgctxt "280"
 msgid "(Wait a minute. I don't have 30,000,000 yet.)"
 msgstr ""
 
 msgctxt "292"
-msgid "Wait a little longer. I'll figure out some way to get that 30,000,000 yen."
+msgid ""
+"Wait a little longer. I'll figure out some way to get that 30,000,000 yen."
 msgstr ""
 
 msgctxt "304"
@@ -37,7 +39,7 @@ msgstr ""
 
 msgctxt "328"
 msgid "You handed over <Color:8>30,000,000 yen<Color:Default>."
-msgstr ""
+msgstr "Hai sborsato <Color:8>2.000.000 di yen<Color:Default>."
 
 msgctxt "340"
 msgid "Oh! Oh, dear!"
@@ -49,7 +51,7 @@ msgstr ""
 
 msgctxt "364"
 msgid "Oh, thank you! Thank you so much!"
-msgstr ""
+msgstr "Grazie! Grazie mille!"
 
 msgctxt "376"
 msgid "I told you to trust me, didn't I?"
@@ -65,7 +67,7 @@ msgstr ""
 
 msgctxt "460"
 msgid "Don't mention it..."
-msgstr ""
+msgstr "Prego..."
 
 msgctxt "472"
 msgid "You always do so much for me..."
@@ -85,7 +87,7 @@ msgstr ""
 
 msgctxt "544"
 msgid "Thanks for doing all that stuff for me, Uncle Kaz!"
-msgstr ""
+msgstr "Grazie per tutto quello che hai fatto per me, zio Kaz!"
 
 msgctxt "556"
 msgid ""
@@ -95,7 +97,7 @@ msgstr ""
 
 msgctxt "568"
 msgid "You got the <Color:8>Morning Glory Scarf<Color:Default>."
-msgstr ""
+msgstr "Hai ottenuto la <Color:8>Sciarpa Morning Glory<Color:Default>."
 
 msgctxt "640"
 msgid "Oh, you're the man from earlier..."
@@ -115,7 +117,7 @@ msgstr ""
 
 msgctxt "688"
 msgid "Uncle Kaz..."
-msgstr ""
+msgstr "Zio Kaz..."
 
 msgctxt "700"
 msgid ""
@@ -143,7 +145,7 @@ msgstr ""
 
 msgctxt "760"
 msgid "Please! You're my only hope!"
-msgstr ""
+msgstr "Ti prego! Sei la mia unica speranza!"
 
 msgctxt "772"
 msgid "Okay! Maybe I can get a job, and...!"
@@ -155,7 +157,7 @@ msgstr ""
 
 msgctxt "796"
 msgid "Oh, yeah..."
-msgstr ""
+msgstr "Oh, già..."
 
 msgctxt "808"
 msgid ""
@@ -175,7 +177,7 @@ msgstr ""
 
 msgctxt "844"
 msgid "Uncle Kaz..."
-msgstr ""
+msgstr "Zio Kaz..."
 
 msgctxt "856"
 msgid "Yes, this is my own problem. Please don't worry about it..."
@@ -241,8 +243,8 @@ msgstr ""
 
 msgctxt "1060"
 msgid ""
-"Talking about it will just make me feel even more ashamed than I already "
-"do, but... You sure you want to hear about it?"
+"Talking about it will just make me feel even more ashamed than I already do,"
+" but... You sure you want to hear about it?"
 msgstr ""
 
 msgctxt "1072"
@@ -289,8 +291,8 @@ msgstr ""
 
 msgctxt "1180"
 msgid ""
-"I did my best to try to make it through, but I didn't have any choice but "
-"to keep borrowing money to stay afloat."
+"I did my best to try to make it through, but I didn't have any choice but to"
+" keep borrowing money to stay afloat."
 msgstr ""
 
 msgctxt "1192"
@@ -353,7 +355,7 @@ msgstr ""
 
 msgctxt "1348"
 msgid "Uncle Kaz..."
-msgstr ""
+msgstr "Zio Kaz..."
 
 msgctxt "1360"
 msgid ""
@@ -381,7 +383,7 @@ msgstr ""
 
 msgctxt "1420"
 msgid "Please! You're my only hope!"
-msgstr ""
+msgstr "Ti prego! Sei la mia unica speranza!"
 
 msgctxt "1432"
 msgid "Okay! Maybe I can get a job, and...!"
@@ -393,7 +395,7 @@ msgstr ""
 
 msgctxt "1456"
 msgid "Oh, yeah..."
-msgstr ""
+msgstr "Oh, già..."
 
 msgctxt "1468"
 msgid ""
@@ -413,7 +415,7 @@ msgstr ""
 
 msgctxt "1504"
 msgid "Uncle Kaz..."
-msgstr ""
+msgstr "Zio Kaz..."
 
 msgctxt "1516"
 msgid ""
@@ -431,7 +433,7 @@ msgstr ""
 
 msgctxt "1552"
 msgid "Never mind."
-msgstr ""
+msgstr "Lascia stare."
 
 msgctxt "1564"
 msgid "I have to try and help him."
@@ -487,7 +489,7 @@ msgstr ""
 
 msgctxt "15904"
 msgid "dummy"
-msgstr ""
+msgstr "dummy"
 
 msgctxt "15908"
 msgid "0"

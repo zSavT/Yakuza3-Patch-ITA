@@ -1,15 +1,16 @@
+#
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=utf-8\n"
-"Language: pt\n"
-"Language-Team: Portuguese, Brazilian\n"
-"Last-Translator: \n"
-"MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: 2026-07-07\n"
 "Project-Id-Version: yakuza-3-remastered\n"
 "Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-07-07\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgctxt "136"
 msgid "Kiryu-san! Konichiwa!"
@@ -39,11 +40,11 @@ msgstr ""
 
 msgctxt "208"
 msgid "I have a favor to ask."
-msgstr ""
+msgstr "Ho un favore da chiederti."
 
 msgctxt "220"
 msgid "What is it?"
-msgstr ""
+msgstr "E cioè?"
 
 msgctxt "232"
 msgid ""
@@ -75,7 +76,7 @@ msgstr ""
 
 msgctxt "304"
 msgid "You really think so...?"
-msgstr ""
+msgstr "Lo pensi davvero?"
 
 msgctxt "316"
 msgid ""
@@ -134,7 +135,7 @@ msgstr ""
 
 msgctxt "448"
 msgid "Heh."
-msgstr ""
+msgstr "Eh."
 
 msgctxt "460"
 msgid ""
@@ -150,7 +151,7 @@ msgstr ""
 
 msgctxt "484"
 msgid "Is that right?"
-msgstr ""
+msgstr "È così?"
 
 msgctxt "496"
 msgid "I guess it's not that easy to find a good tag partner."
@@ -158,7 +159,7 @@ msgstr ""
 
 msgctxt "508"
 msgid "Guess not."
-msgstr ""
+msgstr "Eh, no."
 
 msgctxt "520"
 msgid "Well, I'm going to head over to the Coliseum."
@@ -166,7 +167,7 @@ msgstr ""
 
 msgctxt "532"
 msgid "All right."
-msgstr ""
+msgstr "Va bene."
 
 msgctxt "544"
 msgid "Come on by anytime!"
@@ -178,7 +179,7 @@ msgstr ""
 
 msgctxt "628"
 msgid "Why not?"
-msgstr ""
+msgstr "Perché no?"
 
 msgctxt "640"
 msgid ""
@@ -194,7 +195,7 @@ msgstr ""
 
 msgctxt "664"
 msgid "You sure about that?"
-msgstr ""
+msgstr "Sei sicuro di quello?"
 
 msgctxt "676"
 msgid ""
@@ -204,11 +205,11 @@ msgstr ""
 
 msgctxt "688"
 msgid "Ugh... all right."
-msgstr ""
+msgstr "Uff... Va bene."
 
 msgctxt "700"
 msgid "Really!?"
-msgstr ""
+msgstr "Davvero!?"
 
 msgctxt "712"
 msgid ""
@@ -225,7 +226,7 @@ msgstr ""
 
 msgctxt "736"
 msgid "Heh."
-msgstr ""
+msgstr "Eh."
 
 msgctxt "748"
 msgid ""
@@ -241,7 +242,7 @@ msgstr ""
 
 msgctxt "772"
 msgid "Is that right?"
-msgstr ""
+msgstr "È così?"
 
 msgctxt "784"
 msgid "I guess it's not that easy to find a good tag partner."
@@ -249,7 +250,7 @@ msgstr ""
 
 msgctxt "796"
 msgid "Guess not."
-msgstr ""
+msgstr "Eh, no."
 
 msgctxt "808"
 msgid "Well, I'm going to head over to the Coliseum."
@@ -257,7 +258,7 @@ msgstr ""
 
 msgctxt "820"
 msgid "All right."
-msgstr ""
+msgstr "Va bene."
 
 msgctxt "832"
 msgid "Come on by anytime!"
@@ -265,7 +266,7 @@ msgstr ""
 
 msgctxt "904"
 msgid "Sure."
-msgstr ""
+msgstr "Certo."
 
 msgctxt "916"
 msgid "No."
@@ -317,7 +318,7 @@ msgstr ""
 
 msgctxt "8808"
 msgid "dummy"
-msgstr ""
+msgstr "dummy"
 
 msgctxt "8812"
 msgid "0"

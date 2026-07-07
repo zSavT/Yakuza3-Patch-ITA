@@ -1,15 +1,16 @@
+#
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=utf-8\n"
-"Language: pt\n"
-"Language-Team: Portuguese, Brazilian\n"
-"Last-Translator: \n"
-"MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: 2026-07-07\n"
 "Project-Id-Version: yakuza-3-remastered\n"
 "Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-07-07\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgctxt "420"
 msgid "Welcome! Welcome! It's nice to see you again!"
@@ -20,7 +21,8 @@ msgid "Hmm? Looks like you got a full house today."
 msgstr ""
 
 msgctxt "444"
-msgid "My employee's wife went into labor, and he had to rush to the hospital."
+msgid ""
+"My employee's wife went into labor, and he had to rush to the hospital."
 msgstr ""
 
 msgctxt "456"
@@ -38,7 +40,8 @@ msgid "Welcome! Welcome! It's nice to see you again!"
 msgstr ""
 
 msgctxt "504"
-msgid "Sorry about this. My help hasn't come back yet, and we're packed today."
+msgid ""
+"Sorry about this. My help hasn't come back yet, and we're packed today."
 msgstr ""
 
 msgctxt "516"
@@ -47,7 +50,7 @@ msgstr ""
 
 msgctxt "528"
 msgid "I see..."
-msgstr ""
+msgstr "Capisco..."
 
 msgctxt "540"
 msgid "You got it! Tell me what you want!"
@@ -63,8 +66,8 @@ msgstr ""
 
 msgctxt "576"
 msgid ""
-"Yeah, sure. It's the least I can do for all the great ramen I've eaten "
-"here. What should I do?"
+"Yeah, sure. It's the least I can do for all the great ramen I've eaten here."
+" What should I do?"
 msgstr ""
 
 msgctxt "588"
@@ -81,7 +84,7 @@ msgstr ""
 
 msgctxt "612"
 msgid "All right. I'll give it a shot."
-msgstr ""
+msgstr "Va bene, ci provo."
 
 msgctxt "624"
 msgid ""
@@ -97,11 +100,11 @@ msgstr ""
 
 msgctxt "696"
 msgid "Chashu Tonkotsu Ramen"
-msgstr ""
+msgstr "Ramen tonkotsu con chashu"
 
 msgctxt "708"
 msgid "Mentaiko Tonkotsu Ramen!"
-msgstr ""
+msgstr "Ramen tonkotsu al mentaiko"
 
 msgctxt "720"
 msgid "Large Kyushu Tonkotsu Ramen"
@@ -256,7 +259,8 @@ msgid "You got it! One Egg Tonkotsu Ramen comin' up!"
 msgstr ""
 
 msgctxt "1380"
-msgid "What the hell is this? I ordered Chashu Tonkotsu Ramen here! Get with it!"
+msgid ""
+"What the hell is this? I ordered Chashu Tonkotsu Ramen here! Get with it!"
 msgstr ""
 
 msgctxt "1404"
@@ -267,8 +271,8 @@ msgstr ""
 
 msgctxt "1428"
 msgid ""
-"Um, hello? I didn't order this. What part of \"large Kyushu Tonkotsu "
-"Ramen\" did you not understand, hmm?"
+"Um, hello? I didn't order this. What part of \"large Kyushu Tonkotsu Ramen\""
+" did you not understand, hmm?"
 msgstr ""
 
 msgctxt "1452"
@@ -291,7 +295,7 @@ msgstr ""
 
 msgctxt "1560"
 msgid "Check, please."
-msgstr ""
+msgstr "Il conto, per favore."
 
 msgctxt "1572"
 msgid "Thanks so much for your business! Please come again!"
@@ -309,7 +313,7 @@ msgstr ""
 
 msgctxt "1668"
 msgid "You got <Color:8>20,000 yen<Color:Default>."
-msgstr ""
+msgstr "Hai ottenuto <Color:8>20.000 yen<Color:Default>."
 
 msgctxt "1740"
 msgid "You got 5,000 EXP."
@@ -321,7 +325,7 @@ msgstr ""
 
 msgctxt "1764"
 msgid "Check, please."
-msgstr ""
+msgstr "Il conto, per favore."
 
 msgctxt "1776"
 msgid "Thanks so much for your business! Please come again!"
@@ -339,7 +343,7 @@ msgstr ""
 
 msgctxt "1872"
 msgid "You got <Color:8>10,000 yen<Color:Default>."
-msgstr ""
+msgstr "Hai ottenuto <Color:8>10.000 yen<Color:Default>."
 
 msgctxt "1944"
 msgid "You got 5,000 EXP."
@@ -351,11 +355,11 @@ msgstr ""
 
 msgctxt "1968"
 msgid "Sorry..."
-msgstr ""
+msgstr "Scusa..."
 
 msgctxt "1980"
 msgid "Check, please."
-msgstr ""
+msgstr "Il conto, per favore."
 
 msgctxt "1992"
 msgid "Thanks so much for your business! Please come again!"
@@ -371,7 +375,7 @@ msgstr ""
 
 msgctxt "2088"
 msgid "You got <Color:8>5,000 yen<Color:Default>."
-msgstr ""
+msgstr "Hai ottenuto <Color:8>5.000 yen<Color:Default>."
 
 msgctxt "2160"
 msgid "You got 5,000 EXP."
@@ -385,11 +389,11 @@ msgstr ""
 
 msgctxt "2184"
 msgid "Sorry..."
-msgstr ""
+msgstr "Scusa..."
 
 msgctxt "2196"
 msgid "Check, please."
-msgstr ""
+msgstr "Il conto, per favore."
 
 msgctxt "2208"
 msgid "Thanks so much for your business! Please come again!"
@@ -407,7 +411,7 @@ msgstr ""
 
 msgctxt "2304"
 msgid "You got <Color:8>1,000 yen<Color:Default>."
-msgstr ""
+msgstr "Hai intascato <Color:8>18,000 yen<Color:Default>."
 
 msgctxt "2376"
 msgid "You got 5,000 EXP."
@@ -415,7 +419,7 @@ msgstr ""
 
 msgctxt "2388"
 msgid "Help Him Out"
-msgstr ""
+msgstr "Dagli una mano"
 
 msgctxt "2400"
 msgid "Order Something"
@@ -423,19 +427,19 @@ msgstr ""
 
 msgctxt "2412"
 msgid "Mentaiko Tonkotsu Ramen"
-msgstr ""
+msgstr "Ramen tonkotsu al mentaiko"
 
 msgctxt "2424"
 msgid "Kyushu Tonkotsu Ramen"
-msgstr ""
+msgstr "Ramen tonkotsu del Kyushu"
 
 msgctxt "2436"
 msgid "Chashu Tonkotsu Ramen"
-msgstr ""
+msgstr "Ramen tonkotsu con chashu"
 
 msgctxt "2448"
 msgid "Mentaiko Tonkotsu Ramen"
-msgstr ""
+msgstr "Ramen tonkotsu al mentaiko"
 
 msgctxt "2460"
 msgid "Large Kyushu Tonkotsu Ramen"
@@ -443,7 +447,7 @@ msgstr ""
 
 msgctxt "2472"
 msgid "Stewed Pork Tonkotsu Ramen"
-msgstr ""
+msgstr "Ramen tonkotsu con maiale brasato"
 
 msgctxt "2484"
 msgid "Double Stewed Pork Tonkotsu Ramen"
@@ -455,7 +459,7 @@ msgstr ""
 
 msgctxt "2508"
 msgid "Egg Tonkotsu Ramen"
-msgstr ""
+msgstr "Ramen tonkotsu con uovo"
 
 msgctxt "2520"
 msgid "Large Kyushu Tonkotsu Ramen"
@@ -463,7 +467,7 @@ msgstr ""
 
 msgctxt "2532"
 msgid "Mentaiko Tonkotsu Ramen"
-msgstr ""
+msgstr "Ramen tonkotsu al mentaiko"
 
 msgctxt "2544"
 msgid "Double Stewed Tonkotsu Ramen"
@@ -471,19 +475,19 @@ msgstr ""
 
 msgctxt "2556"
 msgid "Kyushu Tonkotsu Ramen"
-msgstr ""
+msgstr "Ramen tonkotsu del Kyushu"
 
 msgctxt "2568"
 msgid "Chashu Tonkotsu Ramen"
-msgstr ""
+msgstr "Ramen tonkotsu con chashu"
 
 msgctxt "2580"
 msgid "Egg Tonkotsu Ramen"
-msgstr ""
+msgstr "Ramen tonkotsu con uovo"
 
 msgctxt "20504"
 msgid "Owner of Kyushu No. 1 Star"
-msgstr ""
+msgstr "Proprietario di Kyushu No. 1 Star"
 
 msgctxt "20508"
 msgid "Talk_Ojigi"
@@ -507,7 +511,7 @@ msgstr ""
 
 msgctxt "20528"
 msgid "Businessman"
-msgstr ""
+msgstr "Uomo d'Affari"
 
 msgctxt "20532"
 msgid "Civil Servant"
@@ -519,7 +523,7 @@ msgstr ""
 
 msgctxt "20540"
 msgid "Man"
-msgstr ""
+msgstr "Uomo"
 
 msgctxt "20544"
 msgid "High School Student"
@@ -539,7 +543,7 @@ msgstr ""
 
 msgctxt "20560"
 msgid "dummy"
-msgstr ""
+msgstr "dummy"
 
 msgctxt "20564"
 msgid "Talk_No"

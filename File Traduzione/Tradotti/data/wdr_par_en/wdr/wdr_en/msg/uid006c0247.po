@@ -1,15 +1,16 @@
+#
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=utf-8\n"
-"Language: pt\n"
-"Language-Team: Portuguese, Brazilian\n"
-"Last-Translator: \n"
-"MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: 2026-07-07\n"
 "Project-Id-Version: yakuza-3-remastered\n"
 "Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-07-07\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgctxt "340"
 msgid "Kiryu-san!?"
@@ -17,7 +18,7 @@ msgstr ""
 
 msgctxt "352"
 msgid "Sorry to keep you waiting."
-msgstr ""
+msgstr "Scusa se ti ho fatto aspettare."
 
 msgctxt "364"
 msgid "Uh, who's this?"
@@ -43,7 +44,7 @@ msgstr ""
 
 msgctxt "424"
 msgid "Sorry..."
-msgstr ""
+msgstr "Scusa..."
 
 msgctxt "436"
 msgid "Well, to make it up to me, you have to do everything I say, okay?"
@@ -55,7 +56,7 @@ msgstr ""
 
 msgctxt "520"
 msgid "Oh..."
-msgstr ""
+msgstr "Oh..."
 
 msgctxt "532"
 msgid "Hey, sis."
@@ -63,7 +64,7 @@ msgstr ""
 
 msgctxt "544"
 msgid "What are you doing here?"
-msgstr ""
+msgstr "Che ci fai qui?"
 
 msgctxt "556"
 msgid "What do you care? It's none of your business."
@@ -91,7 +92,7 @@ msgstr ""
 
 msgctxt "676"
 msgid "So... Where are you taking me today?"
-msgstr ""
+msgstr "Allora... dove mi porti oggi?"
 
 msgctxt "700"
 msgid "How about Sam's Maui for some teppanyaki?"
@@ -123,8 +124,8 @@ msgstr ""
 
 msgctxt "784"
 msgid ""
-"We're going to Sam's Maui again? Oooh, does that mean you like it as much "
-"as I do, Kiryu-san?"
+"We're going to Sam's Maui again? Oooh, does that mean you like it as much as"
+" I do, Kiryu-san?"
 msgstr ""
 
 msgctxt "796"
@@ -181,14 +182,15 @@ msgstr ""
 
 msgctxt "1000"
 msgid "How about we play some pool?"
-msgstr ""
+msgstr "Ti va di fare una partita a biliardo?"
 
 msgctxt "1012"
 msgid "Pool!? Hehehe... Y'know, I'm pretty good at pool!"
 msgstr ""
 
 msgctxt "1024"
-msgid "But I bet you'll put up a good fight, Kiryu-san! <Color:7>⑮<Color:Default>"
+msgid ""
+"But I bet you'll put up a good fight, Kiryu-san! <Color:7>⑮<Color:Default>"
 msgstr ""
 
 msgctxt "1036"
@@ -201,7 +203,7 @@ msgstr ""
 
 msgctxt "1072"
 msgid "How about we play some pool?"
-msgstr ""
+msgstr "Ti va di fare una partita a biliardo?"
 
 msgctxt "1084"
 msgid "Again? Wow, you must really love pool, huh?"
@@ -209,7 +211,7 @@ msgstr ""
 
 msgctxt "1096"
 msgid "I guess you could say that."
-msgstr ""
+msgstr "Immagino si possa dire così."
 
 msgctxt "1108"
 msgid "C'mon, Kiryu-san, let's go. <Color:7>⑮<Color:Default>"
@@ -217,14 +219,15 @@ msgstr ""
 
 msgctxt "1144"
 msgid "Want to go sing karaoke?"
-msgstr ""
+msgstr "Ti va di andare a cantare al karaoke?"
 
 msgctxt "1156"
 msgid "Oooh, karaoke? Of course! I looove karaoke! <Color:7>⑮<Color:Default>"
 msgstr ""
 
 msgctxt "1168"
-msgid "We're gonna have a ton of fun today, Kiryu-san! <Color:7>⑮<Color:Default>"
+msgid ""
+"We're gonna have a ton of fun today, Kiryu-san! <Color:7>⑮<Color:Default>"
 msgstr ""
 
 msgctxt "1180"
@@ -237,16 +240,17 @@ msgstr ""
 
 msgctxt "1216"
 msgid "Want to go sing karaoke?"
-msgstr ""
+msgstr "Ti va di andare a cantare al karaoke?"
 
 msgctxt "1228"
 msgid ""
-"Karaoke again? Hehehe... I'm glad you like karaoke as much as I do, "
-"Kiryu-san. <Color:7>⑮<Color:Default>"
+"Karaoke again? Hehehe... I'm glad you like karaoke as much as I do, Kiryu-"
+"san. <Color:7>⑮<Color:Default>"
 msgstr ""
 
 msgctxt "1240"
-msgid "We're gonna have a ton of fun today, Kiryu-san! <Color:7>⑮<Color:Default>"
+msgid ""
+"We're gonna have a ton of fun today, Kiryu-san! <Color:7>⑮<Color:Default>"
 msgstr ""
 
 msgctxt "1252"
@@ -267,7 +271,7 @@ msgstr ""
 
 msgctxt "1372"
 msgid "Oh..."
-msgstr ""
+msgstr "Oh..."
 
 msgctxt "1384"
 msgid "Hey, sis."
@@ -275,7 +279,7 @@ msgstr ""
 
 msgctxt "1396"
 msgid "What are you doing here?"
-msgstr ""
+msgstr "Che ci fai qui?"
 
 msgctxt "1408"
 msgid "What do you care? It's none of your business."
@@ -303,7 +307,7 @@ msgstr ""
 
 msgctxt "1528"
 msgid "So... Where are you taking me today?"
-msgstr ""
+msgstr "Allora... dove mi porti oggi?"
 
 msgctxt "1552"
 msgid "How about Sam's Maui for some teppanyaki?"
@@ -335,8 +339,8 @@ msgstr ""
 
 msgctxt "1636"
 msgid ""
-"We're going to Sam's Maui again? Oooh, does that mean you like it as much "
-"as I do, Kiryu-san?"
+"We're going to Sam's Maui again? Oooh, does that mean you like it as much as"
+" I do, Kiryu-san?"
 msgstr ""
 
 msgctxt "1648"
@@ -393,14 +397,15 @@ msgstr ""
 
 msgctxt "1852"
 msgid "How about we play some pool?"
-msgstr ""
+msgstr "Ti va di fare una partita a biliardo?"
 
 msgctxt "1864"
 msgid "Pool!? Hehehe... Y'know, I'm pretty good at pool!"
 msgstr ""
 
 msgctxt "1876"
-msgid "But I bet you'll put up a good fight, Kiryu-san! <Color:7>⑮<Color:Default>"
+msgid ""
+"But I bet you'll put up a good fight, Kiryu-san! <Color:7>⑮<Color:Default>"
 msgstr ""
 
 msgctxt "1888"
@@ -413,7 +418,7 @@ msgstr ""
 
 msgctxt "1924"
 msgid "How about we play some pool?"
-msgstr ""
+msgstr "Ti va di fare una partita a biliardo?"
 
 msgctxt "1936"
 msgid "Again? Wow, you must really love pool, huh?"
@@ -421,7 +426,7 @@ msgstr ""
 
 msgctxt "1948"
 msgid "I guess you could say that."
-msgstr ""
+msgstr "Immagino si possa dire così."
 
 msgctxt "1960"
 msgid "C'mon, Kiryu-san, let's go. <Color:7>⑮<Color:Default>"
@@ -429,14 +434,15 @@ msgstr ""
 
 msgctxt "1996"
 msgid "Want to go sing karaoke?"
-msgstr ""
+msgstr "Ti va di andare a cantare al karaoke?"
 
 msgctxt "2008"
 msgid "Oooh, karaoke? Of course! I looove karaoke! <Color:7>⑮<Color:Default>"
 msgstr ""
 
 msgctxt "2020"
-msgid "We're gonna have a ton of fun today, Kiryu-san! <Color:7>⑮<Color:Default>"
+msgid ""
+"We're gonna have a ton of fun today, Kiryu-san! <Color:7>⑮<Color:Default>"
 msgstr ""
 
 msgctxt "2032"
@@ -449,16 +455,17 @@ msgstr ""
 
 msgctxt "2068"
 msgid "Want to go sing karaoke?"
-msgstr ""
+msgstr "Ti va di andare a cantare al karaoke?"
 
 msgctxt "2080"
 msgid ""
-"Karaoke again? Hehehe... I'm glad you like karaoke as much as I do, "
-"Kiryu-san. <Color:7>⑮<Color:Default>"
+"Karaoke again? Hehehe... I'm glad you like karaoke as much as I do, Kiryu-"
+"san. <Color:7>⑮<Color:Default>"
 msgstr ""
 
 msgctxt "2092"
-msgid "We're gonna have a ton of fun today, Kiryu-san! <Color:7>⑮<Color:Default>"
+msgid ""
+"We're gonna have a ton of fun today, Kiryu-san! <Color:7>⑮<Color:Default>"
 msgstr ""
 
 msgctxt "2104"
@@ -481,7 +488,7 @@ msgstr ""
 
 msgctxt "2224"
 msgid "Oh..."
-msgstr ""
+msgstr "Oh..."
 
 msgctxt "2236"
 msgid "Hey, sis."
@@ -489,7 +496,7 @@ msgstr ""
 
 msgctxt "2248"
 msgid "What are you doing here?"
-msgstr ""
+msgstr "Che ci fai qui?"
 
 msgctxt "2260"
 msgid "What do you care? It's none of your business."
@@ -517,7 +524,7 @@ msgstr ""
 
 msgctxt "2380"
 msgid "So... Where are you taking me today?"
-msgstr ""
+msgstr "Allora... dove mi porti oggi?"
 
 msgctxt "2404"
 msgid "How about Sam's Maui for some teppanyaki?"
@@ -549,8 +556,8 @@ msgstr ""
 
 msgctxt "2488"
 msgid ""
-"We're going to Sam's Maui again? Oooh, does that mean you like it as much "
-"as I do, Kiryu-san?"
+"We're going to Sam's Maui again? Oooh, does that mean you like it as much as"
+" I do, Kiryu-san?"
 msgstr ""
 
 msgctxt "2500"
@@ -607,14 +614,15 @@ msgstr ""
 
 msgctxt "2704"
 msgid "How about we play some pool?"
-msgstr ""
+msgstr "Ti va di fare una partita a biliardo?"
 
 msgctxt "2716"
 msgid "Pool!? Hehehe... Y'know, I'm pretty good at pool!"
 msgstr ""
 
 msgctxt "2728"
-msgid "But I bet you'll put up a good fight, Kiryu-san! <Color:7>⑮<Color:Default>"
+msgid ""
+"But I bet you'll put up a good fight, Kiryu-san! <Color:7>⑮<Color:Default>"
 msgstr ""
 
 msgctxt "2740"
@@ -627,7 +635,7 @@ msgstr ""
 
 msgctxt "2776"
 msgid "How about we play some pool?"
-msgstr ""
+msgstr "Ti va di fare una partita a biliardo?"
 
 msgctxt "2788"
 msgid "Again? Wow, you must really love pool, huh?"
@@ -635,7 +643,7 @@ msgstr ""
 
 msgctxt "2800"
 msgid "I guess you could say that."
-msgstr ""
+msgstr "Immagino si possa dire così."
 
 msgctxt "2812"
 msgid "C'mon, Kiryu-san, let's go. <Color:7>⑮<Color:Default>"
@@ -643,14 +651,15 @@ msgstr ""
 
 msgctxt "2848"
 msgid "Want to go sing karaoke?"
-msgstr ""
+msgstr "Ti va di andare a cantare al karaoke?"
 
 msgctxt "2860"
 msgid "Oooh, karaoke? Of course! I looove karaoke! <Color:7>⑮<Color:Default>"
 msgstr ""
 
 msgctxt "2872"
-msgid "We're gonna have a ton of fun today, Kiryu-san! <Color:7>⑮<Color:Default>"
+msgid ""
+"We're gonna have a ton of fun today, Kiryu-san! <Color:7>⑮<Color:Default>"
 msgstr ""
 
 msgctxt "2884"
@@ -663,16 +672,17 @@ msgstr ""
 
 msgctxt "2920"
 msgid "Want to go sing karaoke?"
-msgstr ""
+msgstr "Ti va di andare a cantare al karaoke?"
 
 msgctxt "2932"
 msgid ""
-"Karaoke again? Hehehe... I'm glad you like karaoke as much as I do, "
-"Kiryu-san. <Color:7>⑮<Color:Default>"
+"Karaoke again? Hehehe... I'm glad you like karaoke as much as I do, Kiryu-"
+"san. <Color:7>⑮<Color:Default>"
 msgstr ""
 
 msgctxt "2944"
-msgid "We're gonna have a ton of fun today, Kiryu-san! <Color:7>⑮<Color:Default>"
+msgid ""
+"We're gonna have a ton of fun today, Kiryu-san! <Color:7>⑮<Color:Default>"
 msgstr ""
 
 msgctxt "2956"
@@ -693,7 +703,7 @@ msgstr ""
 
 msgctxt "3016"
 msgid "How about we play some pool?"
-msgstr ""
+msgstr "Ti va di fare una partita a biliardo?"
 
 msgctxt "3028"
 msgid "Want to sing some karaoke?"
@@ -709,7 +719,7 @@ msgstr ""
 
 msgctxt "3064"
 msgid "How about we play some pool?"
-msgstr ""
+msgstr "Ti va di fare una partita a biliardo?"
 
 msgctxt "3076"
 msgid "Want to sing some karaoke?"
@@ -725,7 +735,7 @@ msgstr ""
 
 msgctxt "3112"
 msgid "How about we play some pool?"
-msgstr ""
+msgstr "Ti va di fare una partita a biliardo?"
 
 msgctxt "3124"
 msgid "Want to sing some karaoke?"

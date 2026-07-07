@@ -1,15 +1,16 @@
+#
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=utf-8\n"
-"Language: pt\n"
-"Language-Team: Portuguese, Brazilian\n"
-"Last-Translator: \n"
-"MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: 2026-07-07\n"
 "Project-Id-Version: yakuza-3-remastered\n"
 "Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-07-07\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgctxt "80"
 msgid "You son of a bitch..."
@@ -60,7 +61,8 @@ msgid "For me? Why?"
 msgstr ""
 
 msgctxt "224"
-msgid "I knew the family gave you a rough time after your fight with Kiryu-san."
+msgid ""
+"I knew the family gave you a rough time after your fight with Kiryu-san."
 msgstr ""
 
 msgctxt "236"
@@ -146,11 +148,13 @@ msgid ""
 msgstr ""
 
 msgctxt "452"
-msgid "But if I don't do something, it'll keep gnawing away at me from inside!"
+msgid ""
+"But if I don't do something, it'll keep gnawing away at me from inside!"
 msgstr ""
 
 msgctxt "464"
-msgid "Arase-san, it's still not too late. Why don't you start over again with us?"
+msgid ""
+"Arase-san, it's still not too late. Why don't you start over again with us?"
 msgstr ""
 
 msgctxt "476"
@@ -185,7 +189,7 @@ msgstr ""
 
 msgctxt "560"
 msgid "Boss..."
-msgstr ""
+msgstr "Capo..."
 
 msgctxt "572"
 msgid "I didn't know there were people willing to offer me a hand."
@@ -197,7 +201,7 @@ msgstr ""
 
 msgctxt "596"
 msgid "Maybe so."
-msgstr ""
+msgstr "Forse..."
 
 msgctxt "608"
 msgid "There may be some truth to what you're saying..."
@@ -237,7 +241,7 @@ msgstr ""
 
 msgctxt "716"
 msgid "...Okay."
-msgstr ""
+msgstr "...Ok."
 
 msgctxt "800"
 msgid "You sure about letting him go like that?"
@@ -271,8 +275,8 @@ msgstr ""
 
 msgctxt "884"
 msgid ""
-"I'm more worried about you. It sounds like they're going to challenge you "
-"to another fight."
+"I'm more worried about you. It sounds like they're going to challenge you to"
+" another fight."
 msgstr ""
 
 msgctxt "896"
@@ -305,7 +309,7 @@ msgstr ""
 
 msgctxt "1004"
 msgid "Ugh..."
-msgstr ""
+msgstr "Uff..."
 
 msgctxt "1016"
 msgid "Stop fucking around, you moron!"
@@ -313,7 +317,7 @@ msgstr ""
 
 msgctxt "1052"
 msgid "Boss!"
-msgstr ""
+msgstr "Capo!"
 
 msgctxt "1064"
 msgid "Kazuma Kiryu. Remember me?"
@@ -337,11 +341,11 @@ msgstr ""
 
 msgctxt "1124"
 msgid "Why are you doing this?"
-msgstr ""
+msgstr "Perché lo fate?"
 
 msgctxt "1136"
 msgid "Why?"
-msgstr ""
+msgstr "Perché?"
 
 msgctxt "1148"
 msgid "Why, you ask?"
@@ -357,7 +361,7 @@ msgstr ""
 
 msgctxt "1184"
 msgid "Wait, what?"
-msgstr ""
+msgstr "Ma che?"
 
 msgctxt "1196"
 msgid ""
@@ -367,8 +371,8 @@ msgstr ""
 
 msgctxt "1208"
 msgid ""
-"You were lucky enough to survive, but after that, the family treated me "
-"like shit!"
+"You were lucky enough to survive, but after that, the family treated me like"
+" shit!"
 msgstr ""
 
 msgctxt "1220"
@@ -398,7 +402,8 @@ msgid ""
 msgstr ""
 
 msgctxt "1280"
-msgid "I'll never forgive them! I'm gonna kill every last one of those fuckers!"
+msgid ""
+"I'll never forgive them! I'm gonna kill every last one of those fuckers!"
 msgstr ""
 
 msgctxt "1292"
@@ -451,7 +456,7 @@ msgstr ""
 
 msgctxt "16256"
 msgid "Idle"
-msgstr ""
+msgstr "Inattivo"
 
 msgctxt "16260"
 msgid "Talk_No"
@@ -475,7 +480,7 @@ msgstr ""
 
 msgctxt "16280"
 msgid "Voice"
-msgstr ""
+msgstr "Voce"
 
 msgctxt "16284"
 msgid "M_ykzs_stand_tlk_kamae"

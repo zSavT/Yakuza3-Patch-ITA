@@ -1,15 +1,16 @@
+#
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=utf-8\n"
-"Language: pt\n"
-"Language-Team: Portuguese, Brazilian\n"
-"Last-Translator: \n"
-"MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: 2026-07-07\n"
 "Project-Id-Version: yakuza-3-remastered\n"
 "Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-07-07\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgctxt "396"
 msgid "Hey, buddy! You're the one who bought that bag, aren'tcha?"
@@ -129,10 +130,11 @@ msgstr ""
 
 msgctxt "960"
 msgid "I don't think so."
-msgstr ""
+msgstr "Non credo proprio."
 
 msgctxt "972"
-msgid "Urk...! Okay, how about a little extra for all your trouble? 100,000 yen!"
+msgid ""
+"Urk...! Okay, how about a little extra for all your trouble? 100,000 yen!"
 msgstr ""
 
 msgctxt "984"
@@ -143,11 +145,11 @@ msgstr ""
 
 msgctxt "996"
 msgid "Hmm..."
-msgstr ""
+msgstr "Uhm..."
 
 msgctxt "1008"
 msgid "Sounds good to me."
-msgstr ""
+msgstr "Mi sembra buono."
 
 msgctxt "1020"
 msgid ""
@@ -175,7 +177,7 @@ msgstr ""
 
 msgctxt "1152"
 msgid "No, thanks."
-msgstr ""
+msgstr "No, grazie."
 
 msgctxt "1164"
 msgid ""
@@ -195,7 +197,7 @@ msgstr ""
 
 msgctxt "1200"
 msgid "Hmm..."
-msgstr ""
+msgstr "Uhm..."
 
 msgctxt "1212"
 msgid "That's more like it."
@@ -239,13 +241,13 @@ msgstr ""
 
 msgctxt "1392"
 msgid ""
-"...Look, buddy. This is your last chance. You get 200,000 yen, I get the "
-"bag back. We both walk away happy. Please."
+"...Look, buddy. This is your last chance. You get 200,000 yen, I get the bag"
+" back. We both walk away happy. Please."
 msgstr ""
 
 msgctxt "1404"
 msgid "Hmm..."
-msgstr ""
+msgstr "Uhm..."
 
 msgctxt "1416"
 msgid "Yeah, fair enough."
@@ -327,25 +329,26 @@ msgstr ""
 
 msgctxt "1776"
 msgid "No thanks."
-msgstr ""
+msgstr "No grazie."
 
 msgctxt "1788"
-msgid "Urk...! Okay, how about a little extra for all your trouble? 100,000 yen!"
+msgid ""
+"Urk...! Okay, how about a little extra for all your trouble? 100,000 yen!"
 msgstr ""
 
 msgctxt "1800"
 msgid ""
-"That's right, I'll buy it back for 100,000 yen! Sweet deal, right? You "
-"won't get a better offer anywhere else!"
+"That's right, I'll buy it back for 100,000 yen! Sweet deal, right? You won't"
+" get a better offer anywhere else!"
 msgstr ""
 
 msgctxt "1812"
 msgid "Hmm..."
-msgstr ""
+msgstr "Uhm..."
 
 msgctxt "1824"
 msgid "Works for me."
-msgstr ""
+msgstr "Per me va bene."
 
 msgctxt "1836"
 msgid ""
@@ -373,7 +376,7 @@ msgstr ""
 
 msgctxt "1968"
 msgid "No thanks."
-msgstr ""
+msgstr "No grazie."
 
 msgctxt "1980"
 msgid ""
@@ -393,7 +396,7 @@ msgstr ""
 
 msgctxt "2028"
 msgid "Refuse"
-msgstr ""
+msgstr "Rifiuta"
 
 msgctxt "2040"
 msgid "Sell It"
@@ -401,7 +404,7 @@ msgstr ""
 
 msgctxt "2052"
 msgid "Refuse"
-msgstr ""
+msgstr "Rifiuta"
 
 msgctxt "2064"
 msgid "Sell It"
@@ -409,7 +412,7 @@ msgstr ""
 
 msgctxt "2076"
 msgid "Refuse"
-msgstr ""
+msgstr "Rifiuta"
 
 msgctxt "2088"
 msgid "Sell It"
@@ -417,7 +420,7 @@ msgstr ""
 
 msgctxt "2100"
 msgid "Refuse"
-msgstr ""
+msgstr "Rifiuta"
 
 msgctxt "2112"
 msgid "Sell It"
@@ -425,7 +428,7 @@ msgstr ""
 
 msgctxt "2124"
 msgid "Refuse"
-msgstr ""
+msgstr "Rifiuta"
 
 msgctxt "2136"
 msgid "Sell It"
@@ -433,7 +436,7 @@ msgstr ""
 
 msgctxt "2148"
 msgid "Refuse"
-msgstr ""
+msgstr "Rifiuta"
 
 msgctxt "17260"
 msgid "Shady Salesman"

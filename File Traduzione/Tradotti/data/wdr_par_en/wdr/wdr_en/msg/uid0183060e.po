@@ -1,15 +1,16 @@
+#
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=utf-8\n"
-"Language: pt\n"
-"Language-Team: Portuguese, Brazilian\n"
-"Last-Translator: \n"
-"MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: 2026-07-07\n"
 "Project-Id-Version: yakuza-3-remastered\n"
 "Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-07-07\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgctxt "184"
 msgid "Ugh... Who the hell are you, anyway!?"
@@ -45,11 +46,11 @@ msgstr ""
 
 msgctxt "376"
 msgid "Bye!"
-msgstr ""
+msgstr "Ciao!"
 
 msgctxt "388"
 msgid "Thanks, Uncle Kaz!"
-msgstr ""
+msgstr "Grazie, zio Kaz!"
 
 msgctxt "400"
 msgid "(Haruka seems happy...)"
@@ -57,79 +58,84 @@ msgstr ""
 
 msgctxt "448"
 msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
-msgstr ""
+msgstr "Grazie mille, zio Kaz! Ho un regalo per te!"
 
 msgctxt "460"
 msgid "You got <Color:8>Haruka's Necklace<Color:Default>."
-msgstr ""
+msgstr "Hai ottenuto <Color:8>Collana di Haruka<Color:Default>."
 
 msgctxt "508"
 msgid ""
 "Thanks a ton, Uncle Kaz! I wanna come with you to play\r\n"
 "cho-han with you next time, okay?"
 msgstr ""
+"Grazie un sacco, zio Kaz! La prossima volta voglio venire a fare una partita"
+" a cho-han con te, ok?"
 
 msgctxt "520"
 msgid ""
 "Haruka will now occasionally predict the outcome of a round\r\n"
 "when you are playing cho-han."
 msgstr ""
+"D'ora in poi, Haruka a volte prevederà l'esito di una mano quando giochi a "
+"cho-han."
 
 msgctxt "556"
 msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
-msgstr ""
+msgstr "Grazie mille, zio Kaz! Ho un regalo per te!"
 
 msgctxt "568"
 msgid "You got <Color:8>Haruka's Bento<Color:Default>."
-msgstr ""
+msgstr "Hai ottenuto <Color:8>L'Amuleto di Haruka<Color:Default>."
 
 msgctxt "616"
 msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
-msgstr ""
+msgstr "Grazie mille, zio Kaz! Ho un regalo per te!"
 
 msgctxt "628"
 msgid "You got <Color:8>Haruka's First-Aid Kit<Color:Default>."
 msgstr ""
+"Hai ottenuto <Color:8>Kit di pronto soccorso di Haruka<Color:Default>."
 
 msgctxt "676"
 msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
-msgstr ""
+msgstr "Grazie mille, zio Kaz! Ho un regalo per te!"
 
 msgctxt "688"
 msgid "You got a <Color:8>Red Jewel<Color:Default>."
-msgstr ""
+msgstr "Hai ottenuto un <Color:8>Gioiello rosso<Color:Default>."
 
 msgctxt "736"
 msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
-msgstr ""
+msgstr "Grazie mille, zio Kaz! Ho un regalo per te!"
 
 msgctxt "748"
 msgid "You got <Color:8>Haruka's Amulet<Color:Default>."
-msgstr ""
+msgstr "Hai ottenuto <Color:8>L'Amuleto di Haruka<Color:Default>."
 
 msgctxt "796"
 msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
-msgstr ""
+msgstr "Grazie mille, zio Kaz! Ho un regalo per te!"
 
 msgctxt "808"
 msgid "You got <Color:8>Haruka's Chocolate<Color:Default>."
-msgstr ""
+msgstr "Hai ottenuto <Color:8>Il cioccolato di Haruka<Color:Default>."
 
 msgctxt "856"
 msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
-msgstr ""
+msgstr "Grazie mille, zio Kaz! Ho un regalo per te!"
 
 msgctxt "868"
 msgid "You got <Color:8>Haruka's Candy<Color:Default>."
-msgstr ""
+msgstr "Hai ottenuto <Color:8>Dolcetto di Haruka<Color:Default>."
 
 msgctxt "952"
 msgid "Aaaaagh!"
-msgstr ""
+msgstr "Aaaargh!"
 
 msgctxt "964"
 msgid "Uncle Kaz...!"
-msgstr ""
+msgstr "Zio Kaz..."
 
 msgctxt "976"
 msgid "(Haruka wants me to help...)"
@@ -145,7 +151,7 @@ msgstr ""
 
 msgctxt "1012"
 msgid "Uncle Kaz..."
-msgstr ""
+msgstr "Zio Kaz..."
 
 msgctxt "1024"
 msgid "Stand back, Haruka."
@@ -153,11 +159,11 @@ msgstr ""
 
 msgctxt "1036"
 msgid "Okay."
-msgstr ""
+msgstr "Ok."
 
 msgctxt "1048"
 msgid "That's enough!"
-msgstr ""
+msgstr "È abbastanza!"
 
 msgctxt "1060"
 msgid "Huh? What the hell do you want!? Can't you see we're busy!?"
@@ -169,7 +175,7 @@ msgstr ""
 
 msgctxt "1084"
 msgid "What!?"
-msgstr ""
+msgstr "Cosa!?"
 
 msgctxt "1096"
 msgid ""
@@ -179,11 +185,11 @@ msgstr ""
 
 msgctxt "1120"
 msgid "Uncle Kaz!"
-msgstr ""
+msgstr "Zio Kaz!"
 
 msgctxt "1132"
 msgid "Aaaaagh!"
-msgstr ""
+msgstr "Aaaargh!"
 
 msgctxt "1144"
 msgid "Eww! You stink!"
@@ -199,7 +205,7 @@ msgstr ""
 
 msgctxt "1180"
 msgid "Uncle Kaz...!"
-msgstr ""
+msgstr "Zio Kaz..."
 
 msgctxt "1192"
 msgid "(Haruka wants me to help...)"
@@ -215,7 +221,7 @@ msgstr ""
 
 msgctxt "1228"
 msgid "Uncle Kaz..."
-msgstr ""
+msgstr "Zio Kaz..."
 
 msgctxt "1240"
 msgid "Stand back, Haruka."
@@ -223,11 +229,11 @@ msgstr ""
 
 msgctxt "1252"
 msgid "Okay."
-msgstr ""
+msgstr "Ok."
 
 msgctxt "1264"
 msgid "That's enough!"
-msgstr ""
+msgstr "È abbastanza!"
 
 msgctxt "1276"
 msgid "Huh? What the hell do you want!? Can't you see we're busy!?"
@@ -239,7 +245,7 @@ msgstr ""
 
 msgctxt "1300"
 msgid "What!?"
-msgstr ""
+msgstr "Cosa!?"
 
 msgctxt "1312"
 msgid ""
@@ -249,7 +255,7 @@ msgstr ""
 
 msgctxt "1336"
 msgid "Help Him"
-msgstr ""
+msgstr "Aiutalo"
 
 msgctxt "1348"
 msgid "Stay Out of It"
@@ -257,7 +263,7 @@ msgstr ""
 
 msgctxt "1360"
 msgid "Help Him"
-msgstr ""
+msgstr "Aiutalo"
 
 msgctxt "1372"
 msgid "Stay Out Of It"
@@ -285,7 +291,7 @@ msgstr ""
 
 msgctxt "11580"
 msgid "Idle"
-msgstr ""
+msgstr "Inattivo"
 
 msgctxt "11584"
 msgid "Kiryu"
@@ -313,7 +319,7 @@ msgstr ""
 
 msgctxt "11608"
 msgid "dummy"
-msgstr ""
+msgstr "dummy"
 
 msgctxt "11612"
 msgid "0"

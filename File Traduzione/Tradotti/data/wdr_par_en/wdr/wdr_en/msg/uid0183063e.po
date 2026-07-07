@@ -1,15 +1,16 @@
+#
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=utf-8\n"
-"Language: pt\n"
-"Language-Team: Portuguese, Brazilian\n"
-"Last-Translator: \n"
-"MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: 2026-07-07\n"
 "Project-Id-Version: yakuza-3-remastered\n"
 "Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-07-07\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgctxt "184"
 msgid "Nnnnngh... Who the hell are you!?"
@@ -21,7 +22,7 @@ msgstr ""
 
 msgctxt "208"
 msgid "Damn it!"
-msgstr ""
+msgstr "Maledizione!"
 
 msgctxt "292"
 msgid "I don't know what to say... Thank you very much!"
@@ -43,7 +44,7 @@ msgstr ""
 
 msgctxt "340"
 msgid "You got <Color:8>20,000 yen<Color:Default>."
-msgstr ""
+msgstr "Hai ottenuto <Color:8>20.000 yen<Color:Default>."
 
 msgctxt "352"
 msgid "Be careful on the way home!"
@@ -57,7 +58,7 @@ msgstr ""
 
 msgctxt "376"
 msgid "Thanks, Uncle Kaz!"
-msgstr ""
+msgstr "Grazie, zio Kaz!"
 
 msgctxt "388"
 msgid "(Haruka seems happy...)"
@@ -65,71 +66,76 @@ msgstr ""
 
 msgctxt "436"
 msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
-msgstr ""
+msgstr "Grazie mille, zio Kaz! Ho un regalo per te!"
 
 msgctxt "448"
 msgid "You got <Color:8>Haruka's Necklace<Color:Default>."
-msgstr ""
+msgstr "Hai ottenuto <Color:8>Collana di Haruka<Color:Default>."
 
 msgctxt "496"
 msgid ""
 "Thanks a ton, Uncle Kaz! I wanna come with you to play\r\n"
 "cho-han with you next time, okay?"
 msgstr ""
+"Grazie un sacco, zio Kaz! La prossima volta voglio venire a fare una partita"
+" a cho-han con te, ok?"
 
 msgctxt "508"
 msgid ""
 "Haruka will now occasionally predict the outcome of a round\r\n"
 "when you are playing cho-han."
 msgstr ""
+"D'ora in poi, Haruka a volte prevederà l'esito di una mano quando giochi a "
+"cho-han."
 
 msgctxt "544"
 msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
-msgstr ""
+msgstr "Grazie mille, zio Kaz! Ho un regalo per te!"
 
 msgctxt "556"
 msgid "You got <Color:8>Haruka's Bento<Color:Default>."
-msgstr ""
+msgstr "Hai ottenuto <Color:8>L'Amuleto di Haruka<Color:Default>."
 
 msgctxt "604"
 msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
-msgstr ""
+msgstr "Grazie mille, zio Kaz! Ho un regalo per te!"
 
 msgctxt "616"
 msgid "You got <Color:8>Haruka's First-Aid Kit<Color:Default>."
 msgstr ""
+"Hai ottenuto <Color:8>Kit di pronto soccorso di Haruka<Color:Default>."
 
 msgctxt "664"
 msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
-msgstr ""
+msgstr "Grazie mille, zio Kaz! Ho un regalo per te!"
 
 msgctxt "676"
 msgid "You got a <Color:8>Red Jewel<Color:Default>."
-msgstr ""
+msgstr "Hai ottenuto un <Color:8>Gioiello rosso<Color:Default>."
 
 msgctxt "724"
 msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
-msgstr ""
+msgstr "Grazie mille, zio Kaz! Ho un regalo per te!"
 
 msgctxt "736"
 msgid "You got <Color:8>Haruka's Amulet<Color:Default>."
-msgstr ""
+msgstr "Hai ottenuto <Color:8>L'Amuleto di Haruka<Color:Default>."
 
 msgctxt "784"
 msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
-msgstr ""
+msgstr "Grazie mille, zio Kaz! Ho un regalo per te!"
 
 msgctxt "796"
 msgid "You got <Color:8>Haruka's Chocolate<Color:Default>."
-msgstr ""
+msgstr "Hai ottenuto <Color:8>Il cioccolato di Haruka<Color:Default>."
 
 msgctxt "844"
 msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
-msgstr ""
+msgstr "Grazie mille, zio Kaz! Ho un regalo per te!"
 
 msgctxt "856"
 msgid "You got <Color:8>Haruka's Candy<Color:Default>."
-msgstr ""
+msgstr "Hai ottenuto <Color:8>Dolcetto di Haruka<Color:Default>."
 
 msgctxt "940"
 msgid "I... I..."
@@ -137,7 +143,7 @@ msgstr ""
 
 msgctxt "952"
 msgid "Uncle Kaz..."
-msgstr ""
+msgstr "Zio Kaz..."
 
 msgctxt "964"
 msgid "(Haruka wants me to help...)"
@@ -153,7 +159,7 @@ msgstr ""
 
 msgctxt "1000"
 msgid "Uncle Kaz..."
-msgstr ""
+msgstr "Zio Kaz..."
 
 msgctxt "1012"
 msgid "Oh, all right. You stay here, Haruka."
@@ -161,11 +167,11 @@ msgstr ""
 
 msgctxt "1024"
 msgid "Okay..."
-msgstr ""
+msgstr "Va bene..."
 
 msgctxt "1036"
 msgid "Hey."
-msgstr ""
+msgstr "Ehi."
 
 msgctxt "1048"
 msgid ""
@@ -174,7 +180,8 @@ msgid ""
 msgstr ""
 
 msgctxt "1060"
-msgid "Taking advantage of innocent people like this... You're just a little punk."
+msgid ""
+"Taking advantage of innocent people like this... You're just a little punk."
 msgstr ""
 
 msgctxt "1072"
@@ -205,11 +212,11 @@ msgstr ""
 
 msgctxt "1156"
 msgid "But..."
-msgstr ""
+msgstr "Ma..."
 
 msgctxt "1168"
 msgid "Uncle Kaz..."
-msgstr ""
+msgstr "Zio Kaz..."
 
 msgctxt "1180"
 msgid "(Haruka wants me to help...)"
@@ -225,7 +232,7 @@ msgstr ""
 
 msgctxt "1216"
 msgid "Uncle Kaz..."
-msgstr ""
+msgstr "Zio Kaz..."
 
 msgctxt "1228"
 msgid "All right. You stay here, Haruka."
@@ -233,11 +240,11 @@ msgstr ""
 
 msgctxt "1240"
 msgid "Yeah..."
-msgstr ""
+msgstr "Già..."
 
 msgctxt "1252"
 msgid "Hey."
-msgstr ""
+msgstr "Ehi."
 
 msgctxt "1264"
 msgid ""
@@ -246,7 +253,8 @@ msgid ""
 msgstr ""
 
 msgctxt "1276"
-msgid "Taking advantage of innocent people like this... You're just a little punk."
+msgid ""
+"Taking advantage of innocent people like this... You're just a little punk."
 msgstr ""
 
 msgctxt "1288"
@@ -259,7 +267,7 @@ msgstr ""
 
 msgctxt "1324"
 msgid "Help Him"
-msgstr ""
+msgstr "Aiutalo"
 
 msgctxt "1336"
 msgid "Stay Out Of It"
@@ -267,7 +275,7 @@ msgstr ""
 
 msgctxt "1348"
 msgid "Help Him"
-msgstr ""
+msgstr "Aiutalo"
 
 msgctxt "1360"
 msgid "Stay Out Of It"
@@ -291,7 +299,7 @@ msgstr ""
 
 msgctxt "11564"
 msgid "Idle"
-msgstr ""
+msgstr "Inattivo"
 
 msgctxt "11568"
 msgid "Kiryu"
@@ -299,7 +307,7 @@ msgstr ""
 
 msgctxt "11572"
 msgid "Businessman"
-msgstr ""
+msgstr "Uomo d'Affari"
 
 msgctxt "11576"
 msgid "Talk_Ojigi"
@@ -319,7 +327,7 @@ msgstr ""
 
 msgctxt "11592"
 msgid "dummy"
-msgstr ""
+msgstr "dummy"
 
 msgctxt "11596"
 msgid "0"

@@ -1,15 +1,16 @@
+#
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=utf-8\n"
-"Language: pt\n"
-"Language-Team: Portuguese, Brazilian\n"
-"Last-Translator: \n"
-"MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: 2026-07-07\n"
 "Project-Id-Version: yakuza-3-remastered\n"
 "Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-07-07\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgctxt "96"
 msgid "Well, time to head in."
@@ -17,7 +18,7 @@ msgstr ""
 
 msgctxt "120"
 msgid "Oof!"
-msgstr ""
+msgstr "Uff!"
 
 msgctxt "144"
 msgid "Oh, I'm sorry!"
@@ -31,7 +32,7 @@ msgstr ""
 
 msgctxt "168"
 msgid "Wait, please."
-msgstr ""
+msgstr "Aspetti, vi prego!"
 
 msgctxt "180"
 msgid "Just look at me! Do I seem like a yakuza to you?"
@@ -61,7 +62,7 @@ msgstr ""
 
 msgctxt "252"
 msgid "Oh..."
-msgstr ""
+msgstr "Oh..."
 
 msgctxt "264"
 msgid "Well, I'm Kamiyama. What's your name?"
@@ -144,7 +145,7 @@ msgstr ""
 
 msgctxt "444"
 msgid "I guess."
-msgstr ""
+msgstr "Forse."
 
 msgctxt "456"
 msgid ""
@@ -188,7 +189,7 @@ msgstr ""
 
 msgctxt "600"
 msgid "Wait, that's..."
-msgstr ""
+msgstr "Aspetta, quello è..."
 
 msgctxt "624"
 msgid "Saki's sketchbook."
@@ -210,7 +211,7 @@ msgstr ""
 
 msgctxt "672"
 msgid "I knew it!"
-msgstr ""
+msgstr "Lo sapevo!"
 
 msgctxt "684"
 msgid ""

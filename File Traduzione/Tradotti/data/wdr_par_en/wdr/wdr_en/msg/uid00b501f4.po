@@ -1,15 +1,16 @@
+#
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=utf-8\n"
-"Language: pt\n"
-"Language-Team: Portuguese, Brazilian\n"
-"Last-Translator: \n"
-"MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: 2026-07-07\n"
 "Project-Id-Version: yakuza-3-remastered\n"
 "Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-07-07\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgctxt "332"
 msgid "Are you Asai, former employee of Café Alps?"
@@ -17,7 +18,7 @@ msgstr ""
 
 msgctxt "344"
 msgid "Yeah... Who are you?"
-msgstr ""
+msgstr "Sì... Chi sei?"
 
 msgctxt "356"
 msgid ""
@@ -57,7 +58,7 @@ msgstr ""
 
 msgctxt "452"
 msgid "What?"
-msgstr ""
+msgstr "Cosa?"
 
 msgctxt "464"
 msgid "(He's acting kind of funny...)"
@@ -82,7 +83,7 @@ msgstr ""
 
 msgctxt "524"
 msgid "I see..."
-msgstr ""
+msgstr "Capisco..."
 
 msgctxt "536"
 msgid "Oh, but I did see Oda-san's body."
@@ -173,7 +174,7 @@ msgstr ""
 
 msgctxt "788"
 msgid "I see."
-msgstr ""
+msgstr "Capisco."
 
 msgctxt "812"
 msgid ""
@@ -183,7 +184,7 @@ msgstr ""
 
 msgctxt "824"
 msgid "I see..."
-msgstr ""
+msgstr "Capisco..."
 
 msgctxt "860"
 msgid "Are you sure there isn't anything else you wanna tell me?"
@@ -237,7 +238,7 @@ msgstr ""
 
 msgctxt "1004"
 msgid "Yes."
-msgstr ""
+msgstr "Sì."
 
 msgctxt "1016"
 msgid ""
@@ -275,7 +276,7 @@ msgstr ""
 
 msgctxt "1112"
 msgid "What?"
-msgstr ""
+msgstr "Cosa?"
 
 msgctxt "1124"
 msgid ""
@@ -303,8 +304,7 @@ msgstr ""
 
 msgctxt "1196"
 msgid ""
-"(So <Color:7>that's all Asai took<Color:Default>, huh? Maybe the police "
-"really did\r\n"
+"(So <Color:7>that's all Asai took<Color:Default>, huh? Maybe the police really did\r\n"
 "take the uniform...?)"
 msgstr ""
 
@@ -346,7 +346,7 @@ msgstr ""
 
 msgctxt "1352"
 msgid "Yes."
-msgstr ""
+msgstr "Sì."
 
 msgctxt "1364"
 msgid "No."

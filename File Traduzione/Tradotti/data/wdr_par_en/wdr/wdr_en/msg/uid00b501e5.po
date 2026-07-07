@@ -1,15 +1,16 @@
+#
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=utf-8\n"
-"Language: pt\n"
-"Language-Team: Portuguese, Brazilian\n"
-"Last-Translator: \n"
-"MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: 2026-07-07\n"
 "Project-Id-Version: yakuza-3-remastered\n"
 "Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-07-07\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgctxt "260"
 msgid "You're Kinoshita-san, right?"
@@ -17,7 +18,7 @@ msgstr ""
 
 msgctxt "272"
 msgid "That's right. Who are you?"
-msgstr ""
+msgstr "Ehm, esatto. Tu chi sei?"
 
 msgctxt "284"
 msgid ""
@@ -51,7 +52,7 @@ msgstr ""
 
 msgctxt "368"
 msgid "Huh."
-msgstr ""
+msgstr "Uh."
 
 msgctxt "392"
 msgid ""
@@ -115,7 +116,7 @@ msgstr ""
 
 msgctxt "524"
 msgid "I see..."
-msgstr ""
+msgstr "Capisco..."
 
 msgctxt "536"
 msgid ""
@@ -125,7 +126,8 @@ msgid ""
 msgstr ""
 
 msgctxt "548"
-msgid "(So <Color:7>Kinoshita didn't see the criminal's face<Color:Default>...)"
+msgid ""
+"(So <Color:7>Kinoshita didn't see the criminal's face<Color:Default>...)"
 msgstr ""
 
 msgctxt "572"
@@ -144,7 +146,7 @@ msgstr ""
 
 msgctxt "632"
 msgid "I see..."
-msgstr ""
+msgstr "Capisco..."
 
 msgctxt "656"
 msgid "Were your prints on the murder weapon?"
@@ -163,7 +165,7 @@ msgstr ""
 
 msgctxt "704"
 msgid "I'm sorry I couldn't be of more help."
-msgstr ""
+msgstr "Mi spiace, non ho potuto essere di più aiuto."
 
 msgctxt "716"
 msgid "Thanks for your time."
@@ -218,7 +220,7 @@ msgstr ""
 
 msgctxt "848"
 msgid "Okay, I will."
-msgstr ""
+msgstr "Ok, lo farò."
 
 msgctxt "872"
 msgid "Tell me more about the murder here six years ago."
@@ -226,7 +228,7 @@ msgstr ""
 
 msgctxt "884"
 msgid "What would you like to know?"
-msgstr ""
+msgstr "Cosa vuoi fare adesso?"
 
 msgctxt "896"
 msgid "(Let's see. What to ask...?)"

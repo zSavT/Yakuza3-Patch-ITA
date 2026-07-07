@@ -1,15 +1,16 @@
+#
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=utf-8\n"
-"Language: pt\n"
-"Language-Team: Portuguese, Brazilian\n"
-"Last-Translator: \n"
-"MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: 2026-07-07\n"
 "Project-Id-Version: yakuza-3-remastered\n"
 "Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-07-07\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgctxt "308"
 msgid "Hello, Kiryu-san? It's me, Reimi from Shine."
@@ -27,7 +28,7 @@ msgstr ""
 
 msgctxt "344"
 msgid "Sure..."
-msgstr ""
+msgstr "Certo..."
 
 msgctxt "356"
 msgid "Heheh... Then, let's meet up at Gelateria Kamuro on Taihei Boulevard."
@@ -39,7 +40,7 @@ msgstr ""
 
 msgctxt "380"
 msgid "Yep. Okay, see you later. <Color:7>⑮<Color:Default>"
-msgstr ""
+msgstr "Certo. Va bene, ci vediamo dopo. <Color:7>♥<Color:Default>"
 
 msgctxt "464"
 msgid "Hello, Kiryu-san? It's me, Reimi from Shine."
@@ -51,13 +52,13 @@ msgstr ""
 
 msgctxt "488"
 msgid ""
-"Um... Can you come to the club today? If you could... I'd really like you "
-"to escort me."
+"Um... Can you come to the club today? If you could... I'd really like you to"
+" escort me."
 msgstr ""
 
 msgctxt "500"
 msgid "Sure..."
-msgstr ""
+msgstr "Certo..."
 
 msgctxt "512"
 msgid ""
@@ -87,10 +88,11 @@ msgstr ""
 
 msgctxt "656"
 msgid "Sure..."
-msgstr ""
+msgstr "Certo..."
 
 msgctxt "668"
-msgid "Then it's settled! Let's meet up at Gelateria Kamuro on Taihei Boulevard."
+msgid ""
+"Then it's settled! Let's meet up at Gelateria Kamuro on Taihei Boulevard."
 msgstr ""
 
 msgctxt "680"
@@ -115,7 +117,7 @@ msgstr ""
 
 msgctxt "812"
 msgid "Sure..."
-msgstr ""
+msgstr "Certo..."
 
 msgctxt "824"
 msgid ""
@@ -163,10 +165,11 @@ msgstr ""
 
 msgctxt "1004"
 msgid "Sure."
-msgstr ""
+msgstr "Certo."
 
 msgctxt "1016"
-msgid "Really? I'll get there as fast as I can, then. <Color:7>⑮<Color:Default>"
+msgid ""
+"Really? I'll get there as fast as I can, then. <Color:7>⑮<Color:Default>"
 msgstr ""
 
 msgctxt "1100"
@@ -179,8 +182,8 @@ msgstr ""
 
 msgctxt "1124"
 msgid ""
-"Um... I... kinda wanted to show you how grateful I am for stuff, "
-"Kiryu-san..."
+"Um... I... kinda wanted to show you how grateful I am for stuff, Kiryu-"
+"san..."
 msgstr ""
 
 msgctxt "1136"
@@ -189,7 +192,7 @@ msgstr ""
 
 msgctxt "1148"
 msgid "Sure..."
-msgstr ""
+msgstr "Certo..."
 
 msgctxt "1160"
 msgid ""
@@ -221,19 +224,20 @@ msgstr ""
 
 msgctxt "1304"
 msgid "Sure."
-msgstr ""
+msgstr "Certo."
 
 msgctxt "1316"
-msgid "Sweet! Let's meet up at Gelateria Kamuro on Taihei Boulevard. See you there!"
+msgid ""
+"Sweet! Let's meet up at Gelateria Kamuro on Taihei Boulevard. See you there!"
 msgstr ""
 
 msgctxt "1328"
 msgid "Sounds like a plan."
-msgstr ""
+msgstr "Mi sembra un buon piano."
 
 msgctxt "1340"
 msgid "You better come! <Color:7>⑮<Color:Default>"
-msgstr ""
+msgstr "Non mancare! <Color:7>♥<Color:Default>"
 
 msgctxt "1424"
 msgid "Hey, Kiryu-san! This is Ranko from Shine!"
@@ -251,7 +255,7 @@ msgstr ""
 
 msgctxt "1460"
 msgid "Sure, sounds great."
-msgstr ""
+msgstr "Certo, mi sembra un'ottima idea."
 
 msgctxt "1472"
 msgid ""
@@ -261,10 +265,11 @@ msgstr ""
 
 msgctxt "1484"
 msgid "Sounds like a plan."
-msgstr ""
+msgstr "Mi sembra un buon piano."
 
 msgctxt "1496"
-msgid "Hehe... It's a date, then! I'll see you there! <Color:7>⑮<Color:Default>"
+msgid ""
+"Hehe... It's a date, then! I'll see you there! <Color:7>⑮<Color:Default>"
 msgstr ""
 
 msgctxt "1580"
@@ -277,13 +282,13 @@ msgstr ""
 
 msgctxt "1604"
 msgid ""
-"Um... If you'd like... Would you like to go out on an after-hours date "
-"right now?"
+"Um... If you'd like... Would you like to go out on an after-hours date right"
+" now?"
 msgstr ""
 
 msgctxt "1616"
 msgid "Sure, sounds great."
-msgstr ""
+msgstr "Certo, mi sembra un'ottima idea."
 
 msgctxt "1628"
 msgid "Okay, meet you at Smile Burger on Nakamichi Street?"
@@ -306,12 +311,13 @@ msgid "Oh, hey. What's going on?"
 msgstr ""
 
 msgctxt "1760"
-msgid "I was just wanting to see you... Would you be able to escort me right now?"
+msgid ""
+"I was just wanting to see you... Would you be able to escort me right now?"
 msgstr ""
 
 msgctxt "1772"
 msgid "Sure, sounds great."
-msgstr ""
+msgstr "Certo, mi sembra un'ottima idea."
 
 msgctxt "1784"
 msgid "Can we meet at the Smile Burger on Nakamichi Street, same as before?"
@@ -341,7 +347,7 @@ msgstr ""
 
 msgctxt "1928"
 msgid "Sure, sounds great."
-msgstr ""
+msgstr "Certo, mi sembra un'ottima idea."
 
 msgctxt "1940"
 msgid "Okay, come to the Smile Burger on Nakamichi Street."
@@ -352,7 +358,8 @@ msgid "Smile Burger on Nakamichi Street. Got it."
 msgstr ""
 
 msgctxt "1964"
-msgid "All right, just wait there. <Color:7>⑮<Color:Default> Don't you forget."
+msgid ""
+"All right, just wait there. <Color:7>⑮<Color:Default> Don't you forget."
 msgstr ""
 
 msgctxt "2048"
@@ -369,7 +376,7 @@ msgstr ""
 
 msgctxt "2084"
 msgid "Sure, sounds great."
-msgstr ""
+msgstr "Certo, mi sembra un'ottima idea."
 
 msgctxt "2096"
 msgid "Okay, I'll meet you at Smile Burger on Nakamichi Street, like before."
@@ -439,7 +446,7 @@ msgstr ""
 
 msgctxt "2420"
 msgid "Sure, sounds great."
-msgstr ""
+msgstr "Certo, mi sembra un'ottima idea."
 
 msgctxt "2432"
 msgid ""
@@ -479,7 +486,7 @@ msgstr ""
 
 msgctxt "21004"
 msgid "dummy"
-msgstr ""
+msgstr "dummy"
 
 msgctxt "21008"
 msgid "Rin"

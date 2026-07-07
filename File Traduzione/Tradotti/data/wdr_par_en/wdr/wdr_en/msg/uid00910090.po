@@ -1,15 +1,16 @@
+#
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=utf-8\n"
-"Language: pt\n"
-"Language-Team: Portuguese, Brazilian\n"
-"Last-Translator: \n"
-"MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: 2026-07-07\n"
 "Project-Id-Version: yakuza-3-remastered\n"
 "Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-07-07\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgctxt "136"
 msgid "......"
@@ -35,7 +36,7 @@ msgstr ""
 
 msgctxt "196"
 msgid "Huh?"
-msgstr ""
+msgstr "Eh?"
 
 msgctxt "208"
 msgid "I didn't kill 'em."
@@ -69,7 +70,7 @@ msgstr ""
 
 msgctxt "280"
 msgid "Is that so..."
-msgstr ""
+msgstr "È così, eh..."
 
 msgctxt "292"
 msgid ""
@@ -103,7 +104,7 @@ msgstr ""
 
 msgctxt "412"
 msgid "Bwehehe..."
-msgstr ""
+msgstr "Gheh gheh gheh..."
 
 msgctxt "424"
 msgid "Bwehehe... Hehe..."
@@ -115,7 +116,7 @@ msgstr ""
 
 msgctxt "448"
 msgid "Bwehehe..."
-msgstr ""
+msgstr "Gheh gheh gheh..."
 
 msgctxt "460"
 msgid "I asked you a question. You're the Reaper Kengo, right?"
@@ -143,7 +144,7 @@ msgstr ""
 
 msgctxt "532"
 msgid "Yeah."
-msgstr ""
+msgstr "Sì."
 
 msgctxt "544"
 msgid "You're gonna catch me... I'm gonna get caught...?"
@@ -163,7 +164,7 @@ msgstr ""
 
 msgctxt "5512"
 msgid "Kengo the Madman"
-msgstr ""
+msgstr "Kengo il Pazzo"
 
 msgctxt "5516"
 msgid "Kiryu"
@@ -199,7 +200,7 @@ msgstr ""
 
 msgctxt "5548"
 msgid "Idle"
-msgstr ""
+msgstr "Inattivo"
 
 msgctxt "5552"
 msgid "Talk_Smile"

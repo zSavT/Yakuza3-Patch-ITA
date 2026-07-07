@@ -1,15 +1,16 @@
+#
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=utf-8\n"
-"Language: pt\n"
-"Language-Team: Portuguese, Brazilian\n"
-"Last-Translator: \n"
-"MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: 2026-07-07\n"
 "Project-Id-Version: yakuza-3-remastered\n"
 "Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-07-07\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgctxt "64"
 msgid "Well, Aniki? Ready to get the fashion beatdown?"
@@ -41,7 +42,7 @@ msgstr ""
 
 msgctxt "208"
 msgid "Whoa, really!?"
-msgstr ""
+msgstr "Wow, davvero?"
 
 msgctxt "220"
 msgid ""
@@ -69,7 +70,7 @@ msgstr ""
 
 msgctxt "292"
 msgid "Uh..."
-msgstr ""
+msgstr "Ehm..."
 
 msgctxt "304"
 msgid ""
@@ -83,7 +84,7 @@ msgstr ""
 
 msgctxt "328"
 msgid "Uh..."
-msgstr ""
+msgstr "Ehm..."
 
 msgctxt "340"
 msgid ""
@@ -97,7 +98,7 @@ msgstr ""
 
 msgctxt "364"
 msgid "Uh..."
-msgstr ""
+msgstr "Ehm..."
 
 msgctxt "376"
 msgid ""
@@ -111,7 +112,7 @@ msgstr ""
 
 msgctxt "400"
 msgid "Uh..."
-msgstr ""
+msgstr "Ehm..."
 
 msgctxt "412"
 msgid ""
@@ -131,7 +132,7 @@ msgstr ""
 
 msgctxt "448"
 msgid "Hm..."
-msgstr ""
+msgstr "Mmm..."
 
 msgctxt "460"
 msgid ""
@@ -152,7 +153,7 @@ msgstr ""
 
 msgctxt "496"
 msgid "Um..."
-msgstr ""
+msgstr "Ehm..."
 
 msgctxt "508"
 msgid "......"
@@ -172,7 +173,7 @@ msgstr ""
 
 msgctxt "544"
 msgid "No way."
-msgstr ""
+msgstr "Ma va."
 
 msgctxt "556"
 msgid "Huh!? But, but, but... don't you wanna look cool!?"
@@ -219,7 +220,7 @@ msgstr ""
 
 msgctxt "664"
 msgid "If you say so..."
-msgstr ""
+msgstr "Se lo dici tu..."
 
 msgctxt "736"
 msgid "Are you sure this is cool? It feels kinda... not."
@@ -303,7 +304,7 @@ msgstr ""
 
 msgctxt "1048"
 msgid "Okay..."
-msgstr ""
+msgstr "Va bene..."
 
 msgctxt "1108"
 msgid ""
@@ -327,7 +328,7 @@ msgstr ""
 
 msgctxt "1156"
 msgid "Right..."
-msgstr ""
+msgstr "Giusto..."
 
 msgctxt "1180"
 msgid "Shit, he got flat-out rejected and insulted to boot..."
@@ -367,7 +368,7 @@ msgstr ""
 
 msgctxt "1348"
 msgid "Huh?"
-msgstr ""
+msgstr "Eh?"
 
 msgctxt "1360"
 msgid "Well? You like her, right?"
@@ -400,7 +401,7 @@ msgstr ""
 
 msgctxt "1432"
 msgid "Okay..."
-msgstr ""
+msgstr "Va bene..."
 
 msgctxt "1492"
 msgid ""
@@ -424,7 +425,7 @@ msgstr ""
 
 msgctxt "1540"
 msgid "Right..."
-msgstr ""
+msgstr "Giusto..."
 
 msgctxt "1564"
 msgid "Shit, he got flat-out rejected and insulted to boot..."
@@ -464,7 +465,7 @@ msgstr ""
 
 msgctxt "1732"
 msgid "Huh?"
-msgstr ""
+msgstr "Eh?"
 
 msgctxt "1744"
 msgid "Well? You like her, right?"
@@ -497,7 +498,7 @@ msgstr ""
 
 msgctxt "1816"
 msgid "Okay..."
-msgstr ""
+msgstr "Va bene..."
 
 msgctxt "1876"
 msgid ""
@@ -521,7 +522,7 @@ msgstr ""
 
 msgctxt "1924"
 msgid "Right..."
-msgstr ""
+msgstr "Giusto..."
 
 msgctxt "1948"
 msgid "Shit, he got flat-out rejected and insulted to boot..."
@@ -561,7 +562,7 @@ msgstr ""
 
 msgctxt "2116"
 msgid "Huh?"
-msgstr ""
+msgstr "Eh?"
 
 msgctxt "2128"
 msgid "Well? You like her, right?"
@@ -594,7 +595,7 @@ msgstr ""
 
 msgctxt "2200"
 msgid "Okay..."
-msgstr ""
+msgstr "Va bene..."
 
 msgctxt "2260"
 msgid ""
@@ -618,7 +619,7 @@ msgstr ""
 
 msgctxt "2308"
 msgid "Right..."
-msgstr ""
+msgstr "Giusto..."
 
 msgctxt "2332"
 msgid "Shit, he got flat-out rejected and insulted to boot..."
@@ -658,7 +659,7 @@ msgstr ""
 
 msgctxt "2500"
 msgid "Huh?"
-msgstr ""
+msgstr "Eh?"
 
 msgctxt "2512"
 msgid "Well? You like her, right?"
@@ -745,7 +746,7 @@ msgstr ""
 
 msgctxt "33496"
 msgid "Idle"
-msgstr ""
+msgstr "Inattivo"
 
 msgctxt "33500"
 msgid "SetM_yng_sitgrd_nml_01"

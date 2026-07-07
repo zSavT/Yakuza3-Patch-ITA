@@ -1,15 +1,16 @@
+#
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=utf-8\n"
-"Language: pt\n"
-"Language-Team: Portuguese, Brazilian\n"
-"Last-Translator: \n"
-"MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: 2026-07-07\n"
 "Project-Id-Version: yakuza-3-remastered\n"
 "Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-07-07\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgctxt "136"
 msgid "Damn, you're good..."
@@ -21,15 +22,15 @@ msgstr ""
 
 msgctxt "160"
 msgid "Stop!"
-msgstr ""
+msgstr "Fermo!"
 
 msgctxt "172"
 msgid "Leave him alone!"
-msgstr ""
+msgstr "Lasciatemi in pace!"
 
 msgctxt "184"
 msgid "Huh?"
-msgstr ""
+msgstr "Eh?"
 
 msgctxt "196"
 msgid "I said leave him alone!"
@@ -41,7 +42,7 @@ msgstr ""
 
 msgctxt "220"
 msgid "Really?"
-msgstr ""
+msgstr "Davvero?"
 
 msgctxt "232"
 msgid "Really. You don't have to worry. Run along home now, okay?"
@@ -96,7 +97,7 @@ msgstr ""
 
 msgctxt "412"
 msgid "I'm sorry to hear that..."
-msgstr ""
+msgstr "Oh, mi dispiace sentirlo..."
 
 msgctxt "424"
 msgid ""
@@ -148,7 +149,7 @@ msgstr ""
 
 msgctxt "532"
 msgid "What...?"
-msgstr ""
+msgstr "Cosa...?"
 
 msgctxt "544"
 msgid ""
@@ -224,7 +225,7 @@ msgstr ""
 
 msgctxt "844"
 msgid "Yeah, that's me."
-msgstr ""
+msgstr "Sì, sono io."
 
 msgctxt "856"
 msgid "You have a minute?"
@@ -304,7 +305,7 @@ msgstr ""
 
 msgctxt "10516"
 msgid "Idle"
-msgstr ""
+msgstr "Inattivo"
 
 msgctxt "10520"
 msgid "Talk_Angry"

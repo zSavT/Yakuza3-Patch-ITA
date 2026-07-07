@@ -1,19 +1,20 @@
+#
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=utf-8\n"
-"Language: pt\n"
-"Language-Team: Portuguese, Brazilian\n"
-"Last-Translator: \n"
-"MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: 2026-07-07\n"
 "Project-Id-Version: yakuza-3-remastered\n"
 "Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-07-07\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgctxt "80"
 msgid "Uncle Kaz..."
-msgstr ""
+msgstr "Zio Kaz..."
 
 msgctxt "92"
 msgid "Hey, didn't I tell you not to worry? I'll make this right."
@@ -27,7 +28,7 @@ msgstr ""
 
 msgctxt "116"
 msgid "Yeah."
-msgstr ""
+msgstr "Sì."
 
 msgctxt "128"
 msgid "Same for you, Mitsuo."
@@ -35,7 +36,7 @@ msgstr ""
 
 msgctxt "140"
 msgid "I won't!"
-msgstr ""
+msgstr "Non lo farò!"
 
 msgctxt "188"
 msgid "Ryukyu Elementary, Hashimoto speaking."
@@ -79,7 +80,7 @@ msgstr ""
 
 msgctxt "296"
 msgid "Is this some kind of joke!?"
-msgstr ""
+msgstr "È una specie di scherzo?"
 
 msgctxt "308"
 msgid ""
@@ -109,7 +110,7 @@ msgstr ""
 
 msgctxt "368"
 msgid "What did you say!?"
-msgstr ""
+msgstr "Che hai detto!?"
 
 msgctxt "380"
 msgid ""
@@ -129,7 +130,7 @@ msgstr ""
 
 msgctxt "416"
 msgid "*beep* *beep* *beep*"
-msgstr ""
+msgstr "*bip* *bip* *bip*"
 
 msgctxt "464"
 msgid "What was his problem...?"
@@ -137,7 +138,7 @@ msgstr ""
 
 msgctxt "476"
 msgid "Uncle Kaz..."
-msgstr ""
+msgstr "Zio Kaz..."
 
 msgctxt "488"
 msgid ""
@@ -147,7 +148,7 @@ msgstr ""
 
 msgctxt "500"
 msgid "But..."
-msgstr ""
+msgstr "Ma..."
 
 msgctxt "512"
 msgid "It's okay. I'll get Shiro to talk."

@@ -1,15 +1,16 @@
+#
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=utf-8\n"
-"Language: pt\n"
-"Language-Team: Portuguese, Brazilian\n"
-"Last-Translator: \n"
-"MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: 2026-07-07\n"
 "Project-Id-Version: yakuza-3-remastered\n"
 "Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-07-07\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgctxt "564"
 msgid "Haruka."
@@ -17,7 +18,7 @@ msgstr ""
 
 msgctxt "576"
 msgid "What is it, Uncle Kaz?"
-msgstr ""
+msgstr "Che c'è, zio Kaz?"
 
 msgctxt "588"
 msgid "(Should I keep her with me?)"
@@ -33,11 +34,11 @@ msgstr ""
 
 msgctxt "624"
 msgid "There's something I need to do alone."
-msgstr ""
+msgstr "C'è qualcosa che devo fare da solo."
 
 msgctxt "636"
 msgid "Oh, okay. Let's spend some more time together soon, though!"
-msgstr ""
+msgstr "Oh, va bene. Però, passiamo un po' più di tempo insieme presto!"
 
 msgctxt "696"
 msgid "...Is it time, Uncle Kaz?"
@@ -51,7 +52,7 @@ msgstr ""
 
 msgctxt "720"
 msgid "Of course!"
-msgstr ""
+msgstr "Ma certo!"
 
 msgctxt "780"
 msgid "Yeah. It's time I put an end to this."
@@ -201,7 +202,7 @@ msgstr ""
 
 msgctxt "1452"
 msgid "There's something I need to do alone."
-msgstr ""
+msgstr "C'è qualcosa che devo fare da solo."
 
 msgctxt "1464"
 msgid "Stay with Haruka"
@@ -217,7 +218,7 @@ msgstr ""
 
 msgctxt "1500"
 msgid "There's something I need to do alone."
-msgstr ""
+msgstr "C'è qualcosa che devo fare da solo."
 
 msgctxt "1512"
 msgid "The sky."
@@ -273,7 +274,7 @@ msgstr ""
 
 msgctxt "9968"
 msgid "dummy"
-msgstr ""
+msgstr "dummy"
 
 msgctxt "9972"
 msgid "0"

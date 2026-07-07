@@ -1,15 +1,16 @@
+#
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=utf-8\n"
-"Language: pt\n"
-"Language-Team: Portuguese, Brazilian\n"
-"Last-Translator: \n"
-"MIME-Version: 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: 2026-07-07\n"
 "Project-Id-Version: yakuza-3-remastered\n"
 "Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-07-07\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgctxt "64"
 msgid "I'll say this once: stay away from Miyu Shiraboshi."
@@ -33,7 +34,7 @@ msgstr ""
 
 msgctxt "208"
 msgid "Yeah..."
-msgstr ""
+msgstr "Già..."
 
 msgctxt "220"
 msgid ""
@@ -67,7 +68,7 @@ msgstr ""
 
 msgctxt "364"
 msgid "I'm sure..."
-msgstr ""
+msgstr "Sono sicuro."
 
 msgctxt "376"
 msgid ""
@@ -77,7 +78,7 @@ msgstr ""
 
 msgctxt "388"
 msgid "Don't mention it."
-msgstr ""
+msgstr "Non c'è di che."
 
 msgctxt "400"
 msgid "......"
@@ -91,7 +92,7 @@ msgstr ""
 
 msgctxt "424"
 msgid "What?"
-msgstr ""
+msgstr "Cosa?"
 
 msgctxt "436"
 msgid "He proposed to me after I got divorced..."
@@ -121,7 +122,7 @@ msgstr ""
 
 msgctxt "496"
 msgid "Yeah..."
-msgstr ""
+msgstr "Già..."
 
 msgctxt "508"
 msgid "You don't have to worry anymore."
@@ -137,7 +138,7 @@ msgstr ""
 
 msgctxt "544"
 msgid "Yeah..."
-msgstr ""
+msgstr "Già..."
 
 msgctxt "556"
 msgid ""
@@ -165,7 +166,7 @@ msgstr ""
 
 msgctxt "616"
 msgid "Heh... I'm glad."
-msgstr ""
+msgstr "Eh. Sono contento."
 
 msgctxt "628"
 msgid "Before we say goodbye... I'd like to make one last memory..."
@@ -173,7 +174,7 @@ msgstr ""
 
 msgctxt "640"
 msgid "Huh?"
-msgstr ""
+msgstr "Eh?"
 
 msgctxt "652"
 msgid ""
@@ -199,7 +200,7 @@ msgstr ""
 
 msgctxt "6616"
 msgid "Suspicious Man"
-msgstr ""
+msgstr "Uomo sospetto"
 
 msgctxt "6620"
 msgid "Talk_No"
