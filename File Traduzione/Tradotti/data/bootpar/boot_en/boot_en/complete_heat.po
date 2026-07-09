@@ -1,4 +1,4 @@
-#
+﻿#
 msgid ""
 msgstr ""
 "Project-Id-Version: yakuza-3-remastered\n"
@@ -282,19 +282,19 @@ msgstr "Estrazione della spada Komaki"
 
 msgctxt "1690\tNAME"
 msgid "Komaki Fist Reversal (Tortoise)"
-msgstr "Komaki Fist Reversal (tartaruga)"
+msgstr "Rovesciamento di Komaki (tartaruga)"
 
 msgctxt "1722\tNAME"
 msgid "Komaki Fist Reversal (Phoenix)"
-msgstr "Komaki Fist Reversal (fenice)"
+msgstr "Rovesciamento di Komaki (fenice)"
 
 msgctxt "1753\tNAME"
 msgid "Komaki Fist Reversal (Dragon)"
-msgstr "Komaki Fist Reversal (drago)"
+msgstr "Rovesciamento di Komaki (drago)"
 
 msgctxt "1783\tNAME"
 msgid "Komaki Fist Reversal (Tiger)"
-msgstr "Komaki Fist Reversal (tigre)"
+msgstr "Rovesciamento di Komaki (tigre)"
 
 msgctxt "1812\tNAME"
 msgid "Komaki Firearm Flip (Handgun)"

@@ -1,4 +1,4 @@
-#
+﻿#
 msgid ""
 msgstr ""
 "Project-Id-Version: yakuza-3-remastered\n"
@@ -2400,7 +2400,7 @@ msgstr ""
 
 msgctxt "44124"
 msgid "Heat Action list complete"
-msgstr "Lista azioni Heat completata"
+msgstr "Lista azioni Furore completata"
 
 msgctxt "44150"
 msgid ""

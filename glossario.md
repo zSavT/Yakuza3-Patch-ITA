@@ -97,10 +97,21 @@ I nomi delle vie mantengono la versione ufficiale inglese, ma i **segni cardinal
 
 | Originale | Italiano | Note |
 |---|---|---|
-| Heat Action / Heat gauge | Azione Heat / Indicatore Heat | Mantenere "Heat" invariato |
+| Heat Action / Heat gauge | Azione Furore / Indicatore Furore |  |
 | Essence of X | Essenza di X / Essenza dell'X | |
 | Soul / Tech / Body Abilities | Abilità anima / tecnica / corpo | |
 | Komaki Techniques | Tecniche Komaki | |
+| Tiger Drop / Komaki Tiger Drop | Caduta della Tigre / Caduta della Tigre di Komaki | |
+| Komaki Parry | Parata di Komaki | |
+| Komaki Knock Back | Respinta di Komaki | |
+| Komaki Dodge Shot | Colpo in schivata di Komaki | |
+| Komaki Cat-Like Reflexes | Riflessi felini di Komaki | |
+| Komaki Evade and Strike | Schivata e colpo di Komaki | |
+| Komaki Fist Reversal | Rovesciamento di Komaki | |
+| Komaki Dharma Tumbler | Capriola di Komaki | |
+| Double Finishing Blow | Doppio colpo di grazia | |
+| Rush Combo | Combo rapida | |
+| Quickstep | Passo rapido | |
 | Revelations | Rivelazioni | |
 | Substory | Missione secondaria | |
 | Coliseum / Ultimate Match | Colosseo / Battaglie supreme | |

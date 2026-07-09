@@ -1,4 +1,4 @@
-#
+﻿#
 msgid ""
 msgstr ""
 "Project-Id-Version: yakuza-3-remastered\n"
@@ -30,7 +30,7 @@ msgstr ""
 
 msgctxt "184"
 msgid "Now use a <Color:7>Komaki Tiger Drop<Color:Default>!"
-msgstr "Ora usa un <Color:7>Tiger Drop Komaki<Color:Default>!"
+msgstr "Ora usa un <Color:7>Caduta della Tigre di Komaki<Color:Default>!"
 
 msgctxt "196"
 msgid ""
@@ -98,11 +98,11 @@ msgstr ""
 
 msgctxt "304"
 msgid "<Color:7>Komaki Cat-Like Reflexes<Color:Default>!"
-msgstr "Fammi vedere i <Color:7>Komaki Cat-Like Reflexes<Color:Default>!"
+msgstr "Fammi vedere i <Color:7>Riflessi felini di Komaki<Color:Default>!"
 
 msgctxt "316"
 msgid "<Color:7>Komaki Cat-Like Reflexes<Color:Default>!"
-msgstr "Fammi vedere i <Color:7>Komaki Cat-Like Reflexes<Color:Default>!"
+msgstr "Fammi vedere i <Color:7>Riflessi felini di Komaki<Color:Default>!"
 
 msgctxt "328"
 msgid ""

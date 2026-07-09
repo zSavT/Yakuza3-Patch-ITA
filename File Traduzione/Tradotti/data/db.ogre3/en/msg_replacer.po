@@ -1,4 +1,4 @@
-#
+﻿#
 msgid ""
 msgstr ""
 "Project-Id-Version: yakuza-3-remastered\n"
@@ -6866,7 +6866,7 @@ msgstr ""
 
 msgctxt "20\t98561\t73\tCHK"
 msgid "Defeat all enemies without running out of Heat!"
-msgstr "Sconfiggi tutti i nemici senza rimanere senza Heat!"
+msgstr "Sconfiggi tutti i nemici senza rimanere senza Furore!"
 
 msgctxt "20\t98609\t74\tCHK"
 msgid ""
@@ -7676,7 +7676,7 @@ msgstr "Throwing Objects"
 
 msgctxt "22\t133820\t6\tCHK"
 msgid "Heat Gauge"
-msgstr "Heat Gauge"
+msgstr "Indicatore Furore"
 
 msgctxt "22\t133831\t7\tCHK"
 msgid "Heat Actions"
@@ -7830,7 +7830,7 @@ msgstr ""
 
 msgctxt "22\t135219\t37\tCHK"
 msgid "<Action:Battle_Dodge@Combat> to Quickstep and evade"
-msgstr "<Azione:Battle_Dodge@Combat> per fare Quickstep ed evadere"
+msgstr "<Azione:Battle_Dodge@Combat> per fare Passo rapido ed evadere"
 
 msgctxt "22\t135271\t38\tCHK"
 msgid "Use <Action:Battle_Drop_Weapon@Combat> to grab and throw him!"

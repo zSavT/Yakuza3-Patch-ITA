@@ -1,4 +1,4 @@
-#
+﻿#
 msgid ""
 msgstr ""
 "Project-Id-Version: yakuza-3-remastered\n"
@@ -62,7 +62,7 @@ msgstr "Tecniche antiche"
 
 msgctxt "805\tCATEGORY"
 msgid "All Heat Actions"
-msgstr "Tutte le Azioni Heat"
+msgstr "Tutte le Azioni Furore"
 
 msgctxt "822\tSKILL"
 msgid "Walk/Run"
@@ -218,7 +218,7 @@ msgstr "Pistole"
 
 msgctxt "1357\tSKILL"
 msgid "Increase Max Heat Gauge"
-msgstr "Aumenta indicatore Heat max"
+msgstr "Aumenta indicatore Furore max"
 
 msgctxt "1381\tSKILL"
 msgid "Phoenix Spirit"
@@ -338,15 +338,15 @@ msgstr "Danno collaterale"
 
 msgctxt "1858\tSKILL"
 msgid "Red Heat Gauge 1"
-msgstr "Indicatore Heat rosso 1"
+msgstr "Indicatore Furore rosso 1"
 
 msgctxt "1875\tSKILL"
 msgid "Red Heat Gauge 2"
-msgstr "Indicatore Heat rosso 2"
+msgstr "Indicatore Furore rosso 2"
 
 msgctxt "1892\tSKILL"
 msgid "Red Heat Gauge 3"
-msgstr "Indicatore Heat rosso 3"
+msgstr "Indicatore Furore rosso 3"
 
 msgctxt "1909\tSKILL"
 msgid "Essence of Finishing"
@@ -370,7 +370,7 @@ msgstr "Essenza della testata"
 
 msgctxt "2010\tSKILL"
 msgid "Extra Heat Attack 1"
-msgstr "Attacco Heat extra 1"
+msgstr "Attacco Furore extra 1"
 
 msgctxt "2030\tSKILL"
 msgid "Komaki Fist Reversal"
@@ -386,7 +386,7 @@ msgstr "Essenza della distruzione"
 
 msgctxt "2091\tSKILL"
 msgid "Extra Heat Attack 2"
-msgstr "Attacco Heat extra 2"
+msgstr "Attacco Furore extra 2"
 
 msgctxt "2111\tSKILL"
 msgid "Ultimate Essence"
@@ -406,7 +406,7 @@ msgstr "Respinta Komaki"
 
 msgctxt "2189\tSKILL"
 msgid "Komaki Tiger Drop"
-msgstr "Tiger Drop Komaki"
+msgstr "Caduta della Tigre di Komaki"
 
 msgctxt "2207\tSKILL"
 msgid "Komaki Parry"
@@ -870,11 +870,11 @@ msgstr "Da Komaki"
 
 msgctxt "4078\tTIMING"
 msgid "Heat Lv. 7"
-msgstr "Livello Heat 7"
+msgstr "Livello Furore 7"
 
 msgctxt "4089\tTIMING"
 msgid "Heat Lv. 8"
-msgstr "Livello Heat 8"
+msgstr "Livello Furore 8"
 
 msgctxt "4100\tTIMING"
 msgid "From Komaki"
@@ -990,39 +990,39 @@ msgstr "Dai Testi"
 
 msgctxt "4413\tTIMING"
 msgid "Heat Lv. 2"
-msgstr "Livello Heat 2"
+msgstr "Livello Furore 2"
 
 msgctxt "4424\tTIMING"
 msgid "Heat Lv. 3"
-msgstr "Livello Heat 3"
+msgstr "Livello Furore 3"
 
 msgctxt "4435\tTIMING"
 msgid "Heat Lv. 4"
-msgstr "Livello Heat 4"
+msgstr "Livello Furore 4"
 
 msgctxt "4446\tTIMING"
 msgid "Heat Lv. 5"
-msgstr "Livello Heat 5"
+msgstr "Livello Furore 5"
 
 msgctxt "4457\tTIMING"
 msgid "Heat Lv. 6"
-msgstr "Livello Heat 6"
+msgstr "Livello Furore 6"
 
 msgctxt "4468\tTIMING"
 msgid "Heat Lv. 7"
-msgstr "Livello Heat 7"
+msgstr "Livello Furore 7"
 
 msgctxt "4479\tTIMING"
 msgid "Heat Lv. 8"
-msgstr "Livello Heat 8"
+msgstr "Livello Furore 8"
 
 msgctxt "4490\tTIMING"
 msgid "Heat Lv. 9"
-msgstr "Livello Heat 9"
+msgstr "Livello Furore 9"
 
 msgctxt "4501\tTIMING"
 msgid "Heat Lv. 10"
-msgstr "Livello Heat 10"
+msgstr "Livello Furore 10"
 
 msgctxt "4513\tTIMING"
 msgid "From IF7"
@@ -1404,7 +1404,7 @@ msgstr ""
 
 msgctxt "9447\tEXPLANATION"
 msgid "Increases the maximum limit of your Heat Gauge."
-msgstr "Aumenta il limite massimo del tuo indicatore Heat."
+msgstr "Aumenta il limite massimo del tuo indicatore Furore."
 
 msgctxt "9495\tEXPLANATION"
 msgid ""
@@ -2387,7 +2387,7 @@ msgstr "Spara usando <Action:Battle_Heavy_Attack@Combat>"
 
 msgctxt "22462\tCONTROL_EXPLANATION"
 msgid "Enhances Heat Gauge"
-msgstr "Migliora l'indicatore Heat"
+msgstr "Migliora l'indicatore Furore"
 
 msgctxt "22482\tCONTROL_EXPLANATION"
 msgid ""
@@ -2427,7 +2427,7 @@ msgstr ""
 
 msgctxt "22862\tCONTROL_EXPLANATION"
 msgid "<Action:Battle_Dodge@Combat> to Quickstep when not in Heat mode"
-msgstr "<Action:Battle_Dodge@Combat> per il Passo rapido non in modalità Heat"
+msgstr "<Action:Battle_Dodge@Combat> per il Passo rapido non in modalità Furore"
 "<Action:Battle_Dodge@Combat> per fare il Passo Rapido quando non sei in "
 "Modalità Furore"
 
@@ -2475,7 +2475,7 @@ msgstr ""
 
 msgctxt "23416\tCONTROL_EXPLANATION"
 msgid "<Action:Battle_Drop_Weapon@Combat> after a Finishing Blow in Heat mode"
-msgstr "<Action:Battle_Drop_Weapon@Combat> dopo un Colpo finale in mod. Heat"
+msgstr "<Action:Battle_Drop_Weapon@Combat> dopo un Colpo finale in mod. Furore"
 
 msgctxt "23487\tCONTROL_EXPLANATION"
 msgid "Repeatedly tap <Action:Battle_Drop_Weapon@Combat> when surrounded"
@@ -2488,7 +2488,7 @@ msgstr "Accelera principalmente gli attacchi a mani nude"
 
 msgctxt "23588\tCONTROL_EXPLANATION"
 msgid "<Action:Battle_Dodge@Combat> during Rush Combo when not in Heat mode"
-msgstr "<Action:Battle_Dodge@Combat> durante Combo rapida non in mod. Heat"
+msgstr "<Action:Battle_Dodge@Combat> durante Combo rapida non in mod. Furore"
 
 msgctxt "23657\tCONTROL_EXPLANATION"
 msgid "Enhances health gauge"
@@ -2524,15 +2524,15 @@ msgstr "Afferra il nemico e premi <Action:Battle_Drop_Weapon@Combat>"
 
 msgctxt "24066\tCONTROL_EXPLANATION"
 msgid "Adds red section to Heat Gauge"
-msgstr "Aggiunge la sezione rossa all'indicatore Heat"
+msgstr "Aggiunge la sezione rossa all'indicatore Furore"
 
 msgctxt "24097\tCONTROL_EXPLANATION"
 msgid "Adds second red section to Heat Gauge"
-msgstr "Aggiunge una seconda sezione rossa all'indicatore Heat"
+msgstr "Aggiunge una seconda sezione rossa all'indicatore Furore"
 
 msgctxt "24135\tCONTROL_EXPLANATION"
 msgid "Adds a third red section to Heat Gauge"
-msgstr "Aggiunge una terza sezione rossa all'indicatore Heat"
+msgstr "Aggiunge una terza sezione rossa all'indicatore Furore"
 
 msgctxt "24174\tCONTROL_EXPLANATION"
 msgid ""
