@@ -10,11 +10,11 @@
 [![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/paypalme/verio12)
 
 
-### Un progetto per la community
+### Un progetto collaborativo
 
-Ho dato il via a questo progetto con un'idea chiara: renderlo un lavoro **fatto dalla community, per la community**. Ho messo insieme le basi, riadattando molto del lavoro già fatto per la patch di **Yakuza 4** per dare a tutti un buon punto di partenza. Ora, però, la palla passa a voi.
+Questo progetto nasce come un'iniziativa open source, pensata per essere sviluppata e migliorata con il contributo della community. Le fondamenta sono state gettate adattando parte del lavoro svolto per la patch di **Yakuza 4**, creando una solida base di partenza.
 
-Il mio ruolo sarà quello di coordinare e fare da punto di riferimento, ma il vero motore di questa patch sarete voi. Ogni aiuto è fondamentale: che si tratti di correggere un refuso, migliorare una frase o tradurre intere sezioni, il vostro contributo farà la differenza. L'obiettivo è che questo progetto diventi di tutti.
+L'obiettivo è creare una traduzione di alta qualità grazie a uno sforzo collettivo. Chiunque può partecipare: dalla correzione di un semplice refuso al miglioramento di intere sezioni di dialogo. Ogni contributo, piccolo o grande, è essenziale per il successo del progetto. Il mio ruolo sarà quello di coordinare i lavori e revisionare le modifiche proposte.
 
 ### Ringraziamenti e risorse utili
 
@@ -23,20 +23,100 @@ Un ringraziamento speciale a **[Lowrentio](https://steamcommunity.com/id/Lowrent
 
 ### Come contribuire
 
-Il tuo aiuto è fondamentale! Questo progetto è pensato per crescere grazie al supporto attivo della community. Se hai notato un errore di battitura, una traduzione che suona innaturale, oppure vuoi cimentarti nella traduzione di file non ancora completati, sei il benvenuto!
+Il tuo aiuto è fondamentale per migliorare la qualità di questa traduzione. Puoi partecipare in diversi modi, a seconda della tua familiarità con GitHub.
 
-Per contribuire, segui questi semplici passaggi:
+#### Metodo 1: Per utenti con un account GitHub (Consigliato)
 
-1. **Fai un fork** di questo repository sul tuo account GitHub.
-2. Crea un **nuovo branch** per le tue modifiche (es. `git checkout -b fix-traduzione-menu`).
-3. Applica le tue correzioni o traduzioni lavorando direttamente sui file `.po`. **È obbligatorio consultare e seguire il file [glossario.md](glossario.md)** per garantire coerenza nei toponimi, nei nomi dei personaggi e nello stile generale. Ricorda di non alterare le variabili di sistema (`%s`, `%d`, ecc.).
-4. Esegui il commit e il push delle tue modifiche sul tuo fork.
-5. Apri una **Pull Request (PR)** verso il repository principale per integrare il tuo lavoro.
+Se vuoi contribuire direttamente al codice, il metodo migliore è tramite una **Pull Request**. Puoi usare un client grafico come VS Code o la riga di comando.
 
-> **Controlli di qualità automatici:**
-> Per garantire la massima stabilità della patch, ogni volta che effettui un push o apri una Pull Request, GitHub eseguirà dei controlli automatici (tramite GitHub Actions) per validare la struttura e la sintassi dei file `.po`. Questo assicura che il formato rimanga intatto e che non vi siano problemi tecnici prima dell'unione della tua traduzione.
+##### Flusso di lavoro con Visual Studio Code
 
-Puoi contribuire anche semplicemente segnalando bug, imprecisioni o offrendo suggerimenti tramite la sezione **Issue** di GitHub. Ogni singolo contributo, grande o piccolo, è prezioso per portare a termine questo progetto!
+1.  **Fork del Repository**:
+    - Vai sulla pagina GitHub di questo repository e clicca sul pulsante **"Fork"** in alto a destra. Questo creerà una copia del progetto sul tuo account personale.
+
+2.  **Clonare il Fork sul tuo PC**:
+    - Apri Visual Studio Code.
+    - Vai alla vista "Controllo del codice sorgente" (l'icona con tre pallini collegati sulla sinistra) e clicca su **"Clona repository"**.
+    - Incolla l'URL del **tuo fork** (che trovi sulla pagina del tuo fork su GitHub, sotto il pulsante verde "Code").
+    - Scegli una cartella sul tuo computer dove salvare il progetto.
+
+3.  **Creare un Nuovo Branch**:
+    - Una volta aperto il progetto in VS Code, clicca sul nome del branch attuale in basso a sinistra (probabilmente `main`).
+    - Dal menu che appare in alto, seleziona **"Crea nuovo ramo da..."**.
+    - Dai un nome descrittivo al tuo branch (es. `fix/correzione-dialogo-cap5`) e premi Invio. In questo modo, le tue modifiche saranno isolate e facili da gestire.
+
+4.  **Applicare le Modifiche**:
+    - Naviga nella cartella `File Estratti Tradotti` e apri i file `.po` che vuoi modificare.
+    - Applica le tue correzioni o traduzioni.
+    - **Obbligatorio:** Consulta e segui le linee guida del file **glossario.md** per mantenere la coerenza.
+    - **Attenzione:** Non alterare tag e variabili come `<Color:1>`, `%s`, `%d`, `\n`, ecc.
+
+5.  **Fare Commit e Push delle Modifiche**:
+    - Torna alla vista "Controllo del codice sorgente". I file modificati appariranno nella lista.
+    - Scrivi un messaggio di commit che descriva le tue modifiche (es. "Corretti refusi capitolo 5").
+    - Clicca sul pulsante **"Esegui commit"**.
+    - Infine, clicca su **"Sincronizza modifiche"** per caricare le modifiche sul tuo fork su GitHub.
+
+6.  **Aprire una Pull Request (PR)**:
+    - Vai sulla pagina del tuo fork su GitHub.
+    - Vedrai un messaggio che ti invita a creare una **Pull Request**. Cliccaci sopra.
+    - Assicurati che il branch di base sia `main` del repository originale e il branch di confronto sia quello che hai appena creato.
+    - Aggiungi un titolo e una descrizione alla tua PR e clicca su **"Create pull request"**.
+
+##### Flusso di lavoro con Git da riga di comando
+
+1.  **Fork e Clone**: Esegui il fork del repository su GitHub, poi clonalo in locale:
+    ```bash
+    git clone https://github.com/TUO_USERNAME/Yakuza3-Patch-ITA.git
+    cd Yakuza3-Patch-ITA
+    ```
+
+2.  **Crea un Branch**: Crea un nuovo branch per le tue modifiche:
+    ```bash
+    git checkout -b fix/correzione-dialogo-cap5
+    ```
+
+3.  **Modifica i File**: Applica le tue correzioni ai file `.po` nella cartella `File Estratti Tradotti`, rispettando sempre il **glossario.md**.
+
+4.  **Aggiungi e Fai Commit**: Suddividi il lavoro in piccoli commit. Per ogni modifica logica:
+    ```bash
+    git add "percorso/del/file_modificato.po"
+    git commit -m "Fix: Corretto refuso nel dialogo di Rikiya"
+    ```
+
+5.  **Fai Push**: Carica il tuo branch sul tuo fork:
+    ```bash
+    git push origin fix/correzione-dialogo-cap5
+    ```
+
+6.  **Apri una Pull Request**: Vai sulla pagina del tuo fork su GitHub e apri una Pull Request dal tuo nuovo branch verso il branch `main` del repository originale.
+
+> **Controllo Qualità Automatico**
+> Ogni Pull Request avvia un controllo automatico (GitHub Actions) che verifica la coerenza dei file `.po`. Assicurati che i controlli abbiano successo prima di richiedere una revisione.
+
+#### Metodo 2: Invio tramite Email (per modifiche dirette)
+
+Se non hai un account GitHub ma vuoi comunque modificare direttamente i file di traduzione, puoi seguire questa procedura:
+
+1.  Scarica i file `.po` che desideri modificare dalla cartella `File Estratti Tradotti` di questo repository.
+2.  Aprili con un editor di testo o un programma specifico come Poedit.
+3.  Applica le tue correzioni, seguendo sempre le regole del **[glossario.md](glossario.md)**.
+4.  Invia i file `.po` modificati all'indirizzo email: [Contatti](https://savtchannel.altervista.org/contatti-social/).
+
+Mi occuperò io di integrare le tue modifiche nel progetto.
+
+#### Metodo 3: Per segnalazioni rapide (tramite Issues)
+
+Se hai notato un errore ma non vuoi modificare i file, puoi contribuire aprendo una **"Issue"**. È un modo semplice ed efficace per segnalare problemi.
+
+1.  Vai alla sezione **Issues** del repository.
+2.  Clicca su `New issue` e scegli il template **"Segnalazione Errore di Traduzione"**.
+3.  Compila il modulo nel modo più dettagliato possibile, includendo:
+    - **Testo errato** e la tua **proposta di correzione**.
+    - **Contesto** (personaggio, capitolo, luogo).
+    - Uno **screenshot** del dialogo o del menu, che è fondamentale per verificare lo spazio disponibile e il contesto.
+
+Ogni contributo, dalla correzione di un refuso alla traduzione di intere sezioni, è prezioso per il progetto. Grazie per il tuo supporto!
 
 # Immagini Patch
 

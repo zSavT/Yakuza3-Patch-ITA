@@ -8,9 +8,7 @@ Questo documento contiene le regole di stile, l'adattamento dei toponimi e le co
 
 I nomi delle aree principali devono essere mantenuti nella loro localizzazione ufficiale in inglese per coerenza con l'interfaccia e la toponomastica del franchise:
 
-*   **Kamurocho**: Rimane invariato.
 *   **Downtown Ryukyu**: Rimane invariato (in alcune circostanze specifiche può essere localizzato come *Centro di Ryukyu*, ma per l'UI mantenere Downtown Ryukyu).
-*   **Little Asia**: Rimane **invariato** in inglese. Non tradurre in *Piccola Asia*.
 *   **Champion District**: Rimane **invariato** in inglese. Non tradurre in *Quartiere Champion* o *Distretto Champion*.
 *   **Children's Park**: Rimane **invariato** in inglese. Non tradurre in *Parco dei Bambini*.
 *   **West Park**: Rimane **invariato** in inglese.
@@ -73,7 +71,6 @@ I nomi delle vie mantengono la versione ufficiale inglese, ma i **segni cardinal
     *   *No*: la Tojo, la Tojo-kai. Non usare l'ordine inglese *Tojo Clan*.
 *   **Famiglia Ryudo**: Trattata come **femminile** (*la Famiglia Ryudo* / *la Ryudo*).
 *   **Famiglia Nishikiyama**: Trattata come **femminile** (*la Famiglia Nishikiyama*).
-*   **Snake Flower** / **Snake Flower Triad**: *La Snake Flower* o *Triade Snake Flower*.
 *   **Hakuho Clan**: **Clan Hakuho**.
 *   **Omi Alliance**: Tradotto sempre come **Alleanza Omi** (non utilizzare *Omi Alliance*).
 
